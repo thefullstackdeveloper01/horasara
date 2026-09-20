@@ -1,0 +1,72 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v8/capability-registry.json
+Dataset number: 422 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 837 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 8.0.0
+• policy:
+  • implementedIsNotVerified: Yes
+  • jsonIsSourceOfTruth: Yes
+  • noFabricatedEvidence: Yes
+  • empiricalAccuracyRequiresVerifiedOutcomes: Yes
+• areas:
+  1.
+    astronomical precision
+  2.
+    rashi/bhava
+  3.
+    vargas
+  4.
+    strength
+  5.
+    ashtakavarga
+  6.
+    dashas
+  7.
+    yoga/dosha
+  8.
+    KP
+  9.
+    Jaimini
+  10.
+    Lal Kitab
+  11.
+    Tajik/Varshaphal
+  12.
+    panchanga
+  13.
+    transits
+  14.
+    muhurta
+  15.
+    prediction engine
+  16.
+    prediction validation
+  17.
+    historical corpus
+  18.
+    cross-system reconciliation
+  19.
+    rule coverage
+  20.
+    prediction UX/evidence
+  21.
+    historical event research
+  22.
+    scale/performance
+  23.
+    observability
+  24.
+    enterprise administration
+  25.
+    messaging/reporting
+• verification:
+  • referenceBenchmark: dataset/validation/v8/reference-benchmark.json
+  • historicalCorpus: dataset/validation/v8/corpus-manifest.json
+  • predictionCorpus: dataset/validation/v8/corpus-manifest.json

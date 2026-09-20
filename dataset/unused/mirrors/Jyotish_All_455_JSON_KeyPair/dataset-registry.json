@@ -1,0 +1,3646 @@
+{
+  "schema_version": "1.0.0",
+  "total_datasets": 455,
+  "datasets": [
+    {
+      "id": "001__03_mar_1996_json",
+      "name": "03. Mar 1996",
+      "original_file": "03_mar_1996.json",
+      "json_file": "001__03_mar_1996_json.json",
+      "content_type": "text",
+      "dataset_number": "1 of 455"
+    },
+    {
+      "id": "002__100_nadi_sutras_json",
+      "name": "100 Nadi Sutras",
+      "original_file": "100_nadi_sutras.json",
+      "json_file": "002__100_nadi_sutras_json.json",
+      "content_type": "text",
+      "dataset_number": "2 of 455"
+    },
+    {
+      "id": "003__71_tantra_sharada_tilaka_tantram_i_sudhakar_malaviya_json",
+      "name": "71. Tantra Sharada Tilaka Tantram I Sudhakar Malaviya",
+      "original_file": "71_tantra_sharada_tilaka_tantram_i_sudhakar_malaviya.json",
+      "json_file": "003__71_tantra_sharada_tilaka_tantram_i_sudhakar_malaviya_json.json",
+      "content_type": "text",
+      "dataset_number": "3 of 455"
+    },
+    {
+      "id": "004__72_tantra_sharada_tilaka_tantram_ii_sudhakar_malaviya_json",
+      "name": "72. Tantra Sharada Tilaka Tantram II Sudhakar Malaviya",
+      "original_file": "72_tantra_sharada_tilaka_tantram_ii_sudhakar_malaviya.json",
+      "json_file": "004__72_tantra_sharada_tilaka_tantram_ii_sudhakar_malaviya_json.json",
+      "content_type": "text",
+      "dataset_number": "4 of 455"
+    },
+    {
+      "id": "005__json_files_100_nadi_sutras_json",
+      "name": "JSON_Files_100_Nadi_Sutras",
+      "original_file": "JSON_Files/100_Nadi_Sutras.json",
+      "json_file": "005__json_files_100_nadi_sutras_json.json",
+      "content_type": "array",
+      "dataset_number": "153 of 455"
+    },
+    {
+      "id": "006__json_files_aarti_list_json",
+      "name": "JSON_Files_Aarti-List",
+      "original_file": "JSON_Files/Aarti-List.json",
+      "json_file": "006__json_files_aarti_list_json.json",
+      "content_type": "object",
+      "dataset_number": "154 of 455"
+    },
+    {
+      "id": "007__json_files_animal_bird_list_json",
+      "name": "JSON_Files_Animal-Bird-List",
+      "original_file": "JSON_Files/Animal-Bird-List.json",
+      "json_file": "007__json_files_animal_bird_list_json.json",
+      "content_type": "array",
+      "dataset_number": "155 of 455"
+    },
+    {
+      "id": "008__json_files_ashtakavarga_list_json",
+      "name": "JSON_Files_Ashtakavarga-List",
+      "original_file": "JSON_Files/Ashtakavarga-List.json",
+      "json_file": "008__json_files_ashtakavarga_list_json.json",
+      "content_type": "array",
+      "dataset_number": "156 of 455"
+    },
+    {
+      "id": "009__json_files_ashtakoot_rules_json",
+      "name": "JSON_Files_Ashtakoot-Rules",
+      "original_file": "JSON_Files/Ashtakoot-Rules.json",
+      "json_file": "009__json_files_ashtakoot_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "157 of 455"
+    },
+    {
+      "id": "010__json_files_avastha_list_json",
+      "name": "JSON_Files_Avastha-List",
+      "original_file": "JSON_Files/Avastha-List.json",
+      "json_file": "010__json_files_avastha_list_json.json",
+      "content_type": "object",
+      "dataset_number": "158 of 455"
+    },
+    {
+      "id": "011__json_files_ayanamsa_list_json",
+      "name": "JSON_Files_Ayanamsa-List",
+      "original_file": "JSON_Files/Ayanamsa-List.json",
+      "json_file": "011__json_files_ayanamsa_list_json.json",
+      "content_type": "array",
+      "dataset_number": "159 of 455"
+    },
+    {
+      "id": "012__json_files_ayurveda_body_type_list_json",
+      "name": "JSON_Files_Ayurveda-Body-Type-List",
+      "original_file": "JSON_Files/Ayurveda-Body-Type-List.json",
+      "json_file": "012__json_files_ayurveda_body_type_list_json.json",
+      "content_type": "object",
+      "dataset_number": "160 of 455"
+    },
+    {
+      "id": "013__json_files_brihat_samhita_of_varaha_mihir_json",
+      "name": "JSON_Files_Brihat_Samhita_of_Varaha_Mihir",
+      "original_file": "JSON_Files/Brihat_Samhita_of_Varaha_Mihir.json",
+      "json_file": "013__json_files_brihat_samhita_of_varaha_mihir_json.json",
+      "content_type": "array",
+      "dataset_number": "161 of 455"
+    },
+    {
+      "id": "014__json_files_chalisa_list_json",
+      "name": "JSON_Files_Chalisa-List",
+      "original_file": "JSON_Files/Chalisa-List.json",
+      "json_file": "014__json_files_chalisa_list_json.json",
+      "content_type": "array",
+      "dataset_number": "162 of 455"
+    },
+    {
+      "id": "015__json_files_chara_dasha_list_json",
+      "name": "JSON_Files_Chara-Dasha-List",
+      "original_file": "JSON_Files/Chara-Dasha-List.json",
+      "json_file": "015__json_files_chara_dasha_list_json.json",
+      "content_type": "array",
+      "dataset_number": "163 of 455"
+    },
+    {
+      "id": "016__json_files_colors_list_json",
+      "name": "JSON_Files_Colors-List",
+      "original_file": "JSON_Files/Colors-List.json",
+      "json_file": "016__json_files_colors_list_json.json",
+      "content_type": "array",
+      "dataset_number": "164 of 455"
+    },
+    {
+      "id": "017__json_files_dhana_yoga_list_json",
+      "name": "JSON_Files_Dhana-Yoga-List",
+      "original_file": "JSON_Files/Dhana-Yoga-List.json",
+      "json_file": "017__json_files_dhana_yoga_list_json.json",
+      "content_type": "array",
+      "dataset_number": "165 of 455"
+    },
+    {
+      "id": "018__json_files_disease_list_json",
+      "name": "JSON_Files_Disease-List",
+      "original_file": "JSON_Files/Disease-List.json",
+      "json_file": "018__json_files_disease_list_json.json",
+      "content_type": "object",
+      "dataset_number": "166 of 455"
+    },
+    {
+      "id": "019__json_files_divisional_chart_list_json",
+      "name": "JSON_Files_Divisional-Chart-List",
+      "original_file": "JSON_Files/Divisional-Chart-List.json",
+      "json_file": "019__json_files_divisional_chart_list_json.json",
+      "content_type": "array",
+      "dataset_number": "167 of 455"
+    },
+    {
+      "id": "020__json_files_donation_list_json",
+      "name": "JSON_Files_Donation-List",
+      "original_file": "JSON_Files/Donation-List.json",
+      "json_file": "020__json_files_donation_list_json.json",
+      "content_type": "object",
+      "dataset_number": "168 of 455"
+    },
+    {
+      "id": "021__json_files_dosha_list_json",
+      "name": "JSON_Files_Dosha-List",
+      "original_file": "JSON_Files/Dosha-List.json",
+      "json_file": "021__json_files_dosha_list_json.json",
+      "content_type": "object",
+      "dataset_number": "169 of 455"
+    },
+    {
+      "id": "022__json_files_ephemeris_config_json",
+      "name": "JSON_Files_Ephemeris-Config",
+      "original_file": "JSON_Files/Ephemeris-Config.json",
+      "json_file": "022__json_files_ephemeris_config_json.json",
+      "content_type": "object",
+      "dataset_number": "170 of 455"
+    },
+    {
+      "id": "023__json_files_fasting_rules_json",
+      "name": "JSON_Files_Fasting-Rules",
+      "original_file": "JSON_Files/Fasting-Rules.json",
+      "json_file": "023__json_files_fasting_rules_json.json",
+      "content_type": "array",
+      "dataset_number": "171 of 455"
+    },
+    {
+      "id": "024__json_files_festival_list_json",
+      "name": "JSON_Files_Festival-List",
+      "original_file": "JSON_Files/Festival-List.json",
+      "json_file": "024__json_files_festival_list_json.json",
+      "content_type": "object",
+      "dataset_number": "172 of 455"
+    },
+    {
+      "id": "025__json_files_gandanta_list_json",
+      "name": "JSON_Files_Gandanta-List",
+      "original_file": "JSON_Files/Gandanta-List.json",
+      "json_file": "025__json_files_gandanta_list_json.json",
+      "content_type": "object",
+      "dataset_number": "173 of 455"
+    },
+    {
+      "id": "026__json_files_gemston_list_json",
+      "name": "JSON_Files_Gemston-List",
+      "original_file": "JSON_Files/Gemston-List.json",
+      "json_file": "026__json_files_gemston_list_json.json",
+      "content_type": "array",
+      "dataset_number": "174 of 455"
+    },
+    {
+      "id": "027__json_files_god_list_json",
+      "name": "JSON_Files_God-List",
+      "original_file": "JSON_Files/God-List.json",
+      "json_file": "027__json_files_god_list_json.json",
+      "content_type": "object",
+      "dataset_number": "175 of 455"
+    },
+    {
+      "id": "028__json_files_health_disease_list_json",
+      "name": "JSON_Files_Health-Disease-List",
+      "original_file": "JSON_Files/Health-Disease-List.json",
+      "json_file": "028__json_files_health_disease_list_json.json",
+      "content_type": "object",
+      "dataset_number": "176 of 455"
+    },
+    {
+      "id": "029__json_files_horai_list_json",
+      "name": "JSON_Files_Horai-List",
+      "original_file": "JSON_Files/Horai-List.json",
+      "json_file": "029__json_files_horai_list_json.json",
+      "content_type": "object",
+      "dataset_number": "177 of 455"
+    },
+    {
+      "id": "030__json_files_house_calculation_methods_json",
+      "name": "JSON_Files_House-Calculation-Methods",
+      "original_file": "JSON_Files/House-Calculation-Methods.json",
+      "json_file": "030__json_files_house_calculation_methods_json.json",
+      "content_type": "array",
+      "dataset_number": "178 of 455"
+    },
+    {
+      "id": "031__json_files_house_list_json",
+      "name": "JSON_Files_House-List",
+      "original_file": "JSON_Files/House-List.json",
+      "json_file": "031__json_files_house_list_json.json",
+      "content_type": "object",
+      "dataset_number": "179 of 455"
+    },
+    {
+      "id": "032__json_files_kp_cuspal_rules_json",
+      "name": "JSON_Files_KP-Cuspal-Rules",
+      "original_file": "JSON_Files/KP-Cuspal-Rules.json",
+      "json_file": "032__json_files_kp_cuspal_rules_json.json",
+      "content_type": "array",
+      "dataset_number": "182 of 455"
+    },
+    {
+      "id": "033__json_files_kp_sub_lord_table_json",
+      "name": "JSON_Files_KP-Sub-Lord-Table",
+      "original_file": "JSON_Files/KP-Sub-Lord-Table.json",
+      "json_file": "033__json_files_kp_sub_lord_table_json.json",
+      "content_type": "array",
+      "dataset_number": "183 of 455"
+    },
+    {
+      "id": "034__json_files_karaka_list_json",
+      "name": "JSON_Files_Karaka-List",
+      "original_file": "JSON_Files/Karaka-List.json",
+      "json_file": "034__json_files_karaka_list_json.json",
+      "content_type": "array",
+      "dataset_number": "180 of 455"
+    },
+    {
+      "id": "035__json_files_karana_list_json",
+      "name": "JSON_Files_Karana-List",
+      "original_file": "JSON_Files/Karana-List.json",
+      "json_file": "035__json_files_karana_list_json.json",
+      "content_type": "array",
+      "dataset_number": "181 of 455"
+    },
+    {
+      "id": "036__json_files_lalkitab_json",
+      "name": "JSON_Files_Lalkitab",
+      "original_file": "JSON_Files/Lalkitab.json",
+      "json_file": "036__json_files_lalkitab_json.json",
+      "content_type": "object",
+      "dataset_number": "184 of 455"
+    },
+    {
+      "id": "037__json_files_manglik_rules_json",
+      "name": "JSON_Files_Manglik-Rules",
+      "original_file": "JSON_Files/Manglik-Rules.json",
+      "json_file": "037__json_files_manglik_rules_json.json",
+      "content_type": "array",
+      "dataset_number": "185 of 455"
+    },
+    {
+      "id": "038__json_files_mantra_list_json",
+      "name": "JSON_Files_Mantra-List",
+      "original_file": "JSON_Files/Mantra-List.json",
+      "json_file": "038__json_files_mantra_list_json.json",
+      "content_type": "array",
+      "dataset_number": "186 of 455"
+    },
+    {
+      "id": "039__json_files_nakshatra_list_json",
+      "name": "JSON_Files_Nakshatra-List",
+      "original_file": "JSON_Files/Nakshatra-List.json",
+      "json_file": "039__json_files_nakshatra_list_json.json",
+      "content_type": "object",
+      "dataset_number": "187 of 455"
+    },
+    {
+      "id": "040__json_files_navagraha_list_json",
+      "name": "JSON_Files_Navagraha-List",
+      "original_file": "JSON_Files/Navagraha-List.json",
+      "json_file": "040__json_files_navagraha_list_json.json",
+      "content_type": "object",
+      "dataset_number": "188 of 455"
+    },
+    {
+      "id": "041__json_files_nimitta_omens_list_json",
+      "name": "JSON_Files_Nimitta-Omens-List",
+      "original_file": "JSON_Files/Nimitta-Omens-List.json",
+      "json_file": "041__json_files_nimitta_omens_list_json.json",
+      "content_type": "array",
+      "dataset_number": "189 of 455"
+    },
+    {
+      "id": "042__json_files_nitya_yoga_list_json",
+      "name": "JSON_Files_Nitya-Yoga-List",
+      "original_file": "JSON_Files/Nitya-Yoga-List.json",
+      "json_file": "042__json_files_nitya_yoga_list_json.json",
+      "content_type": "array",
+      "dataset_number": "190 of 455"
+    },
+    {
+      "id": "043__json_files_numerology_list_json",
+      "name": "JSON_Files_Numerology-List",
+      "original_file": "JSON_Files/Numerology-List.json",
+      "json_file": "043__json_files_numerology_list_json.json",
+      "content_type": "object",
+      "dataset_number": "191 of 455"
+    },
+    {
+      "id": "044__json_files_panchanga_list_json",
+      "name": "JSON_Files_Panchanga-List",
+      "original_file": "JSON_Files/Panchanga-List.json",
+      "json_file": "044__json_files_panchanga_list_json.json",
+      "content_type": "array",
+      "dataset_number": "192 of 455"
+    },
+    {
+      "id": "045__json_files_papa_kartari_yoga_list_json",
+      "name": "JSON_Files_Papa-Kartari-Yoga-List",
+      "original_file": "JSON_Files/Papa-Kartari-Yoga-List.json",
+      "json_file": "045__json_files_papa_kartari_yoga_list_json.json",
+      "content_type": "array",
+      "dataset_number": "193 of 455"
+    },
+    {
+      "id": "046__json_files_planet_dignity_list_json",
+      "name": "JSON_Files_Planet-Dignity-List",
+      "original_file": "JSON_Files/Planet-Dignity-List.json",
+      "json_file": "046__json_files_planet_dignity_list_json.json",
+      "content_type": "object",
+      "dataset_number": "194 of 455"
+    },
+    {
+      "id": "047__json_files_planet_list_json",
+      "name": "JSON_Files_Planet-List",
+      "original_file": "JSON_Files/Planet-List.json",
+      "json_file": "047__json_files_planet_list_json.json",
+      "content_type": "object",
+      "dataset_number": "195 of 455"
+    },
+    {
+      "id": "048__json_files_pooja_list_json",
+      "name": "JSON_Files_Pooja-List",
+      "original_file": "JSON_Files/Pooja-List.json",
+      "json_file": "048__json_files_pooja_list_json.json",
+      "content_type": "object",
+      "dataset_number": "196 of 455"
+    },
+    {
+      "id": "049__json_files_prashna_logic_list_json",
+      "name": "JSON_Files_Prashna-Logic-List",
+      "original_file": "JSON_Files/Prashna-Logic-List.json",
+      "json_file": "049__json_files_prashna_logic_list_json.json",
+      "content_type": "array",
+      "dataset_number": "197 of 455"
+    },
+    {
+      "id": "050__json_files_profession_list_json",
+      "name": "JSON_Files_Profession-List",
+      "original_file": "JSON_Files/Profession-List.json",
+      "json_file": "050__json_files_profession_list_json.json",
+      "content_type": "object",
+      "dataset_number": "198 of 455"
+    },
+    {
+      "id": "051__json_files_raja_yoga_list_json",
+      "name": "JSON_Files_Raja-Yoga-List",
+      "original_file": "JSON_Files/Raja-Yoga-List.json",
+      "json_file": "051__json_files_raja_yoga_list_json.json",
+      "content_type": "array",
+      "dataset_number": "199 of 455"
+    },
+    {
+      "id": "052__json_files_rashi_list_json",
+      "name": "JSON_Files_Rashi-List",
+      "original_file": "JSON_Files/Rashi-List.json",
+      "json_file": "052__json_files_rashi_list_json.json",
+      "content_type": "array",
+      "dataset_number": "200 of 455"
+    },
+    {
+      "id": "053__json_files_remedies_list_json",
+      "name": "JSON_Files_Remedies-List",
+      "original_file": "JSON_Files/Remedies-List.json",
+      "json_file": "053__json_files_remedies_list_json.json",
+      "content_type": "object",
+      "dataset_number": "201 of 455"
+    },
+    {
+      "id": "054__json_files_ritu_list_json",
+      "name": "JSON_Files_Ritu-List",
+      "original_file": "JSON_Files/Ritu-List.json",
+      "json_file": "054__json_files_ritu_list_json.json",
+      "content_type": "object",
+      "dataset_number": "202 of 455"
+    },
+    {
+      "id": "055__json_files_river_list_json",
+      "name": "JSON_Files_River-List",
+      "original_file": "JSON_Files/River-List.json",
+      "json_file": "055__json_files_river_list_json.json",
+      "content_type": "array",
+      "dataset_number": "203 of 455"
+    },
+    {
+      "id": "056__json_files_rudraksha_list_json",
+      "name": "JSON_Files_Rudraksha-List",
+      "original_file": "JSON_Files/Rudraksha-List.json",
+      "json_file": "056__json_files_rudraksha_list_json.json",
+      "content_type": "array",
+      "dataset_number": "204 of 455"
+    },
+    {
+      "id": "057__json_files_saravali_json",
+      "name": "Saravali",
+      "original_file": "JSON_Files/Saravali.json",
+      "json_file": "057__json_files_saravali_json.json",
+      "content_type": "object",
+      "dataset_number": "205 of 455"
+    },
+    {
+      "id": "058__json_files_shadbala_list_json",
+      "name": "JSON_Files_Shadbala-List",
+      "original_file": "JSON_Files/Shadbala-List.json",
+      "json_file": "058__json_files_shadbala_list_json.json",
+      "content_type": "array",
+      "dataset_number": "206 of 455"
+    },
+    {
+      "id": "059__json_files_shadbala_parameters_json",
+      "name": "JSON_Files_Shadbala-Parameters",
+      "original_file": "JSON_Files/Shadbala-Parameters.json",
+      "json_file": "059__json_files_shadbala_parameters_json.json",
+      "content_type": "array",
+      "dataset_number": "207 of 455"
+    },
+    {
+      "id": "060__json_files_tantra_list_json",
+      "name": "JSON_Files_Tantra-List",
+      "original_file": "JSON_Files/Tantra-List.json",
+      "json_file": "060__json_files_tantra_list_json.json",
+      "content_type": "array",
+      "dataset_number": "208 of 455"
+    },
+    {
+      "id": "061__json_files_tarabalam_chandrabalam_list_json",
+      "name": "JSON_Files_Tarabalam-Chandrabalam-List",
+      "original_file": "JSON_Files/Tarabalam-Chandrabalam-List.json",
+      "json_file": "061__json_files_tarabalam_chandrabalam_list_json.json",
+      "content_type": "object",
+      "dataset_number": "209 of 455"
+    },
+    {
+      "id": "062__json_files_temples_list_json",
+      "name": "JSON_Files_Temples-List",
+      "original_file": "JSON_Files/Temples-List.json",
+      "json_file": "062__json_files_temples_list_json.json",
+      "content_type": "array",
+      "dataset_number": "210 of 455"
+    },
+    {
+      "id": "063__json_files_tithi_list_json",
+      "name": "JSON_Files_Tithi-List",
+      "original_file": "JSON_Files/Tithi-List.json",
+      "json_file": "063__json_files_tithi_list_json.json",
+      "content_type": "array",
+      "dataset_number": "211 of 455"
+    },
+    {
+      "id": "064__json_files_totke_list_json",
+      "name": "JSON_Files_Totke-List",
+      "original_file": "JSON_Files/Totke-List.json",
+      "json_file": "064__json_files_totke_list_json.json",
+      "content_type": "array",
+      "dataset_number": "212 of 455"
+    },
+    {
+      "id": "065__json_files_transit_impact_matrix_json",
+      "name": "JSON_Files_Transit-Impact-Matrix",
+      "original_file": "JSON_Files/Transit-Impact-Matrix.json",
+      "json_file": "065__json_files_transit_impact_matrix_json.json",
+      "content_type": "array",
+      "dataset_number": "213 of 455"
+    },
+    {
+      "id": "066__json_files_transit_rules_list_json",
+      "name": "JSON_Files_Transit-Rules-List",
+      "original_file": "JSON_Files/Transit-Rules-List.json",
+      "json_file": "066__json_files_transit_rules_list_json.json",
+      "content_type": "object",
+      "dataset_number": "214 of 455"
+    },
+    {
+      "id": "067__json_files_tree_list_json",
+      "name": "JSON_Files_Tree-List",
+      "original_file": "JSON_Files/Tree-List.json",
+      "json_file": "067__json_files_tree_list_json.json",
+      "content_type": "array",
+      "dataset_number": "215 of 455"
+    },
+    {
+      "id": "068__json_files_vastu_dosha_list_json",
+      "name": "JSON_Files_Vastu-Dosha-List",
+      "original_file": "JSON_Files/Vastu-Dosha-List.json",
+      "json_file": "068__json_files_vastu_dosha_list_json.json",
+      "content_type": "object",
+      "dataset_number": "216 of 455"
+    },
+    {
+      "id": "069__json_files_vedic_month_list_json",
+      "name": "JSON_Files_Vedic-Month-List",
+      "original_file": "JSON_Files/Vedic-Month-List.json",
+      "json_file": "069__json_files_vedic_month_list_json.json",
+      "content_type": "array",
+      "dataset_number": "217 of 455"
+    },
+    {
+      "id": "070__json_files_vidhi_list_json",
+      "name": "JSON_Files_Vidhi-List",
+      "original_file": "JSON_Files/Vidhi-List.json",
+      "json_file": "070__json_files_vidhi_list_json.json",
+      "content_type": "object",
+      "dataset_number": "218 of 455"
+    },
+    {
+      "id": "071__json_files_vimshottari_dasha_list_json",
+      "name": "JSON_Files_Vimshottari-Dasha-List",
+      "original_file": "JSON_Files/Vimshottari-Dasha-List.json",
+      "json_file": "071__json_files_vimshottari_dasha_list_json.json",
+      "content_type": "array",
+      "dataset_number": "219 of 455"
+    },
+    {
+      "id": "072__json_files_yantra_list_json",
+      "name": "JSON_Files_Yantra-List",
+      "original_file": "JSON_Files/Yantra-List.json",
+      "json_file": "072__json_files_yantra_list_json.json",
+      "content_type": "text",
+      "dataset_number": "220 of 455"
+    },
+    {
+      "id": "073__json_files_yoga_list_json",
+      "name": "JSON_Files_Yoga-List",
+      "original_file": "JSON_Files/Yoga-List.json",
+      "json_file": "073__json_files_yoga_list_json.json",
+      "content_type": "array",
+      "dataset_number": "221 of 455"
+    },
+    {
+      "id": "074__mantra_tantra_sadhana_laxmi_narayan_sharma_1978_1993_json",
+      "name": "मंत्र-तंत्र साधना",
+      "original_file": "Mantra-Tantra-Sadhana-Laxmi-Narayan-Sharma-1978-1993.json",
+      "json_file": "074__mantra_tantra_sadhana_laxmi_narayan_sharma_1978_1993_json.json",
+      "content_type": "array",
+      "dataset_number": "272 of 455"
+    },
+    {
+      "id": "075__adhikarana_saravali_sanskrit_with_chintamani_commentary_by_kumara_vedanta_acharya_pages_partly_damaged_1940_json",
+      "name": "Adhikarana Saravali (Sanskrit) With Chintamani Commentary By Kumara Vedanta Acharya, (Pages Partly Damaged) 1940 - Kabeer Printing Works, Madras",
+      "original_file": "adhikarana_saravali_sanskrit_with_chintamani_commentary_by_kumara_vedanta_acharya_pages_partly_damaged_1940.json",
+      "json_file": "075__adhikarana_saravali_sanskrit_with_chintamani_commentary_by_kumara_vedanta_acharya_pages_partly_damaged_1940_json.json",
+      "content_type": "text",
+      "dataset_number": "5 of 455"
+    },
+    {
+      "id": "076__adhikarana_saravali_vedanta_desika_the_philosophy_of_visistadvaita_srinivasa_chari_2008_ocr_json",
+      "name": "Adhikarana-Saravali-Vedanta-Desika-The-Philosophy-of-VisistAdvaita-Srinivasa-Chari-2008-OCR",
+      "original_file": "adhikarana_saravali_vedanta_desika_the_philosophy_of_visistadvaita_srinivasa_chari_2008_ocr.json",
+      "json_file": "076__adhikarana_saravali_vedanta_desika_the_philosophy_of_visistadvaita_srinivasa_chari_2008_ocr_json.json",
+      "content_type": "text",
+      "dataset_number": "6 of 455"
+    },
+    {
+      "id": "077__agastya_samhita_json",
+      "name": "Agastya Samhita",
+      "original_file": "agastya_samhita.json",
+      "json_file": "077__agastya_samhita_json.json",
+      "content_type": "text",
+      "dataset_number": "7 of 455"
+    },
+    {
+      "id": "078__agni_purana_json",
+      "name": "Agni Purana",
+      "original_file": "agni_purana.json",
+      "json_file": "078__agni_purana_json.json",
+      "content_type": "text",
+      "dataset_number": "8 of 455"
+    },
+    {
+      "id": "079__agni_purana_nag_publishers_json",
+      "name": "Agni Purana Nag Publishers",
+      "original_file": "agni_purana_nag_publishers.json",
+      "json_file": "079__agni_purana_nag_publishers_json.json",
+      "content_type": "text",
+      "dataset_number": "9 of 455"
+    },
+    {
+      "id": "080__all_json_catalog_json",
+      "name": "all-json-catalog",
+      "original_file": "all-json-catalog.json",
+      "json_file": "080__all_json_catalog_json.json",
+      "content_type": "array",
+      "dataset_number": "10 of 455"
+    },
+    {
+      "id": "081__ascii_chart_json",
+      "name": "ascii_chart",
+      "original_file": "ascii_chart.json",
+      "json_file": "081__ascii_chart_json.json",
+      "content_type": "object",
+      "dataset_number": "11 of 455"
+    },
+    {
+      "id": "082__ashtakavarga_bhagya_bindu_by_vinay_aditya_hindi_astrology_illustrated_bengaluru_2023_indian_council_of_json",
+      "name": "Ashtakavarga Bhagya Bindu By Vinay Aditya Hindi Astrology Illustrated Bengaluru 2023 Indian Council Of Astrological Sciences",
+      "original_file": "ashtakavarga_bhagya_bindu_by_vinay_aditya_hindi_astrology_illustrated_bengaluru_2023_indian_council_of.json",
+      "json_file": "082__ashtakavarga_bhagya_bindu_by_vinay_aditya_hindi_astrology_illustrated_bengaluru_2023_indian_council_of_json.json",
+      "content_type": "text",
+      "dataset_number": "12 of 455"
+    },
+    {
+      "id": "083__ashtakavarga_bphs_json",
+      "name": "ashtakavarga_bphs",
+      "original_file": "ashtakavarga_bphs.json",
+      "json_file": "083__ashtakavarga_bphs_json.json",
+      "content_type": "object",
+      "dataset_number": "13 of 455"
+    },
+    {
+      "id": "084__ashtakavarga_phalit_ki_adhunik_vidhiyan_by_m_s_mehta_and_rajesh_chandra_dadwal_pawan_ballabh_thapaliyal_hindi_json",
+      "name": "Ashtakavarga Phalit Ki Adhunik Vidhiyan By M S Mehta And Rajesh Chandra Dadwal Pawan Ballabh Thapaliyal Hindi Astrology Illustrated New Delhi 2017 Sagar Publications",
+      "original_file": "ashtakavarga_phalit_ki_adhunik_vidhiyan_by_m_s_mehta_and_rajesh_chandra_dadwal_pawan_ballabh_thapaliyal_hindi.json",
+      "json_file": "084__ashtakavarga_phalit_ki_adhunik_vidhiyan_by_m_s_mehta_and_rajesh_chandra_dadwal_pawan_ballabh_thapaliyal_hindi_json.json",
+      "content_type": "text",
+      "dataset_number": "14 of 455"
+    },
+    {
+      "id": "085__ashtakoot_json",
+      "name": "ashtakoot",
+      "original_file": "ashtakoot.json",
+      "json_file": "085__ashtakoot_json.json",
+      "content_type": "object",
+      "dataset_number": "15 of 455"
+    },
+    {
+      "id": "086__asli_prachin_lal_kitab_girdhari_lal_sharma_json",
+      "name": "Asli Prachin Lal Kitab Girdhari Lal Sharma",
+      "original_file": "asli_prachin_lal_kitab_girdhari_lal_sharma.json",
+      "json_file": "086__asli_prachin_lal_kitab_girdhari_lal_sharma_json.json",
+      "content_type": "text",
+      "dataset_number": "16 of 455"
+    },
+    {
+      "id": "087__aspects_json",
+      "name": "aspects",
+      "original_file": "aspects.json",
+      "json_file": "087__aspects_json.json",
+      "content_type": "array",
+      "dataset_number": "17 of 455"
+    },
+    {
+      "id": "088__astrology_and_astronomy_software_collection_with_serials_or_crack_contents_json",
+      "name": "Astrology & astronomy software collection_with serials or crack_contents",
+      "original_file": "astrology_and_astronomy_software_collection_with_serials_or_crack_contents.json",
+      "json_file": "088__astrology_and_astronomy_software_collection_with_serials_or_crack_contents_json.json",
+      "content_type": "text",
+      "dataset_number": "18 of 455"
+    },
+    {
+      "id": "089__astrology_tuitions_audio_video_contents_json",
+      "name": "Astrology tuitions_audio_video_contents",
+      "original_file": "astrology_tuitions_audio_video_contents.json",
+      "json_file": "089__astrology_tuitions_audio_video_contents_json.json",
+      "content_type": "text",
+      "dataset_number": "19 of 455"
+    },
+    {
+      "id": "090__astronomy_world_sky_json",
+      "name": "astronomy-world-sky",
+      "original_file": "astronomy-world-sky.json",
+      "json_file": "090__astronomy_world_sky_json.json",
+      "content_type": "object",
+      "dataset_number": "20 of 455"
+    },
+    {
+      "id": "091__astronomy_time_history_ayanamsa_contents_json",
+      "name": "Astronomy_time_history_ayanamsa_contents",
+      "original_file": "astronomy_time_history_ayanamsa_contents.json",
+      "json_file": "091__astronomy_time_history_ayanamsa_contents_json.json",
+      "content_type": "text",
+      "dataset_number": "21 of 455"
+    },
+    {
+      "id": "092__atharvaveda_samhita_json",
+      "name": "अथर्ववेद",
+      "original_file": "atharvaveda_samhita.json",
+      "json_file": "092__atharvaveda_samhita_json.json",
+      "content_type": "text",
+      "dataset_number": "22 of 455"
+    },
+    {
+      "id": "093__atharvaveda_samhita_with_the_commentary_of_sayanacharya_vol_ii_json",
+      "name": "Atharvaveda Samhita With The Commentary Of Sayanacharya Vol-ii",
+      "original_file": "atharvaveda_samhita_with_the_commentary_of_sayanacharya_vol_ii.json",
+      "json_file": "093__atharvaveda_samhita_with_the_commentary_of_sayanacharya_vol_ii_json.json",
+      "content_type": "text",
+      "dataset_number": "23 of 455"
+    },
+    {
+      "id": "094__avkahadaphala_json",
+      "name": "avkahadaPhala",
+      "original_file": "avkahadaPhala.json",
+      "json_file": "094__avkahadaphala_json.json",
+      "content_type": "object",
+      "dataset_number": "24 of 455"
+    },
+    {
+      "id": "095__b9_5f_hora_sara_ashtavarga_jatak_manuscripts_by_i_am_visionary_tunes_json",
+      "name": "B9-5(F)_Hora Sara Ashtavarga Jatak- Manuscripts by I_AM_VISIONARY_TUNES",
+      "original_file": "b9_5f_hora_sara_ashtavarga_jatak_manuscripts_by_i_am_visionary_tunes.json",
+      "json_file": "095__b9_5f_hora_sara_ashtavarga_jatak_manuscripts_by_i_am_visionary_tunes_json.json",
+      "content_type": "text",
+      "dataset_number": "25 of 455"
+    },
+    {
+      "id": "096__bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas_json",
+      "name": "Bhargava Tantra ( Pancharatra Agama Grantha, With Hindi Commentary) By Kapila Deva Narayan Chowkhamba Krishnadas Academy, Varanasi",
+      "original_file": "bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas.json",
+      "json_file": "096__bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas_json.json",
+      "content_type": "object",
+      "dataset_number": "26 of 455"
+    },
+    {
+      "id": "097__bhava_lords_bphs_json",
+      "name": "bhava_lords_bphs",
+      "original_file": "bhava_lords_bphs.json",
+      "json_file": "097__bhava_lords_bphs_json.json",
+      "content_type": "object",
+      "dataset_number": "27 of 455"
+    },
+    {
+      "id": "098__bhavishya_purana_acharya_sriram_sharma_json",
+      "name": "Bhavishya Purana Acharya Sriram Sharma",
+      "original_file": "bhavishya_purana_acharya_sriram_sharma.json",
+      "json_file": "098__bhavishya_purana_acharya_sriram_sharma_json.json",
+      "content_type": "text",
+      "dataset_number": "28 of 455"
+    },
+    {
+      "id": "099__bhavishya_purana_vol_1_acharya_sriram_sharma_json",
+      "name": "Bhavishya Purana Vol 1 Acharya Sriram Sharma",
+      "original_file": "bhavishya_purana_vol_1_acharya_sriram_sharma.json",
+      "json_file": "099__bhavishya_purana_vol_1_acharya_sriram_sharma_json.json",
+      "content_type": "text",
+      "dataset_number": "29 of 455"
+    },
+    {
+      "id": "100__bhrigu_samhita_concise_version_by_maharishi_bhrigu_and_t_m_rao_astrology_illustrated_delhi_2008_pustak_mahal_json",
+      "name": "Bhrigu Samhita Concise Version By Maharishi Bhrigu And T M Rao Astrology Illustrated Delhi 2008 Pustak Mahal",
+      "original_file": "bhrigu_samhita_concise_version_by_maharishi_bhrigu_and_t_m_rao_astrology_illustrated_delhi_2008_pustak_mahal.json",
+      "json_file": "100__bhrigu_samhita_concise_version_by_maharishi_bhrigu_and_t_m_rao_astrology_illustrated_delhi_2008_pustak_mahal_json.json",
+      "content_type": "text",
+      "dataset_number": "30 of 455"
+    },
+    {
+      "id": "101__bhrigu_samhita_falita_sarvanga_darshana_by_shri_bhagavana_dasa_mittal_thakura_prasad_and_sons_varanasi_json",
+      "name": "Bhrigu Samhita Falita Sarvanga Darshana By Shri Bhagavana Dasa Mittal Thakura Prasad And Sons Varanasi",
+      "original_file": "bhrigu_samhita_falita_sarvanga_darshana_by_shri_bhagavana_dasa_mittal_thakura_prasad_and_sons_varanasi.json",
+      "json_file": "101__bhrigu_samhita_falita_sarvanga_darshana_by_shri_bhagavana_dasa_mittal_thakura_prasad_and_sons_varanasi_json.json",
+      "content_type": "text",
+      "dataset_number": "31 of 455"
+    },
+    {
+      "id": "102__bhrigu_samhita_phalita_sarvanga_darshana_by_bhagavan_das_mittal_rupesh_takur_prasad_prakashana_varanasi_json",
+      "name": "Bhrigu Samhita Phalita Sarvanga Darshana By Bhagavan Das Mittal Rupesh Takur Prasad Prakashana, Varanasi",
+      "original_file": "bhrigu_samhita_phalita_sarvanga_darshana_by_bhagavan_das_mittal_rupesh_takur_prasad_prakashana_varanasi.json",
+      "json_file": "102__bhrigu_samhita_phalita_sarvanga_darshana_by_bhagavan_das_mittal_rupesh_takur_prasad_prakashana_varanasi_json.json",
+      "content_type": "text",
+      "dataset_number": "32 of 455"
+    },
+    {
+      "id": "103__bhrigu_sutra_siddha_nath_sharma_json",
+      "name": "Bhrigu Sutra - Siddha Nath Sharma",
+      "original_file": "bhrigu_sutra_siddha_nath_sharma.json",
+      "json_file": "103__bhrigu_sutra_siddha_nath_sharma_json.json",
+      "content_type": "text",
+      "dataset_number": "33 of 455"
+    },
+    {
+      "id": "104__book_1969_liewellyn_a_to_z_horoscope_maker_and_delineator_kp_red_it_json",
+      "name": "Book_1969_Liewellyn_A To Z Horoscope Maker And Delineator_KP red it",
+      "original_file": "book_1969_liewellyn_a_to_z_horoscope_maker_and_delineator_kp_red_it.json",
+      "json_file": "104__book_1969_liewellyn_a_to_z_horoscope_maker_and_delineator_kp_red_it_json.json",
+      "content_type": "text",
+      "dataset_number": "34 of 455"
+    },
+    {
+      "id": "105__books_index_json",
+      "name": "books_index",
+      "original_file": "books_index.json",
+      "json_file": "105__books_index_json.json",
+      "content_type": "object",
+      "dataset_number": "35 of 455"
+    },
+    {
+      "id": "106__books_jyotish_nadi_using_siderial_zodiac_contents_json",
+      "name": "Books_Jyotish + nadi_using siderial zodiac_contents",
+      "original_file": "books_jyotish_nadi_using_siderial_zodiac_contents.json",
+      "json_file": "106__books_jyotish_nadi_using_siderial_zodiac_contents_json.json",
+      "content_type": "text",
+      "dataset_number": "36 of 455"
+    },
+    {
+      "id": "107__books_using_tropical_zodiac_contents_json",
+      "name": "Books_using tropical zodiac_contents",
+      "original_file": "books_using_tropical_zodiac_contents.json",
+      "json_file": "107__books_using_tropical_zodiac_contents_json.json",
+      "content_type": "text",
+      "dataset_number": "37 of 455"
+    },
+    {
+      "id": "108__bphs_1_rsanthanam_json",
+      "name": "BPHS - 1 RSanthanam",
+      "original_file": "bphs_1_rsanthanam.json",
+      "json_file": "108__bphs_1_rsanthanam_json.json",
+      "content_type": "text",
+      "dataset_number": "38 of 455"
+    },
+    {
+      "id": "109__bphs_2_rsanthanam_json",
+      "name": "BPHS - 2 RSanthanam",
+      "original_file": "bphs_2_rsanthanam.json",
+      "json_file": "109__bphs_2_rsanthanam_json.json",
+      "content_type": "text",
+      "dataset_number": "39 of 455"
+    },
+    {
+      "id": "110__braj_vilas_saravali_kanpur_1898_naval_kishore_press_json",
+      "name": "Braj Vilas Saravali Kanpur 1898 - Naval Kishore Press",
+      "original_file": "braj_vilas_saravali_kanpur_1898_naval_kishore_press.json",
+      "json_file": "110__braj_vilas_saravali_kanpur_1898_naval_kishore_press_json.json",
+      "content_type": "text",
+      "dataset_number": "40 of 455"
+    },
+    {
+      "id": "111__brihat_jataka_bharatiya_phalit_shastra_umesh_puri_gyaneshwar_json",
+      "name": "Brihat Jataka Bharatiya Phalit Shastra - Umesh Puri Gyaneshwar",
+      "original_file": "brihat_jataka_bharatiya_phalit_shastra_umesh_puri_gyaneshwar.json",
+      "json_file": "111__brihat_jataka_bharatiya_phalit_shastra_umesh_puri_gyaneshwar_json.json",
+      "content_type": "text",
+      "dataset_number": "41 of 455"
+    },
+    {
+      "id": "112__brihat_jataka_english_translation_b_suryanarain_row_1919_lr_json",
+      "name": "Brihat Jataka English Translation- B Suryanarain Row 1919 LR",
+      "original_file": "brihat_jataka_english_translation_b_suryanarain_row_1919_lr.json",
+      "json_file": "112__brihat_jataka_english_translation_b_suryanarain_row_1919_lr_json.json",
+      "content_type": "text",
+      "dataset_number": "42 of 455"
+    },
+    {
+      "id": "113__brihat_jataka_english_translation_usha_and_sashi_json",
+      "name": "Brihat Jataka English Translation Usha & Sashi",
+      "original_file": "brihat_jataka_english_translation_usha_and_sashi.json",
+      "json_file": "113__brihat_jataka_english_translation_usha_and_sashi_json.json",
+      "content_type": "text",
+      "dataset_number": "43 of 455"
+    },
+    {
+      "id": "114__brihat_jataka_of_varaha_mihira_ed_by_venkata_raman_trans_by_surya_narain_rao_1957_bangalore_raman_publications_json",
+      "name": "Brihat Jataka Of Varaha Mihira Ed By Venkata Raman Trans By Surya Narain Rao 1957 Bangalore - Raman Publications",
+      "original_file": "brihat_jataka_of_varaha_mihira_ed_by_venkata_raman_trans_by_surya_narain_rao_1957_bangalore_raman_publications.json",
+      "json_file": "114__brihat_jataka_of_varaha_mihira_ed_by_venkata_raman_trans_by_surya_narain_rao_1957_bangalore_raman_publications_json.json",
+      "content_type": "text",
+      "dataset_number": "44 of 455"
+    },
+    {
+      "id": "115__brihat_jataka_of_varahamihira_swami_vijnanananda_mrml_json",
+      "name": "Brihat Jataka of Varahamihira Swami Vijnanananda MRML",
+      "original_file": "brihat_jataka_of_varahamihira_swami_vijnanananda_mrml.json",
+      "json_file": "115__brihat_jataka_of_varahamihira_swami_vijnanananda_mrml_json.json",
+      "content_type": "text",
+      "dataset_number": "45 of 455"
+    },
+    {
+      "id": "116__brihat_jataka_of_varahamihira_vivrutti_of_bhattolpala_sitaram_jha_json",
+      "name": "Brihat Jataka Of Varahamihira Vivrutti Of Bhattolpala Sitaram Jha",
+      "original_file": "brihat_jataka_of_varahamihira_vivrutti_of_bhattolpala_sitaram_jha.json",
+      "json_file": "116__brihat_jataka_of_varahamihira_vivrutti_of_bhattolpala_sitaram_jha_json.json",
+      "content_type": "text",
+      "dataset_number": "46 of 455"
+    },
+    {
+      "id": "117__brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection_json",
+      "name": "Brihat Jataka Tika By Bhattotpal (Sanskrit MSS, Subject - Jyotish, MSS No. 76) - Gurukul Kangri Collection",
+      "original_file": "brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection.json",
+      "json_file": "117__brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection_json.json",
+      "content_type": "text",
+      "dataset_number": "47 of 455"
+    },
+    {
+      "id": "118__brihat_parashar_hora_shastra_ganesh_datt_pathak_json",
+      "name": "Brihat Parashar Hora Shastra - Ganesh Datt Pathak",
+      "original_file": "brihat_parashar_hora_shastra_ganesh_datt_pathak.json",
+      "json_file": "118__brihat_parashar_hora_shastra_ganesh_datt_pathak_json.json",
+      "content_type": "text",
+      "dataset_number": "48 of 455"
+    },
+    {
+      "id": "119__brihat_parashar_hora_shastra_of_parashar_muni_json",
+      "name": "Brihat Parashar Hora Shastra of Parashar Muni",
+      "original_file": "brihat_parashar_hora_shastra_of_parashar_muni.json",
+      "json_file": "119__brihat_parashar_hora_shastra_of_parashar_muni_json.json",
+      "content_type": "text",
+      "dataset_number": "49 of 455"
+    },
+    {
+      "id": "120__brihat_parashar_hora_shastra_parashar_json",
+      "name": "#U092a#U0930#U093e#U0936#U0930#U0939#U094b#U0930#U093e#U0936#U093e#U0938#U094d#U0924#U094d#U0930 Brihat Parashar Hora Shastra",
+      "original_file": "brihat_parashar_hora_shastra_parashar.json",
+      "json_file": "120__brihat_parashar_hora_shastra_parashar_json.json",
+      "content_type": "text",
+      "dataset_number": "50 of 455"
+    },
+    {
+      "id": "121__brihat_parashar_hora_shastra_suresh_chandra_mishra_json",
+      "name": "Brihat Parashar Hora Shastra Suresh Chandra Mishra",
+      "original_file": "brihat_parashar_hora_shastra_suresh_chandra_mishra.json",
+      "json_file": "121__brihat_parashar_hora_shastra_suresh_chandra_mishra_json.json",
+      "content_type": "text",
+      "dataset_number": "51 of 455"
+    },
+    {
+      "id": "122__brihat_parashar_hora_shastra_vol_1_json",
+      "name": "Brihat Parashar Hora Shastra Vol 1",
+      "original_file": "brihat_parashar_hora_shastra_vol_1.json",
+      "json_file": "122__brihat_parashar_hora_shastra_vol_1_json.json",
+      "content_type": "text",
+      "dataset_number": "52 of 455"
+    },
+    {
+      "id": "123__brihat_parashar_hora_shastra_vol_2_json",
+      "name": "Brihat Parashar Hora Shastra Vol 2",
+      "original_file": "brihat_parashar_hora_shastra_vol_2.json",
+      "json_file": "123__brihat_parashar_hora_shastra_vol_2_json.json",
+      "content_type": "text",
+      "dataset_number": "53 of 455"
+    },
+    {
+      "id": "124__brihat_parashar_hora_shastram_json",
+      "name": "Brihat Parashar Hora Shastram",
+      "original_file": "brihat_parashar_hora_shastram.json",
+      "json_file": "124__brihat_parashar_hora_shastram_json.json",
+      "content_type": "text",
+      "dataset_number": "54 of 455"
+    },
+    {
+      "id": "125__brihat_parashara_hora_shastram_of_parashar_muni_with_hindi_commentary_by_pt_shri_ganesh_datta_jyotish_json",
+      "name": "Brihat Parashara Hora Shastram of Parashar Muni With Hindi Commentary By Pt. Shri Ganesh Datta - Jyotish Prakashan, Varanasi",
+      "original_file": "brihat_parashara_hora_shastram_of_parashar_muni_with_hindi_commentary_by_pt_shri_ganesh_datta_jyotish.json",
+      "json_file": "125__brihat_parashara_hora_shastram_of_parashar_muni_with_hindi_commentary_by_pt_shri_ganesh_datta_jyotish_json.json",
+      "content_type": "text",
+      "dataset_number": "55 of 455"
+    },
+    {
+      "id": "126__brihat_samhita_b_p_mishra_json",
+      "name": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924#U093e Brihat Samhita B.P Mishra",
+      "original_file": "brihat_samhita_b_p_mishra.json",
+      "json_file": "126__brihat_samhita_b_p_mishra_json.json",
+      "content_type": "text",
+      "dataset_number": "56 of 455"
+    },
+    {
+      "id": "127__brihat_samhita_dr_surkant_jha_json",
+      "name": "Brihat Samhita - Dr-Surkant-Jha",
+      "original_file": "brihat_samhita_dr_surkant_jha.json",
+      "json_file": "127__brihat_samhita_dr_surkant_jha_json.json",
+      "content_type": "text",
+      "dataset_number": "57 of 455"
+    },
+    {
+      "id": "128__brihat_samhita_dr_surkant_jha_2_json",
+      "name": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924#U093e_Brihat_Samhita_Dr._Surkant_Jha",
+      "original_file": "brihat_samhita_dr_surkant_jha_2.json",
+      "json_file": "128__brihat_samhita_dr_surkant_jha_2_json.json",
+      "content_type": "text",
+      "dataset_number": "58 of 455"
+    },
+    {
+      "id": "129__brihat_samhita_edited_by_mohan_chatopadhyay_missing_pages_jangamwadi_math_json",
+      "name": "Brihat Samhita Edited By Mohan Chatopadhyay Missing Pages  Jangamwadi Math",
+      "original_file": "brihat_samhita_edited_by_mohan_chatopadhyay_missing_pages_jangamwadi_math.json",
+      "json_file": "129__brihat_samhita_edited_by_mohan_chatopadhyay_missing_pages_jangamwadi_math_json.json",
+      "content_type": "text",
+      "dataset_number": "59 of 455"
+    },
+    {
+      "id": "130__brihat_samhita_edition_1_json",
+      "name": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924 Brihat Samhita -1",
+      "original_file": "brihat_samhita_edition_1.json",
+      "json_file": "130__brihat_samhita_edition_1_json.json",
+      "content_type": "text",
+      "dataset_number": "60 of 455"
+    },
+    {
+      "id": "131__brihat_samhita_edition_2_json",
+      "name": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924#U093e Brihat Samhita -2",
+      "original_file": "brihat_samhita_edition_2.json",
+      "json_file": "131__brihat_samhita_edition_2_json.json",
+      "content_type": "text",
+      "dataset_number": "61 of 455"
+    },
+    {
+      "id": "132__brihat_samhita_edition_3_json",
+      "name": "#U092c#U0943#U0939#U0924#U094d#U0938#U0939#U093f#U0924#U093e Brihat samhita#U00a0_3",
+      "original_file": "brihat_samhita_edition_3.json",
+      "json_file": "132__brihat_samhita_edition_3_json.json",
+      "content_type": "text",
+      "dataset_number": "62 of 455"
+    },
+    {
+      "id": "133__brihat_samhita_edition_4_json",
+      "name": "#U092c#U0943#U0939#U0924#U094d#U0938#U0939#U093f#U0924#U093e Brihat Samhita -4",
+      "original_file": "brihat_samhita_edition_4.json",
+      "json_file": "133__brihat_samhita_edition_4_json.json",
+      "content_type": "text",
+      "dataset_number": "63 of 455"
+    },
+    {
+      "id": "134__brihat_samhita_of_sri_varaha_mihira_part_2_with_bhattotpala_commentary_edited_by_dr_krishna_chandra_dvivedi_json",
+      "name": "Brihat Samhita Of Sri Varaha Mihira Part 2 With Bhattotpala Commentary Edited By Dr. Krishna Chandra Dvivedi - Sampurnanand Sanskrit University Varanasi",
+      "original_file": "brihat_samhita_of_sri_varaha_mihira_part_2_with_bhattotpala_commentary_edited_by_dr_krishna_chandra_dvivedi.json",
+      "json_file": "134__brihat_samhita_of_sri_varaha_mihira_part_2_with_bhattotpala_commentary_edited_by_dr_krishna_chandra_dvivedi_json.json",
+      "content_type": "text",
+      "dataset_number": "64 of 455"
+    },
+    {
+      "id": "135__brihat_samhita_of_varaha_mihir_part_1_edited_by_m_ramakrishna_bhat_motilal_banarasidas_delhi_json",
+      "name": "Brihat Samhita Of Varaha Mihir Part 1 Edited By M Ramakrishna Bhat - Motilal Banarasidas, Delhi",
+      "original_file": "brihat_samhita_of_varaha_mihir_part_1_edited_by_m_ramakrishna_bhat_motilal_banarasidas_delhi.json",
+      "json_file": "135__brihat_samhita_of_varaha_mihir_part_1_edited_by_m_ramakrishna_bhat_motilal_banarasidas_delhi_json.json",
+      "content_type": "text",
+      "dataset_number": "65 of 455"
+    },
+    {
+      "id": "136__brihat_samhita_of_varaha_mihira_by_avadha_vihari_tripathi_varanaseya_sanskrit_vishwavidyalaya_json",
+      "name": "Brihat Samhita of Varaha Mihira by Avadha Vihari Tripathi - Varanaseya Sanskrit Vishwavidyalaya",
+      "original_file": "brihat_samhita_of_varaha_mihira_by_avadha_vihari_tripathi_varanaseya_sanskrit_vishwavidyalaya.json",
+      "json_file": "136__brihat_samhita_of_varaha_mihira_by_avadha_vihari_tripathi_varanaseya_sanskrit_vishwavidyalaya_json.json",
+      "content_type": "text",
+      "dataset_number": "66 of 455"
+    },
+    {
+      "id": "137__brihat_stotra_ratnakar_1932_pandurang_javji_mumbai_json",
+      "name": "Brihat Stotra Ratnakar, 1932 Pandurang Javji, Mumbai",
+      "original_file": "brihat_stotra_ratnakar_1932_pandurang_javji_mumbai.json",
+      "json_file": "137__brihat_stotra_ratnakar_1932_pandurang_javji_mumbai_json.json",
+      "content_type": "text",
+      "dataset_number": "67 of 455"
+    },
+    {
+      "id": "138__brihat_stotra_ratnakar_acharya_pandit_shivdutta_shastri_json",
+      "name": "Brihat Stotra Ratnakar Acharya Pandit Shivdutta Shastri",
+      "original_file": "brihat_stotra_ratnakar_acharya_pandit_shivdutta_shastri.json",
+      "json_file": "138__brihat_stotra_ratnakar_acharya_pandit_shivdutta_shastri_json.json",
+      "content_type": "text",
+      "dataset_number": "68 of 455"
+    },
+    {
+      "id": "139__brihat_stotra_ratnakar_by_shiva_datt_kavi_khemraj_json",
+      "name": "Brihat Stotra Ratnakar By Shiva Datt Kavi Khemraj",
+      "original_file": "brihat_stotra_ratnakar_by_shiva_datt_kavi_khemraj.json",
+      "json_file": "139__brihat_stotra_ratnakar_by_shiva_datt_kavi_khemraj_json.json",
+      "content_type": "text",
+      "dataset_number": "69 of 455"
+    },
+    {
+      "id": "140__brihat_stotra_ratnakar_ed_chaman_lal_gautam_sanskriti_sansthan_bareli_json",
+      "name": "Brihat Stotra Ratnakar Ed Chaman Lal Gautam Sanskriti Sansthan Bareli",
+      "original_file": "brihat_stotra_ratnakar_ed_chaman_lal_gautam_sanskriti_sansthan_bareli.json",
+      "json_file": "140__brihat_stotra_ratnakar_ed_chaman_lal_gautam_sanskriti_sansthan_bareli_json.json",
+      "content_type": "text",
+      "dataset_number": "70 of 455"
+    },
+    {
+      "id": "141__brihat_stotra_ratnakar_illustrated_khemraj_json",
+      "name": "Brihat Stotra Ratnakar ( Illustrated) Khemraj",
+      "original_file": "brihat_stotra_ratnakar_illustrated_khemraj.json",
+      "json_file": "141__brihat_stotra_ratnakar_illustrated_khemraj_json.json",
+      "content_type": "text",
+      "dataset_number": "71 of 455"
+    },
+    {
+      "id": "142__brihat_stotra_ratnakar_part_i_1906_khemraj_json",
+      "name": "Brihat Stotra Ratnakar Part I 1906 Khemraj",
+      "original_file": "brihat_stotra_ratnakar_part_i_1906_khemraj.json",
+      "json_file": "142__brihat_stotra_ratnakar_part_i_1906_khemraj_json.json",
+      "content_type": "text",
+      "dataset_number": "72 of 455"
+    },
+    {
+      "id": "143__brihat_stotra_ratnakar_partial_garbled_json",
+      "name": "Brihat Stotra Ratnakar Partial Garbled",
+      "original_file": "brihat_stotra_ratnakar_partial_garbled.json",
+      "json_file": "143__brihat_stotra_ratnakar_partial_garbled_json.json",
+      "content_type": "text",
+      "dataset_number": "73 of 455"
+    },
+    {
+      "id": "144__calculator_catalog_v15_json",
+      "name": "calculator_catalog_v15",
+      "original_file": "calculator_catalog_v15.json",
+      "json_file": "144__calculator_catalog_v15_json.json",
+      "content_type": "array",
+      "dataset_number": "74 of 455"
+    },
+    {
+      "id": "145__career_prediction_rules_json",
+      "name": "career_prediction_rules",
+      "original_file": "career_prediction_rules.json",
+      "json_file": "145__career_prediction_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "75 of 455"
+    },
+    {
+      "id": "146__chamatkar_chintamani_jatak_granth_pt_mahidhar_sharma_json",
+      "name": "Chamatkar Chintamani Jatak Granth - Pt. Mahidhar Sharma",
+      "original_file": "chamatkar_chintamani_jatak_granth_pt_mahidhar_sharma.json",
+      "json_file": "146__chamatkar_chintamani_jatak_granth_pt_mahidhar_sharma_json.json",
+      "content_type": "text",
+      "dataset_number": "76 of 455"
+    },
+    {
+      "id": "147__chamatkari_mantra_aur_siddhiyaan_srivastava_json",
+      "name": "Chamatkari Mantra Aur Siddhiyaan - Srivastava",
+      "original_file": "chamatkari_mantra_aur_siddhiyaan_srivastava.json",
+      "json_file": "147__chamatkari_mantra_aur_siddhiyaan_srivastava_json.json",
+      "content_type": "text",
+      "dataset_number": "77 of 455"
+    },
+    {
+      "id": "148__chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva_json",
+      "name": "Chandra Gyana Agama English Translation By Rama Ghose Sanskrit Text Edited By Vrajavallabha Dwivedi Shiva Bharati Shodha Pratishtanam, Varanasi",
+      "original_file": "chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.json",
+      "json_file": "148__chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva_json.json",
+      "content_type": "object",
+      "dataset_number": "78 of 455"
+    },
+    {
+      "id": "149__chandrakala_nadi_1_json",
+      "name": "Chandrakala Nadi 1",
+      "original_file": "chandrakala_nadi_1.json",
+      "json_file": "149__chandrakala_nadi_1_json.json",
+      "content_type": "text",
+      "dataset_number": "79 of 455"
+    },
+    {
+      "id": "150__chandrakala_nadi_2_json",
+      "name": "Chandrakala Nadi 2",
+      "original_file": "chandrakala_nadi_2.json",
+      "json_file": "150__chandrakala_nadi_2_json.json",
+      "content_type": "text",
+      "dataset_number": "80 of 455"
+    },
+    {
+      "id": "151__chappanna_or_prasana_sastra_b_suryanarain_rao_1946_json",
+      "name": "Chappanna or Prasana Sastra - B Suryanarain Rao 1946",
+      "original_file": "chappanna_or_prasana_sastra_b_suryanarain_rao_1946.json",
+      "json_file": "151__chappanna_or_prasana_sastra_b_suryanarain_rao_1946_json.json",
+      "content_type": "text",
+      "dataset_number": "81 of 455"
+    },
+    {
+      "id": "152__chara_json",
+      "name": "chara",
+      "original_file": "chara.json",
+      "json_file": "152__chara_json.json",
+      "content_type": "object",
+      "dataset_number": "82 of 455"
+    },
+    {
+      "id": "153__cities_json",
+      "name": "cities",
+      "original_file": "cities.json",
+      "json_file": "153__cities_json.json",
+      "content_type": "object",
+      "dataset_number": "83 of 455"
+    },
+    {
+      "id": "154__ckn_3_json",
+      "name": "CKN 3",
+      "original_file": "ckn_3.json",
+      "json_file": "154__ckn_3_json.json",
+      "content_type": "text",
+      "dataset_number": "84 of 455"
+    },
+    {
+      "id": "155__classified_by_topics_contents_json",
+      "name": "classified by topics_contents",
+      "original_file": "classified_by_topics_contents.json",
+      "json_file": "155__classified_by_topics_contents_json.json",
+      "content_type": "text",
+      "dataset_number": "85 of 455"
+    },
+    {
+      "id": "156__competitive_capability_matrix_json",
+      "name": "competitive-capability-matrix",
+      "original_file": "competitive-capability-matrix.json",
+      "json_file": "156__competitive_capability_matrix_json.json",
+      "content_type": "array",
+      "dataset_number": "86 of 455"
+    },
+    {
+      "id": "157__completion_manifest_v7_json",
+      "name": "completion-manifest-v7",
+      "original_file": "completion-manifest-v7.json",
+      "json_file": "157__completion_manifest_v7_json.json",
+      "content_type": "object",
+      "dataset_number": "87 of 455"
+    },
+    {
+      "id": "158__constants_json",
+      "name": "constants",
+      "original_file": "constants.json",
+      "json_file": "158__constants_json.json",
+      "content_type": "array",
+      "dataset_number": "88 of 455"
+    },
+    {
+      "id": "159__corrections_json",
+      "name": "corrections",
+      "original_file": "corrections.json",
+      "json_file": "159__corrections_json.json",
+      "content_type": "object",
+      "dataset_number": "89 of 455"
+    },
+    {
+      "id": "160__current_year_monthly_json",
+      "name": "current_year_monthly",
+      "original_file": "current_year_monthly.json",
+      "json_file": "160__current_year_monthly_json.json",
+      "content_type": "object",
+      "dataset_number": "90 of 455"
+    },
+    {
+      "id": "161__d10_dashamsa_rules_json",
+      "name": "d10_dashamsa_rules",
+      "original_file": "d10_dashamsa_rules.json",
+      "json_file": "161__d10_dashamsa_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "91 of 455"
+    },
+    {
+      "id": "162__d9_navamsa_rules_json",
+      "name": "d9_navamsa_rules",
+      "original_file": "d9_navamsa_rules.json",
+      "json_file": "162__d9_navamsa_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "92 of 455"
+    },
+    {
+      "id": "163__daily_horoscope_json",
+      "name": "daily_horoscope",
+      "original_file": "daily_horoscope.json",
+      "json_file": "163__daily_horoscope_json.json",
+      "content_type": "object",
+      "dataset_number": "93 of 455"
+    },
+    {
+      "id": "164__damara_tantra_manu_01_04_125_lal_bahadur_shastri_sanskrit_university_json",
+      "name": "Damara Tantra Manu 01 04 # 125 Lal Bahadur Shastri Sanskrit University",
+      "original_file": "damara_tantra_manu_01_04_125_lal_bahadur_shastri_sanskrit_university.json",
+      "json_file": "164__damara_tantra_manu_01_04_125_lal_bahadur_shastri_sanskrit_university_json.json",
+      "content_type": "text",
+      "dataset_number": "94 of 455"
+    },
+    {
+      "id": "165__damara_tantra_ram_kumar_rai_json",
+      "name": "266109451 Damara Tantra Ram Kumar Rai",
+      "original_file": "damara_tantra_ram_kumar_rai.json",
+      "json_file": "165__damara_tantra_ram_kumar_rai_json.json",
+      "content_type": "text",
+      "dataset_number": "95 of 455"
+    },
+    {
+      "id": "166__dasha_bphs_json",
+      "name": "dasha_bphs",
+      "original_file": "dasha_bphs.json",
+      "json_file": "166__dasha_bphs_json.json",
+      "content_type": "object",
+      "dataset_number": "96 of 455"
+    },
+    {
+      "id": "167__dasha_meanings_json",
+      "name": "dasha_meanings",
+      "original_file": "dasha_meanings.json",
+      "json_file": "167__dasha_meanings_json.json",
+      "content_type": "object",
+      "dataset_number": "97 of 455"
+    },
+    {
+      "id": "168__datasetcatalog_json",
+      "name": "datasetCatalog",
+      "original_file": "datasetCatalog.json",
+      "json_file": "168__datasetcatalog_json.json",
+      "content_type": "object",
+      "dataset_number": "98 of 455"
+    },
+    {
+      "id": "169__datasetregistry_json",
+      "name": "datasetRegistry",
+      "original_file": "datasetRegistry.json",
+      "json_file": "169__datasetregistry_json.json",
+      "content_type": "object",
+      "dataset_number": "99 of 455"
+    },
+    {
+      "id": "170__decade_forecast_json",
+      "name": "decade_forecast",
+      "original_file": "decade_forecast.json",
+      "json_file": "170__decade_forecast_json.json",
+      "content_type": "object",
+      "dataset_number": "100 of 455"
+    },
+    {
+      "id": "171__deva_keralam_json",
+      "name": "Deva Keralam",
+      "original_file": "deva_keralam.json",
+      "json_file": "171__deva_keralam_json.json",
+      "content_type": "text",
+      "dataset_number": "101 of 455"
+    },
+    {
+      "id": "172__deva_keralam_1_chandrakala_nadi_json",
+      "name": "Deva Keralam 1 Chandrakala Nadi",
+      "original_file": "deva_keralam_1_chandrakala_nadi.json",
+      "json_file": "172__deva_keralam_1_chandrakala_nadi_json.json",
+      "content_type": "text",
+      "dataset_number": "102 of 455"
+    },
+    {
+      "id": "173__deva_keralam_2_chandrakala_nadi_json",
+      "name": "Deva Keralam 2 Chandrakala Nadi",
+      "original_file": "deva_keralam_2_chandrakala_nadi.json",
+      "json_file": "173__deva_keralam_2_chandrakala_nadi_json.json",
+      "content_type": "text",
+      "dataset_number": "103 of 455"
+    },
+    {
+      "id": "174__dharma_sindhu_by_kashinath_upadhyaya_1904_nirnaya_sagar_press_jangamawadi_math_collection_json",
+      "name": "Dharma Sindhu By Kashinath Upadhyaya 1904 Nirnaya Sagar Press Jangamawadi Math Collection",
+      "original_file": "dharma_sindhu_by_kashinath_upadhyaya_1904_nirnaya_sagar_press_jangamawadi_math_collection.json",
+      "json_file": "174__dharma_sindhu_by_kashinath_upadhyaya_1904_nirnaya_sagar_press_jangamawadi_math_collection_json.json",
+      "content_type": "text",
+      "dataset_number": "104 of 455"
+    },
+    {
+      "id": "175__dharmasindhu_json",
+      "name": "Dharmasindhu",
+      "original_file": "dharmasindhu.json",
+      "json_file": "175__dharmasindhu_json.json",
+      "content_type": "text",
+      "dataset_number": "105 of 455"
+    },
+    {
+      "id": "176__dharmasindhu_srikashinaththopadhyavicharit_json",
+      "name": "Dharmasindhu Srikashinaththopadhyavicharit",
+      "original_file": "dharmasindhu_srikashinaththopadhyavicharit.json",
+      "json_file": "176__dharmasindhu_srikashinaththopadhyavicharit_json.json",
+      "content_type": "text",
+      "dataset_number": "106 of 455"
+    },
+    {
+      "id": "177__divisional_charts_json",
+      "name": "divisional_charts",
+      "original_file": "divisional_charts.json",
+      "json_file": "177__divisional_charts_json.json",
+      "content_type": "object",
+      "dataset_number": "107 of 455"
+    },
+    {
+      "id": "178__dosha_yoga_remedies_json",
+      "name": "dosha_yoga_remedies",
+      "original_file": "dosha_yoga_remedies.json",
+      "json_file": "178__dosha_yoga_remedies_json.json",
+      "content_type": "object",
+      "dataset_number": "108 of 455"
+    },
+    {
+      "id": "179__doshas_json",
+      "name": "doshas",
+      "original_file": "doshas.json",
+      "json_file": "179__doshas_json.json",
+      "content_type": "array",
+      "dataset_number": "109 of 455"
+    },
+    {
+      "id": "180__doshas_detailed_database_json",
+      "name": "doshas_detailed_database",
+      "original_file": "doshas_detailed_database.json",
+      "json_file": "180__doshas_detailed_database_json.json",
+      "content_type": "array",
+      "dataset_number": "110 of 455"
+    },
+    {
+      "id": "181__dream_meanings_json",
+      "name": "dream_meanings",
+      "original_file": "dream_meanings.json",
+      "json_file": "181__dream_meanings_json.json",
+      "content_type": "array",
+      "dataset_number": "111 of 455"
+    },
+    {
+      "id": "182__durga_saptashati_tantra_books_json",
+      "name": "Durga_Saptashati - Tantra Books",
+      "original_file": "durga_saptashati_tantra_books.json",
+      "json_file": "182__durga_saptashati_tantra_books_json.json",
+      "content_type": "text",
+      "dataset_number": "112 of 455"
+    },
+    {
+      "id": "183__education_config_json",
+      "name": "education_config",
+      "original_file": "education_config.json",
+      "json_file": "183__education_config_json.json",
+      "content_type": "object",
+      "dataset_number": "113 of 455"
+    },
+    {
+      "id": "184__ekaksharaganapatikavacha_rudrayamalatantra_cgv_pss_0948_1006_json",
+      "name": "ekaksharaganapatikavacha_rudrayamalatantra_-CGV-PSS-0948-1006",
+      "original_file": "ekaksharaganapatikavacha_rudrayamalatantra_cgv_pss_0948_1006.json",
+      "json_file": "184__ekaksharaganapatikavacha_rudrayamalatantra_cgv_pss_0948_1006_json.json",
+      "content_type": "text",
+      "dataset_number": "114 of 455"
+    },
+    {
+      "id": "185__encyclopaedia_of_hinduism_json",
+      "name": "Encyclopaedia of Hinduism",
+      "original_file": "encyclopaedia_of_hinduism.json",
+      "json_file": "185__encyclopaedia_of_hinduism_json.json",
+      "content_type": "text",
+      "dataset_number": "115 of 455"
+    },
+    {
+      "id": "186__engine_json",
+      "name": "engine",
+      "original_file": "engine.json",
+      "json_file": "186__engine_json.json",
+      "content_type": "object",
+      "dataset_number": "116 of 455"
+    },
+    {
+      "id": "187__event_remedies_json",
+      "name": "event-remedies",
+      "original_file": "event-remedies.json",
+      "json_file": "187__event_remedies_json.json",
+      "content_type": "object",
+      "dataset_number": "117 of 455"
+    },
+    {
+      "id": "188__eventrules_json",
+      "name": "eventRules",
+      "original_file": "eventRules.json",
+      "json_file": "188__eventrules_json.json",
+      "content_type": "array",
+      "dataset_number": "118 of 455"
+    },
+    {
+      "id": "189__extended_sections_json",
+      "name": "extended-sections",
+      "original_file": "extended-sections.json",
+      "json_file": "189__extended_sections_json.json",
+      "content_type": "object",
+      "dataset_number": "119 of 455"
+    },
+    {
+      "id": "190__extended_bala_json",
+      "name": "extended_bala",
+      "original_file": "extended_bala.json",
+      "json_file": "190__extended_bala_json.json",
+      "content_type": "array",
+      "dataset_number": "120 of 455"
+    },
+    {
+      "id": "191__extended_sections_json",
+      "name": "extended_sections",
+      "original_file": "extended_sections.json",
+      "json_file": "191__extended_sections_json.json",
+      "content_type": "object",
+      "dataset_number": "121 of 455"
+    },
+    {
+      "id": "192__feature_capabilities_json",
+      "name": "feature-capabilities",
+      "original_file": "feature-capabilities.json",
+      "json_file": "192__feature_capabilities_json.json",
+      "content_type": "text",
+      "dataset_number": "122 of 455"
+    },
+    {
+      "id": "193__finance_prediction_rules_json",
+      "name": "finance_prediction_rules",
+      "original_file": "finance_prediction_rules.json",
+      "json_file": "193__finance_prediction_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "123 of 455"
+    },
+    {
+      "id": "194__garuda_mahapurana_json",
+      "name": "Garuda Mahapurana",
+      "original_file": "garuda_mahapurana.json",
+      "json_file": "194__garuda_mahapurana_json.json",
+      "content_type": "text",
+      "dataset_number": "124 of 455"
+    },
+    {
+      "id": "195__garuda_purana_json",
+      "name": "Garuda Purana",
+      "original_file": "garuda_purana.json",
+      "json_file": "195__garuda_purana_json.json",
+      "content_type": "text",
+      "dataset_number": "125 of 455"
+    },
+    {
+      "id": "196__garuda_purana_sankshipt_gita_press_json",
+      "name": "संक्षिप्त गरुडपुराण - Garuda Purana (Sankshipt) Gita Press Gorakhpur",
+      "original_file": "garuda_purana_sankshipt_gita_press.json",
+      "json_file": "196__garuda_purana_sankshipt_gita_press_json.json",
+      "content_type": "text",
+      "dataset_number": "126 of 455"
+    },
+    {
+      "id": "197__gayatri_maha_mantra_swami_kashikananda_giri_json",
+      "name": "Gayatri Maha Mantra - Swami Kashikananda Giri",
+      "original_file": "gayatri_maha_mantra_swami_kashikananda_giri.json",
+      "json_file": "197__gayatri_maha_mantra_swami_kashikananda_giri_json.json",
+      "content_type": "text",
+      "dataset_number": "127 of 455"
+    },
+    {
+      "id": "198__gemstones_recommendation_json",
+      "name": "Gemstones Recommendation as per Rashi and Lagna",
+      "original_file": "gemstones_recommendation.json",
+      "json_file": "198__gemstones_recommendation_json.json",
+      "content_type": "array",
+      "dataset_number": "128 of 455"
+    },
+    {
+      "id": "199__ghatakfavourable_json",
+      "name": "ghatakFavourable",
+      "original_file": "ghatakFavourable.json",
+      "json_file": "199__ghatakfavourable_json.json",
+      "content_type": "object",
+      "dataset_number": "129 of 455"
+    },
+    {
+      "id": "200__gochar_json",
+      "name": "gochar",
+      "original_file": "gochar.json",
+      "json_file": "200__gochar_json.json",
+      "content_type": "object",
+      "dataset_number": "130 of 455"
+    },
+    {
+      "id": "201__graha_shanti_rules_json",
+      "name": "graha_shanti_rules",
+      "original_file": "graha_shanti_rules.json",
+      "json_file": "201__graha_shanti_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "131 of 455"
+    },
+    {
+      "id": "202__graha_states_json",
+      "name": "graha_states",
+      "original_file": "graha_states.json",
+      "json_file": "202__graha_states_json.json",
+      "content_type": "object",
+      "dataset_number": "132 of 455"
+    },
+    {
+      "id": "203__health_prediction_rules_json",
+      "name": "health_prediction_rules",
+      "original_file": "health_prediction_rules.json",
+      "json_file": "203__health_prediction_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "133 of 455"
+    },
+    {
+      "id": "204__hora_sara_of_prithuyasas_prof_r_santhanam_json",
+      "name": "Hora Sara of Prithuyasas - Prof R Santhanam",
+      "original_file": "hora_sara_of_prithuyasas_prof_r_santhanam.json",
+      "json_file": "204__hora_sara_of_prithuyasas_prof_r_santhanam_json.json",
+      "content_type": "text",
+      "dataset_number": "134 of 455"
+    },
+    {
+      "id": "205__house_effects_bphs_json",
+      "name": "house_effects_bphs",
+      "original_file": "house_effects_bphs.json",
+      "json_file": "205__house_effects_bphs_json.json",
+      "content_type": "object",
+      "dataset_number": "135 of 455"
+    },
+    {
+      "id": "206__index_json",
+      "name": "index",
+      "original_file": "index.json",
+      "json_file": "206__index_json.json",
+      "content_type": "object",
+      "dataset_number": "136 of 455"
+    },
+    {
+      "id": "207__ishta_devata_mapping_json",
+      "name": "ishta_devata_mapping",
+      "original_file": "ishta_devata_mapping.json",
+      "json_file": "207__ishta_devata_mapping_json.json",
+      "content_type": "array",
+      "dataset_number": "137 of 455"
+    },
+    {
+      "id": "208__iti_brihat_jataka_by_bhattotpala_ashtaka_varga_adhyaya_and_muhurta_darpana_sanskrit_subject_jyotish_gurukul_json",
+      "name": "Iti Brihat Jataka By Bhattotpala Ashtaka Varga Adhyaya And Muhurta Darpana (Sanskrit, Subject - Jyotish) - Gurukul Kangri Collection",
+      "original_file": "iti_brihat_jataka_by_bhattotpala_ashtaka_varga_adhyaya_and_muhurta_darpana_sanskrit_subject_jyotish_gurukul.json",
+      "json_file": "208__iti_brihat_jataka_by_bhattotpala_ashtaka_varga_adhyaya_and_muhurta_darpana_sanskrit_subject_jyotish_gurukul_json.json",
+      "content_type": "text",
+      "dataset_number": "138 of 455"
+    },
+    {
+      "id": "209__jadi_herbs_json",
+      "name": "jadi_herbs",
+      "original_file": "jadi_herbs.json",
+      "json_file": "209__jadi_herbs_json.json",
+      "content_type": "array",
+      "dataset_number": "139 of 455"
+    },
+    {
+      "id": "210__jaimini_sutras_json",
+      "name": "2015.486584.Jaimini-Sutras",
+      "original_file": "jaimini_sutras.json",
+      "json_file": "210__jaimini_sutras_json.json",
+      "content_type": "text",
+      "dataset_number": "140 of 455"
+    },
+    {
+      "id": "211__jaimini_sutras_2_json",
+      "name": "JAIMINI SUTRAS",
+      "original_file": "jaimini_sutras_2.json",
+      "json_file": "211__jaimini_sutras_2_json.json",
+      "content_type": "text",
+      "dataset_number": "141 of 455"
+    },
+    {
+      "id": "212__jaimini_sutras_b_suryanarain_rao_1949_json",
+      "name": "Jaimini Sutras - B Suryanarain Rao 1949",
+      "original_file": "jaimini_sutras_b_suryanarain_rao_1949.json",
+      "json_file": "212__jaimini_sutras_b_suryanarain_rao_1949_json.json",
+      "content_type": "text",
+      "dataset_number": "142 of 455"
+    },
+    {
+      "id": "213__jaimini_sutras_b_suryanarain_rao_1955_json",
+      "name": "Jaimini Sutras - B Suryanarain Rao 1955",
+      "original_file": "jaimini_sutras_b_suryanarain_rao_1955.json",
+      "json_file": "213__jaimini_sutras_b_suryanarain_rao_1955_json.json",
+      "content_type": "text",
+      "dataset_number": "143 of 455"
+    },
+    {
+      "id": "214__janam_kundali_rachna_evam_phal_vichar_json",
+      "name": "Janam Kundali Rachna Evam Phal Vichar",
+      "original_file": "janam_kundali_rachna_evam_phal_vichar.json",
+      "json_file": "214__janam_kundali_rachna_evam_phal_vichar_json.json",
+      "content_type": "text",
+      "dataset_number": "144 of 455"
+    },
+    {
+      "id": "215__janma_kundali_by_shri_bharatiya_yogi_1982_bareli_samskruti_samsthan_json",
+      "name": "Janma Kundali by Shri Bharatiya Yogi 1982 Bareli - Samskruti Samsthan",
+      "original_file": "janma_kundali_by_shri_bharatiya_yogi_1982_bareli_samskruti_samsthan.json",
+      "json_file": "215__janma_kundali_by_shri_bharatiya_yogi_1982_bareli_samskruti_samsthan_json.json",
+      "content_type": "text",
+      "dataset_number": "145 of 455"
+    },
+    {
+      "id": "216__jataka_chandrika_b_suryanarayana_row_1900_json",
+      "name": "Jataka Chandrika - B Suryanarayana Row 1900",
+      "original_file": "jataka_chandrika_b_suryanarayana_row_1900.json",
+      "json_file": "216__jataka_chandrika_b_suryanarayana_row_1900_json.json",
+      "content_type": "text",
+      "dataset_number": "146 of 455"
+    },
+    {
+      "id": "217__jataka_parijata_json",
+      "name": "2015.312156.Jataka-Parijata",
+      "original_file": "jataka_parijata.json",
+      "json_file": "217__jataka_parijata_json.json",
+      "content_type": "text",
+      "dataset_number": "147 of 455"
+    },
+    {
+      "id": "218__jataka_parijata_2_json",
+      "name": "2015.405738.Jataka-Parijata",
+      "original_file": "jataka_parijata_2.json",
+      "json_file": "218__jataka_parijata_2_json.json",
+      "content_type": "text",
+      "dataset_number": "148 of 455"
+    },
+    {
+      "id": "219__jataka_parijata_by_daivagya_shri_vaidyanatha_prajnavarddhini_commentary_by_dr_satyendra_mishra_sanskrit_hindi_json",
+      "name": "Jataka Parijata By Daivagya Shri Vaidyanatha Prajnavarddhini Commentary By Dr Satyendra Mishra Sanskrit Hindi Varanasi 2018 - Chowkhamba Sanskrit Series",
+      "original_file": "jataka_parijata_by_daivagya_shri_vaidyanatha_prajnavarddhini_commentary_by_dr_satyendra_mishra_sanskrit_hindi.json",
+      "json_file": "219__jataka_parijata_by_daivagya_shri_vaidyanatha_prajnavarddhini_commentary_by_dr_satyendra_mishra_sanskrit_hindi_json.json",
+      "content_type": "text",
+      "dataset_number": "149 of 455"
+    },
+    {
+      "id": "220__jataka_parijata_daivjna_vidyanatha_pt_kapileswar_shastri_chaukambha_json",
+      "name": "Jataka Parijata Daivjna Vidyanatha Pt. Kapileswar Shastri Chaukambha",
+      "original_file": "jataka_parijata_daivjna_vidyanatha_pt_kapileswar_shastri_chaukambha.json",
+      "json_file": "220__jataka_parijata_daivjna_vidyanatha_pt_kapileswar_shastri_chaukambha_json.json",
+      "content_type": "text",
+      "dataset_number": "150 of 455"
+    },
+    {
+      "id": "221__jataka_parijata_with_explanation_of_pt_kapileshvara_shastri_and_vimala_hindi_tika_of_pt_shri_matri_prasad_json",
+      "name": "Jataka Parijata with explanation of Pt. Kapileshvara Shastri and Vimala Hindi Tika of Pt. Shri Matri Prasad Shastri Series No. 10 - Kashi Sanskrit Series",
+      "original_file": "jataka_parijata_with_explanation_of_pt_kapileshvara_shastri_and_vimala_hindi_tika_of_pt_shri_matri_prasad.json",
+      "json_file": "221__jataka_parijata_with_explanation_of_pt_kapileshvara_shastri_and_vimala_hindi_tika_of_pt_shri_matri_prasad_json.json",
+      "content_type": "text",
+      "dataset_number": "151 of 455"
+    },
+    {
+      "id": "222__jataka_parijata_with_prajnavardhini_sanskrit_hindi_commentaries_by_daivagya_shri_vaidyanatha_commented_edited_json",
+      "name": "Jataka Parijata With Prajnavardhini Sanskrit Hindi Commentaries By Daivagya Shri Vaidyanatha Commented Edited Translated by Dr Satyendra Mishra Sanskrit Hindi Jyotisha Va",
+      "original_file": "jataka_parijata_with_prajnavardhini_sanskrit_hindi_commentaries_by_daivagya_shri_vaidyanatha_commented_edited.json",
+      "json_file": "222__jataka_parijata_with_prajnavardhini_sanskrit_hindi_commentaries_by_daivagya_shri_vaidyanatha_commented_edited_json.json",
+      "content_type": "text",
+      "dataset_number": "152 of 455"
+    },
+    {
+      "id": "223__jyotish_anil_chawla_a_philosophy_of_astrology_kp_system_json",
+      "name": "Jyotish_Anil Chawla_A Philosophy of astrology_KP system",
+      "original_file": "jyotish_anil_chawla_a_philosophy_of_astrology_kp_system.json",
+      "json_file": "223__jyotish_anil_chawla_a_philosophy_of_astrology_kp_system_json.json",
+      "content_type": "text",
+      "dataset_number": "222 of 455"
+    },
+    {
+      "id": "224__jyotish_applications_of_cuspal_interlinks_part_1_baskaran_banned_json",
+      "name": "Jyotish_Applications of cuspal interlinks part 1_Baskaran_banned",
+      "original_file": "jyotish_applications_of_cuspal_interlinks_part_1_baskaran_banned.json",
+      "json_file": "224__jyotish_applications_of_cuspal_interlinks_part_1_baskaran_banned_json.json",
+      "content_type": "text",
+      "dataset_number": "223 of 455"
+    },
+    {
+      "id": "225__jyotish_applications_of_cuspal_interlinks_part_2_baskaran_banned_json",
+      "name": "Jyotish_Applications of cuspal interlinks part 2_Baskaran_banned",
+      "original_file": "jyotish_applications_of_cuspal_interlinks_part_2_baskaran_banned.json",
+      "json_file": "225__jyotish_applications_of_cuspal_interlinks_part_2_baskaran_banned_json.json",
+      "content_type": "text",
+      "dataset_number": "224 of 455"
+    },
+    {
+      "id": "226__jyotish_astrologics_of_kaalchakra_baskaran_json",
+      "name": "Jyotish_Astrologics of kaalchakra_Baskaran",
+      "original_file": "jyotish_astrologics_of_kaalchakra_baskaran.json",
+      "json_file": "226__jyotish_astrologics_of_kaalchakra_baskaran_json.json",
+      "content_type": "text",
+      "dataset_number": "225 of 455"
+    },
+    {
+      "id": "227__jyotish_houses_8_and_3_in_advanced_astrology_kp_horary_chatterjee_json",
+      "name": "Jyotish_Houses 8 and 3 in advanced astrology_KP Horary_Chatterjee",
+      "original_file": "jyotish_houses_8_and_3_in_advanced_astrology_kp_horary_chatterjee.json",
+      "json_file": "227__jyotish_houses_8_and_3_in_advanced_astrology_kp_horary_chatterjee_json.json",
+      "content_type": "text",
+      "dataset_number": "226 of 455"
+    },
+    {
+      "id": "228__jyotish_how_k_p_pinpoint_events_prasna_k_hariharan_json",
+      "name": "Jyotish_How K.P. pinpoint events_prasna_K. HARIHARAN",
+      "original_file": "jyotish_how_k_p_pinpoint_events_prasna_k_hariharan.json",
+      "json_file": "228__jyotish_how_k_p_pinpoint_events_prasna_k_hariharan_json.json",
+      "content_type": "text",
+      "dataset_number": "227 of 455"
+    },
+    {
+      "id": "229__jyotish_k_p_astro_iq_easy_test_json",
+      "name": "Jyotish_K.P._Astro IQ_easy test",
+      "original_file": "jyotish_k_p_astro_iq_easy_test.json",
+      "json_file": "229__jyotish_k_p_astro_iq_easy_test_json.json",
+      "content_type": "text",
+      "dataset_number": "228 of 455"
+    },
+    {
+      "id": "230__jyotish_k_p_basics_of_nakshatra_padhathi_mk_viswanath_json",
+      "name": "Jyotish_K.P._Basics of nakshatra padhathi_MK Viswanath",
+      "original_file": "jyotish_k_p_basics_of_nakshatra_padhathi_mk_viswanath.json",
+      "json_file": "230__jyotish_k_p_basics_of_nakshatra_padhathi_mk_viswanath_json.json",
+      "content_type": "text",
+      "dataset_number": "229 of 455"
+    },
+    {
+      "id": "231__jyotish_k_p_dynamics_s_naik_json",
+      "name": "Jyotish_K.P. dynamics_S. NAIK",
+      "original_file": "jyotish_k_p_dynamics_s_naik.json",
+      "json_file": "231__jyotish_k_p_dynamics_s_naik_json.json",
+      "content_type": "text",
+      "dataset_number": "230 of 455"
+    },
+    {
+      "id": "232__jyotish_k_p_how_to_judge_longevity_k_hariharan_json",
+      "name": "Jyotish_K.P._How to judge longevity_K. HARIHARAN",
+      "original_file": "jyotish_k_p_how_to_judge_longevity_k_hariharan.json",
+      "json_file": "232__jyotish_k_p_how_to_judge_longevity_k_hariharan_json.json",
+      "content_type": "text",
+      "dataset_number": "231 of 455"
+    },
+    {
+      "id": "233__jyotish_key_to_learn_k_p_cuspal_system_s_p_khullar_json",
+      "name": "Jyotish_Key to Learn_K.P. cuspal system_S.P. Khullar",
+      "original_file": "jyotish_key_to_learn_k_p_cuspal_system_s_p_khullar.json",
+      "json_file": "233__jyotish_key_to_learn_k_p_cuspal_system_s_p_khullar_json.json",
+      "content_type": "text",
+      "dataset_number": "232 of 455"
+    },
+    {
+      "id": "234__jyotish_kp_books_magazines_contents_json",
+      "name": "Jyotish_KP books-magazines_contents",
+      "original_file": "jyotish_kp_books_magazines_contents.json",
+      "json_file": "234__jyotish_kp_books_magazines_contents_json.json",
+      "content_type": "text",
+      "dataset_number": "233 of 455"
+    },
+    {
+      "id": "235__jyotish_kp_kalamsa_and_cuspal_interlinks_s_p_khullar_json",
+      "name": "Jyotish_KP_Kalamsa and cuspal interlinks _S.P. Khullar",
+      "original_file": "jyotish_kp_kalamsa_and_cuspal_interlinks_s_p_khullar.json",
+      "json_file": "235__jyotish_kp_kalamsa_and_cuspal_interlinks_s_p_khullar_json.json",
+      "content_type": "text",
+      "dataset_number": "234 of 455"
+    },
+    {
+      "id": "236__jyotish_kp_new_dimensions_of_kp_astro_prabhakar_json",
+      "name": "Jyotish_KP_new dimensions of KP astro_Prabhakar",
+      "original_file": "jyotish_kp_new_dimensions_of_kp_astro_prabhakar.json",
+      "json_file": "236__jyotish_kp_new_dimensions_of_kp_astro_prabhakar_json.json",
+      "content_type": "text",
+      "dataset_number": "235 of 455"
+    },
+    {
+      "id": "237__jyotish_kp_reader_5_transits_banned_json",
+      "name": "Jyotish_KP.reader 5_transits banned",
+      "original_file": "jyotish_kp_reader_5_transits_banned.json",
+      "json_file": "237__jyotish_kp_reader_5_transits_banned_json.json",
+      "content_type": "text",
+      "dataset_number": "236 of 455"
+    },
+    {
+      "id": "238__jyotish_kp_sharad_joshi_krishnamurthy_padhdhati_json",
+      "name": "Jyotish_KP_Sharad Joshi_Krishnamurthy padhdhati",
+      "original_file": "jyotish_kp_sharad_joshi_krishnamurthy_padhdhati.json",
+      "json_file": "238__jyotish_kp_sharad_joshi_krishnamurthy_padhdhati_json.json",
+      "content_type": "text",
+      "dataset_number": "237 of 455"
+    },
+    {
+      "id": "239__jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing_json",
+      "name": "Jyotish_KP_Sharad Joshi_Nakshatra chintan_part 1_pages missing",
+      "original_file": "jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing.json",
+      "json_file": "239__jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing_json.json",
+      "content_type": "text",
+      "dataset_number": "238 of 455"
+    },
+    {
+      "id": "240__jyotish_kp_sharad_joshi_nakshatra_light_json",
+      "name": "Jyotish_KP_Sharad Joshi_Nakshatra light",
+      "original_file": "jyotish_kp_sharad_joshi_nakshatra_light.json",
+      "json_file": "240__jyotish_kp_sharad_joshi_nakshatra_light_json.json",
+      "content_type": "text",
+      "dataset_number": "239 of 455"
+    },
+    {
+      "id": "241__jyotish_kp_the_times_horary_astrology_prabhakar_json",
+      "name": "Jyotish_KP_The times_Horary Astrology_Prabhakar",
+      "original_file": "jyotish_kp_the_times_horary_astrology_prabhakar.json",
+      "json_file": "241__jyotish_kp_the_times_horary_astrology_prabhakar_json.json",
+      "content_type": "text",
+      "dataset_number": "240 of 455"
+    },
+    {
+      "id": "242__jyotish_kp_true_astrology_s_p_khullar_json",
+      "name": "Jyotish_KP_True astrology _S.P. Khullar",
+      "original_file": "jyotish_kp_true_astrology_s_p_khullar.json",
+      "json_file": "242__jyotish_kp_true_astrology_s_p_khullar_json.json",
+      "content_type": "text",
+      "dataset_number": "241 of 455"
+    },
+    {
+      "id": "243__jyotish_kp_year_book_2010_json",
+      "name": "Jyotish_KP year book 2010",
+      "original_file": "jyotish_kp_year_book_2010.json",
+      "json_file": "243__jyotish_kp_year_book_2010_json.json",
+      "content_type": "text",
+      "dataset_number": "242 of 455"
+    },
+    {
+      "id": "244__jyotish_krishnamurthy_paddhati_bansal_json",
+      "name": "Jyotish_Krishnamurthy paddhati_Bansal",
+      "original_file": "jyotish_krishnamurthy_paddhati_bansal.json",
+      "json_file": "244__jyotish_krishnamurthy_paddhati_bansal_json.json",
+      "content_type": "text",
+      "dataset_number": "243 of 455"
+    },
+    {
+      "id": "245__jyotish_prashna_kundali_vichar_json",
+      "name": "Jyotish Prashna Kundali Vichar",
+      "original_file": "jyotish_prashna_kundali_vichar.json",
+      "json_file": "245__jyotish_prashna_kundali_vichar_json.json",
+      "content_type": "text",
+      "dataset_number": "244 of 455"
+    },
+    {
+      "id": "246__jyotish_your_true_horoscope_kp_rectification_s_p_khullar_json",
+      "name": "Jyotish_your true horoscope_KP rectification_S.P. Khullar",
+      "original_file": "jyotish_your_true_horoscope_kp_rectification_s_p_khullar.json",
+      "json_file": "246__jyotish_your_true_horoscope_kp_rectification_s_p_khullar_json.json",
+      "content_type": "text",
+      "dataset_number": "245 of 455"
+    },
+    {
+      "id": "247__kalachakra_json",
+      "name": "kalachakra",
+      "original_file": "kalachakra.json",
+      "json_file": "247__kalachakra_json.json",
+      "content_type": "object",
+      "dataset_number": "246 of 455"
+    },
+    {
+      "id": "248__kali_tantra_shashtra_tantra_books_json",
+      "name": "255457734 - Kali - Tantra - Shashtra - Tantra Books",
+      "original_file": "kali_tantra_shashtra_tantra_books.json",
+      "json_file": "248__kali_tantra_shashtra_tantra_books_json.json",
+      "content_type": "text",
+      "dataset_number": "247 of 455"
+    },
+    {
+      "id": "249__kalyan_sankshipta_varaha_purana_ankha_editor_motilal_jalan_gorakhpur_1977_gita_press_json",
+      "name": "Kalyan Sankshipta Varaha Purana Ankha Editor Motilal Jalan Gorakhpur 1977 Gita Press",
+      "original_file": "kalyan_sankshipta_varaha_purana_ankha_editor_motilal_jalan_gorakhpur_1977_gita_press.json",
+      "json_file": "249__kalyan_sankshipta_varaha_purana_ankha_editor_motilal_jalan_gorakhpur_1977_gita_press_json.json",
+      "content_type": "text",
+      "dataset_number": "248 of 455"
+    },
+    {
+      "id": "250__karakamsha_rules_json",
+      "name": "karakamsha_rules",
+      "original_file": "karakamsha_rules.json",
+      "json_file": "250__karakamsha_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "249 of 455"
+    },
+    {
+      "id": "251__karana_details_json",
+      "name": "karana_details",
+      "original_file": "karana_details.json",
+      "json_file": "251__karana_details_json.json",
+      "content_type": "object",
+      "dataset_number": "250 of 455"
+    },
+    {
+      "id": "252__karma_vipaka_samhita_tika_and_bhashya_vasti_ram_venkateswara_steam_press_json",
+      "name": "Karma Vipaka Samhita Tika & Bhashya Vasti Ram Venkateswara Steam Press",
+      "original_file": "karma_vipaka_samhita_tika_and_bhashya_vasti_ram_venkateswara_steam_press.json",
+      "json_file": "252__karma_vipaka_samhita_tika_and_bhashya_vasti_ram_venkateswara_steam_press_json.json",
+      "content_type": "text",
+      "dataset_number": "251 of 455"
+    },
+    {
+      "id": "253__karma_vipaka_samhita_trans_by_vastirama_2010_delhi_rashtriya_sanskrit_samsthan_json",
+      "name": "Karma Vipaka Samhita Trans By Vastirama 2010 Delhi Rashtriya Sanskrit Samsthan",
+      "original_file": "karma_vipaka_samhita_trans_by_vastirama_2010_delhi_rashtriya_sanskrit_samsthan.json",
+      "json_file": "253__karma_vipaka_samhita_trans_by_vastirama_2010_delhi_rashtriya_sanskrit_samsthan_json.json",
+      "content_type": "text",
+      "dataset_number": "252 of 455"
+    },
+    {
+      "id": "254__kp_system_json",
+      "name": "kp_system",
+      "original_file": "kp_system.json",
+      "json_file": "254__kp_system_json.json",
+      "content_type": "object",
+      "dataset_number": "253 of 455"
+    },
+    {
+      "id": "255__ksu_h1308_saravali0000vsub_json",
+      "name": "ksu.h1308.saravali0000vsub",
+      "original_file": "ksu_h1308_saravali0000vsub.json",
+      "json_file": "255__ksu_h1308_saravali0000vsub_json.json",
+      "content_type": "text",
+      "dataset_number": "254 of 455"
+    },
+    {
+      "id": "256__kurma_puranam_ed_by_mahesh_chandra_josh_1967_varansi_chowkhamba_krishnadas_academy_json",
+      "name": "Kurma Puranam Ed By Mahesh Chandra Josh 1967 Varansi Chowkhamba Krishnadas Academy",
+      "original_file": "kurma_puranam_ed_by_mahesh_chandra_josh_1967_varansi_chowkhamba_krishnadas_academy.json",
+      "json_file": "256__kurma_puranam_ed_by_mahesh_chandra_josh_1967_varansi_chowkhamba_krishnadas_academy_json.json",
+      "content_type": "text",
+      "dataset_number": "255 of 455"
+    },
+    {
+      "id": "257__lagna_predictions_json",
+      "name": "lagna_predictions",
+      "original_file": "lagna_predictions.json",
+      "json_file": "257__lagna_predictions_json.json",
+      "content_type": "object",
+      "dataset_number": "256 of 455"
+    },
+    {
+      "id": "258__laksmi_tantra_a_pancharatra_agama_pandit_v_krishnamacharya_json",
+      "name": "Laksmi Tantra A Pancharatra Agama Pandit V. Krishnamacharya",
+      "original_file": "laksmi_tantra_a_pancharatra_agama_pandit_v_krishnamacharya.json",
+      "json_file": "258__laksmi_tantra_a_pancharatra_agama_pandit_v_krishnamacharya_json.json",
+      "content_type": "text",
+      "dataset_number": "257 of 455"
+    },
+    {
+      "id": "259__lal_kitab_data_json",
+      "name": "lal-kitab-data",
+      "original_file": "lal-kitab-data.json",
+      "json_file": "259__lal_kitab_data_json.json",
+      "content_type": "object",
+      "dataset_number": "258 of 455"
+    },
+    {
+      "id": "260__lal_kitab_timing_json",
+      "name": "lal-kitab-timing",
+      "original_file": "lal-kitab-timing.json",
+      "json_file": "260__lal_kitab_timing_json.json",
+      "content_type": "object",
+      "dataset_number": "259 of 455"
+    },
+    {
+      "id": "261__lal_kitab_1939_json",
+      "name": "लाल किताब १९३९",
+      "original_file": "lal_kitab_1939.json",
+      "json_file": "261__lal_kitab_1939_json.json",
+      "content_type": "text",
+      "dataset_number": "260 of 455"
+    },
+    {
+      "id": "262__lal_kitab_ke_adbhut_totke_evam_upay_grahon_ke_kuprabhav_se_bachne_ke_liye_by_dr_umesh_puri_gyaneshwar_hindi_json",
+      "name": "Lal Kitab Ke Adbhut Totke Evam Upay Grahon Ke Kuprabhav Se Bachne Ke Liye By Dr Umesh Puri Gyaneshwar Hindi Astrology Illustrated Haridwar 2002 - Randhir Prakashan",
+      "original_file": "lal_kitab_ke_adbhut_totke_evam_upay_grahon_ke_kuprabhav_se_bachne_ke_liye_by_dr_umesh_puri_gyaneshwar_hindi.json",
+      "json_file": "262__lal_kitab_ke_adbhut_totke_evam_upay_grahon_ke_kuprabhav_se_bachne_ke_liye_by_dr_umesh_puri_gyaneshwar_hindi_json.json",
+      "content_type": "text",
+      "dataset_number": "261 of 455"
+    },
+    {
+      "id": "263__lal_kitab_upay_sahit_json",
+      "name": "LAL KITAB UPAY SAHIT",
+      "original_file": "lal_kitab_upay_sahit.json",
+      "json_file": "263__lal_kitab_upay_sahit_json.json",
+      "content_type": "text",
+      "dataset_number": "262 of 455"
+    },
+    {
+      "id": "264__lalkitab_json",
+      "name": "lalkitab",
+      "original_file": "lalkitab.json",
+      "json_file": "264__lalkitab_json.json",
+      "content_type": "object",
+      "dataset_number": "263 of 455"
+    },
+    {
+      "id": "265__le_dharmasindhu_ou_ocean_des_rites_religieux_traduit_du_sanscrit_en_anglais_et_commente_par_m_a_bourquin_json",
+      "name": "Le Dharmasindhu; ou, Océan des rites religieux :  traduit du sanscrit en anglais et commente par M.A. Bourquin ; première partie / traduit de l'anglais par L. de Millouè.",
+      "original_file": "le_dharmasindhu_ou_ocean_des_rites_religieux_traduit_du_sanscrit_en_anglais_et_commente_par_m_a_bourquin.json",
+      "json_file": "265__le_dharmasindhu_ou_ocean_des_rites_religieux_traduit_du_sanscrit_en_anglais_et_commente_par_m_a_bourquin_json.json",
+      "content_type": "text",
+      "dataset_number": "264 of 455"
+    },
+    {
+      "id": "266__lordshipquality_json",
+      "name": "lordshipQuality",
+      "original_file": "lordshipQuality.json",
+      "json_file": "266__lordshipquality_json.json",
+      "content_type": "object",
+      "dataset_number": "265 of 455"
+    },
+    {
+      "id": "267__magazines_jyotish_vedic_astrology_json",
+      "name": "Magazines_Jyotish-Vedic astrology_",
+      "original_file": "magazines_jyotish_vedic_astrology.json",
+      "json_file": "267__magazines_jyotish_vedic_astrology_json.json",
+      "content_type": "text",
+      "dataset_number": "266 of 455"
+    },
+    {
+      "id": "268__magazines_western_tropical_astrology_json",
+      "name": "Magazines_Western-tropical astrology_",
+      "original_file": "magazines_western_tropical_astrology.json",
+      "json_file": "268__magazines_western_tropical_astrology_json.json",
+      "content_type": "text",
+      "dataset_number": "267 of 455"
+    },
+    {
+      "id": "269__maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari_json",
+      "name": "Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar Divine Life Society",
+      "original_file": "maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.json",
+      "json_file": "269__maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari_json.json",
+      "content_type": "object",
+      "dataset_number": "268 of 455"
+    },
+    {
+      "id": "270__maha_shaktishali_tone_totke_and_upaya_of_tantrik_bahal_rajat_prakashan_json",
+      "name": "Maha Shaktishali Tone Totke and Upaya of Tantrik Bahal - Rajat Prakashan",
+      "original_file": "maha_shaktishali_tone_totke_and_upaya_of_tantrik_bahal_rajat_prakashan.json",
+      "json_file": "270__maha_shaktishali_tone_totke_and_upaya_of_tantrik_bahal_rajat_prakashan_json.json",
+      "content_type": "text",
+      "dataset_number": "269 of 455"
+    },
+    {
+      "id": "271__malaviya_dr_sudhakar_2007_ahirbudhnya_samhita_of_the_pancharatra_agama_with_the_sarala_hindi_translation_json",
+      "name": "Malaviya, Dr. Sudhakar ( 2007). ' Ahirbudhnya Samhita Of The Pancharatra Agama With The Sarala Hindi Translation'",
+      "original_file": "malaviya_dr_sudhakar_2007_ahirbudhnya_samhita_of_the_pancharatra_agama_with_the_sarala_hindi_translation.json",
+      "json_file": "271__malaviya_dr_sudhakar_2007_ahirbudhnya_samhita_of_the_pancharatra_agama_with_the_sarala_hindi_translation_json.json",
+      "content_type": "text",
+      "dataset_number": "270 of 455"
+    },
+    {
+      "id": "272__malaviya_dr_sudhakar_ed_trans_and_comm_2003_lakshmi_tantram_a_pancharatra_agama_with_sudha_hindi_commentary_json",
+      "name": "Malaviya, Dr. Sudhakar (ed., trans. & comm.) (2003). 'Lakshmi Tantram - A Pancharatra Agama - With Sudha Hindi Commentary'",
+      "original_file": "malaviya_dr_sudhakar_ed_trans_and_comm_2003_lakshmi_tantram_a_pancharatra_agama_with_sudha_hindi_commentary.json",
+      "json_file": "272__malaviya_dr_sudhakar_ed_trans_and_comm_2003_lakshmi_tantram_a_pancharatra_agama_with_sudha_hindi_commentary_json.json",
+      "content_type": "text",
+      "dataset_number": "271 of 455"
+    },
+    {
+      "id": "273__mantra_anushthan_paddhati_json",
+      "name": "Mantra Anushthan Paddhati",
+      "original_file": "mantra_anushthan_paddhati.json",
+      "json_file": "273__mantra_anushthan_paddhati_json.json",
+      "content_type": "text",
+      "dataset_number": "273 of 455"
+    },
+    {
+      "id": "274__mantra_mahodadhi_json",
+      "name": "Mantra-Mahodadhi",
+      "original_file": "mantra_mahodadhi.json",
+      "json_file": "274__mantra_mahodadhi_json.json",
+      "content_type": "text",
+      "dataset_number": "274 of 455"
+    },
+    {
+      "id": "275__mantra_mahodadhi_sanskrit_hindi_json",
+      "name": "Mantra Mahodadhi, Sanskrit-hindi",
+      "original_file": "mantra_mahodadhi_sanskrit_hindi.json",
+      "json_file": "275__mantra_mahodadhi_sanskrit_hindi_json.json",
+      "content_type": "text",
+      "dataset_number": "275 of 455"
+    },
+    {
+      "id": "276__mantra_prayog_json",
+      "name": "Mantra Prayog",
+      "original_file": "mantra_prayog.json",
+      "json_file": "276__mantra_prayog_json.json",
+      "content_type": "text",
+      "dataset_number": "276 of 455"
+    },
+    {
+      "id": "277__mantra_sagar_by_rameshwar_jha_tantra_books_json",
+      "name": "296781074 - Mantra - Sagar - by - Rameshwar - Jha - Tantra Books",
+      "original_file": "mantra_sagar_by_rameshwar_jha_tantra_books.json",
+      "json_file": "277__mantra_sagar_by_rameshwar_jha_tantra_books_json.json",
+      "content_type": "text",
+      "dataset_number": "277 of 455"
+    },
+    {
+      "id": "278__mantra_shakti_json",
+      "name": "Mantra-Shakti",
+      "original_file": "mantra_shakti.json",
+      "json_file": "278__mantra_shakti_json.json",
+      "content_type": "text",
+      "dataset_number": "278 of 455"
+    },
+    {
+      "id": "279__mantra_shakti_ke_adbhut_chamatkar_json",
+      "name": "Mantra Shakti Ke Adbhut Chamatkar",
+      "original_file": "mantra_shakti_ke_adbhut_chamatkar.json",
+      "json_file": "279__mantra_shakti_ke_adbhut_chamatkar_json.json",
+      "content_type": "text",
+      "dataset_number": "279 of 455"
+    },
+    {
+      "id": "280__mantra_shastra_sadhana_aur_sidhiyaan_json",
+      "name": "Mantra Shastra Sadhana Aur Sidhiyaan",
+      "original_file": "mantra_shastra_sadhana_aur_sidhiyaan.json",
+      "json_file": "280__mantra_shastra_sadhana_aur_sidhiyaan_json.json",
+      "content_type": "text",
+      "dataset_number": "280 of 455"
+    },
+    {
+      "id": "281__mantra_shastra_sadhana_aur_sidhiyaan_acharya_bhaskaranada_lohani_json",
+      "name": "Mantra Shastra Sadhana Aur Sidhiyaan - Acharya Bhaskaranada Lohani",
+      "original_file": "mantra_shastra_sadhana_aur_sidhiyaan_acharya_bhaskaranada_lohani.json",
+      "json_file": "281__mantra_shastra_sadhana_aur_sidhiyaan_acharya_bhaskaranada_lohani_json.json",
+      "content_type": "text",
+      "dataset_number": "281 of 455"
+    },
+    {
+      "id": "282__mantra_tantra_yantra_vigyan_july_1981_json",
+      "name": "Mantra Tantra Yantra Vigyan July 1981",
+      "original_file": "mantra_tantra_yantra_vigyan_july_1981.json",
+      "json_file": "282__mantra_tantra_yantra_vigyan_july_1981_json.json",
+      "content_type": "text",
+      "dataset_number": "282 of 455"
+    },
+    {
+      "id": "283__mantra_vidya_json",
+      "name": "Mantra-Vidya",
+      "original_file": "mantra_vidya.json",
+      "json_file": "283__mantra_vidya_json.json",
+      "content_type": "text",
+      "dataset_number": "283 of 455"
+    },
+    {
+      "id": "284__mantra_vigyan_hindi_by_govinda_shastri_sadhana_pocket_books_delhi_json",
+      "name": "Mantra Vigyan (Hindi) By Govinda Shastri - Sadhana Pocket Books, Delhi",
+      "original_file": "mantra_vigyan_hindi_by_govinda_shastri_sadhana_pocket_books_delhi.json",
+      "json_file": "284__mantra_vigyan_hindi_by_govinda_shastri_sadhana_pocket_books_delhi_json.json",
+      "content_type": "text",
+      "dataset_number": "284 of 455"
+    },
+    {
+      "id": "285__mantra_yoga_json",
+      "name": "Mantra Yoga",
+      "original_file": "mantra_yoga.json",
+      "json_file": "285__mantra_yoga_json.json",
+      "content_type": "text",
+      "dataset_number": "285 of 455"
+    },
+    {
+      "id": "286__marriage_prediction_rules_json",
+      "name": "marriage_prediction_rules",
+      "original_file": "marriage_prediction_rules.json",
+      "json_file": "286__marriage_prediction_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "286 of 455"
+    },
+    {
+      "id": "287__master_requirements_json",
+      "name": "master-requirements",
+      "original_file": "master-requirements.json",
+      "json_file": "287__master_requirements_json.json",
+      "content_type": "object",
+      "dataset_number": "287 of 455"
+    },
+    {
+      "id": "288__menu_json",
+      "name": "menu",
+      "original_file": "menu.json",
+      "json_file": "288__menu_json.json",
+      "content_type": "object",
+      "dataset_number": "288 of 455"
+    },
+    {
+      "id": "289__mimamsa_sutras_by_jaimini_commentary_mimamsa_bhashya_by_shabara_svamin_sanskrit_mimamsa_missing_pages_jaimini_json",
+      "name": "Mimamsa Sutras by Jaimini Commentary Mimamsa Bhashya by Shabara Svamin Sanskrit Mimamsa Missing Pages - Jaimini",
+      "original_file": "mimamsa_sutras_by_jaimini_commentary_mimamsa_bhashya_by_shabara_svamin_sanskrit_mimamsa_missing_pages_jaimini.json",
+      "json_file": "289__mimamsa_sutras_by_jaimini_commentary_mimamsa_bhashya_by_shabara_svamin_sanskrit_mimamsa_missing_pages_jaimini_json.json",
+      "content_type": "text",
+      "dataset_number": "289 of 455"
+    },
+    {
+      "id": "290__nakshatra_basic_list_json",
+      "name": "nakshatra_basic_list",
+      "original_file": "nakshatra_basic_list.json",
+      "json_file": "290__nakshatra_basic_list_json.json",
+      "content_type": "object",
+      "dataset_number": "290 of 455"
+    },
+    {
+      "id": "291__narad_purana_hindi_json",
+      "name": "Narad Puran - नारद पुराण - हिंदी",
+      "original_file": "narad_purana_hindi.json",
+      "json_file": "291__narad_purana_hindi_json.json",
+      "content_type": "text",
+      "dataset_number": "291 of 455"
+    },
+    {
+      "id": "292__narad_purana_sankshipt_hindi_gita_press_json",
+      "name": "संक्षिप्त नारद पुराण, केवल हिन्दी - गीताप्रेस",
+      "original_file": "narad_purana_sankshipt_hindi_gita_press.json",
+      "json_file": "292__narad_purana_sankshipt_hindi_gita_press_json.json",
+      "content_type": "text",
+      "dataset_number": "292 of 455"
+    },
+    {
+      "id": "293__narada_samhita_hindi_json",
+      "name": "narada_samhita_hindi",
+      "original_file": "narada_samhita_hindi.json",
+      "json_file": "293__narada_samhita_hindi_json.json",
+      "content_type": "text",
+      "dataset_number": "293 of 455"
+    },
+    {
+      "id": "294__navdurga_dashmaha_vidhya_rahasya_pt_rameshchandra_sharma_tantra_books_json",
+      "name": "Navdurga dashmaha vidhya rahasya  -   - Pt. Rameshchandra Sharma - Tantra Books",
+      "original_file": "navdurga_dashmaha_vidhya_rahasya_pt_rameshchandra_sharma_tantra_books.json",
+      "json_file": "294__navdurga_dashmaha_vidhya_rahasya_pt_rameshchandra_sharma_tantra_books_json.json",
+      "content_type": "text",
+      "dataset_number": "294 of 455"
+    },
+    {
+      "id": "295__neecha_bhanga_json",
+      "name": "neecha_bhanga",
+      "original_file": "neecha_bhanga.json",
+      "json_file": "295__neecha_bhanga_json.json",
+      "content_type": "array",
+      "dataset_number": "295 of 455"
+    },
+    {
+      "id": "296__nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_json",
+      "name": "Nirnaya Sindhu By Shri Kamalakara Bhatta Mumbai 1901 Nirnaya Sagara Press",
+      "original_file": "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press.json",
+      "json_file": "296__nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_json.json",
+      "content_type": "text",
+      "dataset_number": "296 of 455"
+    },
+    {
+      "id": "297__nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_2_json",
+      "name": "Nirnaya Sindhu By Shri Kamalakara Bhatta Mumbai 1901 Nirnaya Sagara Press",
+      "original_file": "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_2.json",
+      "json_file": "297__nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_2_json.json",
+      "content_type": "text",
+      "dataset_number": "297 of 455"
+    },
+    {
+      "id": "298__nirnaya_sindhu_chudamani_veni_madhav_dhakal_kamalakara_bhatta_sanskrit_and_nepali_dharmashastra_illustrated_json",
+      "name": "Nirnaya Sindhu Chudamani Veni Madhav Dhakal Kamalakara Bhatta Sanskrit and Nepali Dharmashastra Illustrated Kathmandu 2071 - Vidyarthi Pustak Bhandar",
+      "original_file": "nirnaya_sindhu_chudamani_veni_madhav_dhakal_kamalakara_bhatta_sanskrit_and_nepali_dharmashastra_illustrated.json",
+      "json_file": "298__nirnaya_sindhu_chudamani_veni_madhav_dhakal_kamalakara_bhatta_sanskrit_and_nepali_dharmashastra_illustrated_json.json",
+      "content_type": "text",
+      "dataset_number": "298 of 455"
+    },
+    {
+      "id": "299__nirnaya_sindhu_samskrutham_json",
+      "name": "NIRNAYA SINDHU SAMSKRUTHAM",
+      "original_file": "nirnaya_sindhu_samskrutham.json",
+      "json_file": "299__nirnaya_sindhu_samskrutham_json.json",
+      "content_type": "text",
+      "dataset_number": "299 of 455"
+    },
+    {
+      "id": "300__numerology_data_json",
+      "name": "numerology-data",
+      "original_file": "numerology-data.json",
+      "json_file": "300__numerology_data_json.json",
+      "content_type": "object",
+      "dataset_number": "300 of 455"
+    },
+    {
+      "id": "301__nutation2000b_json",
+      "name": "nutation2000b",
+      "original_file": "nutation2000b.json",
+      "json_file": "301__nutation2000b_json.json",
+      "content_type": "object",
+      "dataset_number": "301 of 455"
+    },
+    {
+      "id": "302__other_documents_not_books_json",
+      "name": "other documents (not books)",
+      "original_file": "other_documents_not_books.json",
+      "json_file": "302__other_documents_not_books_json.json",
+      "content_type": "text",
+      "dataset_number": "302 of 455"
+    },
+    {
+      "id": "303__outcome_schema_json",
+      "name": "outcome-schema",
+      "original_file": "outcome-schema.json",
+      "json_file": "303__outcome_schema_json.json",
+      "content_type": "object",
+      "dataset_number": "303 of 455"
+    },
+    {
+      "id": "304__p_s_sastri_uttarakaalaamruta_of_kaalidaasa_hindi_json",
+      "name": "[P. S. Sastri] Uttarakaalaamruta of Kaalidaasa - Hindi",
+      "original_file": "p_s_sastri_uttarakaalaamruta_of_kaalidaasa_hindi.json",
+      "json_file": "304__p_s_sastri_uttarakaalaamruta_of_kaalidaasa_hindi_json.json",
+      "content_type": "text",
+      "dataset_number": "304 of 455"
+    },
+    {
+      "id": "305__palmistry_rules_json",
+      "name": "palmistry_rules",
+      "original_file": "palmistry_rules.json",
+      "json_file": "305__palmistry_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "305 of 455"
+    },
+    {
+      "id": "306__panchang_calculator_v15_json",
+      "name": "panchang_calculator_v15",
+      "original_file": "panchang_calculator_v15.json",
+      "json_file": "306__panchang_calculator_v15_json.json",
+      "content_type": "object",
+      "dataset_number": "306 of 455"
+    },
+    {
+      "id": "307__phaladeepika_json",
+      "name": "2015.406048.Phaladeepika",
+      "original_file": "phaladeepika.json",
+      "json_file": "307__phaladeepika_json.json",
+      "content_type": "text",
+      "dataset_number": "307 of 455"
+    },
+    {
+      "id": "308__phaladeepika_1950_json",
+      "name": "507316-Phaladeepika (1950)",
+      "original_file": "phaladeepika_1950.json",
+      "json_file": "308__phaladeepika_1950_json.json",
+      "content_type": "text",
+      "dataset_number": "308 of 455"
+    },
+    {
+      "id": "309__phaladeepika_1st_ed_by_v_subrahmanya_sastri_json",
+      "name": "Phaladeepika 1st Ed. by V Subrahmanya Sastri",
+      "original_file": "phaladeepika_1st_ed_by_v_subrahmanya_sastri.json",
+      "json_file": "309__phaladeepika_1st_ed_by_v_subrahmanya_sastri_json.json",
+      "content_type": "text",
+      "dataset_number": "309 of 455"
+    },
+    {
+      "id": "310__phaladeepika_2_json",
+      "name": "Phaladeepika",
+      "original_file": "phaladeepika_2.json",
+      "json_file": "310__phaladeepika_2_json.json",
+      "content_type": "text",
+      "dataset_number": "310 of 455"
+    },
+    {
+      "id": "311__phaladeepika_2nd_ed_1950_by_v_subrahmanya_sastri_json",
+      "name": "Phaladeepika 2nd Ed. 1950 by V Subrahmanya Sastri",
+      "original_file": "phaladeepika_2nd_ed_1950_by_v_subrahmanya_sastri.json",
+      "json_file": "311__phaladeepika_2nd_ed_1950_by_v_subrahmanya_sastri_json.json",
+      "content_type": "text",
+      "dataset_number": "311 of 455"
+    },
+    {
+      "id": "312__phaladeepika_ojha_json",
+      "name": "Phaladeepika-Ojha",
+      "original_file": "phaladeepika_ojha.json",
+      "json_file": "312__phaladeepika_ojha_json.json",
+      "content_type": "text",
+      "dataset_number": "312 of 455"
+    },
+    {
+      "id": "313__phaldipika_json",
+      "name": "Phaldipika",
+      "original_file": "phaldipika.json",
+      "json_file": "313__phaldipika_json.json",
+      "content_type": "text",
+      "dataset_number": "313 of 455"
+    },
+    {
+      "id": "314__planetbyplanetreport_json",
+      "name": "planetByPlanetReport",
+      "original_file": "planetByPlanetReport.json",
+      "json_file": "314__planetbyplanetreport_json.json",
+      "content_type": "object",
+      "dataset_number": "315 of 455"
+    },
+    {
+      "id": "315__planetpositions_json",
+      "name": "planetPositions",
+      "original_file": "planetPositions.json",
+      "json_file": "315__planetpositions_json.json",
+      "content_type": "object",
+      "dataset_number": "316 of 455"
+    },
+    {
+      "id": "316__planetarymastertable_json",
+      "name": "planetaryMasterTable",
+      "original_file": "planetaryMasterTable.json",
+      "json_file": "316__planetarymastertable_json.json",
+      "content_type": "object",
+      "dataset_number": "314 of 455"
+    },
+    {
+      "id": "317__prasna_marga_1_json",
+      "name": "Prasna Marga 1",
+      "original_file": "prasna_marga_1.json",
+      "json_file": "317__prasna_marga_1_json.json",
+      "content_type": "text",
+      "dataset_number": "317 of 455"
+    },
+    {
+      "id": "318__prasna_marga_2_json",
+      "name": "Prasna Marga 2",
+      "original_file": "prasna_marga_2.json",
+      "json_file": "318__prasna_marga_2_json.json",
+      "content_type": "text",
+      "dataset_number": "318 of 455"
+    },
+    {
+      "id": "319__production_capability_registry_json",
+      "name": "production-capability-registry",
+      "original_file": "production-capability-registry.json",
+      "json_file": "319__production_capability_registry_json.json",
+      "content_type": "array",
+      "dataset_number": "319 of 455"
+    },
+    {
+      "id": "320__public_navigation_json",
+      "name": "public-navigation",
+      "original_file": "public-navigation.json",
+      "json_file": "320__public_navigation_json.json",
+      "content_type": "array",
+      "dataset_number": "320 of 455"
+    },
+    {
+      "id": "321__puranic_encyolopaedia_vettem_mani_json",
+      "name": "Puranic Encyolopaedia Vettem Mani",
+      "original_file": "puranic_encyolopaedia_vettem_mani.json",
+      "json_file": "321__puranic_encyolopaedia_vettem_mani_json.json",
+      "content_type": "text",
+      "dataset_number": "321 of 455"
+    },
+    {
+      "id": "322__raja_yoga_json",
+      "name": "raja_yoga",
+      "original_file": "raja_yoga.json",
+      "json_file": "322__raja_yoga_json.json",
+      "content_type": "object",
+      "dataset_number": "322 of 455"
+    },
+    {
+      "id": "323__raman_how_to_judge_horoscope_1_json",
+      "name": "raman-how-to-judge-horoscope-1",
+      "original_file": "raman_how_to_judge_horoscope_1.json",
+      "json_file": "323__raman_how_to_judge_horoscope_1_json.json",
+      "content_type": "text",
+      "dataset_number": "323 of 455"
+    },
+    {
+      "id": "324__raman_how_to_judge_horoscope_2_json",
+      "name": "raman-how-to-judge-horoscope-2",
+      "original_file": "raman_how_to_judge_horoscope_2.json",
+      "json_file": "324__raman_how_to_judge_horoscope_2_json.json",
+      "content_type": "text",
+      "dataset_number": "324 of 455"
+    },
+    {
+      "id": "325__rasarnavakalpa_json",
+      "name": "रसार्णवकल्पः",
+      "original_file": "rasarnavakalpa.json",
+      "json_file": "325__rasarnavakalpa_json.json",
+      "content_type": "text",
+      "dataset_number": "325 of 455"
+    },
+    {
+      "id": "326__ravan_samhita_1_json",
+      "name": "Ravan Samhita-1",
+      "original_file": "ravan_samhita_1.json",
+      "json_file": "326__ravan_samhita_1_json.json",
+      "content_type": "text",
+      "dataset_number": "326 of 455"
+    },
+    {
+      "id": "327__ravan_samhita_2_json",
+      "name": "Ravan Samhita 2",
+      "original_file": "ravan_samhita_2.json",
+      "json_file": "327__ravan_samhita_2_json.json",
+      "content_type": "text",
+      "dataset_number": "327 of 455"
+    },
+    {
+      "id": "328__ravan_samhita_3_json",
+      "name": "Ravan Samhita 3",
+      "original_file": "ravan_samhita_3.json",
+      "json_file": "328__ravan_samhita_3_json.json",
+      "content_type": "text",
+      "dataset_number": "328 of 455"
+    },
+    {
+      "id": "329__ravan_samhita_4_json",
+      "name": "Ravan Samhita 4",
+      "original_file": "ravan_samhita_4.json",
+      "json_file": "329__ravan_samhita_4_json.json",
+      "content_type": "text",
+      "dataset_number": "329 of 455"
+    },
+    {
+      "id": "330__ravan_samhita_5_json",
+      "name": "Ravan Samhita 5",
+      "original_file": "ravan_samhita_5.json",
+      "json_file": "330__ravan_samhita_5_json.json",
+      "content_type": "text",
+      "dataset_number": "330 of 455"
+    },
+    {
+      "id": "331__remedies_bphs_json",
+      "name": "remedies_bphs",
+      "original_file": "remedies_bphs.json",
+      "json_file": "331__remedies_bphs_json.json",
+      "content_type": "object",
+      "dataset_number": "331 of 455"
+    },
+    {
+      "id": "332__remedy_trace_json",
+      "name": "remedy-trace",
+      "original_file": "remedy-trace.json",
+      "json_file": "332__remedy_trace_json.json",
+      "content_type": "object",
+      "dataset_number": "332 of 455"
+    },
+    {
+      "id": "333__reporting_policy_json",
+      "name": "reporting-policy",
+      "original_file": "reporting-policy.json",
+      "json_file": "333__reporting_policy_json.json",
+      "content_type": "object",
+      "dataset_number": "333 of 455"
+    },
+    {
+      "id": "334__role_of_12_signs_in_vastu_json",
+      "name": "Role of 12 Signs in Vastu",
+      "original_file": "role_of_12_signs_in_vastu.json",
+      "json_file": "334__role_of_12_signs_in_vastu_json.json",
+      "content_type": "text",
+      "dataset_number": "334 of 455"
+    },
+    {
+      "id": "335__rule_registry_json",
+      "name": "rule-registry",
+      "original_file": "rule-registry.json",
+      "json_file": "335__rule_registry_json.json",
+      "content_type": "array",
+      "dataset_number": "335 of 455"
+    },
+    {
+      "id": "336__sade_sati_accurate_json",
+      "name": "sade_sati_accurate",
+      "original_file": "sade_sati_accurate.json",
+      "json_file": "336__sade_sati_accurate_json.json",
+      "content_type": "object",
+      "dataset_number": "336 of 455"
+    },
+    {
+      "id": "337__samarangana_sutradhara_by_sudhkar_malaviya_1981_benaras_chaukhamba_json",
+      "name": "Samarangana Sutradhara By Sudhkar Malaviya 1981 Benaras Chaukhamba",
+      "original_file": "samarangana_sutradhara_by_sudhkar_malaviya_1981_benaras_chaukhamba.json",
+      "json_file": "337__samarangana_sutradhara_by_sudhkar_malaviya_1981_benaras_chaukhamba_json.json",
+      "content_type": "text",
+      "dataset_number": "337 of 455"
+    },
+    {
+      "id": "338__samarangana_sutradhara_vastushastra_vol_1_prof_pushpendra_kumar_json",
+      "name": "Samarangana Sutradhara Vastushastra Vol. 1 Prof. Pushpendra Kumar",
+      "original_file": "samarangana_sutradhara_vastushastra_vol_1_prof_pushpendra_kumar.json",
+      "json_file": "338__samarangana_sutradhara_vastushastra_vol_1_prof_pushpendra_kumar_json.json",
+      "content_type": "text",
+      "dataset_number": "338 of 455"
+    },
+    {
+      "id": "339__sankshipta_bhavishya_purana_geeta_press_json",
+      "name": "Sankshipta Bhavishya Purana Geeta Press",
+      "original_file": "sankshipta_bhavishya_purana_geeta_press.json",
+      "json_file": "339__sankshipta_bhavishya_purana_geeta_press_json.json",
+      "content_type": "text",
+      "dataset_number": "339 of 455"
+    },
+    {
+      "id": "340__saravali_json",
+      "name": "Saravali",
+      "original_file": "saravali.json",
+      "json_file": "340__saravali_json.json",
+      "content_type": "text",
+      "dataset_number": "340 of 455"
+    },
+    {
+      "id": "341__saravali_of_kalyana_varma_santhanam_r_astrology_json",
+      "name": "Saravali of Kalyana Varma Santhanam R. (Astrology)",
+      "original_file": "saravali_of_kalyana_varma_santhanam_r_astrology.json",
+      "json_file": "341__saravali_of_kalyana_varma_santhanam_r_astrology_json.json",
+      "content_type": "text",
+      "dataset_number": "341 of 455"
+    },
+    {
+      "id": "342__saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_json",
+      "name": "Saravali Of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi Motilal Banarasi Das, Delhi",
+      "original_file": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.json",
+      "json_file": "342__saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_json.json",
+      "content_type": "object",
+      "dataset_number": "342 of 455"
+    },
+    {
+      "id": "343__saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_2_json",
+      "name": "Saravali of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi - Motilal Banarasi Das, Delhi",
+      "original_file": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_2.json",
+      "json_file": "343__saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_2_json.json",
+      "content_type": "text",
+      "dataset_number": "343 of 455"
+    },
+    {
+      "id": "344__saravali_subrahmanya_sastry_v_nirnaya_sagar_press_1907_json",
+      "name": "Saravali Subrahmanya Sastry V. Nirnaya Sagar Press 1907",
+      "original_file": "saravali_subrahmanya_sastry_v_nirnaya_sagar_press_1907.json",
+      "json_file": "344__saravali_subrahmanya_sastry_v_nirnaya_sagar_press_1907_json.json",
+      "content_type": "text",
+      "dataset_number": "344 of 455"
+    },
+    {
+      "id": "345__sarva_karma_anushthan_prakash_shabar_mantra_json",
+      "name": "Sarva Karma Anushthan Prakash Shabar Mantra",
+      "original_file": "sarva_karma_anushthan_prakash_shabar_mantra.json",
+      "json_file": "345__sarva_karma_anushthan_prakash_shabar_mantra_json.json",
+      "content_type": "text",
+      "dataset_number": "345 of 455"
+    },
+    {
+      "id": "346__sarvartha_chintamani_mahidhar_sharma_json",
+      "name": "Sarvartha Chintamani - Mahidhar Sharma",
+      "original_file": "sarvartha_chintamani_mahidhar_sharma.json",
+      "json_file": "346__sarvartha_chintamani_mahidhar_sharma_json.json",
+      "content_type": "text",
+      "dataset_number": "346 of 455"
+    },
+    {
+      "id": "347__sarvartha_chintamani_panjab_uni_json",
+      "name": "Sarvartha Chintamani - Panjab Uni",
+      "original_file": "sarvartha_chintamani_panjab_uni.json",
+      "json_file": "347__sarvartha_chintamani_panjab_uni_json.json",
+      "content_type": "text",
+      "dataset_number": "347 of 455"
+    },
+    {
+      "id": "348__sarvartha_chintamani_with_english_translation_b_suryanarayana_row_1899_json",
+      "name": "Sarvartha Chintamani with English Translation - B Suryanarayana Row 1899",
+      "original_file": "sarvartha_chintamani_with_english_translation_b_suryanarayana_row_1899.json",
+      "json_file": "348__sarvartha_chintamani_with_english_translation_b_suryanarayana_row_1899_json.json",
+      "content_type": "text",
+      "dataset_number": "348 of 455"
+    },
+    {
+      "id": "349__sarvatobhadra_layout_json",
+      "name": "sarvatobhadra-layout",
+      "original_file": "sarvatobhadra-layout.json",
+      "json_file": "349__sarvatobhadra_layout_json.json",
+      "content_type": "object",
+      "dataset_number": "349 of 455"
+    },
+    {
+      "id": "350__scripture_citation_index_json",
+      "name": "scripture-citation-index",
+      "original_file": "scripture-citation-index.json",
+      "json_file": "350__scripture_citation_index_json.json",
+      "content_type": "array",
+      "dataset_number": "350 of 455"
+    },
+    {
+      "id": "351__scripturelibrary_json",
+      "name": "scriptureLibrary",
+      "original_file": "scriptureLibrary.json",
+      "json_file": "351__scripturelibrary_json.json",
+      "content_type": "object",
+      "dataset_number": "351 of 455"
+    },
+    {
+      "id": "352__sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b_json",
+      "name": "SesvaraMimamsaVedantacharyaCommentaryOnJaiminiSutrasEd.AnantacharyaA.b.",
+      "original_file": "sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b.json",
+      "json_file": "352__sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b_json.json",
+      "content_type": "text",
+      "dataset_number": "352 of 455"
+    },
+    {
+      "id": "353__shabar_mantra_sagar_part_1_json",
+      "name": "Shabar Mantra Sagar Part 1",
+      "original_file": "shabar_mantra_sagar_part_1.json",
+      "json_file": "353__shabar_mantra_sagar_part_1_json.json",
+      "content_type": "text",
+      "dataset_number": "353 of 455"
+    },
+    {
+      "id": "354__shabar_mantra_sagar_part_2_json",
+      "name": "Shabar Mantra Sagar Part 2",
+      "original_file": "shabar_mantra_sagar_part_2.json",
+      "json_file": "354__shabar_mantra_sagar_part_2_json.json",
+      "content_type": "text",
+      "dataset_number": "354 of 455"
+    },
+    {
+      "id": "355__shadbala_json",
+      "name": "shadbala",
+      "original_file": "shadbala.json",
+      "json_file": "355__shadbala_json.json",
+      "content_type": "object",
+      "dataset_number": "355 of 455"
+    },
+    {
+      "id": "356__shani_ke_upaya_evam_totke_json",
+      "name": "Shani Ke Upaya Evam Totke",
+      "original_file": "shani_ke_upaya_evam_totke.json",
+      "json_file": "356__shani_ke_upaya_evam_totke_json.json",
+      "content_type": "text",
+      "dataset_number": "356 of 455"
+    },
+    {
+      "id": "357__shatpanchasika_vibha_bhattotpala_and_dinanatha_jha_by_prithuyashas_dinanatha_jha_sanskrit_and_hindi_astrology_json",
+      "name": "Shatpanchasika Vibha Bhattotpala And Dinanatha Jha By Prithuyashas Dinanatha Jha Sanskrit And Hindi Astrology Varanasi 1973 Chowkhamba Sanskrit Series Office",
+      "original_file": "shatpanchasika_vibha_bhattotpala_and_dinanatha_jha_by_prithuyashas_dinanatha_jha_sanskrit_and_hindi_astrology.json",
+      "json_file": "357__shatpanchasika_vibha_bhattotpala_and_dinanatha_jha_by_prithuyashas_dinanatha_jha_sanskrit_and_hindi_astrology_json.json",
+      "content_type": "text",
+      "dataset_number": "357 of 455"
+    },
+    {
+      "id": "358__shiva_puja_stava_shiv_agama_sangha_devkottai_1935_jangamwadi_math_collection_json",
+      "name": "Shiva Puja Stava Shiv Agama Sangha Devkottai 1935 Jangamwadi Math Collection",
+      "original_file": "shiva_puja_stava_shiv_agama_sangha_devkottai_1935_jangamwadi_math_collection.json",
+      "json_file": "358__shiva_puja_stava_shiv_agama_sangha_devkottai_1935_jangamwadi_math_collection_json.json",
+      "content_type": "text",
+      "dataset_number": "358 of 455"
+    },
+    {
+      "id": "359__shree_varaha_purana_01_json",
+      "name": "Shree Varaha Purana 01",
+      "original_file": "shree_varaha_purana_01.json",
+      "json_file": "359__shree_varaha_purana_01_json.json",
+      "content_type": "text",
+      "dataset_number": "359 of 455"
+    },
+    {
+      "id": "360__shree_varaha_purana_02_json",
+      "name": "Shree Varaha Purana 02",
+      "original_file": "shree_varaha_purana_02.json",
+      "json_file": "360__shree_varaha_purana_02_json.json",
+      "content_type": "text",
+      "dataset_number": "360 of 455"
+    },
+    {
+      "id": "361__shri_vayu_maha_puranam_part_1_trans_by_sudhakar_malaviya_2024_varanasi_chowkhamba_krishna_das_academy_json",
+      "name": "Shri Vayu Maha Puranam Part 1 Trans By Sudhakar Malaviya 2024 Varanasi Chowkhamba Krishna Das Academy",
+      "original_file": "shri_vayu_maha_puranam_part_1_trans_by_sudhakar_malaviya_2024_varanasi_chowkhamba_krishna_das_academy.json",
+      "json_file": "361__shri_vayu_maha_puranam_part_1_trans_by_sudhakar_malaviya_2024_varanasi_chowkhamba_krishna_das_academy_json.json",
+      "content_type": "text",
+      "dataset_number": "361 of 455"
+    },
+    {
+      "id": "362__siddha_shabar_mantra_ed_by_pramod_kumar_shastri_varanasi_rupesh_thakur_prasad_prakashan_json",
+      "name": "Siddha Shabar Mantra Ed. By Pramod Kumar Shastri Varanasi Rupesh Thakur Prasad Prakashan",
+      "original_file": "siddha_shabar_mantra_ed_by_pramod_kumar_shastri_varanasi_rupesh_thakur_prasad_prakashan.json",
+      "json_file": "362__siddha_shabar_mantra_ed_by_pramod_kumar_shastri_varanasi_rupesh_thakur_prasad_prakashan_json.json",
+      "content_type": "text",
+      "dataset_number": "362 of 455"
+    },
+    {
+      "id": "363__siddhanta_saravali_ed_vraj_vallabha_dwivedi_json",
+      "name": "Siddhanta-Saravali-Ed-Vraj-Vallabha-Dwivedi",
+      "original_file": "siddhanta_saravali_ed_vraj_vallabha_dwivedi.json",
+      "json_file": "363__siddhanta_saravali_ed_vraj_vallabha_dwivedi_json.json",
+      "content_type": "text",
+      "dataset_number": "363 of 455"
+    },
+    {
+      "id": "364__siddhanta_saravali_of_trilochana_shivacharya_ed_by_sri_vallabha_dvived_varansi_1998_shaiva_bharati_shodha_json",
+      "name": "Siddhanta Saravali of Trilochana Shivacharya Ed. by Sri Vallabha Dvived Varansi 1998 - Shaiva Bharati Shodha Pratishthanam",
+      "original_file": "siddhanta_saravali_of_trilochana_shivacharya_ed_by_sri_vallabha_dvived_varansi_1998_shaiva_bharati_shodha.json",
+      "json_file": "364__siddhanta_saravali_of_trilochana_shivacharya_ed_by_sri_vallabha_dvived_varansi_1998_shaiva_bharati_shodha_json.json",
+      "content_type": "text",
+      "dataset_number": "364 of 455"
+    },
+    {
+      "id": "365__sign_career_themes_json",
+      "name": "sign_career_themes",
+      "original_file": "sign_career_themes.json",
+      "json_file": "365__sign_career_themes_json.json",
+      "content_type": "object",
+      "dataset_number": "365 of 455"
+    },
+    {
+      "id": "366__sign_countries_json",
+      "name": "sign_countries",
+      "original_file": "sign_countries.json",
+      "json_file": "366__sign_countries_json.json",
+      "content_type": "object",
+      "dataset_number": "366 of 455"
+    },
+    {
+      "id": "367__skanda_purana_kedara_khandam_with_hindi_trans_by_shivanand_nowtiyal_1994_prayag_hindi_sahitya_sammelan_json",
+      "name": "Skanda Purana Kedara Khandam With Hindi Trans By Shivanand Nowtiyal 1994 Prayag Hindi Sahitya Sammelan",
+      "original_file": "skanda_purana_kedara_khandam_with_hindi_trans_by_shivanand_nowtiyal_1994_prayag_hindi_sahitya_sammelan.json",
+      "json_file": "367__skanda_purana_kedara_khandam_with_hindi_trans_by_shivanand_nowtiyal_1994_prayag_hindi_sahitya_sammelan_json.json",
+      "content_type": "text",
+      "dataset_number": "367 of 455"
+    },
+    {
+      "id": "368__skandamahapuranam_part_2_chowkhamba_press_json",
+      "name": "Skandamahapuranam. Part 2 ( Chowkhamba Press)",
+      "original_file": "skandamahapuranam_part_2_chowkhamba_press.json",
+      "json_file": "368__skandamahapuranam_part_2_chowkhamba_press_json.json",
+      "content_type": "text",
+      "dataset_number": "368 of 455"
+    },
+    {
+      "id": "369__special_lagnas_json",
+      "name": "special_lagnas",
+      "original_file": "special_lagnas.json",
+      "json_file": "369__special_lagnas_json.json",
+      "content_type": "object",
+      "dataset_number": "369 of 455"
+    },
+    {
+      "id": "370__sri_tripurarahasyam_mahatmya_khandam_sanskrit_text_with_english_translation_json",
+      "name": "Śrī Tripurārahasyam (Māhātmya Khaṇḍam) - Sanskrit Text With English Translation",
+      "original_file": "sri_tripurarahasyam_mahatmya_khandam_sanskrit_text_with_english_translation.json",
+      "json_file": "370__sri_tripurarahasyam_mahatmya_khandam_sanskrit_text_with_english_translation_json.json",
+      "content_type": "text",
+      "dataset_number": "370 of 455"
+    },
+    {
+      "id": "371__stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr_json",
+      "name": "Stri Jataka or Female Horoscopy - B Suryanarain Rao 1931 LR",
+      "original_file": "stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr.json",
+      "json_file": "371__stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr_json.json",
+      "content_type": "text",
+      "dataset_number": "371 of 455"
+    },
+    {
+      "id": "372__subscription_plans_json",
+      "name": "subscription-plans",
+      "original_file": "subscription-plans.json",
+      "json_file": "372__subscription_plans_json.json",
+      "content_type": "array",
+      "dataset_number": "372 of 455"
+    },
+    {
+      "id": "373__subscription_report_catalog_json",
+      "name": "subscription-report-catalog",
+      "original_file": "subscription-report-catalog.json",
+      "json_file": "373__subscription_report_catalog_json.json",
+      "content_type": "array",
+      "dataset_number": "373 of 455"
+    },
+    {
+      "id": "374__surya_siddhanta_json",
+      "name": "Surya-Siddhanta",
+      "original_file": "surya_siddhanta.json",
+      "json_file": "374__surya_siddhanta_json.json",
+      "content_type": "text",
+      "dataset_number": "374 of 455"
+    },
+    {
+      "id": "375__surya_siddhanta_2_json",
+      "name": "Surya-siddhanta",
+      "original_file": "surya_siddhanta_2.json",
+      "json_file": "375__surya_siddhanta_2_json.json",
+      "content_type": "text",
+      "dataset_number": "375 of 455"
+    },
+    {
+      "id": "376__surya_siddhanta_3_json",
+      "name": "surya_siddhanta",
+      "original_file": "surya_siddhanta_3.json",
+      "json_file": "376__surya_siddhanta_3_json.json",
+      "content_type": "text",
+      "dataset_number": "376 of 455"
+    },
+    {
+      "id": "377__surya_siddhanta_a_text_book_of_hindu_astronomy_with_tattvamrita_sanskrit_commentary_by_pt_sri_kapileswara_json",
+      "name": "Surya Siddhanta (A Text Book of Hindu Astronomy) With Tattvamrita Sanskrit Commentary by Pt. Sri Kapileswara Chaudhary, Kashi Sanskrit Series 144, 1946, Banaras - Chaukhamba Sanskrit Series Office, Banaras",
+      "original_file": "surya_siddhanta_a_text_book_of_hindu_astronomy_with_tattvamrita_sanskrit_commentary_by_pt_sri_kapileswara.json",
+      "json_file": "377__surya_siddhanta_a_text_book_of_hindu_astronomy_with_tattvamrita_sanskrit_commentary_by_pt_sri_kapileswara_json.json",
+      "content_type": "text",
+      "dataset_number": "377 of 455"
+    },
+    {
+      "id": "378__surya_siddhanta_and_siddhanta_siromani_bimala_prasad_sidhhnata_sarasvati_danvir_goswamy_iskon_json",
+      "name": "Surya Siddhanta and Siddhanta Siromani (Bimala Prasad Sidhhnata Sarasvati) Danvir Goswamy ISKON",
+      "original_file": "surya_siddhanta_and_siddhanta_siromani_bimala_prasad_sidhhnata_sarasvati_danvir_goswamy_iskon.json",
+      "json_file": "378__surya_siddhanta_and_siddhanta_siromani_bimala_prasad_sidhhnata_sarasvati_danvir_goswamy_iskon_json.json",
+      "content_type": "text",
+      "dataset_number": "378 of 455"
+    },
+    {
+      "id": "379__surya_siddhanta_of_pt_shri_kapileshwar_shastri_144_kashi_sanskrit_series_json",
+      "name": "Surya Siddhanta of Pt. Shri Kapileshwar Shastri # 144 - Kashi Sanskrit Series",
+      "original_file": "surya_siddhanta_of_pt_shri_kapileshwar_shastri_144_kashi_sanskrit_series.json",
+      "json_file": "379__surya_siddhanta_of_pt_shri_kapileshwar_shastri_144_kashi_sanskrit_series_json.json",
+      "content_type": "text",
+      "dataset_number": "379 of 455"
+    },
+    {
+      "id": "380__surya_siddhanta_part_1_with_vigyan_bhashya_mahavira_prasada_srivastava_json",
+      "name": "Surya Siddhanta Part 1 With Vigyan Bhashya Mahavira Prasada Srivastava",
+      "original_file": "surya_siddhanta_part_1_with_vigyan_bhashya_mahavira_prasada_srivastava.json",
+      "json_file": "380__surya_siddhanta_part_1_with_vigyan_bhashya_mahavira_prasada_srivastava_json.json",
+      "content_type": "text",
+      "dataset_number": "380 of 455"
+    },
+    {
+      "id": "381__surya_siddhanta_prof_ram_chandra_pandey_json",
+      "name": "Surya Siddhanta Prof. Ram Chandra Pandey",
+      "original_file": "surya_siddhanta_prof_ram_chandra_pandey.json",
+      "json_file": "381__surya_siddhanta_prof_ram_chandra_pandey_json.json",
+      "content_type": "text",
+      "dataset_number": "381 of 455"
+    },
+    {
+      "id": "382__surya_siddhanta_vigyan_bhashya_khanda_2_by_mahavira_prasad_shrivastava_nagari_press_allahabad_json",
+      "name": "Surya Siddhanta Vigyan Bhashya Khanda 2 by Mahavira Prasad Shrivastava - Nagari Press Allahabad",
+      "original_file": "surya_siddhanta_vigyan_bhashya_khanda_2_by_mahavira_prasad_shrivastava_nagari_press_allahabad.json",
+      "json_file": "382__surya_siddhanta_vigyan_bhashya_khanda_2_by_mahavira_prasad_shrivastava_nagari_press_allahabad_json.json",
+      "content_type": "text",
+      "dataset_number": "382 of 455"
+    },
+    {
+      "id": "383__surya_siddhanta_with_gudartha_prakash_and_hindi_tika_baldev_prasad_mishra_muradabadi_json",
+      "name": "Surya Siddhanta With Gudartha Prakash And Hindi Tika Baldev Prasad Mishra Muradabadi",
+      "original_file": "surya_siddhanta_with_gudartha_prakash_and_hindi_tika_baldev_prasad_mishra_muradabadi.json",
+      "json_file": "383__surya_siddhanta_with_gudartha_prakash_and_hindi_tika_baldev_prasad_mishra_muradabadi_json.json",
+      "content_type": "text",
+      "dataset_number": "383 of 455"
+    },
+    {
+      "id": "384__surya_siddhanta_with_gudartha_prakashika_sanskrit_tika_and_prakashika_hindi_commentary_by_prof_rama_chandra_json",
+      "name": "Surya Siddhanta With Gudartha Prakashika Sanskrit Tika And Prakashika Hindi Commentary By Prof. Rama Chandra Pandey - Chaukhamba Surabharati Prakashan, Varanasi",
+      "original_file": "surya_siddhanta_with_gudartha_prakashika_sanskrit_tika_and_prakashika_hindi_commentary_by_prof_rama_chandra.json",
+      "json_file": "384__surya_siddhanta_with_gudartha_prakashika_sanskrit_tika_and_prakashika_hindi_commentary_by_prof_rama_chandra_json.json",
+      "content_type": "text",
+      "dataset_number": "384 of 455"
+    },
+    {
+      "id": "385__system_rules_json",
+      "name": "system-rules",
+      "original_file": "system-rules.json",
+      "json_file": "385__system_rules_json.json",
+      "content_type": "object",
+      "dataset_number": "385 of 455"
+    },
+    {
+      "id": "386__tajika_nilakanthi_jyotish_grantha_with_hindi_translation_json",
+      "name": "Tajika-nilakanthi (Jyotish Grantha) with Hindi Translation",
+      "original_file": "tajika_nilakanthi_jyotish_grantha_with_hindi_translation.json",
+      "json_file": "386__tajika_nilakanthi_jyotish_grantha_with_hindi_translation_json.json",
+      "content_type": "text",
+      "dataset_number": "386 of 455"
+    },
+    {
+      "id": "387__the_agni_purana_part_1_json",
+      "name": "The Agni Purana, Part 1",
+      "original_file": "the_agni_purana_part_1.json",
+      "json_file": "387__the_agni_purana_part_1_json.json",
+      "content_type": "text",
+      "dataset_number": "387 of 455"
+    },
+    {
+      "id": "388__the_agni_purana_part_2_json",
+      "name": "The Agni Purana, Part 2",
+      "original_file": "the_agni_purana_part_2.json",
+      "json_file": "388__the_agni_purana_part_2_json.json",
+      "content_type": "text",
+      "dataset_number": "388 of 455"
+    },
+    {
+      "id": "389__the_agni_purana_part_3_json",
+      "name": "The Agni Purana, Part 3",
+      "original_file": "the_agni_purana_part_3.json",
+      "json_file": "389__the_agni_purana_part_3_json.json",
+      "content_type": "text",
+      "dataset_number": "389 of 455"
+    },
+    {
+      "id": "390__the_agni_purana_part_4_json",
+      "name": "The Agni Purana, Part 4",
+      "original_file": "the_agni_purana_part_4.json",
+      "json_file": "390__the_agni_purana_part_4_json.json",
+      "content_type": "text",
+      "dataset_number": "390 of 455"
+    },
+    {
+      "id": "391__the_astrological_self_instructor_b_suryanarain_rao_1893_json",
+      "name": "The Astrological Self Instructor - B Suryanarain Rao 1893",
+      "original_file": "the_astrological_self_instructor_b_suryanarain_rao_1893.json",
+      "json_file": "391__the_astrological_self_instructor_b_suryanarain_rao_1893_json.json",
+      "content_type": "text",
+      "dataset_number": "391 of 455"
+    },
+    {
+      "id": "392__the_garuda_purana_vol_1_json",
+      "name": "The Garuda Purana  Vol. 1",
+      "original_file": "the_garuda_purana_vol_1.json",
+      "json_file": "392__the_garuda_purana_vol_1_json.json",
+      "content_type": "text",
+      "dataset_number": "392 of 455"
+    },
+    {
+      "id": "393__the_garuda_purana_vol_2_json",
+      "name": "The Garuda Purana  Vol. 2",
+      "original_file": "the_garuda_purana_vol_2.json",
+      "json_file": "393__the_garuda_purana_vol_2_json.json",
+      "content_type": "text",
+      "dataset_number": "393 of 455"
+    },
+    {
+      "id": "394__the_garuda_purana_vol_3_json",
+      "name": "The Garuda Purana  Vol. 3",
+      "original_file": "the_garuda_purana_vol_3.json",
+      "json_file": "394__the_garuda_purana_vol_3_json.json",
+      "content_type": "text",
+      "dataset_number": "394 of 455"
+    },
+    {
+      "id": "395__the_mimasa_kaustubha_416p_jaimini_sutras_sanskrit_1933_json",
+      "name": "5010010008055 - The Mimasa Kaustubha, 416p, Jaimini Sutras, sanskrit (1933)",
+      "original_file": "the_mimasa_kaustubha_416p_jaimini_sutras_sanskrit_1933.json",
+      "json_file": "395__the_mimasa_kaustubha_416p_jaimini_sutras_sanskrit_1933_json.json",
+      "content_type": "text",
+      "dataset_number": "395 of 455"
+    },
+    {
+      "id": "396__the_vedic_experience_mantra_manjari_by_raimundo_panikkar_english_and_sanskrit_in_devanagari_script_vedas_json",
+      "name": "The Vedic Experience Mantra Manjari By Raimundo Panikkar English and Sanskrit in Devanagari Script Vedas Illustrated Pondicherry 1983 - All India Books",
+      "original_file": "the_vedic_experience_mantra_manjari_by_raimundo_panikkar_english_and_sanskrit_in_devanagari_script_vedas.json",
+      "json_file": "396__the_vedic_experience_mantra_manjari_by_raimundo_panikkar_english_and_sanskrit_in_devanagari_script_vedas_json.json",
+      "content_type": "text",
+      "dataset_number": "396 of 455"
+    },
+    {
+      "id": "397__three_hundred_important_combinations_json",
+      "name": "2015.83552.Three-Hundred-Important-Combinations",
+      "original_file": "three_hundred_important_combinations.json",
+      "json_file": "397__three_hundred_important_combinations_json.json",
+      "content_type": "text",
+      "dataset_number": "397 of 455"
+    },
+    {
+      "id": "398__tithi_details_json",
+      "name": "tithi_details",
+      "original_file": "tithi_details.json",
+      "json_file": "398__tithi_details_json.json",
+      "content_type": "object",
+      "dataset_number": "398 of 455"
+    },
+    {
+      "id": "399__transits_json",
+      "name": "transits",
+      "original_file": "transits.json",
+      "json_file": "399__transits_json.json",
+      "content_type": "object",
+      "dataset_number": "399 of 455"
+    },
+    {
+      "id": "400__unifiedengine_json",
+      "name": "unifiedEngine",
+      "original_file": "unifiedEngine.json",
+      "json_file": "400__unifiedengine_json.json",
+      "content_type": "object",
+      "dataset_number": "400 of 455"
+    },
+    {
+      "id": "401__upagrahas_json",
+      "name": "upagrahas",
+      "original_file": "upagrahas.json",
+      "json_file": "401__upagrahas_json.json",
+      "content_type": "object",
+      "dataset_number": "401 of 455"
+    },
+    {
+      "id": "402__user_prediction_model_json",
+      "name": "user-prediction-model",
+      "original_file": "user-prediction-model.json",
+      "json_file": "402__user_prediction_model_json.json",
+      "content_type": "object",
+      "dataset_number": "402 of 455"
+    },
+    {
+      "id": "403__user_prediction_preferences_json",
+      "name": "user-prediction-preferences",
+      "original_file": "user-prediction-preferences.json",
+      "json_file": "403__user_prediction_preferences_json.json",
+      "content_type": "object",
+      "dataset_number": "403 of 455"
+    },
+    {
+      "id": "404__uttara_kalamrita_kalidas_json",
+      "name": "uttara-kalamrita-kalidas",
+      "original_file": "uttara_kalamrita_kalidas.json",
+      "json_file": "404__uttara_kalamrita_kalidas_json.json",
+      "content_type": "text",
+      "dataset_number": "404 of 455"
+    },
+    {
+      "id": "405__uttkalamrita_kalidas_ps_sastri_json",
+      "name": "Uttkalamrita-kalidas-ps-sastri",
+      "original_file": "uttkalamrita_kalidas_ps_sastri.json",
+      "json_file": "405__uttkalamrita_kalidas_ps_sastri_json.json",
+      "content_type": "text",
+      "dataset_number": "405 of 455"
+    },
+    {
+      "id": "406__v11_benchmark_manifest_json",
+      "name": "v11_benchmark-manifest",
+      "original_file": "v11_benchmark-manifest.json",
+      "json_file": "406__v11_benchmark_manifest_json.json",
+      "content_type": "object",
+      "dataset_number": "406 of 455"
+    },
+    {
+      "id": "407__v11_master_evidence_policy_json",
+      "name": "v11_master-evidence-policy",
+      "original_file": "v11_master-evidence-policy.json",
+      "json_file": "407__v11_master_evidence_policy_json.json",
+      "content_type": "object",
+      "dataset_number": "407 of 455"
+    },
+    {
+      "id": "408__v11_outcome_corpus_schema_json",
+      "name": "HoraSaar V11 Verified Outcome Case",
+      "original_file": "v11_outcome-corpus.schema.json",
+      "json_file": "408__v11_outcome_corpus_schema_json.json",
+      "content_type": "object",
+      "dataset_number": "408 of 455"
+    },
+    {
+      "id": "409__validation_v10_cross_engine_benchmark_json",
+      "name": "validation_v10_cross-engine-benchmark",
+      "original_file": "validation/v10/cross-engine-benchmark.json",
+      "json_file": "409__validation_v10_cross_engine_benchmark_json.json",
+      "content_type": "object",
+      "dataset_number": "409 of 455"
+    },
+    {
+      "id": "410__validation_v10_outcome_corpus_json",
+      "name": "validation_v10_outcome-corpus",
+      "original_file": "validation/v10/outcome-corpus.json",
+      "json_file": "410__validation_v10_outcome_corpus_json.json",
+      "content_type": "object",
+      "dataset_number": "410 of 455"
+    },
+    {
+      "id": "411__validation_v10_production_gate_json",
+      "name": "validation_v10_production-gate",
+      "original_file": "validation/v10/production-gate.json",
+      "json_file": "411__validation_v10_production_gate_json.json",
+      "content_type": "object",
+      "dataset_number": "411 of 455"
+    },
+    {
+      "id": "412__validation_v12_cross_engine_cases_json",
+      "name": "validation_v12_cross-engine-cases",
+      "original_file": "validation/v12/cross-engine-cases.json",
+      "json_file": "412__validation_v12_cross_engine_cases_json.json",
+      "content_type": "object",
+      "dataset_number": "412 of 455"
+    },
+    {
+      "id": "413__validation_v12_master_benchmark_contract_json",
+      "name": "validation_v12_master-benchmark-contract",
+      "original_file": "validation/v12/master-benchmark-contract.json",
+      "json_file": "413__validation_v12_master_benchmark_contract_json.json",
+      "content_type": "object",
+      "dataset_number": "413 of 455"
+    },
+    {
+      "id": "414__validation_v12_outcome_corpus_schema_json",
+      "name": "V12 Outcome Case",
+      "original_file": "validation/v12/outcome-corpus.schema.json",
+      "json_file": "414__validation_v12_outcome_corpus_schema_json.json",
+      "content_type": "object",
+      "dataset_number": "414 of 455"
+    },
+    {
+      "id": "415__validation_v12_verified_outcomes_json",
+      "name": "validation_v12_verified-outcomes",
+      "original_file": "validation/v12/verified-outcomes.json",
+      "json_file": "415__validation_v12_verified_outcomes_json.json",
+      "content_type": "object",
+      "dataset_number": "415 of 455"
+    },
+    {
+      "id": "416__validation_v13_cross_engine_benchmark_json",
+      "name": "validation_v13_cross-engine-benchmark",
+      "original_file": "validation/v13/cross-engine-benchmark.json",
+      "json_file": "416__validation_v13_cross_engine_benchmark_json.json",
+      "content_type": "object",
+      "dataset_number": "416 of 455"
+    },
+    {
+      "id": "417__validation_v13_master_evidence_contract_json",
+      "name": "Master Evidence Completion Contract",
+      "original_file": "validation/v13/master-evidence-contract.json",
+      "json_file": "417__validation_v13_master_evidence_contract_json.json",
+      "content_type": "object",
+      "dataset_number": "417 of 455"
+    },
+    {
+      "id": "418__validation_v13_outcome_corpus_schema_json",
+      "name": "HoraSaar V13 Verified Prediction Outcome Corpus",
+      "original_file": "validation/v13/outcome-corpus.schema.json",
+      "json_file": "418__validation_v13_outcome_corpus_schema_json.json",
+      "content_type": "object",
+      "dataset_number": "419 of 455"
+    },
+    {
+      "id": "419__validation_v13_outcome_corpus_json",
+      "name": "validation_v13_outcome-corpus",
+      "original_file": "validation/v13/outcome-corpus.json",
+      "json_file": "419__validation_v13_outcome_corpus_json.json",
+      "content_type": "object",
+      "dataset_number": "418 of 455"
+    },
+    {
+      "id": "420__validation_v13_verified_chart_corpus_schema_json",
+      "name": "HoraSaar V13 Verified Chart Corpus",
+      "original_file": "validation/v13/verified-chart-corpus.schema.json",
+      "json_file": "420__validation_v13_verified_chart_corpus_schema_json.json",
+      "content_type": "object",
+      "dataset_number": "421 of 455"
+    },
+    {
+      "id": "421__validation_v13_verified_chart_corpus_json",
+      "name": "validation_v13_verified-chart-corpus",
+      "original_file": "validation/v13/verified-chart-corpus.json",
+      "json_file": "421__validation_v13_verified_chart_corpus_json.json",
+      "content_type": "object",
+      "dataset_number": "420 of 455"
+    },
+    {
+      "id": "422__validation_v8_capability_registry_json",
+      "name": "validation_v8_capability-registry",
+      "original_file": "validation/v8/capability-registry.json",
+      "json_file": "422__validation_v8_capability_registry_json.json",
+      "content_type": "object",
+      "dataset_number": "422 of 455"
+    },
+    {
+      "id": "423__validation_v8_corpus_manifest_json",
+      "name": "validation_v8_corpus-manifest",
+      "original_file": "validation/v8/corpus-manifest.json",
+      "json_file": "423__validation_v8_corpus_manifest_json.json",
+      "content_type": "object",
+      "dataset_number": "423 of 455"
+    },
+    {
+      "id": "424__validation_v8_historical_chart_corpus_schema_json",
+      "name": "HoraSaar V8 Historical Chart Corpus",
+      "original_file": "validation/v8/historical-chart-corpus.schema.json",
+      "json_file": "424__validation_v8_historical_chart_corpus_schema_json.json",
+      "content_type": "object",
+      "dataset_number": "424 of 455"
+    },
+    {
+      "id": "425__validation_v8_prediction_outcome_schema_json",
+      "name": "HoraSaar V8 Labelled Prediction Outcome",
+      "original_file": "validation/v8/prediction-outcome.schema.json",
+      "json_file": "425__validation_v8_prediction_outcome_schema_json.json",
+      "content_type": "object",
+      "dataset_number": "425 of 455"
+    },
+    {
+      "id": "426__validation_v8_reference_benchmark_json",
+      "name": "validation_v8_reference-benchmark",
+      "original_file": "validation/v8/reference-benchmark.json",
+      "json_file": "426__validation_v8_reference_benchmark_json.json",
+      "content_type": "object",
+      "dataset_number": "426 of 455"
+    },
+    {
+      "id": "427__validation_v8_rule_coverage_discovery_json",
+      "name": "validation_v8_rule-coverage-discovery",
+      "original_file": "validation/v8/rule-coverage-discovery.json",
+      "json_file": "427__validation_v8_rule_coverage_discovery_json.json",
+      "content_type": "object",
+      "dataset_number": "427 of 455"
+    },
+    {
+      "id": "428__validation_v9_benchmarks_benchmark_manifest_json",
+      "name": "validation_v9_benchmarks_benchmark-manifest",
+      "original_file": "validation/v9/benchmarks/benchmark-manifest.json",
+      "json_file": "428__validation_v9_benchmarks_benchmark_manifest_json.json",
+      "content_type": "array",
+      "dataset_number": "428 of 455"
+    },
+    {
+      "id": "429__validation_v9_calculation_verified_corpus_json",
+      "name": "validation_v9_calculation_verified-corpus",
+      "original_file": "validation/v9/calculation/verified-corpus.json",
+      "json_file": "429__validation_v9_calculation_verified_corpus_json.json",
+      "content_type": "object",
+      "dataset_number": "429 of 455"
+    },
+    {
+      "id": "430__validation_v9_research_research_corpus_json",
+      "name": "validation_v9_research_research-corpus",
+      "original_file": "validation/v9/research/research-corpus.json",
+      "json_file": "430__validation_v9_research_research_corpus_json.json",
+      "content_type": "object",
+      "dataset_number": "430 of 455"
+    },
+    {
+      "id": "431__varaha_purana_json",
+      "name": "Varaha Purana",
+      "original_file": "varaha_purana.json",
+      "json_file": "431__varaha_purana_json.json",
+      "content_type": "text",
+      "dataset_number": "431 of 455"
+    },
+    {
+      "id": "432__varahamihira_brihat_jataka_marele_tratat_de_astrologie_natala_json",
+      "name": "Varahamihira Brihat Jataka ( Marele Tratat De Astrologie Natala)",
+      "original_file": "varahamihira_brihat_jataka_marele_tratat_de_astrologie_natala.json",
+      "json_file": "432__varahamihira_brihat_jataka_marele_tratat_de_astrologie_natala_json.json",
+      "content_type": "text",
+      "dataset_number": "432 of 455"
+    },
+    {
+      "id": "433__varahi_brihat_samhita_1933_lakshmi_venkateshwar_press_json",
+      "name": "Varahi Brihat Samhita 1933 - Lakshmi Venkateshwar Press",
+      "original_file": "varahi_brihat_samhita_1933_lakshmi_venkateshwar_press.json",
+      "json_file": "433__varahi_brihat_samhita_1933_lakshmi_venkateshwar_press_json.json",
+      "content_type": "text",
+      "dataset_number": "433 of 455"
+    },
+    {
+      "id": "434__varga_interpretations_json",
+      "name": "varga_interpretations",
+      "original_file": "varga_interpretations.json",
+      "json_file": "434__varga_interpretations_json.json",
+      "content_type": "object",
+      "dataset_number": "434 of 455"
+    },
+    {
+      "id": "435__vargas_json",
+      "name": "vargas",
+      "original_file": "vargas.json",
+      "json_file": "435__vargas_json.json",
+      "content_type": "array",
+      "dataset_number": "435 of 455"
+    },
+    {
+      "id": "436__varshaphal_json",
+      "name": "varshaphal",
+      "original_file": "varshaphal.json",
+      "json_file": "436__varshaphal_json.json",
+      "content_type": "object",
+      "dataset_number": "436 of 455"
+    },
+    {
+      "id": "437__vastu_rules_json",
+      "name": "vastu_rules",
+      "original_file": "vastu_rules.json",
+      "json_file": "437__vastu_rules_json.json",
+      "content_type": "array",
+      "dataset_number": "437 of 455"
+    },
+    {
+      "id": "438__vimshottari_json",
+      "name": "vimshottari",
+      "original_file": "vimshottari.json",
+      "json_file": "438__vimshottari_json.json",
+      "content_type": "object",
+      "dataset_number": "438 of 455"
+    },
+    {
+      "id": "439__vishwakarma_prakash_json",
+      "name": "विश्वकर्म प्रकाश Vishwakarma Prakash",
+      "original_file": "vishwakarma_prakash.json",
+      "json_file": "439__vishwakarma_prakash_json.json",
+      "content_type": "text",
+      "dataset_number": "439 of 455"
+    },
+    {
+      "id": "440__vishwakarma_prakash_khemraj_json",
+      "name": "Vishwakarma Prakash Khemraj",
+      "original_file": "vishwakarma_prakash_khemraj.json",
+      "json_file": "440__vishwakarma_prakash_khemraj_json.json",
+      "content_type": "text",
+      "dataset_number": "440 of 455"
+    },
+    {
+      "id": "441__vivek_chudamani_gita_press_gorakhpur_json",
+      "name": "Vivek Chudamani Gita Press Gorakhpur",
+      "original_file": "vivek_chudamani_gita_press_gorakhpur.json",
+      "json_file": "441__vivek_chudamani_gita_press_gorakhpur_json.json",
+      "content_type": "text",
+      "dataset_number": "441 of 455"
+    },
+    {
+      "id": "442__vratraj_json",
+      "name": "Vratraj.",
+      "original_file": "vratraj.json",
+      "json_file": "442__vratraj_json.json",
+      "content_type": "text",
+      "dataset_number": "442 of 455"
+    },
+    {
+      "id": "443__vsop87_json",
+      "name": "vsop87",
+      "original_file": "vsop87.json",
+      "json_file": "443__vsop87_json.json",
+      "content_type": "object",
+      "dataset_number": "443 of 455"
+    },
+    {
+      "id": "444__westernchart_json",
+      "name": "westernChart",
+      "original_file": "westernChart.json",
+      "json_file": "444__westernchart_json.json",
+      "content_type": "object",
+      "dataset_number": "444 of 455"
+    },
+    {
+      "id": "445__yantra_chintamani_json",
+      "name": "Yantra Chintamani",
+      "original_file": "yantra_chintamani.json",
+      "json_file": "445__yantra_chintamani_json.json",
+      "content_type": "text",
+      "dataset_number": "445 of 455"
+    },
+    {
+      "id": "446__yantra_chintamani_of_damodar_pandit_with_tika_by_baldev_prasad_khemaraj_json",
+      "name": "Yantra Chintamani Of Damodar Pandit With Tika By Baldev Prasad Khemaraj",
+      "original_file": "yantra_chintamani_of_damodar_pandit_with_tika_by_baldev_prasad_khemaraj.json",
+      "json_file": "446__yantra_chintamani_of_damodar_pandit_with_tika_by_baldev_prasad_khemaraj_json.json",
+      "content_type": "text",
+      "dataset_number": "446 of 455"
+    },
+    {
+      "id": "447__yantra_geometrie_celesti_tantra_books_json",
+      "name": "yantra - geometrie - celesti - Tantra Books",
+      "original_file": "yantra_geometrie_celesti_tantra_books.json",
+      "json_file": "447__yantra_geometrie_celesti_tantra_books_json.json",
+      "content_type": "text",
+      "dataset_number": "447 of 455"
+    },
+    {
+      "id": "448__yantra_sadhana_book_by_sri_yogeshwaranand_sumit_girdharwal_json",
+      "name": "yantra-sadhana-book-by-sri-yogeshwaranand-sumit-girdharwal",
+      "original_file": "yantra_sadhana_book_by_sri_yogeshwaranand_sumit_girdharwal.json",
+      "json_file": "448__yantra_sadhana_book_by_sri_yogeshwaranand_sumit_girdharwal_json.json",
+      "content_type": "text",
+      "dataset_number": "448 of 455"
+    },
+    {
+      "id": "449__yantra_shakti_rudra_dev_tripathi_json",
+      "name": "Yantra Shakti - Rudra Dev Tripathi",
+      "original_file": "yantra_shakti_rudra_dev_tripathi.json",
+      "json_file": "449__yantra_shakti_rudra_dev_tripathi_json.json",
+      "content_type": "text",
+      "dataset_number": "449 of 455"
+    },
+    {
+      "id": "450__yantra_siddhi_rahashya_hindi_by_govinda_shastri_new_sadhana_pocket_books_delhi_json",
+      "name": "Yantra Siddhi Rahashya (Hindi) By Govinda Shastri - New Sadhana Pocket Books, Delhi",
+      "original_file": "yantra_siddhi_rahashya_hindi_by_govinda_shastri_new_sadhana_pocket_books_delhi.json",
+      "json_file": "450__yantra_siddhi_rahashya_hindi_by_govinda_shastri_new_sadhana_pocket_books_delhi_json.json",
+      "content_type": "text",
+      "dataset_number": "450 of 455"
+    },
+    {
+      "id": "451__yogaenrichment_json",
+      "name": "yogaEnrichment",
+      "original_file": "yogaEnrichment.json",
+      "json_file": "451__yogaenrichment_json.json",
+      "content_type": "object",
+      "dataset_number": "451 of 455"
+    },
+    {
+      "id": "452__yogas_doshas_json",
+      "name": "yogas-doshas",
+      "original_file": "yogas-doshas.json",
+      "json_file": "452__yogas_doshas_json.json",
+      "content_type": "object",
+      "dataset_number": "452 of 455"
+    },
+    {
+      "id": "453__yogas_json",
+      "name": "yogas",
+      "original_file": "yogas.json",
+      "json_file": "453__yogas_json.json",
+      "content_type": "object",
+      "dataset_number": "453 of 455"
+    },
+    {
+      "id": "454__yogas_raja_yoga_json",
+      "name": "yogas__raja_yoga",
+      "original_file": "yogas__raja_yoga.json",
+      "json_file": "454__yogas_raja_yoga_json.json",
+      "content_type": "object",
+      "dataset_number": "454 of 455"
+    },
+    {
+      "id": "455__yogas_detailed_database_json",
+      "name": "yogas_detailed_database",
+      "original_file": "yogas_detailed_database.json",
+      "json_file": "455__yogas_detailed_database_json.json",
+      "content_type": "object",
+      "dataset_number": "455 of 455"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Ayanamsa-List.json
+Dataset number: 159 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 521 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | year_start | value_2024 | description | calculation_logic
+---------------------------------------------------------------------
+ayan_001 | Lahiri (Chitrapaksha) | 285 | 24.14 | The most widely used Ayanamsa in India. Officially recognized by the Government of India. | Spica (Chitra) star is fixed at 180°.
+ayan_002 | Raman Ayanamsa | 397 | 22.92 | Used by researchers following B.V. Raman. Calculated based on Surya Siddhanta. | 

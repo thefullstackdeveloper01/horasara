@@ -1,0 +1,345 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "189__extended_sections_json",
+    "name": "extended-sections",
+    "original_file": "extended-sections.json",
+    "dataset_number": "119 of 455",
+    "format": "json",
+    "source_readable_file": "extended-sections.txt",
+    "source_sha256": "3465c5677f069ed70ba18a8d42ed91edacef36231667a9f5016077204c805a43",
+    "source_bytes": 3322
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "SECTIONS": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_items": [
+                  "FUTURE FORECAST — अगले 25 वर्षों का पूर्वानुमान"
+                ]
+              },
+              {
+                "_text": [
+                  "futureForecast"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "LIFE PHASE STRATEGY — जीवन चरण रणनीति"
+                ]
+              },
+              {
+                "_text": [
+                  "lifePhaseStrategy"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "BIRTH → NOW TIMELINE — जन्म से अब तक"
+                ]
+              },
+              {
+                "_text": [
+                  "birthToNowTimeline"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "TODAY'S HOROSCOPE — आज का राशिफल"
+                ]
+              },
+              {
+                "_text": [
+                  "dailyHoroscopeExt"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "THIS MONTH FORECAST — इस माह का पूर्वानुमान"
+                ]
+              },
+              {
+                "_text": [
+                  "monthlyForecast"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "LIFE PREDICTIONS — सम्पूर्ण जीवन भविष्यवाणी"
+                ]
+              },
+              {
+                "_text": [
+                  "lifePredictions"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "CAREER DNA — करियर विश्लेषण"
+                ]
+              },
+              {
+                "_text": [
+                  "careerDNA"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "FINANCIAL ASTROLOGY — धन एवं वित्तीय ज्योतिष"
+                ]
+              },
+              {
+                "_text": [
+                  "financialAstrology"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "RELATIONSHIP ARCHITECTURE — विवाह एवं संबंध"
+                ]
+              },
+              {
+                "_text": [
+                  "relationshipArchitecture"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "MEDICAL ASTROLOGY — स्वास्थ्य ज्योतिष"
+                ]
+              },
+              {
+                "_text": [
+                  "medicalAstrology"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "NAKSHATRA PERSONALITY — नक्षत्र व्यक्तित्व विश्लेषण"
+                ]
+              },
+              {
+                "_text": [
+                  "nakshatraPersonality"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "KARMIC BLUEPRINT — कर्म एवं पूर्वजन्म विश्लेषण"
+                ]
+              },
+              {
+                "_text": [
+                  "karmicBlueprint"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "PLANETARY ACTIVATORS — ग्रह सक्रियण काल"
+                ]
+              },
+              {
+                "_text": [
+                  "planetaryActivators"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "GEOGRAPHIC ASTROLOGY — स्थान अनुकूलता (Best places to live/work)"
+                ]
+              },
+              {
+                "_text": [
+                  "geographicAstrology"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "BIRTH TIME SENSITIVITY — जन्म समय सटीकता विश्लेषण"
+                ]
+              },
+              {
+                "_text": [
+                  "birthTimeSensitivity"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "SPECIAL LAGNAS DETAILED REPORT"
+                ]
+              },
+              {
+                "_text": [
+                  "specialLagnasReport"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "CONFLICT RESOLUTION — परस्पर विरोधी संकेतों का समाधान"
+                ]
+              },
+              {
+                "_text": [
+                  "conflictResolution"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "FINAL LIFE VERDICT — अंतिम जीवन निर्णय"
+                ]
+              },
+              {
+                "_text": [
+                  "finalLifeVerdict"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "ADVANCED REMEDIES — उपाय एवं समाधान"
+                ]
+              },
+              {
+                "_text": [
+                  "advancedRemedies"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "KP ADVANCED ANALYSIS"
+                ]
+              },
+              {
+                "_text": [
+                  "kpAdvanced"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "PANCH PAKSHI SHASTRA — पंच पक्षी शास्त्र"
+                ]
+              },
+              {
+                "_text": [
+                  "panchPakshi"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "EXECUTIVE SUMMARY — कार्यकारी सारांश (Life at a Glance)"
+                ]
+              },
+              {
+                "_text": [
+                  "executiveSummary"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  "AI SYNTHESIS — समेकित विश्लेषण (All Factors Combined)"
+                ]
+              },
+              {
+                "_text": [
+                  "aiSynthesis"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

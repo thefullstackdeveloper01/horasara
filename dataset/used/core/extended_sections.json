@@ -1,0 +1,137 @@
+{
+  "GEMSTONE_BY_PLANET": {
+    "Sun": "Ruby (Manik)",
+    "Moon": "Natural Pearl",
+    "Mars": "Red Coral",
+    "Mercury": "Emerald (Panna)",
+    "Jupiter": "Yellow Sapphire",
+    "Venus": "Diamond/White Sapphire",
+    "Saturn": "Blue Sapphire (Neelam)",
+    "Rahu": "Hessonite (Gomed)",
+    "Ketu": "Cat's Eye (Lahsuniya)"
+  },
+  "KP_HOUSE_SIGNIFICATIONS": {
+    "1": "Self, physical body, personality, general health & vitality, appearance",
+    "2": "Wealth, family, speech, food habits, accumulated assets, right eye",
+    "3": "Siblings, courage, short journeys, communication, own effort, valor",
+    "4": "Mother, home, property, vehicles, emotional foundation, domestic peace",
+    "5": "Children, intelligence, romance, speculation, creativity, past-life merit",
+    "6": "Disease, debt, enemies, service, daily obstacles, litigation",
+    "7": "Marriage, partnerships, spouse, business collaborations, public dealings",
+    "8": "Longevity, transformation, sudden events, inheritance, occult, chronic health",
+    "9": "Fortune, father, higher learning, dharma, long journeys, guru",
+    "10": "Career, status, authority, public reputation, actions in the world",
+    "11": "Gains, income, elder siblings, fulfillment of desires, social network",
+    "12": "Losses, expenditure, foreign residence, isolation, spirituality, moksha"
+  },
+  "FULL_REMEDIES": {
+    "Sun": {
+      "gemstone": "Ruby (Manik) — Min 3 carats, Gold setting, Ring finger, Sunday sunrise",
+      "mantra": "Om Hraam Hreem Hraum Sah Suryaya Namah — 108x daily at sunrise",
+      "yantra": "Surya Yantra — Install East facing, worship with red flowers Sunday",
+      "herbs": "Shatavari, Ashwagandha — for solar vitality",
+      "charity": "Wheat, jaggery, copper, red cloth — donate to elderly on Sunday",
+      "fasting": "Sunday fast (Nirahar or Phalahar)",
+      "deity": "Lord Rama, Surya Narayan — recite Aditya Hridayam",
+      "ritual": "Surya Arghya (water offering to Sun) daily at sunrise with copper vessel",
+      "color": "Wear gold, orange, red to strengthen Sun",
+      "rudraksha": "1 Mukhi Rudraksha — for Sun energy"
+    },
+    "Moon": {
+      "gemstone": "Natural Pearl (Moti) — Min 5 carats, Silver setting, Little finger, Monday",
+      "mantra": "Om Shraam Shreem Shraum Sah Chandraya Namah — 108x Monday evening",
+      "yantra": "Chandra Yantra — Install North facing, worship with white flowers",
+      "herbs": "Brahmi, Shankhpushpi — for mental clarity",
+      "charity": "Rice, milk, silver, white cloth — donate Monday",
+      "fasting": "Monday fast, especially Shravan Mondays",
+      "deity": "Lord Shiva — recite Shiva Panchakshara",
+      "ritual": "Milk Abhisheka to Shiva Lingam on Mondays",
+      "color": "Wear white, cream, silver to strengthen Moon",
+      "rudraksha": "2 Mukhi Rudraksha — for Moon energy"
+    },
+    "Mars": {
+      "gemstone": "Red Coral (Moonga) — Min 5 carats, Gold/Copper setting, Ring finger, Tuesday",
+      "mantra": "Om Kraam Kreem Kraum Sah Bhaumaya Namah — 108x Tuesday morning",
+      "yantra": "Mangal Yantra — Install South facing",
+      "herbs": "Ashwagandha, Shatavari — for Mars strength",
+      "charity": "Red lentils (masoor), red cloth, copper — Tuesday",
+      "fasting": "Tuesday fast",
+      "deity": "Lord Hanuman/Skanda — Hanuman Chalisa",
+      "ritual": "Apply vermilion to Hanuman, light mustard oil lamp",
+      "color": "Wear red, maroon to strengthen Mars",
+      "rudraksha": "3 Mukhi Rudraksha"
+    },
+    "Mercury": {
+      "gemstone": "Emerald (Panna) — Min 3 carats, Gold setting, Little finger, Wednesday",
+      "mantra": "Om Braam Breem Braum Sah Budhaya Namah — 108x Wednesday",
+      "yantra": "Budha Yantra — Install North facing",
+      "herbs": "Brahmi, Vacha — for Mercury",
+      "charity": "Green gram, green cloth, bronze — Wednesday",
+      "fasting": "Wednesday fast",
+      "deity": "Lord Vishnu/Ganesha",
+      "ritual": "Feed green-colored sweet to cow on Wednesday",
+      "color": "Wear green, emerald green to strengthen Mercury",
+      "rudraksha": "4 Mukhi Rudraksha"
+    },
+    "Jupiter": {
+      "gemstone": "Yellow Sapphire (Pukhraj) — Min 3 carats, Gold setting, Index finger, Thursday",
+      "mantra": "Om Graam Greem Graum Sah Gurave Namah — 108x Thursday",
+      "yantra": "Guru Yantra — Install NE corner",
+      "herbs": "Turmeric, Shatavari — for Jupiter",
+      "charity": "Chickpeas (chana), turmeric, yellow cloth, gold — Thursday",
+      "fasting": "Thursday fast, banana tree worship",
+      "deity": "Lord Vishnu, Brihaspati",
+      "ritual": "Offer yellow flowers to banana tree, seek guru blessings",
+      "color": "Wear yellow, saffron to strengthen Jupiter",
+      "rudraksha": "5 Mukhi Rudraksha"
+    },
+    "Venus": {
+      "gemstone": "Diamond/White Sapphire — Min 0.5 carats, Platinum/Silver, Ring finger, Friday",
+      "mantra": "Om Draam Dreem Draum Sah Shukraya Namah — 108x Friday",
+      "yantra": "Shukra Yantra — Install SE corner",
+      "herbs": "Shatavari, Ashoka — for Venus",
+      "charity": "Rice, white cloth, silver, perfume — Friday",
+      "fasting": "Friday fast, Lakshmi worship",
+      "deity": "Goddess Lakshmi, Saraswati",
+      "ritual": "Offer white flowers to Lakshmi, play music",
+      "color": "Wear white, cream, pink to strengthen Venus",
+      "rudraksha": "6 Mukhi Rudraksha"
+    },
+    "Saturn": {
+      "gemstone": "Blue Sapphire (Neelam) — Min 3 carats, Iron/Silver, Middle finger, Saturday — TEST FIRST",
+      "mantra": "Om Praam Preem Praum Sah Shanaischaraya Namah — 108x Saturday",
+      "yantra": "Shani Yantra — Install West facing",
+      "herbs": "Triphala, Guggul — for Saturn",
+      "charity": "Black sesame, mustard oil, iron, blue cloth, urad dal — Saturday",
+      "fasting": "Saturday fast, Shani temple visit",
+      "deity": "Lord Shani, Hanuman, Bhairav",
+      "ritual": "Light sesame oil lamp, feed crows, help poor",
+      "color": "Wear blue, black, dark navy to pacify Saturn",
+      "rudraksha": "7 Mukhi Rudraksha"
+    },
+    "Rahu": {
+      "gemstone": "Hessonite Garnet (Gomed) — Min 5 carats, Silver/Panchdhatu, Middle finger, Saturday",
+      "mantra": "Om Bhraam Bhreem Bhraum Sah Rahave Namah — 108x Saturday midnight",
+      "yantra": "Rahu Yantra",
+      "herbs": "Camphor, Tulsi — for Rahu",
+      "charity": "Blue/black cloth, mustard, coconut — Saturday",
+      "fasting": "Saturday fast",
+      "deity": "Goddess Durga, Kali, Saraswati",
+      "ritual": "Light camphor, offer blue flowers to Durga",
+      "color": "Wear dark blue, grey, smoky colors",
+      "rudraksha": "8 Mukhi Rudraksha"
+    },
+    "Ketu": {
+      "gemstone": "Cat's Eye (Lahsuniya/Vaidurya) — Min 3 carats, Silver, Ring finger, Tuesday",
+      "mantra": "Om Straam Streem Straum Sah Ketave Namah — 108x Tuesday night",
+      "yantra": "Ketu Yantra",
+      "herbs": "Ashwagandha, Guggul — for Ketu",
+      "charity": "Blanket, sesame, iron — Tuesday",
+      "fasting": "Tuesday fast",
+      "deity": "Lord Ganesha, Brahma",
+      "ritual": "Worship Ganesha with durva, light ghee lamp",
+      "color": "Wear grey, smoky, mixed colors",
+      "rudraksha": "9 Mukhi Rudraksha"
+    }
+  }
+}

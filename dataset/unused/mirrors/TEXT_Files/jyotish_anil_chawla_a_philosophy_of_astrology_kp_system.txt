@@ -1,0 +1,876 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_anil_chawla_a_philosophy_of_astrology_kp_system.json
+Dataset number: 222 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 60,513 bytes
+Top-level fields: 11
+Title: Jyotish_Anil Chawla_A Philosophy of astrology_KP system
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_Anil Chawla_A Philosophy of astrology_KP system
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 32
+  • total_words: 10138
+  • text_quality:
+    • ocr_word_validity_score: 0.983
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+A Philosophy of Astrology
+
+Contents
+Page No.
+Preface 3
+1. Introduction 4
+2. Cyclical Nature Of Life - Good Times, Bad Times 5
+3. Continuity of life after life 7
+4. Complexity Of Life - Twelve Houses 8
+5. Predicting The Future 13
+6. Cosmic Influences on Man 16
+7. Fatalism, Determinism, Free Will And Astrology 19
+Annexures
+1 A. What The Houses Represent 27
+By Bangalore Venkata Raman
+IB. What The Houses Represent 28
+By Prof. K.S. Krishnamurti
+IC. Houses 29
+2. Elements & Zodiac Signs 30
+3. Planets 31
+About The Author - Page No. 32
+
+PREFACE
+Astrology is a much-maligned branch of knowledge. On one hand, it has suffered at
+the hands of astrologers, who accept no limitations on their capabilities to predict the
+future and see human race as puppets in the hands of an anthromorphic omniscient
+Supreme Being. On the other hand, pseudo-scientists - who rarely understand even
+the rudiments of philosophy of science - keep performing poorly designed
+experiments to discredit and disprove astrology.
+Sledgehammer approach of so-called rationalists is based on two premises - (a) the
+purpose of astrology is to predict the future and (b) astrology presumes determinism,
+fatalism and absence of free will. Needless to say, that both the premises are far from
+truth. However, even astrologers are rarely able to say so. That, and that alone, is the
+raison d’etre for this mini-book.
+More than fifteen years ago, I met Mr. Kirti Ashar, an amateur astrologer, and now a
+good friend, who tried to teach me fundamentals of astrology. All his efforts were in
+vain. Planets, zodiac signs and houses confuse me. Yet, the subject fascinated me. It
+is an ancient branch of knowledge, but still under-developed.
+Generally speaking, no astrologer is willing to admit that astrology is an underdeveloped discipline. Astrologers swear by individual knowledge and individual
+astrologer’s ability to awe by predicting the most unpredictable. There is no attempt to
+work out a common disciplinary matrix of law, theory, application, instrumentation,
+symbolic generalizations, shared commitments to beliefs, values, tacit knowledge and
+exemplars - in other words, to develop, what Thomas Kuhn describes as, a paradigm
+of astrology.
+In my humble attempt of penning A Philosophy of Astrology, I have attempted to lay
+the first stone for building a paradigm of modern astrology. I shall consider my efforts
+successful if it inspires some other thinkers, astrologers, philosophers and
+psychologists to move further in this direction.
+Simultaneously, I hope that this mini-book will help a layman (or woman), who visits
+an astrologer to better utilize astrological advice. When one goes to a doctor, one
+knows that one may still die. Similarly, when you visit an astrologer, please
+understand that he is no God, nor does he have a direct hotline to the Almighty.
+Before I end this short note and you move on to the chapters, please allow me to
+thank Mr. Kirti Ashar, who may well claim to be the source of many of the ideas
+expressed in this mini-book. Thanks are also due to Prof. D.S. Karaulia, who was kind
+enough to lend me some very useful books and also to read the first few pages of the
+initial draft.
+Anil Chawla
+Vijayadashmi,
+23 October 2004
+
+Introduction
+Jyotish, a Sanskrit word, is often translated as astrology. Jyotish does include
+astrology. However, literally speaking, the word means knowledge that provides light.
+In its strictest sense, jyotish does not predict the future. It is akin to light that enables
+one to see. In spite of abundance of light, one needs eyes to be able to see anything.
+The set of eyes that enable one to see is called Darshan Shastra, which is translated to
+mean philosophy. Western philosophy, with its history of speculation, never had to
+serve the practical role that Darshan Shastra had to serve in Indian context. All
+through history, with the exception of past two or three centuries, European
+philosophers had a very limited role in their society. Religion and theological
+authorities had all the answers. They did not need the services of philosophers. If at all
+philosophers survived, it was due to the mercy of some kings. The role of philosophers
+in the courts of kings was either to dazzle (and puzzle) courtiers with their superb
+arguments or to help the king fight the Church. As far as Church is concerned, it had
+no use for original thinkers or philosophers. Church was (and even today is) content
+with interpretation of the Holy Book.
+In India, religion was dynamic and open to new ideas and growth. There was no tying
+down to a Holy Book. A philosopher or darshanik enjoyed a fair level of freedom.
+Hence, darshan shastra evolved to serve the Weltanschauung or existentialist concerns
+of man. The primary purpose of darshan shastra is to provide the ideological
+framework that would enable one to see oneself and the world.
+An attempt is made in the following pages to elucidate some essential concepts of
+Darshan that are necessary for appropriate use of jyotish.
+
+2. Cyclical Nature Of Life - Good Times, Bad Times
+Life has a cyclical nature. Good times follow bad times and vice versa. Surely, good
+and bad are labels that we, human beings, put based on our limited perceptions. There
+is nothing that is all good and nothing that is all bad.
+Consider the example of agriculture. To begin with, the fields are vacant. One ploughs
+the fields, takes grain from home and disperses in the fields. This is the first stage
+called sowing. At the beginning of this stage, there was some grain at home but now at
+the end of this stage, there is no grain at home either; there is some grain hidden in the
+soil, but one does not know whether it will grow up or wither away. The second stage
+is growth. Plants have started growing. They need care. One can feel happy seeing
+them grow, but at this stage if someone wants grain, there is nothing that one can get.
+For that one has to move on the third stage of reaping, when one can reap the crop.
+Sowing, growth and reaping - these three stages are essential for crops. Life follows a
+similar pattern. There is one phase of life when one has to only sow. In the other phase
+one can see some progress but one cannot still enjoy the fruits of one’s labours.
+Followed by this is the phase when one can enjoy the fruits. In case of agricultural
+crops, the time and duration of each phase is determined by variations in temperature
+and humidity caused by seasonal variations. In case of human beings, planetary
+movements determine the phases.
+Planetary movements determine the duration and timing, but they do not determine the
+quantum of results, which are determined by one’s own efforts, present and past. It is
+like one knows that an Indian farmer will get crop of wheat in the month of March, but
+the quantity of wheat that he can harvest depends on the efforts put in by him, the seed
+chosen by him and the area of land owned by him.
+
+Many astrologers often advise their clients to lie low when the times are “bad”. In
+fact, when one looks at personal lives of most astrologers, one notices that they
+rarely achieve much success in their personal lives. The reason lies in their wrong
+notion of “bad” times. The times, when one cannot get results, is viewed by many
+astrologers as bad. Since one cannot get results and one has to face failure, why
+venture - this is the common refrain. They fail to see the so-called bad times as
+sowing times. When one does not sow during the period that one is supposed to
+sow, one gets nothing during the harvest time. Every failure is indeed an
+investment. Inability to face failures head-on and desire to get quick successes is a
+sure recipe for disaster prescribed by many astrologers who lack the perspective
+provided by darshan.
+Sowing is not the time to get depressed and at harvest time one must not forget all
+about future. A wise farmer starts preparing for the next sowing as soon as he has
+harvested a crop. Even before he lets his family eat the grain, he keeps a portion
+away to sow for the next crop. Similarly, a wise man knows that at times when one
+is being lauded for achievements, one must start planning for the next phase when
+one will have to once again till the land and sow the seed.
+
+3. Continuity of life after life
+This is a presupposition or postulate of the theory of Karma. Every action leads to
+some effects. If one does some action or work, one is bound to get the results for it,
+sooner or later - in this life or the next. Everyone is born with a balance sheet of
+one’s actions from the previous birth and carries forward a balance sheet into the
+next birth. No one can read the balance sheet, but that does not mean that it does not
+exist. One can always work to improve upon the opening balances.
+If one accepts the above theory, one can understand why some people achieve so
+much with hardly any effort while some others struggle to achieve even a small
+success.
+A person’s horoscope may give an idea of the opening balances that he / she began
+with. A horoscope cannot give any idea of the efforts that the person might have or
+have not put into various ventures during his life. A good horoscope is like being
+the owner of a big field, which is very fertile. But a huge fertile field will also yield
+nothing if one does not till it and sow it properly. On the other hand no land is so
+barren that a skilled farmer, with hard work and perseverance, cannot grow some
+crop or the other on it. And what would you say about a field so barren that not even
+a blade of grass would grow on it, yet beneath its surface it hides precious minerals.
+
+4. Complexity Of Life - Twelve Houses
+Human life cannot be judged or measured like a field of wheat can be - in terms of
+tons of wheat produced. When anyone looks at one’s own life, there is bound to be a
+mix of pleasures and sorrows, achievements and missed opportunities. A person who is
+blessed with fame, riches and wealth may have bad health; another person who is
+otherwise successful may have a troubled family life. Life is not a single parameter
+game. Fulfilment and satisfaction of life comes from a large number of areas. Indian
+thinkers divided life into twelve houses or bhavs.
+Annexure 1A gives the matters that are covered by various houses as given by famous
+astrologer, B.V. Raman. Prof. K.S. Krishnamurti’s description of the houses is given in
+Annexure IB.
+A comparison of the two descriptions (given by BV Raman and Prof. Krishnamurti)
+shows many differences. For example, Krishnamurti mentions third house to be related
+to heroism, but BV Raman does not say so. There are many such differences, which a
+reader may notice. Without getting involved with these, let us look at two quotations
+from the two books, which illustrate a very vital point.
+Prof. K.S. Krishnamurti says (p. 1 89), “The second house governs second marriage.
+This is so because the 2nd house is the 8th to the 7th representing the first wife and it is
+generally after the death of the first wife that one will go in for second marriage.”
+
+Raman B.V. says (p.3), “In applying the rules contained in astrological books to
+practical horoscopes one must definitely bear in mind that they are merely for his
+guidance. In addition to knowledge of astrology, one must also exercise discretion and
+common sense coupled, of course, with a certain amount of intuition.”
+Prof. Krishnamurti has assumed a strictly monogamous life with no extra-marital
+affairs, as must be usual in the orthodox South Indian Hindu upper caste middle class
+families that he might have been interacting with. He fails to appreciate that in some
+sections of society (for example Muslims) bigamy may not be as unusual. His logic for
+second house governing second marriage has no basis in case of a bigamous person.
+Some Hindu thinkers have looked at any unison of body, mind and soul between a man
+and a woman as a marriage. An intimate extra-marital affair of a man may be a second
+marriage. Some astrologers may look at such a second marriage as governed by
+seventh house, while some others may consider it to be a matter of 2nd or even 12th
+house.
+Such differences of opinion, among astrologers, are rarely sorted out by open debate,
+deliberations and discussions. Most astrologers resort to, what BV Raman says,
+“discretion and common sense coupled, of course, with a certain amount of intuition”.
+This leads to a situation where no two astrologers can arrive at any agreement about
+any matter. Obviously, this is not an ideal situation for growth of astrology as a faculty.
+The problem with description of houses, for that matter with astrology as a whole, is
+that it was worked out centuries ago on the basis of life as it was then. Life has
+undergone a sea change in the past few centuries. But, there has been hardly any
+systematic joint attempt by astrologers, as a group, to redefine the houses based on
+today’s life, technological advancements and social structures. One of the reasons for
+this is that the philosophical basis of astrology is almost lost. In the absence of a
+philosophy, astrology as a discipline has become a series of empirical observations,
+quick-result formulae without a soul or a vital life force.
+
+Most astrologers do look at the twelve houses as an image of the sky, but in looking at
+human mind, body and life as corresponding to the sky, they use ancient tools that
+have not been adequately updated with time. In Annexure 1C, I propose a classification
+of houses based on Dharm, Arth, Kam and Moksh.
+Dharm relates to essential duties that one must perform to live life as an individual, as
+a member of a family and as a social being in relation with the cosmos. The first and
+foremost dharm of any person is towards his own body - he / she must take care of
+physiological needs. This is allocated to the first house. In a way, this is the bottom of
+Maslow’s triangle.
+The next level of dharm is when one moves beyond oneself to the ones whom one
+considers as close relatives. Children symbolize the next level of one’s duties and are
+represented in the fifth house.
+Taking care of children is instinctive. Most animals do that. Taking care of one’s father
+is not instinctive. This comes from a realization of one’s duty that only humans are
+capable of. All such types of dharm are allocated to the ninth house.
+While dharm stands for essential duties, arth means resources that are necessary for
+living. The first level of resources is wealth and possessions; second level is one’s own
+skills, competence, and ability to face challenges; and the third level is one’s career,
+profession, social position, reputation and honour in the society. The first level is
+intensely personal, second level involves close interactions that challenge, while the
+last level involves interaction with a whole that is not confined to one’s close circle.
+The three levels of arth are represented by 2nd, 6th and 10th houses respectively.
+
+Having gathered the necessary resources for life, a person must move on to building
+relations with other human beings. The first level of relations is with one’s siblings;
+second level of relations comes when one gets a spouse or gets into a partnership; and
+a higher level of relationships is when one has personal goals, friends, achievements
+and ambitions. The three levels of relating to the world or in other words three levels
+of kam can also be seen from a different perspective. The first level is communications
+involving exchange of information and thoughts. At the second level intimacy grows to
+a level that communication or exchange of information is just a small part of the
+exercise - one links in a fashion that one unites with the other. Moving to a higher
+level, one is no longer tied with one’s personal needs; one now looks at oneself
+through the eyes of the world. One’s desires and passions take on a different colour. Of
+course, at the third level of desires, each person may define one’s own path. The three
+levels of kam are allocated respectively to 3rd, 7th and 1 1th houses.
+The last set pertaining to moksh is the most difficult to define. It is the part of life that
+liberates one. It is the window to divinity available to mankind. The first experience of
+divinity that every human being has is in one’s mothers lap. Sucking on the mother’s
+breast is a divine experience for a child. Such simple pleasures are the subject matter of
+fourth house - the first stage of moksh.
+The next level of divine experience is more complex. One may get close to
+experiencing the divinity through death of a close one (or even oneself) or through a
+sexual experience - not the type where one establishes a close intimate relationship (7th
+house) but an intensely physical, passionate and mind-blowing act. One may even have
+an nccnlt CYncncncf1
+
+Each person experiences 8th house in his / her own way. Surely, this can be said about
+each house. But, it is more so in case of 8th house where one seeks liberation from a
+mundane life and moves to an arena of experiences where one’s close ones are
+involved but they serve only to help the individual achieve liberation from bondages.
+The highest level of liberation from bondages naturally involves loss, sometimes,
+total loss. On the other hand it also involves gaining access to a world that is not
+comprehensible with ordinary senses. If one believes in life after death, it is surely a
+matter of 12th house. In Maslow’s triangle, the highest level of self-transcendence is
+the matter of 12th house. But for some, liberation from bonds is a state of
+uncontrolled behaviour that violates all norms of society. Highest level of liberation
+may also mean existentialist alienation leading to meaninglessness and boredom. In
+such a case, one may murder or rape or indulge in uncontrolled sex with large
+number of prostitutes. Twelfth house has been called the house of bed for this reason.
+The twelve houses represent human life in its totality. One must, however, abstain
+from passing value judgements about one house or the other. No aspect of life is good
+and no aspect is bad. Each house represents a multitude of opportunities and threats, a
+combination of strengths and weaknesses. Each house has different shades - some
+negative and some positive. Each house is subject to the influence of zodiac signs and
+planets. We are not going to discuss these influences here since the subject matter of
+this mini-book is philosophy of astrology and not astrology. The important part that
+needs to be underscored is that forces and elements influence each aspect of life but
+the effect that these influences finally bear varies from individual to individual. The
+same planetary influence on the same house can cause two opposite reactions in two
+persons. To that extent, each house seems to often represent two opposite extremes.
+For example, 12th house simultaneously represents an ascetic as well as a skirt-chaser.
+Whether one becomes an ascetic or a skirt-chaser depends on the individual
+concerned. It is not an exaggeration to say that the two extremes are two sides of the
+same coin.
+My attempt in Annexure 1C to redefine a framework is intended to propose the
+foundations of a new (actually, it is ancient, but I guess it sounds better if I call it
+new. ©) philosophical paradigm for understanding astrology as well as life in
+general. Linear simplicity of Maslow’s triangle, though useful in some respects, is
+grossly inadequate to understand the complexity of human life. The two-dimensional
+matrix of dharm, arth, kam, and moksh combined with the concept of self, close ones
+and the world is proposed to help us understand our lives.
+As with any paradigm, the proposed paradigm will need significant research to better
+define the contours of the proposed matrix. Human life and mind are complex and
+ever changing. Astrology, psychology and philosophy need to work together to better
+understand various facets of life in the light of the proposed structure.
+
+5. Predicting The Future
+King Vikramathithya had many astrologers in his court. Of them, Mihir was an
+intellectual giant and the most renowned. The King had a son. Mihir cast the
+horoscope of the prince. Other astrologers also prepared the boy’s horoscope using
+different systems of calculation.
+All of them gave their opinion that the prince would have an anxious time at the age
+of 18. But Mihir alone predicted clearly and boldly that the price would be killed by
+a varaha (boar) at a particular hour on a particular date. He also said that no human
+remedies could avert the danger and save the prince from the jaws of death and that
+this unpleasant incident could not be averted.
+Y ears passed. The prince was maintaining robust health. His surroundings were well
+guarded even some months prior to the eventful day. On the morning of the fateful
+day, the king held a durbar. The king requested Mihir to verily his calculations and
+confirm whether the fateful hour would be 5.00 p.m. on that day as predicted
+previously. All had their own doubts, because every precaution had been taken by the
+king. No wild boar or wild animal could have any chance of gaining access to the
+prince’s palace, which was very well protected by a huge army of vigilant warriors.
+The prince was asked to take his seat on the seventh floor, and all the staircases were
+fully guarded. The king was confident that his son was safe. The king requested
+Mihir to reconsider deeply about his original prediction.
+Mihir said that there was no mistake and death from injuries inflicted by a boar was
+predicted from the prince’s horoscope without any shadow of doubt.
+At frequent intervals a warrior was asked to give information about the prince’s
+health. Reports that the prince was all right continued to come even after the
+stipulated time of 5pm. Mihir did not agree. He calmly told the king that the prince
+had died at the stipulated time and it would be advisable if they would verify. He
+further mentioned that the prince was lying a pool of blood. He persuaded the king to
+go and see for himself. The king went to the seventh floor of prince’s palace, where
+companions of the prince were playing games. On enquiry, he was told that the
+prince was playing with them all along and that only a little while ago, the prince had
+gone out to the adjacent open terrace.
+All quickly stepped into the open terrace. To their great grief, the prince was lying
+dead in a pool of blood. They found that his body was injured by iron claw of an
+artificial boar. When the palace was constructed, the architect had erected a flagstaff
+and fixed an artificial boar made of iron and mortar at the top of the palace. Just
+before 5.00 p.m., the prince felt uneasy. He went to the open terrace to have fresh air.
+Exactly at 5.00 p.m., a strong wind broke the post into two and the artificial boar fell
+down. It fell straight on the chest of the prince. The injury was so deep that the
+terrible loss of blood resulted in his immediate collapse.
+The king awarded the title “Varaha” to Mihir and thereafter he was known as
+Varahmihir.
+(Abridged from Prof. K.S. Krishnamurti, Fundamental Principles of Astrology, Krishnamurti
+Publications, Madras, 1987, p. 19-22)
+
+Astrologers often cite the above story to illustrate the finality of fate and futility of
+human actions. Krishnamurti, in his introducing remarks before the above story, says,
+“Able astrologers who have specialised in any branch of the science can boldly declare
+an event without any doubt and can go the extent of taking a challenge that a particular
+result must happen, mentioning also the time of the event.”
+A key point that is often missed by most astrologers about the above story is that, as
+reward for his accurate prediction, Mihir was given the title of Varah (boar). How
+would you like to be called a pig? Would you consider it an honour? In Hindu
+mythology, Lord Vishnu is supposed to have taken an incarnation in the form of a
+Varah. Yet, one finds no other instance of a learned man being ‘honoured’ by the title
+of Varah. It appears, to me, that the intellectual community did not approve of Mihir’s
+action of forecasting the death of the prince and as a lifelong disgrace, bestowed the
+insult of being called a Varah.
+Clairvoyance, sixth sense, intuition - these are qualities that some individuals, and
+probably even some animals, possess. (In mid-December 1981, a Nandi bull in Nashik
+told me that I would be the first person to travel abroad out of the small crowd
+assembled on a roadside. I did not even have a passport at that time. On 15 February
+1982 I was on a flight to Germany.) Probably, it is possible for ordinary mortals to
+practise spiritual training or sadhana or yoga or tapasya and achieve mystical powers
+or siddhis that enable one to do acts, which are impossible in normal course. Almost
+every religion in the world acknowledges such mystical powers. Without denying the
+existence of mystical powers, astrology, to develop as a science, must move away from
+mysticism and occult.
+Mysticism and occult do produce some astoundingly accurate predictions, but there are
+as many instances of their being totally off-mark. Estimates of accuracy of mystical
+predictions vary, but there is no mystic or seer, as far as I know, who can claim a hit
+rate of hundred per cent. Indian thinkers, most notably Gautarn Buddha, had prohibited
+demonstration of mystical powers or siddhis.
+The prevalent view in Indian tradition has been that any intellectual or spiritual skills
+or abilities that one possesses or acquires must be used for the good of the society and
+not for going on a personal ego trip. Mihir’s accurate prediction of prince’s death did
+not do any social good; it would have only made the life of the royal family terribly
+miserable for eighteen long years. Would it not have been much better for the royal
+family to be ignorant and just face fate as it came?
+A few years ago, my neighbour, a young married healthy woman went to an astrologer.
+She was told that her death was certain within a year’s time. One can imagine her state.
+She even planned for her husband’s second marriage, after her death. Today, years
+later, she still dreads to think of the way she passed the year living through death. Even
+if certain death awaited her (in this case, it did not) at the end of the year, she would
+certainly have been better off enjoying life till finally death did strike.
+
+Astrological predictions, that claim to forecast any event that cannot be averted or
+altered by any human actions, serve no purpose except to pamper to the ego of the
+astrologer. Such predictions, in fact, damage individuals and society.
+In Indian tradition, the classic instance of shunning predictions is seen at the start of
+Mahabharat. Arjun was gripped with moral doubts and lost the will to fight just when
+he reached the battlefield. Krishn, accepted as an incarnation of God, delivered a long
+sermon, Shrimad Bhagwad Gita, to him about why he must fight. At no point in the
+sermon, Krishn predicts the result of war. Would it not have been much simpler for
+Krishn to just tell Arjun that he was sure to win the war and so he should go right
+ahead and fight!
+One finds an instance in Ramayan - Laxman had been grievously hurt in the war and
+Ram was in grief. Did Ram, an incarnation of God, not know that Laxman was not
+going to die? Surely, he could have got the services of an expert soothsayer like Mihir.
+If Ram and Krishn (and for that matter, even Jesus, Moses and Prophet Mohammed)
+did not depend on clairvoyance and let life take its own course, there is no reason for
+modem man to take recourse to advice of fortune-tellers.
+Astrology, on its part, must avoid the pitfall of fortune telling. Astrologers need to
+become more humble. They must accept their limitations. Astrology, as distinct from
+astronomy, arouses widespread popular interest since it has the potential to be useful to
+humanity. If fate was pre-decided and cast in stone, no human intervention would be
+possible - this would render astrology (in fact, all knowledge, sciences and even
+technology) redundant.
+Astrologers must begin with the premise that human life is unpredictable and that is
+exactly the way it must remain, given the present state of human development. On the
+other hand, astrologers ought to help modern man (or woman) to understand various
+influences that he (or she) is subjected to. They can and should help one understand
+one’s own mind as it grows through various phases of life. They can help by predicting
+phases, stages, factors, influences and forces that one’s life goes through.
+To sum up, let us look at what BV Raman wrote on 30-9-1941 in the Preface to his
+book:
+Can a science as astrology be ever untrue? The scientist takes too crudely a
+materialistic view of the whole nature of the universe. He contends that he may
+think of considering astrology as a fit subject for investigation provided the
+destiny factor is ruled out of it. This is simply absurd. There is nothing like
+destiny in astrology. The proper tenn to be used is Adrishta or that which is not
+seen. Astrology simply indicates and gives the greatest scope for the development
+of will-power, by means of which one can either counteract the evil indications or
+augment the favourable influences.
+
+6. Cosmic Influences on Man
+The most fundamental postulate underlying astrology is that planets and other bodies
+in the space influence human life. Indian thinkers saw a one-to-one correspondence
+between the human body and the cosmos. Yatha Pinday Tatha Brahmanday (As in
+body, same in cosmos) and Aham Brahmasmi (I am the cosmos) - both sum up the key
+philosophy that underlies Indian astrology.
+The concept of cosmos (or brahm ) is integral and fundamental to almost all streams of
+Indian thought. Every single being (every entity that exists) is a manifestation of the
+brahm. Hinduism appears to have many gods but the term used is “dev” or “devta”.
+Anyone who gives is a “dev”. Fire, water, air - all elements of nature are dev. Even
+one’s parents and teachers get the status of dev. All planets are dev. Each dev is a facet
+of God, which is just another name for the cosmos or brahm.
+God, to a Christian (and even Jewish and Muslim) mind, is the creator who is distinct
+from his creation. In Christianity and Judaism, creation is a one-time activity. The
+duality of creator and creation is fundamental to many religions. In contrast, Indian
+thought is based on monism, which sees no schism between creator and creation. As
+per Indian thought, the cosmos has no begimiing and no end. It only changes forms.
+The cosmos, viewed as a whole, is called brahm and our comprehension of cosmos, if
+it is true to the cosmic reality, is called sat. Each of us is a part of the totality of the
+cosmos. In that respect, each of us can claim to be God or brahm.
+A modern example will illustrate the point better. A car has many parts such as wheels,
+bonnet, seats, doors, door-handle, engine, carburettor, petrol tank, steering, suspension
+springs etc. Each part of the car is car. One can put one’s hand on the seat of the car
+and say that it is car. That is true only partially. The seat, by itself removed from the
+rest of the parts, is not car. Similarly each part is car when seen in conjunction with the
+rest, but is not car when removed from the whole. The word car is used for all the parts
+together. But if one were to collect all the parts and put them into a big box, one would
+not get a car. One needs to assemble the car using a set of rules and procedures.
+Without such an assembly, the parts do not become qualified to be called a car. Even
+after the assembly is complete, a modem car has to go through a process of image
+building through advertisements in print and electronic media. Image of the car is as
+much a part of the car as the seat or steering is. Viewed in this manner, it may appear
+to some that “car” is an abstract complex concept. Though, in reality car is not an
+abstract concept but is a real thing that we can see, feel and operate.
+A car is a finite entity, whose totality can be comprehended easily by human mind. In
+contrast, universe or cosmos is infinite in space as well as in time. It has no begimiing
+and has no end either spatially or temporally. If comprehending holistically a finite
+thing like a car poses problems, the comprehension of the infinite cosmos is indeed
+difficult.
+
+But just because something is difficult, one cannot deny it. Modem man, in spite of all
+the space travel, has a tendency to imagine as if planet earth is duly packed in a
+polythene bag, well insulated from the rest of cosmos. Modern man does not see
+himself as an integral part of the universe. In the past few decades, humanity has been
+learning that it is part of the natural environment of earth, but comprehending oneself
+as a part of a bigger cosmic whole is still far away. Anyone who believes in astrology
+must see one’s own life in light of the holistic cosmic reality.
+Are you the one who sees all this talk of cosmic holistic reality as unscientific humbug
+and as superstition? In the twenty first century, man has already landed on the moon
+and is on the way to Mars and, may be even Jupiter. We know that most of these
+planets are barren with good amount of minerals, but nothing else. How can rocks and
+craters influence human mind and life?
+The above question is apparently scientific, but just about apparently so. Science rarely
+answers the question “HOW” with regard to fundamental phenomenon. More often
+than not, the question “HOW” is answered in science either by describing the
+phenomenon in complex technical jargon or by camouflaging in smart words, given
+the name of scientific laws. Let us look at the phenomenon of gravitation. Every school
+student memorizes Law of Gravitation, which states that two bodies attract each other
+with a force, which is directly proportional to the product of the masses and inversely
+proportional to the square of the distance. The law, in effect, states that a teacup in my
+hand has more intelligence than I have (by “I”, I mean my mental capabilities and not
+my inanimate body). My teacup is able to calculate the mass of that coffee mug in your
+kitchen and also the distance, even if you are on the other side of the globe. How does
+that happen? The answer is simple - by law of gravitation. Isn’t that smart? Well, it is
+scientific!
+No study of atomic physics or quantum mechanics can explain the process by which
+inanimate objects, even at the sub-atomic level, calculate masses and distances of all
+objects across the world. The only explanation for gravitation is empirical. We know
+that it does happen. We do not know, how it happens. Most of science is like that.
+Many scientific theories - whether it be quantum physics or Einstein’s theory of
+relativity - appear as ridiculous as theory of gravitation, when viewed from a
+hypercritical perspective. We accept these theories just because it is practical to do so.
+The same logic applies in case of astrology.
+If one can accept Law of Gravitation as scientific, one should have no problems in
+accepting that planets and other cosmic bodies influence human life. Even though, we
+do not know how cosmic influence happens, (just as we do not how force of gravity
+travels through space), we have prima facie sufficient evidence to show that the
+cosmos influences human beings. For thousands of years, in almost every part of the
+world, there have been astrologers who have been able to prove that astrology deserves
+to be taken seriously. It is no astrologer’s contention that more data should not be
+gathered about cosmic influences. In fact, the opposition to public funding of gathering
+data in a scientific manner about influence of cosmos on mankind comes from pseudoscientists who claim to have a ‘rational scientific outlook’.
+
+One must add here that astrology needs to develop further in a scientific manner. The
+language and presentation of astrology has significant historical baggage. There is a
+need to reformulate theories of astrology in line with modem scientific temperament
+and methods. Just because, astrology, as a science, is not very well developed, should
+not be any reason for us to either discard astrology as unscientific or to deny the
+existence of cosmic influences.
+The purpose of mapping and understanding cosmic influences on human beings is akin
+to study of climate in meteorology. We know very well that meteorology is an underdeveloped science. Meteorologists are often unable to accurately forecast next week’s
+weather. Yet, one does not dismiss meteorology as unscientific. Meteorology provides
+advice, and people know how to use the advice and how not to use it. For example,
+storm warnings are useful and are heeded by even governments, though thunderstorms
+have a tendency to change course midway. But, even when weather forecast says
+sunny weather, one still carries an umbrella to office.
+Astrological forecasts of cosmic influences are more complex than meteorological
+forecasts. Meteorology deals with a very small number of variables - temperature,
+humidity, rainfall, snowfall, and wind velocity. Compare this to the complexity of
+parameters in twelve houses of a horoscope.
+When weather department forecasts light rain, we know that it is advisable to carry an
+umbrella. In case of astrological forecasts, the response is rarely so simple. Faced with
+different circumstances, human reactions vary enormously. In the face of adversity,
+one man collapses, while another one steels up. Astrology cannot predict responses.
+More about this in the next chapter!
+Not everyone carries an umbrella, when it rains!
+And everyone’s umbrella is not the same, even though the rain is no different.
+
+7. Fatalism, Determinism, Free Will And Astrology
+Issues of fatalism, determinism and free will have occupied western philosophers since
+Aristotle. Let us take a quick look at some extracts from The Stanford Encyclopedia of
+Philosophy.
+Fatalism is the view that we are powerless to do anything other that what we
+actually do. It may be argued for in various ways: by appeal to logical laws and
+metaphysical necessities; by appeal to the existence and nature of God; by appeal
+to causal determinism. When argued for in the first way, it is commonly called
+"Logical fatalism" (or, in some cases, "Metaphysical fatalism"); when argued for
+in the second way, it is commonly called "Theological fatalism". When argued for
+in the third way it is not now commonly referred to as "fatalism" at all.
+Aristotle is in no doubt that not everything that happens, happens of necessity. He
+accepts indeed (19a23-5) that "What is, necessarily is, when it is; and what is not,
+necessarily is not, when it is not." But he goes on to say, "But not everything that
+is, necessarily is; and not everything that is not, necessarily is not."
+A problem which has been much discussed by philosophers, at least since the
+time of Augustine (354-430), is whether divine omniscience is compatible with
+free will, and in particular with our having the power to do other than we do.
+One way of arguing for this incompatibility is due to Pike. (Pike 1965)
+Let us suppose that being omniscient involves being infallible, and
+believing that p if and only if it is true that p.
+Let us also suppose that God existed in 1 900, and that omniscience is part
+of his essence.
+Now, suppose that Jones mowed his lawn on 1/1/2000.
+Then God believed in 1900 that Jones would mow his lawn on 1/1/2000.
+Did Jones have the power to refrain from mowing his lawn?
+No. Because that would mean either (1) that he had the power to do
+something which would have brought it about that God had a false belief
+in 1 900, or (2) that he had the power to do something which would have
+brought it about that God did not believe in 1900 that Jones would mow
+his lawn on 1/1/2000, or (3) that he had the power to do something which
+would have brought it about that God did not exist in 1900. And each of
+these alternatives is impossible.
+
+Aristotle mentions, as a corollary of the conclusion that everything that happens,
+happens of necessity, that "there would be no need to deliberate or to take trouble
+(thinking that if we do this, this will happen, but if we do not, if will not)."
+(Aristotle, De Interpretatione, 1 8b3 1 -3)
+This thought was spelt out in what was known as "the Idle Argument" (Bobzien
+1998, Section 5). It went like this:
+If it is fated that you will recover from this illness, then, regardless of
+whether you consult a doctor or you do not consult a doctor you will
+recover.
+But also, if it is fated that you will not recover from this illness, then,
+regardless of whether you consult a doctor or you do not consult a doctor
+you will not recover.
+But either it is fated that you will recover from this illness or you will not
+recover.
+Therefore it is futile to consult a doctor.
+Source for above extracts:
+Rice, Hugh, "Fatalism", The Stanford Encyclopedia of Philosophy (Winter 2002 Edition),
+Edward N. Zalta (ed.), URL =
+<http://plato.stanford.edu/archives/win2002/entries/fatalism/>.
+Causal determinism is, roughly speaking, the idea that every event is necessitated
+by antecedent events and conditions together with the laws of nature.
+In order to get started we can begin with a loose and (nearly) all-encompassing
+definition as follows:
+Determinism: The world is governed by (or is under the sway of)
+determinism if and only if, given a specified way things are at a time t,
+the way things go thereafter is fixed as a matter of natural law.
+The italicized phrases are elements that require further explanation and
+investigation, in order for us to gain a clear understanding of the concept of
+determinism.
+The roots of the notion of determinism surely lie in a very common philosophical
+idea: the idea that everything can, in principle, be explained, or that everything
+that is, has a sufficient reason for being and being as it is, and not otherwise. In
+other words, the roots of determinism lie in what Leibniz named the Principle of
+Sufficient Reason.
+Fatalism is easily disentangled from determinism, to the extent that one can
+disentangle mystical forces and gods' wills and foreknowledge (about specific
+matters) from the notion of natural/causal law.
+
+In a looser sense, however, it is true that under the assumption of determinism,
+one might say that given the way things have gone in the past, all future events
+that will in fact happen are already destined to occur.
+There have even been studies of paradigmatically “chancy” phenomena such as
+coin-flipping, which show that if starting conditions can be precisely controlled
+and outside interferences excluded, identical behavior results. Most of these bits
+of evidence for determinism no longer seem to cut much ice, however, because of
+faith in quantum mechanics and its indeterminism. Indeterminist physicists and
+philosophers are ready to acknowledge that macroscopic repeatability is usually
+obtainable, where phenomena are so large-scale that quantum stochasticity gets
+washed out. But they would maintain that this repeatability is not to be found in
+experiments at the microscopic level, and also that at least some failures of
+repeatability (in your hard drive, or coin-flipping experiments) are genuinely due
+to quantum indeterminism, not just failures to isolate properly or establish
+identical initial conditions.
+There is a long tradition of compatibilists arguing that freedom is fully compatible
+with physical determinism. Hume went so far as to argue that determinism is a
+necessary condition for freedom — or at least, he argued that some causality
+principle along the lines of “same cause, same effect” is required.
+Source for above extracts:
+Hoefer, Carl, "Causal Determinism", The Stanford Encyclopedia of Philosophy ( Spring
+2004 Edition ), Edward N. Zalta (ed.), URL =
+<http://plato.stanford.edu/archives/spr2004/entries/determinism-causal/>.
+"Free Will" is largely a philosophical tenn of art for a particular sort of capacity
+of rational agents to choose a course of action from among various alternatives.
+Most philosophers suppose that the concept of free will is very closely connected
+to the concept of moral responsibility. Acting with free will, on such views, is just
+to satisfy the metaphysical requirement on being responsible for one's action.
+(Clearly, there will also be epistemic conditions on responsibility as well, such as
+being aware — or failing that, being culpably unaware — of relevant alternatives to
+one's action and of the alternatives' moral significance.) But the significance of
+free will is not exhausted by its connection to moral responsibility. Free will also
+appears to be a condition on desert for one's accomplishments (why sustained
+effort and creative work are praiseworthy); on the autonomy and dignify of
+persons; and on the value we accord to love and friendship. (See Kane, 1996,
+8 Iff.)
+The minimalist account of free will is as the ability to select a course of action as
+a means of fulfilling some desire. David Hume, for example, defines liberty as "a
+power of acting or of not acting, according to the determination of the will."
+
+Philosophers since Plato have commonly distinguished the ‘animal’ and ‘rational’
+parts of our nature, with the latter implying a great deal more psychological
+complexity. Our rational nature includes our ability to judge some ends as ‘good’
+or worth pursuing and value them even though satisfying them may result in
+considerable unpleasantness for ourselves.
+A large portion of Western philosophical writing on free will was and is written
+within an overarching theological framework, according to which God is the
+ultimate source and sustainer of all else. Some of these thinkers draw the
+conclusion that God must be a sufficient, wholly determining cause for everything
+that happens; all suppose that every creaturely act necessarily depends on the
+explanatorily prior, cooperative activity of God. It is also presumed that human
+beings are free and responsible (on pain of attributing evil in the world to God
+alone, and so impugning His perfect goodness). Hence, those who believe that
+God is omni-determining typically are compatibilists with respect to freedom and
+(in this case) theological determinism.
+Source for above extracts:
+O'Connor, Timothy, "Free Will", The Stanford Encyclopedia of Philosophy (Spring 2002
+Edition), Edward N. Zalta (ed.), URL =
+<http://plato.stanford.edu/archives/spr2002/entries/freewill/>.
+Fatalism seems to be entailed by infallible foreknowledge by the following
+informal line of reasoning:
+For any future act you will perform, if some being infallibly believed in
+the past that the act would occur, there is nothing you can do now about
+the fact that he believed what he believed since nobody has any control
+over past events; nor can you make him mistaken in his belief, given that
+he is infallible. Therefore, there is nothing you can do now about the fact
+that he believed in a way that camiot be mistaken that you would do what
+you will do. But if so, you cannot do otherwise than what he believed you
+would do. And if you cannot do otherwise, you will not perfonn the act
+freely.
+The theological fatalist argument just given creates a dilemma because many
+people have thought it important to maintain both (1) there is a deity who
+infallibly knows the entire future, and (2) human beings have free will in the
+strong sense usually called libertarian. But the theological fatalist argument seems
+to show that ( 1 ) and (2) are incompatible; the only way consistently to accept (2)
+is to deny (1). Those philosophers who think there is a way to consistently
+maintain both ( 1 ) and (2) are called compatibilists about infallible foreknowledge
+and human free will.
+
+Source for above extracts:
+Zagzebski, Linda, "Foreknowledge and Free Will", The Stanford Encyclopedia of
+Philosophy (Fall 2004 Edition), Edward N. Zalta (ed.), URL =
+<http://plato.stanford.edu/archives/fall2004/entries/free-will-foreknowledge/>.
+All arguments on fatalism, determinism, and free will in western philosophy have one
+or more of the following three key epicentres:
+a) Abstract metaphysical logic
+b) Existence of God as an omniscient Supreme Being
+c) Physical sciences where laws of nature determine cause-effect relations
+In addition, almost every philosopher wants to create a system whereby human beings
+remain committed to moral life. So, more pages have been written on “the question of
+how the conclusion (of fatalism) may be avoided as in the question of whether it is
+true” (Rice 2002).
+It is obvious that astrology has no relation to the development of philosophies of
+fatalism and determinism in Western world. Roots of fatalism and determinism lie on
+one hand, in Greek thinkers who were probably just working out some dazzling
+arguments to justify the common beliefs at that time; on the other hand in Christian
+concept of omniscient Supreme Being; and lastly in Newtonian image of physical
+sciences.
+
+In today’s world metaphysics stands discredited; thinkers need not bother about
+Church breathing down their neck; and scientists have become more humble than their
+counterparts of early twentieth century - probability and unpredictability were the
+buzzwords of second half of twentieth century. As we move into the twenty first
+century, biology takes the centre stage and physics gives way. It is interesting to read
+what a physicist, Erwin Schrodinger said six decades ago about life:
+To the physicist I wish to emphasize that in my opinion, and contrary to the
+opinion upheld in some quarters, quantum indeterminacy plays no biologically
+relevant role in them, except perhaps by enhancing their purely accidental
+character in such events as meiosis, natural and X-ray-induced mutation and so on
+- and this is in any case obvious and well recognized.
+For the sake of argument, let me regard this as a fact, as I believe every unbiased
+biologist would, if there were not the well-known, unpleasant feeling about
+'declaring oneself to be a pure mechanism'. For it is deemed to contradict Free
+Will as is warranted by direct introspection. But immediate experiences in
+themselves, however various and disparate they be, are logically incapable of
+contradicting each other.
+So let us see whether we cannot draw the correct, non-contradictory conclusion
+from the following two premises: (i) My body functions as a pure mechanism
+according to the Laws of Nature, (ii) Yet I know, by incontrovertible direct
+experience, that I am directing its motions, of which I foresee the effects, that may
+be fateful and all-important, in which case I feel and take full responsibility for
+them. The only possible inference from these two facts is, I think, that I - 1 in the
+widest meaning of the word, that is to say, every conscious mind that has
+ever said or felt T - am the person, if any, who controls the 'motion of the
+atoms' according to the Laws of Nature.
+Within a cultural milieu (Kulturkreis) where certain conceptions (which once had
+or still have a wider meaning amongst other peoples) have been limited and
+specialized, it is daring to give to this conclusion the simple wording that it
+requires. In Christian terminology to say: 'Hence I am God Almighty' sounds both
+blasphemous and lunatic. But please disregard these connotations for the moment
+and consider whether the above inference is not the closest a biologist can get to
+proving also their God and immortality at one stroke.
+In itself, the insight is not new. The earliest records to my knowledge date back
+some 2,500 years or more. From the early great Upanishads the recognition
+ATHMAN = BRAHMAN (the personal self equals the omnipresent, allcomprehending eternal self) was in Indian thought considered, far from being
+blasphemous, to represent the quintessence of deepest insight into the happenings
+of the world.
+
+The striving of all the scholars of Vedanta was, after having learnt to pronounce
+with their lips, really to assimilate in their minds this grandest of all thoughts.
+Again, the mystics of many centuries, independently, yet in perfect harmony with
+each other (somewhat like the particles in an ideal gas) have described, each of
+them, the unique experience of his or her life in tenns that can be condensed in
+the phrase: DEUS FACTUS SUM (1 have become God). To Western ideology the
+thought has remained a stranger, in spite of Schopenhauer and others who stood
+for it and in spite of those true lovers who, as they look into each other's eyes,
+become aware that their thought and their joy are numerically one - not merely
+similar or identical; but they, as a rule, are emotionally too busy to indulge in
+clear thinking, which respect they very much resemble the mystic.
+Schrodinger, Erwin, “WHAT IS LIFE? The Physical Aspect of the Living Cell, Based on
+lectures delivered under the auspices of the Dublin Institute for Advanced Studies at
+Trinity College, Dublin, in February 1943” First published 1944. Emphasis added.
+Schrodinger talks of an “I” as distinct from the atoms that make up the cells of human
+body. It is this “I” that controls the atoms within the limits imposed by laws of nature.
+Is this “I” free? Yes and no! “I” is bound by the limits imposed by laws of nature, but
+within the said limits, “I” is free.
+Indian astrology is based on the above truth. Laws of nature determine the influence of
+cosmos (or planets and stars) on a man’s life. But, this influence is not deterministic.
+Gravity pulls everything down and yet man has learnt to fly. The ability and wish to fly
+does not mean a denial of gravity. One cannot build an aeroplane that flies till one
+takes the force of gravity into account.
+Purpose of astrology is to help one understand the influence of cosmos, as it applies to
+the person concerned. The cosmic influences on a person are a function of (a) one’s
+horoscope, which is a cumulative summary of decisions and responses of the person in
+past lives and (b) planetary positions at any particular time. One’s response to the
+influences is one’s individual decision. The responses have a cumulative effect. At any
+particular point of time, a person is subject to the limits imposed by cumulative effect
+of the decisions that one took in the past (this life as well as past lives). Let me explain
+this with an example.
+Many years ago, my friend Surjit (name changed), a Sikh, came to me with a strange
+problem. He was married and had a business, which was not doing badly. He was not
+giving sufficient time to either his family or his business. He was on the point of
+becoming an alcoholic. On some days, he would get sick of drinking. But even on such
+days, instead of spending time at his shop or home, he would go to the gurudwara
+(Sikh temple) and spend hours there. He was getting sick of his own life, but did not
+know how and where to begin. He wanted to run away from it all. When he was in
+early teens, he had run away from home just because his parents stopped him from
+seeing a movie. He had spent more than ten years on streets across the country. He
+returned home and had settled down in life. But, now he was afraid that he was going
+back to the life of a tramp. He loved his wife and had no problems with her. She
+wanted him to be a normal person.
+
+After listening to his problem, I took him to another friend, an astrologer, who
+fortunately, understood his problem. Surjit was told that there was no way that he
+could lead a normal life and remain sane. A normal routine life will be just too
+disturbing for him and will either drive him mad or make him run away from
+everything. Surjit was advised that the best option for him was to realize his own
+nature and to turn his life towards a positive direction. He could either become an
+alcoholic or drug addict or sex maniac or a deeply religious person. The position was
+also explained to Surjit’s wife. Surjit decided to turn towards religion. He started
+spending more and more time at the gurudwara. It has been more than ten years since
+then. Now, Surjit gets up in the morning at 2 a.m. and goes for early morning prayers.
+He spends about ten hours a day in religious duties. For about fifteen days a month, he
+travels to other cities to perform services at various religious functions. He has given
+up alcohol as well as non-vegetarian food. He avoids even tea and coffee. It is rare to
+find him at any of his shops. Surprisingly, in the last ten years, his business has grown
+enormously. He still ignores his wife and family, but they understand.
+Astrology explained the disturbing influences that Surjit was subject to. Astrology did
+not predict any particular course, but helped him understand the limits that nature had
+imposed upon him. It was in Surjit’s interest to understand the limits and make
+modifications in his life.
+Indian and Chinese attitude to nature is simple - Do not try to bang your head against
+the wall, look around and you will find at least one door. Astrology can help one see
+the wall and can also make it easier for one to search for a door, may be many doors.
+Beyond that astrology does not, or rather should not, have any role.
+While the standard advice is to not bang one’s head against a wall, there have been
+men and women who did not bang their head against steel walls, but developed tools to
+break the walls and broke them. That is human ingenuity - creating doors and paths
+where none existed some time ago. Given an option of doors, the choice to walk
+through a particular door is of the individual concerned. Once a person walks through a
+door, he foregoes some others. All his subsequent options are determined by this
+decision.
+Understanding options available today, tomorrow and day-after-tomorrow - that sums
+up the essence of astrology. Is that detemiinism or fatalism or free will? Who bothers?
+Metaphysicists, who indulged in long abstract arguments without ever touching reality,
+have been buried long ago. Let them lie in peace, while we act as per advice and
+guidance based on astrological knowledge to the extent that it helps us live, grow and
+prosper as individuals and as social beings.
+
+Annexure 1A
+Source: Bangalore Venkata Raman, How to Judge a Horoscope, Volume One, Motilal Banarsidass
+Publishers Pvt. Ltd, Delhi, 1992, p.4
+
+Annexure 1 B
+Source: Prof. K.S. Krishnamurti, Fundamental Principles of Astrology, Krishnamurti Publications,
+
+Annexure 1C
+Houses
+
+Annexure 2
+dcd
+Elements & Zodiac Signs
+
+Annexure 3
+T1
+Planets
+
+About The Author
+Anil Chawla by name
+Engineer by qualification
+Philosopher by vocation
+Teacher by aptitude
+Entrepreneur by profession
+Consultant by occupation
+Businessman by accident
+Accountant by necessity
+Marketing man by experience
+Lawyer by studies
+Translator by demand
+Author by will
+Born in 1959 at Delhi, India.
+Joined IIT Bombay in 1975
+Active in politics since 1977
+Worked with Janata Party and later with Bharatiya Janata Party
+Too humble to push himself; too outspoken for sycophancy
+Hence, unfit for politics in India of today
+Hence, never joined any party
+He is an independent thinker who is like a loving child

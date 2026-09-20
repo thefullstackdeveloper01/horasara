@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "351__scripturelibrary_json",
+    "name": "scriptureLibrary",
+    "original_file": "scriptureLibrary.json",
+    "dataset_number": "351 of 455",
+    "format": "json",
+    "source_readable_file": "scriptureLibrary.txt",
+    "source_sha256": "fe9323cbd43294299cebb8fd2866941a93913ba46a60b8738744ac1f6dec8b29",
+    "source_bytes": 439
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "MAX_SNIPPET_CHARS": 240,
+      "MAX_RESULTS_DEFAULT": 5,
+      "MAX_BOOKS_TO_SCAN_TEXT": 40
+    }
+  }
+}

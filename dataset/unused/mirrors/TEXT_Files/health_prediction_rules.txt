@@ -1,0 +1,112 @@
+READABLE DATASET
+================================================================================
+Original file: health_prediction_rules.json
+Dataset number: 133 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 3,546 bytes
+Top-level records: 10
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • rule_id: 1
+  • category: General Health
+  • indicator: Lagna and its lord
+  • rule: Strong Lagna and its lord = strong constitution; weak = susceptible to illness
+  • body_mapping:
+    • Aries: Head/Brain
+    • Taurus: Throat/Neck
+    • Gemini: Arms/Lungs
+    • Cancer: Chest/Stomach
+    • Leo: Heart/Spine
+    • Virgo: Intestines/Nervous system
+    • Libra: Kidneys/Lower back
+    • Scorpio: Reproductive organs/Colon
+    • Sagittarius: Thighs/Liver
+    • Capricorn: Knees/Bones
+    • Aquarius: Ankles/Circulation
+    • Pisces: Feet/Lymphatics
+  • source: BPHS, Ayurvedic astrology
+2.
+  • rule_id: 2
+  • category: Chronic Illness
+  • indicator: 6th house + Saturn
+  • rule: Malefics (especially Saturn) in 6th house = chronic illness in the body part ruled by that sign
+  • timing: Saturn Dasha; 6th lord Dasha; Sade Sati periods
+  • source: BPHS, Phaladeepika
+3.
+  • rule_id: 3
+  • category: Accidents
+  • indicator: Mars + 8th house
+  • rule: Mars in 8th house or 8th lord with Mars = accident-prone; especially during Mars Dasha
+  • body_areas:
+    1.
+      Cuts
+    2.
+      Burns
+    3.
+      Blood loss
+    4.
+      Head injuries (Mars in 1st/8th)
+  • timing: Mars Dasha/Antardasha; Mars transit over natal Mars
+  • source: Saravali, BPHS
+4.
+  • rule_id: 4
+  • category: Mental Health
+  • indicator: Moon + Mercury affliction
+  • rule: Moon-Saturn conjunction (Vish Yoga), Moon-Rahu/Ketu = mental illness risk
+  • conditions:
+    1.
+      Moon in 6th/8th/12th afflicted by malefics
+    2.
+      Rahu conjunct Moon
+    3.
+      Saturn-Moon Yoga
+  • source: Hora Ratna, modern Jyotish
+5.
+  • rule_id: 5
+  • category: Heart Issues
+  • indicator: Sun + 4th/5th house
+  • rule: Sun afflicted in 5th house; 4th lord afflicted by Mars/Saturn; Leo sign on 1st/5th cusp with malefics
+  • timing: Sun Dasha with malefic influence
+  • source: Ayurvedic astrology
+6.
+  • rule_id: 6
+  • category: Digestive Issues
+  • indicator: Mercury + 6th house + Moon
+  • rule: Mercury afflicted in 6th house or Virgo; Moon in 6th with malefics = digestive disorders
+  • conditions:
+    1.
+      Mercury in Virgo 6th
+    2.
+      Moon-Saturn in 6th
+    3.
+      6th lord weak with malefics
+  • source: Classical Jyotish
+7.
+  • rule_id: 7
+  • category: Respiratory Issues
+  • indicator: Mercury + Gemini + 3rd house
+  • rule: Afflicted Mercury; malefics in 3rd house; Gemini or Aquarius on 1st/3rd cusp with Saturn
+  • source: BPHS, Ayurvedic astrology
+8.
+  • rule_id: 8
+  • category: Kidney/Liver Issues
+  • indicator: Venus + Jupiter + 7th house
+  • rule: Venus afflicted (kidneys/endocrine); Jupiter afflicted (liver/fatty tissue)
+  • timing: Venus or Jupiter Dasha with malefic aspects
+  • source: Traditional texts
+9.
+  • rule_id: 9
+  • category: Recovery Indicators
+  • indicator: Jupiter + Lagna lord
+  • rule: Strong Jupiter aspecting 1st or 8th house = recovery ability; Dasha of Jupiter = healing period
+  • source: BPHS
+10.
+  • rule_id: 10
+  • category: Longevity
+  • indicator: Lagna + 8th + Atmakaraka
+  • rule: Lagna lord and 8th lord both strong, with benefics in 8th = long life
+  • lifespan_calculation: Pindayu, Amsayu, and Nisargayu methods combined
+  • source: BPHS Ch.32

@@ -1,0 +1,43 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v12/outcome-corpus.schema.json
+Dataset number: 414 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 411 bytes
+Top-level fields: 5
+Title: V12 Outcome Case
+
+CONTENT
+--------------------------------------------------------------------------------
+• $schema: https://json-schema.org/draft/2020-12/schema
+• title: V12 Outcome Case
+• type: object
+• required:
+  1.
+    id
+  2.
+    chart
+  3.
+    eventType
+  4.
+    cutoffAt
+  5.
+    eventAt
+• properties:
+  • id:
+    • type: string
+  • chart:
+    • type: object
+  • eventType:
+    • type: string
+  • cutoffAt:
+    • type: string
+    • format: date-time
+  • eventAt:
+    • type: string
+    • format: date-time
+  • source:
+    • type: string
+  • verified:
+    • type: boolean

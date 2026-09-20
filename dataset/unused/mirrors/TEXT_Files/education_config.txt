@@ -1,0 +1,30 @@
+READABLE DATASET
+================================================================================
+Original file: education_config.json
+Dataset number: 113 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 490 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 1
+• eduHouses:
+  1.
+    4
+  2.
+    5
+  3.
+    9
+• eduKarakas:
+  1.
+    Mercury
+  2.
+    Jupiter
+• afflictors:
+  1.
+    Saturn
+  2.
+    Rahu
+• notes: Classical Parashari assignment: 4th=Vidya Sthana (foundational learning/mind), 5th=Buddhi/Purva Punya (intelligence, academic merit), 9th=higher education/Guru/dharma. Karakas: Mercury (intellect/learning), Jupiter (wisdom/higher knowledge). Afflictors flagged as possible-delay indicators (not blockage), per standard Parashari house-affliction reading.

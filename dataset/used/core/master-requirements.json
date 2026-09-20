@@ -1,0 +1,159 @@
+{
+  "version": "14.0.0",
+  "policy": {
+    "runtime": "Node.js >=18",
+    "third_party_libraries": false,
+    "network_required": false,
+    "python_required": false,
+    "native_modules_required": false,
+    "static_chart_data_in_code": false,
+    "false_precision_claims": false,
+    "interpretation_must_follow_calculation": true,
+    "unsupported_features_must_be_explicit": true
+  },
+  "requirements": [
+    {
+      "id": "ASTRO-001",
+      "area": "Astronomy",
+      "goal": "Canonical offline astronomical pipeline with explicit precision metadata, ΔT, precession/nutation, aberration, light-time, topocentric options, nodes and ayanamsa.",
+      "status": "IMPLEMENTED_WITH_DOCUMENTED_PRECISION_LIMIT",
+      "source": [
+        "src/astronomy/vsop87.js",
+        "src/astronomy/deltat.js",
+        "src/astronomy/nutation2000b.js",
+        "src/astronomy/corrections.js"
+      ]
+    },
+    {
+      "id": "GEO-001",
+      "area": "Geography",
+      "goal": "Offline location/timezone resolution with historical offset and DST handling; no reverse-geocoding service.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "src/time/HistoricalTimeEngine.js",
+        "dataset/used/core/cities.json"
+      ]
+    },
+    {
+      "id": "VARGA-001",
+      "area": "Varga",
+      "goal": "Canonical D1 through supported Shodashvarga/high-sensitivity Vargas with explicit variant metadata and boundary sensitivity.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "src/charts/vargas.js",
+        "src/charts/VargaRegistry.js",
+        "src/prediction/vargaSignifications.js"
+      ]
+    },
+    {
+      "id": "CLASSICAL-001",
+      "area": "Classical Systems",
+      "goal": "Parashara, Jaimini, KP, Tajika, Lal Kitab, Prashna, Muhurta and Nadi modules remain isolated from presentation and expose provenance.",
+      "status": "IMPLEMENTED_WITH_VARIANT_GUARDS",
+      "source": [
+        "src/completion/CompleteEngine.js",
+        "src/completion/SupportedVariantRegistry.js",
+        "src/completion/CompleteLalKitabEngine.js",
+        "src/completion/CompletePrashnaEngine.js",
+        "src/muhurta/MuhurtaEngine.js",
+        "src/kp/kp_system.js",
+        "src/jaimini/karakamsa.js"
+      ]
+    },
+    {
+      "id": "YOGA-001",
+      "area": "Yogas",
+      "goal": "Data-driven yoga detection/enrichment with formation state, exceptions, strength and provenance; no hardcoded chart-specific prose.",
+      "status": "IMPLEMENTED_WITH_EXPLICIT_COVERAGE",
+      "source": [
+        "src/yoga/yogas.js",
+        "src/prediction/yogaEnrichment.js",
+        "dataset/used/core/yogas.json"
+      ]
+    },
+    {
+      "id": "BHAVA-001",
+      "area": "Bhava Phala",
+      "goal": "All 12 houses synthesized from canonical house, lord, occupant, aspect, Bala, Yoga, Dosha, Dasha and transit evidence.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "src/prediction/bhavaPhala.js"
+      ]
+    },
+    {
+      "id": "PRED-001",
+      "area": "Prediction",
+      "goal": "Evidence → contradiction → timing → conclusion pipeline with qualitative confidence and no fake probability.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "src/prediction/evidence_matrix.js",
+        "src/quality/contradictionSynthesis.js",
+        "src/domain/confidence/ConfidenceEngine.js",
+        "src/prediction/unifiedEngine.js"
+      ]
+    },
+    {
+      "id": "REPORT-001",
+      "area": "Report",
+      "goal": "Central report registry controls section inclusion and exposes calculation audit/provenance.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "src/infrastructure/report/ReportSectionRegistry.js",
+        "src/quality/auditTrail.js",
+        "config/ReportFeatures.js"
+      ]
+    },
+    {
+      "id": "DYNAMIC-001",
+      "area": "Dynamic Data",
+      "goal": "Runtime feature/data availability is derived from the bundled dataset and registry, not stale static capability claims.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "src/prediction/datasetRegistry.js",
+        "src/application/services/FeatureCapabilityRegistry.js"
+      ]
+    },
+    {
+      "id": "QUALITY-001",
+      "area": "Quality",
+      "goal": "Deterministic tests, invariants, golden fixtures, mutation smoke, architecture guards and production readiness gate.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "test",
+        "src/application/services/ProductionReadinessGate.js"
+      ]
+    },
+    {
+      "id": "DEPEND-001",
+      "area": "Dependencies",
+      "goal": "Zero runtime npm dependencies and no Python/pip/native dependency.",
+      "status": "VERIFIED",
+      "source": [
+        "package.json",
+        "package-lock.json"
+      ]
+    },
+    {
+      "id": "PRECISION-001",
+      "area": "Honesty",
+      "goal": "Do not label the reduced internal ephemeris as Swiss/JPL-grade; precision limitations remain machine-readable.",
+      "status": "VERIFIED",
+      "source": [
+        "src/infrastructure/astronomy/InternalVsop87Provider.js",
+        "src/astronomy/providers/SwissEphemerisProvider.js",
+        "src/astronomy/ProviderFactory.js"
+      ]
+    },
+    {
+      "id": "SCI-001",
+      "area": "Scientific Assurance",
+      "goal": "Separate deterministic calculation, independent reference verification, classical traceability and empirical prediction validation; forbid scientific-proof claims without evidence.",
+      "status": "IMPLEMENTED",
+      "source": [
+        "src/quality/ScientificAssurance.js",
+        "src/quality/AlgorithmRegistry.js",
+        "README.md"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "426__validation_v8_reference_benchmark_json",
+    "name": "validation_v8_reference-benchmark",
+    "original_file": "validation/v8/reference-benchmark.json",
+    "dataset_number": "426 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v8_reference-benchmark.txt",
+    "source_sha256": "baea6e06d671ee529e060b16bf5653a3baec93d176490db4dfb3bb20b5d0c50e",
+    "source_bytes": 592
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "8.0.0",
+      "status": "READY_FOR_REFERENCE_IMPORT",
+      "cases": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "tolerances": {
+        "longitudeDegrees": 0.1,
+        "timeSeconds": 1
+      },
+      "policy": "Reference values must carry independent source provenance."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "073__json_files_yoga_list_json",
+    "name": "JSON_Files_Yoga-List",
+    "original_file": "JSON_Files/Yoga-List.json",
+    "dataset_number": "221 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Yoga-List.txt",
+    "source_sha256": "60816b209fb96e0781b708a1db1bf488c03ccfc50301923f67c839553a303949",
+    "source_bytes": 1190
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "yoga_001",
+        "name": "Budhaditya Yoga",
+        "formed_by": "Conjunction of Sun and Mercury in the same house.",
+        "type": "Intellectual / Wealth Yoga",
+        "effects": "Native is intelligent, educated, wealthy, and holds a respectable position in society.",
+        "exceptions": "If this yoga occurs in the 8th house or if Mercury is combust (too close to Sun), the positive effects are diminished.",
+        "source_text": "Brihat Parashara Hora Shastra"
+      },
+      {
+        "id": "yoga_002",
+        "name": "Gajakesari Yoga",
+        "formed_by": "Jupiter in Kendra (1,4,7,10) from Moon.",
+        "type": "Raja Yoga (Auspicious)",
+        "effects": "Native is highly intelligent, virtuous, famous, and has a strong moral compass. Brings immense wealth and spiritual wisdom.",
+        "exceptions": "If Jupiter is debilitated (Capricorn) or aspected by Rahu/Ketu, effects are reduced.",
+        "source_text": "Brihat Parashara Hora Shastra"
+      }
+    ]
+  }
+}

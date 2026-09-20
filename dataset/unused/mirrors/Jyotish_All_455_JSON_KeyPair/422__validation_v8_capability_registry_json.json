@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "422__validation_v8_capability_registry_json",
+    "name": "validation_v8_capability-registry",
+    "original_file": "validation/v8/capability-registry.json",
+    "dataset_number": "422 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v8_capability-registry.txt",
+    "source_sha256": "c9ad3c3b023e970728c89afa7c70766d3e36b2bece2565e5adbd336671f39031",
+    "source_bytes": 1406
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "8.0.0",
+      "policy": {
+        "implementedIsNotVerified": "Yes",
+        "jsonIsSourceOfTruth": "Yes",
+        "noFabricatedEvidence": "Yes",
+        "empiricalAccuracyRequiresVerifiedOutcomes": "Yes"
+      },
+      "areas": {
+        "_items": [
+          {
+            "_text": [
+              "astronomical precision"
+            ]
+          },
+          {
+            "_text": [
+              "rashi/bhava"
+            ]
+          },
+          {
+            "_text": [
+              "vargas"
+            ]
+          },
+          {
+            "_text": [
+              "strength"
+            ]
+          },
+          {
+            "_text": [
+              "ashtakavarga"
+            ]
+          },
+          {
+            "_text": [
+              "dashas"
+            ]
+          },
+          {
+            "_text": [
+              "yoga/dosha"
+            ]
+          },
+          {
+            "_text": [
+              "KP"
+            ]
+          },
+          {
+            "_text": [
+              "Jaimini"
+            ]
+          },
+          {
+            "_text": [
+              "Lal Kitab"
+            ]
+          },
+          {
+            "_text": [
+              "Tajik/Varshaphal"
+            ]
+          },
+          {
+            "_text": [
+              "panchanga"
+            ]
+          },
+          {
+            "_text": [
+              "transits"
+            ]
+          },
+          {
+            "_text": [
+              "muhurta"
+            ]
+          },
+          {
+            "_text": [
+              "prediction engine"
+            ]
+          },
+          {
+            "_text": [
+              "prediction validation"
+            ]
+          },
+          {
+            "_text": [
+              "historical corpus"
+            ]
+          },
+          {
+            "_text": [
+              "cross-system reconciliation"
+            ]
+          },
+          {
+            "_text": [
+              "rule coverage"
+            ]
+          },
+          {
+            "_text": [
+              "prediction UX/evidence"
+            ]
+          },
+          {
+            "_text": [
+              "historical event research"
+            ]
+          },
+          {
+            "_text": [
+              "scale/performance"
+            ]
+          },
+          {
+            "_text": [
+              "observability"
+            ]
+          },
+          {
+            "_text": [
+              "enterprise administration"
+            ]
+          },
+          {
+            "_text": [
+              "messaging/reporting"
+            ]
+          }
+        ]
+      },
+      "verification": {
+        "referenceBenchmark": "dataset/validation/v8/reference-benchmark.json",
+        "historicalCorpus": "dataset/validation/v8/corpus-manifest.json",
+        "predictionCorpus": "dataset/validation/v8/corpus-manifest.json"
+      }
+    }
+  }
+}

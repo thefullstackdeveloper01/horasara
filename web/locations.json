@@ -1,0 +1,242 @@
+[
+ {
+  "id": "ahmedabad",
+  "name": "Ahmedabad, Gujarat, India",
+  "lat": 23.0225,
+  "lon": 72.5714,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "bengaluru",
+  "name": "Bengaluru, Karnataka, India",
+  "lat": 12.9716,
+  "lon": 77.5946,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "bhopal",
+  "name": "Bhopal, Madhya Pradesh, India",
+  "lat": 23.2599,
+  "lon": 77.4126,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "chandigarh",
+  "name": "Chandigarh, India",
+  "lat": 30.7333,
+  "lon": 76.7794,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "chennai",
+  "name": "Chennai, Tamil Nadu, India",
+  "lat": 13.0827,
+  "lon": 80.2707,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "delhi",
+  "name": "New Delhi, Delhi, India",
+  "lat": 28.6139,
+  "lon": 77.209,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "hyderabad",
+  "name": "Hyderabad, Telangana, India",
+  "lat": 17.385,
+  "lon": 78.4867,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "jaipur",
+  "name": "Jaipur, Rajasthan, India",
+  "lat": 26.9124,
+  "lon": 75.7873,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "kanpur",
+  "name": "Kanpur, Uttar Pradesh, India",
+  "lat": 26.4499,
+  "lon": 80.3319,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "kochi",
+  "name": "Kochi, Kerala, India",
+  "lat": 9.9312,
+  "lon": 76.2673,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "kolkata",
+  "name": "Kolkata, West Bengal, India",
+  "lat": 22.5726,
+  "lon": 88.3639,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "lucknow",
+  "name": "Lucknow, Uttar Pradesh, India",
+  "lat": 26.8467,
+  "lon": 80.9462,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "mumbai",
+  "name": "Mumbai, Maharashtra, India",
+  "lat": 19.076,
+  "lon": 72.8777,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "nagpur",
+  "name": "Nagpur, Maharashtra, India",
+  "lat": 21.1458,
+  "lon": 79.0882,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "patna",
+  "name": "Patna, Bihar, India",
+  "lat": 25.5941,
+  "lon": 85.1376,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "pune",
+  "name": "Pune, Maharashtra, India",
+  "lat": 18.5204,
+  "lon": 73.8567,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "surat",
+  "name": "Surat, Gujarat, India",
+  "lat": 21.1702,
+  "lon": 72.8311,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "varanasi",
+  "name": "Varanasi, Uttar Pradesh, India",
+  "lat": 25.3176,
+  "lon": 82.9739,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "kathmandu",
+  "name": "Kathmandu, Nepal",
+  "lat": 27.7172,
+  "lon": 85.324,
+  "tz": 5.75,
+  "timeZone": "Asia/Kathmandu"
+ },
+ {
+  "id": "colombo",
+  "name": "Colombo, Sri Lanka",
+  "lat": 6.9271,
+  "lon": 79.8612,
+  "tz": 5.5,
+  "timeZone": "Asia/Kolkata"
+ },
+ {
+  "id": "dhaka",
+  "name": "Dhaka, Bangladesh",
+  "lat": 23.8103,
+  "lon": 90.4125,
+  "tz": 6,
+  "timeZone": "Asia/Dhaka"
+ },
+ {
+  "id": "dubai",
+  "name": "Dubai, UAE",
+  "lat": 25.2048,
+  "lon": 55.2708,
+  "tz": 4,
+  "timeZone": "Asia/Dubai"
+ },
+ {
+  "id": "london",
+  "name": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tz": 0,
+  "timeZone": "Europe/London"
+ },
+ {
+  "id": "new-york",
+  "name": "New York, USA",
+  "lat": 40.7128,
+  "lon": -74.006,
+  "tz": -5,
+  "timeZone": "America/New_York"
+ },
+ {
+  "id": "los-angeles",
+  "name": "Los Angeles, USA",
+  "lat": 34.0522,
+  "lon": -118.2437,
+  "tz": -8,
+  "timeZone": "America/Los_Angeles"
+ },
+ {
+  "id": "toronto",
+  "name": "Toronto, Canada",
+  "lat": 43.6532,
+  "lon": -79.3832,
+  "tz": -5,
+  "timeZone": "America/Toronto"
+ },
+ {
+  "id": "singapore",
+  "name": "Singapore",
+  "lat": 1.3521,
+  "lon": 103.8198,
+  "tz": 8,
+  "timeZone": "Asia/Singapore"
+ },
+ {
+  "id": "sydney",
+  "name": "Sydney, Australia",
+  "lat": -33.8688,
+  "lon": 151.2093,
+  "tz": 10,
+  "timeZone": "Australia/Sydney"
+ },
+ {
+  "id": "melbourne",
+  "name": "Melbourne, Australia",
+  "lat": -37.8136,
+  "lon": 144.9631,
+  "tz": 10,
+  "timeZone": "Australia/Melbourne"
+ },
+ {
+  "id": "johannesburg",
+  "name": "Johannesburg, South Africa",
+  "lat": -26.2041,
+  "lon": 28.0473,
+  "tz": 2,
+  "timeZone": "Africa/Johannesburg"
+ }
+]

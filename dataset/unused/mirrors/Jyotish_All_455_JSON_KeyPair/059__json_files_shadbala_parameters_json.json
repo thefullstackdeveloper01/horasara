@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "059__json_files_shadbala_parameters_json",
+    "name": "JSON_Files_Shadbala-Parameters",
+    "original_file": "JSON_Files/Shadbala-Parameters.json",
+    "dataset_number": "207 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Shadbala-Parameters.txt",
+    "source_sha256": "7eb01abb13111db786dcb3b79f3e2ffa9b064250a44e33efc4a7a8215974d284",
+    "source_bytes": 612
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "bala": "Sthana Bala",
+        "max_points": 375,
+        "description": "Positional strength in sign."
+      },
+      {
+        "bala": "Dig Bala",
+        "max_points": 60,
+        "description": "Directional strength in house (e.g., Jupiter in 1st)."
+      },
+      {
+        "bala": "Kala Bala",
+        "max_points": 60,
+        "description": "Time strength (day/night birth)."
+      }
+    ]
+  }
+}

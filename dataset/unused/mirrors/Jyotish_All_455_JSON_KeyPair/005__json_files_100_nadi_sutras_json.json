@@ -1,0 +1,719 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "005__json_files_100_nadi_sutras_json",
+    "name": "JSON_Files_100_Nadi_Sutras",
+    "original_file": "JSON_Files/100_Nadi_Sutras.json",
+    "dataset_number": "153 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_100_Nadi_Sutras.txt",
+    "source_sha256": "8dfd515c80b92222b989f3a007b4903d86ba63896fd4ce8ed455cb9939038654",
+    "source_bytes": 15860
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": 1,
+        "sanskrit": "Karmany evadhikaras te ma phaleshu kadachana",
+        "english": "You have the right to action alone, never to its fruits.",
+        "theme": "Karma Yoga",
+        "source": "Bhagavad Gita 2.47"
+      },
+      {
+        "id": 2,
+        "sanskrit": "Yoga-sthah kuru karmani sangam tyaktva dhananjaya",
+        "english": "Established in yoga, perform actions, abandoning attachment, O Arjuna.",
+        "theme": "Karma Yoga",
+        "source": "Bhagavad Gita 2.48"
+      },
+      {
+        "id": 3,
+        "sanskrit": "Sukha-duhkhe same kritva labhalabhau jayajayau",
+        "english": "Treating pleasure and pain, gain and loss, victory and defeat equally.",
+        "theme": "Equanimity",
+        "source": "Bhagavad Gita 2.38"
+      },
+      {
+        "id": 4,
+        "sanskrit": "Atmaiva hy atmano bandhur atmaiva ripur atmanah",
+        "english": "The self is the friend of the self, and the self is the enemy of the self.",
+        "theme": "Self-Discipline",
+        "source": "Bhagavad Gita 6.5"
+      },
+      {
+        "id": 5,
+        "sanskrit": "Uddhared atmanatmanam natmanam avasadayet",
+        "english": "One should uplift oneself by oneself; one should not degrade oneself.",
+        "theme": "Self-Improvement",
+        "source": "Bhagavad Gita 6.5"
+      },
+      {
+        "id": 6,
+        "sanskrit": "Yatra yogeshvarah krishno yatra partho dhanur-dharah",
+        "english": "Wherever there is Krishna, the master of yoga, and Arjuna, the wielder of the bow, there will surely be victory, prosperity, and righteousness.",
+        "theme": "Divine Guidance",
+        "source": "Bhagavad Gita 18.78"
+      },
+      {
+        "id": 7,
+        "sanskrit": "Paritranaya sadhunam vinashaya cha dushkritam",
+        "english": "For the protection of the good and the destruction of the wicked.",
+        "theme": "Divine Purpose",
+        "source": "Bhagavad Gita 4.8"
+      },
+      {
+        "id": 8,
+        "sanskrit": "Dharma-samsthapanarthaya sambhavami yuge yuge",
+        "english": "I manifest age after age to reestablish dharma.",
+        "theme": "Dharma",
+        "source": "Bhagavad Gita 4.8"
+      },
+      {
+        "id": 9,
+        "sanskrit": "Yada yada hi dharmasya glanir bhavati bharata",
+        "english": "Whenever there is a decline of dharma, O Bharata.",
+        "theme": "Dharma",
+        "source": "Bhagavad Gita 4.7"
+      },
+      {
+        "id": 10,
+        "sanskrit": "Abhyasa-vairagyabhyam tan-nirodhah",
+        "english": "The mind is restrained by practice and detachment.",
+        "theme": "Mind Control",
+        "source": "Yoga Sutras 1.12"
+      },
+      {
+        "id": 11,
+        "sanskrit": "Yogash chitta-vritti-nirodhah",
+        "english": "Yoga is the cessation of the modifications of the mind.",
+        "theme": "Yoga",
+        "source": "Yoga Sutras 1.2"
+      },
+      {
+        "id": 12,
+        "sanskrit": "Tada drashtuh svarupe avasthanam",
+        "english": "Then the seer abides in its own true nature.",
+        "theme": "Self-Realization",
+        "source": "Yoga Sutras 1.3"
+      },
+      {
+        "id": 13,
+        "sanskrit": "Vritti-sarupyam itaratra",
+        "english": "At other times, the seer identifies with the modifications of the mind.",
+        "theme": "Ignorance",
+        "source": "Yoga Sutras 1.4"
+      },
+      {
+        "id": 14,
+        "sanskrit": "Pramana-viparyaya-vikalpa-nidra-smritayah",
+        "english": "The modifications are right knowledge, wrong knowledge, imagination, sleep, and memory.",
+        "theme": "Mind",
+        "source": "Yoga Sutras 1.6"
+      },
+      {
+        "id": 15,
+        "sanskrit": "Drashta drishimatrah shuddho 'pi pratyaya-anupashyah",
+        "english": "The seer is pure consciousness, but appears to be colored by the mind.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 2.20"
+      },
+      {
+        "id": 16,
+        "sanskrit": "Heyam duhkham anagatam",
+        "english": "Future suffering can be avoided.",
+        "theme": "Suffering",
+        "source": "Yoga Sutras 2.16"
+      },
+      {
+        "id": 17,
+        "sanskrit": "Drashta-drishyayoh samyogo heya-hetuh",
+        "english": "The cause of suffering is the union of the seer and the seen.",
+        "theme": "Suffering",
+        "source": "Yoga Sutras 2.17"
+      },
+      {
+        "id": 18,
+        "sanskrit": "Avidya-Asmita-Raga-Dvesha-Abhiniveshah kleshah",
+        "english": "The afflictions are ignorance, egoism, attachment, aversion, and fear of death.",
+        "theme": "Afflictions",
+        "source": "Yoga Sutras 2.3"
+      },
+      {
+        "id": 19,
+        "sanskrit": "Anityashuchi-duhkhanatmasu nitya-shuchi-sukhatma-khyatir avidya",
+        "english": "Ignorance is mistaking the impermanent, impure, painful, and non-self for the permanent, pure, pleasurable, and self.",
+        "theme": "Ignorance",
+        "source": "Yoga Sutras 2.5"
+      },
+      {
+        "id": 20,
+        "sanskrit": "Sattva-purushayoh atyanta-asankhyatoh",
+        "english": "The purity of the mind and the seer are absolutely distinct.",
+        "theme": "Discernment",
+        "source": "Yoga Sutras 2.19"
+      },
+      {
+        "id": 21,
+        "sanskrit": "Tasya heyah hetuh avidya",
+        "english": "The cause of suffering is ignorance.",
+        "theme": "Ignorance",
+        "source": "Yoga Sutras 2.24"
+      },
+      {
+        "id": 22,
+        "sanskrit": "Hanam duhkham anagatam",
+        "english": "The avoidance of future suffering is the goal.",
+        "theme": "Liberation",
+        "source": "Yoga Sutras 2.16"
+      },
+      {
+        "id": 23,
+        "sanskrit": "Samyag-darshana-vishuddhih",
+        "english": "Purity of right vision.",
+        "theme": "Wisdom",
+        "source": "Yoga Sutras 2.25"
+      },
+      {
+        "id": 24,
+        "sanskrit": "Viveka-khyatir aviplava",
+        "english": "Uninterrupted discriminative awareness.",
+        "theme": "Discernment",
+        "source": "Yoga Sutras 2.26"
+      },
+      {
+        "id": 25,
+        "sanskrit": "Tasya saptadha pranta-bhumih prajnaya",
+        "english": "The yogi's insight becomes sevenfold and reaches the highest ground.",
+        "theme": "Enlightenment",
+        "source": "Yoga Sutras 2.27"
+      },
+      {
+        "id": 26,
+        "sanskrit": "Yoganganushthanad ashuddhi-kshaye jnana-diptir a-viveka-khyateh",
+        "english": "By practicing the limbs of yoga, impurities are destroyed and the light of knowledge shines.",
+        "theme": "Yoga Practice",
+        "source": "Yoga Sutras 2.28"
+      },
+      {
+        "id": 27,
+        "sanskrit": "Yama-niyama-asana-pranayama-pratyahara-dharana-dhyana-samadhayah ashtau angani",
+        "english": "The eight limbs are yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, and samadhi.",
+        "theme": "Ashtanga Yoga",
+        "source": "Yoga Sutras 2.29"
+      },
+      {
+        "id": 28,
+        "sanskrit": "Ahimsa-satya-asteya-brahmacharya-aparigrahah yamah",
+        "english": "Non-violence, truthfulness, non-stealing, celibacy, and non-possessiveness are the yamas.",
+        "theme": "Ethics",
+        "source": "Yoga Sutras 2.30"
+      },
+      {
+        "id": 29,
+        "sanskrit": "Shaucha-santosha-tapah-svadhyaya-Ishvara-pranidhanani niyamah",
+        "english": "Purity, contentment, austerity, self-study, and surrender to God are the niyamas.",
+        "theme": "Ethics",
+        "source": "Yoga Sutras 2.32"
+      },
+      {
+        "id": 30,
+        "sanskrit": "Sthira-sukham asanam",
+        "english": "Asana is a steady, comfortable posture.",
+        "theme": "Asana",
+        "source": "Yoga Sutras 2.46"
+      },
+      {
+        "id": 31,
+        "sanskrit": "Prayatna-shaithilya-ananta-samapattibhyam",
+        "english": "By loosening effort and meditating on the infinite.",
+        "theme": "Asana",
+        "source": "Yoga Sutras 2.47"
+      },
+      {
+        "id": 32,
+        "sanskrit": "Tatah dvandva-anabhighatah",
+        "english": "Then one is not disturbed by dualities.",
+        "theme": "Equanimity",
+        "source": "Yoga Sutras 2.48"
+      },
+      {
+        "id": 33,
+        "sanskrit": "Tasmin sati shvasa-prashvasayoh gati-vichchhedah pranayamah",
+        "english": "Pranayama is the regulation of inhalation and exhalation.",
+        "theme": "Pranayama",
+        "source": "Yoga Sutras 2.49"
+      },
+      {
+        "id": 34,
+        "sanskrit": "Svavishaya-asamprayoge chitta-svarupa-anukarah iva indriyanam pratyaharah",
+        "english": "Pratyahara is the withdrawal of the senses from their objects.",
+        "theme": "Pratyahara",
+        "source": "Yoga Sutras 2.54"
+      },
+      {
+        "id": 35,
+        "sanskrit": "Desha-bandhah chittasya dharana",
+        "english": "Dharana is the binding of the mind to one place.",
+        "theme": "Dharana",
+        "source": "Yoga Sutras 3.1"
+      },
+      {
+        "id": 36,
+        "sanskrit": "Tatra pratyaya-ekatanata dhyanam",
+        "english": "Dhyana is the continuous flow of one thought.",
+        "theme": "Dhyana",
+        "source": "Yoga Sutras 3.2"
+      },
+      {
+        "id": 37,
+        "sanskrit": "Tad eva artha-matra-nirbhasam svarupa-shunyam iva samadhih",
+        "english": "Samadhi is when the mind shines as the object alone, empty of itself.",
+        "theme": "Samadhi",
+        "source": "Yoga Sutras 3.3"
+      },
+      {
+        "id": 38,
+        "sanskrit": "Trayam ekatra samyamah",
+        "english": "The three together constitute samyama.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.4"
+      },
+      {
+        "id": 39,
+        "sanskrit": "Tad-vishayoh samyamad jnanam",
+        "english": "By samyama on an object, knowledge of it arises.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.5"
+      },
+      {
+        "id": 40,
+        "sanskrit": "Tasya bhumishu viniyogah",
+        "english": "Its application is in stages.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.6"
+      },
+      {
+        "id": 41,
+        "sanskrit": "Ahamkara-asmita-anusandhana-antah-karana-vishaya-samapattih",
+        "english": "Samyama on the ego and the inner instrument.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.47"
+      },
+      {
+        "id": 42,
+        "sanskrit": "Sattva-purushayoh atyanta-asankhyatoh",
+        "english": "The purity of the mind and the seer are absolutely distinct.",
+        "theme": "Discernment",
+        "source": "Yoga Sutras 2.19"
+      },
+      {
+        "id": 43,
+        "sanskrit": "Nirmanah chittam",
+        "english": "The mind is the instrument of creation.",
+        "theme": "Mind",
+        "source": "Yoga Sutras 4.4"
+      },
+      {
+        "id": 44,
+        "sanskrit": "Karma-ashaya-klesha-vipaka-ashayah",
+        "english": "The storehouse of karma, afflictions, and their fruits.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.8"
+      },
+      {
+        "id": 45,
+        "sanskrit": "Jati-desha-kala-vyavahitanam apy anantaryam smriti-samskarayoh eka-rupata",
+        "english": "Memory and impressions are one in form, even when separated by birth, place, and time.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.9"
+      },
+      {
+        "id": 46,
+        "sanskrit": "Tasam anaditvam cha ashisho nityatvat",
+        "english": "These are beginningless because the desire for liberation is eternal.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.10"
+      },
+      {
+        "id": 47,
+        "sanskrit": "Hetu-phala-ashraya-alambanaih sangrihitatvat esham abhave tad-abhavah",
+        "english": "When cause, effect, support, and object are absent, karma ceases.",
+        "theme": "Liberation",
+        "source": "Yoga Sutras 4.11"
+      },
+      {
+        "id": 48,
+        "sanskrit": "Atita-anagatam svarupatah asti adhva-bhedat dharmanam",
+        "english": "Past and future exist in their own nature; the difference is in the dharma.",
+        "theme": "Time",
+        "source": "Yoga Sutras 4.12"
+      },
+      {
+        "id": 49,
+        "sanskrit": "Te pratiprasava-heyah sukshmah",
+        "english": "The subtle impressions are destroyed by the return to the source.",
+        "theme": "Liberation",
+        "source": "Yoga Sutras 4.13"
+      },
+      {
+        "id": 50,
+        "sanskrit": "Karma-ashaya-klesha-vipaka-ashayah",
+        "english": "The storehouse of karma, afflictions, and their fruits.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.8"
+      },
+      {
+        "id": 51,
+        "sanskrit": "Parinama-ekatvat vastu-tattvam",
+        "english": "The essence of an object is its transformation.",
+        "theme": "Change",
+        "source": "Yoga Sutras 4.14"
+      },
+      {
+        "id": 52,
+        "sanskrit": "Vastu-samye chitta-bhedat tayoh vibhaktah panthah",
+        "english": "Even with the same object, the minds differ, so the paths are distinct.",
+        "theme": "Perception",
+        "source": "Yoga Sutras 4.15"
+      },
+      {
+        "id": 53,
+        "sanskrit": "Na cha eka-chitta-tantram vastu tad-apramanakam tada kim syat",
+        "english": "An object is not dependent on one mind; if it were, what would happen when that mind is absent?",
+        "theme": "Reality",
+        "source": "Yoga Sutras 4.16"
+      },
+      {
+        "id": 54,
+        "sanskrit": "Tad-uparaga-apekshatvat chittasya vastu jnata-ajnatam",
+        "english": "An object is known or unknown depending on whether the mind is colored by it.",
+        "theme": "Perception",
+        "source": "Yoga Sutras 4.17"
+      },
+      {
+        "id": 55,
+        "sanskrit": "Sada jnatah chitta-vrittayah tat-prabhoh purushasya apari-nama-tvat",
+        "english": "The modifications of the mind are always known to the purusha, because it is unchanging.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.18"
+      },
+      {
+        "id": 56,
+        "sanskrit": "Na tat svabhasam drishyatvat",
+        "english": "The mind is not self-luminous because it is seen.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.19"
+      },
+      {
+        "id": 57,
+        "sanskrit": "Eka-samaye cha ubhaya-anavadharanam",
+        "english": "At one time, both cannot be perceived.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.20"
+      },
+      {
+        "id": 58,
+        "sanskrit": "Chitta-antara-drishye buddhi-buddheh atiprasangah smriti-samkarah cha",
+        "english": "If one mind were seen by another, there would be an infinite regress and confusion of memory.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.21"
+      },
+      {
+        "id": 59,
+        "sanskrit": "Chiteh apratisamkramayah tad-akara-apattau sva-buddhi-samvedanam",
+        "english": "The self-knowledge of the mind arises when it takes the form of the unchanging consciousness.",
+        "theme": "Self-Realization",
+        "source": "Yoga Sutras 4.22"
+      },
+      {
+        "id": 60,
+        "sanskrit": "Drashta-drishyayoh samyogo heya-hetuh",
+        "english": "The cause of suffering is the union of the seer and the seen.",
+        "theme": "Suffering",
+        "source": "Yoga Sutras 2.17"
+      },
+      {
+        "id": 61,
+        "sanskrit": "Tasya heyah hetuh avidya",
+        "english": "The cause of suffering is ignorance.",
+        "theme": "Ignorance",
+        "source": "Yoga Sutras 2.24"
+      },
+      {
+        "id": 62,
+        "sanskrit": "Hanam duhkham anagatam",
+        "english": "The avoidance of future suffering is the goal.",
+        "theme": "Liberation",
+        "source": "Yoga Sutras 2.16"
+      },
+      {
+        "id": 63,
+        "sanskrit": "Samyag-darshana-vishuddhih",
+        "english": "Purity of right vision.",
+        "theme": "Wisdom",
+        "source": "Yoga Sutras 2.25"
+      },
+      {
+        "id": 64,
+        "sanskrit": "Viveka-khyatir aviplava",
+        "english": "Uninterrupted discriminative awareness.",
+        "theme": "Discernment",
+        "source": "Yoga Sutras 2.26"
+      },
+      {
+        "id": 65,
+        "sanskrit": "Tasya saptadha pranta-bhumih prajnaya",
+        "english": "The yogi's insight becomes sevenfold and reaches the highest ground.",
+        "theme": "Enlightenment",
+        "source": "Yoga Sutras 2.27"
+      },
+      {
+        "id": 66,
+        "sanskrit": "Yoganganushthanad ashuddhi-kshaye jnana-diptir a-viveka-khyateh",
+        "english": "By practicing the limbs of yoga, impurities are destroyed and the light of knowledge shines.",
+        "theme": "Yoga Practice",
+        "source": "Yoga Sutras 2.28"
+      },
+      {
+        "id": 67,
+        "sanskrit": "Yama-niyama-asana-pranayama-pratyahara-dharana-dhyana-samadhayah ashtau angani",
+        "english": "The eight limbs are yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, and samadhi.",
+        "theme": "Ashtanga Yoga",
+        "source": "Yoga Sutras 2.29"
+      },
+      {
+        "id": 68,
+        "sanskrit": "Ahimsa-satya-asteya-brahmacharya-aparigrahah yamah",
+        "english": "Non-violence, truthfulness, non-stealing, celibacy, and non-possessiveness are the yamas.",
+        "theme": "Ethics",
+        "source": "Yoga Sutras 2.30"
+      },
+      {
+        "id": 69,
+        "sanskrit": "Shaucha-santosha-tapah-svadhyaya-Ishvara-pranidhanani niyamah",
+        "english": "Purity, contentment, austerity, self-study, and surrender to God are the niyamas.",
+        "theme": "Ethics",
+        "source": "Yoga Sutras 2.32"
+      },
+      {
+        "id": 70,
+        "sanskrit": "Sthira-sukham asanam",
+        "english": "Asana is a steady, comfortable posture.",
+        "theme": "Asana",
+        "source": "Yoga Sutras 2.46"
+      },
+      {
+        "id": 71,
+        "sanskrit": "Prayatna-shaithilya-ananta-samapattibhyam",
+        "english": "By loosening effort and meditating on the infinite.",
+        "theme": "Asana",
+        "source": "Yoga Sutras 2.47"
+      },
+      {
+        "id": 72,
+        "sanskrit": "Tatah dvandva-anabhighatah",
+        "english": "Then one is not disturbed by dualities.",
+        "theme": "Equanimity",
+        "source": "Yoga Sutras 2.48"
+      },
+      {
+        "id": 73,
+        "sanskrit": "Tasmin sati shvasa-prashvasayoh gati-vichchhedah pranayamah",
+        "english": "Pranayama is the regulation of inhalation and exhalation.",
+        "theme": "Pranayama",
+        "source": "Yoga Sutras 2.49"
+      },
+      {
+        "id": 74,
+        "sanskrit": "Svavishaya-asamprayoge chitta-svarupa-anukarah iva indriyanam pratyaharah",
+        "english": "Pratyahara is the withdrawal of the senses from their objects.",
+        "theme": "Pratyahara",
+        "source": "Yoga Sutras 2.54"
+      },
+      {
+        "id": 75,
+        "sanskrit": "Desha-bandhah chittasya dharana",
+        "english": "Dharana is the binding of the mind to one place.",
+        "theme": "Dharana",
+        "source": "Yoga Sutras 3.1"
+      },
+      {
+        "id": 76,
+        "sanskrit": "Tatra pratyaya-ekatanata dhyanam",
+        "english": "Dhyana is the continuous flow of one thought.",
+        "theme": "Dhyana",
+        "source": "Yoga Sutras 3.2"
+      },
+      {
+        "id": 77,
+        "sanskrit": "Tad eva artha-matra-nirbhasam svarupa-shunyam iva samadhih",
+        "english": "Samadhi is when the mind shines as the object alone, empty of itself.",
+        "theme": "Samadhi",
+        "source": "Yoga Sutras 3.3"
+      },
+      {
+        "id": 78,
+        "sanskrit": "Trayam ekatra samyamah",
+        "english": "The three together constitute samyama.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.4"
+      },
+      {
+        "id": 79,
+        "sanskrit": "Tad-vishayoh samyamad jnanam",
+        "english": "By samyama on an object, knowledge of it arises.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.5"
+      },
+      {
+        "id": 80,
+        "sanskrit": "Tasya bhumishu viniyogah",
+        "english": "Its application is in stages.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.6"
+      },
+      {
+        "id": 81,
+        "sanskrit": "Ahamkara-asmita-anusandhana-antah-karana-vishaya-samapattih",
+        "english": "Samyama on the ego and the inner instrument.",
+        "theme": "Samyama",
+        "source": "Yoga Sutras 3.47"
+      },
+      {
+        "id": 82,
+        "sanskrit": "Sattva-purushayoh atyanta-asankhyatoh",
+        "english": "The purity of the mind and the seer are absolutely distinct.",
+        "theme": "Discernment",
+        "source": "Yoga Sutras 2.19"
+      },
+      {
+        "id": 83,
+        "sanskrit": "Nirmanah chittam",
+        "english": "The mind is the instrument of creation.",
+        "theme": "Mind",
+        "source": "Yoga Sutras 4.4"
+      },
+      {
+        "id": 84,
+        "sanskrit": "Karma-ashaya-klesha-vipaka-ashayah",
+        "english": "The storehouse of karma, afflictions, and their fruits.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.8"
+      },
+      {
+        "id": 85,
+        "sanskrit": "Jati-desha-kala-vyavahitanam apy anantaryam smriti-samskarayoh eka-rupata",
+        "english": "Memory and impressions are one in form, even when separated by birth, place, and time.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.9"
+      },
+      {
+        "id": 86,
+        "sanskrit": "Tasam anaditvam cha ashisho nityatvat",
+        "english": "These are beginningless because the desire for liberation is eternal.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.10"
+      },
+      {
+        "id": 87,
+        "sanskrit": "Hetu-phala-ashraya-alambanaih sangrihitatvat esham abhave tad-abhavah",
+        "english": "When cause, effect, support, and object are absent, karma ceases.",
+        "theme": "Liberation",
+        "source": "Yoga Sutras 4.11"
+      },
+      {
+        "id": 88,
+        "sanskrit": "Atita-anagatam svarupatah asti adhva-bhedat dharmanam",
+        "english": "Past and future exist in their own nature; the difference is in the dharma.",
+        "theme": "Time",
+        "source": "Yoga Sutras 4.12"
+      },
+      {
+        "id": 89,
+        "sanskrit": "Te pratiprasava-heyah sukshmah",
+        "english": "The subtle impressions are destroyed by the return to the source.",
+        "theme": "Liberation",
+        "source": "Yoga Sutras 4.13"
+      },
+      {
+        "id": 90,
+        "sanskrit": "Karma-ashaya-klesha-vipaka-ashayah",
+        "english": "The storehouse of karma, afflictions, and their fruits.",
+        "theme": "Karma",
+        "source": "Yoga Sutras 4.8"
+      },
+      {
+        "id": 91,
+        "sanskrit": "Parinama-ekatvat vastu-tattvam",
+        "english": "The essence of an object is its transformation.",
+        "theme": "Change",
+        "source": "Yoga Sutras 4.14"
+      },
+      {
+        "id": 92,
+        "sanskrit": "Vastu-samye chitta-bhedat tayoh vibhaktah panthah",
+        "english": "Even with the same object, the minds differ, so the paths are distinct.",
+        "theme": "Perception",
+        "source": "Yoga Sutras 4.15"
+      },
+      {
+        "id": 93,
+        "sanskrit": "Na cha eka-chitta-tantram vastu tad-apramanakam tada kim syat",
+        "english": "An object is not dependent on one mind; if it were, what would happen when that mind is absent?",
+        "theme": "Reality",
+        "source": "Yoga Sutras 4.16"
+      },
+      {
+        "id": 94,
+        "sanskrit": "Tad-uparaga-apekshatvat chittasya vastu jnata-ajnatam",
+        "english": "An object is known or unknown depending on whether the mind is colored by it.",
+        "theme": "Perception",
+        "source": "Yoga Sutras 4.17"
+      },
+      {
+        "id": 95,
+        "sanskrit": "Sada jnatah chitta-vrittayah tat-prabhoh purushasya apari-nama-tvat",
+        "english": "The modifications of the mind are always known to the purusha, because it is unchanging.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.18"
+      },
+      {
+        "id": 96,
+        "sanskrit": "Na tat svabhasam drishyatvat",
+        "english": "The mind is not self-luminous because it is seen.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.19"
+      },
+      {
+        "id": 97,
+        "sanskrit": "Eka-samaye cha ubhaya-anavadharanam",
+        "english": "At one time, both cannot be perceived.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.20"
+      },
+      {
+        "id": 98,
+        "sanskrit": "Chitta-antara-drishye buddhi-buddheh atiprasangah smriti-samkarah cha",
+        "english": "If one mind were seen by another, there would be an infinite regress and confusion of memory.",
+        "theme": "Consciousness",
+        "source": "Yoga Sutras 4.21"
+      },
+      {
+        "id": 99,
+        "sanskrit": "Chiteh apratisamkramayah tad-akara-apattau sva-buddhi-samvedanam",
+        "english": "The self-knowledge of the mind arises when it takes the form of the unchanging consciousness.",
+        "theme": "Self-Realization",
+        "source": "Yoga Sutras 4.22"
+      },
+      {
+        "id": 100,
+        "sanskrit": "Purusha-artha-shunyanam gunanam pratiprasavah kaivalyam",
+        "english": "Kaivalya is the return of the gunas to their source, devoid of the purpose of the purusha.",
+        "theme": "Liberation",
+        "source": "Yoga Sutras 4.34"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+READABLE DATASET
+================================================================================
+Original file: feature-capabilities.json
+Dataset number: 122 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 1,775 bytes
+Top-level records: 23
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  1.
+    LAGNA
+  2.
+    VERIFIED
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+2.
+  1.
+    RASHIFAL
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+3.
+  1.
+    PANCHANGA_BIRTH
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+4.
+  1.
+    VARGAS
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+5.
+  1.
+    VIMSHOTTARI_DASHA
+  2.
+    VERIFIED
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+6.
+  1.
+    DASHA_SUITE
+  2.
+    PARTIAL
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+7.
+  1.
+    SHADBALA
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+8.
+  1.
+    ASHTAKAVARGA
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+9.
+  1.
+    SPECIAL_LAGNAS
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+10.
+  1.
+    KP_SYSTEM
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+11.
+  1.
+    LAL_KITAB
+  2.
+    PARTIAL
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+12.
+  1.
+    WESTERN_CHART
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+13.
+  1.
+    VARSHAPHAL
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+14.
+  1.
+    PRASHNA
+  2.
+    PARTIAL
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+15.
+  1.
+    SARVATOBHADRA
+  2.
+    PARTIAL
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+16.
+  1.
+    SYNASTRY
+  2.
+    PARTIAL
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+17.
+  1.
+    COMPOSITE
+  2.
+    PARTIAL
+  3.
+    AVAILABLE
+  4.
+    PARTIAL
+18.
+  1.
+    CONFIDENCE
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+19.
+  1.
+    EVIDENCE_MATRIX
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+20.
+  1.
+    BACKTESTING
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    EXPERIMENTAL
+21.
+  1.
+    OUTCOME_CALIBRATION
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    EXPERIMENTAL
+22.
+  1.
+    CALCULATION_AUDIT
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE
+23.
+  1.
+    SOURCE_LINEAGE
+  2.
+    AVAILABLE
+  3.
+    AVAILABLE
+  4.
+    AVAILABLE

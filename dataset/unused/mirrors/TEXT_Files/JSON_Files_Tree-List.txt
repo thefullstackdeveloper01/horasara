@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Tree-List.json
+Dataset number: 215 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 850 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | scientific_name | associated_planet | associated_deity | astrological_use | parts_used | source_text
+----------------------------------------------------------------------------------------------------------------
+tree_001 | Peepal Tree | Ficus religiosa | Jupiter (Guru) | Lord Vishnu / Lord Ganesha | Watering the Peepal tree on Thursday remedies malefic Jupiter. Worshipping it brings wealth and progeny. | Bark, Leaves, Roots | Lal Kitab / Atharva Veda
+tree_002 | Shami Tree | Prosopis cineraria | Saturn (Shani) | Lord Shani / Lord Rama | Lighting a lamp under the Shami tree on Saturday reduces Shani dosha. Leaves are offered to Lord Shiva. | Leaves, Bark | Brihat Parashara Hora Shastra

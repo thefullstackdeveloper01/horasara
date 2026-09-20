@@ -1,0 +1,33 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Disease-List.json
+Dataset number: 166 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 334 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: disease_001
+  • associated_planet: Saturn (Shani)
+  • body_parts_affected:
+    1.
+      Legs
+    2.
+      Bones
+    3.
+      Teeth
+    4.
+      Nervous System
+  • diseases:
+    1.
+      Arthritis
+    2.
+      Joint Pain
+    3.
+      Chronic Illness
+    4.
+      Paralysis
+  • remedy: Worship Lord Hanuman, light a mustard oil lamp on Saturdays, donate black items.

@@ -1,0 +1,313 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "286__marriage_prediction_rules_json",
+    "name": "marriage_prediction_rules",
+    "original_file": "marriage_prediction_rules.json",
+    "dataset_number": "286 of 455",
+    "format": "json",
+    "source_readable_file": "marriage_prediction_rules.txt",
+    "source_sha256": "be9bcd82da79003982723cfc87985be3825ba7f2dedc504a5f04f37f6cf7899f",
+    "source_bytes": 5330
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "rule_id": 1,
+          "category": "Marriage Timing — Primary",
+          "indicator": "7th lord Dasha/Antardasha",
+          "rule": "Marriage most likely during Dasha or Antardasha of 7th lord",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter transiting 7th house"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter aspecting 7th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus Dasha"
+                ]
+              },
+              {
+                "_text": [
+                  "2nd lord activated"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS, universal tradition"
+        },
+        {
+          "rule_id": 2,
+          "category": "Marriage Timing — Secondary",
+          "indicator": "Jupiter and Venus transits",
+          "rule": "Jupiter transiting natal 7th house, or aspecting 7th lord, in Dasha of 7th lord = marriage year",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter in 1st, 5th, 7th, 9th from Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus transiting 7th house during Jupiter transit"
+                ]
+              }
+            ]
+          },
+          "source": "Muhurta Chintamani, Jaimini"
+        },
+        {
+          "rule_id": 3,
+          "category": "Spouse Characteristics",
+          "indicator": "7th house and its lord",
+          "rule": "Sign on 7th cusp and its lord's position describe spouse's nature, appearance, career",
+          "sign_spouse_indications": {
+            "Aries_on_7th": "Athletic, aggressive, independent spouse",
+            "Taurus_on_7th": "Stable, beautiful, wealth-oriented spouse",
+            "Gemini_on_7th": "Intellectual, communicative, dual-natured spouse",
+            "Cancer_on_7th": "Emotional, nurturing, family-oriented spouse",
+            "Leo_on_7th": "Dominant, proud, creative, leader spouse",
+            "Virgo_on_7th": "Analytical, critical, health-conscious spouse",
+            "Libra_on_7th": "Beautiful, balanced, artistic, diplomatic spouse",
+            "Scorpio_on_7th": "Intense, secretive, transformative spouse",
+            "Sagittarius_on_7th": "Adventurous, philosophical, spiritual spouse",
+            "Capricorn_on_7th": "Disciplined, ambitious, hardworking spouse",
+            "Aquarius_on_7th": "Unconventional, humanitarian, intellectual spouse",
+            "Pisces_on_7th": "Sensitive, spiritual, creative, compassionate spouse"
+          },
+          "source": "BPHS, Phaladeepika"
+        },
+        {
+          "rule_id": 4,
+          "category": "Delayed Marriage",
+          "indicator": "Saturn + 7th house",
+          "rule": "Saturn in 7th house, or Saturn aspecting 7th lord, or Saturn Dasha in prime marriage age = delay",
+          "age_of_delay": "Marriage after 30; sometimes after 35",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn in 7th"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn aspects 7th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "Sade Sati during 18-28"
+                ]
+              },
+              {
+                "_text": [
+                  "7th lord in Saturn's sign (Cap/Aquarius)"
+                ]
+              }
+            ]
+          },
+          "cancellation": "Benefic aspects on Saturn; strong Jupiter; Venus strongly placed",
+          "source": "Universal Jyotish tradition"
+        },
+        {
+          "rule_id": 5,
+          "category": "Multiple Marriages",
+          "indicator": "Multiple factors in 7th house",
+          "rule": "Multiple planets in 7th house (especially Venus, Moon, Mars together) or 7th lord in dual sign",
+          "supporting_indicators": {
+            "_items": [
+              {
+                "_text": [
+                  "7th lord in Gemini, Virgo, Sagittarius, Pisces"
+                ]
+              },
+              {
+                "_text": [
+                  "More than 2 planets in 7th"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus in Gemini in 7th"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu in 7th"
+                ]
+              }
+            ]
+          },
+          "source": "Phaladeepika, Jataka Parijata"
+        },
+        {
+          "rule_id": 6,
+          "category": "Marital Happiness",
+          "indicator": "Venus and Jupiter positions",
+          "rule": "Strong Venus (especially in Navamsa) and Jupiter aspecting 7th = happy marriage",
+          "favorable_positions": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus in Taurus/Libra/Pisces"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter in 7th or aspecting 7th"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon in 7th (for males)"
+                ]
+              }
+            ]
+          },
+          "unfavorable_positions": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus debilitated (Virgo)"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun in 7th (burns 7th house)"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars in 7th (Mangala Dosha)"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS, D9 Navamsa analysis"
+        },
+        {
+          "rule_id": 7,
+          "category": "Love Marriage",
+          "indicator": "5th and 7th house connection",
+          "rule": "5th lord in 7th, 7th lord in 5th, or 5th and 7th lords conjoined = love marriage",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus in 5th"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu in 5th or 7th"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon-Venus conjunction"
+                ]
+              },
+              {
+                "_text": [
+                  "Strong 5th house"
+                ]
+              }
+            ]
+          },
+          "source": "Modern Jyotish, Phaladeepika"
+        },
+        {
+          "rule_id": 8,
+          "category": "Arranged Marriage",
+          "indicator": "Saturn + 7th house",
+          "rule": "Saturn in or aspecting 7th house, or Saturn-influenced 7th lord = arranged marriage",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn in 7th"
+                ]
+              },
+              {
+                "_text": [
+                  "7th lord in Capricorn or Aquarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Conservative sign on 7th cusp"
+                ]
+              }
+            ]
+          },
+          "source": "Traditional Jyotish"
+        },
+        {
+          "rule_id": 9,
+          "category": "Foreign Spouse",
+          "indicator": "Rahu/Ketu + 7th house",
+          "rule": "Rahu in 7th, or 7th lord in 12th, or 7th lord with Rahu = foreign spouse",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "7th lord in 12th house"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu-Venus conjunction"
+                ]
+              },
+              {
+                "_text": [
+                  "9th and 7th lords exchanging"
+                ]
+              }
+            ]
+          },
+          "source": "Modern Jyotish tradition"
+        },
+        {
+          "rule_id": 10,
+          "category": "Widowhood Risk",
+          "indicator": "8th house + 7th lord",
+          "rule": "8th lord in 7th, or 7th lord in 8th, with malefic aspects = risk of widowhood",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Mars in 7th without cancellation"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn in 8th aspecting 7th"
+                ]
+              },
+              {
+                "_text": [
+                  "Multiple Maraka influences"
+                ]
+              }
+            ]
+          },
+          "cancellation": "Jupiter strongly aspecting 7th and 8th; benefics in Navamsa 7th",
+          "source": "BPHS, traditional texts"
+        }
+      ]
+    }
+  }
+}

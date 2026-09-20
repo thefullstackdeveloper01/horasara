@@ -1,0 +1,2262 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "400__unifiedengine_json",
+    "name": "unifiedEngine",
+    "original_file": "unifiedEngine.json",
+    "dataset_number": "400 of 455",
+    "format": "json",
+    "source_readable_file": "unifiedEngine.txt",
+    "source_sha256": "0d676143a0e9357681c7c39af649c0fece573a153cbe3ebd7d50e3f5c3427fe6",
+    "source_bytes": 52518
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "WEIGHTS": {
+        "YOGA": 0.25,
+        "DASHA": 0.35,
+        "TRANSIT": 0.25,
+        "HOUSE": 0.15
+      },
+      "AREAS": {
+        "career": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "2": 0.2,
+            "6": 0.2,
+            "10": 0.4,
+            "11": 0.2
+          },
+          "label": "Career & Professional Status"
+        },
+        "wealth": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "2": 0.35,
+            "5": 0.15,
+            "9": 0.15,
+            "11": 0.35
+          },
+          "label": "Wealth & Financial Growth"
+        },
+        "marriage": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "2": 0.15,
+            "5": 0.2,
+            "7": 0.5,
+            "11": 0.15
+          },
+          "label": "Marriage & Relationships"
+        },
+        "health": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "1": 0.4,
+            "6": 0.2,
+            "8": 0.25,
+            "12": 0.15
+          },
+          "inv": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "label": "Health & Vitality"
+        },
+        "children": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "1": 0.15,
+            "5": 0.6,
+            "9": 0.25
+          },
+          "label": "Children & Creative Expression"
+        },
+        "spirituality": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "5": 0.2,
+            "9": 0.45,
+            "12": 0.35
+          },
+          "label": "Spirituality & Inner Growth"
+        },
+        "property": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "2": 0.3,
+            "4": 0.5,
+            "11": 0.2
+          },
+          "label": "Property & Domestic Comforts"
+        },
+        "foreign": {
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "12"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          "planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "hw": {
+            "3": 0.25,
+            "9": 0.35,
+            "12": 0.4
+          },
+          "label": "Foreign Travel & Overseas Affairs"
+        }
+      },
+      "DIG_SCORE": {
+        "Exalted": 5,
+        "Own": 4,
+        "Moolatrikona": 4,
+        "Friend": 3,
+        "Neutral": 3,
+        "Enemy": 2,
+        "Debilitated": 1
+      },
+      "DASHA_THEMES": {
+        "Sun": "authority, career recognition, self-confidence, and leadership",
+        "Moon": "emotions, home life, public image, and nurturing relationships",
+        "Mars": "energy, action, property acquisition, and competitive initiatives",
+        "Mercury": "business, communication, analytical projects, and intellectual pursuits",
+        "Jupiter": "wisdom, expansion, children, higher education, and financial growth",
+        "Venus": "relationships, creativity, luxury, artistic pursuits, and partnerships",
+        "Saturn": "discipline, karma clearance, long-term structures, and mature responsibility",
+        "Rahu": "ambition, foreign connections, unconventional paths, and intense transformation",
+        "Ketu": "spiritual depth, detachment, research, past-life karma, and inner journey"
+      },
+      "CAREER_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Your professional chart shows exceptional planetary support for career advancement. You naturally attract opportunities for leadership and recognition — the key is learning to receive credit gracefully rather than deflecting it."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Career growth is strongly indicated but requires you to actively claim your space. Your tendency to wait for external validation may delay what the planets have already made available."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Authority figures will actively support your career trajectory. This is a high-momentum period — move decisively on opportunities rather than second-guessing yourself."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You are operating at a career vibration that most people don't reach until much later. Trust the accelerated timeline the planets are offering."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Career momentum builds steadily through consistent work rather than sudden breakthroughs. Your professional credibility compounds over time — maintain the discipline you're already showing."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You perform best in structured professional environments with clear performance metrics. Ambiguous organizational cultures trigger the avoidance tendency in your chart."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Leadership opportunities are available but require you to actively step forward rather than wait to be noticed. Your analytical skills give you an edge — leverage them in negotiations."
+                  ]
+                },
+                {
+                  "_text": [
+                    "A significant career window opens during the next Saturn/Jupiter transition. Prepare by consolidating your professional credentials and relationships now."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Career advancement requires extra proactive effort — external circumstances will not automatically create opportunities. Identify what you want specifically, then build the path deliberately."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You tend to delay major career decisions until forced by circumstance. This pattern has served as protection historically, but current period rewards earlier action."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Professional recognition may come through unexpected channels rather than your expected path. Stay open to lateral moves that don't fit your original plan."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Your analytical abilities are significantly stronger than your current role utilizes. Seek projects or positions that challenge your intellectual capacity — stagnation creates frustration."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Career stability is your primary achievement in this period — major advancement is unlikely. Use this time to build foundations, eliminate recurring professional mistakes, and prepare for the next growth cycle."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Professional challenges cluster around Saturn transits, creating predictable pressure points. Map these periods and avoid major career decisions during peak stress phases."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You may feel professionally undervalued despite genuine competence. This is a perception problem, not a reality problem — your work speaks more clearly to outsiders than you realize."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Career pivots are likely and often turn out better than expected. Your chart indicates redirection rather than linear progression — treat uncertainty as opportunity."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "WEALTH_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Financial accumulation accelerates significantly during this period. Multiple income streams are indicated — the key mistake to avoid is consolidating too aggressively into a single vehicle."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Major financial decisions made during Jupiter transits tend to yield above-average returns. Trust the Jupiter timing even when analysis seems to argue otherwise."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Wealth flows naturally but unexpected expenses cluster around Saturn/Sun periods. Maintain an emergency reserve of at least 6 months — your chart shows these expenses are predictable, not random."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Your financial risk tolerance exceeds what your actual portfolio should carry. Diversification during high-momentum periods protects gains from the correction phases that follow."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Financial growth is steady but not dramatic — this is a compounding period, not a windfall period. Automation of savings is your most powerful tool right now."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Income increases through professional expertise rather than market speculation. Invest in skills that increase your market value rather than searching for financial shortcuts."
+                  ]
+                },
+                {
+                  "_text": [
+                    "A significant financial decision during the next Venus period will have lasting positive impact. Start preparing the conditions now — credibility and capital readiness matter."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You may undervalue the services or expertise you provide. Renegotiation of terms after achieving clear results is strongly indicated — you are currently underpriced."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Financial discipline must become non-negotiable during this period. The chart shows income but also recurring unexpected drains — only systematic saving prevents the cycle."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Wealth accumulation slows during this dasha — focus on expense management and debt reduction rather than aggressive investment. Stability is the win here."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Your relationship with money involves a fear component that drives reactive rather than strategic decisions. Address this mindset layer alongside financial mechanics."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Income diversification becomes essential — over-reliance on any single source creates vulnerability. Begin developing secondary revenue channels even if they feel premature."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Financial caution is the priority. Unexpected expenses are highly likely — maintain maximum liquidity and avoid speculative investments or lending money during this phase."
+                  ]
+                },
+                {
+                  "_text": [
+                    "This period is better for financial repair than financial growth. Use it to eliminate debt, build emergency reserves, and correct recurring spending patterns."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Property or large acquisitions should be deferred unless clearly urgent. The planetary configuration during this period does not support such decisions lasting positively."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Your spending triggers are emotional — discretionary expenses spike when you feel stressed or unsupported. Develop awareness of this pattern before spending."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "MARRIAGE_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Partnership prospects are exceptionally strong. Deep, committed relationships are favored — but your growth edge is learning to receive love without creating defensive distance."
+                  ]
+                },
+                {
+                  "_text": [
+                    "The ideal partnership for you balances intimacy with autonomy. Rigid role expectations from either side create the unconscious resistance you experience."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Major relationship decisions made during Jupiter periods tend to have lasting positive impact. If committed, focus on deepening; if single, be open to meaningful connection."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You attract devoted partners naturally. The work is learning to stay present during the intimacy-commitment cycle rather than creating distance at peak closeness."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Relationships require conscious cultivation rather than passive expectation. Communication is your most powerful tool — articulate needs clearly instead of assuming mind-reading."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You attract partners at your current level of emotional development. Growth in yourself precedes shift in partner quality — focus on inner work alongside relationship investment."
+                  ]
+                },
+                {
+                  "_text": [
+                    "A significant relationship window opens during the next Venus transit. Prepare yourself emotionally and practically — readiness matters as much as timing."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Past patterns repeat until you develop conscious awareness of them. What you repeatedly attract or create is information about your unfinished growth — not destiny."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Partnership stability requires extra attention during this period. Avoid taking relationships for granted — consistent small investments in connection prevent larger repairs later."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You may attract relationships that feel magnetically intense but create emotional turbulence. Distinguish between what刺激 you and what supports you."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Commitment may trigger unconscious fear responses. The fear itself is the growth material — what you resist exploring internally blocks external resolution."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Relationship clarity comes through action, not analysis. Stop analyzing the pattern and do the different thing in the moment of choice."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Relationship matters require patience and emotional maturity. Avoid forcing commitment outcomes — focus on your own stability first, and the right connection will follow."
+                  ]
+                },
+                {
+                  "_text": [
+                    "You may attract karmic relationships that feel consuming but ultimately drain energy. The test is whether the connection leaves you more alive or more depleted."
+                  ]
+                },
+                {
+                  "_text": [
+                    "This period emphasizes inner work over outer partnership. Use it for self-understanding — clarity about what you actually need precedes attracting it."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Professional astrological guidance on relationship timing is strongly recommended. Current period does not support blind faith in relationship outcomes."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "HEALTH_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Constitution is naturally robust — maintain current routines rather than seeking optimization. Minor fluctuations are normal and self-correcting."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Energy management is your strength, but you may be underestimating recovery needs. Current output level is sustainable only if you protect sleep and downtime actively."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Wellness focus: sleep consistency matters more than dramatic lifestyle overhauls. Small daily disciplines outperform periodic radical changes."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Medical check-ups during Jupiter periods tend to yield particularly useful insights. Schedule important consultations during this timing."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Energy follows clear personal cycles — schedule demanding activities during your natural peaks. Ignoring these rhythms is the primary cause of preventable exhaustion."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Stress manifests physically before psychologically. Persistent minor symptoms are your body signaling accumulated strain — take them seriously."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Recovery requires intentional rest that you may be treating as optional. Current pace is sustainable only with scheduled downtime — not just stolen moments."
+                  ]
+                },
+                {
+                  "_text": [
+                    "A preventive medical consultation is strongly recommended. Some conditions are easier to address early — your chart shows this is a good time for medical review."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Health monitoring is important during this period. Reduce stimulants, maintain consistent routines, and do not ignore persistent symptoms regardless of how you explain them away."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Your body is under measurable strain that may not yet feel urgent. The warning signals are present — addressing root causes now prevents more serious intervention later."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Stress management must become a stated priority, not an afterthought. The connection between your mental state and physical symptoms is strong in your chart."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Seek both allopathic and holistic medical perspectives. Your chart responds well to integrated approaches rather than either extreme alone."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Health vigilance is essential, not optional. This is a period where ignoring symptoms has outsized consequences — get checked for anything persistent."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Reduce all non-essential demands on your energy. Your system is signaling that it cannot sustain current load — honor the signal before it escalates."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Rest is medicine right now, not luxury. Serious lifestyle recalibration is required — prioritize sleep, nutrition, and stress reduction above achievement."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Medical guidance should be actively sought, not deferred. The window for easy intervention is closing — what feels manageable now may not remain so."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "CHILDREN_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "5th house and Jupiter placement strongly favor children and creative expression. This is a high-probability window — trust that the conditions are favorable."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Creative achievement and family expansion reinforce each other during this period. Major creative projects launched now tend to find audience and appreciation."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Readiness on emotional, practical, and financial levels aligns during the next Jupiter cycle. Begin preparations now so conditions can crystallize when timing is optimal."
+                  ]
+                },
+                {
+                  "_text": [
+                    "If children are desired, medical consultation during Venus period increases the probability of favorable outcome. Timing and preparation matter."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Prospects are generally positive but require active cultivation rather than passive waiting. Prepare yourself on all levels so when the window opens, you can move."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Creative self-expression through projects, art, or children requires deliberate scheduling — don't wait for ideal conditions to emerge spontaneously."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Inner preparation is as important as outer logistics. Emotional readiness and health foundation matter as much as external circumstances."
+                  ]
+                },
+                {
+                  "_text": [
+                    "A generally supportive window is approaching. Stay open to this chapter unfolding naturally while doing the groundwork that makes you ready when it arrives."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Some delays or complications are possible in this area. Maintain optimism but also seek appropriate specialist guidance — chart indicates medical support helps."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Focus on inner readiness: emotional stability, financial foundation, health. These foundations determine how effectively you can engage when conditions improve."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Comparisons to others' timelines are counterproductive — every chart has its own timing. Your task is readiness, not rushing outcome."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Patience with the divine timing is the primary skill needed. What feels like delay is often the chart providing the preparation period you need."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "This area requires both medical and astrological consultation. Current planetary configuration favors inner work over external outcome forcing."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Deep patience and surrender are needed. The challenges in this area are part of your growth curriculum — resist the urge to force resolution."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Focus on healing and preparation rather than achieving specific outcomes. When the planetary period shifts, your readiness will matter enormously."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Seek qualified guidance. Attempting to navigate this alone during a challenging period increases difficulty unnecessarily."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SPIRITUALITY_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Exceptional spiritual potential is present in your chart. This period is highly conducive to deep inner development — meditation, sacred study, and community practice yield transformative results."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Your practice deepens through stillness rather than intensity. Small daily practices accumulate into profound shifts — consistency outperforms occasional dramatic efforts."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Teachers and communities that support your path appear when readiness meets need. Be patient with the timing — preparation creates the receptivity."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Material and spiritual paths are not opposed in your chart. Integration rather than choice is your path — remove any guilt about pursuing both."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Spiritual growth is well-supported. Regular practice during this dasha will yield meaningful development even if it doesn't feel dramatic."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Doubt is mature spiritual work, not obstacle. Your questioning nature is an asset — use it rigorously rather than suppressing it."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Community practice supports your individual path. Balance solitude with sangha — alone and together both serve your growth."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Inner authority strengthens gradually. Trust your own discernment even when it contradicts external authority — that is the path."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Spiritual life may feel dry or disconnected during this period — this is often the precursor to deeper understanding. Darkness precedes dawn."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Set aside consistent daily time for reflection or practice even when motivation is low. What sustains you through low periods is routine, not inspiration."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Seeking community or qualified teacher during this phase can help maintain your inner thread when individual practice feels insufficient."
+                  ]
+                },
+                {
+                  "_text": [
+                    "The challenges themselves are the curriculum. What appears as obstacle is often the precise work that advances understanding most."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Deep surrender and trust are required. The difficulties of this period are karmic clearing — accept this rather than fighting the process."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Focus on practices that cultivate peace rather than seeking outer validation. This phase is reshaping you from within — let it."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Spiritual practice may feel isolated or unsupported. This is temporary — maintain the thread of practice even when visible results are absent."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Community support becomes important during this period. Do not isolate completely — find at least one person who understands your path."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "PROPERTY_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Property prospects are excellent with strong 4th house and Mars/Venus indicators. Real estate decisions made during this period tend to yield solid long-term returns."
+                  ]
+                },
+                {
+                  "_text": [
+                    "A favorable property window opens during the next Mars/Saturn transition. Research and due diligence now position you to act decisively when timing aligns."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Domestic harmony and property acquisition reinforce each other. This is a good period for both making your living space better and for major property decisions."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Real estate investments tend to appreciate during Jupiter periods — trust this timing pattern when evaluating opportunities."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Property matters are generally supported. Well-researched decisions made during this period tend to work out — verify all documentation thoroughly."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Consider reviewing your housing situation during this period. Small improvements to your living environment often yield disproportionate quality-of-life returns."
+                  ]
+                },
+                {
+                  "_text": [
+                    "If considering property purchase, the next Venus period is favorable. Begin financial preparation now — down payment readiness matters."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Maintenance and improvement of existing property outperforms acquisition during this phase. Invest in what you already have."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Property transactions require extra due diligence. Avoid impulse decisions — all documentation must be verified with qualified legal support."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Major acquisitions are better deferred unless clearly urgent. Focus on making your current environment comfortable and secure."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Property-related delays or complications are possible. All contracts should include appropriate contingencies — do not proceed without legal review."
+                  ]
+                },
+                {
+                  "_text": [
+                    "The planetary configuration supports maintaining existing property rather than aggressive expansion. Use this phase for consolidation."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Major property decisions are strongly best deferred. Current planetary configuration does not support such decisions lasting positively."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Focus on making your current environment comfortable and stable. Property expansion when the chart does not support it creates financial and emotional stress."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Avoid significant property commitments unless absolutely necessary. Wait for planetary conditions to shift — the difference between favorable and unfavorable timing is substantial."
+                  ]
+                },
+                {
+                  "_text": [
+                    "If property issues arise (legal, tenant, maintenance), seek immediate professional help. Problems escalate quickly when planetary support is low."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "FOREIGN_PATTERNS": {
+        "_items": [
+          {
+            "threshold": 4.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Foreign connections and international pursuits are highly favored. This is an excellent period for overseas work, study, or partnerships."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Rahu's placement indicates strong international opportunity. Actively pursue foreign connections during this period — the planetary support is exceptional."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Cross-cultural exchange during this phase yields both personal and professional enrichment. Open yourself to international exposure."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Foreign travel undertaken during Jupiter periods tends to be particularly transformative. Plan important international trips during this timing."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 3.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "International prospects are available and generally positive. Stay open to cross-cultural connections — they can emerge through unexpected channels."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Prepare credentials, language skills, and documentation well in advance. Readiness positions you to capitalize when specific opportunities appear."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Foreign work or study opportunities that arise during this period tend to work out well. Evaluate them seriously rather than defaulting to staying local."
+                  ]
+                },
+                {
+                  "_text": [
+                    "International partnerships are supported — if considering such arrangements, this is a favorable period for establishing them."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 2.5,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Foreign opportunities may arise but require extra effort to materialize. The possibility is real but not automatic — active pursuit matters."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Documentation and preparation are especially important now. All paperwork for international matters should be started well ahead of deadlines."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Comparisons between local and international options should consider that this period favors consolidation locally over major international moves."
+                  ]
+                },
+                {
+                  "_text": [
+                    "If international plans exist, this is better for preparation than execution. Use it to get ready for stronger periods ahead."
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "threshold": 0,
+            "patterns": {
+              "_items": [
+                {
+                  "_text": [
+                    "Avoid significant international commitments unless clearly necessary. Local foundation strengthening takes priority over foreign expansion during this phase."
+                  ]
+                },
+                {
+                  "_text": [
+                    "Foreign plans may face delays, documentation hurdles, or unexpected obstacles. Only proceed if the need is urgent and immediate."
+                  ]
+                },
+                {
+                  "_text": [
+                    "This period is better for mental preparation and planning of international pursuits than for execution. Create plans now for implementation when conditions shift."
+                  ]
+                },
+                {
+                  "_text": [
+                    "If you must travel internationally, double-check all documentation and build in generous buffer time. Problems cluster during low-support periods."
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "PATTERN_POOLS": {
+        "career": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Your professional chart shows exceptional planetary support for career advancement. You naturally attract opportunities for leadership and recognition — the key is learning to receive credit gracefully rather than deflecting it."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Career growth is strongly indicated but requires you to actively claim your space. Your tendency to wait for external validation may delay what the planets have already made available."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Authority figures will actively support your career trajectory. This is a high-momentum period — move decisively on opportunities rather than second-guessing yourself."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You are operating at a career vibration that most people don't reach until much later. Trust the accelerated timeline the planets are offering."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Career momentum builds steadily through consistent work rather than sudden breakthroughs. Your professional credibility compounds over time — maintain the discipline you're already showing."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You perform best in structured professional environments with clear performance metrics. Ambiguous organizational cultures trigger the avoidance tendency in your chart."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Leadership opportunities are available but require you to actively step forward rather than wait to be noticed. Your analytical skills give you an edge — leverage them in negotiations."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "A significant career window opens during the next Saturn/Jupiter transition. Prepare by consolidating your professional credentials and relationships now."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Career advancement requires extra proactive effort — external circumstances will not automatically create opportunities. Identify what you want specifically, then build the path deliberately."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You tend to delay major career decisions until forced by circumstance. This pattern has served as protection historically, but current period rewards earlier action."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Professional recognition may come through unexpected channels rather than your expected path. Stay open to lateral moves that don't fit your original plan."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Your analytical abilities are significantly stronger than your current role utilizes. Seek projects or positions that challenge your intellectual capacity — stagnation creates frustration."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Career stability is your primary achievement in this period — major advancement is unlikely. Use this time to build foundations, eliminate recurring professional mistakes, and prepare for the next growth cycle."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Professional challenges cluster around Saturn transits, creating predictable pressure points. Map these periods and avoid major career decisions during peak stress phases."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You may feel professionally undervalued despite genuine competence. This is a perception problem, not a reality problem — your work speaks more clearly to outsiders than you realize."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Career pivots are likely and often turn out better than expected. Your chart indicates redirection rather than linear progression — treat uncertainty as opportunity."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "wealth": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Financial accumulation accelerates significantly during this period. Multiple income streams are indicated — the key mistake to avoid is consolidating too aggressively into a single vehicle."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Major financial decisions made during Jupiter transits tend to yield above-average returns. Trust the Jupiter timing even when analysis seems to argue otherwise."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Wealth flows naturally but unexpected expenses cluster around Saturn/Sun periods. Maintain an emergency reserve of at least 6 months — your chart shows these expenses are predictable, not random."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Your financial risk tolerance exceeds what your actual portfolio should carry. Diversification during high-momentum periods protects gains from the correction phases that follow."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Financial growth is steady but not dramatic — this is a compounding period, not a windfall period. Automation of savings is your most powerful tool right now."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Income increases through professional expertise rather than market speculation. Invest in skills that increase your market value rather than searching for financial shortcuts."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "A significant financial decision during the next Venus period will have lasting positive impact. Start preparing the conditions now — credibility and capital readiness matter."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You may undervalue the services or expertise you provide. Renegotiation of terms after achieving clear results is strongly indicated — you are currently underpriced."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Financial discipline must become non-negotiable during this period. The chart shows income but also recurring unexpected drains — only systematic saving prevents the cycle."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Wealth accumulation slows during this dasha — focus on expense management and debt reduction rather than aggressive investment. Stability is the win here."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Your relationship with money involves a fear component that drives reactive rather than strategic decisions. Address this mindset layer alongside financial mechanics."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Income diversification becomes essential — over-reliance on any single source creates vulnerability. Begin developing secondary revenue channels even if they feel premature."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Financial caution is the priority. Unexpected expenses are highly likely — maintain maximum liquidity and avoid speculative investments or lending money during this phase."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "This period is better for financial repair than financial growth. Use it to eliminate debt, build emergency reserves, and correct recurring spending patterns."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Property or large acquisitions should be deferred unless clearly urgent. The planetary configuration during this period does not support such decisions lasting positively."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Your spending triggers are emotional — discretionary expenses spike when you feel stressed or unsupported. Develop awareness of this pattern before spending."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "marriage": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Partnership prospects are exceptionally strong. Deep, committed relationships are favored — but your growth edge is learning to receive love without creating defensive distance."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "The ideal partnership for you balances intimacy with autonomy. Rigid role expectations from either side create the unconscious resistance you experience."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Major relationship decisions made during Jupiter periods tend to have lasting positive impact. If committed, focus on deepening; if single, be open to meaningful connection."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You attract devoted partners naturally. The work is learning to stay present during the intimacy-commitment cycle rather than creating distance at peak closeness."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Relationships require conscious cultivation rather than passive expectation. Communication is your most powerful tool — articulate needs clearly instead of assuming mind-reading."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You attract partners at your current level of emotional development. Growth in yourself precedes shift in partner quality — focus on inner work alongside relationship investment."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "A significant relationship window opens during the next Venus transit. Prepare yourself emotionally and practically — readiness matters as much as timing."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Past patterns repeat until you develop conscious awareness of them. What you repeatedly attract or create is information about your unfinished growth — not destiny."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Partnership stability requires extra attention during this period. Avoid taking relationships for granted — consistent small investments in connection prevent larger repairs later."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You may attract relationships that feel magnetically intense but create emotional turbulence. Distinguish between what刺激 you and what supports you."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Commitment may trigger unconscious fear responses. The fear itself is the growth material — what you resist exploring internally blocks external resolution."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Relationship clarity comes through action, not analysis. Stop analyzing the pattern and do the different thing in the moment of choice."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Relationship matters require patience and emotional maturity. Avoid forcing commitment outcomes — focus on your own stability first, and the right connection will follow."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "You may attract karmic relationships that feel consuming but ultimately drain energy. The test is whether the connection leaves you more alive or more depleted."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "This period emphasizes inner work over outer partnership. Use it for self-understanding — clarity about what you actually need precedes attracting it."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Professional astrological guidance on relationship timing is strongly recommended. Current period does not support blind faith in relationship outcomes."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "health": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Constitution is naturally robust — maintain current routines rather than seeking optimization. Minor fluctuations are normal and self-correcting."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Energy management is your strength, but you may be underestimating recovery needs. Current output level is sustainable only if you protect sleep and downtime actively."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Wellness focus: sleep consistency matters more than dramatic lifestyle overhauls. Small daily disciplines outperform periodic radical changes."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Medical check-ups during Jupiter periods tend to yield particularly useful insights. Schedule important consultations during this timing."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Energy follows clear personal cycles — schedule demanding activities during your natural peaks. Ignoring these rhythms is the primary cause of preventable exhaustion."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Stress manifests physically before psychologically. Persistent minor symptoms are your body signaling accumulated strain — take them seriously."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Recovery requires intentional rest that you may be treating as optional. Current pace is sustainable only with scheduled downtime — not just stolen moments."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "A preventive medical consultation is strongly recommended. Some conditions are easier to address early — your chart shows this is a good time for medical review."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Health monitoring is important during this period. Reduce stimulants, maintain consistent routines, and do not ignore persistent symptoms regardless of how you explain them away."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Your body is under measurable strain that may not yet feel urgent. The warning signals are present — addressing root causes now prevents more serious intervention later."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Stress management must become a stated priority, not an afterthought. The connection between your mental state and physical symptoms is strong in your chart."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Seek both allopathic and holistic medical perspectives. Your chart responds well to integrated approaches rather than either extreme alone."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Health vigilance is essential, not optional. This is a period where ignoring symptoms has outsized consequences — get checked for anything persistent."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Reduce all non-essential demands on your energy. Your system is signaling that it cannot sustain current load — honor the signal before it escalates."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Rest is medicine right now, not luxury. Serious lifestyle recalibration is required — prioritize sleep, nutrition, and stress reduction above achievement."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Medical guidance should be actively sought, not deferred. The window for easy intervention is closing — what feels manageable now may not remain so."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "children": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th house and Jupiter placement strongly favor children and creative expression. This is a high-probability window — trust that the conditions are favorable."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Creative achievement and family expansion reinforce each other during this period. Major creative projects launched now tend to find audience and appreciation."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Readiness on emotional, practical, and financial levels aligns during the next Jupiter cycle. Begin preparations now so conditions can crystallize when timing is optimal."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "If children are desired, medical consultation during Venus period increases the probability of favorable outcome. Timing and preparation matter."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Prospects are generally positive but require active cultivation rather than passive waiting. Prepare yourself on all levels so when the window opens, you can move."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Creative self-expression through projects, art, or children requires deliberate scheduling — don't wait for ideal conditions to emerge spontaneously."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Inner preparation is as important as outer logistics. Emotional readiness and health foundation matter as much as external circumstances."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "A generally supportive window is approaching. Stay open to this chapter unfolding naturally while doing the groundwork that makes you ready when it arrives."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Some delays or complications are possible in this area. Maintain optimism but also seek appropriate specialist guidance — chart indicates medical support helps."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Focus on inner readiness: emotional stability, financial foundation, health. These foundations determine how effectively you can engage when conditions improve."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Comparisons to others' timelines are counterproductive — every chart has its own timing. Your task is readiness, not rushing outcome."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Patience with the divine timing is the primary skill needed. What feels like delay is often the chart providing the preparation period you need."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "This area requires both medical and astrological consultation. Current planetary configuration favors inner work over external outcome forcing."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Deep patience and surrender are needed. The challenges in this area are part of your growth curriculum — resist the urge to force resolution."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Focus on healing and preparation rather than achieving specific outcomes. When the planetary period shifts, your readiness will matter enormously."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Seek qualified guidance. Attempting to navigate this alone during a challenging period increases difficulty unnecessarily."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "spirituality": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Exceptional spiritual potential is present in your chart. This period is highly conducive to deep inner development — meditation, sacred study, and community practice yield transformative results."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Your practice deepens through stillness rather than intensity. Small daily practices accumulate into profound shifts — consistency outperforms occasional dramatic efforts."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Teachers and communities that support your path appear when readiness meets need. Be patient with the timing — preparation creates the receptivity."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Material and spiritual paths are not opposed in your chart. Integration rather than choice is your path — remove any guilt about pursuing both."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Spiritual growth is well-supported. Regular practice during this dasha will yield meaningful development even if it doesn't feel dramatic."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Doubt is mature spiritual work, not obstacle. Your questioning nature is an asset — use it rigorously rather than suppressing it."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Community practice supports your individual path. Balance solitude with sangha — alone and together both serve your growth."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Inner authority strengthens gradually. Trust your own discernment even when it contradicts external authority — that is the path."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Spiritual life may feel dry or disconnected during this period — this is often the precursor to deeper understanding. Darkness precedes dawn."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Set aside consistent daily time for reflection or practice even when motivation is low. What sustains you through low periods is routine, not inspiration."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Seeking community or qualified teacher during this phase can help maintain your inner thread when individual practice feels insufficient."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "The challenges themselves are the curriculum. What appears as obstacle is often the precise work that advances understanding most."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Deep surrender and trust are required. The difficulties of this period are karmic clearing — accept this rather than fighting the process."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Focus on practices that cultivate peace rather than seeking outer validation. This phase is reshaping you from within — let it."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Spiritual practice may feel isolated or unsupported. This is temporary — maintain the thread of practice even when visible results are absent."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Community support becomes important during this period. Do not isolate completely — find at least one person who understands your path."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "property": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Property prospects are excellent with strong 4th house and Mars/Venus indicators. Real estate decisions made during this period tend to yield solid long-term returns."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "A favorable property window opens during the next Mars/Saturn transition. Research and due diligence now position you to act decisively when timing aligns."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Domestic harmony and property acquisition reinforce each other. This is a good period for both making your living space better and for major property decisions."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Real estate investments tend to appreciate during Jupiter periods — trust this timing pattern when evaluating opportunities."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Property matters are generally supported. Well-researched decisions made during this period tend to work out — verify all documentation thoroughly."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Consider reviewing your housing situation during this period. Small improvements to your living environment often yield disproportionate quality-of-life returns."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "If considering property purchase, the next Venus period is favorable. Begin financial preparation now — down payment readiness matters."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Maintenance and improvement of existing property outperforms acquisition during this phase. Invest in what you already have."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Property transactions require extra due diligence. Avoid impulse decisions — all documentation must be verified with qualified legal support."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Major acquisitions are better deferred unless clearly urgent. Focus on making your current environment comfortable and secure."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Property-related delays or complications are possible. All contracts should include appropriate contingencies — do not proceed without legal review."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "The planetary configuration supports maintaining existing property rather than aggressive expansion. Use this phase for consolidation."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Major property decisions are strongly best deferred. Current planetary configuration does not support such decisions lasting positively."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Focus on making your current environment comfortable and stable. Property expansion when the chart does not support it creates financial and emotional stress."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Avoid significant property commitments unless absolutely necessary. Wait for planetary conditions to shift — the difference between favorable and unfavorable timing is substantial."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "If property issues arise (legal, tenant, maintenance), seek immediate professional help. Problems escalate quickly when planetary support is low."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "foreign": {
+          "_items": [
+            {
+              "threshold": 4.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Foreign connections and international pursuits are highly favored. This is an excellent period for overseas work, study, or partnerships."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Rahu's placement indicates strong international opportunity. Actively pursue foreign connections during this period — the planetary support is exceptional."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Cross-cultural exchange during this phase yields both personal and professional enrichment. Open yourself to international exposure."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Foreign travel undertaken during Jupiter periods tends to be particularly transformative. Plan important international trips during this timing."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 3.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "International prospects are available and generally positive. Stay open to cross-cultural connections — they can emerge through unexpected channels."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Prepare credentials, language skills, and documentation well in advance. Readiness positions you to capitalize when specific opportunities appear."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Foreign work or study opportunities that arise during this period tend to work out well. Evaluate them seriously rather than defaulting to staying local."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "International partnerships are supported — if considering such arrangements, this is a favorable period for establishing them."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 2.5,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Foreign opportunities may arise but require extra effort to materialize. The possibility is real but not automatic — active pursuit matters."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Documentation and preparation are especially important now. All paperwork for international matters should be started well ahead of deadlines."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Comparisons between local and international options should consider that this period favors consolidation locally over major international moves."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "If international plans exist, this is better for preparation than execution. Use it to get ready for stronger periods ahead."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "threshold": 0,
+              "patterns": {
+                "_items": [
+                  {
+                    "_text": [
+                      "Avoid significant international commitments unless clearly necessary. Local foundation strengthening takes priority over foreign expansion during this phase."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Foreign plans may face delays, documentation hurdles, or unexpected obstacles. Only proceed if the need is urgent and immediate."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "This period is better for mental preparation and planning of international pursuits than for execution. Create plans now for implementation when conditions shift."
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "If you must travel internationally, double-check all documentation and build in generous buffer time. Problems cluster during low-support periods."
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

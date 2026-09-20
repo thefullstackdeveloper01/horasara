@@ -1,0 +1,106 @@
+READABLE DATASET
+================================================================================
+Original file: daily_horoscope.json
+Dataset number: 93 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,314 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• PLANET_DOMAINS:
+  • Sun:
+    1.
+      career
+    2.
+      authority
+    3.
+      health
+    4.
+      father
+  • Moon:
+    1.
+      emotions
+    2.
+      home
+    3.
+      mother
+    4.
+      relationships
+  • Mars:
+    1.
+      energy
+    2.
+      property
+    3.
+      siblings
+    4.
+      competition
+  • Mercury:
+    1.
+      business
+    2.
+      communication
+    3.
+      learning
+    4.
+      travel
+  • Jupiter:
+    1.
+      wisdom
+    2.
+      wealth
+    3.
+      children
+    4.
+      spirituality
+  • Venus:
+    1.
+      love
+    2.
+      luxury
+    3.
+      creativity
+    4.
+      partnerships
+  • Saturn:
+    1.
+      discipline
+    2.
+      delays
+    3.
+      karma
+    4.
+      longevity
+  • Rahu:
+    1.
+      ambition
+    2.
+      foreign
+    3.
+      technology
+    4.
+      unconventional
+  • Ketu:
+    1.
+      spirituality
+    2.
+      detachment
+    3.
+      research
+    4.
+      past-karma
+• HOUSE_THEMES:
+  • 1: self and appearance
+  • 2: wealth and speech
+  • 3: courage and siblings
+  • 4: home and mother
+  • 5: children and creativity
+  • 6: health and enemies
+  • 7: relationships and partnerships
+  • 8: transformation and longevity
+  • 9: fortune and dharma
+  • 10: career and reputation
+  • 11: gains and income
+  • 12: spirituality and foreign lands

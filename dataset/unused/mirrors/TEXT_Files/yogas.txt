@@ -1,0 +1,1664 @@
+READABLE DATASET
+================================================================================
+Original file: yogas.json
+Dataset number: 453 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 75,960 bytes
+Top-level records: 73
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: 1
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 1
+  • name: nabhasa yoga
+  • description: Rajju, Musala, and Nala are the three Asraya yogas. Maala and Sarpa are the two Dala yogas.
+  • hindi: रज्जु, मुसल और नल – ये तीन आश्रय योग हैं। माला और सर्प – ये दो दल योग कहे गए हैं।
+  • gujarati: રજ્જુ, મુસલ અને નલ – આ ત્રણ આશ્રય યોગ છે. માલા અને સર્પ – આ બે દળ યોગ કહેવાયા છે.
+  • keywords:
+    1.
+      nabhasa yoga
+    2.
+      asraya yoga
+    3.
+      rajju
+    4.
+      musala
+    5.
+      nala
+    6.
+      dala yoga
+    7.
+      maala
+    8.
+      sarpa
+  • source: BPHS
+2.
+  • id: 2
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 2
+  • name: akriti yoga
+  • description: Gada, Sakata, Sringataka, Vihanga, Hala, Vajra, Yava, Kamala, Vapi, Yupa – these are ten Akriti yogas.
+  • hindi: गद, शकट, सृङ्गाटक, विहंग, हल, वज्र, यव, कमल, वापी, यूप – ये दस आकृति योग हैं।
+  • gujarati: ગદ, શકટ, સૃંગાટક, વિહંગ, હળ, વજ્ર, યવ, કમળ, વાપી, યૂપ – આ દસ આકૃતિ યોગ છે.
+  • keywords:
+    1.
+      akriti yoga
+    2.
+      gada
+    3.
+      sakata
+    4.
+      sringataka
+    5.
+      vihanga
+    6.
+      hala
+    7.
+      vajra
+    8.
+      yava
+    9.
+      kamala
+    10.
+      vapi
+    11.
+      yupa
+  • source: BPHS
+3.
+  • id: 3
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 3
+  • name: sara
+  • description: Sara, Sakthi, Danda, Nauka, Koota, Chatra, Dhanus, Ardha Chandra, Chakra, and Samudra – these are ten more Akriti yogas. Thus, there are twenty Akriti yogas in total.
+  • hindi: शर, शक्ति, दण्ड, नौका, कूट, छत्र, धनु, अर्धचन्द्र, चक्र और समुद्र – ये दस और आकृति योग हैं। इस प्रकार कुल बीस आकृति योग होते हैं।
+  • gujarati: શર, શક્તિ, દંડ, નૌકા, કૂટ, છત્ર, ધનુ, અર્ધચંદ્ર, ચક્ર અને સમુદ્ર – આ દસ વધુ આકૃતિ યોગ છે. આ પ્રમાણે કુલ વીસ આકૃતિ યોગ થાય છે.
+  • keywords:
+    1.
+      sara
+    2.
+      sakthi
+    3.
+      danda
+    4.
+      nauka
+    5.
+      koota
+    6.
+      chatra
+    7.
+      dhanus
+    8.
+      ardha chandra
+    9.
+      chakra
+    10.
+      samudra
+  • source: BPHS
+4.
+  • id: 4
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 4
+  • name: sankhya yoga
+  • description: Vallaki, Daama, Paasa, Kedara, Soola, Yuga, and Gola – these are the seven Sankhya yogas.
+  • hindi: वल्लकी, दाम, पाश, केदार, शूल, युग और गोल – ये सात सङ्ख्या योग कहे गए हैं।
+  • gujarati: વલ્લકી, દામ, પાશ, કેદાર, શૂળ, યુગ અને ગોળ – આ સાત સંખ્યા યોગ કહેવાયા છે.
+  • keywords:
+    1.
+      sankhya yoga
+    2.
+      vallaki
+    3.
+      daama
+    4.
+      paasa
+    5.
+      kedara
+    6.
+      soola
+    7.
+      yuga
+    8.
+      gola
+  • source: BPHS
+5.
+  • id: 5
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 5
+  • name: rajju yoga
+  • description: All planets in movable signs cause Rajju yoga; in fixed signs, Musala yoga; in dual signs, Nala yoga. These are the three Asraya yogas.
+  • hindi: सभी ग्रह चर (गतिशील) राशियों में हों तो रज्जु योग, स्थिर राशियों में हों तो मुसल योग, द्विस्वभाव (उभय) राशियों में हों तो नल योग होता है। ये तीन आश्रय योग हैं।
+  • gujarati: બધા ગ્રહ ચર (ગતિશીલ) રાશિઓમાં હોય તો રજ્જુ યોગ, સ્થિર રાશિઓમાં હોય તો મુસલ યોગ, દ્વિસ્વભાવ (ઉભય) રાશિઓમાં હોય તો નલ યોગ થાય છે. આ ત્રણ આશ્રય યોગ છે.
+  • keywords:
+    1.
+      rajju yoga
+    2.
+      movable signs
+    3.
+      musala yoga
+    4.
+      fixed signs
+    5.
+      nala yoga
+    6.
+      dual signs
+    7.
+      asraya yoga
+  • source: BPHS
+6.
+  • id: 6
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 6
+  • name: maala yoga
+  • description: If three angles (1st, 4th, 7th) are occupied by benefices, Maala yoga is produced; if by malefics, Sarpa (Bhujanga) yoga. These give benefic and malefic effects respectively.
+  • hindi: तीन केन्द्रों (1,4,7) में शुभ ग्रह हों तो माला योग, पाप ग्रह हों तो सर्प (भुजंग) योग होता है। ये क्रमशः शुभ और अशुभ फल देते हैं।
+  • gujarati: ત્રણ કેન્દ્રો (1,4,7) માં શુભ ગ્રહો હોય તો માલા યોગ, પાપ ગ્રહો હોય તો સર્પ (ભુજંગ) યોગ થાય છે. આ ક્રમશઃ શુભ અને અશુભ ફળ આપે છે.
+  • keywords:
+    1.
+      maala yoga
+    2.
+      benefice
+    3.
+      sarpa yoga
+    4.
+      bhujanga yoga
+    5.
+      malefic
+    6.
+      angles
+    7.
+      dala yoga
+  • source: BPHS
+7.
+  • id: 7
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 7
+  • name: rajju yoga
+  • description: One born in Rajju yoga will be fond of wandering, be charming, will earn in foreign countries, and be cruel and mischievous.
+  • hindi: रज्जु योग में जन्मा मनुष्य भ्रमणशील, सुरूप, विदेश में अर्थलाभी, क्रूर और खल स्वभाव वाला होता है।
+  • gujarati: રજ્જુ યોગમાં જન્મેલો મનુષ્ય ભ્રમણશીલ, સુરૂપ, વિદેશમાં અર્થલાભી, ક્રૂર અને ખલ સ્વભાવવાળો હોય છે.
+  • keywords:
+    1.
+      rajju yoga
+    2.
+      wandering
+    3.
+      foreign earnings
+    4.
+      cruel
+    5.
+      mischievous
+  • source: BPHS
+8.
+  • id: 8
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 8
+  • name: musala yoga
+  • description: One born in Musala yoga will be endowed with honour, wisdom, wealth, etc., be dear to the king, famous, have many sons, and be firm in disposition.
+  • hindi: मुसल योग में जन्मा मनुष्य मान-धन से युक्त, राजवल्लभ, बहुपुत्र और स्थिरचित्त होता है।
+  • gujarati: મુસલ યોગમાં જન્મેલો મનુષ્ય માન-ધનથી યુક્ત, રાજવલ્લભ, બહુપુત્ર અને સ્થિરચિત્ત થાય છે.
+  • keywords:
+    1.
+      musala yoga
+    2.
+      honor
+    3.
+      wealth
+    4.
+      royal favor
+    5.
+      many sons
+    6.
+      firm disposition
+  • source: BPHS
+9.
+  • id: 9
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 9
+  • name: nala yoga
+  • description: One born in Nala yoga will have an uneven physique, be interested in accumulating money, very skilful, helpful to relatives, and charming.
+  • hindi: नल योग में जन्मा मनुष्य न्यूनाधिक अंग वाला, धनसंचय में तत्पर, निपुण, बन्धुहितकारी और सुरूप होता है।
+  • gujarati: નલ યોગમાં જન્મેલો મનુષ્ય ન્યૂનાધિક અંગવાળો, ધનસંચયમાં તત્પર, નિપુણ, બંધુહિતકારી અને સુરૂપ થાય છે.
+  • keywords:
+    1.
+      nala yoga
+    2.
+      uneven physique
+    3.
+      money accumulation
+    4.
+      skilful
+    5.
+      helpful to relatives
+    6.
+      charming
+  • source: BPHS
+10.
+  • id: 10
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 10
+  • name: maala yoga
+  • description: One born in Maala yoga will be ever happy, endowed with conveyances, robes, food, and pleasures, be splendorous, and have many females.
+  • hindi: माला योग में जन्मा मनुष्य नित्य सुखी, वाहन-वस्त्र-भोगी, कान्त, बहुस्त्रीक और सुखी होता है।
+  • gujarati: માલા યોગમાં જન્મેલો મનુષ્ય નિત્ય સુખી, વાહન-વસ્ત્ર-ભોગી, કાન્ત, બહુસ્ત્રીક અને સુખી થાય છે.
+  • keywords:
+    1.
+      maala yoga
+    2.
+      ever happy
+    3.
+      conveyances
+    4.
+      robes
+    5.
+      pleasures
+    6.
+      many women
+  • source: BPHS
+11.
+  • id: 11
+  • chapter: 35
+  • chapter_title: Nabhasa Yogas
+  • shloka: 11
+  • name: sarpa yoga
+  • description: One born in Sarpa (Bhujanga) yoga will be crooked, cruel, poor, miserable, and will depend on others for food and drinks.
+  • hindi: सर्प योग में जन्मा मनुष्य क्रूर, निःस्व, सदा दुःखी, पराश्रित, मृषाभक्षी और दुर्जन होता है।
+  • gujarati: સર્પ યોગમાં જન્મેલો મનુષ્ય ક્રૂર, નિઃસ્વ, સદા દુઃખી, પરાશ્રિત, મૃષાભક્ષી અને દુર્જન થાય છે.
+  • keywords:
+    1.
+      sarpa yoga
+    2.
+      crooked
+    3.
+      cruel
+    4.
+      poor
+    5.
+      miserable
+    6.
+      dependent
+  • source: BPHS
+12.
+  • id: 12
+  • chapter: 36
+  • chapter_title: Many Other Yogas
+  • shloka: 1
+  • name: shubha yoga
+  • description: If there be a benefice in the ascendant, Shubha yoga is produced, while a malefic therein causes Ashubha yoga. Similarly, benefices in both the 12th and 2nd cause Shubha yoga; malefics cause Ashubha yoga.
+  • hindi: लग्न में शुभ ग्रह हों तो शुभ योग, पाप ग्रह हों तो अशुभ योग होता है। बारहवें और दूसरे भाव में शुभ ग्रह हों तो शुभ और पाप ग्रह हों तो अशुभ फल होता है।
+  • gujarati: લગ્નમાં શુભ ગ્રહો હોય તો શુભ યોગ, પાપ ગ્રહો હોય તો અશુભ યોગ થાય છે. બારમા અને બીજા ભાવમાં શુભ ગ્રહો હોય તો શુભ અને પાપ ગ્રહો હોય તો અશુભ ફળ થાય છે.
+  • keywords:
+    1.
+      shubha yoga
+    2.
+      ashubha yoga
+    3.
+      benefice
+    4.
+      malefic
+    5.
+      1st house
+    6.
+      2nd house
+    7.
+      12th house
+  • source: BPHS
+13.
+  • id: 13
+  • chapter: 36
+  • chapter_title: Many Other Yogas
+  • shloka: 2
+  • name: gaja kesari yoga
+  • description: Gaja Kesari yoga is formed by the relationship between Jupiter and the Moon. One born in this yoga will be wealthy, learned, and dear to the king.
+  • hindi: गजकेसरी योग गुरु और चंद्र के संबंध से होता है। इस योग में जन्मा मनुष्य धनी, विद्वान और राजप्रिय होता है।
+  • gujarati: ગજકેસરી યોગ ગુરુ અને ચંદ્રના સંબંધથી થાય છે. આ યોગમાં જન્મેલો મનુષ્ય ધની, વિદ્વાન અને રાજપ્રિય થાય છે.
+  • keywords:
+    1.
+      gaja kesari yoga
+    2.
+      jupiter
+    3.
+      moon
+    4.
+      wealthy
+    5.
+      learned
+    6.
+      royal favor
+  • source: BPHS
+14.
+  • id: 14
+  • chapter: 36
+  • chapter_title: Many Other Yogas
+  • shloka: 3
+  • name: amala yoga
+  • description: If there is a benefice in the 10th house, Amala yoga is formed, which gives fame. One born in this yoga will be famous and honoured by the king.
+  • hindi: दशम भाव में शुभ ग्रह हो तो अमल योग होता है, जो कीर्ति देता है। इस योग में जन्मा मनुष्य यशस्वी और राजपूजित होता है।
+  • gujarati: દશમ ભાવમાં શુભ ગ્રહ હોય તો અમળ યોગ થાય છે, જે કીર્તિ આપે છે. આ યોગમાં જન્મેલો મનુષ્ય યશસ્વી અને રાજપૂજિત થાય છે.
+  • keywords:
+    1.
+      amala yoga
+    2.
+      10th house
+    3.
+      benefice
+    4.
+      fame
+    5.
+      royal honor
+  • source: BPHS
+15.
+  • id: 15
+  • chapter: 36
+  • chapter_title: Many Other Yogas
+  • shloka: 4
+  • name: parvata yoga
+  • description: If all angles (1,4,7,10) are occupied by benefices while the 7th and 8th are vacant, Parvata yoga is formed, which bestows a kingdom.
+  • hindi: सभी केन्द्रों (1,4,7,10) में शुभ ग्रह हों और सप्तम-अष्टम रिक्त हों, तो पर्वत नामक महायोग होता है, जो राज्य देता है।
+  • gujarati: બધા કેન્દ્રો (1,4,7,10) માં શુભ ગ્રહો હોય અને સપ્તમ-અષ્ટમ રિક્ત હોય, તો પર્વત નામનો મહાયોગ થાય છે, જે રાજ્ય આપે છે.
+  • keywords:
+    1.
+      parvata yoga
+    2.
+      angles
+    3.
+      benefices
+    4.
+      7th vacant
+    5.
+      8th vacant
+    6.
+      kingdom
+  • source: BPHS
+16.
+  • id: 16
+  • chapter: 36
+  • chapter_title: Many Other Yogas
+  • shloka: 5
+  • name: chamara yoga
+  • description: If the ascendant lord is exalted in an angle and aspected by Jupiter, Chamara yoga is formed. The native will be a king or equal to a king, long-lived, and happy.
+  • hindi: लग्नेश उच्च राशि में केन्द्र में हो और गुरु से देखा गया हो, तो चामर योग होता है। जातक राजा या राजा के समान, चिरंजीवी और सुखी होता है।
+  • gujarati: લગ્નેશ ઉચ્ચ રાશિમાં કેન્દ્રમાં હોય અને ગુરુથી જોવાયેલો હોય, તો ચામર યોગ થાય છે. જાતક રાજા કે રાજા સમાન, ચિરંજીવી અને સુખી થાય છે.
+  • keywords:
+    1.
+      chamara yoga
+    2.
+      ascendant lord exalted
+    3.
+      angle
+    4.
+      jupiter aspect
+    5.
+      king
+    6.
+      long life
+    7.
+      happy
+  • source: BPHS
+17.
+  • id: 17
+  • chapter: 36
+  • chapter_title: Many Other Yogas
+  • shloka: 6
+  • name: raja yoga
+  • description: Many Raja yogas have been described by scholars. The essence of those yogas described by me is being presented here.
+  • hindi: शास्त्रचिन्तकों ने बहुत से राजयोग कहे हैं। जो योग मैंने कहे हैं, उनका सार यहाँ प्रकाशित किया जा रहा है।
+  • gujarati: શાસ્ત્રચિંતકોએ ઘણા રાજયોગ કહ્યા છે. જે યોગ મેં કહ્યા છે, તેનો સાર અહીં પ્રકાશિત કરવામાં આવે છે.
+  • keywords:
+    1.
+      raja yoga
+    2.
+      essence
+    3.
+      summary
+  • source: BPHS
+18.
+  • id: 18
+  • chapter: 37
+  • chapter_title: Lunar Yogas
+  • shloka: 1
+  • name: sunapha yoga
+  • description: If there is a planet, other than the Sun, in the 2nd from the Moon, Sunapha yoga; in the 12th, Anapha yoga; and in both places, Duradhara yoga are caused.
+  • hindi: चंद्र से दूसरे भाव में ग्रह हो तो सुनफा, बारहवें में हो तो अनफा, और दोनों में हो तो दुराधर योग कहलाता है।
+  • gujarati: ચંદ્રથી બીજા ભાવમાં ગ્રહ હોય તો સુનફા, બારમામાં હોય તો અનફા, અને બંનેમાં હોય તો દુરાધર યોગ કહેવાય છે.
+  • keywords:
+    1.
+      sunapha yoga
+    2.
+      2nd from moon
+    3.
+      anapha yoga
+    4.
+      12th from moon
+    5.
+      duradhara yoga
+    6.
+      both places
+  • source: BPHS
+19.
+  • id: 19
+  • chapter: 37
+  • chapter_title: Lunar Yogas
+  • shloka: 2
+  • name: sunapha yoga
+  • description: One with Sunapha yoga will be a king or equal to a king, endowed with intelligence, wealth, fame, and self-earned wealth.
+  • hindi: सुनफा योग में जातक राजा या राजा के समान, बुद्धि-धन-कीर्ति से युक्त और स्वार्जित धन वाला होता है।
+  • gujarati: સુનફા યોગમાં જાતક રાજા કે રાજા સમાન, બુદ્ધિ-ધન-કીર્તિથી યુક્ત અને સ્વાર્જિત ધનવાળો થાય છે.
+  • keywords:
+    1.
+      sunapha yoga
+    2.
+      king
+    3.
+      intelligence
+    4.
+      wealth
+    5.
+      fame
+    6.
+      self-earned wealth
+  • source: BPHS
+20.
+  • id: 20
+  • chapter: 37
+  • chapter_title: Lunar Yogas
+  • shloka: 3
+  • name: anapha yoga
+  • description: One born in Anapha yoga will be a king, free from diseases, virtuous, famous, happy, and charming.
+  • hindi: अनफा योग में जातक राजा, नीरोगी, सुशील, कीर्तिमान, सुखी और सुरूप होता है।
+  • gujarati: અનફા યોગમાં જાતક રાજા, નીરોગી, સુશીલ, કીર્તિમાન, સુખી અને સુરૂપ થાય છે.
+  • keywords:
+    1.
+      anapha yoga
+    2.
+      king
+    3.
+      disease-free
+    4.
+      virtuous
+    5.
+      famous
+    6.
+      happy
+    7.
+      charming
+  • source: BPHS
+21.
+  • id: 21
+  • chapter: 37
+  • chapter_title: Lunar Yogas
+  • shloka: 4
+  • name: duradhara yoga
+  • description: One born in Duradhara yoga will enjoy pleasures, be charitable, and be endowed with wealth, conveyances, and excellent serving force.
+  • hindi: दुराधर योग में जातक भोगी, दाता, धन-वाहन से युक्त, सेवकों सहित और सुखी होता है।
+  • gujarati: દુરાધર યોગમાં જાતક ભોગી, દાતા, ધન-વાહનથી યુક્ત, સેવકો સહિત અને સુખી થાય છે.
+  • keywords:
+    1.
+      duradhara yoga
+    2.
+      pleasures
+    3.
+      charitable
+    4.
+      wealth
+    5.
+      conveyances
+    6.
+      servants
+  • source: BPHS
+22.
+  • id: 22
+  • chapter: 37
+  • chapter_title: Lunar Yogas
+  • shloka: 5
+  • name: kemadruma yoga
+  • description: Excluding the Sun, should there be no planet with the Moon or in the 2nd/12th from the Moon, Kemadruma yoga is formed. It always gives misery.
+  • hindi: चंद्र के दूसरे और बारहवें भाव में सूर्य के अलावा कोई ग्रह न हो, तो केमद्रुम योग होता है, जो सदा दुःख देता है।
+  • gujarati: ચંદ્રના બીજા અને બારમા ભાવમાં સૂર્ય સિવાય કોઈ ગ્રહ ન હોય, તો કેમદ્રુમ યોગ થાય છે, જે સદા દુઃખ આપે છે.
+  • keywords:
+    1.
+      kemadruma yoga
+    2.
+      no planets near moon
+    3.
+      misery
+    4.
+      sorrow
+  • source: BPHS
+23.
+  • id: 23
+  • chapter: 38
+  • chapter_title: Solar Yogas
+  • shloka: 1
+  • name: vesi yoga
+  • description: Barring the Moon, if a planet be in the 2nd from the Sun, Vesi yoga; in the 12th, Vosi yoga; and planets in both the 2nd and the 12th, Ubhayachari yoga.
+  • hindi: सूर्य से दूसरे भाव में ग्रह हो तो वेसी, बारहवें में हो तो वोसी, और दोनों में हो तो उभयचर योग कहलाता है।
+  • gujarati: સૂર્યથી બીજા ભાવમાં ગ્રહ હોય તો વેસી, બારમામાં હોય તો વોસી, અને બંનેમાં હોય તો ઉભયચર યોગ કહેવાય છે.
+  • keywords:
+    1.
+      vesi yoga
+    2.
+      2nd from sun
+    3.
+      vosi yoga
+    4.
+      12th from sun
+    5.
+      ubhayachari yoga
+    6.
+      both places
+  • source: BPHS
+24.
+  • id: 24
+  • chapter: 38
+  • chapter_title: Solar Yogas
+  • shloka: 2
+  • name: vesi yoga
+  • description: One born in Vesi yoga will be even-sighted, truthful, long-bodied, indolent, happy, and endowed with negligible wealth.
+  • hindi: वेसी योग में जातक समदर्शी, सत्यवादी, दीर्घकाय, आलसी, सुखी और अल्पवित्त होता है।
+  • gujarati: વેસી યોગમાં જાતક સમદર્શી, સત્યવાદી, દીર્ઘકાય, આલસી, સુખી અને અલ્પવિત્ત થાય છે.
+  • keywords:
+    1.
+      vesi yoga
+    2.
+      even-sighted
+    3.
+      truthful
+    4.
+      long-bodied
+    5.
+      indolent
+    6.
+      happy
+    7.
+      little wealth
+  • source: BPHS
+25.
+  • id: 25
+  • chapter: 38
+  • chapter_title: Solar Yogas
+  • shloka: 3
+  • name: vosi yoga
+  • description: One born in Vosi yoga will be skilful, charitable, and endowed with fame, learning, and strength. The Ubhayachari native will be a king or equal to a king and happy.
+  • hindi: वोसी योग में जातक निपुण, दाता, यश-विद्या-बल से युक्त होता है। उभयचर योग में जातक राजा या राजा के समान और सुखी होता है।
+  • gujarati: વોસી યોગમાં જાતક નિપુણ, દાતા, યશ-વિદ્યા-બળથી યુક્ત થાય છે. ઉભયચર યોગમાં જાતક રાજા કે રાજા સમાન અને સુખી થાય છે.
+  • keywords:
+    1.
+      vosi yoga
+    2.
+      skilful
+    3.
+      charitable
+    4.
+      fame
+    5.
+      learning
+    6.
+      strength
+    7.
+      ubhayachari yoga
+    8.
+      king
+    9.
+      happy
+  • source: BPHS
+26.
+  • id: 26
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 1
+  • name: raja yoga
+  • description: If the ascendant lord is in the 5th house and the 5th lord is in the ascendant, a Raja-yoga is formed. The native will become a king.
+  • hindi: लग्नेश पंचम भाव में हो और पंचमेश लग्न में हो, तो राजयोग होता है। जातक राजा होता है, इसमें संशय नहीं।
+  • gujarati: લગ્નેશ પંચમ ભાવમાં હોય અને પંચમેશ લગ્નમાં હોય, તો રાજયોગ થાય છે. જાતક રાજા થાય છે, આમાં શંકા નથી.
+  • keywords:
+    1.
+      raja yoga
+    2.
+      lagna lord 5th
+    3.
+      5th lord lagna
+    4.
+      exchange
+    5.
+      king
+  • source: BPHS
+27.
+  • id: 27
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 2
+  • name: raja yoga
+  • description: If the ascendant lord is in an angle or trine and the ascendant is associated with benefices, a Raja-yoga is formed. The native will be famous, wealthy, and happy.
+  • hindi: लग्नेश केन्द्र या त्रिकोण में हो और लग्न शुभ ग्रहों से युत हो, तो राजयोग होता है। जातक कीर्तिमान, धनवान और सुखी होता है।
+  • gujarati: લગ્નેશ કેન્દ્ર કે ત્રિકોણમાં હોય અને લગ્ન શુભ ગ્રહોથી યુત હોય, તો રાજયોગ થાય છે. જાતક કીર્તિમાન, ધનવાન અને સુખી થાય છે.
+  • keywords:
+    1.
+      raja yoga
+    2.
+      lagna lord angle
+    3.
+      lagna lord trine
+    4.
+      benefice in lagna
+    5.
+      famous
+    6.
+      wealthy
+    7.
+      happy
+  • source: BPHS
+28.
+  • id: 28
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 3
+  • name: exalted planets
+  • description: If three planets are exalted, including the lords of the ascendant and 8th, and the 8th house is devoid of a malefic, full life span will result.
+  • hindi: तीन ग्रह उच्च राशि में हों, जिनमें लग्नेश और अष्टमेश शामिल हों, और आठवें भाव में पाप ग्रह न हों, तो पूर्णायु होता है।
+  • gujarati: ત્રણ ગ્રહ ઉચ્ચ રાશિમાં હોય, જેમાં લગ્નેશ અને અષ્ટમેશ સામેલ હોય, અને આઠમા ભાવમાં પાપ ગ્રહ ન હોય, તો પૂર્ણાયુ થાય છે.
+  • keywords:
+    1.
+      exalted planets
+    2.
+      lagna lord exalted
+    3.
+      8th lord exalted
+    4.
+      no malefic in 8th
+    5.
+      full life
+  • source: BPHS
+29.
+  • id: 29
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 4
+  • name: jupiter exalted
+  • description: If Jupiter is exalted in an angle and the ascendant lord is strong, a Raja-yoga is formed. The native will be a king.
+  • hindi: केन्द्र में गुरु उच्च राशि का हो और लग्नेश बलयुक्त हो, तो राजयोग होता है। जातक नृपति होता है।
+  • gujarati: કેન્દ્રમાં ગુરુ ઉચ્ચ રાશિનો હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે. જાતક નૃપતિ થાય છે.
+  • keywords:
+    1.
+      jupiter exalted
+    2.
+      angle
+    3.
+      lagna lord strong
+    4.
+      raja yoga
+    5.
+      king
+  • source: BPHS
+30.
+  • id: 30
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 5
+  • name: 5th lord trine
+  • description: If the 5th lord is in a trine and the ascendant lord is strong, a Raja-yoga is formed. The native will become an emperor.
+  • hindi: पंचमेश त्रिकोण में हो और लग्नेश बलयुक्त हो, तो राजयोग होता है। जातक साम्राज्य का अधिपति होता है।
+  • gujarati: પંચમેશ ત્રિકોણમાં હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે. જાતક સામ્રાજ્યનો અધિપતિ થાય છે.
+  • keywords:
+    1.
+      5th lord trine
+    2.
+      lagna lord strong
+    3.
+      raja yoga
+    4.
+      emperor
+  • source: BPHS
+31.
+  • id: 31
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 6
+  • name: 9th lord trine
+  • description: If the 9th lord is in a trine and the ascendant lord is strong, a Raja-yoga is formed. The native will be a king or equal to a king.
+  • hindi: नवमेश त्रिकोण में हो और लग्नेश बलयुक्त हो, तो राजयोग होता है। जातक राजा या राजा के समान होता है।
+  • gujarati: નવમેશ ત્રિકોણમાં હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે. જાતક રાજા કે રાજા સમાન થાય છે.
+  • keywords:
+    1.
+      9th lord trine
+    2.
+      lagna lord strong
+    3.
+      raja yoga
+    4.
+      king
+  • source: BPHS
+32.
+  • id: 32
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 7
+  • name: lagna lord angle
+  • description: If the ascendant lord is in an angle or trine and conjunct the 9th lord, a Raja-yoga is formed. The native will be a king.
+  • hindi: लग्नेश केन्द्र या त्रिकोण में हो और नवमेश से युत हो, तो राजयोग होता है। जातक नृपति होता है।
+  • gujarati: લગ્નેશ કેન્દ્ર કે ત્રિકોણમાં હોય અને નવમેશ સાથે યુત હોય, તો રાજયોગ થાય છે. જાતક નૃપતિ થાય છે.
+  • keywords:
+    1.
+      lagna lord angle
+    2.
+      lagna lord trine
+    3.
+      9th lord conjunction
+    4.
+      raja yoga
+    5.
+      king
+  • source: BPHS
+33.
+  • id: 33
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 8
+  • name: 9th lord lagna
+  • description: If the 9th lord is in the ascendant, the native will be fortunate, honoured by the king, and endowed with a Raja-yoga.
+  • hindi: भाग्येश (नवमेश) लग्न में हो तो जातक भाग्यवान, राजपूजित और राजयोग से युक्त होता है।
+  • gujarati: ભાગ્યેશ (નવમેશ) લગ્નમાં હોય તો જાતક ભાગ્યવાન, રાજપૂજિત અને રાજયોગથી યુક્ત થાય છે.
+  • keywords:
+    1.
+      9th lord lagna
+    2.
+      fortunate
+    3.
+      royal honor
+    4.
+      raja yoga
+  • source: BPHS
+34.
+  • id: 34
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 9
+  • name: 10th lord lagna
+  • description: If the 10th lord is in the ascendant, the native will be endowed with a Raja-yoga, paternal happiness, and fame.
+  • hindi: दशमेश लग्न में हो तो जातक राजयोगयुक्त, पितृसुखयुक्त और यशस्वी होता है।
+  • gujarati: દશમેશ લગ્નમાં હોય તો જાતક રાજયોગયુક્ત, પિતૃસુખયુક્ત અને યશસ્વી થાય છે.
+  • keywords:
+    1.
+      10th lord lagna
+    2.
+      raja yoga
+    3.
+      paternal happiness
+    4.
+      fame
+  • source: BPHS
+35.
+  • id: 35
+  • chapter: 39
+  • chapter_title: Raja Yogas
+  • shloka: 10
+  • name: lagna lord 10th
+  • description: If the ascendant lord is in the 10th or the 9th lord is in the ascendant, a Raja-yoga is formed. The native will be a king or equal to a king.
+  • hindi: लग्नेश दशम भाव में हो या भाग्येश लग्न में हो, तो राजयोग होता है। जातक राजा या राजा के समान होता है।
+  • gujarati: લગ્નેશ દશમ ભાવમાં હોય કે ભાગ્યેશ લગ્નમાં હોય, તો રાજયોગ થાય છે. જાતક રાજા કે રાજા સમાન થાય છે.
+  • keywords:
+    1.
+      lagna lord 10th
+    2.
+      9th lord lagna
+    3.
+      raja yoga
+    4.
+      king
+  • source: BPHS
+36.
+  • id: 36
+  • chapter: 40
+  • chapter_title: Yogas for Royal Association
+  • shloka: 1
+  • name: royal association
+  • description: If the 10th lord is in the ascendant and the ascendant lord is in the 10th (exchange), a yoga for royal association is formed.
+  • hindi: दशमेश लग्न में हो और लग्नेश दशम में हो (परिवर्तन), तो राजसम्बन्ध योग होता है।
+  • gujarati: દશમેશ લગ્નમાં હોય અને લગ્નેશ દશમમાં હોય (પરિવર્તન), તો રાજસમ્બન્ધ યોગ થાય છે.
+  • keywords:
+    1.
+      royal association
+    2.
+      10th lord lagna
+    3.
+      lagna lord 10th
+    4.
+      exchange
+  • source: BPHS
+37.
+  • id: 37
+  • chapter: 40
+  • chapter_title: Yogas for Royal Association
+  • shloka: 2
+  • name: royal association
+  • description: If the ascendant lord is in the 10th and the 10th lord is in the ascendant, this yoga for royal association gives a chief position in the king's court.
+  • hindi: लग्नेश दशम में हो और दशमेश लग्न में हो, तो राजसम्बन्ध योग होता है और राज्य में प्रधानता प्राप्त होती है।
+  • gujarati: લગ્નેશ દશમમાં હોય અને દશમેશ લગ્નમાં હોય, તો રાજસમ્બન્ધ યોગ થાય છે અને રાજ્યમાં પ્રધાનતા પ્રાપ્ત થાય છે.
+  • keywords:
+    1.
+      royal association
+    2.
+      chief position
+    3.
+      king's court
+    4.
+      lagna lord 10th
+    5.
+      10th lord lagna
+  • source: BPHS
+38.
+  • id: 38
+  • chapter: 40
+  • chapter_title: Yogas for Royal Association
+  • shloka: 3
+  • name: 9th lord 10th
+  • description: If the 9th lord is in the 10th and the 10th lord is associated with the 9th, a yoga for royal association is formed, and the native becomes a king's minister.
+  • hindi: भाग्येश दशम भाव में हो और दशमेश नवम भाव में हो (परिवर्तन या योग), तो राजसम्बन्ध योग होता है और जातक राजमन्त्री होता है।
+  • gujarati: ભાગ્યેશ દશમ ભાવમાં હોય અને દશમેશ નવમ ભાવમાં હોય (પરિવર્તન કે યોગ), તો રાજસમ્બન્ધ યોગ થાય છે અને જાતક રાજમંત્રી થાય છે.
+  • keywords:
+    1.
+      9th lord 10th
+    2.
+      10th lord with 9th
+    3.
+      royal association
+    4.
+      minister
+  • source: BPHS
+39.
+  • id: 39
+  • chapter: 40
+  • chapter_title: Yogas for Royal Association
+  • shloka: 4
+  • name: 11th lord 11th
+  • description: If the 11th lord is in the 11th, the 11th house is associated with its lord, and aspected by a benefice, a yoga for royal association is formed, and the native gains royal honor.
+  • hindi: लाभेश ग्यारहवें भाव में हो, लाभ भाव अपने स्वामी से युक्त हो और शुभ से देखा गया हो, तो राजसम्बन्ध योग होता है और राजसम्मान प्राप्त होता है।
+  • gujarati: લાભેશ અગિયારમા ભાવમાં હોય, લાભ ભાવ પોતાના સ્વામી સાથે યુક્ત હોય અને શુભથી જોવાયેલો હોય, તો રાજસમ્બન્ધ યોગ થાય છે અને રાજસમ્માન પ્રાપ્ત થાય છે.
+  • keywords:
+    1.
+      11th lord 11th
+    2.
+      11th house with lord
+    3.
+      benefice aspect
+    4.
+      royal honor
+  • source: BPHS
+40.
+  • id: 40
+  • chapter: 40
+  • chapter_title: Yogas for Royal Association
+  • shloka: 5
+  • name: atmakaraka
+  • description: If the Atmakaraka is in an angle or trine and is conjunct the 10th lord, a yoga for royal association is formed, and the native gets royal service.
+  • hindi: आत्मकारक केन्द्र या त्रिकोण में हो और दशमेश से युत हो, तो राजसम्बन्ध योग होता है और राजसेवा प्राप्त होती है।
+  • gujarati: આત્મકારક કેન્દ્ર કે ત્રિકોણમાં હોય અને દશમેશ સાથે યુત હોય, તો રાજસમ્બન્ધ યોગ થાય છે અને રાજસેવા પ્રાપ્ત થાય છે.
+  • keywords:
+    1.
+      atmakaraka
+    2.
+      angle
+    3.
+      trine
+    4.
+      10th lord
+    5.
+      royal service
+  • source: BPHS
+41.
+  • id: 41
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 1
+  • name: wealth
+  • description: I now tell you of special combinations giving wealth. One born in these yogas will surely become wealthy.
+  • hindi: अब मैं विशेष धन योग कहूँगा। जिस योग में जातक उत्पन्न होता है, वह निश्चित रूप से धनवान होता है।
+  • gujarati: હવે હું વિશેષ ધન યોગ કહીશ. જે યોગમાં જાતક ઉત્પન્ન થાય છે, તે નિશ્ચિત રૂપથી ધનવાન થાય છે.
+  • keywords:
+    1.
+      wealth
+    2.
+      yogas
+    3.
+      affluence
+    4.
+      combinations
+  • source: BPHS
+42.
+  • id: 42
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 2
+  • name: venus
+  • description: Should a sign of Venus be the 5th house and be occupied by Venus himself while Mars is in the 11th house, the native will obtain great riches.
+  • hindi: पंचम भाव में शुक्र की राशि (तुला या वृष) हो और उसमें शुक्र स्थित हो, तथा ग्यारहवें भाव में मंगल हो, तो जातक बहुत धन का स्वामी होता है।
+  • gujarati: પંચમ ભાવમાં શુક્રની રાશિ (તુલા કે વૃષ) હોય અને તેમાં શુક્ર સ્થિત હોય, તથા અગિયારમા ભાવમાં મંગળ હોય, તો જાતક ઘણા ધનનો સ્વામી થાય છે.
+  • keywords:
+    1.
+      venus
+    2.
+      5th house
+    3.
+      own sign
+    4.
+      mars
+    5.
+      11th house
+    6.
+      great wealth
+  • source: BPHS
+43.
+  • id: 43
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 3
+  • name: mercury
+  • description: Should a sign of Mercury be the 5th house and be occupied by Mercury himself as the 11th house is occupied by the Moon, Mars, and Jupiter, the native will be very affluent.
+  • hindi: पंचम भाव में बुध की राशि (मिथुन या कन्या) हो और उसमें बुध स्थित हो, तथा ग्यारहवें भाव में चंद्र, मंगल और गुरु हों, तो जातक बहुत धन का स्वामी होता है।
+  • gujarati: પંચમ ભાવમાં બુધની રાશિ (મિથુન કે કન્યા) હોય અને તેમાં બુધ સ્થિત હોય, તથા અગિયારમા ભાવમાં ચંદ્ર, મંગળ અને ગુરુ હોય, તો જાતક ઘણા ધનનો સ્વામી થાય છે.
+  • keywords:
+    1.
+      mercury
+    2.
+      5th house
+    3.
+      own sign
+    4.
+      moon
+    5.
+      mars
+    6.
+      jupiter
+    7.
+      11th house
+    8.
+      affluent
+  • source: BPHS
+44.
+  • id: 44
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 4
+  • name: sun
+  • description: Should Leo be the 5th house and be occupied by the Sun himself as Saturn, the Moon, and Jupiter are in the 11th, the native will be very affluent.
+  • hindi: पंचम भाव में सूर्य की राशि (सिंह) हो और उसमें सूर्य स्थित हो, तथा ग्यारहवें भाव में शनि, चंद्र और गुरु हों, तो जातक बहुत धन का स्वामी होता है।
+  • gujarati: પંચમ ભાવમાં સૂર્યની રાશિ (સિંહ) હોય અને તેમાં સૂર્ય સ્થિત હોય, તથા અગિયારમા ભાવમાં શનિ, ચંદ્ર અને ગુરુ હોય, તો જાતક ઘણા ધનનો સ્વામી થાય છે.
+  • keywords:
+    1.
+      sun
+    2.
+      5th house
+    3.
+      leo
+    4.
+      saturn
+    5.
+      moon
+    6.
+      jupiter
+    7.
+      11th house
+    8.
+      affluent
+  • source: BPHS
+45.
+  • id: 45
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 5
+  • name: saturn
+  • description: Should Saturn be in the 5th identical with his own house as the Sun and Moon are in the 11th, the native will be very affluent.
+  • hindi: पंचम भाव में शनि की राशि (मकर या कुम्भ) हो और उसमें शनि स्थित हो, तथा ग्यारहवें भाव में सूर्य और चंद्र हों, तो जातक बहुत धन का स्वामी होता है।
+  • gujarati: પંચમ ભાવમાં શનિની રાશિ (મકર કે કુંભ) હોય અને તેમાં શનિ સ્થિત હોય, તથા અગિયારમા ભાવમાં સૂર્ય અને ચંદ્ર હોય, તો જાતક ઘણા ધનનો સ્વामી થાય છે.
+  • keywords:
+    1.
+      saturn
+    2.
+      5th house
+    3.
+      own sign
+    4.
+      sun
+    5.
+      moon
+    6.
+      11th house
+    7.
+      affluent
+  • source: BPHS
+46.
+  • id: 46
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 6
+  • name: jupiter
+  • description: Should Jupiter be in the 5th identical with his own house as Mercury is in the 11th, the native will be very affluent.
+  • hindi: पंचम भाव में गुरु की राशि (धनु या मीन) हो और उसमें गुरु स्थित हो, तथा ग्यारहवें भाव में बुध हो, तो जातक बहुत धन का स्वामी होता है।
+  • gujarati: પંચમ ભાવમાં ગુરુની રાશિ (ધનુ કે મીન) હોય અને તેમાં ગુરુ સ્થિત હોય, તથા અગિયારમા ભાવમાં બુધ હોય, તો જાતક ઘણા ધનનો સ્વામી થાય છે.
+  • keywords:
+    1.
+      jupiter
+    2.
+      5th house
+    3.
+      own sign
+    4.
+      mercury
+    5.
+      11th house
+    6.
+      affluent
+  • source: BPHS
+47.
+  • id: 47
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 7
+  • name: mars
+  • description: If a sign of Mars be the 5th with Mars therein as Venus is in the 11th, the native will become very affluent.
+  • hindi: पंचम भाव में मंगल की राशि (मेष या वृश्चिक) हो और उसमें मंगल स्थित हो, तथा ग्यारहवें भाव में शुक्र हो, तो जातक बहुत धन का स्वामी होता है।
+  • gujarati: પંચમ ભાવમાં મંગળની રાશિ (મેષ કે વૃશ્ચિક) હોય અને તેમાં મંગળ સ્થિત હોય, તથા અગિયારમા ભાવમાં શુક્ર હોય, તો જાતક ઘણા ધનનો સ્વામી થાય છે.
+  • keywords:
+    1.
+      mars
+    2.
+      5th house
+    3.
+      own sign
+    4.
+      venus
+    5.
+      11th house
+    6.
+      affluent
+  • source: BPHS
+48.
+  • id: 48
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 8
+  • name: moon
+  • description: If Cancer be the 5th house containing the Moon therein as Saturn is in the 11th, the native will become very affluent.
+  • hindi: पंचम भाव में चंद्र की राशि (कर्क) हो और उसमें चंद्र स्थित हो, तथा ग्यारहवें भाव में शनि हो, तो जातक बहुत धन का स्वामी होता है।
+  • gujarati: પંચમ ભાવમાં ચંદ્રની રાશિ (કર્ક) હોય અને તેમાં ચંદ્ર સ્થિત હોય, તથા અગિયારમા ભાવમાં શનિ હોય, તો જાતક ઘણા ધનનો સ્વામી થાય છે.
+  • keywords:
+    1.
+      moon
+    2.
+      5th house
+    3.
+      cancer
+    4.
+      saturn
+    5.
+      11th house
+    6.
+      affluent
+  • source: BPHS
+49.
+  • id: 49
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 9
+  • name: sun
+  • description: Should the Sun be in Leo identical with the ascendant and be conjunct or aspected by Mars and Jupiter, one will be wealthy.
+  • hindi: लग्न सिंह राशि का हो और उसमें सूर्य स्थित हो, तथा मंगल और गुरु से युत या देखा गया हो, तो जातक धन से युक्त होता है।
+  • gujarati: લગ્ન સિંહ રાશિનો હોય અને તેમાં સૂર્ય સ્થિત હોય, તથા મંગળ અને ગુરુ સાથે યુત કે જોવાયેલો હોય, તો જાતક ધનથી યુક્ત થાય છે.
+  • keywords:
+    1.
+      sun
+    2.
+      lagna
+    3.
+      leo
+    4.
+      mars
+    5.
+      jupiter
+    6.
+      wealthy
+  • source: BPHS
+50.
+  • id: 50
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 10
+  • name: moon
+  • description: Should the Moon be in Cancer identical with the ascendant and be conjunct or aspected by Mercury and Jupiter, one will be wealthy.
+  • hindi: लग्न कर्क राशि का हो और उसमें चंद्र स्थित हो, तथा बुध और गुरु से युत या देखा गया हो, तो जातक धनवान होता है।
+  • gujarati: લગ્ન કર્ક રાશિનો હોય અને તેમાં ચંદ્ર સ્થિત હોય, તથા બુધ અને ગુરુ સાથે યુત કે જોવાયેલો હોય, તો જાતક ધનવાન થાય છે.
+  • keywords:
+    1.
+      moon
+    2.
+      lagna
+    3.
+      cancer
+    4.
+      mercury
+    5.
+      jupiter
+    6.
+      wealthy
+  • source: BPHS
+51.
+  • id: 51
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 11
+  • name: mars
+  • description: Should Mars be in the ascendant identical with his own sign and be conjunct or aspected by Mercury, Venus, and Saturn, the native will be rich.
+  • hindi: लग्न मेष या वृश्चिक का हो और उसमें मंगल स्थित हो, तथा बुध, शुक्र और शनि से युत या देखा गया हो, तो जातक श्रीमान् होता है।
+  • gujarati: લગ્ન મેષ કે વૃશ્ચિકનો હોય અને તેમાં મંગળ સ્થિત હોય, તથા બુધ, શુક્ર અને શનિ સાથે યુત કે જોવાયેલો હોય, તો જાતક શ્રીમાન્ થાય છે.
+  • keywords:
+    1.
+      mars
+    2.
+      lagna
+    3.
+      own sign
+    4.
+      mercury
+    5.
+      venus
+    6.
+      saturn
+    7.
+      rich
+  • source: BPHS
+52.
+  • id: 52
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 12
+  • name: mercury
+  • description: Should Mercury's sign ascend with Mercury therein and be conjunct or aspected by Saturn and Jupiter, the native will be rich.
+  • hindi: लग्न मिथुन या कन्या का हो और उसमें बुध स्थित हो, तथा शनि और गुरु से युत या देखा गया हो, तो जातक धनयुक्त होता है।
+  • gujarati: લગ્ન મિથુન કે કન્યાનો હોય અને તેમાં બુધ સ્થિત હોય, તથા શનિ અને ગુરુ સાથે યુત કે જોવાયેલો હોય, તો જાતક ધનયુક્ત થાય છે.
+  • keywords:
+    1.
+      mercury
+    2.
+      lagna
+    3.
+      own sign
+    4.
+      saturn
+    5.
+      jupiter
+    6.
+      rich
+  • source: BPHS
+53.
+  • id: 53
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 13
+  • name: jupiter
+  • description: Should Jupiter be in the ascendant identical with his own sign and be conjunct or aspected by Mercury and Mars, the native will be rich.
+  • hindi: लग्न धनु या मीन का हो और उसमें गुरु स्थित हो, तथा बुध और मंगल से युत या देखा गया हो, तो जातक धनवान होता है।
+  • gujarati: લગ્ન ધનુ કે મીનનો હોય અને તેમાં ગુરુ સ્થિત હોય, તથા બુધ અને મંગળ સાથે યુત કે જોવાયેલો હોય, તો જાતક ધનવાન થાય છે.
+  • keywords:
+    1.
+      jupiter
+    2.
+      lagna
+    3.
+      own sign
+    4.
+      mercury
+    5.
+      mars
+    6.
+      rich
+  • source: BPHS
+54.
+  • id: 54
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 14
+  • name: venus
+  • description: If Venus be in the ascendant identical with his own sign and be conjunct or aspected by Saturn and Mercury, one will be wealthy.
+  • hindi: लग्न तुला या वृष का हो और उसमें शुक्र स्थित हो, तथा शनि और बुध से युत या देखा गया हो, तो जातक धनवान होता है।
+  • gujarati: લગ્ન તુલા કે વૃષનો હોય અને તેમાં શુક્ર સ્થિત હોય, તથા શનિ અને બુધ સાથે યુત કે જોવાયેલો હોય, તો જાતક ધનવાન થાય છે.
+  • keywords:
+    1.
+      venus
+    2.
+      lagna
+    3.
+      own sign
+    4.
+      saturn
+    5.
+      mercury
+    6.
+      wealthy
+  • source: BPHS
+55.
+  • id: 55
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 15
+  • name: saturn
+  • description: If Saturn is in his own sign identical with the ascendant and be aspected by or conjunct Mars and Jupiter, the native will be wealthy.
+  • hindi: लग्न मकर या कुम्भ का हो और उसमें शनि स्थित हो, तथा मंगल और गुरु से युत या देखा गया हो, तो जातक धन से युक्त होता है।
+  • gujarati: લગ્ન મકર કે કુંભનો હોય અને તેમાં શનિ સ્થિત હોય, તથા મંગળ અને ગુરુ સાથે યુત કે જોવાયેલો હોય, તો જાતક ધનથી યુક્ત થાય છે.
+  • keywords:
+    1.
+      saturn
+    2.
+      lagna
+    3.
+      own sign
+    4.
+      mars
+    5.
+      jupiter
+    6.
+      wealthy
+  • source: BPHS
+56.
+  • id: 56
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 16
+  • name: 2nd lord
+  • description: The 9th lord and the 2nd lord are wealth-givers. Similarly, planets conjunct such a lord will also give wealth during their Dasha periods.
+  • hindi: धन देने वाले ग्रह हैं – धर्मेश (नवमेश) और धनेश (द्वितीयेश)। इनसे युक्त ग्रह भी अपनी-अपनी दशा में धन देते हैं।
+  • gujarati: ધન આપનારા ગ્રહો છે – ધર્મેશ (નવમેશ) અને ધનેશ (દ્વિતીયેશ). આની સાથે યુક્ત ગ્રહો પણ પોતપોતાની દશામાં ધન આપે છે.
+  • keywords:
+    1.
+      2nd lord
+    2.
+      9th lord
+    3.
+      wealth-givers
+    4.
+      conjunct planets
+    5.
+      dasha
+  • source: BPHS
+57.
+  • id: 57
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 17
+  • name: angular lord
+  • description: If the lord of an angle is in Parijatamsa, the native will be liberal; in Uttamamsa, highly liberal; in Gopuramsa, equal to a king; in Simhasanamsa, honourable.
+  • hindi: केन्द्र का स्वामी पारिजातांश में हो तो दाता, उत्तमांश में उत्तम दाता, गोपुरांश में राजा के समान और सिंहासनांश में मान्य होता है।
+  • gujarati: કેન્દ્રનો સ્વામી પારિજાતાંશમાં હોય તો દાતા, ઉત્તમાંશમાં ઉત્તમ દાતા, ગોપુરાંશમાં રાજા સમાન અને સિંહાસનાંશમાં માન્ય થાય છે.
+  • keywords:
+    1.
+      angular lord
+    2.
+      parijatamsa
+    3.
+      uttamamsa
+    4.
+      gopuramsa
+    5.
+      simhasanamsa
+    6.
+      liberal
+    7.
+      king
+    8.
+      honourable
+  • source: BPHS
+58.
+  • id: 58
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 18
+  • name: paravatamsa
+  • description: In Paravatamsa, valorous; in Devalokamsa, head of an assembly; in Brahmalokamsa, a sage; and in Iravatamsa, delighted and celebrated.
+  • hindi: पारावतांश में शूर, देवलोकांश में सभापति, ब्रह्मलोकांश में मुनि के समान और ऐरावतांश में सुखी होता है।
+  • gujarati: પારાવતાંશમાં શૂર, દેવલોકાંશમાં સભાપતિ, બ્રહ્મલોકાંશમાં મુનિ સમાન અને ઐરાવતાંશમાં સુખી થાય છે.
+  • keywords:
+    1.
+      paravatamsa
+    2.
+      devalokamsa
+    3.
+      brahmalokamsa
+    4.
+      iravatamsa
+    5.
+      valorous
+    6.
+      sage
+    7.
+      celebrated
+  • source: BPHS
+59.
+  • id: 59
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 19
+  • name: vishnu sthaana
+  • description: The angles are known as Vishnu sthaanas while the trines are called Lakshmi sthaanas. If the lord of an angle establishes relationship with a trinal lord, a Raja-yoga will obtain.
+  • hindi: केन्द्र विष्णु का स्थान है और त्रिकोण लक्ष्मी का स्थान है। इन दोनों के स्वामियों के संबंध से राजयोग होता है।
+  • gujarati: કેન્દ્ર વિષ્ણુનું સ્થાન છે અને ત્રિકોણ લક્ષ્મીનું સ્થાન છે. આ બંનેના સ્વામીઓના સંબંધથી રાજયોગ થાય છે.
+  • keywords:
+    1.
+      vishnu sthaana
+    2.
+      lakshmi sthaana
+    3.
+      angle lord
+    4.
+      trine lord
+    5.
+      raja yoga
+  • source: BPHS
+60.
+  • id: 60
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 20
+  • name: parijatamsa
+  • description: Should an angular lord and a trinal lord be in Parijatamsa, the native will be a king and protector of men; if in Uttamamsa, an excellent king endowed with elephants, horses, chariots, etc.
+  • hindi: यदि केन्द्रेश और त्रिकोणेश दोनों पारिजातांश में हों, तो जातक राजा और लोकरक्षक होता है। उत्तमांश में उत्तम राजा, हाथी-घोड़े-रथों वाला होता है।
+  • gujarati: જો કેન્દ્રેશ અને ત્રિકોણેશ બંને પારિજાતાંશમાં હોય, તો જાતક રાજા અને લોકરક્ષક થાય છે. ઉત્તમાંશમાં ઉત્તમ રાજા, હાથી-ઘોડા-રથોવાળો થાય છે.
+  • keywords:
+    1.
+      parijatamsa
+    2.
+      uttamamsa
+    3.
+      angle lord
+    4.
+      trine lord
+    5.
+      king
+    6.
+      elephants
+    7.
+      horses
+  • source: BPHS
+61.
+  • id: 61
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 21
+  • name: gopuramsa
+  • description: In Gopuramsa, he will be a tiger among kings; in Simhasanamsa, a king; in Paaravatamsa, like Manu; in Devalokamsa, like Lord Vishnu himself.
+  • hindi: गोपुरांश में राजसिंह, सिंहासनांश में राजा, पारावतांश में मनु और देवलोकांश में स्वयं हरि (भगवान) के समान होता है।
+  • gujarati: ગોપુરાંશમાં રાજસિંહ, સિંહાસનાંશમાં રાજા, પારાવતાંશમાં મનુ અને દેવલોકાંશમાં સ્વયં હરિ (ભગવાન) સમાન થાય છે.
+  • keywords:
+    1.
+      gopuramsa
+    2.
+      simhasanamsa
+    3.
+      paravatamsa
+    4.
+      devalokamsa
+    5.
+      king
+    6.
+      manu
+    7.
+      vishnu
+  • source: BPHS
+62.
+  • id: 62
+  • chapter: 41
+  • chapter_title: Combinations for Wealth
+  • shloka: 22
+  • name: brahmalokamsa
+  • description: In Brahmalokamsa, like four-faced Brahma; in Iravatamsa, like Indra seated on Airavata. Thus, Raja-yogas arise from the excellence of Vargas.
+  • hindi: ब्रह्मलोकांश में चतुर्मुख ब्रह्मा के समान और ऐरावतांश में ऐरावत पर विराजमान इंद्र के समान होता है। इस प्रकार वर्गों के उत्कर्ष से राजयोग होते हैं।
+  • gujarati: બ્રહ્મલોકાંશમાં ચતુર્મુખ બ્રહ્મા સમાન અને ઐરાવતાંશમાં ઐરાવત પર વિરાજમાન ઇંદ્ર સમાન થાય છે. આ પ્રમાણે વર્ગોના ઉત્કર્ષથી રાજયોગ થાય છે.
+  • keywords:
+    1.
+      brahmalokamsa
+    2.
+      iravatamsa
+    3.
+      brahma
+    4.
+      indra
+    5.
+      raja yoga
+  • source: BPHS
+63.
+  • id: 63
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 1
+  • name: penury
+  • description: The native will be penniless if the ascendant lord is in the 12th as the 12th lord is in the ascendant along with a Maraka lord (death-inflicting planet) or be in aspect to such a planet.
+  • hindi: लग्नेश बारहवें भाव में हो और व्ययेश लग्न में हो, तथा मारकेश से युत या देखा गया हो, तो जातक निधन (धनहीन) होता है।
+  • gujarati: લગ્નેશ બારમા ભાવમાં હોય અને વ્યયેશ લગ્નમાં હોય, તથા મારકેશ સાથે યુત કે જોવાયેલો હોય, તો જાતક નિધન (ધનહીન) થાય છે.
+  • keywords:
+    1.
+      penury
+    2.
+      lagna lord 12th
+    3.
+      12th lord lagna
+    4.
+      maraka lord
+    5.
+      penniless
+  • source: BPHS
+64.
+  • id: 64
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 2
+  • name: penury
+  • description: The native will be penniless if the ascendant lord is in the 6th while the 6th lord is in the ascendant with conjunction or aspect of a Maraka lord.
+  • hindi: लग्नेश छठे भाव में हो और षष्ठेश लग्न में हो, तथा मारकेश से युत या देखा गया हो, तो धनहीन होता है।
+  • gujarati: લગ્નેશ છઠ્ઠા ભાવમાં હોય અને ષષ્ઠેશ લગ્નમાં હોય, તથા મારકેશ સાથે યુત કે જોવાયેલો હોય, તો ધનહીન થાય છે.
+  • keywords:
+    1.
+      penury
+    2.
+      lagna lord 6th
+    3.
+      6th lord lagna
+    4.
+      maraka lord
+    5.
+      penniless
+  • source: BPHS
+65.
+  • id: 65
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 3
+  • name: penury
+  • description: Should the ascendant or the Moon be with Ketu while the ascendant lord is in the 8th, the person concerned will be penniless.
+  • hindi: लग्न और चंद्र केतु से युत हों, लग्नेश आठवें भाव में हो, और मारकेश से युत या देखा गया हो, तो जातक निधन होता है।
+  • gujarati: લગ્ન અને ચંદ્ર કેતુ સાથે યુત હોય, લગ્નેશ આઠમા ભાવમાં હોય, અને મારકેશ સાથે યુત કે જોવાયેલો હોય, તો જાતક નિધન થાય છે.
+  • keywords:
+    1.
+      penury
+    2.
+      ketu
+    3.
+      lagna
+    4.
+      moon
+    5.
+      lagna lord 8th
+    6.
+      penniless
+  • source: BPHS
+66.
+  • id: 66
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 4
+  • name: penury
+  • description: If the ascendant lord along with a malefic is in the 6th, 8th, or 12th while the 2nd lord is in an enemy's sign or in debilitation, even a native of royal scion will become penniless.
+  • hindi: लग्नेश छठे, आठवें या बारहवें भाव में पाप से युत हो, और धनेश शत्रु राशि या नीच राशि में हो, तो राजपुत्र भी निधन होता है।
+  • gujarati: લગ્નેશ છઠ્ઠા, આઠમા કે બારમા ભાવમાં પાપ સાથે યુત હોય, અને ધનેશ શત્રુ રાશિ કે નીચ રાશિમાં હોય, તો રાજપુત્ર પણ નિધન થાય છે.
+  • keywords:
+    1.
+      penury
+    2.
+      lagna lord dusthana
+    3.
+      malefic
+    4.
+      2nd lord enemy sign
+    5.
+      2nd lord debilitated
+  • source: BPHS
+67.
+  • id: 67
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 5
+  • name: penury
+  • description: If the ascendant lord is conjunct an evil house lord (one of the 6th, 8th, and 12th lords) or Saturn and is devoid of benefice aspect, the native will be penniless.
+  • hindi: लग्नेश यदि त्रिक (6,8,12) के स्वामी से युत हो, पाप से देखा गया हो, या शनि से युत हो, और शुभ की दृष्टि न हो, तो निधन होता है।
+  • gujarati: લગ્નેશ જો ત્રિક (6,8,12) ના સ્વામી સાથે યુત હોય, પાપથી જોવાયેલો હોય, કે શનિ સાથે યુત હોય, અને શુભની દૃષ્ટિ ન હોય, તો નિધન થાય છે.
+  • keywords:
+    1.
+      penury
+    2.
+      lagna lord
+    3.
+      6th lord
+    4.
+      8th lord
+    5.
+      12th lord
+    6.
+      saturn
+    7.
+      no benefice aspect
+  • source: BPHS
+68.
+  • id: 68
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 6
+  • name: penury
+  • description: Should the 5th and 9th lords be respectively found in the 6th and 12th and be in aspect to Maraka planets, the native will be penniless.
+  • hindi: पंचमेश और नवमेश क्रमशः छठे और बारहवें भाव में हों, और मारकेश से देखे गए हों, तो जातक निधन होता है।
+  • gujarati: પંચમેશ અને નવમેશ ક્રમશઃ છઠ્ઠા અને બારમા ભાવમાં હોય, અને મારકેશથી જોવાયેલા હોય, તો જાતક નિધન થાય છે.
+  • keywords:
+    1.
+      penury
+    2.
+      5th lord 6th
+    3.
+      9th lord 12th
+    4.
+      maraka aspect
+  • source: BPHS
+69.
+  • id: 69
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 7
+  • name: penury
+  • description: If a malefic, excepting the lords of the 10th and 9th, be in the ascendant in association with or aspect to Maraka planets, one will become penniless.
+  • hindi: दशमेश और नवमेश के अलावा कोई पाप ग्रह लग्न में हो, और मारकेश से युत या देखा गया हो, तो जातक निधन होता है।
+  • gujarati: દશમેશ અને નવમેશ સિવાય કોઈ પાપ ગ્રહ લગ્નમાં હોય, અને મારકેશ સાથે યુત કે જોવાયેલો હોય, તો જાતક નિધન થાય છે.
+  • keywords:
+    1.
+      penury
+    2.
+      malefic in lagna
+    3.
+      maraka
+    4.
+      penniless
+  • source: BPHS
+70.
+  • id: 70
+  • chapter: 42
+  • chapter_title: Combinations for Penury
+  • shloka: 8
+  • name: penury
+  • description: If inauspicious houses are occupied by benefices while auspicious houses are occupied by malefic, the native will be indigent and will be distressed even in the matter of food.
+  • hindi: शुभ स्थानों में पाप ग्रह हों और पाप स्थानों में शुभ ग्रह हों, तो बालक निधन होता है और भोजन के लिए भी त्रस्त रहता है।
+  • gujarati: શુભ સ્થાનોમાં પાપ ગ્રહો હોય અને પાપ સ્થાનોમાં શુભ ગ્રહો હોય, તો બાળક નિધન થાય છે અને ભોજન માટે પણ ત્રસ્ત રહે છે.
+  • keywords:
+    1.
+      penury
+    2.
+      benefice in evil house
+    3.
+      malefic in good house
+    4.
+      indigent
+    5.
+      food distress
+  • source: BPHS
+71.
+  • id: 71
+  • chapter: 79
+  • chapter_title: Yogas Leading to Asceticism
+  • shloka: 1
+  • name: asceticism
+  • description: O Brahmin, now I shall describe the yoga by which people renounce their homes and take to asceticism.
+  • hindi: हे विप्र, अब मैं वह योग बताता हूँ जिससे मनुष्य घर छोड़कर संन्यास ले लेते हैं।
+  • gujarati: હે વિપ્ર, હવે હું તે યોગ કહું છું જેથી મનુષ્ય ઘર છોડીને સંન્યાસ લઈ લે છે.
+  • keywords:
+    1.
+      asceticism
+    2.
+      sannyasa
+    3.
+      renunciation
+    4.
+      yoga
+  • source: BPHS
+72.
+  • id: 72
+  • chapter: 79
+  • chapter_title: Yogas Leading to Asceticism
+  • shloka: 2
+  • name: four planets in one house
+  • description: When four or more strong planets occupy a single house, an asceticism yoga is formed. According to the Sun and other planets, one becomes a Tapasvi, Kapali, etc.
+  • hindi: जब चार या अधिक बलवान ग्रह एक राशि में स्थित हों, तो संन्यास योग बनता है। सूर्य आदि ग्रहों के अनुसार तपस्वी, कपाली आदि बनते हैं।
+  • gujarati: જ્યારે ચાર કે વધુ બળવાન ગ્રહ એક રાશિમાં સ્થિત હોય, તો સંન્યાસ યોગ બને છે. સૂર્ય આદિ ગ્રહો પ્રમાણે તપસ્વી, કપાળી આદિ બને છે.
+  • keywords:
+    1.
+      four planets in one house
+    2.
+      tapasvi
+    3.
+      kapali
+    4.
+      asceticism
+  • source: BPHS
+73.
+  • id: 73
+  • chapter: 79
+  • chapter_title: Yogas Leading to Asceticism
+  • shloka: 3
+  • name: ekadandi
+  • description: Ekadandi, Yati, and Nirgranthika – these are known according to the strongest planet. If many planets are strong, results are known from the strongest among them.
+  • hindi: एकदण्डी, यति और निर्ग्रन्थिक – ये क्रमशः सबसे अधिक बल वाले ग्रह के अनुसार जानने चाहिए। यदि कई ग्रह बलवान हों तो सबसे बलवान के अनुसार फल जानें।
+  • gujarati: એકદંડી, યતિ અને નિર્ગ્રન્થિક – આ ક્રમશઃ સૌથી વધુ બળ ધરાવતા ગ્રહ પ્રમાણે જાણવા જોઈએ. જો ઘણા ગ્રહો બળવાન હોય તો સૌથી બળવાન પ્રમાણે ફળ જાણો.
+  • keywords:
+    1.
+      ekadandi
+    2.
+      yati
+    3.
+      nirgranthika
+    4.
+      strongest planet
+  • source: BPHS

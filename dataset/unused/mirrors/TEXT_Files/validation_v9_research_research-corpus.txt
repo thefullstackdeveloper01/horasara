@@ -1,0 +1,30 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v9/research/research-corpus.json
+Dataset number: 430 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 355 bytes
+Top-level fields: 6
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 9.0.0
+• status: verified-import-ready
+• records:
+  (empty list)
+• required_fields:
+  1.
+    id
+  2.
+    chartId
+  3.
+    events
+  4.
+    cutoff
+  5.
+    source
+  6.
+    verification
+• no_fabrication: Yes
+• note: Real historical/person/event records must be independently sourced and verified before import. No synthetic outcome records are presented as historical evidence.

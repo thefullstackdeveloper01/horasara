@@ -1,0 +1,17 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Shadbala-Parameters.json
+Dataset number: 207 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 307 bytes
+Top-level records: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (3 rows)
+bala | max_points | description
+-------------------------------
+Sthana Bala | 375 | Positional strength in sign.
+Dig Bala | 60 | Directional strength in house (e.g., Jupiter in 1st).
+Kala Bala | 60 | Time strength (day/night birth).

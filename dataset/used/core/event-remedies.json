@@ -1,0 +1,8 @@
+{
+  "marriage":{"planets":["Venus","Jupiter"],"practices":["Relationship harmony / Shukra-Jupiter japa according to lineage","Charity or seva aligned with the selected benefic planet"],"avoid":["Do not prescribe gemstones solely from an event window"]},
+  "career":{"planets":["Sun","Mercury","Saturn","Jupiter"],"practices":["Career-focused Surya/Mercury/Saturn/Jupiter practice according to chart strength","Skill-building and disciplined action during the evidence window"],"avoid":["No guaranteed promotion claim"]},
+  "wealth":{"planets":["Jupiter","Venus","Mercury"],"practices":["Daan/japa for the activated benefic according to lineage","Budgeting and conservative financial planning"],"avoid":["No financial guarantee"]},
+  "property":{"planets":["Mars","Moon","Venus","Jupiter"],"practices":["Traditional house/property puja or mantra","Document and title due diligence"],"avoid":["No purchase decision based on astrology alone"]},
+  "health":{"planets":["Sun","Moon","Saturn","Mars"],"practices":["Traditional prayer/japa only as spiritual support","Use qualified medical care for symptoms"],"avoid":["Astrology is not diagnosis or treatment"]},
+  "foreign":{"planets":["Rahu","Jupiter","Saturn","Mercury"],"practices":["Traditional Rahu/Jupiter/Saturn/Mercury practice","Passport/visa/logistics verification"],"avoid":["No migration guarantee"]}
+}

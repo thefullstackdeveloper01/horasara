@@ -1,0 +1,416 @@
+READABLE DATASET
+================================================================================
+Original file: numerology-data.json
+Dataset number: 300 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 8,788 bytes
+Top-level fields: 6
+
+CONTENT
+--------------------------------------------------------------------------------
+• mappings:
+  • pythagorean:
+    • A: 1
+    • B: 2
+    • C: 3
+    • D: 4
+    • E: 5
+    • F: 6
+    • G: 7
+    • H: 8
+    • I: 9
+    • J: 1
+    • K: 2
+    • L: 3
+    • M: 4
+    • N: 5
+    • O: 6
+    • P: 7
+    • Q: 8
+    • R: 9
+    • S: 1
+    • T: 2
+    • U: 3
+    • V: 4
+    • W: 5
+    • X: 6
+    • Y: 7
+    • Z: 8
+  • cheiro:
+    • A: 1
+    • I: 1
+    • J: 1
+    • Q: 1
+    • Y: 1
+    • B: 2
+    • K: 2
+    • R: 2
+    • C: 3
+    • G: 3
+    • L: 3
+    • S: 3
+    • D: 4
+    • M: 4
+    • T: 4
+    • E: 5
+    • H: 5
+    • N: 5
+    • X: 5
+    • U: 6
+    • V: 6
+    • W: 6
+    • F: 8
+    • P: 8
+    • O: 7
+    • Z: 7
+• constants:
+  • vowels:
+    1.
+      A
+    2.
+      E
+    3.
+      I
+    4.
+      O
+    5.
+      U
+  • masterNumbers:
+    1.
+      11
+    2.
+      22
+    3.
+      33
+• meanings:
+  • 1:
+    • name: The Leader
+    • planet: Sun
+    • traits: Independent, pioneering, ambitious, self-reliant. Born to lead. Strong ego and determination.
+    • career: Entrepreneur, executive, politician, military leader
+    • challenge: Avoid ego and stubbornness
+  • 2:
+    • name: The Diplomat
+    • planet: Moon
+    • traits: Cooperative, sensitive, intuitive, diplomatic. Excel at partnerships. Excellent mediator.
+    • career: Counsellor, teacher, musician, diplomat, healer
+    • challenge: Avoid over-sensitivity and indecision
+  • 3:
+    • name: The Communicator
+    • planet: Jupiter
+    • traits: Creative, expressive, joyful, social, artistic. Life of the party. Excellent communicator.
+    • career: Artist, writer, actor, teacher, comedian
+    • challenge: Avoid scattered energy and superficiality
+  • 4:
+    • name: The Builder
+    • planet: Rahu
+    • traits: Practical, disciplined, methodical, stable. The most reliable of all numbers.
+    • career: Engineer, architect, accountant, manager
+    • challenge: Avoid rigidity and workaholism
+  • 5:
+    • name: The Adventurer
+    • planet: Mercury
+    • traits: Freedom-loving, versatile, quick-thinking, adaptable. Craves variety and change.
+    • career: Journalist, sales, travel, marketing, entrepreneur
+    • challenge: Avoid restlessness and excess
+  • 6:
+    • name: The Nurturer
+    • planet: Venus
+    • traits: Loving, responsible, family-oriented, harmonious. Natural caretaker. Community pillar.
+    • career: Doctor, nurse, teacher, artist, home decorator
+    • challenge: Avoid perfectionism and martyrdom
+  • 7:
+    • name: The Seeker
+    • planet: Ketu
+    • traits: Analytical, spiritual, wise, introspective, mysterious. Deep thinker and researcher.
+    • career: Scientist, researcher, philosopher, analyst, mystic
+    • challenge: Avoid isolation and skepticism
+  • 8:
+    • name: The Achiever
+    • planet: Saturn
+    • traits: Ambitious, powerful, practical, executive. Best at managing money and large organizations.
+    • career: Business executive, banker, judge, politician
+    • challenge: Avoid materialism and ruthlessness
+  • 9:
+    • name: The Humanitarian
+    • planet: Mars
+    • traits: Compassionate, generous, idealistic, courageous. Global citizen. Natural healer and teacher.
+    • career: Doctor, humanitarian, artist, teacher, spiritual leader
+    • challenge: Avoid martyrdom and emotional drama
+  • 11:
+    • name: The Visionary
+    • planet: Moon
+    • traits: Master number. Intuitive genius, spiritual messenger, inspirational leader.
+    • career: Spiritual teacher, inventor, healer, artist
+    • challenge: Must live up to high vibration, avoid nervous anxiety
+  • 22:
+    • name: The Master Builder
+    • planet: Rahu
+    • traits: Master number. Combines 4 practicality with 11 vision. Greatest potential of all numbers.
+    • career: Large organization builder, political leader, architect
+    • challenge: Immense pressure to deliver on massive visions
+  • 33:
+    • name: The Master Teacher
+    • planet: Jupiter
+    • traits: Master number. Amplifies 6 themes of care, teaching, compassion, and service; 33 reduces to 6.
+    • career: Spiritual teacher, healer, humanitarian
+    • challenge: Must sacrifice personal desires for higher good
+• lpPlanetMap:
+  • 1: Sun
+  • 2: Moon
+  • 3: Jupiter
+  • 4: Rahu
+  • 5: Mercury
+  • 6: Venus
+  • 7: Ketu
+  • 8: Saturn
+  • 9: Mars
+  • 11: Moon
+  • 22: Rahu
+  • 33: Jupiter
+• cheiroDescription: Cheiro/Vedic system — different letter mapping than Pythagorean
+• nakshatraSyllables:
+  • Ashwini:
+    1.
+      Chu
+    2.
+      Che
+    3.
+      Cho
+    4.
+      La
+  • Bharani:
+    1.
+      Lee
+    2.
+      Lu
+    3.
+      Le
+    4.
+      Lo
+  • Krittika:
+    1.
+      A
+    2.
+      I
+    3.
+      U
+    4.
+      E
+  • Rohini:
+    1.
+      O
+    2.
+      Va
+    3.
+      Vi
+    4.
+      Vu
+  • Mrigashira:
+    1.
+      Ve
+    2.
+      Vo
+    3.
+      Ka
+    4.
+      Ki
+  • Ardra:
+    1.
+      Ku
+    2.
+      Gha
+    3.
+      Da
+    4.
+      Chha
+  • Punarvasu:
+    1.
+      Ke
+    2.
+      Ko
+    3.
+      Ha
+    4.
+      Hi
+  • Pushya:
+    1.
+      Hu
+    2.
+      He
+    3.
+      Ho
+    4.
+      Da
+  • Ashlesha:
+    1.
+      Di
+    2.
+      Du
+    3.
+      De
+    4.
+      Do
+  • Magha:
+    1.
+      Ma
+    2.
+      Mi
+    3.
+      Mu
+    4.
+      Me
+  • Purva Phalguni:
+    1.
+      Mo
+    2.
+      Ta
+    3.
+      Ti
+    4.
+      Tu
+  • Uttara Phalguni:
+    1.
+      Te
+    2.
+      To
+    3.
+      Pa
+    4.
+      Pi
+  • Hasta:
+    1.
+      Pu
+    2.
+      Sha
+    3.
+      Na
+    4.
+      Tha
+  • Chitra:
+    1.
+      Pe
+    2.
+      Po
+    3.
+      Ra
+    4.
+      Ri
+  • Swati:
+    1.
+      Ru
+    2.
+      Re
+    3.
+      Ro
+    4.
+      Ta
+  • Vishakha:
+    1.
+      Ti
+    2.
+      Tu
+    3.
+      Te
+    4.
+      To
+  • Anuradha:
+    1.
+      Na
+    2.
+      Ni
+    3.
+      Nu
+    4.
+      Ne
+  • Jyeshtha:
+    1.
+      No
+    2.
+      Ya
+    3.
+      Yi
+    4.
+      Yu
+  • Mula:
+    1.
+      Ye
+    2.
+      Yo
+    3.
+      Bha
+    4.
+      Bhi
+  • Purva Ashadha:
+    1.
+      Bhu
+    2.
+      Dha
+    3.
+      Pha
+    4.
+      Dha
+  • Uttara Ashadha:
+    1.
+      Bhe
+    2.
+      Bho
+    3.
+      Ja
+    4.
+      Ji
+  • Shravana:
+    1.
+      Ju
+    2.
+      Je
+    3.
+      Jo
+    4.
+      Gha
+  • Dhanishtha:
+    1.
+      Ga
+    2.
+      Gi
+    3.
+      Gu
+    4.
+      Ge
+  • Shatabhisha:
+    1.
+      Go
+    2.
+      Sa
+    3.
+      Si
+    4.
+      Su
+  • Purva Bhadrapada:
+    1.
+      Se
+    2.
+      So
+    3.
+      Da
+    4.
+      Di
+  • Uttara Bhadrapada:
+    1.
+      Du
+    2.
+      Tha
+    3.
+      Jha
+    4.
+      Da
+  • Revati:
+    1.
+      De
+    2.
+      Do
+    3.
+      Cha
+    4.
+      Chi

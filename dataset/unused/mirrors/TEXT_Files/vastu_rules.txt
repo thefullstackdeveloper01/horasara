@@ -1,0 +1,1951 @@
+READABLE DATASET
+================================================================================
+Original file: vastu_rules.json
+Dataset number: 437 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 42,633 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• vastu_rules:
+  • title: Complete Vastu Shastra Rules
+  • description: Comprehensive guide to Vastu zones, deities, directions, and remedies based on classical Vastu Purusha Mandala
+  • vastu_purusha_mandala:
+    • description: The cosmic man lying with head in northeast and feet in southwest
+    • total_zones: 16
+    • total_deities: 45
+    • grid_size: 9x9 = 81 padas
+  • directions:
+    • cardinal:
+      1.
+        • direction: North
+        • hindi_name: उत्तर (Uttar)
+        • sanskrit_name: उत्तरा
+        • ruling_deity: Kubera (Lord of Wealth)
+        • element: Water
+        • planet: Mercury (Budh)
+        • significance: Wealth, prosperity, career growth, opportunities
+        • positive_activities:
+          1.
+            Treasury
+          2.
+            Main entrance
+          3.
+            Living room
+          4.
+            Office
+          5.
+            Children's study
+        • negative_activities:
+          1.
+            Toilet
+          2.
+            Kitchen
+          3.
+            Store room for heavy items
+          4.
+            Bedroom for elders
+        • remedies:
+          1.
+            Keep north direction clean and clutter-free
+          2.
+            Place money plant or lucky bamboo
+          3.
+            Use blue or green colors
+          4.
+            Install Kuber Yantra
+          5.
+            Keep water features like fountain or aquarium
+      2.
+        • direction: South
+        • hindi_name: दक्षिण (Dakshin)
+        • sanskrit_name: दक्षिणा
+        • ruling_deity: Yama (Lord of Death & Dharma)
+        • element: Earth
+        • planet: Mars (Mangal)
+        • significance: Stability, strength, protection, fame
+        • positive_activities:
+          1.
+            Master bedroom
+          2.
+            Heavy storage
+          3.
+            Staircase
+          4.
+            Generator/Electrical equipment
+          5.
+            Weapons/security
+        • negative_activities:
+          1.
+            Main entrance
+          2.
+            Living room
+          3.
+            Pooja room
+          4.
+            Kitchen
+          5.
+            Bathroom
+        • remedies:
+          1.
+            Keep heavy furniture in south
+          2.
+            Use red or maroon colors sparingly
+          3.
+            Place pyramid or crystal
+          4.
+            Ensure south wall is higher than north
+          5.
+            Use earthy tones
+      3.
+        • direction: East
+        • hindi_name: पूर्व (Purva)
+        • sanskrit_name: पूर्वा
+        • ruling_deity: Surya (Sun God)
+        • element: Light/Fire
+        • planet: Sun (Surya)
+        • significance: Health, vitality, enlightenment, knowledge
+        • positive_activities:
+          1.
+            Main entrance
+          2.
+            Pooja room
+          3.
+            Bathroom (morning sunlight)
+          4.
+            Study room
+          5.
+            Verandah/Balcony
+        • negative_activities:
+          1.
+            Toilet
+          2.
+            Store room
+          3.
+            Heavy furniture
+          4.
+            Bedroom with dark colors
+        • remedies:
+          1.
+            Keep east direction open and bright
+          2.
+            Use light colors like white, cream, yellow
+          3.
+            Place Surya Yantra
+          4.
+            Keep windows in east for morning sunlight
+          5.
+            Avoid water elements
+      4.
+        • direction: West
+        • hindi_name: पश्चिम (Paschim)
+        • sanskrit_name: पश्चिमा
+        • ruling_deity: Varuna (Lord of Water & Cosmic Order)
+        • element: Air
+        • planet: Saturn (Shani)
+        • significance: Gains, profits, stability, children
+        • positive_activities:
+          1.
+            Dining room
+          2.
+            Study room
+          3.
+            Children's bedroom
+          4.
+            Toilet/Bathroom (partial)
+          5.
+            Store for grains
+        • negative_activities:
+          1.
+            Main entrance
+          2.
+            Living room
+          3.
+            Pooja room
+          4.
+            Master bedroom
+        • remedies:
+          1.
+            Use white, grey or silver colors
+          2.
+            Place wind chimes
+          3.
+            Keep west window small
+          4.
+            Use metal elements
+          5.
+            Avoid water storage
+    • diagonal_sub_directions:
+      1.
+        • direction: North-East (Ishanya)
+        • hindi_name: ईशान कोण
+        • sanskrit_name: ईशान्य
+        • ruling_deity: Ishana (Supreme Lord Shiva)
+        • element: Water
+        • planet: Jupiter (Brihaspati)
+        • significance: Spirituality, divine blessings, wisdom, mental peace
+        • positive_activities:
+          1.
+            Pooja room
+          2.
+            Meditation area
+          3.
+            Tulsi plant
+          4.
+            Water source
+          5.
+            Open courtyard
+        • negative_activities:
+          1.
+            Toilet
+          2.
+            Kitchen
+          3.
+            Bedroom
+          4.
+            Heavy storage
+          5.
+            Staircase
+        • remedies:
+          1.
+            Keep northeast extremely clean
+          2.
+            Place sacred items and idols
+          3.
+            Use white or light blue colors
+          4.
+            Keep water elements
+          5.
+            Install Om or Swastik symbol
+      2.
+        • direction: North-West (Vayavya)
+        • hindi_name: वायव्य कोण
+        • sanskrit_name: वायव्य
+        • ruling_deity: Vayu (Lord of Wind)
+        • element: Air
+        • planet: Moon (Chandra)
+        • significance: Relationships, friendships, communication, movement
+        • positive_activities:
+          1.
+            Guest room
+          2.
+            Bathroom
+          3.
+            Garage
+          4.
+            Store for finished goods
+          5.
+            Unmarried daughter's room
+        • negative_activities:
+          1.
+            Master bedroom
+          2.
+            Kitchen
+          3.
+            Pooja room
+          4.
+            Main entrance
+        • remedies:
+          1.
+            Use wind chimes
+          2.
+            Keep light furniture
+          3.
+            Use white or grey colors
+          4.
+            Ensure proper ventilation
+          5.
+            Place Vayu Yantra
+      3.
+        • direction: South-East (Agneya)
+        • hindi_name: आग्नेय कोण
+        • sanskrit_name: आग्नेय
+        • ruling_deity: Agni (Lord of Fire)
+        • element: Fire
+        • planet: Venus (Shukra)
+        • significance: Energy, transformation, cooking, power
+        • positive_activities:
+          1.
+            Kitchen
+          2.
+            Electrical equipment
+          3.
+            Generator
+          4.
+            Boiler room
+          5.
+            Fire-related activities
+        • negative_activities:
+          1.
+            Toilet
+          2.
+            Pooja room
+          3.
+            Water tank
+          4.
+            Bedroom
+          5.
+            Main entrance
+        • remedies:
+          1.
+            Use red, orange or yellow colors
+          2.
+            Keep fire elements in southeast
+          3.
+            Place Agni Yantra
+          4.
+            Ensure proper ventilation for kitchen
+          5.
+            Avoid water elements
+      4.
+        • direction: South-West (Nairutya)
+        • hindi_name: नैऋत्य कोण
+        • sanskrit_name: नैऋत्य
+        • ruling_deity: Nirriti (Goddess of Protection)
+        • element: Earth
+        • planet: Rahu
+        • significance: Stability, protection, roots, ancestors
+        • positive_activities:
+          1.
+            Master bedroom
+          2.
+            Heavy storage
+          3.
+            Wardrobe
+          4.
+            Safe/Locker
+          5.
+            Ancestral items
+        • negative_activities:
+          1.
+            Main entrance
+          2.
+            Kitchen
+          3.
+            Pooja room
+          4.
+            Bathroom
+          5.
+            Living room
+        • remedies:
+          1.
+            Keep heaviest items in southwest
+          2.
+            Use earthy colors like brown, beige
+          3.
+            Place protective symbols
+          4.
+            Ensure southwest wall is thick
+          5.
+            Use heavy curtains
+    • extended_directions:
+      1.
+        • direction: North-North-East (NNE)
+        • ruling_deity: Bhudhar (Earth)
+        • significance: Health, immunity, vitality
+        • positive_activities:
+          1.
+            Well/Tube well
+          2.
+            Water tank
+          3.
+            Open space
+          4.
+            Garden
+        • negative_activities:
+          1.
+            Bedroom
+          2.
+            Toilet
+          3.
+            Kitchen
+        • remedies:
+          1.
+            Keep clean
+          2.
+            Place medicinal plants
+          3.
+            Use green color
+      2.
+        • direction: East-North-East (ENE)
+        • ruling_deity: Aditi (Mother of Gods)
+        • significance: Social connections, networking, community
+        • positive_activities:
+          1.
+            Living room
+          2.
+            Guest area
+          3.
+            Community space
+        • negative_activities:
+          1.
+            Store room
+          2.
+            Toilet
+        • remedies:
+          1.
+            Place family photos
+          2.
+            Keep welcoming atmosphere
+          3.
+            Use warm colors
+      3.
+        • direction: East-South-East (ESE)
+        • ruling_deity: Vitatha
+        • significance: Analysis, research, detailed work
+        • positive_activities:
+          1.
+            Study room
+          2.
+            Office
+          3.
+            Library
+        • negative_activities:
+          1.
+            Bedroom
+          2.
+            Kitchen
+        • remedies:
+          1.
+            Place books
+          2.
+            Use yellow colors
+          3.
+            Good lighting
+      4.
+        • direction: South-South-East (SSE)
+        • ruling_deity: Bhringraj
+        • significance: Physical energy, action, implementation
+        • positive_activities:
+          1.
+            Gym
+          2.
+            Workshop
+          3.
+            Kitchen extension
+        • negative_activities:
+          1.
+            Bedroom
+          2.
+            Pooja room
+        • remedies:
+          1.
+            Place exercise equipment
+          2.
+            Use red/orange accents
+      5.
+        • direction: South-South-West (SSW)
+        • ruling_deity: Gandharva
+        • significance: Creativity, arts, music, entertainment
+        • positive_activities:
+          1.
+            Music room
+          2.
+            Art studio
+          3.
+            Entertainment area
+        • negative_activities:
+          1.
+            Toilet
+          2.
+            Store room
+        • remedies:
+          1.
+            Place musical instruments
+          2.
+            Use creative artwork
+          3.
+            Vibrant colors
+      6.
+        • direction: West-South-West (WSW)
+        • ruling_deity: Pushan
+        • significance: Nourishment, support, caretaking
+        • positive_activities:
+          1.
+            Dining area
+          2.
+            Pantry
+          3.
+            Guest bedroom
+        • negative_activities:
+          1.
+            Toilet
+          2.
+            Main entrance
+        • remedies:
+          1.
+            Place dining table
+          2.
+            Keep food storage
+          3.
+            Warm lighting
+      7.
+        • direction: West-North-West (WNW)
+        • ruling_deity: Rog
+        • significance: Disease, challenges, obstacles
+        • positive_activities:
+          1.
+            Bathroom
+          2.
+            Toilet
+          3.
+            Laundry
+          4.
+            Storage
+        • negative_activities:
+          1.
+            Bedroom
+          2.
+            Kitchen
+          3.
+            Pooja room
+        • remedies:
+          1.
+            Keep doors closed
+          2.
+            Use air fresheners
+          3.
+            Regular cleaning
+          4.
+            Place salt lamps
+      8.
+        • direction: North-North-West (NNW)
+        • ruling_deity: Nag
+        • significance: Hidden treasures, intuition, wisdom
+        • positive_activities:
+          1.
+            Safe/Locker
+          2.
+            Jewelry storage
+          3.
+            Important documents
+        • negative_activities:
+          1.
+            Toilet
+          2.
+            Kitchen
+        • remedies:
+          1.
+            Place safe facing north
+          2.
+            Keep valuables organized
+          3.
+            Use metal elements
+  • all_deities:
+    TABLE (44 rows)
+    name | location | role | element | mantra
+    -----------------------------------------
+    Brahma | Center (Brahmasthan) | Creator of Universe | Space/Ether | ॐ ब्रह्मणे नमः
+    Ishana | North-East | Supreme Lord, Wisdom | Water | ॐ ईशानाय नमः
+    Parjanya | North-East-East | Rain God | Water | ॐ पर्जन्याय नमः
+    Jayanta | North-East-North | Victory | Water | ॐ जयन्ताय नमः
+    Kubera | North | Wealth | Water | ॐ कुबेराय नमः
+    Soma | North-North-West | Moon God | Water | ॐ सोमाय नमः
+    Mukhya | North-West-North | Main Deity | Air | ॐ मुख्याय नमः
+    Vayu | North-West | Wind God | Air | ॐ वायवे नमः
+    Rog | West-North-West | Disease | Air | ॐ रोगाय नमः
+    Nag | North-North-West | Serpent God | Air | ॐ नागाय नमः
+    Varuna | West | Water God | Air | ॐ वरुणाय नमः
+    Pushan | West-South-West | Nourisher | Air | ॐ पूष्णे नमः
+    Gandharva | South-South-West | Celestial Musician | Earth | ॐ गन्धर्वाय नमः
+    Nirriti | South-West | Protection | Earth | ॐ निरृत्यै नमः
+    Bhringraj | South-South-East | Lord of Bees | Earth | ॐ भृङ्गराजाय नमः
+    Yama | South | Death & Dharma | Earth | ॐ यमाय नमः
+    Vitatha | East-South-East | Analysis | Fire | ॐ वितथाय नमः
+    Agni | South-East | Fire God | Fire | ॐ अग्नये नमः
+    Aditi | East-North-East | Mother of Gods | Fire | ॐ अदित्यै नमः
+    Surya | East | Sun God | Light | ॐ सूर्याय नमः
+    Bhudhar | North-North-East | Earth | Water | ॐ भूधराय नमः
+    Aryama | East-South | Ancestor | Fire | ॐ अर्यम्णे नमः
+    Savita | South-East-East | Solar Deity | Fire | ॐ सवित्रे नमः
+    Indra | East | King of Gods | Light | ॐ इन्द्राय नमः
+    Mitra | East-West | Friendship | Light | ॐ मित्राय नमः
+    Rudra | South-East-South | Storm God | Fire | ॐ रुद्राय नमः
+    Prithvidhara | South-South-West | Earth Holder | Earth | ॐ पृथ्वीधराय नमः
+    Apah | West | Water | Water | ॐ अपां नमः
+    Apavatsa | West-North | Water Spirit | Water | ॐ अपवत्साय नमः
+    Brahma (Center) | Center | Cosmic Creator | Space | ॐ ब्रह्मणे नमः
+    Diti | North-West-West | Mother of Demons | Air | ॐ दित्यै नमः
+    Shikhi | South-East | Fire Peacock | Fire | ॐ शिखिने नमः
+    Charaki | South-South-West | Witch Deity | Earth | ॐ चरक्यै नमः
+    Vidarika | South-East-East | Tearing Deity | Fire | ॐ विदारिकायै नमः
+    Prajapati | Center-East | Lord of Creatures | Space | ॐ प्रजापतये नमः
+    Bhrish | South-West-South | Apostle | Earth | ॐ भृशाय नमः
+    Indrajaya | East-North | Victory of Indra | Light | ॐ इन्द्रजयाय नमः
+    Rudraja | South-South-East | Born of Rudra | Earth | ॐ रुद्रजाय नमः
+    Mriga | South-West-West | Deer | Earth | ॐ मृगाय नमः
+    Pitara | West-South-West | Ancestors | Air | ॐ पितृभ्यः नमः
+    Dauvarika | South-West | Gatekeeper | Earth | ॐ दौवारिकाय नमः
+    Sugriva | South-South-West | Monkey King | Earth | ॐ सुग्रीवाय नमः
+    Kusumadanta | West-North-West | Flower Toothed | Air | ॐ कुसुमदन्ताय नमः
+    Jaya | North-East | Victory | Water | ॐ जयाय नमः
+  • zones:
+    1.
+      • zone_id: 1
+      • zone_name: Brahmasthan (Center)
+      • location: Center of the house/building
+      • ruling_deity: Brahma
+      • element: Space/Ether
+      • significance: Most sacred zone, represents cosmic energy, balance
+      • ideal_usage:
+        1.
+          Open courtyard
+        2.
+          Pooja room
+        3.
+          Living area
+        4.
+          Open to sky
+      • prohibited_usage:
+        1.
+          Toilet
+        2.
+          Kitchen
+        3.
+          Bedroom
+        4.
+          Staircase
+        5.
+          Heavy storage
+        6.
+          Beam
+        7.
+          Pillar
+      • remedies:
+        1.
+          Keep Brahmasthan completely open and clean
+        2.
+          Install skylight for natural light
+        3.
+          Use white or light colors
+        4.
+          Place sacred geometry or yantra
+        5.
+          Avoid any heavy construction
+        6.
+          Keep plants in pots (not directly on floor)
+    2.
+      • zone_id: 2
+      • zone_name: Ishanya (North-East)
+      • location: North-East corner
+      • ruling_deity: Ishana
+      • element: Water
+      • significance: Divine blessings, spiritual growth, mental peace
+      • ideal_usage:
+        1.
+          Pooja room
+        2.
+          Meditation space
+        3.
+          Tulsi plant
+        4.
+          Well
+        5.
+          Water storage
+        6.
+          Underground water tank
+        7.
+          Open space
+      • prohibited_usage:
+        1.
+          Toilet
+        2.
+          Kitchen
+        3.
+          Bedroom
+        4.
+          Staircase
+        5.
+          Heavy storage
+        6.
+          Overhead tank
+      • remedies:
+        1.
+          Keep extremely clean and pure
+        2.
+          Place idols and sacred items
+        3.
+          Use white, light blue or silver colors
+        4.
+          Keep water elements
+        5.
+          Install sacred symbols (Om, Swastik)
+        6.
+          Light incense daily
+        7.
+          Keep Tulsi plant
+    3.
+      • zone_id: 3
+      • zone_name: Agneya (South-East)
+      • location: South-East corner
+      • ruling_deity: Agni
+      • element: Fire
+      • significance: Energy, transformation, power, cooking
+      • ideal_usage:
+        1.
+          Kitchen
+        2.
+          Electrical room
+        3.
+          Generator
+        4.
+          Boiler
+        5.
+          Fireplace
+        6.
+          Electrical appliances
+      • prohibited_usage:
+        1.
+          Toilet
+        2.
+          Pooja room
+        3.
+          Water storage
+        4.
+          Bedroom
+        5.
+          Main entrance
+      • remedies:
+        1.
+          Place kitchen in southeast
+        2.
+          Use red, orange, yellow colors
+        3.
+          Ensure proper ventilation
+        4.
+          Install Agni Yantra
+        5.
+          Keep fire elements (gas stove) in southeast corner of kitchen
+        6.
+          Avoid water elements
+        7.
+          Face east while cooking
+    4.
+      • zone_id: 4
+      • zone_name: Nairutya (South-West)
+      • location: South-West corner
+      • ruling_deity: Nirriti
+      • element: Earth
+      • significance: Stability, protection, roots, ancestral energy
+      • ideal_usage:
+        1.
+          Master bedroom
+        2.
+          Heavy storage
+        3.
+          Wardrobe
+        4.
+          Safe/Locker
+        5.
+          Ancestral photos
+        6.
+          Landlord's room
+      • prohibited_usage:
+        1.
+          Main entrance
+        2.
+          Kitchen
+        3.
+          Pooja room
+        4.
+          Bathroom
+        5.
+          Living room
+        6.
+          Children's room
+      • remedies:
+        1.
+          Keep heaviest items in southwest
+        2.
+          Use earthy colors (brown, beige, tan)
+        3.
+          Place safe/locker facing north
+        4.
+          Ensure southwest wall is thick and high
+        5.
+          Use heavy curtains
+        6.
+          Place protective yantra
+        7.
+          Avoid water elements
+    5.
+      • zone_id: 5
+      • zone_name: Vayavya (North-West)
+      • location: North-West corner
+      • ruling_deity: Vayu
+      • element: Air
+      • significance: Movement, communication, relationships, business
+      • ideal_usage:
+        1.
+          Guest room
+        2.
+          Bathroom
+        3.
+          Garage
+        4.
+          Store for finished goods
+        5.
+          Unmarried daughter's room
+        6.
+          Toilet
+      • prohibited_usage:
+        1.
+          Master bedroom
+        2.
+          Kitchen
+        3.
+          Pooja room
+        4.
+          Main entrance
+        5.
+          Heavy storage
+      • remedies:
+        1.
+          Keep light furniture
+        2.
+          Use white, grey, silver colors
+        3.
+          Place wind chimes
+        4.
+          Ensure good ventilation
+        5.
+          Install Vayu Yantra
+        6.
+          Keep air purifying plants
+        7.
+          Use metal elements
+    6.
+      • zone_id: 6
+      • zone_name: North Zone
+      • location: North direction
+      • ruling_deity: Kubera
+      • element: Water
+      • significance: Wealth, career, opportunities, prosperity
+      • ideal_usage:
+        1.
+          Main entrance
+        2.
+          Living room
+        3.
+          Treasury
+        4.
+          Office
+        5.
+          Children's study
+        6.
+          Cash counter
+      • prohibited_usage:
+        1.
+          Toilet
+        2.
+          Kitchen
+        3.
+          Heavy storage
+        4.
+          Master bedroom
+      • remedies:
+        1.
+          Keep north clean and clutter-free
+        2.
+          Place money plant or lucky bamboo
+        3.
+          Use blue, green or black colors
+        4.
+          Install Kuber Yantra
+        5.
+          Keep water feature (fountain, aquarium)
+        6.
+          Face north while working
+        7.
+          Place mirror in north
+    7.
+      • zone_id: 7
+      • zone_name: South Zone
+      • location: South direction
+      • ruling_deity: Yama
+      • element: Earth
+      • significance: Strength, stability, protection, fame
+      • ideal_usage:
+        1.
+          Master bedroom
+        2.
+          Heavy storage
+        3.
+          Staircase
+        4.
+          Generator
+        5.
+          Electrical equipment
+      • prohibited_usage:
+        1.
+          Main entrance
+        2.
+          Living room
+        3.
+          Pooja room
+        4.
+          Kitchen
+        5.
+          Bathroom
+      • remedies:
+        1.
+          Keep heavy furniture in south
+        2.
+          Use red, maroon, earthy colors
+        3.
+          Place pyramid or crystal
+        4.
+          Ensure south wall is higher than north
+        5.
+          Use heavy curtains
+        6.
+          Avoid water elements
+        7.
+          Place protective symbols
+    8.
+      • zone_id: 8
+      • zone_name: East Zone
+      • location: East direction
+      • ruling_deity: Surya
+      • element: Light/Fire
+      • significance: Health, vitality, knowledge, enlightenment
+      • ideal_usage:
+        1.
+          Main entrance
+        2.
+          Pooja room
+        3.
+          Bathroom
+        4.
+          Study room
+        5.
+          Verandah
+        6.
+          Morning sunlight
+      • prohibited_usage:
+        1.
+          Toilet
+        2.
+          Store room
+        3.
+          Heavy furniture
+        4.
+          Dark bedroom
+      • remedies:
+        1.
+          Keep east open and bright
+        2.
+          Use white, cream, yellow colors
+        3.
+          Install Surya Yantra
+        4.
+          Keep windows for morning sunlight
+        5.
+          Avoid water elements
+        6.
+          Place sun symbols
+        7.
+          Keep plants that need sunlight
+    9.
+      • zone_id: 9
+      • zone_name: West Zone
+      • location: West direction
+      • ruling_deity: Varuna
+      • element: Air
+      • significance: Gains, profits, children, stability
+      • ideal_usage:
+        1.
+          Dining room
+        2.
+          Study room
+        3.
+          Children's bedroom
+        4.
+          Store for grains
+        5.
+          Bathroom (partial)
+      • prohibited_usage:
+        1.
+          Main entrance
+        2.
+          Living room
+        3.
+          Pooja room
+        4.
+          Master bedroom
+      • remedies:
+        1.
+          Use white, grey, silver colors
+        2.
+          Place wind chimes
+        3.
+          Keep west windows small
+        4.
+          Use metal elements
+        5.
+          Avoid water storage
+        6.
+          Place Varun Yantra
+        7.
+          Keep light furniture
+  • room_specific_rules:
+    1.
+      • room: Main Entrance
+      • ideal_directions:
+        1.
+          North
+        2.
+          East
+        3.
+          North-East
+      • avoid_directions:
+        1.
+          South
+        2.
+          South-West
+        3.
+          South-East
+      • rules:
+        1.
+          Main door should be larger than other doors
+        2.
+          Door should open inward (clockwise)
+        3.
+          Threshold should not have cracks
+        4.
+          No obstruction in front of entrance
+        5.
+          Entrance should be well-lit
+        6.
+          Place auspicious symbols (Om, Swastik, Ganesha)
+        7.
+          Avoid mirrors facing entrance
+        8.
+          Keep entrance clean and clutter-free
+        9.
+          Use wooden door for positive energy
+        10.
+          Door should not creak
+      • remedies:
+        1.
+          Place Ganesha idol at entrance
+        2.
+          Install threshold (dwar vedh)
+        3.
+          Use auspicious colors (red, yellow, orange)
+        4.
+          Place toran or bandhanwar
+        5.
+          Keep plants on both sides
+        6.
+          Use bright lighting
+    2.
+      • room: Kitchen
+      • ideal_directions:
+        1.
+          South-East
+        2.
+          North-West (secondary)
+      • avoid_directions:
+        1.
+          North-East
+        2.
+          South-West
+        3.
+          Center
+      • rules:
+        1.
+          Cooking should face east
+        2.
+          Gas stove in southeast corner of kitchen
+        3.
+          Sink should be away from stove
+        4.
+          Water and fire elements should be separated
+        5.
+          Kitchen should not be directly in front of main entrance
+        6.
+          Avoid kitchen above or below pooja room
+        7.
+          Use proper ventilation and chimney
+        8.
+          Store grains in south or west
+        9.
+          Avoid kitchen in northeast (causes health issues)
+      • remedies:
+        1.
+          Install Agni Yantra in southeast
+        2.
+          Use red, orange, yellow colors
+        3.
+          Keep fire extinguisher
+        4.
+          Ensure proper ventilation
+        5.
+          Use exhaust fan
+        6.
+          Place salt in corners
+        7.
+          Keep kitchen clean after cooking
+    3.
+      • room: Master Bedroom
+      • ideal_directions:
+        1.
+          South-West
+        2.
+          South
+        3.
+          West
+      • avoid_directions:
+        1.
+          North-East
+        2.
+          North
+        3.
+          East
+        4.
+          South-East
+      • rules:
+        1.
+          Head should face south or east while sleeping
+        2.
+          Avoid sleeping with head facing north
+        3.
+          Bed should not be under beam
+        4.
+          Avoid mirror facing bed
+        5.
+          Use heavy furniture in southwest
+        6.
+          Keep bedroom clutter-free
+        7.
+          Avoid electronic devices near bed
+        8.
+          Use soothing colors
+        9.
+          Bed should not face door directly
+        10.
+          Keep safe/locker in southwest corner
+      • remedies:
+        1.
+          Use earthy colors (brown, beige)
+        2.
+          Place heavy wardrobe in southwest
+        3.
+          Use dark curtains
+        4.
+          Place rose quartz for relationships
+        5.
+          Avoid water elements in bedroom
+        6.
+          Keep bedroom door closed at night
+        7.
+          Use dim lighting
+    4.
+      • room: Pooja Room
+      • ideal_directions:
+        1.
+          North-East
+        2.
+          East
+        3.
+          North
+      • avoid_directions:
+        1.
+          South-West
+        2.
+          South
+        3.
+          South-East
+      • rules:
+        1.
+          Idols should face west or east
+        2.
+          Worshipper should face east or north
+        3.
+          Pooja room should not be under staircase
+        4.
+          Avoid pooja room near toilet or kitchen
+        5.
+          Use marble or wood for platform
+        6.
+          Keep pooja room clean and pure
+        7.
+          Light diya/incense daily
+        8.
+          Place idols at proper height
+        9.
+          Avoid pooja room in bedroom
+        10.
+          Keep sacred texts properly
+      • remedies:
+        1.
+          Use white, yellow, light blue colors
+        2.
+          Install Om or Swastik symbol
+        3.
+          Place Tulsi plant nearby
+        4.
+          Keep copper or brass items
+        5.
+          Use sandalwood incense
+        6.
+          Place water in copper vessel
+        7.
+          Keep bell for positive vibrations
+    5.
+      • room: Bathroom/Toilet
+      • ideal_directions:
+        1.
+          North-West
+        2.
+          West
+        3.
+          South
+        4.
+          South-East (partial)
+      • avoid_directions:
+        1.
+          North-East
+        2.
+          Center
+        3.
+          East
+      • rules:
+        1.
+          Toilet seat should face north or south
+        2.
+          Bathroom door should always be closed
+        3.
+          Use exhaust fan for ventilation
+        4.
+          Avoid bathroom in northeast (major dosha)
+        5.
+          Avoid bathroom above or below pooja room
+        6.
+          Use light colors
+        7.
+          Keep bathroom clean and dry
+        8.
+          Repair any leakage immediately
+        9.
+          Use air freshener
+        10.
+          Avoid mirror facing toilet
+      • remedies:
+        1.
+          Keep door closed always
+        2.
+          Use sea salt in corners
+        3.
+          Place air purifying plants
+        4.
+          Use white or light colors
+        5.
+          Install exhaust fan
+        6.
+          Keep bathroom dry
+        7.
+          Use camphor regularly
+        8.
+          Place small pyramid
+    6.
+      • room: Study Room
+      • ideal_directions:
+        1.
+          East
+        2.
+          North-East
+        3.
+          North
+        4.
+          West
+      • avoid_directions:
+        1.
+          South-West
+        2.
+          South
+      • rules:
+        1.
+          Study table should face east or north
+        2.
+          Use proper lighting
+        3.
+          Keep books organized
+        4.
+          Avoid clutter on study table
+        5.
+          Place Saraswati Yantra
+        6.
+          Use yellow or white colors
+        7.
+          Keep fresh air circulation
+        8.
+          Avoid studying under beam
+        9.
+          Keep study room away from bedroom if possible
+        10.
+          Use comfortable chair
+      • remedies:
+        1.
+          Place Saraswati idol or photo
+        2.
+          Use yellow color (wisdom)
+        3.
+          Keep crystal or pyramid
+        4.
+          Ensure natural light
+        5.
+          Place green plants
+        6.
+          Keep water in glass on table
+        7.
+          Use positive affirmations on wall
+    7.
+      • room: Living Room
+      • ideal_directions:
+        1.
+          North
+        2.
+          East
+        3.
+          North-East
+      • avoid_directions:
+        1.
+          South-West
+      • rules:
+        1.
+          Furniture should be in south or west
+        2.
+          Avoid clutter
+        3.
+          Use comfortable seating
+        4.
+          Keep center open
+        5.
+          Use warm colors
+        6.
+          Place family photos on east or north wall
+        7.
+          Avoid TV in northeast
+        8.
+          Use proper lighting
+        9.
+          Keep fresh flowers
+        10.
+          Use air purifying plants
+      • remedies:
+        1.
+          Place money plant in north
+        2.
+          Use warm lighting
+        3.
+          Keep wind chimes in northwest
+        4.
+          Place aquarium in north or east
+        5.
+          Use round or oval furniture
+        6.
+          Keep positive artwork
+        7.
+          Use pleasant fragrance
+    8.
+      • room: Dining Room
+      • ideal_directions:
+        1.
+          West
+        2.
+          East
+        3.
+          North
+      • avoid_directions:
+        1.
+          South-West
+        2.
+          South-East
+      • rules:
+        1.
+          Dining table should be in west or east
+        2.
+          Face east or north while eating
+        3.
+          Use proper lighting
+        4.
+          Keep dining area clean
+        5.
+          Avoid dining under beam
+        6.
+          Use comfortable chairs
+        7.
+          Keep water jug on table
+        8.
+          Avoid TV during meals
+        9.
+          Use pleasant colors
+        10.
+          Keep dining room near kitchen
+      • remedies:
+        1.
+          Use warm colors
+        2.
+          Place fruit bowl on table
+        3.
+          Keep family photos
+        4.
+          Use pleasant lighting
+        5.
+          Place green plants
+        6.
+          Use positive artwork
+        7.
+          Keep salt and pepper on table
+  • vastu_doshas_and_remedies:
+    1.
+      • dosha: North-East Dosha (Toilet/Kitchen in NE)
+      • severity: Severe
+      • effects:
+        1.
+          Mental stress
+        2.
+          Financial losses
+        3.
+          Health issues
+        4.
+          Family conflicts
+      • remedies:
+        1.
+          Place Panchmukhi Hanuman facing northeast
+        2.
+          Install Vastu Purush Yantra
+        3.
+          Use white or silver colors
+        4.
+          Keep sea salt in corners
+        5.
+          Place crystal pyramid
+        6.
+          Chant Om Namah Shivaya daily
+        7.
+          Keep copper vessel with water
+        8.
+          Regularly light camphor
+    2.
+      • dosha: South-West Dosha (Entrance in SW)
+      • severity: Severe
+      • effects:
+        1.
+          Loss of stability
+        2.
+          Financial instability
+        3.
+          Health problems
+        4.
+          Relationship issues
+      • remedies:
+        1.
+          Install Vastu Yantra at entrance
+        2.
+          Place Ganesha idol
+        3.
+          Use red or maroon colors
+        4.
+          Keep heavy object in southwest
+        5.
+          Place protective symbols
+        6.
+          Chant Om Namo Narayanaya
+        7.
+          Use copper pyramid
+        8.
+          Keep door closed when not in use
+    3.
+      • dosha: Brahmasthan Dosha (Construction in Center)
+      • severity: Very Severe
+      • effects:
+        1.
+          Major health issues
+        2.
+          Family conflicts
+        3.
+          Financial disaster
+        4.
+          Mental instability
+      • remedies:
+        1.
+          Remove any construction from center
+        2.
+          Install Brahma Yantra
+        3.
+          Use white or light colors
+        4.
+          Keep center completely open
+        5.
+          Place crystal in center
+        6.
+          Chant Om Brahmaya Namah
+        7.
+          Use skylight for natural light
+        8.
+          Keep center extremely clean
+    4.
+      • dosha: Kitchen in North-East
+      • severity: Severe
+      • effects:
+        1.
+          Digestive issues
+        2.
+          Mental stress
+        3.
+          Financial problems
+        4.
+          Family conflicts
+      • remedies:
+        1.
+          Install Agni Yantra
+        2.
+          Use red or orange colors
+        3.
+          Keep fire extinguisher nearby
+        4.
+          Place salt in corners
+        5.
+          Chant Om Agnaye Namah
+        6.
+          Use copper items
+        7.
+          Keep kitchen clean
+        8.
+          Install exhaust fan
+    5.
+      • dosha: Bedroom in North-East
+      • severity: Moderate
+      • effects:
+        1.
+          Sleep disturbances
+        2.
+          Mental unrest
+        3.
+          Health issues
+        4.
+          Lack of peace
+      • remedies:
+        1.
+          Use light colors
+        2.
+          Place crystal in northeast
+        3.
+          Keep room clean
+        4.
+          Use soothing fragrance
+        5.
+          Chant Om Shanti Shanti Shanti
+        6.
+          Place white flowers
+        7.
+          Avoid heavy furniture
+        8.
+          Keep window open for fresh air
+    6.
+      • dosha: Staircase in North-East
+      • severity: Severe
+      • effects:
+        1.
+          Financial losses
+        2.
+          Health issues
+        3.
+          Mental stress
+        4.
+          Career obstacles
+      • remedies:
+        1.
+          Install Vastu Yantra under staircase
+        2.
+          Use white or light colors on staircase
+        3.
+          Keep area well-lit
+        4.
+          Place crystal at base
+        5.
+          Chant Om Namah Shivaya
+        6.
+          Keep staircase clean
+        7.
+          Use copper wire around railing
+        8.
+          Place plants nearby
+  • vastu_yantras:
+    1.
+      • yantra: Vastu Purush Yantra
+      • purpose: Overall Vastu correction
+      • placement: Center of house or northeast
+      • benefits:
+        1.
+          Removes all Vastu doshas
+        2.
+          Brings peace
+        3.
+          Prosperity
+        4.
+          Harmony
+      • activation: Chant Om Vastu Purushaya Namah 108 times
+    2.
+      • yantra: Kuber Yantra
+      • purpose: Wealth and prosperity
+      • placement: North direction
+      • benefits:
+        1.
+          Financial growth
+        2.
+          Wealth accumulation
+        3.
+          Business success
+      • activation: Chant Om Kuberaya Namah 108 times
+    3.
+      • yantra: Agni Yantra
+      • purpose: Fire element balance
+      • placement: South-East
+      • benefits:
+        1.
+          Energy
+        2.
+          Transformation
+        3.
+          Digestive health
+      • activation: Chant Om Agnaye Namah 108 times
+    4.
+      • yantra: Varuna Yantra
+      • purpose: Water element balance
+      • placement: West or North
+      • benefits:
+        1.
+          Emotional balance
+        2.
+          Creativity
+        3.
+          Flow
+      • activation: Chant Om Varunaya Namah 108 times
+    5.
+      • yantra: Vayu Yantra
+      • purpose: Air element balance
+      • placement: North-West
+      • benefits:
+        1.
+          Communication
+        2.
+          Movement
+        3.
+          Relationships
+      • activation: Chant Om Vayave Namah 108 times
+    6.
+      • yantra: Prithvi Yantra
+      • purpose: Earth element balance
+      • placement: South-West
+      • benefits:
+        1.
+          Stability
+        2.
+          Grounding
+        3.
+          Protection
+      • activation: Chant Om Prithviye Namah 108 times
+    7.
+      • yantra: Surya Yantra
+      • purpose: Solar energy
+      • placement: East
+      • benefits:
+        1.
+          Health
+        2.
+          Vitality
+        3.
+          Success
+      • activation: Chant Om Suryaya Namah 108 times
+    8.
+      • yantra: Brahma Yantra
+      • purpose: Cosmic energy
+      • placement: Center
+      • benefits:
+        1.
+          Universal harmony
+        2.
+          Balance
+        3.
+          Creation
+      • activation: Chant Om Brahmaya Namah 108 times
+  • vastu_colors:
+    1.
+      • direction: North
+      • lucky_colors:
+        1.
+          Blue
+        2.
+          Green
+        3.
+          Black
+        4.
+          White
+      • avoid_colors:
+        1.
+          Red
+        2.
+          Orange
+        3.
+          Brown
+    2.
+      • direction: South
+      • lucky_colors:
+        1.
+          Red
+        2.
+          Maroon
+        3.
+          Brown
+        4.
+          Orange
+      • avoid_colors:
+        1.
+          Blue
+        2.
+          Black
+        3.
+          Grey
+    3.
+      • direction: East
+      • lucky_colors:
+        1.
+          White
+        2.
+          Cream
+        3.
+          Yellow
+        4.
+          Light Blue
+      • avoid_colors:
+        1.
+          Dark Grey
+        2.
+          Black
+    4.
+      • direction: West
+      • lucky_colors:
+        1.
+          White
+        2.
+          Grey
+        3.
+          Silver
+        4.
+          Blue
+      • avoid_colors:
+        1.
+          Red
+        2.
+          Orange
+        3.
+          Dark Brown
+    5.
+      • direction: North-East
+      • lucky_colors:
+        1.
+          White
+        2.
+          Light Blue
+        3.
+          Silver
+        4.
+          Cream
+      • avoid_colors:
+        1.
+          Red
+        2.
+          Black
+        3.
+          Dark Colors
+    6.
+      • direction: North-West
+      • lucky_colors:
+        1.
+          White
+        2.
+          Grey
+        3.
+          Silver
+        4.
+          Light Blue
+      • avoid_colors:
+        1.
+          Red
+        2.
+          Dark Yellow
+    7.
+      • direction: South-East
+      • lucky_colors:
+        1.
+          Red
+        2.
+          Orange
+        3.
+          Yellow
+        4.
+          Pink
+      • avoid_colors:
+        1.
+          Black
+        2.
+          Blue
+        3.
+          Dark Grey
+    8.
+      • direction: South-West
+      • lucky_colors:
+        1.
+          Brown
+        2.
+          Beige
+        3.
+          Tan
+        4.
+          Maroon
+      • avoid_colors:
+        1.
+          Blue
+        2.
+          White
+        3.
+          Light Colors
+    9.
+      • direction: Center
+      • lucky_colors:
+        1.
+          White
+        2.
+          Light Yellow
+        3.
+          Cream
+      • avoid_colors:
+        1.
+          Black
+        2.
+          Dark Colors
+        3.
+          Too Bright Colors
+  • vastu_elements_balance:
+    TABLE (5 rows)
+    element | direction | color | shape | remedy_to_strengthen | remedy_to_weaken
+    -----------------------------------------------------------------------------
+    Earth (Prithvi) | South-West | Brown, Yellow | Square | Use heavy furniture, earthen pots, crystals | Use light furniture, avoid clutter
+    Water (Jal) | North-East | Blue, Black | Wavy | Use water features, blue colors, mirrors | Avoid water, use fire elements
+    Fire (Agni) | South-East | Red, Orange | Triangle | Use lighting, red colors, electrical items | Use water elements, avoid heat
+    Air (Vayu) | North-West | White, Grey | Circle | Use wind chimes, open windows, light colors | Use heavy furniture, close windows
+    Space (Akash) | Center | White, Transparent | All shapes | Keep open, use skylight, light colors | Heavy construction, clutter, dark colors
+  • daily_vastu_practices:
+    1.
+      Open all windows in morning for fresh air
+    2.
+      Light diya or incense in pooja room
+    3.
+      Keep north-east clean and clutter-free
+    4.
+      Water Tulsi plant daily
+    5.
+      Keep kitchen clean after every meal
+    6.
+      Close bathroom doors when not in use
+    7.
+      Repair any leaks immediately
+    8.
+      Keep main entrance clean
+    9.
+      Avoid clutter in any direction
+    10.
+      Use salt water for mopping weekly
+    11.
+      Place fresh flowers in living room
+    12.
+      Keep money plant in north
+    13.
+      Avoid sleeping with head facing north
+    14.
+      Keep center of house open
+    15.
+      Use pleasant fragrance in home
+  • seasonal_vastu_adjustments:
+    1.
+      • season: Summer (Grishma)
+      • adjustments:
+        1.
+          Use light colors in living areas
+        2.
+          Keep water elements in northeast
+        3.
+          Ensure proper ventilation
+        4.
+          Use cotton fabrics
+        5.
+          Keep cool colors in bedroom
+    2.
+      • season: Monsoon (Varsha)
+      • adjustments:
+        1.
+          Check for leaks
+        2.
+          Keep home dry
+        3.
+          Use dehumidifier
+        4.
+          Ensure proper drainage
+        5.
+          Use bright colors to counter gloom
+    3.
+      • season: Winter (Shishir)
+      • adjustments:
+        1.
+          Use warm colors
+        2.
+          Keep south-facing windows open for sun
+        3.
+          Use warm lighting
+        4.
+          Place heaters in southeast
+        5.
+          Use heavy curtains
+    4.
+      • season: Spring (Vasant)
+      • adjustments:
+        1.
+          Open all windows for fresh air
+        2.
+          Deep clean entire house
+        3.
+          Place fresh flowers
+        4.
+          Use light colors
+        5.
+          Rearrange furniture for positive energy
+  • conclusion:
+    • summary: Vastu Shastra is an ancient Indian science of architecture that harmonizes the five elements (Earth, Water, Fire, Air, Space) with cosmic energies. Proper Vastu alignment ensures health, wealth, happiness, and spiritual growth.
+    • key_principles:
+      1.
+        North-East is the most sacred zone (water element)
+      2.
+        South-West is the most stable zone (earth element)
+      3.
+        South-East is for fire activities (kitchen)
+      4.
+        North-West is for air and movement
+      5.
+        Center (Brahmasthan) should always be open
+      6.
+        Main entrance should be in positive directions
+      7.
+        Heavy items should be in south and west
+      8.
+        Light items should be in north and east
+      9.
+        Cleanliness is essential for positive energy
+      10.
+        Regular remedies enhance Vastu benefits
+    • disclaimer: This guide is based on traditional Vastu Shastra principles. Modern practical considerations should also be taken into account. For severe Vastu doshas, consult an experienced Vastu expert.

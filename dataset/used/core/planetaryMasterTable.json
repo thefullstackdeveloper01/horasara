@@ -1,0 +1,24 @@
+{
+  "TRUE_GRAHAS": [
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn"
+  ],
+  "ECLIPSE_APPLICABLE": [
+    "Sun",
+    "Moon"
+  ],
+  "CLASSICAL_GRAHAS": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn",
+    "Rahu",
+    "Ketu"
+  ]
+}

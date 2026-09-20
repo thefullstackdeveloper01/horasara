@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "427__validation_v8_rule_coverage_discovery_json",
+    "name": "validation_v8_rule-coverage-discovery",
+    "original_file": "validation/v8/rule-coverage-discovery.json",
+    "dataset_number": "427 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v8_rule-coverage-discovery.txt",
+    "source_sha256": "223468e6c8d3a42fff87c691b1bb4596af73f685a26a654a58e1623d46a73fd8",
+    "source_bytes": 482
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "8.0.0",
+      "jsonFiles": 361,
+      "ruleLikeDatasets": 156,
+      "generatedAt": "2026-09-17T15:25:45.441Z"
+    }
+  }
+}

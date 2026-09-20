@@ -1,0 +1,22 @@
+[
+  {
+    "id": "house_001",
+    "name": "Lagna / First House",
+    "name_hindi": "Tanu Bhava",
+    "significator_kaarak": "Sun",
+    "primary_topics": ["Self", "Physical Body", "Personality", "Head"],
+    "secondary_topics": ["Childhood", "Vitality", "General Well-being"],
+    "prediction_logic": "The condition of the 1st house and its lord dictates the overall trajectory of the native's life and health.",
+    "associated_body_part": "Head"
+  },
+  {
+    "id": "house_007",
+    "name": "Seventh House",
+    "name_hindi": "Yuvati Bhava",
+    "significator_kaarak": "Venus",
+    "primary_topics": ["Marriage", "Business Partnerships", "Spouse"],
+    "secondary_topics": ["Foreign Travel", "Public Image", "Reproductive Organs"],
+    "prediction_logic": "Afflictions to this house or its lord by Mars (Manglik), Sun, or Rahu cause marital discord.",
+    "associated_body_part": "Lower Abdomen / Pelvis"
+  }
+]

@@ -1,0 +1,26 @@
+READABLE DATASET
+================================================================================
+Original file: ishta_devata_mapping.json
+Dataset number: 137 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 5,186 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• _meta:
+  • status: TRADITIONAL_REFERENCE_DATASET_EXPANDED
+  • methodology: Atmakaraka-planet method (one of several classical approaches to Ishta Devata in Jaimini astrology; the more elaborate method also factors in the sign/lord of the 12th house counted from the Karakamsha Lagna). This dataset currently implements the simpler, widely-cited Atmakaraka-to-deity method only.
+  • verification: Expanded to 7 of 7 classical graha keys used by this application; entries remain traditional reference data and do not claim one universally accepted Ishta Devata lineage method.
+• mappings:
+  TABLE (7 rows)
+  atmakarakaPlanet | deity | deitySanskrit | reasoning | traditionalPractice | confidence | source
+  ------------------------------------------------------------------------------------------------
+  Sun | Lord Vishnu (as Surya Narayana) | आदित्य नारायण | The Sun is classically regarded as Vishnu's own significator among the grahas; when the Sun is Atmakaraka the soul's chosen deity is traditionally taken as Vishnu in his solar aspect. | Recitation of the Aditya Hridayam stotra; Sunday sunrise worship facing east. | Moderate — single-method attribution, not cross-checked against the 12th-from-Karakamsha refinement | Sample entry — general classical Jaimini attribution list
+  Moon | Lord Shiva (as Chandrashekhara) | शिव (चन्द्रशेखर) | The Moon carries Shiva's crescent as an iconographic attribute in classical texts; when the Moon is Atmakaraka the soul's chosen deity is traditionally taken as Shiva. | Monday worship of a Shiva Linga with milk abhisheka; recitation of the Shiva Panchakshara mantra. | Moderate — single-method attribution, not cross-checked against the 12th-from-Karakamsha refinement | Sample entry — general classical Jaimini attribution list
+  Mars | Lord Subrahmanya / Kartikeya (also cited: Hanuman) | सुब्रह्मण्यम् | Mars is the significator of Kartikeya, commander of the divine forces; when Mars is Atmakaraka the soul's chosen deity is traditionally taken as Subrahmanya. | Tuesday worship of Kartikeya/Hanuman; recitation of the Skanda Shashti Kavacham or Hanuman Chalisa. | Moderate — two deities are cited in different regional traditions for this Atmakaraka; not resolved to one in this dataset | Sample entry — general classical Jaimini attribution list
+  Jupiter | Lord Vishnu (also cited: Dattatreya) | विष्णु / दत्तात्रेय | Jupiter is the significator of Guru/Dharma; when Jupiter is Atmakaraka the soul's chosen deity is traditionally taken as Vishnu in his preceptor aspect, or Dattatreya in some lineages. | Thursday worship; recitation of the Vishnu Sahasranama or Guru Stotram. | Moderate — two deities are cited in different regional traditions for this Atmakaraka; not resolved to one in this dataset | Sample entry — general classical Jaimini attribution list
+  Mercury | Lord Vishnu / Narayana | विष्णु / नारायण | Traditional graha-deity attribution lists associate Mercury with Vishnu/Narayana; lineage-specific Ishta Devata methods can differ. | Wednesday Vishnu worship or recitation of Vishnu Sahasranama. | Moderate — traditional attribution; Karakamsha refinement is still lineage-dependent | Traditional Navagraha deity attribution reference
+  Venus | Goddess Lakshmi | श्री लक्ष्मी | Venus is traditionally associated with beauty, prosperity and Shukra; Lakshmi is therefore a common deity attribution in Navagraha/Jaimini reference lists. | Friday Lakshmi worship and recitation of Sri Sukta or Lakshmi stotra. | Moderate — traditional attribution; regional lineage variation exists | Traditional Navagraha deity attribution reference
+  Saturn | Lord Hanuman / Shani Dev | हनुमान / शनिदेव | Saturn is traditionally linked with discipline, karma and hardship; Hanuman and Shani Dev are both found in remedial/deity traditions associated with Saturn. | Saturday Hanuman or Shani worship according to family/lineage practice. | Moderate — multiple traditional attributions exist | Traditional Navagraha deity attribution reference

@@ -1,0 +1,41 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Remedies-List.json
+Dataset number: 201 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 779 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: remedy_001
+  • affected_planet: Mars (Mangal)
+  • problem: Manglik Dosha, anger issues, marital discord, accidents.
+  • remedy_type: Donation (Daan)
+  • remedy_items:
+    1.
+      Red Masoor Dal
+    2.
+      Copper
+    3.
+      Red Cloth
+    4.
+      Jaggery
+  • best_day: Tuesday
+  • instructions: Donate the items to a Sweeper or a laborer before sunset on Tuesday.
+2.
+  • id: remedy_002
+  • affected_planet: Rahu
+  • problem: Illusion, sudden losses, addiction, snake bite fear.
+  • remedy_type: Feeding (Bhojan)
+  • remedy_items:
+    1.
+      Mustard Oil
+    2.
+      Black Sesame Seeds
+    3.
+      Leaves of Shami tree
+  • best_day: Saturday
+  • instructions: Offer mustard oil in a broken earthen pot at a crossroad or Peepal tree.

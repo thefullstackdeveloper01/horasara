@@ -1,0 +1,23 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Aarti-List.json
+Dataset number: 154 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 352 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: aarti_001
+  • name: Om Jai Jagdish Aarti
+  • deity: Lord Vishnu
+  • purpose: Evening prayer for universal peace and prosperity.
+  • instruments:
+    1.
+      Thali (Plate) with Diya
+    2.
+      Camphor
+  • preview_text: Om Jai Jagdish Hare, Swami Jai Jagdish Hare...
+  • recommended_timing: Sandhya (Evening)

@@ -1,0 +1,878 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "300__numerology_data_json",
+    "name": "numerology-data",
+    "original_file": "numerology-data.json",
+    "dataset_number": "300 of 455",
+    "format": "json",
+    "source_readable_file": "numerology-data.txt",
+    "source_sha256": "6c871f6f127ff6fe5f73ed85f79c758f20e5a1e89a307b612de1b6477122d018",
+    "source_bytes": 7185
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "mappings": {
+        "pythagorean": {
+          "A": 1,
+          "B": 2,
+          "C": 3,
+          "D": 4,
+          "E": 5,
+          "F": 6,
+          "G": 7,
+          "H": 8,
+          "I": 9,
+          "J": 1,
+          "K": 2,
+          "L": 3,
+          "M": 4,
+          "N": 5,
+          "O": 6,
+          "P": 7,
+          "Q": 8,
+          "R": 9,
+          "S": 1,
+          "T": 2,
+          "U": 3,
+          "V": 4,
+          "W": 5,
+          "X": 6,
+          "Y": 7,
+          "Z": 8
+        },
+        "cheiro": {
+          "A": 1,
+          "I": 1,
+          "J": 1,
+          "Q": 1,
+          "Y": 1,
+          "B": 2,
+          "K": 2,
+          "R": 2,
+          "C": 3,
+          "G": 3,
+          "L": 3,
+          "S": 3,
+          "D": 4,
+          "M": 4,
+          "T": 4,
+          "E": 5,
+          "H": 5,
+          "N": 5,
+          "X": 5,
+          "U": 6,
+          "V": 6,
+          "W": 6,
+          "F": 8,
+          "P": 8,
+          "O": 7,
+          "Z": 7
+        }
+      },
+      "constants": {
+        "vowels": {
+          "_items": [
+            {
+              "_text": [
+                "A"
+              ]
+            },
+            {
+              "_text": [
+                "E"
+              ]
+            },
+            {
+              "_text": [
+                "I"
+              ]
+            },
+            {
+              "_text": [
+                "O"
+              ]
+            },
+            {
+              "_text": [
+                "U"
+              ]
+            }
+          ]
+        },
+        "masterNumbers": {
+          "_items": [
+            {
+              "_text": [
+                "11"
+              ]
+            },
+            {
+              "_text": [
+                "22"
+              ]
+            },
+            {
+              "_text": [
+                "33"
+              ]
+            }
+          ]
+        }
+      },
+      "meanings": {
+        "1": {
+          "name": "The Leader",
+          "planet": "Sun",
+          "traits": "Independent, pioneering, ambitious, self-reliant. Born to lead. Strong ego and determination.",
+          "career": "Entrepreneur, executive, politician, military leader",
+          "challenge": "Avoid ego and stubbornness"
+        },
+        "2": {
+          "name": "The Diplomat",
+          "planet": "Moon",
+          "traits": "Cooperative, sensitive, intuitive, diplomatic. Excel at partnerships. Excellent mediator.",
+          "career": "Counsellor, teacher, musician, diplomat, healer",
+          "challenge": "Avoid over-sensitivity and indecision"
+        },
+        "3": {
+          "name": "The Communicator",
+          "planet": "Jupiter",
+          "traits": "Creative, expressive, joyful, social, artistic. Life of the party. Excellent communicator.",
+          "career": "Artist, writer, actor, teacher, comedian",
+          "challenge": "Avoid scattered energy and superficiality"
+        },
+        "4": {
+          "name": "The Builder",
+          "planet": "Rahu",
+          "traits": "Practical, disciplined, methodical, stable. The most reliable of all numbers.",
+          "career": "Engineer, architect, accountant, manager",
+          "challenge": "Avoid rigidity and workaholism"
+        },
+        "5": {
+          "name": "The Adventurer",
+          "planet": "Mercury",
+          "traits": "Freedom-loving, versatile, quick-thinking, adaptable. Craves variety and change.",
+          "career": "Journalist, sales, travel, marketing, entrepreneur",
+          "challenge": "Avoid restlessness and excess"
+        },
+        "6": {
+          "name": "The Nurturer",
+          "planet": "Venus",
+          "traits": "Loving, responsible, family-oriented, harmonious. Natural caretaker. Community pillar.",
+          "career": "Doctor, nurse, teacher, artist, home decorator",
+          "challenge": "Avoid perfectionism and martyrdom"
+        },
+        "7": {
+          "name": "The Seeker",
+          "planet": "Ketu",
+          "traits": "Analytical, spiritual, wise, introspective, mysterious. Deep thinker and researcher.",
+          "career": "Scientist, researcher, philosopher, analyst, mystic",
+          "challenge": "Avoid isolation and skepticism"
+        },
+        "8": {
+          "name": "The Achiever",
+          "planet": "Saturn",
+          "traits": "Ambitious, powerful, practical, executive. Best at managing money and large organizations.",
+          "career": "Business executive, banker, judge, politician",
+          "challenge": "Avoid materialism and ruthlessness"
+        },
+        "9": {
+          "name": "The Humanitarian",
+          "planet": "Mars",
+          "traits": "Compassionate, generous, idealistic, courageous. Global citizen. Natural healer and teacher.",
+          "career": "Doctor, humanitarian, artist, teacher, spiritual leader",
+          "challenge": "Avoid martyrdom and emotional drama"
+        },
+        "11": {
+          "name": "The Visionary",
+          "planet": "Moon",
+          "traits": "Master number. Intuitive genius, spiritual messenger, inspirational leader.",
+          "career": "Spiritual teacher, inventor, healer, artist",
+          "challenge": "Must live up to high vibration, avoid nervous anxiety"
+        },
+        "22": {
+          "name": "The Master Builder",
+          "planet": "Rahu",
+          "traits": "Master number. Combines 4 practicality with 11 vision. Greatest potential of all numbers.",
+          "career": "Large organization builder, political leader, architect",
+          "challenge": "Immense pressure to deliver on massive visions"
+        },
+        "33": {
+          "name": "The Master Teacher",
+          "planet": "Jupiter",
+          "traits": "Master number. Amplifies 6 themes of care, teaching, compassion, and service; 33 reduces to 6.",
+          "career": "Spiritual teacher, healer, humanitarian",
+          "challenge": "Must sacrifice personal desires for higher good"
+        }
+      },
+      "lpPlanetMap": {
+        "1": "Sun",
+        "2": "Moon",
+        "3": "Jupiter",
+        "4": "Rahu",
+        "5": "Mercury",
+        "6": "Venus",
+        "7": "Ketu",
+        "8": "Saturn",
+        "9": "Mars",
+        "11": "Moon",
+        "22": "Rahu",
+        "33": "Jupiter"
+      },
+      "cheiroDescription": "Cheiro/Vedic system — different letter mapping than Pythagorean",
+      "nakshatraSyllables": {
+        "Ashwini": {
+          "_items": [
+            {
+              "_text": [
+                "Chu"
+              ]
+            },
+            {
+              "_text": [
+                "Che"
+              ]
+            },
+            {
+              "_text": [
+                "Cho"
+              ]
+            },
+            {
+              "_text": [
+                "La"
+              ]
+            }
+          ]
+        },
+        "Bharani": {
+          "_items": [
+            {
+              "_text": [
+                "Lee"
+              ]
+            },
+            {
+              "_text": [
+                "Lu"
+              ]
+            },
+            {
+              "_text": [
+                "Le"
+              ]
+            },
+            {
+              "_text": [
+                "Lo"
+              ]
+            }
+          ]
+        },
+        "Krittika": {
+          "_items": [
+            {
+              "_text": [
+                "A"
+              ]
+            },
+            {
+              "_text": [
+                "I"
+              ]
+            },
+            {
+              "_text": [
+                "U"
+              ]
+            },
+            {
+              "_text": [
+                "E"
+              ]
+            }
+          ]
+        },
+        "Rohini": {
+          "_items": [
+            {
+              "_text": [
+                "O"
+              ]
+            },
+            {
+              "_text": [
+                "Va"
+              ]
+            },
+            {
+              "_text": [
+                "Vi"
+              ]
+            },
+            {
+              "_text": [
+                "Vu"
+              ]
+            }
+          ]
+        },
+        "Mrigashira": {
+          "_items": [
+            {
+              "_text": [
+                "Ve"
+              ]
+            },
+            {
+              "_text": [
+                "Vo"
+              ]
+            },
+            {
+              "_text": [
+                "Ka"
+              ]
+            },
+            {
+              "_text": [
+                "Ki"
+              ]
+            }
+          ]
+        },
+        "Ardra": {
+          "_items": [
+            {
+              "_text": [
+                "Ku"
+              ]
+            },
+            {
+              "_text": [
+                "Gha"
+              ]
+            },
+            {
+              "_text": [
+                "Da"
+              ]
+            },
+            {
+              "_text": [
+                "Chha"
+              ]
+            }
+          ]
+        },
+        "Punarvasu": {
+          "_items": [
+            {
+              "_text": [
+                "Ke"
+              ]
+            },
+            {
+              "_text": [
+                "Ko"
+              ]
+            },
+            {
+              "_text": [
+                "Ha"
+              ]
+            },
+            {
+              "_text": [
+                "Hi"
+              ]
+            }
+          ]
+        },
+        "Pushya": {
+          "_items": [
+            {
+              "_text": [
+                "Hu"
+              ]
+            },
+            {
+              "_text": [
+                "He"
+              ]
+            },
+            {
+              "_text": [
+                "Ho"
+              ]
+            },
+            {
+              "_text": [
+                "Da"
+              ]
+            }
+          ]
+        },
+        "Ashlesha": {
+          "_items": [
+            {
+              "_text": [
+                "Di"
+              ]
+            },
+            {
+              "_text": [
+                "Du"
+              ]
+            },
+            {
+              "_text": [
+                "De"
+              ]
+            },
+            {
+              "_text": [
+                "Do"
+              ]
+            }
+          ]
+        },
+        "Magha": {
+          "_items": [
+            {
+              "_text": [
+                "Ma"
+              ]
+            },
+            {
+              "_text": [
+                "Mi"
+              ]
+            },
+            {
+              "_text": [
+                "Mu"
+              ]
+            },
+            {
+              "_text": [
+                "Me"
+              ]
+            }
+          ]
+        },
+        "Purva Phalguni": {
+          "_items": [
+            {
+              "_text": [
+                "Mo"
+              ]
+            },
+            {
+              "_text": [
+                "Ta"
+              ]
+            },
+            {
+              "_text": [
+                "Ti"
+              ]
+            },
+            {
+              "_text": [
+                "Tu"
+              ]
+            }
+          ]
+        },
+        "Uttara Phalguni": {
+          "_items": [
+            {
+              "_text": [
+                "Te"
+              ]
+            },
+            {
+              "_text": [
+                "To"
+              ]
+            },
+            {
+              "_text": [
+                "Pa"
+              ]
+            },
+            {
+              "_text": [
+                "Pi"
+              ]
+            }
+          ]
+        },
+        "Hasta": {
+          "_items": [
+            {
+              "_text": [
+                "Pu"
+              ]
+            },
+            {
+              "_text": [
+                "Sha"
+              ]
+            },
+            {
+              "_text": [
+                "Na"
+              ]
+            },
+            {
+              "_text": [
+                "Tha"
+              ]
+            }
+          ]
+        },
+        "Chitra": {
+          "_items": [
+            {
+              "_text": [
+                "Pe"
+              ]
+            },
+            {
+              "_text": [
+                "Po"
+              ]
+            },
+            {
+              "_text": [
+                "Ra"
+              ]
+            },
+            {
+              "_text": [
+                "Ri"
+              ]
+            }
+          ]
+        },
+        "Swati": {
+          "_items": [
+            {
+              "_text": [
+                "Ru"
+              ]
+            },
+            {
+              "_text": [
+                "Re"
+              ]
+            },
+            {
+              "_text": [
+                "Ro"
+              ]
+            },
+            {
+              "_text": [
+                "Ta"
+              ]
+            }
+          ]
+        },
+        "Vishakha": {
+          "_items": [
+            {
+              "_text": [
+                "Ti"
+              ]
+            },
+            {
+              "_text": [
+                "Tu"
+              ]
+            },
+            {
+              "_text": [
+                "Te"
+              ]
+            },
+            {
+              "_text": [
+                "To"
+              ]
+            }
+          ]
+        },
+        "Anuradha": {
+          "_items": [
+            {
+              "_text": [
+                "Na"
+              ]
+            },
+            {
+              "_text": [
+                "Ni"
+              ]
+            },
+            {
+              "_text": [
+                "Nu"
+              ]
+            },
+            {
+              "_text": [
+                "Ne"
+              ]
+            }
+          ]
+        },
+        "Jyeshtha": {
+          "_items": [
+            {
+              "_text": [
+                "No"
+              ]
+            },
+            {
+              "_text": [
+                "Ya"
+              ]
+            },
+            {
+              "_text": [
+                "Yi"
+              ]
+            },
+            {
+              "_text": [
+                "Yu"
+              ]
+            }
+          ]
+        },
+        "Mula": {
+          "_items": [
+            {
+              "_text": [
+                "Ye"
+              ]
+            },
+            {
+              "_text": [
+                "Yo"
+              ]
+            },
+            {
+              "_text": [
+                "Bha"
+              ]
+            },
+            {
+              "_text": [
+                "Bhi"
+              ]
+            }
+          ]
+        },
+        "Purva Ashadha": {
+          "_items": [
+            {
+              "_text": [
+                "Bhu"
+              ]
+            },
+            {
+              "_text": [
+                "Dha"
+              ]
+            },
+            {
+              "_text": [
+                "Pha"
+              ]
+            },
+            {
+              "_text": [
+                "Dha"
+              ]
+            }
+          ]
+        },
+        "Uttara Ashadha": {
+          "_items": [
+            {
+              "_text": [
+                "Bhe"
+              ]
+            },
+            {
+              "_text": [
+                "Bho"
+              ]
+            },
+            {
+              "_text": [
+                "Ja"
+              ]
+            },
+            {
+              "_text": [
+                "Ji"
+              ]
+            }
+          ]
+        },
+        "Shravana": {
+          "_items": [
+            {
+              "_text": [
+                "Ju"
+              ]
+            },
+            {
+              "_text": [
+                "Je"
+              ]
+            },
+            {
+              "_text": [
+                "Jo"
+              ]
+            },
+            {
+              "_text": [
+                "Gha"
+              ]
+            }
+          ]
+        },
+        "Dhanishtha": {
+          "_items": [
+            {
+              "_text": [
+                "Ga"
+              ]
+            },
+            {
+              "_text": [
+                "Gi"
+              ]
+            },
+            {
+              "_text": [
+                "Gu"
+              ]
+            },
+            {
+              "_text": [
+                "Ge"
+              ]
+            }
+          ]
+        },
+        "Shatabhisha": {
+          "_items": [
+            {
+              "_text": [
+                "Go"
+              ]
+            },
+            {
+              "_text": [
+                "Sa"
+              ]
+            },
+            {
+              "_text": [
+                "Si"
+              ]
+            },
+            {
+              "_text": [
+                "Su"
+              ]
+            }
+          ]
+        },
+        "Purva Bhadrapada": {
+          "_items": [
+            {
+              "_text": [
+                "Se"
+              ]
+            },
+            {
+              "_text": [
+                "So"
+              ]
+            },
+            {
+              "_text": [
+                "Da"
+              ]
+            },
+            {
+              "_text": [
+                "Di"
+              ]
+            }
+          ]
+        },
+        "Uttara Bhadrapada": {
+          "_items": [
+            {
+              "_text": [
+                "Du"
+              ]
+            },
+            {
+              "_text": [
+                "Tha"
+              ]
+            },
+            {
+              "_text": [
+                "Jha"
+              ]
+            },
+            {
+              "_text": [
+                "Da"
+              ]
+            }
+          ]
+        },
+        "Revati": {
+          "_items": [
+            {
+              "_text": [
+                "De"
+              ]
+            },
+            {
+              "_text": [
+                "Do"
+              ]
+            },
+            {
+              "_text": [
+                "Cha"
+              ]
+            },
+            {
+              "_text": [
+                "Chi"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

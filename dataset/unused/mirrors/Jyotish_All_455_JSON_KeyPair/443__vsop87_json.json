@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "443__vsop87_json",
+    "name": "vsop87",
+    "original_file": "vsop87.json",
+    "dataset_number": "443 of 455",
+    "format": "json",
+    "source_readable_file": "vsop87.txt",
+    "source_sha256": "eaa87701feafe7ca2dc13e0d74a8d98d9acdbe4f60265944809b78fa3fb74a52",
+    "source_bytes": 385
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "LIGHT_TIME_DAYS_PER_AU": 0.0057755183
+    }
+  }
+}

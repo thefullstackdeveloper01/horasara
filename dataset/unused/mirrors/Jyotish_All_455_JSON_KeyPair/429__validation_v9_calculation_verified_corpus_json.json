@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "429__validation_v9_calculation_verified_corpus_json",
+    "name": "validation_v9_calculation_verified-corpus",
+    "original_file": "validation/v9/calculation/verified-corpus.json",
+    "dataset_number": "429 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v9_calculation_verified-corpus.txt",
+    "source_sha256": "6b2fd51103f08d6f3c2f543cddc6507fd54c1f3d8dfbb4ab202936b056b9ae9d",
+    "source_bytes": 735
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "9.0.0",
+      "status": "verified-import-ready",
+      "source_policy": "Only independently verified reference records may be added.",
+      "records": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "note": "V9 does not fabricate reference values. Existing 1000-epoch Swiss Ephemeris golden fixture is retained in test/fixtures/ephemeris-golden.json and is exercised by the V9 benchmark test."
+    }
+  }
+}

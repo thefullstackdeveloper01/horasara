@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "209__jadi_herbs_json",
+    "name": "jadi_herbs",
+    "original_file": "jadi_herbs.json",
+    "dataset_number": "139 of 455",
+    "format": "json",
+    "source_readable_file": "jadi_herbs.txt",
+    "source_sha256": "2d3c0bd3a6b1dfb96b84a682ae169047c29cadad6738bfe9403a8f0eaa02f92b",
+    "source_bytes": 5966
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "planet": "Sun",
+        "jadi": "Aditya Mool (Calotropis / Aakda root)",
+        "purpose": "Traditionally worn to support solar (Sun) strength — vitality, authority, father/government-related matters.",
+        "traditionalUsage": "Root is cleaned, tied in red thread, and worn as an armband/pendant, or kept in the puja area.",
+        "wearingMethod": "Worn on Sunday morning after ritual purification, ideally on the right upper arm.",
+        "precautions": "Traditional folk remedy only — not a medical treatment; discontinue if any skin irritation occurs; consult a qualified practitioner before use.",
+        "confidence": "Low-Moderate — folk-astrology attribution, regional variation exists",
+        "source": "Sample entry — commonly-cited Navagraha Jadi practice"
+      },
+      {
+        "planet": "Moon",
+        "jadi": "Brahmi/Shankhpushpi root",
+        "purpose": "Traditionally used to support Moon (mind, emotional steadiness, mother-related matters).",
+        "traditionalUsage": "Root worn as a pendant or kept under the pillow; also used in classical Ayurveda as a nervine herb (distinct claim from the astrological one).",
+        "wearingMethod": "Worn or placed on Monday, ideally during the waxing lunar fortnight (Shukla Paksha).",
+        "precautions": "Traditional folk remedy only — not a medical treatment; the Ayurvedic herbal use of Brahmi is a separate, evidence-different claim and should not be conflated with the astrological practice.",
+        "confidence": "Low-Moderate — folk-astrology attribution, regional variation exists",
+        "source": "Sample entry — commonly-cited Navagraha Jadi practice"
+      },
+      {
+        "planet": "Mars",
+        "jadi": "Anantmool (Indian Sarsaparilla root)",
+        "purpose": "Traditionally used to support Mars (courage, energy, sibling/property matters) and to pacify Mangal Dosha effects.",
+        "traditionalUsage": "Root tied in red thread and worn as an armband; sometimes kept in a copper box.",
+        "wearingMethod": "Worn on Tuesday morning after ritual purification.",
+        "precautions": "Traditional folk remedy only — not a medical treatment; consult a qualified practitioner before use.",
+        "confidence": "Low-Moderate — folk-astrology attribution, regional variation exists",
+        "source": "Sample entry — commonly-cited Navagraha Jadi practice"
+      },
+      {
+        "planet": "Saturn",
+        "jadi": "Brahma Kamal root",
+        "purpose": "Traditionally used to support Saturn (discipline, longevity, delays) and to ease Sade Sati-related difficulty.",
+        "traditionalUsage": "Root worn as a pendant in black thread, or kept in the place of worship.",
+        "wearingMethod": "Worn on Saturday, ideally at dusk.",
+        "precautions": "Traditional folk remedy only — not a medical treatment; consult a qualified practitioner before use.",
+        "confidence": "Low-Moderate — folk-astrology attribution, regional variation exists",
+        "source": "Sample entry — commonly-cited Navagraha Jadi practice"
+      },
+      {
+        "planet": "Mercury",
+        "jadi": "Vidhara root",
+        "purpose": "Traditional folk attribution for Mercury themes such as learning, communication and trade.",
+        "traditionalUsage": "Kept or worn according to local Navagraha Jadi practice.",
+        "wearingMethod": "Traditionally associated with Wednesday; exact practice varies by lineage.",
+        "precautions": "Traditional folk remedy only — not a medical treatment; botanical identification and practitioner guidance are essential.",
+        "confidence": "Low — regional folk-astrology attribution varies",
+        "source": "Traditional Navagraha Jadi reference; requires lineage-level verification"
+      },
+      {
+        "planet": "Jupiter",
+        "jadi": "Banana root",
+        "purpose": "Traditional folk attribution for Jupiter themes such as wisdom, teachers and prosperity.",
+        "traditionalUsage": "Kept or worn according to local Navagraha Jadi practice.",
+        "wearingMethod": "Traditionally associated with Thursday; exact practice varies by lineage.",
+        "precautions": "Traditional folk remedy only — not a medical treatment; do not ingest unidentified plant material.",
+        "confidence": "Low — regional folk-astrology attribution varies",
+        "source": "Traditional Navagraha Jadi reference; requires lineage-level verification"
+      },
+      {
+        "planet": "Venus",
+        "jadi": "Arka/Jasmine-root traditions",
+        "purpose": "Traditional folk attribution for Venus themes such as harmony, beauty and relationships.",
+        "traditionalUsage": "Use only according to a qualified traditional practitioner because regional botanical mappings differ.",
+        "wearingMethod": "Traditionally associated with Friday; exact practice varies by lineage.",
+        "precautions": "Traditional folk remedy only — not a medical treatment; botanical identification and safety review are required.",
+        "confidence": "Low — regional mappings differ; retained as a reference family rather than a single botanical prescription",
+        "source": "Traditional Navagraha Jadi reference; requires lineage-level verification"
+      },
+      {
+        "planet": "Rahu",
+        "jadi": "Durva/grass-root traditions",
+        "purpose": "Traditional folk attribution for Rahu-related pacification practices.",
+        "traditionalUsage": "Used in some regional ritual traditions rather than as a medical herb.",
+        "wearingMethod": "Practice varies by lineage; ritual use is preferred over ingestion.",
+        "precautions": "Traditional ritual/folk practice only — not a medical treatment.",
+        "confidence": "Low — regional tradition varies substantially",
+        "source": "Traditional Navagraha remedy reference; requires lineage-level verification"
+      },
+      {
+        "planet": "Ketu",
+        "jadi": "Ashwagandha-root traditions",
+        "purpose": "Traditional folk attribution for Ketu-related grounding and spiritual practice.",
+        "traditionalUsage": "Some traditions use root-based ritual remedies; medical herbal use is a separate question.",
+        "wearingMethod": "Practice varies by lineage; do not ingest solely on astrological advice.",
+        "precautions": "Traditional folk remedy only — not a medical treatment; consult a qualified healthcare professional before herbal use.",
+        "confidence": "Low — regional tradition varies",
+        "source": "Traditional Navagraha remedy reference; requires lineage-level verification"
+      }
+    ]
+  }
+}

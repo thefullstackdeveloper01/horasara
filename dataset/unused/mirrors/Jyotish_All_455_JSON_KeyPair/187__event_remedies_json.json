@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "187__event_remedies_json",
+    "name": "event-remedies",
+    "original_file": "event-remedies.json",
+    "dataset_number": "117 of 455",
+    "format": "json",
+    "source_readable_file": "event-remedies.txt",
+    "source_sha256": "f7e602f6ab056be7d0414fc34230c6c9e7e9aa7a79027da628a6a071c3a5537a",
+    "source_bytes": 2183
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "marriage": {
+        "planets": {
+          "_items": [
+            {
+              "_text": [
+                "Venus"
+              ]
+            },
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            }
+          ]
+        },
+        "practices": {
+          "_items": [
+            {
+              "_text": [
+                "Relationship harmony / Shukra-Jupiter japa according to lineage"
+              ]
+            },
+            {
+              "_text": [
+                "Charity or seva aligned with the selected benefic planet"
+              ]
+            }
+          ]
+        },
+        "avoid": {
+          "_items": [
+            {
+              "_text": [
+                "Do not prescribe gemstones solely from an event window"
+              ]
+            }
+          ]
+        }
+      },
+      "career": {
+        "planets": {
+          "_items": [
+            {
+              "_text": [
+                "Sun"
+              ]
+            },
+            {
+              "_text": [
+                "Mercury"
+              ]
+            },
+            {
+              "_text": [
+                "Saturn"
+              ]
+            },
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            }
+          ]
+        },
+        "practices": {
+          "_items": [
+            {
+              "_text": [
+                "Career-focused Surya/Mercury/Saturn/Jupiter practice according to chart strength"
+              ]
+            },
+            {
+              "_text": [
+                "Skill-building and disciplined action during the evidence window"
+              ]
+            }
+          ]
+        },
+        "avoid": {
+          "_items": [
+            {
+              "_text": [
+                "No guaranteed promotion claim"
+              ]
+            }
+          ]
+        }
+      },
+      "wealth": {
+        "planets": {
+          "_items": [
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            },
+            {
+              "_text": [
+                "Venus"
+              ]
+            },
+            {
+              "_text": [
+                "Mercury"
+              ]
+            }
+          ]
+        },
+        "practices": {
+          "_items": [
+            {
+              "_text": [
+                "Daan/japa for the activated benefic according to lineage"
+              ]
+            },
+            {
+              "_text": [
+                "Budgeting and conservative financial planning"
+              ]
+            }
+          ]
+        },
+        "avoid": {
+          "_items": [
+            {
+              "_text": [
+                "No financial guarantee"
+              ]
+            }
+          ]
+        }
+      },
+      "property": {
+        "planets": {
+          "_items": [
+            {
+              "_text": [
+                "Mars"
+              ]
+            },
+            {
+              "_text": [
+                "Moon"
+              ]
+            },
+            {
+              "_text": [
+                "Venus"
+              ]
+            },
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            }
+          ]
+        },
+        "practices": {
+          "_items": [
+            {
+              "_text": [
+                "Traditional house/property puja or mantra"
+              ]
+            },
+            {
+              "_text": [
+                "Document and title due diligence"
+              ]
+            }
+          ]
+        },
+        "avoid": {
+          "_items": [
+            {
+              "_text": [
+                "No purchase decision based on astrology alone"
+              ]
+            }
+          ]
+        }
+      },
+      "health": {
+        "planets": {
+          "_items": [
+            {
+              "_text": [
+                "Sun"
+              ]
+            },
+            {
+              "_text": [
+                "Moon"
+              ]
+            },
+            {
+              "_text": [
+                "Saturn"
+              ]
+            },
+            {
+              "_text": [
+                "Mars"
+              ]
+            }
+          ]
+        },
+        "practices": {
+          "_items": [
+            {
+              "_text": [
+                "Traditional prayer/japa only as spiritual support"
+              ]
+            },
+            {
+              "_text": [
+                "Use qualified medical care for symptoms"
+              ]
+            }
+          ]
+        },
+        "avoid": {
+          "_items": [
+            {
+              "_text": [
+                "Astrology is not diagnosis or treatment"
+              ]
+            }
+          ]
+        }
+      },
+      "foreign": {
+        "planets": {
+          "_items": [
+            {
+              "_text": [
+                "Rahu"
+              ]
+            },
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            },
+            {
+              "_text": [
+                "Saturn"
+              ]
+            },
+            {
+              "_text": [
+                "Mercury"
+              ]
+            }
+          ]
+        },
+        "practices": {
+          "_items": [
+            {
+              "_text": [
+                "Traditional Rahu/Jupiter/Saturn/Mercury practice"
+              ]
+            },
+            {
+              "_text": [
+                "Passport/visa/logistics verification"
+              ]
+            }
+          ]
+        },
+        "avoid": {
+          "_items": [
+            {
+              "_text": [
+                "No migration guarantee"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

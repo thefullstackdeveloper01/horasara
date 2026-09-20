@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "046__json_files_planet_dignity_list_json",
+    "name": "JSON_Files_Planet-Dignity-List",
+    "original_file": "JSON_Files/Planet-Dignity-List.json",
+    "dataset_number": "194 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Planet-Dignity-List.txt",
+    "source_sha256": "fd338ce96f250dcdafd5e5b8dab967e74f41b03f88c0d7445467fcda1094efca",
+    "source_bytes": 845
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "planet": "Sun",
+          "exaltation": {
+            "sign": "Aries",
+            "degree": 10
+          },
+          "debilitation": {
+            "sign": "Libra",
+            "degree": 10
+          },
+          "own_sign": {
+            "_items": [
+              {
+                "_text": [
+                  "Leo"
+                ]
+              }
+            ]
+          },
+          "mooltrikona": {
+            "sign": "Leo",
+            "start_degree": 0,
+            "end_degree": 20
+          },
+          "friendly_signs": {
+            "_items": [
+              {
+                "_text": [
+                  "Aries"
+                ]
+              },
+              {
+                "_text": [
+                  "Leo"
+                ]
+              },
+              {
+                "_text": [
+                  "Scorpio"
+                ]
+              },
+              {
+                "_text": [
+                  "Sagittarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Pisces"
+                ]
+              }
+            ]
+          },
+          "enemy_signs": {
+            "_items": [
+              {
+                "_text": [
+                  "Taurus"
+                ]
+              },
+              {
+                "_text": [
+                  "Virgo"
+                ]
+              },
+              {
+                "_text": [
+                  "Capricorn"
+                ]
+              },
+              {
+                "_text": [
+                  "Aquarius"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

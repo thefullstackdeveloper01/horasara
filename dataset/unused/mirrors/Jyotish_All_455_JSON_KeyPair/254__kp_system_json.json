@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "254__kp_system_json",
+    "name": "kp_system",
+    "original_file": "kp_system.json",
+    "dataset_number": "253 of 455",
+    "format": "json",
+    "source_readable_file": "kp_system.txt",
+    "source_sha256": "69a3d57821df4dee80ab2f263fc3939907c10d9d4b6dd67c6033e71d8101fe78",
+    "source_bytes": 5405
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "TOTAL_DASHA_YEARS": 120,
+      "DASHA_SYSTEM": "Vimshottari",
+      "DASHA_SEQUENCE": {
+        "_items": [
+          {
+            "_text": [
+              "Ketu"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          }
+        ]
+      },
+      "DASHA_YEARS": {
+        "Ketu": 7,
+        "Venus": 20,
+        "Sun": 6,
+        "Moon": 10,
+        "Mars": 7,
+        "Rahu": 18,
+        "Jupiter": 16,
+        "Saturn": 19,
+        "Mercury": 17
+      },
+      "DASHA_LEVELS": {
+        "_items": [
+          {
+            "_text": [
+              "Mahadasha"
+            ]
+          },
+          {
+            "_text": [
+              "Antardasha (Bhukti)"
+            ]
+          },
+          {
+            "_text": [
+              "Pratyantardasha"
+            ]
+          },
+          {
+            "_text": [
+              "Sookshma"
+            ]
+          },
+          {
+            "_text": [
+              "Prana"
+            ]
+          }
+        ]
+      },
+      "KP_AYANAMSA": {
+        "Name": "KP Ayanamsa",
+        "Description": "The KP Ayanamsa is slightly different from Lahiri Ayanamsa. It is calculated based on the exact time of the transit of the Vernal Equinox, ensuring that the Navamsa boundaries align perfectly with the Nakshatra divisions.",
+        "Base_Reference": "In KP, the Ayanamsa is computed such that the 1st Navamsa of Ashwini starts at 0 degrees Aries."
+      },
+      "HOUSE_SYSTEM": {
+        "Type": "Placidus",
+        "Importance": "KP strictly uses the Placidus house division system to determine the exact cusp degrees. The exact degree of the cusp determines its Star Lord and Sub Lord."
+      },
+      "CORE_PRINCIPLES": {
+        "Significators": "A planet signifies the houses it occupies, the houses it owns, and primarily the houses signified by its Star Lord (Nakshatra Lord).",
+        "Sub_Lord_Theory": "The Sub Lord is the primary deciding factor for whether an event will be favorable, unfavorable, or neutral. It can modify or negate the results indicated by the Planet and Star Lord.",
+        "Cuspal_Sub_Lord": "The Sub Lord of the cusp of a house dictates the matters of that house. If the Cuspal Sub Lord is the significator of the favorable houses for an event, the event is promised."
+      },
+      "SIGNIFICATOR_LEVELS": {
+        "_items": [
+          {
+            "_text": [
+              "Planet"
+            ]
+          },
+          {
+            "_text": [
+              "Star Lord"
+            ]
+          },
+          {
+            "_text": [
+              "Sub Lord"
+            ]
+          },
+          {
+            "_text": [
+              "Sub-Sub Lord"
+            ]
+          }
+        ]
+      },
+      "RULING_PLANETS": {
+        "Description": "Ruling Planets (RPs) are the key planets at the time of judgment (for horary/prashna) or at the time of birth. They are used to time events and confirm significators.",
+        "Components": {
+          "_items": [
+            {
+              "_text": [
+                "Ascendant Lord (Lagna Lord)"
+              ]
+            },
+            {
+              "_text": [
+                "Ascendant Star Lord (Lagna Nakshatra Lord)"
+              ]
+            },
+            {
+              "_text": [
+                "Moon Sign Lord"
+              ]
+            },
+            {
+              "_text": [
+                "Moon Star Lord (Moon Nakshatra Lord)"
+              ]
+            },
+            {
+              "_text": [
+                "Day Lord (Lord of the weekday)"
+              ]
+            }
+          ]
+        },
+        "Usage": "During the joint period (Dasha, Bhukti, Antardasha), if the period lords are aligned with the Ruling Planets and signify the relevant houses, the event fructifies."
+      },
+      "CUSPAL_SUBLORDS_IMPORTANCE": {
+        "1": "Self, Health, General well-being",
+        "2": "Family, Finance, Speech, Primary Accumulations",
+        "3": "Siblings, Short journey, Communication, Courage",
+        "4": "Mother, Property, Vehicle, Education, Domestic peace",
+        "5": "Progeny, Intellect, Romance, Speculation, Past life karma",
+        "6": "Disease, Debts, Enemies, Service, Litigation",
+        "7": "Marriage, Partnership, Business, Public relations",
+        "8": "Longevity, Suddenness, Accidents, Inheritance, Occult",
+        "9": "Father, Fortune, Higher education, Religion, Long travel",
+        "10": "Profession, Career, Status, Honor, Karma",
+        "11": "Gains, Income, Fulfillment of desire, Elder siblings",
+        "12": "Loss, Expenses, Bed comforts, Foreign travel, Moksha, Hospitalization"
+      },
+      "EVENT_TIMING_RULES": {
+        "Promise": "The Cuspal Sub Lord (CSL) of the primary house for an event must signify the supporting houses (e.g., 11th for gains) and not signify the negating houses (e.g., 8th or 12th for loss).",
+        "Fulfillment": "The event occurs in the joint period (Mahadasha, Antardasha, Pratyantardasha) of the planets that are the significators of the primary houses for that event.",
+        "1_3_11_Rule": "For positive events like marriage, job, or gains, the planet should signify houses 1 (Self), 3 (Effort/Change), and 11 (Gains/Fulfillment).",
+        "1_6_10_11_Rule": "For career and profession, significators of 1, 6 (Service), 10 (Karma/Profession), and 11 (Gains) are most effective.",
+        "Negation": "If a planet signifies 8th or 12th house alongside the positive houses, it causes delays, obstacles, or denial of the event."
+      },
+      "TOTAL_KP_SUBLORDS": 249,
+      "SUBLORD_CALCULATION": {
+        "Description": "The 249 KP Sub Lords are calculated by dividing the 27 Nakshatras into Vimshottari Dasha proportions.",
+        "Math_Basis": "Each Nakshatra (13°20' or 800') is divided into 9 parts (Sub Lords) proportional to the Dasha years of the 9 planets. E.g., Venus Sub is 800' * (20/120) = 133.33'.",
+        "Table_Reference": "KP astrologers use a pre-calculated table of 249 Sub Lords from 0° Aries to 30° Pisces."
+      },
+      "PLANETARY_NODES": {
+        "Rahu_Ketu_Axis": "Rahu and Ketu are always 180 degrees apart. Rahu is treated as the agent of Saturn, and Ketu is treated as the agent of Mars.",
+        "Rahu_Significations": "Rahu gives results of the planet it is conjunct with, the planet aspecting it, its Star Lord, its Sub Lord, and the planets occupying its Star.",
+        "Ketu_Significations": "Ketu gives results of the planet it is conjunct with, the planet aspecting it, its Star Lord, its Sub Lord, and the planets occupying its Star. Ketu often represents detachment, suddenness, and past life karmic baggage."
+      }
+    }
+  }
+}

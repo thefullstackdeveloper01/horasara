@@ -1,0 +1,12 @@
+[
+  {
+    "id": "kp_001",
+    "nakshatra": "Ashwini",
+    "star_lord": "Ketu",
+    "sub_lords": [
+      {"name": "Mercury", "start_degree": "0°00'", "end_degree": "0°46'40"},
+      {"name": "Venus", "start_degree": "0°46'40", "end_degree": "1°33'20"}
+    ],
+    "prediction_logic": "If the sub-lord of the 7th cusp is Venus, marriage is guaranteed."
+  }
+]

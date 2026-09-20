@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Totke-List.json
+Dataset number: 212 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 870 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | problem_area | associated_planet | totka | best_day | logic | source_text
+------------------------------------------------------------------------------
+totka_001 | Financial Blockage / Money loss | Rahu / Saturn | Keep a square piece of silver in your wallet or wear a silver coin in the neck. | Saturday | In Lal Kitab, Silver represents Venus and Moon, which pacify the malefic effects of Rahu and Saturn, opening avenues for wealth. | Lal Kitab
+totka_002 | Job or Career Stagnation | Saturn (Shani) | Offer mustard oil to a black dog or a Peepal tree on Saturdays. Light a mustard oil lamp in the evening. | Saturday | Saturn's vehicle is represented by black/dark energies. Serving these elements calms Saturn's anger. | Lal Kitab

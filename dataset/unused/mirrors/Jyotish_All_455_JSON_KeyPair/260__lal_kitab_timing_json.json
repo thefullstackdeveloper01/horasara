@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "260__lal_kitab_timing_json",
+    "name": "lal-kitab-timing",
+    "original_file": "lal-kitab-timing.json",
+    "dataset_number": "259 of 455",
+    "format": "json",
+    "source_readable_file": "lal-kitab-timing.txt",
+    "source_sha256": "4d2a0ded606d7b7db3d4ed930b6ee5aa674510eb216c0640576c6ed4fe53edf6",
+    "source_bytes": 3922
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "order": {
+        "_items": [
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      },
+      "years": {
+        "Jupiter": 6,
+        "Sun": 2,
+        "Moon": 1,
+        "Venus": 3,
+        "Mars": 6,
+        "Mercury": 2,
+        "Saturn": 6,
+        "Rahu": 6,
+        "Ketu": 3
+      },
+      "totalYears": 35,
+      "annualOrder": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      },
+      "SYSTEM_DETAILS": {
+        "Name": "Lal Kitab Dasha System",
+        "Description": "A unique 35-year planetary cycle system used in Lal Kitab astrology. Unlike traditional Vimshottari Dasha, it has a fixed 35-year cycle and different planetary periods.",
+        "Calculation_Basis": "The starting Dasha planet is determined by the planet placed in the 1st house (Ascendant). If the 1st house is empty, the lord of the Ascendant initiates the Dasha. If multiple planets are in the 1st house, the one with the highest total degrees starts first. If degrees are the same, the natural order is followed."
+      },
+      "SUB_PERIOD_RULES": {
+        "Calculation_Formula": "Antardasha duration = (Mahadasha Planet Years * Antardasha Planet Years) / 35",
+        "Sequence_Rule": "The Antardasha follows the exact same sequence as the Mahadasha, starting from the Mahadasha lord itself and proceeding in the main 'order' array.",
+        "Example": "If in Jupiter Mahadasha (6 years), the Jupiter Antardasha is (6 * 6) / 35 = 1.028 years. The next Antardasha is Sun: (6 * 2) / 35 = 0.342 years."
+      },
+      "ANNUAL_VARSHPHAL_RULES": {
+        "Description": "The 'annualOrder' dictates the ruling planet for each year of a person's life (Varshesh). The cycle repeats every 9 years. This planet becomes the focal point of predictions for that specific year.",
+        "Starting_Point": "The cycle of the annual lord generally starts from the 1st house lord or the planet giving the most strength in the birth chart, though some scholars argue it starts strictly from the Sun for the first year of life.",
+        "Cycle_Repeat": "After the 9th year (Ketu), the cycle restarts from Sun for the 10th year, Moon for the 11th year, and so on."
+      },
+      "TIMING_ACTIVATION_RULES": {
+        "Pakka_Ghar_Activation": "A planet gives its full results in its Dasha or Antardasha when it is placed in its 'Pakka Ghar' (Fixed House) in the Lal Kitab Kundali.",
+        "Sleeping_Planets": "Planets positioned in the 4th, 8th, and 12th houses are considered 'sleeping'. They wake up and give results in their respective Dasha periods, often triggering sudden events.",
+        "Zameen_Aasmaan": "In a planet's Dasha, if it is placed in 'Zameen' (Earth/Down) houses, it gives material/physical results. If in 'Aasmaan' (Sky/Up) houses, it gives mental/spiritual/social results.",
+        "Rahu_Ketu_Axis": "Rahu acts like Saturn and Ketu acts like Mars, but in their Dashas, they also give results of the planets they are conjunct with or aspecting in the Lal Kitab specific way."
+      },
+      "PLANETARY_AGES": {
+        "Description": "In Lal Kitab timing, specific planets also have specific 'ages' where their peak karmic results are delivered, regardless of the Dasha sequence.",
+        "Activation_Years": {
+          "Jupiter": {
+            "_items": [
+              {
+                "_text": [
+                  "16"
+                ]
+              },
+              {
+                "_text": [
+                  "22"
+                ]
+              }
+            ]
+          },
+          "Sun": {
+            "_items": [
+              {
+                "_text": [
+                  "22"
+                ]
+              },
+              {
+                "_text": [
+                  "48"
+                ]
+              }
+            ]
+          },
+          "Moon": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "24"
+                ]
+              }
+            ]
+          },
+          "Venus": {
+            "_items": [
+              {
+                "_text": [
+                  "25"
+                ]
+              },
+              {
+                "_text": [
+                  "32"
+                ]
+              }
+            ]
+          },
+          "Mars": {
+            "_items": [
+              {
+                "_text": [
+                  "28"
+                ]
+              }
+            ]
+          },
+          "Mercury": {
+            "_items": [
+              {
+                "_text": [
+                  "34"
+                ]
+              }
+            ]
+          },
+          "Saturn": {
+            "_items": [
+              {
+                "_text": [
+                  "36"
+                ]
+              },
+              {
+                "_text": [
+                  "50"
+                ]
+              }
+            ]
+          },
+          "Rahu": {
+            "_items": [
+              {
+                "_text": [
+                  "42"
+                ]
+              },
+              {
+                "_text": [
+                  "56"
+                ]
+              }
+            ]
+          },
+          "Ketu": {
+            "_items": [
+              {
+                "_text": [
+                  "48"
+                ]
+              },
+              {
+                "_text": [
+                  "68"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

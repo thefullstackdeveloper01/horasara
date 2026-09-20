@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "434__varga_interpretations_json",
+    "name": "varga_interpretations",
+    "original_file": "varga_interpretations.json",
+    "dataset_number": "434 of 455",
+    "format": "json",
+    "source_readable_file": "varga_interpretations.txt",
+    "source_sha256": "5b63414e7c2e923c1049c8bde730ae9a5f96860f8588c6add47c874ce1f365d4",
+    "source_bytes": 3555
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_meta": {
+        "status": "CLASSICAL_SIGNIFICATION_REFERENCE",
+        "scope": "Concise signification guidance for the 13 previously uncovered Vargas. This is interpretive reference data, not deterministic prediction."
+      },
+      "D2": {
+        "name": "Hora",
+        "domain": "wealth, sustenance and material resources",
+        "interpretation": "Use with the D1 financial picture to assess resource support, accumulation capacity and the solar/lunar quality of material expression."
+      },
+      "D3": {
+        "name": "Drekkana",
+        "domain": "siblings, courage and initiative",
+        "interpretation": "Used as a supplementary chart for siblings, personal initiative, courage, communication effort and practical enterprise."
+      },
+      "D4": {
+        "name": "Chaturthamsha",
+        "domain": "property, residence and fortune",
+        "interpretation": "Used as a supplementary indicator for fixed assets, residence, property matters, vehicles and the fortune associated with foundations."
+      },
+      "D7": {
+        "name": "Saptamsha",
+        "domain": "children and progeny",
+        "interpretation": "Used with the fifth house and Jupiter to examine children, progeny themes, responsibility and continuity of lineage."
+      },
+      "D12": {
+        "name": "Dvadashamsha",
+        "domain": "parents, ancestry and lineage",
+        "interpretation": "Used for parental influences, inherited patterns, ancestry and the continuity of family traits."
+      },
+      "D16": {
+        "name": "Shodashamsha",
+        "domain": "comforts, vehicles and conveyances",
+        "interpretation": "Used for comforts, vehicles, domestic conveniences and the capacity to enjoy or maintain material ease."
+      },
+      "D20": {
+        "name": "Vimshamsha",
+        "domain": "spiritual practice and devotion",
+        "interpretation": "Used for spiritual discipline, worship, mantra practice, devotion and the practical expression of religious inclination."
+      },
+      "D24": {
+        "name": "Chaturvimshamsha",
+        "domain": "education and learning",
+        "interpretation": "Used for formal learning, scholarship, knowledge acquisition, teachers and sustained intellectual development."
+      },
+      "D27": {
+        "name": "Bhamsha",
+        "domain": "strengths, weaknesses and resilience",
+        "interpretation": "Used as a supplementary strength chart for subtle capacities, vulnerabilities, endurance and the way planetary qualities manifest under pressure."
+      },
+      "D30": {
+        "name": "Trimshamsha",
+        "domain": "misfortune, defects and adversity",
+        "interpretation": "Used for difficult tendencies, vulnerabilities and adverse circumstances; it should never be read in isolation as a deterministic harm indicator."
+      },
+      "D40": {
+        "name": "Khavedamsha",
+        "domain": "maternal lineage and auspicious/inauspicious inheritance",
+        "interpretation": "Used in some Parashari traditions for finer ancestral and maternal-line indications and subtle auspicious/inauspicious influences."
+      },
+      "D45": {
+        "name": "Akshavedamsha",
+        "domain": "character and paternal lineage",
+        "interpretation": "Used in finer divisional analysis for character, inherited paternal-line themes and deeper dharmic tendencies."
+      },
+      "D60": {
+        "name": "Shashtiamsha",
+        "domain": "fine karmic and ancestral patterning",
+        "interpretation": "A highly sensitive divisional chart traditionally used for subtle karmic/ancestral indications. Birth-time accuracy is critical because a small time error can change the D60."
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "river_001",
+    "name": "Ganga",
+    "source": "Gangotri Glacier (Himalayas)",
+    "associated_deity": "Goddess Ganga / Lord Shiva",
+    "astrological_significance": "Taking a dip in the Ganga is believed to nullify all negative karmas (Pitra Dosha, Kaal Sarp Dosha).",
+    "remedy_association": "Used universally for all planetary afflictions.",
+    "source_text": "Ramayana / Mahabharata"
+  },
+  {
+    "id": "river_002",
+    "name": "Yamuna",
+    "source": "Yamunotri",
+    "associated_deity": "Goddess Yamuna",
+    "astrological_significance": "Bathing in the Yamuna is highly recommended for remedies related to Venus (Shukra) and relationship doshas.",
+    "remedy_association": "Venus (Shukra) afflictions.",
+    "source_text": "Bhagavata Purana"
+  }
+]

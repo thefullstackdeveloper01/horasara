@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "007__json_files_animal_bird_list_json",
+    "name": "JSON_Files_Animal-Bird-List",
+    "original_file": "JSON_Files/Animal-Bird-List.json",
+    "dataset_number": "155 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Animal-Bird-List.txt",
+    "source_sha256": "b1598c4116370a7019c3bd9615fe67d11058557fea62b4db94b6b83dc6dd78be",
+    "source_bytes": 881
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "animal_001",
+        "name": "Black Dog",
+        "associated_planet": "Saturn (Shani) & Rahu",
+        "remedy_use": "Feeding a black dog sweet bread or mustard oil on Saturday reduces Rahu/Saturn afflictions and protects from sudden accidents.",
+        "source_text": "Lal Kitab"
+      },
+      {
+        "id": "animal_002",
+        "name": "Cow",
+        "associated_planet": "Jupiter (Guru) & Venus (Shukra)",
+        "remedy_use": "Feeding a cow fresh grass or roti on Thursday and Friday pacifies Jupiter and Venus respectively, bringing wealth and marital harmony.",
+        "source_text": "Atharva Veda"
+      }
+    ]
+  }
+}

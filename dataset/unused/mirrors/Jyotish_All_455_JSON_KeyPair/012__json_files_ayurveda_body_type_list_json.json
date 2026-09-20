@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "012__json_files_ayurveda_body_type_list_json",
+    "name": "JSON_Files_Ayurveda-Body-Type-List",
+    "original_file": "JSON_Files/Ayurveda-Body-Type-List.json",
+    "dataset_number": "160 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Ayurveda-Body-Type-List.txt",
+    "source_sha256": "f84226572924270962d2c926c2acb870cd45e3e186050f61594859c8c70ec461",
+    "source_bytes": 702
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "body_001",
+          "name": "Vata (Air+Ether)",
+          "ruling_planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "body_characteristics": "Thin, dry skin, fast metabolism, anxiety-prone.",
+          "diseases": {
+            "_items": [
+              {
+                "_text": [
+                  "Arthritis"
+                ]
+              },
+              {
+                "_text": [
+                  "Nervous disorders"
+                ]
+              },
+              {
+                "_text": [
+                  "Insomnia"
+                ]
+              }
+            ]
+          },
+          "dietary_remedy": "Warm, moist, grounding foods."
+        }
+      ]
+    }
+  }
+}

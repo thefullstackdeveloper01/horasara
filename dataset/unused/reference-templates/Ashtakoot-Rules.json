@@ -1,0 +1,21 @@
+[
+  {
+    "id": "koot_01",
+    "name": "Varna",
+    "max_points": 1,
+    "logic": "Boy's Varna should be higher or equal to Girl's Varna.",
+    "zodiac_groups": {
+      "Brahmin": ["Cancer", "Scorpio", "Pisces"],
+      "Kshatriya": ["Aries", "Leo", "Sagittarius"],
+      "Vaishya": ["Taurus", "Virgo", "Capricorn"],
+      "Shudra": ["Gemini", "Libra", "Aquarius"]
+    }
+  },
+  {
+    "id": "koot_02",
+    "name": "Nadi",
+    "max_points": 8,
+    "logic": "Boy and Girl must NOT have the same Nadi. Same Nadi = 0 points (Genetic incompatibility).",
+    "nadi_types": ["Aadi (Start)", "Madhya (Middle", "Antya (End)"]
+  }
+]

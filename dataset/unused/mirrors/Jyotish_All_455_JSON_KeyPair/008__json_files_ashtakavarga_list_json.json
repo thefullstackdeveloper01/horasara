@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "008__json_files_ashtakavarga_list_json",
+    "name": "JSON_Files_Ashtakavarga-List",
+    "original_file": "JSON_Files/Ashtakavarga-List.json",
+    "dataset_number": "156 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Ashtakavarga-List.txt",
+    "source_sha256": "b16db09dc36c0d2050f7450e27fb8a51dd996382d60d55856f65008f0a9f1155",
+    "source_bytes": 732
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "avarga_001",
+        "name": "Bindhu (Beneficial Point)",
+        "calculation": "Based on the relative position of all planets to the Moon sign.",
+        "interpretation_logic": "If a house has more than 28 Bindhus, transits through that house will yield positive results.",
+        "source_text": "Brihat Parashara Hora Shastra"
+      }
+    ]
+  }
+}

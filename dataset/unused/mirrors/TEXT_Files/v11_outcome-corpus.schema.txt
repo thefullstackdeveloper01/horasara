@@ -1,0 +1,66 @@
+READABLE DATASET
+================================================================================
+Original file: v11_outcome-corpus.schema.json
+Dataset number: 408 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 661 bytes
+Top-level fields: 6
+Title: HoraSaar V11 Verified Outcome Case
+
+CONTENT
+--------------------------------------------------------------------------------
+• $schema: https://json-schema.org/draft/2020-12/schema
+• title: HoraSaar V11 Verified Outcome Case
+• type: object
+• required:
+  1.
+    id
+  2.
+    chartId
+  3.
+    cutoff
+  4.
+    events
+  5.
+    verification
+• properties:
+  • id:
+    • type: string
+  • chartId:
+    • type: string
+  • cutoff:
+    • type: string
+    • format: date-time
+  • events:
+    • type: array
+    • minItems: 1
+    • items:
+      • type: object
+      • required:
+        1.
+          type
+        2.
+          date
+        3.
+          source
+      • properties:
+        • type:
+          • type: string
+        • date:
+          • type: string
+          • format: date-time
+        • source:
+          • type: object
+          • required:
+            1.
+              citation
+  • verification:
+    • type: object
+    • required:
+      1.
+        status
+    • properties:
+      • status:
+        • const: verified
+• additionalProperties: Yes

@@ -1,0 +1,932 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "355__shadbala_json",
+    "name": "shadbala",
+    "original_file": "shadbala.json",
+    "dataset_number": "355 of 455",
+    "format": "json",
+    "source_readable_file": "shadbala.txt",
+    "source_sha256": "3c6283814ae3123108f4929bab3dc9236de79287b1be9dde76357d01a1455d62",
+    "source_bytes": 6138
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "DIG_BEST_HOUSE": {
+        "Sun": 10,
+        "Mars": 10,
+        "Moon": 4,
+        "Venus": 4,
+        "Jupiter": 1,
+        "Mercury": 1,
+        "Saturn": 7
+      },
+      "DIG_BEST_OFFSET": {
+        "Sun": 270,
+        "Mars": 270,
+        "Moon": 90,
+        "Venus": 90,
+        "Jupiter": 0,
+        "Mercury": 0,
+        "Saturn": 180
+      },
+      "THRIB_DAY_LORDS": {
+        "_items": [
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          }
+        ]
+      },
+      "THRIB_NIGHT_LORDS": {
+        "_items": [
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          }
+        ]
+      },
+      "WEEKDAY_LORDS": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          }
+        ]
+      },
+      "HORA_SEQ": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          }
+        ]
+      },
+      "MEAN_SPEEDS": {
+        "Sun": 0.9856,
+        "Moon": 13.1764,
+        "Mars": 0.524,
+        "Mercury": 1.3833,
+        "Jupiter": 0.0831,
+        "Venus": 1.2,
+        "Saturn": 0.0335
+      },
+      "AYANA_MAX_KRANTI": 23.45,
+      "CONSTANTS": {
+        "SIGNS": {
+          "_items": [
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Gemini"
+              ]
+            },
+            {
+              "_text": [
+                "Cancer"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Virgo"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            },
+            {
+              "_text": [
+                "Scorpio"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            }
+          ]
+        },
+        "SIGN_LORDS": {
+          "Aries": "Mars",
+          "Taurus": "Venus",
+          "Gemini": "Mercury",
+          "Cancer": "Moon",
+          "Leo": "Sun",
+          "Virgo": "Mercury",
+          "Libra": "Venus",
+          "Scorpio": "Mars",
+          "Sagittarius": "Jupiter",
+          "Capricorn": "Saturn",
+          "Aquarius": "Saturn",
+          "Pisces": "Jupiter"
+        },
+        "EXALTATION": {
+          "Sun": {
+            "sign": "Aries",
+            "deg": 10
+          },
+          "Moon": {
+            "sign": "Taurus",
+            "deg": 3
+          },
+          "Mars": {
+            "sign": "Capricorn",
+            "deg": 28
+          },
+          "Mercury": {
+            "sign": "Virgo",
+            "deg": 15
+          },
+          "Jupiter": {
+            "sign": "Cancer",
+            "deg": 5
+          },
+          "Venus": {
+            "sign": "Pisces",
+            "deg": 27
+          },
+          "Saturn": {
+            "sign": "Libra",
+            "deg": 20
+          },
+          "Rahu": {
+            "sign": "Gemini",
+            "deg": 20
+          },
+          "Ketu": {
+            "sign": "Sagittarius",
+            "deg": 20
+          }
+        },
+        "DEBILITATION": {
+          "Sun": {
+            "sign": "Libra",
+            "deg": 10
+          },
+          "Moon": {
+            "sign": "Scorpio",
+            "deg": 3
+          },
+          "Mars": {
+            "sign": "Cancer",
+            "deg": 28
+          },
+          "Mercury": {
+            "sign": "Pisces",
+            "deg": 15
+          },
+          "Jupiter": {
+            "sign": "Capricorn",
+            "deg": 5
+          },
+          "Venus": {
+            "sign": "Virgo",
+            "deg": 27
+          },
+          "Saturn": {
+            "sign": "Aries",
+            "deg": 20
+          },
+          "Rahu": {
+            "sign": "Sagittarius",
+            "deg": 20
+          },
+          "Ketu": {
+            "sign": "Gemini",
+            "deg": 20
+          }
+        },
+        "OWN_SIGNS": {
+          "Sun": {
+            "_items": [
+              {
+                "_text": [
+                  "Leo"
+                ]
+              }
+            ]
+          },
+          "Moon": {
+            "_items": [
+              {
+                "_text": [
+                  "Cancer"
+                ]
+              }
+            ]
+          },
+          "Mars": {
+            "_items": [
+              {
+                "_text": [
+                  "Aries"
+                ]
+              },
+              {
+                "_text": [
+                  "Scorpio"
+                ]
+              }
+            ]
+          },
+          "Mercury": {
+            "_items": [
+              {
+                "_text": [
+                  "Gemini"
+                ]
+              },
+              {
+                "_text": [
+                  "Virgo"
+                ]
+              }
+            ]
+          },
+          "Jupiter": {
+            "_items": [
+              {
+                "_text": [
+                  "Sagittarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Pisces"
+                ]
+              }
+            ]
+          },
+          "Venus": {
+            "_items": [
+              {
+                "_text": [
+                  "Taurus"
+                ]
+              },
+              {
+                "_text": [
+                  "Libra"
+                ]
+              }
+            ]
+          },
+          "Saturn": {
+            "_items": [
+              {
+                "_text": [
+                  "Capricorn"
+                ]
+              },
+              {
+                "_text": [
+                  "Aquarius"
+                ]
+              }
+            ]
+          },
+          "Rahu": {
+            "_text": [
+              "(empty list)"
+            ]
+          },
+          "Ketu": {
+            "_text": [
+              "(empty list)"
+            ]
+          }
+        },
+        "MOOLATRIKONA": {
+          "Sun": {
+            "sign": "Leo",
+            "from": 0,
+            "to": 20
+          },
+          "Moon": {
+            "sign": "Taurus",
+            "from": 4,
+            "to": 20
+          },
+          "Mars": {
+            "sign": "Aries",
+            "from": 0,
+            "to": 12
+          },
+          "Mercury": {
+            "sign": "Virgo",
+            "from": 16,
+            "to": 20
+          },
+          "Jupiter": {
+            "sign": "Sagittarius",
+            "from": 0,
+            "to": 10
+          },
+          "Venus": {
+            "sign": "Libra",
+            "from": 0,
+            "to": 15
+          },
+          "Saturn": {
+            "sign": "Aquarius",
+            "from": 0,
+            "to": 20
+          }
+        },
+        "NATURAL_FRIENDS": {
+          "Sun": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "Moon": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "Mars": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "Mercury": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              }
+            ]
+          },
+          "Jupiter": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          },
+          "Venus": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "Saturn": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              }
+            ]
+          },
+          "Rahu": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "Ketu": {
+            "_items": [
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          }
+        },
+        "NATURAL_ENEMIES": {
+          "Sun": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              }
+            ]
+          },
+          "Moon": {
+            "_items": [
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              }
+            ]
+          },
+          "Mars": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "Mercury": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "Jupiter": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              }
+            ]
+          },
+          "Venus": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "Saturn": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          },
+          "Rahu": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          },
+          "Ketu": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "DRIK_SPECIAL_ASPECTS": {
+        "_comment": "BPHS special (vishesha) drishti: exact separation in degrees at which the graha casts full 60-virupa drishti, in addition to the universal 7th (180 deg).",
+        "_source": "Brihat Parashara Hora Shastra, Drikbala Adhyaya",
+        "Mars": {
+          "_items": [
+            {
+              "_text": [
+                "90"
+              ]
+            },
+            {
+              "_text": [
+                "210"
+              ]
+            }
+          ]
+        },
+        "Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "120"
+              ]
+            },
+            {
+              "_text": [
+                "240"
+              ]
+            }
+          ]
+        },
+        "Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "60"
+              ]
+            },
+            {
+              "_text": [
+                "270"
+              ]
+            }
+          ]
+        }
+      },
+      "DRIK_NATURAL_MALEFICS": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      },
+      "DRIK_NATURAL_BENEFICS": {
+        "_items": [
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          }
+        ]
+      },
+      "DRIK_ASPECTING_BODIES": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      },
+      "DRIK_CURVE_BREAKPOINTS": {
+        "_comment": "Sphuta Drishti piecewise curve breakpoints in degrees; value in virupas. Continuous by construction, peak 60 at 180.",
+        "breaks": {
+          "_items": [
+            {
+              "_text": [
+                "30"
+              ]
+            },
+            {
+              "_text": [
+                "60"
+              ]
+            },
+            {
+              "_text": [
+                "90"
+              ]
+            },
+            {
+              "_text": [
+                "120"
+              ]
+            },
+            {
+              "_text": [
+                "150"
+              ]
+            },
+            {
+              "_text": [
+                "180"
+              ]
+            },
+            {
+              "_text": [
+                "300"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

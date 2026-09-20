@@ -1,0 +1,371 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Saravali.json
+Dataset number: 205 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 10,924 bytes
+Top-level fields: 15
+Title: Saravali
+
+CONTENT
+--------------------------------------------------------------------------------
+• title: Saravali
+• author: Kalyana Varma
+• type: Indian Astrological Treatise
+• language: Sanskrit
+• period: 7th Century CE
+• structure:
+  • total_chapters: 55
+  • volumes: 2
+  • content_type: Astrological and predictive
+• metadata:
+  • sanskrit_name: सारावली
+  • transliteration: Sārāvalī
+  • disambiguation: Not to be confused with Saravali village in Greece
+• author_details:
+  • name: Kalyana Varma
+  • title: King-astrologer
+  • region: Vyaghrapada
+  • capital: Devagramapura
+  • period: Between Varahamihira and Bhattotpala (7th century CE)
+  • description: A renowned, pious, liberal and learned king of a region named Vyaghrapadi
+• significance:
+  • historical_importance: One of the most authoritative works on Hindu astrology
+  • influence:
+    1.
+      Bhattotpala (9th century) quoted extensively from Saravali in his commentaries on Varahamihira's Brhat Samhita and Brhajjataka
+    2.
+      Vaidyanatha Dikshita's Jatakaparjata is an epitome of this great work
+    3.
+      Balabhadra embodied nearly one half of Saravali in his Horaratna
+    4.
+      Mallinatha, the celebrated commentator, mentioned Kalyanavarman and Varahamihira giving quotations from Saravali
+    5.
+      Mantreswara of Phala Deepika acknowledged reliance on Saravali
+• content_overview:
+  • core_topics:
+    1.
+      Effects of planetary states at birth
+    2.
+      Mutual significators
+    3.
+      Various developments of embryo in the womb
+    4.
+      Birth of twins
+    5.
+      Dispositions of planets to cause and counter-act evils
+    6.
+      Raja Yogas bestowing high status
+    7.
+      Combinations lowering a native
+    8.
+      Female horoscopy
+    9.
+      Planetary conjunctions
+    10.
+      Effects of a planet remaining in various signs aspected by another planet
+    11.
+      Effects of various houses in aspect to the planets
+    12.
+      Planetary periods
+    13.
+      Roles of decanates
+  • chapter_highlights:
+    • chapters_27_to_29: Effects of Jupiter, Venus and Saturn in various signs and various aspects
+    • chapter_30: Results of planets from Sun to Saturn placed in the 12 houses individually
+    • chapter_31: Planetary conjunctions in angles
+    • chapter_32: Ninth house with special importance to Jupiter
+    • chapter_33: Tenth house
+    • chapter_34: Other houses (excluding 8th house)
+    • chapter_35: Voluminous chapter on various combinations
+    • chapter_36: Planetary rays at birth
+    • chapter_37: Pancha Maha Purusha Yogas
+    • chapter_38: Three gunas, 5 tatwas and 3 temperaments
+    • chapters_41_to_44: Dasa calculations and effects of periods
+    • chapter_45: Planetary dignities: exaltation, debilitation, own house
+    • chapter_46: Female horoscopy
+    • chapter_47: Lost horoscopy
+    • concluding_chapters: Ashtaka Varga and Manifold Births
+• key_concepts:
+  • temperaments:
+    • windy:
+      • characteristics:
+        1.
+          Troubled by cold
+        2.
+          Speaks a lot
+        3.
+          Walks fast
+        4.
+          Thievish
+        5.
+          Egoistic
+        6.
+          Unstable in disposition
+        7.
+          Fortunate
+        8.
+          Knowledgeable in music
+        9.
+          Forgiving
+        10.
+          Skilful in making friends
+        11.
+          Harsh hair
+        12.
+          Ungrateful
+        13.
+          Splay feet
+        14.
+          Crooked arms
+        15.
+          Irascible
+        16.
+          Devoid of radiance
+      • dreams: Flying in the skies
+    • bilious:
+      • characteristics:
+        1.
+          Speaks evil
+        2.
+          Given to less anger
+        3.
+          Broad-minded
+        4.
+          Easily satiable
+        5.
+          Large and reddish nails, eyes, hands and legs
+        6.
+          Looks like an old man
+        7.
+          Ever thirsty
+        8.
+          Intelligent
+        9.
+          Fearless in war
+        10.
+          Fond of cold articles
+        11.
+          Participates in gambling
+        12.
+          Eats abundantly
+        13.
+          Inimical to mother
+      • dreams: Gold, sun, lamp, engulfing fire, pink lotus, eunuch, blood, lightning
+    • phlegmatic:
+      • characteristics:
+        1.
+          Opulent
+        2.
+          Clung bodily joints
+        3.
+          Courageous
+        4.
+          Energetic
+        5.
+          Radiant
+        6.
+          Attractive
+        7.
+          Gentle
+        8.
+          Enduring
+        9.
+          Fair in complexion
+        10.
+          Reddish eyes
+        11.
+          Fond of sweet juices
+        12.
+          Subdues enemies
+        13.
+          Grateful
+        14.
+          Honours others
+      • dreams: Oceans, rivers, tanks, pearls, swans, white lotus, conch, lily, moon, iceberg
+  • pancha_maha_purusha_yogas:
+    • malavya:
+      • planet: Venus
+      • characteristics:
+        1.
+          Thin lips
+        2.
+          Even physique
+        3.
+          No extra limbs
+        4.
+          Slender waist
+        5.
+          Splendour equal to moon
+        6.
+          Voice akin to elephant
+        7.
+          Prominent cheeks
+        8.
+          Shining eyes
+        9.
+          Even and white teeth
+        10.
+          Long arms touching knees
+        11.
+          King
+      • longevity: 70 years
+      • rule: Laata, Mala, Sindhu and Pariyatra regions
+    • ruchaka:
+      • planet: Mars
+      • characteristics:
+        1.
+          Long face
+        2.
+          Endowed with radiance
+        3.
+          Plenty of blood
+        4.
+          Achieves undertakings through valour
+        5.
+          Beautiful eye-brows
+        6.
+          Dark hair
+        7.
+          Industrious
+        8.
+          Knowledge of machinery
+        9.
+          Head of thieves
+        10.
+          Dark-red complexion
+        11.
+          Very heroic
+        12.
+          Destroys enemies
+        13.
+          Neck resembling conch
+        14.
+          Chief person
+        15.
+          Thin arms and knees
+      • special_marks: Bed, rope, ox, arch, wheel, lute on palms and soles
+      • height: Hundred-inch tall
+      • rule: Cities between Vindhya and Sahya mountains
+      • death: Through fire or weapons
+    • sasa:
+      • planet: Saturn
+      • characteristics:
+        1.
+          Small teeth
+        2.
+          Fast pace walk
+        3.
+          Crafty
+        4.
+          Very valorous
+        5.
+          Interested in wandering in forests, mountains, forts
+        6.
+          Depressed belly
+        7.
+          Not very short
+  • planetary_states:
+    • svastha:
+      • meaning: Confident
+      • effects: Acquires gold, family; justice in king's employ; owns houses; amasses grains; family prospers
+    • mudita:
+      • meaning: Rejoicing
+      • effects: Pleasingly disposed; wife, gold, diamonds; wins foes; enjoys all comforts
+    • santa:
+      • meaning: Peaceful
+      • effects: Peaceful mind; comfort and wealth; king's minister; learned; helpful; religious; fortunate
+    • sakta:
+      • meaning: Capable
+      • effects: Wife, clothes, scents, garlands; famous; liked by all; name spread all-over
+    • pidita:
+      • meaning: Hurt/Oppressed
+      • effects: Grief and sickness; enemies; deprived of own people; wanders from country to country
+    • bhita:
+      • meaning: Alarmed
+      • effects: Troubled by enemies; loses men; defeated; becomes poor
+    • vikala:
+      • meaning: Mutilated
+      • effects: Deprived of place or position; dirty-hearted; poor; wanders; frightened by enemies
+    • khalavastha:
+      • meaning: In Khalavastha
+      • effects: Grieves in sorrow; cannot maintain wife; loses wealth; impure mind; never free from miseries
+  • sexagesimal_measurements:
+    • face_length: 13 inches (ancient measurement)
+    • ear_to_ear_length: 10 inches
+    • height: 100 inches (Ruchaka Yoga native)
+  • planetary_dignities:
+    • exaltation:
+      • effects: All kinds of wealth; auspicious results to full extent
+      • strength: Highly strong
+    • mlatrikona:
+      • effects: Ministerial-ship or leadership over Army
+      • strength: Medium
+    • own_house:
+      • effects: Happiness, money, grains, wealth
+      • strength: Nominal if aspected by friendly planet
+    • friendly_house:
+      • effects: Fame, splendour, abundant good fortune, long-lasting wealth, wealth through king
+    • debilitation:
+      • effects: Futile; fully inauspicious
+    • retrograde_in_exaltation:
+      • effects: Produces no effect; nothing good will happen
+  • limbs_of_kalapurusha:
+    • Aries: Head
+    • Taurus: Face
+    • Gemini: Arms
+    • Cancer: Heart
+    • Leo: Stomach
+    • Virgo: Hip
+    • Libra: Space below navel and private parts
+    • Scorpio: Private parts
+    • Sagittarius: Thighs
+    • Capricorn: Knees
+  • rasi_descriptions:
+    • Aquarius: Resembles a man holding a pot
+    • Gemini: Compared to a couple holding Veena and mace
+    • Pisces: Imagination of a pair of fish
+    • Sagittarius: Man having a hip like that of a horse and holding an arch
+    • Capricorn: Deer-faced
+    • Virgo: Virgin sitting in a boat with a lamp in her hands
+    • Libra: Male holding Scales in his hand
+• available_editions:
+  • publisher: Motilal Banarsidass / Ranjan Publications
+  • language: Sanskrit & English
+  • total_pages: 850
+  • format: Paperback
+  • volume: Two Vol Set
+  • price_inr: 1280
+  • translator: R. Santhanam
+  • edition_years:
+    1.
+      1983
+    2.
+      1991
+• disambiguation:
+  • note: Saravali also refers to a village in Greece
+  • greek_village:
+    • name: Saravali (Σαράβαλι)
+    • country: Greece
+    • region: West Greece
+    • municipality: Patras
+    • population_2011: 735
+    • population_2021: 749
+    • postal_code: 265 00
+    • history: Castle built by Franks in 13th century; battle of Greek War of Independence in 1822
+• related_works:
+  1.
+    Brihat Jataka (Varahamihira)
+  2.
+    Jatakaparjata (Vaidyanatha Dikshita)
+  3.
+    Horaratna (Balabhadra)
+  4.
+    Phala Deepika (Mantreswara)
+  5.
+    Brhat Samhita (Varahamihira)
+• legacy:
+  • impact: A shining but never setting star in the astral skies
+  • reputation: Its authority on astrological points was undisputedly acknowledged in ancient times
+  • style: Chaste and flowing; information more copious and valuable than any current astrological work

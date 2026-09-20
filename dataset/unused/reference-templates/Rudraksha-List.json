@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rudra_001",
+    "mukhi": 1,
+    "ruling_planet": "Sun",
+    "deity": "Lord Shiva",
+    "associated_chakra": "Sahasrara (Crown)",
+    "benefits": "Cures headaches, heart diseases, and bone issues. Brings leadership and spiritual enlightenment.",
+    "wearing_mantra": "Om Namah Shivaya",
+    "wearing_day": "Monday"
+  },
+  {
+    "id": "rudra_002",
+    "mukhi": 5,
+    "ruling_planet": "Jupiter",
+    "deity": "Kalagni Rudra",
+    "associated_chakra": "Vishuddha (Throat)",
+    "benefits": "Brings academic success, wealth, and removes liver/gallbladder issues.",
+    "wearing_mantra": "Om Hreem Namah",
+    "wearing_day": "Thursday"
+  }
+]

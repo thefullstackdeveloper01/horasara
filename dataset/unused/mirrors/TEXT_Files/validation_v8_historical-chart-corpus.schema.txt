@@ -1,0 +1,105 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v8/historical-chart-corpus.schema.json
+Dataset number: 424 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,111 bytes
+Top-level fields: 6
+Title: HoraSaar V8 Historical Chart Corpus
+
+CONTENT
+--------------------------------------------------------------------------------
+• $schema: https://json-schema.org/draft/2020-12/schema
+• title: HoraSaar V8 Historical Chart Corpus
+• type: object
+• required:
+  1.
+    id
+  2.
+    birth
+  3.
+    location
+  4.
+    source
+  5.
+    verification
+  6.
+    expected
+• properties:
+  • id:
+    • type: string
+    • minLength: 3
+  • birth:
+    • type: object
+    • required:
+      1.
+        date
+      2.
+        time
+      3.
+        timezone
+    • properties:
+      • date:
+        • type: string
+      • time:
+        • type: string
+      • timezone:
+        • type: number
+  • location:
+    • type: object
+    • required:
+      1.
+        latitude
+      2.
+        longitude
+    • properties:
+      • latitude:
+        • type: number
+        • minimum: -90
+        • maximum: 90
+      • longitude:
+        • type: number
+        • minimum: -180
+        • maximum: 180
+  • source:
+    • type: object
+    • required:
+      1.
+        kind
+      2.
+        citation
+    • properties:
+      • kind:
+        • type: string
+      • citation:
+        • type: string
+      • retrievedAt:
+        • type: string
+  • verification:
+    • type: object
+    • required:
+      1.
+        status
+    • properties:
+      • status:
+        • enum:
+          1.
+            verified
+          2.
+            unverified
+      • method:
+        • type: string
+  • expected:
+    • type: object
+    • required:
+      1.
+        provider
+      2.
+        values
+    • properties:
+      • provider:
+        • type: string
+      • values:
+        • type: object
+• additionalProperties: Yes

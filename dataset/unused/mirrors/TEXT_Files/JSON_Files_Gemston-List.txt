@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Gemston-List.json
+Dataset number: 174 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 452 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | english_name | hindi_name | planet | rashi | wearing_metal | wearing_finger | benefits | side_effects | source_text
+------------------------------------------------------------------------------------------------------------------------
+gem_001 | Blue Sapphire | Neelam | Saturn | Capricorn, Aquarius | Silver or White Gold | Middle Finger | Brings instant wealth, protects from evil eye, clears obstacles. | Can cause severe health issues or falls if unsuitable. | Ratna Pariksha

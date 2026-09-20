@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "018__json_files_disease_list_json",
+    "name": "JSON_Files_Disease-List",
+    "original_file": "JSON_Files/Disease-List.json",
+    "dataset_number": "166 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Disease-List.txt",
+    "source_sha256": "0884d984a67682f9eef2d7dc754c8db2329be13943c9ff9c2aff9ad01f4dca16",
+    "source_bytes": 743
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "disease_001",
+          "associated_planet": "Saturn (Shani)",
+          "body_parts_affected": {
+            "_items": [
+              {
+                "_text": [
+                  "Legs"
+                ]
+              },
+              {
+                "_text": [
+                  "Bones"
+                ]
+              },
+              {
+                "_text": [
+                  "Teeth"
+                ]
+              },
+              {
+                "_text": [
+                  "Nervous System"
+                ]
+              }
+            ]
+          },
+          "diseases": {
+            "_items": [
+              {
+                "_text": [
+                  "Arthritis"
+                ]
+              },
+              {
+                "_text": [
+                  "Joint Pain"
+                ]
+              },
+              {
+                "_text": [
+                  "Chronic Illness"
+                ]
+              },
+              {
+                "_text": [
+                  "Paralysis"
+                ]
+              }
+            ]
+          },
+          "remedy": "Worship Lord Hanuman, light a mustard oil lamp on Saturdays, donate black items."
+        }
+      ]
+    }
+  }
+}

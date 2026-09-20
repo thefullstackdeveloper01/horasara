@@ -1,0 +1,241 @@
+READABLE DATASET
+================================================================================
+Original file: doshas.json
+Dataset number: 109 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 9,699 bytes
+Top-level fields: 10
+
+CONTENT
+--------------------------------------------------------------------------------
+• NADI_MAP:
+  • Ashwini: Vata
+  • Bharani: Pitta
+  • Krittika: Kapha
+  • Rohini: Vata
+  • Mrigashira: Pitta
+  • Ardra: Kapha
+  • Punarvasu: Vata
+  • Pushya: Pitta
+  • Ashlesha: Kapha
+  • Magha: Vata
+  • Purva Phalguni: Pitta
+  • Uttara Phalguni: Kapha
+  • Hasta: Vata
+  • Chitra: Pitta
+  • Swati: Kapha
+  • Vishakha: Vata
+  • Anuradha: Pitta
+  • Jyeshtha: Kapha
+  • Mula: Vata
+  • Purva Ashadha: Pitta
+  • Uttara Ashadha: Kapha
+  • Shravana: Vata
+  • Dhanishtha: Pitta
+  • Shatabhisha: Kapha
+  • Purva Bhadrapada: Vata
+  • Uttara Bhadrapada: Pitta
+  • Revati: Kapha
+• NADI_TRADITIONAL_NAMES:
+  • Vata: Aadi (Antya)
+  • Pitta: Madhya
+  • Kapha: Antya (Aadi)
+• NADI_DOSHA:
+  • Definition: In Ashtakoot Milan (8-point matching), Nadi Dosha occurs when the bride and groom have the same Nadi (Ayurvedic constitution) belonging to the same Nakshatra group.
+  • Points_Alloted: 8
+  • Effects: According to classical texts, same Nadi leads to Nadi Dosha which is believed to cause progeny issues (Nadi means vein/flow), physical/health problems, or issues in marital harmony.
+  • Cancellations_Bhakoot:
+    1.
+      If the Moon signs of both partners are in the same sign but in different Nakshatras (and Nadis are different).
+    2.
+      If the Moon signs are in adjacent signs with same Nakshatra and same Nadi (e.g., Taurus Rohini and Gemini Mrigashira - though usually Nadi is checked for exact same Nakshatra).
+    3.
+      If the lord of the Navamsa of the Moon is different.
+    4.
+      If the couple has the same Nakshatra but different Padas (Charanas), Nadi Dosha is cancelled.
+    5.
+      If the Moon signs are mutually Sammukha (front-facing) or in mutually friendly signs.
+• GANDMOOL_DOSHA:
+  • Definition: Occurs when the Moon is placed in one of the 6 Nakshatras ruled by Mercury or Ketu.
+  • Affected_Nakshatras:
+    1.
+      Ashwini (Ketu)
+    2.
+      Ashlesha (Mercury)
+    3.
+      Magha (Ketu)
+    4.
+      Jyeshtha (Mercury)
+    5.
+      Mula (Ketu)
+    6.
+      Revati (Mercury)
+  • Effects: Believed to cause difficulties for the native, and sometimes for the parents/in-laws depending on the specific Gana (Mula, Jyeshtha, etc.).
+  • Cancellations:
+    1.
+      If the planet ruling the Nakshatra is placed in a Kendra (1st, 4th, 7th, 10th) from the Lagna or Moon.
+    2.
+      If the Moon is in the 1st, 4th, 7th, 10th, or 8th house from the Ascendant and is aspected by a benefic.
+    3.
+      The Dosha is generally considered mild if the birth is in the 1st or last quarter (Pada) of the Nakshatra.
+    4.
+      Remedies include Gandmool Shanti Puja performed on the 27th day after birth or any auspicious day.
+• MANGAL_DOSHA:
+  • Also_Known_As:
+    1.
+      Manglik
+    2.
+      Kuja Dosha
+    3.
+      Bhauma Dosha
+    4.
+      Sevvai Dosham
+  • Definition: Occurs when Mars is placed in the 1st, 2nd, 4th, 7th, 8th, or 12th house from the Ascendant (Lagna), Moon, or Venus.
+  • Severity_Per_House:
+    • 1st_House: Affects personality and domestic harmony; aspect on 7th causes conflict.
+    • 2nd_House: Creates family disputes and speech-related issues in marriage.
+    • 4th_House: Affects domestic peace, property, and mother's health.
+    • 7th_House: Directly impacts the spouse, marriage longevity, and sexual compatibility.
+    • 8th_House: Affects longevity of spouse, sudden events, and hidden wealth.
+    • 12th_House: Causes issues in bed pleasures, expenses, and foreign settlement.
+  • Cancellations_Parihara:
+    1.
+      Mars is in its own sign (Aries, Scorpio) or exalted (Capricorn) in the dosha house.
+    2.
+      Mars is in the 2nd house in Gemini or Virgo.
+    3.
+      Mars is in the 12th house in Taurus or Libra.
+    4.
+      Mars is in the 7th house in Cancer or Capricorn.
+    5.
+      Mars is in the 8th house in Sagittarius or Pisces.
+    6.
+      Mars is aspected by or conjunct with Jupiter.
+    7.
+      Mars is conjunct with or aspected by the Moon.
+    8.
+      If both the bride and groom have Mangal Dosha (matching cancels it out).
+    9.
+      If Mars is weak (debilitated, combust, or in enemy sign) the dosha is considered mild.
+• KAAL_SARP_DOSHA:
+  • Definition: Occurs when all seven planets (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn) are placed between Rahu and Ketu in the birth chart.
+  • Effects: Can lead to sudden setbacks, financial instability, struggles, late success, and karmic challenges.
+  • Types:
+    TABLE (12 rows)
+    Name | Formation
+    --------------------
+    Anant Kalsarp Yog | Rahu in 1st, Ketu in 7th, rest of planets in between.
+    Kulik Kalsarp Yog | Rahu in 2nd, Ketu in 8th, rest of planets in between.
+    Vasuki Kalsarp Yog | Rahu in 3rd, Ketu in 9th, rest of planets in between.
+    Shankpal Kalsarp Yog | Rahu in 4th, Ketu in 10th, rest of planets in between.
+    Padma Kalsarp Yog | Rahu in 5th, Ketu in 11th, rest of planets in between.
+    Mahapadma Kalsarp Yog | Rahu in 6th, Ketu in 12th, rest of planets in between.
+    Takshak Kalsarp Yog | Rahu in 7th, Ketu in 1st, rest of planets in between.
+    Karkotak Kalsarp Yog | Rahu in 8th, Ketu in 2nd, rest of planets in between.
+    Shankhnaad Kalsarp Yog | Rahu in 9th, Ketu in 3rd, rest of planets in between.
+    Ghatak Kalsarp Yog | Rahu in 10th, Ketu in 4th, rest of planets in between.
+    Vishdhar Kalsarp Yog | Rahu in 11th, Ketu in 5th, rest of planets in between.
+    Sheshnag Kalsarp Yog | Rahu in 12th, Ketu in 6th, rest of planets in between.
+  • Cancellations:
+    1.
+      If a single planet is outside the Rahu-Ketu axis.
+    2.
+      If Jupiter or Venus is placed in a Kendra or Trikona strongly.
+    3.
+      If the lord of the 6th, 8th, or 12th house is well-placed.
+    4.
+      Rahu or Ketu are aspected by Jupiter.
+• PITRA_DOSHA:
+  • Definition: A karmic debt or curse from ancestors affecting the current generation, often indicated by specific planetary placements.
+  • Indications:
+    1.
+      Sun and Rahu conjunct in the 1st, 2nd, 4th, 5th, 7th, 9th, or 10th house.
+    2.
+      Ketu and Moon conjunct in the 1st, 2nd, 4th, 5th, 7th, 9th, or 10th house.
+    3.
+      Afflicted 9th house or 9th lord.
+    4.
+      Sun is afflicted by malefics (Saturn, Mars, Rahu).
+  • Effects:
+    1.
+      Delays in marriage and childbirth.
+    2.
+      Frequent miscarriages or problems in progeny.
+    3.
+      Unexplained health issues or mental unrest.
+    4.
+      Obstacles in career and financial growth.
+    5.
+      Sudden losses and family disputes.
+  • Remedies:
+    1.
+      Performing Shraddha and Tarpanam for ancestors during Amavasya or Pitru Paksha.
+    2.
+      Offering food and water to crows, cows, and dogs.
+    3.
+      Donating to the poor and helping elderly people.
+    4.
+      Chanting the Gayatri Mantra and offering water to the Sun.
+    5.
+      Performing Narayan Bali or Tripindi Shradh puja at holy places.
+• GRAHAN_DOSHA:
+  • Also_Known_As: Chandra-Surya Grahan Yoga
+  • Definition: Occurs when the Sun or Moon is conjunct with Rahu or Ketu in the birth chart.
+  • Types:
+    • Solar_Eclipse: Sun conjunct Rahu or Ketu.
+    • Lunar_Eclipse: Moon conjunct Rahu or Ketu.
+  • Effects:
+    1.
+      Mental stress, confusion, and emotional instability.
+    2.
+      Obstacles in education and career progression.
+    3.
+      Problems in relationships, especially with father (Sun) or mother (Moon).
+    4.
+      Sudden health issues and unexplained fears.
+  • Cancellations:
+    1.
+      If Sun or Moon is in its own sign or exalted.
+    2.
+      If Jupiter aspects the Sun or Moon.
+    3.
+      If the eclipse occurs in a Kendra or Trikona and the lord of that house is strong.
+• SHRAPIT_DOSHA:
+  • Definition: Occurs when Saturn (Shani) and Rahu are conjunct in the same house in the birth chart. 'Shrapit' means cursed.
+  • Effects:
+    1.
+      Continuous struggles and obstacles in all endeavors.
+    2.
+      Severe delays in achieving success, marriage, or career goals.
+    3.
+      Financial instability and unexpected losses.
+    4.
+      Health issues that are chronic or hard to diagnose.
+  • Remedies:
+    1.
+      Worshiping Lord Shiva and Hanuman.
+    2.
+      Chanting the Durga Saptashati.
+    3.
+      Performing remedies for both Saturn (Shani) and Rahu.
+    4.
+      Feeding birds and animals, especially dogs and crows.
+• KEMADRUNA_DOSHA:
+  • Definition: Occurs when there are no planets on either side of the Moon (2nd and 12th house from the Moon are empty), forming no Sunapha or Anapha Yoga.
+  • Effects:
+    1.
+      Feelings of isolation and loneliness.
+    2.
+      Financial fluctuations and lack of emotional support.
+    3.
+      Mental anxiety and emotional dependency.
+  • Cancellations:
+    1.
+      Moon is in a Kendra (1st, 4th, 7th, 10th) from the Ascendant.
+    2.
+      Moon is aspected by or conjunct with Jupiter.
+    3.
+      Moon is placed in a favorable Navamsa or is Vargottama.
+    4.
+      Benefics are placed in the 2nd or 12th house from the Navamsa Moon.

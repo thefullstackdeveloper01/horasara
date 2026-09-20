@@ -1,0 +1,16 @@
+[
+  {
+    "id": "animal_001",
+    "name": "Black Dog",
+    "associated_planet": "Saturn (Shani) & Rahu",
+    "remedy_use": "Feeding a black dog sweet bread or mustard oil on Saturday reduces Rahu/Saturn afflictions and protects from sudden accidents.",
+    "source_text": "Lal Kitab"
+  },
+  {
+    "id": "animal_002",
+    "name": "Cow",
+    "associated_planet": "Jupiter (Guru) & Venus (Shukra)",
+    "remedy_use": "Feeding a cow fresh grass or roti on Thursday and Friday pacifies Jupiter and Venus respectively, bringing wealth and marital harmony.",
+    "source_text": "Atharva Veda"
+  }
+]

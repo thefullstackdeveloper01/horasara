@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "207__ishta_devata_mapping_json",
+    "name": "ishta_devata_mapping",
+    "original_file": "ishta_devata_mapping.json",
+    "dataset_number": "137 of 455",
+    "format": "json",
+    "source_readable_file": "ishta_devata_mapping.txt",
+    "source_sha256": "68adf3b2d335baa1f5b1c574700943905525d1813ea3b74901efcf657b0206e3",
+    "source_bytes": 4569
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "atmakarakaPlanet": "Sun",
+        "deity": "Lord Vishnu (as Surya Narayana)",
+        "deitySanskrit": "आदित्य नारायण",
+        "reasoning": "The Sun is classically regarded as Vishnu's own significator among the grahas; when the Sun is Atmakaraka the soul's chosen deity is traditionally taken as Vishnu in his solar aspect.",
+        "traditionalPractice": "Recitation of the Aditya Hridayam stotra; Sunday sunrise worship facing east.",
+        "confidence": "Moderate — single-method attribution, not cross-checked against the 12th-from-Karakamsha refinement",
+        "source": "Sample entry — general classical Jaimini attribution list"
+      },
+      {
+        "atmakarakaPlanet": "Moon",
+        "deity": "Lord Shiva (as Chandrashekhara)",
+        "deitySanskrit": "शिव (चन्द्रशेखर)",
+        "reasoning": "The Moon carries Shiva's crescent as an iconographic attribute in classical texts; when the Moon is Atmakaraka the soul's chosen deity is traditionally taken as Shiva.",
+        "traditionalPractice": "Monday worship of a Shiva Linga with milk abhisheka; recitation of the Shiva Panchakshara mantra.",
+        "confidence": "Moderate — single-method attribution, not cross-checked against the 12th-from-Karakamsha refinement",
+        "source": "Sample entry — general classical Jaimini attribution list"
+      },
+      {
+        "atmakarakaPlanet": "Mars",
+        "deity": "Lord Subrahmanya / Kartikeya (also cited: Hanuman)",
+        "deitySanskrit": "सुब्रह्मण्यम्",
+        "reasoning": "Mars is the significator of Kartikeya, commander of the divine forces; when Mars is Atmakaraka the soul's chosen deity is traditionally taken as Subrahmanya.",
+        "traditionalPractice": "Tuesday worship of Kartikeya/Hanuman; recitation of the Skanda Shashti Kavacham or Hanuman Chalisa.",
+        "confidence": "Moderate — two deities are cited in different regional traditions for this Atmakaraka; not resolved to one in this dataset",
+        "source": "Sample entry — general classical Jaimini attribution list"
+      },
+      {
+        "atmakarakaPlanet": "Jupiter",
+        "deity": "Lord Vishnu (also cited: Dattatreya)",
+        "deitySanskrit": "विष्णु / दत्तात्रेय",
+        "reasoning": "Jupiter is the significator of Guru/Dharma; when Jupiter is Atmakaraka the soul's chosen deity is traditionally taken as Vishnu in his preceptor aspect, or Dattatreya in some lineages.",
+        "traditionalPractice": "Thursday worship; recitation of the Vishnu Sahasranama or Guru Stotram.",
+        "confidence": "Moderate — two deities are cited in different regional traditions for this Atmakaraka; not resolved to one in this dataset",
+        "source": "Sample entry — general classical Jaimini attribution list"
+      },
+      {
+        "atmakarakaPlanet": "Mercury",
+        "deity": "Lord Vishnu / Narayana",
+        "deitySanskrit": "विष्णु / नारायण",
+        "reasoning": "Traditional graha-deity attribution lists associate Mercury with Vishnu/Narayana; lineage-specific Ishta Devata methods can differ.",
+        "traditionalPractice": "Wednesday Vishnu worship or recitation of Vishnu Sahasranama.",
+        "confidence": "Moderate — traditional attribution; Karakamsha refinement is still lineage-dependent",
+        "source": "Traditional Navagraha deity attribution reference"
+      },
+      {
+        "atmakarakaPlanet": "Venus",
+        "deity": "Goddess Lakshmi",
+        "deitySanskrit": "श्री लक्ष्मी",
+        "reasoning": "Venus is traditionally associated with beauty, prosperity and Shukra; Lakshmi is therefore a common deity attribution in Navagraha/Jaimini reference lists.",
+        "traditionalPractice": "Friday Lakshmi worship and recitation of Sri Sukta or Lakshmi stotra.",
+        "confidence": "Moderate — traditional attribution; regional lineage variation exists",
+        "source": "Traditional Navagraha deity attribution reference"
+      },
+      {
+        "atmakarakaPlanet": "Saturn",
+        "deity": "Lord Hanuman / Shani Dev",
+        "deitySanskrit": "हनुमान / शनिदेव",
+        "reasoning": "Saturn is traditionally linked with discipline, karma and hardship; Hanuman and Shani Dev are both found in remedial/deity traditions associated with Saturn.",
+        "traditionalPractice": "Saturday Hanuman or Shani worship according to family/lineage practice.",
+        "confidence": "Moderate — multiple traditional attributions exist",
+        "source": "Traditional Navagraha deity attribution reference"
+      }
+    ]
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "version": "2.0",
+  "system": "Vimshottari Dasha",
+  "total_cycle_years": 120,
+  "sequence": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury",
+    "Ketu",
+    "Venus"
+  ],
+  "dasha_meanings": {
+    "Sun": {
+      "duration_years": 6,
+      "duration_display": "6 years",
+      "natural_significations": [
+        "Soul",
+        "Father",
+        "Authority",
+        "Government",
+        "Health",
+        "Vitality",
+        "Ego",
+        "Career",
+        "Leadership"
+      ],
+      "body_parts": [
+        "Heart",
+        "Eyes (right)",
+        "Bones",
+        "Stomach",
+        "Blood circulation"
+      ],
+      "keywords_positive": [
+        "Recognition",
+        "Government favor",
+        "Career advancement",
+        "Leadership",
+        "Confidence",
+        "Fame"
+      ],
+      "keywords_negative": [
+        "Ego conflicts",
+        "Authority issues",
+        "Father-related problems",
+        "Heart issues",
+        "Arrogance"
+      ],
+      "career_domains": [
+        "Government",
+        "Politics",
+        "Administration",
+        "Medicine",
+        "Gold trade",
+        "Management"
+      ],
+      "favorable_for": [
+        "Career growth",
+        "Government positions",
+        "Leadership roles",
+        "Public recognition"
+      ],
+      "challenging_for": [
+        "Relationships (ego issues)",
+        "Father health",
+        "Eye health"
+      ],
+      "house_effects": {
+        "1st_lord": "Strong identity, career focus",
+        "2nd_lord": "Wealth through authority",
+        "3rd_lord": "Courageous efforts, writing",
+        "4th_lord": "Property gain, mother issues",
+        "5th_lord": "Intelligence activated, children",
+        "6th_lord": "Enemies emerge, health focus",
+        "7th_lord": "Maraka — health watch",
+        "8th_lord": "Chronic issues, transformation",
+        "9th_lord": "Fortune, father's health",
+        "10th_lord": "Peak career period",
+        "11th_lord": "Great gains",
+        "12th_lord": "Expenses, spiritual retreat"
+      },
+      "best_sub_dashas": [
+        "Jupiter",
+        "Moon",
+        "Mars"
+      ],
+      "challenging_sub_dashas": [
+        "Saturn",
+        "Rahu"
+      ],
+      "gemstone": "Ruby",
+      "mantra": "Aditya Hridayam or Om Hraam Hreem Hraum Sah Suryaya Namah",
+      "advice": "Use this dasha for career advancement. Respect authorities. Be mindful of ego. Father's health may be concern.",
+      "spiritual_significance": "Soul awakening; dharmic action; past life leadership karma activated",
+      "average_peak_period": "Middle 2-3 years of the dasha"
+    },
+    "Moon": {
+      "duration_years": 10,
+      "duration_display": "10 years",
+      "natural_significations": [
+        "Mind",
+        "Mother",
+        "Emotions",
+        "Intuition",
+        "Public",
+        "Liquids",
+        "Travel",
+        "Popularity",
+        "Nourishment"
+      ],
+      "body_parts": [
+        "Mind",
+        "Chest",
+        "Left eye",
+        "Breasts",
+        "Uterus",
+        "Lymphatic system"
+      ],
+      "keywords_positive": [
+        "Emotional fulfillment",
+        "Public popularity",
+        "Mother's blessing",
+        "Intuition",
+        "Creativity",
+        "Travel"
+      ],
+      "keywords_negative": [
+        "Emotional instability",
+        "Mental anxiety",
+        "Mother health issues",
+        "Mood swings",
+        "Water problems"
+      ],
+      "career_domains": [
+        "Public relations",
+        "Hospitality",
+        "Nursing",
+        "Farming",
+        "Ocean trade",
+        "Milk products",
+        "Psychology"
+      ],
+      "favorable_for": [
+        "Public contact",
+        "Emotional healing",
+        "Creative work",
+        "Mother relationships",
+        "Travel"
+      ],
+      "challenging_for": [
+        "Consistent focus",
+        "Mental stability (if Moon afflicted)"
+      ],
+      "house_effects": {
+        "1st_lord": "Personal growth, emotional period",
+        "4th_lord": "Home matters, mother focus",
+        "7th_lord": "Maraka risk, relationship focus",
+        "10th_lord": "Public career, fame period"
+      },
+      "best_sub_dashas": [
+        "Moon",
+        "Venus",
+        "Jupiter"
+      ],
+      "challenging_sub_dashas": [
+        "Ketu",
+        "Rahu"
+      ],
+      "gemstone": "Pearl",
+      "mantra": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+      "advice": "Emotional period — cultivate inner peace. Good for public-facing work. Mother's wellbeing important.",
+      "spiritual_significance": "Emotional purification; maternal karma; public service",
+      "average_peak_period": "First 4 years if Moon is waxing in natal chart"
+    },
+    "Mars": {
+      "duration_years": 7,
+      "duration_display": "7 years",
+      "natural_significations": [
+        "Energy",
+        "Courage",
+        "Brothers",
+        "Property",
+        "Surgery",
+        "Sports",
+        "Military",
+        "Aggression",
+        "Technical skills"
+      ],
+      "body_parts": [
+        "Muscles",
+        "Blood",
+        "Right ear",
+        "Bone marrow",
+        "Nose"
+      ],
+      "keywords_positive": [
+        "Physical energy",
+        "Property gains",
+        "Courage",
+        "Technical mastery",
+        "Leadership in action"
+      ],
+      "keywords_negative": [
+        "Accidents",
+        "Aggression",
+        "Conflicts",
+        "Blood disorders",
+        "Surgery risk",
+        "Brother issues"
+      ],
+      "career_domains": [
+        "Military",
+        "Engineering",
+        "Surgery",
+        "Sports",
+        "Real estate",
+        "Police",
+        "Fire fighting"
+      ],
+      "favorable_for": [
+        "Property purchase",
+        "Sports",
+        "Physical activity",
+        "Technical work",
+        "Courage-based decisions"
+      ],
+      "challenging_for": [
+        "Patience",
+        "Peaceful relationships",
+        "Legal matters"
+      ],
+      "house_effects": {
+        "1st_lord": "Physical dominance, leadership",
+        "2nd_lord": "Wealth through effort",
+        "4th_lord": "Property gains/issues",
+        "7th_lord": "Maraka — accidents/surgeries",
+        "8th_lord": "Chronic issues, accidents"
+      },
+      "best_sub_dashas": [
+        "Sun",
+        "Jupiter",
+        "Moon"
+      ],
+      "challenging_sub_dashas": [
+        "Rahu",
+        "Saturn"
+      ],
+      "gemstone": "Red Coral",
+      "mantra": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+      "advice": "Channel energy productively. Avoid unnecessary conflicts. Good for real estate. Stay careful about accidents.",
+      "spiritual_significance": "Courage activation; karmic battles; brotherly bonds",
+      "average_peak_period": "Middle 3 years"
+    },
+    "Rahu": {
+      "duration_years": 18,
+      "duration_display": "18 years",
+      "natural_significations": [
+        "Obsession",
+        "Unconventional paths",
+        "Foreign",
+        "Technology",
+        "Mass media",
+        "Illusions",
+        "Sudden events",
+        "Ambition"
+      ],
+      "body_parts": [
+        "Nervous system",
+        "Skin (unusual disorders)",
+        "Foreign-origin diseases"
+      ],
+      "keywords_positive": [
+        "Sudden rise",
+        "Fame through unconventional means",
+        "Foreign success",
+        "Technology mastery",
+        "Spiritual awakening"
+      ],
+      "keywords_negative": [
+        "Illusions",
+        "Addiction",
+        "Obsession",
+        "Sudden reversals",
+        "Deceit",
+        "Identity confusion",
+        "Health issues"
+      ],
+      "career_domains": [
+        "Technology",
+        "Media",
+        "Foreign trade",
+        "Research",
+        "Politics",
+        "Mass communication",
+        "Film"
+      ],
+      "favorable_for": [
+        "Foreign connections",
+        "Technology",
+        "Mass media",
+        "Breaking conventions"
+      ],
+      "challenging_for": [
+        "Ethical grounding",
+        "Mental peace",
+        "Conventional social life"
+      ],
+      "house_effects": {
+        "1st_lord": "Unusual personality changes",
+        "6th_lord": "Victory over enemies, health obsession",
+        "10th_lord": "Sudden career changes",
+        "11th_lord": "Massive unexpected gains"
+      },
+      "best_sub_dashas": [
+        "Jupiter",
+        "Mercury",
+        "Venus"
+      ],
+      "challenging_sub_dashas": [
+        "Sun",
+        "Moon",
+        "Mars"
+      ],
+      "gemstone": "Hessonite (Gomed)",
+      "mantra": "Om Raam Rahave Namah or Durga Saptashati",
+      "advice": "Most unpredictable dasha. Focus on spirituality. Beware of illusions. Great for unconventional success if Rahu is well-placed.",
+      "spiritual_significance": "Karmic amplification; past life debts; illusion dissolution",
+      "average_peak_period": "Years 6-12 typically most intense"
+    },
+    "Jupiter": {
+      "duration_years": 16,
+      "duration_display": "16 years",
+      "natural_significations": [
+        "Wisdom",
+        "Children",
+        "Guru",
+        "Dharma",
+        "Wealth",
+        "Expansion",
+        "Education",
+        "Religion",
+        "Law",
+        "Husband (for women)"
+      ],
+      "body_parts": [
+        "Liver",
+        "Thighs",
+        "Adipose tissue",
+        "Blood sugar regulation"
+      ],
+      "keywords_positive": [
+        "Wisdom expansion",
+        "Wealth accumulation",
+        "Children",
+        "Higher education",
+        "Spiritual growth",
+        "Legal success"
+      ],
+      "keywords_negative": [
+        "Overconfidence",
+        "Weight gain",
+        "Liver issues",
+        "Excessive optimism",
+        "Guru betrayal"
+      ],
+      "career_domains": [
+        "Teaching",
+        "Law",
+        "Finance",
+        "Consulting",
+        "Religious work",
+        "Publishing",
+        "Counseling"
+      ],
+      "favorable_for": [
+        "Education",
+        "Marriage (for women)",
+        "Children",
+        "Spiritual practice",
+        "Legal matters",
+        "Finance"
+      ],
+      "challenging_for": [
+        "Practical matters if overly philosophical",
+        "Liver health"
+      ],
+      "house_effects": {
+        "1st_lord": "Wisdom and body expansion",
+        "2nd_lord": "Wealth expansion",
+        "5th_lord": "Children, intelligence peak",
+        "9th_lord": "Greatest fortune period",
+        "11th_lord": "Massive gains"
+      },
+      "best_sub_dashas": [
+        "Sun",
+        "Moon",
+        "Mars"
+      ],
+      "challenging_sub_dashas": [
+        "Mercury",
+        "Venus"
+      ],
+      "gemstone": "Yellow Sapphire",
+      "mantra": "Om Graam Greem Graum Sah Guruve Namah",
+      "advice": "Best dasha for spiritual growth and wisdom. Pursue education and dharmic activities. Marriage-children favorable period.",
+      "spiritual_significance": "Dharma activation; guru connection; past life merit reward",
+      "average_peak_period": "First half of the 16-year period"
+    },
+    "Saturn": {
+      "duration_years": 19,
+      "duration_display": "19 years",
+      "natural_significations": [
+        "Discipline",
+        "Karma",
+        "Delay",
+        "Hard work",
+        "Masses",
+        "Longevity",
+        "Property",
+        "Service",
+        "Structure"
+      ],
+      "body_parts": [
+        "Bones",
+        "Teeth",
+        "Joints",
+        "Skin",
+        "Nervous system (chronic)",
+        "Spleen"
+      ],
+      "keywords_positive": [
+        "Discipline",
+        "Long-term success",
+        "Longevity",
+        "Structural achievements",
+        "Mass wealth",
+        "Political success"
+      ],
+      "keywords_negative": [
+        "Delays",
+        "Depression",
+        "Loneliness",
+        "Chronic illness",
+        "Heavy responsibilities",
+        "Losses"
+      ],
+      "career_domains": [
+        "Mining",
+        "Real estate",
+        "Politics",
+        "Labor",
+        "Agriculture",
+        "Construction",
+        "Government service"
+      ],
+      "favorable_for": [
+        "Long-term projects",
+        "Discipline",
+        "Mass work",
+        "Government service",
+        "Karma yoga"
+      ],
+      "challenging_for": [
+        "Quick results",
+        "Joy and celebration",
+        "Health (bones/joints)"
+      ],
+      "house_effects": {
+        "1st_lord": "Hard work pays off slowly",
+        "4th_lord": "Property through hard work",
+        "7th_lord": "Maraka — delayed marriage or partner health",
+        "10th_lord": "Slow but sure career rise",
+        "11th_lord": "Gains through labor"
+      },
+      "best_sub_dashas": [
+        "Mercury",
+        "Venus",
+        "Saturn"
+      ],
+      "challenging_sub_dashas": [
+        "Sun",
+        "Moon"
+      ],
+      "gemstone": "Blue Sapphire (with caution)",
+      "mantra": "Om Pram Prim Prom Sah Shanaischaraya Namah",
+      "advice": "Longest dasha — 19 years. Patience is key. Hard work will eventually be rewarded. Focus on karma yoga.",
+      "spiritual_significance": "Karmic reckoning; discipline; service; liberation through work",
+      "average_peak_period": "Last 7 years after initial struggle phase"
+    },
+    "Mercury": {
+      "duration_years": 17,
+      "duration_display": "17 years",
+      "natural_significations": [
+        "Intelligence",
+        "Communication",
+        "Business",
+        "Siblings",
+        "Analysis",
+        "Writing",
+        "Trade",
+        "Education",
+        "Dual nature"
+      ],
+      "body_parts": [
+        "Nervous system",
+        "Tongue",
+        "Arms",
+        "Lungs (partly)",
+        "Intestines"
+      ],
+      "keywords_positive": [
+        "Business success",
+        "Communication skills",
+        "Education",
+        "Analytical thinking",
+        "Trade",
+        "Writing"
+      ],
+      "keywords_negative": [
+        "Nervous disorders",
+        "Indecision",
+        "Dishonesty",
+        "Breathing issues",
+        "Sibling conflicts"
+      ],
+      "career_domains": [
+        "Business",
+        "Accounting",
+        "Writing",
+        "Teaching",
+        "IT",
+        "Trade",
+        "Consulting",
+        "Media"
+      ],
+      "favorable_for": [
+        "Business ventures",
+        "Education",
+        "Writing",
+        "Communication",
+        "Short trips"
+      ],
+      "challenging_for": [
+        "Single-minded focus",
+        "Emotional depth",
+        "Romantic consistency"
+      ],
+      "house_effects": {
+        "1st_lord": "Intellectual personality",
+        "2nd_lord": "Wealth through intelligence",
+        "3rd_lord": "Writing, communication peak",
+        "5th_lord": "Creative intelligence",
+        "10th_lord": "Career through intelligence/communication"
+      },
+      "best_sub_dashas": [
+        "Sun",
+        "Venus",
+        "Jupiter"
+      ],
+      "challenging_sub_dashas": [
+        "Moon",
+        "Ketu"
+      ],
+      "gemstone": "Emerald",
+      "mantra": "Om Braam Breem Braum Sah Budhaya Namah",
+      "advice": "Excellent dasha for business, education, and communication. Adaptability is key. Keep commitments.",
+      "spiritual_significance": "Discernment; intellectual karma; communication of truth",
+      "average_peak_period": "Middle phase — years 6-12"
+    },
+    "Ketu": {
+      "duration_years": 7,
+      "duration_display": "7 years",
+      "natural_significations": [
+        "Spirituality",
+        "Detachment",
+        "Past life",
+        "Liberation",
+        "Intuition",
+        "Occult",
+        "Isolation",
+        "Sudden loss",
+        "Dogs"
+      ],
+      "body_parts": [
+        "Lower extremities",
+        "Tail-bone",
+        "Nervous disorders",
+        "Wounds (unusual)"
+      ],
+      "keywords_positive": [
+        "Spiritual awakening",
+        "Psychic abilities",
+        "Liberation from materialism",
+        "Occult mastery",
+        "Detachment"
+      ],
+      "keywords_negative": [
+        "Confusion",
+        "Loss",
+        "Detachment (negative)",
+        "Accidents",
+        "Health (sudden)",
+        "Isolation"
+      ],
+      "career_domains": [
+        "Spirituality",
+        "Occult",
+        "Research",
+        "Astrology",
+        "Surgery",
+        "Military (secret ops)"
+      ],
+      "favorable_for": [
+        "Spiritual practice",
+        "Research",
+        "Occult learning",
+        "Detachment",
+        "Past life healing"
+      ],
+      "challenging_for": [
+        "Material pursuits",
+        "Consistent effort",
+        "Social life",
+        "Emotional connections"
+      ],
+      "house_effects": {
+        "1st_lord": "Confusion about identity",
+        "5th_lord": "Spiritual intelligence",
+        "8th_lord": "Sudden transformations",
+        "9th_lord": "Spiritual fortune",
+        "12th_lord": "Moksha activation"
+      },
+      "best_sub_dashas": [
+        "Jupiter",
+        "Mars",
+        "Sun"
+      ],
+      "challenging_sub_dashas": [
+        "Moon",
+        "Saturn"
+      ],
+      "gemstone": "Cat's Eye (Lehsunia)",
+      "mantra": "Om Sraam Sreem Sraum Sah Ketave Namah",
+      "advice": "Highly spiritual dasha. Good for sadhana and letting go. Avoid forced material pursuits. Trust intuition.",
+      "spiritual_significance": "Moksha preparation; past life completion; liberation karma",
+      "average_peak_period": "First 3 years most intense spiritually"
+    },
+    "Venus": {
+      "duration_years": 20,
+      "duration_display": "20 years",
+      "natural_significations": [
+        "Love",
+        "Beauty",
+        "Luxury",
+        "Spouse",
+        "Arts",
+        "Music",
+        "Pleasure",
+        "Vehicles",
+        "Wealth",
+        "Wife"
+      ],
+      "body_parts": [
+        "Reproductive system",
+        "Eyes (both)",
+        "Kidneys",
+        "Skin",
+        "Thyroid (some traditions)"
+      ],
+      "keywords_positive": [
+        "Wealth",
+        "Love",
+        "Marriage",
+        "Artistic success",
+        "Luxury",
+        "Vehicles",
+        "Business",
+        "Beauty"
+      ],
+      "keywords_negative": [
+        "Sensual excess",
+        "Relationship complications",
+        "Kidney issues",
+        "Laziness",
+        "Vanity"
+      ],
+      "career_domains": [
+        "Entertainment",
+        "Arts",
+        "Music",
+        "Fashion",
+        "Cosmetics",
+        "Hospitality",
+        "Finance",
+        "Diplomacy"
+      ],
+      "favorable_for": [
+        "Marriage",
+        "Love relationships",
+        "Artistic work",
+        "Business",
+        "Luxury acquisition"
+      ],
+      "challenging_for": [
+        "Spiritual practice",
+        "Discipline",
+        "Confrontation"
+      ],
+      "house_effects": {
+        "1st_lord": "Charming personality, beauty",
+        "2nd_lord": "Great wealth period",
+        "5th_lord": "Love and creativity",
+        "7th_lord": "Marriage/partnership focus",
+        "10th_lord": "Career in arts/beauty",
+        "11th_lord": "Massive material gains"
+      },
+      "best_sub_dashas": [
+        "Jupiter",
+        "Saturn",
+        "Mercury"
+      ],
+      "challenging_sub_dashas": [
+        "Sun",
+        "Moon"
+      ],
+      "gemstone": "Diamond",
+      "mantra": "Om Draam Dreem Draum Sah Shukraya Namah",
+      "advice": "Longest and most pleasant dasha for many. Focus on love, arts, and prosperity. Balance pleasure with responsibility.",
+      "spiritual_significance": "Bhakti activation; divine love; beauty as spiritual path",
+      "average_peak_period": "Years 8-15 typically most prosperous"
+    }
+  }
+}

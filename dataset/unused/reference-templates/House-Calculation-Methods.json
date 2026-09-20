@@ -1,0 +1,5 @@
+[
+  {"method": "Placidus", "use_case": "Western/KP System"},
+  {"method": "Sripati", "use_case": "Traditional Vedic"},
+  {"method": "Equal", "use_case": "When exact birth time is unknown"}
+]

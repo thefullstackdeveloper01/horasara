@@ -1,0 +1,3 @@
+import { calcCustomVarga } from './vargas.js';
+/** Dynamic D1-D300/custom Varga registry. */
+export class VargaRegistry { constructor(){this.variants=new Map()} register(name,resolver){if(!name||typeof resolver!=='function')throw new TypeError('Varga resolver requires name and function');this.variants.set(name,resolver);return this} calculate(lon,division,variant='uniform'){if(!Number.isFinite(lon)||!Number.isInteger(division)||division<1||division>300)throw new RangeError('Varga division must be integer D1-D300');const resolver=this.variants.get(variant)||((value,d)=>calcCustomVarga(value,d,{strategy:variant}));return resolver(lon,division)} list(){return Object.freeze([...this.variants.keys()])} }

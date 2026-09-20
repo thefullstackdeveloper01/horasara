@@ -1,0 +1,1 @@
+export function createAdminService({subscriptions=null}={}){return {async dashboard(){let subscribers=null;if(subscriptions?.listSafe)subscribers=(await subscriptions.listSafe()).length;return {version:'10.0',subscribers,generatedAt:new Date().toISOString(),security:'token-gated'}}};}

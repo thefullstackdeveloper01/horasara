@@ -1,0 +1,2715 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_k_p_how_to_judge_longevity_k_hariharan.json
+Dataset number: 231 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 128,899 bytes
+Top-level fields: 11
+Title: Jyotish_K.P._How to judge longevity_K. HARIHARAN
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_K.P._How to judge longevity_K. HARIHARAN
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 105
+  • total_words: 22906
+  • text_quality:
+    • ocr_word_validity_score: 0.961
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+HOW TO JUDGE
+LONGEVITY
+By
+K. HARIHARAN
+
+CONTENTS
+PAGE
+About Krishnamurti Padhdhati ... 1
+What is Krishnamurti Padhdhati ... 2
+Longevity— Assessment ... 6
+Longevity ... 10
+On Predicting Longevity of Death ... 27
+Mother's Longevity ... 30
+Longevity of Mother through K.P. Horary ... 34
+Daughter's Chart Gives Clue Regarding
+Mother's Longevity ... 38
+Longevity Through K. P. Horary ... 42
+Premature Death ... 47
+Longevity— K.P. Verified ... 50
+Ascendant an Important Factor in Determining
+Longevity ... 55
+Longevity-Horoscopy ... 58
+Premature Death of a Child ...- 63
+Longevity Assessment and Premature Death of
+the Child ... 67
+Grand Father's Longevity and End Through
+Grand Son's Birth Chart
+
+PaGP
+The Demise of my Officer and K.P. Horary ... 78
+Longevity ... 81
+Child Birth and Short Life ... 84
+Longevity of a Couple ... 88
+Longevity-How Stellar Astrology Precisely
+Predicts — 91
+Doctor Gives Number to Know the Longevity of
+the Patient ... 96
+
+PREFACE
+Astrology is a science which dates back to the times of
+the CHALDEANS. BABYLONIANS AND EGYPTIANS.
+At a time, Monarchs and other members of the Aristocracy only could afford an Astrologer's services.
+Today, we can all take advantage of the knowledge,
+which this science can impart to us.
+To facilitate the common public to understand and learn
+this Art of predictivity, many books have come into the field
+and the Astrological knowledge had spread.
+An Astrologer, to predict the future, requires a Horoscope of the native which consists twelve departments, each
+one signifying a segment of life namely, personality, money,
+brothers and sisters, home, children, health, partnership and
+marital life, longevity, father, career and prestige, friends,
+hidden matters and expenditure.
+Covering these items, many books on Astrology had been
+published by Late Prof. K.S.K., under his famous Padhdhathi.
+all these books covered many items in his readers
+numbering to six, and so 1 have chosen to publish books in
+a more explicable and descriptive manner each of the above
+segments or portion of a man's life.
+In this book, I have chosen to write elaborately on
+Longevity duly giving various lessons to make easy for the
+students of Astrology to assess total span of life from a
+nativity or a Horary Chart, to make the student thoroughly
+familiar with the principles under the system of SUB THEORY
+find also to arrive at the significators connected to MARAKA
+and BHADHKA houses.
+
+The entire lessons are treated with clear explanations
+under Krishnamurthl Padhdhathi (Sub Theory) which is
+gaining momentum and it has certainly revolutionising the
+whole concept of the predictive science of Astrology,
+Longevity is the most important part and f feel that all
+students shall master this subject in the assessment of longevity, before other matters are attempted from a birth nativity.
+It is my earnest wish to publish separate books with
+elaborate and detailed explanations with more examples on all
+other portions of life also, as is done in this book.
+In presenting this book, I have two fold objects to
+fullfil, namely to acquaint the students of Astrology, already
+well conversant with SUB theory, to master the way of
+assessing the span of life ; and to well introduce to the other
+Astrologers the existence of such a system cf K.P, and its
+principles and also bringing home to their mind that such a
+lucid system is available by using which the event of death
+is easily and perfectly predictable and such a task is a trying
+one for Astrologers in general.
+Most of the principles incorporated in this book are all
+tested and verified by late Prof. K.S.K. and his beloved
+disciples.
+I am sure this book will be received well by the students
+of Astrology, more so by those who are versed in ADVANCED
+STELLAR THEORY.
+K. HARIHARAN.
+
+ABOUT KRISHNAMURTI PADHDHATI
+Astrology is a noble science which defines the action on
+celestial bodies upon animate and inanimate ones and their
+action there on.
+The knowledge of Astrology dates back to 5,000 B C. In
+all parts of the world, there are Astrologers and books on
+Astrology in various languages.
+Astrology with these books suffered set back in predictive
+position and gradually reached a stage that the faith in
+Astrology and on Astrologers has gone down badly in the
+recent past, as the rules stated in a work are contradicted by
+those in another work and in the many readers are left to
+guess ultimately.
+At this stage, in the 1st decade of this Century, a great
+soul was born who took pains and did leseareh for quarter
+of a century to find out the lapses in the predictive position
+of Astrology.
+He was the revered Sri K. S. Krishnamurti born on
+1-11 -1 908 of a middle class family of Tanjore District, TAMIL
+NADU.
+The inquisitive mind in him nevar missed the lapses in
+both the system, (Eastern & Western) and after great labour,
+he was led to conclusion, that Astrology as we had inherited,
+is an imperfect Science and the traditional principles passed
+an to us are vaque, general, confusing, contradicting and at
+the same time not universally afflicat9.
+The Western system also suffered from such deficiencies.
+After more than two decades of incessant toil by
+Sri K. S. K., emerged what is known as KRISHNAMURTI
+PADHDHTI, Scientific predictive system, both Natal and
+Horary.
+
+It is a masterly exposition of the STELLAR SYSTEM, an
+Innovation of predictive events and an easy precise guide to assess
+the worth of any birth chart.
+Sri. K.S.K's erudite scholarship caught the eyes of Sri K. M.
+MUNSHI who recognised the need of propagating Astrology on
+sound lines and created a chart, for the subject and appointed Sri
+K S. K. to it and at an annual convocation of the BHARATHIYA
+VIDYA BHAVAN Sri. K.S.K. was awarded in the title "JYOTHISHA
+MARTHANDA" for his outstanding services rendered to
+Astrology.
+He brought about a scientific journal from 1963to spread
+Astrological knowledge and to us "ASTROLOGY & ATHRISHTA"
+came into being, which brought out Articles on KRISHNAMURTHI
+PADHDHATI.
+WHAT IS KRISHNAMURTI PADHDHATI?
+Sri K. S. K., after deep thinking and contemplation was led to
+conclude that there was a missing link in the predictive position of
+Astrology.
+To fill this vacuum, Sri K, S. K. carried on research, with the
+result he could finally find out that Stellar position of planets have a
+major say in the effects.
+An idea of the foundation in which the edifice of
+KRISHNAMURTI PADHDHATI was built, is given here as under:—
+A planet tenanting a constellation affects the matters of the
+house owned by them While the results of the house occupied by
+the constellation Lord are fully brought out, those and the results of
+the vacant houses are also affused.
+If any house is occupied by another planet the tenant
+planet acts only partly through the house occupied by another
+planet, because any other in the constellation of the occupant will
+be stronger to affect the results of that house.
+The occupant of the house will move the matters of the house
+it occupies apart from the results it has to offer due to
+
+its constellation position, if there is no planet, In any of
+constellation.
+The lord of a house will attain thq statusof a significator,
+only if the house owned by it, is vacant and these in no
+planet in its constellation.
+.Whether or not such results as are Indicated by the tenant
+planet will come to pass depending on the 'SUB' position of
+the constellation lordship or constellation to the matters
+signified by the constellation lord of the tenant planet, the
+tenant planet fructifies the matters of which it is the significator due its constellation position.
+If the tenant planet is placed in the 'SUB' of a planet who
+occupies or owns houses detrimental to the affairs of the
+constellation lord, the matter is not fullfilled.
+The SUB lord signifying a house which is Xllth to the
+house denoted by the constellation lord, proves harmful.
+The sub lord should not be in unfavourable aspect to the
+CUSP of the house signified by the constellation lord. The
+aspects are to be computed by reckoning the distance in
+terms of the longitude.
+Ths term 'SUB, needs explanation to understand the same
+in the correct perspective.
+All astrologers know very well that the Arc or the extend
+of a star is 133-20'. It is divided into unequal proposition
+of the Dasa Years allotted to each planet in the VIMSHOTTARI. System of 120 years.
+Each such part is known as the SUB, contracted form of
+SUB-DIVISION.
+The 1st SUB in a Constellation is named after the lord of
+the constellation itself and others follow as obtaining in the
+VIMSHOTTARI Dasa System Viz.. SUN, MOON, MARS,
+RAHU. JUPITER, SATURN, MERCURY, KETHU, VENUS.
+That is in SATURN star, the sub will be that of SATURN,,
+the 2nd SUB that of Mercury, the 3rd one will be that of Kethu
+etc. till the cycle of the nine planets is completed.
+
+A
+In other \frords, if the constellation is akin to Dasa, the
+SUB is skin to bukthi and the SUB-SUB is akin to Anthra
+and so on,
+A planet in the Padhdhati terminology becomes a malefic
+or benefic, not in consideration of its nature, but by reason
+of its owning beneficial or malefic houses or occupying such
+houses.
+Neither JUPITER is benefic nor SATURN is a malefic
+planet.
+Beneficial (Advantage) : 1, II, 111, VI, X, XI
+Malefic (Disadvantage) : IV, V, VII. VIII, IX, XII
+Just as a planet is governed by the star lord and sub lord,
+so also, the CUSP are governed by the SUB lords in accordance with the degree rising on the SUB of the house.
+Prof. K. S K. attaches importance to the sublords of
+different cusps their star deposit and was emphatic to ssy that
+the cusp denote exclusively the indications of BHAVAS
+reflected for the native of "the birth chart and so the cusps
+must be given their due importance in the analysis of the
+chart, NATAL or HORARY, as the cusp exclusively indicates
+the matters of that house alone
+If the Sub lord Of a BHAVA signifies that particular house
+or the connected group of houses telling the matter, or the
+matter questioned is promised.
+If the matter is promised, it will materialise in the conjoint period of the significators of the relevant houses.
+For construction of a house, the relevant houses are IV,
+XI. and XII. If the sub lord of the IVth cusp is in the constellation of a planet in IV, XI and XII, you will be able to
+construct or own a house.
+That is how to proceed.
+Sri K.S.K's another valuable discovery is the discovery of
+the RULING PLANETS, which serve as a master KEY in
+KRISHNAMURTH1 PADHDHATI System. He aptly gave the
+name RULING PLANETS to those stellar bodies that rule over
+
+a particular moment governing-an event a momentum discovery that has simplified predicting an event accurately.
+He further emphasised that his ayanamsa should be
+followed while working out charts Natal or Horary invariably.
+Prof. K.S.K. has divided the entire ZODIAC of 360° into
+249 unequal parts in terms of Vimshottari Dasa, bukthi system
+and each number represents a particular degree and minute in
+the NIRAYANA Zodiac. This system is used successfully in
+giving uncanning predictions under HORARY.
+These discoveries have totally revolutionised the act of
+predicting the destiny and thus opened up a new chapter in
+the annals of Astrology.
+Successful Astrologers do accept that KRISHNAMURTI
+PADHDHATI is the definite improvement in the predictive
+System.
+Let me end this, by telling that K.P. Astrology is also
+traditional Astrology known as HINDU Astrology. But Sri
+K.S.K. filled up the gaps found in the tradition Astrology
+with connecting links and set it on a sound scientific base
+with the introduction of the SUB-LORD theory and RULING
+PLANETS without changing the basic principles apart from
+findingout the system of HORARY against No. 1 to 249,
+through which amazing predictions are being given.
+
+LONGEVITY —ASSESSMENT
+The span of life one to enjoy in this janma is called
+longevity.
+It is classified into 3 groups :
+(a) Short life (0 to 33J years)
+(b) Middle life (33)} to 66 £ years)
+(c) Long life (66 f to 100 years)
+The determination of a person's longevity presents no
+serious problem when a correct horoscope of birth is available.
+After casting the horoscope with the correct birth dasa,
+if one applies the rules stated in the Advanced STELLAR
+ASTROLOGY (Krishnamurthi Padhdhati) as outlined by,late
+Prof. K.S.K.,' one can determine the longevity correctly.
+Suppose one does -not possess his nativity or if his birth
+particulars not being correctly known, without taking chances,
+an Astrologer can predict the event of death correctly by
+resorting to HORARY TECHNIQUE evolved by our Late
+Guruji Sri K.S.K, in which the lagna cusp is fixed in some
+particular Nirayana degree in terms of the number given
+between 1 and 249, which stand for 249 unequal divisions of
+360° ZODIAC, made by him strictly in terms of VIMSHOTTARI
+DASA SYSTEM.
+The 249 divisions are given in this book for reference to
+the students.
+This Padhdhati in sharp contrast to the old traditional
+system jnd methods given to us by our sages, gives simple
+and iiccufatu rules to assess the extent of longevity and the
+time of Djjmise, which had been conjoined after much -
+practical application and tests by Sri K.S.K., and his beloved
+students.
+
+The houses to be judged, primarily are the. ASCENDANT,
+the 1 1 f rd and Vlllth, which gives longevity for the native
+SATURN who is the Chief Governor of longevity.
+The death inflicting houses are lin'd, Vllth, Xllth and
+Bhadhakasthanas. 10th house while discussing about death,
+it takes lead in the direction, as it tells about one's retirement
+from the world.
+In padhdhati terminology longevity should be assumed in
+terms of the strength of Ascendant and its SUB lord mainly.
+According to the strength of the lord of the constellation
+in which the SUB lord of the ascendant is situated longevity
+is assumed.
+Further, one should assess the strength of houses J, III,
+and VIII and the Vrayasthanas of these houses i e., XII, II, and
+VII alio.
+Xrl, II and VII are the death inflicting houses (maraka
+sthanas) and you must also find out the Bhadaka houses.
+BHADAKASTHANAS are the worst malefic* who never
+hesitate to put an end to one's life.
+Of the 12 signs, ARIES, CANCER, LIBRA and CAPRICORN are movable signs (chararasi). To Aries born Aquarius
+is the Bhadakasthana and Saturn is the Bhadakadipathi. To
+Cancer born, Taurus is the Bhadakasthana end the lord ot
+Taurus, Venus is bhadhakashnathipathi.
+Simlarly to LIBRA, the sign Leo and the owner SUN, is
+the bhadhakadhipathi; and to Capricorn, the sign Scorpio and
+its lord Mars are Bhadakasthana and bhadakasthanadhipathi
+respectively.
+For people born in Fixed signs. (STHIRA Rasi), Taurus,
+Leo, Scorpio and Aquarius, the IXth from these signs as
+bhadakasthana and their lords SATURN, MARS. MOON and
+VENUS are Bhadakasthanadhipathi respectively.
+For people born in Common signs (Dwisvabhava Rasi)
+GEMINI, VIRGO, SAGITTARIUS, and PISCES, the Vllth
+house, these form as Bhadhakasthanas and Jupiter, again
+
+Jupiter, Mercury, again Mercury as bhadhakasthanadhipathi
+respectively.
+At the outset, we must work into the LAGNA CUSP SUB
+lord to decide if the longevity is shOrt, medium or long.
+The disposition of the sub lord of the Ascendant is the
+deciding factor in the assessment of longevity
+If the sub lord of the Ascendant is in the star of a planet
+posited in Bhadhakasthmias or Marakasthar.as and also
+connected to VI, VIII and XII. .you must lecfcon the life to be
+very short, even in a Natal chart in general and while
+examining in a Horary chart, it is surely reckoned to be very
+short from that day and time itself.
+If the sub lord of the ascendant is in'thestar of the planet
+situated in l. V, IXand X are owning these houses, this reveals
+the fact that the native of the chart has a long life.
+(For sthira iagnas only the IXth signification of LAGNA
+CUSP SUB lord portends short life. This should be noted).
+If the lagna cusp sub lord signifies both benefic and
+malefic houses, life is medium (middling).
+Vlllth house tells the total period, of one's life to suffer or
+otherwise, lllrd is also on similar lines a supporting factor
+to determine the length of one's life.
+It is needless to state here again that fhe 12th for these
+three houses (i.e., I, ill and VIII,) XII, II and VII ate to be
+taken as Marakasthanas (death inflicting houses).
+I "nave explained above how to arrive at the Bhadhaka
+sthanas. They are more stronger in inflicting death to a
+native and only with the influence of Bbadeka Sthanas death
+is brought about.
+I" the matters of assessment of death, if the planets
+connected to Xth they are also to be taken as maraka, as Xth
+tells, among other matters, the retirement from this world
+altogether.
+
+F
+If a person were to run the conjoint periods of the significator of Maraka and Bhadaka houses, what is the result ? If
+the lagna-cusp sub lord signifies benefic houses, he lives long
+and dies in the above conjoining period that comes after 66?
+years. If the sub lord tell middle age, he dies in conjoining
+period that comes between 33J and 66f years. In similar
+period he courts death before 33^ year, if the sub lord tails
+short life.
+The above rules, and explanations are to be applied to all
+births Including Twins after working out the birth chart or
+Horary chart using- Bala's Ephemeris and Bala's Universal
+Tables of Houses duly deducting Krishnamurthi's Ayanamsa.
+For the benefit of the students various examples are
+given in detail, duly explaining the correct way of assessment
+of the longevity and the period of death under K.P. theory.
+
+LONGEVITY
+According to Western system :
+(a) By progression, if a malefic comes to the cusp of
+any angular house.
+(bj If a malefic forms evils aspect with ascendant.
+(c) If a malefic progresses in the 6th house and afflicts
+the 4th cusp.
+(d) If a malefic progresses in the 8th house and
+adversely aspects 7th cusp.
+(e) If a malefic throws evil aspect from the 12th house
+to the meridian.
+(f) IfJJupitet, though a benefic, forms evil aspect with
+Neptune (MOKSHA),
+(g) If Neptune forms evil aspect with malefics.
+(h) . If Uranus, Saturn or Mars receive strong unfavourable aspect from other evil planets
+()) df they afflict the lord of the ascendent or the
+ascendant; danger for longevity is to be portended.
+So also during transit, such aspects are to be taken to fix
+the exact time.
+According to Hindus, the span of life of a person may
+be classified into 3 groups.
+(a) short life (0 to 33) years)
+(b) middle life (33.) to 66§ pears)
+(c) long life (665 to 100 years)
+Our sages have grouped the following combinations:
+SHORT LIFE:
+1. Moon conjoined with a malefic-not mitigated by the
+-aspect from a benefic and malefic in lagna and 7th bhava.
+
+2, Moon in a kendra (either in 1 or 4 or 7 or 10) and
+melefics in other kendrasthana.
+3. Weak Moon in 1 2 ; evil planets in 8 and 1 no benefic
+in kendra.
+4* Benefics in 3 and 8 afflicted by malefics.
+&. Moon is lagna and malefic in 7.
+6. Moon, Sun and Saturn in 8.
+7-' Mutual exchange between lords of 1 and 8.
+8. Lord of lagna in 3 or 6 or 12-malefics In 6 or 8-no
+favourable aspect from benefics.
+9. Moon, Sun and Mars in 9th house-devoid of beneficial aspects and so on.
+(The above is a general principle. It needs further consideration. One should not declare hastily the results
+applying the above rules alone).
+MIDDLE LIFE:
+1. Saturn in lagna. Moon in 4, Mars in 7, Sun in 10,
+benefics in evil houses.
+2. Jupiter in lagna in Sagittarius, Mars and Node in 8.
+3. Saturn in lagna. Moon in 8 on 12.
+4. Venus in lagna, Saturn in kendra, most of the other
+planets in 3 and 1 1 .
+5. Sun in 7. Mars in 5 and Saturn in Aries.
+LONG LIFE:
+1. No evil planet in kendra ; Jupiter in a kendra position
+counted from lord of lagna.
+2. Moon in 9, no evil in 8, benefics in kendra.
+3. Benefics in between first and 6th houses and malefics
+above horizon.
+4. Leo iagna-majority of planets in Kona-Trine houses.
+
+5. Cancer or Taurus lagna : Jupiter deposited in lagna
+Three more planets exalted.
+6. Cancer lagna occupied by Jupiter. Two planets in
+exaltation.
+7. Leo lagna with Jupiter. Venus in Cancer Mercury in
+Virgo malefics in upachaya stana 3 or 6 or 11
+8. Moon in Pisces, Sun in Cancer, Aries lagna, Seturn
+in Capricorn, Mars in Libra.
+Thus various combinations are given. To my knowledge
+there are 284 such rules. Readers cannot remember all these
+combinations. Each rules can be applied only to a few
+births. They are general. They fail miserably in case of
+twins.
+But our sages have propounded various methods to
+calculate the age of a person. They involve so much of
+calculations that a person needs hours and days to arrive at
+one figure. Those .who would have gone through a few
+magazines, would be knowing many methods as a symposium
+is given. This is this theory. This has confused many ;
+which is to follow and which is correct. God alone has to
+help the reader. Publishers do not advocate any one of the
+various calculations giving reasons.
+The following examples and explanation will be useful.
+This method is applicable to all births including twins.
+1 . Note the correct time of birth and the time of query.
+2. Erect horoscope using Ephemeris and Table of houses.
+3. Deduct Krishnamurti Ayanamsa.
+4. Note the Ascandant-Nirayana position-referring to
+the table ascertain the lord of lagna, the lord of the constellation and the lord of the sub. Dasa lord is the lord of the
+constellation ; bhukthi lord is the lord of the sub.
+If that person were to run the conjoined period, o f these
+three planets, what would be the result ? Will he lead a
+healthy liff- or will he suffer ? If tho suh halongs to 4 benefic.
+
+he lives long. If the sub is governed by a malefic, his life is
+short. This is very clear in the case of twin births where one
+lives and the other dies. The sub lord is the deciding factor.
+If the sub lord is a benefic, then it is necessary to calculate and find out the span of life. Lords of 1 , 5, 9, and’lO are
+benefics.
+Lord of 7,8 and 12 are malefics. If lords of 1 , 5, 9 and 10
+also rule 5 or 8 or 12. consider the planet as mostly a benefic.
+The planets owning other houses are considered as a
+benefic or as a malefic, by noting the other house which
+they own, How to judge the longevity is explained with two
+examples Bhadakasthana.
+Kendradipathya and Marakasthanas are explained.
+•Ex 1. Chart js as follows : —
+Mars, lord of iagna rules the sub of the ascendant. Health
+vitality, resistance against infectious diseases, immunity,
+activity are judped from the strength of the ascendant, planets
+in the lagna bhava, those occupying their constellation, the
+
+good or bad aspects to the ascendant and to the lord of the
+ascendant.
+Benefics in the ascendant contribute for long span of life,
+Lord of the ascendant forming favourable aspect with the
+ascendant or receiving harmonious aspect from benefics
+promise long life.
+Ascendant is Scorpio. It gives good health and much
+actiyity
+Its lord is Mars. As per Hindu System it is aspecting the
+lagna and fortifying it. Therefore health and longevity are
+assured by Mars.1
+Disease is indicated by the 6th cusp 6th house, planets it
+the constellation of the occupants of the 6th house, the
+occupants of the 6th house, the planets in ihe constellation of
+lord of 6, the owner of the 6th house, planets conjoined with
+them or aspected by them affect the health and cause such
+disease signified by them when they operate their dasa or
+bhukti or anthra and there is aspect to them by progression
+and by transit.
+In this .case (so also Taurus bcrns) lord of 1 is also the
+lord of the 6th house. So the same planet owns both the
+ascendant indicating health and also the 6th house threatening disease. Then when Mars (lord of 1 and 6) dasa or
+bhukti or anthra is on. how to say whether one will maintain
+robust health or one will fall ill as Mars has to offer health
+and cause disease also ? Note down which planets form
+favourable aspects with Mars and the ascendant) and which
+form (a) adverse aspects w.th Mars, (b) good aspect with the
+6th house and (c) adverse with ascendant. He will maintain
+good health during the dasa or the conjoined period of Mars
+and the benefic who from harmonious aspects with the
+ascendant and the lord ot the ascendant. He ought to have
+fallen ill and he will have ailment during the dasa of the
+planet forming evil aspect with ascendant or good aspect
+with the 6th cusp or lord of 6 or planet in 6. According to
+K.P., significators of 6th house ’ruling the sub period in Mars
+dasa will cause disease and significators of If give cure.
+
+8th house isLcalled the house of "Longevity". Therefore
+planets in the constellation of evil planets In the 8th house,
+except Saturn, occupants of the 8th house planets in the
+constellation or in the sub of lord of 8, lord of the 8th cusp
+and planets in any manner connected with them threaten (a)
+danger to one's life (b) the cause of death and (c) the place
+of death.
+But houses 2 and 6 are maraka houses and 12th house
+indicates moksha. The reason is as follows. Houses 1, 8
+and 3 are judged for longevity and benefics in these houses
+contribute for long life. 12th house to any bhava is the
+negation of the bhava. Therefore the 12th house to 1,8 and
+3 are 1 2, .7, and 2 and they are evil for one's longevity. That'
+is why, houses 2 and 7-are said to be marakasthanas and 12
+is called the mokshasthana. ,
+So one is to judge the houses,’ 1, 8 and 3 and then 2, 7
+and 12.
+First of all one is to judge whether a person is promised
+"Poorna Ayush i.e., full course of life running between 66 and
+100 or Madyama or middle life (age between 33 ann 66) of
+short life (between 0 and 33).
+Then one is to workout, calculate and ascertain (a) which
+planet will rule thedasa in that age and the area covered by
+the maraka planets; (b) according to progression, the time
+when the lagna, the lord of the lagna and the very slow
+moving planets Saturn, Uranus and Neptune receive evil
+aspects; (c) according to transit (Gochaiam) when evil
+aspects are formed to the ascendant, its lord etc. As per K.P.
+when significators transit in such sensitive points ruled by the
+slgnificators.
+Also, erect a chart for the moment at which there is the
+urge for one to answer the query and note the evil planets for
+that moment. Ruling planets for that moment reveal,
+Finally ask the person to mention a number within 249,
+consider 'he position of the planets and judge. These are for
+confirmation and confidence.
+
+BHADH4KA STHANA :
+According to .the Hindus, bhadhakasthanadhipathis are
+the worst malaficswho wili never hesitate to put an end to
+one's life. Of the twelve signs, Aries. Cancer, Libra and
+Capricorn are movable-chara-signs, and the 11th house
+counted there from are bhadhakasthanas i.e., to Aries born,
+Aquarius is the bhadhakasthana and the lord of Aquarius is
+the bhadhakasthanadhipathi. To Cancer-born, Taurus is the
+bhadhakasthana and the lord of Taurus, Venus is the bhadhaasthanadhipathi to Cancer borns Similarly to' Libra the 'sign
+Leo and the Luminary Sun and to Capricorn, the Sign Scorpio
+and its lord, Mars are bhadhakasthanas and bhadhakasthana
+adhipathis.
+For people born in fixed signs Taurus, Leo, Scorpio and
+Aquarius, the 9th sign from those houses are bhadhasthanas
+end their lords are bhadhekasthanedhipathis.
+For people born in common signs Gemini, Virgo, Sagittarius and Pisces, the 7th house therefrom and the lords of
+those houses are bhadhakasthanadhipathis.
+HOW TO JUDGE:
+1. Of all the planets, those which occupy the constellation of the occupants of the bhadhakasthana are the most
+evil. Next, the occupants of bhadhakasthana of the planets
+occupying the constellation of the lord of the bhadhakasthana, and the lord of that evi! sign, those in the constellation are stronger. Also, the planets conjoined with them or
+being aspected by them acquire unfavourable effects
+KENDRASTHANA:
+2. Next, the Hindus consider kendhra adhjpathyam as
+harmful waxing Moon, unafflicted Mercury, Venus and Jupiter
+owning the houses 1.4,7 or lOcountedfrom lagna are regarded
+as kendhra adhipathis and a few astrologers are terribly afraid
+of them as thev have not collected materials and studied
+from the facts and figiras
+There are hundreds of people, born in the years 1909 &
+1923 in the ascandam Virgo with moon in Hasiham star,
+
+having Jupiter in the maraka sthana, two, owning the kendhra
+houses 4 and 7 who art now living having enjoyed their lives
+for 16. years of Jupiter. dasa and are now 'running Saturn
+dasa. Therefore to decide one's longevity, taking kendhradhipathyam is not correct, Many other methods .are to be
+included.
+MARAKASTHANA:
+3. Next consider the planets in the constellation of those
+in Marakasthanas, the occupants of maraka sthanas, those in
+the constellation of marakasthanadhipathis, the lods of
+marakasthanas, and those conjoined with Or aspects by them.
+Thus one is to analyse and judge.
+The lagna of the example horoscope is Vrischika. it is a
+fixed sign. The 9th house is the bhadhakasthana. Moon Is
+the lord of the 9th house. No planet is in the bhadhakasthana. Hence one is to consider its lord Moon after judging
+the strength of the planets in the coastellation of Moon i.e.,
+Rohini or Hastham or Sravanam, Only Mars in Rohini star.
+Venus is a kendradhipathi owning the 7th house. Venus
+alone is in Bharani governed by Venus,
+But there is a note in one of .the signs of Venus and Kethu
+in tha sign of Mars. Rahu represents Venus; Kethu denotes
+Mars,
+But there is a node in one of the signs of Venus and
+Kethu in the sign of Mars. Rahu represents Venus; Kethu
+denotes Mars.
+Therefore Rahu and Kethu are definitely evil. Tenant is
+stronger than owner.
+As puma ayush is promised by the aspect of Mars to
+lagna, Jupiter's aspect to lord of lagna etc., and as it is, he is
+now running 63 years of age, consider which dasa will prove
+to be evil. Mercury dasa Venus bhukthi from 4-6-1962 will
+operate upto 4-4-1965.
+Venus in the 6th bhava, in the dasa, of lord of 8 can
+cause cataract in the eye. It will be developing in this period
+and in the bhukthi of Sun, in the constellation of lord of lagna
+Marsfwfll give vision with aid of a surgeon.
+
+Later Moon bhukthi will be pleasant which will be
+continuously enjoyed during Mars sub period.
+Rahu bhukthi begins on 7-7-1968. Rahu is undoubtedly
+evil. Dasanatha Mercury, lord of 8, in the constellation of
+Rahu. in mokshathana, representing kendradhipathi Venus, is
+also undesirable. Kethu in the constellation of Mars is not
+favourable. Kethu is in the 6th sign, but in the 5th bhava. It
+is said that Kethu in the 5th house conjoined with marakasthanadhipathi will inflict death.
+Therefore Budha dasa, Rahu Bhukthi, Kethu anthra' will
+be the end.
+Budha dasa, Rahu bhukti. commences on 7-7-68; Kethu
+anthra will be between 2-1-70 and 25-2-70.
+As per transit on 18-2-70. Saturn will be in Kethu star.
+Saturn sub and conjoins [exactly Kethu (the anthranatha),
+opposing Rahu, the bhukthi natha.
+Therefore longevity upto 18-2-1970 is promised,
+this native passed away at 7-30 a.m. on 18-2-70)
+Example II — Mars. Rajayogadhipathi rules the sub.
+
+Sub lord of the ascendant shows one's health, vitality,
+immunity and longevity. Planets, benefic, by lordship,
+occupying lagna, do not guarantee for long span of life; so
+also malefics to affect health. Though Cancer natives are
+considered to be fragile jn their youth, they pick up health
+later and lead a healthy life, yet longevity depends upon the
+exact position of the lagna, the sublord and the lord of the
+constellation, in which the sublord Is deposited.
+6th house shows disease. Planets occupying or owning
+the house are weaker in strength than the planets in the constellation of the occupants and owner.
+8th house shows unexpected minor or serious Incidents
+affecting one's health and causing anxiety to life.
+12th house threatens with danger, hospitalisation end
+end of life (Moksha).
+Houses, 1, 8, and 3 are to be examined to ascertain whether one will live long or is blessed with short life. The
+houses 12'to 1, 8, and 3 are 12, 7, and 2. Twelfth house to
+any house is the house of negation to the next house Hence,'
+houses 1 , 8 and 3 are the houses of longevity whereas houses
+12, 7 end 2 are the "Maraka Houses".
+The planets, in the constellation of the occupants of the
+bhadhakasthana, are the strongest evils; next the occupants
+of bhadakasthana ; next those in the constellation of the lords
+of the bhadakasthana and lastly the lords of these evil houses.
+Next, one is to judge the maraka sthanas, the second and
+seventh houses, whatever be the sign in which ascendant
+falls. Having considered and selected the strong evils, note
+when they will operate conjointly (according Udu Oasa
+System).
+Lagna is Cancer: It , is a movable sign, 11th house to
+Cancer is the bhadhakastana, i.e., Taurus, Neptune alone is in
+Taurus. As Neptune is not allotted any star, no planet is in
+the constellation of the planet in bhadhakasthana.
+Venus is the lord of the sign Taurus. BaranI, Poorvapatguni and Poorvashada are ruled by Venus. No planet
+occupies the constellation of Venus. So Venus itself is a
+
+significator. It is in the constellation of Rahu which occupies rnarakasthana. Therefore Venus is a very strong evil
+planet
+Leo is the 2nd house, and its lord is Sun. It is the maraka
+sthanadhipathi to Cancer-boms. No planet is found in the
+second house, Rahu is in Sun’s star. Sun is in the constellation of Saturn. Saturn is .maraka sthanadhipati. Sun is
+another rnarakasthana. Its lord is Saturn It was in its own
+constellation. Therefore both are evil.
+Saturn's stars are Pushya, Anuradha and Uthrattathi
+Uthrapathrapada). Majority of the planets are under the sway
+of Saturn. Kethu is in Pushyam star. But all the planets in
+Scorpio, i.e.. Sun, Mars. Mercury, Saturn and Uranus are in
+Anuradha star, None is in Utbrapatharapada. When the
+majority of the planets Bre in the same star, find out in which
+sub according to Krishnamurthi Padhdhati they. are. Those
+planets in the star of Saturn and the sub of the other significators fcr death are definitely EVILS; Mars is the strongest
+malific.
+(a) as it is in its own sign ;
+(b) as it occupies the constellation of Saturn, and
+(c) the sub of Mercury.
+Hence Mercury, Mars, Saturn, Venus and Sun are evil.
+As Mercury dasa is operating, select Mars sub petiod. In
+that sub period, the conjoined sub sub of Saturn, Venus end
+Sun will operate.
+It will be after 1 9-12-1972; it will be in the second half
+of February 1973.
+Sun will transit ip the 2nd degree of Nirayana Aquarius,
+whose constellation is ruled by Mars and the sub ruled by
+Mercury. Hence when Sun transits in the 8th house, i.e., in
+Saturn's sign Aquarius, in Dhanlsta stsr governed by Mars,
+and the sub of Mercury in the 3rd week of February 1973,
+health will fail.
+Therefore planets promise l<Jpg life till atleast 15*2*1973.
+This person is yet alive.
+
+MODE OF DEATH :
+Hindu sages give many combinations and mention how
+on® meets with. one's end. One need not apply strictly. It is
+to be modified to our age.
+DEATH THROUGH A LION :
+(a) Sun and Moon in 6 or 8
+(b) Mars in 4 and in 1 0
+(c) Mercury in Jupiter's sign, Mars in the sign of
+Saturn Tiger.
+DEATH THROUGH COBRA BITE OR SEPTIC OR
+POISONING:
+(a) Rahu and Venus in 10,
+(b) Rahu and Sun in the Navamsa of atmakaraka and
+aspected by evil planets.
+(c) Mars in 4, Saturn in 8 and Sun in 10.
+(d) Saturn in 2, Moon in 4, Mars in 10.
+(e) Saturn, Sun and Rahu in 7.
+DOG BITE:
+(a) Sun in 4 ; Jupiter and Mars in. 10.
+(b) Malefic in 12 and 8.
+FIRE ACCIDENT:
+Moon in Aries or Scorpio and hemmed ,in between
+malefics.
+LATHI CHARGE:
+Mars in 10, Sun in 4 aspected by Saturn.
+Waning Moon.in 8, Mars in 10, Saturn in 4 and Sun in 1,
+GAS:
+Moon in 10, Mars in 9, Saturn in 1 and Sun in 5-gas,
+smoke carbon monoxide.
+End: Pleasant, Painful, good or bad
+Benefics in 8, 8th cusp receiving beneficial aspect at
+birth show peaceful and pleasant end.
+
+Malefi'cs, especially Saturn in 8, threaten prolonged ailment and long suffering cr accident by falling down Uranus
+threatens unexpected, sudden end, mostly due to accident,
+electrocution, sunstroke, aircrash. etc.
+Neptune indicates poisoning, drowning and unnatural
+death. Mars in 6 bad end,
+Mars in 12, Saturn in 8-dirty daath. Sun with lord of
+lagna in Capricorn or Aquarius-lightning or electrocution.
+Moon and lord of 9 in 8-peaceful death. Saturn in 4, Moon
+in 7 and Mars in TO. drowning.
+Sun and Moon in a dual sign-drowning.
+Thus many yog8S are given by our sages. To commit, to
+memory and to recollect at the time of scrutiny of a horoscope
+is a problem, almost close to 'impossibility.
+Also, they say, find out the 22nd decanate from the lagna
+and judge the characteristics of th=s decanate lord and predict
+the mode of death. On finding out the decanate occupied
+by lord of the 8th house. Its lord will reveal the mode of
+one's end. As at the outset, it fails in the case of births with
+a short interval between the two, like twins, the above is to
+be taken as a general principle alone,
+But according to Krishnamurthi Padhdhati, one is to take
+that : —
+(a) danger is indicated during the conjoined periods and
+sub-periods of the lord of the sign, lord of- the star and the
+lord of the sub where the 8th cuso falls and the lord of the
+constellation in wr.ich the sublord is deposited.
+(b) danger shown during the conjoined period of the
+lord of the sign, lord of the star, the lord of the sub and the
+lord of the constellation where the lord of the 8th house was
+deposited : or
+(c) if the sub is ruled by a benefic, promising long life
+or cure, even tnougn there is danger, one will escape and
+survive. If the sub lord is a malefic, significator of death one
+will succumb to it. Jupiter sub shows pleasant end; Mars
+sudden ; Saturn chronic and lingering one.
+
+PLACE OF DEATH
+If the sublord of the 8th 'cusp is the significator of the
+houses 1, 4 and 10, shows that the and is in his own place.
+If the sub lord of 8th cusp is the significator of 3rd house
+Shows that while one is making a short journey, mostly on his
+return journey, one passes away. Sublord of cusp 8, if significator of the houses 6 or 8 or 12 indicate, death in the jail or
+in the hospital or in an unknown place.
+If the sublord of the 8th cusp is the significator of 9th
+house death will happen during long journey or in a far off
+place :
+AIR ACCIDENT:
+The horoscope of one who was born with Moon and
+Jupiter in Cancer like Lord Shri Rama, having a similar name,
+was one of the 117 passengers by the Air India Boeing 707,
+reported to have crashed, is as under :
+The other horoscope belongs to his wife who survived.
+Male chart-born on 2-11-1931 Monday.
+
+Jupiter dasa balance 3 years, 8 months, 28 days.
+The following is the chart of the wife who has survived
+her husband.
+Mercury dasa balance 4 years, 5 months, 24 days. By
+air crash it is meant.
+(a) one has the opportunity to go by air, on a, long
+journey.
+(b) and the unexpected end.
+(c) in a far off place.
+Long journey is indicated by the 9th house. Planets in
+the 9th house are Moon and Jupiter. Rohini, Hastham and
+Sravanam ere ruled by Moon. Kethu alone is in Hastham.
+Mercury is lord of 9. It is in Shookshma Parivarthana
+yoga with Jupiter. Venus, Mercury and Moon are in Jupiter's
+constellation. Jupiter alone is in Mercury's constellation.
+Hence, Mercury, Jupiter, Moon, Venus, and Kethu are the
+signiftcators.
+
+Find out whether there is a node occupying the sign of the
+significators. Rahu is in Pisces ruled by Jupiter. Hence take
+Rahu as the strong significator. ‘
+Therefore, the conjoined periods of Mercury, Rahu,
+Kethu,' Venus and Moon should create a chance to go overseas.
+Actually, he left India during Mercury dasa, Rahu bhukti,
+Venus'anthra, Saturn shookshma, as Mercury is in 12, in his
+own sub. Rahu is in bhadakasthanadhipathi Sun's sub
+Venus is in the constellation of Jupiter and sub of Moon
+(both. in 9). Moon is the constellation of Jupiter and sub of
+Moon. All these are connected with 3, 9 and 12: hence he
+made the journey.
+Why should there be an unexpected end ? Danger and
+death are denoted by the sub lord of the cusp of the 8th
+house. Sublord is Jupiter, Lord of 3 in 9 in the constellation
+of lord of 9, Mercury, who is always for travels. Venus
+denotes the vehicle ; Mercury, the travels, Hence, this end
+was far away from native place. As the same planets rule
+the sub of the 8th house there was danger.
+Let us note the ruling planets then. It was a Monday
+ruled by Moon The star was Sathabhisha governed by Rahu.
+The sign is owned by Saturn. The ascendant at that time of
+the crash might be 11° Capricorn. In the constellation ofT
+Moon and it would have coincided with Mercury i.e., to the
+place of accident. Mercury would be rising in,' the East then.
+Why should the lady lose her husband in a far off place ?
+She was running Venus dssa, Mercury bhukti, Venus
+anthra. The 7th cusp is to be taken as the ascendant of the
+husband. Then Venus is in t'ne constellation of lord of 6
+Mercury who is in the constellation of lord of 8 Sun, This
+disposition is danger to husband.
+For her, tne 8th house shows mangalyam. If receives
+aspect from Viercury, Sur/ and Mars. This combination
+indicates Mercury, during travels. Sun; by fire accident;
+Mars, sudden end to him causing Dhurbagyam to her.
+
+Look at the Yogas in her chart ; Chandra Mangala Yoga :
+Sunapha Yoga ; Lagna Adhi Yoga ; Nipuna Yoga ; Vesi Yoga ;
+etc. What have they done to her ? Let traditional astrologers
+consider these and correct themselves. Is there any amangalya
+yoga?
+From the above discussion it will be clear as to how
+K, P, Method gives ^accurate predictions even to such tricky
+problems and that too in a logical and lucid manner.
+Long live K. P.
+
+ON PREDICTING LONGEVITY OF DEATH
+Innumerable rules and planetary combination are given in
+the classic books on Astrology, and with there to determine
+the longevity of a native has been proved a hard nut to crack.
+Opinions of those authors differ much and we are left to
+ponder over as to what is the correct method of divising the
+time of demise.
+On the other hand K. P. gives, as given in 'previous
+articles, simple and accurate rules to caldutate the length of
+life and the time of death, which has been confirmed after
+regular tests by Sri K. S. K. and his disciples.
+Lagna, the llnd and the VII Ith are the houses to be
+judged primarily Saturn is the chief governor ofjongevity.
+It has been already explained that II, VII houses are
+maraka houses along with the Xllth which is being Xllth to
+lagna.
+Bhadhaka lords are more malefic to end the life and they
+have been the Xlth lord for those born under movabie signs,
+IXth for fixed sign and lastly VI Ith for common sign.
+Prof, K. S/K, has simplified this and explained to us the
+theory and findings over longevity as under : —
+If ascendent sub lord is a benefic and if it signifies
+houses, 1, 5, 9 and 10 or if it owns or occupying these houses
+the longevity is all right, Houses 6, 7, 8 and 12 are bad and if
+the ascendent sub lord signifies these ones longevity is bad.
+Also in Horary astrology, if the "ascendent sublord
+signifies Maraka and bhadhakasthanas, life is short.
+To verify the authenticity and accuracy of these rules and
+followed by is chart of John F. Kennedy, President of U.S.A.
+cast under K. P. is taken up ; —
+Date of birth : 29-5-1917
+Place of birth - : 42°-0' N Lat, 10° -Q' E Long
+Ayanams8 of K.S.K. ; 22°-36'
+
+Balance in Venus period at birth : Yrs. 3-10-24 days .
+
+To assess the longevity in a native we have to examine
+the ascendent and its cuspal sub lord.
+Jupiter is the sub lord of ascendent cusp.
+This planet owns the VI and V 1 1th cusps and is in the
+Vllth bhava.
+It has been noted that Vllth is the bhadhakasthana for
+common signs. Hence the birth has taken place in Virgo a
+common sign.
+The above sub lord Jupiter being in Vllth has attained the
+bhadhakasthanathipathyam fully no planets in Jupiter star
+and the ascendant sub lord Jupiter with its disposition in the
+Vllth bhava as the lord of Vllth and Vlth is not at all a good
+factor for long life.
+The same Jupiter is in the star of Kethu in IXth bhava and
+this tells a' long life.
+But the star lord Kethu represents Mercury who lords
+X! fth cusp and posited in the VI llth bhava, in closer proximity
+to Mars owner of Vllllh cusp. This simply shorten the life
+span.
+President Kennedy's death suddenly at the age of 46, the
+above combination and the ascendant sub lord is dispositions.
+I like to explain astrologically the violent death of the
+President on 22-11-1963.
+VI llth cusp and bhava tells about the native of death.
+Here the sub lord of the Vlllth cusp is Mercury and the
+same Mercury is in association of Mars in a violent sign
+ARIES accounts for this nature of death.
+President passed away in Jupiter Dasa, Jupiter Bukthi,
+Moon Anthra.
+As already stated Jupiter is a full Maraka and Bhadaka,
+as Jupiter is in Vllth having no planets in its stars,
+Moon is in the star of Venus, owner of ||, Marakasthana
+and it is in yill enhancing the power Pf Moon to inflict death.
+
+MOTHER'S LONGEVITY
+Following is the horoscope of a child born on 27-10-68,
+Sunday at 7-30 p.m. 1ST at’ 11°N Lat. and 77°-0' E Long.
+The baby was born on 27-10-1968 and the mother fell ill
+and was admitted in the hospital.
+In spite of the treatment, she breathed her last on
+16-11-1968 leaving her beloved child to the mercy of the
+almighty. Mother survived only for 20 days,
+On the basis of Krishnamurti Padhdhati, reasons, why
+the child's mother died within a spell of so short period is
+clearly obvious. The Padhdhathi alone can explain.
+
+At the time of birth the cuspal and planetary positions
+First of all, we must see the position of the IVth cusp to
+find put the longevity of mother.
+Here the IVth cusp falls in Cancer 27°*1 5'.
+We should find out of this IVth cusp is well fortified or
+adversely expected and rendered weak.
+The IV cusp owns in Moon and the cusp falls iin the
+constellation of Mercury and Sub is ruled by Jupiter.
+Moon is the general karaka of Mother and aiso owner of
+the IVth cusp that tells about mother. Moon is the VI Nth
+bhava, but on the IXth cusp. I Xth is the VI th from IVth
+telling about illness. Moon ie in the constellation of Sun.
+Sun owns the Vth cusp which ie a Maraka House for mother.
+Thus Moon is highly afflicted.
+IVth cusp is under the constellation of Mercury, Mercury
+js in the star of Moon, on the Vlth cusp and Mercury U in the
+
+Vth the Maraka house for IVth and is in the sub of Moon
+signifies Vth house. Thus Mercury is also afflicted.
+Jupiter is in the constellation of Sun, owing Vth which is
+the Maraka house for mother. Further Jupiter is in Vth having
+no planet in its stars Vishakam, Purattadhi and Punarpoosam.
+So he is a full significator of Vth in the Marakastanam for
+mother. Jupiter is further in the sub of Saturn signifying the
+Vth again Maraka housa for mother. This is vital point to
+tell how the longevity of mother is badly cut down.
+As' these combination in terms of the IVth cusp and the
+Karaka Moon, go a long way to tell how the longevity of
+mother is badly afflicted with the result the mother was short
+lived and lived only a very few days, after the baby was born.
+At the time of birth the baby was running Sun period.
+Mars bukthi, Jupiter Anthra.
+Now. we should find out in whose period the mother
+passed away.
+For that we should select the strongest significators
+bringing about her death.
+Mothers Lagna is Katakam. It is a chara rasi (movable
+sign), XI is the Bhadakasthana. Mercury is the owner of the
+Bhadakasthana (for IV, M is the XI). As llnd 'cusp falls in
+Gemini 3 - 1 5'. Mercury is in the Marakasthana for IVth cusp.
+But these are planets in Mercury' star and so he is not to
+bring about death. Saturn is in Mercury star and so Saturn
+is a Bhadhaka. Then consider Marakasthana !i and Vllth from
+IVth are Marakasthana. They are Vth and Xth.
+Vth is ruled by Sun.
+Jupiter is in Sun star-Uthradam.
+Moon is in Sun star Uthradam,
+Mars is in Sun star Uthradam.
+Jupiter is in Vth having nO planets in its stars,
+Kethu is in Vth having no planets in its stars.
+So the Sun, Jupiter, Moon, Kethu and Mars are Marakhas
+Xth is ruled by Saturn.
+
+Saturn is in the star of Mercury in llnd. Owning the llnd
+cusp the badhakasthanam,
+Venus is in Saturn star Anthra.
+No planets in Xth.
+So Saturn snd Venus are death inf.'iciting planets.
+The demise came on 16-1 1-1968 on that day the child
+was having Sun major period, bukhthi of Mars and anthra of
+Saturn.
+These three planets find in a strong place birth Ii9t of
+marakhas and Saturn bukhti, anthra lord is in more a bhadakha, as well as a marakha as she was death cusp which is the
+Vllth from the IX denoting mother.
+On the moment of death 5 p.m. on 16-1 1 -1968, it was
+Moon sookshma. It has been explained about that Moon is a
+marakha, being in the star of Sun, owner of V cusp.
+It was a Saturday, and Saturn rules the day, and Saturn
+is both Marakha and Badhaka.
+At the moment of passing away the luminary Sun was'in
+Vrichikam, Mars Rasi, in the 'constellation of Visakam of
+Jupiter and in the sub of Mars. Mars, Jupiter is needless to
+repeat that they are .strong Marakhas.
+The another luminary Moon was at that moment in
+Mercury Rasi Virgo is Uthradam Sun Constellation and in the
+Sub of Venus who are also strong significators of 'death.
+At that moment of passing away, the lagna degree was
+in the sign aries in the constellation of Bharani of Venus.
+The student may well note how Krishnamurti Padhdhathi
+pin points the time of-occurence of events.
+
+LONGEVITY OF MOTHER
+through K. P. Horary
+I and My younger brother are discussing about the
+correctness and efficacy of Krishnamurthi Padhdhati and
+during the course of discussion and chat, my brother evinced
+his interest in knowing the longevity of our mother, aged more
+than 75 and suffering from high blood pressure since lOyears.
+I thought to solve the query resorting to Horary method,
+propounded by late Prof. KSK, Accordingly I told him to give
+a number between 1 and 249. He said "235".
+The Data forming the basis of the Horary investigation
+is as follows :
+Takingup for Judgement : 1 -40 P.M. I.S.T.
+Place 22°-42' N. Lat.
+71 MO, E Long.
+Ayanamsa used: 23°-3V (KSK)
+
+Planets
+Star lord Sub lord
+Saturn Rahu Jupitei
+Rahu Mars Jupiter
+Kethu Mercury Jupiter
+If the Ascendant is in movable sign, Xlth house in the
+bhadhakastana, if the ascendant falls in a fixed sign IXth
+house is the Bhadhakastana, it the Ascendant falls in a
+common sign, th'e Vllth is the bhadhakastana.
+Whatever be the sign while the ascendant falls, the
+llnd and the Vllth houses are Marakastanas. Therefore one is
+ro judge all these three houses and find out the significators.
+If the query is for younger sister or brother, take third
+house connected from Horary Lagna as the Ascendant for that
+youngster. If it relates to mother take the fourth house. If it
+refers to children take the fifth house, 33 Lagna to childrenFor wife take the seventh, for father take the ninth and
+for eider brother o; sister take the eleventh and find out.
+Here the query is about mother to consider the IVth
+cusp as ascendant, All’ calculation will be considered hare
+from IVth' cusp as ascendant.
+
+i shall again write the Horary chart and rearrange the
+cusps keeping the IVth as Lagna for making easy for students
+to understand the system a'nd proceed.
+Note the sublord of rhe ascendant. If he is deposited in
+the constellations of the significators of Badhakasthana and
+Marakesthana, the life will be short from the time of the
+judgement. It will not be for many years.
+If the sub lord of the ascendant were to be in the constellation of the significator of 6th house, the person will
+suffer from disease but [will not succumb to it. And if the
+sub lord of the ascendant is deposited in the constellation of
+the significator of the eigth house, he will meet with accident.
+If the sublord of the ascendant is in the Horary chart in the
+significators of theXIlth house, he will be in bed for a long
+period and may be hospitalised.
+Death is indicated only by the significators Marakha and
+Bhadhakasthana.
+According to the strength of the lord of the constellation
+in which the sublord of the ascendant is deposited, one has
+to fix the dasa and sub periods. The conjoined period of the
+significators will operate and indicate the life span.
+
+Here the ascendant of the mother is 7’-28' Gemini. It's
+Mercury sign, star and subiord is Rahu.
+Rahu is placed in Xllth house and is aspected by Jupiter
+the Vllth lord (both Badhakha and Marakha). Rahu is in the
+star .of Mars and sub of Jupiter, Mars is lord of Vlth in closer
+proximity wrth Venus the Xllth lord and also with Mercurythe
+lord of IVth that tells the end of life. Sublord Jupiter is the
+Badhakha and .Marakha.
+Hence Rahu is the significator of IVth, VII and Xllth,
+and so it is evil to cause death of the mother of the querent.
+Stariord Mars is along with Venus lord of Xllth* (Moksha)
+hence Mars is weak in strength. So the sublord Jupiter is
+badhakha and Marakha and it is too weak also. So it le" JS
+to say that querists mother's life is too short.
+Further I looked into the VI cusp, as it tells the strength
+of the current disease and health condition.
+VI cusp sublord is Mars here.
+Marshs posited in the third bhava along with Venus the
+lord of XII and Mercury lord of I. Mars is in the star of Kethu
+in VI, Mars and Venus is closer proximity, Venus is karaka
+for kidney, urinary disorders whereas Mars shows disease of
+private parts.
+Mars, Venus and VI Cusp are fixed signs which tells that
+she will be suffering from kidney disorder for a long duration.
+She was admitted to hospital during October 1983, for
+kidney "trouble.
+The Xlth cusp sublord is Venus, n is in Kethu star and
+in Venus sub. Star lord Kethu is in VI with Jupiter lord of
+Badhaka and Marakha. Sub lord Venus is lord of Xllth. This
+tells about non recovery from illness.
+If the Xlth cusp sub lord signifies I, V, or Xlth one can
+recover from ill-health.
+On 5/6-10-83 Wednesday at 4-40 a.m. the querist's
+mother passed away, . It was Kethu dasa, Kethu bukthi and
+Moon anthra. Kethu is in VI with Jupiter both Badhaka and
+Marakha and iVloon owns the II cusp and no planets in Moon
+star and no planets in II Bhava. And so Moon is a powerful
+marakha to inflict death on her.
+
+DAUGHTER'S CHART GIVES CLUE
+REGARDING MOTHER'S LONGEVITY
+If a person is destined to live up to a certain period, he
+will live up to that time and his horoscope will clearly reveal
+his end. At the same time his wife-'s chart will show that her
+husband will meet his death and the chart of the son and
+daughter too will point to the same event. It is not, as many
+people wrongly assume that the chart of any member of a
+family causes the event of death of another member. Truly
+speaking they will only reflect the evant the horoscope of the
+various members of the family being inter-linked.
+A person for instance,- may be running the Vimshottari
+period of planets signifying X, Ml, VIII, and IX. 'This for body
+ill for father's longevity Why ? These houses stand respectively as llnd, Vllth, XI 1th and Vlllth reckoned from the IXth
+which stands for father. It would not however be right to
+rush to the conclusion that father's end will certainly come.
+For this, the horoscope of the father will also have to be
+investigated. Unless both horoscopes concur, the event of
+father's death will not come to pass.
+Similarly when a person undergoes the Dasa period of
+planets signifying V, X, III and XI, which become the llnd,
+Vllth, Xllth and Vlllth connected from the house denoting
+mother, there is cause to fear mother's death provided only
+when her horoscope too points to the same result.
+Similarly the conjoint period of the significators of houses
+VI, XI, - IV, and XII give rise to fear regarding longevity of
+one's children and so on.
+The horoscope of a girl, furnished below, was placed in
+my hand to say how long her mother would live.
+After thoroughly scrutinising' the chart, I could tell the
+conjoint peribd under Vimshottari Dasa system, when the
+demise of mother will take place.
+
+Date of birth: 16/17-1-1954.
+Time: 4-57 a.m. I.S.T.
+Ayanamsa : 23u~7'
+The IVth house in any chart tells about the native's
+mother, among other matters.
+Considering the IVth cusp in the above chart to represent
+the mother's lagna, the Vth and Vlth are to be renumbered as
+llnd and lllrd houses and so on. ,
+On this basis, the Vth house becomes llnd of the mother
+and the Xth becomes Vllth. The lllrd house stands for the
+
+Xllth (Marakasthana or Liberation from body) taking the IVth
+as lagna for mother.
+- The llnd and Vllth which stand opposite to Vlllth and the
+.'agna (the houses of life) are to be taken as Marakhastanas
+also they stand in twelfth to the lllrd and Vlllth houses
+described as houses of longevity, The Xllth house being the
+Xllth to lagna which denotes tne body, shows annihilation of
+body. This house is called the house of Moksha or emancipation.
+Significators of Death :
+llnd House: Mars governs the cusp.
+No planet occupies the house.
+Jupiter is posited in Mars star.
+Jupiter is also the Sublord of the Vllth
+house from IVth.
+Kethu is in the star of JupiterVllth house : Mercury owns*the cusp.
+and No planet in Mercury, stars.
+Saturn is in the Vllth and no planet in
+Saturn stars.
+Xllth house: No planet tenants the house.
+Saturn owns the cusp.
+No planet is posited in Sat. Stars.
+.Saturn is also the sub lord of the Xllth
+cusp.
+In the fag end of 1971 I was consulted by the daughter
+that her mother is suffering seriously.
+I could find that the major period of Jupiter was on from
+16^-6— 1971. Jupiter is in the star of Mars in VIII with
+Saturn. Mars owns the llnd cusp. So I could suspect that
+the trouble may be connected to her throat and there is some
+obstructing matter these to have checking effect as Saturn
+combines with Mars. She accepted that her mother could • ot
+eat food and takes a long time in the process. '
+
+I scrutinised and told her that there is no trouble for her
+life till the middle of 1974, and she went away.
+Again she visited me during the end of May 1974 and
+wanted to know her mother's longevity, as she is having
+choking ‘effect in her gullet.
+i again checked, up the Vimshothari Dasa in progress. It
+was Jupiter Dasa, Saturn bhukthi, Kethu Anthra (from 7-5-74
+to 26-6-74) I thought it was time for her demise. So I told
+her that it would be bad before it is 26-6-74 and if by God's
+grace she completes June, no fear upto Jupiter Anthra i.e.,
+Kethu, the Node in the star of Jupiter, a powerful
+marakha did not leave her and she died in Kethu Anthra itself.
+
+LONGEVITY THROUGH K.' P. HORARY
+The determination of a person's longevity persents no
+serious problems when a correct horoscope of birth is available.
+A correct horoscope is deemed to have bsen made out,
+only when correct time of birth is made available.
+"An Astrologer's prediction can only be as true as the
+Correctness of the time of birth" That is what PS. Iyer, a
+reputed Astrologer and g contemporary of Our Guruji Sri KSK
+rightly said.
+After casting the horoscope with the correct birth date, if
+one applies the rules stated in the Advanced Stellar Asbology
+as outlined by 'Late Prof, KSK, can determine the longevity
+correctly :
+Suppose one does not possess his nativity or if his birth
+time not being correctly known, without taking chances, an
+Astrologer can predict ne event of death equally effectively
+by resorting to Horary technique evolved oy our Guruji Sti
+KSK, after decades of research, experimants, and observation.
+During my travels, I chanced to visit one of my friend's
+relative who was ailing then. His illness was tremending him
+anb he was eager to know his longevity.
+I asked for his birth chart and jhe had no horoscope and
+also the date, and time of birth not correctly known.
+Under such circumstances I had -to resort to the horary
+method developed by Sri K.S.K.
+In this system the Horary lagna is determined in a different manner.
+Horary lagna is determined in this system for the point of
+Zodiac which corresponds to the number betwaen 1 to 249
+which the query utters. The Astrologer goes by the number
+given -and fixes up the lagna and .other houses based on the
+number.
+
+bo | asked that ailing friend to mention a number between
+to 249. Unhesitatingly he uttered the number '56*.
+According to the Krishna'murthi Padhdnathi scheme of
+Zodiacal division numbering up to 249. this number 56, refers
+to. the portion of the Nirayana Zodiac commencing at 20'
+Gemini and extends upto 21a-46'-40' in the same sign. The
+point of commencement which is 20° Gemini becomes the
+lagna degree of the chart of the query: and other corresponding cusps being found out for the latitude of the judgement.
+The Nirayana planetary longitudes to be worked out for the
+time as the query is taken up for judgement.
+Thus the Nirayana Horary chart was drawn and
+given hereunder;
+No. given ; 56 (between 1 to 249)
+Balance in Vimshottari Dasa of Jupiter- years 0-1 0-2
+days.
+
+In my experience as astrologer, I have been watching in
+Horary chart, the lagna cusp sub lord tells the mind of the
+querist. Here the sub lord is Jupiter and this pianet is
+stationed in the VIII house which stands for the longevity of
+the person, and the number is given to know his longevity.
+The reader may well note how exactly the number indicates
+the query and how well Krishnamurti Horary technique is
+invented by Sri K S.K. as a predictive wing of his system
+named after his name Krishnamurti Padhdhathi.
+This Padhdhati in sharp contrast to the old traditional
+methods decended to us, gives simple and accurate rules to
+calculate the extent of longevity and that the time of demise,
+which had been confirmed after much practical applications
+The houses to be judged, primarily, are the ascendant,
+the lllrd and the Villth. Saturn is the chief governor of
+longevity. In this Horary chart Saturn is in XII, with no
+planet in its star and Saturn signifies XII fully.
+Houses II, VII and XII cusp classified as Marakha or dects
+inflicting houses because they stand in Twelfth to the lllrd'
+Villth and the Lagna or Ascendant.
+Above all, the Bhadhakasthana lord is the most vicious
+pianet to kill the native unhesitatingly.
+For movaole sign, on the lagna, the Xlth house is
+Bhadhakasthana for fixed sign, the IXth house is a Bhadhakasthana, and for common signs, the Vllth is a Bhadhakasthana.
+“"K.P. reader III states as follows :
+"If ascendant sublord is a benefic and it is signifies I, V,
+IX and X or if it happens to own and occupy these houses, the
+longevity is alright.
+Houses VI, VIII, VII and XII are bad and if the Ascendant
+sublord signifies these houses longevity is bad ;
+"If lorns of I, V, IX and X also rule. VI, VIII and XII
+consider the planet a worthy benefic".
+"AI60 in Horary Astrology, if the ascendant sub lord
+signifies Maraka and Bhadhakasthanais, the life is short after
+the time of judgement".
+
+Applying these principles to the chart above, the lagna
+falls in the constellation punarvasu ruled by Jupiter and the
+Asc sub is ruled by Jupiter.
+The sub lord Jupiter owns VII a marakasthana and as
+told above with classification of Bhadakasthana, for Mithuna
+lagna (common sign VII) is also the bhadakasthana. Hence
+the Asc. sub lord Jupiter is the rules of Marakha and
+Bhadakhsthana.
+And further, the sub lord Jupiter is in VII Ith house, the
+house of longevity. It cannot act to contribute life as it is
+not Vlllth house significator, as there is a planet Moon in its
+stars, and the other hand, Jupiter is in the star of Moon in
+Vlth, the house of sickness and owning llnd, a Marakha
+house for Mithuna lagna.
+Summing up, the sub lord of Asc. Jupiter has attained
+the Bhadakasthana and Maraka powers, without any redeeming factor.
+So it is final, the native has a very vary short life from
+the day of judgement in terms of Horary.
+Longevity is under the dominion not only of the Lagna
+but also under the Vlllth as well as the 8th to 8th to lllrd.
+Death ensures during the conjoining period of the
+significators of the Vrayasthanams of the above 3 houses viz.
+lagna, llnd and VI Ith along with bhakasthana house.
+The significators are : -
+1) The planets owning II, Vll and bhadakasthana.
+2) The planets is the constellation of these houses.
+3) The occupant of these houses.
+4) The planets tenanting that the constellation of the
+occupants.
+Following are the death inflicting significators in this
+particular cases:
+llnd house : No planet, there owned by Moon.
+Jupiter owning Vllth and Venus owning
+XI Ith are in Moon stars.
+VMth house : No planet there.
+Jupiter owns his house.
+Moon is in 'the star of Jupiter.
+
+Xllth house: Saturn and Kethu ara posited there with
+no planets placed in their constellation.
+Venus owns Xllth.
+Rahu is in Venus star Poorvashada.
+As node Rahu is in Dhanus and so it also
+assumes the effect of Jupiter as marakha
+and bhadaka powers.
+The student may also note that the Vllth cusp is most
+Badhaka and Marakha house is ruled by Jupiter as sign lord,
+Venus as constellation lord and Rahu as sublord.
+You must know lagna cusp' combination is a life giving
+ono and exactly the opposite degree the Vllth cusp deals with
+the Life . This is general theory as it is the house of detriment
+to lagna.
+the three planets Jupiter, Venus and Rahu ruling the
+Vllth cusp, are also Bhadakasthana and Marakha as detailed
+above are the worst death Inflicting planets.
+While examining the Vimshothari Dasa in the Horary
+chart, you will note that the native was running the major
+period of Jupiter bukhthi of Rahu and the Anthra Dasa of
+Venus.
+Venus Anthra Dasa runs between 9-5-73 to 3-10-73.
+So it was indicated by me, the end will be in that period
+of Venus Anthra.
+A? Rahu a node was the sub lord of Vllth cusp and also
+in the discussion you will v.Pte that Rahu fully represents
+Jupiter who is both Marakr.s and Bhadaka, I just brought
+down. The time of demise to Rahu sookshma ‘which was
+worked out to run between 30-6-1973 and 22-7-1973 and
+bid good-bye to them, without intimating the same to the
+particular.
+I was intimated through a letter that the end actually
+came in the evening on 17th July 1973. It was Rahu
+sookshma as I told them already.
+Students may well note how K.P, pinpoints the time of
+death with such accuracy through K.P. Horary system of
+prediction under Krishnamurti Padhdhathi.
+
+PREMATURE DEATH
+Following is the birth chart of a girl who died in her age
+By applying the principle of Krishnamurti Padhdhathi,
+I could hint her demise in forward to the father as a precautionary step
+Date of birth : 11-2-1959
+Balance in Saturn period at birth years 11-4-17 days.
+
+The Lagna is jointly ruled by Mars as rasi lord, Venus as
+constellation lord and Moon as the Sun lord.
+In the light of the principle, let us see how the Sub lord
+Moon played the part in making the longevity as short as 19
+years.
+As per Krishnamurthi Padhdhati, if the Sub lord of the
+Lagna Cusp is in the constellation of the occupant of Marakasthana or Bhadhakssthana, the life of the native is rather
+very short.
+Moon the Sub lord of Lagna cusp, is in the constellation
+of Saturn, who is the lord of Xlth Cusp which is the
+Bhadhakasthana for Chara Lagna (Maham). This Saturn is
+rendered very weak by being placed in the star of Kethu in
+Xllth (House of Moksha) and so Saturn signifies XI It h fully.
+This Moon owns the IVth Cuso which tells her last days.
+This is rather unfortunate
+Moon is the Sub of Venus who is the owner of the llnd
+and Vllth houses which are Marakasthanas for Mesham and
+that Venus is placed in Bhadhakasthanas also. Thus Moon
+is rather rendered so malefic as to give very short life for the
+native.
+The girl had passed away on 7-5-1978 in the major
+period of Mercury bhukthi of Mcon, Anthra of Saturn.
+Mercury the De?a lord, owns the Ilf and Vlth Cuflps.
+placed in Xth bhava in the star of Mars, and in the Sub of
+
+Jupiter in VII signifying the Bsdhakastuana So Dasa has
+connection with death inflicting signification.
+The bhukthi, Lord Moon, is in the star of Saturn, the
+owner of XI the Cusp, the Bhadhakasthana, and is in the sub
+of Venus owning II and VII in XI. Lastly the Anthra Lord
+Saturn, is the Bhadhakadhipati and is posited in the star of
+Ketu, placed in XII in ohavem, (the house of Moksham.)
+The students may well note, how the sub lord theory
+reveals the intricate points in a life such as death etc.
+
+LONGEVITY — K.P. VERIFIED
+Now again ! shall discuss in this article the Longevfty of
+an infant as per K.P. «
+According to traditional system, the Auyui or Span of life
+is clarified in the three main grouc-s. As already discussed
+Alpaysu-short (life upto 33 years 4 months) Madhyayu (33
+years 4 months to 65 years 8 months) and Dhergayu (65 years
+8 months to 100 years). 100 years and above being considered to be poornayul.
+There are certain combination of planets and specific
+point or degree in each sign which promote or alter the
+longevity of the native.
+These rules are general and vague toe, and these miserably fail in actual practice.
+K.P. on the other hand, deals with the Longevity in a clear
+manner free from all manner of doubts and is universally
+applicable.
+These rules can bo applied both in NATAL & HORARY
+Astrology. The only difference is that, in the case of a
+Nativity, the span ci life can be judged from the time of birth
+of the native, where as in Horary, it can be assumed from the
+time of judgement of the query.
+Given below is the chart of an infant who passed away
+an hour after it was born
+The delivery had taken place on a Tuesday the 9th
+November 1971 at 6-37-33 a.m. I.S.T. in a Nursing home K P.
+Ayanamsa used 23c21\
+Place of birth: 23°-10'N' Lat,/09°59’E Long.
+
+At the time of birth, the sign Libra was rising, the exact
+degree 25°-45'
+
+The Ascendant was thus in the sign Libra ruled by Venus
+(Lord of 1 & VIII) in the constellation of Jupiter. (Lord III, V
+& Vlllth) and in the sub of Mercury (Lord of IX, XI & XII).
+If the Ascendent falls in a movable (chara rasi) the Xlth
+is Bhadhakasthana, if the same falls In a fixed sign (sthira
+rasi) the IXth is Bhadhakasthana and if the ascendent is a
+common sign fUbhaya rasi) the tVI1th house the Bhadhakasthana. Whatever be the sign in which the ascendent falls'
+the llnd and the Vllth house are Marakasthana.
+According to Krishnamurti Padhdhati is the ascendent
+sub lord is In the constellation of a planet which is bhadakasthana or Marakasthanam short life is indicated.
+If the Lub Lord of ascendant falls in the star of a planet
+in Vlth house, the native will suffer from disease but will not*
+succumb to it.
+According to the strength of the lord of constellation In
+which the sub lord of ascendent is deposited, one has to fix
+the Dasa and sub periods.
+As already stated above the sub lord of, the Ascendent is
+Mercury. Mercury is the Lord of IX, XI and Xllth. As the
+ascendent falls in a moveable sign, the XI house is the
+bhadhakasthana and these ascendant sub lord becdmes the
+Bhadhakastanathipathl. He is also Marakasthanathipathi
+being the owners of Xllth.
+Bhadhakasthanapathi are the worst malefics who never
+hesitate to put an end to the life.
+In the above, Mercury having bhadhakasihanathipathi is
+deposited in the constellation of Saturn and in the Sub of
+SUN.
+Saturn is the constellation lord, occupies, the Vllth bhava
+which is a Marakasthanam. The sub lord of Mercury the Sun
+is in the constellation of Jupiter in llnd bhava, a Marakasthanam.
+From the above combination, one can note that Mercury
+owns the Bhadhakasthana and Marakasthana is avll for
+Longevity. His placement in the constellation of Saturn, a
+
+maraka as discussed above, becomes a worst malefic to
+influence death of the native, duly shortening the span of
+life.
+Significators : —
+Xlth house : Ruled by Mercury
+Jupiter is in Mercury Star.
+No Planets in Xlth house,
+llnd Bhava Ruled by Mars
+No planets in Mars star
+Jupiter is there
+Sun is in Jupiter star.
+Vllth bhava : Ruled by Mars
+No planets in Mars star
+Saturn is in Vllth
+Mercury. Venus, Moon, Ketu, are in Saturn
+star.
+Rahu is in Makaram and as node represent ■
+Saturn in VII,
+So all the planets (i.e.) Sun, Moon, Mars, Mercury,
+Jupiter, Venus, Saturn, Rahu and Ketu and all connected to
+death inflicting houses.
+When such is the -case, ho v can the infant born under
+such a configuration'survive ?
+The reader may with interest note that the child was born
+at a.m. I.S.T. on 9-11 71 whan the birth was in
+25°-45' in Libra ruled by Venus, in the constellation of Visaka
+ruled by Jupiter and sent by Mercury and succumbed to death
+as 7-55-44 a.m. I S.T. on the same day.
+At 7-55-44 a.m. the Lagna degree has maiked to 215°-2'
+is Scorpio ruled by Mars, Arudhra star ruled by Saturn.
+Saturn sub was ruling then, the sub, sub was that of Rahu.
+Why the death could sustain to that tima atleast ? There
+is reason.
+It is a point for thinking-and to note that when all the 9
+planets are the significator of death, only the planets Mars
+Saturn and Rahu should inflict death.
+
+Moon was at that lime, transiting in Saturn '•.tar. Rahu
+sub only:
+If he was born to die, and with such a configuration, why
+should not he die immediately after birth. It is a main point
+for the students of K.P, to study.
+A careful follow up and observation of the Sign/star/Sub
+rising from the moment of birth, till death is very important,
+as that moment of Lagna degree rising has undergone an
+effective change.
+Moon's position at the time of demise was 103°-48'and
+thus under went a change in the same sub ot Rahu from Rahu
+Sub-Sub of Mercury SuD-Sub i e "l03c'-46'-20" to 1 04t'-3'-20”-
+At the time, when birth had taken place the lising star
+was Visaka owned by Jupiter.
+Though Jupiter signified death, as oar KP, a planet in a
+constellation will offer, more prerfominary, the result of the
+bhava occupied by the lord of the constellation. Hence
+Jupiter by virtue of being placed in the star of Mercury
+deposited in lagna bhava, should protect life of the native.
+With the result, Jupiter was ruling the movement as the
+rising star lord and Moon transiting the Jupiter Sub, Sub,
+the child was protected from death.
+IT is also evident Saturn star rising would be indicated
+for Longevity and Saturn Sub, set ’the stage, and from the
+Mercury Sub-Sub Mercury is a weak significator of Lagna
+bhava, though significator of death also 8 DUAL planet and
+DUAL action. Followed by -Kotu, Sub, which is under
+Jupiter Sub, obtained from entering in to the fray. Next Venus
+Sub-Sub, Venus owns Lagna cusp, In Sun Sub-sub, turned
+to be very serious and therefore physicians vDharu/antari
+SUB) attended. I.i Moon and Mars, seriousness continues asthese two planets net badly connected to death inflicting
+houses.
+Then comes the Rahu Sub-S,ib and Moon moved into
+103°-48'the death comes as Rahu a node a full representation
+cf Saturn, who Is & maraka and Rahu is no way connected
+to Lagna at all even by Sub.
+
+ASCENDANT AN IMPORTANT FACTOR IN
+DETERMINING LONGEVITY
+A child was born on 2-9*1976 at 9-20 p.m. (I.S.T.) at
+13°-1'N. Lat and 76tf-70' E Long.
+On the 4th day the child passed away and I was curious to
+know how Krishnamurti Padhdhathi indicates this premature
+death.
+The horoscope worked out under PLACIDUS SYSTEM of
+houses with the longitudinal position of planets is given
+below
+Neptune
+Uranus*
+Vii4 agr
+Mercury
+i Aft F# t ii#
+ft* JA'W 1 Maf#
+> VII
+
+Venus
+Saturn
+Rahu
+Kethu
+Sun
+Mercury
+Rahu
+Kethu
+Kethu
+Mercury
+Mercury
+Mercury
+As per Krishnamurti Padhdhathi, Longevity should be
+assessed in terms of strength of Ascendant, its lord and the
+sub.
+These should not be connected to Maraka or Bhadakasthanas for long J if 9.
+The sub lord of th9 Lagna should nut be connected to
+houses VI, VIII and XII to ensure a smooth life with discuss,
+major obtacles, accidents and serious expenditure capable of
+altering major structure of life.
+On the contrary, the sub lord of the Lagna cusp should
+be posited in I or V or IX or X bhava to show long life.
+If benefics aspect the Sub. it ensures long life.
+In this horoscope of the child, the reader may note that
+the sub lord of the ascendant cusp is Rahu, and it is posited
+in the Vllth Bhava, in its own constellation Swathi. So Rahu
+is a full significator of Vllth a Marakasthana.
+The same sub lord Rahu is in the Sub of Mercury in the
+Vlth bhava. It is bed.
+Further the Lord of Lagna cusp, Mars is in Rasi conjunction with Mercury in Vlth in the house of sickness, and also
+with Venus Lord of Maraka house find and Vllth.
+The Sub lord of Lagna cusp Rahu is squared by Saturn the
+bhadhcikadhipathi for Mesha Lagna (the owner of Xlth for
+chara, rasi). (Tho Longitudinal difference between Saturn
+and Rahu is 95°*19'.)
+Rahu is in the Marakasthana, and is represented by Venus
+Lord of llnd and Vllth which are marakasthSnas and in turn
+the planet Venus being in Vlth end in its own Sub,
+All these combinations have rendered the sub lord of
+Rahu very weak, and the same planet attained Maraka and
+Bhadhaknsthana's power.
+
+Atthetime-of birth, the child was running Kethu dasa
+Rahu j B h u kt i and Saturn anthra from (27-8-1975 to
+The Dasanatha Kethu represents Mars in kVlth with
+Marakasthanadhipathi Venus and so attains maraka powers
+and it is the Sub Lord of the llnd cusp and marakasthanam.
+The Bukthanatha Rahu is in Vllth in its own star and so
+Rahu is a full significator of Vllth, a marakasthana. Incidentally Rahu is the Sub Lord of the Vllth cusp, another
+Marakasthanam.
+The Anthranath'a Saturn owns the Xlth, a Bhadakasthanam and as there are no planets-'in its star Pooaaift,
+Anusham, and Uthirattadhi, he is a full significator of the
+•Xlth, the bhadhakasthana. More so, Saturn rules the Xlth
+cusp and also as sub lord.
+The conjoint period of the sub lord of the three houses
+connected to death had brought about the death of the child,
+amply, and well illustrating the validity and truth of the
+principles ot K,P.
+
+LONGEVITY-HOROSCOPE
+When we consider the Longevity, it is necessary to know
+whether one is short-lived, middle-aged or iong lived, and
+the ascendant and its strength assessed on those lives
+For this we must look into the Sub Lord of the ascendant.
+Late Prof. K S.K opined as under
+If the sub lord of the ascendant is deposited in the constellation nf the depositor of Maraka or Bhadakasthanas, life
+will be short after the time of judgement. It cannot be many
+years (only in Horary)
+If the Sub-lord of the ascendant is in the constellation of
+the depositor of 6th bhava. ho will suffer from diseases, but
+will not succumb to it.
+If the sub lord of the ascendant is deposited ir. the constellation of the depositor of 8th bhava, ho vvill meet with
+accidents.
+II the sub lera of the ascendant is deposited in the constellation of the pianet in Xllth bhava, he is liable tc be in bed
+for long years ana hospitalised before his demise.
+Death is indicated only by bhadakn or Marakasthanas.
+According to the strength of tne lord cf the constellation
+in which the sub-lord of the ascendant is situated, the Dasas
+and Bhukti are to be fixed, after the assessment of the
+strength'.
+If it is Horary chait,- calculate from the chart for the given
+- number when the conjoined period of thy significators of
+Marakasthana and Bhadakastnana operate. (Please read
+Horary Astrology by late Prof K.S. Krishneinurti).
+When considering the planets to assess tne Longevity,
+(1 ; Lords of houses l, V. IX and X are benefics, (2) Lords of
+VI, VII and XII are malefics, (3) Lords of l,V, IX, V, also ruling
+VI, VI H and XII considered us mostly bsnefics. (4) The
+
+planets owning other houses areconsidered benefic or malefic
+according to the-other houses ruled by them.
+The span of life of a parson may be classified into 3
+groups.
+(a) Short life {0 to 33* years)
+(b) Middle life (33?, to 66§ years)
+(C) Lorg life (66§ to TOO years)
+Further one should assess the strength of Houses k III
+and VIII and the Vrayasthanas of the houses in XII, li and VII.
+XII. II and VII are the maraka houses and you must also
+find out the bhadhaka houses.
+Bhadakasthanathipathis are the worst malefics who never
+hesitate to put an end to one's life
+Of the 12 signs, Aries, Cancer. Libra and Capricorn are
+moveable (Chars) signs The Xlth counted from them are
+bhadakasthanas. To Aries born Aquarius is ths bhadhakasthana and so Saturn is the Bhadhakadipathi. To Cancer
+born, Taurus is the Bhadhckasthana and the lord of Taurus,
+Venus is the Bhadhakadipathi. Similarly to Libra, the sign
+Leo and the luminary Sun and to Capricorn, the sign Scorpio
+and its lord Mars are Bhadhakasthana and Bhadakathipathis
+respectively.
+For people born in fixed signs, (Sthira rasi) Taurus, Leo
+Scorpio and Aquarius, the IXth sign, from these houses are
+bhadhakasthanas and their lords SATURN, MARS. MOON
+and VENUS are bhadhakathipathis respectively.
+For people born in common sign, (Owiswabhava Rasi)
+Gemini, Virgo, Sagittarius and Pisces, the 7;h house there
+from are bhadakasthanrts and Jupiter 'and again Jupiter.
+Mercury and again Mercury are bhadhakadipathis.
+If the sub lord of the ascenoant is not in the constellation
+of depositor or lords of Bhadaka or Marakasthanas long life
+is promised.
+For wife, the Vllth house is to be judged trejtlng Vllfh
+cusp as ascendent for wife for Longevity of wife (or partnership) the bhadhaka and marakasthanas to tha Vllth case
+(Home) are to be judged as told above.
+
+The native was born at 6-7 a.m. on 27th February 1931
+at 3®*7'N Lat. and IOr-52'E Long
+The Horoscope is as follows : —
+Here in this birth chart, the Ascendant is formed at
+8-39' Aquarius a fixed sign.
+So the Maraka are Jupiter and Sun and planets in its star
+are Maraka. No pianet in Jupiter, Venus, Saturn in Sun star,
+Rahu Xth, llnd Sun, Jupiter in its star.
+Being the ascendant is a fixed sign IXthisthe. Bhadhakasthana. So Venus is bhadhakadipaihi and the planet in its
+star and no planets in bhadakasthana.
+To assess the longevity, judge the strength of the ascendant Sub Lord. Here the sub lord is Rahu, Rahu is in II, but
+as node it represents JUPITER, a depositor of Vth, a
+benelic house while considering longevity and Rahu is in the
+star of MERCURY, owning Vth and VIII, a benefic house and
+■the house of longevity respectively, Budha being in XII, the
+demise will be after hospitalisation and this is MOKSHA.
+Any way long spar, of life is promised i.e. over 661 years.
+
+To find out the date of Demise, it is necessary to judge
+and ascertain the strong significator of planets and their Dasa
+that happens to run after 66 years of age,
+At birth the balance of Mars Dasa is 0 years 1 month and
+20 days.
+Hence he will be running Mercury oeriod from 17-4-1984
+Mercury is in the Xllth bhava. Rahu is in its star and so
+Mercury is not a full significator of Xllth.
+Mercury owns Vth and Vlllth bhavas For longevity both
+benefics.
+Mercury is in the star of Mats in V. Mars owns HI and
+X most benefic houses to confer longevity.
+Hence he will enjoy life during Mercury period, So he wilt
+not die up to 17*4-2001.
+Then separate the major period Kethu from 17-4-2001 to
+Kethu is in the Vlllth and is in the star of MOON owning
+VI, deposited in IV. This portends sickness. Kethu as node
+represents Mercury in Xllth telfs bedridden status also signifies V, a benefical house for longevity. So he will live up to
+tha end, of course, it is a sickly period, and he cannot avoid
+hospitalisation.
+Next period of Venus starts on 17-4-2001. Let us discuss
+if it in Maraka.
+Venus is the owner Libra, the bhadhaka sign for Kumbha
+lagna born. This native is born in Kumba lagna and so Venus
+is a badhakadipathi.,
+Here in this nativity Venus is in Sagittarius 29°-13' i e.
+in the star Uthradam owned by sun for Kumbha lagna Sun ie
+a maraka. As no planets are in Sun star, and in Vllth Sun
+should be deemed asa full and 1st class maraka. So as Venus
+as bhadhakdipathi deposited in the star of Sun, Venus,
+attains full marakadhipathyam and it is final. Venus Dasa is
+the last one.
+
+Then what is'the date of his demise. For this we must
+resort to the thoory of Ruling Planets, propounded by our
+Gutuji Late Prof. K.S K.
+To day it is a Saturday (15-2-86) and it is 7-14 p.m. 1ST
+at Madras Incidentally it is Bharani star ruled by Venus, and
+he is in Mcsha and so Mars is also an RP. Now it is Simha
+lagna running and lagna degree is running in Pooram star. So
+again Venus and Sua me RPs.
+Summing up, finally the RPs|are Venus. Mars, Venus, Sun,
+Saturn, Kethu and Rahu also as Kethu represents Libra and
+Rahu, Aries.
+Hence, demise should come in Venus Dasa, Venus Bukti.
+Rahu Anthra, Rahu Sookshma on a day ruled by Sun star or
+Moon in Simha.
+Rahu anthra rules between 27*6-2009 and 27-12-2009
+ard Rahu sookshma is from 27-6-2009 to 24-7-2009.
+
+PREMATURE DEATH OF A CHILD
+One ol my natives had a daughter on 17-1-1971 at 10-35
+a.m. at Waltair.
+The parents were very happy with the child as the father
+was promoted to class 1 status within 4 months from the date
+of birth of his child.
+Their boy was married. As the child was not keeping
+good health and finally expired on 26-8-1971 Wednesday, as
+wee indicated by me.
+Following is the horoscope of the child in K.P.
+Date of birth : 17-1-1971
+Time 10.35 a.m. 1ST
+
+The parents doubted the child's longevity due to constant
+deteriorating condition and I was requested to examine the
+Longevity. v
+Our guruji wrote in the Volume II Krishnamurti
+Padhdhathi on page 41.
+"If the ascendant sub is governed by a malefic the life is
+short. This is very clear in the case of Twin birth, one lives
+other dies. The sub lord is the deciding factor. Lords of
+1, 5. 9. 10 are benefics. Lords of 6, and 12 are malefics.
+If Lord of l, 5, 9, end 10 also rule 6 or 8 or 12 consider
+planet as merely benefics.
+Here the sub lord of the ascendant is Venus, Venus is the
+lord of 8.
+Venus has to give the clue if the child has full life or
+not.
+Venus is in the star of Saturn deposited in II a marakasthana. Saturn owns Xllth also and so it is a badakasthana.
+The same sub lord Venus is in the sub of Jupiter.
+
+Jupiter is in the star of Saturn in II, So again in terms
+of sub also the planets Venus is rendered vsty week and
+attained by more malefic native.
+This combination gives clue but the child has no full life
+As the birth is in a common sign. Mercury is both a
+maraka and Bhadhaka when the horoscope was prepared, it
+was Sun period and it was up to 4-3-1973.
+Sun owns the Vlth cusp and-is in Xth in its own star and
+so the child was sickly from the birth and the sub lord of
+Lagna cusp as clearly indicated, tells very short life.
+So I proceeded to find out the significators of II and Vllth
+which indicates death.
+. Ilnd Bhava : Saturn is in the Bhava.
+Venus and Jupiter are in Saturn star.
+Lord of II is Mars.
+Rahu is in Mars star.
+Vllth Bhava : No Planet in the Venus.
+* Mercury owns Vllth.
+No Planets in Mercury Star.
+•This tells that Mercury is the shortest
+* planet to inflict death.
+Therefore, summing up, Venus, Jupiter, Saturn, Mars,
+Rahu and Mercury are the deep death significators arrived at.
+Sun ie in the Sub of Saturn.
+Moon is in the star of Mercury a Maraka and Bhadhaka.
+So alt Planets except Kethu are malefics and this itself
+tells the weak status of the child's Longevity.
+In such position, we have to work out the RULING
+PLANETS, to get proper guidance.
+So I worked out the RPs for 5-10 p.m. on 2-6-71 at
+Lagna was arrived at 211°-18'
+and Moon was in 153°-58'
+
+It was a Wednesday.
+So the RPs are Mars, Jupiter, Sun, Mercury and Mars.
+So I finalised that the child cannot live later than Jupiter
+Anthra In Mercury bukthi in Sun period.
+MERCURY bukthi ends by 28-10-71 and Jupiter Anthra
+Out of RPs, SUN stands, as Dasa Native, Mercury stands
+as Bukthi native and JUPITER for Anthra Native.
+Jupiter runs for 41 days.
+How to pin point the day of event.
+Now we have remaining 2 RPs in Mars and Mercury.
+The demise should come when Mars and Mercury have a
+say in this, during the above period.
+It can be, the Luminary Moon transiting the Rasi of
+Mercury, Mars star or Mars rasi Mercury star mostly.
+I have hinted the parents but [it Is a (Pantra) period for
+the child doing IVth month of August' 71 and ended further
+correspondence.
+As already indicated the child parsed away on 25-8-71
+at about 9-15 a.m. when it was Kettai star in Vrichika rasi,
+duly ruled by Mercury and Mars respectively. Day is
+Wednesday ruled by Mercury.
+This is how the Longevity and death has full control from
+the RPs and the Sub Lord of the Lagna cusp.
+
+LONGEVITY ASSESSMENT AND
+PREMATURE DEATH OF THE CHILD
+I discuss belew a peculiar horoscope of a female child
+born on 12th January 1968 at 8-21 a.m. I.S.T. at 18° T N.
+Lat. and 83-27 E Long.
+Sidereal Time: Hrs. 15-47-22
+Aayanamsa ; 23°-19'
+The child passed away on the 27th January at 8-25 a.m.
+1ST on her 16th day ot birth when the rising degree was in
+Aquarius. Rahu star, Kethu sub. It was a Saturday when
+Moon was transiting 9°-33' in Sagittarius, in Kethu star and
+Saturn Sub. At the moment Sun was transiting CAPRICORN
+13* the sign ruled by Saturn, star by Moon and Sub by Rahu.
+Let me analyse the chart how the death has occured on
+that day and time as predicted by me by using the advanced
+Stellar system of astrology propounded by late Prof. K.S.K,
+
+On a general survey one can notice that the Moon, a
+strong marakha for makara lagna Is in IVth bhava, Jupiter a
+strong malefic (Vyayadhipathi) in Vllth bhava for Capricorn
+birth, Kethu and Uranus in the house of AYUSH the Vlllth,
+and Sani and Rahu in another marakha house, the llnd bhava.
+Moon is aspected by Saturn and Mars,
+The ascendant is Capricorn, a movable sign. Hence the
+Xlth is the %Bhadhakasthana. The Xlth falls at 1°-45' in
+Saggitarius in Ji'piter sign, Kethu star and Venus sub.
+Jupiter, Mars and Moon are marakas for this Capricorn
+lagna, and as Saturn the lagnadhipathi being in II, in its own
+star, turn out to be en inveterate maraka.
+In Krishnamurthi Padhdhathi, the sublord of the lagna
+cusp is the deciding factor, in assessing the longevity in any
+birth chart
+The sublord of the ascendent is Jupiter and the same
+planet is the lord of the sign where the Xlth cusp has fallen.
+Hence Jupiter the sublord of the lagna cusp is the lord ol
+Bhadhakasthana. Jupiter is in the Vllth, a marakasthana is
+in the 7th bhava in Leo, in the constellation of Kethu, a
+depositor of Vlllth bhava. As there is no planet in Jupiter
+stars, Jupiter is the full bhadhakasthanadhipathi. And so it
+has been assumed that the life of the child is rather very short,
+as the sub lord of the Asc. Jupiter is also a 1st class maraka,
+being deposited in Vllth having no planet in its star.
+To be more detailed, one may note that the above lagna
+cusp sub lord apart from being the bhadakastanathipathi, and
+Stationed in marakasthana in the region of 120° to 132°-20'
+of Kethu, a depositor of Vlllth and also being in 131°-49'
+happens to be in-the sub of Mercury, lord of Vlth and Vlllth
+Cusps in the birth chart.
+So it can be told that the child must be ailing with some
+serious, infectious disease, rendering the body to suffer very
+poor health.
+Disease is shown by the Vlth cusp, and Vlth house etc. In
+this birth chart, Vlth is unoccupied, but the lord of Vlth cusp
+is Mercury, and the cusp falls in Jupiter star and Venus sub.
+
+Mercury in general, rules nervous system, Jupiter liver
+complaints and circulation of blood in the Arteries, .Venus for
+kidney troubles.
+The child died out of these complaints.
+l According to Krishnamurti Padhdhathi, the following are
+the significators of deaths :
+1. The planets posited in the constellation of the
+depositors of Bhadakasthana and Marakasthana.
+2. The planets occupy the above houses.
+3. The planets is in the constellation of the lords of the
+above said house in Bhadhakha and Marakha.
+4. The lords of these houses.
+5. Nodes connected to these houses.
+6. The planets which are conjoined with these significators and thus connected to these matters.
+Let ma analyse the houses II and VII.
+The llnd Bhava is occupied by Saturn and Rahu.
+Saturn is in its own constellation Uthirathathi and hence
+powerful maraka. He is in the sub of -Rahu a marakha. Mars
+is in the constellation of Rahu. a maraka. Moon owns Vllth
+and is in its own star and in the sub of Saturn, Rahu is in
+Aries, the sign owned by Mars and hence Rahu is powerful to
+discharge its duties as maraka.
+The Vllth is occupied by Jupiter (Retrograde). No pianet
+in Jupiter stars (Punarpoosam, Visakam and Poorattadhi).
+Lord of Vllth bhava is Moon and as discussed above it ie
+in its own constellation Rohini and hence powerful maraka.
+Jupiter is in Kethu star and Kethu is in VIII th, with
+Uranus.
+Xllth house in general threatens danger and end of an
+disintegration of this mortal frame. Sun and Mercury are in
+XII. Sun is in its own constellation in XII and Mercury is
+
+also in Sun's star. Venus is in Mercury star. As there is no
+cusp in Leo, Sun is a full sifgnficotor of XII and has more death
+inflicting powers.
+Hence the total significators of death are Saturn, Rahu,
+Moon, Venus, Jupiter, Sun and Mercury. Kethu also being a
+Maraka as it is in Venus house and Mars star.
+When we calculate the Vimshothari Dasa system, the
+child's ruling1 moon dasa, 'Saturn bukthi, Sun Anthra (from
+11-1-1968to 9-2-68) and Saturn sookhma (from 25-1-68 to
+.At the 1st assessment of Lagna cusp, I noted that the
+life was rather very short and the Dasa in progress was that
+of Moon a powerful maraka. bukthi of Saturn, another
+maraka.
+It was Sun Anthra, a powerful Vrayakaraka imbibed withmaraka qualities being in XII in its own star on the Xllth cusp.
+Sun in 27°-42' and XII cusp being 26s-15' in Sagittarius, in
+the sub of Moon a very powerful maraka.
+So it was predicted that the child would not complete the
+Anthra of Sun at all, as the Sun being a full Vrayakaraka and
+the Xllth cusp being imbibed with Vraya qualities only as the
+sub lord of Xllth is also Sun in its own star Uthiradam.
+The child passed away on 27th January 1968, a Saturday
+at 8.25 a.m. l.S.T. in the same place of birth.
+At the moment of Death, the lagna 'degree fell in 314°-57'
+in Kumbha lagna ruled by Saturn, in the constellation of Rahu
+and Sub division of the constellation ruled by Kethu star.
+
+Grand Father's Longevity and end Through
+Grand Son's Birth Chart
+It is generally talked of that the birth of a child tells upon
+the general fortunes or longevity ot the parents and also other
+nearer kith and kin etc. It is not completely correct. No one
+can change another's fortune or longevity. What Is already
+ordained comes to pass.
+It could be seen from the birth chart of a native all about
+his or her parents, wife or husband, grand father or grand
+mother ; and it is final that one cannot change another's
+destiny.
+Following is the birth chart of a child, to show, how the
+planetary forces reveal the events, as the birth of this child
+coincided with the sudden demise of its grand father through
+its mother.
+Our Guruji late Prof. K. S. Krishnamurti used to very
+often say that the chart of a native indicates not only the
+events of one's own life, but also the matters that happened
+or to happen in the lives of his or her nearest kith and kin
+i.e. : father, mother, brother, grands and so on.
+This child Chi. Chithananda was born on 19-1 1 -1977,
+Saturday at 3.69 p.m. at Madras.
+Place of birth : Madras 13o'4/80°-1 T
+Sidereal Time : Hrs. 19-43-29
+Ayanamsa of K.S.K. ; 23*26'
+
+Longevity of a person comes under the purview of I, II and
+Vlllth houses.
+1st house is very important to finalise one's longevity,
+whether cr not it is short, medium, long i.e., above 66 days in
+a general way.
+Vlllth house tells the total period of one's life to suffer or
+otherwise. Illrd also on similar lines a supporting factor to
+determine the length of one's life.
+
+It is needless to say that the 12th for mere these three
+houses (i.e.. I. Ill, VIII) i.e., XII, II and VII are to be taken as
+Marakasthanas. (death inflicting houses).
+Bhadhakasthanas are more stronger inflicting death to a
+native ; and only with the influence of Bhadhakasthanas death
+is brought about.
+Bhadhakasthanas : If the Ascendent falls bhava rasi
+(movable or cardinal sign) the Rishis have opined that the
+Xlth is the badhakasthana.
+If the same ascendant fails in Sthira rasi (fixed sign) the
+IXth, whereas the Ascendant falls Ubhayaa rasi (common
+signs) the Vllth is the badakasthana.
+Reverting to the matter under discussion, tha death of
+the maternal grand father (mother's father) had occurred on.
+the very next day of the child's birth (roughly at the 26th hour
+after tha birth).
+The IVth house from the ascendant, indicates all matters
+regarding the mother, and the IXth these from (u) the Xllth
+cusp represents the maternal grand father. All matters about
+him are revealed in terms of Xllth cusp only.
+So we must treat the Xllth cusp as the ascendant of the
+Maternal grand father ; and proceed.
+At the outset, we have to find out from the ascendant and
+its sublord, if the same signifies any of the maraka houses or
+bhadhakasthanas. if it is so indicating, we must take that the
+life is very short or death to be imminent from the
+birth of the child in terms of the signification of tha sublord
+of the Ascendent (here it is Xllth cusp).
+Here the sublord of the Ascendant (Xllth cusp) is Rahu ;
+and it is posited in the VII bhava from Meena (Pisces) which
+is a Maraka house for Pisces lagna and has assumed another
+house also as bhadhaka since Pisces is a common sign
+(Ubhaya Rasi.)
+So the lagna has been rendered very very weak as Node
+Rahu (as sublord of Ascendant) had attained the qualities of
+
+the house of bhadhakasthana ; and as a result Ruhu has
+become the 1st rate killer.
+Furthermore, the same Rahu is *in the star of Moon a
+depositor of Xllth bhava (from the Ascendant of grandfather),
+as already explained XII is also to be taken as a death bringing house, and hence Rahu had also attained the Xllth house
+significators.
+Added to this Rahu is in the sub of Mercury who owns
+the cusp on the VII. a maraka as well as Bhadaka house and
+deposited in its own star in Kettai in Vrichikam, the Vlllth rasi
+in the Zodiac.
+As the constellation lord of the death inflicting planet
+Rahu, being Moon (the fastest moving planet), one has to
+finalise that the end will be rather very soon.
+According to Krishnamurti Padhdhathi, the following
+are the significators of death :
+1. Planets posited in the constellation of the occupants
+of houses II, VII, XII and bhadhakasthana.
+2. Planets occupying the above houses.
+3. The Planets in the constellation of the lords of the
+above houses.
+4. The lords of these houses.
+5. Nodes connected to these houses.
+Ilnd house : No planets. )
+Mars own the cusp. > MARS
+No planets in its stars J
+VII house and as
+Bhadhakasthana :
+Rahu is there
+Jupiter and Venus are
+in Rahu's stars.
+Mercury owns the
+VMth cusp and
+deposited in IXth in its
+own star Kettai.
+I RAHU
+| JUPITER
+}- VENUS
+| MERCURY
+KETHU
+Ketu alone is in Merc.
+Star Revathi.
+
+XII house :
+Moon is there
+Rahu is in Moon's Btar
+Hastham.
+Saturn owns the Xllth
+cusp. *
+Mars and Sun are Sat.
+stars, Roosam, AnusamJ
+MOON
+RAHU
+SATURN €r MARS.
+SUN
+When the death of the maternal grand father had occured
+the child ‘then was running Jupiter Dasa, Saturn bukthi
+Mercury Anthra. Sun sookshma on 20-11-77 (Sun sookshma
+from. 1 4-1 1 -77 to 21 -1 1 -77). ltwas a Sunday, Uthirattadhi
+star' then ruling, owned by Saturn. Rasi Pisces ruled by
+Jupiter, by about. 5-50 p.m. I.S.T. on 20-1 1-77, the demise
+came when lagna degree running is Aries owned by Mars in
+the constellation of Karthikai (1st pada) ruled by Sun.
+It will be interesting to note that the planets as indicated
+above at that hour that brought about the demise of the
+Maternal grand father, are in the subs indicated against each
+whose lords are death inflicting houses,
+This article is prepared only to show one's chart portrays
+clearly the methods of these connected to the native through
+blood. So, if mishap befalls to the nearest relative one
+should not blame the child's birth for such happenings. We
+are all aware that mirror reflects the object ; and object is not
+created by the mirror.
+
+The Demise of My Officer and K. P. Horary
+I was in Railways in Mechanical Department and my
+Dy. CME/W was on Mr. M.N. Rao who was badly laid up in
+bed and, on the evening of 29-11-1974, I heard that he was
+very bad. Ah urge came to know his immediate future so I
+resorted to Horary method of prediction under Krishnamurti
+Padhdhathi.
+From opening a book, I took a number between 1 and 249.
+It was 79. I took to working at lO-Sa.m fST on 1st December
+1974. The place of judgement was Madras. 13°-4780<>-17'.
+Ayanamsa used for 1974 was 23"-24\
+The Horary Map is hereunder :
+
+As the Dy. CMEA N is my employer, it is necessary I must
+look into the 10th house in the Horary chart as his Ascendant
+for my calculations regarding his recovery or demise.
+To facilitate the students of K.P„ I rearrange the chart
+marking the Xth cusp as Ascendant, Xlth and llnd and Xllth
+and lllrd and so on and take up for discussion.
+
+At the out set, in such cases, we must look into the lagna
+cusp sublord to decide if the longevity is short, medium or
+long.
+The disposition of the sub lord of Ascendant, is the deciding factor, this I have repeatedly told in other lessons too.
+If the sub lord of the Ascendant is in the star of a planet
+in Bhadhakasthana or Marakastana and also connected to VI,
+VIII & XII, you must RECKON his life is very short for that date
+itself, when we are examining and the demise is imminent.
+If the sub lord of the Ascendant is in the star of planets
+in I, V, IX and X. or owner of these houses, this tells that the
+native of the chart has a long life.
+For sthira lagras, tha IXth significator of Lagna cusp sub
+lord only portend short life. It does not help to give long
+life on the contrary.
+If the sub lord of the Ascendant signifies both benefic.and
+malefic houses, life is middling.
+In the rearranged chart the native's lagna falls in {Aries)
+Mesha 23°-19' and it is chara rasi. So Xlth is the bhadhakasthana and Sani is the lord of Bhadakastharia.
+The lagna cuso Sub lord divides the longevity. Hence it
+Is Saturn again. So the lagna cusp sub lord Saturn is the
+owner of bhadakasthara. It is rather alarming.
+And further the same Saturn in the star of Jupiter, owning -
+IX and XII. IX tells a long journey and XII tells emancipation
+(Moksha), and the starloid Jupiter is deposited Xth which
+tell among other matters, the retiremBnt from this world.
+So the sub lord ot the Ascendant is rendered powerless to
+a maximum degree to protect the fife of the native. Further
+more, Saturn, is in the sub cf Mercury who is deposited in the
+star of Saturn again the Bhadakasthanathipathi and Mercury
+lords Vlth cusp too.
+Summing up, the desposition of Saturn, protends
+immediate fatal situation.
+
+On a superficial survey we note the-sign and star lords of
+the lagna cusp are Mars and Venus and their position are not
+favourable also. Even if they signify benericial houses, I, V,
+IX, and X, as we have discussed the strength of lagna cusp
+sub lord to be potent with evil significations that will prevail
+on the sign lord Mars and star lord Venus, es, it has been
+reiterated that the Sub lord alone is the final and strongest
+force to decide the length of life (longevity).
+Significators of Marakha and Bhadakasthana :
+llnd House : Owned by Venua and is in VII.
+Venus owns VII too.
+No planet in Venus star.
+Moon is in II.
+Kethu is in Moon star.
+Vllth House: Owned by Venus.
+No planet in Venus star.
+Mars, Mercury, Sun, Rahu and Venus in VII.
+Moon is in Mars constellation.
+Venus is in Mercury constellation.
+No planet in Sun constellation.
+Jupiter is in Rahu star.
+Kethu is in Rishabam owned by Venus.
+Xlth house: No planet there.
+Saturn owns the cusp.
+Sun and Mercury are in Saturn stars.
+Further Xth house tells about the - retirement from the
+world and Xllth house being negation to lagna and called
+house of Moksha, these two also are not auspicious while
+considering the longevity.
+It was the Dasa of Mars, bukthi of Sun .Anthra of Venus,
+in progress, when I took up this matter. Bukthi of Sun was
+ruling upto 6-1 2-74 and it was the Anthra of Venua.
+At the moment of judgement, it was a Sunday and Moon
+was in Gemini 5°-32' and lagna was in Capricorn in' Uthre-
+•fiada star in 8°-17'.
+
+So I finalised that the death is very near and it should
+take place in the Dasa of Mars, bukthi of Sun, Anthra of
+Venus and sookshma of Mercury which falls between
+He passed away on the evening of 3rd December 1974 on
+a Tuesday when Moon was in Poosam star of Saturn, in the
+evening by about 7-30 p.m. when it was Mithuna lagna of
+Mercury with lagria degree having Mars star.
+
+LONGEVITY
+One of my friends, leading fleet owners of Bombay
+province wanted to know when his old ailing mother relieved
+of pains from cancer and reach the lotus feet of the Almighty,
+I desired him to get a number regarding this from his
+mother itself. (Any number between 1 and 249).
+Number 25 was uttered by her and I worked out the
+Horary chart at 10 a.m. on 8th April 1970. Place 22°-31' N.
+Lat.
+This number stands for 3°-0'-0'. Taurus rises at
+Ascendant. The other cusps are worked out for the latitude of
+the place where from I am working with the helpof Raphael's
+Table of Houses, duly the sayana position of the 12 cusp
+deducting the Krishnamurthi Ayanamsa 23°-20' for the year
+This position of the planets are worked out for 10-00a.m.
+Number given : 25 (1-249)
+Time and date: IQ'OOam. 1ST on 1-4-1970. Wednesday.
+Place ot workout the Horary : 22s -31' N. Lat.
+Balance in Venus period : Years 8 y— 11 m— 17 d.
+To tell tha nature of quary tha position and its bhava
+connections of Moon, one gets guided,
+
+The Horary Chart is as under:—
+Here Moon is in the Xllth bhava in the star of Venus.
+Venus owns the llnd a maraka house and is in the sub of
+Jupiter, owner of IX cusp, Bhadhakasthana for Taurus Lagna.
+So Moon's position tells me Nature of query in her mmd
+regarding her demise.
+To fix the Longevity of the querist K.P. advocates the
+assessment through the Lagna cusp and its sub lord.
+The sublord of ascendant is Saturn. Saturn is in Xllth
+and no planets in its stars. So r>e is the full significator of
+Xllth house. This portends bedriddenness or hospitalisation.
+Now she is completely bedridden.
+The same Saturn is in the sjar of Venus in XII. owning
+llnd a marakasthana. So Saturn is a maraka.
+Further the Saturn is in the sub of sub signifying Xllth.
+This deepens the matter and telis the longevity is rather very
+short and the demise is nearing.
+According to K. S. K. the total disease is shown by the
+significatots of Vllth Bhava and the Vlllth cusp Sub lord.
+
+Here the Vlllth house lord is Mars and no planets in the
+constellation of Mars. So Mars is very powerful.
+Further the Vlllth cusp sub lord is Saturn. Saturn is ift
+the constellation of Venus, a Maraka house Saturn is in the
+Sub of Sun who is represented by Kethu. Kethu is also in the
+star of Venus a Maraka.
+Saturn is represented by Rahu,' in whose star Jupiter is
+posited. So Jupiter has some tinge of total disease and
+further having no planet in its star. Jupiter owns IXtfi the
+bhadhakas house and is deposited in Vlth the house of
+disease.
+According to Vimshottari Dasa system she is runn ing
+Horary period of Venus, bukthi of Jupiter (From 25-5-69 to
+Venus owns Hnd cusp and is in Xllth duly opposed by
+Jupiter from Vlth, owning IXth.
+Jupiter is in Vlth and owns IXth and no planets in its
+9tar8. So a cent percent killer.
+So demise should come in this bukti itself. In which
+Anthra?
+To decide the same, we resort to the system of ruling
+planets proposed by our Guruji Late Sri K. S. K.
+At this hour of 10 a.m. on 8-4-70 when we have worked
+out this Horary, the Lagna is running in Rohini star Venus
+Rasi (Rishabham) and so Moon and Venvs are R.Ps.
+It is Bharani constellation and so Venus and Mars are
+RPs.
+It is Wednesday so Mercury is the day lord.
+So Venus, Moon. Venus, Mars, Mercury are the ruling
+planets. (RPs.)
+So I have chosen Venus Anthra for the damise to come
+when Sun transits the sensitive degree formed by these RPs.
+is preferably when it passes Venus Rasi (Libra), Mars, Star
+(Chithlrai 3 and 4 Pada) Mbon sub which worked out to be
+185a-33'-20' to 186°-40'-0' (Falls on 23rd and 24th October
+She passed away exactly at 12-30 p.m. on 23-10-1970
+when Lagna degree was ruling through Dhanus 'which contains the IXth cusp which is a badhaka da gree for stira Rasi.
+
+CHILD BIRTH AND SHORT LIFE
+On 14-12-1971 I was approached by one of my friends
+who was expecting birth of a child through his wife, already
+much advanced in age. He wanted to know when she will
+deliver.
+Immediately the ruling planets were worked out, and I
+did not take any number from him, as the delivery was expected any moment.
+Star Lord-Rahu,
+Rasi Lord-Venus,
+Lagna star Lord-Rahu,
+Rasi Lord-Saturn,
+Day Lord-Mars.
+The delivery should take place when the sensitive point
+in the zodiac conjointly ruled by the combination of the above
+ruling planets is transmitted by Luminaries.
+i selected the combination in Mars sign (Aries) and the
+constellation of Venus and sub of Rahu (Saturn rejoined as it
+has been retrograde.
+The above combination falls in ARIES from 18°-6'-40' to
+When Moon transit the above sensitive degree i e. by 27/
+28-12-1971 and it was worked out to be around 3-00 to 3-12
+(night) night of 27th.
+It was then predicted to him that the delivery will take
+place on the night of 27th December 1971.
+Later he Informed me that the delivery took olace exactly
+at 3-08 a.m. on the night of 27-12-71 as was predicted.
+He asked me to prepare that birth chart of the new born
+child and I did it as per K.P. and as perused it, I doubted the
+survival of the child and hence I did not reveal that I prepared
+the chart and advised him to remind me after a month,
+
+As expected by me, the new born child passed away on
+the fifteenth day and the demise took place on 11-1-72, at
+I started analysing the event of the demise of the child
+and the birth chart fs as follows : —
+Date of birth: 27/28-12-71
+Time : 3-8 a.m. I.S.T.
+Siderial Time: Hrs. 9-32-15
+Ayanamsa 23°-21'.of Sri .K.S.K.
+
+While judging- the longevity of a person, one has to
+consider the Bhadhakasthana and Marakasthanas.
+A word about Btradhakasthsna. They are as under : —
+For Chara Rasis (Aries, Cancer, Libra, Capricorn) Xlth
+is the Bhadakasthana.
+For Sthira Rasis (Taurus, Leo, Scorpio, Aquarius) IXth
+is the Bhadhakasthanam.
+For Dwiswabhava Rasis (Gemini, Virgo, Sagittarius,
+Pisces, Vllth Is tha Bhadakasthana.
+For all lagnas irrespective, the II and Vllth are Marakasthanas, Xllth also to be judged as it is to the house of loss
+as regards to the Birth (Lagna).-
+According to Krishnamurthi Padhdhati. if the Sub lord
+of the ascendant becorr.es the significator of either Bhadakasthana or Marakasthana or both life will be very short.
+Here the sub lord- .of the ascendant is Kethu. Kethu is the
+IXth and is in star of Saturn in the Vllth bhava (a Marakasthana) and it is in the Sub of Rahu who as node represents
+Saturn in Marakasthanam. This combination portends very
+short life and as already noted the child passed away on the
+15th day.
+On the day of the birth of this child it was Venus Major
+period, bukthi of Rahu and Anthra of Sun. (Sun Anthra from
+26-12-71 to 20-2-72) Sookshma of Sun,
+
+On the day of demise it was Rahu sookshma (from 6-1 -72
+Dasa Lord Venus ia in closer proximity to Rahu, who by
+virtue of a Node representing the Maraka Saturn and for the
+Venus it the Lord of the 8th posited in the constellation of
+Moon In VI. This combination invariably cause danger to
+the life.
+Bukthi Lord Rahu (as above) represents Saturn in
+Marakasthanam.
+Anthra lord Sun i? Marakasthanam, owning the Xlth cusp
+a Bhadhakasthanam .
+Sookshma Lord 1$ Rahu a maraka, duly semi squared by
+Jupiter from Marakasthanam (45°!
+Hence the demise had taken place which it is Venus
+Dasa) Rahu Bukti, Sun Anthra and Rahu sookshma operated.
+
+LONGEVITY OF A COUPLE
+The native is born on a Monday the 19th February 1912
+The birth chart is as under :
+Longevity of wife : As has been told in the previous
+pages, longevity should be first assumed from Lagna only.
+The sub Lord of Lagna cusp reveals the position.
+To find out the longevity of wife, you must judge the
+same from the Vllth cusp ana its Sub Lord Here in this
+chart, the Vllth cusp falls in Dhanus 11°-58C and the Sub lord
+is Mercury.
+Mercury is deposited with star of Mars in the XI hh House,
+i.e. Vlth from the Vllth Cusp Hence this portends a sickly
+life and does not contribute to poornayush as the star lord
+Mars in the vraya bhavadhipethi in terms of Vllth House.
+Accordingly the native's wife passed away on 18-10*69.
+
+Now let use discuss Dasa Bukthi that brought about the
+demise of tha life partner.
+The demise came'in the major period of Kethu, bukthi of
+Saturn and Anthra of Venus.
+Tne Dasanatha Kethu is in the X Bhava in lagna of Vllth
+cusp and in the constellation of Mars in Vlth from Vllth. This
+does not augur well, as he is a Vrayakaraka for Vllth.
+Buktinadha Saturn owns Vlllth (i.e. Ilnd from Vllth) and
+no planets in its star and so he is a first class maraka for Vllth.
+Antharanatha Venus is in 2°-15* Makara. This tells that
+he is in the star of Sun. Sun is in the Vlllth Bhava (i.e. Ilnd
+from Vllth) Venus also a powerful maraka.
+Incidentally she passed away in Venus sookshma itself,
+Self: — Hitagna is Gemini 11 °-53r. It is a common sign
+(Dwiswabhava Rasi) and so the Vllth is the badhakasthanam.
+Ilnd and Vllth are Marakasthanam.
+At the on set, we must lock into the Sub lord of the Lagna
+cusp, Here it is Saturn.
+Saturn is in Xlth Bhava and no planet in its star. Hence
+he is a tull significator ot Xiim
+This position promises a iong life. How the Sub lord
+Saturn signifies fully XI, and as he is posited in the star of
+Venus owning Vth he attains the signification ot Vth and
+Saturn owns IXth cusp and he is the full significator of IXth,
+since you find no planet in its star.
+The sub lord Saturn signifies V. IX and XI and this
+contributes poornayush for the native of this horoscope and
+he still lives.
+Let us discuss his span of I its.
+Now it is Venus period from 29-7-1971 to 27-7-1991,
+The significator of death inflicting houses.
+Ilnd Moon owns the ilnd
+No planet in Ilnd
+
+Mars alone in its stars,
+and Rahu a node tenants Mars house Aries
+Vllth (Marakaathanamand Bhadhakasthanam for Gemini)
+Jupiter owns the Vllth,
+No Planet in Jupiter star.
+So Jupiter Is a Maraka and Bhadhaka.
+Venus is in Vllth. These are planets in its star and Venus
+in the star of Sun In Vlllth and owns IVth both life giving
+houses. (So Venua is not a Maraka dasa)
+Saturn is in the Venus Star.
+Xllth : — Mars is in Xllth
+and Mercury and Kethu is in Mars stars.
+Rahu Is in Mesha representing Mars in Xllth
+owning Vlth.
+So Rahu attains these significators.
+Sun and Moon are in Rahu star.
+Summing up. Sun, Moon, Saturn, Jupiter, Mars are
+powerful marakas.
+So demise will come in Sun period, Moon bukthi, Jupiter
+Anthra and -Mars sookshma only not Saturn Sookshama as it
+is now 7-40 p.m. on 18-3-86 and day is ruled by Mars being
+Tuesday and it is Mrigasira star day.
+
+Longevity— How Stellar Astrology
+Precisely Predicts
+My friend's daughter had been sick for a long period, She
+was under medical treatment of experts, but she had only
+temporary relief and she fell seriously ill again.
+On seeing her gradually deteriorating health condition, 1
+felt an urge to find out if she would survive for long.
+So I took a number on her behalf and worked out the
+Horary chart.
+1 found that her disease was incurable and her life was
+short after that day, and worked out the date of her expiry to
+be 7-1-1980 and actually left her physical world about
+10-00 a.m. on Monday 7-1:1980, as predicted.
+The particulars of the chart and my analysis are furnished
+below :
+The query was judged at 8-00 a.m. Thursday, 20-12-1979
+Horary No. 73 (between 1 and 249}
+K.S.K. Ayanamsa used : 238-26' for 1979.
+
+The houses VI, VIII and XII tell about disease, danger and
+separation respectively.
+The houses XI and V indicate cure.
+The sub lord of the Xlth cusp is Rahu. Rahu is with
+Jupiter, lord of Vlth in the 1 fnd (Marakasthana)
+Jupiter is in the star cf the lord of Xlth (Bhadhakasthana)
+in the Vlth and the sub of Moon ascendant lord in VI.
+Rahu itself is in the llnd (Marakasthana) in the star of
+Kethu in 8, and in the sub lord of Jupiter occupant of II and
+significator of VI and Xlth being deposited in the star of
+Venus. Thus the sub lord of Xlth indicate disease and danger
+to life and no cure.
+Rahu is also the sub lord of the Vllth cusp, Vllth cusp
+and Lagna cusp.
+The sub lord of the Lagna cusp is the deciding factor to
+find out whether the longevity of the patient is short or
+medium, or long after the date of the judgement.
+As stated already, the sub lord of the Lagna cusp is Rahu.
+
+Since tha ascendant falls in a maraka sign, the Xith is the
+Bhadhakasthana while 'll and Vllth are Marakasthanas. Rahu,
+the sub lord of the ascendant is in the llnd, a marakasthana in
+the star of Kethu in Vlllth.
+Kethu in turn is the agent of Saturn, lord of VII th a
+marakasthana and also Vlllth.
+Rahu is also conjoined with JUPITER, lord of Vlth,
+placed in the constellation of the Xlth lord of Vlth.
+Thus Rahu, the sub lord of the ascendant is being
+connected to II, VI, VII, VIII and XI. Thus it is clear that the
+persons will not live long enough.
+The sub lord of the Vlllth cusp, points to the place of
+death and mode of death.
+Rahu, the sub lord of tha Vlllth cusp, strongly represents
+Jupiter and Mars by association. Both Jupiter, Mars are in
+the star of Venus, Lord of IV and XI in VI. This combination
+gives an inference that the patient would breath her last in
+her own house (IVth house) due to disease (Vlth house), with
+ail her relatives around her (IVth again). It is a surprising
+fact the natives, brother and father arrived justan hour before
+her last moments while all other relatives were already around
+her in the house.
+Death comes off during the conjoint period of the
+significators of the maraka and bhadhaka houses. VIZ: II,
+VII and XI.
+llnd house : llnd is owned by Sun.
+Rahu, Jupiter, Mars and Saturn are the
+occupants.
+Kethu is in the star of Rahu.
+No planets is in the star of Jupiter, Mars and
+Saturn.
+Venus and Saturn are in the stars of Sun,
+
+Vllth house: VII is vacant.
+Saturn owns Vllth.
+No planets is in Saturn star.
+Kethu is inthe Vllth.
+As node Kethu represents Saturn, the sign lord
+and so Kethu represents Vllth too.
+■ Sun and Rahu are in Kethu's star.
+Xlth house: No planet represents Xlth house.
+Venus owns the Xlth cusp.
+Moon, Mars and Jupiter are in the stars of
+Venus.
+Even Mercury has the power of inflicting death as it
+owns the Xllth cusp, (separation); Thus all planets ate in
+some manner or other, connected with death .inflicting
+influence.
+At such situations, we must resort to ruling planets for
+cuspal guidance.
+The RPs. or the time of judgement are as follows :
+Jupiter rules the day.
+Moon sign lord— Jupiter.
+Moon star lord— Venus.
+Lagna sign iord— Jupiter.
+Lagna star ford- Sun.
+Moon sub iord — Venus.
+Lagna sub lord— Moon.
+As Rahu is in Leo, Rahu also is RP.
+Thus the RP's are Jupiter ,Rahu, Venus, Sun and Moon.
+Among Ruling Planets, Rahu being a node stronger than
+the Rasi Lord Sun, Jupiter with whom he is conjoin.
+So we find RPs are Rahu, Venus and Moon.
+At the time of judgement, the dasa and Bukthi of Venus
+and Anthra and Sookshma of Moon was in operation.
+
+Among the final ruling planets(i.e. Venus, Rahu and
+Moon) Venus as the lord of the Dasa Bukthi and Moon as the
+Anthra are in action.
+The remaining ruling planet Rahu should come into
+action as the sookshma lord to deal with the life of the
+patients.
+Rahu sookshma operates for 15 days from 24-12-79 to
+Since the patient's life cannot extend beyond 9-1*1980
+and this date is just less than a month from the date of
+judgement.
+I took the Moon's transit to determine the date of demise.
+Moon should transit the sign of Dasa and Bhuthi lord
+Venus and also the bhadhakasthana. Taurus in Moon star,
+Rahu sub.
+This occurs on the night of Sunday the 30th December
+1979, between 8-30 p.m. and 11 -50 p.m. when Moon will be
+transiting its own star.
+In the Horary chart. Moon itself in the lord of lagna, as
+such the end cannot come.
+Hence the patient should escape death, in such a transit
+of the Dasa bukti lords.
+The next such possible position of Moon's transit in tha
+star of Venus, the dasa and bukti lord. It's star Poo ram falls
+in Leo, coinciding the llnd marakasthana.
+(Leo is iuled bySun, where the Rp. Rahu is there.}
+Moon transists this point on Monday the 7-1 -1 980 and the
+native died at 10-00 a.m. when Moon transitted Pooram of
+Venus and Sub of Moon.
+
+Doctor Gives Number to Know the
+Longevity of the Patient
+I wanted to meet a Doctor friend of mine, who was at
+that moment making some medical, check up on a patient who
+was then struggling for survival. With much uncertainty,
+perhaps, the Doctor was treating that patient.
+When he saw me, as he already knows me as an
+astrologer, wanted my astrological advise regarding the
+longevity of that patient.
+I asked him for a number between 1 and 249 and he said
+74, with least hesitation.
+A Horary chart was erected with 14° -53' -20' Kataka as
+the point of ■ lagna, this being the point corresponding to
+No. 74, according to K.P. method of zodiacal division.
+The Nirayana Horary chart is as under :
+
+Blance in Venus period
+at the moment of judgement : Years 0 — 5 — 19 days.
+r
+At the outset, let me first settle which house describes
+the patient for whose longevity, the Doctor himself had given
+thenumber.
+In astrological parlance, the lagna always denotes and
+stands for the person who makes the query, in this instance
+the doctor.
+The Vllth house is said to show his patient. So the Vllth
+house is to be assumed by the astrologer, to represent the
+patient.
+As the Vllth house in this chart under examination falls
+in Makara 14°-53'-20*, this point for all purposes constitutes
+as lagna of the patient and proceed as such.
+Only to make the students understand the procedure I
+again putthe Horary map, making the Vllth as lagna of the
+patient, Vlllth as II and so on.
+
+As regards to death inflicting houses, astrological texts
+hold that llnd end Vllth houses which are the opposing
+houses to the houses of longevity is Vlllth and 1st and also
+strong in relation to the Vlllth and lllrd which relates to
+longevity. The Xllth house stand for Mokshasthana, the
+house of liberation of soul and also being a negating force to
+lagna that governs the body.
+In addition to this we have to take into account the
+Bhadakasthana also. If lagna falls in chara Rasi, Xlth is the
+bhadakasthana, if in sthira Rasi IXth, and if it falls In
+Dwlswathara (common sign) Rasi Vllth.
+As per Prof. K.S K., Bhadhakasthana plays a major role
+in inflicting death.
+First we must look into the lagna cusp sub lord to determine the lengths of longevity of the patient. It is 14°-63'-20*
+in Marakam. So the sub lord is Jup'ter.
+Jupiter is in lagna bhava, in the star of Moon the marakasthanadhipath’i and is placed in [Xllth the mokshasthana.
+Further the same Jupiter is in the sub of Saturn owner of
+II and no planets in Saturn star and in II. and Saturn is a
+significator of bhadhakasthana. (Xlth house.)
+Jupiter is along with Mars, the bhadakasthanadhlpathi
+and Jupiter owns the Xllth cusp also.
+All these combinations go a long way to tell that the
+patient has the shortest longevity possible.
+Let us determine who are all the marakas:
+llnd House : It is vacant.
+Owned by Saturn.
+No planets in Saturn star.
+So Saturn is the sole significator of llnd.
+Vllth House : No planet here too.
+Moon rules the home.
+Jupiter tenants moon star.
+So Moon and Jupitet are Vllth
+significators.
+
+Xllth house : Moon is posited there.
+Jupiter is in Moon star and Jupiter lords
+in this cusp,
+No planets in Jupiter constellation.
+Hence Moon and Jupiter signify this
+nouse.
+and Jupiter is powerful to promote the
+affairs of Xllth house.
+Xlth house (Bhadhakasthana):
+Rahu is placed there,
+- Kethu alone occupies Rahu's star.
+Mars owns the Xlth cusp and Saturn is in
+Mars Star.
+Hence Rahu, Kethu, Mars, Saturn are
+bhadhakas.
+While judging this matter, It was Venus major period,
+bukthi of Kethu and thh anthra of Jupiter (11-4-73 to
+7-6-73) and sookshma of Saturn in operation.
+Dasanatha Venus is in its own star and owns Xth cusp.
+Xth tells about a native's last journey. If other factors lead
+towards maraka position then the Xth will tend towards death
+also as it stands for long journey and thus Venus assumes
+Maraka powers.
+Bukhthinatha is Kethu. Kethu is in the star of Rahu in
+the Xlth the Bhadhakasthana.
+Antharanatha Jupiter, as detailed above, he is above a
+powerful maraka being in the star of Moon owner of Vllth and
+in XII and also Jupiter owns Xllth cusp.
+Sookshmanatha Saturn is the sole significator of llnd and
+also attaint bhadhaka powers having been placed in Mars
+star and Mars being the Bhadhaka, as it owns Xlth cusp.
+According to Krishnamurthi Padhdhathi, the planets who
+conjointly govern the lagna cusp show long long life,’ provided
+
+they are the significators of I and V. If they are significators
+of II, VII and bhadhakasthana they prove fatal and brine about
+early death.
+In this Horary chart, the lagna cusp is ruled by Saturn as
+Rasi lord, by moon as constellation lord and by Jupiter as
+sub lord.
+As I have already discussed above, Saturn, Moon and
+Jupiter are invested with very strong maraka and bhadhaka
+powers,
+After the examining the factors I had no illusion regarding
+the patient's survival and indicates that he will succmmbleany
+moment when lagna transists the star poorvashadha, as the
+three planets ruling Moon's position, Jupiter as Rasi lord,
+Venus as star lord, and Kethu as sub lord, shall have maraka
+powers.
+And it happened and the demise came on that night by
+about 11. p.m. and the lagna must have been, transiting
+Dhenus of Jupiter, Poorvashada of Venus and sub of Kethu.

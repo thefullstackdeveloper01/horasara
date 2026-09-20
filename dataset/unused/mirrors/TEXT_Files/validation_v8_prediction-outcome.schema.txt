@@ -1,0 +1,76 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v8/prediction-outcome.schema.json
+Dataset number: 425 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 773 bytes
+Top-level fields: 6
+Title: HoraSaar V8 Labelled Prediction Outcome
+
+CONTENT
+--------------------------------------------------------------------------------
+• $schema: https://json-schema.org/draft/2020-12/schema
+• title: HoraSaar V8 Labelled Prediction Outcome
+• type: object
+• required:
+  1.
+    id
+  2.
+    chartId
+  3.
+    event
+  4.
+    cutoff
+  5.
+    outcome
+  6.
+    source
+• properties:
+  • id:
+    • type: string
+  • chartId:
+    • type: string
+  • event:
+    • type: object
+    • required:
+      1.
+        type
+      2.
+        date
+    • properties:
+      • type:
+        • type: string
+      • date:
+        • type: string
+  • cutoff:
+    • type: string
+  • outcome:
+    • type: object
+    • required:
+      1.
+        observed
+      2.
+        date
+    • properties:
+      • observed:
+        • type: boolean
+      • date:
+        • type: string
+  • source:
+    • type: object
+    • required:
+      1.
+        citation
+      2.
+        verificationStatus
+    • properties:
+      • citation:
+        • type: string
+      • verificationStatus:
+        • enum:
+          1.
+            verified
+          2.
+            unverified
+• additionalProperties: Yes

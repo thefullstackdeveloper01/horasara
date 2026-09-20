@@ -1,0 +1,46 @@
+READABLE DATASET
+================================================================================
+Original file: planetaryMasterTable.json
+Dataset number: 314 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 292 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• TRUE_GRAHAS:
+  1.
+    Mars
+  2.
+    Mercury
+  3.
+    Jupiter
+  4.
+    Venus
+  5.
+    Saturn
+• ECLIPSE_APPLICABLE:
+  1.
+    Sun
+  2.
+    Moon
+• CLASSICAL_GRAHAS:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+  8.
+    Rahu
+  9.
+    Ketu

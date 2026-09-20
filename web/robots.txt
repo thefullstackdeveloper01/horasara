@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /tools
+Allow: /subscribe
+Disallow: /report
+Disallow: /unsubscribe
+Disallow: /calculate
+Disallow: /calculator/
+Disallow: /calculators
+Disallow: /enterprise/
+Disallow: /subscriptions
+Disallow: /payments
+Disallow: /payment/
+Disallow: /panchang/
+Disallow: /horoscope/
+
+Sitemap: __PUBLIC_BASE_URL__/sitemap.xml
+Disallow: /_jv-control-

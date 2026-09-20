@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "295__neecha_bhanga_json",
+    "name": "neecha_bhanga",
+    "original_file": "neecha_bhanga.json",
+    "dataset_number": "295 of 455",
+    "format": "json",
+    "source_readable_file": "neecha_bhanga.txt",
+    "source_sha256": "5d6420c6e9aa561d0f41c26298cc2f18d149a71b732e398f00f0595ce07bb148",
+    "source_bytes": 1486
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": 1,
+        "condition": "Lord of debilitated planet in Kendra from Lagna or Moon"
+      },
+      {
+        "id": 2,
+        "condition": "Planet that would exalt in same sign as debilitated planet is in Kendra"
+      },
+      {
+        "id": 3,
+        "condition": "Lord of the sign where planet is debilitated is exalted"
+      },
+      {
+        "id": 4,
+        "condition": "Lord of the sign where planet is debilitated aspects the debilitated planet"
+      },
+      {
+        "id": 5,
+        "condition": "Debilitated planet is in Kendra from Lagna or Moon (self-cancellation)"
+      },
+      {
+        "id": 6,
+        "condition": "Debilitated planet is conjunct or aspected by its exaltation sign lord"
+      }
+    ]
+  }
+}

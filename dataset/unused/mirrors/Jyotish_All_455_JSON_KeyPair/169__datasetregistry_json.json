@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "169__datasetregistry_json",
+    "name": "datasetRegistry",
+    "original_file": "datasetRegistry.json",
+    "dataset_number": "99 of 455",
+    "format": "json",
+    "source_readable_file": "datasetRegistry.txt",
+    "source_sha256": "9a19bff587cc11b9833953994cdb7c5ef333d26756a37305a1f14d0bfad4a2f2",
+    "source_bytes": 2677
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "REGISTRY": {
+        "_items": [
+          {
+            "feature": "Personalized Vastu Guide",
+            "module": "vastuGuide",
+            "file": "vastu_rules.json"
+          },
+          {
+            "feature": "Dream Symbol Lookup",
+            "module": "dreamLookup",
+            "file": "dream_meanings.json"
+          },
+          {
+            "feature": "Palmistry Feature Lookup",
+            "module": "palmistryLookup",
+            "file": "palmistry_rules.json"
+          },
+          {
+            "feature": "Graha Shanti detailed remedies (mantra/gemstone/havan per weak planet)",
+            "module": "grahaShanti",
+            "file": "graha_shanti_rules.json"
+          },
+          {
+            "feature": "Yoga Enrichment (detailed effects/strength/cancellation text per detected yoga)",
+            "module": "yogaEnrichment",
+            "file": "yogas_detailed_database.json"
+          },
+          {
+            "feature": "Dosha Remedy Enrichment (detailed mantra/donation/ritual per detected dosha)",
+            "module": "doshaRemedyEnrichment",
+            "file": "doshas_detailed_database.json"
+          },
+          {
+            "feature": "Lagna Profile (12-sign classical personality/career/health text)",
+            "module": "lagnaProfile",
+            "file": "lagna_predictions.json"
+          },
+          {
+            "feature": "Classical Prediction Rules (career/finance/marriage keyword-matched BPHS rules)",
+            "module": "classicalPredictionRules",
+            "files": {
+              "_items": [
+                {
+                  "_text": [
+                    "career_prediction_rules.json"
+                  ]
+                },
+                {
+                  "_text": [
+                    "finance_prediction_rules.json"
+                  ]
+                },
+                {
+                  "_text": [
+                    "health_prediction_rules.json"
+                  ]
+                },
+                {
+                  "_text": [
+                    "marriage_prediction_rules.json"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "feature": "Varga Significations text (D9/D10/Karakamsha classical interpretation beyond raw chart)",
+            "module": "vargaSignifications",
+            "files": {
+              "_items": [
+                {
+                  "_text": [
+                    "d9_navamsa_rules.json"
+                  ]
+                },
+                {
+                  "_text": [
+                    "d10_dashamsa_rules.json"
+                  ]
+                },
+                {
+                  "_text": [
+                    "karakamsha_rules.json"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "feature": "BPHS Raja Yoga citation lookup (bundled rule file)",
+            "module": "bphsEngine",
+            "file": "yogas__raja_yoga.json"
+          },
+          {
+            "feature": "v15 Calculator Catalog",
+            "module": "CalculatorRegistry",
+            "file": "calculator_catalog_v15.json"
+          },
+          {
+            "feature": "v15 Panchang Calculator Rules",
+            "module": "CalculatorEngine",
+            "file": "panchang_calculator_v15.json"
+          },
+          {
+            "feature": "V4 Remedy Trace categories",
+            "module": "RemedyTraceEngine",
+            "file": "remedy-trace.json"
+          },
+          {
+            "feature": "V4 Reporting policy and section contract",
+            "module": "HoraSaarReportEngine/ReportIntegrityGate",
+            "file": "reporting-policy.json"
+          }
+        ]
+      },
+      "MIN_MEANINGFUL_BYTES": 16
+    }
+  }
+}

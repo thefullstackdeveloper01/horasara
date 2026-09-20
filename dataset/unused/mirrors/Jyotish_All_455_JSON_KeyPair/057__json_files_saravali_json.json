@@ -1,0 +1,751 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "057__json_files_saravali_json",
+    "name": "Saravali",
+    "original_file": "JSON_Files/Saravali.json",
+    "dataset_number": "205 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Saravali.txt",
+    "source_sha256": "e7053589973fe0a1aef9d4c7799cf6d5a92a28c3a0c78a00e0c9b50444538232",
+    "source_bytes": 10997
+  },
+  "metadata": {
+    "title": "Saravali"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "title": "Saravali",
+      "author": "Kalyana Varma",
+      "type": "Indian Astrological Treatise",
+      "language": "Sanskrit",
+      "period": "7th Century CE",
+      "structure": {
+        "total_chapters": 55,
+        "volumes": 2,
+        "content_type": "Astrological and predictive"
+      },
+      "metadata": {
+        "sanskrit_name": "सारावली",
+        "transliteration": "Sārāvalī",
+        "disambiguation": "Not to be confused with Saravali village in Greece"
+      },
+      "author_details": {
+        "name": "Kalyana Varma",
+        "title": "King-astrologer",
+        "region": "Vyaghrapada",
+        "capital": "Devagramapura",
+        "period": "Between Varahamihira and Bhattotpala (7th century CE)",
+        "description": "A renowned, pious, liberal and learned king of a region named Vyaghrapadi"
+      },
+      "significance": {
+        "historical_importance": "One of the most authoritative works on Hindu astrology",
+        "influence": {
+          "_items": [
+            {
+              "_text": [
+                "Bhattotpala (9th century) quoted extensively from Saravali in his commentaries on Varahamihira's Brhat Samhita and Brhajjataka"
+              ]
+            },
+            {
+              "_text": [
+                "Vaidyanatha Dikshita's Jatakaparjata is an epitome of this great work"
+              ]
+            },
+            {
+              "_text": [
+                "Balabhadra embodied nearly one half of Saravali in his Horaratna"
+              ]
+            },
+            {
+              "_text": [
+                "Mallinatha, the celebrated commentator, mentioned Kalyanavarman and Varahamihira giving quotations from Saravali"
+              ]
+            },
+            {
+              "_text": [
+                "Mantreswara of Phala Deepika acknowledged reliance on Saravali"
+              ]
+            }
+          ]
+        }
+      },
+      "content_overview": {
+        "core_topics": {
+          "_items": [
+            {
+              "_text": [
+                "Effects of planetary states at birth"
+              ]
+            },
+            {
+              "_text": [
+                "Mutual significators"
+              ]
+            },
+            {
+              "_text": [
+                "Various developments of embryo in the womb"
+              ]
+            },
+            {
+              "_text": [
+                "Birth of twins"
+              ]
+            },
+            {
+              "_text": [
+                "Dispositions of planets to cause and counter-act evils"
+              ]
+            },
+            {
+              "_text": [
+                "Raja Yogas bestowing high status"
+              ]
+            },
+            {
+              "_text": [
+                "Combinations lowering a native"
+              ]
+            },
+            {
+              "_text": [
+                "Female horoscopy"
+              ]
+            },
+            {
+              "_text": [
+                "Planetary conjunctions"
+              ]
+            },
+            {
+              "_text": [
+                "Effects of a planet remaining in various signs aspected by another planet"
+              ]
+            },
+            {
+              "_text": [
+                "Effects of various houses in aspect to the planets"
+              ]
+            },
+            {
+              "_text": [
+                "Planetary periods"
+              ]
+            },
+            {
+              "_text": [
+                "Roles of decanates"
+              ]
+            }
+          ]
+        },
+        "chapter_highlights": {
+          "chapters_27_to_29": "Effects of Jupiter, Venus and Saturn in various signs and various aspects",
+          "chapter_30": "Results of planets from Sun to Saturn placed in the 12 houses individually",
+          "chapter_31": "Planetary conjunctions in angles",
+          "chapter_32": "Ninth house with special importance to Jupiter",
+          "chapter_33": "Tenth house",
+          "chapter_34": "Other houses (excluding 8th house)",
+          "chapter_35": "Voluminous chapter on various combinations",
+          "chapter_36": "Planetary rays at birth",
+          "chapter_37": "Pancha Maha Purusha Yogas",
+          "chapter_38": "Three gunas, 5 tatwas and 3 temperaments",
+          "chapters_41_to_44": "Dasa calculations and effects of periods",
+          "chapter_45": "Planetary dignities: exaltation, debilitation, own house",
+          "chapter_46": "Female horoscopy",
+          "chapter_47": "Lost horoscopy",
+          "concluding_chapters": "Ashtaka Varga and Manifold Births"
+        }
+      },
+      "key_concepts": {
+        "temperaments": {
+          "windy": {
+            "characteristics": {
+              "_items": [
+                {
+                  "_text": [
+                    "Troubled by cold"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Speaks a lot"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Walks fast"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Thievish"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Egoistic"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Unstable in disposition"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fortunate"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Knowledgeable in music"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Forgiving"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Skilful in making friends"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Harsh hair"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Ungrateful"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Splay feet"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Crooked arms"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Irascible"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Devoid of radiance"
+                  ]
+                }
+              ]
+            },
+            "dreams": "Flying in the skies"
+          },
+          "bilious": {
+            "characteristics": {
+              "_items": [
+                {
+                  "_text": [
+                    "Speaks evil"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Given to less anger"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Broad-minded"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Easily satiable"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Large and reddish nails, eyes, hands and legs"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Looks like an old man"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Ever thirsty"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Intelligent"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fearless in war"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fond of cold articles"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Participates in gambling"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Eats abundantly"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Inimical to mother"
+                  ]
+                }
+              ]
+            },
+            "dreams": "Gold, sun, lamp, engulfing fire, pink lotus, eunuch, blood, lightning"
+          },
+          "phlegmatic": {
+            "characteristics": {
+              "_items": [
+                {
+                  "_text": [
+                    "Opulent"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Clung bodily joints"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Courageous"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Energetic"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Radiant"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Attractive"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Gentle"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Enduring"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fair in complexion"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Reddish eyes"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fond of sweet juices"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Subdues enemies"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Grateful"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Honours others"
+                  ]
+                }
+              ]
+            },
+            "dreams": "Oceans, rivers, tanks, pearls, swans, white lotus, conch, lily, moon, iceberg"
+          }
+        },
+        "pancha_maha_purusha_yogas": {
+          "malavya": {
+            "planet": "Venus",
+            "characteristics": {
+              "_items": [
+                {
+                  "_text": [
+                    "Thin lips"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Even physique"
+                  ]
+                },
+                {
+                  "_text": [
+                    "No extra limbs"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Slender waist"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Splendour equal to moon"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Voice akin to elephant"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Prominent cheeks"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Shining eyes"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Even and white teeth"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Long arms touching knees"
+                  ]
+                },
+                {
+                  "_text": [
+                    "King"
+                  ]
+                }
+              ]
+            },
+            "longevity": "70 years",
+            "rule": "Laata, Mala, Sindhu and Pariyatra regions"
+          },
+          "ruchaka": {
+            "planet": "Mars",
+            "characteristics": {
+              "_items": [
+                {
+                  "_text": [
+                    "Long face"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Endowed with radiance"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Plenty of blood"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Achieves undertakings through valour"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Beautiful eye-brows"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Dark hair"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Industrious"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Knowledge of machinery"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Head of thieves"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Dark-red complexion"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Very heroic"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Destroys enemies"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Neck resembling conch"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Chief person"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Thin arms and knees"
+                  ]
+                }
+              ]
+            },
+            "special_marks": "Bed, rope, ox, arch, wheel, lute on palms and soles",
+            "height": "Hundred-inch tall",
+            "rule": "Cities between Vindhya and Sahya mountains",
+            "death": "Through fire or weapons"
+          },
+          "sasa": {
+            "planet": "Saturn",
+            "characteristics": {
+              "_items": [
+                {
+                  "_text": [
+                    "Small teeth"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fast pace walk"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Crafty"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Very valorous"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Interested in wandering in forests, mountains, forts"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Depressed belly"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Not very short"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "planetary_states": {
+          "svastha": {
+            "meaning": "Confident",
+            "effects": "Acquires gold, family; justice in king's employ; owns houses; amasses grains; family prospers"
+          },
+          "mudita": {
+            "meaning": "Rejoicing",
+            "effects": "Pleasingly disposed; wife, gold, diamonds; wins foes; enjoys all comforts"
+          },
+          "santa": {
+            "meaning": "Peaceful",
+            "effects": "Peaceful mind; comfort and wealth; king's minister; learned; helpful; religious; fortunate"
+          },
+          "sakta": {
+            "meaning": "Capable",
+            "effects": "Wife, clothes, scents, garlands; famous; liked by all; name spread all-over"
+          },
+          "pidita": {
+            "meaning": "Hurt/Oppressed",
+            "effects": "Grief and sickness; enemies; deprived of own people; wanders from country to country"
+          },
+          "bhita": {
+            "meaning": "Alarmed",
+            "effects": "Troubled by enemies; loses men; defeated; becomes poor"
+          },
+          "vikala": {
+            "meaning": "Mutilated",
+            "effects": "Deprived of place or position; dirty-hearted; poor; wanders; frightened by enemies"
+          },
+          "khalavastha": {
+            "meaning": "In Khalavastha",
+            "effects": "Grieves in sorrow; cannot maintain wife; loses wealth; impure mind; never free from miseries"
+          }
+        },
+        "sexagesimal_measurements": {
+          "face_length": "13 inches (ancient measurement)",
+          "ear_to_ear_length": "10 inches",
+          "height": "100 inches (Ruchaka Yoga native)"
+        },
+        "planetary_dignities": {
+          "exaltation": {
+            "effects": "All kinds of wealth; auspicious results to full extent",
+            "strength": "Highly strong"
+          },
+          "mlatrikona": {
+            "effects": "Ministerial-ship or leadership over Army",
+            "strength": "Medium"
+          },
+          "own_house": {
+            "effects": "Happiness, money, grains, wealth",
+            "strength": "Nominal if aspected by friendly planet"
+          },
+          "friendly_house": {
+            "effects": "Fame, splendour, abundant good fortune, long-lasting wealth, wealth through king"
+          },
+          "debilitation": {
+            "effects": "Futile; fully inauspicious"
+          },
+          "retrograde_in_exaltation": {
+            "effects": "Produces no effect; nothing good will happen"
+          }
+        },
+        "limbs_of_kalapurusha": {
+          "Aries": "Head",
+          "Taurus": "Face",
+          "Gemini": "Arms",
+          "Cancer": "Heart",
+          "Leo": "Stomach",
+          "Virgo": "Hip",
+          "Libra": "Space below navel and private parts",
+          "Scorpio": "Private parts",
+          "Sagittarius": "Thighs",
+          "Capricorn": "Knees"
+        },
+        "rasi_descriptions": {
+          "Aquarius": "Resembles a man holding a pot",
+          "Gemini": "Compared to a couple holding Veena and mace",
+          "Pisces": "Imagination of a pair of fish",
+          "Sagittarius": "Man having a hip like that of a horse and holding an arch",
+          "Capricorn": "Deer-faced",
+          "Virgo": "Virgin sitting in a boat with a lamp in her hands",
+          "Libra": "Male holding Scales in his hand"
+        }
+      },
+      "available_editions": {
+        "publisher": "Motilal Banarsidass / Ranjan Publications",
+        "language": "Sanskrit & English",
+        "total_pages": 850,
+        "format": "Paperback",
+        "volume": "Two Vol Set",
+        "price_inr": 1280,
+        "translator": "R. Santhanam",
+        "edition_years": {
+          "_items": [
+            {
+              "_text": [
+                "1983"
+              ]
+            },
+            {
+              "_text": [
+                "1991"
+              ]
+            }
+          ]
+        }
+      },
+      "disambiguation": {
+        "note": "Saravali also refers to a village in Greece",
+        "greek_village": {
+          "name": "Saravali (Σαράβαλι)",
+          "country": "Greece",
+          "region": "West Greece",
+          "municipality": "Patras",
+          "population_2011": 735,
+          "population_2021": 749,
+          "postal_code": "265 00",
+          "history": "Castle built by Franks in 13th century; battle of Greek War of Independence in 1822"
+        }
+      },
+      "related_works": {
+        "_items": [
+          {
+            "_text": [
+              "Brihat Jataka (Varahamihira)"
+            ]
+          },
+          {
+            "_text": [
+              "Jatakaparjata (Vaidyanatha Dikshita)"
+            ]
+          },
+          {
+            "_text": [
+              "Horaratna (Balabhadra)"
+            ]
+          },
+          {
+            "_text": [
+              "Phala Deepika (Mantreswara)"
+            ]
+          },
+          {
+            "_text": [
+              "Brhat Samhita (Varahamihira)"
+            ]
+          }
+        ]
+      },
+      "legacy": {
+        "impact": "A shining but never setting star in the astral skies",
+        "reputation": "Its authority on astrological points was undisputedly acknowledged in ancient times",
+        "style": "Chaste and flowing; information more copious and valuable than any current astrological work"
+      }
+    }
+  }
+}

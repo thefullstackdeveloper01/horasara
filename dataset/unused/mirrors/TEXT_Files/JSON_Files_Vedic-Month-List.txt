@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Vedic-Month-List.json
+Dataset number: 217 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 212 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | ruler | season | deity
+----------------------------------
+1 | Chaitra | Mars | Vasanta (Spring) | Lord Rama
+2 | Vaishakha | Venus | Vasanta (Spring) | Lord Vishnu

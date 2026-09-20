@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "199__ghatakfavourable_json",
+    "name": "ghatakFavourable",
+    "original_file": "ghatakFavourable.json",
+    "dataset_number": "129 of 455",
+    "format": "json",
+    "source_readable_file": "ghatakFavourable.txt",
+    "source_sha256": "666f2837871cb90eb29e952f301d8d13a505d43f76273b770a57282f32fd0ee7",
+    "source_bytes": 556
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "LP_PLANET_MAP": {
+        "1": "Sun",
+        "2": "Moon",
+        "3": "Jupiter",
+        "4": "Rahu",
+        "5": "Mercury",
+        "6": "Venus",
+        "7": "Ketu",
+        "8": "Saturn",
+        "9": "Mars",
+        "11": "Moon",
+        "22": "Rahu",
+        "33": "Jupiter"
+      }
+    }
+  }
+}

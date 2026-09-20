@@ -1,0 +1,8 @@
+{
+  "version":"9.0.0",
+  "status":"verified-import-ready",
+  "records":[],
+  "required_fields":["id","chartId","events","cutoff","source","verification"],
+  "no_fabrication":true,
+  "note":"Real historical/person/event records must be independently sourced and verified before import. No synthetic outcome records are presented as historical evidence."
+}

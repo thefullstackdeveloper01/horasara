@@ -1,0 +1,16 @@
+{
+  "WESTERN_SIGN_RULERS_MODERN": {
+    "Aries": "Mars",
+    "Taurus": "Venus",
+    "Gemini": "Mercury",
+    "Cancer": "Moon",
+    "Leo": "Sun",
+    "Virgo": "Mercury",
+    "Libra": "Venus",
+    "Scorpio": "Pluto",
+    "Sagittarius": "Jupiter",
+    "Capricorn": "Saturn",
+    "Aquarius": "Uranus",
+    "Pisces": "Neptune"
+  }
+}

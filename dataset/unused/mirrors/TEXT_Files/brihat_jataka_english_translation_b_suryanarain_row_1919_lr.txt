@@ -1,0 +1,4308 @@
+READABLE DATASET
+================================================================================
+Original file: brihat_jataka_english_translation_b_suryanarain_row_1919_lr.json
+Dataset number: 42 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 141,735 bytes
+Top-level fields: 11
+Title: Brihat Jataka English Translation- B Suryanarain Row 1919 LR
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Brihat Jataka English Translation- B Suryanarain Row 1919 LR
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Sarvartha Chintamani XML
+  • total_pages: 274
+  • total_words: 25211
+  • text_quality:
+    • ocr_word_validity_score: 0.834
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+SRI
+BRIHAT J AT AKA,
+CNGUSH TRANSLATION
+BANGALORE SURYANARAlN ROW
+
+brihat jataka.
+Introduction •* J
+Works of Vfcraha Mibira .... '
+The different chapters, Soungnyadhayaya ... ®
+Chapter I
+Explanation of technicalities ... 7.
+Twenty seven const-Hations U
+Rasis and their English eqmv dents, 12
+Lords of Rasi or Signs ... 14
+Six divisions of the Zodiac or Ver^aslS
+Different names tor signs ... 17
+Lords of Shadvergas
+Exaltations and debilitations ?
+Indications of the signs
+Quadrants amd trines
+Colors etc of Rasis
+Grahayoni Piabheda or differences
+Different names of Planets ... 91
+^onrces of energy of planets 45
+Results of these powers 1 ... 48
+Chapter III.
+Viyoni Janmadhyaya or various
+forms of birth .. 49
+Different kinds of birth. ... 50
+How to determine the species 5l
+Chapter IV
+Nisheka— \uptials ... . 53
+Conception and flow to foretell it 53
+Different combinations for concept -
+Combinations for Pregnancy and
+safe delivery 77; ‘ 58
+How to fix th&Sex of children 60
+Combinations foi twins and triplets 62
+Development of the foetus 63
+Characteristics of the child 67
+| Noddy defects etc. of the child 69
+Determination of Lagna ... 70
+| Combinations for prolonged preg-
+■^hattotpala and his age ... 73
+
+CONTENTS
+Determination of the place of
+Combinations to find out the body
+its color etc
+CHAPTER VI.
+Balatislita or early death ...
+Combinations for eirly death
+Combinations to avert early death
+Ayurday a or Longevity , 98 1
+Chapter VII
+Determination of longevity
+Longer ty of diffeient animals _ T
+Determination mt various terms of
+hie given by planets . T
+Chapter V1H
+Chapter XI
+Rajayoga or combinations for
+Royalty 1
+Combinations for political power I
+istrations of Raja Yogas 1
+Combinations for royalty 1
+Combinations lor statesmen or men
+ju-il to kings .. f
+Chapter XII
+a' Yava, Kamila sndVapi
+a, Ishu Eakti and Panda
+Chapter XIII
+knaphaTtnmJphi, Duradhura
+and Kemudrama yogas
+Oilferen t vsrieties of a bove „
+CHAPTFR XIV
+Dvigraliiyogsdyaya
+
+CONTENTS
+r.ge
+Combinations for differentkmds
+of Sanyasis ot recluses ... „
+Chapter XVi
+R ikshasiladhyaya or stellar influ
+ences ... 186
+Chapter XVI t
+Rasi siladhyaya ot lunar influences 188
+„ in Aries and Taurus ... 18b
+., Gemini and Cancer, Leo, Virgo
+Libra and Scorpio .. >89
+Sagittarius Capncornus Aquarius
+aed Pisces .. 190
+Chaftea XVIII
+Mercury and jupiter in Aries etc 1 99
+Venus and Saturn , ... 19*
+Results of vauous Laimas .
+Mars and Mercury m different
+houses ... 208a
+Jupiter and Venus ... g08b
+Saturn ... 209
+Chapter XXI
+Asrayayogidhaya or results of
+planets from their position 311
+Planets in Drekkanas ... 21*
+„ in Navamsas ... 21b
+j „ in Trunsamsas ... 218
+Chapter XXII
+Prakirnakadhyaya or mixed
+results ... 216
+Chapter XXIII
+Amstadhyaya or Misfortunes .;. 919
+Twelve kinds of children .. 220
+Combinations lor misfortunes ... 322
+Chapter XIX '
+Dneh PLaLuuya or Results of Pla
+netary aspects 199
+Moon in Aries aspected by other
+planets . 19*
+„ in Taurus, Gemimand Cancerl99
+„ m Leo Virgo, Libra and
+.. in Sagittarius, Aquarius and
+P.sles 201
+Mson-w. Vat l.v.vnme, tf. taws Tfla
+Chapter XX
+Bhavadhyaya or results of planets
+Sun in birth and second . 206
+,. in the 3rd 4th 5tb and 8th 207
+in the 7th, 8th, 9tb, 10th,
+Chapter XXIV
+Strijatakadhyaya or Tamale
+Combinations for ividou hood .. 2S2
+„ for character .. S3*
+Chapter XXV
+Niryamkadhyaja or combinations
+for death .. 237
+Places of death ... 2*2
+Combinations to know future birth215
+Chapter XXVI
+Nasta Jataka or lost Horoscopes 2*7
+How to find the Lagna etc, 25 0
+To hr Chandra etc 253
+To find the constellations 256
+„ day etc. 257
+Chapter XXVII
+Dtekkana Adbyaya or influences
+of trines
+
+CONTENTS
+Mesha and Vmliabba -6° ]
+Mithuna, Kataka andSimha -6
+Kanya Thola 26
+Vrisehika ind Dh mas 26
+Makara and Kumbh* 2C
+Meena 26
+Chapter XXViII
+Upas»mharadhya or concluding
+Recapitulation ot clnpters 26
+Enumentiou of chapters of V*raha
+Mihiras other w<rks ^
+Vtvahajataka or work on mafuage269 !
+Granthasamuchchaya or house
+budding
+i he date «ncf year of the commentaries of Bhattotpala 27$
+Bhask^ra chary* n
+Nripasika ' »*
+5ahwhana«aka n
+The time and date of the completion of my translation and
+notes on this work »*
+Phce of my residence m retire
+ment Mj invocation to God 274
+1 he astrological diagram at the
+time of con tusion and elate
+and time l»
+My prediction about the future
+prosperity and success of my
+
+BR1HAT JATAKA
+SRI
+Preface to Brlhatjataka.
+In presenting the English
+Translation oi Bnhat Jataka, to
+the Educated public o'f the world,
+I mal e no appeal for their indulgence. This is a monumental
+work, wnere the difficulties in
+translating a beautiful technical
+anti suggestive work in Sanskrit
+had to be surmounted by hard labour, profound research, want of
+adequate expressions in a poor
+and nonconstructive language like
+the English by the selection of
+the most comprehensive expressions and by a laborious mental
+analyses, which would have a tendency to minimise the linguistic
+incongruities so difficult to reconcile. How far I have succeeded in
+my attempts to simplify the tech
+mcahties by my notes is a matter
+for decision by the succeeding
+generations.
+J.c nty Soiree artxm ta the £ \rglish translation of Sarivartha Chintamani I have plainly referred to
+these difficulties and doubts and
+would refer the reader to that
+work for greater explanations. The
+priceless commentaries of BHUTtotphala in Sanskrit on Bnhat
+Jataka, have been fully utilised by
+me in the course of my work and
+if I am to express my sense of gra.
+titude to anybody I have to do so
+to him. Most of the English works
+on astrology are sorry performances and no reliance can be placed upon them. If VarahaMihirais
+to be respected as the author of
+Brihat Jataka, his matchless com-*
+mentator deserves even greater
+credit for the splendid way in
+which he has not only made clear
+many of the obscure passages'but
+also for the valuable quotations he
+has given so copiously and so aptly in the course of his work. Envy
+and meanness are the index of
+lower minds and appreciation and
+generosity are the indications of,
+a nobler psychic development.
+I shall close this preface with a
+simple request to my readers that '
+when they read through my notes
+they can never complain of wasting their time. Their intellects will
+be s harpe ne d a n d t heir knowle dge"
+will be expanded.
+I V B. SURYANAKAlN ROW.
+Hunsamarana hallj,
+Yelehanka P. OMysore Provinct,
+INDIA
+
+BRIHAT JATAKA
+
+nccoiding to various permutations and 12 Btanzas, one for each house occucombinations of planets and their re- pied by the Muon. The Eighteenth
+lative positions towards each other, Chapter is also called Rssisila, from
+about 1800 varieties of conjunctions the fact that it explains the resnlts of
+have been shown’ to bo possible by the occupation of each of the houses
+
+1 BRIHAT JATAKA
+ho native, both with reference to hia I Ladhyaya, and givea directions to find
+
+BBIHAr JATAKA.
+
+bhihat jataka.
+
+BRIHAT JAfAKA.
+
+BR1HAT JATAKA
+
+18 HR1HAT JATAKA.
+Mahabharata and tbs subsequent were of Greek origin, be would have
+borse eacriBce performed by the vie madeauoteof theseeigmEcant facta m
+
+BRIHAT JATAKA.
+
+BRIHAT JATAKA
+ite little and segment Tnnch. 71io and divide it into 3 equal divisions
+it words krnra (cruel) and saumya then we get 3 Drakkanaa The first
+official) indicate that tl e 1st, 3rd, Drakkatm is governed i by Mara tbe
+
+BRIHAT 3ATAKA
+
+BEUIIAT jataka.
+
+BRIUAT JATAKA.
+
+1.1s I be* to
+lengthy end
+
+BRIHA T JATAKA.
+confined their researches to them The This affords some cine tothe means
+Snn represents the soul or vitality of bo employed HI securing power or s
+
+BRIHAT JATAKA
+
+B1UHAT JATAKA.
+
+BR1HAT JATAKA.
+Ktija and Yejop Veda is rnled by any act or deed indicated in
+Sobra; when planet* are powerful they I tion. Pungent, Balt, bitter, I
+
+BKIHAT JATAKA.
+
+BltlHAT 'J AT AH A.
+
+BRtlUT
+
+BRI1UT JATAKA
+laods drstroction to enemies nod CtlAlTEK III
+weelth l-»joni Janna&hjaja
+T^hr lord 0} the jear, of the month, Stai.-» I
+ot the dey and caT tho torn giro good tVhcn lenefles oro powerless a
+results in don bln proportion respteti- oialt&cs aio poneitol »cd nhen in
+ar'j Thu means that tin lord ot the tent pWls aro in t'r drat, tho bi
+montU girts doable ot the good wbicL us>t he lorotoi J ot obj-cta ntncli h:
+tha ycsr.lord girei. The lord of tho rcsnnbhtra to th» mlntool thj Bi
+
+BUT HAT JA'I AKa:
+plants, Memory and Jupiter prodoce
+Tenne makes flowery trees, the Moon
+makes bright plants, Mara makes
+. Notco.
+Prom the preyions Stanza the reader learns the nature o£ the tree, and
+
+ERIE! AT JATAKA.
+
+i Tbo rising sign Hero refers either Saturn in LiHra, without any planets
+to the time of conception of the between tlie rising sign and the Moon
+woman, or to tbe time of query then also they m»y bo said to bo
+'put to tbe astrologer wjtH a betwixt two malefics
+Titw to toot? tbe Twrcflto ol »ncb _ _ —
+conception Aboat IHo desire of Jhe } Marfl eepT Isatarn
+planets to gn to tbo rising eign r some Moon |
+say that malefic# in tHo 2nd Hoo*o
+from »t Have this dcairo of going back Conception
+tb the boosa which is close to them ' A| »«g
+.. Bhototpal* rightly condemns this *
+strained roconing and says Unit planets — * — r — — x
+
+BfeltiAT J At At A
+
+EKIUAT J AT AKA
+
+B1U HAT JATAKA,
+
+BMEAT JA1AK,
+
+BttJHAT JATAKA.
+
+BPIHAT JATAKA.
+
+coasted from Arlea tl t> camber to
+tlb D»»'lmtou occupied by tbo
+Ucoo at tbe coacepttun titne. riisldt*
+■ p&t* tero lugpeiu a w*j to Cm! cut
+
+BRIHAT'.TATAKA.
+
+conception nnd its proper t
+(!) by the comtunatu us ol
+the time of query and p
+that knowledge the birtU
+
+so-fos tli *lhe three methods of gag
+mg the influence of time flhoald be
+cw re fully compared and such of the
+dieted The three methods ate birth
+time, conception time, and question
+BUA IOTP ALA.
+(IU,"OTlcnda 3 e)
+Mr S Karajan Ayaogar, Sanskrit
+years. waa taken op by Bhatotpala
+and completed, Some strong color
+is given to this passage bv Bhatotpala quoting largely from SarvsraU
+la BUpport of bis interpretations of
+tbi* texts in Brill at Jutako It is
+difficult to say that Bhatotpala did
+not write commentaries on the Pan*
+cl a Si IdhantiLn of V*— *ha ?filnn.
+Bhatotpala lias nho written cowmentones on iwzu la Khndya of Brahuia Gupta one of the famous earlier
+
+BRIHAT JATAK*.
+tries, Vftraha tlihira’s works have I absent at tbe birtb of tbe cbilfl.
+
+BRIHAT JATAKA.
+
+BRIE AT JATAKii
+show want 1 nf chastity on the part I «(i, executed, iheir partners hareheon
+of their ' mothers, wires or sitterB. subjected to the seine punishments.
+
+BH1H AT JATAKA,
+
+JHllHAT JATAKA..
+Stanza 10. I Stinzi 12
+1! Saturn occupies the 1 2th, and a J If birth ■with Sam falls in a Nan
+atefic aspects the Jloon the women Hast espected bp Kiij-i the birth hapdiver' tha child when in bondage n pens in a graveyard, aspected bp
+ill If Saturn is la Scorpio or Cancer SuLra and Cliundra in pleasant places
+je of which 18 the birth aepected by a«pected by Guru la sacrificial places,
+
+BRIHAT
+
+BKIHAT JATAKA
+
+BRIHAT .UTAKA.
+
+BllIUAT J AT AKA!
+
+BIUHA1 JATAKA.
+teBpectireljr The 5th and Sfch houses dene fics the' e will be marks , if sack
+bl ow the right and left temples res- planets causing Bores etc —are w
+peat***)/* 6th and 8th indicate the their own Basis or Navamsas or
+right and left cheeks respectively god 6«d signs or Navanms the cores
+
+BBIHAT JATAKA
+
+ictal I betwixt evi! placets seems
+Jife j been repeated
+
+BR1HAT JATAKA
+
+BRIBAT JATAKA.
+of astrology, long before ennneiated (2) If tie lord of birtb is most
+by tbe renowned llonis of this land, powerful, onaspected by malafics and
+Be ODenly disclaims all pretentions to aspeeted by benefits occupying the
+originality or facta dcdnced by bis kendral, the sails will be averted and
+own obserrationB. Bhstotpala now child lives long in wealth and
+approaches with a vast store of prosperity.
+information on this most vital point (3 ) jj tett w j, BI1 jj ot!n ; a } n ( |, B fit [,
+
+BRIHAC 3 AT'
+
+BRIHAT JATAKA.
+
+BRIII \1 J AT AKA.
+Out of this Jupiter occupy m jt th* \f ore } g } ia U explain tht
+9th hones from Lagan fosei of I systems M If thi* ih theposi
+his tot m or 1 year, 8 month* 18 <hty« I by the learned Vara h« Mil
+45 kala% acd Chut'
+1 1 * term by occopyin
+
+BUIHAT JATAKA
+
+BBIHAT JA1AKA
+
+BPJBAT J AT AKA.
+period, ie. 40 year? granted by Am
+If at the end of fbe 40th year an i
+fripjldlv Anlharaaasn haonena !
+sit. ply only to those who live on definite
+on- principles of cori'lnct, i c. those aha
+the follow oood JAara. Bnt he richtlv
+
+116 BIUQAT JATAIvA.
+tbits wilt flow ia the commencement
+e?ec from Apohlima planets.
+This Stanza ia very concisely pnt in
+and requires a great deal of expia- |
+nation. After finding out ttie period
+of life foi a man it becomes the duty |
+of tha astrologer next to deteit out
+the good nud evil terma which |
+await ‘him in his mortal carrier.
+planets in the Kendras or Panaparas,
+| then all tho planets will be in ApoIflimas, and the most powerful among
+them will give the second Dasa, and
+the 3rd will he of him who ie next to
+, him ia strength. If the original
+Stanza is catefolly read, it roads very
+quite iuconsistsnt with the dear explanations of Bhatotpala and the
+
+BRIHAT J AT AKA
+Notes- are measured and two planets are
+fosnd equal in strength then that
+The extent of any planetary period p!lllJct ont cE lie , e t ro, which n-cs
+Will be that term which he givet f rom theSnn first, will pet preference,
+after all the subtractions and molt.- Aa B , ny raurcM oE ttren gth arcraplicattons, are made about him. K.rst corde[J lt woula he a1moat dilHcnlt to
+
+period, while the 2nd lord or ©no trio planet who is in the 7th Louse from
+is with him takes one year or half of Dasa lord. Taking all theso^ia
+the first jSnb-period. tke'Basa lord, the planet in f the 7t|!
+^ the planet in the ehatnmam (ior
+-fake another ox.tnple. 8ft) „ e ^ get g_, Mrhafl
+Them is one planet with tlielord of °f .anthaidasas. For six we pet
+the Casa, another in the 5th, end 4 > hr dvo we get 7, for i we
+another ia Iho 7th. Then we have!— 6 el ®. f « r 3 we get 7, for two we
+
+i there will he bed health
+Beene ondesirahlo or miser*
+.11 these have been distinctly
+
+BRIIIAT J A TAKA
+good. Rhatotpala makes ft alight
+difference between ^Ariisla end Adhzma. The former means , lbs
+worst, while the letter is not'^o bid.'
+This is supported by quotations -from
+SlAKfA 17 - rl '
+If a planet is jo a good bonse and
+joins debilitated or ' unfriendly Xa-.
+vnrasa, it gires mixed results. The '
+name^ are fixed Cor these indicative
+of their resells. Isball giro the
+If Iiagna rises in Comamu sign, its
+Drekltanas constitute Adi inma, Ifadhja and Fvjtiit respectively. If
+Bago'a is moveable, the order most he
+Teverred. If Bagno is fixed, they
+? constitute Ashnhha, I1U1 and Sama
+respectively. Bagno Dasas are thna
+! arrangedNoT2S.
+| If the birth sign falls in the first.
+nraU'ftTiirnrnivtswobhiwaR..; from.
+
+EKIHAT JATAKA
+
+BIUHA.T JATAKA
+
+BMIIAT JATAKA
+on (in gtcha.ro.) day alter day in the bud resnlts Upoii bbavas indicated by
+rodical signs ho fails into temporary those houses. AH these statements
+friendly relations with the other pla- are supported by Mnbarialu Gargi
+nets. Hhen, whenever Moon occupies
+or moves into each friendly planetary STAhSSA H.
+bouses tbo peretm geta good during! lhat dasa which begins wfeen the
+
+Bill HAT JATAKA 127
+potencies. When Moon in goml Is j piles, discharging Mood by nose or
+gives income or profft Ibrongb these month, or through anas in stools. Mars
+
+BIUHAI JAtAKA
+al' sense pleasure", handsome females, troubles tlnongh phle in, jmloney,
+neetrable end agieeable people, and wiH, anger, derangement, dirt Ian
+ohligug friends, skill in buying and nets, fatigue Ha will be insulted and
+selling irticles, successful agriculture, ternSed by sen ants, children, and
+finding treasure troves, and wealth by wife and will suffer the loss of a limb
+
+BRIHAT J AT AKA
+
+GtUHAT J AT AKA
+
+Bill EAT JATAKA
+filing the planets correctly in their po* Bat four months hence, where would
+sUion*? at the tnneoE buth But at any all the planets be, and w here would
+given time after birth, the planets by each of the planets be with reference
+their incessant movements, will be t> hia own original position as also
+found in different situations both from with reference to other planets fitfed
+
+bRlHAT .TATAEA.
+from Guru.
+from Sokra prodocea good.
+ST4KU 3. Kujailaia VtrgnKtja in 3, 6, 10. II and 5 from
+Bavi.
+in 3, e, 11, IO, and 1 from
+Lagoa
+in 3. S and II from Chandra.
+trims elffrom llavi.
+Sukra.
+in 7, 11, 2, 9 and 5 from Cboa»
+dra.
+in 3, 6, 5 and 12 from Sani.
+
+140 BRIHAT JATAItA
+10, 11, I and 4 from j
+endless positions both
+with reference
+Lagoa
+to themselves
+as tvod at
+i'with referenoo
+to other pirn
+nets and
+the birth sign.
+Ends
+Light, heat, s
+md other
+invisible agenad J] from Chandra
+cies radiated
+and refl
+eoted by the
+and 12 from Sukra
+planets, will i
+undergo ei
+adless varieties
+in If, 12 5 aud € from Guru
+of changes a
+nd the am
+cient Msha fit-
+
+BRIBAT JATAKA
+
+bkjhat.mtaea
+
+BU11IAT JATAKA
+
+JaTAKa
+
+BRIHAT J AT AKA
+
+m tU* I Oth nod
+other planet* in
+
+tobj
+VapnliatiilUtra in hie Tatra ! A book on
+travelling bo bn written
+Sratrza SO
+If Goto, SnkraorBnda ism Lagan,
+Sam in tbo 7tb and Itavi in the 1 Oth
+the person will enjoy lu» life well If
+benefirl signs are powerful and fall
+m tendrn3 and maleflcs occopy cruel 1
+sign?, tbo person will bo master of j
+liunlers, ilueres and wealth
+These are important combinations
+The conrersation of Alerendar the
+Great end the Robber tony be raised,
+bored 'there ere some persons who
+enjoy their life eery well although
+they n»y havo no money and there
+banters, pet money and lira happily
+End of Che Xf.
+CI1AITI R XIINabhnsa Yoga.
+Stanza 1
+By combinations of two, three
+and four the multiples of 9, 10, 8
+by 3, 3 and 4 respectively will be
+the number of Nabhnsa Yogas
+obtained by this process Yavams
+have described 1800 varieties but
+I will describe them here briefly.
+Karrs
+Kabbasa Yogas am of four Varieties
+(l) Akrnti £) Akrnt! Sankhya (3)
+Akron Ennkbya Asraya (4) and Akrnti
+
+BRI11AT J AT AKA
+Dwa|x declares that Kabbnn Yogas
+are countless Parana Yaranas give 23
+Akrnti Yogas, Sankhyayogus at 127.
+This will giro 1-0 As the Lagoa rosy
+fail in each of the 12 houses and
+as these 150 Yogas happen lor
+each of the Basis they liars molts
+phed laO X 12 — 1SOO Yogas.
+Yarahamil ins ciys that he has made
+an abstracted all these Yogas and given
+them ns 32 All the other Yogas ate in
+eorpo rated is them and therefore they
+can be ea-ily giasped when Ihe whole
+chapter is carefully perusrd
+Stises 2
+If the planets nro in Chant etc,
+Knjjn, Stusila nnd [tala Yogas
+ore formed respective!) according
+to Saty a These nro Asray a Yogas
+Pnrnsira motions tiro Yogas as
+Dali trader nut and tarpa when
+tho heneGcs nntl malefics are in
+Ktndras respectively.
+Planets in these tbre* cases need not
+be found in all the movable, (lied or
+common signs There are four inuvable
+signs Ane>, Cancel, Libra andCapricom.
+51) the p’anets may bo in anyoneortiro
+or three or four of these houses in any
+order to constitute dhry/u. Ihe word
+f?ay u in Sanscrit means n rope d/iMufa
+means pistle and Nala means grass
+Satyacbarya gives the results of these
+different Yogas which are of great importance to be omitted here Catgi
+lucidly explains these in his iiumitihle
+yet homely style One who is burn in
+llayjn will he unjost,r*sident in foreign
+countries and wealthy. Mnsala produces men of self respect and wealth.
+Kale ntalrea persons short of limbs or
+long limbed, ihitfnl, hoarders of treasure
+and enjoying life If all the benches
+are in hendras the Yoga is called trttft
+It all the m-leScs are la kendraa it is
+called ear; a. Ubstotpala, with Ins vast
+learning, gives the following summary,
+which olheririse should lave been
+very dj/leult to malm out He quotes
+from Had ires ana 1‘aresara. Care!.
+
+disturb the Sarpa yoga. Suppose the
+threo benrlics occupy tho tbreo quadranls nn.l a week Jloon jam. the tth
+kondm then thn yoga » not nUn
+diilatbed. la Cast all tire great 2Uafc<iruhia quoted nbnvo bare not lalcn
+any notion of Clmadra in this conneiStansa 3.
+Asrayayogas.according to some,
+arc really incorporated in tlio
+Yarn, Abjo ( Vaj rn. An doja, Gulaks,
+etc. to bo stated hereafter. Da lay o*
+gar have no separata significance,
+according to eotnc, ns tbo results
+of benefits and malefic* occupying
+tbo Kendras hare already been
+indicated.
+tnllaences of particular planrUry
+periods sad «nbperiods.
+"When tyro adjacent quadrant*
+are combined with all the planets
+it goes nnder tho name of GnrtaIt will be called Sakata when ait
+Oiaijlnnel*. nerjnjr Hie Island tba
+7th homes. When all the planets
+occupy tho 4th nnd tho 30th it
+is called Yihngn.If all the planets
+ocenpy 1st 5th and Stl> houses
+it is called Sringntaka. If all tbo
+planets are in 5tli and Sth it is
+called Unln. So fay tho learned
+in Astrology.
+
+IE a planot occnj
+Aries aud Miotlif
+
+’'•%bihat‘'?atAka
+,l * Thai‘thVrernlt"ofGs3a tray be produced od'o small oi large i cals accord- ,
+tag 'll iW r planetl ^ power Ini or J
+’weakl 1 -* There fie foar 1 Gada Togas
+’(I) whenstl the planets are in 1st and J
+‘V.li (2) ‘iilieti they arc in’ 4 ‘end 7 (8)
+Tried’ they are in lie 7th add 101b •*)
+in 3 whkii they 1 M6 in the 10th and lit.
+Ullth&eTofeasare called JjcritiTogab.
+The ninlei 1 are ’indicative ’’ol the 'f orras
+Ihe plane!: present when 'occupying
+the'difteren t signs. Gada Weans a clob
+Batata mean: a cart, Yihaga indicates
+iabird/Bringataka denotes a triangle,
+and Hala means a plough. If all the
+planetsaro not in the bposes named here
+then tbit combination ia not formed
+and its rsaolts muat^ot be predicted
+“ 1 BtiWiS. 1 1 -
+>_ When benefits! arc in first and
+seventh and malefics fire in fourth
+tod tenth -it is ’ called Vajra. If
+tier planets ara'thteraed then it
+is called Tara. If the planets are
+mixed it ’is called' "Karri am. It
+the planete are ^outside kendrae
+it is called Vapi.
+, In the Vajra the benefits muet be
+in the 7ib arid 1st while the maletici
+ere placed in the 4lh*nd the 13th. In
+Yavs the malehei most be m lit a»d7th
+"hllo beneCcs nioit be in the 1U> and
+10th. ' If nil thfe planets — benefice and
+malefics ’occupy nil the fonr Kendras
+ia aiiy order ills called Kamala. Benefice and malefics may join or be separate id the houses.
+JYben all, the planets occupy either
+1‘anepariu or AupMimas it is called
+Vapu I n nil these case: there most be
+no planet outside the specified houses.
+For Fanapiras and Anpokhnsas eee
+st 18 ch. I.
+1 ‘ STANZA, 6.
+I have given these V&jra Yogas
+eta, in accordance vrith older
+Sciences, hat how can Buda and
+Sokra be in tbe 4th from the
+Son? 1 £
+1 J Yfijra and Tara do not happen bnt
+Varaha Uibira tay> he has recorded
+them under the sanction of the older
+sciences The author uses Adi after
+Vajra to show that all each lmprobabio or impossible combinations barn
+been mentioned by him, as he tonad
+them described by Maya, Manilba,
+Yavana And Satyaeharya. When the
+Sonia in a bouse, Mercnry can only l»
+at a distance of 25 degrees from him
+either in the Esst or in the West and
+therefore either in the name sign or
+in the 2nd or 12th eign accnpied by the
+Son. Vencshaabeenihnwn already
+
+.BniHATJA^KA
+J nottaraovajiiare than <7|(Je»(6ea Ifora
+, t!ie Sun, nnd , tlieretpre J,lie plinast
+ilisfftnjfi^ha ^ he^fpuml froH!^ (Jjp
+Sun Will be fillet in the 3rd | ; ojisb ot
+1/tli horn tie San A /air ponilc rpfiy
+leailTantogc-oanly dlecnssedhere with
+h^ferance ta /dtreniiBj'Ai&I rfJitW&gy
+tVifraHmilirftta'.a' glint HiWmk
+hewn 1 and oinujiejea a 1 woll ii!t/d j
+Taf.oitt SldSbaiitiW ’ This ‘meifia
+fcliitlt feites tie ^ JirpMlIfcf^Ve fci
+dhantbas nhielile UanWd’iliit
+3 eh II ol Uniat Bamlita Hey,
+ate (1) Poulasa (2) Homalu (3) Vaaiata
+S [l)-Saiiri nod (S)ife.ifthlimah«afakista J
+Another nnporjajit joes^jt^ jrjiicb
+et sn hA riw. «vfefi r
+1‘araeaia (r Jl«t«ilii, Katj-ppa, Cbuvjljja
+,*nd ;l I othepj t pJHiaent ij ,«at f9 pott^yi
+)TeaOt(led t ta:ta,_ ,wlioli i.Jiapponttl
+‘‘“"M hifc'fiT d"R 3 «,<f>?-,drWs r
+ft 8 * ,l?Ui\d«y [ i^ot|3 3[ |. i copb i i
+nations .o^plsnets^ijlncli flay (pond
+i u , e “ u ,a'f er ",«*■» •WT^PtlV
+not got ^now, eien b»ro ^yelerencpj
+t heae ^ijre ^reallj^Vitre^ely
+bat rerj mt^tysyi^ Tjoes ions ( wbi|h
+lietterwen tl an ( n yjelf raay^aUa^fjt
+
+BRUUr JATAivA
+some more Revolutions oo their axis
+and the orbital liaea fixed for them by
+the eolar attractions All these nod
+many more feels ehoir elearly that in
+the earlier oeotauea of the world,
+there were conjunctions of planets, m
+which Sot ra and Bade coold hare
+taken angular posiuoria from the Sun,
+and that there may be some ccoaesions
+10 the remote fntnre when they may
+attain to each positions with reference
+to their master and loid the Sun
+biAnzi 7
+If all tlie planets are within
+the first four houses of the 1st,
+2nd, 3rd, and 4th Kendras Yopa,
+Ishu, Sakti, and Danda yogas are
+respectively formed
+t , Notes. ,
+If all the planets me m their), 2nd,
+SVd and 1th homes from lingua it It
+Yvp a, tf they occupy tl e ith, 6th dU
+ahd 7lA then if i* called Mu If all the
+planets are in the 7U,8lh Bth.and 1 01).
+it gtti ooder the name Df Salih tod
+if all these are in lOlh, HU, |2U and
+tit, fhey coostiinte Daniapfa
+Snxzi 8,
+If all the planets are in tlio
+first 7 houses from tho lef, and,
+8rd, and *lfi Kendras they give
+rite to floir 4 Kuln, Olttlra, and,
+Uhtpa Yogas respectively, , If
+these Yogas are m other houses
+they are called Ardachxndra, , 1
+J ( Nous’ ( (
+If all the plaoets are in 1, 2, 8/4, 6,
+6 and 7. it forms Novi Yoga 1 If they
+is called Kota, ,If all these occupy the
+7(A. 8 th, 9th, 10 th, Jftt, nth, ,
+and Ul, it is called Chatrajoga.
+If all are placed in, 10. H, 12, 1, 1
+2, 3, BDd 4 it goes nn ler the name hi.,
+Chapa 111 the other half of the
+Stanza uf all the planets are placed '
+in panaparas wetget four Yogas and
+if all be pieced in aupolhmat, there
+will be four Yogas, 'lhese sre styled
+Ardachandra Ihne if all the planets
+are found in 2, D, 4, 6 , 6, 7, and 8, or-,
+It, I, >2, '3, 4, and 5 In all these
+four caeca the Yogae take thblr start
+from Ponopdras (see I Stanza 18, 1
+Chap. I.) Now take the Aopoklimai. j
+If alt the planets are in 8,f4 6, 6, 7 1 1
+lit orioO. 10,11,12, 1, 9, and >i
+or la 12. 1. 2, 8, 4, S.aoilO., fa aK
+these eight cases tho ,Ycga goes
+under the name of Ardachandra, , i
+‘ ’ firiKxa *0.
+’It #11 tho planets uro intboi
+nltcrnato booses from the trul)
+from Logo#, it goes .under-, the
+
+pRIHAT ^AXAKA
+nnma of Samudra. If from Lagna , , F ; StiUs*,- JO.f i
+phneta^re-aimflarly-mlnatedf it I aiftie pU" oiling’ 1
+formk'Ciiikra,, , •'This,, is tfe'sc tn- S^C/Wd ” i „ lonsra,','
+niarjj of Akriti Yogas. tlpy.'fotm ,eovcn Yogaq #k Yalla*,.
+j‘" , ki, Dama, Fasa, i Kedaraj/Sbolai,
+H°rtL Yoga , and Oola, respective ly.
+It 11 the plsnats era in Ini, ‘ th, Thesja arc .to be .considered in I be
+Glh, Hh, 10/5,'aii j l2t?T, lionsee, it is absence oi tie previously mf nceliei SamndraTfops. tinned Yogas.
+r nilna l W$eV .11 the placets are wiliin
+( ' leren booses they form Vallaki.
+" 1 | a arTl Wheij they Occupy GTicSiei'it’ gjies
+“°j*' are ic,JUioajes-th0y..Jorra-Pai» T ~wliBD
+■ ■ . »■ r. =~ they irp, jo. foot honiqs they compi so
+Kedak when they are 'in 3 hoc, ea
+— thoy firm SJiula, when they are io t in
+( hcaseji they compose ^Yogs^ and irl n
+"" j alt tlip planets areTn one kocse, t! ey
+GurST LagnoJ DlTon tnakejthe'GcIa Yoga. In thoprerii ns
+I atacxJs the planets are required to le
+g an ; isatt (he bouses, coqsecntiyeiy or alt rr-
+- ■ -Sem n.tra - „ _ natel f as stated. Bot in these Yog a,
+i T?? B V.r.- ,/, J * the planets may be in any Older. - If
+r’jl they | occupy a definite cumber of
+j i— ^ boasts they form a special cenjacctfon.
+Sckra.l Takskn exsmple.lt may be qnettiojied
+'■* 1 -• that jrhon Were it irdachaodrf Ycgl,
+there moat ceeessattly be Vallahi alto.
+Ya sbsmihira lays that he baa cjade wle L both are present and aaliafy the
+a hot mary of tbo Akrili.iYogaa i eo- conditions mentioned by the anther
+tioaeLl)j_tha pterio ns wri ters on arowk required, to prescribe these jmo
+this icitnce: |.Yog 4 Wp a rstely or tats sra i YggW in
+
+tmmmm
+•a* m
+q&t ti»
+■Jl
+zrzrs
+r-jf^rrTEf-crr
+i io
+fCO.J
+ki
+Gill i
+tn*‘
+m'TdgaV*'*
+\mmm
+iol hi
+«mlLj
+na
+«ii
+ris.'l
+j toir
+q lei*!
+Olfl J
+bna
+r t y *d
+b.ad
+J.sUi 7,
+ti.lil
+o.U ;
+ohnlt ,
+pi -tol
+J«ll 1
+r.LLe!
+.if) e<.
+.0 iJ
+?irl h ;
+as
+Lea nl
+Wrt. j
+[la j'LI
+U!
+Go!a.
+.ill / vitti
+YJ'l
+inWfi!
+.CTjdllJ
+•iqu’t
+j
+Imrthnl
+_* rm
+ol
+iWSilfe alMeiti elioilif’ftirEfdflf'Sark
+•11 these COtij.iEotioyPj >n3otliei)';j) redid Ibeir results according to the
+1 ftridjjth -'hud ’ t-bkitaAd St 1 ttrS planet*,
+their aspects oo J a.sQciatiomj’JIeOTr
+•(.it t> lit i[">T BliNziiil l. chaiAI
+0 '*’Slajjtf‘'pro3ucJs *eitvy? 'foreign
+residence and fondness for travel*
+ling. MusnlnTDfl'lces one proud,
+«w4aUhy',iiind csJitiWo -'of ‘'doing
+■ ; rriany ’works.'' b H ala'mtakes' a j)Vr-
+, 'sen limyesi^'deiermilidJ.ficiiiB^,
+Jcouragtraua.” Sink 5 " iniTtes ' turn
+happy, anS Sarpa gives him great
+misery. ‘ > jt t - • T-t
+Jsi Ffe&nfe t ’5^ e fcS. a j'i^S.BlfB eta,, J
+combinations forming thete Togas
+^r'es'l/iaia'fiBK'pWe^Ja'tb'Kive the
+results of these planetar^honjualttlfiis.
+clear mtfjgoage, no tarlhef camtaeataries are, I believe, neeifecl llPSf Jifclin
+.'JffRt Wtuiqqcit- tJt-UzitiiH
+Aeraya y/ien fhey. join
+other Yogas become fruitlessTha Yogas 'wlIB'Vvhieb Aarayas
+■join llwillilgiveitreshUil nWhen
+a&tayog z hrb -’■frgi'lh'ey' 'gmrth&r
+own resixltsj
+ittJ nr e- ji!i(]i[r.u < t”iuo_nicV
+.!i(Vdirthsmjhifft I .pbMr,?esydMrwl>fD
+Asrsjayogas^iuj.jUjotljer^fl^j^r
+are present with other combination a
+Jlfaey^feivdllJC^ raiuha^hd 4h*y^ only
+prodnee resnlta wlien thete nri>naot
+diktat bed by the pretence of .other
+¥oE^' q ^gI 0 Siial f. »£tioa
+SJ'-'cJuthmafoii'-of plant?.." 1 ifherf* a
+moveable sign rites at birtfr^sbV ; lll
+,t bfl j ,jj?ne^ ^ «re j in fix$ } os l pwj> moo
+StH&tfWhef 1
+bi.th Rod >11 the planet. are ia moveable or common signs or when the
+birth falls in » coanuoiyign^it^ the
+. other pUnela’itf ’ttuteaWa. jjOr 'fired
+homes, then thesa Aira/a^^TogaSjdo
+,oet ccmbinp rf‘tj>, other ccabio*t>pjJ-
+
+t 1£! <3ada’J=to‘nd J b{' satriflcesj ‘rich,
+► gl/ MSlIt 5,11111 1 ID^t'kUldiBOJ
+,1, Sakata^liveabypprriagp^iok.
+ily.'hai] Wjfe. nut i; au ft loeitue«
+uguaTTfllapme.j T ,oin «;nti
+SriogaUk»=happiness fiflei' a
+long age. 1 *“ ' T<s
+! a'liiJil Mil w I t£goY sal Jo
+st: jIiiJt^STFS* et;,oYulT
+ri jiiTJe Oombicition* ; for* i ill itlfBSe
+,Yegasbavo already .been eipl#inei_
+Suitzi K lSl 1 n <>u
+Yajra.*enjoy's happiness in tho
+"bbgiAnltig nod end L ‘oI £L ' bia -^lifo
+1 'pbpulir, conAgcoos, '«n- r>-nA
+S JU Y»T»-wnrlike, happy in 4bo
+1 end-.i i ii 1w 4 j. i oj .,1
+’ J i’adma-'ivclJknoWhVcputaiiop,
+^ great,, happiness, and good 'cha-
+" Vapl-Good 'health, ttecuaa.
+lafor of motley add miser. * ( ' ‘
+, ' to V«]r* t! # pUaoU m»v» a'aaa
+eeJoy'lUa (a the eoiotsrowment m3
+' /«} sf I U. ’ TU« Iwf he. th»I Le mill
+“ u «h. rnr di-tcg tU »Wij, p-rfoib
+Tlfera ato manypecnliirijiea in, the enjoyment ari’biira in-tnolap
+of jloxury, ate brought up to for tome
+and then become iiopeteasiy
+miserable. Soioq pro boro on tbe
+p of porerly eodore there bird lot
+[•ooghoot tbe first period of their
+r, then become prosperous and
+joy life, during tbe rest of} tbeir
+ytrSoiS0Tire"6orn IB misery, spend
+twirnhirirT^trefr^TseffTS that
+itdge then mount 'ihq ’ ladder < f formild 1 die id plenty, some ar poor
+ybe middle of their life aud enjoy
+nett at the other two ends.
+Stanza 15. 4
+jrapa—liberal, watchful, por
+.Ha^fQud 'Of', ktllmgr jailor,
+■maker V>f weapons, i' > o • "> U n*
+tla Sakti*»tnean, j laiy, -devoid of
+wealth and happiness -j i > ■"'<
+Donda^tmtude, rejected by
+or Bopcrnted fiom^ thoso ( who
+pro dea'r^ f , , t n i/ >i t l ,
+Ii. h) c Norrs. t (,■ f >,
+1 Sacrifices am those ah I eh are d oo»
+aeeofdiog, to, Il)odo_ bhsatrmi, , but t
+this h a reitnetod aetue. It mc»ns
+say oflermgs which are rnsde to their'
+deities 6jr men in 'different part* of
+the wit fd according Vo their icllgioos
+sod fcorsl Coin ' t 1 1
+
+'BRIHAT JATiKA
+1 Stahm 1G.
+Hbv7=famou8, unsteady fortune, and miserly.
+Kuta=Iiar, imprisonment.
+Cbatra=he]pinf> relations, enjoyment in old age.
+Cbapa=Courageou8, enjoying
+Mb in. the first and last parts of
+bis days,
+'Stanza 17 .
+Ardhi(cbandra=,poptilnr f handsome, leader,
+5amuclra=equal to a ruler,,
+happy.
+Cbakra=respectea by sovereigns.
+Veen? “intelligent and skilful,
+clever in dancing and music.
+Yeena n i called by Varahs Mihira
+uYnllata in «t JO.
+SiAwra 18
+Damini— liberal, philanthropic,
+protector, many cattle.
+Pasa=pos303sing relations and
+servants rrho are clorer in acquiring -wealth, and had in behaviour- .
+Kcd^ra— Agriculturist, helping
+many j
+Shnla— Conragoous, having
+wounds, fond of wealth bat poor.
+Stanza 19. (
+Yuga=poor, unbeliever. 1
+Gola=penmles9, , sinful, ignorant, skilful in mean arts, lazy,
+travelling. These are Nahhasa
+yogas related by me, and they
+will always bo productive of their
+own resnlts.
+'fbe ITabhasa yoga are continuously
+productive ol results good or bad bb
+lie case may lie. If they are really
+so. then there in Borne abjection
+against soma of these Togas in which
+Varaba Jfibira has clearly stated (hat
+the person mil bare happiness m the
+first and last periods of a mins, esistence. Ths answer is simple. "When
+tlis resnlts o! a combination of planets
+take a particular turn, then other rules
+or principles cannot be applied (a
+them. Tor it is the nature of sitcb n
+ccmbinatian to ptodces those rtsnl’.i
+irrespective of general influences
+What he meanshcro is that the resnlts
+delineated here as pertaining to coni
+junctions ofplsnets nnicr Kabba-at
+min art in a men's career although
+
+When we odd 28 Aknli j
+
+BRIHAT JATAKA.
+gas to these wo get 150 Togas for
+each Lagoa of tie Zodiac or 1600 (or
+the 12 signs.
+End of Chapter XXL
+CHAPTER XIII.
+Cbandrayogvidhyaya.
+Betvllt from Elmar position! and
+1 Conjunction).
+Stanza 1.
+By the -Moon occupying Kendras efc from tba Sun, three Togas
+at ho called Adhama, Samar Varisat respectively, producing politeness, wealth, wisdom, intelligence
+and skill, accordingly. If the
+Moon is in his own or friendly
+Navamsa dating the day and
+night possessing the aspect of
+Jupiter and Voans respectively,
+the person will ha wealthy and
+happy.
+Norco.
+The brevity, end ouggestireneao of
+YarahaUibira'a senes, are admirable,
+and cannot bo done justice to in English translations like this if the
+Moon ii in s kendra from the Son at
+the tine o r birth he will hire sery
+flint or no tric-i of politeness, wealth,
+wisdom. ifttalhgencQ, and still. If
+the Moon is inFaaaparss 'from the
+Sun i.e.,)i 2-5-3- 1), then ho will lave
+all these characteristics to a moderate
+extent Bot if the Moan is in AupoItlimat from the Son Via in, 3-6-9 fit
+12, the person will have all those
+quantities to the fallest extent possible.
+For those who are born during the
+day, if the Moon occupies" his turn
+Kavamea os that of the Navatnaa of
+his intimate friend aspected by Jupiter,
+1 e will give wealth and happiness.
+The same resalt must ba predicted
+when the Bloon in any of those above
+aimed Navamsas has the aspect of
+Yenns. Some say that Moon in his own
+Amsa during the day and in his friendly Naram«a during the night aspected
+l.y Jupiter and Venus respectively,
+cruses these respite. But Bbogavan
+Ourgi clearly Bays as I have explained
+ahore and Bbatotpalu quotes also
+Tavsnesirara to tho same effect. '
+When benches occupy the 0th,
+7th, and 3th, from the Moon, they
+cause rrh'uiyoga nnh Vno resuYi. is
+tho birth of a commander, a
+minister, or a Ling. Persons born
+in this Conjunction CAdhiyoga)
+will bo gentlemanly, happy, Etironndcd with luxury, fcclcss. longhvedand rejected by tho diseases.
+Notes.
+In tbit Aihvjoio all the beurfiej
+vis hfcrcu’7, Jopi'.er and V ~ *~
+
+BRUUT JATAKA
+
+BR1HAT J AT AKA
+bad Karma. The Astrologer will be a
+greet nstnralist. Hie capacity most
+be great end hie observation teen and
+piercing. It is a most interesting and
+intricate science and has been most
+profoundly dealt with by the ancient
+masters in this field ai sublime
+knowledge.
+Stanza 8.
+With theexccptinn of the Stro
+other planets in the 2nd honse
+from the Moon, in the 12th from
+him and in the 2nd and 12th
+from tbo Moon cause Stmapha,
+Anapha, and Dburadbura Yogas
+respectively. If these are not so.
+many say it is Kemadruma- If
+planets aro in Kendra from birth
+or Moon or if Moon is combined
+nith planets there is no Kemadrurau. Seme say these . Yogas
+arise from Kendras and Navntns03, bat tbeir doctrine has not
+beon accepted,
+Notes.
+This is a Tery important stanza sod
+explains sods of the most prominent
+permanent Yogas (conjunctions] which
+affect ths careers of individuals.
+Several systems are brought ont nnd
+the most acceptable among them hies
+been clearly indicated. After fixing
+correctly ths planetary positions in a
+horoscope, take tbo position of the
+Moon. If in tlieeecood house from the
+Moon there are planets a njwcia! Yoga
+called Stmapha is generated. When
+there are pianola in the 12th bouse Iron
+tbo Moon the Yoga goes coder the
+name of Anapha. When planets are
+found both in the 2nd and 12th booses
+from tbo Moon the Yoga is called
+DhuraDhnra. If there are no planets
+on both aides of the Mpi.n or 2nd and
+12th booses then the Yoga is called
+Ketnadrnma, Many have said so,
+and they are r quoted by Hhatntpala.
+If in tbs Kendras from birth or
+Moon, planets are found, or if the Moon
+join* with any other planBt, there will,
+be no Kemadrumi. The presence or
+absence of p theSua does not ioterrnpt
+these Yogas. That is if them i. Son
+in the 2nd honeo from the Moon he
+does pot came Snnapha anises there is
+some other planet with him. If there
+are one or more planets in the 2nd
+house from tbo Moon and also the
+SonaphaYoga Sotnesay that the word
+Kcndrasitakuray ehonld bo interpreted as in Kendras, from Chandra bet
+this is against the epirit of quotations
+from Ciargi nod Sara tali. Soma
+Achsryns represent these conjunctions
+from the Kendras of the Moon.
+Srnbkriti observes, <• When planets
+are in the lib hou-o from the Moon
+it is Sonspha, when they aro in the
+I Oth from Mono it is Anaphe, when
+
+study ct these import mt Yogas
+planets are not iu certain i
+
+BB1HAT JATAKA
+here as Sanopha, Anaphs, Dk ura
+Dhnra and Kemadrnma.
+Srawzi 4 . / ,
+> There are 31 varieties oi Susapaa and Anapha Conjunctions.
+There are three sixties of varieties in Dhura Dhnra. The intended varieties can he found out he
+placing planets in regular order
+and dropping', the Srstin proceeding to the last and repeating this.
+■ ■ None. ,
+■ The Togas can bo found out by
+ploueti in the signs. ,COx3=»18o
+varieties of Dlmra Dl.ura are named
+The principles of mathematics involved
+hereare easily exptamd bj Bbatotpala.
+Sunapba and an equal number for
+Anapha. The Commentator asks the
+student to pot 5 planets taken nt a
+time in the reverse order under the
+first set of figures.,
+Toko the first figure 3 nod divide
+it by the lower figure one— tvo gel 5
+vaiietHB of one planet taken at n time
+in the 2nd bouse from the Moon. Take
+the product 5 and multiply it with
+the nest figure 1 — we get 20, divide
+this by the figure 2, which represents
+two planets taken at a ti mo —we get
+10 varieties. Multiply this product 10
+by tho neat figure 3 we get 30, divide
+this by the lower figure 8 ami we
+have 10 varieties of 3 planets taken
+
+BRIHAT JATAKA
+(3) Mara and Jupiter
+(t) Jupiter and Mara
+(5) Mara and Venus i
+(6) Venus and .Mars ' '
+(7) Mars and Saturn
+(8) Saturn and Mars
+(9) Mercury and Jupiter
+(10) Jupiter and Mercury
+(11) Meicury and Venus
+(12) Venue and Mercury
+(13) Mercury and Saturn
+(14) Saturn and Mercury
+(16) Jupiter and Venue
+(10) Venue and Jupiter
+(17) Jupiter and Setaru
+(IB) Saturn end Jupiter
+(19) Venue and Saturn
+ISO) Saturn and Venue
+SI Mar*~ifercnry and Jupiter
+(2?) Mara — Mercury and Venue
+S3 Mart— Mercury and Saturn
+(S4) Mare — Jupiter and Venue
+(Si) Mere— Jupiter and Saturn
+(Sfd Mara— Venue end Setnrn
+(i7) Mercury — Meta and Jupiter
+(29l Mrrturj — Mere and Vrnua
+(29) Mercury— Mars and Saturn . I
+(30) Mercnry— Jupiter and Venus
+31 Mercury — Venus and Saturn
+Similarly if we go '6n donating the
+diBereut combinations of planets, we
+got the large number of 180 varieties
+for Bhura Dhura. ’ j . i i
+Srittza S.,
+Person born in SunaptmJ will
+be king or bis equal wit ft sell
+acquired wealth, intelligent, wealthy, and reputed. A Person horn
+under Anapha will bo a ruler,
+healthy, moral, renowned, enjoying
+good pleasures, fond ol decorations and free from mental
+sorrow.
+Notes.
+Varaharoililrn now girea the results
+of Sunapba and other Yogas he has
+given in stanza S. A person will bo a
+Kiag or his equal only when the planets, causing this (Yoga) Snnapha are
+exulted and powerful. But when they
+are weak and debilitated thoy giro the
+peisoua some portion, which may be
+,oportant in amid! localities. Suppose Moou is iu 1’itceu and Saturn is
+is Aries. There is Bunupha so also'
+when Moou it in Virgo and Setnrn
+is in Libra. The student to thee* t*s
+carte ought not to predict the asms
+
+BRIHAT JATAKA
+les the Yogas the perbe skilful have sweet
+id be learned in arts It
+lusesthe Yogas, the! per
+se ncti, charitable, hap
+respected bt rulers If
+e will be fond of women
+Ifhy and will enjoy sen
+Motes
+izas are given with a view
+t the particular results from
+lal planetary positions in
+lese Yogas, m :— Sunapha
+ndDhuradhura 'These le
+ot apply to Hemadrama as
+be no planets on either side
+on if one planet is in the
+esult may be riven in their
+he is strong, but when two
+linnets are in one house, the
+II hare to be predicted for
+n according to their strength
+ion Suppose Mars and Ju
+in the second They re
+ii d augment each others
+but suppose the Sun and
+e In tl e second from Moon
+Its are greatly neutralised as
+immicabte anil counteract
+ers influences.
+arid irticles will be engaged in
+vinous tvoihs, and i leader of in
+assembly The Moon, if usible
+in the da}, does mischief but
+when he is invisible, he will be
+auspicious Otherwise the results
+will be different
+When Saturn causes these l ogas
+the person will enjoy life at the tost
+of others. He wdl be engaged in s
+variety of work and w ill also be elect
+ed as the leader of men or issemblics
+This wilt give him great influence and
+probaoly he mil support himsef at
+their cost Tl e word used for the
+visibility and invisibility of Moon is
+Drisja and Adrisya Bhatotpala ex
+plains it as Drisya Chakrani In
+stansa 22 Ch ipter V of this uork I
+have eypl uned these words and whaf
+they mean and refer the readers to it
+Whe i the Moon is in Drisya Chakra
+during the (lij, he will j roduce evil
+and when he is ill Adrisya Chakra he
+will be auspicious Tins will he re
+seised in the night When the Moon
+is in Drisya Unkra in the night he is
+auspicious and when he occupies the
+Adrisya Cliakra during the night he
+l ecomcs inauspicious.
+Stas / a b
+II causes these Yr>ga« the
+ill cnjo> otlieis wealth
+SianZa g
+When all bentfics are in oopaclm.ii, from I.agna, the person
+
+CHAPTER XIV.
+Dwigrahayogadyaya,
+(Result* /tom the Conjunct^
+(wo planets.)
+Stanza t.
+
+liRlHAT JATAKA
+and suggests e and the students will
+Ime to explain a gre itdeal from their
+experience and the experience of tl eir,
+instructors The Sun and Moon in |
+conjunction produce men skilled in
+making, handling or dealing with all
+machinery and under this head w e
+may bring in mechanics engineers,
+chemists and other work nen Asma
+means large flatstones used m build j
+examiner of them or cutter and fitter
+When the Sun joins Mars the person
+will be fond of sin and vice In all.
+ler’of women, wives md p >ts*and
+doing mischief t > mother Moon
+with M rcury mikes a person
+1 polite in speech clever in inter
+pretatioiii popular, and renown
+ed Moon with Jupiter makes a
+perso i successful against enemies
+duel of that sect or fami ly capricious and wealthy Moon with
+Venus makes a min skilful in
+weavi g and Moon with biturn
+m ikes a person the son of a
+second marriage
+has nothing to do with his character
+Princes and statesmen, priests and,
+poets, philosophers and literates have I
+been known to be gu It) of the most I
+abominable vices
+ignorant men h
+The tendencies c
+panyam Strepanyam, Asu*pai
+and Kambhipanjim When 1
+joins with Mars he will maki
+native counterfeit all sorts of sal
+In fact, in ail these expressions the
+1 various relations which \ mm can
+r ha\e with such articles ire indicated
+Sun joins an exalted Saturn the per I
+sou maj not become a regular potter ^
+but may be in Charge of earthenware 1
+The seller of toddj the preparer of
+that the superintendent of those
+shops and the forgercr or imitator of
+
+BRIHAT JATAKA
+The stanza is easy and requires few
+notes Those wiio appear on the
+stage mt) do so under various capaci
+ties and forms and all the e varieties
+have to be made out by the relative
+strcngt 1 and i osit on of these planets
+Venus with Saturn gives a man
+small eyes, wealth, from depend,
+mg upon some females, artistic
+capacity, ordinary writing and
+painting Similarly results of
+combinations ot more than two
+planets must le made out
+Notes
+The last part requires some further
+explanation Viralfa Milnra true to
+fin motto of writing liltlc andaug
+Resting much asks the readers to
+mate out results similarly for larger
+combinations Suppose the Sun, Moon
+Pravrajya Yoga.
+(Renunciation of the uorld 01
+Samjasa )
+powerful planets m one house,
+the persons born will become
+Sakva, Aajivika, Bikshu, Vriddlia, Charaka Nirgrantha and
+Vanyasani when Mahaji, Gnya,
+Guru, hslnpakara, Sita, Prabhakari, and fna are powerful respectively The Pravrujy > Yogis
+ire determined by the most
+powerful planets Wh-n these
+planets have suffered 1 defe if,
+| the person wilt renounce the pro
+| \ r ifja afterwards
+Notes.
+To the Hindu the spiritual hasas
+much attraction— if not more— as the
+combination*
+
+BRIHAT JATAKA
+will become and what would be his
+spiritual progress after renouncing the
+uordly pleasures. There must be four
+Yoga The following strong planets
+in this conjunction will produce the 1
+stands for \ riddhasravak 1 and is
+beautifully explained by Vankalaka
+char) a These Sanpsis stand for
+devotion to Isnran while \ajmkas
+are thos- who are de roied to Vishnu
+When two planets arc powerful
+
+BRIHAT JVTAKA
+not take up sanyas 1 but will
+greatly worship those who h ive
+embraced sanyasa If the Yoga
+karaka and defeated pi wets are
+aspccted by other planets the
+person would be making application tor Diksha
+Notes.
+Of the most powerful of these which
+cause this Yoga, the combusted pta
+renounce it afterwards. Hut
+lie clears tins by saving that the
+would tike up sanyisa only ivhcr
+planet is not aspected by other
+nets. But when, others asp-ct
+planet then the man will only be
+plying for it without taking or
+ting The planet will give San;
+during his sub period, when in
+gochafa movements, he obtains
+greatest strengtti
+STiYza 3.
+When j ntmasa is not aspec
+by other planets, but aspects
+
+BRIHA.T JATAKA
+m the first stanza This comes m da
+ring the sub period of the most power
+fnl among these two— we Janmasa
+lb) When Saturn is powerful and
+aspects the weak lord of the house oc
+cupicrt by the VJooti then the satnc*
+Here Varahaimhira gives two com
+binations peculiar to Kings
+(a) If Saturn aspects the Moon,
+i birth and Jupiter with Jupiter in the
+! ninth (9tb> house then, a king in
+: whose horoscope such conjunction
+Bhatotpaja here gives instances of persons who, although born ns rulers
+11 the Moon occupies
+nine Drakkana in any sign.
+
+BR1HAT fJATAKA
+Stanza 5 '
+Pushya — Control ov er passions)
+popular, learned, rich and chan
+table
+Auslasba — Oissunulator, clever
+in selfi'hness "sinful, ungr iteful
+'and a_ cheat
+Stanza 6
+Hakha — Many servants and
+great wealth, enjoying respeetor
+of eifUrg and gods and very enterprising. Pubba — sweet speecn
+liberal handsome, fond of travel
+ing and royal servant 1
+Stanza 7.
+Uttari — Popular, self acquired
+propertv — enjoying and happj
+Haota — enterprising — intelligent or ("hameiess), drunkard
+cruel and thievish
+Stanza 8
+Clutta— Using various cloths
+and garlands good looks and
+Siv ah— Polite , m erchant , kind
+hearted, (not able to endure
+thirst), .sweet tongued and
+generous
+Stanza 9
+Visikha — jealous, avaricious,
+handsome, clever speaker, and
+quarrelsome, or maker of money
+' Anuradha —Master, or Chief,
+living in foreign 1 countries, not
+j able lo bear hunger and fond of
+travelling
+Stanza 10
+jaista — Few friends, contented,
+charitable, very lrntable
+Moolu — Proud, rich, happv,
+good, steady and enjoving
+Stanza ii
+Pun ashidfn — good and pleasant wife — proud and a stead)
+friend 1
+Qoltarashada — Polite, konwing, virtuous, mmv friends,
+grateful and popular
+Stanza ’t.
+Sravana — Rich "Tirroundinga
+leirned gooa and liberal 'or
+liberal to wife wealthy and
+renowned
+□hamshta — Liberal, rich, courageous, fond of music and
+u,vjo.ty .
+Stanza 13
+Satabhishv — Plnm and truthful, stnken from sorrow through
+Unlales, etc, killer of enemies,
+adventurous and irreconcilable
+Poorvabhadra— sorrowful, loss
+of money through females skilful and miserly
+
+BRIHAT JATAKA
+Stanza 14.
+Oottarabhadra — Good speaker,
+happy, many children and grand
+children, successful over enemies |
+and charitable.
+Revati — Well developed organs, popular, courageous, clean
+and wealthy.
+Notes.
+Ritcsha has been explained by Vsrahamthira to mean (1) constellations
+and (2) Zodiacal signs (see st. 4 ch. 1}
+Here both of these are explained.
+In st. 8 of this there arc two readlags.
+1 Ktipalu=generous.
+2 Tl,ripalu=thusty.
+1 Vachanapatnhn=clever speak.
+2 Arthapatnhu=clever in earning money.
+In st 13 two different , interprets,
+lions are given (1) stnjitaha, conquer -
+red by females and Dhani=weslthy
+and pituha— clever. Or Stnjithaconquered by females. These results
+mmtbe predicted according to the
+strength of the Moon. If lie is weak
+in a constellation then there will be
+irry laud traces of the characteristics.
+If he is strong, then these qualities
+will be possessed to a larger extent.
+CHAPTER XVII.
+Raslslladhyaya or the
+Lunar effects In the various
+signs.
+Stanza i.
+1. Moon in Aries — Round and
+red eyes, eating hot and (ight
+food, fond of grains, easily calmed — traveller, passionate, fleshless knees, changeable vrealth,
+courageous, liked by females,
+good servant, bad nails, cut or
+scar in the head, proud, chief
+among brothers, has, Sakterakha
+(line) in the palm, capricious and
+dreading water. ,
+Stanza 2. ,
+2. Moon — in Taurus, Handsome, playful walk, long thighs
+and (ace, back sides and face
+contain some marks, liberal,
+bearing fatigue, possessing paraphernalia, begetting girls— phlegmatic, separated , from eiders,
+relations, family, wealth and
+children, popular, patient, strong
+digestion, loved'by females, firm
+friendship and happy in the
+middle and end of liis life.
+
+BRIHAT JATAKA
+' Stanza' 3.
+1 3: Moon in Gimitu — Fond of
+women, skilled in sexual sciences,
+red eyes, scientist, ambassador,’
+curled hairs, clever knowledge
+in wit and human nature and
+gambling, handsome organs,’
+sweet speech, good cater, fond of
+music, skilled in dancing, playing with impotents, high nose.
+Stanza 4.
+4. Moon in Cancer — Walking
+in curves quickly, high bullocks,
+submissive to women, good
+iriends, astrologer, many houses,
+waxing and waning wealth like
+the Moon, short, stout neck, amenable to kind words, fond of
+friends, water and gardens,
+Stanza 5.
+‘5. Moon in Leo — Angry, high
+or broad cheeks, colored eyes,
+few children, hater of women,
+fond ' of flesh, .wilderness^ and
+mountains, long displeasure, suffering from complunts arising
+out of hunger, thirst, stomach,
+teeth and mind, liberal, courageous, fixed, proud mind and obedient to mother.
+[ . STANZA 6
+6 . Moon in Virgo — Walk and
+sight 'will be characterised by
+modesty, bent shoulders and
+hands, 1 happy, sweet speaker,
+truthful, charitable, skilled in
+arts, learned in shastras, intelligent, passionate, possessed of
+others wealth and houses, foreign
+residence, calm speech, female
+children and few issues. <
+Stanza 7.
+7. Moon in Libra — Fond of
+worshtcing Gods, Brahmins,
+pious people, intelligent, clean,
+submissive to women, tall, long
+nose, weak and disjointed organs,
+traveller, rich, ill-developed organs, clever in merchandise,
+having the second name pertain,
+mg to God, sickly, helping relations and coerced and rejected
+by, relations.
+Stanza 8.
+8 Moon in Scorpio — Broad,
+eyes and chest, round knees,
+buttocks and thighs, separated
+from parents and Guru. .Sickly
+in infancy, respected by Royal
+members, honey-color, cruel, has „
+marks of fish .vajrayudha, and
+bird, secret sinner.
+
+igo
+BRIHAT JATAKA
+bTANZA g
+Moon in Sagittarius— Long
+face and neck Paternal wealth
+liberal, poet strong, clever speake* - , thick teeth, ears, tips and
+nose, ictive worker, fine arts, bent
+shoulders bad nails strong arms
+highly intelligent, skilled in n a hte
+ous knowledge, hater of reli
+tions and iron over by fair means
+and kind words
+Stanza 10
+jo Moon m Capricorn —
+Pleaser of wife and children
+pretending chant) , lean in the
+low er half, good e) es lean but.
+locks grasping intelligence,
+popular, idle not able to bencold traveller, slrong or liberal
+poet, leirned miserly, mceslu
+ous and low intercourse, shame
+less and merciless.
+Stanza l i
+1 1 Moon in Aqu inu« —
+Long neck tike a Limit bulging
+veins anil irti-rics, rough closclv
+hawed, and loin, bid), big legs
+thighs bullocks, back waist and,
+lace, si ul'h >rn fond of other*;
+Health mil women and sinful,
+changeable fortune, surrounded
+by good flowers, scents and
+friends hearing fatigue on the
+way
+Stanza 12 t
+12 Moon in Pisces— enjoy
+ing others wealth and aquatic
+articles, fond of wife and clothes,
+well proportioned and handsome
+body prominent nose big head,
+conquemng enemies submissive
+to women charming eies etijov
+mg treasure trove, lustrous articles, we ilthv and learn-d
+Stanza 13
+When the Moon the sign m
+which he is and its Lord are
+powerful tli- results indicated
+aboie mil b“ fully i enfied.
+Tin. other planetar} results must
+be similar)} suggested
+Notes
+rin Moon atthe tine ot birth occu
+pies a roducatsign and 'l„s is teclim
+call) called the janmarasl Moon is
+Ide tilled mill the rising constellation
+at th« !. ne a id will be raovin„ (here
+results | redicted will be conn letely
+Vis Ur lilt u |,e i twoet them are
+, iwerful »he* will be parti) visilte
+'Mem. e» , iwerful Here ml! I e
+traces ot tl eae ct araetcrutics. hut
+
+BRIHAT JATAlfA
+jgi
+amtd m the respective places flicl
+zodiac and desires die readers to judge J
+m the 1st 0 degreesand-frma the llth
+to the doth degree® inclusive he is
+said to be tn eit-i tation in Aries When
+ginil but BhltOtpila rightly adds in
+his commentaries the results above
+Rested here As the results o£ the oc
+cupation of the 'loon in lEe 12 zodia
+cat sipis are ciearlj given m simple
+language, 1 do not rhink anj further
+CHAPTER XVIII
+Rasislladyava
+Or the results of planets in the
+various houses of the Zodiac.
+Stanza l
+When the bun is not in his
+deep exaltation in Aries the per
+son mil become famous clever
+traveller, possessed of little
+wealth and bearer of arms
+When the Sun is tn mtirus the
+person will sell scents and clothes,
+hate females and be clever in
+drumming and music
+N<-teS
+Anra calends over 30 degrees of the
+zodiac and m its tOttr degree the Sun
+is in Swalunga or deep exaltation Cut ^
+Stanza 2
+When the Sun is in Gemnu
+the native becomes educated,
+astrologer and wealthy In Cancer he makes the native angry,
+poor, doing others work, and
+suffer trom fatigue b> travelling
+and other cares in Leo the Sun
+and cattle courageous and dull
+When tb“ Sun is in Virgo, the
+persot becomes sktllul in ivritH g, painting, poetry, philosophy
+and mathem ttics, and possesses
+a feminine body
+When the Sun occupies Libra
+he makes the man a toddy-selfcr,
+drunkard, traveller, goldsmith
+and mean When the Sun is m
+Scorpio he makes the man cruel,
+adventurous and rash, making
+profits by sales of poisonous substances losing wealth by rohbef s,
+
+lg2
+BRIHAT JATAKA
+and skilled in military weapons,
+and destrojer When the Sun is
+in Sagittarius the person will
+be respected, rich, angry, doctor
+and artisan When tile Sun is in
+Capncornus the person mil be
+mean, ignorant seller of low
+articles, little wealth, covetuous
+and enjoying at others cost
+Stanza 4
+The Sun in Aquannus makes a
+man mean, separated from children and wealth and poor. The
+Sun in Pisces causes wealth
+through articles found in water
+and fondled by women When
+the Sun and the Moon are combined in a Rasi marks or moles
+in the organ which is governed
+by Kahpurusht. are governed.
+Notes.
+The «Unu. are r«, enough /s
+per «ulhor’» previous suggestions, tlie
+mulls indicated by the Sun in Ihe
+Its else aodiical signs «ill be full
+•ben Ihe Son as ucll as the house he
+occupies and its lord *ie strong In
+• <ch.l ot tins work I have
+ctesrly esptimed the different orgini
+goseraed 1»y Katspurmlu Thus If.
+the eon and tie Moon are In Anrrj
+the person will have £ mote or mark
+on the head If they are in Scorpio
+the mark will be on the sential organ
+Stanza 5
+Mars in Aries and Scorpio —
+Respected by Kings, traveller!
+commander, merchant, rich, cut
+or scarred body, thief, running
+through various sense pleasures
+or objects *
+Mars in Taurus and Libra—
+Submissive to women, ungrateful
+friend, fond ot others wives,
+cheat, top, timid and unsocial
+Stanza 6
+Mars tn Gemini and Virgo —
+jealous, sons, friendless, grateful,
+clever in music and martial
+work, miserly, undaunted and
+mendicant
+Mars m Cancer— rich, wealth
+procured through ships or
+th rtiegh traiclhng, intelligent,
+wanting in organs and cruel.
+Stan? a 7.
+Mar» in Leo— poor, enduring,
+travelling in forests, few children
+and wife.
+
+BHIHAfr JAMAICA
+Mars in Sagittarius and Pisces
+Many enemies, minister, renown
+ed courageous and few children
+Mars in Acquanus — Sorrow
+iul 1 ' ^poor, 'traveller untruthful
+and irritable
+, Mars m Capncornus — Much
+wealth and many children, and
+King or his equal
+\ bTANZA 8
+Mercury !n Aries end Scorpio
+— Fond of gambling borrowing
+and drinking atheist thief poor
+bad wife, cheating and untruth
+Mercury in Taurus and Libra. -
+Fond of getting instructors child
+ren, wives and Wealth Liberal
+and respectful to elders Mercury
+in Gemini — bar, skilled in arts
+and sciences polite speei lies and
+fond of happiness Mercury in
+Cancer— wealth ^through water,
+and hateful to hisyelatrons ,
+Stan 10
+Marcury m Leo — Hateful to
+women ttithoutwealt'-, happiness
+and children, traveller, stupid
+fond of women and disgraced
+by his own community
+Mercury in Virgo — Liberal,
+learned, many noble qualities
+happy, patient expedient of
+resourceful and intrtpid
+STANZA 11
+Mercury in Capncornus and
+Aquarius — Engaged in ethers
+work, poor, not fond of arts, deh
+tor, carrying out others orders
+Mercury in Sagittarius — Res.
+pected by king learned, timely
+speech ,
+Mercury in Pisces —Winning
+over servants to his side, and
+mean artist \
+Stanza 12
+Jupiter in Aries and Scorpio —
+Commander, possessed ol large
+family, children and wealth, liberal and good servants forgiving,
+handsome, good wile and famous
+Jupiter in Taurus and Libra —
+Healthy, possessed of happiness,
+friends, wealth and children,
+liberal and popular, /
+Jupiter in Gemini and Virgo —
+Surrounded by worldly parapharnalia or fitfes,chrldrenand friends,
+minister consul and happy
+
+B-RIHAT-JATAKA
+Stanza 18 „ j
+Jupiter in Cancer. — Possessed
+of great wealth and gems, children, wife, enjoym»nt intelligence
+and happiness.
+Jupiter in Leo — Commander
+and all the results indicated above
+Jupiter in Sagittarius and
+Pisces —King or minister ori
+commander or wealthy
+Guru in Kumbha will produce
+the results ascribed to him in
+canees Jupiter in Capricornus
+Mean, Poor, unhappy
+f Stanza 14 f
+Venus in Aries and Scorpio —
+Pond of other iiainen, losing
+money through their flattery and
+hater of his race.
+Venus in Taurus and Libra —
+Self acquired property, respected
+by rulers, leader of his met!,
+renou tied and courageous
+Stanza 14
+Venus in Gemini Doing rulers \
+work or service, wealthy and
+learned
+Venus m Virgo — Doing very |
+mean acts. Venus in Capricornus
+and Aquarius popular, slave tn
+( women and intercourse with bad
+women
+Stanza 16
+Venus in Cancer — gives two
+wives mendicant timid, full ( of
+sexual passion and sorrow through
+Venus in Leo —Getting wealth
+through a woman handsome wife
+and few children *
+1 Venus in Sagittarius -Adorned
+wi'h many good qualities and
+rich.
+Venus in Pisces — Learned,
+wealthy respected by rulers and
+very populai*
+Stanza IT.
+Saturn in Aries —Ignorant,
+itenarant, cheat and friendless
+Saturanm Scorpio —Imprison
+meut, whipping, capricious and
+merciless i
+Saturn in Gemini and Virgo. —
+Childless, poor, shameless, un.
+happy, not knowing painting, pro
+tective officer and ciucf man
+One reading is skilled in painting Another reading says lie
+will be Rakshasa pathi or lord of
+I Rakshasas or evil genii
+
+BKIHAT JA-TAKA
+S.Uur.1 inTaurus — Connections [ D f tptte are stron E , the results will be
+with prohibited and low caste nW«*te. it one of them it stronE
+tvcmert, ordinary -wealth and I »hei* mli be some oi these <bar»c-
+
+brihatijataka
+different ; m purper) One reading is
+Raksaa Pathi oj hr who pritects \eo
+pie and another reading is t li'Ulnpatbi Or lord of evil gemii or Rakshns
+or giants mentioned m m in\ of the
+Parunic works This must be taken as
+referring to one n t o commmds evil
+nature*! or bad men . |
+ri - St HtZ\ 20
+'The ’results uhtch liavp ( been
+seated tor ttie presence of Mf on
+m esch Rasi, and die results of
+aspects on Moon by other planets
+in foie different signs vt ill have
+to ‘be applied (or Lagna 1 The
+prosperity Sod advcrsily of each
+Bliavi, mosl be predicted bv the
+strength of tlie j Bhiva ind its
+lord
+Wliat the -inthor means b) -ttm is
+that al) itofe results flitch ne sittn*
+l]Ut«cl to the -Moon in eith sign »*U
+ajio app!> to e^ch of the
+Ape* mil have the results predicted
+ihnthr to ihosr ,i lubuted *<> the
+Moon w) en he is nifties. See St
+ts.b JvVH
+Mah arnh’s have Mid that the
+irvull* of f) e t » well a* of thr
+Mr-on ire similar, am! teai rodif;
+Uime*, I «c*use tt t) tre similar in
+nature. (See Notes bn st 8 ch VII)
+SiUy eliaryaf the great authority on
+who « Varaln Uihna relies lor i sup
+l ort thus gives the results of } the
+dries us Lagn i— Bnd nuts irritaole
+creating qii ifrel-*, stimmenuj bill jus
+at d wind) tempanment, rmstr, sufer
+mg much from diseases losing,
+pi ents at an eirly age few chilchen
+helping relations and luothys
+perilous going to loreign ountnesi
+doing unremunerative work gett ng
+-married o» "ho is biae m cb ir«cter
+or a <a/e b-*arer, or^nho his lost i
+limb, friendly, windy or bih »us
+com plaints death by poison, or by
+the treachery of his own m*n Or by
+fire, or ram or by falling bom fort
+Iniifiis as La$na t — Thick ii( s, nose,
+cheeks, bm forehead/ wnd> ^nd
+phkgmatK^Ubenl spending tit varum*
+ways female children, fe v sons do'ng
+much evil to parents, ictive engaged
+in immoral work wealthy ,fond of wife,
+destruction* by weapon, dong always
+hi ci tore! itions.iie «tlldiejn a foieign
+country by weapons chains or ropes
+beasts fatigue, water, cron or by
+force, travelling or quidrapeas
+Cttmni ns Birth stfn,— Defect ve
+f or abnormal organs polite, specully
+, skilful in work, ruled temparaimnt.)
+
+elephants, wild beasts powoi animals!
+Canur as Lagny — Capricious
+di&ased scaual organ timid, tnole or
+"mark on the chest, w ijdy and phleg
+malic temparament qu ck comj rehen
+*ion f sinful^ troubled by^enemies w» (
+appropriating others monies rejected
+by relations .having miscarriages
+doing hard work in foreign countries f
+leader of other people, unrivalled wile
+suffering defeats respected by targe
+commrni ties death by neck di ease
+topes phlegm breaking of bones
+separation of I mbs by cuts or dropsy
+weapons bilious complaints sorrov
+burning sensation from diseases or
+Libra as Btrlh —Deformed organs
+crooked temper, wibdy and phlegmatic
+cansht ition caj ricious .short neck
+grateful reputat on by large deeds
+fond of serving p rerits hn3 Instruc
+tors respected by father' brothers
+and other people traveller, charitable
+ruiri by family troubles Widower /
+quarrelsome suffering tanoi s sorrows
+death bya leader relati&ns*’quadrapidds
+aoiroivs from separation fasting or
+travelling
+
+pany with bad and base m«r, toss of
+wealth through thefts, fire, and fines
+from rulers, highly intelligent, greatlj
+respected, fond of murdering brothers
+and going to foreign countries, get*
+ting wealth fr^m rulers, not much
+inclined to charity, quarrelling with
+wife, facial diseases, death by quadrapeda. serpents, rulers, imprt eminent
+and populace.
+Caprtcornus as Lagua . — Small nose,
+long face, arms and legs, windy, deer*
+faced, timid, capricious imprisonment,
+bid wife, little wealth, m serly,
+daughters, deaths among relations,
+many broth era, earn ng wealth tluough
+Pisces as birth —Thick lips fishy
+eyes, long nose, windy and phleg
+matic tempan merit, dignified, cutaneous eruptions, capricious mind and
+unsteady work, good earning aad
+spending muney servants, respected
+by his relations and women, chief
+among his brothers, engaged in ngh*
+teoua work, brought up by father, base
+but handsome wife, many enemies,
+danger through nasty blood diseases ,
+hons, elephants, death by base desease
+in srxusl organ, medicine, fast or
+travelling.
+When the Lagna and its
+
+BRIHAT JATAKA
+Lagna or Chandra must also be strong Irarned, courageous, u eafc. and
+They must have «ood conjunctions p00r respectively
+and aspects ^.and they sho ltd not be
+placed betwixt evil pUneU The When the Moon is in Cancer
+Vergas occupied should be benfiecial aspected by Mars etc., the
+anl they must have also cle-ir and person w rfl be a warrior, poet,
+biilhant ray# The rws of exalted * , , , ,
+pi met* arecertaml/differcnt frotn’tbe learned ' ru ‘ cr » IlV,n E b / Weapons
+rays of debihtad planets phnets .n and have eye complaints respec-
+
+^Ki’iTAf '• JA'taka
+‘Soo
+in (lie Tth from ill oilier planets. Thu»
+when the Moon is in Aries with
+Saturn in Cancer, Jupiter in Leo and
+Mars in Virgo, we shaft have the
+aspect o! Saturn in the foth, of Jupiter
+lathe 8th and of Marstn the 5th,
+When *(he Mooti'' is in Aries and
+Saturn is in Libra there is saturnine j
+aspect and the person will become
+a thief but as Saturn is exalted m
+Libra the rank of the*person may be
+good among the tbeits He becomes
+their (eider. If the Sun is in
+Libra he aspects the Moon tn
+Aries and makes the 'person’ poor
+as he fias’his fall in that house The
+Concensus of Astrological opinion
+seems to say that the most powerful
+aspect will be in ,the 7tJi liouse
+although special sights have been
+enumerated, both in Bnhat Jataka
+and other eminent works When the
+Moon ism Taurus aspectedbyMarstbe
+person -becomes poor, aspected by
+Mercury thief, aspected by Jupiter
+respected by people, some read ,Vri.
+paihya , instead ol Ntimanya and
+explain by saying that he will be a
+ruler, aspected by Venus king, aspected
+by the Sun (lie person becomes t
+servsnt. Similarly explain regularly
+(or other signs and aspects.
+These reiults will alto hold 'good
+(or Lsgna or fcirth sign when aspected by Mars etc., Thst is if birth is
+Arle* aspected by Msr* the person be
+comes a king aspected by* Metcury
+ldarntd, by 1 Jupiter equal to X ruler,
+by Venus virtuous', by*Siturn theif
+an4 by the Sun poor,’*' 1 1 ' 'J
+• 1 Stanza 2 < t »>
+'u’tlits Mcoms in Leo aspected
+by Alercury,, etc , i the I, person
+will become .lleamed -til astro-,
+logy, chief or lord, 'Rajd', 1 barber}
+ruler and thief levpectivel'y ‘
+If the Moon is in Virgo aspected y Mercury etc , the man becomes a ruler, conimVi'nder, dexterous an d^s peeled ^y.,tria[efics
+the person lives as a dependent
+upon women respectively.
+If the Moon ts'trf Libra aspected by Mercury etc,, ,he,becomes a ruler, goldsmith, mer
+chant and by the evil <> planets,
+killer tof animals respectively
+When the Moon is m Scorpio'
+aspected by Mars etc , the person becomes , father .of twins,
+polite, washerman, defective tn,
+organs, poor and; mien ( respec;i
+’ Here he hss commenced'lro uf 'Mercury elc*. with • view to shorlen the
+Stinia and malic it more suggestive.
+
+BR1HAT JATIKA
+The planets are always to be taken
+in their traaal order of the Son ;
+Moon f *Mars Mercury Jupiter Veras j
+and Saturn ; Suppose we commence
+with Mcicury then the order will be
+Mercury, Jupiter, Venus, Saturn, Sun
+and Mars as \ve are- treating of the
+aspects of these planets upon the
+Moon Here to cut short thefanyu
+age and give .greater suggestion the
+last three planets arc malefic*— • m—
+Saturn, Son, and Mars and hence he
+tics • <
+M the Moon is in Leo a spec ted b}
+Mercury the person becomes learned
+in Astrology. This term Asl'chfy
+in Smiknt includes both Siddhanta
+( Astronomical M*lhem»tic*3 and ph? -
+lablnga orprcdictire orJudlcnlAsiro,
+logy . It the Moon in Leo is aapectcd
+by Jupiter the person becomes a lord,
+>1 aspecled by Venus ruler, aspecteJ by
+Saturfl barber, aspectcd by the Sui
+king, aspected b> Mars a rolerj
+Similailyfor other signs. The word
+Yufptd*iiii is us-d. which means
+well grammaticaHy as representing
+the father of twins, but the second
+in ter petition sterns to he strained
+fr nt a gram mat real point of view , j
+If the Moot) re in Sagittarius
+asperird by Mercury the person *
+trill protect relations etc., be a
+king, master of many, aspccted •
+by malefic* the person ‘will be
+shcwi or d iss i mutate r, in attentive 5
+t« others interests respectively.
+If the Moon is to C«priconms
+aspedod by Mercury etc, the
+person becomes King of Kings,
+Itaj I, Pandit, we ilthy, poor and
+Kaj i respectively.
+II the Moon is in .Aquarius
+.vspicted by Mercury etc., he
+[becomes a Kaja, equal to a ruler, ,
+fom! of others wives and aspected by other planet> be Will be
+fattier of twin*. A t pe c t e d
+tt the father of twins. In the b«t
+case it it lo be explained as a man j
+beinjrb'w to one father and then if
+b»» mother marnef another man and
+he r*t« another father. This ft very i
+end) net witli amt iff the Western njlbni The firtt TigwafiAl iwl* |
+fond of others respectively.
+U the Moon is ut Pisces asp;cted by Mercury etc./ the person
+will he a Jester, Riji. Pamlitand
+impeded by
+
+BRJHAT JATAKA
+aoa
+NoTrs.
+Here he has not Riven the results
+of the aspects of Moon upon Lagoa
+Bhattotpah thus reconciles or explains this omroiss'On. (See Ch I
+Stania 19) The Lagm becomes
+powerful when nspected or joined
+by its lord, by Jupiter or Mercury.
+na and Moon aspects it it becomes
+powerful and good remits must he
+predicted * When other *i»na become
+Lsgna (Ascendent) and_ Moon aspects
+them, they do not become powerful
+and therefore no good results would
+follow
+Stanza, i
+It the other planets occupy
+the same boras as the AJ con artel
+aspect hmi the results will be
+beneficial. When the k rd of the
+Drakkana occupied by the Moon
+aspects bun the results arc
+favourable If the Moon is ispected by planets "In friendly
+houses, it is good "~Tlio results
+which hatfe been stated above for
+each of the bouses of the Zodiac
+by the occupation of the Mo in
+and the aspecting of other planets will also b r similar when
+the Moonhccupies the Duadasnmia of those planets. Hereafter the aspects of the S un etc,,
+in the Navamsas,on tjie Moon in
+the N ivamsas will be di tailed,
+Notes.
+Horn means half of a sir i (see Sts,
+9 and 1 1 Ch. 1) The Moon i eeessanly
+occupies some bora of a nga it the
+time of birth Suppose htoe upi-s the
+Solar Hors III Alies Thenifh-has
+the aspects of planets in Sclar ioris
+m ahy other 6ign or signs the result 5 ,
+will be favourable Bvt if the)
+occupy Lunar Horae and arpeet such
+Moon the results will be^malefic Suppose Moon « in Ihe Lu*na. Hora in
+Virgo , then if h* has the ispects of
+planets occupying Lunar Horas in
+any other house the retul s will be
+favorable but if they oc'ipy Solar
+Horas and aspect the Maon in a
+Lunar Hora, the results are-evil
+Lagna must similarly be aplamed
+Coming fo the Drekkana ( ane third
+part of a sign) suppose Moo, occupies
+the third Drekkana in Aries. 1 he ^
+lord of this prekkana will b ( Jupiter.
+If Jupiter aspects Ihe Mao') the results are good ' The word used is
+Tatpnthlbhi i.e, lords of those
+houses By this Varahanihira includes the aspects in rfacatnsas*
+Uvrartasamxat and Tnmxamxax Whtn
+the lords of ttiese divisons aspecting
+the Moon) ai i benches the esults are
+very good, I ut when they ire male
+
+brihatjataka
+fics, the results ate moderate. In
+. support oi this view Bhattotpata
+quotes fror-1 Varahamihira's. Laghu*
+jatita. Plinets in friendly or own
+houses will produce good when they
+aspect the Moon, thereby implying
+„ that ptanet'"in unfriendly house* will
+produce bod. Similarly for Lagna.
+position of, the Moon in the various
+rigns of the ’Zodiac 'and the aspects
+o^the oth r planets' upon him trill
+hold good in his Diradasamsas. -
+Stanza 5
+When the Moon is in .the .Vavamsas of Aries or Scorpio aspected by Sun etc, the person
+will be a luler or chief of a toivn
+' fond of kt'ling, clever in wrestling, king, wealthy and quarrelsome, res) tchvely. When Moon
+is in the > avamsas of Taurus or
+Lihra as pi cted by the Sun etc.,
+he will >e obstinate, fond of
+" others' Wives, good poet, nappy,
+poet and fond of others ivives
+respective iy.
+iNotbs.
+When Ih: Moon occnpies the Nahe fond of killing living objects, aspeeled by ^Mercury he becomes a good
+wrestler or clever in head to hand
+fight, aspected by Jupiter he beVenns the person gets' wealth arid aspected bv Saturn the man becomes
+quirrelsome. When the Moon is in
+the Navamsnsoi Venus— Taurus and
+becomes stubborn and pbtlinate. aspeded-by Mars br' Siturn fhe person becomes fond of Others 'ivheS as
+pected by Mercury or Jupiter the' man
+becomes a good poet and aspected by
+Venus fond ol happiness. In 'the
+ca>e Of the aspects of Mercury and
+Jupiter Bhatotpvla. seems to make
+a slight difference. When- Mercury
+aspects the Moon, the person will' be
+versed in poetry and will also be a
+good poet When Jupiter aspects
+lie will be able to compose pleasant
+poetry
+Stnza 6
+Miiorr occupying the Navamsa
+of Gemini and Virgo, aspected,
+1 by (he Sun etc., makes the man
+a stage wreMler, thief, poet minister, musician ' and skilful in
+painting and arts respectively,
+when the Moon is m his Navamsa
+
+BRIHAT JATAKA
+saint, chief, brought up by fe - 1
+mates and loud ot wort: re spec I
+tivety.
+' Notps.
+strength, clever in arrngmgarmies
+m a battle, jester or humourist,
+minister impotent a*nd righteous
+respectively.
+When the Moon occupies Gemiui
+or Virgo, aspe ted by the sun he becomes a stage wrestler, aspecterl by
+Mats a thief, by Mercury i | oet, b
+Jupiter a minister, by Venus .1 must.
+Clan, by Saturn skilful in punting and
+a rts. When the Moon occupies his
+own Navamsa, nr Cancer asnected by
+the Sun the person will-be lean bi
+Mars miser or Poor, by Mercury a
+saint, by Jupiter minister, by Venus
+broui,ht up by fem lies, by Saturn
+that tor each aspect the author gives
+only one result The degrees of
+poverty or proficiency roust depend
+opon the ass iciations and dispositions
+the planets hut in the .'Jaiamsa.
+Stanza 7.
+Moon in the Navrins , of I.eo,
+aspected by the Sun etc., mikes
+a man angry, protege of a king,
+get treasure tr„ve, brooking no
+opposition m command, childless
+and land ot cruel deeds respectively. If Moon is in the N i
+vamsnsr.f Sagittarius or Ihsccs,
+aspeclcd by the Sun etc, the
+person becomes well hunts 11 hr
+Stanza 8."
+If Moon occupies the Navamsasof Capricornus or Aquinas
+aspected by -the Sufi etc, the
+person jias few issues, miserly
+while wealthy, pride, fondness
+for his own sectarian deeds, fond
+ness for bod women and miserly
+habits respectively, when the Sun
+is aspected by the Moon etc.,
+similar results must be predicted.
+Ltgna Navanm mustsmilarly be
+explained When the Lagoa falls in
+Karka Navamsi, aspeeied by the
+Moon the results! are good but when
+Lunar aspect the results 'must be
+Natamsas the aspects of r.iragralm
+rir Mars. Mercury Jupiter, Venus,
+produce lim.lar remits The remits
+predictd by the aspect of the Sun upon
+Moon aspects the 81111,
+
+BRIHAT JATAKA
+If the sun »
+i Aries and Scarpio it one example.
+When the Moon u i n
+<i3pectedby (he
+Moon, the pc son will the Kavamta
+ot Anes asjcctrd by
+be a rul t, ,1
+lie is in Taurus and th c Sun llic r
+esult 'will be good on
+
+BRIHAT JATAKA
+The Lord of the Nivamsa occupied
+by the Moon or Lagoa at the time of
+birth, if powerful will give the imsi
+aspect results in perferenee to Rasl
+aspect results By this Bhaltetpala
+inters and rightly too that the results
+of aspects etc in the Hors, riraVkana
+and Da idasiaini ire notaSectedby
+ho’h the res.il s of the rasi and amsa
+aspects must be predicted Hits refers
+to the Moon md Lagos and not to
+CH VPTER XX.
+Bhavadhyaya.
+£^erfi of flancti sn the dtfftftnl
+ngmfiatttmt
+Stavza l
+This is called the Bhavaityaye ,
+Bhava means the exact house which
+controls certain events of the man's
+life Take s person born in the fir t
+degree of Aries Then the next 80
+degrees from the first Rhavi and
+degrees from it are snpposed to r«
+mam in the first Bhsva and affect t
+according to their powers The im
+in determining the dif ermt Bhava ,
+the correct positions of tire planets
+their confonctions aspects, extllations retrogrades, combustions, etc ,
+cannot be snfflcleMU urged. Every
+student of Astrology who approches
+
+BRIHAT ] AT AKA
+that the face will not have a healthy 'Arrows. What would the good plaat pearence and probably there will "eta do there as opi osed to inalefici
+be cutaneous eruptions, sores, or both Is* qnealioo the aolntfon of which is
+or other shin diseases. most interesting for astrological student'. Bhatotpala with his usual Ween
+STANZA 2 perception of these difficulhVi come.
+The Sun in the third produces *° ourrehef and quotes from eminnent
+intelligence and valour. in the * s^ctoaTy", tZult
+fourth he makes a man unhappy Son „ thc b0usi he wj „ dt3tr0y
+anb .worried ill intitdi In the fifth enemies, disease and sorrow. But
+the Sun makes a man, issuetess Varahainifiira in this instance seems to
+and poor. In the sndh house he rely more upon thedoctiine oi Yavaproduces strength, defeat by j * bo tbat cv,t
+Notes. land sorrows. Quoting from Sphuji
+I Dhwaja, Bhatotpala observes— When
+About the resolts oi the bun and I the Sttn « in ,he {lh hou, e he makes
+other evil plmcts in the’ Oth house, I the person sofler from poison, weaand poor. In the sndh house he
+produces strength, defeat by
+
+BRIHAT JATAKA
+that which is,propounded by Sphujic
+hwaja (See notes on St 10. of his Ch.)
+Stanza 3
+i the 7th— disgrace from
+Sun tn the 8th— fine children,
+defective sight
+Sun in the gth — possessed of I
+children, wealth and happiness
+Sun in the 10th — happiness and
+courage.
+Sun in the Itth — very wealthy
+Sun in the lJth — irreligious
+Notes
+About the results ol the Sun in the
+9th house Varahanuhira differs fr
+h« leader Satyacharya. The lat
+3 thus —
+ndicant, Expecience hai
+Satyacharya seems to b<
+nearer thi mark than’ Vtrahamihira
+as person born nilh the Suit n the
+enjoj.
+Stanza 1
+1 lie Moon in birth makes a man
+dunb, deranged, stubborn, blind,
+nase, deaf, or servant. If that
+birth falls in Cancer, Aries or
+Taurus he gets wealthy, many -
+children or rich respectively In
+the second house Moon produces
+a big family^, in the 3rd he makes'
+a man cruel, or an executioner, in
+the 4th or 5th he will increase
+those significations. In the 6th
+house he gives many enemies
+tender body, weak digestion,
+:ak sexual inclination, cruel
+mind and laziness
+Notes.
+Moon ts specially detested in the
+h, 8th and 12th houses as he produ-
+:s greit misery. When he is full or
+powerfully aspected by bcnefics these
+e very quickly
+Stanza 5.
+Moon in the 7th makes a man
+envious and passionately fond of
+women. In the 8th Moot! prod ices caput mi Miess md sufferu j constantly t‘V” ->yss ^ ^
+
+BKIHAT JaTAKA
+W ' ,lk In «ie 90‘ popularity, Mars in the second— dirty meals,
+thildicii, wealth, relations and L
+friends. tf lc | 0 fJi !„ use Moon
+Afrfrs m tfie 9fh— sinful*
+I ,Ves success m A\ uiulei t’ll.ings,
+diflitdblp, rich, intelligent uni
+courageous I« tJit JJfli house
+In other houses (Bhavas) from
+La^m Afars produces results
+suitor to the Sun,
+Mnoc produces fame gams and
+•>11 ‘liose items indicated hy tint
+tinuse. l n the 12th he makes die
+«»«" troublesome and defective
+in bodily oegans
+Mercury m (he first eight
+(louses, producer 1 e i r n I n g ,
+wealth, baseness, wisdom, Minister, fades--, versed in philosophy,
+and union ed with good character
+respectivelv and in others tie is
+similar to die Sun in results.
+t» a" thne theifenenl pnn.
+c, l** af astrotogs , vi , , ||;- sourK s
+d Itrrajll, a„d aeilnesj iffccti „
+pluieti must not he largolltn
+>a making predt, lions and sttiilietmg
+diwe char icleriitier in lull or 1 1 put
+wti the c l>e m i) be, t!,eir absence
+allnftetliet Sepj«s„ Gemm, „ Lsgn
+*»d Moon i. m Tia,, , Here he net
+*elled and goo j, n, t sopposs J.e „
+vcorpra debdil ted ad the Lagm u
+S’S'ilanos In bolli the.e cites A
+i In It,-* tsjn f inm |,j, -j, 1nc | ,j Jf . i ,, :
+dent mint mile i d,ffer,„ce ,» P ,J
+Staszv <
+^lars m itounds or tuts
+**> the hotly,
+Notes
+ViMliimihira is short and snggesvc (tithe ltd, Ith, Sth, fill,, Ttlu
+^ h, tOlh llttiind IZlh houses Mire
+there For instance
+1 when the Sim is m the trd from Inrth
+t lie produce* intelligence ind courage
+fornlour When Maoism the 3rd
+| from birth, he jpies Mso intelligence
+inti prowess. Mercury produces the
+following chanctsrutics In the man
+( ous - * respectively, In
+[counting in thei- milters jt should
+[if Aries it buth 4ml Mars u m l^o
+I me hsve to count from Aries as one,
+Taurus two Ge tint three Cancer four
+and Leo fine, therefore Mir* U In
+the fifth home f om birt’i and remit*
+
+BRIHAT J AT AKA.
+Venus in the oml,3rd>4tb, 6th, 8tb,gtb,
+loth, nib, and nth houses will produce
+pkahim or remits timilar to Jupiter
+Thus Venus in the and gives good speech,
+in the 3rd miserliness, m the 4th bappi
+baseness, in the 9 b piety, in (be :ctb
+wealth, in (he nth gams am) m the rath
+unscrupulonsness
+Stanza 9
+Saturn in the first gives daily
+poverty, disease, cupidity, uncleanlmess, sickness in early life,
+and indistinct speech If Saturn
+occupies exaltation or houses of
+Jupiter or Ins own house, which
+happens to be Lagna, he makes
+the person equal to a king, pro
+tector of villages or towns,
+learned, and handsome organs
+In other houses he will give
+results similar to those given by
+the Sun
+Stanzi 10 .
+Take the birth sign etcand the
+body etc and predict results by
+the planets occupying friendly, irumicable, neutral, own,
+and ’exalted houses Satyacharya declares that benefics and malefics in the houses
+produce good and bad results in
+them respectively And the results are reversed in the 6th
+8th and isth houses.
+Notes
+The soles given by Bbatoipala aie
+dear and exhaustive Take birth, and
+3rd etc up loand including the lath and
+dy enumerated by Varaha Mibira and
+other astrological wnters Thus the
+birth indicates body, the s-eond family,
+thu 3rd bta'bers and sa forth Here
+\ ataba Mibira n,es the word Lagan
+distinctly and asks the readers to
+count from Lagna This looks like
+
+BRIHAT JATAKA.
+
+HR111AT JATAkA
+great personal attractions If
+bcncfics join the lunar Horn
+in even signs.the person becomes
+tender-hearted, handsome, happy, popular, intelligent and
+polite speaker
+be oo ph ikm sketched above If benches
+occupy the solar Ilora in odd signs
+there will be do ptaalam When the-s
+aro two or more planets In similar posi
+tiootbeinteosily of good, or evil must be
+proportionately considered (see st II.
+Cb 1J Here we see tbat odd signs are
+the eten signs inr Taurus, Cancer, Virgo,
+Scorpio, Capricorn aud Pisces, the hist
+Hora, or half is rulejby the Moon, and
+becomes kmdhearted, handsome, etc
+If the planets in the same
+horas are found in other Rasis
+(signs) the persons born then will
+have the results moderately If
+the planets are reversed in Horas
+and Rasis the persons born will
+not have the above characterisNotes
+The motto of Varaha Mibira to say
+If Moon is in his own or
+friendly Drekkana the person
+will be handsome and virtuous
+If Moon is in other Drekkanas
+theperson willget the characteristics of the lord of the Drekkana
+If the Moon is in Vyala, Udyathayudha, Chatuscharna and
+Andaja Drakkanas the person
+born will be vindictive, very
+cruel, fouling Guru s wife and
+traveller respectively
+Notes
+splendidly helped by tbo flexib e aid 3 equal parts each is ca'leda Drekkana,
+bigly developed Sanskrit language and 1 or each division gets 10 degrees The
+
+BKIHAT JATA'KA
+Jataha, in this connection, and therefore
+Abhtscha alone is Saihu a,e acceptable
+When Mars ts m his own
+Trimsamsa,the person will have
+wife, strength ornaments, gene
+rosity, personal attraction, and
+enterprising spirit When Saturn
+is in his own Tnmsamsa, the
+person becomes sickly, loses his
+wife, possesses double heart,
+enjoys others wives, sorrowful,
+possessed of houses cloths servants, etc, and will be uncleanly
+The stanza is clear and needs no ex
+planation
+When Venus occupies his own
+Trttnsamsa, the man will be
+blessed with many sons, much
+happiness, health, popularity,
+wealth, beauty, vindictiveness,
+handsome body and enjoyment
+with many women When the
+Sun and Moon are in the Trim
+samsas of Mars etc , the person
+will be warlike and slothful,
+cruel and killing, virtuous and
+wealthy, happy and learned,
+handsome and popular respec
+Notes
+Thera are two
+ence to Venas
+
+BRIHAT JATAKA
+
+J3RIHAT JATAKA
+Notes
+He gives heie a separate case alto
+getber unconnected with Kendra pla
+nets If » planet is not in Lagoa Ken
+drabut occupies any other House and
+another planet occupies the toth house
+from such a planet and this loth house
+happens to be its own house or Moola
+thnkona or exaltation then this planet
+becomes a Karaka provided be is ao
+intimate friend to the other planet
+Here Ehatotpala seems to make some
+difference in Karakas The planet in
+the tenth bouse does not become a kara
+hence the recommendation to go aod
+serve uuder some monarchs (see nates
+on Cb XI St 19)
+Stan** 4
+If the Lagna falls tn Virgottama, if good planets are in the
+Vest, if the Kendras are not on
+occupied, if there are Karaka
+planets, then the person will be
+happy
+Varcottama Navams* will h.thr. net
+
+BRIHAT JATAKA
+in the middle oflife Planets in gc.s ce-+a n power accord ng to Astaka
+Prustodaya, Oobhayodiya and varga md-als* ons and thereby becomes
+Sirshodaj a give results in the
+end, middle and beginning of Tbe suoand Mats give thesr reso'ts
+th“ man’s life respectively when they eoier a Ra'i and befo-e tbey
+.. leave the rstaivisicn Jppiter and Venus
+* do so in (he 2nd iivi= on and Ssltnn and
+Janmadhipatbi means (be lord of tbe Moon in tbe 3rd div sion Bot Mercnry
+the birth or ascendant It any one of
+these or Gnru occupies a Kendra, the
+person gets happiness in tbe middle life
+M tbe Lord of the Dasa happens to be
+in Aries, Taurus, Sagittarius or Capri
+his period, he will give results at the end
+of his Da'S II the planet occupies
+Pisces, than tbe results will be given in
+tbe middle, and if the planet is in
+Gemini, Leo, Virgo, Libra Scorp o,
+or Acqtiarius tbe results m'l be prodn
+ced in tbe commencement These
+results may be good or bad and they
+wilt be given by the Dasanatha at tbe
+time indicated Thus we have btre to
+reler to then Gocbara movements to
+find out where tney are and when they
+begin *be Casas Ga»gi is quoted by j
+planation as tbe original is short and
+Amstadbyaya or Mtsfortnnes
+If the 5th and 7th houses
+from Lagna or Chandra be occupied or aspected by benefics
+or their fords, then these Bhavas
+wilt prosper tf not they wilt suffer
+If Kanya falls as birth with
+Ran in it and Sam in Meena,
+the wife wilt be lost If in this
+conjunction the 5th house is
+occupied by Kuja, he causes
+loss to children
+a " Tbs Chapter is called Amsta or Atis
+The Sun and Mars give results i ta and means that wh cb treats of mis
+when they enter a house, J upiter 1 forton-s Whu a botmcop* isgiveo to
+and Venus in the middle and 1 j^ l ^ S JvhaTn,i-lortnnes Vbe^er-on 5 *!
+Saturn and Moon m the end and . a a cnBS from and thu is very imper
+Msrcurj alwajs mni for men to know If the 51b bouse
+from La&naor Moot is occupied or
+
+mitHAT JATAhA
+any benefic, tbe wife will die by being the persons wife will be a barren
+Gargi, who is very clear on (bis point
+Stanza j
+If the 6th and 12th houses
+from Lagna are occupied by
+the Sun and the Moon, the husband and wife will hate each one
+eye If Venus and the Sun
+occupy the 7th, gth or 5th, the
+wife will be defective
+( In the first half of >be vere the rath
+and tbe 6th must be occupied by *be Sun
+and the Moon aa any way *o produce
+defect ve vision in both the couple The
+second balf of tfe stanza requtres Cbat
+the Sun and Venus must be together in
+the 5th and 9th or the 7th house to pro
+duce defect in any particular organ of
+the wife
+Stanza +
+If Saturn occupies birth,
+Venus in the 7th when it is in
+g-xndantha and if the 5th is
+unoccupied "by benefics the per
+son will become husband of a
+barren woman If malefics
+occupy 1 2th, 7th and birth with
+weak Moon in the 5th the person
+will have no wife or son
+Notes
+The last Navamsas of hataka,
+/vlhi This means that even if be
+marries two or three wives be will get
+no children because his wife or wive'
+will be barren women All tbe ma cfics
+may be in lath, ylh or birth or in any
+two or Ibreeof lb*ro, weak Moon most
+be id Ibe jtb Under sncb circumstances
+be will have no wde or children bee
+notes on st 5 ch II for Ksbma Chandra
+Stanza 5
+If Suhra occupies the 7th,
+which happens to be the Verga
+of Sani or kuja and aspected
+by them the person becomes
+fond of other women If Sam
+and Kuja join Chandra in the 7th
+and have the aspect of Suhra the
+person and his wife both become
+adulterous If Suhra and Chan
+dra have Sant and Kuja in tbe
+7th the person becomes wifeless
+or issueless If female and
+maleplanets have Sam and kuja
+in the 7th aspected by benefics
+the couple would be married
+when old
+If imkra occup ss any one of 'b'
+Vergas of Sam or Kuja and is Iccatcd
+in tbe 7»b and is aspected by any one of
+them tbe pe-son becomes adulterous If
+
+family traditions This can only happen
+on 2} days when tbeSunand the Moon
+are joined together m a* Raa in every
+If Venus and Mars join the
+7th house aspected by malefics
+there will be serious danger from
+dysentry If Moon joins the
+Navamsa of Cancer or Scorpio
+and is in conjunction with male
+lies the person will have diseases
+in the secret places If Aloon
+joins Lagna, Sun in the 7th and
+two malefics m the 12th and
+and, the person will be attached
+by serious form of leprosy If
+Moon occupies the 10th, Mars in
+the 7th and Saturn in the 2nd
+house from the Sun the person
+Mill be defects c in limbs
+suffer lion mMfiruiordyseotry There |
+is a recent reading which runs as A 1 11' 1
+lint meaning Ibat th« man will have
+hall t g„t Unt this is noi supported
+by the commentator Among the 1' uro
+yean nations dysemry is dreaded hire a
+rmic and sometimes it proves
+e Moon may be in any sign
+1 the Savamsas cl hetaka or
+and Is In conjunction wnh a
+The Moon should not only join Rataka
+orVncaika Navamsas but malt also
+join there with malefics Bat suppose
+Moon is in Kataka or Vnschifca Na
+vainsa and an evil planets joins him in
+private parts even in this combination
+Chandra should be in lagna, Ravi
+should be in the 7th and two evil pla
+nets huja and Sam should he in the
+2nd and 12th to produce white leprosy
+This is one lorm of hideons disease
+and there are other forms such as black,
+red aod blue leprosy The word in the
+onglnalls -4r7ii&taor evil planets and
+Bhatotpala interprets this as referring
+to Sam and Kuja When the Snn aod
+the Moon ate in the 7th house from
+each other, the days mast be Full Moon
+days The second house Irom the Sun
+at the time o[ b rth Is called Vest
+Saturn should be in the and house from
+the San, Moon must be in the roth
+house and Mars must he in the 7th
+house Irom Lagna to product) defect in
+man will have limbs cut off by Van
+call defective and defatmed
+Siwiat 8
+When the Sun is in Makara,
+and the Moon between two mile
+fics the person gets asthma,
+consumption, enlargement of
+sjilecn carbuncle or abdominal
+tumours If the Sun and the
+Moon mutually exchange their
+
+BRIHAT JATAKA. 225
+person gets pthisis. If these two
+join together in any one of their
+houses he may become consumptive or emaciated.
+The Sun must be is Capricorn, and
+the aspects or conjunction ol Knja or
+Sani the man suffers (mm leprosy.
+Bbatotpala explains that, is snob conjunctions, suppose there' is beneficial
+aspect the man suffers from cutaneous
+eruptions or irritation, verging on
+leprosy. This view of the commentator
+
+BRIHAT JATAKA
+from deafness If these evil
+planets are in the 7th hou*e
+there will be deformation to !
+the teeth
+that Dbatu, which is goieroed by the
+most powerful among 1be*e planets
+If ailtbre planets are in the 7th house
+without beneficial aspect the person
+"offers from bad or ugly teetb The«e
+results most be predicted during tbe
+periods and snb pttrods ol planets caa
+If Jupiter occupies birth and
+Saturn is in the 7th the person
+suffers from windy complaints
+If Jupiter occupies Lagna With
+Mars 111 the 7th, the person suffers from insanity or madness
+If Saturn occupies Lagna and
+Mars is found in g, or 7, or 5 the
+person suffers from insanity If
+weal Moon with Saturn joins
+the lath house, the same insanity must be predicted
+If Moon eclipsed b) Rahu
+occupies bitth and cut phnUs
+arc found m trines the person
+suffers from dculs
+If the Sun eclipsed occupies
+the birth the person becomes
+blind
+mad are 80 in number, and these late
+various forms m various constitutions
+\\ beo Guru Is is Lagna and Sant occu
+pies tbe 71b bouse (from Lagoa and
+(berefnre from Gara atso) Ibere will be
+suffering from wiodjr complaints If
+m tbe r amo conjunctioo huta' occupies
+tbe Ttb Initeid of Sam. the person suf
+Lagoa with Mars 10 5, 7 or 9 the per
+*00 suffers from insanity If Ksbioa
+Chandra joins Sam and camples lbs
+
+tsiiditary family 0 f E i avcs
+Sta\« is
+. I L bht ! 1 , happens to be Vnshabha Meshaor Dhanas, asw,lThl y n ,‘ aIefiCS * he person
+ZL ugly teeth if b «h
+alls in males olent signs or
+If evil planets occupy
+5tb, znd orgth, the p erson
+De imprisoned according to
+==^Mr
+similarly confined
+
+feRIIIAT JATAkA
+lialo around him join? Saturn
+ind is aspeeud )>> Mars, the
+person sm!I be harsh, suffer from
+h> sierra and consumption If
+the -Sun, Saturn and ,M ars -, rt ;
+m t’ t totli house unaspteted b> j
+l»" icfcs the person mil become
+* servant If three or two or I
+I Lac! Of Chapter XXIII
+CiMrrr* \\IV
+EtrJJ*t»kaith»ynyj
+Srssj. i
+Such of those rc«ultsas the fcrmlesenuldnot ;>©sscm> or enjoy must
+he attributed to their husband*
+
+ft fit HAT JATAKA
+From the 8th house in a female's
+horoscope the death of her hus
+hand, from the birth sign and
+the Moon her (female’s) own
+physical beauty and from the
+7th house her husband and his
+love to her must be predicted
+devotes a chapter to the ferrales wrtb
+mental peculiarities which do not hap
+p-n to males bat which are confined
+tion, attainment of age, appearence of
+menses etc , arn peculiar to females
+But suppose a planet indicates health
+as a male. Them ate three hinds of
+most be predicted only for females
+tsecond there are some which must
+he predicted fur their husbands and
+red in both by the females as well as by
+their husbands. The results indicated
+m St I Ch XIII are appliabte to
+referred (0 their husbands as also to
+them The results suen as produced
+by sunapha, aoapha etc, must be epp
+lied to hath females and (heir husbands
+Ve bare beard of several eminent
+If the birth and Moon fall in
+even signs the female will be
+modest, if they are aspected by
+benches she will be virtuous, if
+the birth and Moon fall in odd
+signs she will have masculine
+temperament and form and if
+these two arc aspected or are in
+conjunction with malelics she
+will be sinful, and characterless
+Nous
+If Chandra and Lagna both fall in
+evan signs such as Katalia, Vrtsbabba
+etc, she will be natural and possess
+feminine grace and temperament If
+Lagna and Chandra arc aspected
+by good planets, she will be virtuous,
+modest sill fall ol feminine grace Jf
+these two— birth and Moon— are in odd
+signs p ucb as Mesba, Mnbuna etc she
+will become masculine and if aspected
+by or are in conjunction with evil pla
+nels she will become sinfuj, cmel and
+masculine in form and temperament
+Her thoughts, deeds and behaviour,
+will be devoid ol feminine grace If
+dram an odd or lire tersa she will be
+possessed or common [emparament
+tf one of them is s<pecled by a beoefie
+and anotherbya malefic the character
+etc , will be middling u , she will be in
+seme acts feminine and in others mas
+S-uszv 3
+It the birth or Moon falls m
+the house of Mars and occupies
+the Thrrmsams-i of Mars, Saturn, Jupiter, Mercury or Venus
+the girl will be immoral before
+
+BRJHAT JATAfcA
+or double hearted and il Venus governs
+that Thrimsamsa, she will be sinful or I
+immoral In this Chapter, the results |
+ate indicated with -eference to Thnm
+samsa and Bhatotpala advises his
+readers to examine them carefully The
+ytinsa used in the anginal refers to
+TAnmianisa as will be clearly explained
+laier on by the author The word used ^
+means a girl who is not yet matncd
+Stanza 4
+If the birth or Chandra falls
+in Vrtshabha or ThuK Itasi and
+occupies the Thnmsamsas of the
+above planets, she becomes sinful, marrying a second husband, I
+virtuous, skilful in arts and
+rtpuled respecinc)) If birth
+or Chandra falls in Mithuna or j
+Kanyaiuid occupies the above
+planetary Thrimsamsa the woman Jmcomts ikeittful, impotent, virtuous, good and adulter__ ous respectively
+Stanza j
+If Chandra or birth falls in
+Kataha and occupies theThnmsamsa of the planets already
+named she does what she likes,
+causes death tohusband, blessed
+with good qualities, skilled in
+arts and immoral respectively If
+birth or Chandra falls in Simha
+and occupies the Thnmsamsas
+of the planets already named, she
+will become masculine, adulterous queen, manly, and commit
+incestous intercourse respectively If birth or Chandra falls
+in Mecna or Dhanas and occupies the above named Thrimsamsas the woman will be good,
+hav c little sexual desire, v irtuous,
+si died in arts and adulterous
+respectively If birth or Moon
+falls in Capncornus or Acijuari-
+
+BRIHAT JATAKA
+itsand occupies theabpveThnm
+sarosas the woman becomes
+servant, fond of Jour men, virtu
+ons, sinful and childless respec
+tively
+JJOIES
+The Thnmsamsas are ruomog m the
+following outer, Koja, Kavip, Guru,
+Goa SuUa anil ibe results most be
+attributed to tie® respectively »
+iv omen mho are aoi passionate while
+tbe r e are others who are tery lustful
+Guru ss blessed w th all good qual nee
+Bada= skilled mfioe arts
+Suira^im moral
+If birth falls m Makars cr Kombba
+and occupies the T Am«a of
+Sam—foad of low or worthless raeo
+Buda=bad or sinful
+
+BKIHAT JATAKA
+Here are so many other planetary con
+junctions, wbo«e influences should also
+be taken into consideration
+If San/ and Sulnare in each
+other’s Navamsas aspecting
+mutually, or if the birth falls in
+\ rishabha or Thula, with the
+navamsa nstng in Kumbha the
+woman will get sexual satisfac
+tion from females dressed in
+Notes
+Here Sam roost be to Sokra's and
+Snkra must be in Sams Navamas
+with mutual aspects or the Lagna
+mast fall in one of the bouses of
+Sukra via, Vnshabba orThnla, with
+the rising Navamsa of Kumbha to pro
+duce these results. There are some
+women who«e strong passions are not
+satisfied by men and who resort to wro
+men for graiifieanon, w,th mate feather
+oigant attached to their wai'ts In the
+History cf the world many aborrlcab’e
+practices have been recorded from lime
+immemorial and tinman natnie is a
+mt»i puzzling problem for Ihepbifo'op
+If the 7th hou'e ts potteries? i
+’.w/jr.c.'iV'vl -vod, tmUfCCfcllL to,
+hcnifics the hmbarnl will he
+tnenn If Mercury and Saturn
+are tn the 7th house, the hus
+Irani will In impotent If the
+7 lli i* t nos ible a^n, the hus
+Irani! will Ik- constantly instil
+nv If iK- yth is occupied!, > the
+Sim s«,>ectelby malefics the
+mil be rejected by her husbhnd
+If there is Mars in the 7th
+aspected by evil planels, she
+becomes a widow early , if Satu
+rn is in the 7th aspected by
+malefics, she will become old
+without marriage
+These combinations mnst be taken
+If Ibe ythis occupied by Satarn and
+Mercoty, the husband will be a eunuch
+or one who has no male organ Bhatat
+pala rightly expands the idea suggested
+by the author about the movable nature
+of the yth house If the 7th house is
+fixed then the husband will always
+leslde with the wife, but when it is
+a cummou sign the husband will be half
+travelling and half residing at home
+Find out whether Chandra or Lagoa
+is powerful and judge of the results
+from the stronger of the two A ques
+lion may be raised as to why these re
+suits must be predicted with reference
+to Lagoa or Cheodra, since the author
+males no mention of Chandra in the
+original Bnaloipah xfgbly suggests
+planets, mb. 7* except for Chandra,
+the author Implies clearly that the re
+suits must be predicted with reference
+to both
+n
+If there ire several malefics in
+the 7th sh» becomes a widow.
+If there are evil and good pfa
+nets there, she will marry a
+second husband tn the same
+caste If there is a powerless
+evil planet in the 7th aspecled
+by a bentfic she will lie reject'll
+
+BRIHAT JATAKA
+by her husband If Venus and
+Mars exchange their Navamsas,
+she will be adulterous If the
+Moon joins Venus and Mars in
+the 7th she becomes adulterous
+with her husbands connivance
+Notts
+If there are several evil placets in the
+7th, the girl is sme to become a widow
+If the Son or Saturn or Mars joins the
+jth p-tfectly powerless aad pos'eses
+the aspect of a benefit the girl will bteiected bjrb.r busbacd Venus most he
+in the Navam'a (Aries or Scorpio) of
+Mars and Mar, must be m th- Nat am
+sa (Taurus or Libra) of Venus, In pro
+does an unmoral woman If Venus and
+Mars are m the 7* with tbe Moon then
+the woman commits aduhe-y wi’ti tbe
+cons-nt or contntaace of h»r husband
+Truth is stranger than fiction Often
+and husbands for various considers
+tions In royalties and officia' class's
+these prache'S are more rampant 00
+account of tbe temporal advantages,
+which the men fancy will flow to them
+by prostituting their wires and daugb
+T .C Vhn boiiwissC iAwatytSVrtKTk
+becomes Lagm with the Moan,
+and Venus there is aspected
+by malcfics the girl becomes
+adulterous along w ith her mo
+thcr If the 7th Navamsn from
+the Amsa Lagn fills in a house
+of Mats, aspected by Saturn the
+woman’s sexual organ will be
+diseased If the 7th N'avnmsa
+falls in a beneficial house, the
+woman will be handsome and
+loved bv her husband
+Notes
+If Lagoa falls la Aries, Scorpio,
+Capricorn or Acqianus joined by
+Mono and Vena, and aspected by male
+i fire the girl as well as her mother be
+[ com* immoral There are numberless
+unmoral girls also get into such nasty
+habits When Ibe 7th Navarasa falls
+in Ane» or Scorpio and is aspected by
+Saturn, tbe s-xoal organ will bn rotten
+or diseased This can happen only
+wnen tbe Navamsa of the Lagoa falls
+in Tanras or Libra The woman may
+keep a geotral healthy appeareoce or
+even possess fairly good beabh but she
+the 71b Naiamsa fa’ls in a beneficial
+and she will be loved by ter husband
+Subhoga and Durbboga may also mean
+hand'ome or repulsive Much dep*nds
+upon the selection of the conple and the
+eonsl electrical currents These car
+rents are generally nf two kinds, external
+and internal First a man and a woman
+may be attracted by external currents
+they join sexually, th«re will be further
+discharges ol magnetic currents, which
+if not agreeable make the coup e tepol
+•ire and miserable Tbe marring'
+relations must b* carefully eoapled with
+referen'e to astrological principles as
+otherwise they b-come failnrra and
+If the 7th from Lagm orNi.
+vatnsi falls in the house of
+Saturn, the husband will be
+old and stubborn, if the 7th from
+Lagm or Navamsa falls in the
+
+BRIHAT JATAKA
+house of Mars the husband will
+be|fondof othcrnomenand cruel
+and if the 7th falls in the house of
+Venus, the husband will be
+handsome and losing If the
+7th falls in the house of Mer
+eury, the husband will be learn
+cd and intelligent
+Now the author gives results of the
+7lh boose when it is unoccupied by soy
+planets The 7ib boose may be taken
+will be seen that there are do planets
+in the 7ih house both in the Ran and
+also in the Navamvt Therefore the
+be taken As the 7th from Lsgna is
+Aequarius, ore of the houses of Saturn
+the ba-baud will be a„ed or old and
+also will be stubborn
+Stanza ta
+If the 7th falls in Cancer, the
+husband will be passionate and
+mild If the 7th falls in Sagittarius or Pisces the husbind
+will be good and controls his
+passions If the 7th falls in
+Leo, the husband will be mild
+and hard working
+If the 7lh boas- falls in Cancer or its
+Amsa (Cancer) the husband wi 1 be
+pass onate and mild He wih be very
+fond of >;exua 1 intercourse but his na
+ture will be mild The other combina
+last por ion the Sanskrit expression is
+AUmrtd trattkan tahrtt which may be
+divided into (t) Atimndubu— very mild,
+and (2) Atikarmaknt-tf“ry bard work
+mg, when taken as a compound word
+tbe meaning 1 very miTu and passionate
+As gtven under St 11 if the yth house
+in Rasi differs from the 7th house itt
+the Amsa then the more powerful of
+wn Sun j i-ethn j If Moon and Venus are in
+! — — Lagna, tbe woman will be jeal
+happ,ness
+liwog gtrf born on the loth Sep Moon and Mercury occupy the
+ier 1895 at about tuonse Here it birth, she will be skilled in arts,
+Rahu
+Rasi
+Sun
+Bir b
+Kf-thu
+j
+Sa*um
+Mars
+Mer
+Ven
+Mar
+Rabu
+Mars
+Venn
+Saturn
+Navarosa
+MB0B
+Birth JnpJtfr
+Sun Kethu |
+
+BfclHAT JATAKA
+hippy and blessed with good B “t this idea does not recommeod it
+character If Venus and Mer- self to Ubatotpata and his arguments
+cury join the birth, she will be s^eT^of op.orao feuhe ag« “t
+handsome, belovedandskilledm planets most be taken as detailed in
+fine arts If three benefics are S 9 Chapter VIII Ifia following ate
+in birth, the woman will hare ibe ages given For tbe plaoe-s
+
+BR1HAT jAtAkA
+Aotardasa ol the lord ol the Nsvams.i
+occupied by the lord of the 8th when she
+is an infant of one or Lwo years, ther
+the objection raised by Bhalotpala will
+have to be returned back to brm in bis
+own coin and the same absurdity of
+widowhood at one or two years has to be
+pointed out He may have charged
+other writers with dropping the expres
+ston after the marriage but he has
+probably overlooked the word samay
+in the text and this is very important
+If there is a malefic in ihe 8th and
+benefics in the and she will die before
+her husband In the text Umfics is
+used while Bhatotpala says that even
+a single benefit: tn the second will kill
+her before her husband When the Moon
+occupies Taurus, Virgo, Scorpio or Leo,
+Stanza i S
+If Saturn ts moderately powerful, if Venus, Mercury and
+Moon are powerless and the rest
+are powerful and if the birth falls
+in an odd sign the woman will
+be adulterous If Lagna falls in
+an even sign and Guru, Kuja,
+Sukra and Buda are powerful
+she will become famous, learned
+in many sciences, and a vedanNorts
+powerful and may be found to say
+bouse and when the Lagna falls in an
+even feign, the woman will b-coms
+Stanza j6.
+If an evil planet occupies the
+7 th, she will embrace that Sanyasa, which is represented by the
+planet occupying the 8th house
+These results may be foretold
+during the wedding, during the
+search for the girl or during the
+query
+The autLor now introduces a new
+phase The lesults foretold when
+there are evil planets m the 7th, will
+only be verified wb»n there are no
+placets in ibe 91b b«u>e By thrs it is
+| clear that when there are planets in the
+gtb house the former results cannot be
+predicted The woman will take to
+that kind of pravrajya, which is repre
+seated by tie planet in* the 9th bouse
+See St 1 Ch XV
+I These results detailed in this Chapter
+must be applied on'y to the horoscopes
+of females and to none else The
+results will have to be predicted at the
+times at which we have shown them to
+I Varahitmhira has written a work
+ca'led Vaahapatalam or marriage com
+bination* We have not seen this work
+but Bhatotpala refers to two works one
+Bnhat and the other Laghu When
+there is any difference between the
+combinations sketched here during the
+marriage time and those explained in
+\ ivabapalalam the latter must be
+given credit Varahamihira was really
+a great genius and seems to bate tra
+tersed all the departments of astrology
+fn a most masterly way
+End of Chapter X\IV.
+
+mu HAT JATAKA
+Diseases from pood work can be
+remedied while disease# from evil
+works are difficult to cure Suppose
+tl e horoscope stands thus
+j Coendra Birih
+Here there are no planets in the 8th
+house, but it is aspe ted by Moon who
+is given very much of wind and ph
+legm The 8th hou«e »s Taurus which
+represents the Face of Kalapurusba.
+Accordingly when this man dies, there
+will be some disorder in the face can
+sing death Suppo c e there are no pla
+nets in the 8th boise and it is unaspec
+ted the mode of death is aelatled fur
+ther by the author in St n of this
+Chapter After finding ou* tbe kind of 1
+disease the author also proceeds to
+give the plan of death If there is Sun
+in tbe 8th from Lagna death will be
+caused by fire, if Moon by water, if
+Mars by weapons, if Mercury by fever, if
+Jupiter by complicated disease, if Venus
+by thirst and if Saturn by hunger If
+the 8 th is movable, death occurs in a
+foreign counuy If it is fixed in hi3
+own country and if falls in a common
+wgn it occurs while travelling
+If the Sun and Mars occupy
+the 4th or loth death will bo
+caused b> stones If Saturn
+Moon and Mars arc in 4th, 7th
+and 10th resiiectu cly, death
+will be caused by failing mtoa
+well If the Sun and the Moon
+are in Virgo aspected by malcfics he will be killed by his oivu
+people If the birth falls in a
+common sign with the Sun and
+Moon in it, the person will be
+drowned
+Notes
+Other inodes of death are indicated
+1 here If tbe Sua aad Mars join together and occupy the 4th or the 10th
+death results from blows from stones
+or rocks When Saturn is in 4, Moon in
+7 and Mars in 10 the person falls into
+a we'l and dies When Virgo (kanya)
+is occupied by the bun and the Moon
+aspected by Mars or Saturn, the person
+will be killed by bis own men or rela
+like Gemini, Virgo, Sagittarius or Pisces
+and conjoined by the Sun and tbe Moon
+Sun and the Moon join together in a
+month for only a J days and then only
+If Saturn is in Cancer and
+Mopn occupies Makara the
+person dies from Jalodara If
+Moon occupies the house of
+Mars and is betwixt evil planets
+the person dies from weapons
+or fire If Moon occupies Virgo
+between malefics death colncs
+from corrupt blood or consump
+tion If the Moon occupies one
+of the houses of Saturn between
+
+BRIHAT JATAKA
+malefics the person dies by
+ropes, fire or fall
+Here Menu is in Virgo with Mars id
+the 2nd and Sun in the latb As regards
+the words betwixt or Madyagata, it i"
+enojgh even if the Moon is in the same
+house between ‘wo evil planets Thus
+if the Son occupies the 3rd decree of
+Aries, Moon occnmes the 10th Degree
+and Mars occupies the 1.5th degree, the
+Mdoo most be considered as being be
+twixt two malefics, ahhoogh they are
+Found in Makira or Knmbba between
+two evil planets dwtth comes by ropes
+hre or fall He may be bandaged or
+tied by ropes or may die from fire,
+wbick takes so many forms or by foil
+mg from elevateo places
+Stxizs 4
+If the 5th and gth houses are
+occupied by malefics unaspected
+by benefics death comes from
+bandage If the Drekkana rising
+in the 8th house falls in Sarpa
+or Nigada then similar death
+occurs If the Sun is in birth,
+Virgo falls in the 7th with Moon
+in conjunction with a malefic and
+Venus in Aries the person
+suffers death from Female agency
+ttt his house
+
+BRIHAT JATAIvA
+ortbeytb.andSukra m Mesha or (be Notes
+and death will result from letnale tntri j There are three combinations for
+crucifixion here named First there
+r must be Mars and Sun in the 4th and
+Saturn in the 10th In this case all
+the malefi s bate mutual aspects and
+I give the man SMa In the second
+1 ca'f. the Sun Mars Saturn and power
+I le s Moon must occupy birth Jlh or
+9th to produce death from Shula In
+j tb s combination all these four planets
+may be 10 birth or 5th o 9th or in any
+two of tham or in the three houses
+They mast not be outside those houses
+The word shula means any sharp poin
+Sam ted non or wooden pike on which the
+intended victim would be mounted and
+^ ^ y ~j j~ torn to p eces This is a k nd of punish
+persons born 111 Meena By female setm civilized countries P Hang ng in
+
+BRIHAT JATAKA.
+fire> bandage,, or hlows on the
+body.
+Powerless Moon m tbe Stir, Mars in
+the loth, Saturn in Lagns and tbe Sun
+in tire 41b, cause death by blows Item
+iron rods 01 clods of earth. If jrowerless Moon occupies rotb, Mara 9th,
+Saturn tst and the Sun 5th death may
+pons, fire or the anger of the
+rulers. If Sam', Chandra, and
+Knja occupy end, 4th and 10th
+respectively the person dies by
+worms generated in sores or
+wounds.
+Notes.
+flb and Saoi rn^bTit'th
+
+BRIHAT JATAKA
+bis Fellow creatures Knja must be in
+tbe 7th, with Chaud a Sant and Ravi
+m tbe Lords lor producing tbe above
+result When tbe Sun is with tbe
+Mooo tb* latter is not powerless
+There is a difle-eoce in tbe Text Saut
+andnna is substitut'd for KsUnaniatna
+But when tbe Moon is with the
+Sun K china or powmless, will become
+a superfluous adjective If Kuja occu
+pies Thnla S*nt is in Mesba and
+Cbandra in Makata or Kumbha, the
+person dies by falling in dirt or night
+soil If powerless Moon is In tbe ro'b
+Snn in the 7th and Mars is 'n the 4 h
+tbe person dies by falling tn>o dirty
+STANZA 9
+If powerful Mars aspects
+powerless Moon with Saturn in
+the 8th the person rites from
+worms or fire or instruments in
+treating of disease in secret |
+parts
+Mores.
+hsbma Chandra most be aspected by
+the powerful Ktjja and Saat mu»t oc
+copy the 8th bou«e from Then the
+man gets serious di*easeia the private 1
+pans lie may die by worms generating j
+there or by treatment of those parts by
+f re or Instruments
+Stanza 10
+If Raw occupies the 7th with
+Ivttji and Sint joins the 8th ind
+powerless Clnndra is in the 4th
+death comes by birds If Ktw,
+Kuji, Sim and Chandra ire in
+the ist jtb, 8th md rjth rcspec
+tively the person dies lij filling
+from the lops of a mountun or
+bv the fill of | tl . timing or wall
+Ravi and Knja must be in the 7th
+Sam in tbe 8tb, with powerless Cbandra
+in tbe 4th to produce tbe first form of
+I In the latter half of the stanza Ravi
+( must be in the Lagna Kuja in the 51b
+Sam in the 8th and Cbandra in tbe qth
+to produce tbe danger Ind cated there
+Death from b rds may mean that he
+may be killed by bird' or bis body
+| after death may be eaten by birds for
+want of a burial or cremation Bhatot
+pala however confoes tbe mein'ng to
+the tatter explanation
+Stanza 11
+The leirned in istrology mdt
+cite the 22nd Drehkinni 11 the
+ciu'c of death to the person
+The deitb nil) be caused by the
+minner ittributcd to the lord of
+this Drckkini or the lord of the
+Hist to which it belongs
+Notts
+The author tow gives eiplanatmn
+eh is n it aspected by planets and
+where none of the combinations named
+
+BRIHAT JATAKA
+$Tk'l\ I*
+The death will take in places
+similar to the Rasi occupied b>
+the lord of the Navamsa, in
+which birth falls Further details or specialities must be des
+cribed b> conjunctions and planetary aspects The time of
+death has to be identified by the
+and aspects of that Rasi most also he
+taken into considers! on The word
+Ai\ used m the original, further gwes
+scope m extending the meaning, to (be
+nature of (he Navamsa sign occupied
+by (be lord oj the Navamsaof the Lag
+na wh eh rises at Ihe birth fame Ha
+has thus enumerated four pontj for
+consideration
+(i) The nature of the Rasi occupied
+by the lord of the Mavamsa
+
+BRIHAT JATAKA.
+lpj to great mdignit'es, as if their departed spirits watch them and feel snch
+dcgrad'cg croelties. Tnere are various
+methods ; cremation, bunai, drowning,
+and exposure to atmn phere. The
+rising Drrthana m the 8.h house will he
+the aznd from the bulb, and if it falls m
+D a-hum Drehhaaa, the body wit! be
+cremated and turned to ashes. Dabasa
+drekkanas are toe divisions of evil
+planets. If the sand Drekkana happens
+to be a join {wate'y), the dead body will
+be thrown into waieiy places and
+there allowed to dissolve. The beneC
+cial drekkanas are termed jala drckka- j
+Snvav r +
+Guru, Chandra and Sukra,
+Rati and Kiya, and Sam and
+Quda bring people from De\aloLa, Pitruloka, Thiryaglokaand
+Naraka respectively. According
+to the position of the lot d of the
+Drekkana occupied by the most
+powerful of the Sun or the
+Moon, t\e hate to predict tin.
+high, middle or low state of the
+■nan in his previous birth, — ,
+
+BR1HAT JATAKA
+In the first poition of this verse, the
+meaning is not dear Find out who is
+the stronger of the two in a horoscope,
+in which Drekkana the stronger of
+these two is conjoined Then the man
+has come from that Loka or existence
+which is represen'cd by the lord of this
+If this Drekkana belongs to Guru
+predict that he is come from Devaloka
+If the Drekkana belongs to Chandra
+or Snkra he has come from Pitrnloka
+If the Drakkana is governed by
+Rav or Rnja, be comes from Tiryag
+If the Drekkana belongs to Bnda or
+Narakaloka vindicates that order of
+far 10 excess of tbe,r good actions have
+to take their turns of cosmic evolution
+Stsnza 15
+The Lord of the Drekkana of
+the 6th, or 8th, or the planet
+who occupies the 7th house indicates the state of man’s fu
+ture existance after death If
+Guru in exaltation occupies 6th,
+8th or any kendra, if Meena is
+Lagna cccupyirg beneficial Na
+vamsa and other planets than
+Guru are powerless the person
+attains Moksha
+where the rp tils of the dead are sup tlvej explains ia as standing for f*u
+po«ed to live (and), and supports ibis view from
+Tiiyif,lcki-repie«enls sn Inferior quotations from Laghu Jatkaof Varaha
+order e>f eat tcncc, waere men, in the mlbira where the idea i» fully expanded
+course ct oil careers cut balancing If Guru occupies 1,4 78 or ro from
+their {Cod aelicnr, art supposed 10 Jive Lagna and is 10 Kataka (his aalltalion)
+
+IJUIHAT JATAhA
+
+BRIHAT JATAKA
+and Saturn respectively If the
+hrst half of a Drekkana rises the
+first month of the Rathu must
+be predicted, and the day must
+be proportionately found out
+Notes
+tt or one month is represented by 300
+liptas Each month contains 30 days
+and therefore ea-h day gets to Liptas,
+and the patticular day will b“ round out
+by the using hpta at the time of ques
+Uon Take an illustration A person
+puts the question in the commencement
+
+fcfelHAf JATAKA
+
+BRIHA'T JATAKA
+chesbakae have expired Thus 261 -
+San occupies the i6lh degree of
+Tuula As the Sun rs m the 30%
+degree of S.mba at the time of
+Amavasya of the lunar month Kartika
+of the Moon must be made out
+by the most powerful among the
+Lagitn and thrikona or by the
+touching of the organs etc of
+the querist.
+Notis
+He gives here a different method to
+an, for the extent of Rasees applies to
+ihat place, see cb I st 19
+Stavxvj
+Soma sty that the lunar month has to be made out with rtfe
+rence to the position of tile Moon
+in thcNavamsa The position
+p*rson must be declared to have been
+born in the lunar month Kartika If
+Vnshabha or the first 6 Navamsaso!
+Milbuna, the month will be Margasua
+If Chandra la m the last three Navam
+sas of Mitbuna or the first five Na
+vamaas of hvtaka the man will be
+
+BRIHAT JATAKA 2$3
+boro in Pnsbya 2 f Chandra isic !fc e maybe fixed as AJesba The reader
+
+BRIHAT JATAKA.
+
+The Birth sign will he that bouse watch m the Lagna or that of the most
+the tisiB s Navamsa denotes Thus if powerful by chaynngula and
+the question u nc fails tuMesba when the divide tt bv twelve The rematnNavamsa el kataka uses then predict
+that the man was born when kaiaka
+was rising as Lagna Tots is easy
+enough Another method here suggested
+is a little complicated I" md out the n*ing
+Drelkana at the question time, and
+alsn the Drekkana where the Sun will
+be located, then count from the Lagna
+Drekkana to the Drekkana occupied b)
+the Sun at the lime of the query Take
+der denotes the number of the
+birth Lagna from Mesha or the
+btrth Lagna will be the 7th, 4th,
+10th or Lagna as the querist
+is sitting or lying down or rising
+or standing respectively
+Norrs
+He gives here two methods to find
+
+BRtHAT JATAKA
+Chapter XXVII
+Drekkana Adhyaya
+The first Drekkana of Mesha
+represents a man with a white
+cloth round his waist, dark complexion, pretending to protect,
+fearful red eyes and a lifted axe
+Notes
+Tbe-e are 12 signs in tbe zodiac and
+each sign is divided into 3 equal parts
+called a Drekkana Thus there are 36
+Drekkanas, whose individual influence 5 ,
+peculiarities and potencies are distinctly
+explained m this Chapter by Varaha
+mibira The uses for tlese Drekkanas
+are dearly stated 10 the commentaries
+of Bhatotpala under stan/a 36 of this
+ebapter Mars rules this drekkana , it is
+masculine and armed
+f he second Drekkana of Me
+sha is sketched by Yavanas as
+representing a woman with red
+cloth, fond of ornaments and
+food, pot belly , horse face,
+thirsty and single-footed
+Notes
+This 19 a quadruped Drekkana,
+unpunctplcd, with a lifted up
+stick, angry and covered with
+purple clothe 1
+Notes
+This is a masculine Drekkana armed
+and ruled by Jupner
+Stanza 4
+The first Drekkana of Vnshabha represents a woman with
+torn ringlets, pot belly, burnt
+cloth, thirsty , fond of food and
+ornaments
+Notes
+Tms represents a feminine Drefkaoa,
+fiery in nature and governed by Venus
+The hair will be in ringlets but partly
+torn and protruding belly resembling a
+Stanza 5
+The second Drekkana of Vris"
+habha represents a man possessing knowledge of lands, grains,
+houses, cows, arts ploughing and
+carts, hungry sheep faced, dirty
+clothes and shoulders like the
+hump of an ox
+Notes
+Arts include knowledge in music,
+drums, dancing, wiping, painting, etc
+face 1, that of a horse— a The third Drekkana of VnsSome say that this is a habha is represented by a man
+ird Drekkana. with a body like that of an
+Stanza 3 elephant, white teeth, legs like
+ird Drikk tna of Mesha that of sarabha, yellowish color,
+s a man, cruel, skilled and clever in capturing sheep
+ellowish, fond of work, and deer.
+
+BR1HAT JATAKA
+Sarabhair an anunal at which the I on
+is supposed to get frightened It has
+eight legs of great size and strength
+Deer is representable of wild animals
+Tuts is masculine, quadruped and ruled
+by Saturn Atnara Simha thus derives
+the wotdSatabba— Snnathi Simbam=
+‘ arabba cr that which ki'ls the In
+Refen
+> Mahabi
+s find
+barabha thus desc
+gocJiaraha —means that it has eight legs,
+eyes in the lop and '
+Probably this specit
+adorned, decked ruth gems,
+armoured with quiver and bow,
+skilled m dancing, drumming and
+arts, and poet
+Thu ;s a masculine ana armed Dee
+kkana ro ed by Saturn
+w Sri '' zk 10
+The first Drekkana of Kataka
+j represents a man, holding fruits
+roots and leates, elephant
+bodied, residing on sandal trees
+j in the forest, legs like that of
+I Sarabha, and horse necked
+The first Drekkana of Mithu
+na represents a female, fond of
+needle work, handsome, fond of
+ornamentation, issueless, lifted
+hands, and in menses
+JlOTSS
+The, is feminine and ruled by M«
+cur 3
+The second Drekkana of Mi
+thuna represents a man, living
+in garden, m armour, with a bow,
+warlike, armed with weapons
+face like that of Gaiuda, and
+fond of play, children, oma
+mentation and wealth
+Moths
+Gaiuda is the vehicle of Vishnu and
+“ represented as having a eng nose
+The thud Drekkana of
+Mithur.a represents a man,
+1 go rerued by th
+i J
+The second Drekkana of
+Kataka represents a female
+vv orshipped on the head by lotus
+flowers, with serpents, full blown
+youtbfulness, Imngm forests on
+the branch of pa/asa and crying
+The third Drekkana of Kataka
+represents a man covered with
+serpents, flat faced, and crossing
+the ocean in a boat in search of
+wife’s jewels
+The, is masculine and serpent Drek
+kana ruled by Jupiter
+Stavza 13
+The first Drekkana of Simha
+represents a vulture and a
+jackafon the Salrnah tree, a dog
+
+BRIHAT JATAKA.
+This is a masculine Drekkana ruled
+by Venus. Measuring here refers lo tie
+measure of grains etc The Yavanas
+Stwi so
+The middle Drekkana of
+Thula represents a man with a
+valture'sface, hungry and thirstv,
+holding a pot which is ready to
+fall and thinking of his wife and
+children
+Noras
+The last Drekkana of Thula,
+say the Yavanas, represents a
+man, decked with gems, wearing
+golden quiver and armour and
+frightening the animals in the
+widerness, resembling a monkey
+and holding in the hand fruits
+and flesh
+Fruits refer to Mangoes etc There
+The first Drekkana of Vrisphika represents a woman naked
+and without ornaments, coming
+from the middle of a great ocean
+to the shore, dislocated from her
+original place, the feet bound by
+serpents and handsome
+This is a feminise serpent Drekkana
+ru’ed by Marc
+Stanza S3
+The middle Drekkana of
+Vrischika represents a woman
+fond of home and happiness for
+tier husband's sake and covered
+py serpents with a body resemb
+ling -l tortoise and a pot
+Notes
+This is a feminine serpent Drekkana
+rilled by Jupiter
+I The last Drekkana of VnsI ctuka. represents a hon with a
+broad flat face resembling a
+tortoise, frightening dogs, deer,
+boars, and jackals, protecting
+localities covered with sandal-
+•o readings
+(i> Kancbana Xbuna Varrua
+Brit= fearing geld quiver and
+Drekkana ru'ed by Ihe Moon
+Stanza sy
+The first Drekkana of Dhanas
+represents a man with a human
+face and a horse's body with a
+bow in hand residing in a heimitage, protecting sacrificial
+articles and Maharishis
+
+BRIHAT JATAKA
+This is a mi'cnline, quadruped, anred
+Drekltana raled by Jupiter
+Stasis t6
+The middle Drekkana of
+Dhanas represents a ivoman,
+handsome, with the color of
+Clnmpacaor gold, picking up
+the gems from the ocean and
+sitting in the Bhadrasana
+fashion.
+family and is
+belongs to the MangoUa
+The first Drekkana of Makara
+represents a man covered with
+much hair, teeth like those of a
+crocodile, hody like that of a
+pig, keeping yokes, nets and
+bandages, and with a cruel face
+Bir.dages include ropes and chains
+This is a masculine, Nigala (chains or
+
+BRIHAT JATA KA 265
+Stanza 34.
+and food being brougbf to him,
+witli a I> amb; la, silk cloth and
+. deefskin and a .face resembling
+that of a vulture- £
+Notes,
+This IS a mas inline Thekkann, ruled
+by Sani t represents a man
+being sor.-oirful by oil?, food, wine etc
+being brought t> him, »ith Kambala
+(woollen doth) PallasJ, silk cloth, and
+Krishmjiia or deer-kin. The face
+resembles that of a vulture or
+Oridhra
+SrrkZA 32.
+. The second Orckkann ol Kumbha represents a woman', covered
+with a dirty c oth 111 aforeSf,
+bearing oots on her head and
+dragginj met ils in a burnt cart
+loaded with tottoii trees in it.
+Notes
+Tins is j fiery feminine Drckkana
+Stanza 33The first Drckkana of Meena
+represents a man decked with
+ornaments, holding in hand sacrificial vessels, pearls, gems," and
+conch shells and crossing the
+ocean in a boat in search of jewels for bis wife.
+AS the language is plain and simple in the translation notes have been
+I necessarily short, fhis'ts a masculine
+1 Drckkana governed by Jupiter, 1
+STAUZJk 85.
+Tilt second Drekkana of Meena indicates a woman nwith a
+color more beautiful than that
+of Cltampaka, surrounded by her
+attendants, and sailing in a boat
+decked with long flags in search
+of the coast of the ocean- ,
+The third Drekkana of ftunibhajindicates a man, dark, with
+ears covered with long hair, wearing a crown and wandering with
+pots filled with iron, skin, leaves
+gum and fruits
+This i
+by the k
+ful jellr
+Notes
+1 feminine Drckkana " ruled
+on. Champaka is a beaulistrongly scented flower,
+to Magnolia species
+.Stanza 86. '
+naseutine Drekkana ,
+The Third Drekkana of Meena
+represents a man crying in .a
+pit in a forest, naked and covered
+over his body by serpents and
+
+BRIHAT JATAKA
+with a mind distracted by thieves
+tion and by the lord of the I agna,
+the age and caste of the thieves hivO
+to be known and predicted' ,
+This IS a masculine serpent Drehka*
+na governed by \ ars.
+There are twelve signs and each
+sign has S Drekkanis or there are in
+all 38 Dreltkanas It has already been j
+explained in several places n
+body of this work, about the us
+these Dreltkanas I hey are s) ecially j
+fhe matter may be simplified thus
+when a question is put to an astrolo
+ger about the loss of an article by
+theft or otherwise he will make 'he
+and fix the Liz
+question,
+Drekkana,
+
+BRtHAT JATAKA
+known. II the Drekkana is good, he
+will have a prosperous journey, if .-it
+is evil or malefic he will suffer loss,
+and if it is very bad he will even die.
+The strength, position, conjunction j
+and aspects must be carefully consulted. Varaha Mihira.and his famous son ■
+Prutbuyasas seem to have confined
+travellers and their luck or ill luck on
+their journey . But their uses are more ;
+Comprenensure than has been stated
+here. When a person is born in a
+j ' CHAPTER XXVII i;
+Upasamhara Adhyaya.
+Concluding Chapter. .
+Stanza 1
+The first Chapter is Rasi Pralihcdii, (lie second Gr.ihayoni
+Bheda, the tlnrd Viyonijanraa
+the lorn tli Ntshakakala, the filth
+Janrna Vwht, the sixth Balarista,
+the seventh Ayurdaya, the eighth
+Dasa Vin.tka and 'the ninth IS
+
+BRIHVr JATAKA
+Notes
+the names of the Chapters he has
+composed
+Stanza J.
+The t venty first is Amst'iyoga,
+the tiverty second is btnjataka
+the twerty third is Niryana, the
+twenty fourth Nastajatoka and
+the twenty fifth is Drakkatia
+Thus in Hora sastra I liave com
+posed 26 chapters, and I am
+going to n me other chapters
+relating to yotra or travelling.
+Varaha Mih ra names only 24 chip
+ters whilt we have given 28 cha( ters
+in this wt rk In the siiteenth chip
+ter under/ Rastsila there have been
+div ded three chapters vn (1) Rook
+•ha $ila ( i ) Cha idra Rasi sila and
+(8) Rasi sila Thus two more chap
+ter« have been added by giving separate names b> somebody But Bhat- 1
+totpala concludes each of the 17th I
+and 18U chapters with his name
+Therefore we hive a good ant! only ]
+treatment of the subject into (1) re
+salts ol signs (2) resulli of signs otcu
+pied by the Moon and (3) results of
+Stanza 4
+' First Prasna Pnbhedn{2) riuthi Bala (d> Nakshatra Bhedam
+(4) Divasa Bala (5) Vara Bala (6)
+Vluhurtha (’) Chandra Bala (8>_
+Lagna Ntschaya (9) Lagna Blicda
+(i0) Graha Siddi (11) Apavadi
+(r2) Virmsn(jd) Tlianu Vepain
+Notes
+Varaha Mihira enumerates the
+names of chapters he lias written 1 1
+bis yatra work but it u very curious
+mgs ol chapters which go to form altogether a separate work dealing on
+to do with this book But the nature
+of the subjects have mlcr relations
+] and probably he gave his readers to
+understand that he haa written a s*pa
+rate bonk called Taira fatale and
+; the) most also read it in order to
+understand Brihat Jafjka well Or
+it may be that even if Yalra patala is
+I lost 1 y l he destructive hand ol I ime.
+spters It matters very little
+le nunber of chapters »ie
+e tame cl apter has been con
+p«ople|mmy know what its contents are
+Stanza 6
+(i/|) Worship of Guhyaka (ti)
+Snapna (i 6) Siniiu Vidlu 0 7 >
+j Gralia) agny.a <l8) Nirgama.
+
+BRIHAT JATAKA
+Stanza l >.
+(iM)Shairuna (20) Vivahafeala and
+(3i) Gralia karma* in this, way
+hai-e been, composed works in
+the three important branches of
+Jyotisha for the benefit of the
+famous Vikramaditya Kalidasa
+the adjective Khiyata f renown
+Varah* Mihira and to none
+building, carpentarr and the nature
+ol the material* to be collected for
+such purposes. His Brifcit SarahiU
+
+BRIHAT JATAKA
+Notes
+Here Vanha Milnra is plain >ml
+plump He pretends no originality.
+He takes no unnecessary o unw irran
+ted credit or pride to himself Th-re
+are many linportint works in the
+three extensive sections {Sknnda
+rhraya) oi Astrology nr— Mathematics or astronomy
+Hotoscopy or astrology and Sam
+hits or natural Phenomena
+Varalia Mihirs's great c edit lies in
+bringing, in a -malt compsss large
+ard comprehensive works of gr at
+difficulty and technical in nature He
+has eminently succeeded in his s m,
+“n 1 the literary world of al! nition is
+greatly obliged for his 1 ilv>u s and
+the ability which he brings to bear on
+his numerous productions, Leavi ig
+aside the great Maha Rishis who
+could not easily be approched in e e
+vation of intellect, or versatility, by
+any person he stands second to none
+among the numerous authors on as
+tiologiea! literature for the ability, fa
+cihty capacity, and easy flow ot st le
+in fits works. Though he nourished
+4000 years ago, and w u honored by
+Viltramaditya one of Ihe greatest Sovereigns of the world, who patroms-d
+hteratute sciences and arts in India
+his name Is now as familiar, and as
+honored st that ol any other author
+ancient or modern. He it candid in
+his opinion and excells generally in
+the brevity of exprefsion rlftch i« the
+soul of all literary competitions
+He has given the suggi stive ideas
+with a view to simplify matters and
+en ourage their easv study. By read*
+ing his works Varaha Mi lira rightly
+says that the human intellect will be
+sharpened and much usifut knowledge will be acquired. He requells
+the learned men to excuse him if in
+ancient works any errors may have
+unwittingly ciept into them. Here
+there is a double signification First
+the fact that errors creep into works
+composed by great men and second
+that humility and not pnde should
+mark the conclusion of a learned work
+STANZA 8
+If the jvork suffers in its travel
+and copyings the reader must
+set the errors right by referring
+them to the most learrtd They
+must also correct any errors,
+winch I may have committed,
+by my neglegeoce, or by misapprehension ol the originals
+without envey or mean jealousy
+\i time advances, good works in
+suffer a great deal at the bands ol
+the Ignorant copjis s and the careless
+
+| troys the worlds and irhtch embodies
+/the three characteristic* of Brahma
+Variha Mihira the sor of j Vjshim and UiSesttara and which
+Adlli a D.isn who imbih"(l | l|5 j 15 the reprereotJliijn of all terrestrial
+know ledeh From h.sf a tl,-r , Jl " d «l«tul knowledge The father
+aFI branches o r knowledge, b,
+- 1 dared b> Varsha Mihira himself Wo
+- - rn j have seen the capability* and gem
+n Kapitha, a town in the country j-ns of the author and the high pro
+of Avantica having carefully j fictencj he has exhibited in hi* va]u
+
+BRtHAT JATAKA
+gence and Infinite Wisdom whose visible manifestation is the glorious Sun
+and whose dmne energy alone can^
+give capacity and life for writers to |
+finish their works whether, originals
+The astrological (Ingram for
+the time at which J, Bangalore
+burs auarayana liao, finished the
+notes on Brih t tjataka of Vara
+ha Mthira with the help ot the
+invaluable commentaries of Bliatotpila isgaeti here for reference
+and stud}
+Vihrnma Saka I»7t
+Sails .liana Saha 1639
+Cyclic >earPing,l.
+Solar mop’li Vrnliabha t9th dry
+bright hall
+Christian I'ra 1st June 1917.
+FriJj) i'< the conslelMion Untta
+(Hit ) at 14‘. alter lu O dock
+Navamsa
+Diagram
+As the constellation chitta ruled at
+the tune, the I crioJ of Mars rules
+and there Is a balance of & years, ll
+mouthsand 22^da>s. The lord of
+the Launa ( ascendant) is the Sun «nd
+he is in the lOtli home with the bene*
+fie Guru w ho own the Stli, 1 lie
+lord of llie 12th Vraya occupies the
+Hud and is aspected by Guru and
+bai i S ikra lord ol 3rd anil lOtli is
+I in the llth with Kelhii the lords of
+Lahha (Gains) and Bh igya (9th u di>
+I eating wealth) IJncf < and Jsuji ore in
+' the vlh and the Jtuli or hsry&’fctliniu
+is hvinmid In by tno benches Sulira
+amt tludha in 1 1 . c 2nd mid t.lhhuoscs
+icipecmel). lkiul s, the occu|atlou
+ot the Dili, luth and llth houses fiom
+Lagiu by 1 Kuja and Uuda, Uasl amt
+Go tu and bull* and belli w, ts good
+ami I antic!) ale tha| II esc nctes ot
+
+m
+BRIHAT JATAKA
+m sanskrjt I lnd no high opimoi , Education it service My eldest son
+for English astrological publications Nanjunda Row assists me in my office
+and never cared to read them. My work, and l have now one grand son
+first work in Astrology in a diglet firm **nd two grand daughters God has
+English and Kannada appeared in been pleased to phee me above want
+1*12, and it sold well My Collegiate and though my earning-, are great
+studies 'give me no leisure to attend my expenses have notb<en small I
+
+BIUHAT JATAKA
+Oeen remarkably fulfilled. My predactioi about the present great Anglo'
+German war, six months betoie it
+happened, in my Astrological Magazine has raised ray reputation high and
+my works and iectnrei have always
+been'appreciated and recognised b;
+the/rducated public l am nrvr in
+my Guru- Data and Sukra Bhnkti and
+hope to pull through it "and a portion
+of Smi, throiagn God’s grace 1 have
+oeen leading a religious hie in this
+Ige ol false allurements, o( false
+civilisation, and have felt strongly ia
+my innermost heart that God protects
+all those trfeo entirely p'ace their confidence an Hi an and any own independent life as a great illustration ol that
+gieat principle which lays down complete devotion to God and honest and
+sincere life under His'able and Omnipotent guidance. May be shower
+His blessings on all and make the
+world happy and cheerful have been
+my earnest daily prayers.
+THE END-

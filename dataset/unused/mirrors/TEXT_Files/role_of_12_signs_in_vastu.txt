@@ -1,0 +1,97 @@
+READABLE DATASET
+================================================================================
+Original file: role_of_12_signs_in_vastu.json
+Dataset number: 334 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 2,864 bytes
+Top-level fields: 11
+Title: Role of 12 Signs in Vastu
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Role of 12 Signs in Vastu
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Jataka Parijata XML
+  • total_pages: 2
+  • total_words: 397
+  • text_quality:
+    • ocr_word_validity_score: 0.982
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Role of 12 Signs in Vastu
+By: Jitender Kumar
+(Astrological Researches Group)
+Date: June 28, 2015
+Note: "This whole article is for each Sign's role in general Vastu only in correlation
+with Horoscope, which is topic of further research".
+Vastu very closely co-relates with Horoscope. "Directions" in Vastu corresponds
+through Different Houses/Signs in Horoscope. Planets act as catalyst to activate/
+deactivate different Events. In previous posts, I shared views for Taurus and Leo
+Signs. In this post, I will try to summarize all 12 Signs in respect of Vastu. In BPHS
+and Jataka Parijata and other classical texts, characteristics of each Sign have
+been quoted there. Following are some of the characteristics of 12 Signs:
+Table: Sign and characteristics
+Sign
+Characteristics
+1. Aries:
+Resides in East, Related to Kings, Wanders in Hills.
+Aries Sign is also known as Surface of Earth which contains
+minerals and Gemstones.
+2. Taurus:
+Resides in South, Villages, and Businessmen, Earthy.
+Taurus governs Land, Farms (Agriculture land), Cow station
+(Goushala) and Forests.
+3. Gemini:
+Resides in West, Villages, Windy.
+Gambling house and pleasure hunts like Garden or Park
+etc.
+4. Cancer:
+Resides in North, Resorts to Forests.
+Water resource like Pond, Lake or Sand bank in midst of
+Water.
+
+5. Leo:
+Resides in East, Resorts to Forests.
+Deep mountain caves and forests.
+6. Virgo:
+Resides in South, Hill resorter, Business community.
+Earthy, pleasure of a Woman.
+Pasture Land or pleasure room of a woman.
+7. Libra:
+Resides in West, Resorts of Land, Mischievous.
+Bazar of a city abounding in all kind of valuable things.
+8. Scorpio:
+Resides in North, Resides in Holes, Resorts to Water and
+earth (Land).
+The lair consists of a region abounding in flint or holes of
+noxious reptiles.
+9. Sagittarius:
+Resides in East, Resorts of Land.
+The Camp or Barracks containing Horses, Chariots and
+Elephants.
+10. Capricorn:
+Resides in South, Resorts to both Land and Forests, Earthy.
+River or Water abounding region.
+11. Aquarius:
+Resides in West, Resorts to Deep Water.
+Water pot and receptacles of vessels in a house.
+12. Pisces:
+Resides in North, Resorts in Water.
+River or Sea.
+Moon and Venus are known as watery Planet, Mercury and Jupiter are known as
+water resorters, Sun, Mars and Saturn are known as Waterless.
+Researcher can further explore these views in respect of Vastu and their impact
+on nature of: Residence, Business, Living style etc.
+To be Conti....

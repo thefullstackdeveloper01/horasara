@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "202__graha_states_json",
+    "name": "graha_states",
+    "original_file": "graha_states.json",
+    "dataset_number": "132 of 455",
+    "format": "json",
+    "source_readable_file": "graha_states.txt",
+    "source_sha256": "887bc50f4fb90d71714a4664bc5f5862a95de763738e0b5284bdec69cca275f9",
+    "source_bytes": 638
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "COMBUSTION_ORBS": {
+        "Moon": 12,
+        "Mars": 17,
+        "Mercury": 14,
+        "Jupiter": 11,
+        "Venus": 10,
+        "Saturn": 15
+      },
+      "HELIACAL_LIMITS": {
+        "Moon": 8,
+        "Mars": 14.5,
+        "Mercury": 18,
+        "Jupiter": 10,
+        "Venus": 9,
+        "Saturn": 13
+      },
+      "CAZIMI_ORB": 0.2833,
+      "GRAHA_YUDDHA_ORB": 1
+    }
+  }
+}

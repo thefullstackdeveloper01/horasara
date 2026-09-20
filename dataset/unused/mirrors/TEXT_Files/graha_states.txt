@@ -1,0 +1,27 @@
+READABLE DATASET
+================================================================================
+Original file: graha_states.json
+Dataset number: 132 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 316 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• COMBUSTION_ORBS:
+  • Moon: 12
+  • Mars: 17
+  • Mercury: 14
+  • Jupiter: 11
+  • Venus: 10
+  • Saturn: 15
+• HELIACAL_LIMITS:
+  • Moon: 8
+  • Mars: 14.5
+  • Mercury: 18
+  • Jupiter: 10
+  • Venus: 9
+  • Saturn: 13
+• CAZIMI_ORB: 0.2833
+• GRAHA_YUDDHA_ORB: 1

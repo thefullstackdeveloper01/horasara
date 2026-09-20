@@ -1,0 +1,212 @@
+READABLE DATASET
+================================================================================
+Original file: magazines_jyotish_vedic_astrology.json
+Dataset number: 266 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 5,406 bytes
+Top-level fields: 11
+Title: Magazines_Jyotish-Vedic astrology_
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Magazines_Jyotish-Vedic astrology_
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: classifiedbytopicscontents
+  • total_pages: 5
+  • total_words: 676
+  • text_quality:
+    • ocr_word_validity_score: —
+    • quality_tier: not_a_book_index_list
+    • note: This file does not contain scripture/book text. It is a personal cloud-drive folder listing (PDF filenames and pcloud.com links) that was mistakenly catalogued as a book. Recommend excluding from the book library or re-filing under a different content type.
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Magazines_Jyotish-Vedic astrology link;
+https://my.pcloud.com/publink/show?code=kZybvLkZlkXldmlB7luGfdm0sAAjAkPp8MHV
+root folder; https://my.pcloud.com/publink/show?code=kZ3NcW7Z9Np4EUHYYR8KAibwo1 NqcSmJjODV
+ACVA American Concil Vedic Astro
+acvajournalvol.8_2003.pdf
+a,
+acva journal_1999 _stars 15 to 18_buy kindle_.pdf
+ACVA_Brochure-curiculum.pdf
+A
+zZ
+T
+AIAC magazines
+A Commentary on Purusha Suktam.pdf
+A Comparative Study of BSP vs BCP.pdf
+A Look Ahead Into 2012 CE Part II. pdf
+A Look at Maharshi Bhrigu Methodology.pdf
+A Look at the Varnada Calculation.pdf
+A Look Into Maharshi Bhrigu s Easy Methodology.pdf
+A Look Into Planetary Death Places 1&2.pdf
+A Look into Pranapada Lagna 1&2.pdf
+A Particle Which Belongs to the Gods.pdf
+A Square lssue.pdf
+AIAC Times Vol.1-8.pdf
+AIAC Times Vol.10.pdf
+AIAC Times VoL3.pdf
+AIAC Times VoL9.pdf
+All About Children.pdf
+Hi
+•r
+Z
+T\
+T
+A
+T
+An Eclipse of the Sun by Venus.pdf
+Ti
+T
+Basic Chart Reading Skills.pdf
+Comparative Study BSP vs BCP.pdf
+Life of Sages.pdf
+Mustache Connection.pdf
+Panchang Analysis Dick Cheney.pdf
+Panchang Analysis James Randi.pdf
+panchang Children.pdf
+Perceptions of the Mind Journey of the Soul.pdf
+Search for the Historical Parasara.pdf
+Whats in a Symbol.pdf
+AIFAS-Research-Journal
+T
+AIFAS Research Journal 2004.pdf
+AIFAS Research Journal 2005.pdf
+■rm,
+AIFAS Research Journal 2006.pdf
+a.
+AIFAS Research Journal 2007.pdf
+AIFAS Research Journal 2008.pdf
+
+Magazines Jyotish-Vedic astrology
+File Listing
+Page 2
+Name
+Size
+AIFAS Research Journal 2009.pdf
+AIFAS Research Journal 2010.pdf
+AIFAS Research Journal 2011.pdf
+AIFAS Research Journal 2012.pdf
+AIFAS Research Journal 201 3.pdf
+AIFAS Research Journal 2014.pdf
+AIFAS Research Journal 201 5_ 01 to 03_.pdf
+ASTROLOGICAL NEWSLETTER devotees
+Us
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+The astrologica
+newsletter_lssue_01 a_201 0.pdf
+newsletter_lssue_01 b_201 0.pdf
+newsletter_lssue_02_201 0.pdf
+newsletter_lssue_03_201 0.pdf
+newsletter_lssue_04_201 0.pdf
+newsletter_lssue_05_201 0.pdf
+newsletter_lssue_06_201 0.pdf
+newsletter_lssue_07_201 0.pdf
+newsletter_lssue_08_201 0.pdf
+newsletter_lssue_09_201 0.pdf
+newsletter_lssue_1 1_201 0.pdf
+newsletter_lssue_1 2_201 0.pdf
+newsletter_lssue_1 3_201 0.pdf
+newsletter_lssue_14_2010.pdf
+newsletter_lssue_1 5_201 0.pdf
+newsletter_lssue_1 6_201 0.pdf
+newsletter_lssue_1 7_201 0.pdf
+newsletter_lssue_1 8_201 1 .pdf
+newsletter_lssue_1 9_201 1 .pdf
+newsletter_lssue_20_201 1 .pdf
+newsletter_lssue_21_201 1 .pdf
+newsletter_lssue_22_201 1 .pdf
+newsletter_lssue_23_201 1 .pdf
+newsletter_lssue_24_201 1 .pdf
+newsletter_lssue_25_201 1 .pdf
+newsletter_lssue_26_201 2.pdf
+newsletter_lssue_27_201 2.pdf
+newsletter_lssue_28_201 2.pdf
+newsletter_lssue_29_201 2.pdf
+
+Magazines Jyotish-Vedic astrology
+File Listing
+Page 3
+
+Magazines Jyotish-Vedic astrology
+File Listing
+Page 4
+Name
+Kapiel Raj
+Jyotish_astrology krs_emagazine_edition 1_Kapiel Raaj.pdf
+People's Astrological Magazine_by Jaganadha RamaSastry Karra_started in 2015
+Peoples Astrological Magazine_2015Q1.pdf
+Peoples Astrological Magazine_2015Q2.pdf
+Peoples Astrological Magazine_2015Q3.pdf
+Peoples Astrological Magazine_2015Q4.pdf
+Raman_Gayatri devi
+Astrological magazine-Raman_magster till 26-1 0-201 6_elmedia player
+1942_The Astrological Magazine.pdf
+1953_The Astrological Magazine.pdf
+1959_The Astrological Magazine.pdf
+1983_The Astrological Magazinejul._dec.pdf
+2010-bad issues- jan-feb do not exist_ redownload
+03_cropped new2.pdf
+04_cropped new2.pdf
+05 copy_cropped new2.pdf
+2016_The Astrological Magazine_12 issues.pdf
+201 7_paid till 26-11-201 7_to download
+1 to 10.pdf
+magster automatic payment of $7.99 USD_26-11-2016.pdf
+magster automatic payment of $7.99 USD_26-1 1-201 6.rtf
+missing issues-google
+Astrological Magazinel .webarchive
+Astrological Magazine2.webarchive
+Astrological Magazine3.webarchive
+Astrological Magazine4.webarchive
+Astrological Magazine5.webarchive
+registration-download.pdf
+registration-download.rtf
+reorder, webarchive
+Modern astrology_discontinued
+Modern astrology_Gayatri dev
+Modern astrology_Gayatri dev
+Modern astrology_Gayatri dev
+Modern astrology_Gayatri dev
+Modern astrology_Gayatri dev
+Size
+
+Magazines Jyotish-Vedic astrology
+File Listing
+Page 5

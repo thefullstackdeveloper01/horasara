@@ -1,0 +1,16 @@
+[
+  {
+    "id": "nyoga_001",
+    "name": "Vishkambha",
+    "ruler": "Sun",
+    "interpretation": "Firm determination. Good for overcoming enemies and competitive tasks.",
+    "auspicious": true
+  },
+  {
+    "id": "nyoga_002",
+    "name": "Vydhati",
+    "ruler": "Mars",
+    "interpretation": "Causes destruction, loss of wealth, and accidents. Avoided for auspicious activities.",
+    "auspicious": false
+  }
+]

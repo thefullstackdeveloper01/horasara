@@ -1,0 +1,24 @@
+READABLE DATASET
+================================================================================
+Original file: westernChart.json
+Dataset number: 444 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 328 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• WESTERN_SIGN_RULERS_MODERN:
+  • Aries: Mars
+  • Taurus: Venus
+  • Gemini: Mercury
+  • Cancer: Moon
+  • Leo: Sun
+  • Virgo: Mercury
+  • Libra: Venus
+  • Scorpio: Pluto
+  • Sagittarius: Jupiter
+  • Capricorn: Saturn
+  • Aquarius: Uranus
+  • Pisces: Neptune

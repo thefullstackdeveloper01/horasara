@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "247__kalachakra_json",
+    "name": "kalachakra",
+    "original_file": "kalachakra.json",
+    "dataset_number": "246 of 455",
+    "format": "json",
+    "source_readable_file": "kalachakra.txt",
+    "source_sha256": "3532b2b49f5949c4bdf84aa65883fc73d629f2d63c95ffb92c23be9f0160f9e9",
+    "source_bytes": 5164
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "SYSTEM_INFO": {
+        "Name": "Kalachakra Dasha",
+        "Type": "Rashi Dasha (Sign-based)",
+        "Total_Years": 118,
+        "Base_Calculation": "Moon's position in the Navamsa (D9) chart",
+        "Description": "Kalachakra Dasha is a unique sign-based Dasha system in Vedic Astrology. It translates to the 'Wheel of Time' and is calculated based on the Navamsa position of the Moon. Unlike planetary dashas, the periods are assigned to the 12 zodiac signs, each ruling a specific number of years. The sequence of dashas depends on whether the Moon's Navamsa falls in a Savya (forward/clockwise) or Apasavya (backward/anti-clockwise) group."
+      },
+      "SIGN_DASHA_YEARS": {
+        "Aries": 7,
+        "Taurus": 16,
+        "Gemini": 9,
+        "Cancer": 21,
+        "Leo": 5,
+        "Virgo": 9,
+        "Libra": 16,
+        "Scorpio": 7,
+        "Sagittarius": 10,
+        "Capricorn": 4,
+        "Aquarius": 4,
+        "Pisces": 10
+      },
+      "SAVYA_SEQUENCE": {
+        "_items": [
+          {
+            "_text": [
+              "Aries"
+            ]
+          },
+          {
+            "_text": [
+              "Taurus"
+            ]
+          },
+          {
+            "_text": [
+              "Gemini"
+            ]
+          },
+          {
+            "_text": [
+              "Cancer"
+            ]
+          },
+          {
+            "_text": [
+              "Leo"
+            ]
+          },
+          {
+            "_text": [
+              "Virgo"
+            ]
+          },
+          {
+            "_text": [
+              "Libra"
+            ]
+          },
+          {
+            "_text": [
+              "Scorpio"
+            ]
+          },
+          {
+            "_text": [
+              "Sagittarius"
+            ]
+          },
+          {
+            "_text": [
+              "Capricorn"
+            ]
+          },
+          {
+            "_text": [
+              "Aquarius"
+            ]
+          },
+          {
+            "_text": [
+              "Pisces"
+            ]
+          }
+        ]
+      },
+      "APASAVYA_SEQUENCE": {
+        "_items": [
+          {
+            "_text": [
+              "Scorpio"
+            ]
+          },
+          {
+            "_text": [
+              "Libra"
+            ]
+          },
+          {
+            "_text": [
+              "Virgo"
+            ]
+          },
+          {
+            "_text": [
+              "Leo"
+            ]
+          },
+          {
+            "_text": [
+              "Cancer"
+            ]
+          },
+          {
+            "_text": [
+              "Gemini"
+            ]
+          },
+          {
+            "_text": [
+              "Taurus"
+            ]
+          },
+          {
+            "_text": [
+              "Aries"
+            ]
+          },
+          {
+            "_text": [
+              "Pisces"
+            ]
+          },
+          {
+            "_text": [
+              "Aquarius"
+            ]
+          },
+          {
+            "_text": [
+              "Capricorn"
+            ]
+          },
+          {
+            "_text": [
+              "Sagittarius"
+            ]
+          }
+        ]
+      },
+      "NAVAMSA_CLASSIFICATION": {
+        "Description": "The 36 Navamsas (9 per sign x 12 signs) are divided into 9 groups of 4 Navamsas each. Groups alternate between Savya and Apasavya.",
+        "Sequence_1": {
+          "Navamsas": "1 to 4 (Aries Navamsa 1 to Cancer Navamsa 1)",
+          "Type": "Savya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Aries"
+                ]
+              },
+              {
+                "_text": [
+                  "Taurus"
+                ]
+              },
+              {
+                "_text": [
+                  "Gemini"
+                ]
+              },
+              {
+                "_text": [
+                  "Cancer"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_2": {
+          "Navamsas": "5 to 8 (Leo Navamsa 1 to Scorpio Navamsa 1)",
+          "Type": "Apasavya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Scorpio"
+                ]
+              },
+              {
+                "_text": [
+                  "Libra"
+                ]
+              },
+              {
+                "_text": [
+                  "Virgo"
+                ]
+              },
+              {
+                "_text": [
+                  "Leo"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_3": {
+          "Navamsas": "9 to 12 (Sagittarius Navamsa 1 to Pisces Navamsa 1)",
+          "Type": "Savya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Sagittarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Capricorn"
+                ]
+              },
+              {
+                "_text": [
+                  "Aquarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Pisces"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_4": {
+          "Navamsas": "13 to 16 (Aries Navamsa 2 to Cancer Navamsa 2)",
+          "Type": "Apasavya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Cancer"
+                ]
+              },
+              {
+                "_text": [
+                  "Gemini"
+                ]
+              },
+              {
+                "_text": [
+                  "Taurus"
+                ]
+              },
+              {
+                "_text": [
+                  "Aries"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_5": {
+          "Navamsas": "17 to 20 (Leo Navamsa 2 to Scorpio Navamsa 2)",
+          "Type": "Savya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Leo"
+                ]
+              },
+              {
+                "_text": [
+                  "Virgo"
+                ]
+              },
+              {
+                "_text": [
+                  "Libra"
+                ]
+              },
+              {
+                "_text": [
+                  "Scorpio"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_6": {
+          "Navamsas": "21 to 24 (Sagittarius Navamsa 2 to Pisces Navamsa 2)",
+          "Type": "Apasavya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Pisces"
+                ]
+              },
+              {
+                "_text": [
+                  "Aquarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Capricorn"
+                ]
+              },
+              {
+                "_text": [
+                  "Sagittarius"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_7": {
+          "Navamsas": "25 to 28 (Aries Navamsa 3 to Cancer Navamsa 3)",
+          "Type": "Savya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Aries"
+                ]
+              },
+              {
+                "_text": [
+                  "Taurus"
+                ]
+              },
+              {
+                "_text": [
+                  "Gemini"
+                ]
+              },
+              {
+                "_text": [
+                  "Cancer"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_8": {
+          "Navamsas": "29 to 32 (Leo Navamsa 3 to Scorpio Navamsa 3)",
+          "Type": "Apasavya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Scorpio"
+                ]
+              },
+              {
+                "_text": [
+                  "Libra"
+                ]
+              },
+              {
+                "_text": [
+                  "Virgo"
+                ]
+              },
+              {
+                "_text": [
+                  "Leo"
+                ]
+              }
+            ]
+          }
+        },
+        "Sequence_9": {
+          "Navamsas": "33 to 36 (Sagittarius Navamsa 3 to Pisces Navamsa 3)",
+          "Type": "Savya",
+          "Cycle": {
+            "_items": [
+              {
+                "_text": [
+                  "Sagittarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Capricorn"
+                ]
+              },
+              {
+                "_text": [
+                  "Aquarius"
+                ]
+              },
+              {
+                "_text": [
+                  "Pisces"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "CALCULATION_RULES": {
+        "Step_1": "Find the exact longitude of the Moon in the birth chart.",
+        "Step_2": "Determine which Navamsa the Moon falls into (1st to 36th).",
+        "Step_3": "Identify if the Moon's Navamsa belongs to a Savya (forward) or Apasavya (backward) sequence group.",
+        "Step_4": "Identify the specific sign within that 4-sign cycle where the Moon is placed. This sign becomes the first Mahadasha.",
+        "Step_5": "Calculate the exact balance of Dasha at birth. The elapsed portion of the Navamsa determines how much of the first sign's Dasha has passed."
+      },
+      "SUB_PERIOD_RULES": {
+        "Antardasha": "The Antardasha sequence follows the same direction (Savya or Apasavya) as the Mahadasha.",
+        "Antardasha_Duration": "(Mahadasha Sign Years * Antardasha Sign Years) / 118",
+        "Pratyantardasha": "Follows the same directional sequence. Duration is proportional to the Antardasha."
+      },
+      "INTERPRETATION_GUIDELINES": {
+        "Sign_As_House": "In Kalachakra, the active sign acts like a temporary Ascendant (Lagna) for the duration of its Dasha. The natal planets are interpreted relative to this temporary ascendant.",
+        "Savya_Periods": "Generally considered more favorable, growth-oriented, and aligned with natural progression.",
+        "Apasavya_Periods": "Often associated with reversals, internal reflection, unexpected events, or karmic undoing. Results may feel contrary to natural expectations."
+      }
+    }
+  }
+}

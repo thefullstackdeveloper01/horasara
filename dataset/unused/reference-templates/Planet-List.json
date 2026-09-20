@@ -1,0 +1,24 @@
+[
+  {
+    "id": "planet_001",
+    "name": "Sun",
+    "hindi_name": "Surya",
+    "gender": "Male",
+    "nature": "Severe/Cruel (Kroor)",
+    "primary_signification": "Soul, Father, Government, Vitality",
+    "secondary_signification": "Eyes, Heart, Bones",
+    "exaltation_sign": "Aries (Maximum degree: 10°)",
+    "debilitation_sign": "Libra (Maximum degree: 10°)",
+    "own_sign": "Leo",
+    "mooltrikona_sign": "Leo (0° to 20°)",
+    "gemstone": "Ruby",
+    "color": "Saffron / Red",
+    "direction": "East",
+    "friends": ["Moon", "Mars", "Jupiter"],
+    "enemies": ["Venus", "Saturn"],
+    "neutrals": ["Mercury"],
+    "element": "Fire",
+    "default_dasha_years": 6,
+    "associated_deity": "Agni / Lord Shiva"
+  }
+]

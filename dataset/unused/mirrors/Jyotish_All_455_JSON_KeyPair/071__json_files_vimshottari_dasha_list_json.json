@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "071__json_files_vimshottari_dasha_list_json",
+    "name": "JSON_Files_Vimshottari-Dasha-List",
+    "original_file": "JSON_Files/Vimshottari-Dasha-List.json",
+    "dataset_number": "219 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Vimshottari-Dasha-List.txt",
+    "source_sha256": "3d531f3a727e92b75648b3a7780e78c9474f34c454ca098347df811618ef898e",
+    "source_bytes": 488
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "planet": "Ketu",
+        "years": 7,
+        "sequence": 1
+      },
+      {
+        "planet": "Venus",
+        "years": 20,
+        "sequence": 2
+      },
+      {
+        "planet": "Sun",
+        "years": 6,
+        "sequence": 3
+      },
+      {
+        "planet": "Moon",
+        "years": 10,
+        "sequence": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "currency": "INR",
+  "delivery": {
+    "frequency": "daily",
+    "hour": 7,
+    "minute": 0,
+    "timezoneRule": "subscriber-local"
+  },
+  "plans": [
+    {
+      "id": "monthly",
+      "label": "Monthly HoraSaar Subscription",
+      "billingPeriod": "monthly",
+      "amountInr": 499,
+      "description": "Daily selected astrology report delivered every day at 7:00 AM local time."
+    },
+    {
+      "id": "yearly",
+      "label": "Yearly HoraSaar Subscription",
+      "billingPeriod": "yearly",
+      "amountInr": 4999,
+      "description": "Daily selected astrology report delivered every day at 7:00 AM local time."
+    }
+  ]
+}

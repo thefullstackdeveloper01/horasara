@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "045__json_files_papa_kartari_yoga_list_json",
+    "name": "JSON_Files_Papa-Kartari-Yoga-List",
+    "original_file": "JSON_Files/Papa-Kartari-Yoga-List.json",
+    "dataset_number": "193 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Papa-Kartari-Yoga-List.txt",
+    "source_sha256": "e11198896b9826b6fca8079c4b86520e51f389722bcde99cbd9339e731cc7820",
+    "source_bytes": 597
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Papa Kartari",
+        "formed_by": "A planet hemmed between two malefics (e.g., Sun-Mars on one side, Saturn-Rahu on other)",
+        "effects": "Suffocation in the significations of that planet/house."
+      }
+    ]
+  }
+}

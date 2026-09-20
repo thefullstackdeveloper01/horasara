@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "frequencies": {
+    "daily": {
+      "label": "Daily",
+      "purpose": "Current-day orientation, transits, active dasha, selected yogas/doshas and remedies."
+    },
+    "weekly": {
+      "label": "Weekly",
+      "purpose": "7-day trend with timing and activation context."
+    },
+    "monthly": {
+      "label": "Monthly",
+      "purpose": "Month-level forecast, dasha/transit synthesis and action guidance."
+    },
+    "yearly": {
+      "label": "Yearly",
+      "purpose": "Year-level cycle, Varshaphal/forecast context and long-horizon guidance."
+    }
+  },
+  "topics": [
+    {
+      "id": "overview",
+      "label": "Overview & insights"
+    },
+    {
+      "id": "transits",
+      "label": "Gochar & timing"
+    },
+    {
+      "id": "dasha",
+      "label": "Dasha"
+    },
+    {
+      "id": "yogas",
+      "label": "Yogas"
+    },
+    {
+      "id": "doshas",
+      "label": "Doshas"
+    },
+    {
+      "id": "remedies",
+      "label": "Remedies"
+    }
+  ],
+  "channels": [
+    {
+      "id": "email",
+      "label": "Email"
+    },
+    {
+      "id": "sms",
+      "label": "Mobile SMS"
+    }
+  ],
+  "chartStyles": [
+    {
+      "id": "both",
+      "label": "North + South Indian"
+    },
+    {
+      "id": "north",
+      "label": "North Indian"
+    },
+    {
+      "id": "south",
+      "label": "South Indian"
+    }
+  ]
+}

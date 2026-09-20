@@ -1,0 +1,68 @@
+READABLE DATASET
+================================================================================
+Original file: vimshottari.json
+Dataset number: 438 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 419 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• NAK_LORDS:
+  1.
+    Ketu
+  2.
+    Venus
+  3.
+    Sun
+  4.
+    Moon
+  5.
+    Mars
+  6.
+    Rahu
+  7.
+    Jupiter
+  8.
+    Saturn
+  9.
+    Mercury
+  10.
+    Ketu
+  11.
+    Venus
+  12.
+    Sun
+  13.
+    Moon
+  14.
+    Mars
+  15.
+    Rahu
+  16.
+    Jupiter
+  17.
+    Saturn
+  18.
+    Mercury
+  19.
+    Ketu
+  20.
+    Venus
+  21.
+    Sun
+  22.
+    Moon
+  23.
+    Mars
+  24.
+    Rahu
+  25.
+    Jupiter
+  26.
+    Saturn
+  27.
+    Mercury
+• TOTAL_YEARS: 120
+• JULIAN_YEAR: 365.25

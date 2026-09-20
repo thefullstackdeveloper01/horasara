@@ -1,0 +1,29 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Health-Disease-List.json
+Dataset number: 176 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 221 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • planet: Sun
+  • body_part: Heart, Eyes, Bones
+  • diseases:
+    1.
+      Heart attack
+    2.
+      Vision loss
+    3.
+      Headache
+2.
+  • planet: Jupiter
+  • body_part: Liver, Pancreas, Thighs
+  • diseases:
+    1.
+      Diabetes
+    2.
+      Jaundice

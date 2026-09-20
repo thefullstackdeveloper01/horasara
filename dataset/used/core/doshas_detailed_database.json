@@ -1,0 +1,496 @@
+{
+  "doshas_database": {
+    "metadata": {
+      "version": "1.0",
+      "last_updated": "2024",
+      "description": "Complete database of major doshas in Vedic astrology with rules and remedies",
+      "language": "Hindi/English",
+      "source": "Vedic Astrology Classical Texts"
+    },
+    
+    "manglik_dosha": {
+      "dosha_name": "Manglik Dosha (मांगलिक दोष)",
+      "also_known_as": ["Kuja Dosha", "Mangal Dosha", "Chevvai Dosham"],
+      "planet_involved": "Mars (Mangal)",
+      "description": "Manglik Dosha occurs when Mars is placed in certain houses of the birth chart, affecting marital harmony and potentially causing delays or obstacles in marriage.",
+      
+      "rules": {
+        "houses_causing_dosha": {
+          "primary_houses": [1, 2, 4, 7, 8, 12],
+          "from_lagna": true,
+          "from_moon": true,
+          "from_venus": true,
+          "note": "Dosha considered from Lagna, Moon, and Venus in descending order of importance"
+        },
+        
+        "exceptions": {
+          "cancellation_conditions": [
+            {
+              "condition": "Mars in own house (Mesha or Vrischika)",
+              "effect": "Dosha cancelled"
+            },
+            {
+              "condition": "Mars in exaltation (Makara)",
+              "effect": "Dosha reduced by 50%"
+            },
+            {
+              "condition": "Mars aspected by Jupiter",
+              "effect": "Dosha significantly reduced"
+            },
+            {
+              "condition": "Mars in 2nd house for Mesha Lagna",
+              "effect": "Dosha not applicable"
+            },
+            {
+              "condition": "Mars in 4th house for Karka Lagna",
+              "effect": "Dosha not applicable"
+            },
+            {
+              "condition": "Mars in 7th house for Makara Lagna",
+              "effect": "Dosha not applicable"
+            },
+            {
+              "condition": "Mars in 8th house for Dhanu or Meena Lagna",
+              "effect": "Dosha cancelled"
+            },
+            {
+              "condition": "Mars in 12th house for Vrishabha or Tula Lagna",
+              "effect": "Dosha cancelled"
+            }
+          ]
+        },
+        
+        "severity_levels": {
+          "high_severity": {
+            "houses": [7, 8],
+            "description": "Mars in 7th or 8th house from Lagna",
+            "impact": "Significant marital discord, possibility of separation or spouse health issues"
+          },
+          "moderate_severity": {
+            "houses": [1, 2, 4, 12],
+            "description": "Mars in 1st, 2nd, 4th, or 12th house",
+            "impact": "Moderate delays and adjustments needed in married life"
+          }
+        },
+        
+        "matching_considerations": {
+          "manglik_matching_rules": [
+            "Manglik should ideally marry Manglik",
+            "If one partner is Manglik and other is not, check cancellation",
+            "Same severity level match is ideal",
+            "Check Mars position in Navamsa chart"
+          ]
+        }
+      },
+      
+      "remedies": {
+        "spiritual_remedies": [
+          {
+            "remedy": "Mangal Shanti Puja",
+            "procedure": "Perform on Tuesday",
+            "benefits": "Reduces negative effects of Mars"
+          },
+          {
+            "remedy": "Recite Hanuman Chalisa",
+            "frequency": "Daily, especially on Tuesdays",
+            "benefits": "Strengthens positive Mars energy"
+          },
+          {
+            "remedy": "Mangal Mantra Japa",
+            "mantra": "ॐ अं अंगारकाय नमः (Om Ang Angarakaya Namah)",
+            "count": "108 times daily",
+            "duration": "40 days"
+          }
+        ],
+        
+        "gemstone_remedies": [
+          {
+            "gemstone": "Red Coral (Moonga)",
+            "weight": "5-7 carats",
+            "metal": "Gold or Copper",
+            "finger": "Ring finger",
+            "day_to_wear": "Tuesday",
+            "note": "Only wear after proper astrological consultation"
+          }
+        ],
+        
+        "donation_remedies": [
+          {
+            "item": "Masoor Dal (Red Lentils)",
+            "day": "Tuesday",
+            "benefit": "Pacifies Mars"
+          },
+          {
+            "item": "Red cloth",
+            "day": "Tuesday",
+            "benefit": "Reduces Manglik effects"
+          },
+          {
+            "item": "Jaggery (Gud)",
+            "day": "Tuesday",
+            "benefit": "Improves marital prospects"
+          }
+        ],
+        
+        "marriage_specific_remedies": [
+          {
+            "remedy": "Kumbh Vivah",
+            "description": "First marriage to a Peepal tree, banana tree, or silver/golden idol of Lord Vishnu",
+            "purpose": "Absorbs the negative effects before actual marriage"
+          },
+          {
+            "remedy": "Vishnu Puja",
+            "description": "Worship Lord Vishnu before marriage",
+            "benefit": "Protection from marital discord"
+          }
+        ],
+        
+        "lifestyle_remedies": [
+          {
+            "activity": "Fasting on Tuesdays",
+            "benefit": "Strengthens positive Mars energy"
+          },
+          {
+            "activity": "Serve red-colored foods to young girls",
+            "benefit": "Reduces Manglik Dosha effects"
+          }
+        ]
+      }
+    },
+    
+    "kaal_sarp_dosha": {
+      "dosha_name": "Kaal Sarp Dosha (काल सर्प दोष)",
+      "also_known_as": ["Kaal Sarp Yog", "Naga Dosha"],
+      "planets_involved": ["Rahu", "Ketu", "All other planets"],
+      "description": "Kaal Sarp Dosha occurs when all seven planets are hemmed between Rahu and Ketu in the birth chart. This creates a serpent-like formation affecting various life aspects.",
+      
+      "rules": {
+        "formation_conditions": [
+          {
+            "condition": "All planets between Rahu and Ketu",
+            "axis_position": "Rahu to Ketu (clockwise or anti-clockwise)",
+            "requirement": "All 7 planets (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn) must be on one side"
+          }
+        ],
+        
+        "types": {
+          "12_types": [
+            {
+              "type": "Anant Kaal Sarp Dosha",
+              "rahu_position": "1st house, Ketu in 7th",
+              "effects": "Health issues, instability in life"
+            },
+            {
+              "type": "Kulik Kaal Sarp Dosha",
+              "rahu_position": "2nd house, Ketu in 8th",
+              "effects": "Financial losses, family disputes"
+            },
+            {
+              "type": "Vasuki Kaal Sarp Dosha",
+              "rahu_position": "3rd house, Ketu in 9th",
+              "effects": "Problems with siblings, travel obstacles"
+            },
+            {
+              "type": "Shankhpal Kaal Sarp Dosha",
+              "rahu_position": "4th house, Ketu in 10th",
+              "effects": "Property issues, mother's health problems"
+            },
+            {
+              "type": "Padma Kaal Sarp Dosha",
+              "rahu_position": "5th house, Ketu in 11th",
+              "effects": "Childbirth delays, education obstacles"
+            },
+            {
+              "type": "Mahapadma Kaal Sarp Dosha",
+              "rahu_position": "6th house, Ketu in 12th",
+              "effects": "Enemies, legal issues, health problems"
+            },
+            {
+              "type": "Takshak Kaal Sarp Dosha",
+              "rahu_position": "7th house, Ketu in 1st",
+              "effects": "Marriage delays, spouse health issues"
+            },
+            {
+              "type": "Karkotak Kaal Sarp Dosha",
+              "rahu_position": "8th house, Ketu in 2nd",
+              "effects": "Sudden losses, inheritance issues"
+            },
+            {
+              "type": "Shankhachur Kaal Sarp Dosha",
+              "rahu_position": "9th house, Ketu in 3rd",
+              "effects": "Luck obstacles, father's health issues"
+            },
+            {
+              "type": "Ghatak Kaal Sarp Dosha",
+              "rahu_position": "10th house, Ketu in 4th",
+              "effects": "Career obstacles, reputation issues"
+            },
+            {
+              "type": "Vishdhar Kaal Sarp Dosha",
+              "rahu_position": "11th house, Ketu in 5th",
+              "effects": "Income instability, friendship issues"
+            },
+            {
+              "type": "Sheshnag Kaal Sarp Dosha",
+              "rahu_position": "12th house, Ketu in 6th",
+              "effects": "Foreign travel obstacles, hidden enemies"
+            }
+          ]
+        },
+        
+        "exceptions": {
+          "cancellation_conditions": [
+            {
+              "condition": "All planets not strictly between Rahu-Ketu",
+              "effect": "Dosha not applicable"
+            },
+            {
+              "condition": "Any planet outside Rahu-Ketu axis",
+              "effect": "Dosha breaks"
+            },
+            {
+              "condition": "Rahu or Ketu in own/exalted sign",
+              "effect": "Dosha effects reduced"
+            },
+            {
+              "condition": "Jupiter aspecting Rahu or Ketu",
+              "effect": "Dosha significantly weakened"
+            }
+          ]
+        }
+      },
+      
+      "remedies": {
+        "spiritual_remedies": [
+          {
+            "remedy": "Kaal Sarp Shanti Puja",
+            "location": "Trimbakeshwar (Nasik) or other Shiva temples",
+            "procedure": "Special ritual performed by qualified priests",
+            "duration": "1-3 days",
+            "benefits": "Complete removal of Kaal Sarp Dosha effects"
+          },
+          {
+            "remedy": "Nag Panchami Puja",
+            "frequency": "Annual on Nag Panchami",
+            "benefits": "Reduces serpent-related curses"
+          },
+          {
+            "remedy": "Mahamrityunjaya Mantra",
+            "mantra": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्",
+            "count": "108 times daily",
+            "duration": "108 days"
+          }
+        ],
+        
+        "specific_remedies": [
+          {
+            "remedy": "Rahu-Ketu Shanti",
+            "procedure": "Worship Lord Shiva with Bilva leaves",
+            "benefits": "Pacifies Rahu and Ketu"
+          },
+          {
+            "remedy": "Silver Snake Idol Worship",
+            "procedure": "Offer milk and worship silver snake idol regularly",
+            "benefits": "Reduces serpent dosha effects"
+          }
+        ],
+        
+        "donation_remedies": [
+          {
+            "item": "Silver snake",
+            "day": "Monday or Saturday",
+            "benefit": "Reduces Kaal Sarp effects"
+          },
+          {
+            "item": "Black sesame seeds",
+            "day": "Saturday",
+            "benefit": "Pacifies Rahu and Ketu"
+          },
+          {
+            "item": "Coconut",
+            "day": "Monday",
+            "benefit": "Removes obstacles"
+          }
+        ],
+        
+        "worship_remedies": [
+          {
+            "deity": "Lord Shiva",
+            "procedure": "Daily worship with Bilva leaves and water",
+            "benefits": "Removes all doshas including Kaal Sarp"
+          },
+          {
+            "deity": "Nag Devta",
+            "procedure": "Worship snake deity, offer milk",
+            "benefits": "Protection from serpent curses"
+          }
+        ]
+      }
+    },
+    
+    "pitru_dosha": {
+      "dosha_name": "Pitru Dosha (पितृ दोष)",
+      "also_known_as": ["Pitru Shraap", "Ancestral Curse", "Pitru Rin"],
+      "planets_involved": ["Sun", "Rahu", "Saturn", "Jupiter"],
+      "description": "Pitru Dosha occurs when ancestors are displeased due to unperformed rites, curses, or unfulfilled desires. This dosha indicates karmic debt to ancestors.",
+      
+      "rules": {
+        "formation_conditions": [
+          {
+            "condition": "Sun with Rahu or Ketu",
+            "effect": "Strong Pitru Dosha formation"
+          },
+          {
+            "condition": "Sun and Saturn conjunction",
+            "effect": "Ancestral curse indicator"
+          },
+          {
+            "condition": "Rahu in 9th house",
+            "effect": "Pitru Dosha (father-related karma)"
+          },
+          {
+            "condition": "Sun debilitated in 9th house",
+            "effect": "Displeased ancestors"
+          },
+          {
+            "condition": "Jupiter in 9th house with Rahu",
+            "effect": "Pitru Dosha with guru-related karma"
+          },
+          {
+            "condition": "Malefic planets in 5th house",
+            "effect": "Pitru Dosha affecting progeny"
+          },
+          {
+            "condition": "9th lord in 6th, 8th, or 12th house",
+            "effect": "Ancestral karma issues"
+          },
+          {
+            "condition": "Moon in 9th house with malefic aspect",
+            "effect": "Mother's side ancestral issues"
+          }
+        ],
+        
+        "severity_indicators": {
+          "high_severity": [
+            "Sun-Rahu conjunction in 9th house",
+            "Saturn-Rahu in 9th house",
+            "Multiple malefic in 9th house",
+            "9th lord in 8th house with Rahu"
+          ],
+          "moderate_severity": [
+            "Sun in 8th house",
+            "Rahu in 9th house alone",
+            "Saturn in 9th house",
+            "Weak 9th lord"
+          ],
+          "mild_severity": [
+            "Sun in 12th house",
+            "Ketu in 9th house",
+            "9th lord in 6th house"
+          ]
+        },
+        
+        "signs_of_ancestral_displeasure": [
+          "Repeated miscarriages or difficulty in conception",
+          "No male child for multiple generations",
+          "Sudden deaths in family",
+          "Chronic health issues without medical explanation",
+          "Financial instability despite hard work",
+          "Marriage delays in family",
+          "Repeated failures in education or career"
+        ]
+      },
+      
+      "remedies": {
+        "spiritual_remedies": [
+          {
+            "remedy": "Pitru Tarpan",
+            "procedure": "Offer water mixed with black sesame seeds to ancestors",
+            "frequency": "Daily during Pitru Paksha, monthly on Amavasya",
+            "benefits": "Provides peace to departed souls"
+          },
+          {
+            "remedy": "Shraadh Karma",
+            "procedure": "Perform proper Shraadh rituals during Pitru Paksha",
+            "location": "Gaya, Haridwar, or other holy places",
+            "benefits": "Releases ancestral souls from bondage"
+          },
+          {
+            "remedy": "Pind Daan",
+            "procedure": "Offer pind (rice balls) to ancestors",
+            "location": "Gaya (Bihar) preferred",
+            "benefits": "Liberates ancestors and removes Pitru Dosha"
+          }
+        ],
+        
+        "daily_practices": [
+          {
+            "practice": "Sun Worship",
+            "procedure": "Offer water to Sun at sunrise",
+            "mantra": "ॐ सूर्याय नमः (Om Suryaya Namah)",
+            "benefits": "Strengthens Sun, reduces Pitru Dosha"
+          },
+          {
+            "practice": "Lighting Diya",
+            "procedure": "Light mustard oil diya under Peepal tree on Amavasya",
+            "benefits": "Provides light to ancestors"
+          }
+        ],
+        
+        "donation_remedies": [
+          {
+            "item": "Food to Brahmins",
+            "day": "Amavasya",
+            "benefits": "Satisfies ancestors"
+          },
+          {
+            "item": "Clothes to needy",
+            "day": "Pitru Paksha",
+            "benefits": "Reduces ancestral debt"
+          },
+          {
+            "item": "Black sesame seeds",
+            "day": "Saturday or Amavasya",
+            "benefits": "Pacifies ancestral souls"
+          },
+          {
+            "item": "Cow donation",
+            "day": "Pitru Paksha",
+            "benefits": "Releases ancestors from Pitru Loka"
+          }
+        ],
+        
+        "worship_remedies": [
+          {
+            "deity": "Lord Vishnu",
+            "procedure": "Worship with Tulsi leaves",
+            "benefits": "Removes all types of curses including Pitru"
+          },
+          {
+            "deity": "Lord Shiva",
+            "procedure": "Offer water and Bilva leaves daily",
+            "benefits": "Liberates ancestors"
+          }
+        ],
+        
+        "specific_remedies": [
+          {
+            "remedy": "Gaya Shraadh",
+            "procedure": "Perform Pind Daan at Gaya, Bihar",
+            "benefits": "Most powerful remedy for Pitru Dosha"
+          },
+          {
+            "remedy": "Narayan Nagbali",
+            "procedure": "Special ritual for unnatural deaths in family",
+            "benefits": "Releases souls trapped due to unnatural death"
+          },
+          {
+            "remedy": "Tripindi Shraadh",
+            "procedure": "Three-generation ancestor worship",
+            "benefits": "Removes ancestral curse affecting three generations"
+          }
+        ]
+      }
+    }
+  }
+}

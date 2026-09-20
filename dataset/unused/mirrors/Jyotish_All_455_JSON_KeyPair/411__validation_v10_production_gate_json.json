@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "411__validation_v10_production_gate_json",
+    "name": "validation_v10_production-gate",
+    "original_file": "validation/v10/production-gate.json",
+    "dataset_number": "411 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v10_production-gate.txt",
+    "source_sha256": "47c8ea5f69fb141beba3d980bc47a0b9ba14de82f1e4d348b2925b20a456d9c6",
+    "source_bytes": 678
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "10.0.0",
+      "status": "HARDENING_GATE_DEFINED",
+      "requiredChecks": {
+        "_items": [
+          {
+            "_text": [
+              "health"
+            ]
+          },
+          {
+            "_text": [
+              "inputLimits"
+            ]
+          },
+          {
+            "_text": [
+              "errorHandling"
+            ]
+          },
+          {
+            "_text": [
+              "securityHeaders"
+            ]
+          },
+          {
+            "_text": [
+              "structuredLogs"
+            ]
+          },
+          {
+            "_text": [
+              "metrics"
+            ]
+          },
+          {
+            "_text": [
+              "gracefulShutdown"
+            ]
+          },
+          {
+            "_text": [
+              "backup"
+            ]
+          },
+          {
+            "_text": [
+              "restoreTest"
+            ]
+          },
+          {
+            "_text": [
+              "dependencyAudit"
+            ]
+          },
+          {
+            "_text": [
+              "loadTest"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

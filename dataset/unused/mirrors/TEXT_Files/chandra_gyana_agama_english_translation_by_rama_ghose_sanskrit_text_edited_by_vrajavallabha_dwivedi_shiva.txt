@@ -1,0 +1,36 @@
+READABLE DATASET
+================================================================================
+Original file: chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.json
+Dataset number: 78 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 895 bytes
+Top-level fields: 9
+Title: Chandra Gyana Agama English Translation By Rama Ghose Sanskrit Text Edited By Vrajavallabha Dwivedi Shiva Bharati Shodha Pratishtanam, Varanasi
+Creator: eGangotri
+Date: —
+Description: Jangamwadi Math Collection, 'Chandra Gyana Agama English Translation by Rama Ghose Sanskrit Text Edited by Vrajavallabha Dwivedi - Shiva Bharati Shodha Pratishtanam, Varanasi'
+
+CONTENT
+--------------------------------------------------------------------------------
+• title: Chandra Gyana Agama English Translation By Rama Ghose Sanskrit Text Edited By Vrajavallabha Dwivedi Shiva Bharati Shodha Pratishtanam, Varanasi
+• creator: eGangotri
+• date: —
+• description: Jangamwadi Math Collection, 'Chandra Gyana Agama English Translation by Rama Ghose Sanskrit Text Edited by Vrajavallabha Dwivedi - Shiva Bharati Shodha Pratishtanam, Varanasi'
+• subject:
+  1.
+    eGangotri-36
+  2.
+    Jangamwadi Math
+  3.
+    Jangamwadi Math Library Collection
+  4.
+    जंगमवाड़ी मठ
+  5.
+    Jangamwadi Math Printed Books Collection
+  6.
+    Jangamwadi Hindi
+• identifier: wlba_chandra-gyana-agama-english-translation-by-rama-ghose-sanskrit-text-edited-by-vr
+• source_folder: wlba_chandra-gyana-agama-english-translation-by-rama-ghose-sanskrit-text-edited-by-vr
+• text: —
+• note: OCR text not available for this item in the source archive

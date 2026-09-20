@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ayan_001",
+    "name": "Lahiri (Chitrapaksha)",
+    "year_start": 285,
+    "value_2024": 24.14,
+    "description": "The most widely used Ayanamsa in India. Officially recognized by the Government of India.",
+    "calculation_logic": "Spica (Chitra) star is fixed at 180°."
+  },
+  {
+    "id": "ayan_002",
+    "name": "Raman Ayanamsa",
+    "year_start": 397,
+    "value_2024": 22.92,
+    "description": "Used by researchers following B.V. Raman. Calculated based on Surya Siddhanta."
+  }
+]

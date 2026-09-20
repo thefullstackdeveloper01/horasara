@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "342__saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_json",
+    "name": "Saravali Of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi Motilal Banarasi Das, Delhi",
+    "original_file": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.json",
+    "dataset_number": "342 of 455",
+    "format": "json",
+    "source_readable_file": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.txt",
+    "source_sha256": "37035d89e4b733211a20e1d3e428e250422442ceaf38bca510c94aaa6ab248d7",
+    "source_bytes": 1115
+  },
+  "metadata": {
+    "title": "Saravali Of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi Motilal Banarasi Das, Delhi",
+    "description": "Sarawali"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "title": "Saravali Of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi Motilal Banarasi Das, Delhi",
+      "creator": null,
+      "date": null,
+      "description": "Sarawali",
+      "subject": "Sarawali",
+      "identifier": "saravali-of-shri-kalyana-varma-with-kanti-mati-hindi-commentary-by-dr.-muralidha",
+      "source_folder": "saravali-of-shri-kalyana-varma-with-kanti-mati-hindi-commentary-by-dr.-muralidha",
+      "text": null,
+      "note": "OCR text not available for this item in the source archive"
+    }
+  }
+}

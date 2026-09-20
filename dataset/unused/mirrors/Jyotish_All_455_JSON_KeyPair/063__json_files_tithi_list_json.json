@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "063__json_files_tithi_list_json",
+    "name": "JSON_Files_Tithi-List",
+    "original_file": "JSON_Files/Tithi-List.json",
+    "dataset_number": "211 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Tithi-List.txt",
+    "source_sha256": "bd39b80d052c33477bd9b6c7d83b077006942d38bbe70de73958e3c79081e828",
+    "source_bytes": 578
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": 1,
+        "name": "Shukla Pratipada",
+        "paksha": "Shukla",
+        "ruler": "Sun",
+        "nature": "Good for starting new work."
+      },
+      {
+        "id": 16,
+        "name": "Krishna Pratipada",
+        "paksha": "Krishna",
+        "ruler": "Sun",
+        "nature": "Good for removing obstacles."
+      }
+    ]
+  }
+}

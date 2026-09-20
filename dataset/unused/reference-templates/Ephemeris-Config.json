@@ -1,0 +1,7 @@
+{
+  "engine": "Swiss Ephemeris",
+  "ayanamsa_default": "Lahiri (Chitrapaksha)",
+  "ayanamsa_value_2024": 24.14,
+  "planetary_calculation_mode": "Geocentric / Topocentric",
+  "node_calculation": "True Node"
+}

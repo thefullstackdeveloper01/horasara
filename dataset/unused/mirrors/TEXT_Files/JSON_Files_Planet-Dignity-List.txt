@@ -1,0 +1,46 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Planet-Dignity-List.json
+Dataset number: 194 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 384 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • planet: Sun
+  • exaltation:
+    • sign: Aries
+    • degree: 10
+  • debilitation:
+    • sign: Libra
+    • degree: 10
+  • own_sign:
+    1.
+      Leo
+  • mooltrikona:
+    • sign: Leo
+    • start_degree: 0
+    • end_degree: 20
+  • friendly_signs:
+    1.
+      Aries
+    2.
+      Leo
+    3.
+      Scorpio
+    4.
+      Sagittarius
+    5.
+      Pisces
+  • enemy_signs:
+    1.
+      Taurus
+    2.
+      Virgo
+    3.
+      Capricorn
+    4.
+      Aquarius

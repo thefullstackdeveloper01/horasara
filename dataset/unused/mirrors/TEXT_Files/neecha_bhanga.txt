@@ -1,0 +1,51 @@
+READABLE DATASET
+================================================================================
+Original file: neecha_bhanga.json
+Dataset number: 295 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,441 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• NEECHA_BHANGA_RULES:
+  TABLE (6 rows)
+  id | condition
+  --------------------
+  1 | Lord of debilitated planet in Kendra from Lagna or Moon
+  2 | Planet that would exalt in same sign as debilitated planet is in Kendra
+  3 | Lord of the sign where planet is debilitated is exalted
+  4 | Lord of the sign where planet is debilitated aspects the debilitated planet
+  5 | Debilitated planet is in Kendra from Lagna or Moon (self-cancellation)
+  6 | Debilitated planet is conjunct or aspected by its exaltation sign lord
+• EXALTS_IN:
+  • Aries: Sun
+  • Taurus: Moon
+  • Cancer: Jupiter
+  • Virgo: Mercury
+  • Libra: Saturn
+  • Capricorn: Mars
+  • Pisces: Venus
+  • Gemini: Rahu
+  • Sagittarius: Ketu
+• EXALTATION_SIGN:
+  • Sun: Aries
+  • Moon: Taurus
+  • Mars: Capricorn
+  • Mercury: Virgo
+  • Jupiter: Cancer
+  • Venus: Pisces
+  • Saturn: Libra
+  • Rahu: Gemini
+  • Ketu: Sagittarius
+• DEBILITATION_SIGN:
+  • Sun: Libra
+  • Moon: Scorpio
+  • Mars: Cancer
+  • Mercury: Pisces
+  • Jupiter: Capricorn
+  • Venus: Virgo
+  • Saturn: Aries
+  • Rahu: Sagittarius
+  • Ketu: Gemini

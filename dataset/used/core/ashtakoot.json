@@ -1,0 +1,365 @@
+{
+  "VARNA_BY_SIGN": {
+    "Cancer": "Brahmin",
+    "Scorpio": "Brahmin",
+    "Pisces": "Brahmin",
+    "Aries": "Kshatriya",
+    "Leo": "Kshatriya",
+    "Sagittarius": "Kshatriya",
+    "Taurus": "Vaishya",
+    "Virgo": "Vaishya",
+    "Capricorn": "Vaishya",
+    "Gemini": "Shudra",
+    "Libra": "Shudra",
+    "Aquarius": "Shudra"
+  },
+  "VARNA_RANK": {
+    "Brahmin": 4,
+    "Kshatriya": 3,
+    "Vaishya": 2,
+    "Shudra": 1
+  },
+  "TARA_NAMES": [
+    "Janma",
+    "Sampat",
+    "Vipat",
+    "Kshema",
+    "Pratyak",
+    "Sadhaka",
+    "Vadha",
+    "Mitra",
+    "Parama Mitra"
+  ],
+  "NAKSHATRA_YONI": [
+    "Horse",
+    "Elephant",
+    "Sheep",
+    "Serpent",
+    "Serpent",
+    "Dog",
+    "Cat",
+    "Sheep",
+    "Cat",
+    "Rat",
+    "Rat",
+    "Cow",
+    "Buffalo",
+    "Tiger",
+    "Buffalo",
+    "Tiger",
+    "Deer",
+    "Deer",
+    "Dog",
+    "Monkey",
+    "Mongoose",
+    "Monkey",
+    "Lion",
+    "Horse",
+    "Lion",
+    "Cow",
+    "Elephant"
+  ],
+  "NAKSHATRA_YONI_DIR": [
+    "Forward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward",
+    "Backward",
+    "Forward"
+  ],
+  "YONI_ENEMIES": [
+    [
+      "Horse",
+      "Buffalo"
+    ],
+    [
+      "Elephant",
+      "Lion"
+    ],
+    [
+      "Deer",
+      "Dog"
+    ],
+    [
+      "Cow",
+      "Tiger"
+    ],
+    [
+      "Serpent",
+      "Mongoose"
+    ],
+    [
+      "Rat",
+      "Cat"
+    ]
+  ],
+  "REL_RANK": {
+    "friend": 0,
+    "neutral": 1,
+    "enemy": 2
+  },
+  "GRAHA_MAITRI_TABLE": {
+    "friend-friend": 5,
+    "friend-neutral": 4,
+    "neutral-neutral": 3,
+    "friend-enemy": 1,
+    "neutral-enemy": 0.5,
+    "enemy-enemy": 0
+  },
+  "NAKSHATRA_GANA": [
+    "Deva",
+    "Manushya",
+    "Rakshasa",
+    "Manushya",
+    "Deva",
+    "Manushya",
+    "Deva",
+    "Deva",
+    "Rakshasa",
+    "Rakshasa",
+    "Manushya",
+    "Manushya",
+    "Deva",
+    "Rakshasa",
+    "Deva",
+    "Rakshasa",
+    "Deva",
+    "Rakshasa",
+    "Rakshasa",
+    "Manushya",
+    "Manushya",
+    "Deva",
+    "Rakshasa",
+    "Rakshasa",
+    "Manushya",
+    "Manushya",
+    "Deva"
+  ],
+  "GANA_TABLE": {
+    "Deva": {
+      "Deva": 6,
+      "Manushya": 6,
+      "Rakshasa": 1
+    },
+    "Manushya": {
+      "Deva": 5,
+      "Manushya": 6,
+      "Rakshasa": 0
+    },
+    "Rakshasa": {
+      "Deva": 1,
+      "Manushya": 0,
+      "Rakshasa": 6
+    }
+  },
+  "NAKSHATRA_NADI": [
+    "Aadi",
+    "Madhya",
+    "Antya",
+    "Antya",
+    "Madhya",
+    "Aadi",
+    "Aadi",
+    "Madhya",
+    "Antya",
+    "Antya",
+    "Madhya",
+    "Aadi",
+    "Aadi",
+    "Madhya",
+    "Antya",
+    "Antya",
+    "Madhya",
+    "Aadi",
+    "Aadi",
+    "Madhya",
+    "Antya",
+    "Antya",
+    "Madhya",
+    "Aadi",
+    "Aadi",
+    "Madhya",
+    "Antya"
+  ],
+  "RAJJU": [
+    "Feet",
+    "Thigh",
+    "Navel",
+    "Neck",
+    "Head",
+    "Feet",
+    "Thigh",
+    "Navel",
+    "Neck",
+    "Head",
+    "Feet",
+    "Thigh",
+    "Navel",
+    "Neck",
+    "Head",
+    "Feet",
+    "Thigh",
+    "Navel",
+    "Neck",
+    "Head",
+    "Feet",
+    "Thigh",
+    "Navel",
+    "Neck",
+    "Head",
+    "Feet",
+    "Thigh"
+  ],
+  "RAJJU_SEVERITY": {
+    "Feet": 1,
+    "Thigh": 2,
+    "Navel": 3,
+    "Neck": 4,
+    "Head": 5
+  },
+  "VEDHA_PAIRS": [
+    [
+      0,
+      19
+    ],
+    [
+      1,
+      18
+    ],
+    [
+      2,
+      17
+    ],
+    [
+      3,
+      16
+    ],
+    [
+      4,
+      15
+    ],
+    [
+      5,
+      14
+    ],
+    [
+      6,
+      13
+    ],
+    [
+      7,
+      12
+    ],
+    [
+      8,
+      11
+    ],
+    [
+      9,
+      26
+    ],
+    [
+      20,
+      23
+    ],
+    [
+      21,
+      22
+    ]
+  ],
+  "PLANET_EXALT": {
+    "Sun": "Aries",
+    "Moon": "Taurus",
+    "Mars": "Capricorn",
+    "Mercury": "Virgo",
+    "Jupiter": "Cancer",
+    "Venus": "Pisces",
+    "Saturn": "Libra",
+    "Rahu": "Taurus",
+    "Ketu": "Scorpio"
+  },
+  "PLANET_DEBIL": {
+    "Sun": "Libra",
+    "Moon": "Scorpio",
+    "Mars": "Cancer",
+    "Mercury": "Pisces",
+    "Jupiter": "Capricorn",
+    "Venus": "Virgo",
+    "Saturn": "Aries",
+    "Rahu": "Scorpio",
+    "Ketu": "Taurus"
+  },
+  "PLANET_OWN": {
+    "Sun": [
+      "Leo"
+    ],
+    "Moon": [
+      "Cancer"
+    ],
+    "Mars": [
+      "Aries",
+      "Scorpio"
+    ],
+    "Mercury": [
+      "Gemini",
+      "Virgo"
+    ],
+    "Jupiter": [
+      "Sagittarius",
+      "Pisces"
+    ],
+    "Venus": [
+      "Taurus",
+      "Libra"
+    ],
+    "Saturn": [
+      "Capricorn",
+      "Aquarius"
+    ]
+  },
+  "YONI_RELATION": {
+    "Horse|Elephant": 3,
+    "Elephant|Horse": 3,
+    "Elephant|Cow": 3,
+    "Cow|Elephant": 3,
+    "Dog|Tiger": 3,
+    "Tiger|Dog": 3,
+    "Serpent|Rat": 1,
+    "Rat|Serpent": 1,
+    "Goat|Monkey": 0,
+    "Monkey|Goat": 0,
+    "Horse|Buffalo": 0,
+    "Buffalo|Horse": 0,
+    "Elephant|Lion": 0,
+    "Lion|Elephant": 0,
+    "Serpent|Mongoose": 0,
+    "Mongoose|Serpent": 0,
+    "Dog|Deer": 0,
+    "Deer|Dog": 0,
+    "Cat|Rat": 0,
+    "Rat|Cat": 0,
+    "Cow|Tiger": 0,
+    "Tiger|Cow": 0
+  }
+}

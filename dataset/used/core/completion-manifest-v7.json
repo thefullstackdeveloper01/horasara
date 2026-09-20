@@ -1,0 +1,16 @@
+{
+  "release": "7.0.0",
+  "goal": "Maximum defensible completeness without fabricating universal doctrine or empirical accuracy",
+  "dashaCatalogueCount": 45,
+  "builtinPluginCount": 47,
+  "sarvatobhadraCells": 81,
+  "sarvatobhadraNakshatras": 28,
+  "synastry": {"ashtakoot": true, "dashakoot": true, "rajju": true, "vedha": true, "papaSamyam": true, "mangal": true},
+  "prashnaRuleFamilies": ["classical", "prashna-marga", "tajika", "kp"],
+  "backtesting": {"leakageChecks": true, "walkForward": true, "empiricalDatasetBundled": false},
+  "calibration": {"reliabilityBins": true, "brier": true, "logLoss": true, "empiricalOutcomesBundled": false},
+  "ruleProvenance": true,
+  "calculationAudit": true,
+  "astronomyPrecision": "provider-dependent; internal VSOP87 remains explicitly lower precision than Swiss/JPL",
+  "predictionAccuracyClaim": "NOT_CLAIMED"
+}

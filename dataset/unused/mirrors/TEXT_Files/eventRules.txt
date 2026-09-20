@@ -1,0 +1,269 @@
+READABLE DATASET
+================================================================================
+Original file: eventRules.json
+Dataset number: 118 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 5,660 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 1
+• rules:
+  1.
+    • event: Marriage / Partnership
+    • area: marriage
+    • lords:
+      1.
+        Venus
+      2.
+        Jupiter
+      3.
+        Moon
+    • description: Strong 7th house — marriage or significant partnership during Venus/Jupiter Dasha.
+    • confidence: 80
+    • test:
+      • type: anyHouse
+      • planets:
+        1.
+          Venus
+        2.
+          Jupiter
+      • house: 7
+  2.
+    • event: Career Advancement / Promotion
+    • area: career
+    • lords:
+      1.
+        Sun
+      2.
+        Saturn
+      3.
+        Mercury
+      4.
+        Jupiter
+    • description: Strong 10th house — career peak or recognition during Sun/Saturn Dasha.
+    • confidence: 75
+    • test:
+      • type: dignityOrHouse
+      • planet: Sun
+      • dignities:
+        1.
+          Exalted
+        2.
+          Own
+        3.
+          Moolatrikona
+      • house: 10
+  3.
+    • event: Business / Income Opportunity
+    • area: career
+    • lords:
+      1.
+        Mercury
+      2.
+        Venus
+      3.
+        Rahu
+    • description: Mercury in 10th/11th — entrepreneurial or income opportunity in Mercury/Rahu Dasha.
+    • confidence: 70
+    • test:
+      • type: houseIn
+      • planet: Mercury
+      • houses:
+        1.
+          10
+        2.
+          11
+  4.
+    • event: Financial Windfall / Gain
+    • area: wealth
+    • lords:
+      1.
+        Jupiter
+      2.
+        Venus
+      3.
+        Moon
+    • description: Strong Jupiter — financial gain or inheritance in Jupiter Dasha.
+    • confidence: 72
+    • test:
+      • type: dignityIn
+      • planet: Jupiter
+      • dignities:
+        1.
+          Exalted
+        2.
+          Own
+  5.
+    • event: Property Purchase
+    • area: property
+    • lords:
+      1.
+        Mars
+      2.
+        Moon
+      3.
+        Saturn
+    • description: 4th house Mars or strong Moon — property acquisition in Mars/Moon Dasha.
+    • confidence: 68
+    • test:
+      • type: anyHouseOrDignity
+      • houseRules:
+        TABLE (1 rows)
+        planet | house
+        --------------------
+        Mars | 4
+      • dignityRules:
+        1.
+          • planet: Moon
+          • dignities:
+            1.
+              Exalted
+            2.
+              Own
+  6.
+    • event: Health — Period to Monitor
+    • area: health
+    • lords:
+      1.
+        Saturn
+      2.
+        Rahu
+      3.
+        Mars
+    • description: Saturn in 1st/8th — health monitoring important during Saturn/Rahu Dasha.
+    • confidence: 60
+    • test:
+      • type: houseIn
+      • planet: Saturn
+      • houses:
+        1.
+          1
+        2.
+          8
+  7.
+    • event: Child Birth / Adoption
+    • area: children
+    • lords:
+      1.
+        Jupiter
+      2.
+        Moon
+      3.
+        Sun
+    • description: Strong 5th lord/Jupiter — child birth or creative breakthrough in Jupiter Dasha.
+    • confidence: 65
+    • test:
+      • type: houseOrDignity
+      • planet: Jupiter
+      • house: 5
+      • dignities:
+        1.
+          Exalted
+        2.
+          Own
+  8.
+    • event: Foreign Travel / Relocation
+    • area: foreign
+    • lords:
+      1.
+        Rahu
+      2.
+        Saturn
+      3.
+        Mercury
+    • description: Rahu in travel houses — foreign opportunity in Rahu Dasha.
+    • confidence: 72
+    • test:
+      • type: houseIn
+      • planet: Rahu
+      • houses:
+        1.
+          9
+        2.
+          12
+        3.
+          3
+  9.
+    • event: Spiritual Awakening
+    • area: spirituality
+    • lords:
+      1.
+        Ketu
+      2.
+        Jupiter
+      3.
+        Saturn
+    • description: Ketu/Jupiter in dharmic houses — spiritual turning point in Ketu/Jupiter Dasha.
+    • confidence: 68
+    • test:
+      • type: anyHouse
+      • planets:
+        1.
+          Ketu
+      • houseIn:
+        1.
+          9
+        2.
+          12
+      • orRules:
+        TABLE (1 rows)
+        planet | house
+        --------------------
+        Jupiter | 9
+  10.
+    • event: Higher Education / Admission
+    • area: education
+    • lords:
+      1.
+        Mercury
+      2.
+        Jupiter
+    • description: Mercury or Jupiter well placed in the 5th/9th house — favorable for admissions, exams or advanced study during Mercury/Jupiter Dasha.
+    • confidence: 68
+    • test:
+      • type: anyHouse
+      • planets:
+        1.
+          Mercury
+        2.
+          Jupiter
+      • house: 9
+  11.
+    • event: Academic Delay / Interruption
+    • area: education
+    • lords:
+      1.
+        Saturn
+      2.
+        Rahu
+    • description: Saturn or Rahu occupying the 4th/5th house — possible delay, distraction or interruption to study, not a blockage; weigh against supporting factors.
+    • confidence: 55
+    • test:
+      • type: houseIn
+      • planet: Saturn
+      • houses:
+        1.
+          4
+        2.
+          5
+  12.
+    • event: Romantic Relationship
+    • area: marriage
+    • lords:
+      1.
+        Venus
+      2.
+        Moon
+      3.
+        Mars
+    • description: Venus in 5th house — romance or creative collaboration in Venus Dasha.
+    • confidence: 70
+    • test:
+      • type: houseIn
+      • planet: Venus
+      • houses:
+        1.
+          5

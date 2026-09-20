@@ -1,0 +1,195 @@
+READABLE DATASET
+================================================================================
+Original file: menu.json
+Dataset number: 288 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 4,438 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• MODES:
+  • 1: milan
+  • 2: reading
+  • 3: panchang
+  • 4: muhurtha
+  • 5: horary
+  • milan: milan
+  • kundali milan: milan
+  • kundli milan: milan
+  • match: milan
+  • matching: milan
+  • horoscope matching: milan
+  • marriage matching: milan
+  • gun milan: milan
+  • ashtakoot milan: milan
+  • teva milan: milan
+  • reading: reading
+  • kundali reading: reading
+  • kundli reading: reading
+  • horoscope: reading
+  • kundali: reading
+  • kundli: reading
+  • janam kundali: reading
+  • birth chart: reading
+  • natal chart: reading
+  • teva: reading
+  • jataka: reading
+  • phala: reading
+  • horoscope reading: reading
+  • panchang: panchang
+  • panchanga: panchang
+  • daily panchang: panchang
+  • panchangam: panchang
+  • almanac: panchang
+  • calendar: panchang
+  • drik panchang: panchang
+  • muhurtha: muhurtha
+  • muhurat: muhurtha
+  • electional astrology: muhurtha
+  • auspicious time: muhurtha
+  • shubh muhurat: muhurtha
+  • horary: horary
+  • prashna: horary
+  • prashna jyotish: horary
+  • query: horary
+• MENU_DETAILS:
+  • milan:
+    • display_name: Kundali Milan (Matching)
+    • description: Compatibility analysis between two individuals for marriage or partnership.
+    • methods:
+      1.
+        Ashtakoot (8-point system)
+      2.
+        Dashakoot (10-point system)
+      3.
+        Mangal Dosha Check
+      4.
+        Mahendra Match
+      5.
+        Nadi Dosha Check
+      6.
+        Stree-Deergha Match
+      7.
+        Rajju Dosha Check
+    • inputs_required:
+      1.
+        Boy's Birth Details (Date, Time, Location)
+      2.
+        Girl's Birth Details (Date, Time, Location)
+  • reading:
+    • display_name: Kundali Reading (Horoscope)
+    • description: Comprehensive analysis of an individual's birth chart, planetary positions, and life predictions.
+    • modules:
+      1.
+        Lagna (Ascendant) Analysis
+      2.
+        Rashi & Nakshatra Details
+      3.
+        Vimshottari Dasha & Antardasha
+      4.
+        Planetary Strengths & Weaknesses
+      5.
+        Yogas & Doshas Identification
+      6.
+        Divisional Charts (Navamsa, Dashamsa, etc.)
+      7.
+        Career & Finance Prospects
+      8.
+        Marriage & Relationship Timing
+      9.
+        Health & Longevity
+    • inputs_required:
+      1.
+        Date of Birth
+      2.
+        Time of Birth
+      3.
+        Place of Birth
+  • panchang:
+    • display_name: Daily Panchang (Almanac)
+    • description: Daily astrological almanac providing auspicious and inauspicious timings based on the lunar calendar.
+    • elements:
+      1.
+        Tithi (Lunar Day)
+      2.
+        Vaar (Weekday)
+      3.
+        Nakshatra (Lunar Mansion)
+      4.
+        Yoga (Luni-Solar Angle)
+      5.
+        Karana (Half-Tithi)
+    • timing_calculations:
+      1.
+        Rahu Kaal
+      2.
+        Gulika Kaal
+      3.
+        Yamaganda Kaal
+      4.
+        Abhijit Muhurtha
+      5.
+        Amrit Kaal
+      6.
+        Sunrise & Sunset
+      7.
+        Moonrise & Moonset
+    • inputs_required:
+      1.
+        Date
+      2.
+        Location
+  • muhurtha:
+    • display_name: Muhurtha (Electional Astrology)
+    • description: Finding the most auspicious time to begin important life activities and events.
+    • events:
+      1.
+        Marriage (Vivaha)
+      2.
+        Housewarming (Griha Pravesh)
+      3.
+        Starting a Business/Shop
+      4.
+        Naming Ceremony (Namakarana)
+      5.
+        Thread Ceremony (Upanayana)
+      6.
+        Traveling (Yatra)
+      7.
+        Education/Vidya Arambha
+      8.
+        Purchasing Vehicle/Property
+    • inputs_required:
+      1.
+        Nature of Event
+      2.
+        Date Range (optional)
+      3.
+        Location
+  • horary:
+    • display_name: Horary (Prashna Shastra)
+    • description: Answering specific questions based on the time the question is asked, without requiring a birth chart.
+    • types:
+      1.
+        Question on lost items
+      2.
+        Question on marriage
+      3.
+        Question on career
+      4.
+        Question on health
+      5.
+        Yes/No specific queries
+    • inputs_required:
+      1.
+        The exact Question
+      2.
+        Current Time (auto-fetched)
+      3.
+        Current Location (auto-fetched)
+• DEFAULT_SETTINGS:
+  • DEFAULT_MODE: reading
+  • DEFAULT_CHART_STYLE: NorthIndian
+  • DEFAULT_AMSATYPE: Lahiri

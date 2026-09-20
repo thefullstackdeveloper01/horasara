@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "193__finance_prediction_rules_json",
+    "name": "finance_prediction_rules",
+    "original_file": "finance_prediction_rules.json",
+    "dataset_number": "123 of 455",
+    "format": "json",
+    "source_readable_file": "finance_prediction_rules.txt",
+    "source_sha256": "e8e820c21f919ab7d16f0cf720ab8d300817d27ed391dca96abd2e8bb3a9c824",
+    "source_bytes": 3711
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "rule_id": 1,
+          "category": "Wealth Assessment",
+          "indicator": "2nd + 11th houses",
+          "rule": "2nd house = accumulated wealth; 11th = income flow; both lords strong = prosperous",
+          "planet_mapping": {
+            "Jupiter_in_2nd": "Wealth from wisdom/education",
+            "Venus_in_2nd": "Luxury wealth",
+            "Saturn_in_2nd": "Delayed but durable wealth",
+            "Mars_in_2nd": "Wealth through effort"
+          },
+          "source": "BPHS Ch.41"
+        },
+        {
+          "rule_id": 2,
+          "category": "Income Sources",
+          "indicator": "11th house lord and planet",
+          "rule": "Planet in 11th or its lord's nature determines income source",
+          "source_mapping": {
+            "Sun_in_11th": "Government/authority income",
+            "Moon_in_11th": "Emotional/public income",
+            "Mars_in_11th": "Energy/effort income",
+            "Mercury_in_11th": "Trade/tech income",
+            "Jupiter_in_11th": "Teaching/advisory income",
+            "Venus_in_11th": "Artistic/beauty income",
+            "Saturn_in_11th": "Labor/service income"
+          },
+          "source": "BPHS"
+        },
+        {
+          "rule_id": 3,
+          "category": "Financial Losses",
+          "indicator": "12th house + 2nd/11th affliction",
+          "rule": "12th lord in 2nd or 11th; 2nd/11th lords in 12th = financial losses; Rahu in 2nd = deceptive finances",
+          "risk_periods": {
+            "_items": [
+              {
+                "_text": [
+                  "Rahu/Ketu Dasha"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn Sade Sati"
+                ]
+              },
+              {
+                "_text": [
+                  "12th lord Dasha"
+                ]
+              }
+            ]
+          },
+          "source": "Phaladeepika, BPHS"
+        },
+        {
+          "rule_id": 4,
+          "category": "Sudden Wealth",
+          "indicator": "8th house + Rahu",
+          "rule": "8th house rules sudden gains/losses; Rahu here = unexpected windfall or sudden loss",
+          "positive_indicators": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter in 8th (inheritance)"
+                ]
+              },
+              {
+                "_text": [
+                  "8th lord in 11th (sudden gains)"
+                ]
+              },
+              {
+                "_text": [
+                  "Lottery/speculation: 5th and 8th lords connected"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "rule_id": 5,
+          "category": "Stock Market",
+          "indicator": "5th + 8th + Moon",
+          "rule": "5th house (speculation), 8th house (gambling/risk), Moon (intuition) connection = stock market aptitude",
+          "timing": "5th lord and 8th lord Dasha simultaneously",
+          "source": "Modern Jyotish"
+        },
+        {
+          "rule_id": 6,
+          "category": "Property",
+          "indicator": "4th house + Mars",
+          "rule": "Strong 4th house and Mars = real estate success; 4th lord in 11th or 2nd = property gains",
+          "timing": "Mars Dasha; 4th lord Dasha; Jupiter transiting 4th",
+          "source": "BPHS"
+        },
+        {
+          "rule_id": 7,
+          "category": "Business Success",
+          "indicator": "Mercury + 7th house (partnerships)",
+          "rule": "Strong Mercury with 7th lord connection = successful business; 10th and 7th lords exchanging = partnership business",
+          "source": "Saravali"
+        },
+        {
+          "rule_id": 8,
+          "category": "Poverty Indicators",
+          "indicator": "Daridra Yoga conditions",
+          "rule": "9th and 5th lords in dusthanas; Lagna lord weak in 6/8/12 = persistent financial struggle",
+          "remedy": "Strengthen 2nd and 11th lords through gems/mantras; Lakshmi Puja",
+          "source": "BPHS Ch.41"
+        },
+        {
+          "rule_id": 9,
+          "category": "Foreign Income",
+          "indicator": "12th + Rahu + Venus/Mercury",
+          "rule": "12th lord strong with 10th = foreign income; Rahu-Mercury in 10th = overseas career success",
+          "source": "Modern Jyotish"
+        },
+        {
+          "rule_id": 10,
+          "category": "Peak Financial Period",
+          "indicator": "Multiple wealth yoga activation",
+          "rule": "When Dhana Yoga, Lakshmi Yoga, and Gajkesari Yoga all operate simultaneously during compatible Dasha",
+          "timing": "Jupiter + 2nd/11th lord Dasha with supporting transits",
+          "source": "Comprehensive Jyotish analysis"
+        }
+      ]
+    }
+  }
+}

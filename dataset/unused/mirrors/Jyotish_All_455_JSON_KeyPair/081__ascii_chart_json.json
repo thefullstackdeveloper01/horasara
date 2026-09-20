@@ -1,0 +1,1619 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "081__ascii_chart_json",
+    "name": "ascii_chart",
+    "original_file": "ascii_chart.json",
+    "dataset_number": "11 of 455",
+    "format": "json",
+    "source_readable_file": "ascii_chart.txt",
+    "source_sha256": "5534354346c3b3d8f2188893948d857678442fe95626a640fe489b9d1dc376be",
+    "source_bytes": 8905
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "SOUTH_INDIAN_SIGN_ORDER": {
+        "_items": [
+          {
+            "_text": [
+              "Pisces"
+            ]
+          },
+          {
+            "_text": [
+              "Aries"
+            ]
+          },
+          {
+            "_text": [
+              "Taurus"
+            ]
+          },
+          {
+            "_text": [
+              "Gemini"
+            ]
+          },
+          {
+            "_text": [
+              "Aquarius"
+            ]
+          },
+          {
+            "_text": [
+              "—"
+            ]
+          },
+          {
+            "_text": [
+              "—"
+            ]
+          },
+          {
+            "_text": [
+              "Cancer"
+            ]
+          },
+          {
+            "_text": [
+              "Capricorn"
+            ]
+          },
+          {
+            "_text": [
+              "—"
+            ]
+          },
+          {
+            "_text": [
+              "—"
+            ]
+          },
+          {
+            "_text": [
+              "Leo"
+            ]
+          },
+          {
+            "_text": [
+              "Sagittarius"
+            ]
+          },
+          {
+            "_text": [
+              "Scorpio"
+            ]
+          },
+          {
+            "_text": [
+              "Libra"
+            ]
+          },
+          {
+            "_text": [
+              "Virgo"
+            ]
+          }
+        ]
+      },
+      "SOUTH_INDIAN_SIGN_CELLS": {
+        "Pisces": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        },
+        "Aries": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "1"
+              ]
+            }
+          ]
+        },
+        "Taurus": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "2"
+              ]
+            }
+          ]
+        },
+        "Gemini": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "Cancer": {
+          "_items": [
+            {
+              "_text": [
+                "1"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "Leo": {
+          "_items": [
+            {
+              "_text": [
+                "2"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "Virgo": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "Libra": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "2"
+              ]
+            }
+          ]
+        },
+        "Scorpio": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "1"
+              ]
+            }
+          ]
+        },
+        "Sagittarius": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        },
+        "Capricorn": {
+          "_items": [
+            {
+              "_text": [
+                "2"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        },
+        "Aquarius": {
+          "_items": [
+            {
+              "_text": [
+                "1"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        }
+      },
+      "SOUTH_INDIAN_CENTER_CELLS": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SIGN_SHORT": {
+        "Aries": "Ari",
+        "Taurus": "Tau",
+        "Gemini": "Gem",
+        "Cancer": "Can",
+        "Leo": "Leo",
+        "Virgo": "Vir",
+        "Libra": "Lib",
+        "Scorpio": "Sco",
+        "Sagittarius": "Sag",
+        "Capricorn": "Cap",
+        "Aquarius": "Aqu",
+        "Pisces": "Pis"
+      },
+      "SIGN_SYMBOL": {
+        "Aries": "♈",
+        "Taurus": "♉",
+        "Gemini": "♊",
+        "Cancer": "♋",
+        "Leo": "♌",
+        "Virgo": "♍",
+        "Libra": "♎",
+        "Scorpio": "♏",
+        "Sagittarius": "♐",
+        "Capricorn": "♑",
+        "Aquarius": "♒",
+        "Pisces": "♓"
+      },
+      "SIGNS": {
+        "_items": [
+          {
+            "_text": [
+              "Aries"
+            ]
+          },
+          {
+            "_text": [
+              "Taurus"
+            ]
+          },
+          {
+            "_text": [
+              "Gemini"
+            ]
+          },
+          {
+            "_text": [
+              "Cancer"
+            ]
+          },
+          {
+            "_text": [
+              "Leo"
+            ]
+          },
+          {
+            "_text": [
+              "Virgo"
+            ]
+          },
+          {
+            "_text": [
+              "Libra"
+            ]
+          },
+          {
+            "_text": [
+              "Scorpio"
+            ]
+          },
+          {
+            "_text": [
+              "Sagittarius"
+            ]
+          },
+          {
+            "_text": [
+              "Capricorn"
+            ]
+          },
+          {
+            "_text": [
+              "Aquarius"
+            ]
+          },
+          {
+            "_text": [
+              "Pisces"
+            ]
+          }
+        ]
+      },
+      "SIGN_RULERSHIP": {
+        "Aries": "Mars",
+        "Taurus": "Venus",
+        "Gemini": "Mercury",
+        "Cancer": "Moon",
+        "Leo": "Sun",
+        "Virgo": "Mercury",
+        "Libra": "Venus",
+        "Scorpio": "Mars",
+        "Sagittarius": "Jupiter",
+        "Capricorn": "Saturn",
+        "Aquarius": "Saturn",
+        "Pisces": "Jupiter"
+      },
+      "SIGN_ELEMENT": {
+        "Aries": "Fire",
+        "Taurus": "Earth",
+        "Gemini": "Air",
+        "Cancer": "Water",
+        "Leo": "Fire",
+        "Virgo": "Earth",
+        "Libra": "Air",
+        "Scorpio": "Water",
+        "Sagittarius": "Fire",
+        "Capricorn": "Earth",
+        "Aquarius": "Air",
+        "Pisces": "Water"
+      },
+      "SIGN_QUALITY": {
+        "Aries": "Movable",
+        "Taurus": "Fixed",
+        "Gemini": "Dual",
+        "Cancer": "Movable",
+        "Leo": "Fixed",
+        "Virgo": "Dual",
+        "Libra": "Movable",
+        "Scorpio": "Fixed",
+        "Sagittarius": "Dual",
+        "Capricorn": "Movable",
+        "Aquarius": "Fixed",
+        "Pisces": "Dual"
+      },
+      "SIGN_GENDER": {
+        "Aries": "Male",
+        "Taurus": "Female",
+        "Gemini": "Male",
+        "Cancer": "Female",
+        "Leo": "Male",
+        "Virgo": "Female",
+        "Libra": "Male",
+        "Scorpio": "Female",
+        "Sagittarius": "Male",
+        "Capricorn": "Female",
+        "Aquarius": "Male",
+        "Pisces": "Female"
+      },
+      "PLANETS": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      },
+      "PLANET_SHORT": {
+        "Sun": "Su",
+        "Moon": "Mo",
+        "Mars": "Ma",
+        "Mercury": "Me",
+        "Jupiter": "Ju",
+        "Venus": "Ve",
+        "Saturn": "Sa",
+        "Rahu": "Ra",
+        "Ketu": "Ke"
+      },
+      "PLANET_SYMBOL": {
+        "Sun": "☉",
+        "Moon": "☽",
+        "Mars": "♂",
+        "Mercury": "☿",
+        "Jupiter": "♃",
+        "Venus": "♀",
+        "Saturn": "♄",
+        "Rahu": "☊",
+        "Ketu": "☋"
+      },
+      "PLANET_EXALTATION": {
+        "Sun": "Aries",
+        "Moon": "Taurus",
+        "Mars": "Capricorn",
+        "Mercury": "Virgo",
+        "Jupiter": "Cancer",
+        "Venus": "Pisces",
+        "Saturn": "Libra",
+        "Rahu": "Taurus",
+        "Ketu": "Scorpio"
+      },
+      "PLANET_DEBILITATION": {
+        "Sun": "Libra",
+        "Moon": "Scorpio",
+        "Mars": "Cancer",
+        "Mercury": "Pisces",
+        "Jupiter": "Capricorn",
+        "Venus": "Virgo",
+        "Saturn": "Aries",
+        "Rahu": "Scorpio",
+        "Ketu": "Taurus"
+      },
+      "PLANET_FRIENDLY_SIGNS": {
+        "Sun": {
+          "_items": [
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Scorpio"
+              ]
+            }
+          ]
+        },
+        "Moon": {
+          "_items": [
+            {
+              "_text": [
+                "Cancer"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            },
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            }
+          ]
+        },
+        "Mars": {
+          "_items": [
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Cancer"
+              ]
+            },
+            {
+              "_text": [
+                "Scorpio"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            }
+          ]
+        },
+        "Mercury": {
+          "_items": [
+            {
+              "_text": [
+                "Gemini"
+              ]
+            },
+            {
+              "_text": [
+                "Virgo"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            },
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            }
+          ]
+        },
+        "Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "Cancer"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Scorpio"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            }
+          ]
+        },
+        "Venus": {
+          "_items": [
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            },
+            {
+              "_text": [
+                "Cancer"
+              ]
+            },
+            {
+              "_text": [
+                "Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Gemini"
+              ]
+            },
+            {
+              "_text": [
+                "Virgo"
+              ]
+            }
+          ]
+        },
+        "Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            },
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            },
+            {
+              "_text": [
+                "Virgo"
+              ]
+            },
+            {
+              "_text": [
+                "Gemini"
+              ]
+            }
+          ]
+        },
+        "Rahu": {
+          "_items": [
+            {
+              "_text": [
+                "Gemini"
+              ]
+            },
+            {
+              "_text": [
+                "Virgo"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            },
+            {
+              "_text": [
+                "Aries"
+              ]
+            }
+          ]
+        },
+        "Ketu": {
+          "_items": [
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Cancer"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Scorpio"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            }
+          ]
+        }
+      },
+      "PLANET_NATURE": {
+        "Sun": "Malefic",
+        "Moon": "Benefic",
+        "Mars": "Malefic",
+        "Mercury": "Benefic",
+        "Jupiter": "Benefic",
+        "Venus": "Benefic",
+        "Saturn": "Malefic",
+        "Rahu": "Malefic",
+        "Ketu": "Malefic"
+      },
+      "NORTH_INDIAN_HOUSE_ORDER": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "NORTH_INDIAN_HOUSE_CELLS": {
+        "1": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "1"
+              ]
+            }
+          ]
+        },
+        "2": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "2"
+              ]
+            }
+          ]
+        },
+        "3": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "4": {
+          "_items": [
+            {
+              "_text": [
+                "1"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "5": {
+          "_items": [
+            {
+              "_text": [
+                "2"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "6": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "3"
+              ]
+            }
+          ]
+        },
+        "7": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "2"
+              ]
+            }
+          ]
+        },
+        "8": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "1"
+              ]
+            }
+          ]
+        },
+        "9": {
+          "_items": [
+            {
+              "_text": [
+                "3"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        },
+        "10": {
+          "_items": [
+            {
+              "_text": [
+                "2"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        },
+        "11": {
+          "_items": [
+            {
+              "_text": [
+                "1"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        },
+        "12": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        }
+      },
+      "NORTH_INDIAN_CENTER_CELLS": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "HOUSE_NAMES": {
+        "1": "Lagna",
+        "2": "Dhana",
+        "3": "Sahaja",
+        "4": "Sukha",
+        "5": "Putra",
+        "6": "Ari",
+        "7": "Yuvati",
+        "8": "Mrityu",
+        "9": "Dharma",
+        "10": "Karma",
+        "11": "Labha",
+        "12": "Vyaya"
+      },
+      "HOUSE_MEANINGS": {
+        "1": "Self, Body, Personality",
+        "2": "Wealth, Family, Speech",
+        "3": "Siblings, Courage, Communication",
+        "4": "Mother, Home, Happiness",
+        "5": "Children, Intellect, Romance",
+        "6": "Enemies, Disease, Debts",
+        "7": "Marriage, Partnerships",
+        "8": "Longevity, Transformation, Occult",
+        "9": "Father, Religion, Fortune",
+        "10": "Career, Profession, Status",
+        "11": "Gains, Income, Friends",
+        "12": "Loss, Expenses, Liberation"
+      },
+      "GRID_ROWS": 4,
+      "GRID_COLS": 4,
+      "CELL_W": 13,
+      "CELL_H": 13,
+      "CHART_STYLES": {
+        "_items": [
+          {
+            "_text": [
+              "NorthIndian"
+            ]
+          },
+          {
+            "_text": [
+              "SouthIndian"
+            ]
+          },
+          {
+            "_text": [
+              "EastIndian"
+            ]
+          }
+        ]
+      },
+      "NAKSHATRAS": {
+        "_items": [
+          {
+            "_text": [
+              "Ashwini"
+            ]
+          },
+          {
+            "_text": [
+              "Bharani"
+            ]
+          },
+          {
+            "_text": [
+              "Krittika"
+            ]
+          },
+          {
+            "_text": [
+              "Rohini"
+            ]
+          },
+          {
+            "_text": [
+              "Mrigashira"
+            ]
+          },
+          {
+            "_text": [
+              "Ardra"
+            ]
+          },
+          {
+            "_text": [
+              "Punarvasu"
+            ]
+          },
+          {
+            "_text": [
+              "Pushya"
+            ]
+          },
+          {
+            "_text": [
+              "Ashlesha"
+            ]
+          },
+          {
+            "_text": [
+              "Magha"
+            ]
+          },
+          {
+            "_text": [
+              "PurvaPhalguni"
+            ]
+          },
+          {
+            "_text": [
+              "UttaraPhalguni"
+            ]
+          },
+          {
+            "_text": [
+              "Hasta"
+            ]
+          },
+          {
+            "_text": [
+              "Chitra"
+            ]
+          },
+          {
+            "_text": [
+              "Swati"
+            ]
+          },
+          {
+            "_text": [
+              "Vishakha"
+            ]
+          },
+          {
+            "_text": [
+              "Anuradha"
+            ]
+          },
+          {
+            "_text": [
+              "Jyeshtha"
+            ]
+          },
+          {
+            "_text": [
+              "Mula"
+            ]
+          },
+          {
+            "_text": [
+              "PurvaAshadha"
+            ]
+          },
+          {
+            "_text": [
+              "UttaraAshadha"
+            ]
+          },
+          {
+            "_text": [
+              "Shravana"
+            ]
+          },
+          {
+            "_text": [
+              "Dhanishta"
+            ]
+          },
+          {
+            "_text": [
+              "Shatabhisha"
+            ]
+          },
+          {
+            "_text": [
+              "PurvaBhadrapada"
+            ]
+          },
+          {
+            "_text": [
+              "UttaraBhadrapada"
+            ]
+          },
+          {
+            "_text": [
+              "Revati"
+            ]
+          }
+        ]
+      },
+      "NAKSHATRA_LORDS": {
+        "Ashwini": "Ketu",
+        "Bharani": "Venus",
+        "Krittika": "Sun",
+        "Rohini": "Moon",
+        "Mrigashira": "Mars",
+        "Ardra": "Rahu",
+        "Punarvasu": "Jupiter",
+        "Pushya": "Saturn",
+        "Ashlesha": "Mercury",
+        "Magha": "Ketu",
+        "PurvaPhalguni": "Venus",
+        "UttaraPhalguni": "Sun",
+        "Hasta": "Moon",
+        "Chitra": "Mars",
+        "Swati": "Rahu",
+        "Vishakha": "Jupiter",
+        "Anuradha": "Saturn",
+        "Jyeshtha": "Mercury",
+        "Mula": "Ketu",
+        "PurvaAshadha": "Venus",
+        "UttaraAshadha": "Sun",
+        "Shravana": "Moon",
+        "Dhanishta": "Mars",
+        "Shatabhisha": "Rahu",
+        "PurvaBhadrapada": "Jupiter",
+        "UttaraBhadrapada": "Saturn",
+        "Revati": "Mercury"
+      }
+    }
+  }
+}

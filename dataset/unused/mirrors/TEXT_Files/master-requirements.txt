@@ -1,0 +1,179 @@
+READABLE DATASET
+================================================================================
+Original file: master-requirements.json
+Dataset number: 287 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 5,545 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 14.0.0
+• policy:
+  • runtime: Node.js >=18
+  • third_party_libraries: No
+  • network_required: No
+  • python_required: No
+  • native_modules_required: No
+  • static_chart_data_in_code: No
+  • false_precision_claims: No
+  • interpretation_must_follow_calculation: Yes
+  • unsupported_features_must_be_explicit: Yes
+• requirements:
+  1.
+    • id: ASTRO-001
+    • area: Astronomy
+    • goal: Canonical offline astronomical pipeline with explicit precision metadata, ΔT, precession/nutation, aberration, light-time, topocentric options, nodes and ayanamsa.
+    • status: IMPLEMENTED_WITH_DOCUMENTED_PRECISION_LIMIT
+    • source:
+      1.
+        src/astronomy/vsop87.js
+      2.
+        src/astronomy/deltat.js
+      3.
+        src/astronomy/nutation2000b.js
+      4.
+        src/astronomy/corrections.js
+  2.
+    • id: GEO-001
+    • area: Geography
+    • goal: Offline location/timezone resolution with historical offset and DST handling; no reverse-geocoding service.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        src/time/HistoricalTimeEngine.js
+      2.
+        dataset/cities.json
+  3.
+    • id: VARGA-001
+    • area: Varga
+    • goal: Canonical D1 through supported Shodashvarga/high-sensitivity Vargas with explicit variant metadata and boundary sensitivity.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        src/charts/vargas.js
+      2.
+        src/charts/VargaRegistry.js
+      3.
+        src/prediction/vargaSignifications.js
+  4.
+    • id: CLASSICAL-001
+    • area: Classical Systems
+    • goal: Parashara, Jaimini, KP, Tajika, Lal Kitab, Prashna, Muhurta and Nadi modules remain isolated from presentation and expose provenance.
+    • status: IMPLEMENTED_WITH_VARIANT_GUARDS
+    • source:
+      1.
+        src/completion/CompleteEngine.js
+      2.
+        src/completion/SupportedVariantRegistry.js
+      3.
+        src/completion/CompleteLalKitabEngine.js
+      4.
+        src/completion/CompletePrashnaEngine.js
+      5.
+        src/muhurta/MuhurtaEngine.js
+      6.
+        src/kp/kp_system.js
+      7.
+        src/jaimini/karakamsa.js
+  5.
+    • id: YOGA-001
+    • area: Yogas
+    • goal: Data-driven yoga detection/enrichment with formation state, exceptions, strength and provenance; no hardcoded chart-specific prose.
+    • status: IMPLEMENTED_WITH_EXPLICIT_COVERAGE
+    • source:
+      1.
+        src/yoga/yogas.js
+      2.
+        src/prediction/yogaEnrichment.js
+      3.
+        dataset/yogas.json
+  6.
+    • id: BHAVA-001
+    • area: Bhava Phala
+    • goal: All 12 houses synthesized from canonical house, lord, occupant, aspect, Bala, Yoga, Dosha, Dasha and transit evidence.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        src/prediction/bhavaPhala.js
+  7.
+    • id: PRED-001
+    • area: Prediction
+    • goal: Evidence → contradiction → timing → conclusion pipeline with qualitative confidence and no fake probability.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        src/prediction/evidence_matrix.js
+      2.
+        src/quality/contradictionSynthesis.js
+      3.
+        src/domain/confidence/ConfidenceEngine.js
+      4.
+        src/prediction/unifiedEngine.js
+  8.
+    • id: REPORT-001
+    • area: Report
+    • goal: Central report registry controls section inclusion and exposes calculation audit/provenance.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        src/infrastructure/report/ReportSectionRegistry.js
+      2.
+        src/quality/auditTrail.js
+      3.
+        config/ReportFeatures.js
+  9.
+    • id: DYNAMIC-001
+    • area: Dynamic Data
+    • goal: Runtime feature/data availability is derived from the bundled dataset and registry, not stale static capability claims.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        src/prediction/datasetRegistry.js
+      2.
+        src/application/services/FeatureCapabilityRegistry.js
+  10.
+    • id: QUALITY-001
+    • area: Quality
+    • goal: Deterministic tests, invariants, golden fixtures, mutation smoke, architecture guards and production readiness gate.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        test
+      2.
+        src/application/services/ProductionReadinessGate.js
+  11.
+    • id: DEPEND-001
+    • area: Dependencies
+    • goal: Zero runtime npm dependencies and no Python/pip/native dependency.
+    • status: VERIFIED
+    • source:
+      1.
+        package.json
+      2.
+        package-lock.json
+  12.
+    • id: PRECISION-001
+    • area: Honesty
+    • goal: Do not label the reduced internal ephemeris as Swiss/JPL-grade; precision limitations remain machine-readable.
+    • status: VERIFIED
+    • source:
+      1.
+        src/infrastructure/astronomy/InternalVsop87Provider.js
+      2.
+        src/astronomy/providers/SwissEphemerisProvider.js
+      3.
+        src/astronomy/ProviderFactory.js
+  13.
+    • id: SCI-001
+    • area: Scientific Assurance
+    • goal: Separate deterministic calculation, independent reference verification, classical traceability and empirical prediction validation; forbid scientific-proof claims without evidence.
+    • status: IMPLEMENTED
+    • source:
+      1.
+        src/quality/ScientificAssurance.js
+      2.
+        src/quality/AlgorithmRegistry.js
+      3.
+        README.md

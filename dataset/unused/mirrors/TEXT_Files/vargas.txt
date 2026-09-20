@@ -1,0 +1,302 @@
+READABLE DATASET
+================================================================================
+Original file: vargas.json
+Dataset number: 435 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 2,565 bytes
+Top-level fields: 6
+
+CONTENT
+--------------------------------------------------------------------------------
+• SIGN_QUALITY_IDX:
+  1.
+    0
+  2.
+    1
+  3.
+    2
+  4.
+    0
+  5.
+    1
+  6.
+    2
+  7.
+    0
+  8.
+    1
+  9.
+    2
+  10.
+    0
+  11.
+    1
+  12.
+    2
+• TRIM_ODD:
+  TABLE (5 rows)
+  p | to
+  --------------------
+  Mars | 5
+  Saturn | 10
+  Jupiter | 18
+  Mercury | 25
+  Venus | 30
+• TRIM_EVEN:
+  TABLE (5 rows)
+  p | to
+  --------------------
+  Venus | 5
+  Mercury | 12
+  Jupiter | 20
+  Saturn | 25
+  Mars | 30
+• TRIM_MT_SIGN:
+  • Mars: 0
+  • Saturn: 10
+  • Jupiter: 8
+  • Mercury: 5
+  • Venus: 6
+• SHASHTYAMSHA_NAMES:
+  1.
+    Ghora
+  2.
+    Rakshasa
+  3.
+    Deva
+  4.
+    Kubera
+  5.
+    Yaksha
+  6.
+    Kinnara
+  7.
+    Bhrashta
+  8.
+    Kulaghna
+  9.
+    Garuda
+  10.
+    Agni
+  11.
+    Maya
+  12.
+    Purishaka
+  13.
+    Apampati
+  14.
+    Marut
+  15.
+    Kaala
+  16.
+    Sarpa
+  17.
+    Amrita
+  18.
+    Indu
+  19.
+    Mridu
+  20.
+    Komala
+  21.
+    Heramba
+  22.
+    Brahma
+  23.
+    Vishnu
+  24.
+    Maheshwara
+  25.
+    Deva
+  26.
+    Ardra
+  27.
+    Kalinasha
+  28.
+    Kshiteesa
+  29.
+    Kamadhenu
+  30.
+    Hantri
+  31.
+    Nirmala
+  32.
+    Saumya
+  33.
+    Krodhana
+  34.
+    Adhomukha
+  35.
+    Rakshasa
+  36.
+    Brahma
+  37.
+    Vishnu
+  38.
+    Maheshwara
+  39.
+    Deva
+  40.
+    Yaksha
+  41.
+    Kinnar
+  42.
+    Bhrashta
+  43.
+    Sarpa
+  44.
+    Amrita
+  45.
+    Indu
+  46.
+    Mridu
+  47.
+    Komala
+  48.
+    Heramba
+  49.
+    Brahma
+  50.
+    Vishnu
+  51.
+    Maheshwara
+  52.
+    Deva
+  53.
+    Kubera
+  54.
+    Agni
+  55.
+    Maya
+  56.
+    Purishaka
+  57.
+    Mridu
+  58.
+    Komala
+  59.
+    Kaala
+  60.
+    Sarpa
+• SHASHTYAMSHA_NATURE:
+  1.
+    Malefic
+  2.
+    Malefic
+  3.
+    Benefic
+  4.
+    Benefic
+  5.
+    Mixed
+  6.
+    Benefic
+  7.
+    Malefic
+  8.
+    Malefic
+  9.
+    Benefic
+  10.
+    Malefic
+  11.
+    Malefic
+  12.
+    Malefic
+  13.
+    Benefic
+  14.
+    Benefic
+  15.
+    Malefic
+  16.
+    Malefic
+  17.
+    Benefic
+  18.
+    Benefic
+  19.
+    Benefic
+  20.
+    Benefic
+  21.
+    Benefic
+  22.
+    Benefic
+  23.
+    Benefic
+  24.
+    Benefic
+  25.
+    Benefic
+  26.
+    Malefic
+  27.
+    Malefic
+  28.
+    Benefic
+  29.
+    Benefic
+  30.
+    Malefic
+  31.
+    Benefic
+  32.
+    Benefic
+  33.
+    Malefic
+  34.
+    Malefic
+  35.
+    Malefic
+  36.
+    Benefic
+  37.
+    Benefic
+  38.
+    Benefic
+  39.
+    Benefic
+  40.
+    Mixed
+  41.
+    Benefic
+  42.
+    Malefic
+  43.
+    Malefic
+  44.
+    Benefic
+  45.
+    Benefic
+  46.
+    Benefic
+  47.
+    Benefic
+  48.
+    Benefic
+  49.
+    Benefic
+  50.
+    Benefic
+  51.
+    Benefic
+  52.
+    Benefic
+  53.
+    Benefic
+  54.
+    Malefic
+  55.
+    Malefic
+  56.
+    Malefic
+  57.
+    Benefic
+  58.
+    Benefic
+  59.
+    Malefic
+  60.
+    Malefic

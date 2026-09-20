@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "047__json_files_planet_list_json",
+    "name": "JSON_Files_Planet-List",
+    "original_file": "JSON_Files/Planet-List.json",
+    "dataset_number": "195 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Planet-List.txt",
+    "source_sha256": "2af50b33a98ca29e698b54f99ddfef308d71af8dbd0c15f02347ea35687ce71d",
+    "source_bytes": 1080
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "planet_001",
+          "name": "Sun",
+          "hindi_name": "Surya",
+          "gender": "Male",
+          "nature": "Severe/Cruel (Kroor)",
+          "primary_signification": "Soul, Father, Government, Vitality",
+          "secondary_signification": "Eyes, Heart, Bones",
+          "exaltation_sign": "Aries (Maximum degree: 10°)",
+          "debilitation_sign": "Libra (Maximum degree: 10°)",
+          "own_sign": "Leo",
+          "mooltrikona_sign": "Leo (0° to 20°)",
+          "gemstone": "Ruby",
+          "color": "Saffron / Red",
+          "direction": "East",
+          "friends": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "enemies": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "neutrals": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "element": "Fire",
+          "default_dasha_years": 6,
+          "associated_deity": "Agni / Lord Shiva"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+READABLE DATASET
+================================================================================
+Original file: vsop87.json
+Dataset number: 443 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 45 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• LIGHT_TIME_DAYS_PER_AU: 0.0057755183

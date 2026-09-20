@@ -1,0 +1,13 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"HoraSaar V8 Labelled Prediction Outcome",
+  "type":"object",
+  "required":["id","chartId","event","cutoff","outcome","source"],
+  "properties":{
+    "id":{"type":"string"},"chartId":{"type":"string"},
+    "event":{"type":"object","required":["type","date"],"properties":{"type":{"type":"string"},"date":{"type":"string"}}},
+    "cutoff":{"type":"string"},
+    "outcome":{"type":"object","required":["observed","date"],"properties":{"observed":{"type":"boolean"},"date":{"type":"string"}}},
+    "source":{"type":"object","required":["citation","verificationStatus"],"properties":{"citation":{"type":"string"},"verificationStatus":{"enum":["verified","unverified"]}}}
+  },"additionalProperties":true
+}

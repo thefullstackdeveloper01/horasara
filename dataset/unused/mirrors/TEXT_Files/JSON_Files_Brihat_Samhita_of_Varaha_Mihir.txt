@@ -1,0 +1,240 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Brihat_Samhita_of_Varaha_Mihir.json
+Dataset number: 161 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 28,799 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• brihat_samhita:
+  • metadata:
+    • title: Brihat Samhita of Varaha Mihir
+    • alternative_titles:
+      1.
+        Bṛhat-saṃhitā
+      2.
+        Varāhi-saṃhitā
+      3.
+        Great Compendium
+    • author:
+      • name: Varahamihira
+      • alternative_names:
+        1.
+          Varāhamihira
+        2.
+          Varaha Mihir
+      • birth_death:
+        • born: 505 CE
+        • died: 587 CE
+      • father: Adityadasa
+      • birthplace: Ujjain, India
+      • era: 6th century CE
+      • court: Nine gems of Vikramaditya's court
+    • language: Sanskrit
+    • genre: Encyclopedia
+    • subject_areas:
+      1.
+        Astrology
+      2.
+        Astronomy
+      3.
+        Architecture
+      4.
+        Agriculture
+      5.
+        Botany
+      6.
+        Zoology
+      7.
+        Perfumery
+      8.
+        Gemology
+      9.
+        Meteorology
+      10.
+        Omens
+    • total_chapters: 106
+    • total_verses: < 4000 shlokas
+    • date_composed: 6th century CE
+    • place_composed: Ujjain, India
+    • commentaries:
+      TABLE (3 rows)
+      commentator | period | description | language
+      ---------------------------------------------
+      Utpala (Bhattotpala) | 10th century CE | Most authoritative commentary | 
+      Achyutananda Jha |  |  | Hindi
+      Suresh Chandra Mishra |  |  | Hindi
+    • editions:
+      1.
+        • year: 1865
+        • editor: H. Kern
+        • place: Calcutta
+      2.
+        • year: 1895-1897
+        • editor: Sudhakara Dvivedi
+        • place: Varanasi
+        • notes: With Bhattotpala's commentary
+      3.
+        • year: 1947
+        • translators:
+          1.
+            V. Subrahmanya Sastri
+          2.
+            M. Ramakrishna Bhat
+        • place: Bangalore
+        • notes: Sanskrit text with English translation
+      4.
+        • year: 1981-1982
+        • translator: M. Ramakrishna Bhat
+        • publisher: Motilal Banarsidass
+        • place: Delhi
+        • notes: With exhaustive notes and literary comments
+  • structure:
+    • organization: Chapters grouped thematically
+    • primary_divisions:
+      TABLE (2 rows)
+      name | description | chapter_range
+      ----------------------------------
+      Anga | Divination based on planets, asterisms, and zodiac signs | 1-26
+      Upanga | Miscellaneous topics including architecture, agriculture, omens, etc. | 27-106
+  • chapters:
+    TABLE (106 rows)
+    number | title | sanskrit_title | category | summary
+    ----------------------------------------------------
+    1 | Introduction | Pīṭhikā | Astrology | Introduction to astrology and its importance for kings and society.
+    2 | Canons for Astrologers | Jyotiṣa | Astrology | Qualifications and characteristics of a competent astrologer.
+    3 | Transit of the Sun | Āditya-cāra | Astronomy | Movements of the Sun and their effects.
+    4 | Transit of the Moon | Candra-cāra | Astronomy | Movements of the Moon and their effects.
+    5 | Course of Rahu | Rāhu-cāra | Astronomy | Movements of Rahu (lunar node) and eclipses.
+    6 | Transit of Mars | Bhauma-cāra | Astrology | Movements of Mars and their effects.
+    7 | Transit of Mercury | Budha-cāra | Astrology | Movements of Mercury and their effects.
+    8 | Course of Jupiter | Bṛhaspati-cāra | Astrology | Movements of Jupiter and their effects.
+    9 | Course of Venus | Śukra-cāra | Astrology | Movements of Venus and their effects.
+    10 | Transit of Saturn | Śanaiścara-cāra | Astrology | Movements of Saturn and their effects.
+    11 | Comets | Ketu | Astronomy | Description of comets and their portents.
+    12 | Canopus | Agastya | Astronomy | Rising and setting of Canopus.
+    13 | Course of the Seven Sages (Big Dipper) | Saptarṣi | Astronomy | Movements of the Big Dipper constellation.
+    14 | Divisions of Globe | Kūrma-vibhāga | Geography | Ancient geography of India divided into nine regions based on asterisms.
+    15 | Stellar Rulership | Nakṣatra-vyūha | Astrology | Arrangement and influence of lunar mansions.
+    16 | Planetary Rulership | Graha-bhaktiyoga | Astrology | Planetary worship and propitiation.
+    17 | Planetary Wars | Graha-yuddha | Astrology | Conjunctions and conflicts between planets.
+    18 | Conjunction of the Moon with Planets and Stars | Śaśigraha-samāgama | Astrology | Effects of Moon's conjunctions.
+    19 | Planetary Years and Effects | Graha-varṣaphala | Astrology | Yearly predictions based on planetary positions.
+    20 | The Planetary Triangle | Graha-śṛṅgāṭaka | Astrology | Effects of triangular planetary configurations.
+    21 | Pregnancy of Clouds | Garbha-lakṣaṇa | Meteorology | Formation and signs of rain-bearing clouds.
+    22 | Retention of Embryo | Garbha-dhāraṇa | Meteorology | Cloud retention and rainfall prediction.
+    23 | Rainfall | Pravarṣaṇa | Meteorology | Predictions about rainfall.
+    24 | The Moon's Conjunction with Rohini | Rohiṇī-yoga | Astrology | Effects of Moon's conjunction with Aldebaran.
+    25 | The Moon's Conjunction with Svati | Svāti-yoga | Astrology | Effects of Moon's conjunction with Arcturus.
+    26 | The Moon's Conjunction with Asadha | Āṣāḍhī-yoga | Astrology | Effects of Moon's conjunction with Asadha.
+    27 | The Wind Circle | Vāta-cakra | Meteorology | Cyclical patterns of winds.
+    28 | Signs of Immediate Rain | Sadyo-varṣaṇa | Meteorology | Predicting imminent rainfall.
+    29 | Prognostics from Flowers and Creepers | Kusuma-latā | Botany | Predictions based on flowering patterns.
+    30 | Indications at Dawn and Twilight | Sandhyā-lakṣaṇa | Meteorology | Colors and signs during twilight.
+    31 | Glow at the Horizon | Digdāha | Meteorology | Atmospheric glow phenomena.
+    32 | Signs of Earthquake | Bhūkampa-lakṣaṇa | Seismology | Earthquake prediction and effects.
+    33 | Signs of Meteors | Ulkā | Astronomy | Meteor sightings and portents.
+    34 | Characteristics of Halos | Pariveṣa-lakṣaṇa | Astronomy | Halos around Sun and Moon.
+    35 | Signs of Rainbows | Indrāyudha-lakṣaṇa | Meteorology | Rainbow phenomena and predictions.
+    36 | Signs of Aerial City | Gandharvanagara-lakṣaṇa | Meteorology | Mirage and atmospheric phenomena.
+    37 | Mock Suns | Pratisūrya-lakṣaṇa | Astronomy | Parhelia (sun dogs) and their meaning.
+    38 | Indications of Haze | Rajas-lakṣaṇa | Meteorology | Dust storms and haze.
+    39 | Symptoms of Hurricane | Vātyā | Meteorology | Cyclones and severe weather.
+    40 | Growth of Crops | Sasya-jātaka | Agriculture | Crop prediction based on astronomical signs.
+    41 | Classification of Substances | Dravya-niścaya | Economics | Classification and valuation of commodities.
+    42 | Fluctuations of Prices | Mūlya-niścaya | Economics | Price fluctuations based on planetary influences.
+    43 | Glory of Indra's Banner | Indra-dhvaja | Rituals | Indra's banner ceremony.
+    44 | Lustration Ceremony | Nīrājana-vidhi | Rituals | Purification rituals for kings.
+    45 | The Wagtail | Khañjana-lakṣaṇa | Omens | Omens from wagtail bird behavior.
+    46 | Portentous Phenomena | Utpāta-adhyāya | Omens | Public calamities and omens.
+    47 | Motley Miscellany | Mayūra-citraka | Miscellaneous | Miscellaneous topics including peacock-related omens.
+    48 | Royal Ablution | Puṣya-snāna | Rituals | Royal bathing ceremony during Pushya.
+    49 | Signs of Crowns | Paṭṭa-lakṣaṇa | Royalty | Characteristics of royal crowns.
+    50 | Signs of Swords | Khaḍga-lakṣaṇa | Royalty | Characteristics of swords.
+    51 | Science of Limbs | Aṅga-vidyā | Physiognomy | Body marks and their meanings.
+    52 | Characteristics of Pimples | Piṭaka-lakṣaṇa | Physiognomy | Pimples and skin marks as omens.
+    53 | Architecture | Vāstu-vidyā | Architecture | Principles of civil architecture and town planning.
+    54 | Exploration of Water Springs | Udakārgala | Hydrology | Finding underground water sources.
+    55 | Treatment of Trees | Vṛkṣāyurveda | Botany | Arboriculture and tree care.
+    56 | Description of Temples | Prāsāda-lakṣaṇa | Architecture | Temple architecture and construction.
+    57 | Preparation of Adamantine Glue | Vajra-lepa-lakṣaṇa | Chemistry | Making durable cement or glue.
+    58 | Description of Idols | Pratimā-lakṣaṇa | Iconography | Characteristics of temple idols.
+    59 | Entering Forest | Vana-sampraveśa | Omens | Auspicious times for entering forests.
+    60 | Installation of Images | Pratimā-pratiṣṭhāpana | Iconography | Consecration of temple idols.
+    61 | Features of Cows | Go-lakṣaṇa | Zoology | Characteristics of cows and oxen.
+    62 | Characteristics of Dogs | Śva-lakṣaṇa | Zoology | Characteristics of dogs.
+    63 | Signs of Cocks | Kukkuṭa-lakṣaṇa | Zoology | Characteristics of roosters.
+    64 | Characteristics of Tortoises | Kūrma-lakṣaṇa | Zoology | Characteristics of tortoises.
+    65 | Signs of Goats | Chāga-lakṣaṇa | Zoology | Characteristics of goats.
+    66 | Characteristics of Horses | Aśva-lakṣaṇa | Zoology | Characteristics of horses.
+    67 | Signs of Elephants | Gaja-lakṣaṇa | Zoology | Characteristics of elephants.
+    68 | Signs of Men | Puruṣa-lakṣaṇa | Physiognomy | Physical characteristics of men.
+    69 | Signs of the Great Five Men | Pañca-puruṣa-lakṣaṇa | Physiognomy | Characteristics of five types of great men.
+    70 | Characteristics of Maidens | Kanyā-lakṣaṇa | Physiognomy | Characteristics of young women.
+    71 | Omens from Slits of Garments | Vastra-cheda-lakṣaṇa | Omens | Omens from torn clothing.
+    72 | Signs of Chowries | Cāmara-lakṣaṇa | Royalty | Characteristics of royal whisks.
+    73 | Signs of Umbrellas | Chatra-lakṣaṇa | Royalty | Characteristics of royal umbrellas.
+    74 | Praise of Women | Strī-praśaṃsā | Sociology | Qualities and praise of women.
+    75 | Winning of Affection | Saubhāgya-karaṇa | Sociology | Methods for gaining affection and personality development.
+    76 | Erotic Recipes | Kāndarpikā | Medicine | Recipes for vitality and sexual health.
+    77 | Preparation of Perfumes | Gandha-yukti | Perfumery | Manufacture of perfumes and aromatics.
+    78 | Union of Man and Woman | Puṃstrī-samāyoga | Sociology | Sexual relations and compatibility.
+    79 | Signs of Couches and Seats | Śayyā-āsana | Domestic | Characteristics of beds and seats.
+    80 | Examination of Gems | Muktā-lakṣaṇa | Gemology | Characteristics of pearls.
+    81 | Signs of Pearls | Padmarāga-lakṣaṇa | Gemology | Characteristics of rubies.
+    82 | Signs of Rubies | Marakata-lakṣaṇa | Gemology | Characteristics of emeralds.
+    83 | Signs of Emeralds | Vajra-lakṣaṇa | Gemology | Characteristics of diamonds.
+    84 | Signs of Lamps | Dīpa-lakṣaṇa | Domestic | Characteristics of lamps and lighting.
+    85 | Token of Tooth Sticks | Danta-dhāvana-kāṣṭha | Hygiene | Characteristics of wood for toothbrushes.
+    86 | Omens through Birds and Beasts | Śakuna | Omens | Omens from bird and animal behavior.
+    87 | The Circle of Quarters | Dig-cakra | Omens | Directional omens.
+    88 | Cries of Birds and Beasts | Vāyasādi-vākya | Omens | Cries of crows and other creatures.
+    89 | The Circle of Dogs | Śva-cakra | Omens | Behavior of dogs as omens.
+    90 | The Cries of Jackals | Śṛgāla-vākya | Omens | Jackal cries and their meanings.
+    91 | Behaviour of Wild Animals | Mṛga-ceṣṭā | Omens | Behavior of wild animals.
+    92 | Intention of Cows | Go-ceṣṭā | Omens | Behavior of cows as omens.
+    93 | Intention of Horses | Aśva-ceṣṭā | Omens | Behavior of horses as omens.
+    94 | Attitude of Elephants | Gaja-ceṣṭā | Omens | Behavior of elephants as omens.
+    95 | Cries of Crows | Kāka-vākya | Omens | Crow calls and their meanings.
+    96 | Further Omens | Śakuna-adhyāya | Omens | Additional omens and signs.
+    97 | Time of Fruition of Effects | Phala-prāpti-kāla | Astrology | Timing of karmic effects.
+    98 | Functions and Properties of Asterisms | Nakṣatra-karma | Astrology | Functions of lunar mansions.
+    99 | Functions and Properties of Lunar Days | Tithi-karma | Astrology | Properties of lunar days.
+    100 | Qualities of the Karanas | Karaṇa-guṇa | Astrology | Qualities of the karanas (half-tithis).
+    101 | Effects of Birth in the Asterisms | Janma-nakṣatra-phala | Astrology | Effects of birth in different lunar mansions.
+    102 | Division of the Zodiac | Rāśi-vibhāga | Astrology | Divisions of the zodiac.
+    103 | Planetary Combinations at Marriage | Vivāha-paṭala | Astrology | Auspicious planetary combinations for marriage.
+    104 | Transits of Planets | Graha-gocara | Astrology | Effects of planetary transits.
+    105 | Worship of the Stellar Day | Rūpa-satra | Astrology | Worship of stellar deities.
+    106 | Conclusion | Upasaṃhāra | Conclusion | Concluding remarks.
+  • key_concepts:
+    • scientific_approach: Varahamihira adhered to scientific principles in astrology, quoting ancient sages but stating his own confirmed decisions.
+    • literary_merit: The text employs at least 63 different Sanskrit metres, with Arya being the most frequent.
+    • influence: The text became more popular than earlier similar texts due to its comprehensiveness and lucidity.
+    • combinatorics:
+      • description: The text contains early combinatorics related to perfume blending.
+      • verse: ṣoḍaśake dravyagaṇe caturvikalpena bhidyamānānām | aṣṭādaśa jāyante śatāni sahitāni viṃśatyā ||
+      • meaning: If there are 16 types of substances, choosing 4 at a time yields 1820 types of perfumes.
+    • geographical_content: Chapter 14 describes ancient India divided into 9 regions based on asterisms, taken from Parasara Tantra.
+    • hydrology: Chapter 54 (Udakārgala) describes methods for finding underground water.
+    • arboriculture: Chapter 55 (Vṛkṣāyurveda) covers tree planting, care, diseases, and fertilizers.
+  • historical_context:
+    • author_background: Varahamihira was the son of Adityadasa of Ujjain and was ranked among the nine gems of Vikramaditya's court.
+    • date_debate: Scholars place Varahamihira in the 5th-6th century CE. Al-Biruni confirms 505 CE as the date of his Pancha Siddhantika.
+    • contemporaries: He was a contemporary of the neo-Kalidasa and Amarasimha.
+    • source_material: He drew from earlier Samhitas by Parasara, Garga, and others, acknowledging their contributions.
+  • manuscripts:
+    TABLE (3 rows)
+    year | type | origin | script
+    -----------------------------
+    1279 CE | Palm-leaf manuscript | Buddhist monastery | 
+     | Devanagari manuscript | Jain temple | 
+     | Manuscript with Utpala's commentary |  | Grantha script
+  • translations:
+    TABLE (1 rows)
+    language | title | translator | patron | period
+    -----------------------------------------------
+    Persian | Tarjamah i Barahi | Abd Al-Aziz ibn Shams ibn Baha' Nuri Dihlavwi | Delhi Sultan Firuz Shah Tughluq | circa 1350-1375 CE

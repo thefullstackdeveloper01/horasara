@@ -1,0 +1,24 @@
+READABLE DATASET
+================================================================================
+Original file: rule-registry.json
+Dataset number: 335 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 2,249 bytes
+Top-level records: 10
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (10 rows)
+id | system | topic | status | source
+-------------------------------------
+BPHS.DASHA.VIMSHOTTARI | Parashara | Dasha | VERIFIED_IMPLEMENTATION | Brihat Parashara Hora Shastra dasha chapters; exact local edition should be cited in deployments.
+BPHS.DASHA.UDU-CONDITIONAL | Parashara | Conditional Udu Dashas | IMPLEMENTED_WITH_VARIANTS | BPHS Ch.46-50; eligibility conditions are exposed rather than assumed.
+KP.CUSP-SUB-LORD | KP | Cuspal sub-lord | IMPLEMENTED_VARIANT | Krishnamurti Paddhati; 249-sub framework.
+JAIMINI.ARUDHA | Jaimini | Arudha | IMPLEMENTED_VARIANT | Jaimini tradition; exception handling may differ by school.
+JAIMINI.KARAKAMSHA | Jaimini | Karakamsa | IMPLEMENTED_VARIANT | Jaimini tradition; interpretation is lineage-dependent.
+TAJIKA.VARSHAPHAL | Tajika | Annual chart | IMPLEMENTED_VARIANT | Tajika Varshaphala; aspect and Mudda conventions are configurable/edition-dependent.
+LAL.KITAB.35Y | Lal Kitab | 35-year cycle | IMPLEMENTED_EDITION_DEFAULT | Bundled Lal Kitab timing dataset; anchor and edition are explicitly exposed.
+SBC.81GRID | Sarvatobhadra | 81-varga chakra | IMPLEMENTED_LAYOUT_VARIANT | Sarvatobhadra tradition; published diagrams/layouts differ, so layoutVariant is explicit.
+PRASHNA.HORARY | Prashna | Horary | IMPLEMENTED_RULE_LAYER | Classical horary traditions; Prashna Marga, Tajika and KP variants are not silently blended.
+MILAN.ASHTAKOOT | Milan | Ashtakoot | VERIFIED_IMPLEMENTATION | Bundled 36-point Ashtakoot reference dataset and supplementary Rajju/Vedha rules.

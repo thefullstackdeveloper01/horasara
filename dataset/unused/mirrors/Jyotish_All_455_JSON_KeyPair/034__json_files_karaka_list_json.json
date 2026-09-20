@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "034__json_files_karaka_list_json",
+    "name": "JSON_Files_Karaka-List",
+    "original_file": "JSON_Files/Karaka-List.json",
+    "dataset_number": "180 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Karaka-List.txt",
+    "source_sha256": "186fa197581758203fd99842f6701424b080a731b3006f02d152cc1203f469ab",
+    "source_bytes": 908
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "karaka_001",
+        "name": "Atmakaraka (Soul Significator)",
+        "logic": "The planet with the highest degree in the birth chart.",
+        "prediction_use": "Shows the soul's primary desire and the main karmic lessons for this lifetime. The goal is to overcome the negative traits of this planet.",
+        "example_interpretation": "If Venus is Atmakaraka, the native struggles with relationships and desires. They must learn unconditional love and detachment.",
+        "source_text": "Jaimini Sutras"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "version":"8.0.0",
+  "policy":{"implementedIsNotVerified":true,"jsonIsSourceOfTruth":true,"noFabricatedEvidence":true,"empiricalAccuracyRequiresVerifiedOutcomes":true},
+  "areas":[
+    "astronomical precision","rashi/bhava","vargas","strength","ashtakavarga","dashas","yoga/dosha","KP","Jaimini","Lal Kitab","Tajik/Varshaphal","panchanga","transits","muhurta","prediction engine","prediction validation","historical corpus","cross-system reconciliation","rule coverage","prediction UX/evidence","historical event research","scale/performance","observability","enterprise administration","messaging/reporting"
+  ],
+  "verification":{"referenceBenchmark":"dataset/validation/v8/reference-benchmark.json","historicalCorpus":"dataset/validation/v8/corpus-manifest.json","predictionCorpus":"dataset/validation/v8/corpus-manifest.json"}
+}

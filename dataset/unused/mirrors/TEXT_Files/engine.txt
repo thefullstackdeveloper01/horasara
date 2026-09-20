@@ -1,0 +1,282 @@
+READABLE DATASET
+================================================================================
+Original file: engine.json
+Dataset number: 116 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 13,356 bytes
+Top-level fields: 8
+
+CONTENT
+--------------------------------------------------------------------------------
+• AREA_CFG:
+  • career:
+    • houses:
+      1.
+        10
+      2.
+        2
+      3.
+        6
+      4.
+        11
+    • planets:
+      1.
+        Sun
+      2.
+        Saturn
+      3.
+        Mercury
+    • hw:
+      • 2: 0.2
+      • 6: 0.2
+      • 10: 0.4
+      • 11: 0.2
+  • wealth:
+    • houses:
+      1.
+        2
+      2.
+        11
+      3.
+        5
+      4.
+        9
+    • planets:
+      1.
+        Jupiter
+      2.
+        Venus
+      3.
+        Mercury
+    • hw:
+      • 2: 0.35
+      • 5: 0.15
+      • 9: 0.15
+      • 11: 0.35
+  • marriage:
+    • houses:
+      1.
+        7
+      2.
+        2
+      3.
+        5
+      4.
+        11
+    • planets:
+      1.
+        Venus
+      2.
+        Jupiter
+      3.
+        Moon
+    • hw:
+      • 2: 0.15
+      • 5: 0.2
+      • 7: 0.5
+      • 11: 0.15
+  • health:
+    • houses:
+      1.
+        1
+      2.
+        6
+      3.
+        8
+      4.
+        12
+    • planets:
+      1.
+        Sun
+      2.
+        Mars
+      3.
+        Saturn
+    • hw:
+      • 1: 0.4
+      • 6: 0.2
+      • 8: 0.25
+      • 12: 0.15
+    • inv:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+  • children:
+    • houses:
+      1.
+        5
+      2.
+        9
+      3.
+        1
+    • planets:
+      1.
+        Jupiter
+      2.
+        Moon
+      3.
+        Sun
+    • hw:
+      • 1: 0.15
+      • 5: 0.6
+      • 9: 0.25
+  • spirituality:
+    • houses:
+      1.
+        9
+      2.
+        12
+      3.
+        5
+    • planets:
+      1.
+        Jupiter
+      2.
+        Ketu
+      3.
+        Saturn
+    • hw:
+      • 5: 0.2
+      • 9: 0.45
+      • 12: 0.35
+  • property:
+    • houses:
+      1.
+        4
+      2.
+        2
+      3.
+        11
+    • planets:
+      1.
+        Moon
+      2.
+        Mars
+      3.
+        Saturn
+    • hw:
+      • 2: 0.3
+      • 4: 0.5
+      • 11: 0.2
+  • foreign:
+    • houses:
+      1.
+        12
+      2.
+        9
+      3.
+        3
+    • planets:
+      1.
+        Rahu
+      2.
+        Saturn
+      3.
+        Mercury
+    • hw:
+      • 3: 0.25
+      • 9: 0.35
+      • 12: 0.4
+• AREA_LABELS:
+  • career: Career & Status
+  • wealth: Wealth & Finance
+  • marriage: Marriage & Relationships
+  • health: Health & Vitality
+  • children: Children & Creativity
+  • spirituality: Spirituality & Wisdom
+  • property: Property & Comforts
+  • foreign: Foreign & Travel
+• DIG_SCORE:
+  • Exalted: 5
+  • Own: 4
+  • Moolatrikona: 4
+  • Friend: 3
+  • Neutral: 3
+  • Enemy: 2
+  • Debilitated: 1
+• DASHA_THEME:
+  • Sun: authority, career recognition, and self-confidence
+  • Moon: emotions, home life, and public recognition
+  • Mars: energy, property, and competitive effort
+  • Mercury: business, communication, and analytical opportunities
+  • Jupiter: wisdom, expansion, children, and financial growth
+  • Venus: relationships, creativity, luxury, and partnerships
+  • Saturn: discipline, karma clearance, hard work, and long-term building
+  • Rahu: ambition, foreign connections, and unconventional paths
+  • Ketu: spiritual depth, past karma, detachment, and research
+• INSIGHT_TEMPLATES:
+  • career:
+    • Excellent: Your career sector carries exceptional planetary support. During the {maha} Mahadasha — a period emphasising {theme} — professional advancement and recognition are strongly favoured. This is the right time to pursue leadership roles and ambitious targets.
+    • Good: Career is well-supported in your chart. The {maha} period brings {theme} into focus, creating steady opportunities for growth. Build professional relationships methodically and your efforts will compound into meaningful advancement.
+    • Average: Career progress will come through consistent effort rather than sudden breaks. The {maha} Mahadasha asks you to focus on {theme} — channel this energy into skill development and relationship building rather than expecting rapid promotion.
+    • Challenging: Career demands extra resilience during this period. Avoid conflicts with authority and focus on demonstrating reliability. The {maha} Dasha theme of {theme} can be redirected constructively — patience now builds the foundation for later success.
+    • Difficult: Career stability takes priority over expansion right now. Consolidate your position, deliver quality work, and avoid risky moves. The {maha} period will pass, and the groundwork you lay now will matter.
+  • wealth:
+    • Excellent: Wealth prospects are highly favourable with strong Jupiter and house indicators. The {maha} Dasha period supports sound financial decisions and accumulation. Consider long-term investments, property, or structured savings — this is a good window.
+    • Good: Financial prospects are positive and growing. The {maha} period supporting {theme} can translate into increased earning potential if you act strategically. Diversify income streams and avoid impulsive expenditure.
+    • Average: Finances require careful management. Income is steady but growth requires deliberate planning during {maha} Dasha. Build your savings systematically and avoid speculative risks — conservative financial discipline pays off.
+    • Challenging: Financial caution is warranted. Unexpected expenses or income fluctuations are possible. During {maha} Dasha, prioritise an emergency fund and avoid lending money or speculative investments. Every rupee saved now matters.
+    • Difficult: This is a period for financial discipline above all else. Reduce non-essential spending and focus on maintaining what you have. The {maha} Mahadasha creates friction — professional financial advice can help navigate this phase.
+  • marriage:
+    • Excellent: Relationship prospects are exceptionally positive. Venus and the 7th house carry strong indicators for fulfilling partnership. During {maha} Dasha, the emphasis on {theme} creates ideal conditions — be open to meaningful connection.
+    • Good: Relationships are well-supported. The {maha} period brings opportunities for deepening bonds or finding a compatible partner. Mutual respect and open communication are your most powerful tools during this time.
+    • Average: Relationships require conscious nurturing. Your chart shows mixed signals in the partnership sector — avoid taking loved ones for granted. During {maha} Dasha, invest genuine time and attention in your most important relationships.
+    • Challenging: Partnerships may face testing periods. The {maha} Mahadasha emphasises {theme} — channel this into greater self-awareness rather than blame. Professional counselling can be genuinely beneficial during such phases.
+    • Difficult: Relationship matters require exceptional patience and empathy. Avoid forcing outcomes and focus on your own inner stability. The {maha} period will shift, and the clarity you develop now strengthens future relationships.
+  • health:
+    • Excellent: Health vitality is strongly supported in your chart. Maintain your current healthy routines during {maha} Dasha and you can expect sustained energy and resilience. Regular check-ups remain wise regardless of planetary strength.
+    • Good: Health is generally positive. The {maha} period may bring occasional fluctuations — listen to your body early and address minor issues promptly. Consistent sleep, nutrition, and exercise form the foundation of your wellbeing.
+    • Average: Health requires conscious attention during this period. Stress management and adequate rest are essential. During {maha} Dasha, avoid overexertion and schedule regular medical check-ups — prevention is always more effective than cure.
+    • Challenging: Health monitoring is important. The {maha} Mahadasha may create some strain — reduce stimulants, maintain regular routines, and consult your doctor for any persistent symptoms. Do not ignore your body's signals.
+    • Difficult: This period calls for serious health vigilance. Maintain a sattvic lifestyle, get sufficient rest, and stay in close contact with your healthcare provider. The {maha} Dasha will shift — prioritise your foundation now.
+  • children:
+    • Excellent: The 5th house and Jupiter placement strongly favour children and creative expression. During {maha} Dasha, the environment is supportive for family expansion or major creative achievement — trust the timing.
+    • Good: Prospects for children and creativity are positive. The {maha} period creates a generally supportive window — prepare yourself on all levels and remain open to this chapter unfolding naturally.
+    • Average: Children and creativity require patience. Your chart shows moderate 5th house support. During {maha} Dasha, focus on inner preparation — emotional readiness, financial stability, and health — so you are ready when the window opens fully.
+    • Challenging: Some delays or complications in this area are possible. Maintain optimism, seek appropriate specialist guidance, and avoid comparing your timeline to others. Every chart has its own divine timing.
+    • Difficult: This area needs special attention and deep patience. Seek both medical and astrological guidance. The {maha} period is better for inner preparation and healing than forcing external outcomes.
+  • spirituality:
+    • Excellent: Your chart shows exceptional spiritual potential. The {maha} period — emphasising {theme} — is highly conducive to deep spiritual growth. Meditation, sacred study, and pilgrimage can yield transformative inner experiences now.
+    • Good: Spiritual growth is well-supported. Regular practice during {maha} Dasha will yield meaningful inner development. Even modest daily practices — 20 minutes of meditation, reading sacred texts — accumulate into profound shifts.
+    • Average: Spiritual life requires discipline but the rewards are real. Set aside daily time for reflection or prayer during {maha} Dasha. Consistency matters more than intensity — small, daily practices build lasting inner strength.
+    • Challenging: Spiritual life may feel dry or disconnected. This is often the precursor to deeper understanding — darkness before dawn. Seek community or a qualified teacher during {maha} Dasha to help maintain your inner thread.
+    • Difficult: This period calls for surrender and deep trust. The challenges themselves are the spiritual curriculum. Embrace practices that cultivate peace rather than seeking outer validation — this {maha} phase is reshaping you from within.
+  • property:
+    • Excellent: Property prospects are excellent with strong 4th house and Mars indicators. The {maha} period creates favourable conditions for real estate decisions — research and act decisively when the right opportunity appears.
+    • Good: Property matters are generally well-supported. Consider reviewing your housing situation during {maha} Dasha — well-researched property decisions made now tend to yield solid long-term returns.
+    • Average: Property transactions require extra due diligence. Avoid impulse real estate decisions. During {maha} Dasha, focus on improving your current living environment rather than major acquisitions without thorough research.
+    • Challenging: Property dealings may face complications or delays. Verify all documents with a qualified lawyer before signing anything. The {maha} period is better for maintaining existing property than aggressive new acquisitions.
+    • Difficult: Major property decisions are best deferred if possible. Focus on making your current environment comfortable and secure. When the planetary picture shifts, revisit property expansion with fresh information.
+  • foreign:
+    • Excellent: Foreign connections and travel are highly favoured. Rahu's placement indicates strong international opportunity. During {maha} Dasha, actively pursue foreign work, study, or partnerships — this window is genuinely auspicious.
+    • Good: Foreign prospects are available and generally positive. Stay open to international connections during {maha} period — cross-cultural exchange can be enriching personally and professionally.
+    • Average: Foreign opportunities may arise but require extra effort to materialise. Prepare credentials and language skills during {maha} Dasha so you are positioned to capitalise when stronger periods arrive.
+    • Challenging: Foreign plans may face delays or documentation hurdles. Ensure all paperwork is in order well in advance. The {maha} period is better for local consolidation than major foreign ventures without a clear opportunity.
+    • Difficult: Avoid significant international commitments unless absolutely necessary. Strengthen your local foundation first. The planetary picture will shift — plan thoroughly now and execute when conditions improve.
+• KENDRA_H:
+  1.
+    1
+  2.
+    4
+  3.
+    7
+  4.
+    10
+• TRIKONA_H:
+  1.
+    1
+  2.
+    5
+  3.
+    9
+• DUSTHANA_H:
+  1.
+    6
+  2.
+    8
+  3.
+    12

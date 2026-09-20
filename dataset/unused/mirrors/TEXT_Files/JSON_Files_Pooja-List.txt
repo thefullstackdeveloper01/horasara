@@ -1,0 +1,49 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Pooja-List.json
+Dataset number: 196 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 1,006 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: pooja_001
+  • name: Kaal Sarp Dosh Shanti Puja
+  • primary_deity: Lord Shiva
+  • purpose: To nullify the negative effects of Kaal Sarp Yog in the birth chart.
+  • best_location: Trimbakeshwar, Nashik
+  • materials_required:
+    1.
+      Silver Snake idol
+    2.
+      Rudraksha mala
+    3.
+      Milk
+    4.
+      Honey
+    5.
+      Bilva Patra
+  • duration: 3 to 4 hours
+  • approx_cost_inr: 5100
+  • benefits: Removes obstacles in marriage, career growth, and health issues.
+2.
+  • id: pooja_002
+  • name: Mangal Dosh Bhai Dooj Puja
+  • primary_deity: Lord Mangal (Mars)
+  • purpose: To cancel the negative effects of Mars in 1st, 4th, 7th, 8th, or 12th house before marriage.
+  • best_location: Mangal Nath Temple, Ujjain
+  • materials_required:
+    1.
+      Red flowers
+    2.
+      Red cloth
+    3.
+      Jaggery
+    4.
+      Copper
+  • duration: 1 to 2 hours
+  • approx_cost_inr: 2100
+  • benefits: Ensures marital harmony, prevents spouse's death or illness.

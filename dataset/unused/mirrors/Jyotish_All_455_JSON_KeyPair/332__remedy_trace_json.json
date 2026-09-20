@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "332__remedy_trace_json",
+    "name": "remedy-trace",
+    "original_file": "remedy-trace.json",
+    "dataset_number": "332 of 455",
+    "format": "json",
+    "source_readable_file": "remedy-trace.txt",
+    "source_sha256": "1d0dbe7508255a504b2722c07614c33073f1b16d6c53fa1047a9b1949176028d",
+    "source_bytes": 499
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "categories": {
+        "_items": [
+          {
+            "_text": [
+              "mantra"
+            ]
+          },
+          {
+            "_text": [
+              "puja"
+            ]
+          },
+          {
+            "_text": [
+              "daan"
+            ]
+          },
+          {
+            "_text": [
+              "gemstone"
+            ]
+          },
+          {
+            "_text": [
+              "rudraksha"
+            ]
+          },
+          {
+            "_text": [
+              "yantra"
+            ]
+          },
+          {
+            "_text": [
+              "herbal"
+            ]
+          },
+          {
+            "_text": [
+              "behavioral"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+READABLE DATASET
+================================================================================
+Original file: yogas-doshas.json
+Dataset number: 452 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 7,228 bytes
+Top-level fields: 10
+
+CONTENT
+--------------------------------------------------------------------------------
+• MINOR_SOLAR_YOGA_NAMES:
+  1.
+    Vesi Yoga
+  2.
+    Voshi Yoga
+  3.
+    Ubhayachari Yoga
+• MINOR_SOLAR_YOGAS:
+  • Vesi Yoga:
+    • Formation: Any planet other than the Moon occupies the 2nd house from the Sun.
+    • Effects: The native is likely to be happy, hardworking, balanced, and respected.
+  • Voshi Yoga:
+    • Formation: Any planet other than the Moon occupies the 12th house from the Sun.
+    • Effects: The native is likely to be generous, famous, learned, and financially comfortable.
+  • Ubhayachari Yoga:
+    • Formation: Planets other than the Moon occupy both the 2nd and 12th houses from the Sun.
+    • Effects: The native is likely to be strong, wealthy, healthy, and享有 a good reputation.
+• MINOR_LUNAR_YOGA_NAMES:
+  1.
+    Sunapha Yoga
+  2.
+    Anapha Yoga
+  3.
+    Durudhara Yoga
+  4.
+    Kemadruma Yoga
+• MINOR_LUNAR_YOGAS:
+  • Sunapha Yoga:
+    • Formation: Any planet other than the Sun occupies the 2nd house from the Moon.
+    • Effects: The native is likely to be intelligent, wealthy, and self-made.
+  • Anapha Yoga:
+    • Formation: Any planet other than the Sun occupies the 12th house from the Moon.
+    • Effects: The native is likely to be healthy, famous, and inclined towards spiritual pursuits.
+  • Durudhara Yoga:
+    • Formation: Planets other than the Sun occupy both the 2nd and 12th houses from the Moon.
+    • Effects: The native is likely to be wealthy, charitable, and enjoy various comforts of life.
+  • Kemadruma Yoga:
+    • Formation: No planets occupy the 2nd or 12th house from the Moon (excluding Sun, Rahu, Ketu).
+    • Effects: Can indicate struggles, financial instability, and loneliness if not cancelled out by other planetary placements.
+• PANCHA_MAHAPURUSHA_YOGA_NAMES:
+  1.
+    Ruchaka Yoga
+  2.
+    Bhadra Yoga
+  3.
+    Hamsa Yoga
+  4.
+    Malavya Yoga
+  5.
+    Sasa Yoga
+• PANCHA_MAHAPURUSHA_YOGAS:
+  • Ruchaka Yoga:
+    • Planet: Mars
+    • Formation: Mars is in its own sign or exaltation in a Kendra (1st, 4th, 7th, or 10th house).
+    • Effects: The native is likely to be brave, strong, wealthy, and a natural leader.
+  • Bhadra Yoga:
+    • Planet: Mercury
+    • Formation: Mercury is in its own sign or exaltation in a Kendra.
+    • Effects: The native is likely to be intelligent, communicative, wealthy, and deeply educated.
+  • Hamsa Yoga:
+    • Planet: Jupiter
+    • Formation: Jupiter is in its own sign or exaltation in a Kendra.
+    • Effects: The native is likely to be spiritual, moral, pure-hearted, and respected by scholars.
+  • Malavya Yoga:
+    • Planet: Venus
+    • Formation: Venus is in its own sign or exaltation in a Kendra.
+    • Effects: The native is likely to be wealthy, beautiful, artistic, and enjoy luxuries and comforts.
+  • Sasa Yoga:
+    • Planet: Saturn
+    • Formation: Saturn is in its own sign or exaltation in a Kendra.
+    • Effects: The native is likely to be hardworking, disciplined, authoritative, and a leader of the masses.
+• OTHER_AUSPICIOUS_YOGA_NAMES:
+  1.
+    Gajakesari Yoga
+  2.
+    Budhaditya Yoga
+  3.
+    Lakshmi Yoga
+  4.
+    Saraswati Yoga
+  5.
+    Chandra-Mangala Yoga
+  6.
+    Neecha Bhanga Raja Yoga
+• OTHER_AUSPICIOUS_YOGAS:
+  • Gajakesari Yoga:
+    • Formation: Jupiter is in a Kendra (1st, 4th, 7th, or 10th) from the Moon.
+    • Effects: The native is likely to be intelligent, prosperous, virtuous, and respected.
+  • Budhaditya Yoga:
+    • Formation: Sun and Mercury are conjunct in the same house.
+    • Effects: The native is likely to be intelligent, educated, and possess leadership qualities.
+  • Lakshmi Yoga:
+    • Formation: The lord of the 9th house is in its own sign, exaltation, or a Kendra/Trikona, and the lord of the Lagna is strong.
+    • Effects: The native is likely to be very wealthy, attractive, and enjoy a luxurious life.
+  • Saraswati Yoga:
+    • Formation: Jupiter, Venus, and Mercury are in Kendra or Trikona houses, or the 2nd house.
+    • Effects: The native is likely to be highly learned, intelligent, artistic, and spiritual.
+  • Chandra-Mangala Yoga:
+    • Formation: Moon and Mars are conjunct in the same house.
+    • Effects: The native is likely to be wealthy, hardworking, and possess strong drive and ambition.
+  • Neecha Bhanga Raja Yoga:
+    • Formation: A debilitated planet has its cancellation of debilitation (e.g., the lord of its exaltation sign is in a Kendra from the Lagna or Moon).
+    • Effects: The native may experience early struggles but eventually attains great power, wealth, and status.
+• DOSHA_NAMES:
+  1.
+    Mangal Dosha
+  2.
+    Kaal Sarp Dosha
+  3.
+    Pitra Dosha
+  4.
+    Grahan Dosha
+  5.
+    Shrapit Dosha
+  6.
+    Kemadruma Dosha
+• DOSHAS:
+  • Mangal Dosha:
+    • Formation: Mars is placed in the 1st, 4th, 7th, 8th, or 12th house from the Lagna or Moon.
+    • Effects: Can cause delays, disharmony, or obstacles in marriage and relationships.
+    • Remedies: Marrying another Manglik, performing Mangal Shanti puja, or chanting Hanuman Chalisa.
+  • Kaal Sarp Dosha:
+    • Formation: All seven planets (Sun to Saturn) are placed between Rahu and Ketu in the birth chart.
+    • Effects: Can lead to sudden setbacks, financial instability, health issues, and delayed success.
+    • Remedies: Performing Kaal Sarp Shanti puja, worshipping Lord Shiva, and chanting the Maha Mrityunjaya Mantra.
+  • Pitra Dosha:
+    • Formation: Sun is conjunct with Rahu, or the 9th lord is afflicted, often occurring when ancestors are not at peace.
+    • Effects: Can cause delays in marriage and childbirth, financial struggles, and obstacles in career progression.
+    • Remedies: Performing Shraddha ceremonies, offering food to crows, and donating to the needy in the name of ancestors.
+  • Grahan Dosha:
+    • Formation: Sun or Moon is conjunct with Rahu or Ketu in the birth chart.
+    • Effects: Can cause mental stress, emotional instability, obstacles in education, and a feeling of being stuck in life.
+    • Remedies: Chanting the Gayatri Mantra, performing Grahan Shanti puja, and worshiping Lord Shiva and Goddess Durga.
+  • Shrapit Dosha:
+    • Formation: Rahu and Saturn are conjunct in the same house.
+    • Effects: Can create intense struggles, delays, and obstacles in various aspects of life due to past life karmic curses.
+    • Remedies: Worshiping Lord Shiva, performing remedies for both Saturn and Rahu, and chanting the Durga Saptashati.
+  • Kemadruma Dosha:
+    • Formation: No planets are present on either side of the Moon (no Sunapha or Anapha Yoga).
+    • Effects: Can cause emotional turmoil, isolation, financial fluctuations, and a sense of lacking support.
+    • Remedies: Worshiping Lord Shiva or Goddess Durga, wearing a pearl, and donating food/clothes.

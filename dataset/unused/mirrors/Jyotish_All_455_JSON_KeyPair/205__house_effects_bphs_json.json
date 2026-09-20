@@ -1,0 +1,5362 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "205__house_effects_bphs_json",
+    "name": "house_effects_bphs",
+    "original_file": "house_effects_bphs.json",
+    "dataset_number": "135 of 455",
+    "format": "json",
+    "source_readable_file": "house_effects_bphs.txt",
+    "source_sha256": "9354eadb09c6c0cebb18dc089857ce2381124728a89bd9604bac3cf76891599c",
+    "source_bytes": 139785
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "1": {
+        "house": 1,
+        "chapter": 12,
+        "title": "Effects of First House",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "Should the ascendant lord be conjunct a malefic or be in the 6th, 8th, or 12th, physical felicity will diminish. If he is in an angle or trine, there will be at all times comforts of the body.",
+              "hi": "लग्नेश यदि पाप ग्रह से युत हो या छठे, आठवें या बारहवें भाव में हो, तो शारीरिक सुख कम होता है। यदि लग्नेश केन्द्र या त्रिकोण में हो, तो सदा शारीरिक सुख मिलता है।",
+              "gu": "લગ્નેશ જો પાપ ગ્રહ સાથે યુત હોય કે છઠ્ઠા, આઠમા કે બારમા ભાવમાં હોય, તો શારીરિક સુખ ઓછું થાય છે. જો લગ્નેશ કેન્દ્ર કે ત્રિકોણમાં હોય, તો સદા શારીરિક સુખ મળે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "ascendant lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "physical comfort"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "If the ascendant lord is in debilitation, combustion, or enemy's sign, there will be diseases. With a benefice in an angle or trine, all diseases will disappear.",
+              "hi": "लग्नेश नीच राशि में हो, अस्त हो, या शत्रु की राशि में हो, तो रोगी होता है। यदि केन्द्र या त्रिकोण में शुभ ग्रह हो, तो रोगों का नाश होता है।",
+              "gu": "લગ્નેશ નીચ રાશિમાં હોય, અસ્ત હોય, કે શત્રુની રાશિમાં હોય, તો રોગી થાય છે. જો કેન્દ્ર કે ત્રિકોણમાં શુભ ગ્રહ હોય, તો રોગોનો નાશ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "debilitation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "combustion"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "enemy sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "diseases"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice trine"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "There will not be bodily health if the ascendant or the Moon be aspected by or conjunct a malefic, being devoid of a benefice's aspect.",
+              "hi": "लग्न या चंद्र यदि पाप ग्रह से देखा गया हो या युत हो, और शुभ ग्रहों की दृष्टि न हो, तो शारीरिक सुख नहीं होता।",
+              "gu": "લગ્ન કે ચંદ્ર જો પાપ ગ્રહથી જોવાયેલો હોય કે યુત હોય, અને શુભ ગ્રહોની દૃષ્ટિ ન હોય, તો શારીરિક સુખ મળતું નથી.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "no benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ill health"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "A benefice in the ascendant will give a pleasing appearance, while a malefic will make one bereft of good appearance. Felicity of the body will be enjoyed if the ascendant is aspected by or conjunct a benefice.",
+              "hi": "लग्न में शुभ ग्रह हो या शुभ की दृष्टि हो, तो रूपवान और सुखी होता है। लग्न में पाप ग्रह हो या पाप की दृष्टि हो, तो कुरूप होता है।",
+              "gu": "લગ્નમાં શુભ ગ્રહ હોય કે શુભની દૃષ્ટિ હોય, તો રૂપવાન અને સુખી થાય છે. લગ્નમાં પાપ ગ્રહ હોય કે પાપની દૃષ્ટિ હોય, તો કુરૂપ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "beauty"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ugliness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If the ascendant lord, Mercury, Jupiter, or Venus be in an angle or in a trine, the native will be long-lived, wealthy, intelligent, and liked by the king.",
+              "hi": "लग्नेश बुध, गुरु या शुक्र से युत हो और केन्द्र या त्रिकोण में हो, तो वह दीर्घायु, धनवान और राजप्रिय होता है।",
+              "gu": "લગ્નેશ બુધ, ગુરુ કે શુક્ર સાથે યુત હોય અને કેન્દ્ર કે ત્રિકોણમાં હોય, તો તે દીર્ઘાયુ, ધનવાન અને રાજપ્રિય થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "ascendant lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "long life"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "royal favor"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "Fame, wealth, abundant pleasures, and comforts of the body will be acquired if the ascendant lord is in a movable sign and is aspected by a benefice.",
+              "hi": "लग्नेश चर राशि में हो और शुभ ग्रहों से देखा गया हो, तो वह महाधन, कीर्तिमान, सुखसम्पन्न और शारीरिक सुख से युक्त होता है।",
+              "gu": "લગ્નેશ ચર રાશિમાં હોય અને શુભ ગ્રહોથી જોવાયેલો હોય, તો તે મહાધન, કીર્તિમાન, સુખસમ્પન્ન અને શારીરિક સુખથી યુક્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "ascendant lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "movable sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fame"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "One will be endowed with royal marks (of fortune) if Mercury, Jupiter, or Venus be in the ascendant along with the Moon, or be in an angle from the ascendant.",
+              "hi": "लग्न में चंद्र युत हो, या बुध, गुरु, शुक्र केन्द्र में हों, तो वह मनुष्य राजलक्षणों से युक्त होता है।",
+              "gu": "લગ્નમાં ચંદ્ર યુત હોય, કે બુધ, ગુરુ, શુક્ર કેન્દ્રમાં હોય, તો તે મનુષ્ય રાજલક્ષણોથી યુક્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ascendant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "royal marks"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "Should the Sun or the Moon be in the 6th, 8th, or 12th from the ascendant and be in aspect to a malefic, the child will die soon.",
+              "hi": "जन्म राशि से तीन मास में माता पुत्र को त्याग देती है या चंद्र से सातवें भाव में पाप ग्रह हो तो भाई की मृत्यु हो जाती है।",
+              "gu": "જન્મ રાશિથી ત્રણ માસમાં માતા પુત્રને ત્યાગ કરે છે કે ચંદ્રથી સાતમા ભાવમાં પાપ ગ્રહ હોય તો ભાઈની મૃત્યુ થઈ જાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "short life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "The learned in astrology should base the effects on the Moon also as are applicable to the ascendant. Now explained are clues to know of ulcers, identity marks, etc., on one's person.",
+              "hi": "विद्वानों को चंद्र से भी ऐसा ही फल कहना चाहिए। अब मैं जन्म के शरीर पर व्रण और चिह्नों के विषय में कहता हूँ।",
+              "gu": "વિદ્વાનોએ ચંદ્રથી પણ એવું જ ફળ કહેવું જોઈએ. હવે હું જન્મના શરીર પર વ્રણ અને ચિહ્નો વિષે કહું છું.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "physical marks"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ulcers"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "identity marks"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "Head, eyes, ears, nose, temple, chin, and face are the order of limbs denoted when the first decanate of a sign ascends.",
+              "hi": "सिर, नेत्र, कान, नाक, कपोल, हनु और मुख - ये क्रमशः प्रथम द्रेष्काण में लग्न के अंग हैं।",
+              "gu": "માથું, આંખ, કાન, નાક, ગાલ, હનુ અને મુખ - આ ક્રમશઃ પ્રથમ દ્રેષ્કાણમાં લગ્નના અંગો છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "decanate"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "body parts"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "head"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "eyes"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ears"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "nose"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "face"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "In the case of the second decanate ascending, the order is: neck, shoulder, arm, side, heart, stomach, and navel.",
+              "hi": "द्वितीय द्रेष्काण में लग्न होने पर क्रमशः कंठ, कंधे, भुजाएँ, पार्श्व, हृदय, उदर और नाभि अंग होते हैं।",
+              "gu": "દ્વિતીય દ્રેષ્કાણમાં લગ્ન હોવાથી ક્રમશઃ કંઠ, ખભા, બાહુ, પાર્શ્વ, હૃદય, ઉદર અને નાભિ અંગો થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "decanate"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "body parts"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "neck"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "shoulder"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "arms"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "heart"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "stomach"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 12,
+              "en": "The order for the third decanate ascending is: pelvis, anus/penis, testicles, thigh, knee, calf, and foot.",
+              "hi": "तृतीय द्रेष्काण में लग्न होने पर क्रमशः: वस्ति, लिंग, अंगुलियाँ, वृषण, जाँघ, घुटने, पिंडली और पैर अंग होते हैं।",
+              "gu": "તૃતીય દ્રેષ્કાણમાં લગ્ન હોવાથી ક્રમશઃ: વસ્તિ, લિંગ, આંગળીઓ, વૃષણ, જાંઘ, ઘૂંટણ, પીંડળી અને પગ અંગો થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "decanate"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "body parts"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "pelvis"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "thigh"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "knee"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "foot"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 13,
+              "en": "The limb related to a malefic by occupation will have ulcers or scars, while the one by a benefice will have a mark (like moles, etc.). So say the learned.",
+              "hi": "जिस अंग पर पाप ग्रह स्थित हो, वहाँ व्रण होता है। क्रूर ग्रहों से घाव, शुभ ग्रहों से तिल आदि चिह्न होते हैं।",
+              "gu": "જે અંગ પર પાપ ગ્રહ સ્થિત હોય, ત્યાં વ્રણ થાય છે. ક્રૂર ગ્રહોથી ઘા, શુભ ગ્રહોથી તલ આદિ ચિહ્નો થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ulcers"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moles"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "body parts"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "2": {
+        "house": 2,
+        "chapter": 13,
+        "title": "Effects of Second House",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "If the 2nd lord is endowed with strength and is in an angle or a trine, the native will always be wealthy.",
+              "hi": "धनेश (द्वितीय भाव का स्वामी) बलयुक्त हो और केन्द्र या त्रिकोण में हो, तो वह नित्य धन से युक्त होता है।",
+              "gu": "ધનેશ (દ્વિતીય ભાવનો સ્વામી) બળયુક્ત હોય અને કેન્દ્ર કે ત્રિકોણમાં હોય, તો તે નિત્ય ધનથી યુક્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "If the 2nd lord is in exaltation or in own sign, the native will have incomparable wealth, children, wife, learning, and happiness.",
+              "hi": "धनेश स्वोच्च या स्वराशि में हो, तो उसे अतुल धन, पुत्र, पत्नी, विद्या और सुख मिलता है।",
+              "gu": "ધનેશ સ્વોચ્ચ કે સ્વરાશિમાં હોય, તો તેને અતુલ ધન, પુત્ર, પત્ની, વિદ્યા અને સુખ મળે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "children"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wife"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If the 2nd lord is conjunct a benefice and the 11th lord, the native will be wealthy and happy.",
+              "hi": "धनेश शुभ ग्रह से युत हो और लाभेश (11वें भाव के स्वामी) से युत हो, तो वह धनवान और सुखसम्पन्न होता है।",
+              "gu": "ધનેશ શુભ ગ્રહ સાથે યુત હોય અને લાભેશ (11મા ભાવના સ્વામી) સાથે યુત હોય, તો તે ધનવાન અને સુખસમ્પન્ન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "If Jupiter or Venus is in the 2nd house, the native will be rich in grains and wealth, happy, and liked by the king.",
+              "hi": "द्वितीय भाव में गुरु या शुक्र स्थित हों, तो वह धान्य-धन से समृद्ध, सुखी और राजप्रिय होता है।",
+              "gu": "દ્વિતીય ભાવમાં ગુરુ કે શુક્ર સ્થિત હોય, તો તે ધાન્ય-ધનથી સમૃદ્ધ, સુખી અને રાજપ્રિય થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "2nd house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "grains"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "royal favor"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If the 2nd house is occupied by a malefic and aspected by a malefic, there will be immediate loss of wealth. If aspected by a benefice or if the 2nd lord is aspected by a benefice, wealth will be acquired.",
+              "hi": "द्वितीय भाव में पाप ग्रह हो और पाप से देखा गया हो, तो तुरंत धननाश होता है। शुभ की दृष्टि हो या धनेश शुभ से देखा गया हो, तो धन प्राप्ति होती है।",
+              "gu": "દ્વિતીય ભાવમાં પાપ ગ્રહ હોય અને પાપથી જોવાયેલો હોય, તો તુરંત ધનનાશ થાય છે. શુભની દૃષ્ટિ હોય કે ધનેશ શુભથી જોવાયેલો હોય, તો ધન પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "loss of wealth"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth acquisition"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "If a malefic is in the 2nd house with the 11th lord, there will be loss of wealth if associated with a malefic, and gain if associated with a benefice.",
+              "hi": "द्वितीय भाव में पाप ग्रह हो और वह लाभेश से युत हो, तो पाप से युत होने पर धन नष्ट होता है, शुभ से युत होने पर धन आगम होता है।",
+              "gu": "દ્વિતીય ભાવમાં પાપ ગ્રહ હોય અને તે લાભેશ સાથે યુત હોય, તો પાપ સાથે યુત હોવાથી ધન નષ્ટ થાય છે, શુભ સાથે યુત હોવાથી ધન આગમ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "loss"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "gain"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "If the 2nd lord is in the 11th, and the Moon or Jupiter is in the 5th, there will be sudden gain of wealth and happiness.",
+              "hi": "धनेश लाभ भाव में हो, चंद्र या गुरु पंचम भाव में हों, तो अकस्मात् धनलाभ होता है और उस समय सुख की प्राप्ति होती है।",
+              "gu": "ધનેશ લાભ ભાવમાં હોય, ચંદ્ર કે ગુરુ પંચમ ભાવમાં હોય, તો અકસ્માત્ ધનલાભ થાય છે અને તે સમયે સુખની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sudden wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "If the 2nd lord is a malefic but aspected by a benefice, he gives wealth. If the 11th lord is conjunct a malefic, he causes loss of wealth.",
+              "hi": "द्वितीय भाव का स्वामी पाप हो, किन्तु शुभ की दृष्टि हो, तो धन देता है। लाभेश पाप से युत हो, तो धन की हानि करता है।",
+              "gu": "દ્વિતીય ભાવનો સ્વામી પાપ હોય, પણ શુભની દૃષ્ટિ હોય, તો ધન આપે છે. લાભેશ પાપ સાથે યુત હોય, તો ધનની હાનિ કરે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "loss of wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "Jupiter in the 11th, Venus in the 2nd, a benefice in the 12th, and the 2nd lord conjunct a benefice – there will be expenses on religious or charitable grounds.",
+              "hi": "ग्यारहवें भाव में गुरु, दूसरे में शुक्र, बारहवें में शुभ ग्रह हों, और धनेश शुभ से युत हो, तो धार्मिक कार्यों में व्यय होता है।",
+              "gu": "અગિયારમા ભાવમાં ગુરુ, બીજામાં શુક્ર, બારમામાં શુભ ગ્રહો હોય, અને ધનેશ શુભ સાથે યુત હોય, તો ધાર્મિક કાર્યોમાં વ્યય થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus 2nd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice 12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "charitable expenses"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "If the 2nd lord is in exaltation or in own sign, the native will look after his people, help others, and become famous.",
+              "hi": "धनेश स्वोच्च या स्वराशि में हो, तो जातक कुल का हित करने वाला, परोपकारी और विख्यात होता है।",
+              "gu": "ધનેશ સ્વોચ્ચ કે સ્વરાશિમાં હોય, તો જાતક કુળનું હિત કરનાર, પરોપકારી અને વિખ્યાત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fame"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "charitable"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "If the 2nd lord is conjunct a benefice and be in a good division like Paravatamsa, there will be all kinds of wealth in his family effortlessly.",
+              "hi": "धनेश शुभ ग्रह से युत हो और परावतांश (6 उत्तम वर्ग) में हो, तो वह सर्वसम्पत्ति से युक्त कुलीन होता है और बिना प्रयास के धन प्राप्त करता है।",
+              "gu": "ધનેશ શુભ ગ્રહ સાથે યુત હોય અને પરાવતાંશ (6 ઉત્તમ વર્ગ)માં હોય, તો તે સર્વસમ્પત્તિથી યુક્ત કુલીન થાય છે અને વિના પ્રયાસે ધન પ્રાપ્ત કરે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "paravatamsa"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "effortless wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 12,
+              "en": "If the 2nd lord is endowed with strength, the native will possess beautiful eyes. Should the said planet be in the 6th, 8th, or 12th, there will be disease or deformity of eyes.",
+              "hi": "धनेश बलयुक्त हो तो सुंदर नेत्र वाला होता है। यदि धनेश छठे, आठवें या बारहवें भाव में हो, तो नेत्र रोगी होता है।",
+              "gu": "ધનેશ બળયુક્ત હોય તો સુંદર નેત્રોવાળો થાય છે. જો ધનેશ છઠ્ઠા, આઠમા કે બારમા ભાવમાં હોય, તો નેત્ર રોગી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "beautiful eyes"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "eye disease"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 13,
+              "en": "If the 2nd house and its lord are conjunct malefic, the native will be a tale-bearer, will speak untruth, and will be afflicted by windy diseases.",
+              "hi": "धनेश पाप से युत हो और द्वितीय भाव पाप से युत हो, तो वह निंदक, असत्यवादी और वातरोग से पीड़ित होता है।",
+              "gu": "ધનેશ પાપ સાથે યુત હોય અને દ્વિતીય ભાવ પાપ સાથે યુત હોય, તો તે નિંદક, અસત્યવાદી અને વાતરોગથી પીડિત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "2nd house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "2nd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "tale-bearer"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "untruthful"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "windy diseases"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "3": {
+        "house": 3,
+        "chapter": 14,
+        "title": "Effects of the Third House",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "Should the 3rd house be conjunct or aspected by a benefice, the native will be endowed with co-born and be courageous.",
+              "hi": "तृतीय भाव शुभ ग्रह से युत या देखा गया हो, तो मनुष्य सहोदरों से युक्त, शूरवीर और सुखसम्पन्न होता है।",
+              "gu": "તૃતીય ભાવ શુભ ગ્રહ સાથે યુત કે જોવાયેલો હોય, તો મનુષ્ય સહોદરોથી યુક્ત, શૂરવીર અને સુખસમ્પન્ન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "3rd house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "siblings"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "courage"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "If the 3rd lord along with Mars aspects the 3rd house, the native will enjoy good results due to the 3rd house. Alternatively, these two planets may be in the 3rd itself.",
+              "hi": "तृतीयेश या मंगल तृतीय भाव को देखता हो या उसमें स्थित हो, तो सहोदरों से सुख प्राप्त होता है।",
+              "gu": "તૃતીયેશ કે મંગળ તૃતીય ભાવને જોતો હોય કે તેમાં સ્થિત હોય, તો સહોદરોથી સુખ પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "3rd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "3rd house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sibling happiness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "Destruction at once of co-born will come to pass if the said 2 planets are together with a malefic or in a sign owned by a malefic.",
+              "hi": "तृतीयेश और मंगल पाप ग्रह से युत हों या पाप राशि में स्थित हों, तो सहोदरों का नाश होता है।",
+              "gu": "તૃતીયેશ અને મંગળ પાપ ગ્રહ સાથે યુત હોય કે પાપ રાશિમાં સ્થિત હોય, તો સહોદરોનો નાશ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "3rd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sibling destruction"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "If the 3rd lord is a female planet or if the 3rd house be occupied by female planets, one will have sisters born after him. Male planets and male signs denote younger brothers.",
+              "hi": "तृतीयेश स्त्री राशि में हो या तृतीय भाव में स्त्री ग्रह हों, तो छोटी बहनें होती हैं। पुरुष राशि और पुरुष ग्रहों से छोटे भाई होते हैं।",
+              "gu": "તૃતીયેશ સ્ત્રી રાશિમાં હોય કે તૃતીય ભાવમાં સ્ત્રી ગ્રહો હોય, તો નાની બહેનો હોય છે. પુરુષ રાશિ અને પુરુષ ગ્રહોથી નાના ભાઈઓ હોય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "3rd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "female planet"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sisters"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "male planet"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "brothers"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "Should the 3rd lord and Mars be together in the 8th, destruction of co-born will result. Happiness in this respect will come to pass if Mars or the 3rd lord is in an angle or in a trine or in exaltation/friendly divisions.",
+              "hi": "तृतीयेश और मंगल आठवें भाव में हों, तो सहोदरों का नाश होता है। यदि वे केन्द्र या त्रिकोण में हों, तो सुख मिलता है।",
+              "gu": "તૃતીયેશ અને મંગળ આઠમા ભાવમાં હોય, તો સહોદરોનો નાશ થાય છે. જો તેઓ કેન્દ્ર કે ત્રિકોણમાં હોય, તો સુખ મળે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "3rd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sibling destruction"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "If Mercury is in the 3rd, the 3rd lord and Moon are together, and Mars joins them, there will be an elder sister and younger brothers.",
+              "hi": "बुध तृतीय भाव में हो, तृतीयेश और चंद्र युत हों और मंगल उनसे युत हो, तो बड़ी बहन होती है और छोटे भाई होते हैं।",
+              "gu": "બુધ તૃતીય ભાવમાં હોય, તૃતીયેશ અને ચંદ્ર યુત હોય અને મંગળ તેની સાથે યુત હોય, તો મોટી બહેન થાય છે અને નાના ભાઈઓ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mercury 3rd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "3rd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "elder sister"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "younger brothers"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "Should Mars and Rahu be conjunct while the 3rd lord is in his sign of exaltation, there will be 3 elder sisters and loss of younger brothers.",
+              "hi": "मंगल और राहु युत हों और तृतीयेश स्वोच्च में हो, तो तीन बड़ी बहनें होती हैं और छोटे भाई नष्ट हो जाते हैं।",
+              "gu": "મંગળ અને રાહુ યુત હોય અને તૃતીયેશ સ્વોચ્ચમાં હોય, તો ત્રણ મોટી બહેનો થાય છે અને નાના ભાઈઓ નષ્ટ થઈ જાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "rahu"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "3rd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "elder sisters"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "loss of younger brothers"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "If the 3rd lord is in a trine, Mars is exalted and aspected by a benefice, there will be 12 co-born. Out of these, 2 are elder and 6 are younger.",
+              "hi": "तृतीयेश त्रिकोण में हो, मंगल स्वोच्च में हो और शुभ से देखा गया हो, तो बारह भाई होते हैं। उनमें से दो बड़े और छह छोटे होते हैं।",
+              "gu": "તૃતીયેશ ત્રિકોણમાં હોય, મંગળ સ્વોચ્ચમાં હોય અને શુભથી જોવાયેલો હોય, તો બાર ભાઈઓ થાય છે. તેમાંથી બે મોટા અને છ નાના થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "3rd lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars exalted"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "many siblings"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "The Sun in the 3rd will destroy the preborn. The after-born will be destroyed if Saturn is found in the 3rd. Mars will destroy both the preborn and later born.",
+              "hi": "सूर्य तृतीय भाव में हो तो बड़ों का नाश, शनि हो तो छोटों का नाश, मंगल हो तो दोनों का नाश होता है।",
+              "gu": "સૂર્ય તૃતીય ભાવમાં હોય તો મોટાઓનો નાશ, શનિ હોય તો નાનાઓનો નાશ, મંગળ હોય તો બંનેનો નાશ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun 3rd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn 3rd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars 3rd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sibling destruction"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "4": {
+        "house": 4,
+        "chapter": 15,
+        "title": "Effects of the Fourth House",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "One will have residential comforts in full degree if the 4th is occupied by its lord or by the ascendant lord and be aspected by a benefice.",
+              "hi": "चतुर्थ भाव अपने स्वामी से युत हो, लग्नेश से देखा गया हो या युत हो, तो वह सुख-सम्पत्ति से युक्त और गृहवास में सुखी होता है।",
+              "gu": "ચતુર્થ ભાવ પોતાના સ્વામી સાથે યુત હોય, લગ્નેશથી જોવાયેલો હોય કે યુત હોય, તો તે સુખ-સમ્પત્તિથી યુક્ત અને ગૃહવાસમાં સુખી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "4th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ascendant lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "housing comforts"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "Should the 5th lord be in his own house, or in own Navamsha or in exaltation, the native will be endowed with comforts related to lands, conveyances, houses, etc., and musical instruments.",
+              "hi": "पंचमेश स्वराशि, स्वनवांश या उच्च राशि में हो, तो मनुष्य भूमि, वाहन, गृह आदि सुख प्राप्त करता है।",
+              "gu": "પંચમેશ સ્વરાશિ, સ્વનવાંશ કે ઉચ્ચ રાશિમાં હોય, તો મનુષ્ય ભૂમિ, વાહન, ગૃહ આદિ સુખ પ્રાપ્ત કરે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "navamsha"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lands"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "houses"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If the 10th lord joins the 4th lord in an angle or in a trine, the native will acquire beautiful mansions.",
+              "hi": "दशमेश और चतुर्थेश केन्द्र या त्रिकोण में हों, तो उत्तम मनुष्य सुंदर महलों को प्राप्त करता है।",
+              "gu": "દશમેશ અને ચતુર્થેશ કેન્દ્ર કે ત્રિકોણમાં હોય, તો ઉત્તમ મનુષ્ય સુંદર મહેલોને પ્રાપ્ત કરે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mansions"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "Should Mercury be in the ascendant while the 4th lord being a benefice is aspected by another benefice, the native will be honoured by his relatives.",
+              "hi": "लग्न में बुध हो, चतुर्थेश शुभ ग्रह हो और शुभ से देखा गया हो, तो जातक बन्धुओं द्वारा पूजित होता है।",
+              "gu": "લગ્નમાં બુધ હોય, ચતુર્થેશ શુભ ગ્રહ હોય અને શુભથી જોવાયેલો હોય, તો જાતક બંધુઓ દ્વારા પૂજિત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mercury ascendant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "honor from relatives"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If the 4th house is occupied by a benefice while its lord is in his exaltation sign as the indicator of mother is endowed with strength, the native will have a long-living mother.",
+              "hi": "चतुर्थ भाव में शुभ ग्रह हो, चतुर्थेश उच्च का हो और मातृकारक बलयुक्त हो, तो माता दीर्घायु होती है।",
+              "gu": "ચતુર્થ ભાવમાં શુભ ગ્રહ હોય, ચતુર્થેશ ઉચ્ચનો હોય અને માતૃકારક બળયુક્ત હોય, તો માતા દીર્ઘાયુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "4th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mother"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "long life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "The native's mother will be happy if the 4th lord is in an angle while Venus is also in an angle as Mercury is exalted.",
+              "hi": "चतुर्थेश केन्द्र में हो, शुक्र केन्द्र में हो और बुध स्वोच्च में हो, तो माता को पूर्ण सुख मिलता है।",
+              "gu": "ચતુર્થેશ કેન્દ્રમાં હોય, શુક્ર કેન્દ્રમાં હોય અને બુધ સ્વોચ્ચમાં હોય, તો માતાને પૂર્ણ સુખ મળે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury exalted"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mother happiness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "The Sun in the 4th, Moon and Saturn in the 9th, and Mars in the 11th – this yoga will confer cows and buffaloes on the native.",
+              "hi": "चतुर्थ भाव में सूर्य युत शनि हो, चंद्र नवम भाव में हो और मंगल ग्यारहवें भाव में हो, तो गाय, भैंस आदि की प्राप्ति होती है।",
+              "gu": "ચતુર્થ ભાવમાં સૂર્ય યુત શનિ હોય, ચંદ્ર નવમ ભાવમાં હોય અને મંગળ અગિયારમા ભાવમાં હોય, તો ગાય, ભેંસ આદિની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun 4th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "cows"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "buffaloes"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "Should the 4th house be a movable one while its lord and Mars are together in the 6th or the 8th house, the native will be dumb.",
+              "hi": "चतुर्थ भाव चर राशि का हो, उसका स्वामी और मंगल छठे या बारहवें भाव में हों, तो मनुष्य मूकता को प्राप्त होता है।",
+              "gu": "ચતુર્થ ભાવ ચર રાશિનો હોય, તેનો સ્વામી અને મંગળ છઠ્ઠા કે બારમા ભાવમાં હોય, તો મનુષ્ય મૂકતાને પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "4th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "movable"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "dumbness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "If the ascendant lord is a benefice while the 4th lord is in the 11th, the native will obtain conveyances in his 12th year.",
+              "hi": "लग्नेश शुभ से युत हो, चतुर्थेश ग्यारहवें भाव में हो, तो जातक बारहवें वर्ष में वाहन प्राप्त करता है।",
+              "gu": "લગ્નેશ શુભ સાથે યુત હોય, ચતુર્થેશ અગિયારમા ભાવમાં હોય, તો જાતક બારમા વર્ષમાં વાહન પ્રાપ્ત કરે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "ascendant lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th year"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "Should the Sun be in the 4th house, as the 4th lord is exalted and be with Venus, one will acquire conveyances in his 32nd year.",
+              "hi": "चतुर्थ भाव में सूर्य हो, चतुर्थेश उच्च का हो और शुक्र से युत हो, तो बत्तीसवें वर्ष में वाहन प्राप्त होता है।",
+              "gu": "ચતુર્થ ભાવમાં સૂર્ય હોય, ચતુર્થેશ ઉચ્ચનો હોય અને શુક્ર સાથે યુત હોય, તો બત્તીસમા વર્ષમાં વાહન પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun 4th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "4th lord exalted"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "32nd year"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "It will be in the 42nd year that one will be endowed with conveyances if the 4th lord joins the 10th lord in his (4th lord's) exaltation Navamsha.",
+              "hi": "कर्मेश (दशमेश) से युत बन्धुनाथ (चतुर्थेश) उच्च नवांश में हो, तो बयालीसवें वर्ष में वाहन प्राप्त होता है।",
+              "gu": "કર્મેશ (દશમેશ) સાથે યુત બંધુનાથ (ચતુર્થેશ) ઉચ્ચ નવાંશમાં હોય, તો બેતાલીસમા વર્ષમાં વાહન પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "10th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation navamsha"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "42nd year"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 12,
+              "en": "An exchange between the 11th and the 4th lords will confer conveyances in the 12th year.",
+              "hi": "लाभेश चतुर्थ भाव में हो और चतुर्थेश ग्यारहवें भाव में हो (परिवर्तन), तो बारहवें वर्ष में वाहन प्राप्त होता है।",
+              "gu": "લાભેશ ચતુર્થ ભાવમાં હોય અને ચતુર્થેશ અગિયારમા ભાવમાં હોય (પરિવર્તન), તો બારમા વર્ષમાં વાહન પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "4th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exchange"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th year"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 13,
+              "en": "A benefice related to the 4th house (and to its lord) will bring auspicious effects, while a malefic will produce only malefic effects (in respect of conveyances).",
+              "hi": "भाव और उसके स्वामी के शुभ होने पर शुभ फल, पाप होने पर अशुभ फल होता है। इस प्रकार चतुर्थ भाव के वाहन आदि सुखों का फल कहा गया।",
+              "gu": "ભાવ અને તેના સ્વામીના શુભ હોવાથી શુભ ફળ, પાપ હોવાથી અશુભ ફળ થાય છે. આ પ્રમાણે ચતુર્થ ભાવના વાહન આદિ સુખોનું ફળ કહેવાયું.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "4th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "5": {
+        "house": 5,
+        "chapter": 16,
+        "title": "Effects of the Fifth House (Progeny)",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "If the 5th lord is endowed with strength and is in the 5th house itself, the native will have many children; there is no doubt about it.",
+              "hi": "पंचमेश बलयुक्त हो और पंचम भाव में हो, तो जातक बहुपुत्र वाला होता है, इसमें कोई विचारणा नहीं है।",
+              "gu": "પંચમેશ બળયુક્ત હોય અને પંચમ ભાવમાં હોય, તો જાતક બહુપુત્રવાળો થાય છે, આમાં કોઈ વિચારણા નથી.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "children"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "progeny"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "If the 5th lord is debilitated or a malefic, and the 5th house is devoid of benefices, the native will be sonless. Charity of cows etc., can remedy this.",
+              "hi": "पंचमेश नीच राशि में हो या पाप ग्रह हो, और पंचम भाव में शुभ ग्रह न हों, तो जातक पुत्रहीन होता है। गोदान आदि से इसका निवारण होता है।",
+              "gu": "પંચમેશ નીચ રાશિમાં હોય કે પાપ ગ્રહ હોય, અને પંચમ ભાવમાં શુભ ગ્રહો ન હોય, તો જાતક પુત્રહીન થાય છે. ગોદાન આદિથી આનો નિવારણ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "debilitation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sonless"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "cow donation"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If the 5th lord is conjunct a benefice and is in an angle or trine, the native will have children and be happy.",
+              "hi": "पंचमेश शुभ ग्रह से युत हो और केन्द्र या त्रिकोण में हो, तो वह पुत्रवान और सुखसम्पन्न होता है।",
+              "gu": "પંચમેશ શુભ ગ્રહ સાથે યુત હોય અને કેન્દ્ર કે ત્રિકોણમાં હોય, તો તે પુત્રવાન અને સુખસમ્પન્ન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "children"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "happiness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "If the 5th lord is in fall and is not in aspect to the 5th while Saturn and Mercury are in the 5th, the native's wife will give birth to one child only.",
+              "hi": "पंचम भाव में पाप ग्रह हो, पंचमेश नीच राशि में हो, और शनि तथा बुध से युत हो, तो केवल एक ही पुत्र होता है।",
+              "gu": "પંચમ ભાવમાં પાપ ગ્રહ હોય, પંચમેશ નીચ રાશિમાં હોય, અને શનિ તથા બુધ સાથે યુત હોય, તો માત્ર એક જ પુત્ર થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "debilitation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "one child"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If Saturn and Mercury are in the 5th and the 5th lord is aspected by a benefice, daughters will be born, not many sons.",
+              "hi": "पंचम भाव में शनि और बुध हों, पंचमेश शुभ से देखा गया हो, तो कन्याएँ उत्पन्न होती हैं, पुत्र अधिक नहीं होते।",
+              "gu": "પંચમ ભાવમાં શનિ અને બુધ હોય, પંચમેશ શુભથી જોવાયેલો હોય, તો કન્યાઓ ઉત્પન્ન થાય છે, પુત્રો વધારે નથી થતા.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "daughters"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord aspect"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "If the 5th house is auspicious and the 5th lord is endowed with strength, the native will have many sons.",
+              "hi": "पंचम भाव शुभ हो और पंचमेश बलयुक्त हो, तो बहुपुत्र होता है।",
+              "gu": "પંચમ ભાવ શુભ હોય અને પંચમેશ બળયુક્ત હોય, તો બહુપુત્ર થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "auspicious"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "many sons"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "Adopted issue is indicated if the 5th is tenanted by six planets while its lord is in the 12th, and the Moon and ascendant are endowed with strength.",
+              "hi": "पंचम भाव में छह ग्रह हों, पंचमेश बारहवें भाव में हो, और लग्न तथा चंद्र बलयुक्त हों, तो दत्तक पुत्र होता है।",
+              "gu": "પંચમ ભાવમાં છ ગ્રહો હોય, પંચમેશ બારમા ભાવમાં હોય, અને લગ્ન તથા ચંદ્ર બળયુક્ત હોય, તો દત્તક પુત્ર થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "6 planets"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord 12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ascendant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "adopted son"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "There will be many children if the 5th lord is strong while the 5th is aspected by strong Mercury, Jupiter, and Venus.",
+              "hi": "पंचमेश बलयुक्त हो और पंचम भाव बुध, गुरु, शुक्र से देखा गया हो, तो बहुत पुत्र होते हैं।",
+              "gu": "પંચમેશ બળયુક્ત હોય અને પંચમ ભાવ બુધ, ગુરુ, શુક્રથી જોવાયેલો હોય, તો ઘણા પુત્રો થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "many children"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "If the 5th lord is with the Moon or be in her decanate, the native will beget daughters, so say astrologers.",
+              "hi": "पंचमेश चंद्र से युत हो या चंद्र के द्रेष्काण में हो, तो कन्याओं की प्राप्ति होती है, ऐसा विद्वान कहते हैं।",
+              "gu": "પંચમેશ ચંદ્ર સાથે યુત હોય કે ચંદ્રના દ્રેષ્કાણમાં હોય, તો કન્યાઓની પ્રાપ્તિ થાય છે, એવું વિદ્વાનો કહે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "decanate"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "daughters"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "If the 5th lord is exalted or be in the 2nd, 5th, or 9th from the ascendant or be conjunct or aspected by Jupiter, obtainment of children will be there.",
+              "hi": "पंचमेश स्वोच्च में हो, या लग्न से दूसरे, पाँचवें या नौवें भाव में हो, या गुरु से युत या देखा गया हो, तो पुत्र प्राप्ति होती है।",
+              "gu": "પંચમેશ સ્વોચ્ચમાં હોય, કે લગ્નથી બીજા, પાંચમા કે નવમા ભાવમાં હોય, કે ગુરુ સાથે યુત કે જોવાયેલો હોય, તો પુત્ર પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "2nd house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "9th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "children"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "One will obtain children that will indulge in mean deeds if the 5th is occupied by 3 or 4 malefic while the 5th lord is in fall. A benefice (including Mercury) in the 5th is excluded in said combination.",
+              "hi": "पंचम भाव तीन या चार पाप ग्रहों से युत हो और पंचमेश नीच राशि में हो, तो नीच कर्म करने वाली संतान होती है।",
+              "gu": "પંચમ ભાવ ત્રણ કે ચાર પાપ ગ્રહોથી યુત હોય અને પંચમેશ નીચ રાશિમાં હોય, તો નીચ કર્મ કરનાર સંતાન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefics"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "debilitation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wicked children"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 12,
+              "en": "If the 5th is occupied by Jupiter while its lord is with Venus, one will obtain an offspring in his 32nd/33rd year.",
+              "hi": "पंचम भाव में गुरु हो और पंचमेश शुक्र से युत हो, तो बत्तीसवें या तैंतीसवें वर्ष में पुत्र की प्राप्ति होती है।",
+              "gu": "પંચમ ભાવમાં ગુરુ હોય અને પંચમેશ શુક્ર સાથે યુત હોય, તો બત્તીસમા કે તેત્રીસમા વર્ષમાં પુત્રની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter 5th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child at 32"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child at 33"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 13,
+              "en": "Should the 5th lord be in an angle along with Jupiter, the Karaka, one will beget a child at the age of 30 or 36.",
+              "hi": "पंचमेश केन्द्र में हो और पुत्रकारक (गुरु) से युत हो, तो 26वें या 20वें वर्ष में पुत्र उत्पत्ति होती है।",
+              "gu": "પંચમેશ કેન્દ્રમાં હોય અને પુત્રકારક (ગુરુ) સાથે યુત હોય, તો 26મા કે 20મા વર્ષમાં પુત્ર ઉત્પત્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child at 30"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child at 36"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 14,
+              "en": "If Jupiter is in the 9th from the ascendant while Venus is in the 9th from Jupiter along with the ascendant lord, one will beget a child at the age of 40.",
+              "hi": "लग्न से नवम भाव में गुरु हो, गुरु से नवम में शुक्र हो, या लग्नेश शुक्र से युत हो, तो चालीसवें वर्ष में पुत्र की प्राप्ति होती है।",
+              "gu": "લગ્નથી નવમ ભાવમાં ગુરુ હોય, ગુરુથી નવમમાં શુક્ર હોય, કે લગ્નેશ શુક્ર સાથે યુત હોય, તો ચાલીસમા વર્ષમાં પુત્રની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child at 40"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 15,
+              "en": "The native will at the age of 32 lose his child if Rahu is in the 5th, the 5th lord is conjunct a malefic and Jupiter is in debilitation.",
+              "hi": "पंचम भाव में राहु हो, पंचमेश पाप से युत हो, और गुरु नीच राशि में हो, तो बत्तीसवें वर्ष में पुत्र की मृत्यु होती है।",
+              "gu": "પંચમ ભાવમાં રાહુ હોય, પંચમેશ પાપ સાથે યુત હોય, અને ગુરુ નીચ રાશિમાં હોય, તો બત્તીસમા વર્ષમાં પુત્રની મૃત્યુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "rahu 5th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter debilitated"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child death at 32"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 16,
+              "en": "There will be loss of children at 33 and 36 if a malefic is in the 5th from Jupiter while another is in the 5th from the ascendant.",
+              "hi": "33वें और 36वें वर्ष में पुत्र नाश होता है। लग्न से पाँचवें भाव में पाप ग्रह हो, या गुरु से पाँचवें में शनि हो, तो ऐसा होता है।",
+              "gu": "33મા અને 36મા વર્ષમાં પુત્ર નાશ થાય છે. લગ્નથી પાંચમા ભાવમાં પાપ ગ્રહ હોય, કે ગુરુથી પાંચમામાં શનિ હોય, તો આવું થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "child loss at 33"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child loss at 36"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic 5th from jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic 5th from lagna"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 17,
+              "en": "Should Mandi (Gulika) be in the ascendant while the ascendant lord is in fall, grief on account of loss of child at the age of 56 will come to pass.",
+              "hi": "लग्न में मांडी (गुलिक) युत हो और लग्नेश नीच राशि में हो, तो पचपनवें वर्ष में पुत्र के शोक से आकुल होता है।",
+              "gu": "લગ્નમાં માંડી (ગુલિક) યુત હોય અને લગ્નેશ નીચ રાશિમાં હોય, તો પંચાવનમા વર્ષમાં પુત્રના શોકથી આકુળ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "gulika lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord debilitated"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "child loss at 56"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 18,
+              "en": "There will be 10 sons if the 4th and the 6th are occupied by malefic while the 5th lord is in deep exaltation joining the ascendant lord, and the significator (Jupiter) is with a benefice.",
+              "hi": "चौथे और छठे भाव में पाप ग्रह हों, पंचमेश परमोच्च में हो और लग्नेश से युत हो, तथा पुत्रकारक शुभ से युत हो, तो दस पुत्र होते हैं।",
+              "gu": "ચોથા અને છઠ્ઠા ભાવમાં પાપ ગ્રહો હોય, પંચમેશ પરમોચ્ચમાં હોય અને લગ્નેશ સાથે યુત હોય, તથા પુત્રકારક શુભ સાથે યુત હોય, તો દસ પુત્રો થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "malefic 4th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic 6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord deep exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "10 sons"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "6": {
+        "house": 6,
+        "chapter": 17,
+        "title": "Effects of the Sixth House",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "If the 6th lord is conjunct a benefice and the 6th house is associated with benefices, the native will be free from diseases, strong, and a destroyer of enemies.",
+              "hi": "षष्ठेश शुभ से युत हो और षष्ठ भाव शुभ ग्रहों से युत हो, तो जातक रोगरहित, बलवान और शत्रुओं का नाश करने वाला होता है।",
+              "gu": "ષષ્ઠેશ શુભ સાથે યુત હોય અને ષષ્ઠ ભાવ શુભ ગ્રહોથી યુત હોય, તો જાતક રોગરહિત, બળવાન અને શત્રુઓનો નાશ કરનાર થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "6th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "health"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "enemies"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "If the 6th lord and the 6th house are associated with malefics, the native will be sickly, afflicted, and defeated by enemies.",
+              "hi": "षष्ठेश पाप से युत हो और षष्ठ भाव पाप से युत हो, तो रोगी, पीड़ित और शत्रुओं से पराजित होता है।",
+              "gu": "ષષ્ઠેશ પાપ સાથે યુત હોય અને ષષ્ઠ ભાવ પાપ સાથે યુત હોય, તો રોગી, પીડિત અને શત્રુઓથી પરાજિત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "6th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "diseases"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "enemies"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If the ascendant lord is in the 6th with a malefic and the 6th lord is in the ascendant, the native will destroy his relatives, hate his maternal uncle, and always be sick.",
+              "hi": "लग्नेश छठे भाव में पाप ग्रह से युत हो और षष्ठेश लग्न में हो, तो वह बन्धुओं का नाश करने वाला, मामा से द्वेष करने वाला और नित्य रोगी होता है।",
+              "gu": "લગ્નેશ છઠ્ઠા ભાવમાં પાપ ગ્રહ સાથે યુત હોય અને ષષ્ઠેશ લગ્નમાં હોય, તો તે બંધુઓનો નાશ કરનાર, મામાથી દ્વેષ કરનાર અને નિત્ય રોગી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord 6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th lord lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "relative destruction"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "maternal uncle hatred"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "diseases"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "If the ascendant lord is in the 6th with a malefic and devoid of benefice aspect, the native will suffer from urinary disorders and Gulma (abdominal tumor).",
+              "hi": "लग्नेश छठे भाव में पाप ग्रह से युत हो और शुभ की दृष्टि से रहित हो, तो मूत्रकृच्छ्र (प्रोस्टेट/यूरिन इन्फेक्शन) और गुल्म रोग होता है।",
+              "gu": "લગ્નેશ છઠ્ઠા ભાવમાં પાપ ગ્રહ સાથે યુત હોય અને શુભની દૃષ્ટિથી રહિત હોય, તો મૂત્રકૃચ્છ્ર (પ્રોસ્ટેટ/યુરિન ઇન્ફેક્શન) અને ગુલ્મ રોગ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord 6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "no benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "urinary disorders"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "gulma"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If the ascendant lord is in the 6th with the Moon and the 6th lord is conjunct Mercury, the native will have leucoderma (white patches).",
+              "hi": "लग्नेश छठे भाव में चंद्र से युत हो और षष्ठेश बुध से युत हो, तो श्वित्र (सफेद दाग) रोग होता है।",
+              "gu": "લગ્નેશ છઠ્ઠા ભાવમાં ચંદ્ર સાથે યુત હોય અને ષષ્ઠેશ બુધ સાથે યુત હોય, તો શ્વિત્ર (સફેદ ડાઘ) રોગ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord 6th with moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th lord with mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "leucoderma"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "Should the lord of the ascendant be in a sign of Mars or of Mercury and be aspected by Mercury, there will be diseases of the face.",
+              "hi": "लग्नेश मंगल की राशि (मेष/वृश्चिक) या बुध की राशि (मिथुन/कन्या) में हो और मंगल बुध से देखा गया हो, तो मुख के रोग होते हैं।",
+              "gu": "લગ્નેશ મંગળની રાશિ (મેષ/વૃશ્ચિક) કે બુધની રાશિ (મિથુન/કન્યા)માં હોય અને મંગળ બુધથી જોવાયેલો હોય, તો મુખના રોગ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "facial diseases"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "Mars or Mercury having ownership of the ascending sign and joining the Moon, Rahu, and Saturn, will cause leprosy.",
+              "hi": "लग्नेश मंगल और बुध चंद्र से युत हों, और राहु तथा शनि से युत हों, तो कुष्ठ रोग होता है।",
+              "gu": "લગ્નેશ મંગળ અને બુધ ચંદ્ર સાથે યુત હોય, અને રાહુ તથા શનિ સાથે યુત હોય, તો કુષ્ઠ રોગ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "rahu"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "leprosy"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "If the ascendant is occupied by the lords of the 6th and 8th along with the Sun, the native will be afflicted by fever and tumors. Mars replacing the Sun will cause swelling and hardening of the blood vessels and wounds from weapons.",
+              "hi": "लग्न में छठे और आठवें भाव के स्वामी सूर्य से युत हों, तो ज्वर और गण्ड (गाँठ) होते हैं। मंगल होने पर ग्रन्थि और शस्त्र के व्रण होते हैं।",
+              "gu": "લગ્નમાં છઠ્ઠા અને આઠમા ભાવના સ્વામી સૂર્ય સાથે યુત હોય, તો જ્વર અને ગંડ (ગાંઠ) થાય છે. મંગળ હોય તો ગ્રંથિ અને શસ્ત્રના વ્રણ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "6th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sun"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fever"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "tumors"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wounds"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "Mercury brings bilious diseases, Jupiter destroys diseases, Venus causes diseases through females, Saturn causes windy diseases, Rahu brings fear from low-caste men, Ketu causes navel diseases, and the Moon brings dangers from water and phlegmatic disorders.",
+              "hi": "बुध से पित्त रोग, गुरु से रोगों का अभाव, शुक्र से स्त्रियों के कारण रोग, शनि से वायु रोग, राहु से नीच जातियों से भय, केतु से नाभि रोग और चंद्र से जल तथा कफ रोग होते हैं।",
+              "gu": "બુધથી પિત્ત રોગ, ગુરુથી રોગોનો અભાવ, શુક્રથી સ્ત્રીઓના કારણે રોગ, શનિથી વાયુ રોગ, રાહુથી નીચ જાતિઓથી ભય, કેતુથી નાભિ રોગ અને ચંદ્રથી જળ તથા કફ રોગ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mercury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "bile"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "disease cure"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "female diseases"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "windy diseases"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "rahu"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ketu"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "water"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "One's own sons will be his enemies if the 5th lord is in the 6th while the 6th lord is with Jupiter. Simultaneously the 12th lord should be in the ascendant.",
+              "hi": "छठे भाव में शनि, तीसरे में गुरु, पाँचवें में शनि/गुरु? और षष्ठेश दशम भाव में हो, तो पुत्र ही शत्रु होता है।",
+              "gu": "છઠ્ઠા ભાવમાં શનિ, ત્રીજામાં ગુરુ, પાંચમામાં શનિ/ગુરુ? અને ષષ્ઠેશ દશમ ભાવમાં હોય, તો પુત્ર જ શત્રુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th lord 6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th lord with jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th lord ascendant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "inimical sons"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "There will be fear from dogs during the 10th and 19th year if the ascendant lord and the 6th lord are in exchange.",
+              "hi": "लग्नेश और षष्ठेश का परिवर्तन हो, तो दसवें या उन्नीसवें वर्ष में कुत्तों से भय होता है।",
+              "gu": "લગ્નેશ અને ષષ્ઠેશનો પરિવર્તન હોય, તો દસમા કે ઓગણીસમા વર્ષમાં કૂતરાઓથી ભય થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exchange"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fear from dogs"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "10th year"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "19th year"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "7": {
+        "house": 7,
+        "chapter": 18,
+        "title": "Effects of the Seventh House (Spouse/Marriage)",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "If the 7th lord is in his own sign or in exaltation, one will derive full happiness through his wife (and marriage).",
+              "hi": "सप्तमेश स्वराशि या स्वोच्च में हो, तो पत्नी से सुख, विद्या और धन की प्राप्ति होती है।",
+              "gu": "સપ્તમેશ સ્વરાશિ કે સ્વોચ્ચમાં હોય, તો પત્નીથી સુખ, વિદ્યા અને ધનની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "7th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "marital happiness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "Should the 7th lord be in the 6th, 8th, or the 12th, the wife will be sickly. This, however, does not apply to own house or exaltation placement.",
+              "hi": "सप्तमेश छठे, आठवें या बारहवें भाव में हो, तो पत्नी रोगी रहती है। स्वोच्च या स्वराशि में होने पर ऐसा नहीं होता।",
+              "gu": "સપ્તમેશ છઠ્ઠા, આઠમા કે બારમા ભાવમાં હોય, તો પત્ની રોગી રહે છે. સ્વોચ્ચ કે સ્વરાશિમાં હોવાથી આવું થતું નથી.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "7th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sickly wife"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own sign"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If Venus is in the 7th, the native will be exceedingly libidinous. Venus joining a malefic in any house will cause loss of wife.",
+              "hi": "सप्तम भाव में शुक्र हो तो अत्यधिक कामी होता है। शुक्र पाप से युत हो तो पत्नी का नाश होता है।",
+              "gu": "સપ્તમ ભાવમાં શુક્ર હોય તો અત્યધિક કામી થાય છે. શુક્ર પાપ સાથે યુત હોય તો પત્નીનો નાશ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "venus 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "libidinous"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "loss of wife"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "Should the 7th lord be endowed with strength and be conjunct or be aspected by a benefice, the native will be wealthy, honourable, happy, and fortunate.",
+              "hi": "सप्तमेश बलयुक्त हो और शुभ ग्रह से देखा गया हो या युत हो, तो धनवान, मानवी, विद्वान, सुखी और भाग्यशाली होता है।",
+              "gu": "સપ્તમેશ બળયુક્ત હોય અને શુભ ગ્રહથી જોવાયેલો હોય કે યુત હોય, તો ધનવાન, માનવી, વિદ્વાન, સુખી અને ભાગ્યશાળી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "7th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "honor"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "happiness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "Conversely, if the 7th lord is in fall or is combust or is in an enemy's sign, one will acquire sick wives and many wives.",
+              "hi": "सप्तमेश नीच, अस्त या शत्रु राशि में हो, तो बहु पत्नियाँ होती हैं और पत्नियाँ रोगी रहती हैं।",
+              "gu": "સપ્તમેશ નીચ, અસ્ત કે શત્રુ રાશિમાં હોય, તો બહુ પત્નીઓ થાય છે અને પત્નીઓ રોગી રહે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "7th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "debilitation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "combust"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "enemy sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "multiple wives"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sickly wives"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "The native will befriend barren females (for sexual union) if the Sun is in the 7th. The Moon therein will cause association with such females as corresponding to the sign becoming the 7th.",
+              "hi": "सप्तम में सूर्य हो तो बाँझ स्त्रियों से संगम, चंद्र हो तो उस राशि के अनुसार स्त्रियों से संगम होता है।",
+              "gu": "સપ્તમમાં સૂર્ય હોય તો વાંઝ સ્ત્રીઓ સાથે સંગમ, ચંદ્ર હોય તો તે રાશિ પ્રમાણે સ્ત્રીઓ સાથે સંગમ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "barren women"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sign-based women"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "Mars placed in the 7th will denote association with marriageable girls (or those with menses) or with barren females. Mercury indicates harlots, mean females, and females belonging to the trader's community.",
+              "hi": "मंगल हो तो कुमारी या बाँझ स्त्रियाँ, बुध हो तो वेश्या, शूद्र स्त्रियाँ या वैश्य स्त्रियाँ होती हैं।",
+              "gu": "મંગળ હોય તો કુમારી કે વાંઝ સ્ત્રીઓ, બુધ હોય તો વેશ્યા, શૂદ્ર સ્ત્રીઓ કે વૈશ્ય સ્ત્રીઓ હોય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mars 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "marriageable girls"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mercury 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "harlots"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trader women"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "Wife of a Brahmin or a pregnant female will be in the native's association if Jupiter is in the 7th. Base females and females having attained their courses are denoted by Saturn/Rahu/Ketu in the 7th.",
+              "hi": "गुरु हो तो ब्राह्मण स्त्री या गर्भवती स्त्री, शनि/राहु/केतु हो तो नीच जाति की या रजस्वला स्त्रियाँ होती हैं।",
+              "gu": "ગુરુ હોય તો બ્રાહ્મણ સ્ત્રી કે ગર્ભવતી સ્ત્રી, શનિ/રાહુ/કેતુ હોય તો નીચ જાતિની કે રજસ્વલા સ્ત્રીઓ હોય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "brahmin women"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "pregnant women"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "rahu 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ketu 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "base women"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "Mars denotes a female with attractive breasts. Saturn indicates a sick and weak spouse. Jupiter will bring a spouse with hard and prominent breasts, while Venus will bring one with bulky and excellent breasts.",
+              "hi": "मंगल हो तो सुडौल स्तन वाली, शनि हो तो रोगी और दुर्बल, गुरु हो तो कठोर स्तन वाली, शुक्र हो तो बड़े और उन्नत स्तन वाली स्त्री होती है।",
+              "gu": "મંગળ હોય તો સુડોલ સ્તનવાળી, શનિ હોય તો રોગી અને દુર્બળ, ગુરુ હોય તો કઠોર સ્તનવાળી, શુક્ર હોય તો મોટા અને ઉન્નત સ્તનવાળી સ્ત્રી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "attractive breasts"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sick wife"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "hard breasts"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "bulky breasts"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "Malefic in the 12th and 7th while decreasing Moon is in the 5th denote that the native will be controlled by his spouse who will be inimical to the race (or family).",
+              "hi": "सातवें और बारहवें भाव में पाप ग्रह हों और पंचम में क्षीण चंद्र हो, तो पत्नी वश में करने वाली और कुल का नाश करने वाली होती है।",
+              "gu": "સાતમા અને બારમા ભાવમાં પાપ ગ્રહો હોય અને પંચમમાં ક્ષીણ ચંદ્ર હોય, તો પત્ની વશમાં લેનારી અને કુળનો નાશ કરનારી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "malefic 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic 12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "waning moon 5th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "domineering wife"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "If the 7th house is occupied or owned by Saturn/Mars, the native will beget a harlot as his spouse or she will be attached to other men illegally.",
+              "hi": "सप्तम भाव में शनि और मंगल हों, या सप्तमेश ये हों, तो पत्नी वेश्या होती है और दूसरे पुरुषों से संगम करने वाली होती है।",
+              "gu": "સપ્તમ ભાવમાં શનિ અને મંગળ હોય, કે સપ્તમેશ આ હોય, તો પત્ની વેશ્યા થાય છે અને બીજા પુરુષો સાથે સંગમ કરનારી હોય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "saturn 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "7th lord saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "7th lord mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "unchaste wife"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 12,
+              "en": "Should Venus be in a Navamsha of Mars or in a Rashi of Mars or be in aspect to or conjunct Mars, the native will 'kiss' the private parts of the female. If Venus is so related to Saturn, the native will 'kiss' the private part of a male.",
+              "hi": "शुक्र मंगल के नवांश में हो, मंगल राशि में हो या मंगल से देखा गया हो, तो स्त्रियों की योनि को चूमता है। शनि से ऐसा हो तो पुरुषों को चूमता है।",
+              "gu": "શુક્ર મંગળના નવાંશમાં હોય, મંગળ રાશિમાં હોય કે મંગળથી જોવાયેલો હોય, તો સ્ત્રીઓની યોનિને ચૂમે છે. શનિથી આવું હોય તો પુરુષોને ચૂમે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "navamsha"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "perverse sex"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "homosexual"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 13,
+              "en": "The native will beget a spouse endowed with (the seven principal) virtues who will expand his dynasty by sons and grandsons if the 7th lord is exalted while the 7th is occupied by a strong ascendant lord and a benefice.",
+              "hi": "सप्तमेश उच्च का हो, सप्तम भाव में लग्नेश बलयुक्त हो और शुभ ग्रहों से युत हो, तो सद्गुणी और पुत्रवती पत्नी प्राप्त होती है।",
+              "gu": "સપ્તમેશ ઉચ્ચનો હોય, સપ્તમ ભાવમાં લગ્નેશ બળયુક્ત હોય અને શુભ ગ્રહોથી યુત હોય, તો સદ્ગુણી અને પુત્રવતી પત્ની પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "7th lord exalted"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "7th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "virtuous wife"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "children"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 14,
+              "en": "One will have two wives if the 7th lord is in fall, or in a malefic sign along with a malefic while the 7th house or the 7th Navamsha belongs to a eunuch planet (Gemini, Virgo, Capricorn, Aquarius).",
+              "hi": "सप्तमेश नीच राशि में हो या पाप राशि में पाप ग्रह से युत हो, और सप्तम भाव या नवांश नपुंसक राशि का हो, तो दो पत्नियाँ होती हैं।",
+              "gu": "સપ્તમેશ નીચ રાશિમાં હોય કે પાપ રાશિમાં પાપ ગ્રહ સાથે યુત હોય, અને સપ્તમ ભાવ કે નવાંશ નપુંસક રાશિનો હોય, તો બે પત્નીઓ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "7th lord debilitated"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "7th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "7th navamsha"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "eunuch sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "two wives"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 15,
+              "en": "If Mars and Venus are in the 7th or if Saturn is in the 7th while the lord of the ascendant is in the 8th, the native will have 3 wives.",
+              "hi": "सप्तम भाव में मंगल-शुक्र युत हों, शनि सप्तम में हो और लग्नेश आठवें भाव में हो, तो तीन पत्नियाँ होती हैं।",
+              "gu": "સપ્તમ ભાવમાં મંગળ-શુક્ર યુત હોય, શનિ સપ્તમમાં હોય અને લગ્નેશ આઠમા ભાવમાં હોય, તો ત્રણ પત્નીઓ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "mars venus 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord 8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "three wives"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 16,
+              "en": "There will be many wives if Venus is in a dual sign while its lord is in exaltation as the 7th lord is endowed with strength.",
+              "hi": "शुक्र द्विस्वभाव राशि (मिथुन, कन्या, धनु, मीन) में हो, उसका स्वामी उच्च का हो और सप्तमेश बलयुक्त हो, तो बहुत सी पत्नियाँ होती हैं।",
+              "gu": "શુક્ર દ્વિસ્વભાવ રાશિ (મિથુન, કન્યા, ધનુ, મીન) માં હોય, તેનો સ્વામી ઉચ્ચનો હોય અને સપ્તમેશ બળયુક્ત હોય, તો ઘણી પત્નીઓ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "venus dual sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "7th lord strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "many wives"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 17,
+              "en": "The Sun or Mars in the 7th, especially if associated with a malefic, causes death of the wife.",
+              "hi": "लग्न से सातवें भाव में सूर्य या मंगल हो, और पाप ग्रह से युत हो, तो पत्नी का नाश होता है।",
+              "gu": "લગ્નથી સાતમા ભાવમાં સૂર્ય કે મંગળ હોય, અને પાપ ગ્રહ સાથે યુત હોય, તો પત્નીનો નાશ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars 7th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wife death"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 18,
+              "en": "Loss of wife occurs if the 7th lord is in the 6th/8th/12th with Venus, or if Venus in the 7th is aspected by a malefic.",
+              "hi": "सप्तमेश छठे, आठवें या बारहवें में हो और शुक्र से युत हो, या सप्तम में शुक्र पाप से देखा गया हो, तो पत्नी का नाश होता है।",
+              "gu": "સપ્તમેશ છઠ્ઠા, આઠમા કે બારમામાં હોય અને શુક્ર સાથે યુત હોય, કે સપ્તમમાં શુક્ર પાપથી જોવાયેલો હોય, તો પત્નીનો નાશ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "7th lord dusthana"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus 7th malefic aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wife death"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "8": {
+        "house": 8,
+        "chapter": 19,
+        "title": "Effects of the Eighth House (Longevity)",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "If the 8th lord is in an angle, long life is indicated. If the ascendant lord is also in an angle, there is no doubt about long life.",
+              "hi": "रन्ध्रेश (अष्टमेश) केन्द्र में हो, तो दीर्घायु प्रदान करता है। लग्नेश भी केन्द्र में हो तो दीर्घायु होता है।",
+              "gu": "રન્ધ્રેશ (અષ્ટમેશ) કેન્દ્રમાં હોય, તો દીર્ઘાયુ પ્રદાન કરે છે. લગ્નેશ પણ કેન્દ્રમાં હોય તો દીર્ઘાયુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "8th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "long life"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "Should the 8th lord join the ascendant lord or a malefic and be in the 8th itself, the native will be short-lived.",
+              "hi": "रन्ध्रेश लग्नेश या पाप ग्रह से युत हो और आठवें भाव में हो, तो अल्पायु होता है। लग्नेश भी ऐसे स्थित हो तो भी अल्पायु होता है।",
+              "gu": "રન્ધ્રેશ લગ્નેશ કે પાપ ગ્રહ સાથે યુત હોય અને આઠમા ભાવમાં હોય, તો અલ્પાયુ થાય છે. લગ્નેશ પણ આવા સ્થિત હોય તોયે અલ્પાયુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "8th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "short life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "Similarly, consider Saturn and the 10th lord in the matter of longevity.",
+              "hi": "इसी प्रकार शनि और दशमेश से भी आयु का विचार करना चाहिए।",
+              "gu": "આ જ પ્રમાણે શનિ અને દશમેશથી પણ આયુનો વિચાર કરવો જોઈએ.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "10th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "longevity"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "There will be long life if the 6th lord is in the 12th, or if the 12th lord is in the 6th, or if the 8th lord is in the 8th, or if the ascendant lord is in the ascendant.",
+              "hi": "षष्ठेश बारहवें भाव में हो, या व्ययेश (बारहवें का स्वामी) छठे में हो, या लग्न में और अष्टमेश आठवें में हो, तो दीर्घायु देता है।",
+              "gu": "ષષ્ઠેશ બારમા ભાવમાં હોય, કે વ્યયેશ (બારમાનો સ્વામી) છઠ્ઠામાં હોય, કે લગ્નમાં અને અષ્ટમેશ આઠમામાં હોય, તો દીર્ઘાયુ આપે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "6th lord 12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th lord 6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord 8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "long life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If the 8th lord is in its own sign, own Navamsha, trine, or angle, it gives long life. Also, if the ascendant lord is in the 8th, long life is indicated.",
+              "hi": "स्वराशि, स्वनवांश, त्रिकोण या केन्द्र में होने पर दीर्घायु करता है। लग्नेश आठवें में हो तो भी दीर्घायु होता है।",
+              "gu": "સ્વરાશિ, સ્વનવાંશ, ત્રિકોણ કે કેન્દ્રમાં હોવાથી દીર્ઘાયુ કરે છે. લગ્નેશ આઠમામાં હોય તોયે દીર્ઘાયુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "8th lord own sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own navamsha"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord 8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "long life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "If the lords of the ascendant, 8th, and trines (5th and 9th) are in angles, trines, or the 11th, they confer long life.",
+              "hi": "लग्न, अष्टम और त्रिकोण के स्वामी यदि केन्द्र, त्रिकोण या ग्यारहवें भाव में हों, तो दीर्घायु देते हैं।",
+              "gu": "લગ્ન, અષ્ટમ અને ત્રિકોણના સ્વામી જો કેન્દ્ર, ત્રિકોણ કે અગિયારમા ભાવમાં હોય, તો દીર્ઘાયુ આપે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "5th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "9th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "long life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "One's span of life will be between 20 and 32 years if the ascendant lord is weak while the 8th lord is in an angle.",
+              "hi": "लग्नेश दुर्बल हो और रन्ध्रेश केन्द्र में हो, तो 20 से 32 वर्ष के बीच आयु होती है।",
+              "gu": "લગ્નેશ દુર્બળ હોય અને રન્ધ્રેશ કેન્દ્રમાં હોય, તો 20 થી 32 વર્ષ વચ્ચે આયુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord weak"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "20-32 years"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "medium life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "The native will only be short-lived if the 8th lord is in fall while the 8th has a malefic in it and the ascendant lord is bereft of strength.",
+              "hi": "रन्ध्रेश नीच राशि में हो, आठवें भाव में पाप ग्रह हो या पाप से युत हो, और लग्नेश बलहीन हो, तो तुरंत मृत्यु होती है।",
+              "gu": "રન્ધ્રેશ નીચ રાશિમાં હોય, આઠમા ભાવમાં પાપ ગ્રહ હોય કે પાપ સાથે યુત હોય, અને લગ્નેશ બળહીન હોય, તો તુરંત મૃત્યુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "8th lord debilitated"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic 8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord weak"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "short life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "Death will be instant at birth if the 8th house, 8th lord, and the 12th house are all conjunct malefic.",
+              "hi": "आठवाँ भाव, अष्टमेश और बारहवाँ भाव पाप ग्रहों से युत हों, तो बाल-मृत्यु होती है।",
+              "gu": "આઠમો ભાવ, અષ્ટમેશ અને બારમો ભાવ પાપ ગ્રહોથી યુત હોય, તો બાલ-મૃત્યુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "infant death"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "Malefic in angles/trines and benefices in 6th/8th while the ascendant has in it the 8th lord in fall: this yoga will cause immediate end.",
+              "hi": "लग्न में अष्टमेश नीच का हो, केन्द्र या त्रिकोण में पाप ग्रह हों, और छठे तथा आठवें में शुभ ग्रह हों, तो बाल-मृत्यु होती है।",
+              "gu": "લગ્નમાં અષ્ટમેશ નીચનો હોય, કેન્દ્ર કે ત્રિકોણમાં પાપ ગ્રહો હોય, અને છઠ્ઠા તથા આઠમામાં શુભ ગ્રહો હોય, તો બાલ-મૃત્યુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "8th lord debilitated lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice 6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice 8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "infant death"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "If the 5th house, 8th house, and the 8th lord are all conjunct malefic, the life span will be very brief.",
+              "hi": "पंचम, अष्टम और अष्टमेश पाप ग्रहों से युत हों, तो अत्यल्प आयु होती है।",
+              "gu": "પંચમ, અષ્ટમ અને અષ્ટમેશ પાપ ગ્રહોથી યુત હોય, તો અત્યલ્પ આયુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "5th house malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "very short life"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 12,
+              "en": "Within a month of birth, death will befall the child if the 8th lord is in the 8th itself while the Moon is with a malefic and be bereft of beneficial aspect.",
+              "hi": "अष्टमेश आठवें भाव में हो, चंद्र पाप से युत हो और शुभ की दृष्टि से रहित हो, तो बालक एक मास ही जीवित रहता है।",
+              "gu": "અષ્ટમેશ આઠમા ભાવમાં હોય, ચંદ્ર પાપ સાથે યુત હોય અને શુભની દૃષ્ટિથી રહિત હોય, તો બાળક એક માસ જ જીવે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "8th lord 8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "no benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "death within month"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "9": {
+        "house": 9,
+        "chapter": 20,
+        "title": "Effects of the Ninth House (Fortunes/Father)",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "One will be fortunate (or affluent) if the 9th lord is in the 9th with strength. Should Jupiter be in the 9th house while the 9th lord is in an angle and the ascendant lord is endowed with strength, one will be extremely fortunate.",
+              "hi": "भाग्येश (नवमेश) नवम भाव में हो, उच्च का हो, स्वराशि में हो या बलयुक्त हो, तो राजा या राजा के समान, सुखी और भाग्यशाली होता है।",
+              "gu": "ભાગ્યેશ (નવમેશ) નવમ ભાવમાં હોય, ઉચ્ચનો હોય, સ્વરાશિમાં હોય કે બળયુક્ત હોય, તો રાજા કે રાજા સમાન, સુખી અને ભાગ્યશાળી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "9th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "9th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fortune"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "If the 9th lord is with strength as Venus is in the 9th while Jupiter is in an angle from the ascendant, the native's father is fortunate.",
+              "hi": "भाग्येश बलयुक्त हो, नवम भाव में शुक्र हो और लग्न से केन्द्र में गुरु हो, तो पिता भाग्यशाली होता है।",
+              "gu": "ભાગ્યેશ બળયુક્ત હોય, નવમ ભાવમાં શુક્ર હોય અને લગ્નથી કેન્દ્રમાં ગુરુ હોય, તો પિતા ભાગ્યશાળી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "9th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fortunate father"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If the 9th lord is debilitated while the 2nd/4th from the 9th is occupied by Mars, the native's father is poor.",
+              "hi": "नवम से दूसरे (दशम) या चौथे (बारहवें?) भाव में मंगल युत हो और भाग्येश नीच राशि में हो, तो पिता निर्धन होता है।",
+              "gu": "નવમથી બીજા (દશમ) કે ચોથા (બારમા?) ભાવમાં મંગળ યુત હોય અને ભાગ્યેશ નીચ રાશિમાં હોય, તો પિતા નિર્ધન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "9th lord debilitated"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars 10th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars 12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "poor father"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "Should the 9th lord be in deep exaltation while Venus is in an angle from the ascendant and Jupiter is in the 9th from Navamsha Ascendant, the father of the native will enjoy a long span of life.",
+              "hi": "भाग्येश परमोच्च में हो, नवम नवांश में गुरु युत हो, लग्न से चौथे (केन्द्र) में शुक्र हो, तो पिता दीर्घायु होता है।",
+              "gu": "ભાગ્યેશ પરમોચ્ચમાં હોય, નવમ નવાંશમાં ગુરુ યુત હોય, લગ્નથી ચોથા (કેન્દ્ર)માં શુક્ર હોય, તો પિતા દીર્ઘાયુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "9th lord deep exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter navamsha 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "long-lived father"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If the 9th lord is in an angle in aspect to Jupiter, the native's father will be a king endowed with conveyances or be equal to a king.",
+              "hi": "भाग्येश केन्द्र में हो और गुरु से देखा गया हो, तो पिता वाहनों से युक्त राजा या राजा के समान होता है।",
+              "gu": "ભાગ્યેશ કેન્દ્રમાં હોય અને ગુરુથી જોવાયેલો હોય, તો પિતા વાહનોથી યુક્ત રાજા કે રાજા સમાન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "9th lord angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "father king"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "Should the lord of the 9th be in the 10th while the 10th lord being aspected by a benefice, the native's father will be very rich and famous.",
+              "hi": "भाग्येश दशम भाव में हो, कर्मेश नवम भाव में हो और शुभ की दृष्टि हो, तो पिता धनाढ्य और कीर्तिमान होता है।",
+              "gu": "ભાગ્યેશ દશમ ભાવમાં હોય, કર્મેશ નવમ ભાવમાં હોય અને શુભની દૃષ્ટિ હોય, તો પિતા ધનાઢ્ય અને કીર્તિમાન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "9th lord 10th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "10th lord benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "rich father"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "famous father"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "Should the Sun be in deep exaltation as the 9th lord is in the 11th, the native will be virtuous, dear to the king, and devoted to his father.",
+              "hi": "सूर्य परमोच्च नवांश में हो, भाग्येश ग्यारहवें भाव में हो, तो मनुष्य धर्मात्मा, राजप्रिय और पितृभक्त होता है।",
+              "gu": "સૂર્ય પરમોચ્ચ નવાંશમાં હોય, ભાગ્યેશ અગિયારમા ભાવમાં હોય, તો મનુષ્ય ધર્માત્મા, રાજપ્રિય અને પિતૃભક્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun deep exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "9th lord 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "virtuous"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "royal favor"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "father devotion"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "Acquisition of fortunes, conveyances, and fame will follow the 32nd year of age if the 9th lord is in the 2nd while the 2nd lord is in the 9th.",
+              "hi": "भाग्येश दूसरे भाव में हो और धनेश नवम भाव में हो, तो बत्तीसवें वर्ष के बाद भाग्य, वाहन और कीर्ति की प्राप्ति होती है।",
+              "gu": "ભાગ્યેશ બીજા ભાવમાં હોય અને ધનેશ નવમ ભાવમાં હોય, તો બત્તીસમા વર્ષ પછી ભાગ્ય, વાહન અને કીર્તિની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "9th lord 2nd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "2nd lord 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exchange"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fortune after 32"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fame"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "There will be mutual enmity between the father and the native if the ascendant lord is in the 9th but with the lord of the 6th. Further, the native's father will be of contemptible disposition.",
+              "hi": "लग्नेश नवम भाव में हो और षष्ठेश से युत हो, तो पिता से परस्पर वैर होता है और पिता निंदित होता है।",
+              "gu": "લગ્નેશ નવમ ભાવમાં હોય અને ષષ્ઠેશ સાથે યુત હોય, તો પિતા સાથે પરસ્પર વેર થાય છે અને પિતા નિંદિત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "enmity with father"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "contemptible father"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "If the 10th lord and 3rd lord are both bereft of strength while the 9th lord is in fall or in combustion, the native will go a begging for his food.",
+              "hi": "दशमेश और तृतीयेश दोनों निर्बल हों, और भाग्येश नीच या अस्त में हो, तो भिक्षा मांगकर खाने का योग होता है।",
+              "gu": "દશમેશ અને તૃતીયેશ બંને નિર્બળ હોય, અને ભાગ્યેશ નીચ કે અસ્તમાં હોય, તો ભિક્ષા માંગીને ખાવાનો યોગ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord weak"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "3rd lord weak"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "9th lord debilitated"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "begging"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "The father of the native would have passed away prior to the native's birth if the Sun is in the 6th/8th/12th as the 8th lord is in the 9th, the 12th lord is in the ascendant, and the 6th lord is in the 5th house.",
+              "hi": "सूर्य छठे, आठवें या बारहवें में हो, रन्ध्रेश नवम से युत हो, व्ययेश लग्न में हो और षष्ठेश पंचम में हो, तो जन्म से पूर्व ही पिता की मृत्यु हो जाती है।",
+              "gu": "સૂર્ય છઠ્ઠા, આઠમા કે બારમામાં હોય, રન્ધ્રેશ નવમ સાથે યુત હોય, વ્યયેશ લગ્નમાં હોય અને ષષ્ઠેશ પંચમમાં હોય, તો જન્મ પહેલાં જ પિતાની મૃત્યુ થઈ જાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun 6th/8th/12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th lord ascendant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th lord 5th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "father death before birth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 12,
+              "en": "Should the Sun be in the 8th while the 8th lord is in the 9th, the native's father will pass away within a year of his birth.",
+              "hi": "सूर्य आठवें भाव में हो और रन्ध्रेश नवम भाव में हो, तो जातक के प्रथम वर्ष में पिता की मृत्यु होती है।",
+              "gu": "સૂર્ય આઠમા ભાવમાં હોય અને રન્ધ્રેશ નવમ ભાવમાં હોય, તો જાતકના પ્રથમ વર્ષમાં પિતાની મૃત્યુ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "sun 8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th lord 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "father death in first year"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "10": {
+        "house": 10,
+        "chapter": 21,
+        "title": "Effects of the Tenth House (Career/Karma/Father)",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "If the 10th lord is strong and be in exaltation or in own Rashi/Navamsha, the native will derive extreme paternal happiness, will enjoy fame, and will perform good deeds.",
+              "hi": "कर्मेश (दशमेश) बलयुक्त हो, स्वोच्च, स्वराशि या स्वनवांश में हो, तो पितृसुख, कीर्ति और शुभ कर्मों की प्राप्ति होती है।",
+              "gu": "કર્મેશ (દશમેશ) બળયુક્ત હોય, સ્વોચ્ચ, સ્વરાશિ કે સ્વનવાંશમાં હોય, તો પિતૃસુખ, કીર્તિ અને શુભ કર્મોની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "strength"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own sign"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "navamsha"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "paternal happiness"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fame"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "If the 10th lord is devoid of strength, the native will face obstructions in his work. If Rahu is in an angle or in a trine, he will perform religious sacrifices like Jyotishtoma.",
+              "hi": "कर्मेश बलहीन हो तो कर्म में विकलता होती है। राहु केन्द्र या त्रिकोण में हो तो ज्योतिष्टोम आदि यज्ञ करता है।",
+              "gu": "કર્મેશ બળહીન હોય તો કર્મમાં વિકળતા થાય છે. રાહુ કેન્દ્ર કે ત્રિકોણમાં હોય તો જ્યોતિષ્ટોમ આદિ યજ્ઞ કરે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord weak"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "career obstacles"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "rahu angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "rahu trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "religious sacrifices"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If the 10th lord is with a benefice or be in an auspicious house, one will always gain through royal patronage and in business. In a contrary situation, only opposite results will come to pass.",
+              "hi": "कर्मेश शुभ से युत हो और शुभ स्थान में हो, तो राज्याश्रय और व्यापार में सदा लाभ होता है। अन्यथा (पाप युत होने पर) अलाभ होता है।",
+              "gu": "કર્મેશ શુભ સાથે યુત હોય અને શુભ સ્થાનમાં હોય, તો રાજ્યાશ્રય અને વ્યાપારમાં સદા લાભ થાય છે. અન્યથા (પાપ યુત હોવાથી) અલાભ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "auspicious house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "royal patronage"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "business gains"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "losses"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "If the 10th lord is in an angle or trine, associated with a malefic but aspected by a benefice, the native will gain authority, fortune, conveyances, etc.",
+              "hi": "कर्मेश केन्द्र या त्रिकोण में हो, पाप से युत हो किन्तु शुभ से देखा गया हो, तो अधिपत्य, सौभाग्य और वाहनादि सुख प्राप्त होते हैं।",
+              "gu": "કર્મેશ કેન્દ્ર કે ત્રિકોણમાં હોય, પાપ સાથે યુત હોય પણ શુભથી જોવાયેલો હોય, તો અધિપત્ય, સૌભાગ્ય અને વાહનાદિ સુખ પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "10th lord trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "authority"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "conveyances"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If Jupiter or Venus is in the 10th house, or in an angle or trine, the native will meet the king (gain high government audience) and always be happy.",
+              "hi": "दशम भाव में गुरु या शुक्र हों, या केन्द्र/त्रिकोण में हों, तो राजदर्शन करता है और सदा सुखी रहता है।",
+              "gu": "દશમ ભાવમાં ગુરુ કે શુક્ર હોય, કે કેન્દ્ર/ત્રિકોણમાં હોય, તો રાજદર્શન કરે છે અને સદા સુખી રહે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter 10th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus 10th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "royal audience"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "happiness"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "Should Rahu, Sun, Saturn, and Mars be in the 11th, the native will incur cessation of his duties (loss of profession/job).",
+              "hi": "राहु, सूर्य, मंगल और शनि यदि चारों ग्यारहवें भाव में हों, तो कर्म का छेदन (नौकरी/व्यवसाय से वंचित) होता है।",
+              "gu": "રાહુ, સૂર્ય, મંગળ અને શનિ જો ચારેય અગિયારમા ભાવમાં હોય, તો કર્મનું છેદન (નોકરી/વ્યવસાયથી વંચિત) થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "rahu"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sun"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "loss of profession"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "One will be learned and wealthy if Jupiter is in Pisces along with Venus while the ascendant lord is strong and the Moon is in exaltation.",
+              "hi": "मीन राशि में गुरु और शुक्र युत हों, लग्नेश बलयुक्त हो और चंद्र उच्च का हो, तो विद्वान, धनवान और सुखी होता है।",
+              "gu": "મીન રાશિમાં ગુરુ અને શુક્ર યુત હોય, લગ્નેશ બળયુક્ત હોય અને ચંદ્ર ઉચ્ચનો હોય, તો વિદ્વાન, ધનવાન અને સુખી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter pisces"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus pisces"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord strong"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon exalted"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "learned"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealthy"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "If Venus is in the 10th house with the ascendant lord, the native will obtain ornaments, clothes, elephants, horses, etc.",
+              "hi": "दशम भाव में शुक्र हो और लग्नेश से युत हो, तो आभूषण, वस्त्र, हाथी, घोड़े आदि का सुख प्राप्त होता है।",
+              "gu": "દશમ ભાવમાં શુક્ર હોય અને લગ્નેશ સાથે યુત હોય, તો આભૂષણ, વસ્ત્ર, હાથી, ઘોડા આદિનું સુખ પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "venus 10th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ornaments"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "clothes"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "elephants"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "horses"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "If the 10th lord is in the ascendant and the ascendant lord is in the 10th, or if they exchange signs, a Raja-yoga is produced.",
+              "hi": "कर्मेश लग्न में हो, लग्नेश दशम में हो, या दोनों का परिवर्तन हो, तो राजयोग होता है।",
+              "gu": "કર્મેશ લગ્નમાં હોય, લગ્નેશ દશમમાં હોય, કે બંનેનો પરિવર્તન હોય, તો રાજયોગ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord 10th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exchange"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "raja yoga"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "If the 10th lord is in an angle or trine and the ascendant lord is strong, a Raja-yoga is formed, making the native wealthy in grains and riches.",
+              "hi": "कर्मेश केन्द्र या त्रिकोण में हो और लग्नेश बलयुक्त हो, तो राजयोग होता है और वह धन-धान्यवान होता है।",
+              "gu": "કર્મેશ કેન્દ્ર કે ત્રિકોણમાં હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે અને તે ધન-ધાન્યવાન થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "10th lord trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord strong"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "raja yoga"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 11,
+              "en": "If the 10th lord is in exaltation and the ascendant lord is strong, a Raja-yoga is formed, making the native famous, wealthy, and happy.",
+              "hi": "कर्मेश स्वोच्च में हो और लग्नेश बलयुक्त हो, तो राजयोग होता है और वह कीर्तिमान, धनवान और सुखी होता है।",
+              "gu": "કર્મેશ સ્વોચ્ચમાં હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે અને તે કીર્તિમાન, ધનવાન અને સુખી થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "10th lord exalted"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord strong"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "raja yoga"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fame"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "11": {
+        "house": 11,
+        "chapter": 22,
+        "title": "Effects of the Eleventh House (Gains)",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "Should the 11th lord be in the 11th itself or be in an angle or in a trine from the ascendant, there will be many gains.",
+              "hi": "लाभेश (ग्यारहवें भाव का स्वामी) ग्यारहवें भाव में हो, या केन्द्र या त्रिकोण में हो, तो बहुत लाभ होता है।",
+              "gu": "લાભેશ (અગિયારમા ભાવનો સ્વામી) અગિયારમા ભાવમાં હોય, કે કેન્દ્ર કે ત્રિકોણમાં હોય, તો ઘણો લાભ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "11th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "gains"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "Similarly, if the 11th lord is exalted, though in combustion, there will be many gains.",
+              "hi": "लाभेश उच्च का हो, यद्यपि अस्त हो या सूर्य से युत हो, तो भी बहुत लाभ होता है।",
+              "gu": "લાભેશ ઉચ્ચનો હોય, યદ્યપિ અસ્ત હોય કે સૂર્ય સાથે યુત હોય, તો પણ ઘણો લાભ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord exalted"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "combust"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "gains"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "If the 11th lord is in the 2nd while the 2nd lord is in an angle (from the ascendant) along with Jupiter, the gains will be great.",
+              "hi": "लाभेश दूसरे भाव में हो, धनेश केन्द्र में हो और गुरु से युत हो, तो महान् लाभ होता है।",
+              "gu": "લાભેશ બીજા ભાવમાં હોય, ધનેશ કેન્દ્રમાં હોય અને ગુરુ સાથે યુત હોય, તો મહાન્ લાભ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord 2nd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "2nd lord angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "jupiter"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "great gains"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "If the 11th lord is in the 3rd while the 11th is occupied by a benefice, the native will gain 2000 Nishkas in his 36th year.",
+              "hi": "लाभेश तृतीय भाव में हो और ग्यारहवाँ भाव शुभ से युत हो, तो छत्तीसवें वर्ष में दो हजार निष्क (धन) की प्राप्ति होती है।",
+              "gu": "લાભેશ તૃતીય ભાવમાં હોય અને અગિયારમો ભાવ શુભ સાથે યુત હોય, તો છત્રીસમા વર્ષમાં બે હજાર નિષ્ક (ધન) ની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord 3rd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "2000 nishkas"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "36th year"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "If the 11th lord is conjunct a benefice in an angle or in a trine (from the ascendant), the native will acquire 500 Nishkas in his 40th year.",
+              "hi": "लाभेश केन्द्र या त्रिकोण में हो, शुभ से देखा गया हो या युत हो, तो चालीसवें वर्ष में पिचहत्तर निष्क (धन) की प्राप्ति होती है।",
+              "gu": "લાભેશ કેન્દ્ર કે ત્રિકોણમાં હોય, શુભથી જોવાયેલો હોય કે યુત હોય, તો ચાલીસમા વર્ષમાં પિચ્હત્તર નિષ્ક (ધન) ની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "500 nishkas"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "40th year"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "The native will own 6000 Nishkas if the 11th is occupied by Jupiter while the 2nd and 9th are respectively taken over by the Moon and Venus by position.",
+              "hi": "दशमेश बारहवें भाव में हो और राहु से युत हो, तो मनुष्य जनद्वेषी, महामूर्ख और दुष्कर्म करने वाला होता है।",
+              "gu": "દશમેશ બારમા ભાવમાં હોય અને રાહુ સાથે યુત હોય, તો મનુષ્ય જનદ્વેષી, મહામૂર્ખ અને દુષ્કર્મ કરનાર થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "jupiter 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "moon 2nd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus 9th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6000 nishkas"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 7,
+              "en": "One will gain 1000 Nishkas in his 33rd year if the 11th lord is in the ascendant and the ascendant lord is in the 11th.",
+              "hi": "लाभेश लग्न में हो और लग्नेश ग्यारहवें में हो, या दोनों का परिवर्तन हो, तो महान् लाभ होता है।",
+              "gu": "લાભેશ લગ્નમાં હોય અને લગ્નેશ અગિયારમામાં હોય, કે બંનેનો પરિવર્તન હોય, તો મહાન્ લાભ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "lagna lord 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exchange"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "1000 nishkas"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "33rd year"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 8,
+              "en": "If the 11th lord is in the 2nd as the 2nd lord is in the 11th, one will amass abundant fortunes after marriage.",
+              "hi": "लाभेश दशम भाव में हो, कर्मेश ग्यारहवें से युत हो, या दोनों केन्द्र में हों, तो सुखपूर्वक जीवन व्यतीत करता है।",
+              "gu": "લાભેશ દશમ ભાવમાં હોય, કર્મેશ અગિયારમા સાથે યુત હોય, કે બંને કેન્દ્રમાં હોય, તો સુખપૂર્વક જીવન વ્યતીત કરે છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord 2nd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "2nd lord 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exchange"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "fortune after marriage"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 9,
+              "en": "If the 11th lord is in the 3rd as the 3rd lord is in the 11th, one will gain wealth through co-born and be endowed with excellent ornaments.",
+              "hi": "कर्मेश बलयुक्त हो, मीन राशि में गुरु युत हो, तो वस्त्र, आभूषण और सुख आदि की प्राप्ति होती है।",
+              "gu": "કર્મેશ બળયુક્ત હોય, મીન રાશિમાં ગુરુ યુત હોય, તો વસ્ત્ર, આભૂષણ અને સુખ આદિની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord 3rd"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "3rd lord 11th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exchange"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "wealth through siblings"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ornaments"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 10,
+              "en": "There will be no gains in spite of numerous efforts if the 11th lord is in fall, in combustion, or be in the 6th/8th/12th with a malefic.",
+              "hi": "ग्यारहवें भाव में सूर्य हो, राहु और मंगल से युत हो, और शनि से युत हो, तो मनुष्य कर्म से वंचित हो जाता है।",
+              "gu": "અગિયારમા ભાવમાં સૂર્ય હોય, રાહુ અને મંગળ સાથે યુત હોય, અને શનિ સાથે યુત હોય, તો મનુષ્ય કર્મથી વંચિત થઈ જાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "11th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "debilitation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "combust"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "malefic"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "no gains"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "12": {
+        "house": 12,
+        "chapter": 23,
+        "title": "Effects of the Twelfth House",
+        "shlokas": {
+          "_items": [
+            {
+              "n": 1,
+              "en": "There will be expenses on good accounts if the 12th lord is with a benefice, or be in own house or be exalted, or if a benefice occupies the 12th.",
+              "hi": "व्ययेश (बारहवें भाव का स्वामी) शुभ से युत हो, स्वोच्च, स्वराशि या स्वनवांश में हो, तो सत्कार्यों में व्यय होता है और शुभ भोजन की प्राप्ति होती है।",
+              "gu": "વ્યયેશ (બારમા ભાવનો સ્વામી) શુભ સાથે યુત હોય, સ્વોચ્ચ, સ્વરાશિ કે સ્વનવાંશમાં હોય, તો સત્કાર્યોમાં વ્યય થાય છે અને શુભ ભોજનની પ્રાપ્તિ થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "12th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "benefice"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "own house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "charitable expenses"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 2,
+              "en": "One will own beautiful houses and beds and be endowed with superior scented articles and pleasures if the Moon happens to be the 12th lord and be exalted or be in own sign/Navamsha or in the 11th/9th/5th in Rashi/Navamsha.",
+              "hi": "चंद्र व्ययेश हो और उच्च, स्वराशि या स्वनवांश में हो, या ग्यारहवें, नवम या पंचम भाव में हो, तो सुगंधित शय्या आदि सुख प्राप्त होते हैं।",
+              "gu": "ચંદ્ર વ્યયેશ હોય અને ઉચ્ચ, સ્વરાશિ કે સ્વનવાંશમાં હોય, કે અગિયારમા, નવમ કે પંચમ ભાવમાં હોય, તો સુગંધિત શય્યા આદિ સુખ પ્રાપ્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "moon"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "exaltation"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "luxury"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "beds"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "scented articles"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 3,
+              "en": "And if the 12th lord is in the 6th/8th or be in enemy's Navamsha, debilitation Navamsha or in 8th in Navamsha, one will be devoid of happiness from wife, be troubled by expenses, and deprived of general happiness.",
+              "hi": "व्ययेश छठे या आठवें भाव में हो, या शत्रु के नवांश में हो, तो पत्नी सुख से रहित, व्यय की अधिकता से पीड़ित होता है।",
+              "gu": "વ્યયેશ છઠ્ઠા કે આઠમા ભાવમાં હોય, કે શત્રુના નવાંશમાં હોય, તો પત્ની સુખથી રહિત, વ્યયની અધિકતાથી પીડિત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "12th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "6th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "8th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "enemy navamsha"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "no marital happiness"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "excessive expenses"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 4,
+              "en": "If he be in an angle or trine, the native will beget a spouse (and enjoy happiness).",
+              "hi": "व्ययेश केन्द्र या त्रिकोण में हो, तो उत्तम पत्नी की प्राप्ति होती है और सर्व सुखों से युक्त होता है।",
+              "gu": "વ્યયેશ કેન્દ્ર કે ત્રિકોણમાં હોય, તો ઉત્તમ પત્નીની પ્રાપ્તિ થાય છે અને સર્વ સુખોથી યુક્ત થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "12th lord"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "angle"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "trine"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "good spouse"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 5,
+              "en": "Earnings will be through sinful measures if the 12th is occupied by Saturn or Mars etc. and be not aspected by a benefice.",
+              "hi": "व्ययेश पाप से युत हो, छठे, आठवें या बारहवें में हो, तो पाप कर्मों में रत, पापोपार्जित धन वाला होता है।",
+              "gu": "વ્યયેશ પાપ સાથે યુત હોય, છઠ્ઠા, આઠમા કે બારમામાં હોય, તો પાપ કર્મોમાં રત, પાપોપાર્જિત ધનવાળો થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "12th house"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "saturn"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "mars"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "no benefice aspect"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ill-gotten wealth"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "n": 6,
+              "en": "If the ascendant lord is in the 12th while the 12th lord is in the ascendant with Venus, expense will be on religious grounds.",
+              "hi": "लग्नेश बारहवें भाव में हो और शुक्र से युत हो, या व्ययेश लग्न में हो, तो धार्मिक कार्यों में व्यय होता है।",
+              "gu": "લગ્નેશ બારમા ભાવમાં હોય અને શુક્ર સાથે યુત હોય, કે વ્યયેશ લગ્નમાં હોય, તો ધાર્મિક કાર્યોમાં વ્યય થાય છે.",
+              "kw": {
+                "_items": [
+                  {
+                    "_text": [
+                      "lagna lord 12th"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "12th lord lagna"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "venus"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "religious expenses"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

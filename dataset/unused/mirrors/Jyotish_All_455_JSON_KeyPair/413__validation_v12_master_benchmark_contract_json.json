@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "413__validation_v12_master_benchmark_contract_json",
+    "name": "validation_v12_master-benchmark-contract",
+    "original_file": "validation/v12/master-benchmark-contract.json",
+    "dataset_number": "413 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v12_master-benchmark-contract.txt",
+    "source_sha256": "9879f482a21f32255bbe7aa401ae6ec0c47148df6a9cedcff748a64c4c77b86d",
+    "source_bytes": 949
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "12.0.0",
+      "status": "READY_FOR_INDEPENDENT_EVIDENCE",
+      "principles": {
+        "_items": [
+          {
+            "_text": [
+              "identical_input"
+            ]
+          },
+          {
+            "_text": [
+              "identical_conventions"
+            ]
+          },
+          {
+            "_text": [
+              "provenance_required"
+            ]
+          },
+          {
+            "_text": [
+              "no_fabrication"
+            ]
+          },
+          {
+            "_text": [
+              "out_of_sample_only"
+            ]
+          }
+        ]
+      },
+      "engines": {
+        "_items": [
+          {
+            "_text": [
+              "HoraSaar"
+            ]
+          },
+          {
+            "_text": [
+              "JHora"
+            ]
+          },
+          {
+            "_text": [
+              "HoraParashara"
+            ]
+          },
+          {
+            "_text": [
+              "AstroSage"
+            ]
+          },
+          {
+            "_text": [
+              "Astro.com"
+            ]
+          },
+          {
+            "_text": [
+              "OtherReferenceEngine"
+            ]
+          }
+        ]
+      },
+      "requiredEvidence": {
+        "_items": [
+          {
+            "_text": [
+              "verifiedCharts"
+            ]
+          },
+          {
+            "_text": [
+              "verifiedOutcomes"
+            ]
+          },
+          {
+            "_text": [
+              "crossEngineCases"
+            ]
+          },
+          {
+            "_text": [
+              "independentReviews"
+            ]
+          }
+        ]
+      },
+      "claimPolicy": "Do not declare competitor superiority until reproducible evidence exists."
+    }
+  }
+}

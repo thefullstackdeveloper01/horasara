@@ -1,0 +1,156 @@
+{
+  "name": "D10 Dashamsa Career Rules",
+  "description": "D10 detailed interpretation rules for career, profession, status, and authority",
+  "source": "Parashara Hora Shastra & classical texts",
+  "overview": "The 10th harmonic (D10) = divisions of 30\u00b0 into 10 parts of 3\u00b0. Shows career destiny, professional life, authority, public image, father.",
+  "rules": [
+    {
+      "rule_id": 1,
+      "name": "Lagna in D10",
+      "interpretation": "Lagna lord in D10 = professional identity, career aptitude",
+      "strong": "Exalted/own house = successful, authoritative professional",
+      "weak": "Debilitated = career struggles, lack of authority"
+    },
+    {
+      "rule_id": 2,
+      "name": "10th House in D10",
+      "interpretation": "Shows actual profession, job satisfaction, reputation",
+      "planets_in_10th": "Each planet describes career type",
+      "sun_10th": "Government, leadership, administration",
+      "moon_10th": "Public service, nursing, hospitality",
+      "mercury_10th": "Commerce, media, communication",
+      "venus_10th": "Arts, beauty, finance, luxury",
+      "mars_10th": "Military, police, engineering, machinery",
+      "jupiter_10th": "Education, law, clergy, guru",
+      "saturn_10th": "Mines, labor, agriculture, old industry"
+    },
+    {
+      "rule_id": 3,
+      "name": "Amatya Karaka (AK)",
+      "interpretation": "Strongest planet = profession indicator",
+      "ak_sign": "AK's sign in D10 = career field",
+      "ak_placement": "AK in 10th = powerful career; AK in 6/8/12 = challenges"
+    },
+    {
+      "rule_id": 4,
+      "name": "10th Lord in D10",
+      "interpretation": "Career prospects, professional achievement",
+      "strong_10l": "Exalted/own house = high position, respect, wealth",
+      "weak_10l": "Retrograde/debilitated/malefic = career blocks, failures"
+    },
+    {
+      "rule_id": 5,
+      "name": "Saturn in D10",
+      "interpretation": "Hard work, perseverance, responsibility in career",
+      "strong": "Saturn in 10th D10 = slow but steady rise, mastery through discipline",
+      "weak": "Saturn in 6/8/12 = job loss, penalties, public humiliation"
+    },
+    {
+      "rule_id": 6,
+      "name": "Business vs Employment",
+      "self_employment": [
+        "Sun/Mars/Jupiter strong in D10",
+        "10th lord in 1/5/9 (angular/trine)",
+        "Multiple planets in 10th D10"
+      ],
+      "employment": [
+        "Saturn strong in D10",
+        "10th lord in 6/10th",
+        "Moon in 10th (public service orientation)"
+      ]
+    },
+    {
+      "rule_id": 7,
+      "name": "Multiple Careers",
+      "indicators": [
+        "10th lord combust or retrograde",
+        "Mercury/Gemini in D10 Lagna",
+        "Planets changing signs in D10"
+      ]
+    },
+    {
+      "rule_id": 8,
+      "name": "Promotions & Authority",
+      "indicators": [
+        "Sun in D10 Lagna or 10th = steady promotions",
+        "Jupiter aspecting 10th = continuous rise",
+        "Saturn in own house/exaltation = respect, stability"
+      ]
+    }
+  ],
+  "career_by_planet": {
+    "Sun": [
+      "Government",
+      "Politics",
+      "Administration",
+      "Leadership",
+      "Military Officer"
+    ],
+    "Moon": [
+      "Navy",
+      "Public Service",
+      "Nursing",
+      "Hospitality",
+      "Food Industry",
+      "Liquid related"
+    ],
+    "Mercury": [
+      "Journalism",
+      "Media",
+      "Commerce",
+      "Banking",
+      "IT",
+      "Communication",
+      "Trade"
+    ],
+    "Venus": [
+      "Arts",
+      "Design",
+      "Fashion",
+      "Luxury",
+      "Entertainment",
+      "Finance",
+      "Perfume"
+    ],
+    "Mars": [
+      "Military",
+      "Police",
+      "Engineering",
+      "Construction",
+      "Machinery",
+      "Sports",
+      "Surgery"
+    ],
+    "Jupiter": [
+      "Education",
+      "Law",
+      "Religion",
+      "Judiciary",
+      "Guru",
+      "Philosophy",
+      "Welfare"
+    ],
+    "Saturn": [
+      "Mining",
+      "Labour",
+      "Agriculture",
+      "Old industry",
+      "Masonry",
+      "Antiques"
+    ]
+  },
+  "sign_career_types": {
+    "Aries": "Military, sports, surgery, commerce",
+    "Taurus": "Banking, farming, jewelry, construction",
+    "Gemini": "Media, trade, transport, communication",
+    "Cancer": "Navy, nursing, food, shipping",
+    "Leo": "Government, entertainment, jewelry, administration",
+    "Virgo": "Medicine, accounting, IT, writing",
+    "Libra": "Law, diplomacy, arts, beauty, justice",
+    "Scorpio": "Investigation, psychology, occult, surgery",
+    "Sagittarius": "Religion, law, education, philosophy, publishing",
+    "Capricorn": "Mining, agriculture, government, administration, hard labor",
+    "Aquarius": "Science, technology, aviation, invention, social work",
+    "Pisces": "Spirituality, poetry, music, psychology, chemical industry"
+  }
+}

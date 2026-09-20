@@ -1,0 +1,2742 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_kp_sharad_joshi_krishnamurthy_padhdhati.json
+Dataset number: 237 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 126,535 bytes
+Top-level fields: 11
+Title: Jyotish_KP_Sharad Joshi_Krishnamurthy padhdhati
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_KP_Sharad Joshi_Krishnamurthy padhdhati
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 95
+  • total_words: 22621
+  • text_quality:
+    • ocr_word_validity_score: 0.931
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Krishnamurthy
+padhdhati
+Nirayan +
+Sayan
+Author :
+§harad C. tJoshi
+
+Preface
+Astrology is a mother of all science, and our sages have given their
+knowledge in coded language, so scholars like Shri Jivanrao Chitnis,
+C.J Krighnaswamy, Sepharial, Alen Leo, B.V. Raman and so many other
+had found clues from old granths with their hard efforts and intuition.
+Shri Krishnamurti had also put nearly 40 years efforts and with the grace
+of God Ganesh, he found some clue in Vimshottari dasa and established
+new unique system, today known as “K.P.” Since 1970 onwards it becomes
+more and more popular, because of it's scientific implication for Natal
+including twins and for Horary.
+In Jyotish Bharati, Bharatiya Vidya Bhavan, at Mumbai, our late
+principal Shri Gopalkrishna D. Modi had given permission to start "K.P."
+along with Sidereal and Sayan system, and present principal Shri Jinabhai
+G. Lad has also expanded three branches course into Jyotish Vishrad and
+further for the benifit of the students.
+When students get basic of all three branch, in their mind always
+preference towards particular branch, and one can try to compare it with
+other branch. Students should know that, due to our limitations, they would
+prefer particular system than other. It is not a limitation of any systems.
+One can see that, Shri Krishnamurti had found clue from Vimshottari Dasa
+only, so with the hard efforts and dedicate attitude one can get results.
+Since 1979, 1 have been associated with Jyotish Bharati (Bombay
+Astrological Society). In Part I of this bock, I have given theory and my
+own views for certain topics. Mainly I am follower of K.P. and Sayan,
+more elucidare on this two systems.
+The Part II of this book is compiled by my friend Manoj Makwana,
+from Lectures given by me and my best friend Shri Dilip Dave at Jyotish
+Bharati. I am thankful to them.
+In Subject like astrology, one can not achive any light, without the
+help of the almighty and blessings of parents & our Guru's.
+I am grateful to Ms. Bhavika Makwana, Mr. Bijal Manilal Visaria
+and my son Chintan, for their computerised work and also thankful to my
+wife Jayshree for her cooperation all the time.
+$harad tToshi.
+February, 2000
+
+Contents
+Part I
+CHAPTERS
+1) Krishnamurthy Paddatti 1
+2) Compare Nirayan, Sayan & K.P .7
+3) Ruling Planets , 12
+4) How to Judge Dasa 16
+5) Progression. 18
+6) Transit 24
+7) Aspects 28
+8) Solar Return Chart 31
+9) Muhurat 33
+10) Cusp Beginning or Middle. 34
+11) Horary , 37
+12) Horary & Natal Chart 42
+Part II
+CHAPTERS
+1) K. P. Theory - Rectification 44
+2) Ascendent 46
+3) Second House 51
+4) Third House 53
+5) Fourth House 57
+6) Fifth House 64
+7) Sixth House 68
+8) Seventh House 72
+9) Eighth House 79
+10) Ninth House .82
+11) Tenth House 84
+12) Eleventh House 86
+13) Twelfth House , 88
+14) Keys for quick Prediction 89
+
+Chapter I
+‘Krishnamurti Tadhdhati
+What is a Krishnamurti Padhdhati ?
+K.P. is a combination of Sidereal and Tropical system, late
+Sri Krishnamurti had studied both the system, and found that there is a
+no sound system for prediction. He had been inspired by lord Ganesh
+and found some clue from Uttar Kalamrita Granth. He studied that, in
+Vimshottari Dasa system, Star lord of Moon at birth becomes the Dasa
+lord and thereafter sequences follows. So why should not considered all
+planets Starlord as consider for Moon.
+Then he started studied all planet's results according to its Starlord,
+after that, he observed that, when more than one planet in same
+Constellation or in trine constellations, Starlord remain the same, even
+though results are different. So, further he divided Constellation according
+to Dasa-Sub period same as for Moon Dasa follows, and he found the
+reason for differentresult, when planets are in the same Constellation or
+in trine constellations.
+So, far Vimshottari Dasa was used as a time factor, but he had divided
+Dasa system as a distance factor, as follows.
+Constellation area 13d-20mts. And he worked out distance area
+as follows.
+Same way he worked out for all planets distance factor in one
+Constellation, and it is called sub area. For all planets sub area is as
+under, and it remains same in all constellations.
+
+In Vimshottari Dasa, sub period of Dasa lord is first and follows in
+sequence, same way it is being used for distance factor.
+For Example : Suppose at birth Moon is in Capricorn 17d-45', so
+we say that Native is born in Saturn sub period in Moon Dasa. Same
+way suppose, Mars is at birth in Gemini 16d-17’,so we have to considered
+that Mars in Rahu Star and in Venus sub. This way Krishnamurti had
+worked out all planets and their further classification, that each planet is
+in which Star and in which sub., and got the result more correctly even
+though planets are in same Star or trine to it.
+After, he observed that in twin chart, planetary positions remain all
+most same upto Star lord and sub lord, than how to proceed further.
+Then he divided all cusps in same order, as Vimshottari Dasa pattern. He
+thought that only cusp moves fast than Moon, and he observed that only
+cusp is responsible to give different result in twins chart, or in bom in
+the same or near hours.
+Following are the features of KP.
+1) Aynamasa : He had used his own Aynamasa, which is based on
+AD 291, and same motion of Newcomb, i.e. per year 50.2", and it is
+known as K.P Aynamasa, which is 6’lcss than, Chitrapaksha Aynamasa.
+
+2) Cusp Calculation : Instead of equal house div. or Parashari or
+Sri Patti. He has used Semi arc piacidius .arc system with the help of
+Tables of houses. He has used cusp as a beginning point, and not as a
+middle point.
+3) Degree of Cusp and Planet : According to Vimshottari Dasa
+system, three planets i.e. Signlord, Starlord and Subiord rule each degree.
+4) Cusp Judgement : Sublord of the cusp signifies, decide the
+matters of the house and how it is connected with the Karak planet of the
+matter. So, according to cusp Sublord and Sublord's Starlord, strength
+of the cusp is to be judged, (for more details please refer Nakshatra
+Chintan part-1)
+5) Planet's Judgement : Every planet is bound to give result of its
+Starlord and result depends upon Sublord of the planet.
+a) Planet is the source of the event.
+b) Planet's Starlord indicates the matter.
+c) Planet's Sublord indicates result.
+For more details please refer Nakshatra Chintan-1
+6) Significators : Sri Krishnamurti has fixed the following order to
+select the significators for house.
+a) Planet in the Star of the occupant in the house.
+b) Planet is in the house (occupant).
+c) Planet is in the Star of lord of the house.
+d) Lord of the house.
+e) Planets aspects to above significators (sidereal aspects).
+f) Planets aspects to house (sidereal aspects).
+7) Matter : Sri Krishnamurti has fixed houses for most of all matters
+related to human beings as under.
+a) One is the principal house.
+b) Supporting houses for the matter.
+Please refer more in details in Part II.
+8) Aspects : Both sidereal and longitude aspects to be considered.
+
+9) Rahil and Ketu : No sign allotted to Rahu and Kelu, but
+following way it represent to planets and houses.
+a) Planet conjunction to Rahu-Kctufsidcrcal way)
+b) Planet aspects to Rahu-Kctufsidcreal way)
+c) Signlord of Rahu-Ketu
+Rahu-Ketu cannot aspect to any planet or any house, so these ways
+Rahu-Ketu represents all planets and its significance from above category
+and also according to K.P. rules it gives results ofStarlord and Sublord.
+10) Ruling planets : Sri Krishnamurti has given new concept of
+RP. from Brihatjatak. Ruling planets are as under in order.
+a) Asc. Starlord
+b) Asc. Signlord
+c) Moon Starlord
+d) Moon Signlord
+e) Day lord
+Above all, planets in the Asc. or aspects to Moon or any above
+Ruling planets also to be considered.
+There are three types of Ruling planets as under.
+a) Birth Ruling planets.
+b) At the time of judgement.
+c) At the time of any event.
+It is not necessary, that all the time order remain the same.
+11) Time factors : Only Vimshottari Dasa system is used to
+determine the time of any event. But experienced shows that. Secondary
+Progression and Dasa Progression also gives result in K.P.
+12) Transit : In K.P. all planets Transit has to be studied by its
+Starlord and Sublord position only.
+No Sade-sati, no Astakvarga, no Sarvothabhdra Chakra, no Guru
+Balam, no asthma Chandra, etc all these systems no need to follows in
+K.P. Only planets Transit through which Star and which sub that's all.
+All these Transit should be considered from Birth Asc. only.
+
+]3) Yoga : In K.P. except Punarbhoo yoga, not a single yoga is to
+be considered. Punarbhoo yoga is formcdby Moon's connection to Saturn
+by Sign-Star-Sub or conjunction or aspect.
+14) Divisional Charts : In KP. there is not a single divisional
+chart is to be used.
+15) Horary : In K.P. number system 1 to 249 is used, for more
+details refer Nakshatra Chintan-I.
+16) Retrograde : In Horary chart, it is to be considered, but not
+necessary that it is strictly to be followed, because experience shows
+that if chart is more positive, than this conditions can not stop for giving
+the results. As per rules it is as under:
+a) If planet it self is retrograde, than when it resume direct motion,
+and crossed the degree from where it started to move retrograde. Then
+only it is possible to get the results.
+b) If planet’s Starlord or Sublord or both Starlord and Sublord are
+retrograde, than planet is not in a position to gives results according to
+its significance.
+So, regarding this aspect one has to consider its own experience.
+17) Muhurat : According to the chart's significators one has to
+select the Muhurat, for any new work or for any religion rituals.
+a) Dasa-sub pd-sub sub Pd, according to significators.
+b) Major planets Transit should be in favourable positions.
+c) Sun and Moon should be Transit through the signifeators Star
+and in sub.
+d) Asc. at the time of event should be rise according to jointly ruled
+by significators.
+In short, one can not overlap the judgement step, and one can follow
+in scientific manner only, if one can follow as under.
+a) Rectification of the Birth time.
+b) Judge the approximately longevity. But never disclose to any
+body.
+
+c) Judge the Asc. strength.
+d) Judge the mental capacity through Ist-3rd-9lh, Moon and
+Mercury.
+e) Judge the matter through principle and supporting houses.
+f) Judge the Karak forthe matter, and its relation with houses under
+considerations.
+g) Work out the significators for matter.
+h) Work out the Dasa-sub pd from the significators.
+i) Consider the Transit.
+At the time of event, Dasa rulers Transit through Star and sub of
+Dasa rulers or significators of the matter. A sc , Sun and Moon also Transit
+in the same way.
+In, Horary chart follows as under.
+a) Complete the chart in one sitting and judge the chart at the same
+time.
+b) Check the Moon, whether it reflects the question.
+c) Check the Asc. Sublord and its strength.
+d) Check the principle house and supporting houses Sublord's
+significance, whether it indicates positive or negative results.
+e) Check 11th house's result.
+f) Find out the Ruling planets, selects significators, work out the
+appropriate Dasa-sub etc., and match with Transit.
+Clue for selecting the significators.
+a) According to the significators order.
+b) Joint cusp rulers.
+c) Planets in Star of joint rulers.
+d) Selection from the Ruling planets at the time of judgement.
+
+Chapter II
+Compare sNirayan, §ayan and ‘K.T.
+Note : N = Nirayan S = Sayan
+1) Ayanamsa : N - Different ayanamsa used by followers like CP,
+Raman, Revati, Lehri etc.
+S -Od ayanamsa used.
+K.P. - Only K.P. ayanamsa is used which is 6' less than Chitrapaksha.
+2) Rectification : N - Different type of systems applied for rectify
+the birth time, like elements birth Star Asc, day lord, ghati-pal system,
+Navmasha-Dwadmasha system, etc., and so many.
+S - Events system, Prc-Nalal system, Navmasha system etc.,
+K.P. - Through Ruling planets.
+3) Cusp System : N - Equal house, Sri-patti and Parashari etc.,
+S - Placidus, Campanus, Alcabitus, Regiomontanus, Topocentric,
+Horizontal, Birth-place house system, Natural Graduation, Poll-equatorial
+etc.,
+K.P. - Only Placidus arc
+4) Bhava : N - Middle of the cusp is beginning.
+S - Starting of the cusp is beginning.
+K.P. - Starting of the cusp is beginning.
+5) Zodiac : N - Fixed zodiac.
+S - Moveable zodiac.
+K.P. - Fixed zodiac.
+6) Aspects : N-Sign to sign, special aspects of Mars-Jupiter and
+Saturn, 1/4-1/2-3/4 aspects of other planets. Vedh are also one kind of
+aspects.
+
+S - Longitude aspects, Parallel aspects.
+K.P. - Sidereal aspects and long, aspects.
+7) Constellations : N - Divisional Nakshatra,
+S - Fixed constellations.
+K.P. - Divisional Nakshatra.
+8) Divisional charts : N - Various charts are to be used for different
+matters.
+S - Dreskana, Navmasha and Dwadamasa chart some followers are
+using.
+K.P- No divisional chart.
+9) Shada Bala : N - Shada Bala is used.
+S - It is not considered.
+K.P. - It is not considered.
+10) Benefic and Malefic : N - Jupiter and Venus considered benefic,
+Mercury depends upon connected with which planet, Moon's depend
+upon lunar day.
+Sun is Krura Graha and Saturn-Mars-Rahu-Ketu considered as
+malefic. Panchadha Maittri and according to lord ship.
+S - Benefic are Jupiter, Venus, Rahu, Mercury depends upon it is
+connected with which planet. Moon depends upon lunar day. And lord
+ship is also considered for all the planets. Hyleg oriental, Rising position
+also is to be considered.
+K,P. - Depend upon Matter, not a single planet is fully benefic or
+malefic.
+11) Yoga : N - Various yogas are to be considered for the results.
+S-yoga based on long. Aspects and parallel.
+K.P.- Except Punarbhoo not a single yoga is considered.
+
+12) Father and Mother : N - 9th or 10th house for father, 4th
+house for mother.
+S - 4th house for father and 10th house for mother.
+K.P. - 9th house for father and 4th house for mother.
+1 3) Cu sp J udgement : N - planet in house , planet aspects to house,
+planet in adjacent house, position of lord of house etc., to be judged.
+S - Same as above.
+K.P. - Sub lord of the cusp decide the cusp strength.
+14) Planet's Judgement : N - Depend upon house position, Sign.
+Star, Shodasbala, Astakvarga etc.,
+S - Depends upon house, sign, term, Hyleg, rising and setting,
+oriental-occidental, cumulating, with any fixed Star.
+KP. - Depends upon its Star lord and Snblord.
+15) Significators of the Bhava : N - occupant, lord of house, Karak
+of matter, planet aspect to above all.
+S - Occupant, lord ofhouse, Karak of matter, and planets aspecting
+to above all influence to house and its matters.
+K.P.
+1) Planets in Star of occupant.
+2) Occupant
+3) Planets in Star of lord ofhouse.
+4) Lord ofhouse.
+5) Planet aspects to above significators, house and Karak of matter
+In addition one can consider cusp rulers and planets in their Star.
+16) Group of House : For any matter, there is not any format giver
+in Nirayan and in Sayan, but in K.P. clearly given group of houses foi
+each matter.
+17) Rahu-Ketu : N - Different signs allotted by great scholars a;
+lord of sign, exalted and for aspects etc.,
+S - No such classifications given
+
+K.P.- Rahu/Ketu represents planets in following ways, but no
+permanent allotment.
+1) Planet in conjunction.
+2) Sidereal aspects of planets.
+3) Lord of sign, in which it deposited and according to rule ofK.P.,
+its Starlord's result.
+18) Degree : N - Sign ruler, Star ruler, and different divisional charts
+Lords rulers rule it.
+S - It is ruled by sign ruler, term lord, divisional charts rulers and
+some degrees ruled by fixed Star's rulers.
+K.P. - Mainly it is ruled by three planets, Signlord, Starlord and
+Sublord.
+19) Uranus, Neptune and Pluto : N - Not considered.
+S - All are considered.
+KP. - Aspects point of view consideration is applied.
+20) Ruling Planets : N - No such fixed term.
+S - Rising planet, Hyleg planet. Cumulative or strong planet and
+out of this one is to be considered Ruling planet.
+K.P. -Asc. Starlord, Asc. Signlord, Moon Starlord, Moon Signlord
+and day lord. In addition Planets aspects to Asc , Moon and other Ruling
+planets.
+21) Matching of Horoscope : N - Asc. Moon; full chart and Gunas
+out of 36.
+S - Asc, Moon; full chart and longitude aspects and direction.
+K.P. - Please refer Nakshatra chintan-1.
+22) Time Factor : N-Various Dasa, Transit, Astakvarga,
+Sarvothabhadra Chakra etc.,
+S - Various directions, Transit.
+K.P. - Vimshottari Dasa, Transit.
+
+Note-Solar return chart and planetary periods system is applicable
+to all systems.
+23) Transit : N - From Moon sign, Astakvarga, Sarvothabhdra
+Chakra, Vedha, Sade-sati, Panotti.
+S - From Sun sign, Solar return chart, New and full Moon chart,
+diurnal chart, eclipse chart etc.,
+K.P. - Planets Transit through Star and sub and it is to be observed
+in Asc. chart only.
+24) Horary : N - Through Number and Time System.
+S - Through time system.
+K.P. - Through number system. For more details please refer
+Nakshatra Chintan - 1 .
+Tajik system's rules are applicable in Nirayan and in Sayan. Special
+aspects of Tajik applicable in Horary of Tajik only.
+Different Sahams also used in Tajik system while Fortuna is used
+in all systems.
+25) Muhurat : N - Selective Panchang terms for specified Muhurat,
+Asc. chart, hora, chowagadia etc., and dinsuddhi.
+S - Asc. chart, fixed Star. Aspects.
+K.P. - According to significators of the matter from chart.
+Dasa, Progression, Transit is common in all systems.
+
+Chapter HI
+“"Ruling TIanets
+Ruling planets mean particular planet or group of planets controlled
+over the chart or on any event or ruling over particular hours. There are
+three types of Ruling planets.
+1) Birth Ruling planets.
+2) At the time of judgement.
+3) At the time of any event fructify.
+In Sayan, Ruling planet means, planet in Hyleg position or oriental
+or elevated or rising or lord of M.C. or Asc. lord, out of which one is
+strong by house-sign-aspects-Star.
+In Nirayan, there are no such fix rule given, but normally according
+to yoga formation one can fixed it, but it is also not possible every time.
+In K.P. Following are Ruling planets.
+1) Asc. Star lord.
+2) Asc. lord.
+3) Moon Star lord.
+4) Moon sign lord.
+5) Day lord.
+Above order is in descending order. In addition, one can consider
+following planets as Ruling planets.
+1) If Rahu or Ketu represent any planet from above Ruling planet,
+than it replace it or one has to give importance to Rahu or Ketu.
+2) Planet in Asc. or aspect to Asc. [sidereal)
+3) Planet in aspect with Moon.
+4) Planet in aspect with other Ruling planets.
+
+As per K.P. theory, one has to judge R.P. as under.
+1) Consider such planet that is common as significator as well as
+RP.
+2) If planet is in retrograde motion, than it gives results after it gets
+direct motion and cross the zodiac from where it started to move
+retrograde motion.
+3) If planet's Starlord is in retrograde position, as per theory one
+has to reject that planet.
+4) If planet's Sublord is in retrograde motion one has to consider it
+after it resumes direct, if it is strong significator.
+5) If planet's Starlord and Sublord both are retrograde, than one has
+to reject as per theory.
+6) If planet, its Starlord and Sublord are also in retrograde motion,
+than as per theory one has to reject it.
+But one has to keep in mind that, retrograde can not always denied
+the results, if it is strong significator and another planet is not there to
+replace it, and all these considerations depend on case to case.
+Now we will see, how one can use Ruling Planets for different
+purposes.
+1) Birth time rectification.
+2) To fixed up cusp or planet's position.
+3) To judge, routine events concern with some fixed time frame
+like daily events, weekly, monthly or within a year and more then year.
+4) To find out significators from Natal or Horary chart.
+5) To find out positive or negative influences of the specific moment
+or when any one meet first time .
+6) To match the horoscope for marriage, business, and relations
+among the family members or with friends or with any one .
+Now, we will see one by one.
+
+For rectification of birth time and marriage match, please refer
+Nakshatra Chintan Part - I .
+1) To judge cusp or planet position when it is on sandhi' point, one
+has to work out according to given data , then one has to note the Ruling
+planets at the time of judgement.
+According to Ruling planets, one has to first fixed the sign lord,
+Starlord and Sublord. Give importance to sign lord according to strength
+ofRuling planets.
+Example : Suppose Moon is #.i Libra 29d-59ni58s. Than there is
+possible doubt whether due to almanac is there any chance of Moon is in
+Scorpio, which is debilitated sign of Moon. From the Ruling planets, we
+have to judge whether Venus or Mars, judge according to Ruling planets
+order, sign, Star, sub, retrograde consideration or represented by Rahu
+or Ketu.
+2) Forroutine events or events expected in specific time limits, one
+has to work out Ruling planets at the time of judgement and consider as
+under.
+a} Strength of Asc. Lord and 11th house lord, lord of question
+concern house and Karak of the matter, and judged whether it is positive
+or negative answer.
+b} If Asc. Sign is cardinal than one can expect the result in short
+time.
+c} If Asc. sign is fixed than one can expect the result late.
+d} If Asc. sign mutable, than one can expect the result in normal
+time.
+e} If Saturn connected with Asc. It indicates delay.
+f} If Saturn in Ruling planet or connected to Ruling planets or slow
+moving planets in Ruling planets than one can expect delay in result.
+g} If fast moving planets, in Ruling planets, than one can expect
+result immediately or in short time.
+
+Result in a day one has to move Asc. position from Ruling planets.
+Result in a week one has to select which Ruling planet is strong, on
+that day one can expect the result, if Moon's Star is from RP.
+Result in a month, one has to move Moon from its ruling position,
+and Moon should Transit from Ruling planets position on the day of
+result expectation and one has to judge the Sun also be in a Star or sub of
+RP.
+Result in a year, one has to move Sun from its position at the time
+of judgement, and at the time of result expectation, Sun should transit
+through joint rulers of R.P.
+Result more than a year, one has to move Jupiter according to Sun.
+4) Ruling planets at the time of particular moment or when first
+time you meet somebody. Consider Ruling planets position in your radical
+chart, whether that all are significators of positive houses or negative
+houses and accordingly one can decide, or how to react at that moment
+or how to keep relation with stranger.
+5) Relation judgement through Ruling planets, one can judge how
+both the persons Ruling planets are connected in each other charts.
+Whether it is positive or negative or mixed or one side and that way one
+can judge, who is beneficiary through each relation and who is facing
+trouble through each relation, some relations are for money matter, some
+are for enjoyment-picnic. Some are for study, some are for social, some
+are for career etc. so, and one can judge those way signification's.
+Note : I have seen that, some astrologers are using Ruling planets
+for fun or for lottery or for gambling etc. but Ruling planets are divine
+help and it is against the ethics of astrology to use for such purposes.
+
+Chapter IV
+Tiow to ?Judge ‘Dasa
+Dasa is a time measure, and indicate the shape of events likely to
+take place. There are various types of dasas; its number of years and its
+judgement system is differing from each Dasa. Here we will study, how
+tojudge the Dasa, sub period and sub-sub period ?
+Following points to be kept in mind, while judged the Dasa.
+1) Dasa's results are depending on the strength of the chart.
+2) Dasalord can not give any contradictory result than chart's
+promises.
+3) Dasa is to be study according to the age of the Native, Deshkala-and patra etc.,
+4) Dasa lord can gives results as under:
+a) Results of its Starlord.
+b) Results of its own.
+c) Results of its natural karaktwas.
+d) According to its cusp rulers, on the base of K.P.
+e) Result ofhouses and planets, on which its aspects.
+f) Dasa lord's results influenced by aspected planets, according to
+its karaktwa, occupant and lordship ofhouses etc.
+5) For sub and sub-sub period rulers are bound to give results
+according to same way as mentioned in (4).
+6) Dasa lord cannot give results against the cusp's indications.
+7) Dasa lord and Bhltkli lord should complete the circle of the results
+oriented house.
+
+Example : For abroad journey, houses are to be considered 3,9,12.
+Suppose Dasalord is significator of either 3 or 9 or 12, than
+bhuktilord should be signs ficator of remain house or houses, out of 3 or
+9 or 12th.
+8) Dasalord and Karak planet as a bhuktilord also can evaluate the
+result.
+9) Dasalord and bhuktilord should not be in 6-8-12th from each
+other, to get the good results.
+10) If Dasalord is duality, than in its own bhukti result one can
+expects, if all required houses arc covered by same planet. One can expects
+multiple type of results or repeats the same results.
+1 1) Antra, Prantyatar and Sukshma lord are supporters to Dasalord
+and bhuktilord, and can not go against its results.
+12) Planet if in fixed sign or in succedent house or slow moving
+planet than its impact of results is more whether it is positive or negative,
+while planet is in angle or cardinal or fast moving than its impact is for
+shortwhile and fast.
+13) If Dasa lord is connected anyway with Asc. one can become
+more active during that Dasa, same it applicable to other sub periods.
+14) Benefic and malefic of Dasa’s results depend on the chart
+position not on natural tendency. At the most natural tendency influence
+in the result's intensity.
+15) For dasas results, required support of Transit, without
+activation's of transits Dasa-bhukti can not give results.
+16) Work out Solar return results and match with the Dasa bhukti
+of that year and consider the transits, for specific events.
+17) Dasalord is good or bad for native, but it can be vice a versa for
+the native's relatives.
+18) Consider Transit activation as under.
+a) Transit of slow moving planets.
+b) Transit of Dasa and its sequence rulers.
+c) Transit of Sun and Moon.
+d) Consider Asc,
+
+Chapter V
+Trogression
+In Sayan for time factor direction method is being used. Various
+types of direction method one can applied like Primary, Secondary, Radix,
+Naibod, Fractional, Symbolical etc. but main are primary and secondary.
+Direction method mainly based on earth movement. Our one year
+means Sun completes full zodiac i.e.360d. Earth rotate on its axis, and
+revolve around Sun. Earth rotate on its axis with in a day, and complete
+360d. So one can say that one-day is a one- year. In a day, earth move
+approximately one degree around Sun, and as above discussed, one day
+= one-year, so one can put equation like as one degree = one year also.
+To rise one degree 24*60/360 = one degree = 4 minutes. So every 4 min.
+after birth = one year and it is called Primary direction.
+It's calculations totally based on Spherical trigonometry and it is
+not possible for every one to calculate all mundane and zodiac arcs. For
+more details please refer our book “Primary Direction" which is worked
+out on a single chart of Mahatma Gandhi.
+To avoid spherical trigonometry calculations, on the same base,
+normally Sun moves average one degree in a day, so in secondary
+direction one day after birth has to be considered as a year. It's a
+replacement method for primary direction, so it is called a secondary
+direction. ^
+To calculate, secondary diiection one require birth ephcmeris at
+least for 90 days and more, while in primary direction all arcs complete
+within a six hours afterbirth.
+In direction there are two types of direction, one is direct and another
+is converse direction. In secondary one has to move ahead and backward
+from birth date for direct and converse direction respectively. In primary
+direction not such concept as a direct or converse. If birth ephemeris is
+not available to calculate secondary direction, one can use either Radix
+
+or Naibod. Radix based on ldg. = lyr for all planets except Moon, for
+Moon 1 3d-()5’ = 1 yr. For Rahu-Ketu and for retrograde planet at birth
+one has to move planet in direct directions only.
+Same way one can calculate Naibod direction by mean motion of
+Sun i.e. 0d-59'-08" for all planets and forMoon 13dg-10'-35" for each
+year. In Radix and in Naibod one has to calculate how many years and
+months completed and accordingly one has to add arc in radical planets.
+For cusp calculation one has to use same arc as above, and add it in
+M.C. and according to progressed M.C. one can calculate the other houses
+from tables of houses, for birth latitude or for new place.
+In secondary direction one has to calculate planets for the progressed
+date i.e. number of years completed = number of days to be add in birth
+date, which is called as a progressed date.
+Example : Birth date 19th Nov., 1919. and suppose one wants to
+work out Progression for the year 1984. it means in Nov, 1983 native
+has completed the 64 years. And according to system 64 years = 64 days
+to be add in birth date to get progressed date. 22nd Jan, 1920 will be a
+progressed date, and one has to used this date's planets according to
+birth time for progressed chart for the year 19th Nov 1983 to 18th Nov
+For cusp calculations one has to find out sidereal time difference of
+progressed date and birth date or which date's sidereal time one has
+used, and this hrs.min and sees, difference one has to add in birth
+R.A.M.C. if birth place and present place is the same. But native has
+shift permanently from birthplace, than one has to calculate cusp
+according to new place.
+To avoid each year progressed date's birth time planets calculation,
+one can adopt Noon date or Adjust calendar date as follows.
+First Method :
+1) Convert birth time in GMT if you are using GMT ephemeris, or
+according to ephemeris time.
+2) Find out the difference between GMT birth time and next Noon
+
+or Mid nighttime which ever is given in ephemeris. called it is = A
+3) Add "A" into sidereal time of ephemeris of birth date = "B"
+4) Find "B" in sidereal time column, nearest to that one is an ACD.
+i.e. Adjust Calendar Date.
+Second Method :
+1) Convert birth time in GMT
+2) Find out difference between GMT birth lime and nearest Noon
+time = A
+4) If your GMT birth time is in A.M. and ephemeris time in noon,
+then one has to add B + birth date will be ACD. but GMT is in P.M.. then
+Birth date-B will be ACD.
+Third method :
+1) Convert birth time in GMT.
+2) Find out difference between GMT birth time and nearest noon
+time = A
+3) Convert "A" as follows.
+24 hrs = 12 mths.
+2 hrs =1 mth
+1 hr =15 days
+4 min = 1 day
+Here 360 days has considered for easy calculation purpose.
+Now convert "A" in above formula and find out = "B"
+4) If GMT birth time is in A.M., then add B + birth date, and if
+GMT birth time in PM., then Birth date - B = ACD.
+In first and second method one can gel mostly same date, while in
+third method either one or two days difference may be there, due to
+number of days per year is considered 360.
+
+ACD only replaced the birth date, not of progressed date, only it
+becomes easy to considered planets of ephemeris time, one can considered
+as a progressed planets. And its effects one can get from ACD to next
+ACD like our year count from birth date to next birth date.
+Example : 2nd-Jan-2000 Time - 18hrs25mts 1ST, Bombay.
+18hrs25mts - 5hrs 30mts = 12hrs 55mts GMT
+SID TIME of 2nd Jan 2000 = 18-45-47 Noontime, difference
+between GMT birth time and next Noon = 23hrs 05mts.
+First Method :
+23-05-00 + 18-45-47 = 17-50-47, and this figure in Sid.time. Column
+it is on 18thDec. [nearest), so ACD is 18lhDec.
+Second Method :
+GMT Birth time is 12hrs 55mts as above.
+Difference between nearest noon and this time is 00hr-55mts.
+Now OOhis 55mts*365.25 days/24hrs.= 13 days 22 hrs i.e. near to
+14 days.
+GMT birth time is in P.M., so this difference to be deducted from
+birth date. = 19thdec.
+Third Method :
+GMT birth time is 12hrs-55mts as above, nearest Noon difference
+is 00hrs-55mts.
+As per formula 13days completed and this system all months one
+has to considered as 30 days, so 30 + 2 [birth date)-13 days = 19thDec.
+is ACD. (GMT Birth time is in P.M., so deducted).
+In Progression one has to considered, applying, exact and separating
+aspects to compare with Natal chart, and some time events take place
+either in applying or exact or separating aspects. It depends upon Moon's
+Progression's support for such aspects formation and another factor is
+Transit according to it.
+
+Aspects among all planets and cusps i.e. Asc. And M.C. except
+Progressed Moon is called primary Progression in secondary direction,
+while Moon's monthly Progression's aspects with Natal are called
+secondary Progression in secondary direction. Without Moon's support
+no events is possible i.e. Moon's progressed support should be similar
+to primary Progression.
+Then after one can consider Transit to activate these aspects. Only
+one-degree orb is allowed in Progression. One is for applying and one is
+for separating from exact degree.
+How of chart is under :
+1) Consider Natal chart in all respect and which events are indicate,
+one can expect such events, if Progression or Transit is favourable.
+2) First consider Natal and Progression chart, and find out the aspects
+formation within a limit of orb of aspect, and note down, it is called
+basic or primary arcs in secondary direction.
+3) Work out Moon's monthly progressed chart and compare it with
+radical chart, and note down the exact aspects with all points.
+4) In which months, progressed Moon's aspects form with radical,
+one can expects events during the same months, if it is similar to primary
+arcs and support from Transit.
+5) Consider aspects formed in progressed chart it self.
+6) Consider Parallel aspects with progressed and radical chart.
+In Transit, activation's from superior planets with same type of
+aspects with objects involved either it may be to radical position or
+progressed position.
+In Transit, which two objects involved from radical and progressed
+chart, they may get activation's from Mars or Sun, if superior planets are
+supporting for activation.
+One has to wait for nearly 3 yr. for expected activation's from Transit,
+one is in applying year, and one is in exact aspect year and last is in
+separating aspect year.
+
+One has to work out Solar return chart, to confirm the progressed
+results for a particular year.
+From Moon's monthly progressed chart, one can gets some
+important months for expected events in a particular year, one can work
+monthly chart as follows.
+1) According to degree of Sun in radical, one has to leave the sign,
+and only consider deg. Mts. and sec and in all months when Sun reaches
+to particular this point or not for all months than one can work out only
+months correspondence to Moon's monthly progressed indications. And
+for that time one can work out full chart like Solar return chart.
+2) One can work out monthly Transit chart, according to radical
+lunar day for required month, and see how far it cooperate with
+Progression's results.
+3) One can work chart at the time of new Moon for those required
+months, and find out Asc. Rising and new Moon's degree and see how
+far it is effective in radical or progressed chart as activation's point.
+4) After consider monthly chart, one can find out Transit of Moon
+from 12 houses, from radical or progressed or month chart and one can
+consider days.
+5) One can work out diurnal chart daily, to find out events likely to
+happened in a day.
+
+Chapter VI
+Transit
+At any time, planetary position plays three different roles. For some
+one it is birth position, for some one it is progressed position and for
+others it is Transit. Without combinations of above all three factors in a
+Nativity, one can not expect any results. Not a single event happens,
+without activation of Transit to Radical or progressed. To consider
+activation of Transit, each branch applied different rules.
+NIRAYAN :
+1) Transit to be observed from Moon Asc. I think reasons behind
+it, that planetary's first influence on mind, and Moon is Karak of mind.
+Another reason is that, most of know their Moon sign, and in south India
+most of know their Birth Star also, so, when Native consult without
+horoscope, astrologer can work out roughly present Dasa-sub period on
+that base and guide to native accordingly.
+2) Sarvottabhadra Chakra : There are different types of chakras
+have been used based on either 27 or 28 constellations, with lunar day,
+alphabets-vowels etc. Main factor is in this system is that Vedha means
+special aspects attributed according to motion, directions etc. Mostly
+kranti samya is more preferable. One can consider it in Natal as well as
+in Transit.
+3) Astakvarga : This is a unique system to consider the Transit
+according to point benelic or malefic. On the base of the Radical positions,
+each planet has some point either benefic or malefic for each sign, and
+accordingly it is bound to give results in Dasa factor and in Transit. Here
+one has to apply reduction-ekdihipatya and kashya system for better
+result. Some scholars work out point according to sign and house both
+way and judge accordingly.
+4) Saturn : When Saturn Transit 12th-l stand 2nd from radical
+Moon sign, it is consider as a Sade-sati and on the base of Moon's position
+
+at the time of Saturn change sign, one has to consider metal base for
+above three sign, and accordingly one has to consider the results. When
+Saturn Transit 4th or 8th sign from radical Moon, it is considered as a
+two and half year panotti, and normally its results considered not good.
+So, such types of systems applied in Nirayan astrology, but according
+to me one has to consider only birth Asc. for Transit, Astakvarga is not
+applicable in twins. And regarding Sade-sati and panotti one can not
+expect always-bad results. Actual there are three types of Sade-sati one
+has to consider, when Saturn Transit in above position through birth
+Asc. it is to be considered as physical-social tension, when through Moon
+it is to be considered as a mental tension and when through Sun it is to be
+considered as a spiritual base.
+SAYAN :
+Transit to be observed from Sun sign, and aspects formations are
+main clue for results. Then one has to work out Solar return chart, and
+one has to compare it with Radical and progressed chart, accordingly
+one has to judge the main event likely to happen. One has to consider
+new Moon and full Moon chart, chart at time of eclipse and conjunction
+of superior planets, one has to work out diurnal chart for daily event.
+If in radical chart Moon and Saturn in conjunction or square or in
+opposition than native always suffer this influence life time due to Transit
+of Saturn average 12d yearly and progressed of Moon 12d yearly, so
+position remain the same throughout life.
+If in radical chart, aspects formations like conjunction or square or
+opposition or semi-square between or among planets or with Asc. or
+M.C. than for such native between 42 year to 49yr. is very trouble some
+in all respects and it may be danger to life also, particularly by heart
+attack or accident. Reasons for that one has to consider Transit of superior
+planets and Progression of Asc, M.C, Moon and Sun. it is as under.
+Asc. M.C. and Sun average move Id per yr. in progressed chart, so
+at the age 45yr, it is semi-square with their radical position. Moon
+progressed one zodiac i.e. in 28th year average, so at the age around
+42nd year it is in a opposition to its radical position.
+
+In superior planets Jupiter, Saturn, Uranus, Neptune and also node
+Transit as follows.
+Jupiter takes 12yr to complete full zodiac so at the age of 42nd and
+48th it is in opposition and conjunction to its position.
+Saturn takes 30yr to complete full zodiac, so at the age of 45th it is
+in opposition position.
+Uranus takes 84yr to complete full zodiac, so at the age of 42nd yr.
+it is in opposition position.
+Neptune takes l68yr to complete full zodiac, so at the age of 42nd
+yr. it is in square position.
+Rahu takes 18yrto complete full zodiac, so at the age of 45 th yr. it
+is in opposition position.
+Above motion is average for each planets, and in radical chart,
+suppose with superior planets and above four progressed points involved
+with such aspects than it is sure dangerous and one has to cautions.
+In medical science also seven-yr. cycle is considered for such
+changes in physics point of view and for women menopause period is
+normally between 42 to 49 yr. If eclipse point afflict any radical point or
+progressed point than one has to consider.
+One has to consider orb for Transit, also one has to consider
+retrograde and stationary position of planets during Transit because its
+impact is more. Reason for it is that, before planet move retrograde
+becomes stationery then it moves retrograde, again it becomes stationery
+and then it resume direct motion, so in such situation when superior
+planet involved with sensitive point of the radical or progressed than
+one has to be careful.
+When chart of full Moon and new Moon, degree of that and Asc.
+rise if fall on any sensitive point of radical or progressed chart, than one
+can expects some result during that month, and with the help of the diurnal
+chart one can find out the result's day.
+With the help of planetary period, one can find out the aspects
+formation with the radical chart, and one can expect event according to
+
+radix. In this system one has to move one house per year from birth as a
+Asc. for particular year, for example for 19thyr., one has to consider 7th
+house as a Asc. and proceeds further.
+One can work out parallel Transit, and expects the results.
+K.P.:
+In this system, whether it is radical or Horary or Transit, one thumb
+rule is that each planet is bound to give results according to its Starlord
+and good or bad depend on the sub of that planet.
+1) In this system, one has to observed slow moving planets, and
+according to their Transit through Star, they are bound to give results,
+one can expect common results from the above transits, same way one
+has to study and observe all planets Transit through Star lord and one
+can get results according to house signify by Starlord in radical chart.
+2) One has to observed daily Moon's Transit, see that Moon Transit
+through which Star, and accordingly one can expect, events on particular
+day.
+3) One has to observed Sun's Transit, because its regular motion,
+normally one can expect small or big events happened during particular
+month, normally Sun remain in one Star nearly for 13 days and in that
+according to its Transit through sub, one can expect event according to
+Starlord ofTransit Sun ifMoon's Transit also match with it.
+4) Transit through Asc. only to be observed.
+5) Common significators from slow moving planets and Dasa-sub
+period results one can expects.
+
+Chapter VII
+Aspects
+Aspects play very important role in predictive astrology.
+Any kind of combination of planet to planet or with cusp called
+aspects. Different type of aspects system applied by Nirayan, Sayan and
+Tajik branch of astrology. We will study main object of it.
+NIRAYAN :
+In this branch following types of aspects considered.
+1) AH planets aspects to seventh sign from its placement.
+[ One can not consider this aspects for Rahu and Kctu.).
+2) Additional aspects to be considered for Mars-[4th & 8th),
+Jupiter-[5th & 9th) and Saturn-[3rd & 10th).
+3) In granths scholars have given minor aspects like 1/4, 1/2, and
+3/4th but mostly follow above aspects.
+4) Transit vedh is also one kind of aspects.
+5) Sarvottabhadra Chakra also based on aspects from one Navamash
+to another Navamash, which is called vedh, according to planet's motion
+and direction etc.
+6) In this system, full sign or house involved, through aspect of
+planet.
+In this system, even planet is not aspecting to any planet, but each
+planet bound to aspect 7th sign or additional aspects if it is, so one can
+read planet's results as under.
+1) If Saturn aspects to Venus, by 3rd aspect, than in Saturn Dasaor
+sub period one can expects the results of house where Venus is deposited,
+where Venus rules and its karaktwa in addition to its own.
+2) If Saturn aspects to 10th sign, from its placement, than in Saturn
+Dasa one can expects the result of IOtli house results according to Saturn's
+position, even there is no planet in 10th sign from Saturn.
+
+3) If Saturn aspects Venus, by 3rd aspect, than in Venus Dasa, results
+of Venus in a chart will be influenced according to Saturn's placement,
+house rulers and its karaktwa.
+Planet's aspects are good or bad is depend upon chart's position &
+not according to its natural benefic or malefic consideration. Only this
+tendency influence to results but terms of good or bad will remain as it is
+according to chart & matter under consideration
+SAYAN:
+In this system, aspects on longitude distance and parallel. Here also
+some common judgement that some aspects are benefic or malefic
+according to distance, but it is not for always. Reason is that, any kind of
+aspects shows its influence on any event, as well it shows path of event,
+or it shows easiness or hardship during particular time or for particular
+event. But promise of event is decide by the house involved.
+Normally following distance aspects are considered.
+There are other aspects also considered as follows.
+Navamash - planet aspects 40d distance planet or cusp.
+Grand trine- planet's placement approx. 120d from each other,
+here minimum 3 planets involved, and planets sign element remain the
+same. It is main important and its effects like trine house.
+Grand Square- Planet's placement approx. 90d from each other,
+here minimum 4 planets involved, and planets sign nature remain the
+same. It is main important factor and its effects like angle house.
+“T” formation.- In this aspects Three sign involved of same nature,
+two planets in opposition and one is in angle to these both planets. It is
+also important due to same nature of sign and angle effects.
+
+“Y’ formation- In this case two planets in opposition and third
+planet is in sextile to one planet and trine to another planet, show its
+effect to opposition aspect.
+Fan formation- In this condition, planets are in sextile to each other
+like in lst-3rd-5th-7th 9th etc. this is also supportive aspects to the chart.
+In direction, there are two type of aspects to be considered, one is
+zodiacal and another is mundane. If birth is on higher lat. approx. 45d,
+than suppose one planet is in Asc. and one is in 10th cusp, but in such
+case zodiacal aspect is trine, while mundane aspect is square. So all such
+factors to be considered in direction application.
+K.P.-
+Inthis system one has to applied both aspects, for house or planets
+significators point of view, one has to applied Nirayan aspects. While
+influence point of view or support or obstruct point of view, one has to
+consider longitude aspects. Rahu and Ketu's significators one has to
+considered by sidereal aspects.
+Special note for longitude aspects:
+Conjunction means unity, when two planet cooperate for specific
+significance, it is good, but when contradict, it a malefic effect.
+Conjunction like symbol of Sun.
+Opposition means one is confused in attraction or in illusion or in
+Maya, so there is a confusion factor in a native for such combinations,
+can not able to take decision which is correct. It is like a Moon symbol
+Karak of Maya.
+Trine means with support of purva punya and fortune one can get
+benefit or easiness, with little efforts, it is like a Jupiter.
+Square means mentally and physically, one has to puthard struggle
+and gel the result, so it is ruled by Mercury and Saturn.
+Sextile means with efforts and some one supports, one can gets the
+positive results. It is ruled by Mars.
+Above classifications shows that, longitude aspects are some how
+connected with planet's and sidereal divisional charts, that what I
+understood.
+
+Chapter VIII
+<§olar ‘"Return Chart
+As we are doing ingress chart for Mundane astrology, same way
+for individual we can work out Solar return chart. There are two systems
+given in the granths.
+1) Add particu larhrs-mts, for a specific year, in a birth time to erect
+chart.
+2) Work out Solar return chart for the Sayan longitude of Sun birth,
+for every year.
+Mostly scholars follow 2nd method, for Nirayan chart, one has to
+convert Sun longitude in Sayan, and according to that longitude one has
+to erect a chart for the required year, and deduct the aynamasa for Nirayan
+chart.
+Solar return chart indicates events concerned for a year, but one
+cannot expect any event, which are not promised by Natal chart. To find
+out events from Solar return chart one has to follow.
+1) Events according to Nativity.
+2) One has to work out progressed chart and see which type of
+events expected during that year.
+3) Afterstudied the Natal and progressed chart, one has to concentrate
+on SRC. as under.
+A) Sign rising in SRC, one has to see where this sign fall in Natal
+and in progressed chart, and according to that house matters reflect during
+that year.
+B) If any planet rising in Asc. of SRC, then according to that planet's
+karaktwa and houses ruler, one can expect the events during the year.
+C) If rising sign of SRC, is a sign of angle ortrikonc house of Natal
+than it indicates some good events.
+
+D) If rising sign of SRC, is a sign of 6-8 or 12th house in a Natal or
+progressed than it is not good.
+E) If lord of 6-8 or 12th of the Natal chart, rising in SRC, than also
+it is troublesome year.
+F) If lord of SRC's Asc. is in 6-8 or 12th house in Natal or in
+progressed chart, also indicate some problem.
+G) Planet rising in the SRC, according to karaktwa and house ruler
+ofNatal one expects the results.
+H) If lord of Asc. of SRC is afflicted in SRC and or Sun is also
+afflicted in SRC than also it indicates hardship.
+After.considerall such points, events expected during Transit of
+superior planets with major aspects, with Asc or Asc. lord of SRC. One
+can match Moon's monthly Progression for more specific time factor
+with this Transit.
+In SRC, ASC + Asc lord, M.C.+ M.C. lord and rising planets are
+important.
+Note: One more experienced 1 have done, that erect the chart for
+progressed Sun longitude's for that year. Many clues from this chart is
+available. 1 have observed as under.
+SRC's results are always based on birth and progressed chart is for
+a particular year, progressed Sun is more important and if we erect the
+chart for this progressed Sun, than it can directly shows effect it with
+radical aspects as well as mutual aspects formed in progressed chart and
+then this progressed Sun's aspects in Transit in SRC. Second point is
+that, if native has shifted to new places from birthplace, than it effects
+more.
+Third factor is that, mostly birth longitude of Sun falls in near by
+birth date. While in this system due to progressed Sun's longitude one
+can not get date nearby birth date in SRC and this can be match with
+monthly chart by Sun longitude[progressed), lunar month
+chart[progressed) and one house for every month from Asc. to I2thhouse,
+and one can consider new Moon and eclipse points in this progressed
+Sun's SRC. In this system one has to consider year not from birth date to
+birth date but progressed date and respective year to next year.
+
+Chapter IX
+‘Muhurat
+Muhurat or election of time is a separate branch of astrology as
+well as one can use as a remedial measure. Our all Sodas Sanskars as
+well as all religion rituals performed according to specific muhurats. All
+these muhurats are given by our Rishis for the benefit of humanities.
+In our granths muhurats are based on panchang. 1) Nakshatra 2)
+Yoga (one is Sun+Moon yoga another is specific combination of tithinakshtra-day-month etc.) 3) Tithi (lunar day) 4) Karan 5) Day.
+To perform religion rituals, our sages have given some specific
+muhurats, so one can use it with the help of Nativity and according to
+chart, one can select the Muhurat, and those who do not have their chart,
+onecanuse common Muhurat or according to Horary. In Indian panchang
+almost common muhurats are there, so one can selects according to their
+cast and customs.
+In Sayan one can select the time according to direction, longitude
+aspects, and fixed stars for specific Muhurat, and mainly they concerned
+with lunar day. Transit and hora hours.
+So according to birth chart one can select with aspects, Transit of
+superior planets, lunar day and hora hour.
+In K.P. according to significators of the matter, one has to see Transit
+of Dasa rulers, Sun-Moon and Asc. rising from the significators only. If
+birth chart is not there, one can use Horary for such purpose. One can
+use hora and sub hora also.
+In K.P. one can go upto minute for Muhurat, suppose for specific
+work if Dasa rulers are not according significators, but one can select
+the Moon's Transit from the significator’s Star and sub, Asc. also
+according that significator's Star and sub, one can get positive results.
+Even if day Star is not according to significators but it is needed to
+select time for specific work, one can go according to hora hour, and
+with Asc. rising from the significators which is possible, or even one
+can go according to only sub rising only. Muhurat will help only, if Natal
+chart shows positive for specific event.
+
+Chapter X
+Cusp beginning or TVliddle
+When students study Sidereal and Sayan both the systems, most of
+the students get confused, whether rising degree is to be considered as a
+middle of cusp or beginning of cusp. In Sidereal it is a middle point and
+in Sayan it is a beginning of cusp. According to me it may be as under.
+If we study the history of astrology, we can understand that, the
+vedic astrology based on nakshtras in ancient as well as today also. Our
+all muhurats, religious functions and shodas sanskaram based on nakshtra,
+lunar day, yoga, karan and daylord. And all these are accord ingto native's
+cast and customs, for their welfare and prosperous life. In vedic astrology
+signs were not used. But later stage signs have been used.
+We all know that, our constellations are two types, one is fixed star
+and one is divisional nakshtras of ecliptic. And today also we are using
+this divisional nakshtras for all-purpose as well as fixed stars also.
+If we go through all nakshtras name, we get main 24 nakshtras.
+While today we are considering 27 nakshtras. In nakshtras particularly
+Falguni, Shadha and Bhadrapada nakshtras divided in two parts and their
+name are Purva Falguni, Uttra Falguni, Purva Shadha and Uttra Shadha,
+Purva Bhadrapada and Uttra Bhadrapada. So from 24 to 27 nakshtras
+have been used.
+Middle cusp concept based on the nakshtras systems, because 12
+houses have 2 points one is beginning and one is middle point, while
+end point is the beginning point for another cusp. So such 12*2=24 points
+of houses.
+Another point is to be considered that, celestial objects and our
+Solar systems, including our earth and Moon also moving in a particular
+orbit around each other due to one of the force is gravity. This gravity
+force is always attracts bodies towards the center of the object, so all
+celestial objects move around each other due to gravity force of each
+
+other. The gravity force is always centripetal. Our house system has
+main four points, rising horizon, setting horizon, zenith and nadir. We
+all know that when Sun is on meridian it is more powerful and its rays
+arc also straight and more heat that time than other hours of the day.
+Another point is that, all our longitude aspects arc based on
+geocentric and not on Topocentric, next point is that, for high tide when
+Moon is on the meridian of that place, i.e. Moon is always in 4th or 10th
+house during that time, and this is a center point of two horizon. So from
+above discussion, center point is more important, another factor is that
+our sidereal horoscope based on fixed zodiac, which is a divisional
+nakshtras based, and in any division center point is main. Next point is
+to considered that, we arc considering aspects 3 ways, applying- exact
+and separation, and experience shows that influence of aspects more
+powerful when it is in exact. Astronomical phenomena like Solar eclipse,
+and Sun rise time is given inpanchang when Sun's disc half rise over the
+horizon.
+In middle point of cusp, there is no need to consider any orb, and
+planet near to mid point is more powerful than, it is in beginning of the
+cusp or in end of the cusp. And one can work out comparative ratio on
+the based of planet deposited in the house and its distance from middle
+of the cusp.
+For beginning of the cusp, 1 think following points are in
+consideration. Our year is mean full zodiac of Sun, and in a year there
+are 12 months [Solar months), and 12 lunar months, so twelve equal
+division of ecliptic is a sign. When fixed zodiac and moveable zodiac
+were same, description of sign based on the constellations in each sign,
+but due to precession of equinox at present moveable zodiac has not the
+same constellations as described. As well as when we see in night during
+the sky observation, that shape of sign given in our granths are to be
+studied by considering the divisional nakshtras and fixed stars in that.
+When ecliptic divided in equal 1 2 division, it has one starting point
+and one is ending point. Sign resembles to cusp in natural terms, so
+rising degree here considered as a beginning point of cusp. When planet
+entered in a sign its effects started. Same way when planet entered in a
+house its effects start. For cusp 5dg orbs is considered and for hyleg
+
+different orbs is to be considered. So planet in end of 1 2th cusp and near
+to 1st cusp, its effect more to Istcusp than to 12th house, and not only
+for orb consideration but in future it will progressed to 1st house sign
+from 12th house.
+In our ancient granth, planets avastha have been given for odd and
+even sign, here I have marked that, yuva avastha is in center of sign 12d
+to 18d.So this also indicate that for planet, center of sign is more important
+than its beginning.
+One more point we can get from Horary rule is that, we can not
+give answer, when Moon or Asc. is in the beginning or in ending degree,
+sign is a resemble to house, but not always equal, so this also indicate
+that beginning point is not that way important as middle point.
+In K.P., as per law when we say that, all planets are bound to give
+results of its Star lord, we considered where Starlord ruler planet is
+deposited, and that Starlord ruler planet rules which house as a sign lord.
+But as per its defination it is wrong, because when we use term Starlord,
+we should considered Starlord ruler for the cusp also not as a sign lord.
+For example : Suppose Sun is in Venus Star, so we will say that Sun is
+the significators of where Venus is deposited and house ruled by Venus
+as a sign lord. i.e. On which house Vrishbha and Libra sign falls, but this
+is not the correct as per terms, we should considered where Venus rulers
+nakshtras falls i.e. Bhami-Purva falguni and purva Shadha. If out of
+these three nakshtra fall on any bhava one has to considered that bhava
+first than sign rulers.
+If time will permit in future, I will put my observations on this
+point, and one has to consider middle or beginning of cusp according to
+the system they follow. But according to me middle point is more
+weighted.
+
+Chapter XI
+"Horary
+Horary is a separate branch of astrology, one can use it as a separate
+tool for the answer of any query or as a supporting tool with Natal chart.
+There are two systems followed by scholars l)by time and 2) by number.
+In time system, one has to erect the chart, when any querist asked
+any question, or one can read query in a letter-fax-email etc. or hear
+query over the phone etc. So according to that time one has to erect the
+chart. Sometime querist gives the time, place and date when first time
+query comes in his mind. Actual Horary system is that, whenever any
+question rise in his mind, that is the actual time for Horary chart.
+But most of people don't know this rule of Horary and according to
+their suitable time they approach to astrologer and asked the question,
+and astrologer has no choice but he has to cast the horoscope according
+to that time. And this is a main limitation oftime system.
+In number system, querist has to give one number, either within
+108 or within 249, or unlimited digit number (refer nakshtra chintan
+part-1) and this number indicate fixed Asc degree of query. Astrologer
+has to cast the chart according to his convenient time and place, but he
+has to finished chart working and judgement of the chart in the same
+sitting.
+In this system cusps are according to fixed Asc, according to number
+given by querist, this Asc. is to be adjusted on the latitude where astrologer
+cast the chart, and according to that, he has to work out other cusps.
+Astrologer has to insert planets of that time when he starts working in a
+chart, then one has to take judgement.
+If for some reason there is any disturbance during calculation and
+compulsion to leave it, then one has to cast the chart again when one sits
+for judgement, cusp remains the same mostly if one is on the same place,
+but planets get change according to new time.
+
+In Nirayan and in K.P. number system is there, but in Sayan no
+such system.
+Before proceeds in the chart, particularly in Sayan, one has to
+consider following points.
+1) If rising Asc. deg in beginning of a sign, matter of queiy is in
+beginning stage or querist is not that serious about query, so one can
+avoid to answer.
+2) If rising Asc. deg in end of a sign, mailer of query is in last
+stage, so there is no need to go further and one can avoid it.
+3) If malefic planets are rising, one has come with not good
+intention, so one can avoid it.
+4) If Moon is in beginning of a sign, particularly first Navamash,
+querist is not serious about query, so one can avoid it.
+5) If Moon is in end of a sign or in a last Navamash, querist has lost
+all hopes for his query.
+6) If Moon is in a void of course i.e. before leaving a sign, if no
+aspect formed by Moon to any other planet, matter's status remain as it
+is, and one can avoid it.
+7) If Moon is between Libra 15d to Scorpio 15d., one can avoid to
+give answer, in these zodiac malefic fixed stars are existed.
+8) If malefic planets are in 7th house, one can avoid the answer,
+because 7th house indicate astrologer, and querist will not be satisfied
+with the answer.
+9) If more duality indicates in Asc or with Moon, then querist has
+approached to other astrologers for the same query, so importance of
+this chart has lost, so one can avoid such query.
+10) If Saturn in Asc or with Moon, indicates that querist is hiding
+some thing or providing less information's regarding matter, so there is
+no need to give reply.
+11) If Moon is not reflecting the question by house or sign or aspects
+
+or Karak, than one can avoid the answer.
+12) One has to match the querist description from Asc. and if it
+match then only one-can proceeds further.
+So, astrologer has to check all above conditions then only proceeds
+further as follows.
+One has to consider significators and promittars as follows.
+Asc. lord or lord of house regarding for whom querist has asked the
+question, and another significator is Moon.
+Promittors arc lord of house regarding for which matter question is
+concerned, planet deposited in a that house and Karak of matter.
+So one to fixed this two planets, one is significator and one is
+promittor. Then < >nc has to find out who is fast moving planet out of this
+two, and its degree is in applying condition to other planet, one can
+consider positive reply.
+If fast moving planet is ahead in degree than other planet, one can
+not expect positive reply.
+If fast moving planet is ahead in degree and before change of sign
+its move backward, and apply to another planet, one can expect positive
+reply.
+If fast moving planet is in applying condition to another planet, but
+before aspects fulfillcdanother planet change the sign, reply is negative.
+If fast moving planet is in applying condition to another planet, but
+before aspects fulfilled, fast moving planet turns retrograde, hopes of
+results lost at last stage.
+If fast moving planet is in applying condition to another planet. But
+before aspects fulfilled, another fast moving planet than this two aspect
+with out of this two planet results is prohibited due to this third planet as
+a house ruler or its karaktwa becomes the reason for this negative result.
+If fast moving planet is already in ahead condition than other planet.
+But beforUit leaves the sign, any another planet which is fast than this
+
+two, apply first to slow moving planet and translate or collect its light
+and approach to first fast moving planet, then one can expect the positive
+result. It will be fulfilled by support of this third planet as a house ruler
+and Karak.
+In Sayan, time factor is considered as follow.
+Applying planet's sign and house position to be considered
+Directions of houses and sign as usual.
+In K.P. one has to follow as under to judge Horary.
+1) In one sitting one has to finished the chart and judgement. If
+there is any disturbance during work and compulsion to get up, one has
+to insert the planets of new time. If place remain the same, there is no
+need to cast the cusp again, but place of working is also changed, then
+one has to consider new place lat. for cusp according to given number.
+2) Judge the Moon, if it reflect the query, then one can proceed
+further.
+3) Judge the strength of Asc. Sublord, and also it indicates the query
+& efforts.
+4) Judge the main house Sublord for the particular matter, and see
+whether it becomes the significator or not.
+5) If Sublord is retrograde and Star lord is direct, than one can not
+give negative answer, if it is a significator.
+6) If Sublord is in direct motion and its Starlord is retrograde, than
+answer is negative as per theory, but it is not fixed rule, it depends upon
+case to case.
+
+7) When retrograde planet resume direct, one can expect the result,
+when it crossed the longitude, from where it started the retrograde motion.
+8) Check other supporting houses Sublord, how far it is positive.
+9) Check 11th house Sublord, and see whether it is a significator of
+required houses, if yes than answer is positive otherwise negative.
+10) Asc. Sublord shows querist's efforts to fulfilled desire.
+11) Expected result depends on the mam house Sublord, 11 th house
+Sublord, planet in Asc. or in the 1 1th house, and all these factors decide
+the time factor.
+12) Find out Ruling planets at the time of judgement, to select the
+significators .
+13) As per Dasa systems one can measure time factor. If it is expected
+in short duration , one can depend on Transit only.
+14) If 7th house Sublord is afflicted one can avoid to give the answer.
+15) If planet Mercury is connected with 7th house, querist send
+reminder for his query.
+So, one can work out Horary either by time or number system. In
+Tajik most of the same rules are given as in Sayan, with different names
+like lthasal, Israf,Nakta etc. like 16 yoga's are there, and for judgement,
+one has to consider different aspects like Pratyaksh and Gupta for Sneha
+and Shatru Darishti.
+
+Chapter XH
+sHorarycy\nd "Natal Chart
+Horary astrology is a separate branch, but one can use this branch
+as a supportive too] with Natal chart or also when native's data is not
+known, then one can use it. There are different systems for Horary and
+rules are also different to follows. There is always one kind of comparison
+factor rise in mind which is to be followed, because some scholars give
+importance to only Horary or some are giving importance to Natal. So
+here I have tried to compare both the branch.
+1) In Natal chart, correct birth data required, particularly correct
+birth time, even today most of doesn't know which is correct birth time.
+So this is a very important point in Natal chart, and without correct
+rectification one can not proceed further. In primary direction difference
+of 20" in birth time gives I Month difference in time factor, while in
+Horary this problem can not arise, because as per Horary rules astrologer
+has to cast the chart.
+2) In Natal chart, one can get general life trend and also specific
+events with the help of using different divisional charts . Compare different
+types of time judgements like Progression, Dasa, periodical planetary
+system and Transit etc While in Horary one has to study the chart for
+specific question with the system's rules.
+3) In Natal chart, astrologer is able to judge the native's past, present
+and future trend of life, with the help of time factors, while in Horary it
+represents only immediate past present and future for question.
+4) In Natal chart one can work out epoch chart, and also one can
+read chart in more details with the help ofboth chart, while in Horary it
+is not possible.
+5) In astrology, there is a thumb rule that according to Desh-kala
+and patra. so from birth data astrologer is able to judged Desh-kalapatra's position, when native born and native's development influenced
+
+by these factors, while this factors is not possible to judged from Horary
+except present one.
+6) From Natal chart, one can get parent's position, which is not
+possible through Horary, while parent's position is more influenced on
+native's development.
+7) For matching of horoscope, whether for marriage, business or
+relations among family members. Natal chart is more important, than
+Horary. While Horny can give answer yes or no and some more details
+pertaining to present life and future prospectus of that relation.
+8) Natal chart any one can present by family members or friend or
+also even those who are not blood related. While in Horary chart one can
+cast if native himself or herself present by personal, or by letter-faxemail, or by telephone or by blood related person in his or her absence,
+or in special case some time by partner or friend as a well wisher.
+9) When person consult to astrologer, in Natal chart Moon and Asc,
+of that time will signify the query. While in Horary one has to cast the
+chart for that time or according to number and one has to check Moon,
+whether Moon reflects the question or not, if Moon reflects question in
+Horary chart then only one can proceed further, while such restriction is
+not in Natal chart.
+10) Planet's consideration is different when it is retrograde in Natal
+than Horary.
+11) There are sets ofrules to judge the Horary chart, while for Natal
+different rules given in each granth but not so specific as it is for Horary.
+So, from above discussion, I believed that Horary chart can be used
+as a supportive tool for Natal as well as separate when it is needed, but
+Natal is more important in all respect.
+
+part 2
+CK. T. Theory - '"Rectification
+Krishnamurti Padhdhati (KP) is a theory of houses, in other words
+a theory of group of houses, signifactors & Ruling planets.
+Whenever any chart present to an astrologer, they have to check
+whether it is rectified or not with the help of RP (Ruling Planets) at the
+time of judgement. The astrologer must check the Asc . degree or rectify
+according to RP & for further detail please refer chapter - 7 of
+‘Nakshtra Chin tan’ Part I.
+Rectification is an Astrologer's Ethic before analysis prediction of
+the chart, which should be 'Astrologically Rectified' by an Astrologer.
+There are different opinions regarding correct birth time to be considered.
+1) First Cry,
+2) First Breathe,
+3) Head Coming Moment (Shirshodaya),
+4) Baby Come Out Completely (Bhupatana),
+5) Cutting Nadi,
+To overcome above complain, rectification of birth time is primary
+& essential process in 'Astrology' work. The error in casting of the
+horoscope due to non-availability of watch, lack of awareness, improper
+watch & different opinions about birth time consideration. There are
+some postulates for rectification.
+1) Asc , should match & coincide with the time of judgement.
+2) Dasa bhukati match with the Ruling planets.
+3) Question reflection. [Signifactor Question should match with RP]
+While doing rectification, it is essential to consider various point
+just like time, place & family background etc. First find out Asc. point.
+
+then with the help of RP adjust the Asc. point & then with the help of
+calculation find out the rectified time.
+1) Asc. Star Lord.
+2) Asc. Sign Lord.
+3) Moon Star Lord.
+4) Moon Sign Lord.
+5) Day Lord.
+All above RP are in descending strength, if any planet are retrograde
+or in the star of retrograde becomes weak but not to neglect completely.
+Rahu-Ketu becomes stronger than any other planets.
+Rectification should not be done again for the same chart.
+Rectification should be done with crystal clear mind, because confused
+mind creates confusion for the native and an astrologer.
+
+^scendent
+The most sensitive & important point is the Asc. It is very naturally
+energetic & imparts. Its influence to the connected houses. Hence the
+native's attitude, behavior & nature are influenced by this point. To
+understand the potentiality & probability of the situation as well as the
+native, we can get maximum output with little efforts & less obstacles in
+this manner. We can avoid wasting of energy against nature & utilizing
+the energy in constructive way.
+Asc. fundamentally signifies longevity, head, physical body,
+livelihood, potentiality, nature, soul & control over horoscope.
+Longevity : Longevity decides from 1-3-8 HS. (house).
+1st HS. - The native.
+8th HS. - Longevity.
+3rd HS . - 8th to 8th (Bhavat Bhava).
+Saturn. - Karka of longevity.
+3D are danger for health.
+6th HS. - Disease
+8th HS. - Danger
+12thHS. - Defect
+If combination of 1-8-3 are -Ve, then 4th HS, is - Ve. If 1-8-3 are
++Ve, then 4th HS, is +Ve.
+Sun, Moon & rising planet in Asc. are to be considered for hcalth.(for
+both male & female).
+
+There arc three categories 1) Short, 2) Medium, 3) Long., Short -
+up to 33yrs, Medium - 33 to 66yrs, Long - above 66 yrs.
+For short longevity: 1-3-8 SL (Sublord) signifies Badhak & Marak.
+For medium longevity: 1-3-8 SLsignifies BadhakMarak & positive
+houses.
+For long longevity: 1-3-8 SL signifies positive HS.
+If 1-3-8 SL are with Badhak Marak & 6-8-12 also, it reduces
+longevity. The (>-8-12 shows negative for the health. It depends on dasas
+also.
+3rd Dasa, 5th Dasa & 7th Dasa is Negative for Short, Medium &
+Long longevity respectively.
+POTENTIALITY : Physically health can be considered by
+studying 6 & 8 HS. In human life there may be number of opportunities
+& ambitions, but lack of 6 & 8 HS., support-consideration. The native
+can not succeed due to physical/mental problems. Hence body can be
+controlled by proper way of life-style, yoga, diet & medicine.
+NATURE : Nature of a native is to be decided from 1-3-9 HS,
+
+Try to come up with family support,
+through education.
+Try his luck from a place away from his birthplace.
+Success in sports, Mars-Jupiter with airy
+or fiery sign.
+Failure by doing daring.
+Mental tension.
+Love affairs. Finance (2-5: issue, 2-11: finance,
+2: family).
+Residential based business.
+(4-8: homely atmosphere, 7: customer,
+1 1 : benefit).
+Discipline, police, soldier (Connected to Mars).
+Indisciplined.
+Estate agent (3: Deal (4th 12), 7: Customer,
+11: Commission, profit).
+Manufacturing, Profit in business.
+Loss.
+BUSINESS : When Asc. SL is with 7HS, then the native has
+tendency to do business. 1 & 10 SL are also connected to 7 HS, & not to
+6 HS. It is very essential that 7 SL is connected to 7-2-5-11 HS.
+If 7 SL is connected to 5-8-12 HS then loss is sure.
+BUSINESS PARTNER : 7 SL should be connected with 2-5-1011 HS. If 7 Cusp has duality & connected to 9-3-5 HS, Then there is
+possibility of different partners. If it is connected with 6 HS, then opponent
+will break the partnership. 12 HS, connection indicates the native will
+himself break the partnership.
+DARING: lstSLwith3 HS, : Daring.
+1-3 : Self confident. Daring
+1-3-10 : Come forward for daring.
+3-6-10-1 1 : Daring & self-efforts make him successful.
+
+Third cusp SL should be connected with Mars, 1-3-11 HS, then
+native has daring & gets success. But if it is connected to 12 HS, then the
+native becomes coward.
+Opponent is afraid.
+Success in daring.
+Failure in oaring.
+Success by self-effort.
+Strategy for any scandal. Saturn,
+Neptune, Mars & Rahu as karaka.
+If 3rd SL is Mercury/Jupiter in airy/fixed sign, than the native will
+think twice before act.
+If Asc. SL is connected with 6-8-12, then chart becomes weak &
+we can not expect any heroic deeds from him & again 3rd SL connected
+to 9-12 HS, then he will not able to complete any work with satisfaction.
+IstSL is with :
+2-6 : Effort for existence, finance.
+6-10 : Effort for development.
+10-11 : Development is an achievement.
+2-11 : Finance is an achievement.
+2 Finance, 6 Efforts (service to other), 10 Active. Karma, llSuccess.
+THIRD HOUSE : Third house for proper communication.
+Astrologer should have strong 3rd HS. i.e. good in communication. In
+any Natal chart Asc. 3-9 HS & Moon-Mercury should be strong.
+3rd HS. Sub-conscious mind (Prakruti), parakram, courage, what's
+in mind, enthusiasm, confidence. If there is fear, then one will lose
+confidence. If there is balance of mind, then one may succeed 8-12
+problem, 3-11 overconfidence.
+If 3rd HS is defective, the advantage of a strong IstHS is nullified.
+NINTH HOUSE : Conscious mind, good behavior, reading,
+observation, interest, and knowledge.
+
+9th is with 1 1 HS , then success. If 3rd HS weak, means confidence
+is weak. If 9th HS is weak & 3rd HS is strong, it shows success. If 1st
+SL is with 11 HS, but 3rd Hs is negative, then there will be problem.
+I f the combination of SL of 3-9 are same or connected with each
+other, then whatever the native thinks in his mind, he will work in same
+direction. If they differ, the native will try to get the same results by a
+different approach.
+MOON : Mind, thoughts, grasping power, likes & dislikes.
+Mind energy is thousand time higher than body. Hence if Moon is
+not supporting to 3-9 HS, then the native can not progress properly.
+MERCURY : Mind is basically unstable in nature, but with the
+support of Mercury, the native is able to take proper decision.
+Hence Asc. 3-9 Moon & Mercury indicate the potentiality of mental
+development.
+
+§econd "House
+Second house fundamentally signifies family, wealth, face, speech,
+eyes, memory, learning, comfort, taste etc.
+FAMILY & DOMESTIC HAPPINESS :
+If 2nd SL Saturn or with it, then native has to take responsibility. If
+2nd SL connected to 6-8-12 HS; then the native will not be happy. If
+Mars connected, quarrels will take place. Jupiter makes him apart
+peacefully & Mercury gives expertise in documentation &
+communication.
+2nd SL with 6 HS., quarrel take place, but gains through family.
+With 8 HS., mentally lose of peace & with 12 HS., gives lose & may
+have to leave family.
+VOCAL :
+If 1st SL with 6-8-12 HS., 2nd SL with Mercury & with Rahu or
+Ketu, & Starlord or SL of 2nd HS . in mute sign (watery sign), then there
+is possibility of dumb.
+If 2nd SL Saturn, indicates stammer. And with Rahu, Mercury causes
+much stammering. If 2nd SL connected with Mars, then the native will
+talk very fast.
+
+TASTE :
+Sun - Bitter & pungent.
+Moon - Saltish.
+Mars - Chilly & sour.
+Mercury - Mixed.
+Jupiter - Sweets.
+Venus - Sour.
+Saturn - Bitter.
+Rahu - Bitter & pungent.
+Ketu - No taste.
+EYES:
+If 2nd SL with 6-8-12 HS. & Karaka also connected to 6-8-12 HS.,
+then there will be sight problem.
+2nd HS for right eye & 12th HS for left eye, Sun, Moon & Venus
+are Karak . Sun is karak for right in Male chart and Moon is karak for left
+eye and vice versa for female chart.
+12thHS indicate any defect or hospital treatment. If Mars or Saturn
+are afflicted, then the native has to lose his eye by an accident or by
+Ratnadara. It is connected with Aquarius sign.
+If 1st or 8th SL with 8 HS & Mars, then there is possibility of
+operation. When 12th HS SL signifactor of 6-8-12 HS., Then only in
+combined Dasa of 2nd & 12th, there will be possibility of damage to eye.
+WEALTH :
+Consider 2-6-11 HS for wealth position & its combined Dasa
+improve wealth position.
+If 2-11 SL are connected to 8-12-5 HS., then the native loses his
+wealth.
+Progress in business, promotion, Re-joining can be considered from
+2-6-10-1 1 HS. If 7 SLis the signifactor of 2-6-10-1 1 .then its Dasabhukti
+gives business & success.
+If 10 SL is connected to 2-7-11 HS., then its combined Dasa give
+independent business. But if it is connected to 3 or 9 HS, there will be
+partnership in business.
+For materialistic positive HS are 1-2-3-6-10-11 & Karak Jupiter- Venus.
+
+Third "House
+Third house fundamentally signifies courage, brothers, parakram,
+anger, ears, skill, neighbour, short journey, subordinates, heroic deeds,
+letter, communication, writing & longevity of life.
+SUB CONSCIOUS MIND :
+3 SL is not afflicted, then the native represent his thoughts very
+well. If afflicted then internal thoughts & external representation will be
+different.
+3 SL is connected with 9 HS in any manner then thoughts &
+representation will be same, otherwise it will be different.
+HEROIC DEEDS :
+3SL is not afflicted & not connected with 8-12, then the native will
+be success. If afflicted with Mars & Jupiter, then fail.
+ATTITUDE :
+3rd SL with-1, then Importance to own intellect, mentally ready to
+do anything, difficult to explain / convince them, obstinate.
+-2, Emphasis given to wealth, family & speech.
+-3, Ready for any kind of daring by overestimating one self, mix
+with people, leadership, addicted to any bad habits.
+-3 & 10, 1 am only right tendency.
+-4, Busy with his own activities only in homely atmosphere, thus
+dislike to go away from home, potentially, good concentration,
+-5, Moody, irresponsible, is interested only in speculation, love &
+affection.
+-6, Ready to do work, service, production line, surround by enemies,
+wants success.
+-7, Interested only in business, publicity, travel, has daring to insult
+any body.
+
+-8, Taking risk, suspicious mind, protecting legacy, custom of family
+& due to that profit or loss, interested in technical work.
+-9, Attitude towards religion, knowledge & justice, truth seeker,
+professor, preacher, teacher, longjourney, religion, father.
+-10, 1 am only right, work, business, politics, and status.
+-11, Fulfill of desire.
+-12 Bad habits, investment (depends up on 12Hs), avoid
+responsibility,
+BROTHER :
+If 3 SL with 3-11 HS, connected to Mars then good relation with
+brother, but with 8-12 HS connection spoil the relationship.
+If 3 SL with 2 HS, then younger brother will have some problem.
+If 3 SL with 2-4-10-1 1 HS, then the native will gel good support
+from younger brother, but 6-8- 12 connection gives problems from them.
+If 3 SL is afflicted from Mars - Problems for Property, Saturn -
+Problems for Legacy, Venus & Moon - Problems after marriage, with
+them.
+NEIGHBOUR :
+3 SL with
+Profit good social relations.
+Quarrel.
+Not good neighbour.
+Good Neighbour.
+Loss.
+SHORT JOURNEY :
+3rd SL is with :
+No problem during travelling.
+Luxurious travelling.
+Accident during travel, but at the same
+time 8 SL should be with 3-8-12 HS.
+
+3 SL is with Venus & afflicted then ornaments will be missing.
+Venus is afflicted in female chart & with 8-1 2, then take care when
+she travels.
+If 3 SL is with 1 -7-8- 1 2 HS , then court problem will arise for nothing
+& also connected with Mercury & Jupiter.
+SALES MAN :
+3id SL is with 2-10-1 1 HS, then profit in salesmanship, travelling,
+salesman.
+10th SL with 3 HS travelling, salesman, commission agent,
+brokerage & also connected with Karaka, Mercury & Moon.
+10th SL with 3 SL & vice versa., with Karka also the profit in
+salesmanship, commission, brokerage contractor.
+
+WRITER / PUBLISHER :
+3 SL is with 3-9-10-11 - Mercury, Mars & Jupiter.
+LOTTERY :
+3 SL is with 2-6- 10-11 & Jupiter, but not with 5-8-12 HS .
+If 3 SL is with 6-1 1 HS, then accept the appeal.
+EXPRESSION :
+3 SL is Saturn -
+Sun
+Moon
+Mercury
+Jupiter
+Venus
+Mars
+Rahu
+Ketu
+EAR:
+If 3 SL is with 8-12 & Saturn, then there will be defect in ear. At the
+same time 1 SL should be with 8-12 HS. along with afflicted Mercury.
+Less but to the point.
+In limit but impressive.
+Excited.
+Over limit.
+Seriously.
+Like actor ( with hands & legs ).
+Threatened, argumentative.
+Improper.
+Can not express as wan..
+
+"Fourth "House
+Fourth House fundamentally signifies mother, education, home,
+vehicle, farmhouse, boreweli, heart, end of life, end of things, culture.
+MOTHER
+If 4 SL is not with Badhak - Maraka from mother's HS (4th HS.),
+then there will be good longevity of mother.
+If 1st SL is with 4th HS & vice versa, then there will be good relation
+with mother. Moon also considered.
+If 4 SLis with Asc. & also afflicted, then it spoils the relation with
+mother.
+4 SL is with 3-6-8-12 HS, then happiness from mother is less.
+4 SL is with 1-2-5-11 HS, then good relation with mother. Also
+possibility that mother is doing job.
+4 SL is with II HS, Badhak - Marak from 4 HS, then there is
+possibility of early mother's death.
+STEP MOTHER :
+Father's remarriage & 4th SLis with 8 HS.
+If 3 Or 4 SL is afflicted then possibility of stepmother. ( 3 HS is 7th
+from 9 HS & 12th from mother's house.)
+Many times 4 SL is not afflicted but possibility of stepmother is
+there, then her nature will be good.
+If 3 HS is with duality then possibility of step mother. ( When
+mother's longevity is short, remarriage of father. Moon is afflicted.)
+3 or 4 HS with duality, then father will re-marry. ( Father’s marriage
+life disturbed & shows divorce.) Mother & stepmother both are present.
+CULTURE - SANSAKARA :
+It is given by mother & if 4 HS is afflicted then there is deficiency
+in culture or the native does not getting proper sansakara from mother.
+
+EDUCATION
+1 & 4 SL with 3-8-12 HS, then not possibility of education.
+ADMISSION :
+If 4 & 6 SL with 4-6- 1 1 HS , then the native will get the admission .
+If 12 HS also connected then strength of 11 & 12 HS will decide the
+situation. If 11 HS stronger, then the native will get admission. 12 HS
+indicates donation.
+4 & 6 with 3 & 9 HS then through reference.
+4 HS duality ( in Mercury/ Jupiter star or sign ), then initially the
+native won't get the admission where he applied first, but he will get in
+other institute / school. For that 4 SL should be connected 1-4-6-11 HS.
+If Saturn is with 4 HS then it delays matter orthe native will get admission
+due to somebody's cancellation.
+MEDIUM OF LEARNING :
+If 1-2-3 SL with Mercury, Jupiter & Rahu, then English Medium
+will do. But if above combination is not there then admit the native in
+Vernacular Medium.
+GOOD EDUCATION :
+When Asc. SL is not afflicted & not with 3-5-8-12 HS & also 4 SL
+is with 4-6-9-11 HS., & Mercury / Jupiter, then the native will have good
+education. 4 SL with 3-5-8-12 HS., then there will be break in education.
+4 SL with Saturn, then the native will forget in Exam - hall.
+4 SL duality & with 3 or 10 HS., then the native has to change the
+school OR institute due to change of residence or due to parent's job
+location changes.
+Moon with 8-12 HS & afflicted from sign, house & aspect, then
+grasping power will be less. But support from sign, aspect & from Asc,
+then the native will come out from bad / dull periods.
+Moon strong & in 10 HS, then capacity is good. He likes social
+status, interested in extra activities.
+
+Moon in 5 HS, then the native is clever but he is in overconfidence.
+FACULTY OF EDUCATION :
+4 or 9 SL with :
+Mercury / Jupiter
+Sun
+Moon / Venus
+Mars / Saturn
+Mercury
+Jupiter
+Mars / Venus
+Saturn / Venus
+Mars / Jupiter
+Herschel / Mercury / Saturn
+Mars / Moon or Mars / Neptune
+Saturn / Venus / Mercury
+Mercury / Venus / Moon
+Mercury / Venus /
+Herschel / Neptune
+Herschel / Mercury
+Saturn / Moon
+Saturn / Venus / Sun
+Chemical point of view
+Aviation / Electrical
+Venus / Moon with 4, 6 HS
+Law, Commerce, CA, 1CWA,
+CS, Accounts, Marketing.
+Medical ( Sun in 4 HS.,
+in ashwini nakshtra ).
+Art.
+Engineering. Civil - Mcch-cngg.
+Commerce, Accounts.
+Finance. Law. Economic.
+Automobile, Electrical,
+Plastic, Architect.
+Architect, Computer, Electrical.
+Production engg.
+Aeronautical engg.
+Marine engg.
+Computer Hardware engg.
+Computer Software engg.
+Computer Software engg.
+Meteorology.
+Space Technology,
+with 3, 9 HS & airy sign.
+Chemical engg.
+Plastic, 'Textiles.
+4-8-12 HS or watery sign.
+3-7-9 HS or airy sign.
+Catcring/Hotcl management.
+4 SL with earthy sign, also with 3-10-5-6-11 HS. then private course
+will do & be master in it.
+
+When 4 SL with 3-5-8-12 HS, then there will be break in education,
+but if with 6-11 HS, then he will get good marks in examination.
+4 SL with 1-3-5-6-12-1 1 HS, then the native will try to copy & get
+success.
+When 4 SL with 3-5-10 HS, then the native will get extra marks
+due to his NCC or NSS activities.
+ABROAD FOR EDUCATION :
+12 SL with 3-4-9-12 HS, or 4 & 9 SL with 9-12 HS & karaka also,
+then there is possibility to go abroad for education. Dasa bhukati support
+must be necessary.
+HIGHER EDUCATION :
+Admission problem to be judge from HC.
+9 SL with 6-9-11 HS, the native will seek admission for higher
+education.
+9 SL with 3-8-11-12 HS, then institute will be at longer distance
+from residence.
+9 SL with 6-9-11-12 HS, then there is possibility of studies abroad.
+9 SL is with
+Sun Jupiter
+Sun Mercury
+Sun Saturn
+Sun Saturn / Venus
+Sun Saturn Venus Moon -
+Sun Saturn Mercury
+Sun Mars
+Sun Jupiter Venus
+Sun Rahu
+Sun Herschel
+Sun Neptune Moon
+Sun Jupiter Moon
+General practitioner.
+General Consultant.
+Orthopedic / Dentist & 8 HS.
+VDS, Skin.
+Eye specialist.
+Skin disease, ENT,
+Speech therapist.
+Surgeon, Heart specialist.
+Gynecologist.
+Anesthetist.
+Sonography, X-Ray,
+Scan, Angiography.
+Psychology.
+Child specialist.
+
+Sun Venus
+Sun Scorpio / 8 HS
+9th SL is Mercury
+Jupiter
+LLM Jupiter Mar
+Saturn
+Venus
+Sun
+CA Mercury with Saturn
+Jupiter
+Mars
+Sun
+- Cosmetology.
+- Pathology.
+- C-A., Cost accounting.
+- Management, MBA, LLM, Law.
+- Criminal Lawyer.
+- Estate Law / Insurance.
+- Matrimonial law.
+- Government, public prosecutor.
+- C-A & good in Auditing.
+- Financial consultant.
+- Production, analysis.
+- Account factor.
+SWEET HOME
+4 SL with 3-5-8-12 HS, then the native can't make own home.
+4 SL with 4-11-12 HS., along with karaka then the native can
+purchase home. 6 HS connection indicates loan facilities forhome.
+4 SL with 4-8- II & 8 SL with 4-6-11, then the native get hereditary
+property.
+4 & 10 SL with 3-5-10 HS & 4 HS with duality, then frequently the
+native has to change residence.
+4SL with 6 HS & Saturn, the native has to live as a tenant or purchase
+in resale or hereditary property.
+When 8 SL with 4-11 HS.,& karaka then through legacy the native
+get house.
+4 SL with 7 HS, Mercury, Jupiter then there is possibility of court
+case due to property.
+Purchase home - 4 SL = 4-11-12 HS with karaka Mars & Saturn.
+Sale of home- 10 SL = 3-5-10-ll-Profit.3-5-8-10-12-Loss.
+LOCATION :
+4 SL is with Sun - Government colony.
+Moon - Market area, sea -shore.
+
+Mars
+Mercury -
+Jupiter -
+Venus
+Saturn -
+Rahu
+Industrial area.
+Market place.
+Near school, temple.
+Posh area.
+Lonely place, slum area, distance place.
+Mosque, church ( Pray house).
+4 SL with Earthy sign or Saturn - Ground floor.
+Rahu - Upper floor & Comer.
+Others - Upper floor.
+9-4 SL not afflicted, its direction is good.
+TENANTS :
+6 SL with 2-4-1 1 HS , then there is no problem. But if its with 3-812 HS, then there will be problem.
+9 SL not with 5-8 HS, then problem from Tenant.
+12 SL with 3-9-12 HS, fixed sign, 4 SL afflicted then the native will
+settle away from birthplace.
+4 SL with 8-12 HS & afflicted then insurance is must.
+4 SL with duality then property keeps on two names.
+Repairing :
+4 SL with Mare-Satum & with 8-12 HS, then possibility of repairing.
+VEHICLE
+When 4th SL in moveable or dual sign & 4-11-12 HS indicates
+vehicle & also connection with Venus.
+4 SL in dual sign or human sign then the native will drive two
+wheeler. For self-driving Saturn connection is must. Jupiter connection
+shows driver.
+4 SL in bestial sign, it's indicate four wheeler. Scorpio sign indicates
+heavy transport vehicle. ( More than four wheeler ).
+4 SL strongly with watery sign indicates ship, launch, boat, shipping
+vehicle.
+
+4 SL strongly with airy sign indicates helicopter, airplane.
+4 SL with 6 HS indicates loan for vehicle or use for his career.
+4 SL with dual sign.& also 3 HS, then the- native frequently changes,
+vehicle.
+4 SL with 3-8-12 & afflicted & 8 SL with 4 HS then possibility of
+accident.
+4 SL with fixed sign or strongly with Venus indicates luxurious
+furniture, electronic items, wheeler furniture in home.
+4 SL with 3-8-12 HS & not with 6-11 HS, then possibility of missing
+the vehicle.
+FARM HOUSE
+4 SL with earthy sign also with Moon & Jupiter then the native get
+benefit of farmhouse.
+If 10 SL with 2-4-11 or 4 SL with 2-6- 10-1 1 HS, then the native get
+profit from farm house.
+BOREWELL
+4 SL with watery sign & also with Moon, Venus & Jupiter then
+water will be in borewell, but before use of water, first check out.
+4th SL with Sun - more % of Calcium.
+Mars - more % of Sulphur.
+Saturn - more % oflron.
+Jupiter - more % of Phosphorus.
+Venus - more % of Magnesium.
+Moon - more % of Salt.
+END OF LIFE
+4 SL afflicted then some problem at end of life. But connected with
+Venus, Mercury then end of life is happy & harmonious moment.
+1 SL afflicted & strongly connected with 12 HS, then after death,
+the native's body will not found.
+
+"Fifth "House
+Fifth house fundamentally signifies first child, purva punya, i.e.
+The karma of previous birth, Mantra-tantra, learning, intellect,
+speculation, love affairs & memory, art etc.
+PURVA PUNYA :
+When5SLwith 1 (self ), 9 ( Luck ), 10 (Own efforts )HS indicates
+good purva punya.
+5 SL with 6-8-12 HS indicates deficiency in purva punya.
+5 SL is with :
+6 HS : One has to do service for society without getting adequate
+reward or suffer through health condition.
+8 HS : One has to suffer through accident, without any support of
+good fortune & also no support from the family members, in particular
+father or teacher or guru.
+12 HS : One has to suffer due to hardship, handicapped mentally or
+physically or stay away from family members.
+PITRU DOSH :
+5 SL & Sun afflicted & Rahu-Ketu with 5 HS shows Pitru Dosh.
+Same way one has to consider for other planets i.e. Venus - sister or
+female
+REMEDY :
+Jupiter, Asc, & 9 HS combination give success in remedial action.
+Jupiter must be with Asc, & 9 HS. in some respect.
+SPECULATION :
+1 SL with 5-8 HS & Leo sign indicate speculative tendency.
+5 SL not with 12 HS or vice versa, then the native is not interested
+in investment, but in promises ( Badla ).
+If 5 SL with 2-5-6-11 HS,then the native will make profit, but if it
+is with 8-12 HS, then it indicates loss. Mixed combination gives mixed
+result, according to Dasa bhukati.
+
+12 HS indicates investment as well as loss. Hence if 12 SL with 26-10-11 HS, then it is profitable, otherwise there will be loss.
+LOTTERY :
+3-5 SL with 2-6-10-11 HS & Jupiter's connection indicates profit
+& 5-8-12 HS shows loss.
+CHILDREN
+ADOPTED CHILD :
+When 5 SL with 2 HS & 2 SL with 2-1 1 HS. Jupiter also connected
+with 2-11 HS. Then only the native can go for adoption of child.
+Horoscope of adopted child :
+1) Afflicted 4 HS.
+2) 4 HS with duality.
+CHILDREN :
+When 5 SL with 2-5-1 1 HS & Jupiter in fertile sign, Then the native
+gets happiness from children in watery sign, there is no problem. If 5 SL
+in barren sign ( Aries, Gemini, Leo, Virgo ) gives problem regarding
+issue.
+5 SL connected duality then there is possibility of twins.
+If 5 SL with 1-4-10 HS, then the native may have no issue or not
+getting happiness from children. In female chart 5 SL & in male chart 11
+SL should be connected with 2, 5, 1 1 HS & the combined Dasa of 2, 5,
+11 HS gives child.
+Fertile Planets
+Disturbing Planet
+Miscarriage
+Delayed
+Total negatives
+Partially negative
+Moon, Venus, Jupiter, Sun & Mars.
+Rahu.
+Ketu.
+Saturn
+If 5 & 1 1 SL with 6-8-12 HS, then there is very less possibility of
+issue. But if 6-8-12 SLwith 2-5-11 HS, then with the help ofMcdical
+Treatment there is possibility of issue.
+
+5 SL with 4-8-12 HS connected with Ketu or Rahu indicates abortion
+or stillborn child.
+5 SL with 1 1 & 12 HS, also with 2-1 1 HS, some connection with
+Rahu & Ketu - deformed child.
+SIGN OR PLANET COMBINATION :
+Mars, Sun, Jupiter - Male child.
+Moon, Venus - Female child.
+Saturn, Mercury - According to sign / planet combination.
+Rahu, Ketu - According to they represent.
+LOVE AFFAIR :
+When 5 SL with 5-1 1 HS, Venus, Mars & Moon. Then love affairs
+will take place. If 12 or 4 HS is also connected, then in significator’s
+Dasa bhukati of 12 HS, it breaks the relation. If it is with 6 HS, then
+opponent will break the relation.
+5 SL with 5-11 & 8 HS it gives strain relationship.
+LOVE MARRIAGE .
+The inter-connection of 5 & 7 HS indicates love marriage. When 7
+SL with 2-5-7- 1 1 HS, wife karaka Venus & husband karaka. Jupiter is
+also supporting then there are chances of love marriage. If 5 HS SL is
+duality & also connected then the native may marry but also having
+external affairs. ( Dual sign with 7 HS )
+If 5 SL with 4 & 6 HS , then opponent will break the relation. But if
+it is with 12 & 4 HS, then the native himself will break the relation.
+5 SL indicates duality & with 2-11-3-7-9 & also with 4-6-10-12,
+then the native will break the relation & develop another relation.
+7SLwith5 HS &5 SL with 2-3-7-1 1 HS with duality but not with
+4-6-10-12 HS, then even after marriage the native keeps other relations.
+MANTRA - TANTRA
+5 SL with Rahu indicates the native interested in tantrik & connection
+with other planets indicate Satvik pooja.
+Sun - Surya pooja.
+
+5 SL with Barren sign & afflicted, then the native will not get positive
+result.
+Moon - Saturn combination give faith.
+If Jupiter & Moon afflicted, then the native should not take interest
+in Tantra.
+SIDHHI :
+If 5 SL with 5-10-11 HS, then there will be sidhhi & connected
+with Ketu, Saturn & Jupiter.
+INTELLIGENCE :
+5 SL with 1-3-9 HS and good connection Mercury, Jupiter, Moon
+& if these planets are not afflicted, it indicates good intelligence. Earthy
+sign & Airy sign gives strength.
+SPORTS :
+1 SL with Mars or Jupiter with airy, fiery sign, 3-5 HS, then the
+native interested in outdoor sports. At the same time, 5 SL with 2-6-101 1 HS, the native will get success in sports.
+5 SL with Mercury, Moon, Venus, Saturn, Airy, Watery sign, then
+the native interested in indoor sports.
+5 SL with 10 HS & vice versa, then the native try to make career in
+sports. But 5 SL with 4-8-9-12 HS, then not success in sports. ( e.g.
+Vinod Kambli ).
+
+§ixth House
+Sixth house fundamentally signifies services, pet animals, loans,
+disease, servant etc.
+SERVANT :
+6 SL with 2-4-6-10-11 HS, then the native will bebenefited by
+engaging servant. If 5-8-12 HS, then loss to the native from the servant.
+6 SL is with Badhak - Marak from 1 HS and 6 SL or 6 cusp with
+natural malefic planets, then avoid keeping a servant.
+When a person approaches to find out, if he can engage a servant, if
+Ruling Planets ( RP )are beneficial to the natives chart ( signifactorof 23-4-10-1 1 HS.), then the servant can be engaged.
+In case of Income Tax or other raid, 6 SL with 8-12 HS, then one of
+the employees should have given information to the authorities concerned.
+6 SL with Jupiter - Employee from Finance / Legal Dept.
+6 SL with Mars - Estate Dept. / Security staff
+production department.
+6 SL with Mercury - Accounts /Correspondence.
+6 SL with Moon, Venus - PRO / Administrative.
+6 SL with Saturn - Labour union, Audit,
+control department.
+10 SL with 2-3-6-10-1 1 HS, then good support from Employer.
+10 SL with 5-8-9-12 HS, then not advisable to join that Employer.
+6 SL with 2-3-1 1 indicates good relation.
+6 SL with 8-12 indicates bad relations.
+PET ANIMALS :
+6 SL with Earthy sign & 2-3-10-1 1 HS, then advisable to have pet
+animals & good income. If connected with 4-5-8-12 HS, creates problems.
+If 6 SL with 7-8-12 HS, Jupiter & Mars's combination, there will
+be legal problem & financial loss.
+
+For Horse racing requires 5 SL is with 2, 6, 10, 11 HS indicates
+benefits. ( Same for farmers.)
+LOANS :
+SLofthc 6-8-11 with2-3-6-ll HS,thenthe native will get the loan.
+5-8-12 HS negative for loans.
+If 3-9 HS operates, then talk between two parties only.
+8 SL with Saturn - will get loan lesser then applied for.
+8 SL with Mercury - will get loan on installments basis.
+8 SL with Jupiter - will get more loans in future also.
+8 SL with 5-8-12 HS - will not get the loan from the first source,
+has to approach another source,
+if 6 & 11 indicate positive in HC.
+Repayment of loan can be seen from 12 HS.
+12 SL.with 5-8-12 HS, then loan will be complete.
+RECOVERY :
+8 SL with Sun
+8 SL with Moon,
+Mercury or Venus
+8 SL with Mars
+8 SL with Saturn
+through influence of big person
+through compromise & peacefully.
+through threatening,
+less recovery & delayed.
+Same condition one can apply for payments with 12 SL.
+COMPETITION :
+1 SL with 6 HS & 6 SL with 1 or 1 1 HS indicates success.
+6 HS positive for competition life, business. But negative for
+marriage life, disease, family etc.
+MATERNAL UNCLE :
+6 SL with Mercury, Jupiter, Moon, Venus with 2-11 HS, shows
+good relation with maternal uncle side. If it is with 8-12 HS, indicate
+spoiled the relation.
+DISEASE :
+The combined Dasa of signifactor of 1-6 HS, gives disease to the
+native.
+
+If 6 SL with Asc. 6-8-12 HS, then during its Dasa bhukti native
+suffer from disease.
+SL of 1 & 6 HS connected with those HS, signs & planets indicate
+the type of disease the native will suffer from, For e.g. 10 HS indicates
+left side of the body - heart problem.
+If 8 or 12 SL with 1-6-8-12 HS & karaka Mars, then after long
+treatment, the native gets permanent defects. If it is also with Badhak -
+Marak Dasa bhukati, then the native will die. Mars is karaka for operation.
+6 SL with : 1 HS = headache, general weakness & Aries sign.
+PLANETS :
+Sun - Bone, heart, pitt;t, eyesight, resistance.
+Moon - Left eye, white cell, liquid in the body, chest,
+digestive system, diabetes, cancer.
+Mars - Blood, red cell, injury, habits, blood pressure, pitta,
+genetic organ, vitality, monthly period for female.
+
+Mercury
+Jupiter
+Venus
+Saturn
+Rahu/Ketu -
+Fiery Sign :
+Earthy Sign :
+Airy Sign :
+Watery Sign :
+Gas, brain, breathing, lungs, nervous system,
+skin disease.
+Blood, productivity, liver, pitta, kidney,
+indigestioft heavy meal, diabetes, cancer.
+Eyesight, habits, sanjivani, sexual, cosmic energy.
+Muscle, bone, long term disease, paralysis,
+hereditary disease.
+Rahu / Ketu's deposited sign, disease of those planets
+which are represented by Rahu / Ketu. But it indicates
+very complicated. Take more than one doctor's
+opinions before treatment.
+Inside parts of the body , energetic &
+productivity parts of body.
+Main parts of the body, heart, kidney, structure of body.
+Nervous system, organization parts ofbody.
+Blood, red cell, shortage of water, chemical in body.
+6-8-12 HS negative for health.
+Positive HS = 1-5-9 HS for Movable sign.
+1-5-11 HS for Fixed sign.
+1-5-9-11 for Common sign.
+Signifactor of positive houses will decide which type of treatment
+will be helpful.
+Signifactor
+Sun, Mars, Jupiter
+Saturn, Moon
+Venus
+Jupiter, Moon
+Mercury
+Type of Treatment
+Allopathic.
+Ayurvedic.
+Homeopathy.
+Allopathic, Naturopathy.
+Always changes treatment.
+Remedial planets should not be connected with negative HS & not
+be afflicted.
+6 SL connected with Rahu, Ketu, Uranus, Neptune then there is
+wrong diagnosis for disease.
+
+§eventh "House
+Seventh house fundamentally signifies marriage, public life, court
+matter, business partner, partnership, theft, second child.
+MARRIAGE
+7 SL with 2-5-7-1 1 HS indicates promise for marriage life.
+If 7 SLstrongly with 1-4-6-10-12 HS &barren sign. Karaka afflicted
+then not promise of marriage or no marriage.
+7 SL with 7-2-5-11 HS then its indicates very easy & early marriage.
+Thus happy married life indicates. At the same time SL of 2-5-11 HS
+also should be with positive HS.
+2 HS = Family, finance.
+5 HS = Love, issue.
+1 1 HS = Permanent friendship, fulfillment.
+When 7 SL is with 6 & 12 HS, then disturbance in marriage life.
+6 HS = Quarrel, argument, career.
+12 HS = Defect in the native himself, not interested in
+marriage life.
+If 7 SL with 4 & 10 HS.then problem will arise in married life due
+to joint family, issue or career.
+4 HS = Lack of settlement, not affection, mother, nature, home.
+10HS = Ego problems, status, mother in law, career.
+If 7 SL with 6-8-12 HS then difficulties in married life.
+If 7 SL in dual sign, dual planet or any kind of duality & with badhak
+- marak also then due to partner's death, the native re-marries, if 2 SL
+also signify 2 or 11 HS.
+If 7 SLnotwith badhak - marak, but with negative HS, duality, then
+there will be divorce & remarries. If 2 SL promises.
+
+7 SL with its badhak - marak, from 7 HS, then possibility of shod
+longevity of partner.
+7 SL with 6-10-12 HS, then divorce.
+7 SL with 4-6-10-12 HS then disturbance & Dasa with 2-5-7-11
+HS, then possibility of short separation. If Dasa strongly with 6-10-12
+HS, then possibility of long term separation.
+After divorce give advise about re-marries, after start of new
+Mahadasa or new sub period which is good signifactor for marriage.
+If after divorce balance Mahadasa period is long, then give advise
+of re-marries in that sub Dasa which is connected with 2-5-7-11 HS &
+give hint about his / her marriage life.
+For divorce Dasa period is with Mercury, Jupiter or 7 HS then case
+will enter in the court.
+When 6-10-12 HS Dasa is running, then don't give advise for
+marriage.
+5 & 7 HS is not with each other, but 5 HS is with 4-6- 12, then there
+will be break in relation.
+4-12 HS = The native himself will break relation.
+6 HS = The opponent will break relation.
+7 HS with 5 HS , but 5 HS not with 7 HS & also not with 4-6- 1 2 HS ,
+then relation will not break but can not marry to same person.
+In male chart 7 SL with Saturn, then much more age difference
+between the native & the opponent. And possibility of partner may elder
+than the native.
+7 SL with Rahu / Ketu, then the partner will come from out cast or
+some abnormal condition in partner's nature, physical structure.
+7 SL with Moon, Venus, Jupiter, Mercury, Sun then age difference
+is normal.
+Running Mahadasa of the planet must be signifactor of 2-7-11 HS.
+
+SOURCE FOR MARRIAGE :
+2 - Through family.
+3 - Neighbour, advertisement, letter, communication,
+younger brother/sister.
+3&9 - Marriage bureau, journey.
+4 - Near to house, mother.
+5 - Childhood friendship, sports, picnic, entertainment.
+6 - To avoid marriage, maternal uncle / aunt,
+through service.
+If the native is jailer or doctor then he / she may select partner from
+same profession, colleague, career.
+7 - Public life, marriage occasion, offer from opponent.
+8 - Awkward situation.
+9 - Proper planning, advertisement, senior»college mate,
+court marriage, father, guru.
+10 - Himself find out, work place, nearby work place.
+6 & 10 - Through job / business.
+11 - Friends, uncle or aunt ( Father's side ),
+elder brother / sister.
+12 - Travel, unknown person, international travel,
+hospital, jail, longjourney.
+PARTNER'S LOCATION :
+7 SL in angle house, indicates partner will be from same city or
+same location.
+7 SL with 9-12 HS, indicates partner will be from distance place or
+abroad.
+7 SL with 3 HS, indicates partner will be from near city or village.
+In male chart, 4 SL if with 4-8-12 HS, indicates partner will be
+gainfully employed. If with 3-6-1 lHs, indicates partner will be not full
+time employment. Part time employment or unemployed.
+10 SL with 10-3-5 HS & with also Mercury or Jupiter, then partner
+is educated.
+
+In male chart, 8 SL with 2-6-1 1 HS , indicates good dowry & much
+more financial support from the partner's family.
+8 SL with Jupiter or Mercury - liquid cash, shares.
+Venus or Moon - Ornaments, electronics items,
+vehicle, luxurious items.
+Saturn & Mars - Fixed assets, estate.
+In female chart, 8 HS indicates partner's family size, 8 SL with
+Jupiter, Moon, Mercury indicates large family. If with Saturn indicates
+small family & orthodox.
+8 SL also indicates the general tendency of partner's family. If 8 SL
+with 2-3-5-7-10-11 HS, indicates partner's family will be co-operative.
+If with 6-8-12 HS, indicates disturbance through in-law‘s family
+members. If with 6-8-12 HS & female planets indicate disturbance will
+be from female members. Same possibility from male planets.
+If 7 SL with 3-6-10-1 1 HS , indicates possible separation from family
+from career point of view.
+If 2 SL with 3-9 HS, indicates the partners will remain separate &
+not withjoint family.
+TO FIND OUT THE ASC. OR RP OF THE PARTNER :
+Suppose 7 SLSun deposited in Taurus sign & Sun's Starlord Moon
+is deposited Aries. '
+Now possibility of.Leo, Taurus-Libra, Cancer, Aries-Scorpio.
+In Leo
+In Taurus
+In Libra
+In Cancer
+In Aries
+In Scorpio
+Venus star.
+Sun star, Moon star, Mars star.
+Mars star.
+No star available
+Venus star.
+No star available.
+There is second way to find out the Asc . or Moon sign of the partner,
+through the Dasa. Suppose the native is having Jupiter Dasa & Moon
+sub Dasa of the signs of Jupiter, is there Moon star? No. In Moon sign, is
+
+there a Jupiter star? Yes. Partner will have Asc. or Moon in cancer sign
+as a RP & Punarvasu star. According to fruitful significator's of 2-7-1 1
+& their star & sign combinations.
+MATCHING OF HOROSCOPE :
+1) Study of individual chart :
+a) Longevity,
+b) Health (physical & mental),
+c) Promise of marriage life,
+d) Finance condition
+e) Issue
+f) Dasa.
+2) RP with rectified chart.
+3) Mangal Dosh.
+4) Position of 7 SL.
+Please refer chapter - 4 of Nakshtra Chintan - 1.
+COURT CASE
+Dasa of 7 HS signifactor or Dasa lord with 7 HS or with Mercury
+or Jupiter, then the native will have problem of court.
+4 HS indicate for house, 4-7-8 HS indicates for marriage etc.
+If 7 SL with 2-3-6-10-11 HS, indicates winning the case & with 58-9-12 HS indicate loss of case.
+IN HC :
+3 SL with 5-8-12 HS - then change the advocate.
+9 SL with 2-6-10-1 1 HS, - then opponent's advocate will help the
+native.
+10-11 SL with 2-3-6-10-11 HS, - then judgement positive forthe
+native.
+10-11 SL with 5-8-9-12 HS, - then judgement negative for the native.
+10 SL with duality - then case will transfer from one to another court.
+7 SL with 3-5-9-11 - then possibility of compromising.
+7 HS - Opponent.
+
+3HS - Native's advocate.
+9 HS - Opponent's advocate.
+10HS - Judge.
+COMPETITOR
+7 HS indicates competitor.
+7 SL with 3-6-10-11 HS, indicate the native will be successful, while
+5-8-12 indicate loss.
+Same thing for sale & purchase matter. Any matter where
+competition is involved.
+DOCTOR
+RP should be with 1 & 5 HS.
+If 7 SL dual & connect with 6-8-12 HS, then change the doctor. It
+should not be with Badhak - Marak.
+PUBLIC LIFE
+1 - Personal.
+3 & 5 - Sports, cultural activity, art.
+5&9 - Education point, religions.
+9&10 - Politics.
+7 SL combination with 5-8-12 HS will not give success.
+THEFT
+7 HS indicates the thief & 7 cusp indicates thief-related matters.
+7 SL with :
+1 HS - Native & thief know each other.
+2 HS - Thief from family members.
+3 HS - Younger brother/sister or neighbour persons,
+father-in-law.
+4 HS - Mother.
+5 HS - Children, student, finance.
+
+6 HS - Servant, maternal, uncle's side, pet animal.
+7 HS - Business or life partner, competitor.
+8 HS - In-law ‘s family members.
+9 HS - Father, guru, unknown person.
+10 HS - Person in authority, career or any govt, person,
+mother-in-law.
+11 HS - Friends, elder brother/sister.
+12 HS - Enemy, unknown person.
+7 SL with duality, then more than one person involved in matter.
+1 & 7 SL strongly connected with each other, then the native may
+be responsible.
+7 SL with 2-8-11 HS , then for taking benefit of insurance .
+7 SL with 3-6-9 HS, then thief is away from the city, & with angle
+HS then thief is in the same city.
+1 SL with 3-8-12 HS, then the person has misplaced the thing some
+where, no question of theft.
+lfAsc. SL& 11 SL are with 2, 6, J 1 HS indicates recovery.
+Theft things related with angle HS then it will get from the nearest
+place.
+If The Question Is for :
+Liquid cash or ornaments - 2 SL with 2-6-11 HS indicates
+recovery. At the same time, we have
+to see the 6 & 11 SL for recovery.
+Documents - 3SLwith6& 11 HS. If connected
+with 3-6-11 HS, then recovery possible.
+Vehicle - 4-6-11 SL with 2-6-11 HS
+recovery is possible.
+10 SL with Mars & also with 6-1 1 HS, then police will help in
+recovery.
+
+Eighth "House
+Eighth house fundamentally signifies native's longevity, insurance,
+wealth of partner, mode of death, in-hereditary property, pension,
+accidents, operation.
+Eighth HS is the most important for ENT, Eye sp., Dentist, Marine
+Engineer.
+MODE OF DEATH :
+8 SL with malefic planets, Herschel, Neptune or with Badhak -
+marak then possibility of unnatural death.
+8 SL with badhak - marak & 1 HS afflicted then the native have
+suicide tendency, but with positive 5-11 HS &duality also then the native
+will save, Second time the native will success.
+8 SL - With fiery sign - Death from fire.
+Earthy sign, Neptune, Rahu, Ketu - Death from poison.
+Airy sign, Saturn, Rahu, Mercury - Death from hanging, a high
+altitude.
+Watery sign, Moon, Venus, Neptune - Death from drowning,
+overdose of drugs.
+4&6HS
+5 HS
+HANG:
+- Sick & die at home.
+- In hospital.
+- Accidental death.
+- During journey.
+- During picnic, entertainment.
+- Protect the native ( except char lagna ).
+8 SL with badhak - marak, Saturn and Rahu, 12 HS & Jupiter, sun
+then the native will hang. ( Jupiter - law. Sun - government ).
+
+ATTACK :
+8 SL with badhak - marak. 7 & 8 SL with each other, afflicted then
+possibility of attacks. 8 SL with badhak - marak & 7 SL with 8 HS &
+positive HS of longevity also then the native will safe & other will die. A
+man who died in attacks, his & attacker RP match with badhak - marak
+of the person who died.
+ACCIDENT :
+SSL with Asc.-8-12 HS.
+Asc. SL also should be with 8 HS.
+8 SL afflicted & 3-4-9 SL also afflicted &with badhak - marak then
+possibility of accident during journey & death also. 5-11 HS connection
+save the native. ( II HS except char Asc.)
+OPERATION :
+8 SL with Asc-6-8-12 HS.
+RETIREMENT BENEFIT :
+8 SL with 2-6-11 HS, then the native will get easily. If 8-12 HS also
+connected then after some harassment, native will be benefited.
+If 8 SL Duality with 2-6-11 , than adopt Pension, otherwise PP. is
+good.
+INSURANCE :
+8 SL with 2-6-11 HS indicate benefit.
+ForShop - 10 SL with 2-6-11 HS.
+For Medical - 8 SL with 2-6-11 HS .
+For Vehicle - 4 SL with 2-6-11 HS.
+WEALTH OF PARTNER :
+8 SL if with 5-8-12 HS , then partner is a rich person. If 8 SL with 26-11 HS, then the native will be benefited from partner's wealth.
+IN-HEREDITARY PROPERTY :
+
+8 SL with 2-4-6-11 HS & with Mars or Saturn, in period of 4-8-1 1
+HS signifactor's Dasa, get fixed property.
+8 SL with except than Saturn - Mars & 4 HS if,
+Jupiter - Liquid cash.
+Mercury - Shares, bonds.
+Venus, Moon - Ornaments.
+Venus - Luxurious items, vehicles.
+Venus in fixed sign - Furniture.
+If 8 SL with duality, it indicates that the native will get part of the
+property. If with duality & connected to 3-4-10 HS, then the native will
+sell property & get money.
+8 SL with 4-12 HS, then the native will get full property, but will
+have to pay some money to get the property.
+8 SL is with 6- 1 1 HS , then the native will get the full in hereditary .
+8 SL with Mercury, Jupiter & 7 HS, then the native has to face the
+court for legal process to get the inheritance.
+8 SL with 5-8-12 HS, then no property. After going for legal process
+connection to 5-8-12 HS including 6-1 1 HS, the native may get partial
+benefit.
+
+"Ninth "House
+Ninth house fundamentally signifies religion, father, guru, long
+journey, Siddhi, higher education.
+RELIGION :
+When 1 SL with 9 HS & vice versa with karaka then the native has
+faith.
+9 SL with 4-8-12 HS - forbhakti marg.
+2- 6- 1 0 HS - for karma marg .
+3- 7-11 HS - for reading, preaching.
+1-5-9 HS - for meditation, mantra, self-development.
+1 & 9 SL with 3-7 HS, then the native demand proof about religion.
+9 SL with Saturn - The native will follow family tradition.
+Jupiter - The native will give education approach in
+religion or with religious institute.
+Jupiter, Mercury - The native will leam as well as give religious
+preacher/ lectures, pravachan.
+Venus - From charity point of view, native will play
+musical instruments for charity.
+Venus, Saturn - Will go for construction of temple, ashram etc.
+CHANGE OF RELIGION :
+Due to Rahu & afflicted Jupiter.
+GURU:
+9 SL with 5-9-10-1 1 HS & with Ketn & Jupiter.
+SANYASHI :
+A) Asc. SL with Ketu, Saturn & 9 HS indicate spiritual progress. If
+it is also with 3-9-12 HS then becomes sanyashi.
+B) Asc. SL with Ketu & 9 HS & have good combination of Mars &
+Venus, then at home the native will behave like sanyashi.
+
+CRITIC 1ZER :
+9 SL signifies 2-6-10 or 3-7-11 HS connected to Mars, Mercury &
+Herschel.
+FATHER :
+9 SL with Badhak - Marak from 9 HS indicates short longevity of
+father.
+9 SL with 8 & 12 HS indicates not much support from father. If
+connected 2-6-7-10-1 1 HS, then frill support from father for career.
+If 1 & 9 SL with 4-8 HS & afflicted Sun will spoil the relation with
+father.
+FORTUNE :
+9 SL with 1-2-3-6-10-11 HS indicates early & easy career
+development. If with 5-8-12 HS negative for fortune.
+YATRA :
+LONG JOURNEY :
+9 SL with 4-9 HS & also with Mercury, Moon & Jupiter. It indicates
+long journey for education purpose.
+5 - Entertainment.
+9 Religious purpose.
+6- 10 Service.
+7- 10 Business.
+7- 11 Venus- Marriage.
+I -• 6 - 8 Health point of view.
+8- " 12 Problems during journey..
+S1DDHI:
+II SL with 5-10-1 1 HS & Saturn, Jupiter, Ketu.
+If with 8 HS & Rahu connection for Tantrik.
+MANTRA SIDDHI :
+5 SLs with 5-10-11 HS & Saturn.
+
+Tenth "House
+Tenth house fundamentally signifies status, politics, sale property,
+karma etc.
+STATUS :
+1 & 10 SL with 1-2-3-6-7-10-11 HS & supported by Sun & Jupiter
+indicates good status.
+10 SL with 8-12 HS - then chances of raid, set back in career.
+10 SL with 5-9-12 HS - then always changes in career.
+10 SL with 5-9-12-8 HS- then dismissal from job. But if 10 SL with
+5-9-6-11 HS then suspension from job
+sometime, but will be reinstated
+with full benefits.
+If 10 SL with 6-11-10 HS & also with fixed or earthy sign & also
+with Saturn then the native will have a steady job.
+1 SL with 5-9-3 HS indicates the native not interested in any activity.
+SL of 1-11-10-6 HS strongly with 3-6-10-11 HS then the native
+will achieve success in life.
+SALE OF PROPERTY :
+10 SL with 3-5-10 HS the native will able to sell property. If 10 SL
+with 3-5-10 & 7 HS also then the native will face some litigation while
+selling property.
+10 SL with 2-6-11 HS then profit from sale of property. For
+reinvestment check 12 SL. If 12 SLis with 2-6-1 1 then benefit & with 58-12 indicates loss.
+10 SL with 8-12 HS then loss.
+If 10 SL with 6-2-1 1 HS as well as 5-8-12 HS then the native will
+invest in property or leave the property without benefit.
+
+POLITICS :
+1 SL with 3-7-10 HS Mars, Sun & Jupiter, Mercury, it indicates
+interest in politics.
+10 SL with 9-10-1 1 HS - then the native enter in the politics.
+10 SL with Sun - The native will reach higher post in
+politics e. g. Minister, CM, PM etc.
+Mars - Will reach higher position in politics
+through military / police.
+Jupiter - Through religion, law, finance etc.
+Saturn - Through trust.
+Mercury, Venus, Moon - The native will be at corporate
+level only i.e. MLA.
+If 10 SL with 5-8-12 HS then failure in politics.
+If 10 SL with 9-10-1 1 as well as 5-8-12 HS also then possibility of
+ups & downs in politics.
+CAREER :
+
+Eleventh "House
+Eleventh house fundamentally signifies success in life. Elder brother
+/ sister, friends, savings, social circle, paternal uncles.
+SUCCESS :
+I & 11 SL with each other then life will succeed & positive houses,
+then signifies success in early life.
+II SL with 4-5-8- 1 2 - HS then will not succeed in materialistic life.
+1 SL with 3-6-10 HS indicates get success through efforts.
+I SL with 5-8-12 HS & get support from 11 HS then the native
+success through wrong way.
+I I SL with 2-4-6- 1 1 HS then get support from elder brother / sister.
+If with 2-3-6-10-1 1 HS get support from friends & society. And with 58-12 not get support, loss in dealing, on wrong way through friend circle.
+IN IIC :
+1 1 HS indicates fulfillment of the desire of person or not.
+Positive HS for Career - 6-10-11 HS.
+Marriage - 2-7- 11 HS.
+Education - 4-6-9-11 HS.
+In He, 11 SL should signifies positive HS. of question related HS,
+then it indicates positive answer for He.
+RELATION WITH PUBLIC LIFE :
+If with 2 HS
+9 HS
+5 HS
+HS then public life is good.
+Through finance.
+Through religion, education & ambassador.
+Social club, trust.
+Through business, karma.
+
+FRIEND / SOCIAL CIRCLE :
+1 SL & 1 1 are connected with each other or 1 1 SL with 2-3-10-11
+HS, then good support from friends. If with 8-12 HS then loss from
+friends.
+If 1 1 SL with Mercury / J upiter & 4-9 HS , then good support from
+friends in education.
+II SL with Venus, Mars & Moon & 3-5 HS, then friend circle only
+for picnic or enjoyment.
+If 1 1 SLwith 3-7-1 1 HS then social relation with friends & with 26-10-11 HS, then get support in career.
+SAVINGS :
+2 & 11 SLwith 2-6-11 HS indicates the native have good savings.
+But if with 5-8-12 HS indicates negative result.
+
+Twelfth "House
+Twelfth house fundamentally signifies investment, abroad, prison,
+deep occultism, hospital, bhoga - yoga, blame, misfortune, defect in organ.
+INVESTMENT :
+1 2 SL with 2-6-11 HS indicates benefit, but with 5-8-12 HS indicates
+loss.
+ABROAD :
+12 HS or 12 SL with fixed sign 3-9-12 & if 4 HS afflicted, then
+permanent will stay at abroad. If with 11-3-9 HS, then return to home.
+12 HS in fixed sign, then permanent stay, cardinal sign - 1st time &
+dual sign - frequently travelling.
+12 SLis with- 7 HS
+4-9HS
+5 HS
+For marriage purpose / business.
+Educational.
+Entertainment / child.
+Career.
+Health.
+Afflicted Jupiter & 3-8-12 HS - Run away from country to protect
+himself from legal procedure.
+PRISON :
+If 12 SL with Rahu & 3-8-12 HS then possibility of prison.
+If 12 HS SL with fixed sign indicates long term & other sign for
+short term.
+If 12 SL with 7-10 HS
+2-8HS
+Indicates bail.
+For politics & business.
+For financial.
+For criminal.
+
+"Keys "For Quick "Prediction
+1 . Longevity
+2. Accident
+3. Health
+4. Missing Person
+Missing thing
+5. Financial loss
+6. Table talk
+7. Lottery
+8. News
+9. Expected News
+Badhak Maraka, K - Saturn.
+K - Mars, Saturn, Rahu-Ketu.
+K - Sun, Moon.
+C - Short period,
+F - = Long period, M - More than
+K - Jupiter.
+MH - 3, Sun, Moon, Venus, Jupiter -
+True,
+Mars - Saturn - Joke, Uncompleted,
+Mercury - False.
+
+K - Mercury.
+10. Contract
+11. Meeting
+12. Editor
+14. Agency
+15. Vehicle
+16. Property Mortgage -
+17. Education
+Scholarship
+Education In Abroad -
+18. House
+19.1ssue
+K - Mercury. Moon, MH - 11, PH - 3, 10,
+MH-3 , PH - 11, K - Mercury.
+MH - 3, PH - 1 1 . K - Mercury - Saturn.
+MH - 3, PH- 11. K-Mercury.
+K - Venus. C & M Sign.
+MH - 4, PH - 6, NH - Fixed sign.
+K - Mercury, Jupiter.
+3, 8, 12, K - Mars, Saturn.
+K - Saturn. *
+Barren Sign - 1, 3, 5, 6 sign.
+Semi barren sign - 9, 10, 11.
+Fertile sign - 4, 8, 12.
+
+28. Business
+29. Service + Business
+30. Politics
+31. Fame & Progress
+32. Ticket
+33. Advertise
+34. Abroad
+35. Jail
+36. Investment
+K-Jupiter- Mercury.
+Second Marriage - MH - 2, PH - 2, 11.
+K - Jupiter, Mars.
+Saturn, Mercury.(4-8-ll - Good for
+retail Shop, not for wholesale).
+Business loss - MH - 7, NH - 8, 12.
+Partnership -MH- 7, PH -5, 11,
+K-Sun, Mars, Jupiter & SAturn.
+K-Sun.
+MH-ll.PH-3.
+9,3- Good response.
+K - Moon, Mercury & Jupiter.

@@ -1,0 +1,2010 @@
+READABLE DATASET
+================================================================================
+Original file: 100_nadi_sutras.json
+Dataset number: 2 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 98,916 bytes
+Top-level fields: 11
+Title: 100 Nadi Sutras
+Creator: Jitender Kumar
+Date: 2018-01-03
+Description: 100 Nadi Sutras based on Bhrigu Nandi Nadi, Saptarishi Nadi and other Nadi texts. It is helpful to understand the Planetary Karkatvas and their application.
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: 100 Nadi Sutras
+  • creator: Jitender Kumar
+  • date: 2018-01-03
+  • description: 100 Nadi Sutras based on Bhrigu Nandi Nadi, Saptarishi Nadi and other Nadi texts. It is helpful to understand the Planetary Karkatvas and their application.
+  • subject:
+    1.
+      Nadi Astrology
+    2.
+      Nadi Jyotish
+    3.
+      Bhrigu Nandi Nadi
+    4.
+      100 Nadi Sutras
+    5.
+      Nadi Rules
+    6.
+      Astrological Researches Group
+    7.
+      ARG
+    8.
+      Jitender Kumar
+  • identifier: 100NadiSutras
+  • source_folder: 100NadiSutras
+  • total_pages: 74
+  • total_words: 16660
+  • text_quality:
+    • ocr_word_validity_score: 0.74
+    • quality_tier: moderate
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+100 Nadi Sutras
+Vol 2
+Astrological Researches Group
+With
+J tender Kumar
+
+TJ^n Tjsfcfaj: I
+^RfericT iRW dk 1 1
+3fTcRufti|
+flt^^TTR^: 3fiq ^Rft 3 ^Tfe> WT7T ^cTT |l "RT^t
+vrqlfelcH, HFT-1 >dt<*RU| ~ ^freR[ 3fT7 f^t 7R3RTJT, 3fJRd' 2017)” %
+Rim 3 Rr^t-v^lfk k ftsRT 3 3fcr^r ^ toR 3frc ^ft %
+vJ^ft pb^ ^ '3fFt <s|(pcl " 1 00 dl^l HFT-2 ^R^Riry ~ f^cO-^Rl^l,
+k vfLllfi'ljl'tl'-^ erf 3 ^ITcKuik aft Mtif gfrftcT [f%C#Rkl, TJoRM) %
+5rt wr-wr m fterft ^ ft wf 3k 3freftcjft % ftm t
+^>T3fTMrftfl
+3f[R^f^rRt^T
+w^wmIi
+RT^ff^r^R: "^^7 '’f^r^^- -^TTR” © ^T^ff^nR ^f^fcT I
+Mi^felft ^T ^5T ^ ift ftRTF felUcf 3Fprft % ftn ^
+U^dH^'ta^riTOcITtl
+
+H'l'il vUl'IcTO:
+yiiff wrfc ra yy yy^ ifrfera? ffeiy t ~ wf yy yyyyyyi y^ yf-f^y %
+3{q^ $*$' x&dV 'cbK'cb'ccI' to, -p 3frfe I
+ytf%y Ry yf-My 3rt w/wf 3 #r/^, Trf^T ytorcfn yfift f^ft yyy? %
+w 3 wt, cfr yf-My yyRy^/yyRy^ % ypi-y43 pter
+w ft wyT |i fy 3, A ^j-y^t yr^t, wR-y^t, y^Fcn y^t
+#yy^t yfct % yRiR y? yf-f^yty yft yy w/ yft ^ fjct % yyrf it yy^
+yyyy f^yiit yR 3-r^Q-r^f yit yyr yyt yy yyiy yy Tfr f i
+yf vmw ^rat yR fay wM fa^ ftyi i
+yfe yry% rrt yrsdfay d'ch'^M yy f, yt A yryra ^t % fary yyft f^t y^tftr ki
+y#yr, A fy w 3 y^ yfcRn y^T yR m^u i fy% yyM, yrfyyny
+y^TR^'R'^f^yr yiyy i
+f^y^TTR
+^ifa yfT^t: nadires
+Astrological Res
+[cHicb: 17 Ry<siy^oi7
+KT
+gmail.com
+roup (Face Book]
+
+wtf kr Ikry 3 yRRhfl, #fkft, %>A, yr^t 3frfe #k fkkr tknr-yRk f i wi
+ycky tknr-yRT 3frq 3 1k%£ t, kkr Trtft 3jfkr w/wr
+3ffk^diT Tfckb'dT % TTW feck'Uf yRRIT 1 1 Tytfkr-fkry 3 yT^Mlfk TT^
+*JTFft fknT?JRT3ft f\ % Trap |, f^RT^t ^ ^ f, vil^T T1RIT T^j
+WW 3 TRffkT 1 1
+oS
+F=k ItiTR-f^f ^T 3fRTR ^TcT: TTRkf-yT^t, ^-^t-^, ifkyR?t 3frfe TRf f i ifly yr^t -y^rfcr yr ^fryito t, T^fk kjt yirft,
+TRdff ^T^t 3k l^TcT: "Wt % % 3f^TR tpfelcT yT
+3fmkcT#l
+rqT vjiRI yif^q?
+1. 3RRM: Zfk t TTdp 3mM^[TTRFT
+«p
+yk 1H 3, t fktft tft ¥R Tt GRtf k feTT enft^t 3RFTRT ^T Tjm\r\ ^ eft
+Traiy ^ ?fT fi yte-w M^f farter k ttrt ift yyk ^r TRkt ti yft kt
+Mrr^fkT3fRTTm TTf -k^ ^T $vkHM fk^T TTHT Wlf^TT I k^^Ty 3RT
+k Trm tft yykr yR TRkt 1 1
+2. % feiy, ^dy> % 3{^R yytTT-fkst 3k 3RfT fkrrrf yy WeFT yRRT
+^nf^rr i yiy 3, yto- kiy 3pt klkf Tt ykyyRTrktfi
+3. ^-kft-yTTjt 3k TTyfkr kff (km fk mfly 2ft 3fR. 3ft. Tiy $*RT vjqcRT
+yRMwt)yq^kf^yyfcrti ^-kt-yrk k yky> mw % ^iwcykt 3icifd *3$ id [cty| vjiicll k ^RTk 3fcTTyT, "yyfeT 0kkiy)~Progression" 3k
+3R£3flkkiy1kTy...kt1kktlk^
+[iM^ 3{ffkft 3k kkk OMT^ITHJ ^1 3Rd| 3fiT^T| I
+4. TRdff-yT^t ^-kt- % ^TJTFT %, ^TCcTf^f- Rlk k 3RFfcT HTyf ^t
+■^WcyfkrryyTti
+5. yi^-Tqtfkr Tt fksTTdcT: y^ w Tpqyyf^ fMt~ Tl%/3k-^eIT
+3fffev3yy>ita3rRTTti
+
+6. ^Fft-Fft ^t TT^ff it "cTJT" ^fcqf^ R^cd Fift ffFI WTcTT I- 1
+^'Hcbl 3{CRT cT^ f , t^RT R- it F1F it f^'WK ^ Rif cb'HII I TO FTcT it R? TO?
+^rrgRT f^- ^ ej % f^- -w’Rcfff TTro^rffti 3#jtto?
+r 3f^ Fft wiffR Rt tor^ % fcrq rr froft % f^rnfoT % ferq 1 w
+7. 1t#dft TOT TOlcft RT ^jqTftTj XTRTRT^, utfM 3fft %. xft. R[f^ RJRf 3
+*rffaffd 1 1 fWlrfft c^HT TOTcft ft "RlfcT-Progression" RT ft TO TOR |,
+rr RRRifaR toti gft F§F-f^Rta 3 vj^rt^rfcT % gfjfr
+yf^RTT % cT^cT RRRT g5T "ft^F" f^qT RTdT f I Rft RltffF 3, Rft cRf Tiff
+Rlft^TOf^R Rldlfl
+8. fft Rif f, A ff^lT Fft-FTtffc[ cff IMt T^t dqfdTT f oqcrf^F d^% ^t
+RT ^Td f df f , Rt Flft - viqtf cF 3 ^TtTOcTf ft I
+9. Fl'fi vfqttcF % xH'f TOFtR %Rt R^ ?
+^HRT % RR f f7T f^RR |~ Flft udtffd Rt TOdF TOT ^ 3{fc TOT
+% RF ft d ft vTOTfT f^lT vjf[ RRcTT 1 1
+
+Hlil vUl'IcTO -3ft? vJ J I «t»'^ ^3 W'*^ 4*U|
+qi^qqtfkr w 3k w-ft^ % wm m tockui
+3\mu[dp "v3f^TRR / Pm" TR ?qFT 3l M
+Wi:
+• Tfrr-^t ^RT-'q^fer m 3frqkq | qrafk,
+• ^ 3k ^tS\ ^£\ ipcf : q^r % qqr^iRGfrqitoti
+qirnkf ffeicr % gr^r qqfeRT fifSr 3f£eR f^cft (p^: cw f^cft) 3k
+ycte W ^ wto Ply felted vtfHcfeltf ql"d"
+qiq/^Tk/q$fq/3{wf^ qjf qk
+sb
+• Wc^lcb W J llel d^ll (Direction & Condition): J-IHiT, dd?] (Retrograde]
+qif^R (Stationary]
+• qfcT (Speed] (£k Wf eft cJcRT A
+• 3{^T (Combust) I? qT H^l,
+• W-f^T % tt^TDT^Trine) (Tlftr/Hra) 3 vjqf^ct 3RT W,
+• fkrst (M in Opposite) ^ W,
+• k irsqq^k^ (Distance between Planets),
+. ^ % ^3fef (qTRWft cb' fM*~ Mutual Placement),
+• 3fq ^ (Jc! (in Conjunction with other Planet/s),
+• 3T^1 M'^lcl % 3\im 'H'c^cfj' W W\ 3tf?jf§d *lf§l eft fknT q?t CdTHch|\f) 3fffe |
+qfe ft** <3 Tjyui eft % fkn, 3nid Tjyui iRq tinq i
+3R, ^ qff k) Rq% -g-RT v^^Hch lfelch 3ff?®q TTk % 3R^TR m$K\ felT3{f
+3 oqqf^R wt I f^cft (qr£) % to^qui k fem "ftkFT % ^TTq 3ffrr I
+
+li-^ vjfi'd'cb % feFT cg^sr 3{^raT ^#) ^ ^ "v^fl'ci w-
+'^wlcl cfjRcfT) 3k (^t v5jk^R^)" ^5T l^ufq- ^T^TT ^nf^TT I
+3fFTTift 3f wit 3, vW ftTJ T]TT %3ft IK ^riTcF)' 3k^%Wf
+^ TftzR {ctfvre-Transit) Wt uIUmH (Progession- mfct) 3 3fT?fnm
+
+Nadi Sutras
+Some Sutras/Rules which are already shared in discussion are:
+Nadi Sutas: 1
+Fi mrl^mfintalc r»f Narli Actrnlncfv "PlamataKx/ Mutual pYrhancfa"
+Nakshatra Level. ..Planetary Exchange is effective for all Planets.
+At broad level, Sign/Nakshatra Level... Planetary Exchange can alter the
+results/ conditions ... what is shown by only Natal position of Planets in
+horoscope. In general, after Sign/Nakshatra Level Exchange, Planets being
+considered in own Signs/Nakshatras, are supposed to be benefic & strong
+(being in own Sign). For more detailed views, refer to ~ “Nadi Jyotish Vol 1
+(Eng)” or vSqtfcTC, HFT WO>'*ul' ~ ft&t 2017)".
+Nadi Astrology: "Progression Theory"
+There are some very important basic fundamentals of Nadi Astrology. The
+next Fundamental of Nadi Astrology is: "Progression". The term
+"Progression" is very common in Western Astrology. In modern Vedic
+Astrology, Progression is not dealt at big level, but in Nadi Astrology...
+Progression is a Basic fundamental. Further, “Progression Theory” is the
+supplementary/lost/forgotten part of Predictive Modern Vedic Astrology in
+practice now a day.
+Progression is very broad term and holds further sub-division. Some
+common versions are:
+
+1. Jupiter's Progression
+2. Venus’ Progression
+3. Saturn's Progression
+4. Rahu's Progression
+5. Ketu’s Progression etc.
+6. Cyclic Order Progression
+7. Moon’s Progression (As Vimshottri Dasa)
+8. Sudarshan Chakra* based Progression
+9. Gulika Progression* etc.
+Jupiter takes 12 years (approx.) to transit among 12 Signs, Saturn takes 30
+years (approx.) and Rahu takes 18 years (approx.). Sun takes 1 year among
+12 Signs. “Cyclic Order Progression” term, in general, is used for Jupiter's
+Progression. Further, there is one more division of Cyclic Progression where
+12 years duration is governed by 1 specific Planet. R?
+Further, next type Progression, which I purposed earlier is: Triple Transit (for
+Retro Planets). Members may check the concerned document in "Files" of
+"Astrological Researches" group.
+Reference: “Nadi Jyotish Vol 1 (Eng)” & 'Hl^l vjifKcN, HFT 1 (jf-sjcb *i'tcp^u|
+~ IBcfl 2017)", available in PDF format, free of cost, in our
+FaceBook Groups:
+Nadi Astrology (HI^-^IR^): Astrological Researches
+https://www.facebook.com/groups/266535793479406/
+\CvO
+Astrological Researches Group
+https://www.facebook.com/AstrologicalResearchesGroup/
+Astrological Researches: https://www.facebook.com/groups/smmmivsrk/
+a
+
+Nadi Sutas: 3
+Fundamentals of Nadi Astrology: Progression Jupiter (1)
+In Nadi Astrology, Planet's Progression is given utmost importance. Jupiter
+is one of Key Planet and its Progression is key tool to judge to events.
+Transit Jupiter takes 1 year (approx) to travel a Sign and Whole Zodiac is
+traversed in 12 Years (approx). This 12 year duration is known a "One
+Cycle". So, on an average, considering 12 yrs*10 Cycles =120 years
+human age periods ...10 Cycles can be completed by Jupiter in maximum
+(in general). Here, important point to note that... same things/events will
+not get repeated after each 12 year's Cycle. Other Planets also Progress in
+same way with different durations.
+’lanets alsi
+.NS
+Also, 1st cycle of 12 years (from Birth to age of 12 years) is ruled by Moon.
+Why Moon rules 1st cycle. Moon is Karka of:
+* Mother and
+* Nourishment
+The age period from Birth to the age of 12 years is basically governed/
+supervised by Mother and other family members. Here, native is mainly
+dependent of his/her mother for Food, Nourishment, Safety and Survival.
+So, the 1st cycle of 12 years duration is mutually ruled Jupiter (Jeeva Karka
+i.e. Life, itself) and Moon (Mother). So, Moon's condition is Vital Factor.
+Also, Moon is Key Player in Panchang . So Moon’ dependent factors:
+* Tithi, Nakshatra, Yoga, Kama and other features need a close attention.
+Nadi Sutas: 4
+Fundamentals of Nadi Astrology: Progression Jupiter (2)
+Jupiter + Moon: Ruler of 1st Cycle (1st day to 12 years duration)
+Jupiter is Jeeva (or the native himself) and Moon is his Mother. A native
+needs in childhood: Nourishment, Encouragement, Support & Protection.
+Also, this Cycle governs “Primary Teaching”. Like now a day... Schooling
+starts @ 2+ Years age onward. ...but in olden days.. .when Gurukulas were in
+practice.... Education took start at the age of 8 to 12 years onward. Further,
+
+the 12th year is important to note because... it’s the last year of the 1st
+Cycle. The 13th year onward, 2nd Cycle starts which is governed by
+Mercury (Karka of Education) up to the age of 24 years. So, 1st Cycle .
+Jupiter and Moon need close attention.
+Moon is fastest moving Planet. ...that transits all 12 Signs within 28 Days
+(approx.). Moon transits over Jupiter at least once in every month... i.e.
+Moon’s fast movement and frequent meeting with Jupiter points
+immediate caring nature of Mother i.e. other who can be more careful than
+mother for her Kids?
+Next, important is to check the condition of Natal Moon and Natal Jupiter.
+Any affliction of these two would affect the Childhood of native.
+After, judging the natal condition of Moon and Jupiter.... next is to check
+the Progression of Jupiter i.e. when Jupiter will traverse over other Natal
+Planets. Here, need to understand the difference between Progression and
+Transit.
+Nadi Sutas: 5
+Fundamentals of Nadi Astrology: Progression Jupiter (3)
+Difference between Progression and Transit of Jupiter:
+Transit is the actual movement of a Planet as seen from the Earth. In
+Transit, Planets: Mercury, Venus, Mars, Jupiter and Saturn go retrograde
+also. Because of Retrogression periods, these Planets take more time to
+transit a Sign, in Comparison of the actual time they take to transit a Sign
+in Direct Motion. For example, Jupiter in Leo, entered on 8 Aug 2015 and
+reached at the end of Leo sign on 8 Jan 2016 i.e. just within 5 months. But,
+because of Retrogression on 8 Jan 2016, Jupiter started moving back (not
+real) and will leave Leo in Aug 2016 i.e. approximate in 1 year. Same like
+this, other Planets take their own time. Sun and Moon always move direct,
+while Rahu & Ketu .... always remain retrograde.
+Note: Planet's Speed is crucial factor as per astrological point of view (not
+astronomical), which also need a close attention.
+
+On the other hand, Progression is quite different from actual Transit (or we
+can say Live Transit). Under Progression, there are different models of
+application. As per study of various Nadi Texts, I first simply consider the
+Total duration or approximate time taken by a Planet to traverse whole
+Zodiac i.e. 12 Sign, like Saturn takes 30 years, Jupiter takes 12 year, Rahu
+& Ketu take 18 years, Sun takes 1 year and so on.
+Jupiter takes 12 years to traverse though 12 Sign, here we consider 1 year
+per 1 sign. Further, with in a Sign, which compromise 30 Degrees span ....
+Jupiter takes 1 month to traverse 2 Degree 30 minutes. This way, we can
+calculate the Progression of Jupiter within Sign for Monthly basis. Further
+we can sub-divide this Progression up to Minutes or Seconds. For easy
+reference, one may incorporate D12 Chart formula.
+Starting Point of Jupiter’s Progression will be the exact Degrees at which
+Natal Jupiter is located in birth chart. This way, one may use Jupiter’s
+Progression for Each Cycle (of 12 years duration). Same method can also
+be applied for other Planet's
+Progression need close attention.
+Progression. Saturn, Rahu & Ketu’s
+Nadi Sutras: 6
+Progression: A new Sut
+lonth w
+Check events... Year/Month wise by Progressing each Planet for 1 Degree
+per year. For examp le:0
+Natal Planets A at 4 degree and B at 19 in same Sign, then Progress
+Planet "A" for 1 degree per year basis till it reaches Planet "B". Here, 19 - 4
+=15 Degree distance between Planets A and B. So, Planet "A" would take
+15 year to reach Planet "B". So, check any specific Event happened in 15th
+year? Also, if that event is related to concerned Karkas of Planets "A" &
+”B"? Further for minute calculation one may also calculate minutes and
+seconds.
+Nadi Sutras: 7
+Sun v/s Karkatva, Part: 1
+
+Sun governs Father and Progeny. In Parashari methodology, Jupiter is said
+to be the karka of Progeny. When we follow KaalPurushaKundli, the 5th
+house is occupied by Sign: Leo, which is ruled by Sun and the 9th house is
+occupied by Sign: Sagittarius, which is ruled by Jupiter. Sun has only 7th
+aspect while Jupiter has 3 aspects i.e. 5th, 7th and 9th. Also, Lagna, 5th
+house and 9th house are in Trine to each other. What a native gets from
+his father i.e. 9th house is supposed to carry forward to his Progeny.
+As per Hindu mythology, once is supposed to continue his Family Lineage
+to get free from PitruRuna (i.e. Ancestor's debt). This FamjJ\NLineage
+should be continued by means of Dharma. This term "Dharma" is justified
+by Jupiter (Devta's Guru). So, the lordship of the 9th house is attributed to
+Jupiter by means of Sagittarius Sign. Important point to note here is:
+Sagittarius is MoolTrikona Sign of Jupiter. So, the native himself is
+governed by Dharma i.e. Jupiter. Jupiter is also said to JeevaKarka (though
+Mercury and Ketu are also known as JeevaKarka as per Parashari System).
+The Purity of Soul i.e. Sun governed by
+Jupiter:
+*****Sun (Father)>Jupiter (Native)> Sun (Progeny)*****
+Any kind of affliction on Sun & Jupiter should be checked carefully to study
+the prospectus of Native's life, his Father and Progeny.
+Nadi Sutas: 8
+Sun v/s Karkatva,
+Sun governs two different Living Entities in a native's life i.e. his Father and
+Son. Itfmekns native's Father and Progeny should have a same life pattern.
+But, this is practically not seen in all case studies. One's father might be
+short lived while Progeny may have long life. So, how to understand about
+these two different roles played by same planet: Sun?
+Again, to understand this one need to follow the "Progression Theory".
+Here, one needs to Progress the "Sun" for both Father's condition as well
+Progeny's scope. With the help of Sun, one check about native's Father and
+Father related other issues also.
+
+"In case of Father, Progress the Sun: "to and fro", while for Progeny,
+Progress Sun in straight direction."
+Next, check:
+* The 2nd, 5th, 7th, 9th and 12th houses from Sun.
+* Planet in conjunction with Sun.
+One more secret:
+For Parashari method:
+* To know about Father: In naive’s horoscope . Consider/Check Sun in
+D12 Chart. (Though, this method is already revealed and discussed in our
+Astrological Researches Group by me. One may check in File section. This
+method was proposed for those natives, who do not have their own
+horoscope!)
+* To know about Progeny: In native's horoscope.... Consider/Check Sun in
+D7 Chart.
+Nadi Sutras: 9
+Sun v/s Karkatva, PartWhy Doubt and Confusion over validity of astrological rules?
+In many horoscopes, beside afflicted Sun, native are seen enjoying all
+comforts in respect of their Father and Progeny. This kind of situation
+results In doubts and confusion over validity of astrological rules.
+Astrological rules/observations quoted in standard classical texts are not
+wrong statement. Only issue is: how an astrologer applies a rule. Sun v/s
+Karkatva (Father and Progeny).. ..if Sun is seen afflicted at Primary level,
+then it’s not always necessary... Karkatva of Sun will surely get spoiled.
+Affliction cancellation some conditions can be like:
+* Sign exchange between Sun and other Planet.
+* Nakshatra Level exchange between: Sun and other Planet.
+
+* The Planet, who is afflicting Sun, might be involved with some other
+Planet in Sign/Nakshtra Exchange.
+* As per Progression Theory, benefic Planets may be supporting Sun.
+* Also, one should remember what we are seeing/ experiencing regarding
+a case study... i.e. is all shown facts should true? Many times, truth comes
+in light on later stages. Careful attention is required for IVF like case
+studies.
+Nadi Sutras: 10
+Significations of Sun: Father , Progeny , Govt.
+Dosha:
+issues and Vastu
+Sun v/s Karkatva, Part-4
+related is
+Sun governs two different Living Entities of native's life i.e. Father and Son
+and other subjects like Govt, related issues, Life Force (W|u|idfcfd) etc. In
+Vastu, Sun governs Sun-light, East Direction and considered Strong in
+South direction. oS?
+If natal Sun is afflicted, then there will be strong chances for Vastu Dosha
+related to Sun or vice-versa. Important point to note down here is:
+"There should be balance of different Vastu Elements by all means".
+Any imbalance in one element will affect other elements, though some
+time. ...there would be nothing seen in direct vision. Also, whenever we
+analyse abouWs Karkatva, it’s not necessary that concerned Karkatva will
+be fully damaged. Like, if Sun is afflicted... do not immediately predict that
+Father would be short lived. Here, one may have long live Father with good
+status. Then, in such conditions with afflicted or bad result:
+* Native may not be able to achieve that much success as achieved by his
+father.
+* Native may get failed to maintain the legacy forwarded by his father.
+* Native may suffer health issues related to organs governed by Sun or
+may have weak constitution of Sun governed body organs.
+
+* Native may face legal issues or trouble because of Govt.
+* Chances to harm reputation by enemies.
+These conditions should be judged within light of other Planets.
+Nadi Sutras: 11
+Fundamentals of Nadi Astrology: Progression of Jupiter (3)
+On name of Nadi Astrology, many things are in market. Many people have
+introduced their own versions of Nadi Astrology. So, one has to understand
+the difference between Classic Nadi Astrology and Modern Self claimed
+Nadi Astrology. There are different Schools of Classical Nadi Astrology like
+Saptarishi Nadi, Dhruva Nadi, Kumara Nadi, Bhrigu Nadi etc. Each School
+of Nadi Astrology follow their own rules like some stress on Nadiamasa,
+some on Navamsa, some on Progression etc.
+Bhrigu Nandi Nadi (BNN) by Shri R G Rao based on Progression is the basic
+& excellent Nadi Astrology, which he made available with English
+translation. Progression term is very broad term and people use it very
+commonly. As per BNN, what I understand, there are four main Planets,
+whose Progression need special attention for broad level analysis of
+horoscope, they are: Jupiter, Saturn, Rahu and Ketu. Even, without Dasa
+and Transit, one can analyse some points from a horoscope effectively with
+the help of Progression of these said planets.
+Jupiter is known as Jeeva Karka and act as the base of Life. When talk
+about Human being in astrology, then Male and Female nativity comes in
+role. Also, as per Hindu Philosophy, this present birth is resultant of Past
+Life Karmas. At base level, Jupiter governs both Male & Female being
+Jeeva Karka. Further on Gender base, Masculine characteristics are
+governed by Mars and Feminine characteristics are governed by Venus.
+So, for Male nativity, one should look on: Jupiter + Mars & for female
+nativity, one should look on: Jupiter + Venus. This point is helpful to
+understand and analyse the about Twin Birth.
+Nadi Sutras: 12
+
+How to Progress Jupiter?
+Simple approach is to look on: Natal Jupiter’s Sign and Degrees in Lagna
+Chart. Jupiterian Progression starts from the Sign, in which natal Jupiter is
+sitting in Lagna Chart and its duration is supposed to be of 12 years i.e. Per
+Cycle per 30 degree per 12 Year (or 2 V2 Degree per year).
+So, first of all, need to check the degree of natal Jupiter and check how
+much Degrees Jupiter had already transited at the time of birth. This point
+will act as the Base/Starting point of Progression. For example, natal
+Jupiter is at 5 Deg in Aries, and then 25 Deg are pending to transit after
+birth. Here, remaining 25 deg will be transited
+months (approx).
+But as per Progression, 25 Degrees will represent 10 years of future
+Progression within same Sign. After 10 years Progression, next 12 year
+cycle will start from next Sign.
+Here, Should one follow Sign based Progression or Bhava based
+Progression? This question is for members.
+rxj
+See old posts: Fundamentals of Nadi Astrology: Progression Jupiter (1) &
+Nadi Sutras: 13
+Planet in own Sign ~ Minimum changes in Life:
+A planet is considered strong and benefic in own sign & such planet, in own
+sign, in natal chart indicates strong @ its characteristic related to its
+Karktvas/Qualities. This also indicates that, in general such planets will
+give minimum changes in life because of their own strong characteristics.
+This is an important rule of Nadi Astrology and this same rule can be
+applied in parashari and other systems also. Here, rule is helpful to
+understand about nature of concerned native.
+One important point to note here: If there is any affliction on Natal Own
+Sign placed Planet, the negative influence will also result at its maximum
+adverse.
+Nadi Sutras: 14
+
+Fundamentals of Nadi Astrology: Part 4
+Jupiter with Ketu and Impatient Nature of Nature:
+This is a quote from Nadi Texts, under Translation and Research with me.
+Jupiter with Ketu makes native of impatient nature. Here, Jupiter is Jeeva
+and Ketu is Higher Knowledge. The purpose of Jeeva is to know about his
+existence in this Universe (or MahaPrukriti). Jupiter is Karka of Expansion,
+while Saturn is Karka of Limitations (Being outer most planet). To know
+about purpose of this life, Jeeva need to look beyond the Material World
+Limits. This results into Impatient Nature of Jeeva, when Jupiter makes
+contact with Ketu in Natal Chart. Whenever such native sits to study,
+always pick two or more books and always keep on s for best or
+something new! . oS
+Saturn's influence on this conjunction of Jupiter & Ketu causes more
+disturbances in material duties. Sudden Changes can be expected during
+Jupiter's transit over Ketu, Saturn's tre pect on Ketu, Jupiter's transit
+before, over & after natal Saturn.
+Some other conditions, Diseases, Curse and further impacts can be
+i e.
+Sun in the|4th or 11th house from Moon & Gains to father from his InLaws! (Only a view).
+Check this view: If natal Sun is in the 4th or the 11th house from the natal
+This is an important point which need attention as well verification on more
+charts, where native's father has been benefited because of In-Laws by this
+or that mean.
+* Sun is father.
+* Moon is Mother
+* Venus has a secret role there.
+
+Here, nature of Gain will be dependent of:
+* Moon's placement as well condition and also condition of 4th house from
+natal Moon.
+* Placement of Venus with respect to Sun.
+* Placement of Jupiter with respect to Sun.
+Nadi Sutras: 16
+Fundamentals of Nadi Astrology: Part 6
+Karka judgement is the Key Rule of Nadi Astrology. In SaptarishiNadi,
+many rules are scattered here and there. Like Sun is Karka of Father. So,
+Sun would the Planet to know about father. In SaptarishiNadi-VirgoAsc for
+Chart: 1 (Pub. GOML, Edited by Late C G Rajan):
+1. Sun is with Venus and Mercury in Aries Sign in the 8th house.
+oCr
+2. Saturn is in 2nd house from Sun, in the Gemini Sign in the 9th house.
+3. Mars and Ketu are in conjunction in Pisces Sign in 7th house.
+4. Sun is aspectrd by Jupiter in Leo Sign from the 12th house.
+Sun in its Sign of Exaltation (i.e. Aries) with two natural benefics as well
+aspected by natural benefic Jupiter. So, the father of this native with Virgo
+Asc would be educated, noble person, well known and will have all
+comforts.
+in 2nd froi
+Saturn in 2nd from Sun, so, in childhood, the native's father might had to
+struggle or to live a tough life, though such person maintain secrecy as well
+may have different temperaments inside and outside of the house. Saturn
+being Karka of hard work, Native father might work in Agriculture or some
+field where Services may be requested. But, important point to note here is
+Karka of father i.e. Sun is strong and in benefic aspects. So, native's father
+would be able to have respectable profession as good status in society, he
+would be interested in root level works.
+
+Mars, Karka of Siblings, is with Ketu. Father could have many siblings, but
+lack of benefic on Mars &Ketu (only aspect of Rahu), made doubtful for
+longevity of Siblings.
+Nadi Sutras: 17
+Fundamentals of Nadi Astrology: Part 7
+Previous life of the native !
+>tarishiNa
+Karka judgement is the Key Rule of Nadi Astrology. In SaptarishiNadi,
+many rules are scattered here and there. Some rules arelrn much coded
+form. Friends may try on this:
+How to check Previous life of the native?
+Nativity is governed by Jupiter. To check Previous’Nife of the native from
+present horoscope. Simply, shift the planet ~ Jupiter in its immediate
+previous House from its present natal position.
+Like, if one is born with Jupiter in Leo S >ig
+Virgo Asc, Chart:l, GOML, Edited by Late C G
+gn (Example from Saptarishi Nadi,
+Rajan). To check about
+previous life of the native, place Jupiter in its previous Sign i.e. Cancer Sign
+in example Chart.
+rth Din
+Cancer Sign govern&North Direction. There is needed to keep some logics
+secret to avoid misuse. Why to check previous life? It is helpful to look the
+causes of sufferings, though it’s a little tough job.
+Nadi Sutras: 18
+Fundamentals of Nadi Astrology: Part 8
+Native was an occultist in previous birth!
+Saptarishi Nadi, Virgo Asc, Chart 1 (GOML, Edited by Late C G Rajan).
+This native, in previous life, was an expert of Black Magic and was
+practicing the same to get free a person from evil spirits! Native had good
+name and fame by that profession.
+
+Here, shift Jupiter to its previous house to check for previous life. After
+shifting, Jupiter goes in Cancer Sign, Exaltation Sign for Jupiter. (See
+second chart). With this chart, past life sins and bad results coming in
+future life can be studied, but not so easy.
+Also, in present birth, native would have two wives (See first Chart).
+Nadi Sutras: 19
+Fundamentals of Nadi Astrology: Part 9
+Check for following observation (an observation only):
+Whenever in a nativity:
+
+* Saturn is with Moon or
+* Both are in Trine or
+* Moon is in any adjacent house of Saturn.
+Such native have major role of Water or Liquid in his/her Professional life.
+Nadi Sutras: 20
+Fundamentals of Nadi Astrology: Part 10
+J
+Venus: Karka of Wife, Laxmi, Money, Wealth and an Astrolo
+In Internet Yuga, everyone is free to comment/write what he wish or think
+right according to his/her perception. Some peo^ysay, astrologers have
+curse on themselves ! Some say, an astrologer should not charge fee! etc
+etc.
+c\
+As per Nadi Text’s, it’s the Venus who i
+* Wealth
+* Comforts and
+is Karka of:
+* Wife (as Female Nativit
+Jyotisha learning/practice is not a one day Job. It needs a lot of patience as
+well time to attain perfection. It involves lot of Research Work as well
+Sadhana (i.e. an Astrologer should be a Stoic ~ RjIcIR^J. He must be
+profound and skilful in Astronomy, Vedanta, Mathematics and Philosopher.
+When an astrologer is supposed to have such qualities, then it means,
+his/her family members have to give him/her more freedom for
+astrological works. Here, if astrologer marries, the Spouse has to sacrifice
+more on account of support from partner.
+So, indirectly, an Astrologer becomes indebted. Further, as per mythology,
+one should try his/her best to free from all kind of Debts.
+Sorrows cannot be shared, but Wealth cannot be enjoyed alone.
+
+If an Astrologer is not taking care of his close ones, who have/are
+supporting him/her for his astrological doings, then indirectly he/she
+accumulates Karmic Debts. So, an Astrologer must give in return respect
+his/her spouse, parents, family members and close one.
+If his wife is happy with him, goddess Laxmi will also be happy.
+If his Parents are happy with him, Sun & Moon will be favourable.
+If Co-born and friends are happy, Mars will be favourable.
+If relatives are happy, Mercury will be favourable.
+If Guru is happy, Jupiter cannot be harmful.
+If Servants are happy, Saturn will allow him all comforts.
+If Security guards, Sweepers are happy, Rahu & Ketu* will be favorable.
+So, an astrologer should try to be debt free. Also, one should check for
+Sins/Karmic debts carry forwarded from previous life.
+Nadi Sutras: 21
+Fundamentals of Nadi Astrology:
+More than one Partner in Life!
+strol
+logy: Part:
+In Parashari System, the 7th house governs 1st wife and the 9th house (or
+some people consider 2nd house) for 2nd wife.
+As per Nadi Texts, Venus is the main Karka of Wife i.e. First Wife. There are
+2 more feminine Planets:
+1. Moon and
+2. Mercury (though personally, I consider Mercury as a conditional feminine
+Planet. Also, Mercury is known as Eunuch).
+So, in total we have 3 Feminine Planets: Venus, Moon and Mercury.
+Whenever in a male horoscope, Venus is linked with other feminine
+Planet/s, and then there would chances for 2nd wife (or other woman) in
+life. Another But, important point for this is to use correct Panchanga.
+Lahiri Aynamsa based calculation are not seen correct in many cases. Sign-
+
+Exchange and Conjunction are two important conditions. Also, concerned
+nativity karka should be linked to both directly or indirectly.
+• Venus for 1st wife.
+• Mercury for 2nd Wife.
+• Moon for 3rd Wife.
+• Also, Moon and Mercury further have their own status.
+Nadi Sutras: 22
+Fundamentals of Nadi Astrology: Part: 16
+Saptarishi Nadi, Virgo Asc, Chart: 2
+(Pub. in Tamil by GOML, Edited by Late C G Rajan)
+Native will be Male. Street will be running from East to West, house will be
+South facing, born in small village in father's home.
+Native's father will have 7 Siblings. (Sun is Karka of Father, so Sun's
+Progression need to be checked here).
+Native's will have strong will and research mind, agriculture profession,
+respect by relatives and infamous in society.
+Native's father health: P " kruti, Plies and mark on Shoulder.
+Native's father will lack unity and peace with his siblings. Why?
+Look on Sun: Karka of Father. Mars is Karka of Sibling, placed in Gemini
+sign, whose Sign dispositor Mercury is with Sun. Mars is aspected by
+Saturn, where Saturn is in its debilitated Sign with Moon. Mars lack any
+benefic aspect. Sun + Mercury + Saturn + Moon are in same direction.
+Saturrfjias spoiled both Mars (by aspect) and its Aries Sign (by presence).
+So, house (Aries sign) and house-lord Mars, both, are afflicted by Malefic
+Planet - Saturn. Severe afflicted condition of “Mars” indicates lack of Unity
+and Peace with his Siblings.
+
+* Aries is Exaltation Sign of Sun, if Saturn in placed in Aries and Sun in
+Sagittarius, then it can also spoil the one karkatva of Sun!
+Nadi Sutras: 24
+Fundamental of Nadi Astrology: Part 17 (New Edition)
+A Planet can spoil at least one Karkatva . Check this point (a view)!
+Whenever a Planet (say: Planet "A”) is exalted and its own Sign is occupied
+its dreaded enemy Planet (say Planet "B"), then there will be strong
+chances that One Karkatva of Planet "A" will get spoiled.
+Like, Sun is in its Exaltation Sign: Aires and at the same time, Sun's Leo
+sign is occupied by Rahu/Saturn, then it can spoil one karkatva of Sun!
+Moon is exalted in Taurus Sign and at the same tirfie, its own Sign Cancer
+is occupied by Rahu/Saturn, then adverserS#sults related to Moon's
+Nadi Sutras: 25
+Fundamental of Nadi Astrology: Part 18
+Saturn with Moon or Moon under influence of Saturn ~ Old/Poor Lady or
+Mother's curse from ous life (Only a view):
+Saturn + Moon conjunction is known as or like Nostalgia. Moon
+is a Feminine Planet. So, in case of Saturn + Moon conjunction of Saturn's
+influence on Moon can cause [chick'll or like Nostalgia conditions as well
+native some time can experience dual nature... one side very disciplined
+and other side in secret way ~ very insecure, lethargic behaviour as
+involved/interested in wrong doings also. Some time; very sensitive; caring
+and helpful beyond the limits. But, if such person once gets angry, he does
+not care for the loss and break the relations totally. Such person deals
+more emotionally and addiction for certain things which increases
+expanses. All these conditions could be a result of Old/Poor Lady or
+Mother’s curse for this or that reason. Native has to careful with in his
+
+relationship with his/her mother, diseases related to Kidney, Urinary Tracts,
+all Glands and Lungs.
+This could affect the native both at physically as well mentally. Childhood
+i.e. up to 12 years age frequent health issues could be possible.
+The above said views are of general nature. In some cases, results may be
+less/no effective. So, for any final conclusion, along with Conjunction of
+Saturn + Moon, one should also check for following points:
+Mutual Placement (which one is ahead and applying/separating
+aspect?)
+Distance between both
+Is Saturn retrograde? If yes, applying or separating aspect?
+Sign occupied by them in Lagna Chart
+Both s placement from their own signs. This is one of the most
+important factors which need special attention.
+In case of adverse results, native has to be cautious about his/her
+behaviour/mentality.
+Nadi Sutras: 26
+has to
+Fundamentals of Nadi Astrology: Part 20
+latras
+own individual nature and
+Constellations (Nakshatras) have their
+characteristics. But these things vary according to the situation and merits
+of the Constellation Lord.
+Fundamentals of Nadi Astrology: Part 20
+Birth Nakshatra and Scope of Remedies:
+Many people wander here and there for remedies, but neglect the roots
+from where a nativity gets nourishment. The Birth Nakshatra is Roots of a
+Nativity. Which Nakshatra one should considered as Birth Nakshatra:
+1. Lagna's Nakshatra or
+
+2. Moon's Nakshatra.
+Moon's Nakshatra should be given importance in remedies 3?^
+^TRTflfcf). Lagna Nakshatra is also given conditional importance.
+Check for the Deity of Nakshatra @ Planet lordship as well Adhidevta.
+This holds the Key for remedies Ul^lflRT]. in need, one should try
+to check for possible remedies according to the Birth Nakshatra'% Planet
+lordship as well Adhidevta of that Nakshatra.
+Like Kritika Nakshatra, @ Planet lord: Sun and Adhidevta Lord: K
+Subramanyam, eldest Son of Goddess Parvati and Lord Shiva.
+eya or
+Nadi Sutras: 28
+Fundamentals of Nadi Astrology: Part 21
+Each Constellation governs a portion of Body. If a Constellation is occupied
+by Malefic (and also has enmity with Constellation Lord) . it may cause
+Varna, Surgery or Accidental injury fo the body part governed by that
+constellation.
+>verns Ge
+Like Shravana Nakshatra governs Genitals, if malefic planet likes Saturn or
+Rahu or Ketu is present in Shavana Nakshatra, can result into Wound or
+Surgery or other injury in Genitals. This type of conditions should be
+checked very cautiously because in case of benefic influence, such
+negative harms get nullified or the sufferer gets timely treatment/required
+remedial measures.
+etro Saturn indicates the Fast Execution of KarmaPhala.
+Such a person should keep trying to achieve their goal, without being idle.
+Otherwise, the time again brings those goals back to face, and then either
+they have to try again or may have to experience the feeling of lack of
+incompetency or failure.
+Nadi Sutras: 30
+
+Mesha Rashi in KaalPurushaKundli indicates the start of Life i.e. "Birth".
+When Soul (Sun — U I U|J enters into Mars (Body-^l'Tkj, Jupiter (Jeeva~4]c|J
+come into existence.. i.e.
+Trine Combination of "Aries~Leo~Sagittarius"... Dharma (Sfrf^ vjflcM
+That’s why; Sun is considered Exalted in Aries Sign (First Sign of Kaal
+Purusha Kundli)... because without Prana (WU|j in Body (SjrJtT), there is no
+existence of Jeeva
+Physical Body is governed by Mars i.e. Composed of Tamo Guna. Further,
+Sun is Soul Karka . to offer a Satvik Place/Environment to Soul i.e. inside
+the Physical Body ... Jupiter by means of Dharma (teffl)... tries on regular
+basis to cleanse the Body by means of Sanskars.
+Nadi sutras: 31
+Fundamentals of Nadi Astrology:
+* Sun ~ Rahu Conjunction/Relation in a Sign indicates special role of
+Grandfather/Grandparents;in native's life.
+* This also indicate SarpaDosha (conditional) or some activities which
+involve Sarpa (Snake) influence in life of native's Grandparents.
+* This also hints adoption like condition in lineage of native.
+* Also, hints about death of Grandfather.
+Nadi Sutras: 32
+Saturn is Action & Venus is Prosperity.
+Nadi Sutras: 33
+Fundamentals of Nadi Astrology: Part 23
+
+* Ketu ~ Termination of Karma or Obstacles
+Over which Planet, Ketu Transits, results in Termination of Karma
+(Materialistic Growth gets affected) or Obstacles for that Planet.
+Nadi Sutras: 34
+As per Nadi Sutras: 32 ..//Saturn is Action & Venus is Prosperity//. Further
+to this... Action Taken i.e. Work done is the result of Saturn, while the
+Enjoyment of Result is ascribed to Jupiter because Jupiter governs Nativity.
+Now there can be many Permutations & Combinations of according to
+Planet's Strength and Planets joining them in any mean.
+Like, a Native opened a Shop and stared doing good business for life long
+or.. .Like one day, his father asked him to hand that shop to native's
+younger brother and further asked to hinkjoin other business with him
+(father's business). So, here what happened0
+Nadi Sutras: 35
+If Jupiter is only aspected by Sat
+Such native would incur abject poverty in his childhood, but in second half,
+Nadi S
+Moon & fruit of Journeys:
+WherCalone Moon is in a Fixed Sign (I^R-Tlf^T) and also aspected by Two
+Malefic.... this will result in Futile Journeys to distant places. In last, such
+native returns to his birth place empty hands.
+Check this rule in Lagna as well "Prashna" Charts related to abroad
+travelling & share your feedback.
+
+Nadi Sutras: 37
+Saturn (Profession) + Sun (Father/Son/Govt.):
+In conjunction of Saturn + Sun; it is said; native will join Govt. Job; but this
+is not found true in many case studies.
+* Sun governs Govt./Father/Son etc.
+* Saturn governs Karmas.
+* Strong Sun indicates favour/support from Govt.
+* Strong Saturn indicates Ethics and Discipline at Work Place.
+* If Saturn is combust... lack of tuning with Father, though Father will be
+influential in native's life.
+* Native may join father or work under father's guidance.
+* Sun is behind Saturn... possibility to work with Govt.
+* Sun is ahead of Saturn... Son will join his Father's Profession or will under
+father's guidance.
+Nadi Sutras: 38 ../s
+Mars+Sun ~ close conjunction: Do or Die mentality!
+When Mars s is closely combust as well no other influence...
+Such Native/Father/Brother may be Straight-Forward in nature, Arrogant or
+may also develop a "Do or Die Mentality". Share your feedback.
+1 * TheBhavas,
+2 * TheBhava Lord,
+3 * The Signs,
+4 * The Sign Lord &
+
+5 * The Ascendant
+6* TheKarka (Significator) are Key Tools in Parashari System, but in Nadi
+Astrology, 1, 2 & 5 points are not given importance, while 3 & 4 points are
+given minimum importance. Only the Karkas (Significators) are given
+utmost importance. Only Karkas are considered in the Driver’s seat.
+Nadi Sutras: 40
+RsRT + ^ = ^M^l'cb'R'cb' !!
+With Reference to my Post dated 20 May, 2017
+TR dp] cbRcb TTFTT vjlldl 1 1 d<J-ll ~dp\ 3RT Tfft ^ *jfcT TR :f^lfcT cf f\
+TOR nHlf^cT t, IR m f^^RTOKt:
+^r^TRT 3fR: ^YrT ^ % I ^F^RTf ^TTlTr^TeT:
+, ^RT RRW oMc^'lftcb 3^ ^cf ft} ift
+WRR cRKff | , 1 qft-UHR RRR TR ffecT RT ^
+RMt 3{ft RRRTRJRR ^fcT ftdT | ,
+^R 3 MlRci dTLR ^Rf 1 1
+Rrf v3ffte 3^ 3fFT^ft RRRRTRcfttl///
+WftcRI f^rfrcT qfroiTR 1%R f^R yRR eft wf^Mf (RRJRRRip^
+f^rfcT) if ft tlchcl f ?
+Nadi Sutras: 41
+
+Fundamentals of Nadi Astrology: Part 24
+Mercury as: Male or Female ~ When?
+Mercury is known as Eunuch Planet or in better sense... Mercury should be
+considered as "Hermaphrodite (f^RlJl)".
+Mercury without Sun (i.e. out of Combust Range/Degrees) acts as female!
+Mercury is has a specialty that:
+The angle of the maximum elongation (east or west) for Mercury is
+between 18° and 28°. Within range of 14 Degrees with resppcljo Sun is
+considered as Combust.
+Nadi Sutras: 42
+Explore this Sutra From Chandra Kala Nadi
+F^d' u ^-rf^r
+Means:
+Check the Navamsa Sign occupied by the 8th Lord. When Saturn Transits
+in the "Sign"; identical with Navamsa Sign (or its Trine Signs) occupied by
+the 8th lord... Grandfather's death or sudden damage or distress; a disaster
+may possible.
+Spouse’ Health!
+Check Saturn Transit in Navasma Sign (or its Trine) occupied by Natal
+Venus may indicate Physical Sickness or Evils to Spouse or In-Laws.
+Nadi Sutras: 44
+Walking Slowly in Childhood!
+
+If Venus is aspected by Saturn in Natal Chart & also Venus is placed in
+Navamsa of Saturn.... such native walk slowly in childhood days!
+Also check the Walking Style in Young age to confirm the applicability of
+Rule.
+Nadi Sutras: 45
+Family Circle & Status:
+There are mainly four Planets who govern "Family Circle & Status",
+and concerned Family members are as Follows:
+1. Rahu ~ Paternal Grandfather
+2. Sun ~ Father/Son NrS?
+3. Ketu ~ Maternal Grandfather
+4. Jupiter ~ Native (Himself)
+Nadi Sutras: 46
+Natal Mars in eunuch Plahet^igns:
+Saturn & Mercury are known as Eunuch Planets. Though Mercury governs
+Childhood or young age and Saturn governs old age.
+* Mars in Gemini/Mercury Sign indicates good writing skills like Heroic
+poet (cfk ^ 35T chfc]J !
+* Mars in Capricorn Sign indicates good management/leadership qualities
+at back end (Good at war-room strategies planning ~ War Room Strategist
+cf>$r ^uivflf^cbj]!
+Nadi Sutras: 47
+Venus (Wealth/Wife/Elder Daughter/ Elder Sister)) + Ketu:
+Indicates of:
+
+* Suffering because of Quarrel/Dispute in domestic life!
+* Interest in Spiritualism!
+* More Expenses/Losses!
+* Independent Nature.
+Also check above rule for, if there is no other Planet in between Venus and
+Ketu like condition.
+Nadi Sutras: 48
+For Researchers!
+* Movable Signs: Rajsik Nature (Active, Agitated)
+* Fixed Signs: Tamsik Nature (Inactive, Stubborn, Self centred)
+* Dual Signs: Satvik Nature (Introverted, Intellectually inclined).
+n + Saturn
+Mercury + Ketu &
+Nadi Sutras: 49
+Three Goddesses~
+* Parvati ~ Moon
+* Sarswati ~
+* Laxmi ~ Venus Mercury
+According to Natal Planetary combination/s one chose to worship as Ishta
+De\H\
+vn
+J
+Education as well Professional field along with monetary benefits can be
+checked from above said views.
+Nadi Sutras: 50
+Ketu ~ The Independance Karka !
+* Ketu symbolise Flag.
+
+Flag is Authority, Independence, Presence, Height, Growth etc.
+* Ketu symbolise Freedom as well Patriotism.
+* Ketu symbolise Independent Nature at Work Place.
+* Ketu symbolise Spiritual Growth (Free from temptation)
+Views: When Rahu's Head was cut by Lord Vishnu, Head remained by Sky,
+but Body fell down on feet of Lord Vishnu!
+Who has surrendered to God... What kind of fear ... he/she will hav<
+Nadi Sutras: 51
+Check: Wife's Nature
+Venus + Sun ~ Talented Wife
+Venus + Moon ~ Beautiful Lovely Wife
+Venus + Mars ~ Learned Wife with Good sense of humour
+Venus + Mercury ~ a Caring
+Venus + Guru ~ Wife... a Well-wisher
+Te wun uoo
+Venus + Saturn ~ a Hardworking/Professional Wife
+Venus + Rahu ~ Wife of luxurious Nature/Desires
+Venus + Ketu ~ Wife.... interested in Spirituality!
+Check: Vends + Ketu ~ Venus in Ketu's Nakshatra or Ketu ahead or Venus
+in same in same Sign or in next Sign...
+* can affect the Marital Happiness.
+* Possibility for early age whitening of hairs.
+* Cheating in relationship.
+* Skin allergy
+* Fiery incident
+
+* Mischievous acts
+Nadi sutras: 52
+viftcR TT^fTfnjqT:
+% 3f^K vjfld RxHT % TR
+2. -cicK^n
+5. ^Tef^%WTI
+vJ'm^cri f^er cjW 3 -q^r ^ Fm cf5^n
+PWITFnwt:-
+^.^TO~3f«qiR^3fk3{?
+R.ft^-'dTfurrfe
+3. cfaq^f ~ ^T3jt% lift'd ^'cl'H 3f|ft
+x. ~ ^felt^^4 cT^n
+K. 3ff^TW ~ 3ffcrf^r 3k 3RT v3f«TFlcfr ^T WTcT-*fccb R cf>\HT I
+Nadi Sutras: 53
+Change in Century (^Icllocflj (article dated: 4 June 2015)
+"Moon & Water's Commercial and Strategic Importance"
+This present Century 2000+ has first number 2, while 1900+ had first
+number 1. Number 1 is a masculine nature (Sun) while 2 is of feminine
+nature (Moon). Moon will be the ruler of Century 2000+. So, there Moon
+
+will be more prominent during Century 2000+. The things related to Moon
+will be more active. Feminine forces will be more active. Moon's basic
+character is as "Receptor" and further acts as "Converter/Modifier" and
+also acts as "Reflector".
+Sun is the ultimate source of Energy which governs our Solar System. Sun
+act as "Active Source of Energy", while Moon act as "Passive Source of
+Energy".
+During Century 2000+.... Moon as Karka of "Water i.e. Sea, Rai
+Specially Drinking Water" will have a special say.
+Like
+agenda of this present
+attention on this matter.
+RainpRiver,
+in India, Cleaning of Holy River Ganga has become a prominent
+has given personal
+Govt. PM Narender Modi
+Also, Sea/River/Water will have a special ^ay on general public's life.
+Though Sea and River were also effective mode of transportation in past
+Centuries but in Present Century, at Global level. ..Sea/River/Drinking water
+will be "Key Point" @ Commercial and Strategic Level. Sea/River related
+disasters like Sunami/Flood/Drought may affect human life.
+Those Countries which would be able to Explore, Protect and Manage their
+Water Resources in all means very effectively . will be the next Super
+Powers of this Century.
+Naval Forces will be more prominent during this Century. So, at strategic
+level, Countries with advanced Naval Capabilities will be prominent.
+Exploration of Minerals and Nutrients under Sea will be next level of
+Commercial Exploitation.
+adiS^
+Nadi Sutras: 54
+Fundamentals of Nadi astrology: Part 10*
+How to proceed when Saturn is conjoined or in trine or in adjacent to more
+than one planet?... Question by a group member:
+"Progression" is the ultimate method/reply for above question. Progression
+can followed in following ways:
+1. As per Transit (Degreewise) &
+
+2. As per Cyclic Order Progression.
+* Transit means simply the current position of a Planet i.e. Time wise (Date
+& Hours) & Degree wise (Sign/Nakshatra/Bhava) or we can say time taken
+to transit a Sign. Here, Retrogression needs special attention.
+* Cyclic Order Progression means the total time/year taken a Planet to
+transit whole Zodiac, like Jupiter's Cyclic Progression is of 12 years;
+Saturn's Cyclic Progression is 30 years. From the Natal Position, like Jupiter
+is moved 1 Year/Each Sign, further one check Sudarshan Chakra Dasa
+method shared by me in Astrological Researches Group.
+There is one more method for Cyclic Progression, w1 h cycle of 12
+years duration from birth is governed by a specific PI;
+Further, Psynodic Cyclic movement one can consider.
+"Planets in Trine" are considered in "Same Direction" (except a retro
+Planet). Planet/s in opposite house (i.e. in 7th house).... directly influence
+the results of concerned Planet. Planet/s in Adjacent houses also affect by
+means of Shubh Kartri or Paap Kartri means.
+Planets within same Sign/Bhava should be checked/ analysed by their
+Degreewise Placement. You may check my article on "Triple Transit of
+Saturn". If anyone wishes more discussion on same can talk over phone.
+Nadi Sutras: 55 Kfo
+The Path of Life & Ketu!
+Dharma, Artha, Kama and Moksha ~ are the four limbs of Human Life
+which define the Way of Living. In Nadi Jyotisha, Signs are also categorized
+to understand the "Way of Living by means of Dharma, Artha, Kama and
+Moksha, which follows as:
+1. Dharma: Aries, Leo & Sagittarius (Fiery Nature Signs)
+2. Artha: Taurus, Virgo & Capricorn (Earthy Nature Signs)
+3. Kama: Gemini, Libra and Aquarius (Airy Nature Signs) &
+4. Moksha: Cancer, Scorpio & Pisces (Watery Nature Sign).
+
+Now check, in which Sign ~ Natal Ketu is present in Lagna Chart. According
+to sign occupied by natal Ketu; check for the "Way of Living by means of
+Dharma, Artha, Kama and Moksha. Further check, towards which sign/s,
+Ketu will progress during its upcoming Progression Cycles.
+For example: 1 ~ Natal Ketu in Aries Sign. Aries is Dharma (Duty), Movable
+& Fiery Nature Sign. Such person would of obedient nature but of Fiery
+Nature (cN Intellectual but Open hearted Rd dlcllj, Extra
+Cautious & Religious etc. The Path of Life & Action would be according to
+Dharma. There would be possibility of little modifications in Action,
+For examples: 2 ~ Ketu in Libra Sign. Libra is Kama Rashi, Movable and
+Airy Sign. Now, Ketu itself is Moksha Karka but present in Kama Bhava. So,
+Kama (or Beauty) may be Key-Area in such case. CO
+according to other Planet/s which influence/aspect Ketu.
+Note:
+1. Jupiter governs Male Nativity (Jeeva) & Venus govern Female Nativity.
+Jupiter/Venus will look on Ketu to know about the Path of Journey of Life!
+2. Though, Saturn is Profession fak^but @Subtle Level, it’s the Ketu +
+Jupiter who influence the Saturn/Karmas.
+3. Ketu means Termination, of Karma i.e. No Karma Dosha/Bandhan. So,
+it’s Ketu... who Keeps watch on Jeeva (Jupiter/Venus) and Profession
+(Saturn).
+Nadi S
+No or less or Weak planets in own signs: Frequent changes in Life
+This rule is opposite of earlier said Nadi Sutras: 13. As per this rule, in natal
+chart, if there are less or no or weak planets in own Signs, this results into
+frequent & sudden changes or up & down in life. This may results into
+frequent transfer in job, issues in life etc.
+Nadi Sutras: 57
+Mars + Venus Conjunction v/s Venus + Mars Conjunction!
+
+Regarding fundamentals of Nadi Jyotisha, one can watch Video lectures
+and can read Nadi Jyotish Vol 1 PDF Book.
+Conjunction of Mars + Venus, in general, is known as Active Sex Yoga. But,
+it's only one aspect of this Conjunction which if wrongly interpreted can
+mislead and the spoil the nectar of Jyotisha. Other aspects are:
+1. Mars & Venus ~ Where Venus governs Property/House while Mars
+governs Land. Venus is Karka of Wife as well Wealth. In general, it’s the
+Wife who manages the House and for this she needs money! A House
+(Venus) is built on Land (Mars). One may ask the question... What to
+consider for Floating Houses (On Water or in Air)!
+2. Mars and Venus are Samsaptaka (1-7) or we can say Oppc ►site to each
+other as per Kaal Purusha Kundli. Further, Mars is Deva Graha (though
+Krura Prakruti) and Venus belongs to Asuras (Guru of Asuras). This can also
+result into different nature of husband and wife under affliction of Krura
+Grahas!
+3. Mars + Venus ~ Mars is following Venus i.e. Mars is following Wealth!
+This could result in Miser personality of Native
+4. Mars + Venus ~ Beautiful House.
+5. Venus + Mars ~ Venus is following Mars i.e. Wealth is following Mars.
+This could result into Extravagant Nature (3^l|ol|41j of the native.
+6. Venus + Mars ~ Beautiful House and Well dress sense (Well Interior and
+lavishly exper~~
+Note:
+inses).
+(a). Strength and other Planet/s in conjunction, if present there to judge
+the further modification in traits of Venus & Mars.
+(b). The difference in qualities of the Conjunctions: Mars + Venus (<T>vj[^J
+v/s Venus + Mars (3iqoq41j further holds a Key, which will be shared during
+discussion in Class.
+7. At Progeny Level, Mars is male child, while Venus is female Child. Mars
+is unconditional Male while Venus is unconditional Female. Here, only need
+to check for severe affliction (by Enemy/Obstacle creator Planet).
+
+Nadi Sutras: 59
+Moon ~ Mood & Facial Expression
+Moon is the Karka of TR & Mood. It's the Mood which gets influenced very
+soon as an event happens. Face is the Mirror of Emotions & Mood! As
+Mood swings, Facial Expression also Changes and this way the
+Feelings/Emotions can easily checked from Facial Expression of a Native.
+In some cases, Facial Expression can also Fake or Managed to hide the
+Emotions or Feelings. This involves influence of ott ; on Moon.
+Nadi Sutras: 60 v C> J
+VnO
+Today everyone wants to know & understand about the methodology of
+Nadi Astrology ~ How to check for Professional Life?
+In Nadi Astrok " y "important factors which need
+attention follow
+1. The Native ~
+nativity ~ Venus).
+nativity ~ Jupiter & for female
+2. Profession i.e. Karmas ~ Saturn.
+3. Life Track ~ Spiritual or Materialistic or Mix ~ Influence of Rahu
+(Materialistic) & Ketu (Spiritual).
+* The Sign Nature ~ Movable, Fix or Dual:
+Check the Sign nature for Jupiter & Saturn to understand about Approach
+and Way of dealing in Personal & Professional Life.
+* The Sign Direction ~ East, South, West & North:
+Check the Sign - Direction for Jupiter & Saturn to understand about
+Geographical Directions as per Sign to check possible suitable area/city
+etc.
+
+* The Four Disciplines ~ Duty/Religion, Wealth, Sexual pleasures &
+Salvation ~ 3{?f, cb|L| TTl^Q. These are also checked
+according to Signs like:
+1. Aries, Leo & Sagittarius are Eastern Signs and related to Duty/Region.
+2. Taurus, Virgo & Capricorn are Southern Signs and are related to Wealth.
+3. Gemini, Libra & Aquarius are Western Signs and are related to Sexual
+pleasures.
+4. Cancer, Scorpio & Pisces are Northern Signs and are related to
+Salvation. . . _
+After above said 3 Points (Sign Nature, Direction & for Disciplines, next
+come: no
+1. Retrogression &
+2. Sign Exchange are two important factors which need attention.
+3. Mutual Placement. c2?
+Now, check each Planet's Primary Conditions according to above said
+parameters.
+Nadi Sutras: 61
+Family Lineages governed by Rahu & Ketu:
+Rahu governs own Family Lineage, whereas Ketu governs Opposite side
+Relative’s Family Lineage!
+Among NavaGrahas, Rahu & Ketu are the only two Planets (Two
+Geometrical Points) who always transit opposite to each other at a
+constant Speed! As per Hindu Mythology, Lord Vishnu cut off head of Asura
+Rahu with his weapon Sudarshan Chakra, but because of drinking Amrita..
+Rahu’s body remained alive, but in two parts as:
+1. Head &
+2. Body (SJ1T).
+
+These two parts of Rahu later on awarded Graha Pada by Lord Brahma and
+this way, Head is known as Rahu Graha & Body (2J1T) is known as Ketu.
+This way, Rahu & Ketu always transit opposite of each other where in Kaal
+Purusha Kundli, Rahu is supposed to reside in Asc (as Asc governs Head of
+Kaal Purusha) and Ketu resides in opposite house i.e. the 7th House.
+Rahu governs own Family Lineage ~ Grandfather, Great grandfather and
+Forefathers (Pitrus), where as Ketu governs Opposite side Relative’s Family
+Lineage like:
+• Mother’s side ~ Maternal Grandfather & Great grandfather.
+• Spouse’ side ~ Own Father-in-Law & Great grandfath
+• In-laws of other members of own Family (like Father’s Sister’s in-laws,
+own Sister’s in-laws, Brother’s in-laws & Daughter’s in-laws etc.).
+Note: Immediate relatives/relations are governed^ by other planets like
+Father& Father-in-law by Sun, Brother-in-law by Saturn/Mars etc.
+Nadi Sutras: 62 (1) ©
+Most Effective time period of: A!
+This question can have many replies. In first look, I always focus of each
+individual Planet's Natal Placement in Horoscope.
+There:
+~ a PlanetjeCn be in - Own Sign/ Its Exaltation Sign/ Friendly Sign/ Enemy
+Sign or Neutral!
+~ a Planet can Direct/ Retrograde/Stationary or
+~ a Planet can involved in Sign-Exchange in with other Planet
+Note: Above are general views and conditions. Rest, other conditions can
+also be assumed by readers.
+Regarding first point //~ a Planet can be in - Own Sign/ Its Exaltation Sign/
+Friendly Sign/ Enemy Sign or Neutral!// . """Always results its maximum
+
+at the time of Birth and during First Cycle of its Progression* by means of
+concerned Karkatvas/Significations!"’"'
+This can be a good Nadi Sutra for Researches! Regarding "Progression
+Theory*", one can read my book: "Nadi Jyotisha Vol 1", available in PDF
+format free cost on FB.
+Nadi Sutras: 62 (2) ©
+Most Effective time period of: A Planet?
+This question can have many replies. In first look, I a
+individual Planet's Natal Placement in Horoscope.
+of each
+//~ a Planet can be in - Own Sign/ Its Exaltation Sign/ Friendly Sign/
+Enemy Sign or Neutral!// . """Always results its maximum at the time of
+Birth and during First Cycle of its Progression* by means of concerned
+Karkatvas/Significations!"""
+of Pro
+Why at birth time and during First Cycle of Progression? The moment when
+a native is born, his/her horoscope will point some specific Planetary
+Conditions... where Planets at level Individual as well Jointly would be
+representing the condition of Family members, Relatives, Wealth etc. One
+may have mother & fathej\both and Grandparents, may have elder
+siblings, may have property etc etc. Like:
+Sun ~ Father and Royal Favour, Bones & Right Eye.
+Moon ~ Mother, Nourishment, Balaarishta, Left Eye, Suspected for ColdCough and Stomach related health issues, Water resources, Helping
+persons at the time of delivery (birth time).
+Mercury ~ Lands, Relatives
+Mars ~ Property, Father's younger brother and other relatives,
+Venus ~ Wealth
+Saturn ~ Facilities/Poverty
+Rahu ~ Helping persons present at the time of delivery (birth time), Role of
+Paternal Grand Parents.
+
+Ketu ~ Rituals performed at the time of birth and after birth, Role of
+Maternal Grand Parents.
+Though, initially it may tough to relate all above said points with the native,
+but studies of many Horoscopes would be helpful to understand the
+Horoscopes in better way.
+Regarding "Progression Theory*", one can read my book: "Nadi Jyotisha
+Vol 1", available in PDF format free cost on FB.
+Nadi Sutras: 63
+Sun + Rahu: Problem & Cure for Teeth
+If natal Sun is afflicted or weak, whenever Rahu transits over natal Sun,
+causes issues with Teeth. Rahu tries to hurt Sun at its maximum like dead
+Teeth etc. \
+Also, If there is natural benefic (Jupiter or Venus) with Sun (along with Sun
+in conjunction/trine of Rahu), native may have interest/work/link in
+Dentistry. Native may be a Dentist also.
+Note: This is a general observation. Here, House/Sign will also have a say.
+Sun + Rahu also points for Grandfather, Father and Son related special
+issues.
+Nadi Sutras: 64
+A
+sSS
+Who loves Gold ~ Sun, Venus or Jupiter? Think & Comment!
+In my view, concerned Karkatva should be given more weightage. In case
+of Jupiter, its Color and Purity! In case of Sun, it’s "Price", easy to maintain
+and transfer along with Royal and other importance also. For Venus, it’s
+purely Wealth and Ornamental purpose. Like Female prefer more Gold
+accumulation as Wealth (also financial security) and Ornamental purpose.
+Though, in modern time, other medium has also emerged but still Gold is
+Gold.
+
+WOT ~ vjficH 3 M^IT'fl I
+^f w ^ to/^ ^t wcf tjht ^Tdi 1 1
+3 . ^+ to } ~ vm ttt trier ^t ~apKZp 3k ^#r w ww tfl'di 1 1
+^.^ + Tte}~^^^c™3keT^-frrr^TI
+Nadi Sutras: 66
+A friend in need is a friend indeed!
+A student asked ~ How to analyse astrologically about a True Friend? Who
+is True Friend? r>0
+A friend , who helps out us when we are in trouble, is a true friend.
+As per Nadi Jyotisha, Mercury is Karka of "Friendship" as well of "Lover
+(both- Male & Female)". rv\
+Further, Male Nativity is governed by Jupiter & Female Nativity is governed
+by Venus. So, the following combinations are possible as per Gender:
+* Male Native - Himself (Jupiter) + Friend (Mercury) i.e. Jupiter + Mercury.
+* Female Native - Herself (Venus) + Friend (Mercury) i.e. Venus + Mercury.
+Lover is governed by Mercury. So, if Love-Relationship (Mercury) gets
+materialized into Marriage (Venus).... Mercury transforms into Venus/Mars!
+For Male Native: Jupiter + Mercury + Venus.
+For Female Native: Venus + Mercury + Mars.
+Here, we know Mars have enmity with Mercury! So, Jupiter comes here as
+rescuer!
+
+Nadi Sutras: 67
+How to judge future of Friendship?
+First of all, one need to check his/her own condition according to governing
+Planet i.e. Jupiter or Venus. Check if Jupiter or Venus (according to Nativity
+Gender) is under affliction of Malefic/s? Further, check for other Nadi Rules
+i.e.:
+1. Sign Exchange
+2. Mutual Placement of concerned Planets
+3. Progression of Planets etc.
+1. Saturn ~ Platonic type attitude as well insecure ffature in relationship,
+Introvert
+yoO
+2. Sun ~ Aggressive, much talkative as well scepticism.
+3. Moon ~ according to Waxing or Waning and affliction. Further, Insecure
+to Psycho or humorous and jolly nature (JchlcJl 3{ft Wc^fclj etc.
+Who will face defame even after doing well for Friends?... will be discussed
+in next article.
+Nadi Sutras: 68
+Rahu and Tobac
+and Sun (I
+Rahu is Mouth and Sun (I consider as Teeth Karka also)... When one chew
+Tobacco/Paan Masala/Gutkha etc or Smoke or use too much of Beverages
+(like Beer etc).... will not only spoil Sun (Teeth), but also spoils Moon &
+Mars along with Mercury + Venus (Tongue). So, People having Sun + Rahu
+must avoid chewing Tobacco/Paan Masala/Gutkha etc.
+Excess use of Rahu's Karka products (Tobacco/Paan Masala/Gutkha etc.)
+in longer run... can totally spoil Jupiter-Jeeva Karka by means of diseases
+like Cancer or similar.
+Nadi Sutras: 69
+
+Moon v/s Mercury v/s Neptune:
+Moon is Karka of Mind (HHJ. Any affliction on Moon can affect badly at
+mental level.
+Mercury is the Karka of Intellectuality.
+o
+Neptune is Karka of Emotions
+Moon <{Mercury+Neptune}>
+Though, in general, Mind, Intellectuality and Emotions are termed as same,
+but it’s the Mind- where Intellectuality and Emotions grow and
+experienced. In other words- Mercurian Intellectual ability and Neptunian
+Emotions get nourishment from Milky Ocean of Moon,
+Moon- itself is full of Joy, Mercury- itself wanE tq^Enjoy, but it’s the
+Neptune who is Hypersensitive and some time caiH overrule both Moon &
+Mercury! Neptunian afflictions can cause strange dislikes of specific
+conditions and circumstances that quite unobjectionable to the majority.
+Further, source of Sensitivity and its nature need attention. Moon - the
+Karka of Mind.... if get strongly stirred by Saturn.... then Neptunian
+Hypersensitivity become active... which in result produces much
+unhappiness, if it is excessive... difficult to get cured.
+Nadi Sutras: 70
+Why we worship Rivers?
+As per Nadi Astrology:
+* Moon + Rahu conjunction governs Sea and
+* Moon + Ketu conjunction govern River.
+Ketu is Mosha Karka, that why most of the Holy Places, Temples and
+Titrthas are situated on the banks of Holy Rivers.
+People visit these Holy Places, Temples and Titrthas situated on the banks
+of Holy Rivers take Holy bath during Auspicious Muhurtas/Parvs etc.
+River Ganga, as per Shastras, is known as Salvation Karka
+
+Nadi Sutras: 71
+A new approach:
+From Aries to Pisces, the 12 Signs are, grouped into 3 Categories:
+1. Aries to Cancer {Mars* + Venus + Mercury + Moon} ~ Worldly Desires
+and Attachments.
+2. Leo to Scorpio {Sun + Mercury + Venus + Mars} ~ Sel\cbntrol +
+Education/Intelligence + Sensual Pleasure + Purusha
+3. Sagittarius to Pisces {Jup + Sat + Sat + Jup} ~ Dharma (Fortune) +
+Karma (Efforts).
+Material D
+Venus - Sensual, Prakriti, Pleasure and Wealth
+Mercury - Education, Intelligence
+*Where:
+Mars - Tamsik, Purusha-Basic instinct and
+Desires
+vf W
+Moon - Attachment & Enjoym
+Sun - Satvik and Social Activities and Passion
+Jupiter -Satvik, Dh
+Saturn - Karma
+Rahu - Ma iterialism /Illusion
+Ketu - Moksha/Salvation.
+If we look in 1st Category: from Aries to Cancer, this indicates more
+interest in Material World like Mars - Sexual Energy, Venus - Sensual
+Pleasure, Mercury is Education and Intelligence and Moon- attachment. In
+this category, more like animal-instinct ^FdJ.
+In 2nd Category: from Leo to Scorpio, indicates for Self Control and more
+understanding towards Materialism & Non-materialism. In this category
+more self control (^fRfT -
+
+In 3rd Category, only Dharma & Karma Karkas - Jupiter & Saturn are
+present which means Dharma is there to guide the Karmas on the path of
+Salvation. In this category, there is big role of God’s-Blessings cbMIJ.
+3mZTTf^raKTT3ft?W:
+^ (Sf^cT), ‘WftcT
+3. TO + ^?cn, #TOTC Vitold
+H- ^ 3k ftfH, dH
+"1, WTTFf^'^r
+19.^ + %^: ^-^TdT vj'MTW, facpfrd-SJif [ctd 3 WT-'tftfecT
+^TT^^p: lS>3
+^iPl + W:
+^1'M'w^vT wf ^r~ (^r, c^t, tft, mm
+dH^f (ifc, Weft WRW], ^ff^T-W, W
+Nadi Sutras: 74
+Meena Nadi: Nature of Planets & The cause of different results in
+Navamsha:
+There are nine Planets, each having different nature, qualities, features etc.
+The nature of a Planet by means of Prakruti holds key about their results:
+
+• Satvik Prukruti
+• Rajsik Prukruti&
+• Tamsik Prakruti
+The nature wise categorization of Planets as follows:
+• Satvik Planets: Mercury & Jupiter
+• Raksik Planets: Sun, Moon and Venus
+• Tamsik Planets: Mars, Saturn, Rahu & Ketu.
+esults wh
+Important points to note here are: Satvik Planets give good results when
+they remain pure and unalloyed in their Satvik natur. Same rule applies to
+Rajsik and Tamsik nature Planets. It is not harmful if a Satvik gets Rajesik
+atmosphere and Rajsik Planet gets Satvik atmosphere, but they should not
+acquire the Tamsik atmosphere. And, a Tamsik Planet should not acquire
+the Rajsik or Satvik nature/atmosphere else extremely bad results are
+possible.
+Nakshatras are also categorized as per their lord’s nature like Jupiter and
+Mercury owned Nakshatras are of Satvik nature.
+Next important point to understand here is: How a Satvik Planet can
+behave differently in same Navamsa Sign? Navamsa means 9th part of a
+Sign where each Sign is divided into 9 equal parts. These 9 parts are also
+further allotted Planet/Sign lordship at “Sub-Level”. Like, in Aries Sign, all 9
+parts are allotted lordship Aries to Sagittarius along with their Sign lords.
+
+Like Jupiter in Aries Sign/Ashwani Nakshatra-4 Pada/Cancer Navamsa and
+Jupiter is Cancer Sign/Hasta Nakshatra-4/Cancer Navamsa.... In both
+conditions @ Navamsa... Jupiter is Exalted. Moon, Hasta Nakshatra lord, is
+Rajsik while Ketu, Ashwani Nakshatra lord, is Tamsik. So, in first condition,
+Jupiter is Rajsik Uccha (Exalted) in Hasta Nakshatra, 4 Pada while in
+Ashwani Nakshatra, 4 Pada, Jupiter is Tamsik Uccha. So, Jupiter’s result for
+same Navamsha will differ a lot.
+This way, a Yog Karka Planet can also get failed to deliver good results
+during its period if its Nakshatra dispositor lord is inimical/afflicted or
+placed.
+Nadi Sutras: 75
+Rahu & Ketu:
+I like to call Rahu & Ketu as Radioactive Elements. One side, Sage
+Parashara had called them Tamo graha, while other side, if Rahu/Ketu in
+Trikona/Kendra Bhava with a benefic (Trikona/Kendraadhipati) and free
+from any malefic influence, them they are also known as Yoga karka.
+So, being Tamograha, both are highly malefic and result in destruction in
+general. If they are benefit as said above, they do good but with their own
+and features/qualities.
+Rahu affects/influence through physical or real means, while Ketu
+affects/influence through supernatural means. Important point to note
+about:
+Ketu lacks
+T: OT I slid
+qfct C 3jk \\ ‘HTcf % wft Wlf^T ft, eft iftft fM* 3 WOT OTT
+^TH fft % OT WOT |l arofcT WOT OTf % ^TFT % OTT ft
+fa'uklR ftdl 1 3k dlcR %W$ft WPHOT 1 1
+
+Nadi Sutras: 77
+Restlessness of Mind
+Moon and Mercury are two important Planets which need special attention
+to judge the nature of a native.
+* Moon governs Mind.
+* Mercury governs Intellectual Ability & Temperament.
+Mercury is also associated with Education, Business, Writing
+Financial business activities etc.
+lg Works,
+* Intellectual Ability and Mind are like Trapped like a ne
+Why temperament is associated with Mercury?
+>s
+VS/
+Mercury is known as teenager where because or^urrounding conditions
+(Social, Family, and School, Changes in body @ Physical and Mental level)..
+the teenagers show different temperaments as per situation.
+Same way, Moon governs Childhood as well Mind.
+Acn
+Any affliction of Moon because of Rahu/Ketu or Saturn can result into
+Restlessness of Mind. It is also seen that many people who are not much
+educated (in Academics), but they have very sharp Intellectual Abilities.
+This indicates Mercury's another side. So, it is necessary to understand the
+different qualities of Mercury by means of affliction.
+Note: There is need to understand the difference between~ Mentallyretarded (TTct-^Q) condition and Restlessness of Mind. Lack of Intellectual
+Ability^ much close of Mental-retarded condition (JTcJ-^IS). Here, Nativity
+Karka Planet (Jupiter or Venus as per Gender) also plays important role by
+means of purpose of Life.
+Nadi Sutras: 78
+Venus + Mars: Couple ~ Made for Each Other.
+Often, astrologers misinterpret the conjunction of Venus + Mars (or Mars +
+Venus) as Sex Yoga. As per Nadi Astrology, Sex is not limited to Mars only,
+
+Saturn and Jupiter also have a say on this. Further, as per Nadi Astrology,
+Mars governs Younger Brother, Brother-in-law, and Younger Uncle etc.
+Venus governs Wealth, Luxury, and Beauty etc. So, this way, many
+combinations can be possible.
+What I think, in general, "Venus + Mars" conjunction indicates the "Couple
+~ Made for Each Other" like condition where both, Husband and Wife, will
+be fond of each other. So, it’s wrong to interpret conjunction of "Venus +
+Mars" as only Sex Yoga.
+Nadi Sutras: 79
+Why I spend more?
+In families we see, one member spends more o^ lavishly while other
+members make their best to save. This like same situation, I occasionally
+face. My expenses always remain at their peak, but why?
+From Nadi Astrological prospective, I am going to share my views~ Why I
+spend more?
+Here, we need to understand some sic rules from Nadi Astrology:
+* Venus is ultimate Karka of
+Prosperity i.e Richness.
+* Mercury governs Income (by means of Business/Job). Mercury governs
+flow of earning (i.e. Cash Flow).
+* Saturn governs all kind of Activities including Professional Activities.
+Here, Saturn points the Nature & Easy of doing Professional Activities.
+* Jupiter (Male Native- Himself)
+* Venus (Female Native-Herself, Wife)
+* Mars (as Karka of Husband & also of Debt*)
+* Moon - The ultimate Karka of Expenses/Expenditure (Loose self-control).
+* Ketu - Donation, Doing Charity, Wastage of Money (more expenses)...
+knowingly or unknowingly.
+* Rahu - More expenses on Show off, more willingly.
+Now Planetary Combinations:
+
+* Saturn + Venus: Richness, Wealth either continuing from Parents or
+native will earn & enjoy in 2nd half.
+* Venus + Moon: Whatever one earns or gets, same will get spent in
+evening.
+* Venus + Sun: More Expenses to maintain status and to show off.
+* Saturn + Mercury: Earning with hardship.
+* Saturn + Ketu: Obstacle in Professional Success.
+Special Note: Venus, Mercury & Saturn are Key Planets from Earning
+Prospective. So, if these Planets are encircled by their Enemy Planet/s.
+concerned Problem may have to face like:
+* Venus: Less/No Savings
+* Mercury: Disturbance in Cash Flow or recei
+* Saturn: Instability in Professional Life.
+ments.
+Nadi Sutras: 80
+Phlegmatic Nature & Stomach ailments: Moon + Saturn
+Moon is Water and Saturn is of Dry & Cold Air. In horoscope, Moon's link (in
+Conjunction or Aspect etc) with Saturn indicates Phlegmatic Nature.
+CvQ
+Human body is supposed to be made of 60% to 78% (according to age) of
+Water i.e. Babies have the more, being born at about 78% water. By one
+year of age, that water amount drops to about 65%. In adult men, about
+60% of their bodies are Water.
+If we look at above said variation in percentage wise Water presence in
+body according to age, one can easily understand why Moon governs
+Childhood and Why Saturn governs Old age?
+* From birth to 12 years age... Moon is supposed to be Ruling-Planet
+because of excess presence of Water in the body. Water element is
+governed by Moon.
+
+* From 13th year to 24th year age span.. Mercury is supposed to be the
+Ruling Planet because during this period, physical body grows more rapidly
+and attains solidity. Mercury governs Earth element.
+* Similarly, old age is governed by Saturn. Because of Saturn is of Dry &
+Cold nature... the physical body starts shrinking.
+So, whenever Moon's conjunction makes one suspected for Phlegmatic
+Nature. Next to this, the Sign/s in which Moon and Saturn are preser
+need attention by means of Sign's own Nature i.e. Fiery, Earthy, Ail
+Watery?
+Why Stomach ailments are checked with Moon?
+Stomach governs Digestion Process which works witbrHeahfre. ^TSTTf^l) by
+means of gastric acids & digestive enzymes. If the Moon i.e. Water Element
+is afflicted in Natal Chart by Saturn, then Dry and Cold impact of Saturn
+disturbed the nature of Moon which results into Phlegmatic issues as well
+disturbance (Slow) in Stomach Heat (i.e. TTcJ vj16<lfvi), which further results
+into poor digestion. Poor digestion of food results into fermentation of food
+& toxins formation like uric acid etc.
+Nadi Sutras: 81 (Check old post dated 24 Jul 2016)
+Meena Nadi:
+Venus in Moon's Nakshatras: Rohini, Hasta & Shravana.... will make native
+of pompous nature but final results will be shallow. Natal Venus in Cancer
+Sign results same, specially, in first half.
+Whatever a native shows to others related to Venus, in reality he/she may
+not have that much in possession quality wise.
+Nadi Sutras: 82 ©
+How to relate Mouth with Vastu as well Horoscope?
+Generally, astrologers consider Mars as Karka of teeth. But; what I belive
+that... it is only half information.
+
+I consider Sun as Natural Karka of Teeth and Mars as Functional Karka.
+:h p
+iJy
+Further, Mars governs Gums. It’s the gums, which provide base and well
+strength to teeth.
+First time, I am introducing this new conceplMJow to relate Mouth with
+Vastu as well Horoscope? KO'
+In above pic, Jaw (vj1<s|>SI) has been assigned Directions which follow as:
+* Mouth is governed by Rahi
+* Upper Jaw is governed by Rc
+* Lower Jaw is governed byK etu.
+* Front side of Jaw is assigned East direction, which is ruled by Sun.
+* Left side of Jaw is assigned North direction, which is ruled by Moon.
+* Right side qf Jaw is assigned South direction, which is ruled by Mars.
+* The West Direction has no Teeth (Sun have enmity with Saturn).
+* Conjunction of “Sun + Rahu” indicates possibility of Teeth related health
+issues anc^astu Dosha in East Direction. Further, check for Sign’s
+Direction occupied by Sun.
+* Conjunction of Mars + Rahu, Jupiter + Rah indicates possibility of Gum
+related health issues. Here, Sun also need attention.
+* If Mars is combust, possibility of weak teeth.
+* Sun + Rahu: Wide/Gap in Teeth.
+* Sun + Ketu: No/Narrow Gap in Teeth.
+* Sun + Saturn: Teeth related issues.
+Like Jaw and Gums, Planets afflicted will also indicate possibility of Vastu
+Dosha as per their directions.
+
+Explore this in depth and share your feedback.
+Nadi Sutras: 83
+Venus ~ the Unconditional Female Planet ©
+Venus is the Karka of Female Nativity as Nadi Jyotish. For Man - Woman
+Relationship, Venus is the ultimate Karka of Wife (Woman) while Mars is
+known as Karka of Husband (Male).
+Though there are two more Planets ~ Sun & Jupiter. Sun go
+while Jupiter governs Fortune in case of Female Nativity.
+Further, for Female Nativity, Mars governs First Husband, Jupiter governs
+Second Husband and Saturn governs Third Husband.
+v C>
+Now, Rahu and Saturn, both, are supposed to be best friends of Venus.
+Rahu is known as disciple of Sukracharya (Venus) and Saturn is more
+attached with Venus at emotional level.
+There is difference between approe )f various Planets towards Venus
+i.e.:
+1. Sun have enmity with Venus. Sun also the Karka of Fatherhood. A father
+has to strict and more disciplined to guide and take care for his Kids., for
+their kid’s welfare and bright future!
+2. Mars is Karka of Husband and in competition like situation with Venus.
+To support family institution, both, husband and wife has to competent and
+energetic!
+3. Jupiter and Venus both are Gurus, but in opposition to each other.
+4. Saturn is more attached and of “Caring Nature” for Venus. It’s tough to
+separate them.
+5. Rahu is the disciple of Shukracharya and he tries his best to pamper
+Venus. This results in more materialism for Venusian Traits. Rahu operates
+to nourish Desires.
+6. Ketu is originally a part of Rahu, but Ketu and Rahu both of different
+Nature and Qualities! Ketu influence at Manas Level; who further keep on
+agitating Mind/Manas in search of Truth. Ketu is more like who have
+
+surrendered himself to Lord Vishnu! Whereas on other side; Shukracharya
+is of opposition of Lord Vishnu. So, when Ketu joins Venus... he tries to
+bring Venus to surrender for Salvation! But, it’s not easy for Venus to
+surrender. This results into conflicts at materialism.
+7. Moon- Karka of Mind as well Expenses and Travelling, when joins
+Venus- Feminine and Wealth Karka is not considered good. Venus and
+Moon have enmity. Though Moon enjoys Exaltation status in Taurus Sign,
+Venus in Cancer Sign is not considered much beneficial.
+8. Mercury with Venus is not good combination because
+enmity with Mars (Husband for Venus).
+9. Sun + Mercury + Venus = Excellent combination for Luxury and Luxurious
+Life Style.
+V CO
+10. Sun + Venus = Good combination for Luxurious Life Style but creates
+Ego and health issues for Female.
+11. Venus + Ketu = Confusion betwee n sp iritualism and Materialism,
+Intuitive, Independent Nature & More expenses.
+12. Venus + Saturn = In
+Employment.
+Nadi Sutras: 84
+Insecurity,
+rity, Conflicts in personal, Intuitive, Self
+Rahu & Ketu: Part :
+I like to consider Rahu & Ketu as Radioactive Elements. One side, Sage
+Parashara had called them Tamo graham; while other side; it is said... if
+Rahu/Ketu in Trikona/Kendra Bhava with a benefic (Trikona/
+Kendraadhipati) and free from any malefic influence, them they are also
+known as Yoga karka.
+So, being Tamograha, both are highly malefic and result in destruction; in
+general. If they are benefic as said above, they do good but with their own
+and features/qualities.
+Rahu affects/influence through physical or real means while Ketu
+affects/influence through supernatural means. Important point to note
+about Ketu is: Ketu lacks "Bhu Tattwa."
+
+Nadi Sutras: 85
+Rahu & Ketu: Part 2
+We all know radioactive elements like Uranium etc. Such element always
+emits radiation which is harmful for living beings. Same way; Rahu and
+Ketu act. Like; radioactive elements need careful handling as well careful
+utilisation for welfare of human beings. Any error in handling or misuse can
+be extremely harmful. Same way, Rahu and Ketu’s natal placement should
+be benefic as said in previous post.
+Ketu is known as Jiva Karka as per BPHS. Now, interesting p^y^omes
+here as: A Tamo Grah as Jiva Karka!
+About this; Ketu when acts as Tamo Grah; can results into Jiva-Hani (i.e.
+Loss of Jiva (Life), like multiple abortions, death/loss^|jTnore than one/two
+life partners). Whenever Ketu is benefic, it result in~ Plurality (more than
+actual desired)... like Twin/Triple/more births, multiple marriages, where
+all partners are alive and attached with native. At spiritual level, native with
+negative Ketu.... worships lower deities like Bhoot, Pret etc. Native with
+benefic Ketu looks for Salvation or may prefer charitable activities in an
+independant nature.
+Benefic Ketu makes one intuitive and very much clever while negative Ketu
+makes one "mandbuddhi".
+Benefic Ketu carry forwards good deeds, benefits of Sadhna as well
+blessing of Guru, directly or indirectly while adverse Ketu carry forwards
+hidden sufferings/doss whose cause is very difficult to know. Kato lacks
+"Buhl" element and operates at Mamas level.
+Part 3 (a)
+Rahu and Ketu are known as "Tamo Grha (cl ■Hi TH?)" as per Sage Parashara.
+Also, it is said that Ketu is Moksha (Liberation) Karka.
+How can a Tamo Graha be known as Moksha Karka also?
+Moksha means Termination of: all kind of Karmas or any kind of Debt.
+Moksha would be a state where no Karmic debt is pending. Further, there
+would be no Purusartha, except worshiping God. Fate will give only
+Livelihood required for survival that would be also because of God's grace.
+
+Ketu governs Termination of Karmas. All worldly issues, relations,
+responsibilities need to be fulfilled before attaining the state of Moksha.
+One has to judge whether Jeeva will go in to mouth of Kaala or will attain
+Liberation.
+• Jeeva is Jupiter.
+• Kaala is Rahu.
+• Liberation is Ketu &
+• Worldly matters are Saturn.
+So, Ketu's immediate connection with Jupiter or Saturn or both in a
+horoscope can suddenly change the Life Track of the native depending
+upon Dasa or Transit. Why People suddenly become so much spiritual or
+sudden get detached from worldly matters? All those situations result
+because of Ketu.
+Nadi Astrology: 87
+Rahu & Ketu: Part 3 (b)
+In earlier Posts, on the basis of BPHS, I shared that one side, Rahu & Ketu
+are Tamo Grahas, other side if they are in Trikona/Kendra with a benefic,
+and then result well. But that statement is not complete in itself. How to
+predict with such rules, some time results in fatal failure.
+Any rule should not be applied blindly. Like for Gemini Asc, Venus with
+Rahu in Virgo Sign in 4th house... Rahu may not be good in practical, but as
+per rule, Rahu woujj^ be a benefic there. Here, Venus being 5th lord is
+functional benefic and being 12th lord is neutral. So, Venus will result good
+as well bad depending upon aspect or paapkartri/shubkartri yoga
+influence. Now, Venus is Karka of Wife. So, there could issues with wife as
+Rahu will severely affect Jeeva factors of Venus but on other side, native
+may enjoy (!) with Rahu's own Karkas. Here, Rahu will promote his own
+Jeeva factors in native's life, while downgrade Jeeva factors of the adjacent
+planet.
+Also, Rahu is known as Dhatu Karka and Grand Father Karka. Native may
+get more close with Grandparents. Rahu may promote research in
+Shastras because Venus is governs all Shastras.
+Nadi Sutras: 88
+Rahu & Ketu: Part 4
+se situ
+
+Rahu as Kaal:
+In Nadi Astrology, Jupiter is known as Jeeva and Rahu is known a Kaal.
+Kaal means Mouth of Snake or Death. Whenever Jupiter during its
+Progression (where each cycle is of 12 years) meets Rahu Degree wise,
+that period can be harmful (or cb^cpKcb).
+Here, Sign Exchange by Jupiter during Transit and Long life supporting
+conditions (^u|^ 41 Jl) also need attention.
+Like Jupiter is Asc and Rahu in 5th house, there Jupiter under Progression
+would take 60 years (approx.) to meet Rahu. So, that particular year (61 or
+62 . ) could be proved fatal. Always follow Degree wise Progression. Next,
+during fatal year, check for benefic yoga ' ' Sis in case of
+Nadi Sutras: 89
+Ketu: The Flag Bearer
+Mythological, Ketu is known as Headless which makes him a mysterious
+planet among NavaGrahs. When there is no Head... how he deliver his
+results?
+Graphically, Ketu is also represented by means of "Flag". A Flag is not just
+a piece of Cloth. Flag represents the "Presence, Identity, Freedom, Victory
+& Authority" by means of its Shape & Colors. If we refer to olden days,
+Flags were commonly seen on top of Temples, Forts, and Boundaries to
+identify Territorip^ In battle fields, it’s the Flags which represent ~
+Presence, Identity, and Freedom & Authority of respective sides. Also, the
+Winner announces his Victory by hoisting their Flag.
+A full hoisting Flag also represents Pride and Joyful Time. While Flag at half
+mast, indicates the mourning period.
+If we look on Flag with more research point of view.... A Flag has no own
+Identity, but it is used as Identity. Any Blemish on Ketu can challenge the
+native's own- Presence, Identity, and Freedom, Victory, Pride, Joyful period
+& Authority.
+Nadi Sutras: 90
+Why Moon is Karka of Expenditure?
+
+In Taurus Sign, Moon is considered Exalted. In Kaal Purusha Kundli, 2nd
+house is Dhana Bhava as well in Nadi Jyotish, Venus governs Wealth.
+Moon is Mood, Mind and Desires. For Desire Fulfilment, Money is Key
+factor. Moon will get Money from his Sign of Exaltation. A Planet in its Sign
+of Exaltation gets extra privileges.
+At friendship level, Moon and Venus have enmity. This way also, Moon is
+supposed to destroy the Venusians Karktva - Wealth by means of more
+Expenses.
+Nadi Sutras: 91
+Different stages for Female Nativity:
+There are 3 Female Planets:
+1. Venus: (Unconditional Female Planet),
+2. Mercury: (Conditional Female Planet ~ as we
+Start age like before 11 -12 years age) and
+3. Moon: (after Menopause stage).
+The Life cycle of Female nativity i
+1. Kumari (Before start of Me
+2. Ability for Child Birth (according to age)
+veil before Menstrual Cycle
+into 3 stages as said above.
+ycle/Puberty)
+3. After Menopaus
+Nadi sutr
+Child birth)
+In case of Male Native: Jupiter is governing Planet and its Progression is
+checked, but at subtle level, like Female Nativity... we need to consider
+other Planets also.
+1. Before adolescence ([cb*dk Id **(!)... it’s Mercury (no ability to have
+progeny)
+2. With start of adolescence (f^dtTT^fl) .. to Old age i.e. up to 60: Mars
+(Masculine Strength) + Venus (Sperm) ability to have Progeny
+3. 60+ onwards... Saturn (Weak) + Venus; where Saturn replaces Mars.
+
+Nadi Sutras: 93
+Jupiter is the Ultimate Planet which needs attention everywhere in Nadi
+Jyotisha. It’s the Jupiter or Venus (according whose role is replaced by other
+Planet/s according to Relationship)
+Like: A Native himself is Jupiter, but when he goes to his mother/father, he
+is considered as Son ~ Sun (Karka Planet to be checked from Parent's
+Horoscope).
+A Native himself is Jupiter, but he get married, he is considered as
+Husband ~ Mars (Karka Planet to be checked in Wife's Horoscope)
+A Native himself is Jupiter, but he become Father, he is considered as
+Father ~ Sun (Karka Planet to be checked in his son's Horoscope)
+A Native himself is Jupiter, but he become Elder brother, he is considered
+as Elder Brother ~ Saturn (Karka Planet to be checked from younger
+sibling's Horoscope).
+Nadi Sutras: 94
+Wrfcpsr % yyf 3 eft fMt % ^rRyift zfiap wm %
+W-ftft Wfa f^TcTcIT k\
+^pf fty (W t^T): + TFf
+Rift wife ra % ^ tttrt wrti |i ^
+WTf^ycIT TTRT WclT I? I + RTf ^ ^frT % ^TROJ ^RTFT
+eft, f^ffcT if ^ if % yfcT dft dft cbRU| TTRI WRTI f I yff
++ W ^ft ^ ft if ^TT (3 eft u | ftft % WT
+ftft ft 3rt w/yft ^yfMt r wfn affd'Wcb 1 1 ft yft
+ft |l vJWtcRI
+fMt if ^ w ft w y? ytoftr yrft ^ti *nftm
+
+R?T W^Tcf 3ft? ?ZTR ftft 3lfe 3f 3l|cmcp 3ftt ft + W 3ft ^[fft
+WT§f fttl Tlfft/R$r3 R? R? M^dcftl % ^R ftt 3ft TFf ft fjft ftH3 ftt
+Weft ftl ^f 3f^ TIf 3ft #T % fee four % ^fTR fttft Wf ^RT 3ffftfjftf
+TTf^/Rlf^RTf % Rlftt ft fe/R/^ 3flfft WR yffft
+fenw^3fkfttef^^RHfe[Rfei
+3lftt Rftfe % 3FJR?, ^ift 3ft fel 3fR?Tf Rt fftclTRf RRT) 3?T 3=W ftt
+RR vjiidl ft 1 ftft + W ^ft ft W vjiidcf? % vjiidcf? % f^TefT RT vsflcIH
+ftRfjR fttft 3ft ftR3R fttftt ft ftt, c£fft RR> cTRT % ^RWeft 3{ft tffftR
+fttft 3ft ftR3R fttftt ft I ^3 + TFf 3ft fjeT (W ftt 33^R ft 3T ReFT-GfeFT
+333R ft) ^lft3K ft? Rftt R 3fftR 3ft Wfttftl R?
+fe % fe3 ^ TR? R?T 3ft? RR ftRf 3?fcft5-g fttftt ftt W ~Rftftt3 3?T?3?ftl fttftRfR^3fftftfefeftl
+ftRf33?
+f
+sq-R ftft fttw 3ftR Gf^iR fttR ft fft? w-fe RrfftR t, ftfftR OTft
+wffe ftfa yR§f 3ftf fftn 1 1
+^f WR33 3RT3? wtl Rftt Rftfe ft '3?T?3? c3 3ft ft 3ffe? TRR
+feTRTTtl R3 3{R Hfe[ Rt Rftt Rife ft 3ffe> TTfR fet fel 3|RT ft I
+cRep fftRRT 3ft WfRT 3{T3RT3> ftl 3ftlTR W ft fftfe fftRRtt 3ft
+fenftw 3RT?3ft^|l fftRlft? 3?TRT feft ftt fft<£IR 3TRT ft M'ftWdT
+3ft 3?ftt TR^T fttftt %N^
+Nadi Sutras: 95
+A Special View: How to understand purpose of Life from Jyotisha?
+* 1-5-9 Signs/Houses ~ Dharma/Religion (Way of Happy Life):
+It teaches Ethics, Duties, Personal & Social Welfare and tells us about the
+creation. Learning about worshi ping-procedure. A man should learn about
+his ancestors and further, he must have a strong foundation for his
+descendants. Human, Social, Ecological and Natural Resources Welfare are
+the Key concerned areas here.
+* 2-6-10 Signs/Houses ~ Artha/Financial Matters:
+
+A civilized society need to encourage the practice for right mean for
+livelihood. In social structure, people have mutual dependency by means of
+Exchange of Goods/Resources/Services etc. For this, Financial matters
+(Source of Earning as well medium of Exchange) and their effective
+management need special attention which further act as Spine for Civilized
+Society. Artha should be governed by Dharma, that’s why Dharma Bhavas
+come just behind Artha Bhava. This Earning should be as per socially
+accepted practices.
+* 3-7-11 Signs/Houses ~ Kama/Lust:
+Kama is not only limited to Sexual pleasure. Kama at broad level deals
+with all means of Pleasure & Comforts desired in Material World. It may be
+Sports, Sexual Pleasure, Enjoyment means like Signing, Dancing, Pleasure
+Tours, Festivals, Food, Beverages, Cloths, Household Machines, Beauty
+products etc etc. Kama i.e. Desire for a man ~ how to fulfil his wishes and
+wishes tell the secrets of how to behave in, society and to succeed in life.
+Artha is one of the most important necessecity (special in Kaliyuga) which
+As per Hindu Mythology, Moksha/Salvation is the ultimate goal/purpose of
+Human Birth which means to get free from "Birth & Death Cycle", %
+Nadi Sutras:
+Mutual Placement ~ How to Proceed?
+Regarding fundamentals of Nadi Jyotisha, in Video lectures and Nadi
+Jyotish Vol 1 PDF Book, I have shared views on "Mutual Placement of
+Planets". Which points need attention, are:
+1. Degree wise Placement of Two or more Planets with in a Sign.
+2. Arrange all the Planets "Degree wise". With this arrangement, one can
+easily indentify which Planet is ahead or in back.
+
+3. Check the Direction of Motion of Planets i.e. Direct/Retro/Stationary (in
+astrological prospective). This way, one can easily check for "Applying
+Aspect" & "Separating Aspect". This makes easy to understand whether a
+Planet will act as an Obstacle Creator or Benefic.
+Note: Applying Aspects indicates the possibility of happening of concerned
+event in Future, while Separating Aspects indicates that the possibility of
+happening of concerned event in past i.e. it may already happened!
+4. Karkatvas of each Planet (in question) and Planet's "Friendship Nature:
+Friends, Enmity, Neutral, Exalted, Debilitated or Combust (Asta)). This will
+help to understand the Strength of Planets.
+5. If any Planet/s are involved in "Sign Exchange",
+understand the modification in Results of concern
+After Sign-Exchange".
+Nadi Sutras: 97
+if
+This will b
+e helpful to
+lanet/s "Before &
+a?
+MkRv/s MR^WP^WMMyMMyR^
+yMy 3k Mr, M film 3RFi-3feFT Mr M yy 3nw/MtR
+MM % 3rtM, p-My yft x rr yMM Mr % 3r^r Mr yy>-Mr 3°
+3m-ir7 My wrt M % 3r^r ypqfMt 3 MM ^RryyfM
+W-f^y M 3k r (MT/yM Mr % 3fpiy MyfMyiMti
+Mr % ^^chifeich yf -My M fM % 3fjw w
+W/^-My M yMM yy tot Mr Mtt writ |i
+Mr My yy 3{rrt yM Mt yp 3 M 3k Mr % MM
+yyT ■yckf 1 1
+Mwy^3iRyMy^MeTW^M^3kM^wy^3iRyMy^Tkw
+4 uMh % 3rr M wM yy ywr M i
+~ p5T 3k v3RTR (Mr MM) I RTcT W yy kfM
+^t-M~ Mr^fcb' (Mr M©d) i
+M % yrw MM 3 3RR yf | M ... yra MIMt M 3TrMM wr
+M 3k R Id I eft MRfy? TJUT-M: p5T 3k WTR tM *pT M
+
+« k 'kffflk' TJOT-tlk y^feT % RT^T k T W 3lkkkd dkk k
+3ffkoqyRyRdTtl
+c£dk 3k, Wd kkfkPT TTHeT v^^Hchlfelch ykkt 3k RldT |, eft TO 3fqk
+kikk' ^T-sk: ^ ^fkT, f§WT^ TT^fcT 3k kk oqyfR kf ^rf k *pT-yk:
+^5T 3kdRrR (klky kkkd) k 3{fkoqyy yRdT ||
+Pm wife "<Mf^Fi ykk k 3fkoTO ^Tdr | kr
+>fecbcrl Rkd (vjf^' chlfelch W) yyH yRdT 1 1 "
+^yk to ky? k, v^cMfacb y^ % Tjuy-ik kiR-y-f fkkr ^rt worker kk
+yy kyy-kq^jy v^-^MchTfeich-^rfk k ^rcit I, efr ^icHid^cb 3k
+vJ^rt y^k yk ^pfcT: 3'^feid yR kn 1 1 kfky ^ek fkkk, kyy -^rk yy
+vd^chTkch-k^f k ^3RdT t, k kfr yk 3fk ^Hicm^cb 3k tort y# kt
+yykt yy yy> Ik-ikd yR kff ti ykfk k^y yk ^rt ^rk 3fky? 3fnykykdfi yy yyro ylkn 3k ky? k ky yk RRyk fq ykkd-kyR yror
+y^Rdtl
+Nadi Sutras: 98
+^Tk-kyrkyR:
+ynk ktky k 3yjyR f^wk-w kr RFkyy yroy rht yrar ti
+vd-Hcbifeich yk k kkk^^rk w yy kyy- yror dwi^d: ^yyiyroy
+RFnyTdTtl kk:
+i wi k kkkT k ^ikyyik, yy-ym, yjy-yyk, kikr^ rrr 3nk i
+^.k^kkykikyyykty^kyiy, yykk, RHROTykkk3fifk
+y Rf k kkk k ^yyk 3fik yiy-kyry k fkry, ky-kf k yrry 3k
+yyk 3fiki
+Nadi Sutras: 99
+Gemini Sign rules.... Singing/Dancing/Music and Acting (Music and Film
+industry, Even Classical Signing/Dancing etc). Gemini Sign is ruled by
+Mercury.... Mercury is supposed to "Mohini Swaroopa" of Lord Vishnu as per
+Nadi Jyotisha. Mythological, we all know the purpose of Mohini Swaroopa
+
+of Lord Vishnu to Protect Amruta from Asuras and also to distribute the
+same among Devtas.
+All Asuras got mesmerized by the Singing-Dancing-Looks of Mohini
+Swaroopa. So, it’s the Lord Vishnu ~ Mercury who by means of Gemini Sign
+rules Singing/Dancing/Music and Acting (Music and Film industry, Even
+Classical Signing/Dancing etc).
+Next to Mercury, Rahu also governs Singing/Dancing/Music and Acting
+(Music and Film industry, Even Classical Signing/Dancing etc) related
+activities!
+Nadi Sutras: 100
+fF^rfcT 3TO Wt % *jfcT:
+Rnk wtfcpsr 3 cfr *rr 3fto wt eft #r oftft 3frq 3 |i ^cjwr
+ckk to ^ to fro |i TOPkt 3k 3rt Ri^idl' %
+3f^TO kt fkk TITO fkrr TO I, T RTft vicfrfcnsr 3 ^f?T % TO^f 3
+3k3ffto^TOT^f^TOf^TTTOT|l ^ ^ WfefcT % ^
+^T3(T?fRTOft||
+cfa ^ TO 3k k TOR 1 1 TO fTOfer c^k Wf 3
+#r 3 fk I, eft TOk 3ftft ^DT-^f c^k 3 1%RT TOR TOTO
+ftclT t, TO TORHT TOTOPf t:
+i#ri
+* + k^ = TOlto kT ^ Rtf TO 3k TO 3 if^T, 3fTO fkiltcf,
+' oq f^cl J I Cl ' (93cp kt vjiinlcl I
+*fTOrfcT + TORI = sHHt 3{Rp^ 3ffteR^RT 3R{^ki
+* + TOR = 3TOTORT, Wi'd'itiTcfl, gkf§d( k'q'TO I
+* ^rorfer + = yfkr vkfM, Tik'd'^t, kk IkiR#, i
+* + = TOpR ?'RTO^R 3ti^ft-i|Vu| cb'TOkl
+
+^R^fcT ^ 3R ^ ^jfcf M^f?TcT TOT Tjpf ^ TTT^t v5IT ^TOcf fl ^ RT3 TO
+TOR eft ^T tftlfcT 3ft MM % ^TO |l f^T 3ft TO 3fft3T
+TOR ft fft3R fftTO WI TOcTI 1 1
+3ftftcT fft3R % 3kH Tlfft- ^$(3 3?fc 3PT 3ftf % 3H13 3ft ift SIFT ft T^FIT
+ftTOcftf I
+k k k k k k k k k
+TO
+SB
+S
+fS
+
+Some notes from classes:
+tocfa % fcTq wtot fcRTR:
+^ RT3" OTT3T W OTlf Wfq FT?t 1 1 ^ WTcT 3fR3=fT 3n?T WdT
+ti tocfa t^cR 3nfto ot wtw 3ffc
+3M3OT tff to tl 3fTW-OT tcj WTRRT M |l Tjto
+otiw wt w tor^-w^PT 3 3rrr to wif^i »
+WSJRW WF m Ulc tfid' WcT: ^TcT 3 ^tf 3{sf to M 1 1 towfa
+«TFf 3fR^R^OT^f || fto tfMTWTf tf\ fto W Ref
+3frfe % tor ^JOT ^RcF to |l wfelf^'H 3fR toFF
+(tor ^T cfFT, toRT, OTTfeT, RIcIT-to eft OTTSf W cfH 3flf^)
+to^OT^3RWto?^l Q^)
+cv^
+Tif w toifto to 3 3fto to otrf I, 3to to toftcb to
+eft s[M3>Rcf> |l 3{ft totoiWpOT toto WcTfl toto
+3fR dW'O % felTJ tof ft RHr f^RH WdT ft, 3fR 3Rq Wt W\ qiM
+'favto W toft % fftftcRH ) 3-RRT Hlcf WOT 1 1
+TTfd 3fRd 3fR Rtqrf% 3fto to % tor fto to to dft to
+^rw 1 1 eft to ft wot to % wcRfm ft wiot tot ^
+to % WcRTI'd ft to WOT t FT to % tftol ft WcROT WOT t 1
+v<\jr
+OT to 3ft to ft WOT ^RWlft toft ITT OTWR % Rim ft
+RffitoT tort? toft cf?<cii ti ftc< 3{f£rw tot t eft 'to ^ici#
+%ftotoOTffto>HOTft toftftdROTWfl
+• toto3ftoto| ft tofft^ftWOT^^ todtoto^R
+OTdl ftftt fftrfcT ft Wdd? 'tddft Wlft WOT t lift’d 3iWT§f WT ft Wdd?
+to-'p WT wto ft 3fqft dq^RHiq ft ftft ^ Tyq f I
+• l^cb did ^5^ ^iPl % RS2T TT^ 3{qqT ^ f^ffeT ^f
+wot ftr^rr 3k f\ ton 1 1
+
+• TTdp ^ 3fR ^ m Weft m: vjl^cbTcrflH Tlf 3
+^RdT I, T^ft f^rfrT 3 WcT^ ^T ~&mm ^ 3RdT |l 3M
+• ^ cf^t cfjtf cf^RcF y'mWdp sfM W^ITHT ^TcTT
+ti ^ftf^frr^‘^%1 crtr |i cvidiwm 3
+zfidp GlM^f vjficft 'H'Lb'crl'd'l WRT ftcft 1 1
+^ifct ^ 3fR %cj % f^fflcT vjfl f, f^rfcT ^ vjlldcf? Wcid
+oqcRTRT^ffto WTTOWtcTftl ^ WTOT c^eff % ^f#T wf ^ cfR
+Wch
+• ^p 3{R ^ eft ^fcT ^#ST glcIT^^ 3 WdcTT ftft |l
+WW % feR: ^ftef, WtfM, :EIT^-'Sf^Kj^ ^T ft
+Vtffi cllft cFftf Wd'd I cTRT^ ft% 1 1 vJMftcRj t^T 3 3{fW Wf ciW
+ftWf 3 ft ^=T ^ftcT fftlft |, f^Pe% ^RUT 3ft WTcTT | 36 3 40 ^Tef
+ft?FT 3fqft <5L|cRfR-l % feR ft cfttel 3Rft ft# f I
+. OTlcT f3wft ftftl/MTcf Wft RRT WdT |l *lft tfHlcf ftt
+$TOT 3ft % fcTR wft it^ ^ 3TFRT 3ff3WR |( eft 33ft W
+rf3r ft ftk? ft Tfi | 3T 2 ftftrft ft ftte?
+* * * * * ** ■*■■*■ * *■* * irk -k-k-k irk it i^k irk it irk -kirk * it irk *
+2. Bhrigu Nandi Nadi & other Books by Shri R G Rao
+3. Saptarishi Nadi
+4. Books by Dr (Prof) D C Negandhi Ji
+5. Puranas by Geeta Press
+6. BPHS
+
+^3traWtfcfa>:
+Nadi Astrology (Hl/l-^lfriq): Astrological Researches
+https://www.facebook.com/groups/266535793479406/
+Astrological Researches Group
+https://www.facebook.com/AstrologicalResearchesGroup/
+Astrological Researches
+https://www.facebook.com/groups/smmmivsrk/
+You Tube Channel:
+Astrological Researches Group
+https://WWW.VQUtube.com/channel/AstrologicalResearchesGroup
+Whatsapp Groups (Contact for further details): Free Nadi Astrology Group:
+Nadi Astrology: A R Group
+)m/GiWqlN{
+https://chat.whatsapp.cor
+!8sxwl4gwec6vnORa

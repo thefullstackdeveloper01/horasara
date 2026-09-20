@@ -1,0 +1,5 @@
+[
+  {"bala": "Sthana Bala", "max_points": 375, "description": "Positional strength in sign."},
+  {"bala": "Dig Bala", "max_points": 60, "description": "Directional strength in house (e.g., Jupiter in 1st)."},
+  {"bala": "Kala Bala", "max_points": 60, "description": "Time strength (day/night birth)."}
+]

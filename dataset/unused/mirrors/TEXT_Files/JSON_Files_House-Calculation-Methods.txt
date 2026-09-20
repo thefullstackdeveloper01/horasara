@@ -1,0 +1,17 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/House-Calculation-Methods.json
+Dataset number: 178 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 194 bytes
+Top-level records: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (3 rows)
+method | use_case
+--------------------
+Placidus | Western/KP System
+Sripati | Traditional Vedic
+Equal | When exact birth time is unknown

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "183__education_config_json",
+    "name": "education_config",
+    "original_file": "education_config.json",
+    "dataset_number": "113 of 455",
+    "format": "json",
+    "source_readable_file": "education_config.txt",
+    "source_sha256": "62f0ffb10e4c64ba4b3c50bbd309b457d0c6483cb9ab24fe0aa1b2d00ee64ef4",
+    "source_bytes": 880
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": 1,
+      "eduHouses": {
+        "_items": [
+          {
+            "_text": [
+              "4"
+            ]
+          },
+          {
+            "_text": [
+              "5"
+            ]
+          },
+          {
+            "_text": [
+              "9"
+            ]
+          }
+        ]
+      },
+      "eduKarakas": {
+        "_items": [
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          }
+        ]
+      },
+      "afflictors": {
+        "_items": [
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          }
+        ]
+      },
+      "notes": "Classical Parashari assignment: 4th=Vidya Sthana (foundational learning/mind), 5th=Buddhi/Purva Punya (intelligence, academic merit), 9th=higher education/Guru/dharma. Karakas: Mercury (intellect/learning), Jupiter (wisdom/higher knowledge). Afflictors flagged as possible-delay indicators (not blockage), per standard Parashari house-affliction reading."
+    }
+  }
+}

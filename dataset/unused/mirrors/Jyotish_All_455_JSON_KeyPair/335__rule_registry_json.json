@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "335__rule_registry_json",
+    "name": "rule-registry",
+    "original_file": "rule-registry.json",
+    "dataset_number": "335 of 455",
+    "format": "json",
+    "source_readable_file": "rule-registry.txt",
+    "source_sha256": "96e9e0872af70d81d5a161b05bc97882862afb190785a05c3df03298ff780abf",
+    "source_bytes": 1889
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "BPHS.DASHA.VIMSHOTTARI",
+        "system": "Parashara",
+        "topic": "Dasha",
+        "status": "VERIFIED_IMPLEMENTATION",
+        "source": "Brihat Parashara Hora Shastra dasha chapters; exact local edition should be cited in deployments."
+      },
+      {
+        "id": "BPHS.DASHA.UDU-CONDITIONAL",
+        "system": "Parashara",
+        "topic": "Conditional Udu Dashas",
+        "status": "IMPLEMENTED_WITH_VARIANTS",
+        "source": "BPHS Ch.46-50; eligibility conditions are exposed rather than assumed."
+      },
+      {
+        "id": "KP.CUSP-SUB-LORD",
+        "system": "KP",
+        "topic": "Cuspal sub-lord",
+        "status": "IMPLEMENTED_VARIANT",
+        "source": "Krishnamurti Paddhati; 249-sub framework."
+      },
+      {
+        "id": "JAIMINI.ARUDHA",
+        "system": "Jaimini",
+        "topic": "Arudha",
+        "status": "IMPLEMENTED_VARIANT",
+        "source": "Jaimini tradition; exception handling may differ by school."
+      },
+      {
+        "id": "JAIMINI.KARAKAMSHA",
+        "system": "Jaimini",
+        "topic": "Karakamsa",
+        "status": "IMPLEMENTED_VARIANT",
+        "source": "Jaimini tradition; interpretation is lineage-dependent."
+      },
+      {
+        "id": "TAJIKA.VARSHAPHAL",
+        "system": "Tajika",
+        "topic": "Annual chart",
+        "status": "IMPLEMENTED_VARIANT",
+        "source": "Tajika Varshaphala; aspect and Mudda conventions are configurable/edition-dependent."
+      },
+      {
+        "id": "LAL.KITAB.35Y",
+        "system": "Lal Kitab",
+        "topic": "35-year cycle",
+        "status": "IMPLEMENTED_EDITION_DEFAULT",
+        "source": "Bundled Lal Kitab timing dataset; anchor and edition are explicitly exposed."
+      },
+      {
+        "id": "SBC.81GRID",
+        "system": "Sarvatobhadra",
+        "topic": "81-varga chakra",
+        "status": "IMPLEMENTED_LAYOUT_VARIANT",
+        "source": "Sarvatobhadra tradition; published diagrams/layouts differ, so layoutVariant is explicit."
+      },
+      {
+        "id": "PRASHNA.HORARY",
+        "system": "Prashna",
+        "topic": "Horary",
+        "status": "IMPLEMENTED_RULE_LAYER",
+        "source": "Classical horary traditions; Prashna Marga, Tajika and KP variants are not silently blended."
+      },
+      {
+        "id": "MILAN.ASHTAKOOT",
+        "system": "Milan",
+        "topic": "Ashtakoot",
+        "status": "VERIFIED_IMPLEMENTATION",
+        "source": "Bundled 36-point Ashtakoot reference dataset and supplementary Rajju/Vedha rules."
+      }
+    ]
+  }
+}

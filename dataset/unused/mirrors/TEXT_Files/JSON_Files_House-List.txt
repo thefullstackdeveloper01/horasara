@@ -1,0 +1,55 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/House-List.json
+Dataset number: 179 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 930 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: house_001
+  • name: Lagna / First House
+  • name_hindi: Tanu Bhava
+  • significator_kaarak: Sun
+  • primary_topics:
+    1.
+      Self
+    2.
+      Physical Body
+    3.
+      Personality
+    4.
+      Head
+  • secondary_topics:
+    1.
+      Childhood
+    2.
+      Vitality
+    3.
+      General Well-being
+  • prediction_logic: The condition of the 1st house and its lord dictates the overall trajectory of the native's life and health.
+  • associated_body_part: Head
+2.
+  • id: house_007
+  • name: Seventh House
+  • name_hindi: Yuvati Bhava
+  • significator_kaarak: Venus
+  • primary_topics:
+    1.
+      Marriage
+    2.
+      Business Partnerships
+    3.
+      Spouse
+  • secondary_topics:
+    1.
+      Foreign Travel
+    2.
+      Public Image
+    3.
+      Reproductive Organs
+  • prediction_logic: Afflictions to this house or its lord by Mars (Manglik), Sun, or Rahu cause marital discord.
+  • associated_body_part: Lower Abdomen / Pelvis

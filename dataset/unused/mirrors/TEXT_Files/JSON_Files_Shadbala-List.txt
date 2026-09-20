@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Shadbala-List.json
+Dataset number: 206 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 646 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | description | max_points | calculation_logic
+--------------------------------------------------------
+shadbala_001 | Sthana Bala (Positional Strength) | Strength derived from the planet's position in the zodiac (Exaltation, Mooltrikona, Own Sign). | 375 | Planets in exaltation get maximum points; debilitation gets zero.
+shadbala_002 | Dig Bala (Directional Strength) | Strength based on the house the planet occupies. | 60 | Jupiter/Mercury strong in 1st house. Sun/Mars strong in 10th. Moon/Venus strong in 4th. Saturn strong in 7th.

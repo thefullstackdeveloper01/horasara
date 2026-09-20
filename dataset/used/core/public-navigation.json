@@ -1,0 +1,92 @@
+{
+  "version": "2.1",
+  "signs": [
+    {"name":"Meṣa","english":"Aries"},{"name":"Vṛṣabha","english":"Taurus"},{"name":"Mithuna","english":"Gemini"},{"name":"Karkaṭa","english":"Cancer"},{"name":"Siṃha","english":"Leo"},{"name":"Kanyā","english":"Virgo"},{"name":"Tulā","english":"Libra"},{"name":"Vṛścika","english":"Scorpio"},{"name":"Dhanus","english":"Sagittarius"},{"name":"Makara","english":"Capricorn"},{"name":"Kumbha","english":"Aquarius"},{"name":"Mīna","english":"Pisces"}
+  ],
+  "nakshatras": [
+    {"name":"Ashvinī","daily":"Fast starts, movement and initiative are emphasized in traditional readings.","weekly":"Review speed versus patience; keep commitments clear.","monthly":"Use the month to develop disciplined momentum rather than rushing every decision.","yearly":"A traditional theme of initiative, recovery and forward movement."},
+    {"name":"Bharanī","daily":"Responsibility, boundaries and completion are emphasized.","weekly":"Balance obligations with rest and clear communication.","monthly":"Themes of responsibility and transformation may recur in traditional interpretations.","yearly":"A traditional theme of endurance, responsibility and renewal."},
+    {"name":"Kṛttikā","daily":"Clarity, discernment and decisive action are traditional themes.","weekly":"Separate useful priorities from distractions.","monthly":"Refinement and disciplined choices are emphasized.","yearly":"A traditional theme of purification, focus and leadership."},
+    {"name":"Rohinī","daily":"Growth, creativity and material cultivation are traditional themes.","weekly":"Build steadily and protect what is valuable.","monthly":"Creative and resource-building themes can be developed patiently.","yearly":"A traditional theme of cultivation, beauty and stability."},
+    {"name":"Mrigashīrsha","daily":"Curiosity, searching and learning are emphasized.","weekly":"Investigate before committing.","monthly":"Learning and exploration may open useful perspectives.","yearly":"A traditional theme of inquiry, movement and discovery."},
+    {"name":"Ardra","daily":"Change, analysis and emotional processing are traditional themes.","weekly":"Use clarity and patience during unsettled situations.","monthly":"Transformative learning can be constructive when handled deliberately.","yearly":"A traditional theme of renewal through change."},
+    {"name":"Punarvasu","daily":"Recovery, return and renewal are emphasized.","weekly":"Revisit what still has value before starting something new.","monthly":"Restoration and second chances are traditional themes.","yearly":"A traditional theme of renewal, generosity and return."},
+    {"name":"Pushya","daily":"Learning, nourishment and disciplined support are emphasized.","weekly":"Strengthen foundations and routines.","monthly":"Mentorship and steady growth are traditional themes.","yearly":"A traditional theme of nourishment, duty and constructive growth."},
+    {"name":"Āshleshā","daily":"Strategy, perception and careful communication are emphasized.","weekly":"Read situations carefully and avoid unnecessary entanglement.","monthly":"Psychological insight and boundaries may become important themes.","yearly":"A traditional theme of depth, strategy and transformation."},
+    {"name":"Maghā","daily":"Heritage, authority and responsibility are emphasized.","weekly":"Respect experience while keeping decisions practical.","monthly":"Leadership and family legacy themes may recur.","yearly":"A traditional theme of ancestry, dignity and stewardship."},
+    {"name":"Pūrva Phalgunī","daily":"Creativity, enjoyment and relationship themes are emphasized.","weekly":"Make room for both pleasure and responsibility.","monthly":"Creative expression and social connection are traditional themes.","yearly":"A traditional theme of creativity, comfort and connection."},
+    {"name":"Uttara Phalgunī","daily":"Agreements, service and dependable partnership are emphasized.","weekly":"Put commitments in clear terms.","monthly":"Stable alliances and practical cooperation are traditional themes.","yearly":"A traditional theme of lasting agreements and responsibility."},
+    {"name":"Hasta","daily":"Skill, organization and practical execution are emphasized.","weekly":"Use craftsmanship and attention to detail.","monthly":"Hands-on learning and useful systems are traditional themes.","yearly":"A traditional theme of skill, order and constructive action."},
+    {"name":"Chitrā","daily":"Design, refinement and independent expression are emphasized.","weekly":"Improve the structure before polishing the appearance.","monthly":"Creative construction and presentation are traditional themes.","yearly":"A traditional theme of artistry, design and refinement."},
+    {"name":"Svātī","daily":"Independence, flexibility and self-direction are emphasized.","weekly":"Adapt without losing your core direction.","monthly":"Independent learning and movement are traditional themes.","yearly":"A traditional theme of autonomy, flexibility and growth."},
+    {"name":"Vishākhā","daily":"Goal focus, persistence and branching choices are emphasized.","weekly":"Choose one clear priority and follow through.","monthly":"Ambition and strategic direction are traditional themes.","yearly":"A traditional theme of determination and purposeful achievement."},
+    {"name":"Anurādhā","daily":"Cooperation, friendship and disciplined devotion are emphasized.","weekly":"Strong alliances benefit from consistency.","monthly":"Partnership and shared purpose are traditional themes.","yearly":"A traditional theme of loyalty, friendship and disciplined devotion."},
+    {"name":"Jyēṣṭha","daily":"Protection, responsibility and seniority are emphasized.","weekly":"Carry authority carefully and avoid needless control.","monthly":"Leadership under pressure is a traditional theme.","yearly":"A traditional theme of protection, responsibility and resilience."},
+    {"name":"Mūla","daily":"Root-cause analysis, release and rebuilding are emphasized.","weekly":"Fix foundations before expanding.","monthly":"Deep investigation and simplification are traditional themes.","yearly":"A traditional theme of roots, truth-seeking and renewal."},
+    {"name":"Pūrva Ashādhā","daily":"Confidence, persuasion and renewal are emphasized.","weekly":"Communicate clearly without overextending.","monthly":"Courage and self-renewal are traditional themes.","yearly":"A traditional theme of invigoration and conviction."},
+    {"name":"Uttara Ashādhā","daily":"Persistence, ethics and durable achievement are emphasized.","weekly":"Prefer dependable progress over quick recognition.","monthly":"Long-term responsibility is a traditional theme.","yearly":"A traditional theme of lasting victory through discipline."},
+    {"name":"Shravana","daily":"Listening, learning and information flow are emphasized.","weekly":"Observe carefully before responding.","monthly":"Education and communication are traditional themes.","yearly":"A traditional theme of learning, listening and transmission."},
+    {"name":"Dhanishta","daily":"Rhythm, resources and collective activity are emphasized.","weekly":"Coordinate people and timing carefully.","monthly":"Resource management and group activity are traditional themes.","yearly":"A traditional theme of rhythm, prosperity and community."},
+    {"name":"Shatabhisha","daily":"Analysis, independence and healing-oriented reflection are emphasized.","weekly":"Create space for research and recovery.","monthly":"Innovation and introspection are traditional themes.","yearly":"A traditional theme of inquiry, independence and restoration."},
+    {"name":"Pūrva Bhādrapadā","daily":"Idealism, intensity and principled choices are emphasized.","weekly":"Keep ideals connected to practical steps.","monthly":"Deep conviction and transformation are traditional themes.","yearly":"A traditional theme of idealism, austerity and transformation."},
+    {"name":"Uttara Bhādrapadā","daily":"Stability, patience and deep reflection are emphasized.","weekly":"Build quietly and consistently.","monthly":"Long-term consolidation is a traditional theme.","yearly":"A traditional theme of depth, patience and stability."},
+    {"name":"Revatī","daily":"Completion, guidance and safe journeys are emphasized.","weekly":"Close open loops and support transitions.","monthly":"Completion and movement are traditional themes.","yearly":"A traditional theme of guidance, completion and safe passage."},
+    {"name":"Abhijit","daily":"Traditionally treated as an auspicious intercalary nakshatra in selected muhurta traditions.","weekly":"Use only where the chosen Panchang tradition explicitly includes Abhijit.","monthly":"Its use is methodology-dependent rather than universal.","yearly":"Reference only; not part of the standard 27-nakshatra sequence."}
+  ],
+  "planets": ["Surya","Chandra","Mangala","Budha","Brihaspati","Shukra","Shani","Rahu","Ketu"],
+  "lists": {
+    "Nakshatras": ["Ashvinī","Bharanī","Kṛttikā","Rohinī","Mrigashīrsha","Ardra","Punarvasu","Pushya","Āshleshā","Maghā","Pūrva Phalgunī","Uttara Phalgunī","Hasta","Chitrā","Svātī","Vishākhā","Anurādhā","Jyēṣṭha","Mūla","Pūrva Ashādhā","Uttara Ashādhā","Shravana","Dhanishta","Shatabhisha","Pūrva Bhādrapadā","Uttara Bhādrapadā","Revatī","Abhijit"],
+    "Rāśi": ["Meṣa","Vṛṣabha","Mithuna","Karkaṭa","Siṃha","Kanyā","Tulā","Vṛścika","Dhanus","Makara","Kumbha","Mīna"],
+    "Solar Months": ["Mesa","Vrsabha","Mithuna","Karkata","Simha","Kanya","Tula","Vrscika","Dhanu","Makara","Kumbha","Mina"],
+    "Lunar Months": ["Chaitra","Vaishakha","Jyeshtha","Ashadha","Shravana","Bhadrapada","Ashvin","Kartika","Margashirsha","Pausha","Magha","Phalguna","Adhika-masa"],
+    "Navagraha": ["Surya","Chandra","Mangala","Budha","Brihaspati","Shukra","Shani","Rahu","Ketu"],
+    "Other concepts": ["Astrological aspects","Avastha","Atmakaraka","Ayanamsa","Bhāva","Choghadiya","Daśās","Drekkana","Karmasthana","Kuṇḍali","Lagna","Maraka","Nadi astrology","Panchangam","Panjika","Planetary dispositors","Rashmi","Science and Astrology","Sarvatobhadra Chakra","Trikonasthanas","Upachayasthanas","Vyatipāta","Yoga-karakas","Vakri grahas"],
+    "Yogas": ["Adhi yoga","Akhanda Samrajya yoga","Balarishta","Chamara yoga","Dainya yoga","Dhana yoga","Kahala yoga","Nabhasa yoga","Neechabhanga Raja yoga","Panch Mahapurusha yoga","Parajata yoga","Preshya yoga","Raja yoga","Sanyasa yoga","Viparita Raja yoga","Yoga"],
+    "Scriptures": ["Brihat Jataka","Bhavartha Ratnakara","Dasadhyayi","Garga Hora","Hora Ratna","Hora Sara","Jataka Parijata","Jatakalankara","Jataka Tattva","Laghu Parashari","Mansagari","Prashna Tantra","Prasna Marga","Phaladeepika","Sarvartha Chintamani","Tajika Neelakanthi"],
+    "Rishis / Astrologers": ["Bhrigu","Jaimini","Mantreswara","Nilakantha Daivajna","Parasara","Vaidyanatha Dikshita","Varahamihira"]
+  },
+  "knowledge": [
+    {"title":"Festivals & Hindu Calendar","category":"Calendar","description":"Year-wise festival framework with Panchang-based observance context.","href":"/calendar"},
+    {"title":"God & Lord Details","category":"Deities / Grahas","description":"Reference entry point for deity, graha and lordship material in the bundled datasets.","href":"/knowledge"},
+    {"title":"Mantra Details","category":"Mantra","description":"Dataset-backed mantra references and source catalogues.","href":"/knowledge"},
+    {"title":"Tantra Details","category":"Tantra","description":"Dataset-backed tantra references; source and tradition are kept visible.","href":"/knowledge"},
+    {"title":"Yantra Details","category":"Yantra","description":"Yantra references and source catalogues.","href":"/knowledge"},
+    {"title":"Gemstone Details","category":"Gemstones","description":"Gemstone recommendation rules and supporting dataset reference.","href":"/knowledge"},
+    {"title":"Chalisa & Aarti Details","category":"Devotional","description":"Reference entry point for devotional text datasets.","href":"/knowledge"},
+    {"title":"Names Details","category":"Names / Numerology","description":"Naming and numerology tools using the available numerology datasets.","href":"/calculators"},
+    {"title":"Scriptures Library","category":"Classical texts","description":"Indexed classical Jyotish and related reference sources bundled with the application.","href":"/knowledge"},
+    {"title":"Rishis & Astrologers","category":"Lineage","description":"Classical authors and astrologers represented in the source catalog.","href":"/lists"}
+  ],
+  "milan": [
+    {"title":"Ashtakoot / Guna Milan","text":"Eight classical kootas with a 36-point framework.","href":"/calculator/friendship"},
+    {"title":"Supplementary Kootas","text":"Mahendra, Stree Deergha, Rajju and Vedha where supported by the engine.","href":"/calculator/friendship"},
+    {"title":"Mangal Dosha","text":"Chart-based Manglik assessment is part of the Milan engine.","href":"/calculator/mangal-dosha"},
+    {"title":"Papa Samyam","text":"Additional chart comparison used by the Milan engine.","href":"/calculator/friendship"}
+  ],
+  "home": [
+    {"title":"Rāśi Based Bhavishya","text":"Daily, weekly, monthly and yearly sign forecasts.","href":"/rashi-bhavishya"},
+    {"title":"Planet Based Bhavishya","text":"Planet-wise movement and traditional interpretation.","href":"/planet-bhavishya"},
+    {"title":"Nakshatra Based Bhavishya","text":"Daily, weekly, monthly and yearly nakshatra themes.","href":"/nakshatra-bhavishya"},
+    {"title":"Astronomy","text":"Planet positions, conjunctions and clearly labelled traditional interpretations.","href":"/astronomy"},
+    {"title":"Panchang & Muhurta","text":"Tithi, Vara, Nakshatra, Yoga, Karana and time windows.","href":"/panchang"},
+    {"title":"Kundali Milan","text":"Full compatibility workflow built on the existing Milan engine.","href":"/kundali-milan"},
+    {"title":"Knowledge","text":"Festivals, gods, mantras, tantra, yantra, gemstones, scriptures and more.","href":"/knowledge"}
+  ],
+  "festivals": [
+    {"name":"Ugadi / Gudi Padwa","monthRule":"Chaitra Shukla Pratipada","observance":"Lunar-tithi based"},
+    {"name":"Rama Navami","monthRule":"Chaitra Shukla Navami","observance":"Lunar-tithi based"},
+    {"name":"Akshaya Tritiya","monthRule":"Vaishakha Shukla Tritiya","observance":"Lunar-tithi based"},
+    {"name":"Guru Purnima","monthRule":"Ashadha Purnima","observance":"Lunar-tithi based"},
+    {"name":"Raksha Bandhan","monthRule":"Shravana Purnima","observance":"Lunar-tithi based"},
+    {"name":"Janmashtami","monthRule":"Shravana / Bhadrapada Krishna Ashtami (tradition-dependent)","observance":"Lunar-tithi based"},
+    {"name":"Ganesh Chaturthi","monthRule":"Bhadrapada Shukla Chaturthi","observance":"Lunar-tithi based"},
+    {"name":"Navratri","monthRule":"Ashvin Shukla Pratipada onward","observance":"Lunar-tithi based"},
+    {"name":"Dussehra / Vijayadashami","monthRule":"Ashvin Shukla Dashami","observance":"Lunar-tithi based"},
+    {"name":"Dhanteras","monthRule":"Kartika Krishna Trayodashi","observance":"Lunar-tithi based"},
+    {"name":"Diwali / Deepavali","monthRule":"Kartika Amavasya","observance":"Lunar-tithi based"},
+    {"name":"Govardhan Puja","monthRule":"Kartika Shukla Pratipada","observance":"Lunar-tithi based"},
+    {"name":"Bhai Dooj","monthRule":"Kartika Shukla Dwitiya","observance":"Lunar-tithi based"},
+    {"name":"Maha Shivaratri","monthRule":"Magha / Phalguna Krishna Chaturdashi (tradition-dependent)","observance":"Lunar-tithi based"},
+    {"name":"Holi","monthRule":"Phalguna Purnima","observance":"Lunar-tithi based"}
+  ]
+}

@@ -1,0 +1,318 @@
+READABLE DATASET
+================================================================================
+Original file: calculator_catalog_v15.json
+Dataset number: 74 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 10,038 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 15.0.0
+• policy: Every calculator has a deterministic formula, input contract, provenance metadata, and audit status. Interpretive systems are not represented as scientifically proven.
+• calculators:
+  1.
+    • id: love
+    • name: Love Calculator
+    • category: compatibility
+    • route: /calculator/love
+    • inputs:
+      1.
+        nameA
+      2.
+        nameB
+    • method: deterministic-name-score
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  2.
+    • id: atmakaraka-darakaraka
+    • name: Atmakaraka & Darakaraka Calculator
+    • category: jaimini
+    • route: /calculator/atmakaraka-darakaraka
+    • inputs:
+      1.
+        birth
+    • method: lowest-and-second-lowest-degree among seven classical karaka planets
+    • scientificStatus: CLASSICAL_ALGORITHM
+  3.
+    • id: numerology
+    • name: Numerology Calculator
+    • category: numerology
+    • route: /calculator/numerology
+    • inputs:
+      1.
+        name
+      2.
+        dob
+    • method: dataset-driven Pythagorean + Cheiro
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  4.
+    • id: sun-sign
+    • name: Sun Sign Calculator
+    • category: astrology
+    • route: /calculator/sun-sign
+    • inputs:
+      1.
+        birth
+    • method: sidereal Sun longitude signOf
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  5.
+    • id: rising-sign
+    • name: Rising Sign Calculator
+    • category: astrology
+    • route: /calculator/rising-sign
+    • inputs:
+      1.
+        birth
+    • method: sidereal ascendant
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  6.
+    • id: ayanamsa
+    • name: Ayanamsa Calculator
+    • category: astronomy
+    • route: /calculator/ayanamsa
+    • inputs:
+      1.
+        date
+    • method: Lahiri ayanamsa from canonical astronomy utilities
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  7.
+    • id: rashi
+    • name: Rashi Calculator
+    • category: astrology
+    • route: /calculator/rashi
+    • inputs:
+      1.
+        birth
+    • method: sidereal Moon longitude signOf
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  8.
+    • id: dasha
+    • name: Dasha Calculator
+    • category: dasha
+    • route: /calculator/dasha
+    • inputs:
+      1.
+        birth
+    • method: canonical chart dasha suite
+    • scientificStatus: CLASSICAL_ALGORITHM
+  9.
+    • id: nakshatra
+    • name: Nakshatra Calculator
+    • category: astrology
+    • route: /calculator/nakshatra
+    • inputs:
+      1.
+        birth
+    • method: sidereal Moon longitude / 27
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  10.
+    • id: mangal-dosha
+    • name: Mangal Dosha Calculator
+    • category: dosha
+    • route: /calculator/mangal-dosha
+    • inputs:
+      1.
+        birth
+    • method: canonical Mangal Dosha engine
+    • scientificStatus: CLASSICAL_ALGORITHM
+  11.
+    • id: sade-sati
+    • name: Shani Sade Sati Calculator
+    • category: dosha
+    • route: /calculator/sade-sati
+    • inputs:
+      1.
+        birth
+      2.
+        date
+    • method: accurate Saturn transit engine
+    • scientificStatus: CLASSICAL_ALGORITHM
+  12.
+    • id: moon-phase
+    • name: Moon Phase Calculator
+    • category: astronomy
+    • route: /calculator/moon-phase
+    • inputs:
+      1.
+        date
+    • method: Sun-Moon angular separation
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  13.
+    • id: natal-chart
+    • name: Birth/Natal Chart Calculator
+    • category: astrology
+    • route: /calculator/natal-chart
+    • inputs:
+      1.
+        birth
+    • method: canonical InternalCalculationEngine
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  14.
+    • id: flames
+    • name: FLAMES Calculator
+    • category: entertainment
+    • route: /calculator/flames
+    • inputs:
+      1.
+        nameA
+      2.
+        nameB
+    • method: standard elimination algorithm
+    • scientificStatus: ENTERTAINMENT_ONLY
+  15.
+    • id: lucky-vehicle
+    • name: Lucky Vehicle Number Calculator
+    • category: numerology
+    • route: /calculator/lucky-vehicle-number
+    • inputs:
+      1.
+        vehicleNumber
+      2.
+        dob
+    • method: digit reduction + birth-number compatibility
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  16.
+    • id: friendship
+    • name: Friendship Calculator
+    • category: compatibility
+    • route: /calculator/friendship
+    • inputs:
+      1.
+        birthA
+      2.
+        birthB
+    • method: planetary friendship + sign compatibility
+    • scientificStatus: CLASSICAL_ALGORITHM
+  17.
+    • id: kaal-sarp-dosh
+    • name: Kaal Sarp Dosh Calculator
+    • category: dosha
+    • route: /calculator/kaal-sarp-dosh
+    • inputs:
+      1.
+        birth
+    • method: canonical Kalsarpa Dosha engine
+    • scientificStatus: CLASSICAL_ALGORITHM
+  18.
+    • id: ishta-devata
+    • name: Ishta Devata Calculator
+    • category: jaimini
+    • route: /calculator/ishta-devata
+    • inputs:
+      1.
+        birth
+    • method: Karakamsa/Atmakaraka based engine
+    • scientificStatus: CLASSICAL_ALGORITHM
+  19.
+    • id: lo-shu-grid
+    • name: Lo Shu Grid Calculator
+    • category: numerology
+    • route: /calculator/lo-shu-grid
+    • inputs:
+      1.
+        dob
+    • method: Lo Shu birth-date grid
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  20.
+    • id: transit-chart
+    • name: Transit Chart Calculator
+    • category: transit
+    • route: /calculator/transit-chart
+    • inputs:
+      1.
+        birth
+      2.
+        date
+    • method: canonical transit overlay
+    • scientificStatus: ASTRONOMICAL_CALCULATION
+  21.
+    • id: name-compatibility
+    • name: Name Compatibility Calculator
+    • category: compatibility
+    • route: /calculator/name-compatibility
+    • inputs:
+      1.
+        nameA
+      2.
+        nameB
+    • method: dataset-driven numerology compatibility
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  22.
+    • id: mulank
+    • name: Mulank Calculator
+    • category: numerology
+    • route: /calculator/mulank
+    • inputs:
+      1.
+        dob
+    • method: birth-day digital root with master-number policy
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  23.
+    • id: destiny-number
+    • name: Destiny Number Calculator
+    • category: numerology
+    • route: /calculator/destiny-number
+    • inputs:
+      1.
+        name
+    • method: Pythagorean name reduction
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  24.
+    • id: age
+    • name: Age Calculator
+    • category: utility
+    • route: /calculator/age
+    • inputs:
+      1.
+        dob
+      2.
+        asOf
+    • method: calendar age with completed years/months/days
+    • scientificStatus: DETERMINISTIC
+  25.
+    • id: mobile-number
+    • name: Mobile Number Numerology Calculator
+    • category: numerology
+    • route: /calculator/mobile-number
+    • inputs:
+      1.
+        mobile
+    • method: digit reduction
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+  26.
+    • id: lucky-name
+    • name: Lucky Name Numerology Calculator
+    • category: numerology
+    • route: /calculator/lucky-name
+    • inputs:
+      1.
+        name
+      2.
+        dob
+    • method: name number vs birth-number compatibility
+    • scientificStatus: NOT_SCIENTIFICALLY_VALIDATED
+• panchang:
+  TABLE (10 rows)
+  id | route | method
+  --------------------
+  today-panchang | /panchang/today | canonical calcPanchanga
+  rahu-kaal | /panchang/rahu-kaal | canonical calcPanchanga.rahuKaal
+  choghadiya | /panchang/choghadiya | eight daytime/eight nighttime segments with weekday lords
+  tithi | /panchang/tithi | canonical lunar-solar elongation
+  vaar | /panchang/vaar | canonical local civil weekday
+  hora | /panchang/hora | planetary-hour sequence from sunrise
+  karana | /panchang/karana | canonical half-tithi karana
+  tomorrow-panchang | /panchang/tomorrow | canonical calcPanchanga next civil day
+  shubh-muhurat | /panchang/shubh-muhurat | canonical auspicious-period calculations
+  numerology | /panchang/numerology | numerology integration
+• horoscopeRoutes:
+  TABLE (6 rows)
+  id | route
+  --------------------
+  daily | /horoscope/daily-horoscope
+  tomorrow | /horoscope/tomorrow-horoscope
+  yesterday | /horoscope/yesterday-horoscope
+  weekly | /horoscope/weekly-horoscope
+  monthly | /horoscope/monthly-horoscope
+  yearly | /horoscope/yearly-horoscope

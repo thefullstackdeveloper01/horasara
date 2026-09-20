@@ -1,0 +1,41 @@
+READABLE DATASET
+================================================================================
+Original file: upagrahas.json
+Dataset number: 401 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 245 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• PLANET_ORDER_WEEKDAY:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+• WEEKDAY_RULERS:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn

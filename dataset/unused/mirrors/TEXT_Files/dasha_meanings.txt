@@ -1,0 +1,1061 @@
+READABLE DATASET
+================================================================================
+Original file: dasha_meanings.json
+Dataset number: 97 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 19,455 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 2.0
+• system: Vimshottari Dasha
+• total_cycle_years: 120
+• sequence:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Rahu
+  5.
+    Jupiter
+  6.
+    Saturn
+  7.
+    Mercury
+  8.
+    Ketu
+  9.
+    Venus
+• dasha_meanings:
+  • Sun:
+    • duration_years: 6
+    • duration_display: 6 years
+    • natural_significations:
+      1.
+        Soul
+      2.
+        Father
+      3.
+        Authority
+      4.
+        Government
+      5.
+        Health
+      6.
+        Vitality
+      7.
+        Ego
+      8.
+        Career
+      9.
+        Leadership
+    • body_parts:
+      1.
+        Heart
+      2.
+        Eyes (right)
+      3.
+        Bones
+      4.
+        Stomach
+      5.
+        Blood circulation
+    • keywords_positive:
+      1.
+        Recognition
+      2.
+        Government favor
+      3.
+        Career advancement
+      4.
+        Leadership
+      5.
+        Confidence
+      6.
+        Fame
+    • keywords_negative:
+      1.
+        Ego conflicts
+      2.
+        Authority issues
+      3.
+        Father-related problems
+      4.
+        Heart issues
+      5.
+        Arrogance
+    • career_domains:
+      1.
+        Government
+      2.
+        Politics
+      3.
+        Administration
+      4.
+        Medicine
+      5.
+        Gold trade
+      6.
+        Management
+    • favorable_for:
+      1.
+        Career growth
+      2.
+        Government positions
+      3.
+        Leadership roles
+      4.
+        Public recognition
+    • challenging_for:
+      1.
+        Relationships (ego issues)
+      2.
+        Father health
+      3.
+        Eye health
+    • house_effects:
+      • 1st_lord: Strong identity, career focus
+      • 2nd_lord: Wealth through authority
+      • 3rd_lord: Courageous efforts, writing
+      • 4th_lord: Property gain, mother issues
+      • 5th_lord: Intelligence activated, children
+      • 6th_lord: Enemies emerge, health focus
+      • 7th_lord: Maraka — health watch
+      • 8th_lord: Chronic issues, transformation
+      • 9th_lord: Fortune, father's health
+      • 10th_lord: Peak career period
+      • 11th_lord: Great gains
+      • 12th_lord: Expenses, spiritual retreat
+    • best_sub_dashas:
+      1.
+        Jupiter
+      2.
+        Moon
+      3.
+        Mars
+    • challenging_sub_dashas:
+      1.
+        Saturn
+      2.
+        Rahu
+    • gemstone: Ruby
+    • mantra: Aditya Hridayam or Om Hraam Hreem Hraum Sah Suryaya Namah
+    • advice: Use this dasha for career advancement. Respect authorities. Be mindful of ego. Father's health may be concern.
+    • spiritual_significance: Soul awakening; dharmic action; past life leadership karma activated
+    • average_peak_period: Middle 2-3 years of the dasha
+  • Moon:
+    • duration_years: 10
+    • duration_display: 10 years
+    • natural_significations:
+      1.
+        Mind
+      2.
+        Mother
+      3.
+        Emotions
+      4.
+        Intuition
+      5.
+        Public
+      6.
+        Liquids
+      7.
+        Travel
+      8.
+        Popularity
+      9.
+        Nourishment
+    • body_parts:
+      1.
+        Mind
+      2.
+        Chest
+      3.
+        Left eye
+      4.
+        Breasts
+      5.
+        Uterus
+      6.
+        Lymphatic system
+    • keywords_positive:
+      1.
+        Emotional fulfillment
+      2.
+        Public popularity
+      3.
+        Mother's blessing
+      4.
+        Intuition
+      5.
+        Creativity
+      6.
+        Travel
+    • keywords_negative:
+      1.
+        Emotional instability
+      2.
+        Mental anxiety
+      3.
+        Mother health issues
+      4.
+        Mood swings
+      5.
+        Water problems
+    • career_domains:
+      1.
+        Public relations
+      2.
+        Hospitality
+      3.
+        Nursing
+      4.
+        Farming
+      5.
+        Ocean trade
+      6.
+        Milk products
+      7.
+        Psychology
+    • favorable_for:
+      1.
+        Public contact
+      2.
+        Emotional healing
+      3.
+        Creative work
+      4.
+        Mother relationships
+      5.
+        Travel
+    • challenging_for:
+      1.
+        Consistent focus
+      2.
+        Mental stability (if Moon afflicted)
+    • house_effects:
+      • 1st_lord: Personal growth, emotional period
+      • 4th_lord: Home matters, mother focus
+      • 7th_lord: Maraka risk, relationship focus
+      • 10th_lord: Public career, fame period
+    • best_sub_dashas:
+      1.
+        Moon
+      2.
+        Venus
+      3.
+        Jupiter
+    • challenging_sub_dashas:
+      1.
+        Ketu
+      2.
+        Rahu
+    • gemstone: Pearl
+    • mantra: Om Shraam Shreem Shraum Sah Chandraya Namah
+    • advice: Emotional period — cultivate inner peace. Good for public-facing work. Mother's wellbeing important.
+    • spiritual_significance: Emotional purification; maternal karma; public service
+    • average_peak_period: First 4 years if Moon is waxing in natal chart
+  • Mars:
+    • duration_years: 7
+    • duration_display: 7 years
+    • natural_significations:
+      1.
+        Energy
+      2.
+        Courage
+      3.
+        Brothers
+      4.
+        Property
+      5.
+        Surgery
+      6.
+        Sports
+      7.
+        Military
+      8.
+        Aggression
+      9.
+        Technical skills
+    • body_parts:
+      1.
+        Muscles
+      2.
+        Blood
+      3.
+        Right ear
+      4.
+        Bone marrow
+      5.
+        Nose
+    • keywords_positive:
+      1.
+        Physical energy
+      2.
+        Property gains
+      3.
+        Courage
+      4.
+        Technical mastery
+      5.
+        Leadership in action
+    • keywords_negative:
+      1.
+        Accidents
+      2.
+        Aggression
+      3.
+        Conflicts
+      4.
+        Blood disorders
+      5.
+        Surgery risk
+      6.
+        Brother issues
+    • career_domains:
+      1.
+        Military
+      2.
+        Engineering
+      3.
+        Surgery
+      4.
+        Sports
+      5.
+        Real estate
+      6.
+        Police
+      7.
+        Fire fighting
+    • favorable_for:
+      1.
+        Property purchase
+      2.
+        Sports
+      3.
+        Physical activity
+      4.
+        Technical work
+      5.
+        Courage-based decisions
+    • challenging_for:
+      1.
+        Patience
+      2.
+        Peaceful relationships
+      3.
+        Legal matters
+    • house_effects:
+      • 1st_lord: Physical dominance, leadership
+      • 2nd_lord: Wealth through effort
+      • 4th_lord: Property gains/issues
+      • 7th_lord: Maraka — accidents/surgeries
+      • 8th_lord: Chronic issues, accidents
+    • best_sub_dashas:
+      1.
+        Sun
+      2.
+        Jupiter
+      3.
+        Moon
+    • challenging_sub_dashas:
+      1.
+        Rahu
+      2.
+        Saturn
+    • gemstone: Red Coral
+    • mantra: Om Kraam Kreem Kraum Sah Bhaumaya Namah
+    • advice: Channel energy productively. Avoid unnecessary conflicts. Good for real estate. Stay careful about accidents.
+    • spiritual_significance: Courage activation; karmic battles; brotherly bonds
+    • average_peak_period: Middle 3 years
+  • Rahu:
+    • duration_years: 18
+    • duration_display: 18 years
+    • natural_significations:
+      1.
+        Obsession
+      2.
+        Unconventional paths
+      3.
+        Foreign
+      4.
+        Technology
+      5.
+        Mass media
+      6.
+        Illusions
+      7.
+        Sudden events
+      8.
+        Ambition
+    • body_parts:
+      1.
+        Nervous system
+      2.
+        Skin (unusual disorders)
+      3.
+        Foreign-origin diseases
+    • keywords_positive:
+      1.
+        Sudden rise
+      2.
+        Fame through unconventional means
+      3.
+        Foreign success
+      4.
+        Technology mastery
+      5.
+        Spiritual awakening
+    • keywords_negative:
+      1.
+        Illusions
+      2.
+        Addiction
+      3.
+        Obsession
+      4.
+        Sudden reversals
+      5.
+        Deceit
+      6.
+        Identity confusion
+      7.
+        Health issues
+    • career_domains:
+      1.
+        Technology
+      2.
+        Media
+      3.
+        Foreign trade
+      4.
+        Research
+      5.
+        Politics
+      6.
+        Mass communication
+      7.
+        Film
+    • favorable_for:
+      1.
+        Foreign connections
+      2.
+        Technology
+      3.
+        Mass media
+      4.
+        Breaking conventions
+    • challenging_for:
+      1.
+        Ethical grounding
+      2.
+        Mental peace
+      3.
+        Conventional social life
+    • house_effects:
+      • 1st_lord: Unusual personality changes
+      • 6th_lord: Victory over enemies, health obsession
+      • 10th_lord: Sudden career changes
+      • 11th_lord: Massive unexpected gains
+    • best_sub_dashas:
+      1.
+        Jupiter
+      2.
+        Mercury
+      3.
+        Venus
+    • challenging_sub_dashas:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Mars
+    • gemstone: Hessonite (Gomed)
+    • mantra: Om Raam Rahave Namah or Durga Saptashati
+    • advice: Most unpredictable dasha. Focus on spirituality. Beware of illusions. Great for unconventional success if Rahu is well-placed.
+    • spiritual_significance: Karmic amplification; past life debts; illusion dissolution
+    • average_peak_period: Years 6-12 typically most intense
+  • Jupiter:
+    • duration_years: 16
+    • duration_display: 16 years
+    • natural_significations:
+      1.
+        Wisdom
+      2.
+        Children
+      3.
+        Guru
+      4.
+        Dharma
+      5.
+        Wealth
+      6.
+        Expansion
+      7.
+        Education
+      8.
+        Religion
+      9.
+        Law
+      10.
+        Husband (for women)
+    • body_parts:
+      1.
+        Liver
+      2.
+        Thighs
+      3.
+        Adipose tissue
+      4.
+        Blood sugar regulation
+    • keywords_positive:
+      1.
+        Wisdom expansion
+      2.
+        Wealth accumulation
+      3.
+        Children
+      4.
+        Higher education
+      5.
+        Spiritual growth
+      6.
+        Legal success
+    • keywords_negative:
+      1.
+        Overconfidence
+      2.
+        Weight gain
+      3.
+        Liver issues
+      4.
+        Excessive optimism
+      5.
+        Guru betrayal
+    • career_domains:
+      1.
+        Teaching
+      2.
+        Law
+      3.
+        Finance
+      4.
+        Consulting
+      5.
+        Religious work
+      6.
+        Publishing
+      7.
+        Counseling
+    • favorable_for:
+      1.
+        Education
+      2.
+        Marriage (for women)
+      3.
+        Children
+      4.
+        Spiritual practice
+      5.
+        Legal matters
+      6.
+        Finance
+    • challenging_for:
+      1.
+        Practical matters if overly philosophical
+      2.
+        Liver health
+    • house_effects:
+      • 1st_lord: Wisdom and body expansion
+      • 2nd_lord: Wealth expansion
+      • 5th_lord: Children, intelligence peak
+      • 9th_lord: Greatest fortune period
+      • 11th_lord: Massive gains
+    • best_sub_dashas:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Mars
+    • challenging_sub_dashas:
+      1.
+        Mercury
+      2.
+        Venus
+    • gemstone: Yellow Sapphire
+    • mantra: Om Graam Greem Graum Sah Guruve Namah
+    • advice: Best dasha for spiritual growth and wisdom. Pursue education and dharmic activities. Marriage-children favorable period.
+    • spiritual_significance: Dharma activation; guru connection; past life merit reward
+    • average_peak_period: First half of the 16-year period
+  • Saturn:
+    • duration_years: 19
+    • duration_display: 19 years
+    • natural_significations:
+      1.
+        Discipline
+      2.
+        Karma
+      3.
+        Delay
+      4.
+        Hard work
+      5.
+        Masses
+      6.
+        Longevity
+      7.
+        Property
+      8.
+        Service
+      9.
+        Structure
+    • body_parts:
+      1.
+        Bones
+      2.
+        Teeth
+      3.
+        Joints
+      4.
+        Skin
+      5.
+        Nervous system (chronic)
+      6.
+        Spleen
+    • keywords_positive:
+      1.
+        Discipline
+      2.
+        Long-term success
+      3.
+        Longevity
+      4.
+        Structural achievements
+      5.
+        Mass wealth
+      6.
+        Political success
+    • keywords_negative:
+      1.
+        Delays
+      2.
+        Depression
+      3.
+        Loneliness
+      4.
+        Chronic illness
+      5.
+        Heavy responsibilities
+      6.
+        Losses
+    • career_domains:
+      1.
+        Mining
+      2.
+        Real estate
+      3.
+        Politics
+      4.
+        Labor
+      5.
+        Agriculture
+      6.
+        Construction
+      7.
+        Government service
+    • favorable_for:
+      1.
+        Long-term projects
+      2.
+        Discipline
+      3.
+        Mass work
+      4.
+        Government service
+      5.
+        Karma yoga
+    • challenging_for:
+      1.
+        Quick results
+      2.
+        Joy and celebration
+      3.
+        Health (bones/joints)
+    • house_effects:
+      • 1st_lord: Hard work pays off slowly
+      • 4th_lord: Property through hard work
+      • 7th_lord: Maraka — delayed marriage or partner health
+      • 10th_lord: Slow but sure career rise
+      • 11th_lord: Gains through labor
+    • best_sub_dashas:
+      1.
+        Mercury
+      2.
+        Venus
+      3.
+        Saturn
+    • challenging_sub_dashas:
+      1.
+        Sun
+      2.
+        Moon
+    • gemstone: Blue Sapphire (with caution)
+    • mantra: Om Pram Prim Prom Sah Shanaischaraya Namah
+    • advice: Longest dasha — 19 years. Patience is key. Hard work will eventually be rewarded. Focus on karma yoga.
+    • spiritual_significance: Karmic reckoning; discipline; service; liberation through work
+    • average_peak_period: Last 7 years after initial struggle phase
+  • Mercury:
+    • duration_years: 17
+    • duration_display: 17 years
+    • natural_significations:
+      1.
+        Intelligence
+      2.
+        Communication
+      3.
+        Business
+      4.
+        Siblings
+      5.
+        Analysis
+      6.
+        Writing
+      7.
+        Trade
+      8.
+        Education
+      9.
+        Dual nature
+    • body_parts:
+      1.
+        Nervous system
+      2.
+        Tongue
+      3.
+        Arms
+      4.
+        Lungs (partly)
+      5.
+        Intestines
+    • keywords_positive:
+      1.
+        Business success
+      2.
+        Communication skills
+      3.
+        Education
+      4.
+        Analytical thinking
+      5.
+        Trade
+      6.
+        Writing
+    • keywords_negative:
+      1.
+        Nervous disorders
+      2.
+        Indecision
+      3.
+        Dishonesty
+      4.
+        Breathing issues
+      5.
+        Sibling conflicts
+    • career_domains:
+      1.
+        Business
+      2.
+        Accounting
+      3.
+        Writing
+      4.
+        Teaching
+      5.
+        IT
+      6.
+        Trade
+      7.
+        Consulting
+      8.
+        Media
+    • favorable_for:
+      1.
+        Business ventures
+      2.
+        Education
+      3.
+        Writing
+      4.
+        Communication
+      5.
+        Short trips
+    • challenging_for:
+      1.
+        Single-minded focus
+      2.
+        Emotional depth
+      3.
+        Romantic consistency
+    • house_effects:
+      • 1st_lord: Intellectual personality
+      • 2nd_lord: Wealth through intelligence
+      • 3rd_lord: Writing, communication peak
+      • 5th_lord: Creative intelligence
+      • 10th_lord: Career through intelligence/communication
+    • best_sub_dashas:
+      1.
+        Sun
+      2.
+        Venus
+      3.
+        Jupiter
+    • challenging_sub_dashas:
+      1.
+        Moon
+      2.
+        Ketu
+    • gemstone: Emerald
+    • mantra: Om Braam Breem Braum Sah Budhaya Namah
+    • advice: Excellent dasha for business, education, and communication. Adaptability is key. Keep commitments.
+    • spiritual_significance: Discernment; intellectual karma; communication of truth
+    • average_peak_period: Middle phase — years 6-12
+  • Ketu:
+    • duration_years: 7
+    • duration_display: 7 years
+    • natural_significations:
+      1.
+        Spirituality
+      2.
+        Detachment
+      3.
+        Past life
+      4.
+        Liberation
+      5.
+        Intuition
+      6.
+        Occult
+      7.
+        Isolation
+      8.
+        Sudden loss
+      9.
+        Dogs
+    • body_parts:
+      1.
+        Lower extremities
+      2.
+        Tail-bone
+      3.
+        Nervous disorders
+      4.
+        Wounds (unusual)
+    • keywords_positive:
+      1.
+        Spiritual awakening
+      2.
+        Psychic abilities
+      3.
+        Liberation from materialism
+      4.
+        Occult mastery
+      5.
+        Detachment
+    • keywords_negative:
+      1.
+        Confusion
+      2.
+        Loss
+      3.
+        Detachment (negative)
+      4.
+        Accidents
+      5.
+        Health (sudden)
+      6.
+        Isolation
+    • career_domains:
+      1.
+        Spirituality
+      2.
+        Occult
+      3.
+        Research
+      4.
+        Astrology
+      5.
+        Surgery
+      6.
+        Military (secret ops)
+    • favorable_for:
+      1.
+        Spiritual practice
+      2.
+        Research
+      3.
+        Occult learning
+      4.
+        Detachment
+      5.
+        Past life healing
+    • challenging_for:
+      1.
+        Material pursuits
+      2.
+        Consistent effort
+      3.
+        Social life
+      4.
+        Emotional connections
+    • house_effects:
+      • 1st_lord: Confusion about identity
+      • 5th_lord: Spiritual intelligence
+      • 8th_lord: Sudden transformations
+      • 9th_lord: Spiritual fortune
+      • 12th_lord: Moksha activation
+    • best_sub_dashas:
+      1.
+        Jupiter
+      2.
+        Mars
+      3.
+        Sun
+    • challenging_sub_dashas:
+      1.
+        Moon
+      2.
+        Saturn
+    • gemstone: Cat's Eye (Lehsunia)
+    • mantra: Om Sraam Sreem Sraum Sah Ketave Namah
+    • advice: Highly spiritual dasha. Good for sadhana and letting go. Avoid forced material pursuits. Trust intuition.
+    • spiritual_significance: Moksha preparation; past life completion; liberation karma
+    • average_peak_period: First 3 years most intense spiritually
+  • Venus:
+    • duration_years: 20
+    • duration_display: 20 years
+    • natural_significations:
+      1.
+        Love
+      2.
+        Beauty
+      3.
+        Luxury
+      4.
+        Spouse
+      5.
+        Arts
+      6.
+        Music
+      7.
+        Pleasure
+      8.
+        Vehicles
+      9.
+        Wealth
+      10.
+        Wife
+    • body_parts:
+      1.
+        Reproductive system
+      2.
+        Eyes (both)
+      3.
+        Kidneys
+      4.
+        Skin
+      5.
+        Thyroid (some traditions)
+    • keywords_positive:
+      1.
+        Wealth
+      2.
+        Love
+      3.
+        Marriage
+      4.
+        Artistic success
+      5.
+        Luxury
+      6.
+        Vehicles
+      7.
+        Business
+      8.
+        Beauty
+    • keywords_negative:
+      1.
+        Sensual excess
+      2.
+        Relationship complications
+      3.
+        Kidney issues
+      4.
+        Laziness
+      5.
+        Vanity
+    • career_domains:
+      1.
+        Entertainment
+      2.
+        Arts
+      3.
+        Music
+      4.
+        Fashion
+      5.
+        Cosmetics
+      6.
+        Hospitality
+      7.
+        Finance
+      8.
+        Diplomacy
+    • favorable_for:
+      1.
+        Marriage
+      2.
+        Love relationships
+      3.
+        Artistic work
+      4.
+        Business
+      5.
+        Luxury acquisition
+    • challenging_for:
+      1.
+        Spiritual practice
+      2.
+        Discipline
+      3.
+        Confrontation
+    • house_effects:
+      • 1st_lord: Charming personality, beauty
+      • 2nd_lord: Great wealth period
+      • 5th_lord: Love and creativity
+      • 7th_lord: Marriage/partnership focus
+      • 10th_lord: Career in arts/beauty
+      • 11th_lord: Massive material gains
+    • best_sub_dashas:
+      1.
+        Jupiter
+      2.
+        Saturn
+      3.
+        Mercury
+    • challenging_sub_dashas:
+      1.
+        Sun
+      2.
+        Moon
+    • gemstone: Diamond
+    • mantra: Om Draam Dreem Draum Sah Shukraya Namah
+    • advice: Longest and most pleasant dasha for many. Focus on love, arts, and prosperity. Balance pleasure with responsibility.
+    • spiritual_significance: Bhakti activation; divine love; beauty as spiritual path
+    • average_peak_period: Years 8-15 typically most prosperous

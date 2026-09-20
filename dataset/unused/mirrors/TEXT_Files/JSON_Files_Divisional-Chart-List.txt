@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Divisional-Chart-List.json
+Dataset number: 167 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 729 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | division | primary_significator | calculation_rule | interpretation_logic
+-------------------------------------------------------------------------------------
+varga_001 | Navamsa (D9) | 9 | Marriage, Spouse, Inner Soul, Fortunes after 30 | Each sign of 30° is divided into 9 parts of 3°20'. | If a planet is strong in D1 but debilitated in D9, its positive effects will not manifest. 'D9 is the fruit of the tree (D1)'.
+varga_002 | Dashamsa (D10) | 10 | Career, Profession, Public Standing | Each sign is divided into 10 parts of 3°. | Used to check the true strength of the 10th house lord of D1.

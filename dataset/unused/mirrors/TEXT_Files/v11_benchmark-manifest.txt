@@ -1,0 +1,44 @@
+READABLE DATASET
+================================================================================
+Original file: v11_benchmark-manifest.json
+Dataset number: 406 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 491 bytes
+Top-level fields: 7
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 11.0
+• status: READY_FOR_INDEPENDENT_IMPORT
+• engines:
+  1.
+    HoraSaar
+  2.
+    JHora
+  3.
+    HoraParashara
+  4.
+    AstroSage
+  5.
+    Astro.com
+• comparisonPolicy:
+  • sameInput: Yes
+  • sameConventions: Yes
+  • sameLocation: Yes
+  • sameTimezone: Yes
+  • noInventedResults: Yes
+• requiredEvidence:
+  1.
+    input
+  2.
+    conventions
+  3.
+    output
+  4.
+    source
+  5.
+    retrievedAt
+• cases:
+  (empty list)
+• note: Competitor results are never fabricated. Populate only from independently obtained, legally usable reference outputs.

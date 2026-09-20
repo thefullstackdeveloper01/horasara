@@ -1,0 +1,3027 @@
+READABLE DATASET
+================================================================================
+Original file: yantra_geometrie_celesti_tantra_books.json
+Dataset number: 447 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 109,810 bytes
+Top-level fields: 11
+Title: yantra - geometrie - celesti - Tantra Books
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: yantra - geometrie - celesti - Tantra Books
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Yantra Books XML
+  • total_pages: 244
+  • total_words: 16610
+  • text_quality:
+    • ocr_word_validity_score: 0.729
+    • quality_tier: moderate
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Alla Madre, ai Guru,
+a chi ha sete di conoscenza.
+
+YANTRA
+GEOMETRIE CELESTI
+Yantra e traduzioni a cura di
+Govinda Das Aghori
+
+Mahagori Shelputri Katyayani
+cinque
+E
+Y
+Kushmanda Siddhidatri Brahmacharini
+Nav Durga Yantra - lo yantra delle nove Durga
+
+Indice
+Introduzione di Govinda Das Aghori
+Significato dei numeri e dei simboli
+I guardiani delle direzioni
+Le 7 categorie di Yantra secondo il loro uso
+Usi pratici e magici degli Yantra
+Matrika Yantra
+I 7 Chakra
+Shri Yantra
+Devi Khadgamala Stotram
+Le 15 Nitya
+Hanuman Yantra
+Navgraha Yantra
+Maha Lakshmi Yantra
+Kubera Yantra
+Kali Yantra
+Mahavidya
+Durga Yantra
+64 Yoginis Yantra
+Mrityunjaya Yantra
+Ganesh Yantra
+Sarasvati Yantra
+Annapurna Yantra
+Kurma Yantra e Cit-Kunda
+Hsauh Yantra e Rudra Bhairavi
+Tara Yantra e Nav Yoni Yantra
+Chinnamasta Yantra
+Kalki Yantra
+
+Parashurama Yantra
+Krishna Yantra
+Santaan Gopal Yantra
+Kaumara Yantra
+Bisa Yantra
+Sarvamanokamna Yantra
+Bhoot Pret Yantra
+Vashikaran Yantra
+Altri Yantra
+Karya Siddhi Yantra
+Vastu Yantra
+Kaal Sarp Yog Yantra
+Gayatri Yantra
+Ashtanga Yantra
+Dattatreya Yantra
+Navnath Yantra
+Batuk Bhairava Yantra
+Swastika
+Fiore della Vita
+Geometria Sacra
+Soundarya Lahari (Onde di Bellezza)
+Soundarya Lahari Parte IT
+
+YANTRA
+GEOMETRIE CELESTI
+Lo Yantra è la rappresentazione grafica, matematica e magica del
+divino. E una tradizione antichissima che si perde nella notte dei
+tempi, possiamo trovare rappresentazioni grafiche di Dio nelle pitture
+murali preistoriche, giochi di numeri e quadrati magici in molte
+culture antiche. Ma è nella tradizione tantrica che gli Yantra
+assumono un più ampio spettro di usi.
+Gli Yantra quindi non devono essere confusi con la magia o la
+superstizione, ma sono un vero e proprio strumento di culto. Il
+significato della parola in sanscrito è infatti strumento, supporto,
+macchina, dispositivo.
+Molti Yantra sono racchiusi in un quadrato (b/upur) con quattro
+porte. Il quadrato rappresenta il mondo materiale mentre le porte
+sono i punti di accesso nello Yantra. Le figure geometriche, i simboli, i
+numeri al suo interno sono come parti di questo meccanismo. Essi ci
+portano gradualmente verso il suo centro che rappresenta la
+Coscienza Suprema. Uno yantra è quindi uno strumento che ci
+permette di fare un viaggio interiore alla scoperta del Sé Supremo.
+Oltre che per invocare il divino lo Yantra è usato dagli Aghori e da
+molti sadhu hindu come oggetto di meditazione. Viene dipinto nei
+muri dei templi o vicino al dhuni (fuoco sacro). Viene inciso su piccole
+lastre di rame e posizionato solitamente nel mandir (tempietto).
+Oppure viene scritto in piccoli quadrati di carta dentro ad un
+contenitore di argento o di rame come amuleti (Kavacha), per ogni
+applicazione c'è uno Yantra specifico.
+Lo studio degli Yantra è un passo importante nel particolare sadhana
+(percorso spirituale) degli Aghori. Ecco il motivo del mio grande
+interesse per queste antiche conoscenze ed il motivo che mi spinge a
+condividerle. Tutti gli Yantra qui illustrati li potete trovare in una
+risoluzione maggiore su aghori.it/yantra.
+Govinda Das Aghori
+
+SIGNIFICATO DEI NUMERI
+assoluto, azione
+dualità, ying yang (+/ -), maschile e femminile
+2+1 perfezione
+terra
+uomo
+eccesso materiale
+l'uomo domina la materia
+infinito
+spiritualità
+il cerchio, Dio
+PUOI S MEME
+1 > 9 evoluzione materia, involuzione spirito
+9 с? 1 evoluzione spirito, involuzione materia
+SIGNIFICATO DEI SIMBOLI
+Nada Bindu
+formato da un
+bindu statico e da
+un suono dinamico
+(nada)
+Spazio (ο) Centro
+Bindu -
+& rappresenta la
+coscienza suprema
+Terra Staticità, Terra
+O
+Ц
+
+Maschile, Fuoco Espressione
+Creazione,
+Femminile, Acqua E Movimento orario
+ug»
+La LJ
+Dissoluzione,
+Equilibrio Movimento
+antiorario
+Preservazione,
+equilibrio tra Swastika - simbolo
+staticità e di Aum e Ganesh
+dinamicità
+Ecco alcuni esempi di Yantra:
+YANTRA MASCHILE A
+YANTRA FEMMINILE
+GURU YANTRA l'unione tra gli Yantra maschile e
+femminile.
+
+I DIECI DIKPALA
+(i guardiani delle direzioni)
+EST
+NORD-EST INDRA SUD-EST
+ISHANA AGNI
+NORD-OVEST SUD-OVEST
+VAYU OVEST NIRRITI
+VARUNA
+NADIR
+VISHNU
+NN
+
+Nome
+Kubera
+Yama
+Indra
+Varuna
+Ishana
+Agni
+Vayu
+Nirriti
+Vishnu
+Brahma
+Direz.
+Nord
+Sud
+Est
+Ovest
+Nordest
+Sud-est
+Nordovest
+Sudovest
+Nadir
+Zenit
+Mantra
+Om Sham
+Kuberaya Namah
+Om Mam Yamaya
+Namah
+Om Lam Indraya
+Namah
+Om Vam Varunaya
+Namah
+Om Ham Ishanaya
+Namah
+Om Ram Agnaye
+Namah
+Om Yam Vayuve
+Namah
+Om Ksham
+Rakshasaya
+Namah
+Om Klim Vishnave
+Namah
+Om Hrim
+Brahmane Namah
+Arma
+Gada
+(mazza)
+Danda
+(bastone)
+Vajra
+(fulmine)
+Pasha
+(cappio)
+Trishula
+(tridente)
+Shakti
+(ascia)
+Ankusha
+(pungolo)
+Khadga
+(spada)
+Chakra
+(disco)
+Consorte
+Kuberajaya
+Yami
+Shaci
+Nalani
+Parvati
+Svaha
+Bharati
+Khadgi
+Lakshmi
+Padma (loto) Sarasvati
+Matrika
+Kumari
+Varahi
+Aindri
+Varuni
+Maheshvari
+Meshavahini
+Mrigavahini
+Khadagadharini
+Vaishnavi
+Brahmani
+Graha (Pianeta)
+Budha (Mercurio)
+Mangala (Marte)
+Surya (Sole)
+Shani (Saturno)
+Brihaspati (Giove)
+Shukra (Venere)
+Chandra (Luna)
+Rahu (Nodo
+Lunare Nord)
+Lagna
+(ascendente)
+Ketu (Nodo
+Lunare Sud)
+
+Le 7 categorie di Yantra secondo il loro uso:
+Sharir Yantra
+Gli Yantra del corpo, come quelli dei Chakra.
+Dharan Yantra
+Gli Yantra indossati in varie parti del corpo, secondo i rituali
+prescritti dal guru.
+Asan Yantra
+Gli Yantra posti sotto il seggio o il tappetino per la meditazione,
+ma anche sotto templi, case o divinità.
+Mandal Yantra
+In questi Yantra ci sono 9 partecipanti che siedono ognuno
+nelle 8 direzioni ed una al centro che fa la puja recitando il
+mantra principale mentre gli altri recitano il mantra
+corrispondente alla Divinità della Direzione.
+Puja Yantra
+Tutti gli Yantra installati in casa o nei templi mentre si esegue la
+puja. Possono essere di vari materiali e vengono istallati in vari
+modi secondo la propria tradizione o secondo la divinità a cui é
+dedicato lo Yantra.
+Chhatar Yantra
+Quelli tenuti sotto il cappello, o nel turbante o in tasca.
+Dharshan Yantra
+Sono quelli che il Sadhaka contempla al mattino per il proprio
+benessere spirituale o quelli istallati nei templi per il benessere
+di tutti.
+
+Usi pratici e magici degli Yantra:
+Shantikaran Yantra
+Usati per pacificare le malefiche influenze di spiriti o pianeti, per
+curare malattie.
+Stambhan Yantra
+Stambhan significa pilastro ma anche rigido, fermo, immobile.
+Questi Yantra sono usati per fermare un evento, per paralizzare
+un nemico o prevenirne un attacco.
+Vashikaran Yantra
+Usati per tenere sotto controllo qualcuno o qualcosa. Per
+esempio un nemico, un amante, ma anche uno spirito o una
+divinità.
+Videshan Yantra
+Usati per dividere e creare dispute tra le persone.
+Uchatan Yantra
+Usati per distrarre e far rimanere un nemico lontano da casa.
+Maran Yantra
+Usati per infliggere la morte ad un nemico.
+N.B. Queste stesse categorie sono applicabili anche ai Mantra e
+Tantra.
+
+MATRIKA YANTRA
+Le lettere dell'alfabeto Devanagari sono associate alle Matrika,
+varie forme della Devi, la Grande Madre, nella loro forma
+sonora. In questo yantra sono presenti tutte le 51 lettere o
+matrika e viene usato nel rito di purificazione dei mantra
+(samskara).
+
+In questa versione si aggiunge la congiunzione jf, formando 52
+lettere: 16 vocali e 36 consonanti.
+
+I 7 CHAKRA
+Muladhara
+Mantra
+lam - vam $am sam sam
+
+Swadhisthana
+Mantra
+vam
+bam bham mam yam ram lam
+
+Manipura
+Mantra
+ram
+dam dham nam tam tham dam dham nam pam pham
+
+Anahata
+Mantra
+yam
+kam kham gam gham nam cam cham jam jham fiam tam tham
+
+Vishuddha
+Mantra
+ham
+am am im im um üm rm fm Im Im em aim om aum am ah
+
+Ajña
+Mantra
+om
+ham ksam
+
+SSR
+Y l
+SI
+DI DUTY <S
+(WS
+ST
+Sahasrara
+Mantra
+om
+tutte le lettere dell'alfabeto sanscrito
+
+SHRI YANTRA
+
+Devi Khadgamala Stotram
+Khadga significa spada, Mala significa ghirlanda, Stotram
+significa inno di lode. Quindi il Khadgamala Stotram é un
+inno alla Grande Madre, che elargisce una ghirlanda di
+spade su coloro che lo recitano, simbolo dell'energia che ci
+permette di trascendere l'attaccamento ed elevarci sul piano
+spirituale.
+In questo straordinario Khadgamala Stotra sono nominate
+una per una tutte le Devi dello Shri Yantra (o Shri Chakra),
+
+cioè la mistica rappresentazione geometrica della Dea
+suprema. Questo stotra accompagna passo per passo il
+devoto al culto della Devi nello Shri Yantra ed é considerato
+come la piü alta forma di culto alla Devi.
+Lo Yantra é costituito da una serie di nove triangoli
+sovrapposti intorno a un piccolo punto centrale, Bindu,
+formando 43 proiezioni triangolari. Attorno al diagramma
+centrale ci sono un primo loto con 8 petali ed un secondo
+con 16 petali racchiusi in tre cerchi ed in un recinto quadrato
+(bhupur) di tre linee con quattro entrate sui quattro lati. Il
+Bindu al centro rappresenta l'unione cosmica di Shiva e
+Shakti e contiene la potenzialità dell'universo dentro di sé. E
+l'universo prima del Big Bang. Tutte le altre parti del
+diagramma rappresentano il cosmo evolutosi dal Bindu,
+espandendosi per Tripura Sundari o potere cosmico creativo.
+La divinità che presiede lo Shri Yantra é appunto Maha
+Tripura Sundari, la Grande Madre.
+Lo Shri Yantra é la rappresentazione a due dimensioni del
+Sacro Monte Meru, centro dell'universo nella cosmologia
+induista, jainista e buddista. Ci sono nove chakra nello Shri
+Yantra. Questi nove livelli hanno ciascuno una forma
+distinta, un nome distinto e sono associati ad una serie di
+incarnazioni o aspetti della Madre Suprema. Ogni livello é
+uno dei circoli di triangoli o di petali di loto, con la piazza piü
+esterna che rappresenta il livello del suolo ed il bindu nel
+suo centro é il picco della montagna. Essi sono:
+. Trailokya Mohan o Bhupur, un quadrato di tre linee con
+quattro portali
+. Sarvasa Paripurak, un loto a sedici petali, che esaudisce tutti
+i desideri
+. Sarva Sankshobahana, un loto a otto petali, che agita tutto
+. Sarva Saubhagyadayaka, composti di quattordici piccoli
+triangoli, che dona buon auspicio a tutti
+. Sarvartha Sadhaka, composti di dieci piccoli triangoli, che
+realizza tutti i sensi
+
+. Sarva Rakshakara, composti di dieci piccoli triangoli, che dà
+tutte le protezioni
+. Sarva Rogahara, composti di otto piccoli triangoli, che
+rimuove tutte le malattie;
+. Sarva Siddhiprada, composti da 1 piccolo triangolo, che
+dona tutte le realizzazioni
+. Sarva Anandamay, composto da un punto o Bindu, che é
+pieno di beatitudine per tutti
+
+$ri devi prarthana
+hrimkäräsanagarbhitänalasıkhäm sauh klim kalam bibhratim
+sauvarnambaradharinim varasudhadhautam trinetrojjvalam |
+vande pustakapasamankusadharam sragbhüsitamujjvalam
+tvam gaurim tripuram parātparakalām Sricakrasaficarinim ||
+om asya Sri Suddhasaktimalamahamantrasya,
+upasthendriyādhisthāyī varunaditya rsayah devi gayatri chandah
+satvika kakarabhattarakapithasthita kame$varankanilaya
+mahākāmešvarī $ri lalita bhattarika devata, aim bijam klīm šaktih,
+sauh kilakam mama khadgasiddhyarthe sarvabhistasiddhyarthe
+jape viniyogah ||
+Per la pura ghirlanda di preghiere alla Dea Shakti, che
+dovrebbe essere adorata da tutti gli organi di senso, il
+Saggio é il Sole nascente, il metro é Gayatri (24 sillabe) e la
+Dea presiedente è Mahakameshvari, che esiste nel tranquillo
+Kameshvara che é seduto sul trono di Kakara Bhattaraka, la
+radice é Aim, la potenza é Kleem, Souh é il perno, ed é
+cantato a favore della Dea e per ottenere la sua spada.
+mülamantrena sadanganyāsam kuryat
+Ora si devono eseguire i seguenti Nyasa (richiamare la
+presenza della divinità all'interno del corpo):
+kara nyasam
+Rituale della mano
+
+aim angusthabhyam namah
+klīm tharjanibhyam namah
+sauh madhyamabhyam namah
+sauh anamikabhyam namah
+klīm kanisthakabhyam namah
+aim kara thala kara prsthabhyam namah
+Aim saluti dal pollice
+Klim saluti dal dito indice
+Sauh saluti dal dito medio
+Sauh saluti dall'anulare
+Klim saluti dal mignolo
+Aim saluti dal palmo e dal dorso della mano
+anga nyasam
+Rituale delle parti del corpo
+aim hrdayaya namah
+klīm širase svaha
+sauh Sikhayayai vaushat
+sauh kavachaya hüm
+klīm netra trayaya vaushat
+aim astraya phat
+bhür bhuva suva om iti dig bandha
+Aim saluti dal cuore
+Klim saluti dalla testa
+Sauh saluti dai capelli
+Sauh saluti all'armatura
+Klim saluti ai tre occhi
+Aim saluti alla freccia
+Saluti a tutte le direzioni.
+
+dhyanam
+(Meditazione)
+araktabhantrinetramarunimavasanam ratnatatankaramyam
+hastambhojaissapasankusamadanadhanussayakairvisphurantim |
+apinottungavaksoruhakala$aluthattaraharojjvalangim
+dhyayedambhoruhasthamarunimavasanamisvarimisvaranam ||
+Medito sulla Dea dalle mani di loto, che é rossa di colore,
+che é la Dea del Signore Shiva, che é intrisa di sangue, che
+ha tre occhi, che é del colore del sole nascente, che é
+affascinante con cavigliere tempestate di gioielli e che tiene
+nella sue mani, il loto, la corda, il pungolo e che ha l'arco e
+le frecce del Dio dell'amore, che splende con la ghirlanda di
+gemme che sono come le stelle e che é indossata sopra il
+grande seno.
+lamityadipafica pūjām kuryat, yathasakti mūlamantram japet |
+Fare i cinque tipi di culto con Lam ecc. Recita il mantra
+radice secondo le tue capacità.
+lam — prthivītattvātmikāyai Sri lalitatripurasundari
+parabhattarikayai gandham parikalpayami — namah
+ham — akasatattvatmikayai sri lalitatripurasundari
+parabhattarikayai puspam parikalpayami — namah
+yam — vayutattvatmikayai sri lalitatripurasundari parabhattarikayai
+dhüpam parikalpayami — namah
+
+ram — tejastattvatmikayai sri lalitatripurasundari parabhattarikayai
+dipam parikalpayami — namah
+vam — amrtatattvatmikayai šrī lalitatripurasundari
+parabhattarikayai amrtanaivedyam parikalpayami — namah
+sam — sarvatattvatmikayai Sri lalitātripurasundarī parabhattarikayai
+tambuladisarvopacaran parikalpayami — namah
+Lam — all'anima della terra, offro pasta di sandalo insieme ad
+altre cose buone.
+Ham -- all'anima dell'etere, offro il fiore del controllo dei miei
+sensi.
+Yam — all'anima dell'aria, offro l'incenso dell'abbandono
+celeste
+Ram — all'anima del fuoco, offro la luce che é la forma di
+mezzaluna divina.
+Vam - per l'anima immortale del sangue, offro il nettare
+della gioia che è il potere di Shiva, così come la fine del
+nettare come Shiva.
+Sam — per l'anima di tutto ciò che ha la forma unita con la
+mente, eseguo il culto della canfora.
+Sri devi sambodhanam (1)
+om aim hrim $rim aim klīm sauh om namastripurasundari,
+Om Aim Hrim Shrim Aim Klim Sauh Om saluti a Tripura
+Sundari.
+
+nyasangadevatah (6)
+hrdayadevi, sirodevi, sikhādevī, kavacadevī, netradevī, astradevi,
+Hridaya Devi - Dea del cuore
+Shiro Devi — Dea della testa
+Shikha Devi - Dea dei capelli
+Kavacha Devi - Dea che per noi é come un'armatura
+Netra Devi - Dea che ci dà la vista
+Astra Devi - Dea che, come una freccia, ci porta al nostro
+Obiettivo
+SN UA RES LI
+tithinityadevatah (16)
+kāmešvarī, bhagamālinī, nityaklinne, bherunde, vahnivāsinī,
+mahāvajrešvarī, Sivadüti, tvarite, kulasundarī, nitye, nīlapatāke,
+vijaye, sarvamangale, jvālāmālinī, citre, mahānitye,
+1. Kameshvari - Dea della passione
+2. Bhagamalini - Dea che indossa il Sole come ghirlanda
+3. Nityaklinne Dea che é sempre bagnata con misericordia
+
+ZEUS
+Bherunde - Dea, che ha una forma spaventosa
+Vahnivasini - Dea che vive nel fuoco
+Maha Vajreshvari - Dea, che è come un diamante
+Shiva dhooti - Dea che ha inviato Shiva come emissario
+Tvarite - Dea che ha fretta
+Kula Sundari - Dea che è la più bella del suo clan
+. Nitye - Dea che è eterna
+. Nilapatake - Dea che ha una bandiera blu
+. Vijaye - Dea che è vittoriosa
+. Sarvamangale - Dea che è completamente di buon auspicio
+. Jvala Malini — Dea le cui ghirlande brillano come la fiamma
+. Chitre - Dea che è luminosa
+. Maha Nitye - Dea che è per sempre e sempre grande
+divyaughaguravah (7)
+paramešvaraparamešvarī, sasthīšamayi, mitrešamayī, uddīšamayī,
+caryānāthamayī, lopāmudramayī, agastyamayī,
+Parameshvara Parameshvari - La divina Dea del divino
+Signore
+Mitreshamayi - Dea dell'amicizia
+Shashthishamayi - Dea che pervade nel Signore Subramanya
+Uddishamayi - Dea che pervade nella luna
+Charyanadhamayi - Dea che pervade nei rituali corretti
+Lopamudramayi - Dea che pervade nel Lopa Mudra
+Agastyamayi - Dea che pervade nel saggio Agastya
+siddhaughaguravah (4)
+kālatāpašamayī, dharmäcäryamayı, muktakesisvaramayl,
+dīpakalānāthamayī,
+Kalatapashamayi - Dea che pervade la penitenza epoca su
+epoca
+Dharmacharyamayi - Dea che pervade i maestri del Dharma
+Muktakeshishvaramayi - Dea i cui capelli cadono liberamente
+
+9o Pl ΘΝ SS I
+Dipakalanathamayi - Dea che é come la fiamma di una
+lampada
+manavaughaguravah (8)
+visņudevamayī, prabhākaradevamayī, tejodevamayi,
+manojadevamayi, kalyāņadevamayī, vāsudevamayī,
+ratnadevamayī, Srirämänandamayı,
+Vishnudevamayi - Dea che pervade il Dio Vishnu
+Prabhakaradevamayi - Dea che pervade il Dio Sole
+Tejodevamayi - Dea spendente
+Manojadevamayi - Dea che pervade il Dio del desiderio
+Kalyanadevamayi - Dea che pervade il Dio del buon auspicio
+Vasudevamayi - Dea che pervade il Signore Krishna
+Ratnadevamayi - Dea che pervade il Dio delle gemme
+Shriramanandamayi - Dea che pervade la gioia di Rama
+Questi sono anche i nomi dei Santi che hanno adorato la
+Madre Divina e che quindi hanno raggiunto la liberazione:
+Vishnudeva (fine XI sec.), Prabhakaradeva (inizio del XII
+sec.), Tejodevamayi (inizio del XII sec.), Manojadeva (metà
+XII sec.), Kalyanadeva (tardo XII sec.), Vasudeva Mahamuni
+(inizio del XIII sec.), Ratnadeva (inizio del XIII sec.), Shri
+Ramananda (1400-1476).
+Di seguito sono riportati le Dee dei nove involucri del Sri
+Chakra:
+$ricakra prathamavaranadevatah
+animasiddhe, laghimasiddhe, garimasiddhe, mahimasiddhe,
+iSitvasiddhe, vasitvasiddhe, prakamyasiddhe, bhuktisiddhe,
+icchasiddhe, praptisiddhe, sarvakamasiddhe, brāhmī, māhešvarī,
+kaumāri, vaisņavī, vārāhī, māhendrī, camunde, mahālaksmī,
+sarvasanksobhiņī, sarvavidrāviņī, sarvākarsiņī, sarvavašankarī,
+
+sarvonmādinī, sarvamahankuse, sarvakhecarī, sarvabije,
+sarvayone, sarvatrikhande, trailokyamohana cakrasvāminī,
+prakatayoginī,
+Il primo involucro.
+. Animasiddhe - Dea che ha il potere di diventare invisibile
+Laghimasiddhe - Dea che ha il potere di far diventare
+leggero il corpo e volare
+. Garimasiddhe - Dea che può rendere il suo corpo pesante
+Mahimasiddhe - Dea che ha la capacità di aumentare o
+diminuire la dimensione del corpo
+. Ishitvasiddhe - Dea che ha il potere di controllare gli altri
+esseri
+. Vashitvasiddhe - Dea che puó soggiogare tutti
+
+Prakamyasiddhe - Dea che in grado di realizzare tutti i suoi
+desideri
+Bhukthisiddhe - Dea che ha il potere di mangiare tutto ció
+che vuole
+Icchasiddhe - Dea che ha il potere di esaudire tutto ció che
+vuole
+. Prapthisiddhe - Dea che puó raggiungere qualsiasi posto
+. Sarvakamasiddhe - Dea che ci puó far realizzare tutti i
+desideri
+. Brahmi - Dea che é la potenza di Brahma
+. Maheshvari - Dea che é la potenza di Shiva
+. Kaumari - Dea che è la potenza di Lord Subramanya
+. Vaishnavi - Dea che è la potenza di Vishnu
+. Varahi - Dea che è la potenza del Signore Varaha
+. Mahendri - Colei che è il potere di Devendra, Dio del cielo
+. Chamunde - Colei che ha ucciso Chanda e Munda
+. Mahalakshmi - Dea Lakshmi
+. Sarvasamkshobini - Colei che scuote tutto
+. Sarvavidravini - Colei che scioglie tutto
+. Sarvakarshini - Colei che attira tutto
+. Sarvavashankari - Colei che uccide tutto
+. Sarvonmadini - Colei che fa impazzire tutti
+. Sarvamahankushe - Lei che é per tutti il grande pungolo
+. Sarvakhechari - Colei che viaggia come tutti gli uccelli del
+cielo
+. Sarvabheeje - Colei che è il seme di ogni cosa
+. Sarvayone - Colei che puó generare qualsiasi cosa
+. Sarvathrikhanda - Colei che é in tutte le tre parti della terra
+Trailokyamohana - Colei che in grado di attrarre tutti i tre
+mondi
+. Chakrasvamini - Dea della Devendra
+Prakatayogini - Colei che é esperta di yoga
+
+D Om ie
+$ricakra dvitryavaranadevatah
+kāmākarsiņī, buddhyākarsiņī, ahankārākarsiņī, sabdakarsinî,
+sparšākarsiņī, rūpākarsiņī, rasākarsiņī, gandhākarsiņī, cittākarsiņī,
+dhairyākarsiņī, smrtyākarsiņī, nāmākarsiņī, bījākarsiņī,
+ātmākarsiņī, amrtākarsiņī, Sarirakarsini, sarväsäparipüraka
+cakrasvāminī, guptayoginī,
+VLN V
+NSE
+"VAWVAFAY,
+Il secondo involucro.
+Kamakarshini - Colei che attira la forza della passione
+Buddhyakarshini - Colei che é attratta dall'intelligenza
+Ahankarakarshini - Colei che é attratta dal potere
+dell'orgoglio
+Sabdakarshini - Colei che é attratta dal suono piacevole
+Sparshakarshini - Colei che é attirata dal buon tocco
+Roopakarshini - Colei che é attratta da una buona forma
+Rasakarshini - Colei che é attratta dal buon gusto
+NN
+PLI
+
+8. Gandhakarshini - Colei che é attratta dal buon odore
+9. Chittakarshini - Colei che é attratta da una buona mente
+10. Dhairyakarshini - Colei che é attratta dal coraggio
+11. Smrityakarshini - Colei che é attratta dalla buona memoria
+12. Namakarshini - Colei che é attirata dal buon nome
+13. Bheejakarshini - Colei che é attratta dai mantra radice
+adeguate
+14. Atmakarshini - Colei che attira l'anima
+15. Amritakarshini - Colei che é attratto da Amrita, il nettare
+dell'immortalità
+16. Sarirakarshini - Colei che attrae il corpo,
+Sarvashaparipooraka chakrasvamini - La dea della ruota che
+soddisfa tutti i desideri, Guptayogini - Il praticante segreto
+dello Yoga
+
+ο I gv m Row px rl
+$ricakra trtiyävaranadevatäh
+anangakusume, anangamekhale, anangamadane,
+anangamadanature, anangarekhe, anangavegini, anangankuse,
+anangamalini, sarvasanksobhanacakrasvamini, guptatarayogini,
+fax ISO
+/ N ΑΟ ΑΝΝΑ
+"σον
+Il terzo involucro.
+Anangakusume - Il fiore dell'amore
+Anangamekhale - La cintura dell'amore
+Anangamadane - La Dea dell'amore
+Anangamadanature - Colei che é colpita da pene d'amore
+Anangarekhe - La linea d'amore
+Anangavegini - La velocità d'amore
+Anangankushe - Il pungolo dell'amore
+Anangamalini - Colei che porta la ghirlanda d'amore,
+Sarvasamkshobhanachakraswamini - La Dea della ruota che
+agita tutti, Guptatarayogini - Colei che pratica lo yoga
+segreto
+
+00 - ἘΣ Ὅν Ἢ. ә or:
+Sricakra caturthavaranadevatah
+sarvasanksobhiņī, sarvavidrāvinī, sarvākarsiņī, sarvahlādinī,
+sarvasammohini, sarvastambhinī, sarvajrmbhiņī, sarvavasankarı,
+sarvarafijant, sarvonmadini, sarvärthasädhike, sarvasampattipūriņī,
+sarvamantramayī, sarvadvandvaksayankarī, sarvasaubhāgyadāyaka
+cakrasvāminī, sampradāyayoginī,
+NA ZN
+"VAWVAFAY,
+Il quarto involucro.
+Sarvasamkshobini - Colei che agita tutto
+Sarvavidravini - Colei che fa liquida tutto
+Sarvaakarshini - Colei che attira tutto
+Sarvahladini - Colei che fa tutti felici
+Sarvasammohini - Colei che mette tutto in torpore
+Sarvastambhini - Colei che intorpidisce tutto
+Sarvajrimbhini - Colei che si espande tutto
+Sarvavashankari - Colei che fa tutto da sola
+
+9. Sarvaranjani - Colei che fa tutti felici
+10. Sarvonmadini - Colei che rende tutti pazzi per lei
+11. Sarvarthasadhike - Colei che concede a tutti i tipi di
+benessere
+12. Sarvasampattipurini - Colei che concede tutti i tipi di
+ricchezza
+13. Sarvamantramayi - Colei che é in tutti i mantra
+14. Sarvadvandvakshayankari - Colei che distrugge ogni dualità
+Sarvasaubhagyadayaka Chakrasvamini - La dea della ruota
+che dà tutti i tipi di fortuna, Sampradayayogini - Colei che
+pratica lo yoga in modo tradizionale.
+ГА
+
+$ricakra paficamavaranadevatah
+sarvasiddhiprade, sarvasampatprade, sarvapriyankarı,
+sarvamangalakarini, sarvakamaprade, sarvaduhkhavimocanī,
+sarvamrtyuprašamani, sarvavighnanivāriņī, sarvāngasundarī,
+sarvasaubhagyadayini, sarvārthasādhaka cakrasvāminī,
+kulottīrņayoginī,
+Il quinto involucro.
+Sarvasiddhiprade - Colei che concede tutti i poteri occulti
+Sarvasampatprade - Colei che dà tutti i tipi di ricchezze
+Sarvapriyankari - Colei che é cara a tutti
+Sarvamangalakarini - Colei che fa tutti gli atti di buon
+auspicio
+Sarvakamaprade - Colei che soddisfa tutti i desideri
+Sarvaduhkhavimochani - Colei che aiuta a sbarazzarsi di tutti
+i dolori
+
+7. Sarvamrityuprasamani - Colei che evita la morte
+8. Sarvavighnanivarini - Colei che rimuove tutti gli ostacoli
+9. Sarvangasundari - Colei che é bella dalla testa ai piedi
+10. Sarvasaubhagyadayini - Colei che dà tutti i tipi di fortuna,
+Sarvarthasadaka Chakrasvamini - La Dea della ruota che
+concede tutti gli oggetti di ricchezza, Kulottirnayogini - Colei
+che fa lo yoga che libera il clan
+
+Sricakra sastavaranadevatah
+sarvajfie, sarvašakte, sarvai$varyapradayini, sarvajñanamayi,
+sarvavyädhivinäsini, sarvädhärasvarüpe, sarvapapahare,
+sarvänandamayı, sarvaraksasvarüpini, sarvepsitaphalaprade,
+sarvaraksakaracakrasvamini, nigarbhayoginī,
+Il sesto involucro.
+. Sarvajfie - Colei che conosce tutto il sapere
+. Sarvashakte - Colei che ha tutte le forze
+. Sarvaishvaryapradayini - Colei che dà tutti i tipi di di
+ricchezza
+. Sarvajñanamayi - Colei che ha tutti i tipi di saggezza
+spirituale
+. Sarvavyadhivinasini - Colei che distrugge tutte le malattie
+. Sarvadharasvaroope - Colei che ha una forma che é la base
+di tutto
+
+7. Sarvapapahare - Colei che distrugge tutti i peccati
+8. Sarvanandamayi - Colei che é piena di tutti i tipi di felicità
+9. Sarvarakshasvaroopini - Colei che ha una forma che
+protegge tutti
+10. Sarvepsitaphalaprade - Colei che dà tutti i risultati desiderati,
+Sarvarakshakarachakrasvamini - La Dea della ruota che
+protegge tutti, Nigarbhayogini - La yogini che protegge il
+bambino nel grembo materno
+
+90 I ΟΝ de UA БӘ к=
+$ricakra saptamavaranadevatah
+vašinī, kame$vari, modinī, vimale, arune, jayini, sarvešvarī,
+kaulini, sarvarogaharacakrasvamini, rahasyayogini,
+NA
+VAVIARVAY,
+KAN
+V ASK S
+N COS NIN
+I AVS
+Il settimo involucro.
+Vashini - Colei che controlla
+Kameshvari - Colei che é la moglie di Kameswara (Shiva)
+Modini - Colei che é piena di gioia
+Vimale - Colei che é pura
+Arune - Colei che é del colore del sole che sorge
+Jayini - Colei che é vittoriosa
+Sarveshvari - Colei che é la Dea di tutti
+Kaulini - Colei che é nata in una famiglia nobile,
+Sarvarogaharachakrasvamini - La Dea della ruota che
+distrugge tutte le malattie, Rahasyayogini - Colei che fa yoga
+in segreto
+
+Sricakra astamavaranadevatah
+bāņinī, cāpinī, pāšinī, ankušinī, mahākāmešvarī, mahāvajrešvarī,
+mahābhagamālinī, sarvasiddhipradacakrasvāminī,
+atirahasyayoginī,
+VA LT NA
+/N КУХ YN AN
+ATAR
+TOTS
+L'ottavo involucro.
+Banini - Colei che tiene una freccia
+Chapini - Colei che tiene l'arco
+Pasini - Colei che tiene la corda
+Ankushini - Colei che tiene il pungolo
+Mahakameshvari - Colei che é la consorte di Shiva
+Mahavajreshvari - Colei che é forte come un diamante
+Mahabhagamalini - Colei che porta la ghirlanda della
+prosperità
+Sarvasiddhipradachakrasvamini - La dea della ruota che dà
+origine a tutti i poteri occulti
+Atirahasyayogini - Colei che fa yoga in gran segreto
+ri
+
+$ricakra navamavaranadevatah
+Sri $11 mahäbhattärike, sarvanandamayacakrasvamini,
+parapararahasyayogini,
+Il nono involucro.
+. Sri Sri Mahabhattarike - La regina suprema
+2. Sarvanandamayachakrasvamini - La dea della ruota di tutti i
+tipi di felicità
+Parapararahasyayogini - Colei che fa yoga in segreto
+assoluto
+navacakrešvarī nāmāni
+tripure, tripurešī, tripurasundari, tripuravāsinī, tripurasrth,
+tripuramālinī, tripurasiddhe, tripurāmbā, mahātripurasundarī,
+
+FEDE S
+NUDO DN soo БӘ
+Le nove Dee che controllano i nove Chakra.
+Tripura - La moglie di Shiva o i tre stati di veglia, sogno e
+sonno profondo
+Tripureshi - La dea dei tre mondi (o stati)
+Tripurasundari - La piü bella nei tre mondi (o stati)
+Tripuravasini - Colei che vive in tre mondi (o stati)
+Tripurashrih - Le ricchezze dei tre mondi (o stati)
+Tripuramalini - Colei che porta i tre mondi come ghirlanda
+Tripurasiddhe - Colei che puó rendere poteri occulti possibile
+in tre mondi (o stati)
+Tripuramba - La madre nei tre mondi (o stati)
+Mahatripurasundari - La piü grande bellezza dei tre mondi (o
+stati)
+Sridevi visesanäni — namaskaranavaksarica
+mahāmahešvarī, mahamaharajfii, mahamahasakte,
+mahamahagupte, mahamahajfiapte, mahamahanande,
+mahāmahāskandhe, mahamahasaye, mahamaha
+$ricakranagarasamrajfii, namaste namaste namaste namah |
+Mahamaheshvari - Il controllore cosmico, consorte del
+Signore Shiva
+Mahamaharajfii - La grande imperatrice
+Mahamahashakte - La grande potenza cosmica
+Mahamahagupte - Il grande segreto cosmico
+Mahamahajfiapte - La grande memoria cosmica
+Mahamahaanande - La grande beatitudine cosmica
+Mahamahaskandhe - Il grande supporto
+Mahamahashaye - La Dea grande di processo di pensiero
+Mahamaha Srichakranagarasamrajni - La grande sovrana
+trascendentale del Sri Chakra
+Saluti, saluti, offro i miei saluti.
+
+Nitya
+La Luna ha 16 fasi (kala). 15 fasi sono visibili mentre il
+sedicesimo kala é al di là della nostra visibilità. I 16 kala sono
+governati da divinità femminili note come Nitya. Le Nitya sono i
+15 aspetti di Lalita Tripurasundari (Shri Yantra) associati ai 15
+giorni lunari (tithi) della luna crescente. Le 15 Nitya sono:
+Kameshvari, Bhagamalini, Nityaklinna, Bherunda, Vahnivasini,
+Mahavajreshwari, Shivadooti, Tvarita, Kulasundari, Nitya,
+Nilapataka, Vijaya, Sarvamangala, Jvalamalini e Chitra. Lalita
+Tripurasundari governa il kala non visibile ed è la
+manifestazione della Para Shakti. Seguono gli Yantra associati
+alle 15 Nitya.
+Kameshvari
+
+Shivadooti
+
+Vijaya
+Sarvamangala `
+
+HANUMAN YANTRA: molto usato dagli Aghori per qualsiasi
+problema di salute e come protezione dalle forze negative.
+
+Hanuman Yantra
+a
+A
+Mantra
+orn hanumate namah,
+от, haum, hsphrem, khphrem, hsaum, hskhrem, hsaum, om
+
+orn vajrakaya vajratunda kapila pingala kalavadano
+urdhavakesha mahabala ratkamukha tadijivha maharaudra
+dramstokata mahakaralini maha dradh prahar
+lankeshvarasetuvandha shailapravaha gaganacara e ho hi |
+bhagavana mahabala parakram bhairavo jhapayati e ho hi
+maharaudra dirgha langalena amuk vestaya vestaya jambhaya
+jambhaya khana khana vaite hum phat ||
+от aim bhrim hanumate ramdutaya namah ||
+от hum hanumate raudratamakhaya hum phat ||
+MARUTI YANTRA
+
+Mantra
+от namo bhagavate ajjaneyaya maha balaya svaha
+om Sri ramduta pavanaputa dega cala jaise ramacandra ke
+koja samvare kaja mero savaro
+RAMA YANTRA
+ES
+g
+ч.
+yp 3
+yp э
+yp m»
+yp эр
+
+Ф
+Ф
+E
+"Ф
+D
+E
+(o
+H}
+š
+sono i nodi lunari.
+
+SURYA YANTRA
+CHANDRA YANTRA
+
+MANGAL YANTRA
+BUDHA YANTRA
+BRIHASPATI YANTRA
+
+SUKRA YANTRA
+
+MAHA LAKSHMI YANTRA o SARVATADRAM YANTRA
+OM HRIM SHRIM KAMALALAYE PRASID SHRIM HRIM OM
+MAHALAKSHMYE NAMAH
+MAHA LAKSHMI YANTRA
+ms
+ΕΙ
+
+Lakshmi Yantra
+THAT τή
+Mantra
+namah kamala vasinyai svaha
+om sri mahalaksmi namah
+animne namah, mahimne namah, garimne namah, ladhimne
+namah, praptyai namah, prakamyai namah, isitāyai namah,
+vashitayai namah
+vidhalaksmi, vaibhavalaksmi, amrtalaksmi, kamalalaksmi,
+satyalaksmi, bhagalalaksmi, yogalaksmi, athalaksmi
+NN
+ΓΙ.
+
+DHANDA YANTRA
+KUBERA YANTRA
+KUBERA KOLAM
+
+Kubera Yantra
+Mantra
+om sri kuberaya namah
+om srim hrim klim laksmai namah
+om yaksaya kuberaya vaisravanaya dhanya dhanyädhipataye
+dhana dhanya samrddhi mem dehita dapaya svaha
+
+KALI YANTRA
+
+Mantra
+klīm
+o āhikogarineva srahasasaye imdriyano vādāmana ca dhašreca
+jha cane pani upasa pradinī ceha caka samāgayapara
+sanacirajiptu svāhā
+u usava bhairava, ka kayāla bhairava, bhī nasī bhairava, rā
+rāhār bhairava, a asamtaya bhairava, rū rū rū bhairava,
+cacanda bhairava, kākādha bhairava
+ya mahāvaye, kaukamiya, ve unnatya, vo vayahaye, nā tara
+Sahaye, ai dedasi, co camunda, vo bramhaya
+
+MAHAVIDYA
+La Madre Divina é venerata come dieci personalità cosmiche, le
+Dasa-Mahavidya. Le Mahavidya sono considerate tantriche per
+natura e sono di solito identificate come:
+1. Kali: La forma ultima del Brahman, "Divoratrice del
+Tempo".
+
+2. Tara: La Dea che é guida, protettrice e salvatrice. Colei
+che offre la conoscenza ultima che dà la salvezza (nota
+anche come Neel Saraswati).
+
+3. Shodashi o Lalita Tripurasundari: La Dea che é
+"bella nei tre mondi", la "Parvati tantrica" o la "Moksha
+Mukta".
+
+4. Bhuvaneshvari: La Dea come Madre del Mondo, o il cui
+corpo é il cosmo.
+
+7. Dhumavati: La Dea Vedova, o Dea della morte.
+
+8. Bagalamukhi: la Dea che paralizza i nemici.
+
+9. Matangi: il Primo Ministro di Lalita, la "Sarasvati
+tantrica".
+
+Mantra
+orn aim hrim klim camundayai vicce
+Sarva mamgala mamgalye Sive sarvartha sādhike | Saranye
+trayambike gauri narayani namostute ||
+jayantī mangala Кат bhadrakālī kapālinī | durga ksama šivā
+dhatri svaha svadha namo stu te |
+
+Mantra
+$rim $rim $rim $rim $rim $rim
+aim aim aim aim aim aim
+hrim hrim hrim hrim hrim hrim hrim hrim
+om om om om от om om om
+aim hrim klim camundayai vicce
+soham soham soham soham soham soham soham
+soham
+
+Durga Dharan Yantra
+Mantra
+orn aim hrim klim camundayai vicce
+jayanti mangala kal bhadrakālī kapālinī
+durga ksama siva dhatri svaha svadha namostute
+
+DEN о «л + QÓ N н
+divyayogini - Reati
+mahayogini - Agr
+siddhayogini - Mamá
+. gane$vari - зтсїягїї
+. pretaksi - Warair
+. dakini - stí}
+. kali - τοῦ
+. kālarātri - TARA
+„nišācarī - Ете
+. jhamkari - =
+. ürdvavetali - »еаатећ
+. kharpari - жї
+. bhūtayāminī - затії
+. Ūrdvakešī - FERN
+. virupäksi - surai
+. Suskamgi - 75%
+. krodha - IST
+. durmukhi - get
+. pretavahini - Уетатїёәїї
+. kantaki - Фое
+. dirghalambausthi - “ITA
+„mālinī - Э
+. mantrayogini - Araatfalelt
+. kalagni - TATA
+. mohini - Э
+. cakrî - «eer
+. карап - Pareit
+. bhuvanesvari - заа
+. kundalaksi - posata
+. juhi - Tgr
+. laksmi - ere
+. yamadüti - TAG
+17. māmsabhojanī - Эт
+18. phetkārī - Фет
+19. virabhadraksi - TRATATEN
+20. dhümraksi - Yare
+21. kalahapriya - «егет
+22. rakta - περ
+23. ghoraraktāksī - Эта?
+24. pišacī - TUR
+25. bhayamkarī - Heni
+26. caurika - after
+27. marika - ART
+28. candi - aust
+29. varahi - ATRTEÌ
+30. mundadharini - тозот
+31. bhairavi - #91
+32. cakrini - «favit
+49. karālinī - ат
+50. kausiki - тҮ
+. bhaksini - эо
+52. yaksi - xaft
+53. kaumārī - lary
+54. yantravahini - 239181
+55. visala - Тазтет
+56. kamuki - ТЯ
+57. vyäghri - emer
+58. yaksini - arfetfet
+59. pretabhavani - 3791
+60. dhūrjatā - {pfer
+61. vikatā - fdenar
+62. ghorā - INT
+63. kapala - ποπ
+64. langali - erszreit
+сл
+n
+
+MRITYUNJAYA YANTRA
+
+Mantra
+от namah Sivaya
+om sri Samkaraya namah
+kailaspataye namah
+om $ri vighnaharte namah
+girijapataye namah
+
+GANESH YANTRA
+
+Mantra
+om hum gam glom haridraganapataye vara varada
+sarvajanahrdaya stambhaya stambhayam
+от svaha astrayaphada, om hum gam glom hrdavaya namah,
+haridraganapataye Sisse namah, om stambhaya stambhayam
+netratrayaya dosada, om vara varada Siravayai vasada, om
+sarvajanahrdaya kavacaya namah
+om pramodaya namah om vamaye namah, om jyostayai
+namah, om sumukhaya namah orn raudrayai namah, om kalyai
+namah, om durmukhaya namah orn kalapadavikhayai namah,
+om vikarinyai namah, om vighanasaya namah orn valayai
+namah, om pramathinyai namah
+
+Mantra
+
+Ganesh Dharan Yantra
+Mantra
+om
+om srim hrim klim glom gam
+namah - svaha - vasat - hum - vausat - phat
+ganapataye varada varada sarvajana mevašamanāya svaha
+
+Tutte le lettere dell'alfabeto sanscrito.
+Tutte le lettere dell'alfabeto sanscrito al contrario.
+krom am krom am krom am krom am krom am krom am krom
+am
+krom am krom am krom am krom am krom am krom am krom
+am
+SARASVATI YANTRA
+om hrim aim hrim om sarasvatyai namah
+
+Mantra
+vad vad vagvadini svaha
+ām namapragama vibhad, am hrdayaya namah, ām Sirase
+svaha, am astraya phat, am Sikhaya vasata, am kavacaya
+namah
+varahau namah, vaisnaya namah, vamaya namah, mahasvarya
+namah, bramhe namah, mahāksmye namah, camundaye
+namah, indrinye namah
+
+ANNAPURNA YANTRA
+Mantra
+orn - hrim hrim hrim hrim
+om $ivaya namah, om bhairavaya namah, bhiksa dehima
+parvati, Srim, namah annapürne
+dam durgaya namah, grhe dhanadhanya vrddhi dehi dehi, hrim
+annapürna devi mam, om $amkaraya namah
+annapürne sadaiva pürne, $atayamavaya rüdraya namah,
+Samkara prana vallabhe namah, sambha sadasivaya namah
+
+TARA YANTRA
+NAV YONI YANTRA
+
+KALKI YANTRA
+Mantra
+klīm
+
+KRISHNA YANTRA
+Mantra
+krsnaya govindaya klim sadhya gopījanavallabāya svaha
+$rim him $rim hrim srim hrim - Кіт krsnaya namah
+namah kamadeva, уа sarvajanapri, yaya sarvajana,
+sammohanaya, la jvala prajvala, sarvajanasya hu, dayama
+mavašam, kuru kuru svaha
+Tutto l'alfabeto Devanagari
+$rim hrim $rim hrim $rim hrim
+
+SANTAAN GOPAL YANTRA
+Mantra
+om klim namah
+гит sam kam ham nam sam jam lam
+devakisuta govinda vasudeva jagatpate
+dehimmetanayam krsna tvāmaham šaraņam gatah
+
+KAUMARA YANTRA
+Mantra
+om srīm klim hrim aim im nam lam tam som šaravaņabhava
+
+BISA YANTRA
+
+SARVAMANOKAMNA YANTRA
+
+BHOOT PRET YANTRA
+DOGE
+o e [os
+DON
+FEE
+
+VASHIKARAN YANTRA
+Vashikaran significa attrarre, soggiogare, controllo, incantesimo.
+I Vashikaran Yantra sono usati da astrologi e maghi per
+soggiogare una donna o un uomo. Ne esistono moltissimi e di
+diverse tipologie, qui ne diamo alcuni esempi.
+DIEDE
+ВАСЕ
+CODO
+DOD
+LH
+
+Ls
+Ls
+Ls
+бс
+Ls
+
+ALTRI YANTRA
+DHAN VRIDDHI YANTRA
+SIDDHI PRAAPTA YANTRA
+
+VASTU YANTRA
+AGNI STAMBHAN YANTRA
+
+SHIVA SHAKTI Y. MAHASHRI Y.
+
+PADONNATI YANTRA
+
+ISHVAR KRIPA YANTRA
+
+KAMA YANTRA
+LAKSHYA YANTRA
+ERES
+
+LAKSHYA YANTRA
+ptr
+
+MOHAN YANTRA
+OOO
+ssepe
+MOHAN YANTRA
+
+VYAPARA VARDHAKA YANTRA
+SANKATMOCHAN YANTRA
+ΠΠ
+
+181 YANTRA
+NN
+ΓΙ.
+
+* Vashikaran significa attrarre, soggiogare, controllo,
+incantesimo. I Vashikaran Yantra sono usati da astrologi e
+maghi per soggiogare una donna o un uomo. Ne esistono
+moltissimi e di diverse tipologie, qui ne diamo alcuni esempi.
+* Lakshya - obiettivo
+* Mohan - attrazione
+* Kamakshya - infatuazione
+* Vyapara Vardhaka = aumentare il business
+
+KARYA SIDDHI YANTRA
+I simboli
+Serpente: saggezza e salute
+Strumento musicale: musica, felicità, fiducia
+Albero: benessere della famiglia
+Gioiello: protezione, prosperità, ricchezza
+Sole: potere, successo
+Freccia: protezione dal maligno
+Barca: coraggio, successo
+
+VASTU YANTRA
+Vastu Shastra é un'antica dottrina che consiste in precetti nati
+da una visione tradizionale su come le leggi della natura
+influenzano le dimore umane. I disegni si basano su
+allineamenti direzionali. E usata per essere applicata
+nell'architettura indù, soprattutto per i templi, e si estende
+anche ad altri ambiti, tra cui veicoli, imbarcazioni, mobili,
+sculture, dipinti, ecc.
+Il Vastu Yantra è una parte indispensabile del Vastu Shastra e
+costituisce la base matematica e schematica per la generazione
+del design. E il progetto metafisico di un edificio che incorpora i
+corpi grossolani e le forze soprannaturali. Esso fornisce il
+metodo che determina i requisiti dell'architettura in relazione
+alle sue direzioni.
+Vastu Yantra secondo il Mahanirvana Tantra
+NN
+agbari t
+
+N DINE
+Vastu Dosh Nashak Yantra
+SSN
+
+KAAL SARP YOG YANTRA
+Kaal Sarp Yog si verifica quando in un oroscopo, tutti i sette
+pianeti (Sole, Luna, Giove, Venere, Marte, Mercurio e Saturno)
+sono posti tra Rahu e Ketu (nodi nord e sud della Luna), Rahu é
+la testa del Serpente e Ketu é la coda del Drago. Questa
+combinazione di pianeti é ritenuta estremamente malvagia e
+dannosa per la persona. Comunque avere Kaal Sarp Yog
+nell'oroscopo non significa che la persona sarà totalmente
+sfortunata e priva di tutte le gioie della vita.
+Uno dei rimedi per questo problema é il Kaal Sarp Yog Yantra
+da porre in casa e adorarlo regolarmente.
+AUM HOOM JOOM SWAHA, AUM BHU BHUVAH SWAHA,
+AUM TRIYAMBHAKAM YAJAMAHEY, SUNGANDHIM PUSHTI VARDAN AM,
+URUVARU KAMIYA BANDHAN AN, MRITYOR MUKSHEEY A MAMRITAT,
+AUM SWAHA BHUVAH, BHU AUM SWAHA, JOOM HOOM AUM
+
+GAYATRI YANTRA
+ex
+A
+ANY,
+Ser
+om bhurbhuvahsvah tatsaviturvarenyam bhargo devasya
+dhimahi dhiyo yo nah pracodayata
+Mantra
+
+Dattatreya Yantra
+Mantra
+dram
+orn от orn
+om srim hrim klim glaum dram
+
+hrim hrim hrim hrim hrim hrim
+dram dattatreyaya namah
+klīm klīm klīm klīm klīm klīm klīm klīm
+от aum hrīm kraum e hī dattatreya svāhā
+$rim $rim $rim $rim $rim $rim $rim $rim Srim Srim $rim $rim
+om aim kraum klam klim ham him hüm sauh dattatreyaya
+svaha
+am am im im um üm rm rm Im Im em aim om aum am ah
+om aim klam klim klam hram hrim hüm sauh dattatreyaya $ri
+visnave svaha
+lam lam lam lam lam lam lam lam lam lam lam lam lam lam lam
+lam lam lam lam lam
+dattatreya hare krsna unmattananda dayaka digambara mune
+bālapisāca jfiana sagara
+kam kham gam gham nam cam cham jam jham fiam tam tham
+dam dham nam tam tham dam dham nam pam pham bam
+bham mam yam ram lam vam $am sam sam ham
+om hrim $rim klim om
+om namo bhagavate dattatreyaya, smaranamatrasantustaya,
+mahabhayanivaranaya mahajfianapradaya, cidānandātmane
+balonmattapisacavesaya, mahayogine avadhütaya,
+anasuyanandavardhanaya atripütraya, om
+bhavabandhavimocanaya, am asadhyasadhanaya, hrim
+sarvavibhütidaya, kraum asadhyakarsanaya, aim vakpradaya,
+
+klīm jagatrayašīkaraņāya, sauh sarvamanahksobhanaya, $rim
+mahasampatpradaya, glaum bhumamdaladhipatyapradaya,
+dram ciramjivine, vasatvasikuru vasikuru, vaisat akarsaya
+akarsaya, hum vidvesaya vidvesaya, phat uccataya uccataya,
+thah thah stambhaya stambhaya, khem khem maraya maraya,
+namah sampannaya sampannaya, svaha posaya posaya,
+paramantraparayantraparatantrani chimdhi chimdhi,
+grahannivaraya nivaraya, vyadhin vināšaya vinasaya, duhkham
+hara hara, daridryam vidravaya vidravaya, deham posaya
+posaya, cittam tosaya tosaya, sarvamantrasvarupaya,
+sarvayantrasvarupaya, sarvatantrasvarupaya,
+sarvapallavasvarupaya, om namo mahasiddhaya svaha
+
+Dattatreya Yantra
+Mantra
+dattatreyaya
+orn dram hrim klim svaha
+
+NAVNATH YANTRA
+I Navnath (nove Nath) sono i diretti discepoli di Dattatreya.
+a d
+N
+Р c
+n
+Y
+n
+Mantra
+navanath yamtra
+hüm de hüm va hüm da hüm tta
+hüm phat, hüm phat, hüm phat, hüm phat,
+hüm hüm hüm hüm hüm hüm hüm hüm hüm hüm hüm hüm
+hüm hüm hüm
+hüm hüm hüm hüm hüm hüm hüm hüm hüm hüm hüm hüm
+hüm hüm hüm
+
+BATUK BHAIRAVA YANTRA
+Mantra
+om hrim batukaya apadudhdaranaya kuru kurü batukaya hrim
+от namah Sivaya
+orn batuk bhairavaya namah
+
+Swastika
+In occidente la swastika é associata al nazismo, ció ha messo in
+ombra il vero significato religioso e culturale di questo simbolo.
+La parola swastika deriva dal sanscrito e significa "benessere" e
+"buona fortuna", é ancora ampiamente utilizzata in tutto
+l'oriente come decorazione su case, templi e ai festival. Greci,
+ittiti, celti e persino i nativi americani hanno utilizzato questo
+simbolo. La swastika é stata usurpata e adottata da Adolf Hitler
+nel 1920 come simbolo del suo partito nazista ed ora resta
+questo l'unico significato che ha assunto in occidente. E' ora di
+chiarire il malinteso e riprenderci la swastika.
+
+Fiore della Vita
+£ S E S Ф
+om ο πο
+SSE
+cogunt
+TEN=EL
+o S” Ὁ
+prac
+Oo g cs о
+M m wa
+= с ою >
+«c LI
+GR
+o SE 20
+Qo £
+gu Ч
+£ s o.oo
+Έτ 2
+ЖЕУ:
+Bot
+ob5oc^
+SQELH
+CHO 2 =
+oa ao
+ς τ Goo
+co PH
+n. Ф
+UNO - 5
+= tej.
+moons >
+o o ΒΘ Ὁ
+ü g Su δε
+= se Bic
+£ oi
+
+Geometria Sacra
+La geometria sacra é usata in tutte le culture nella costruzione
+e strutturazione di edifici sacri come templi, moschee, megaliti,
+monumenti, chiese, nonché di spazi sacri come altari, fuochi
+sacri, oltre che nella creazione dell'arte o di oggetti sacri.
+Eccone alcuni esempi:
+ls
+
+0р So
+BIS,
+NDS
+CR 7
+Qui il famoso geoglifo osservabile dai cieli di Nazca, nel deserto
+meridionale del Peru.
+
+Soundarya Lahari
+(Adi Shankaracharya)
+Traduzione in Italiano e Yantra a cura di Govinda Das Aghori
+Il Soundarya Lahari (Onde di Bellezza) é attribuito al saggio
+Pushpadanta e Adi Shankara. Si dice che la prima parte Ananda
+Lahari sia stata incisa sul monte Meru da Ganesha o da
+Pushpadanta. Goudapada memorizzó gli scritti di Pushpadanta
+e li passó al suo discepolo Govinda Bhagavadpada, maestro di
+Adi Shankara. Nella prima parte viene descritta l'esperienza
+mistica dell'unione di Shiva e Shakti, mentre nella seconda
+viene descritta in tutti i suoi dettagli la Grande Madre Shakti.
+I suoi versi non solo elogiano la bellezza, la grazia e la
+generosità della dea Parvati, ma sono un vero e proprio
+manuale tantrico in cui sono illustrati vari riti, mantra e yantra.
+Quindi ogni Sloka diventa un mantra a cui é associato uno
+Yantra.
+Va inoltre notato che le pratiche illustrate qui devono essere
+osservate solo seguendo i consigli di un maestro esperto.
+
+Parte I - Ananda Lahari (Onde di Felicità)
+Sivah Saktya yukto yadi bhavati Saktah prabhavitum
+na cedevam devo na khalu kusalah spanditumapil
+atastvam aradhyam hari-hara-virincadibhi rapi
+pranantum stotum va katha-makrta punyah prabhavati|| 1 ||
+Mantra: klīm
+Solo Shiva é in grado di fare la creazione dell'universo insieme a
+Shakti.
+Senza di Lei, Egli non puó muoversi neanche di un centimetro.
+E cosi come può, colui che non fa buone azioni, o colui che non
+canta le sue lodi,
+diventare adeguato ad adorare Te. Oh, mia Dea, che sei
+adorata dalla Trinità.
+
+tanıyamsum pamsum tava carana pankeruha-bhavam
+virihcih saficinvan viracayati loka-navikalam |
+vahatyenam Saurih kathamapi sahasrena Sirasam
+harah sanksud-yainam bhajati bhasitoddhüla navidhim|| 2 ||
+Mantra: hrim
+2 (Attrarre tutto il mondo)
+Il Signore Brahma, l'antico creatore,
+ha preso un po' di polvere dai Tuoi piedi e ha creato questo
+mondo.
+Il grande Adisesha con le sue mille teste (il serpente dalle mille
+teste che sostiene i mondi),
+con grande fatica sostiene la polvere dei Tuoi piedi
+e il grande Signore Rudra la prende e la utilizza come cenere
+sacra.
+
+avidyana-manta-stimira-mihira dvipanagari
+jadanam caitanya-stabaka makaranda srutijharī |
+daridranam cintamani gunanika janmajaladhau
+nimagnanam damstra muraripu varahasya bhavati| | 3 ||
+Mantra: klīm
+3 (Raggiungimento di tutta la conoscenza)
+La polvere sotto i Tuoi piedi, Oh Grande Dea, é come la città
+del sole nascente,
+che rimuove tutte le tenebre e la sfortuna dalla mente del
+povero ignorante.
+Per colui che ha la mente lenta, é come il miele che sgorga dal
+mazzo di fiori dell'azione vitale.
+Per i più poveri tra gli uomini è come le gemme che soddisfano
+i desideri.
+Ed è come i denti del Signore Vishnu nella forma di Varaha,
+che ha portato alla superficie la Madre Terra,
+per quelli che sono annegati in questo mare di nascita e morte.
+
+tvadanyah panibhaya-mabhayavarado daivataganah
+tvameka naivasi prakatita-varabhityabhinaya |
+bhayat tratum datum phalamapi ca vamchasamadhikam
+Saranye lokanam tava hi caranaveva nipunau || 4 ||
+Mantra: dum
+4 (Rimozione di tutte le paure, cura delle malattie)
+Oh Ти, che sei il rifugio per tutto questo mondo.
+Tutti gli Déi tranne te Madre,
+danno rifugio e soddisfano i desideri solamente con
+l'imposizione della loro mano.
+Ma solo tu Madre non mostri mai al mondo in dettaglio i doni e
+il rifugio che puoi dare,
+poiché anche solo i Tuoi santi piedi saranno sufficienti per
+rimuovere la paura per sempre,
+e concedere molte piü benedizioni di quelle richieste.
+
+haristvamaradhya pranata-jana-saubhagya-jananim
+pura nari bhütva puraripumapi ksobha manayat |
+smaro'pi tvam natva ratinayana-lehyena vapusa
+muninamapyantah prabhavati hi mohaya mahatam || 5 ||
+Mantra: tham, $am lam ram ham sam vam yam sam
+5 (Attrazione reciproca tra maschio e femmina)
+Tu, che concedi tutte le cose buone a coloro che si inchinano ai
+tuoi piedi,
+sei adorata dal Signore Vishnu, che ha preso una bellissima
+forma femminile (Mohini),
+e ha potuto cambiare la mente di colui ha bruciato le tre città
+(Hara - Shiva) e farlo innamorare.
+E il Dio dell'amore, Manmatha, che ha preso una forma che é
+come il nettare,
+una vera e propria festa per gli occhi della sua consorte Rati,
+dopo averti venerata, fu in grado di creare la passione anche
+nella mente dei grandi saggi.
+
+dhanuh pauspam maurvi madhukaramayī pafica visikhāh
+vasantah samanto malayamaru-dayodhana-rathah |
+tathapyekah sarvam himagirisute kamapi krpam
+apangatte labdhva jagadida-manango vijayate || 6 ||
+Mantra: klim klim klim sadhyam klim klim klim
+6 (Avere figli)
+Oh, Figlia della Montagna di ghiaccio, con un arco fatto di fiori,
+la corda fatta di miele d'api e cinque frecce fatte di soli teneri
+fiori.
+Con la primavera come suo ministro e che cavalca il carro della
+brezza delle montagne di Malaya.
+Il Dio dell'amore che non ha un corpo, ottiene lo sguardo
+sbarazzino dei tuoi santi occhi.
+Ed é in grado di vincere il mondo intero da solo.
+
+kvanatkafici-dama kari kalabha kumbha-stananata
+pariksina madhye parinata saraccandra-vadanā |
+dhanurbanan pāšam srnimapi dadhana karatalaih
+purasta dastam nah puramathitu raho-purusika || 7 ||
+seil
+Mantra: klīm
+7 (Vedere la Dea in persona. Vincere sui nemici.)
+Con una cintura d'oro, ornata di piccole campane tintinnanti,
+leggermente piegata dal peso dei seni come i due globi frontali
+di un bell'elefante,
+con una sottile affascinante forma, e con un viso come la luna
+d'autunno,
+tiene nelle sue mani, un arco fatto di canna da zucchero, frecce
+fatte di fiori, e il cappio e pungolo.
+Lei che ha la forma meravigliosa dell'ego del Dio (Hara - Shiva)
+che ha bruciato le tre città (Tripura),
+per favore vieni e appari davanti a noi.
+
+sudhasindhormadhye suravita-pivati-parivrte
+manidvipe nipo-pavanavati cintamani grhe |
+Sivakare mañce paramasiva-paryanka nilayam
+bhajanti tvam dhanyah katicana cidananda-laharim || 8 ||
+Mantra: ram
+8 (Evitare il ciclo di nascita e morte)
+Nel mezzo dell'oceano di nettare,
+nell'isola delle gemme preziose che é circondata dagli alberi dei
+desideri Kalpaga,
+nel giardino degli alberi Kadamba, nella casa della Gemma del
+Pensiero,
+su tutti i luoghi sacri dove é seduto il grande Dio Shiva,
+siede Lei che é come una marea nel mare della felicità della
+verità ultima.
+Ed é adorata solamente da pochi selezionati uomini santi.
+
+mahim muladhare kamapi manipüre hutavaham
+sthitam svadhistane hrdi maruta-makasa-mupari |
+mano'pi bhrümadhye sakalamapi bhitva kulapatham
+sahasrare padme sa harahasi patya viharase || 9 ||
+Mantra: yam yam yam sadhyam am krom
+9 (Per il ritorno di persone che sono andati in viaggio, per
+ottenere gli otto tipi di ricchezza)
+Oh mia Dea, che vivi in solitudine con il tuo consorte, nel loto
+dai mille petali,
+raggiunto dopo la rottura attraverso i micro canali,
+del potere della terra in Muladhara, del potere dell'acqua di
+Manipura,
+del potere di fuoco di Swadhishthana, del fuoco dell'aria nel
+cuore
+e del potere dell'etere tra le sopracciglia.
+
+sudhadharasarai-Scaranayugalanta-rvigalitaih
+prapaficam sinfinti punarapi rasamnaya-mahasah|
+avapya svam bhümim bhujaganibha-madhyusta-valayam
+svamatmanam krtva svapisi kulakunde kuharini || 10 ||
+Mantra: klim hrim klîm, hrim hrim hrim hrim hrim hrim
+10 (Ottenere un corpo forte, virilità)
+Utilizzi il nettare che fluisce tra i tuoi piedi, per inondare tutti i
+nervi del corpo
+e discendi dalla luna con il nettare come raggi, torni indietro al
+tuo posto,
+e arrotoli il tuo corpo in un cerchio come un serpente,
+Tu dormi nel Kula Kunda (un altro nome per Muladhara Chakra)
+con un buco nel mezzo.
+(qui viene descritto il percorso della Kundalini)
+
+caturbhih $rikanthaih Sivayuvatibhih paficabhipi
+prabhinnabhih Sambhornavabhirapi mülaprakrtibhih |
+catuscatvärimsad-vasudala-kaläsc-trivalayatrirekhabhih sardham tava Saranakonäh parinatah || 11 ||
+Mantra: $rim
+11 (Buona progenie, ottenere un significato per la vita)
+Con le quattro ruote di nostro Signore Shiva
+e con le cinque diverse ruote di Te, mia Madre,
+che sono la vera base di questo mondo,
+la casa della Sacra Ruota, ha quattro parti diverse, otto e sedici
+petali,
+tre ambienti diversi e tre linee differenti, per un totale di
+quarantaquattro angoli.
+(qui viene descritto il disegno geometrico dello Shri Chakra)
+
+tvadiyam saundaryam tuhinagirikanye tulayitum
+kavindrah kalpante kathamapi virifici-prabhrtayah |
+yadalokautsukya-damaralalana yanti manasa
+tapobhirdusprapamapi giri$a-sayujya-padavim || 12 ||
+Mantra: sauh sauh
+12 (Per raggiungere il Signore Shiva. Per far parlare un uomo
+muto)
+Oh, figlia della montagna di ghiaccio,
+nemmeno il creatore che detiene una vasta gamma di grandi
+poeti,
+non riesce a descrivere la tua sublime bellezza.
+Le bellissime fanciulle celesti, con il desiderio di vedere la tua
+bellezza incontaminata,
+cercano di vederla attraverso gli occhi del Tuo Signore, il
+grande Shiva,
+e fanno penitenza per lui e lo contattano attraverso la loro
+mente.
+
+naram varsiyamsam nayanavirasam narmasu jadam
+tavapangaloke patita-manudhavanti satasah |
+galadvenibandhah kucakala$a-vistrista-sicaya
+hatat trutyatkafiyo vigalita-duküla yuvatayah || 13 ||
+«ей sell qe
+TAA
+adit adr adt
+Mantra: klim klim klīm sadhyam klīm klim klīm
+13 (Successo nelle questioni d'amore)
+Con i capelli arruffati, con le vesti superiori che scivolano dai
+loro busti,
+con la fibbia della cintura d'oro aperta a causa della fretta
+e con i Sari che scivolano dalle spalle, centinaia di giovani
+fanciulle,
+rincorrono gli uomini che ottengono il tuo sguardo sbarazzino,
+anche se sono molto vecchi, di brutto aspetto e non interessati
+a giochi d'amore.
+
+ksitau satpañcasad-dvisamadhika-pañcasa-dudake
+huta$e dvasasti-Scaturadhika-pañcasa-danile |
+divi dvih sat trim$an manasi ca catuhsastiriti ye
+mayukha-stesa-mapyupari tava padambuja-yugam || 14 ||
+Mantra: $rim $rim $rim $rim $rim $rim
+14 (Evitare carestie, epidemie, ladri e banditi)
+I Tuoi santi piedi sono molto al di sopra
+dei cinquantasei raggi dell'essenza della terra di Muladhara,
+dei cinquantadue raggi dell'essenza dell'acqua di Manipura,
+dei sessantadue raggi dell'essenza del fuoco di Swadhishthana,
+dei cinquantaquattro raggi dell'essenza dell'aria di Anahatha,
+dei settantadue raggi dell'essenza dell'etere del Vishuddhi
+e dei sessantaquattro raggi dell'essenza della mente di Ајћа
+Chakra.
+
+Sarajjyotsna Suddhám Sasiyuta-jatajuta-makutam
+vara-trasa-trana-sphatikaghutika-pustaka-karam |
+sakrnna tva natva kathamiva satam sannidadhate
+madhu-ksira-draksa-madhurima-dhurinah phanitayah || 15 ||
+Mantra: sam sam sam sam sam sam
+15 (Capacità di scrivere poesie e la capacità di diventare uno
+studioso)
+Dolci parole che rivaleggiano con il miele, il latte e l'uva,
+possono venire solo dai pensieri del devoto che medita sul Tuo
+viso,
+che é come la bianca luna d'autunno,
+e sulla Tua testa che ha una corona con la falce di luna e capelli
+fluenti
+e sulle mani che danno benedizioni e protezione
+e tengono il rosario di perline di cristallo e libri.
+
+kavindranam cetah kamalavana-balatapa-rucim
+bhajante ye santah katicidarunameva bhavatim |
+virifici-preyasya-starunatara-$rrngara laharigabhirabhi-rvagbhih rvidadhati satam rahjanamami || 16 ||
+Mantra: vam vam vam
+16 (Padronanza dei Veda)
+Colei che é la luce viola dell'alba,
+che dimora nella mente dei re dei poeti del mondo
+e cosi chiamata Aruna — colei che é del colore della porpora,
+crea la felicità nella mente dei santi
+con la tenera passionale ondata di parole di Sarasvati,
+l'amata di Brahma, che é regale e giovanile.
+
+savitrībhi-rvācām casi-mani Sila-bhanga rucibhirvašinyadyābhi-stvām saha janani saficintayati yah |
+sa karta kavyanam bhavati mahatam bhangirucibhirvacobhi-rvagdevi-vadana-kamalamoda madhuraih || 17 ||
+Mantra: aim aim aim
+17 (Padronanza delle parole, conoscenza della scienza)
+Oh, Madre Santa, chi ti adora, insieme alla dea come Vasini,
+che é la principale fonte delle parole
+e Tu che hai la grande lucentezza, ottenuta rompendo la pietra
+della luna,
+diventa autore di grandi epopee, che brillano come quelle
+scritte dai piü grandi
+e che hanno il dolce profumo del viso della dea della
+conoscenza.
+
+tanucchayabhiste taruna-tarani-$risaranibhirdivam sarva-murvi-marunimani magnam smarati yah |
+bhavantyasya trasya-dvanaharina-Salina-nayanah
+sahorva$ya vasyāh kati kati na girvana-ganikah || 18 ||
+Mantra: klim klim klim, kamadevaya namah
+18 (Successo in amore)
+Colui che medita sullo splendore del tuo bel corpo di colore
+viola chiaro,
+benedetto dal sole nascente e che dissolve il cielo e il mondo,
+fa in modo che le celesti donzelle come Uravasi e altre,
+che hanno gli occhi come i cervi selvatici sbigottiti, lo seguano
+come schiave.
+
+mukham bindum krtva kucayugamadha-stasya tadadho
+harardham dhyayedyo haramahisi te manmathakalam |
+sa sadyah sanksobham nayati vanita ityatilaghu
+trilokīmapyāšu bhramayati ravindu-stanayugam || 19 ||
+Mantra: hrim hrim hrim hrim
+19 (Successo in amore)
+Hey Madre, che sei la Dea di tutto l'universo, colui che medita
+su di Te,
+come la mezzaluna dell'amore del nostro grande Signore,
+sul punto al centro della ruota sacra, i tuoi due seni appena
+Sotto
+e che ti medita come la metà di Shiva nostro Signore,
+non solo crea ondate di emozione nelle donne,
+ma affascina il mondo, che ha la luna e il sole come seni.
+
+kiranti-mangebhyah kirana-nikurumbamrtarasam
+hrdi tvā madhatte himakarašilā-mūrtimiva yah |
+sa sarpanam darpam $amayati Sakuntadhipa iva
+jvaraplustan drstya sukhayati sudhadharasiraya || 20 ||
+Mantra: om ksipa svaha
+20 (Cura di tutti i veleni e di tutte le febbri)
+Colui che medita nella sua mente su di Te che riversi nettare da
+tutti i tuoi arti
+e nella forma che assomiglia alla statua scavata nella pietra di
+luna,
+può con un unico sguardo porre fine all'orgoglio dei serpenti
+e con il suo nettare come visione, curare quelli afflitti da febbre.
+
+tatillekha-tanvim tapana Sasi vaisvanara mayīm
+nisnnam sannamapyupari kamalanam tava kalam |
+mahapadmatavyam mrdita-malamayena manasa
+mahantah pa$yanto dadhati paramahlada-laharim || 21 ||
+Mantra: hrim hrim hrim
+21 (Attrarre tutti. Rendere tutti felici)
+Quelle grandi anime che hanno rimosso tutto lo sporco dalla
+mente
+e che meditano all'interno della loro mente su di Te,
+che sei della forma del sole e della luna,
+e che vivono nella foresta di loto
+e anche sopra le sei ruote di loto,
+godono ondate dopo ondate di felicità suprema.
+
+bhavani tvam dase mayi vitara drstim sakarunam
+iti stotum vafichan kathayati bhavani tvamiti yah |
+tadaiva tvam tasmai disasi nijasayujya-padavim
+mukunda-bramhendra sphuta makuta nirajitapadam || 22 ||
+22 (Ottenere tutti i poteri)
+Se qualcuno ha il desiderio di pregare nella propria mente:
+"Tu, Bhavani, mia Madre, per favore fai cadere su di me un po'
+del tuo sguardo misericordioso",
+ancor prima che egli dica, "Tu Bhavani",
+Tu, Oh mia Dea, darai a lui l'acqua,
+che cade dalle corone di Vishnu, Rudra e Brahma, ai Tuoi piedi
+e gli concederai la vita eterna nel Tuo mondo.
+
+tvaya hrtva vamam vapu-raparitrptena manasa
+Sarirardham Sambho-raparamapi Sanke hrtamabhüt |
+yadetat tvadrupam sakalamarunabham trinayanam
+kucābhyāmānamram kutila-šašicūdāla-makutam || 23 ||
+Mantra: stram
+23 (Ottenere tutte le ricchezze)
+La Tua forma nella mia mente, é del colore rosso del sole
+nascente,
+é ornata con tre occhi, ha due seni pesanti, é leggermente
+piegata
+e indossa una corona con la mezzaluna
+e da qui sorge un dubbio in me,
+che Tu non eri soddisfatta della metà del corpo di Shambu che
+Lui stesso ti ha dato
+e cosi hai occupato tutto il suo corpo.
+
+jagatsute dhata hariravati rudrah ksapayate
+tiraskurva-nnetat svamapi vapu-risa-stirayati |
+sada pürvah sarvam tadida manugrhnati ca Sivastavajna malambya ksanacalitayo rbhrülatikayoh || 24 ||
+Mantra: namah Sivaya
+24 (Gestione della paura dei Bhoota, Preta e Pishacha)
+Brahma crea il mondo, Vishnu lo preserva, Shiva lo distrugge,
+Ishvara li fa scomparire e scompare anche lui stesso
+e Sadashiva li benedice tutti,
+dall'ordine che Tu gli hai dato,
+con un piccolo movimento delle Tue sopracciglia.
+(Bhoota - fantasmi.
+Preta = spiriti malevoli.
+Pishacha = demoni mangiatori di carne.)
+
+trayanam devanam triguna-janitanam tava Sive
+bhavet puja puja tava caranayo-rya viracita |
+tatha hi tvatpadodvahana-manipithasya nikate
+sthitā hyete-Sa$vanmukulita karottamsa-makutah || 25 ||
+Mantra: sauh
+25 (Ottenere posti piü alti e il potere)
+Consorte di Shiva, il culto fatto alla base del tuoi piedi,
+equivale al culto fatto alla Santissima Trinità,
+che é nata sulla base delle tue proprietà Trine.
+Questo é cosi vero, Oh Madre, perché la Trinità
+non sta sempre con le mani giunte, tenute sulla loro corona,
+vicino alla tavola ingioiellata che trasporta i tuoi piedi?
+
+virificih paficatvam vrajati harirapnoti viratim
+vinasam kīnāšo bhajati dhanado yati nidhanam |
+vitandri mahendri-vitatirapi sammilita-dr$a
+mahasamhare'smin viharati sati tvatpati rasau || 26 ||
+Mantra: klim klim
+26 (Distruzione dei nemici)
+Il Creatore raggiunge la dissoluzione, Vishnu raggiunge la
+morte,
+anche il Dio della morte muore, Kubera il Signore della
+ricchezza perisce,
+gli Indra chiudono gli occhi uno dopo l'altro
+e raggiungono il sonno profondo durante il diluvio finale,
+ma Tu mia casta Madre, giochi con il tuo consorte il Sadashiva
+
+japo jalpah Silpam sakalamapi mudraviracana
+gatih pradaksinya-kramana-masanadya huti-vidhih |
+pranamah samvešah sukhamakhila-matmarpana-dr$a
+saparya paryaya-stava bhavatu yanme vilasitam || 27 ||
+Mantra: hrim
+27 (Realizzazione del Sé e della verità ultima)
+Fa' che i mormorii che faccio, con il sacrificio nella mia anima,
+diventino il canto del Tuo nome.
+Fa' che tutti i miei movimenti diventino i tuoi Mudra.
+Fa' che il mio viaggio diventi il cammino intorno a te.
+Fa' che l'atto del mangiare e bere diventino il sacrificio del fuoco
+per Te.
+Fa' che il mio atto del dormire diventi il saluto a Te
+e che tutte le azioni per il mio piacere, diventino parti del tuo
+culto.
+
+sudhamapyasvadya prati-bhaya-jaramrtyu-harinim
+vipadyante visve vidhi-Satamakhadya divisadah |
+karalam yat ksvelam kabalitavatah kalakalana
+na šambhostanmūlam tava janani tatanka mahima || 28 ||
+Mantra: tham tham tham
+28 (Paura del veleno e della morte prematura)
+Oh, Madre mia, divinità come Indra e Brahma, che hanno
+bevuto il nettare Divino,
+che rimuove il crudele invecchiamento e la morte, muoiono e
+spariscono.
+Ma Shambu tuo consorte, che ha inghiottito il potente veleno,
+non muore mai,
+a causa della grandezza dei Tuoi orecchini
+(Il significato implicito è che Parvati è in grado di proteggere il
+marito dal рїї grande dei pericoli mortali).
+
+kiritam vairiñcam parihara purah kaitabhabhidah
+kathore kothire skalasi jahi jambhari-makutam |
+pranamresvetesu prasabha-mupayatasya bhavanam
+bhavasyabhyutthane tava parijanokti-rvijayate || 29 ||
+Mantra: klīm
+29 (Evitare gli aborti. Domare le persone cattive)
+Quando Ti alzi e corri in tutta fretta, per ricevere il Tuo Signore
+che arriva da Te,
+le Tue accompagnatrici divine Ti gridano con preoccupazione:
+"Evita la corona di Brahma,
+potrai colpire i Tuoi piedi con la dura corona di Vishnu, che ha
+ucciso l'orco Kaidaba,
+evita la corona di Indra".
+
+svadehodbhütabhi-rghrnibhi-ranimadyabhi-rabhito
+nisevye nitye tva mahamiti sada bhavayati yah |
+kimāšcaryam tasya trinayana-samrddhim trnayato
+mahasamvartagni-rviracayati nirajanavidhim || 30 ||
+Mantra: om
+30 (Entrare in un altro corpo)
+Oh Madre Eterna, che sei la più adatta ad essere servita dai
+devoti,
+a chi medita con un sentimento di identificazione con Te
+(che hai la forma di raggi e sei circondata su tutti e quattro i lati
+dagli angeli di potere chiamati Anima),
+e che considera la ricchezza del Dio con tre occhi come inutile e
+come uguale a erba secca,
+non sorprende sapere che la distruzione di fuoco della
+Dissoluzione Cosmica
+dimostra solo di essere l'Harathi (il rito di offerta di luci).
+
+catuh-sastaya tantraih sakala matisandhaya bhuvanam
+sthitastattta-siddhi prasava paratantraih pasupatih |
+punastva-nnirbandha dakhila-purusarthaika ghatanasvatantram te tantram ksititala mavatitara-didam || 31 ||
+31 (Attrazione di tutto)
+il Signore di tutte le anime, Pashupathi, ha creato i
+sessantaquattro Tantra,
+ciascuno dei quali conduce ad un solo potere desiderato e poi
+ha iniziato il suo riposo.
+Ma Tu, Oh madre, lo hai spinto a creare in questo mondo
+mortale il Tantra chiamato Shri Vidya,
+che concede al devoto tutti i poteri che danno poteri, sopra tutti
+gli stati della vita.
+
+Sivah Saktih kamah ksiti-ratha ravih Sitakiranah
+smaro hamsah Sakra-stadanu ca parä-mära-harayah |
+ami hrllekhabhi-stisrbhi-ravasanesu ghatita
+bhajante varnaste tava janani namavayavatam || 32 ||
+Mantra: om yam om
+32 (Lunga vita. Attrarre tutto)
+Colei che é madre di tutti noi, la lettera seme "ka" del mio
+Signore Shiva, la lettera seme "a" della Dea Shakti,
+la lettera seme "ee" (pronuncia in ita: "ii") del Dio dell'amore,
+la lettera seme "la" della Terra, la lettera seme "ha" del Dio del
+Sole, la lettera seme "sa" della Luna dai freschi raggi,
+la lettera seme "ka" di nuovo del Dio dell'amore,
+la lettera seme "ha" del cielo,
+la lettera seme "la" di Indra, il Re dei Deva,
+la lettera seme "sa" di Para,
+la lettera seme "ka" del Dio dell'amore,
+la lettera seme "la" del Signore Vishnu,
+insieme alla tua lettera seme "Hrim",
+che si affianca alla fine di ciascuna delle tre Sacre Ruote
+Diventa la Sacra Parola (Mantra) per adorarti.
+
+smaram yonim laksmim tritaya-mida-madau tava mano
+rnidhayaike nitye niravadhi-mahabhoga-rasikah |
+bhajanti tvam cintamani-gunanibaddhaksa-valayah
+Sivagnau juhvantah surabhighrta-dhārāhuti-šatai || 33 ||
+Mantra: $rim
+33 (Tutti i benefici)
+Oh, Madre che é sempre presente,
+quelli che hanno realizzato l'essenza del piacere senza limiti
+dell'anima che Tu dai
+aggiungono la lettera seme "Kleem" del Dio dell'amore,
+la lettera seme "Hrim" della Dea Bhuavaneshvari
+e la lettera seme "Shrim" della dea Lakshmi, che sono la triade
+di tre lettere,
+indossano la ghirlanda della gemma dei pensieri (Chinthamani)
+e offrono oblazioni al fuoco nel triangolo di Shiva,
+con il puro ghee profumato della vacca sacra, Kamadhenu,
+parecchie volte e ti adorano.
+
+Sariram tvam Sambhoh Sasi-mihira-vaksoruha-yugam
+tavatmanam manye bhagavati navatmana-managham |
+atah šesah Sesityaya-mubhaya-sadharanataya
+sthitah sambandho vam samarasa-parananda-parayoh || 34 ||
+Mantra: hrim
+34 (Sviluppo del reciproco gradimento)
+Oh Dea Suprema, vedo sempre nella mia mente
+che il Tuo corpo con il sole e la luna come seni é il corpo di
+Shiva,
+e il suo corpo senza pari con nove particelle circostanti, é il tuo
+corpo, mia Dea.
+E cosi la relazione tra "ció che ha" e "colui che ha" diventa un
+perfetto rapporto di felicità
+e diventa uguale in ciascuno di voi.
+
+manastvam vyoma tvam marudasi marutsarathi-rasi
+tvamapa-stvam bhümi-stvayi parinatayam na hi param |
+tvameva svatmanam parinmayitum vi$va vapusa
+cidanandakaram Sivayuvati bhavena bibhrse || 35 ||
+Mantra: ksam ksim ksüm ksum
+35 (Cura della tubercolosi)
+Tu sei Mente, Tu sei Etere, Tu sei Aria, Tu sei Fuoco,
+Tu sei Acqua, Tu sei Terra e Tu sei l'Universo, Oh Madre,
+non c'é niente tranne Te nel mondo, ma per far credere che la
+Tua forma sia l'universo,
+prendi il ruolo della moglie di Shiva
+e appari davanti a noi in forma di coscienza e felicità eterea.
+
+tavajñacakrastham tapana-sasi koti-dyutidharam
+param Sambhu vande parimilita-par$vam paracita |
+yamaradhyan bhaktya ravi Sasi Sucina-mavisaye
+niraloke 'loke nivasati hi bhaloka-bhuvane || 36 ||
+Mantra: dum tha dum sa dum $a
+36 (Cura di tutte le malattie)
+Colui che adora Parameshvara, che ha la luce di miliardi di lune
+e soli messi insieme
+e che vive nel tuo Ajfia Chakra - la sacra ruota dell'ordine
+ed é circondato da Tue due forme su entrambi i lati,
+vivrà per sempre in quel mondo dove non entrano i raggi del
+sole e della luna,
+ma che ha la propria lucentezza, che é oltre la vista dell'occhio
+e che é diverso dal mondo che vediamo.
+
+visuddhau te Suddhasphatika visadam vyoma-janakam
+Sivam seve devimapi Sivasamäna-vyavasitäm |
+yayoh kantya yantyah Sasikiran-sarupyasarane
+vidhūtānta-rdhvāntā vilasati cakoriva jagati || 37 ||
+Mantra: ram
+37 (Rimozione dei demoni e fantasmi come i Bhoota, Preta,
+Pishacha e Brahma Rakshasa)
+Mi inchino di fronte a Shiva,
+che ha la forma di puro cristallo nella tua purissima ruota
+e che crea il principio dell'etere
+e a Te mia Madre, che hai la stessa corrente di pensiero come
+Lui.
+Mi inchino di fronte a tutti e due,
+la cui luna é come luce che elimina per sempre le tenebre
+dell'ignoranza,
+per sempre dalla mente,
+e che brilla come l'uccello di Chakora (uccello mitologico) che
+gioca alla luce della luna piena.
+
+samunmilat samvitkamala-makarandaika-rasikam
+bhaje hamsadvandvam kimapi mahatam manasacaram |
+yadalapa-dastadasa-gunita-vidyaparinatih
+yadadatte dosad guna-makhila-madbhyah paya iva || 38 ||
+Mantra: kam
+38 (Curare le malattie dell'infanzia)
+Prego di fronte alla coppia di cigni,
+che amano solo il miele dei fiori di loto completamente aperti
+della conoscenza,
+e che nuotano nel lago che é la mente dei piü grandi,
+e anche di chi non puó mai essere descritto.
+Da loro provengono le diciotto arti,
+ed essi distinguono il bene dal male come il latte dall'acqua.
+
+tava svadhisthane hutavaha-madhisthaya niratam
+tamide samvartam janani mahatim tam ca samayam |
+yadaloke lokan dahati mahasi krodha-kalite
+dayardra ya drstih Sisira-mupacäram racayati || 39 ||
+Mantra: tham pam pah sam sam
+39 (Per vedere nel sogno ció che pensiamo)
+Madre, io invoco e adoro, quel fuoco, nella Tua Santa Ruota di
+Swadhishthana
+e il Rudra che splende in quel fuoco, come il fuoco distruttivo
+della dissoluzione,
+e Tu che vi splendi come Samaya.
+Quando quel fuoco arrabbiato di Rudra, brucia il mondo,
+il tuo sguardo lo innaffia di misericordia e lo raffredda.
+
+tatitvantam Saktya timira-paripanthi-sphuranaya
+sphura-nna naratnabharana-parinaddhendra-dhanusam |
+{ауа Syamam megham kamapi manipüraika-Saranam
+niseve varsantam-haramihira-taptam tribhuvanam || 40 ||
+Mantra: tham
+40 (Benedizioni da Lakshmi. Realizzazione di sogni buoni, non
+avere brutti sogni)
+Mi inchino di fronte a quel principio, che é nella Tua ruota di
+Manipuraka,
+che come Parashakti splende come nemica dell'oscurità, che é il
+fulmine,
+che é nei brillanti gioielli di pietre preziose,
+che é anche nera come la notte,
+che é bruciata da Rudra come il sole della dissoluzione
+e che raffredda i tre mondi come una densa nuvola.
+
+tavadhare müle saha samayaya lasyaparaya
+navatmana manye navarasa-mahatandava-natam |
+ubhabhya metabhya-mudaya-vidhi muddi$ya dayaya
+sanathabhyam jajfie janaka jananimat jagadidam || 41 ||
+Mantra: yam hrim
+41 (Vedere la Dea in persona. Cura delle malattie sessuali)
+Prego nella tua Sacra Ruota di Muladhara, Te che ami ballare, e
+che Ti chiami Samaya
+e quel Signore che esegue la grande danza vigorosa,
+che ha tutte le sfumature delle nove emozioni.
+Questo mondo vi ha entrambi come genitori,
+perché con la tua misericordia, vi siete uniti per ricreare il
+mondo,
+poiché il mondo é stato distrutto nella grande dissoluzione.
+
+Parte II Soundarya Lahari (Onde di Bellezza)
+In queste strofe viene descritta in tutti i suoi dettagli la Grande
+Madre Shakti. Questi versi si suppone siano stati composti da
+Adi Shankara stesso.
+gatai-rmanikyatvam gaganamanibhih sandraghatitam
+kiritam te haimam himagirisute kitayati yah ||
+sa nideyacchaya-cchurana-Sakalam candra-Sakalam
+dhanuh saunāsīram kimiti na nibadhnati dhisanam || 42 ||
+Mantra: ram ram rim rim
+42 (Attrarre tutto. Cura delle malattie causate dall'acqua)
+Ehi Figlia della Montagna di ghiaccio, colui che descriverà la tua
+corona, ornata con brillanti gioielli, che non sono altro che la
+forma dei dodici Santi Soli, disposti molto ravvicinati,
+vedrà la mezzaluna nella tua corona,
+nella luce abbagliante di quei gioielli
+e li vedrà come un arcobaleno,
+che altro non è che l'arco di Indra.
+
+dhunotu dhvantam na-stulita-dalitendivara-vanam
+ghanasnigdha-Slaksnam cikura nikurumbam tava Sive |
+yadiyam saurabhyam sahaja-mupalabdhum sumanaso
+vasantyasmin manye balamathana vati-vitapinam || 43 ||
+Mantra: $rim
+43 (Vittoria su tutto)
+Oh Dea, che sei la consorte di Shiva,
+fa che il buio della nostra mente venga distrutto
+dalla gloria della corona sulla Tua testa,
+che é di come la foresta di fiori di loto blu, e che é morbida,
+densa e splende di luce.
+Credo, mia Madre, che i bei fiori del giardino di Indra,
+siano tutti per sempre li per dare il profumo naturale dei Tuoi
+capelli.
+
+tanotu ksemam na-stava vadanasaundaryalahari
+parivahasrotah-saraniriva simantasaranih |
+vahanti- sinduram prabalakabari-bhara-timira
+dvisam brndai-rvandikrtameva navinarka keranam || 44 ||
+Mantra: klīm
+44 (Cura di tutte le malattie)
+Oh Madre, fa che la linea di separazione i tuoi capelli,
+che assomiglia a un canale,
+attraverso il quale le onde impetuose della tua bellezza
+fluiscono,
+e che su entrambi i lati imprigiona il Tuo Vermiglio*, che é come
+un sole nascente.
+Utilizzando i Tuoi capelli, che sono scuri come un plotone di
+soldati del nemico,
+proteggici e dacci la pace.
+* (Sindur - un tradizionale colore cosmetico in polvere di colore rosso, di solito
+portato dalle donne sposate lungo la separazione dei capelli)
+
+arālai svabhavya-dalikalabha-sasribhi ralakaih
+parītam te vaktram parihasati pankeruharucim |
+darasmere yasmin dašanaruci kifijalka-rucire
+sugandhau madyanti smaradahana caksu-rmadhulihah || 45 ||
+Mantra: sam sam sam
+45 (Benedizione della Dea della ricchezza. Le proprie parole
+diventano un dato di fatto)
+Per natura leggermente incurvata
+Con il sottile filo d'oro, splendente come le giovani api mellifere,
+che circonda il Tuo viso dorato.
+Il Tuo viso si prende gioco della bellezza del loto.
+Ornata con un sorriso leggermente di lato, mostrando la
+bellezza dei vostri denti,
+che sono come i viticci bianchi e che sono dolcemente
+profumati.
+Incanti gli occhi del Dio che ha bruciato il Dio dell'amore.
+(Shiva che solo con uno sguardo ha incenerito Kama)
+
+lalatam lavanya dyuti vimala-mabhati tava yat
+dvitiyam tanmanye makutaghatitam candrašakalam |
+viparyasa-nyasa dubhayamapi sambhūya ca mithah
+sudhalepasyütih parinamati raka-himakarah || 46 ||
+Mantra: hrim
+46 (Verir benedetti con un figlio)
+Ho il sospetto, Oh Madre, che la Tua fronte,
+che risplende con la bellezza della luna,
+non sia altro che una mezzaluna imprigionata dalla tua gloriosa
+corona,
+perché se si unisce all'opposta mezzaluna rovesciata nella tua
+corona,
+ne uscirebbe il nettare come la lucentezza della luna in un
+giorno di luna piena.
+
+bhruvau bhugne kificidbhuvana-bhaya-bhangavyasanini
+tvadiye netrabhyam madhukara-rucibhyam dhrtagunam |
+dhanu rmanye savyetarakara grhitam ratipateh
+prakoste mustau ca sthagayate nigüdhantara-mume || 47 ||
+Mantra: hrim hrim hrim
+47 (Successo in tutti gli sforzi compiuti)
+Oh Dea Uma, che rimuovi la paura del mondo,
+le Tue sopracciglia leggermente piegate,
+legate dalle api a formarne la stringa,
+mi sembrano simili all'arco del Dio dell'amore portato dalla sua
+mano sinistra,
+ed é come se il pugno chiuso e il polso ne fossero cosi
+la parte centrale (il naso sporgente tra le sopracciglia).
+
+ahah süte savya tava nayana-markatmakataya
+triyamam vāmam te srjati rajaninayakataya |
+trtiya te drsti-rdaradalita-hemambuja-rucih
+samadhatte sandhyam divasar-nisayo-rantaracarım || 48 ||
+Mantra: bu $u ca gu ra ku ra $a ke
+48 (Rimozione dei problemi creati dai nove pianeti)
+Il Tuo occhio destro è come il sole e crea il giorno,
+il Tuo occhio sinistro é come la luna e crea la notte,
+il tuo occhio centrale, che é come il germoglio del loto d'oro,
+leggermente aperto in un fiore e crea l'alba e il tramonto.
+
+visala kalyani sphutaruci-rayodhya kuvalayaih
+krpadharadhara kimapi madhura"bhogavatika |
+avanti drstiste bahunagara-vistara-vijaya
+dhruvam tattannama-vyavaharana-yogyavijayate || 49 ||
+Mantra: maka maka maka maka
+49 (Vittoria su tutto. Per trovare tesori)
+Lo sguardo dai tuoi occhi, Oh Dea,
+pervade tutto, fa bene a tutti, splende ovunque,
+é una bellezza che non puó mai essere sfidata, neanche dai fiori
+di giglio blu,
+è la fonte della misericordia, è la dolcezza personificata,
+è uno sguardo lungo e bello, è in grado di salvare i devoti,
+e la vittoria nelle diverse città.
+E può essere chiamato con nomi diversi, secondo quale aspetto
+si vede.
+
+kavinam sandarbha-stabaka-makarandaika-rasikam
+kataksa-vyaksepa-bhramarakalabhau karnayugalam |
+amuficntau drstva tava navarasasvada-taralau
+asūyā-samsargā-dalikanayanam kificidarunam || 50 ||
+50 (Vedere lontano. Cura del vaiolo)
+I Tuoi due lunghi occhi, Oh Dea,
+sono come due piccole api che bramano bere il miele
+e che si estendono dolcemente alle estremità verso le Tue
+orecchie,
+su Cui si piegano a bere il miele dal mazzo di fiori delle poesie
+presentate dai tuoi devoti
+e rendono il Tuo terzo occhio viola di gelosia e invidia.
+
+Sive Sangarardra taditarajane kutsanapara
+sarosa gangayam giriSacarite vismayavati |
+harahibhyo bhita sarasiruha saubhagya-janani
+sakhisu smera te mayi janani drstih sakaruna || 51 ||
+Mantra: klim klim klīm
+51 (Attrarre tutte le persone)
+Madre di tutto l'universo, lo sguardo dei tuoi occhi
+é gentile e pieno di amore quando guardi il Tuo Signore
+ed é pieno d'odio verso tutti gli altri uomini.
+E pieno di rabbia quando guardi Ganga, l'altra moglie del Tuo
+Signore,
+é pieno di meraviglia quando ascolti le storie del Tuo Signore,
+é pieno di paura quando vedi i serpenti indossati dal Tuo
+Signore,
+é riempito con il colore rosso del valore del bellissimo loto,
+é pieno di gioia quando vedi i tuoi amici
+ed é pieno di misericordia quando mi guardi.
+
+gate karnabhyarnam garuta iva paksmani dadhati
+puram bhettu-scittaprašama-rasa-vidrāvaņa phale |
+ime netre gotradharapati-kulottamsa-kalike
+tavakarnakrsta smarasara-vilāsam kalayatah|| 52 ||
+Mantra: ram
+52 (Successo in amore. Cura delle malattie delle orecchie e
+degli occhi)
+Oh, Bocciolo di Fiore, che sei il copricapo del Re delle
+Montagne,
+le Tue nere sopracciglia sono simili a piume di aquila
+e distruggono la pace dalla mente di colui che ha distrutto le tre
+Città (Shiva),
+i Tuoi due occhi allungati fino alle orecchie
+fanno scoccare le frecce del Dio dell'amore.
+
+vibhakta-traivarnyam vyatikarita-Ilänjanatayä
+vibhati tvannetra tritaya mida-misänadayite |
+punah srastum devan druhina hari-rudranuparatan
+rajah satvam vebhrat tama iti gunanam trayamiva || 53 ||
+Mantra: hrim
+53 (Attrarre tutto il mondo. Vedere la Dea in persona)
+Oh, Cara al Dio Shiva, quei Tuoi tre occhi,
+colorati in tre tonalità per esaltare la tua bellezza,
+hanno le tre qualità, di Sattva, Rajas e Tamas,
+per ricreare la Santissima Trinità, di Vishnu, Brahma e Rudra,
+unita in Te durante la dissoluzione finale.
+
+pavitrikartum nah pašupati-parādhīna-hrdaye
+dayamitrai rnetrai-raruna-dhavala-Syama rucibhih |
+nadah Sono дайда tapanatanayeti dhruvamum
+trayanam tirthana-mupanayasi sambheda-managham || 54 ||
+Mantra: sam sam
+54 (Distruzione di tutti i peccati. Cura delle malattie dell'occhio)
+Tu che hai donato il cuore a Pasupathi,
+i Tuoi occhi che sono i compagni della misericordia, colorati di
+rosso, bianco e nero,
+ricordano i fiumi sacri, Sonabhadra, che è rosso,
+Ganga, che è bianco, Yamuna, la figlia del sole, che è nero
+ed è alla confluenza di questi fiumi sacri, che rimuovi tutti i
+peccati del mondo.
+Siamo certi e sicuri, che li hai fatti incontrare e unire,
+per fare in modo che noi, che ti vediamo, ci santificassimo.
+
+nimesonmesabhyam pralayamudayam yati jagati
+tavetyahuh santo dharanidhara-rajanyatanaye |
+tvadunmesajjatam jagadida-mašesam pralayatah
+paretratum $amnke parihrta-nimesa-stava dr$ah || 55 ||
+Mantra: blüm blüm
+55 (Potere di proteggere. Cura delle malattie del rene)
+Oh figlia del Re della Montagna!
+I saggi eruditi dicono che questo nostro mondo
+é creato e distrutto quando apri e chiudi i Tuoi profondi occhi.
+Credo, Oh Madre mia, che mai li chiuderai,
+affinché questo mondo creato da Te, non affronti mai la
+dissoluzione.
+
+tavaparne karne japanayana paisunya сака
+nillyante toye niyata manimesah Sapharikah |
+iyam ca Sri-rbaddhacchadaputakavatam kuvalayam
+jahati pratyüse nisi ca vighatayya pravisati|| 56 ||
+Mantra: yam yam yam
+56 (Per ottenere la liberazione dalla prigionia. Cura delle
+malattie dell'occhio)
+Oh, colei che non é generata da nessuno,
+é sicuro che i pesci neri femmina del ruscello hanno paura di
+chiudere gli occhi,
+temendo che i tuoi lunghi occhi, osservandoli,
+possano parlare male di loro mormorando nelle orecchie a cui
+sono vicini.
+E anche certo, che la Dea Lakshmi,
+entra nel fiore di giglio blu, prima che i Tuoi occhi si chiudano di
+notte
+per uscirne al mattino, quando si aprono.
+
+dr$a draghiyasya daradalita nilotpala ruca
+daviyamsam dinam snapa krpaya татар! sive |
+anenayam dhanyo bhavati na ca te haniriyata
+vane va harmye va samakara nipato himakarah || 57 ||
+A
+aT
+Mantra: $rim $rim
+57 (Tutta la fortuna)
+Oh Tu che sei la consorte del Signore Shiva,
+per favore bagnami con il tuo sguardo misericordioso.
+Con i tuoi occhi che sono molto lunghi
+e hanno il luccichio del divino fiore di loto blu appena aperto.
+Da questo sguardo io diventerò ricco con tutto ciò che è
+conosciuto,
+mentre Tu non perdi nulla,
+come fa la luna illuminando suprema la foresta e i palazzi.
+
+aralam te paliyugala-magarajanyatanaye
+na kesa-madhatte kusumasara kodanda-kutukam |
+tiraScino yatra Sravanapatha-mullnyya vilasan
+apanga vyāsango disati sarasandhāna dhisanam || 58 ||
+Mantra: $rim, klim klīm klīm klīm klīm klīm
+58 (Cura per tutte le malattie. Successo in amore)
+Oh Dea, che sei la figlia del Re delle Montagne,
+chi non crederebbe che le due creste arcuate tra gli occhi e le
+orecchie,
+siano l'arco di fiori del Dio dell'amore,
+gli sguardi di lato dei tuoi occhi, penetrando attraverso questi
+spazi,
+ci fanno meravigliare
+come se le frecce fossero state inviate attraverso le Tue
+orecchie.
+
+sphuradgandabhoga-pratiphalita tathka yugalam
+catu$cakram manye tava mukhamidam manmatharatham |
+yamaruhya druhya tyavaniratha markenducaranam
+mahaviro marah pramathapataye sajjitavate || 59 ||
+Mantra: aim klim sauh
+59 (Attrarre chiunque)
+Ritengo che il Tuo viso, con la coppia di orecchini
+riflessa nelle tue guance come in uno specchio,
+sia il carro del Dio dell'amore con le sue quattro ruote.
+Forse lui pensava di poter vincere il Signore Shiva,
+che stava guidando il carro della terra, con il sole e la luna
+come ruote,
+solo perché guidava questo carro.
+
+sarasvatyah sūktī-ramrtalaharī kaušalaharīh
+pibnatyah šarvāņi $ravana-culukabhya-maviralam |
+camatkarah-Slaghacalita-Sirasah kundalagano
+jhanatkaraistaraih prativacana-macasta iva te || 60 ||
+Mantra: $rim
+60 (Far parlare un muto. Far si che le previsioni si avverino)
+Oh Dea, che sei la consorte del Signore Shiva,
+la tua dolce voce che assomiglia a continue ondate di nettare,
+riempie le orecchie di Sarasvati, senza sosta
+e lei scuote la testa di qua e di là,
+e il suono fatto dai suoi orecchini,
+é come se applaudisse le Tue parole.
+
+asau nasavam$a-stuhinagirivan$a-dhvajapati
+tvadiyo nediyah phalatu phala-masmakamucitam |
+vahatyantarmuktah Sisirakara-nisväsa-galitam
+samrddhya yattasam bahirapi ca muktamanidharah || 61 ||
+Mantra: hrim
+61 (Vittoria sulla mente. Ottenere ricchezza)
+Oh Dea, che sei la bandiera del clan di Himalaya,
+fa che il Tuo naso che è come un bambù sottile,
+ci conceda le Tue benedizioni.
+Oh Madre, che indossi una perla rara,
+esaltata dal respiro della Tua narice sinistra,
+il tuo naso é l'origine delle perle piü rare.
+
+prakrtya"raktaya-stava sudati dandacchadaruceh
+pravaksye sadr$yam janayatu phalam vidrumalata |
+na bimbam tadbimba-pratiphalana-raga-darunitam
+tulamadhrarodhum kathamiva vilajjeta kalaya || 62 ||
+Mantra: mam mam mam
+62 (Per un buon sonno)
+Oh Dea che hai dei bellissimi denti,
+ho cercato di trovare un colore simile al rosso sangue delle Tue
+labbra
+e posso solo immaginare che
+il frutto della vite corallo (Antigonon leptopus) О i frutti della rossa
+Bimba
+(Momordica Monadelpha, con la quale le labbra delle donne sono spesso confrontate)
+hanno cercato di imitare il loro colore da Te
+ma non possono essere confrontati con le tue labbra,
+cosi hanno fallito miseramente.
+
+smitajyotsnajalam tava vadanacandrasya pibatam
+cakorāņā-māsī-datirasatayā caficu-jadima |
+ataste Sitamso-ramrtalaharı mamlarucayah
+pibanti svacchandam nisi nisi bhrsam Кайл kadhiya || 63 ||
+Mantra: hrim
+63 (Ammaliare tutti)
+Gli uccelli Chakora (uccelli mitici che bevono la luce della luna),
+sentono che loro lingue sono state intorpidite,
+bevendo sempre il dolce nettare della luce che emana il Tuo
+viso di luna
+e durante la notte volendo assaggiare qualcosa di amaro,
+hanno iniziato a bere i bianchi raggi della luna piena nel cielo,
+scambiandoli per farinata di riso amaro.
+
+avisräntam patyurgunagana kathamredanajapa
+japapuspacchaya tava janani jihva jayati sa |
+yadagrasinayah sphatikadrsa-dacchacchavimayi
+sarasvatya murtih parinamati manikyavapusa || 64 ||
+Mantra: klim, $rim $rim $rim $rim $rim srīm
+64 (Ottenere tutta la conoscenza)
+Madre mia, la Tua ben nota lingua,
+che senza riposo canta e ripete le lodi del Tuo Consorte, Shiva,
+é rossa come il fiore di ibisco.
+La Dea della Conoscenza, Sarasvati,
+seduta sulla punta della lingua,
+anche se bianca e scintillante come un cristallo,
+diventa rossa come il rubino a causa del colore della Tua lingua.
+
+rane jitva daitya napahrta-Sirastraih kavacibhih
+nivrttai-Scandamsa-tripurahara-nirmalya-vimukhaih |
+visakhendropendraih šašivišada-karpūrašakalā
+viliyante matastava vadanatambüla-kabalah || 65 ||
+DVA
+PR
+Mantra:
+klim, $rim $rim $rim $rim $rim, hrim hrim hrim hrim hrim
+65 (Vittoria. Controllo sulle parole)
+Oh Madre del mondo,
+Subrahmanya, Vishnu e Indra,
+tornando e riposando dopo la guerra con gli Asura,
+hanno tolto il loro copricapo e indossando ancora le armature
+e non essendo interessati a ció che é rimasto delle offerte a
+Shiva,
+che appartengono a Chandikeshvara,
+presero il betel masticato a metà
+dalla Tua santa bocca di canfora bianca come la luna.
+
+vipaficya gayanti vividha-mapadanam pašupatestvayarabdhe vaktum calitaSirasa sadhuvacane |
+tadiyai-rmadhuryai-rapalapita-tantrikalaravam
+nijam vinam vanim niculayati colena nibhrtam || 66 ||
+Mantra: $rim $rim $rim
+66 (Parole dolci. Padronanza nella musica)
+Oh Madre di tutto, quando cominci ad annuire con la testa,
+mormorando dolcemente alla Dea Sarasvati "bene, bene",
+quando Ti canta le grandi storie di Pashupati nostro Signore,
+con l'accompagnamento del suo Veena,
+Lei copre il Veena con un panno, cosi che le corde dando una
+musica piü dolce,
+non sono messe a vergogna dalla tua voce piena di dolcezza.
+
+karagrena sprstam tuhinagirina vatsalataya
+giriseno-dastam muhuradharapanakulataya |
+karagrahyam Sambhormukhamukuravrntam girisute
+kathankaram brūma-stava cubukamopamyarahitam || 67 ||
+Mantra: klim klīm klīm
+67 (Far apparire la Dea)
+Oh figlia della Montagna,
+come si puó descrivere la bellezza del Tuo mento?
+Che é stato accarezzato con affetto dalla punta delle dita di tuo
+padre Himavan;
+Che spesso é stato sollevato dal Signore della montagna, Shiva,
+nella fretta di bere profondamente dalle Tue labbra;
+Che era cosi adatto ad essere toccato dalle Sue dita;
+Che non ha nulla di paragonabile,
+e che regge lo specchio luminoso del tuo volto.
+
+bhujaslesannityam puradamayituh kantakavati
+tava grīvā dhatte mukhakamalanala-$riyamiyam |
+svatah $veta kala garu bahula-jambalamalina
+mrnalilalityam vahati yadadho haralatika || 68 ||
+Mantra: hrim
+68 (Attrarre il Re)
+Il Tuo collo appare sempre come pieno di spine
+a causa dei capelli scompigliati per i frequenti abbracci del Tuo
+Signore,
+colui che ha distrutto le tre città.
+E sembra il bellissimo stelo del Tuo viso di loto.
+La catena di perle bianche che indossi sotto,
+è annerita dall'incenso, dalla mirra e dalla pasta di sandalo
+e sembra come il tenero gambo che spunta dal letto di fango.
+
+gale rekhastisro gati gamaka gitaika nipune
+vivaha-vyanaddha-pragunaguna-sankhya pratibhuvah |
+virajante nanavidha-madhura-ragakara-bhuvam
+trayanam gramanam sthiti-niyama-simana iva te || 69 ||
+Mantra: ksam müm
+69 (Padronanza sulla musica)
+Oh Tu che sei esperta di Gati, Gamaka e Gita
+(le tre principali parti della musica classica Karnatica: procedura, ondulazione e
+canzone),
+le tre linee fortunate sul Tuo collo
+ricordano le tre ghirlande che indossavi durante il matrimonio
+e ricordano anche quel luogo, nel tuo bel collo,
+dove hanno origine le tre note musicali Shadja, Madhyama e
+Gandhara.
+
+mrnali-mrdvinam tava bhujalatanam catasrnam
+caturbhih saundrayam sarasijabhavah stauti vadanaih |
+nakhebhyah santrasyan prathama-mathana dantakaripoh
+caturnam Sirsanam sama-mabhayahastarpana-dhiya || 70 ||
+Mantra: klim $rim
+70 (Compensazione per gli errori di culto fatti al Dio Shiva)
+Brahma, il Dio nato dal Loto, timoroso delle unghie di Shiva,
+che troncarono una delle sue cinque teste,
+Loda con i suoi quattro volti
+le Tue quattro mani belle, gentili, simili al gambo di fiore di loto
+e misericordiose
+in modo che possa chiedere protezione per le sue restanti
+quattro teste.
+
+nakhana-mudyotai-rnavanalinaragam vihasatam
+karanam te kantim kathaya kathayamah kathamume |
+kayacidva samyam bhajatu kalaya hanta kamalam
+yadi kridallaksmi-caranatala-laksarasa-canam || 71 ||
+CAN
+BE
+FS
+Mantra:
+klīm, $rim $rim $rim $rim $rim, klim klım klim klīm klim
+71 (Ottenere ricchezza)
+Oh Dea Uma, dicci solo come,
+come possiamo descrivere lo splendore delle Tue mani?
+La luce delle Tue unghie, che prende in giro il rossore del loto
+appena sbocciato?
+Forse se il rosso loto si mescola con la lacca rossa che adorna i
+piedi di Lakshmi,
+allora qualche somiglianza puó essere intravista.
+
+samam devi skanda dvipivadana pitam stanayugam
+tavedam nah khedam haratu satatam prasnuta-mukham |
+yadalokyasankakulita hrdayo hasajanakah
+svakumbhau herambah parimršati hastena jhaditi || 72 ||
+Mantra: samam devi klim hrim
+72 (Vincere la paura del buio. Ricevere la grazia dalla Dea.)
+Oh nostra Dea Devi, fa che i Tuoi due dolci seni,
+sempre generosi di latte,
+bevuto contemporaneamente da Skanda e Ganesha dalla testa
+d'elefante,
+distruggano tutti i nostri dolori.
+Vedendoli e rimandone confuso, Heramba (Ganesha)
+si sente con le mani se i suoi due globi frontali
+sono loro al loro posto (o se sono scomparsi nei tuoi seni),
+facendoti cosi sorridere.
+
+amu te vaksoja-vamrtarasa-manikya kutupau
+na sandehaspando nagapati patake manasi nah |
+pibantau tau yasma davidita vadhüsanga rasikau
+kumaravadyapi dviradavadana-krauficdalanau || 73 ||
+Mantra: hrim
+73 (Per la produzione di latte. Redenzione)
+Oh, bandiera della vittoria del Re della Montagna,
+non abbiamo nessun dubbio nella nostra mente,
+che i Tuoi due seni divini sono il vaso pieno di nettare fatto di
+rubini
+per il Dio dalla testa d'elefante e per chi ha ucciso Kraunchasura
+(Ganesha e Kartikeya),
+che ancor oggi non conoscono il piacere delle donne
+e rimangono come piccoli fanciulli.
+
+vahatyamba stmberama-danuja-kumbhaprakrtibhih
+samarabdham muktamanibhiramalam haralatikam |
+kucabhogo bimbadhara-rucibhi-rantah sabalitām
+pratāpa-vyāmišrām puradamayituh kirtimiva te || 74 ||
+Mantra: aim klim sauh
+74 (Buona reputazione, fama, prestigio)
+Oh Madre mia, al centro del tuo seno splende la collana di perle
+recuperata da dentro la testa di Gajasura (il demone elefante)
+e riflette il rossore delle tue labbra,
+simili ai frutti della Bimba che sono di colore rosso all'interno.
+Indossi la collana con prestigio,
+come se indossassi la fama del nostro Signore,
+Colui che ha distrutto le tre città.
+
+tava stanyam manye dharanidharakanye hrdayatah
+payah paravarah parivahati sarasvatamiva |
+dayavatya dattam dravidasisu-räsvädya tava yat
+kavinam praudhana majani kamaniyah kavayita || 75 ||
+Mantra: sam, aim klim sauh sauh klim aim
+75 (Capacità di scrivere poesie)
+Oh figlia del Re delle Montagne,
+sento che il latte che sgorga dal tuo seno,
+é in realtà la Dea della Conoscenza, Sarasvati,
+sotto forma di un'onda di marea di nettare.
+Poiché, il latte che Tu doni, che é pieno di misericordia,
+ha fatto diventare il figlio di Dravida
+(il poeta Tamil Thirujfiana Sambandar che ha preceduto Shankara),
+il re fra quei grandi poeti le cui opere rapiscono la mente.
+
+harakrodha-jvalavalibhi-ravalidhena vapusa
+gabhire te nabhisarasi krtasaño manasijah |
+samuttasthau tasma-dacalatanaye dhumalatika
+janastam janite tava janani romavaliriti || 76 ||
+Mantra: klim
+76 (Completa Rinuncia. Successo in amore)
+Oh figlia della Montagna,
+il Dio dell'amore, che é il re della mente,
+essendo bruciato dalla fiamma della rabbia di Shiva,
+si immerse nel profondo pozzo del tuo ombelico.
+Il fumo da li emanato che si erge come un viticcio,
+Oh Madre, sembra essere la ciocca dei Tuoi capelli,
+che sale dal tuo ombelico verso l'alto.
+
+yadetatkalindi-tanutara-tarangakrti Sive
+vimarda-danyonyam kucakalašayo-rantaragatam
+tanübhütam vyoma pravisadiva nabhim kuharinim || 77 ||
+Mantra: klim
+77 (Ottenere una vista microscopica. Attrarre chiunque)
+Oh Madre dell'universo che sei Shiva-Shakti,
+nella parte piü stretta della metà del Tuo corpo,
+i saggi sembrano vedere una linea,
+che é della forma di una piccola onda del fiume Yamuna
+e che brilla e luccica e appare come il cielo,
+resa molto sottile dai tuoi seni prosperosi che si incontrano
+e che si inserisce nel Tuo ombelico.
+
+sthiro дайда vartah stanamukula-romāvali-latā
+kalavalam kundam kusumasara tejo-hutabhujah |
+rate-rlilagaram kimapi tava nabhirgirisute
+beladvāram siddhe-rgirisanayananam vijayate || 78 ||
+Mantra: hrim
+78 (Attrarre tutto l'universo)
+Oh figlia della Montagna,
+il Tuo ombelico é un mulinello nel fiume Ganga che sembra
+molto stabile!
+Oppure é la radice del rampicante che sale alla Tua linea di
+capelli
+e che ha i Tuoi seni come boccioli di fiori.
+Oppure é il fuoco sacrificale dell'Homa, dove il fuoco é della
+prodezza di Kama Deva.
+E la casa di Rathi, moglie del Dio dell'amore.
+E l'ingresso della grotta dove le grandi austerità di Shiva
+vengono adempiute.
+Non sono in grado di decidermi!
+
+nisarga-ksinasya stanatata-bharena klamajuso
+namanmürte rnārītilaka Sanakai-strutyata iva |
+ciram te madhyasya trutita tatini-tira-taruna
+samavastha-sthemno bhavatu kusalam Sailatanaye || 79 ||
+Mantra: klim sarvajanamohanam
+79 (Ottenere capacità magiche. Ammaliare gli altri)
+Oh figlia della Montagna,
+che sei la piü grande tra le donne,
+sia lodato il Tuo giro vita, dall'aspetto fragile e snello,
+che sta sotto il peso dei tuoi pesanti seni e quindi è
+leggermente piegato,
+sembra come l'albero nelle erose rive di un fiume impetuoso.
+
+kucau sadyah svidya-ttataghatita-kürpasabhidurau
+kasantau-daurmüle kanakakalašābhau kalayata |
+tava tratum bhangadalamiti valagnam tanubhuva
+tridha naddhm devi trivali lavalivallibhiriva || 80 ||
+Mantra: hrim, $am lam ram $rim, klim yam aim sauh
+80 (Ottenere una bellezza notevole. Diventare esperti nella
+magia)
+Oh Dea, fu il Dio dell'amore
+che mise i Tuoi seni appena sotto le spalle,
+che tirano la camicetta che é attaccata al Tuo corpo dal sudore,
+quando pensi della grandezza del Tuo Signore.
+Sono simili a coppe d'oro
+e sembrano essere legati da Kama Deva, ben tre volte,
+come rampicanti, sulle tre pieghe della pancia.
+
+gurutvam vistaram ksitidharapatih parvati nijat
+nitamba-dacchidya tvayi harana rüpena nidadhe |
+ataste vistirno gururayamasesām vasumatim
+nitamba-pragbharah sthagayati saghutvam nayati ca || 81 ||
+Mantra: hrim
+81 (Fermare il fuoco)
+Oh, figlia della Montagna,
+forse Himavan, il Re delle montagne,
+Ti ha dato in dote la solidità e la larghezza dei suoi fianchi,
+affinché i Tuoi fianchi siano grandi e forti.
+E quindi siano in grado di nascondere tutto il mondo
+e di renderlo piü leggero.
+
+karīndrāņām $undan-kanakakadali-kandapatalim
+ubhabhyamurubhya-mubhayamapi nirjitya bhavati |
+suvrttabhyam patyuh pranatikathinabhyam girisute
+vidhijñe jānubhyām vibudha karikumbha dvayamasi || 82 ||
+Mantra: om hrim, dum lam mam yam sam ham
+82 (Fermare le alluvioni. Ottenere i poteri di Indra)
+Oh figlia della Montagna, che conosci le regole dei Veda,
+con le Tue gambe hai vinto in bellezza sulla proboscide
+dell'elefante
+e sui fusti dorati dell'albero di Banana.
+Con le Tue rotonde ginocchia, diventate dure per le ripetute
+prostrazioni al Tuo Signore,
+hai vinto sui lobi frontali di Iravatha, l'elefante divino (l'elefante
+cavalcato da Indra).
+
+parajetum rudram dviguņašaragarbhau girisute
+nisangau janghe te visamavisikho badha-makrta |
+yadagre drsyante dasasaraphaläh padayugali
+nakhagracchanmanah sura mukuta-Sanaika-nisitah || 83 ||
+Mantra: om sum orn
+83 (Fermare un esercito)
+Oh figlia della Montagna, il Dio dell'amore dalle cinque frecce
+(Kama Deva),
+per vincere Rudra, il Tuo Signore,
+ha convertito le Tue gambe in faretre
+per mettervi il doppio del numero di frecce che ha in dotazione.
+Le dieci unghie dei Tuoi piedi sono le dieci frecce dalla punta
+d'acciaio,
+affilate sulle corone dei Deva.
+
+Srutinam mürdhano dadhati tava yau Sekharatayá
+mamapyetau matah Serasi dayaya dehi caranau |
+yayaoh padyam pathah pasupati jatajüta tatinī
+yayo-rlaksa-laksmi-raruna haricudamani rucih || 84 ||
+ES
+A EA
+VY S)
+Mantra: am hrim krom, samjivani hum phat
+84 (Ottenere la redenzione. Entrare nel corpo di un altro)
+Oh Madre mia, sii lieta di mettere i Tuoi piedi,
+che sono gli ornamenti del capo delle Upanishad (la "Corona dei
+Veda”),
+l'acqua che li lava è il fiume Gange che scorre dalla testa di
+Shiva,
+e la lacca rossa che li adorna ha il lustro rosso della corona di
+Vishnu,
+con misericordia sulla mia testa.
+
+namo vākam brümo nayana-ramanīyāya padayoh
+tavasmai dvandvaya sphuta-ruci rasalaktakavate |
+asuyatyatyantam yadabhihananaya sprhayate
+pasuna-misanah pramadavana-kankelitarave || 85 ||
+Mantra: ram ram ram ram ram ram
+85 (Rimuovere la paura dei fantasmi)
+Porgiamo i nostri saluti ai Tuoi piedi scintillanti.
+Che sono i piü belli e sono dipinti con il succo di cotone rosso.
+Sappiamo anche che il Dio di tutti gli animali (Pashupati), TUO
+consorte,
+ё molto geloso degli alberi nel giardino Ashoka
+che bramano un calcio dai Tuoi piedi.
+
+mrsa krtva gotraskhalana-matha vailaksyanamitam
+lalate bhartaram caranakamale tadayati te |
+ciradantah salyam dahanakrta munmülitavata
+tulakotikvanaih kilikilita mīšāna ripuna || 86 ||
+Mantra: yam yam yam
+86 (Rimuovere la paura dei fantasmi. Vittoria sui nemici)
+Dopo aver preso giocosamente in giro Te e la Tua famiglia
+e nel perdere il controllo su una Tua scaramuccia d'amore,
+quando il Tuo consorte si é prostrato
+e i Tuoi piedi di loto gli hanno dato un calcio sulla Sua fronte,
+il Dio dell'amore, nemico del tuo Signore
+pieno di rancore perché é stato bruciato dal fuoco del suo terzo
+occhio
+fa suonare vittoriose le campanelle delle Tue cavigliere con il
+suono А7/ Kill.
+
+himani hantavyam himagirinivasaika-caturau
+nisayam nidranam niši-caramabhāge ca višadau |
+varam laksmipatram $riya-matisrhanto samayinam
+sarojam tvatpadau janani jayata-Scitramiha kim || 87 ||
+Mantra: hrim sarpa sarpa mam
+87 (Incantare i serpenti. Ottenere ricchezze)
+Oh Madre mia, il fiore di loto marcisce nella neve,
+ma i Tuoi piedi sono assi nello stare nella neve,
+il fiore di loto si chiude e dorme di notte,
+ma i Tuoi piedi vegliano notte dopo notte,
+il loto fa vivere in esso la Dea della ricchezza Lakshmi,
+ma i Tuoi piedi donano Lakshmi ai suoi devoti
+e cosi i Tuoi piedi vincono sempre sul loto.
+Cosa c'é di cosi sorprendente in questo?
+
+padam te kirtinam prapadamapadam devi vipadam
+katham nitam sadbhih kathina-kamathi-karpara-tulam |
+katham va bahubhya-mupayamanakale purabhida
+yadadaya nyastam drsadi dayamanena manasa || 88 ||
+Mantra: hrim hrim hrim
+88 (Per far obbedire le belve. Prosperità)
+Oh, Dea Devi, come fecero i poeti
+a comparare il dorso dei Tuoi piedi misericordiosi,
+che sono fonte di fama per i tuoi devoti
+e che non sono fonte di pericolo per loro,
+al duro guscio di tartaruga, non capisco.
+Come ha fatto colui ha distrutto le tre città,
+a prenderli nella Sua mano e metterli su una solida roccia
+(un rito nel matrimonio indù chiamato Asmarohanam dove si calpesta la macina di
+pietra a significare un rapporto solido) durante il matrimonio?
+
+nakhai-rnakastrinam karakamala-sankoca-$asibhih
+tarunam divyanam hasata iva te candi caranau |
+phalani svahsthebhyah kisalaya-karagrena dadatam
+daridrebhyo bhadram $riyamaniSa-mahnaya dadatau || 89 ||
+Mantra: hrim
+89 (Per allontanare tutte le malattie. Prosperità)
+Oh Madre che uccise Chanda,
+le Tue unghie simili a lune,
+che a confronto fanno vergognare le fanciulle celesti,
+stuzzicano sempre i Tuoi piedi,
+che, a differenza dei sacri alberi celesti,
+(gli alberi Kalpaka che esaudiscono tutti i desideri degli Déi),
+donano sempre e velocemente ricchezza e felicità agli umili.
+
+dadane dinebhyah Sriyamanisa-masanusadrsim
+amandam saundaryam prakara-makarandam vikirati |
+tavasmin mandara-stabaka-subhage yatu carane
+nimajjan majjivah karanacaranah stcaranatam || 90 ||
+Mantra: ksam ksam ksīya ksīya hrim
+90 (Rompere incantesimi malvagi)
+La mia anima con sei organi (i 5 organi di senso piü la mente),
+è simile alle sei zampe delle api, che si tuffano ai tuoi santi
+piedi,
+che sono tanto belli quanto un mazzo di fiori dell'albero celeste,
+che concedono sempre ricchezza ai poveri ogni volta che lo
+desiderano
+e che senza sosta fanno piovere miele floreale.
+
+padanyasa-krida paricaya-mivarabdhu-manasah
+skhalantaste khelam bhavanakalahamsa na jahati |
+atastesam šiksām subhagamani-mañjira-ranitacchaladacaksanam caranakamalam carucarite || 91 ||
+Mantra: orn hrim hrim hrim
+91 (Ottenere terreni e ricchezze)
+Oh Tu che conduci vita santa,
+i cigni nella tua casa ti seguono senza sosta,
+come se imparassero la tua andatura che é danza celeste.
+Cosi i tuoi piedi di loto seguono la musica prodotta dalle gemme
+delle Tue cavigliere,
+che sembra insegnare loro ció che vogliono.
+
+gataste maficatvam druhina hari rudre$vara bhrtah
+Sivah svaccha-cchaya-ghatita-kapata-pracchadapatah |
+tvadiyanam bhasam pratiphalana ragarunataya
+Šarīrī $rhgaro rasa iva drsam dogdhi kutukam || 92 ||
+Mantra: orn hrim hrim hrim
+92 (Ottenere la capacità di governare)
+Brahma, Vishnu, Rudra e Ishvara,
+che sono gli Dei che governano il mondo,
+diventano le quattro gambe del Tuo lettino,
+affinché siano in grado di servirti sempre.
+Sadashiva, che é di colore bianco,
+diventa il lenzuolo su cui dormi e appare rosso perché riflette il
+Tuo colore.
+Ed Egli dà molta felicità ai Tuoi occhi
+che sono la personificazione del sentimento dell'amore.
+
+arālā kešesu prakrti sarala mandahasite
+Sirisabha citte drsadupalašobhā kucatate |
+bhr$am tanvi madhye prthu-rurasijaroha visaye
+jagattratum Sambho-rjayati karuna kacidaruna || 93 ||
+Mantra: orn hrim hrim hrim
+93 (Esaudire i desideri)
+La Tua misericordia che é oltre la mente e le parole di nostro
+Signore Shiva,
+é per sempre vittoriosa nella forma di Aruna, in modo da
+salvare questo mondo.
+Quello spirito di misericordia & nella forma delle curve nei Tuoi
+capelli,
+sotto forma di naturale dolcezza nel Tuo sorriso.
+Nella forma della gentile bellezza di un fiore nella Tua mente,
+sotto forma della solidità di un rubino nel Tuo seno,
+sotto forma di sottile seduzione nei fianchi,
+sotto forma di voluttà nei Tuoi seni e nella schiena.
+
+kalankah kastūrī rajanikara bimbam jalamayam
+kalabhih karpurai-rmarakatakarandam nibiditam |
+atastvadbhogena pratidinamidam riktakuharam
+vidhi-rbhuyo bhüyo nibidayati nunam tava krte || 94 ||
+Mantra: orn hrim hrim hrim
+94 (Ottenere tutti i desideri)
+La luna che conosciamo é il Tuo scrigno, riempito con acqua
+d'incenso,
+l'oscurità che vediamo nella luna é il muschio messo li dentro
+per Tuo uso,
+e la mezzaluna che vediamo é la Tua coppa di smeraldo piena
+di canfora divina.
+E di sicuro, Brahma il creatore, li riempie giornalmente, dopo
+l'uso,
+in modo che siano sempre pieni.
+
+purarante-rantah puramasi tata-stvacaranayoh
+saparya-maryada taralakaranana-masulabha |
+tatha hyete nitah satamakhamukhāh siddhimatulam
+tava dvaropantah sthitibhi-ranimadyabhi-ramarah || 95 ||
+Mantra: orn hrim
+95 (Ottenere tutti i desideri)
+Tu sei la luce della casa del Signore Shiva, colui che ha distrutto
+le tre città,
+e cosi venire vicino a Te e adorare i Tuoi piedi,
+non é possibile per coloro che hanno una mente debole
+e per coloro che non hanno il controllo dei loro sensi.
+Ed ecco perché forse, Indra e gli altri Déi, restano fuori dalle
+Tue porte
+e raggiungono il Tuo dolce Sé
+solo con la pratica di siddhi come Anima (diventare piccoli come un
+atomo).
+
+kalatram vaidhatram katikati bhajante na kavayah
+$riyo devyah ko va na bhavati patih kairapi dhanaih |
+mahadevam hitva tava sati satina-macarame
+kucabhyā-māsangah kuravaka-taro-rapyasulabhah || 96 ||
+πο
+πο
+πο
+Mantra: klim klīm klīm
+96 (Raggiungimento di conoscenza e ricchezza)
+Molti poeti raggiungono la Dea della conoscenza, Sarasvati la
+consorte del creatore,
+componendo poesie piene di sentimento.
+Molti che cercano di raggiungere le ricchezze,
+sono chiamati come il Signore della Dea della ricchezza.
+Oh, piü casta delle donne,
+eccetto il Dio Shiva, tuo consorte, il Tuo seno non é mai stato
+toccato
+nemmeno dall'albero sacro di Henné (Kuravaka).
+
+giramahu-rdevim druhinagrhini-magamavido
+hareh patnim padmam harasahacari-madritanayam |
+turiya kapi tvam duradhigama-nissima-mahima
+mahamaya visvam bhramayasi parabrahmamahisi || 97 ||
+Mantra: klim klim
+97 (Redenzione dell'anima)
+Oh, Parashakti, che é uno con Parabrahma,
+anche se coloro che hanno imparato i Veda,
+Ti chiamano Sarasvati, moglie di Brahma,
+Ti chiamano Lakshmi, moglie di Vishnu
+о Ti chiamano Parvati, moglie di Shiva,
+Tu sei la quarta chiamata Maha Maya, che dà vita al mondo,
+e hai raggiunto tutto ció che é raggiungibile.
+
+kada kale matah kathaya kalitalaktakarasam
+pibeyam vidyarthi tava carana-nirnejanajalam |
+prakrtya mūkānāmapi ca kavitaOkaranataya
+kadā dhatte vanimukhakamala-tambula-rasatam || 98 ||
+Mantra: hrim
+98 (Padronanza sulle parole)
+Oh, Madre mia, quando saró in grado, io che imploro per la
+conoscenza,
+di bere il nettare che scorre dai Tuoi piedi, mescolato con la
+lacca rossa ivi applicata?
+Quando dovrà quell'acqua raggiungere la bontà della saliva
+mista con Thambola (foglia di Betel)
+della bocca della Dea della conoscenza,
+che ha fatto uno che nacque muto il re dei poeti?
+
+sarasvatya laksmya vidhi hari sapatno viharate
+rateh pativratyam Sithilapati ramyena vapusa |
+ciram jivanneva ksapita-pasupasa-vyatikarah
+paranandabhikhyam rasayati rasam tvadbhajanavan || 99 ||
+Mantra: hrim
+99 (Raggiungimento della Beatitudine Finale)
+Coloro che adorano Te, Oh madre, sono cosi dotti e cosi ricchi,
+che anche Brahma e Vishnu sono gelosi di loro.
+Sono cosi belli che anche la moglie del Dio dell'amore, Rathi,
+anela per loro.
+Essi non sono legati dai legami di questa nascita
+e sempre godono di felicità estatica e vivranno per sempre.
+
+pradipa jvalabhi-rdivasakara-nirajanavidhih
+sudhāsūte-scandropala-jalalavai-raghyaracanā |
+svakiyairambhobhih salila-nidhi-sauhityakaranam
+tvadiyabhi-rvagbhi-stava janani vacam stutiriyam || 100 ||
+Mantra: orn hrim
+100 (Raggiungimento di tutti i poteri occulti)
+Oh Dea che sei la fonte di tutte le parole,
+questa poesia che é fatta di parole,
+che solo Tu hai fatto,
+é come mostrare la lampada di canfora al Sole,
+é come offrire come ablazione alla Luna l'acqua ottenuta dalla
+pietra di luna,
+é come offrire il culto dell'acqua al Mare.
+Qui finisce la Sundarya Lahari di Adi Shankara.

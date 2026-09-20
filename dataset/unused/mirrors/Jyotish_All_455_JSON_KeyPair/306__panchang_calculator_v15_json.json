@@ -1,0 +1,642 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "306__panchang_calculator_v15_json",
+    "name": "panchang_calculator_v15",
+    "original_file": "panchang_calculator_v15.json",
+    "dataset_number": "306 of 455",
+    "format": "json",
+    "source_readable_file": "panchang_calculator_v15.txt",
+    "source_sha256": "ff92bc4ac01d9b9255d4fa76de79dc4794d095ede63c185379c28925c6fe97cd",
+    "source_bytes": 3160
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "15.0.0",
+      "choghadiya": {
+        "day": {
+          "Sunday": {
+            "_items": [
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              }
+            ]
+          },
+          "Monday": {
+            "_items": [
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              }
+            ]
+          },
+          "Tuesday": {
+            "_items": [
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              }
+            ]
+          },
+          "Wednesday": {
+            "_items": [
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              }
+            ]
+          },
+          "Thursday": {
+            "_items": [
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              }
+            ]
+          },
+          "Friday": {
+            "_items": [
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              }
+            ]
+          },
+          "Saturday": {
+            "_items": [
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              }
+            ]
+          }
+        },
+        "night": {
+          "Sunday": {
+            "_items": [
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              }
+            ]
+          },
+          "Monday": {
+            "_items": [
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              }
+            ]
+          },
+          "Tuesday": {
+            "_items": [
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              }
+            ]
+          },
+          "Wednesday": {
+            "_items": [
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              }
+            ]
+          },
+          "Thursday": {
+            "_items": [
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              }
+            ]
+          },
+          "Friday": {
+            "_items": [
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              }
+            ]
+          },
+          "Saturday": {
+            "_items": [
+              {
+                "_text": [
+                  "Labh"
+                ]
+              },
+              {
+                "_text": [
+                  "Udveg"
+                ]
+              },
+              {
+                "_text": [
+                  "Shubh"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit"
+                ]
+              },
+              {
+                "_text": [
+                  "Char"
+                ]
+              },
+              {
+                "_text": [
+                  "Rog"
+                ]
+              },
+              {
+                "_text": [
+                  "Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Labh"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

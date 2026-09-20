@@ -1,0 +1,22 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Ritu-List.json
+Dataset number: 202 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 274 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: ritu_001
+  • name: Vasanta (Spring)
+  • months:
+    1.
+      Chaitra
+    2.
+      Vaishakha
+  • associated_element: Air (Vayu)
+  • planetary_ruler: Sun
+  • interpretation: Time of energy and new beginnings. Kapha dosha melts in Ayurveda.

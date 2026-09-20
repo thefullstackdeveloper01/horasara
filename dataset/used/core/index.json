@@ -1,0 +1,29 @@
+{
+  "EXTENDED_CALCULATION_KEYS": [
+    "kpAdvanced"
+  ],
+  "EXTENDED_PREDICTION_KEYS": [
+    "futureForecast",
+    "lifePhaseStrategy",
+    "birthToNowTimeline",
+    "dailyHoroscopeExt",
+    "monthlyForecast",
+    "lifePredictions",
+    "careerDNA",
+    "financialAstrology",
+    "relationshipArchitecture",
+    "medicalAstrology",
+    "nakshatraPersonality",
+    "karmicBlueprint",
+    "planetaryActivators",
+    "geographicAstrology",
+    "birthTimeSensitivity",
+    "specialLagnasReport",
+    "conflictResolution",
+    "finalLifeVerdict",
+    "advancedRemedies",
+    "panchPakshi",
+    "executiveSummary",
+    "aiSynthesis"
+  ]
+}

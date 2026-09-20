@@ -1,0 +1,354 @@
+READABLE DATASET
+================================================================================
+Original file: yogaEnrichment.json
+Dataset number: 451 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 9,844 bytes
+Top-level fields: 8
+
+CONTENT
+--------------------------------------------------------------------------------
+• ALIASES:
+  • kemdrum: Kemadruma Yoga
+  • kemadrum: Kemadruma Yoga
+  • kemaadruma: Kemadruma Yoga
+  • kemadrumadosha: Kemadruma Yoga
+  • shakat: Shakata Yoga
+  • shakata: Shakata Yoga
+  • shakatayoga: Shakata Yoga
+  • neechabhangaraja: Neecha Bhanga Raja Yoga
+  • neechabhanga: Neecha Bhanga Raja Yoga
+  • neecha bhanga: Neecha Bhanga Raja Yoga
+  • nichabhangaraja: Neecha Bhanga Raja Yoga
+  • nichabhanga: Neecha Bhanga Raja Yoga
+  • necha banga: Neecha Bhanga Raja Yoga
+  • neecha banga raja yoga: Neecha Bhanga Raja Yoga
+  • laxmi: Lakshmi Yoga
+  • lakshmi: Lakshmi Yoga
+  • lakshmiyoga: Lakshmi Yoga
+  • laksmi: Lakshmi Yoga
+  • sri yoga: Sri Yoga
+  • sriyoga: Sri Yoga
+  • gajakesari: Gajakesari Yoga
+  • gajakesariyoga: Gajakesari Yoga
+  • gajakeshari: Gajakesari Yoga
+  • gajakshari: Gajakesari Yoga
+  • gaja kesari: Gajakesari Yoga
+  • budhaditya: Budhaditya Yoga
+  • budhadityayoga: Budhaditya Yoga
+  • budhaaditya: Budhaditya Yoga
+  • budha aditya: Budhaditya Yoga
+  • panchamahapurusha: Pancha Mahapurusha Yoga
+  • pancha mahapurusha: Pancha Mahapurusha Yoga
+  • panchmahapurush: Pancha Mahapurusha Yoga
+  • panchamahapurush: Pancha Mahapurusha Yoga
+  • ruchak: Ruchaka Yoga
+  • ruchaka: Ruchaka Yoga
+  • ruchakayoga: Ruchaka Yoga
+  • bhadra: Bhadra Yoga
+  • bhadrayoga: Bhadra Yoga
+  • bhadrika: Bhadra Yoga
+  • hamsa: Hamsa Yoga
+  • hamsayoga: Hamsa Yoga
+  • hansa: Hamsa Yoga
+  • hansayoga: Hamsa Yoga
+  • malavya: Malavya Yoga
+  • malavyayoga: Malavya Yoga
+  • malavaya: Malavya Yoga
+  • sasa: Sasa Yoga
+  • sasayoga: Sasa Yoga
+  • sasha: Sasa Yoga
+  • vesi: Vesi Yoga
+  • vesiyoga: Vesi Yoga
+  • vosi: Voshi Yoga
+  • vosiyoga: Voshi Yoga
+  • vaasi: Voshi Yoga
+  • ubhayachari: Ubhayachari Yoga
+  • ubhayachariyoga: Ubhayachari Yoga
+  • ubhayachara: Ubhayachari Yoga
+  • ubhayachara yoga: Ubhayachari Yoga
+  • sunapha: Sunapha Yoga
+  • sunaphayoga: Sunapha Yoga
+  • sunfa: Sunapha Yoga
+  • anapha: Anapha Yoga
+  • anaphayoga: Anapha Yoga
+  • anfa: Anapha Yoga
+  • durudhara: Durudhara Yoga
+  • durudharayoga: Durudhara Yoga
+  • durudara: Durudhara Yoga
+  • vipareeta raja: Vipareeta Raja Yoga
+  • vipareetarajayoga: Vipareeta Raja Yoga
+  • vipreet raj: Vipareeta Raja Yoga
+  • vipreet raj yoga: Vipareeta Raja Yoga
+  • saraswati: Saraswati Yoga
+  • saraswatiyoga: Saraswati Yoga
+  • saraswathi: Saraswati Yoga
+  • chandra mangala: Chandra-Mangala Yoga
+  • chandramangala: Chandra-Mangala Yoga
+  • chandramangalayoga: Chandra-Mangala Yoga
+  • chandra-mangal: Chandra-Mangala Yoga
+  • mangal dosha: Mangal Dosha
+  • mangaldosha: Mangal Dosha
+  • manglik: Mangal Dosha
+  • manglikdosha: Mangal Dosha
+  • mangalik: Mangal Dosha
+  • kuja dosha: Mangal Dosha
+  • kuja dosham: Mangal Dosha
+  • bhauma dosha: Mangal Dosha
+  • sevvai dosham: Mangal Dosha
+  • kaal sarp: Kaal Sarp Dosha
+  • kaalsarp: Kaal Sarp Dosha
+  • kaal sarpa: Kaal Sarp Dosha
+  • kala sarpa: Kaal Sarp Dosha
+  • kalasarpa: Kaal Sarp Dosha
+  • kaalsarpadosha: Kaal Sarp Dosha
+  • pitra dosha: Pitra Dosha
+  • pitra dosh: Pitra Dosha
+  • pitru dosha: Pitra Dosha
+  • pithru dosham: Pitra Dosha
+  • grahan: Grahan Dosha
+  • grahan dosh: Grahan Dosha
+  • grahana dosha: Grahan Dosha
+  • grahadosha: Grahan Dosha
+  • shrapit: Shrapit Dosha
+  • shrapit dosh: Shrapit Dosha
+  • shrapita dosha: Shrapit Dosha
+  • shrapitdosha: Shrapit Dosha
+  • amala: Amala Yoga
+  • amalayoga: Amala Yoga
+  • amla: Amala Yoga
+  • vimala: Vimala Yoga
+  • vimalayoga: Vimala Yoga
+  • vimal: Vimala Yoga
+  • shubha: Shubha Yoga
+  • shubhayoga: Shubha Yoga
+  • vasumati: Vasumati Yoga
+  • vasumatiyoga: Vasumati Yoga
+  • vasumathi: Vasumati Yoga
+• CANONICAL_YOGAS:
+  1.
+    Vesi Yoga
+  2.
+    Voshi Yoga
+  3.
+    Ubhayachari Yoga
+  4.
+    Sunapha Yoga
+  5.
+    Anapha Yoga
+  6.
+    Durudhara Yoga
+  7.
+    Kemadruma Yoga
+  8.
+    Ruchaka Yoga
+  9.
+    Bhadra Yoga
+  10.
+    Hamsa Yoga
+  11.
+    Malavya Yoga
+  12.
+    Sasa Yoga
+  13.
+    Gajakesari Yoga
+  14.
+    Budhaditya Yoga
+  15.
+    Lakshmi Yoga
+  16.
+    Saraswati Yoga
+  17.
+    Chandra-Mangala Yoga
+  18.
+    Neecha Bhanga Raja Yoga
+  19.
+    Vipareeta Raja Yoga
+  20.
+    Amala Yoga
+  21.
+    Vimala Yoga
+  22.
+    Shubha Yoga
+  23.
+    Vasumati Yoga
+  24.
+    Shankha Yoga
+  25.
+    Vajra Yoga
+• CANONICAL_DOSHAS:
+  1.
+    Mangal Dosha
+  2.
+    Kaal Sarp Dosha
+  3.
+    Pitra Dosha
+  4.
+    Grahan Dosha
+  5.
+    Shrapit Dosha
+  6.
+    Kemadruma Dosha
+• YOGA_CATEGORIES:
+  • Vesi Yoga: Solar Yoga
+  • Voshi Yoga: Solar Yoga
+  • Ubhayachari Yoga: Solar Yoga
+  • Sunapha Yoga: Lunar Yoga
+  • Anapha Yoga: Lunar Yoga
+  • Durudhara Yoga: Lunar Yoga
+  • Kemadruma Yoga: Lunar Yoga
+  • Ruchaka Yoga: Pancha Mahapurusha
+  • Bhadra Yoga: Pancha Mahapurusha
+  • Hamsa Yoga: Pancha Mahapurusha
+  • Malavya Yoga: Pancha Mahapurusha
+  • Sasa Yoga: Pancha Mahapurusha
+  • Gajakesari Yoga: Chandra/Jupiter Yoga
+  • Budhaditya Yoga: Surya/Budha Yoga
+  • Lakshmi Yoga: Wealth/Raja Yoga
+  • Saraswati Yoga: Knowledge Yoga
+  • Chandra-Mangala Yoga: Wealth Yoga
+  • Neecha Bhanga Raja Yoga: Raja Yoga
+  • Vipareeta Raja Yoga: Raja Yoga
+  • Amala Yoga: Nabhasa Yoga
+  • Vimala Yoga: Nabhasa Yoga
+  • Shubha Yoga: Nabhasa Yoga
+  • Vasumati Yoga: Nabhasa Yoga
+  • Shankha Yoga: Nabhasa Yoga
+  • Vajra Yoga: Nabhasa Yoga
+• YOGA_NATURE:
+  • Vesi Yoga: Auspicious
+  • Voshi Yoga: Auspicious
+  • Ubhayachari Yoga: Auspicious
+  • Sunapha Yoga: Auspicious
+  • Anapha Yoga: Auspicious
+  • Durudhara Yoga: Auspicious
+  • Kemadruma Yoga: Inauspicious
+  • Ruchaka Yoga: Auspicious
+  • Bhadra Yoga: Auspicious
+  • Hamsa Yoga: Auspicious
+  • Malavya Yoga: Auspicious
+  • Sasa Yoga: Auspicious
+  • Gajakesari Yoga: Auspicious
+  • Budhaditya Yoga: Auspicious
+  • Lakshmi Yoga: Auspicious
+  • Saraswati Yoga: Auspicious
+  • Chandra-Mangala Yoga: Mixed
+  • Neecha Bhanga Raja Yoga: Mixed
+  • Vipareeta Raja Yoga: Mixed
+  • Amala Yoga: Auspicious
+  • Vimala Yoga: Auspicious
+  • Shubha Yoga: Auspicious
+  • Vasumati Yoga: Auspicious
+  • Shankha Yoga: Auspicious
+  • Vajra Yoga: Mixed
+  • Mangal Dosha: Inauspicious
+  • Kaal Sarp Dosha: Inauspicious
+  • Pitra Dosha: Inauspicious
+  • Grahan Dosha: Inauspicious
+  • Shrapit Dosha: Inauspicious
+  • Kemadruma Dosha: Inauspicious
+• YOGA_CANCELLATIONS:
+  • Kemadruma Yoga:
+    1.
+      Moon is aspected by Jupiter or Venus
+    2.
+      Moon is conjunct with a benefic planet (Mercury, Venus, Jupiter)
+    3.
+      Moon is placed in a Kendra (1st, 4th, 7th, 10th) from the Lagna
+    4.
+      All planets aspect the Moon
+    5.
+      Moon is in a favorable Navamsa or is Vargottama
+  • Mangal Dosha:
+    1.
+      Mars is in its own sign (Aries or Scorpio) or exaltation (Capricorn)
+    2.
+      Mars is in the 2nd house in Gemini or Virgo
+    3.
+      Mars is in the 12th house in Taurus or Libra
+    4.
+      Mars is in the 7th house in Cancer or Capricorn
+    5.
+      Mars is in the 8th house in Sagittarius or Pisces
+    6.
+      Mars is aspected by or conjunct with Jupiter
+    7.
+      If both partners have Mangal Dosha (Manglik matching)
+  • Kaal Sarp Dosha:
+    1.
+      All planets are not strictly within the Rahu and Ketu axis
+    2.
+      Presence of a strong benefic planet (Jupiter, Venus, Mercury) with Rahu or Ketu
+    3.
+      Rahu or Ketu is aspected by a strong benefic planet
+• PLANETARY_ASSOCIATIONS:
+  • Ruchaka Yoga: Mars
+  • Bhadra Yoga: Mercury
+  • Hamsa Yoga: Jupiter
+  • Malavya Yoga: Venus
+  • Sasa Yoga: Saturn
+  • Budhaditya Yoga:
+    1.
+      Sun
+    2.
+      Mercury
+  • Chandra-Mangala Yoga:
+    1.
+      Moon
+    2.
+      Mars
+  • Gajakesari Yoga:
+    1.
+      Jupiter
+    2.
+      Moon
+  • Grahan Dosha:
+    1.
+      Sun
+    2.
+      Moon
+    3.
+      Rahu
+    4.
+      Ketu
+  • Shrapit Dosha:
+    1.
+      Saturn
+    2.
+      Rahu
+  • Pitra Dosha:
+    1.
+      Sun
+    2.
+      Rahu
+    3.
+      Jupiter
+    4.
+      Saturn
+• SANSKRIT_NAMES:
+  • Vesi Yoga: वेशी योग
+  • Voshi Yoga: वोषी योग
+  • Ubhayachari Yoga: उभयचारी योग
+  • Sunapha Yoga: सुनफा योग
+  • Anapha Yoga: अनफा योग
+  • Durudhara Yoga: दुरुधरा योग
+  • Kemadruma Yoga: केमद्रुम योग
+  • Ruchaka Yoga: रुचक योग
+  • Bhadra Yoga: भद्र योग
+  • Hamsa Yoga: हंस योग
+  • Malavya Yoga: मालव्य योग
+  • Sasa Yoga: शश योग
+  • Gajakesari Yoga: गजकेसरी योग
+  • Budhaditya Yoga: बुधादित्य योग
+  • Lakshmi Yoga: लक्ष्मी योग
+  • Saraswati Yoga: सरस्वती योग
+  • Chandra-Mangala Yoga: चंद्र-मंगल योग
+  • Neecha Bhanga Raja Yoga: नीचभंग राज योग
+  • Vipareeta Raja Yoga: विपरीत राज योग
+  • Mangal Dosha: मंगल दोष
+  • Kaal Sarp Dosha: काल सर्प दोष
+  • Pitra Dosha: पितृ दोष
+  • Grahan Dosha: ग्रहण दोष
+  • Shrapit Dosha: श्रापित दोष
+  • Kemadruma Dosha: केमद्रुम दोष

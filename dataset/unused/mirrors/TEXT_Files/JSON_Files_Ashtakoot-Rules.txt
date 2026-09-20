@@ -1,0 +1,57 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Ashtakoot-Rules.json
+Dataset number: 157 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 640 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: koot_01
+  • name: Varna
+  • max_points: 1
+  • logic: Boy's Varna should be higher or equal to Girl's Varna.
+  • zodiac_groups:
+    • Brahmin:
+      1.
+        Cancer
+      2.
+        Scorpio
+      3.
+        Pisces
+    • Kshatriya:
+      1.
+        Aries
+      2.
+        Leo
+      3.
+        Sagittarius
+    • Vaishya:
+      1.
+        Taurus
+      2.
+        Virgo
+      3.
+        Capricorn
+    • Shudra:
+      1.
+        Gemini
+      2.
+        Libra
+      3.
+        Aquarius
+2.
+  • id: koot_02
+  • name: Nadi
+  • max_points: 8
+  • logic: Boy and Girl must NOT have the same Nadi. Same Nadi = 0 points (Genetic incompatibility).
+  • nadi_types:
+    1.
+      Aadi (Start)
+    2.
+      Madhya (Middle
+    3.
+      Antya (End)

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "372__subscription_plans_json",
+    "name": "subscription-plans",
+    "original_file": "subscription-plans.json",
+    "dataset_number": "372 of 455",
+    "format": "json",
+    "source_readable_file": "subscription-plans.txt",
+    "source_sha256": "bbc2be799355ab2bb09cdabcc8d9ce904fd678d688a7a65a9ace8036563fe8af",
+    "source_bytes": 900
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "monthly",
+        "label": "Monthly HoraSaar Subscription",
+        "billingPeriod": "monthly",
+        "amountInr": 499,
+        "description": "Daily selected astrology report delivered every day at 7:00 AM local time."
+      },
+      {
+        "id": "yearly",
+        "label": "Yearly HoraSaar Subscription",
+        "billingPeriod": "yearly",
+        "amountInr": 4999,
+        "description": "Daily selected astrology report delivered every day at 7:00 AM local time."
+      }
+    ]
+  }
+}

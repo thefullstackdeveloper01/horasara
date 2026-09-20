@@ -1,0 +1,1992 @@
+{
+ "version": 2,
+ "generatedAt": "2026-09-19",
+ "note": "Reference material. Interpretive statements are traditional rule-based guidance, not scientific claims.",
+ "topics": [
+  {
+   "id": "gods",
+   "title": "God Details",
+   "icon": "🕉️",
+   "category": "Devotional",
+   "description": "Principal deities with their mantra, vahana, graha association and traditional remedial use.",
+   "fields": [
+    "sanskrit",
+    "alsoKnownAs",
+    "attributes",
+    "vahana",
+    "consort",
+    "mantra",
+    "graha",
+    "gemstone",
+    "day",
+    "offering",
+    "festival",
+    "note"
+   ],
+   "count": 12,
+   "items": [
+    {
+     "id": "ganesha",
+     "name": "Ganesha",
+     "sanskrit": "गणेश",
+     "alsoKnownAs": [
+      "Ganapati",
+      "Vinayaka",
+      "Vighnaharta",
+      "Lambodara"
+     ],
+     "attributes": "Remover of obstacles; lord of beginnings, wisdom and intellect.",
+     "vahana": "Mūṣaka (mouse)",
+     "consort": "Riddhi and Siddhi",
+     "mantra": "ॐ गं गणपतये नमः — Om Gaṃ Gaṇapataye Namaḥ",
+     "graha": "Ketu",
+     "gemstone": "Red Coral / Cat's Eye",
+     "day": "Chaturthi tithi, Wednesday",
+     "offering": "Modak, durva grass, red flowers",
+     "festival": "Ganesha Chaturthi",
+     "note": "Invoked first in every ritual. In Jyotish practice Ganesha worship is prescribed where Ketu or the lagna lord is afflicted, or before beginning any new undertaking."
+    },
+    {
+     "id": "shiva",
+     "name": "Shiva",
+     "sanskrit": "शिव",
+     "alsoKnownAs": [
+      "Mahadeva",
+      "Rudra",
+      "Nataraja",
+      "Bholenath"
+     ],
+     "attributes": "The auspicious one; dissolution, detachment, yoga and grace.",
+     "vahana": "Nandi (bull)",
+     "consort": "Parvati",
+     "mantra": "ॐ नमः शिवाय — Om Namaḥ Śivāya",
+     "graha": "Moon (Chandra) and Ketu",
+     "gemstone": "Pearl / Rudraksha",
+     "day": "Monday, Pradosha, Shivaratri",
+     "offering": "Water, bilva leaves, white flowers, milk",
+     "festival": "Mahashivaratri, Shravan Somvar",
+     "note": "Rudrabhisheka is the standard classical remedy for a severely afflicted Moon, for Sade Sati, and for Mrityu-related doshas."
+    },
+    {
+     "id": "vishnu",
+     "name": "Vishnu",
+     "sanskrit": "विष्णु",
+     "alsoKnownAs": [
+      "Narayana",
+      "Hari",
+      "Madhava",
+      "Govinda"
+     ],
+     "attributes": "Preserver and sustainer; dharma, order and protection.",
+     "vahana": "Garuda",
+     "consort": "Lakshmi",
+     "mantra": "ॐ नमो भगवते वासुदेवाय — Om Namo Bhagavate Vāsudevāya",
+     "graha": "Sun and Jupiter",
+     "gemstone": "Yellow Sapphire",
+     "day": "Thursday, Ekadashi",
+     "offering": "Tulsi leaves, yellow flowers, panchamrita",
+     "festival": "Vaikuntha Ekadashi, Janmashtami",
+     "note": "Prescribed where Jupiter is weak, combust or in dusthana, and for general dharma-related afflictions."
+    },
+    {
+     "id": "durga",
+     "name": "Durga",
+     "sanskrit": "दुर्गा",
+     "alsoKnownAs": [
+      "Bhavani",
+      "Ambika",
+      "Sherawali",
+      "Chandika"
+     ],
+     "attributes": "Protective mother; destroyer of evil, courage and invincibility.",
+     "vahana": "Lion / Tiger",
+     "consort": "Shiva (as Parvati)",
+     "mantra": "ॐ दुं दुर्गायै नमः — Om Duṃ Durgāyai Namaḥ",
+     "graha": "Mars and Rahu",
+     "gemstone": "Red Coral",
+     "day": "Ashtami, Navami, Friday",
+     "offering": "Red hibiscus, red chunari, coconut",
+     "festival": "Navaratri, Durga Puja",
+     "note": "Durga Saptashati recitation is the classical remedy for severe Mars or Rahu affliction and for protection-related prashna."
+    },
+    {
+     "id": "lakshmi",
+     "name": "Lakshmi",
+     "sanskrit": "लक्ष्मी",
+     "alsoKnownAs": [
+      "Shri",
+      "Kamala",
+      "Padma",
+      "Mahalakshmi"
+     ],
+     "attributes": "Wealth, prosperity, beauty, abundance and fortune.",
+     "vahana": "Owl / Lotus",
+     "consort": "Vishnu",
+     "mantra": "ॐ श्रीं महालक्ष्म्यै नमः — Om Śrīṃ Mahālakṣmyai Namaḥ",
+     "graha": "Venus and Jupiter",
+     "gemstone": "Diamond / Yellow Sapphire",
+     "day": "Friday, Purnima",
+     "offering": "Lotus, kamalgatta, white sweets",
+     "festival": "Diwali (Lakshmi Puja), Varalakshmi Vratam",
+     "note": "Standard prescription for an afflicted 2nd or 11th lord and for Venus-related dhana yoga strengthening."
+    },
+    {
+     "id": "hanuman",
+     "name": "Hanuman",
+     "sanskrit": "हनुमान",
+     "alsoKnownAs": [
+      "Anjaneya",
+      "Maruti",
+      "Bajrangbali",
+      "Pavanputra"
+     ],
+     "attributes": "Strength, devotion, protection and fearlessness.",
+     "vahana": "None (flight itself)",
+     "consort": "Celibate (Brahmachari)",
+     "mantra": "ॐ हं हनुमते नमः — Om Haṃ Hanumate Namaḥ",
+     "graha": "Mars and Saturn",
+     "gemstone": "Red Coral",
+     "day": "Tuesday, Saturday",
+     "offering": "Sindoor, chameli oil, boondi laddu, betel leaf",
+     "festival": "Hanuman Jayanti",
+     "note": "The single most prescribed remedy in Indian practice for Sade Sati, Shani Dhaiya, Mangal Dosha and Kuja-related obstruction."
+    },
+    {
+     "id": "saraswati",
+     "name": "Saraswati",
+     "sanskrit": "सरस्वती",
+     "alsoKnownAs": [
+      "Vagdevi",
+      "Sharada",
+      "Bharati"
+     ],
+     "attributes": "Knowledge, speech, music, learning and the arts.",
+     "vahana": "Swan (Hamsa) / Peacock",
+     "consort": "Brahma",
+     "mantra": "ॐ ऐं सरस्वत्यै नमः — Om Aiṃ Sarasvatyai Namaḥ",
+     "graha": "Mercury",
+     "gemstone": "Emerald",
+     "day": "Wednesday, Vasant Panchami",
+     "offering": "White flowers, books, white sweets",
+     "festival": "Vasant Panchami, Saraswati Puja",
+     "note": "Prescribed for afflicted Mercury, weak 4th/5th house, and for students during adverse Budha antardasha."
+    },
+    {
+     "id": "krishna",
+     "name": "Krishna",
+     "sanskrit": "कृष्ण",
+     "alsoKnownAs": [
+      "Govinda",
+      "Madhava",
+      "Gopala",
+      "Murari"
+     ],
+     "attributes": "Divine love, strategy, dharma in action, joy.",
+     "vahana": "None (Garuda as Vishnu)",
+     "consort": "Radha, Rukmini",
+     "mantra": "ॐ क्लीं कृष्णाय नमः — Om Klīṃ Kṛṣṇāya Namaḥ",
+     "graha": "Moon and Venus",
+     "gemstone": "Pearl / Emerald",
+     "day": "Ashtami, Wednesday",
+     "offering": "Butter, tulsi, makhan-mishri, peacock feather",
+     "festival": "Janmashtami, Holi",
+     "note": "Recommended for relationship-house afflictions and for emotional Moon-related difficulty."
+    },
+    {
+     "id": "rama",
+     "name": "Rama",
+     "sanskrit": "राम",
+     "alsoKnownAs": [
+      "Raghunatha",
+      "Maryada Purushottama",
+      "Sitapati"
+     ],
+     "attributes": "Ideal conduct, righteousness, duty and steadiness.",
+     "vahana": "None",
+     "consort": "Sita",
+     "mantra": "ॐ रां रामाय नमः — Om Rāṃ Rāmāya Namaḥ",
+     "graha": "Sun",
+     "gemstone": "Ruby",
+     "day": "Navami, Sunday",
+     "offering": "Tulsi, yellow flowers, kheer",
+     "festival": "Rama Navami",
+     "note": "Prescribed for a weak or afflicted Sun, father-related karma and authority/status blockage."
+    },
+    {
+     "id": "kali",
+     "name": "Kali",
+     "sanskrit": "काली",
+     "alsoKnownAs": [
+      "Mahakali",
+      "Bhadrakali",
+      "Dakshinakali"
+     ],
+     "attributes": "Time, destruction of ego, fierce protection and liberation.",
+     "vahana": "Shiva as her couch",
+     "consort": "Shiva (Mahakala)",
+     "mantra": "ॐ क्रीं कालिकायै नमः — Om Krīṃ Kālikāyai Namaḥ",
+     "graha": "Saturn, Ketu, Rahu",
+     "gemstone": "Blue Sapphire / Hessonite",
+     "day": "Amavasya, Tuesday, Saturday",
+     "offering": "Red hibiscus, black til, lemon",
+     "festival": "Kali Puja, Diwali Amavasya",
+     "note": "Tantric prescription for severe Rahu-Ketu axis affliction; traditionally undertaken only under guidance."
+    },
+    {
+     "id": "surya",
+     "name": "Surya",
+     "sanskrit": "सूर्य",
+     "alsoKnownAs": [
+      "Aditya",
+      "Ravi",
+      "Bhaskara",
+      "Martanda"
+     ],
+     "attributes": "Vitality, soul, authority, health and the father principle.",
+     "vahana": "Chariot of seven horses",
+     "consort": "Sanjna and Chhaya",
+     "mantra": "ॐ घृणिः सूर्याय नमः — Om Ghṛṇiḥ Sūryāya Namaḥ",
+     "graha": "Sun",
+     "gemstone": "Ruby",
+     "day": "Sunday, Ratha Saptami",
+     "offering": "Arghya (water at sunrise), red flowers, wheat",
+     "festival": "Makara Sankranti, Chhath, Ratha Saptami",
+     "note": "Surya Arghya at sunrise is the primary graha-shanti for a debilitated, combust or 6/8/12-placed Sun."
+    },
+    {
+     "id": "shani",
+     "name": "Shani",
+     "sanskrit": "शनि",
+     "alsoKnownAs": [
+      "Shanaishchara",
+      "Shanidev",
+      "Mandagati"
+     ],
+     "attributes": "Discipline, karma, delay, endurance and justice.",
+     "vahana": "Crow / Vulture",
+     "consort": "Neelima",
+     "mantra": "ॐ शं शनैश्चराय नमः — Om Śaṃ Śanaiścarāya Namaḥ",
+     "graha": "Saturn",
+     "gemstone": "Blue Sapphire",
+     "day": "Saturday",
+     "offering": "Black til, mustard oil, iron, black cloth",
+     "festival": "Shani Jayanti, Shani Amavasya",
+     "note": "Worshipped throughout Sade Sati and Ashtama Shani; classical texts emphasise service and restraint over ritual alone."
+    }
+   ]
+  },
+  {
+   "id": "lords",
+   "title": "Lord Details",
+   "icon": "🪐",
+   "category": "Grahas",
+   "description": "Graha lordship, dignity and the deity mapped to each planet in remedial practice.",
+   "fields": [
+    "owns",
+    "exalted",
+    "debilitated",
+    "moolatrikona",
+    "karaka",
+    "friends",
+    "enemies",
+    "nature",
+    "deity",
+    "gemstone",
+    "day",
+    "direction",
+    "dashaYears"
+   ],
+   "count": 9,
+   "items": [
+    {
+     "id": "surya-sun",
+     "name": "Surya (Sun)",
+     "owns": "Leo",
+     "exalted": "Aries 10°",
+     "debilitated": "Libra 10°",
+     "moolatrikona": "Leo 0–20°",
+     "karaka": "Soul, father, authority, bone, eyesight",
+     "friends": "Moon, Mars, Jupiter",
+     "enemies": "Venus, Saturn",
+     "nature": "Malefic (cruel)",
+     "deity": "Shiva / Rama",
+     "gemstone": "Ruby",
+     "day": "Sunday",
+     "direction": "East",
+     "dashaYears": 6
+    },
+    {
+     "id": "chandra-moon",
+     "name": "Chandra (Moon)",
+     "owns": "Cancer",
+     "exalted": "Taurus 3°",
+     "debilitated": "Scorpio 3°",
+     "moolatrikona": "Taurus 4–30°",
+     "karaka": "Mind, mother, fluids, public, comfort",
+     "friends": "Sun, Mercury",
+     "enemies": "None",
+     "nature": "Benefic when waxing",
+     "deity": "Parvati / Shiva",
+     "gemstone": "Pearl",
+     "day": "Monday",
+     "direction": "North-west",
+     "dashaYears": 10
+    },
+    {
+     "id": "mangala-mars",
+     "name": "Mangala (Mars)",
+     "owns": "Aries, Scorpio",
+     "exalted": "Capricorn 28°",
+     "debilitated": "Cancer 28°",
+     "moolatrikona": "Aries 0–12°",
+     "karaka": "Courage, siblings, land, blood, surgery",
+     "friends": "Sun, Moon, Jupiter",
+     "enemies": "Mercury",
+     "nature": "Malefic",
+     "deity": "Kartikeya / Hanuman",
+     "gemstone": "Red Coral",
+     "day": "Tuesday",
+     "direction": "South",
+     "dashaYears": 7
+    },
+    {
+     "id": "budha-mercury",
+     "name": "Budha (Mercury)",
+     "owns": "Gemini, Virgo",
+     "exalted": "Virgo 15°",
+     "debilitated": "Pisces 15°",
+     "moolatrikona": "Virgo 16–20°",
+     "karaka": "Intellect, speech, trade, nerves, maternal uncle",
+     "friends": "Sun, Venus",
+     "enemies": "Moon",
+     "nature": "Neutral — takes the colour of its associates",
+     "deity": "Vishnu / Saraswati",
+     "gemstone": "Emerald",
+     "day": "Wednesday",
+     "direction": "North",
+     "dashaYears": 17
+    },
+    {
+     "id": "brihaspati-jupiter",
+     "name": "Brihaspati (Jupiter)",
+     "owns": "Sagittarius, Pisces",
+     "exalted": "Cancer 5°",
+     "debilitated": "Capricorn 5°",
+     "moolatrikona": "Sagittarius 0–10°",
+     "karaka": "Wisdom, children, wealth, dharma, husband for women",
+     "friends": "Sun, Moon, Mars",
+     "enemies": "Mercury, Venus",
+     "nature": "Benefic (greatest)",
+     "deity": "Brahma / Dakshinamurti",
+     "gemstone": "Yellow Sapphire",
+     "day": "Thursday",
+     "direction": "North-east",
+     "dashaYears": 16
+    },
+    {
+     "id": "shukra-venus",
+     "name": "Shukra (Venus)",
+     "owns": "Taurus, Libra",
+     "exalted": "Pisces 27°",
+     "debilitated": "Virgo 27°",
+     "moolatrikona": "Libra 0–15°",
+     "karaka": "Marriage, beauty, vehicles, art, wife for men",
+     "friends": "Mercury, Saturn",
+     "enemies": "Sun, Moon",
+     "nature": "Benefic",
+     "deity": "Lakshmi / Shukracharya",
+     "gemstone": "Diamond",
+     "day": "Friday",
+     "direction": "South-east",
+     "dashaYears": 20
+    },
+    {
+     "id": "shani-saturn",
+     "name": "Shani (Saturn)",
+     "owns": "Capricorn, Aquarius",
+     "exalted": "Libra 20°",
+     "debilitated": "Aries 20°",
+     "moolatrikona": "Aquarius 0–20°",
+     "karaka": "Longevity, karma, delay, servants, sorrow",
+     "friends": "Mercury, Venus",
+     "enemies": "Sun, Moon, Mars",
+     "nature": "Malefic (greatest)",
+     "deity": "Shani / Hanuman",
+     "gemstone": "Blue Sapphire",
+     "day": "Saturday",
+     "direction": "West",
+     "dashaYears": 19
+    },
+    {
+     "id": "rahu-north-node",
+     "name": "Rahu (North Node)",
+     "owns": "No sign (co-rules Aquarius)",
+     "exalted": "Taurus / Gemini (texts differ)",
+     "debilitated": "Scorpio / Sagittarius (texts differ)",
+     "moolatrikona": "—",
+     "karaka": "Obsession, foreign matters, sudden rise, illusion",
+     "friends": "Venus, Saturn, Mercury",
+     "enemies": "Sun, Moon, Mars",
+     "nature": "Malefic (shadow)",
+     "deity": "Durga / Kali",
+     "gemstone": "Hessonite",
+     "day": "Saturday",
+     "direction": "South-west",
+     "dashaYears": 18
+    },
+    {
+     "id": "ketu-south-node",
+     "name": "Ketu (South Node)",
+     "owns": "No sign (co-rules Scorpio)",
+     "exalted": "Scorpio / Sagittarius (texts differ)",
+     "debilitated": "Taurus / Gemini (texts differ)",
+     "moolatrikona": "—",
+     "karaka": "Detachment, moksha, past karma, sudden loss",
+     "friends": "Mars, Venus, Saturn",
+     "enemies": "Sun, Moon",
+     "nature": "Malefic (shadow)",
+     "deity": "Ganesha / Chitragupta",
+     "gemstone": "Cat's Eye",
+     "day": "Tuesday",
+     "direction": "North-west",
+     "dashaYears": 7
+    }
+   ]
+  },
+  {
+   "id": "mantras",
+   "title": "Mantra Details",
+   "icon": "📿",
+   "category": "Devotional",
+   "description": "Classical mantras with text, transliteration, japa count, graha and source reference.",
+   "fields": [
+    "deity",
+    "text",
+    "transliteration",
+    "purpose",
+    "count",
+    "graha",
+    "bestTime",
+    "source"
+   ],
+   "count": 12,
+   "items": [
+    {
+     "id": "gayatri-mantra",
+     "name": "Gayatri Mantra",
+     "deity": "Savitṛ (Sun)",
+     "text": "ॐ भूर्भुवः स्वः । तत्सवितुर्वरेण्यं । भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥",
+     "transliteration": "Om bhūr bhuvaḥ svaḥ, tat savitur vareṇyaṃ, bhargo devasya dhīmahi, dhiyo yo naḥ pracodayāt",
+     "purpose": "Illumination of the intellect, clarity, removal of mental dullness.",
+     "count": 108,
+     "graha": "Sun",
+     "bestTime": "Sandhya — sunrise, midday, sunset",
+     "source": "Ṛgveda 3.62.10"
+    },
+    {
+     "id": "mahamrityunjaya-mantra",
+     "name": "Mahamrityunjaya Mantra",
+     "deity": "Shiva (Tryambaka)",
+     "text": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ॥",
+     "transliteration": "Om tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam, urvārukamiva bandhanān mṛtyor mukṣīya māmṛtāt",
+     "purpose": "Healing, longevity, protection during illness and Mṛtyu-related periods.",
+     "count": "108 daily, 125,000 for purascharana",
+     "graha": "Moon, Saturn",
+     "bestTime": "Pradosha, Monday, Shivaratri",
+     "source": "Ṛgveda 7.59.12 / Yajurveda"
+    },
+    {
+     "id": "hanuman-beeja-mantra",
+     "name": "Hanuman Beeja Mantra",
+     "deity": "Hanuman",
+     "text": "ॐ हं हनुमते रुद्रात्मकाय हुं फट्",
+     "transliteration": "Om haṃ hanumate rudrātmakāya huṃ phaṭ",
+     "purpose": "Courage, protection from obstruction, relief during Sade Sati and Mangal Dosha.",
+     "count": 108,
+     "graha": "Mars, Saturn",
+     "bestTime": "Tuesday and Saturday, morning",
+     "source": "Hanumat Upasana tradition"
+    },
+    {
+     "id": "navagraha-mantra",
+     "name": "Navagraha Mantra",
+     "deity": "The nine grahas",
+     "text": "ॐ ब्रह्मा मुरारिस्त्रिपुरान्तकारी भानुः शशी भूमिसुतो बुधश्च । गुरुश्च शुक्रः शनिराहुकेतवः कुर्वन्तु सर्वे मम सुप्रभातम् ॥",
+     "transliteration": "Om brahmā murāris tripurāntakārī bhānuḥ śaśī bhūmisuto budhaśca, guruśca śukraḥ śanirāhuketavaḥ kurvantu sarve mama suprabhātam",
+     "purpose": "General propitiation of all nine planets; recited at the start of the day.",
+     "count": "9 or 108",
+     "graha": "All nine",
+     "bestTime": "Sunrise",
+     "source": "Navagraha Stotra"
+    },
+    {
+     "id": "shri-suktam",
+     "name": "Shri Suktam",
+     "deity": "Mahalakshmi",
+     "text": "ॐ हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजाम् । चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥ (opening ṛk)",
+     "transliteration": "Om hiraṇyavarṇāṃ hariṇīṃ suvarṇarajatasrajām, candrāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma āvaha",
+     "purpose": "Attraction of wealth, prosperity and household stability.",
+     "count": "16 ṛks, recited 3 or 9 times",
+     "graha": "Venus, Jupiter",
+     "bestTime": "Friday, Purnima, Diwali",
+     "source": "Ṛgveda Khilani"
+    },
+    {
+     "id": "ganesha-mula-mantra",
+     "name": "Ganesha Mula Mantra",
+     "deity": "Ganesha",
+     "text": "ॐ गं गणपतये नमः",
+     "transliteration": "Om gaṃ gaṇapataye namaḥ",
+     "purpose": "Removal of obstacles before any new undertaking.",
+     "count": 108,
+     "graha": "Ketu",
+     "bestTime": "Chaturthi, Wednesday, morning",
+     "source": "Gaṇapati Atharvaśīrṣa tradition"
+    },
+    {
+     "id": "saraswati-mantra",
+     "name": "Saraswati Mantra",
+     "deity": "Saraswati",
+     "text": "ॐ ऐं सरस्वत्यै नमः",
+     "transliteration": "Om aiṃ sarasvatyai namaḥ",
+     "purpose": "Study, memory, speech, examinations and creative work.",
+     "count": 108,
+     "graha": "Mercury",
+     "bestTime": "Wednesday, Vasant Panchami, early morning",
+     "source": "Saraswati Upasana"
+    },
+    {
+     "id": "surya-mantra",
+     "name": "Surya Mantra",
+     "deity": "Surya",
+     "text": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः",
+     "transliteration": "Om hrāṃ hrīṃ hrauṃ saḥ sūryāya namaḥ",
+     "purpose": "Strengthens a weak, combust or debilitated Sun; vitality and authority.",
+     "count": "7,000 (purascharana) or 108 daily",
+     "graha": "Sun",
+     "bestTime": "Sunday at sunrise while offering arghya",
+     "source": "Navagraha Beeja Mantra tradition"
+    },
+    {
+     "id": "chandra-mantra",
+     "name": "Chandra Mantra",
+     "deity": "Chandra",
+     "text": "ॐ श्रां श्रीं श्रौं सः चन्द्राय नमः",
+     "transliteration": "Om śrāṃ śrīṃ śrauṃ saḥ candrāya namaḥ",
+     "purpose": "Emotional steadiness, sleep, mother-related karma.",
+     "count": "11,000 or 108 daily",
+     "graha": "Moon",
+     "bestTime": "Monday evening, Purnima",
+     "source": "Navagraha Beeja Mantra tradition"
+    },
+    {
+     "id": "shani-mantra",
+     "name": "Shani Mantra",
+     "deity": "Shani",
+     "text": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+     "transliteration": "Om prāṃ prīṃ prauṃ saḥ śanaiścarāya namaḥ",
+     "purpose": "Relief during Sade Sati, Ashtama Shani and Saturn dasha difficulty.",
+     "count": "23,000 or 108 daily",
+     "graha": "Saturn",
+     "bestTime": "Saturday evening",
+     "source": "Navagraha Beeja Mantra tradition"
+    },
+    {
+     "id": "guru-brihaspati-mantra",
+     "name": "Guru (Brihaspati) Mantra",
+     "deity": "Brihaspati",
+     "text": "ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः",
+     "transliteration": "Om grāṃ grīṃ grauṃ saḥ gurave namaḥ",
+     "purpose": "Wisdom, marriage for women, children, and 9th-house fortune.",
+     "count": "19,000 or 108 daily",
+     "graha": "Jupiter",
+     "bestTime": "Thursday morning",
+     "source": "Navagraha Beeja Mantra tradition"
+    },
+    {
+     "id": "rahu-mantra",
+     "name": "Rahu Mantra",
+     "deity": "Rahu",
+     "text": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः",
+     "transliteration": "Om bhrāṃ bhrīṃ bhrauṃ saḥ rāhave namaḥ",
+     "purpose": "Confusion, sudden reversals, Kaal Sarpa-related difficulty.",
+     "count": "18,000 or 108 daily",
+     "graha": "Rahu",
+     "bestTime": "Saturday during Rahu Kaal",
+     "source": "Navagraha Beeja Mantra tradition"
+    }
+   ]
+  },
+  {
+   "id": "tantra",
+   "title": "Tantra Details",
+   "icon": "🔱",
+   "category": "Scholarship",
+   "description": "Tantric traditions, ritual classes and methods, referenced as scholarship.",
+   "fields": [
+    "category",
+    "deity",
+    "summary",
+    "sources",
+    "caution"
+   ],
+   "count": 6,
+   "items": [
+    {
+     "id": "shakta-tantra",
+     "name": "Shakta Tantra",
+     "category": "Tradition",
+     "deity": "Devi in her ten Mahavidya forms",
+     "summary": "The Goddess-centred stream. Worship proceeds through nyasa, mantra japa and yantra, with the Dasha Mahavidya as its principal deities.",
+     "sources": [
+      "Tantraraja Tantra",
+      "Shakta Pramoda",
+      "Mahanirvana Tantra"
+     ],
+     "caution": "Classical texts require initiation (diksha) from a qualified teacher before formal practice."
+    },
+    {
+     "id": "shaiva-agamic-tantra",
+     "name": "Shaiva / Agamic Tantra",
+     "category": "Tradition",
+     "deity": "Shiva and Bhairava",
+     "summary": "Temple ritual, consecration and daily worship in South Indian and Kashmiri traditions derive their procedure from the Shaiva Agamas.",
+     "sources": [
+      "Kamika Agama",
+      "Netra Tantra",
+      "Malinivijayottara Tantra"
+     ],
+     "caution": "Agamic procedure is prescriptive; local temple practice varies by sampradaya."
+    },
+    {
+     "id": "shatkarma",
+     "name": "Shatkarma",
+     "category": "Ritual class",
+     "deity": "Varies by rite",
+     "summary": "The classical sixfold classification of tantric rites: Shanti (pacification), Vashikarana (attraction), Stambhana (arresting), Vidveshana, Uchchatana and Marana.",
+     "sources": [
+      "Damara Tantra",
+      "Tantrasara"
+     ],
+     "caution": "Only the Shanti and Paushtika (nourishing) classes are prescribed in ordinary remedial practice. HoraSaar references the remaining categories as scholarship, not instruction."
+    },
+    {
+     "id": "nyasa",
+     "name": "Nyasa",
+     "category": "Method",
+     "deity": "Chosen deity (Ishta)",
+     "summary": "Ritual placement of mantra syllables on the body and in space before japa, establishing the practitioner as the seat of the deity.",
+     "sources": [
+      "Sharada Tilaka Tantram",
+      "Mantra Mahodadhi"
+     ],
+     "caution": "Performed as a preliminary; the specific nyasa depends on the mantra received at initiation."
+    },
+    {
+     "id": "purascharana",
+     "name": "Purascharana",
+     "category": "Method",
+     "deity": "Any mantra deity",
+     "summary": "The formal completion of a mantra: a fixed count of japa (commonly 100,000 per syllable) followed by homa, tarpana, marjana and brahmana-bhojana at one tenth each.",
+     "sources": [
+      "Mantra Mahodadhi",
+      "Tantrasara"
+     ],
+     "caution": "Counts and procedure differ by text and lineage."
+    },
+    {
+     "id": "dasha-mahavidya",
+     "name": "Dasha Mahavidya",
+     "category": "Deity group",
+     "deity": "Kali, Tara, Tripurasundari, Bhuvaneshvari, Bhairavi, Chhinnamasta, Dhumavati, Baglamukhi, Matangi, Kamala",
+     "summary": "The ten wisdom goddesses, each with a distinct mantra, yantra and sphere of effect. Several are mapped to grahas in remedial practice.",
+     "sources": [
+      "Shakta Pramoda",
+      "Todala Tantra"
+     ],
+     "caution": "Several of the ten are traditionally approached only after initiation."
+    }
+   ]
+  },
+  {
+   "id": "yantra",
+   "title": "Yantra Details",
+   "icon": "🔺",
+   "category": "Devotional",
+   "description": "Yantras with geometry, metal, placement direction and governing mantra.",
+   "fields": [
+    "deity",
+    "geometry",
+    "purpose",
+    "metal",
+    "placement",
+    "mantra",
+    "graha"
+   ],
+   "count": 7,
+   "items": [
+    {
+     "id": "shri-yantra",
+     "name": "Shri Yantra",
+     "deity": "Tripurasundari / Lalita",
+     "geometry": "Nine interlocking triangles forming 43 smaller triangles around a central bindu.",
+     "purpose": "Abundance, prosperity and consciousness; regarded as the foremost yantra.",
+     "metal": "Copper, silver or gold",
+     "placement": "North-east of the home or altar, facing east",
+     "mantra": "ॐ श्रीं ह्रीं क्लीं ऐं सौः",
+     "graha": "Venus, Jupiter"
+    },
+    {
+     "id": "shri-ganesha-yantra",
+     "name": "Shri Ganesha Yantra",
+     "deity": "Ganesha",
+     "geometry": "Central bindu with hexagon and eight-petalled lotus.",
+     "purpose": "Removal of obstruction at the start of a project or business.",
+     "metal": "Copper",
+     "placement": "Entrance or workspace, facing east",
+     "mantra": "ॐ गं गणपतये नमः",
+     "graha": "Ketu"
+    },
+    {
+     "id": "navagraha-yantra",
+     "name": "Navagraha Yantra",
+     "deity": "The nine grahas",
+     "geometry": "Nine numbered cells, one per graha, in a 3×3 arrangement.",
+     "purpose": "General planetary propitiation where several grahas are afflicted at once.",
+     "metal": "Copper or Panchdhatu",
+     "placement": "Altar, facing east; worshipped on the weekday of each graha",
+     "mantra": "Navagraha Stotra",
+     "graha": "All nine"
+    },
+    {
+     "id": "kuber-yantra",
+     "name": "Kuber Yantra",
+     "deity": "Kubera",
+     "geometry": "Magic square whose rows and columns total 72.",
+     "purpose": "Savings, treasury and retained wealth rather than income flow.",
+     "metal": "Copper or silver",
+     "placement": "Locker, safe or north wall",
+     "mantra": "ॐ यक्षाय कुबेराय वैश्रवणाय धनधान्याधिपतये नमः",
+     "graha": "Jupiter, Mercury"
+    },
+    {
+     "id": "mahamrityunjaya-yantra",
+     "name": "Mahamrityunjaya Yantra",
+     "deity": "Shiva (Tryambaka)",
+     "geometry": "Central triangle with beeja syllables inside an eight-petalled lotus.",
+     "purpose": "Health, longevity and protection during illness.",
+     "metal": "Copper",
+     "placement": "Altar or sickroom, facing east",
+     "mantra": "Om Tryambakaṃ Yajāmahe…",
+     "graha": "Moon, Saturn"
+    },
+    {
+     "id": "shani-yantra",
+     "name": "Shani Yantra",
+     "deity": "Shani",
+     "geometry": "Magic square whose rows and columns total 45.",
+     "purpose": "Worn or installed through Sade Sati and Shani dasha.",
+     "metal": "Iron or Panchdhatu",
+     "placement": "West wall; worshipped on Saturday",
+     "mantra": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+     "graha": "Saturn"
+    },
+    {
+     "id": "baglamukhi-yantra",
+     "name": "Baglamukhi Yantra",
+     "deity": "Baglamukhi",
+     "geometry": "Central bindu with triangle, hexagon and eight petals.",
+     "purpose": "Litigation, disputes and stalling of opposition; traditionally undertaken under guidance.",
+     "metal": "Copper",
+     "placement": "Altar only, with formal installation",
+     "mantra": "ॐ ह्लीं बगलामुख्यै नमः",
+     "graha": "Mars, Rahu"
+    }
+   ]
+  },
+  {
+   "id": "gemstones",
+   "title": "Gemstone Details",
+   "icon": "💎",
+   "category": "Remedies",
+   "description": "The nine classical ratna with metal, finger, weight, day, mantra and cautions.",
+   "fields": [
+    "hindi",
+    "graha",
+    "rashi",
+    "metal",
+    "finger",
+    "weight",
+    "day",
+    "mantra",
+    "benefits",
+    "caution",
+    "substitute"
+   ],
+   "count": 9,
+   "items": [
+    {
+     "id": "ruby",
+     "name": "Ruby",
+     "hindi": "Manik / माणिक्य",
+     "graha": "Sun",
+     "rashi": "Leo (and Aries, Sagittarius lagna)",
+     "metal": "Gold or Copper",
+     "finger": "Ring finger",
+     "weight": "3–6 ratti",
+     "day": "Sunday at sunrise",
+     "mantra": "Om Ghṛṇiḥ Sūryāya Namaḥ",
+     "benefits": "Confidence, authority, recognition, paternal relations, eyesight and heart vitality.",
+     "caution": "Not advised when the Sun rules a maraka or badhaka house, or for Taurus and Libra lagna without careful review.",
+     "substitute": "Red Garnet, Red Spinel"
+    },
+    {
+     "id": "pearl",
+     "name": "Pearl",
+     "hindi": "Moti / मोती",
+     "graha": "Moon",
+     "rashi": "Cancer",
+     "metal": "Silver",
+     "finger": "Little finger",
+     "weight": "4–11 ratti",
+     "day": "Monday evening",
+     "mantra": "Om Śrāṃ Śrīṃ Śrauṃ Saḥ Candrāya Namaḥ",
+     "benefits": "Emotional calm, sleep, maternal bonds, fluid balance and mental peace.",
+     "caution": "Generally avoided with Blue Sapphire and Hessonite; review for Capricorn and Aquarius lagna.",
+     "substitute": "Moonstone"
+    },
+    {
+     "id": "red-coral",
+     "name": "Red Coral",
+     "hindi": "Moonga / मूंगा",
+     "graha": "Mars",
+     "rashi": "Aries, Scorpio",
+     "metal": "Gold or Copper",
+     "finger": "Ring finger",
+     "weight": "6–9 ratti",
+     "day": "Tuesday at sunrise",
+     "mantra": "Om Krāṃ Krīṃ Krauṃ Saḥ Bhaumāya Namaḥ",
+     "benefits": "Courage, drive, blood and muscular vitality, property matters, Mangal Dosha support.",
+     "caution": "Can raise heat and irritability; reviewed carefully for Gemini, Virgo, Taurus and Libra lagna.",
+     "substitute": "Carnelian, Red Jasper"
+    },
+    {
+     "id": "emerald",
+     "name": "Emerald",
+     "hindi": "Panna / पन्ना",
+     "graha": "Mercury",
+     "rashi": "Gemini, Virgo",
+     "metal": "Gold or Silver",
+     "finger": "Little finger",
+     "weight": "3–6 ratti",
+     "day": "Wednesday morning",
+     "mantra": "Om Brāṃ Brīṃ Brauṃ Saḥ Budhāya Namaḥ",
+     "benefits": "Intellect, speech, study, trade, nervous system and communication clarity.",
+     "caution": "Reviewed for Aries and Scorpio lagna where Mercury rules difficult houses.",
+     "substitute": "Peridot, Green Tourmaline"
+    },
+    {
+     "id": "yellow-sapphire",
+     "name": "Yellow Sapphire",
+     "hindi": "Pukhraj / पुखराज",
+     "graha": "Jupiter",
+     "rashi": "Sagittarius, Pisces",
+     "metal": "Gold",
+     "finger": "Index finger",
+     "weight": "5–9 ratti",
+     "day": "Thursday morning",
+     "mantra": "Om Grāṃ Grīṃ Grauṃ Saḥ Gurave Namaḥ",
+     "benefits": "Wisdom, teaching, wealth, children, marriage prospects for women, liver health.",
+     "caution": "Reviewed for Taurus and Libra lagna; generally not combined with Diamond.",
+     "substitute": "Citrine, Yellow Topaz"
+    },
+    {
+     "id": "diamond",
+     "name": "Diamond",
+     "hindi": "Heera / हीरा",
+     "graha": "Venus",
+     "rashi": "Taurus, Libra",
+     "metal": "Platinum, White Gold or Silver",
+     "finger": "Middle or ring finger",
+     "weight": "0.5–1.5 carat",
+     "day": "Friday at sunrise",
+     "mantra": "Om Drāṃ Drīṃ Drauṃ Saḥ Śukrāya Namaḥ",
+     "benefits": "Relationships, artistic refinement, luxury, reproductive health and charm.",
+     "caution": "Usually not combined with Ruby or Yellow Sapphire; reviewed for Cancer and Leo lagna.",
+     "substitute": "White Sapphire, White Zircon, Opal"
+    },
+    {
+     "id": "blue-sapphire",
+     "name": "Blue Sapphire",
+     "hindi": "Neelam / नीलम",
+     "graha": "Saturn",
+     "rashi": "Capricorn, Aquarius",
+     "metal": "Silver or Panchdhatu",
+     "finger": "Middle finger",
+     "weight": "4–7 ratti",
+     "day": "Saturday evening",
+     "mantra": "Om Prāṃ Prīṃ Prauṃ Saḥ Śanaiścarāya Namaḥ",
+     "benefits": "Discipline, focus, professional endurance and rapid results when suitable.",
+     "caution": "The most reactive stone in the classical list. Always trialled before wearing; traditionally never worn on a casual recommendation.",
+     "substitute": "Amethyst, Blue Spinel, Lapis Lazuli"
+    },
+    {
+     "id": "hessonite",
+     "name": "Hessonite",
+     "hindi": "Gomed / गोमेद",
+     "graha": "Rahu",
+     "rashi": "Aquarius (co-signification)",
+     "metal": "Silver or Panchdhatu",
+     "finger": "Middle finger",
+     "weight": "5–9 ratti",
+     "day": "Saturday at dusk",
+     "mantra": "Om Bhrāṃ Bhrīṃ Bhrauṃ Saḥ Rāhave Namaḥ",
+     "benefits": "Clarity during confusion, protection in Rahu dasha and Kaal Sarpa patterns.",
+     "caution": "Trialled first; reviewed alongside Pearl, which is generally not combined with it.",
+     "substitute": "Orange Zircon"
+    },
+    {
+     "id": "cat-s-eye",
+     "name": "Cat's Eye",
+     "hindi": "Lehsunia / लहसुनिया",
+     "graha": "Ketu",
+     "rashi": "Scorpio (co-signification)",
+     "metal": "Silver or Panchdhatu",
+     "finger": "Middle or ring finger",
+     "weight": "5–8 ratti",
+     "day": "Thursday or Saturday evening",
+     "mantra": "Om Srāṃ Srīṃ Srauṃ Saḥ Ketave Namaḥ",
+     "benefits": "Protection from sudden loss, spiritual insight, relief in Ketu dasha.",
+     "caution": "Effects reported as fast and sharp; trial period is standard practice.",
+     "substitute": "Cat's Eye Quartz"
+    }
+   ]
+  },
+  {
+   "id": "rudraksha",
+   "title": "Rudraksha Details",
+   "icon": "🟤",
+   "category": "Remedies",
+   "description": "Mukhi-wise rudraksha with ruling graha, deity, chakra and wearing mantra.",
+   "fields": [
+    "graha",
+    "deity",
+    "chakra",
+    "benefits",
+    "mantra",
+    "day"
+   ],
+   "count": 11,
+   "items": [
+    {
+     "id": "1-mukhi",
+     "name": "1 Mukhi Rudraksha",
+     "mukhi": 1,
+     "graha": "Sun",
+     "deity": "Shiva",
+     "chakra": "Sahasrara (crown)",
+     "benefits": "Leadership, clarity of purpose, detachment from ego; traditionally associated with headaches and heart vitality.",
+     "mantra": "ॐ ह्रीं नमः",
+     "day": "Sunday"
+    },
+    {
+     "id": "2-mukhi",
+     "name": "2 Mukhi Rudraksha",
+     "mukhi": 2,
+     "graha": "Moon",
+     "deity": "Ardhanarishvara",
+     "chakra": "Svadhisthana",
+     "benefits": "Harmony in relationships and partnerships; emotional steadiness.",
+     "mantra": "ॐ नमः",
+     "day": "Monday"
+    },
+    {
+     "id": "3-mukhi",
+     "name": "3 Mukhi Rudraksha",
+     "mukhi": 3,
+     "graha": "Mars",
+     "deity": "Agni",
+     "chakra": "Manipura",
+     "benefits": "Release of guilt and past burden; digestive fire and self-confidence.",
+     "mantra": "ॐ क्लीं नमः",
+     "day": "Tuesday"
+    },
+    {
+     "id": "4-mukhi",
+     "name": "4 Mukhi Rudraksha",
+     "mukhi": 4,
+     "graha": "Mercury",
+     "deity": "Brahma",
+     "chakra": "Anahata / Vishuddha",
+     "benefits": "Learning, speech, memory and creative expression.",
+     "mantra": "ॐ ह्रीं नमः",
+     "day": "Wednesday"
+    },
+    {
+     "id": "5-mukhi",
+     "name": "5 Mukhi Rudraksha",
+     "mukhi": 5,
+     "graha": "Jupiter",
+     "deity": "Kalagni Rudra",
+     "chakra": "Vishuddha",
+     "benefits": "The most common bead; general wellbeing, calm and study. Worn as a 108-bead mala.",
+     "mantra": "ॐ ह्रीं नमः",
+     "day": "Thursday"
+    },
+    {
+     "id": "6-mukhi",
+     "name": "6 Mukhi Rudraksha",
+     "mukhi": 6,
+     "graha": "Venus",
+     "deity": "Kartikeya",
+     "chakra": "Svadhisthana",
+     "benefits": "Willpower, focus, grounding and relational balance.",
+     "mantra": "ॐ ह्रीं हुं नमः",
+     "day": "Friday"
+    },
+    {
+     "id": "7-mukhi",
+     "name": "7 Mukhi Rudraksha",
+     "mukhi": 7,
+     "graha": "Saturn",
+     "deity": "Mahalakshmi",
+     "chakra": "Manipura",
+     "benefits": "Relief from Saturn-related hardship; prosperity and endurance.",
+     "mantra": "ॐ हुं नमः",
+     "day": "Saturday"
+    },
+    {
+     "id": "8-mukhi",
+     "name": "8 Mukhi Rudraksha",
+     "mukhi": 8,
+     "graha": "Rahu",
+     "deity": "Ganesha",
+     "chakra": "Manipura",
+     "benefits": "Removal of obstacles; support during Rahu dasha and Kaal Sarpa patterns.",
+     "mantra": "ॐ हुं नमः",
+     "day": "Saturday"
+    },
+    {
+     "id": "9-mukhi",
+     "name": "9 Mukhi Rudraksha",
+     "mukhi": 9,
+     "graha": "Ketu",
+     "deity": "Durga",
+     "chakra": "Muladhara",
+     "benefits": "Courage, protection, release of fear; support during Ketu periods.",
+     "mantra": "ॐ ह्रीं हुं नमः",
+     "day": "Tuesday"
+    },
+    {
+     "id": "11-mukhi",
+     "name": "11 Mukhi Rudraksha",
+     "mukhi": 11,
+     "graha": "All (Ekadasha Rudra)",
+     "deity": "Hanuman",
+     "chakra": "Sahasrara",
+     "benefits": "Strength, protection and steadiness of mind.",
+     "mantra": "ॐ ह्रीं हुं नमः",
+     "day": "Tuesday"
+    },
+    {
+     "id": "14-mukhi",
+     "name": "14 Mukhi Rudraksha",
+     "mukhi": 14,
+     "graha": "Mars / Saturn",
+     "deity": "Hanuman (Deva Mani)",
+     "chakra": "Ajna",
+     "benefits": "Intuition, decisiveness; traditionally regarded as the most prized bead.",
+     "mantra": "ॐ नमः शिवाय",
+     "day": "Monday"
+    }
+   ]
+  },
+  {
+   "id": "chalisa",
+   "title": "Chalisa Details",
+   "icon": "📖",
+   "category": "Devotional",
+   "description": "Forty-verse devotional hymns with deity, purpose and recommended day.",
+   "fields": [
+    "deity",
+    "poet",
+    "verses",
+    "language",
+    "purpose",
+    "opening",
+    "day",
+    "count"
+   ],
+   "count": 7,
+   "items": [
+    {
+     "id": "hanuman-chalisa",
+     "name": "Hanuman Chalisa",
+     "deity": "Hanuman",
+     "poet": "Tulsidas",
+     "verses": 40,
+     "language": "Awadhi",
+     "purpose": "Protection, courage, relief from obstruction, Sade Sati and Mangal Dosha support.",
+     "opening": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि ।",
+     "day": "Tuesday and Saturday",
+     "count": "1, 7, 11 or 108 recitations"
+    },
+    {
+     "id": "ganesh-chalisa",
+     "name": "Ganesh Chalisa",
+     "deity": "Ganesha",
+     "poet": "Traditional",
+     "verses": 40,
+     "language": "Hindi",
+     "purpose": "Removal of obstacles before a new venture, examination or journey.",
+     "opening": "जय गणपति सदगुण सदन, कविवर बदन कृपाल ।",
+     "day": "Wednesday and Chaturthi",
+     "count": "1 or 11 recitations"
+    },
+    {
+     "id": "durga-chalisa",
+     "name": "Durga Chalisa",
+     "deity": "Durga",
+     "poet": "Traditional",
+     "verses": 40,
+     "language": "Hindi",
+     "purpose": "Protection, courage, relief from fear and enemy-related difficulty.",
+     "opening": "नमो नमो दुर्गे सुख करनी ।",
+     "day": "Ashtami, Navami, Navaratri",
+     "count": "1 or 9 recitations"
+    },
+    {
+     "id": "shiv-chalisa",
+     "name": "Shiv Chalisa",
+     "deity": "Shiva",
+     "poet": "Traditional",
+     "verses": 40,
+     "language": "Hindi",
+     "purpose": "Health, longevity, Moon affliction and Mrityu-related concern.",
+     "opening": "जय गणेश गिरिजा सुवन, मंगल मूल सुजान ।",
+     "day": "Monday, Pradosha, Shivaratri",
+     "count": "1 or 11 recitations"
+    },
+    {
+     "id": "shani-chalisa",
+     "name": "Shani Chalisa",
+     "deity": "Shani",
+     "poet": "Traditional",
+     "verses": 40,
+     "language": "Hindi",
+     "purpose": "Recited through Sade Sati, Ashtama Shani and Shani dasha.",
+     "opening": "जय गणेश गिरिजा सुवन, मंगल करण कृपाल ।",
+     "day": "Saturday evening",
+     "count": "1 or 11 recitations"
+    },
+    {
+     "id": "lakshmi-chalisa",
+     "name": "Lakshmi Chalisa",
+     "deity": "Lakshmi",
+     "poet": "Traditional",
+     "verses": 40,
+     "language": "Hindi",
+     "purpose": "Household prosperity, financial stability, 2nd and 11th house support.",
+     "opening": "जय जय श्री महालक्ष्मी, करूं मातु तव ध्यान ।",
+     "day": "Friday and Purnima",
+     "count": "1 or 11 recitations"
+    },
+    {
+     "id": "saraswati-chalisa",
+     "name": "Saraswati Chalisa",
+     "deity": "Saraswati",
+     "poet": "Traditional",
+     "verses": 40,
+     "language": "Hindi",
+     "purpose": "Study, memory, speech and examination preparation.",
+     "opening": "जनक जननि पद्मरज, निज मस्तक पर धारि ।",
+     "day": "Wednesday, Vasant Panchami",
+     "count": "1 or 11 recitations"
+    }
+   ]
+  },
+  {
+   "id": "aarti",
+   "title": "Aarti Details",
+   "icon": "🪔",
+   "category": "Devotional",
+   "description": "Aarti hymns with deity, timing, opening line and the items used.",
+   "fields": [
+    "deity",
+    "timing",
+    "purpose",
+    "opening",
+    "items"
+   ],
+   "count": 7,
+   "items": [
+    {
+     "id": "om-jai-jagdish-hare",
+     "name": "Om Jai Jagdish Hare",
+     "deity": "Vishnu",
+     "timing": "Sandhya (evening)",
+     "purpose": "Universal evening prayer for peace and prosperity.",
+     "opening": "ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे ।",
+     "items": [
+      "Thali with diya",
+      "Camphor",
+      "Incense",
+      "Flowers",
+      "Bell"
+     ]
+    },
+    {
+     "id": "sukhkarta-dukhharta",
+     "name": "Sukhkarta Dukhharta",
+     "deity": "Ganesha",
+     "timing": "Morning and evening; daily in Ganesh Chaturthi",
+     "purpose": "Removal of sorrow and obstacles.",
+     "opening": "सुखकर्ता दुःखहर्ता वार्ता विघ्नाची ।",
+     "items": [
+      "Diya",
+      "Durva grass",
+      "Modak",
+      "Red flowers"
+     ]
+    },
+    {
+     "id": "jai-ambe-gauri",
+     "name": "Jai Ambe Gauri",
+     "deity": "Durga",
+     "timing": "Evening, and nightly through Navaratri",
+     "purpose": "Invocation of the protective mother.",
+     "opening": "जय अम्बे गौरी, मैया जय श्यामा गौरी ।",
+     "items": [
+      "Diya",
+      "Red chunari",
+      "Coconut",
+      "Hibiscus"
+     ]
+    },
+    {
+     "id": "om-jai-shiv-omkara",
+     "name": "Om Jai Shiv Omkara",
+     "deity": "Shiva",
+     "timing": "Monday, Pradosha, Shivaratri",
+     "purpose": "Closing aarti after Rudrabhisheka.",
+     "opening": "ॐ जय शिव ओंकारा, स्वामी जय शिव ओंकारा ।",
+     "items": [
+      "Diya",
+      "Bilva leaves",
+      "Bhasma",
+      "Water"
+     ]
+    },
+    {
+     "id": "aarti-kunj-bihari-ki",
+     "name": "Aarti Kunj Bihari Ki",
+     "deity": "Krishna",
+     "timing": "Evening; daily in Janmashtami",
+     "purpose": "Devotional joy and emotional steadiness.",
+     "opening": "आरती कुंजबिहारी की, श्री गिरिधर कृष्ण मुरारी की ।",
+     "items": [
+      "Diya",
+      "Tulsi",
+      "Butter",
+      "Peacock feather"
+     ]
+    },
+    {
+     "id": "aarti-shri-hanuman-ji-ki",
+     "name": "Aarti Shri Hanuman Ji Ki",
+     "deity": "Hanuman",
+     "timing": "Tuesday and Saturday",
+     "purpose": "Strength and protection; follows the Hanuman Chalisa.",
+     "opening": "आरती कीजै हनुमान लला की ।",
+     "items": [
+      "Diya with chameli oil",
+      "Sindoor",
+      "Boondi laddu",
+      "Betel leaf"
+     ]
+    },
+    {
+     "id": "om-jai-lakshmi-mata",
+     "name": "Om Jai Lakshmi Mata",
+     "deity": "Lakshmi",
+     "timing": "Friday and Diwali Lakshmi Puja",
+     "purpose": "Prosperity and household abundance.",
+     "opening": "ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता ।",
+     "items": [
+      "Diya",
+      "Lotus",
+      "Kheel-batasha",
+      "Coins"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "names",
+   "title": "Names Details",
+   "icon": "🔤",
+   "category": "Naming",
+   "description": "Nakshatra-pada naming syllables used for the traditional birth name (namakarana).",
+   "fields": [
+    "pada",
+    "syllables",
+    "lord",
+    "rashi"
+   ],
+   "count": 27,
+   "items": [
+    {
+     "id": "ashvin",
+     "name": "Ashvinī",
+     "nakshatra": "Ashvinī",
+     "pada": "1–4",
+     "syllables": [
+      "Chu",
+      "Che",
+      "Cho",
+      "La"
+     ],
+     "lord": "Ketu",
+     "rashi": "Aries"
+    },
+    {
+     "id": "bharan",
+     "name": "Bharanī",
+     "nakshatra": "Bharanī",
+     "pada": "1–4",
+     "syllables": [
+      "Li",
+      "Lu",
+      "Le",
+      "Lo"
+     ],
+     "lord": "Venus",
+     "rashi": "Aries"
+    },
+    {
+     "id": "k-ttik",
+     "name": "Kṛttikā",
+     "nakshatra": "Kṛttikā",
+     "pada": "1–4",
+     "syllables": [
+      "A",
+      "I",
+      "U",
+      "E"
+     ],
+     "lord": "Sun",
+     "rashi": "Aries / Taurus"
+    },
+    {
+     "id": "rohi",
+     "name": "Rohiṇī",
+     "nakshatra": "Rohiṇī",
+     "pada": "1–4",
+     "syllables": [
+      "O",
+      "Va",
+      "Vi",
+      "Vu"
+     ],
+     "lord": "Moon",
+     "rashi": "Taurus"
+    },
+    {
+     "id": "m-ga-ira",
+     "name": "Mṛgaśira",
+     "nakshatra": "Mṛgaśira",
+     "pada": "1–4",
+     "syllables": [
+      "Ve",
+      "Vo",
+      "Ka",
+      "Ki"
+     ],
+     "lord": "Mars",
+     "rashi": "Taurus / Gemini"
+    },
+    {
+     "id": "rdr",
+     "name": "Ārdrā",
+     "nakshatra": "Ārdrā",
+     "pada": "1–4",
+     "syllables": [
+      "Ku",
+      "Gha",
+      "Ṅa",
+      "Chha"
+     ],
+     "lord": "Rahu",
+     "rashi": "Gemini"
+    },
+    {
+     "id": "punarvasu",
+     "name": "Punarvasu",
+     "nakshatra": "Punarvasu",
+     "pada": "1–4",
+     "syllables": [
+      "Ke",
+      "Ko",
+      "Ha",
+      "Hi"
+     ],
+     "lord": "Jupiter",
+     "rashi": "Gemini / Cancer"
+    },
+    {
+     "id": "pu-ya",
+     "name": "Puṣya",
+     "nakshatra": "Puṣya",
+     "pada": "1–4",
+     "syllables": [
+      "Hu",
+      "He",
+      "Ho",
+      "Ḍa"
+     ],
+     "lord": "Saturn",
+     "rashi": "Cancer"
+    },
+    {
+     "id": "le",
+     "name": "Āśleṣā",
+     "nakshatra": "Āśleṣā",
+     "pada": "1–4",
+     "syllables": [
+      "Ḍi",
+      "Ḍu",
+      "Ḍe",
+      "Ḍo"
+     ],
+     "lord": "Mercury",
+     "rashi": "Cancer"
+    },
+    {
+     "id": "magh",
+     "name": "Maghā",
+     "nakshatra": "Maghā",
+     "pada": "1–4",
+     "syllables": [
+      "Ma",
+      "Mi",
+      "Mu",
+      "Me"
+     ],
+     "lord": "Ketu",
+     "rashi": "Leo"
+    },
+    {
+     "id": "p-rva-phalgun",
+     "name": "Pūrva Phalgunī",
+     "nakshatra": "Pūrva Phalgunī",
+     "pada": "1–4",
+     "syllables": [
+      "Mo",
+      "Ṭa",
+      "Ṭi",
+      "Ṭu"
+     ],
+     "lord": "Venus",
+     "rashi": "Leo"
+    },
+    {
+     "id": "uttara-phalgun",
+     "name": "Uttara Phalgunī",
+     "nakshatra": "Uttara Phalgunī",
+     "pada": "1–4",
+     "syllables": [
+      "Ṭe",
+      "Ṭo",
+      "Pa",
+      "Pi"
+     ],
+     "lord": "Sun",
+     "rashi": "Leo / Virgo"
+    },
+    {
+     "id": "hasta",
+     "name": "Hasta",
+     "nakshatra": "Hasta",
+     "pada": "1–4",
+     "syllables": [
+      "Pu",
+      "Ṣa",
+      "Ṇa",
+      "Ṭha"
+     ],
+     "lord": "Moon",
+     "rashi": "Virgo"
+    },
+    {
+     "id": "chitr",
+     "name": "Chitrā",
+     "nakshatra": "Chitrā",
+     "pada": "1–4",
+     "syllables": [
+      "Pe",
+      "Po",
+      "Ra",
+      "Ri"
+     ],
+     "lord": "Mars",
+     "rashi": "Virgo / Libra"
+    },
+    {
+     "id": "sv-t",
+     "name": "Svātī",
+     "nakshatra": "Svātī",
+     "pada": "1–4",
+     "syllables": [
+      "Ru",
+      "Re",
+      "Ro",
+      "Ta"
+     ],
+     "lord": "Rahu",
+     "rashi": "Libra"
+    },
+    {
+     "id": "vi-kh",
+     "name": "Viśākhā",
+     "nakshatra": "Viśākhā",
+     "pada": "1–4",
+     "syllables": [
+      "Ti",
+      "Tu",
+      "Te",
+      "To"
+     ],
+     "lord": "Jupiter",
+     "rashi": "Libra / Scorpio"
+    },
+    {
+     "id": "anur-dh",
+     "name": "Anurādhā",
+     "nakshatra": "Anurādhā",
+     "pada": "1–4",
+     "syllables": [
+      "Na",
+      "Ni",
+      "Nu",
+      "Ne"
+     ],
+     "lord": "Saturn",
+     "rashi": "Scorpio"
+    },
+    {
+     "id": "jye-h",
+     "name": "Jyeṣṭhā",
+     "nakshatra": "Jyeṣṭhā",
+     "pada": "1–4",
+     "syllables": [
+      "No",
+      "Ya",
+      "Yi",
+      "Yu"
+     ],
+     "lord": "Mercury",
+     "rashi": "Scorpio"
+    },
+    {
+     "id": "m-la",
+     "name": "Mūla",
+     "nakshatra": "Mūla",
+     "pada": "1–4",
+     "syllables": [
+      "Ye",
+      "Yo",
+      "Bha",
+      "Bhi"
+     ],
+     "lord": "Ketu",
+     "rashi": "Sagittarius"
+    },
+    {
+     "id": "p-rva-h",
+     "name": "Pūrva Āṣāḍhā",
+     "nakshatra": "Pūrva Āṣāḍhā",
+     "pada": "1–4",
+     "syllables": [
+      "Bhu",
+      "Dha",
+      "Pha",
+      "Ḍha"
+     ],
+     "lord": "Venus",
+     "rashi": "Sagittarius"
+    },
+    {
+     "id": "uttara-h",
+     "name": "Uttara Āṣāḍhā",
+     "nakshatra": "Uttara Āṣāḍhā",
+     "pada": "1–4",
+     "syllables": [
+      "Bhe",
+      "Bho",
+      "Ja",
+      "Ji"
+     ],
+     "lord": "Sun",
+     "rashi": "Sagittarius / Capricorn"
+    },
+    {
+     "id": "rava-a",
+     "name": "Śravaṇa",
+     "nakshatra": "Śravaṇa",
+     "pada": "1–4",
+     "syllables": [
+      "Ju",
+      "Je",
+      "Jo",
+      "Gha"
+     ],
+     "lord": "Moon",
+     "rashi": "Capricorn"
+    },
+    {
+     "id": "dhani-h",
+     "name": "Dhaniṣṭhā",
+     "nakshatra": "Dhaniṣṭhā",
+     "pada": "1–4",
+     "syllables": [
+      "Ga",
+      "Gi",
+      "Gu",
+      "Ge"
+     ],
+     "lord": "Mars",
+     "rashi": "Capricorn / Aquarius"
+    },
+    {
+     "id": "atabhi",
+     "name": "Śatabhiṣā",
+     "nakshatra": "Śatabhiṣā",
+     "pada": "1–4",
+     "syllables": [
+      "Go",
+      "Sa",
+      "Si",
+      "Su"
+     ],
+     "lord": "Rahu",
+     "rashi": "Aquarius"
+    },
+    {
+     "id": "p-rva-bh-drapad",
+     "name": "Pūrva Bhādrapadā",
+     "nakshatra": "Pūrva Bhādrapadā",
+     "pada": "1–4",
+     "syllables": [
+      "Se",
+      "So",
+      "Da",
+      "Di"
+     ],
+     "lord": "Jupiter",
+     "rashi": "Aquarius / Pisces"
+    },
+    {
+     "id": "uttara-bh-drapad",
+     "name": "Uttara Bhādrapadā",
+     "nakshatra": "Uttara Bhādrapadā",
+     "pada": "1–4",
+     "syllables": [
+      "Du",
+      "Tha",
+      "Jha",
+      "Ña"
+     ],
+     "lord": "Saturn",
+     "rashi": "Pisces"
+    },
+    {
+     "id": "revat",
+     "name": "Revatī",
+     "nakshatra": "Revatī",
+     "pada": "1–4",
+     "syllables": [
+      "De",
+      "Do",
+      "Cha",
+      "Chi"
+     ],
+     "lord": "Mercury",
+     "rashi": "Pisces"
+    }
+   ]
+  },
+  {
+   "id": "festivals",
+   "title": "Festival Details",
+   "icon": "🎉",
+   "category": "Calendar",
+   "description": "Festivals with the tithi or sankranti rule that fixes the date, deity and rituals.",
+   "fields": [
+    "month",
+    "rule",
+    "type",
+    "deity",
+    "significance",
+    "rituals"
+   ],
+   "count": 18,
+   "items": [
+    {
+     "id": "makara-sankranti",
+     "name": "Makara Sankranti",
+     "month": "Pausha / Magha",
+     "rule": "Sun enters sidereal Capricorn",
+     "type": "Solar (sankranti)",
+     "deity": "Surya",
+     "significance": "Start of Uttarayana; the Sun turns northward.",
+     "rituals": [
+      "Sesame and jaggery",
+      "Kite flying",
+      "River bathing",
+      "Daan"
+     ]
+    },
+    {
+     "id": "vasant-panchami",
+     "name": "Vasant Panchami",
+     "month": "Magha",
+     "rule": "Shukla Panchami",
+     "type": "Lunar (tithi)",
+     "deity": "Saraswati",
+     "significance": "Start of spring; auspicious for beginning education.",
+     "rituals": [
+      "Saraswati Puja",
+      "Yellow clothing",
+      "Vidyarambham"
+     ]
+    },
+    {
+     "id": "mahashivaratri",
+     "name": "Mahashivaratri",
+     "month": "Phalguna",
+     "rule": "Krishna Chaturdashi",
+     "type": "Lunar (tithi)",
+     "deity": "Shiva",
+     "significance": "The great night of Shiva; night-long vigil in four praharas.",
+     "rituals": [
+      "Rudrabhisheka",
+      "Fasting",
+      "Bilva offering",
+      "Jagaran"
+     ]
+    },
+    {
+     "id": "holi",
+     "name": "Holi",
+     "month": "Phalguna",
+     "rule": "Purnima and the following day",
+     "type": "Lunar (tithi)",
+     "deity": "Krishna, Holika",
+     "significance": "Victory of devotion over arrogance; arrival of spring.",
+     "rituals": [
+      "Holika Dahan",
+      "Colours",
+      "Bhang and sweets"
+     ]
+    },
+    {
+     "id": "ugadi-gudi-padwa",
+     "name": "Ugadi / Gudi Padwa",
+     "month": "Chaitra",
+     "rule": "Shukla Pratipada",
+     "type": "Lunar (tithi)",
+     "deity": "Brahma",
+     "significance": "Lunar new year in the Deccan and Maharashtra; Panchanga Shravanam.",
+     "rituals": [
+      "Gudi raising",
+      "Bevu-bella",
+      "Panchanga reading"
+     ]
+    },
+    {
+     "id": "rama-navami",
+     "name": "Rama Navami",
+     "month": "Chaitra",
+     "rule": "Shukla Navami",
+     "type": "Lunar (tithi)",
+     "deity": "Rama",
+     "significance": "Birth of Rama at midday in Punarvasu nakshatra.",
+     "rituals": [
+      "Ramayana recitation",
+      "Fasting",
+      "Midday puja"
+     ]
+    },
+    {
+     "id": "hanuman-jayanti",
+     "name": "Hanuman Jayanti",
+     "month": "Chaitra",
+     "rule": "Purnima",
+     "type": "Lunar (tithi)",
+     "deity": "Hanuman",
+     "significance": "Birth of Hanuman; observed on different dates regionally.",
+     "rituals": [
+      "Hanuman Chalisa",
+      "Sindoor offering",
+      "Sundarkand"
+     ]
+    },
+    {
+     "id": "akshaya-tritiya",
+     "name": "Akshaya Tritiya",
+     "month": "Vaishakha",
+     "rule": "Shukla Tritiya",
+     "type": "Lunar (tithi)",
+     "deity": "Vishnu, Lakshmi",
+     "significance": "Regarded as an unfailing muhurta; whole day is auspicious.",
+     "rituals": [
+      "Gold purchase",
+      "Daan",
+      "New ventures"
+     ]
+    },
+    {
+     "id": "guru-purnima",
+     "name": "Guru Purnima",
+     "month": "Ashadha",
+     "rule": "Purnima",
+     "type": "Lunar (tithi)",
+     "deity": "Vyasa",
+     "significance": "Honouring the teacher; start of Chaturmasya.",
+     "rituals": [
+      "Guru puja",
+      "Vyasa puja",
+      "Study"
+     ]
+    },
+    {
+     "id": "nag-panchami",
+     "name": "Nag Panchami",
+     "month": "Shravana",
+     "rule": "Shukla Panchami",
+     "type": "Lunar (tithi)",
+     "deity": "Naga devatas",
+     "significance": "Traditionally observed for Kaal Sarpa and Naga dosha relief.",
+     "rituals": [
+      "Milk offering",
+      "Naga puja"
+     ]
+    },
+    {
+     "id": "raksha-bandhan",
+     "name": "Raksha Bandhan",
+     "month": "Shravana",
+     "rule": "Purnima",
+     "type": "Lunar (tithi)",
+     "deity": "None specific",
+     "significance": "Sibling bond; tied during a Bhadra-free window.",
+     "rituals": [
+      "Rakhi tying",
+      "Avoiding Bhadra kaal"
+     ]
+    },
+    {
+     "id": "janmashtami",
+     "name": "Janmashtami",
+     "month": "Shravana",
+     "rule": "Krishna Ashtami with Rohini nakshatra",
+     "type": "Lunar (tithi + nakshatra)",
+     "deity": "Krishna",
+     "significance": "Birth of Krishna at midnight.",
+     "rituals": [
+      "Midnight abhisheka",
+      "Fasting",
+      "Dahi Handi"
+     ]
+    },
+    {
+     "id": "ganesha-chaturthi",
+     "name": "Ganesha Chaturthi",
+     "month": "Bhadrapada",
+     "rule": "Shukla Chaturthi",
+     "type": "Lunar (tithi)",
+     "deity": "Ganesha",
+     "significance": "Ten-day installation and immersion.",
+     "rituals": [
+      "Pranapratishtha",
+      "Modak",
+      "Visarjan"
+     ]
+    },
+    {
+     "id": "pitru-paksha",
+     "name": "Pitru Paksha",
+     "month": "Bhadrapada / Ashvina",
+     "rule": "Purnima to Amavasya, Krishna paksha",
+     "type": "Lunar (paksha)",
+     "deity": "Pitrs",
+     "significance": "Fortnight for ancestral offerings; linked to Pitru Dosha remediation.",
+     "rituals": [
+      "Shraddha",
+      "Tarpana",
+      "Pinda daan"
+     ]
+    },
+    {
+     "id": "navaratri",
+     "name": "Navaratri",
+     "month": "Ashvina",
+     "rule": "Shukla Pratipada to Navami",
+     "type": "Lunar (tithi)",
+     "deity": "Durga (nine forms)",
+     "significance": "Nine nights of the Goddess; Sharada Navaratri.",
+     "rituals": [
+      "Ghatasthapana",
+      "Fasting",
+      "Kanya pujan",
+      "Garba"
+     ]
+    },
+    {
+     "id": "vijayadashami-dussehra",
+     "name": "Vijayadashami / Dussehra",
+     "month": "Ashvina",
+     "rule": "Shukla Dashami",
+     "type": "Lunar (tithi)",
+     "deity": "Durga, Rama",
+     "significance": "Regarded as a self-evident muhurta for beginnings.",
+     "rituals": [
+      "Shastra puja",
+      "Ravana dahan",
+      "Aparajita puja"
+     ]
+    },
+    {
+     "id": "diwali",
+     "name": "Diwali",
+     "month": "Kartika",
+     "rule": "Amavasya",
+     "type": "Lunar (tithi)",
+     "deity": "Lakshmi, Ganesha",
+     "significance": "Festival of lights; Lakshmi Puja in the Pradosha window.",
+     "rituals": [
+      "Diyas",
+      "Lakshmi Puja",
+      "Chopda Pujan",
+      "Rangoli"
+     ]
+    },
+    {
+     "id": "chhath",
+     "name": "Chhath",
+     "month": "Kartika",
+     "rule": "Shukla Shashthi",
+     "type": "Lunar (tithi)",
+     "deity": "Surya, Chhathi Maiya",
+     "significance": "Arghya to the setting and rising Sun over four days.",
+     "rituals": [
+      "Nahay-Khay",
+      "Kharna",
+      "Sandhya Arghya",
+      "Usha Arghya"
+     ]
+    }
+   ]
+  }
+ ]
+}

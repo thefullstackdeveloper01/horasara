@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "033__json_files_kp_sub_lord_table_json",
+    "name": "JSON_Files_KP-Sub-Lord-Table",
+    "original_file": "JSON_Files/KP-Sub-Lord-Table.json",
+    "dataset_number": "183 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_KP-Sub-Lord-Table.txt",
+    "source_sha256": "db1fe18f40558f8efe8702489cb880153fa2bacbbd566c181a51a9341d341d9f",
+    "source_bytes": 693
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Mercury",
+        "start_degree": "0°00'",
+        "end_degree": "0°46'40"
+      },
+      {
+        "name": "Venus",
+        "start_degree": "0°46'40",
+        "end_degree": "1°33'20"
+      }
+    ]
+  }
+}

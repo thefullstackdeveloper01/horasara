@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "051__json_files_raja_yoga_list_json",
+    "name": "JSON_Files_Raja-Yoga-List",
+    "original_file": "JSON_Files/Raja-Yoga-List.json",
+    "dataset_number": "199 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Raja-Yoga-List.txt",
+    "source_sha256": "db3e8ea73f628f3d20fa35818a8a37b8cd71e9bf2a932584280594dd0f42c75c",
+    "source_bytes": 593
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Budhaditya Yoga",
+        "formed_by": "Sun and Mercury conjunct",
+        "effects": "Intelligent, wealthy, political success."
+      },
+      {
+        "name": "Gajakesari Yoga",
+        "formed_by": "Jupiter in Kendra from Moon",
+        "effects": "Virtuous, famous, intelligent."
+      }
+    ]
+  }
+}

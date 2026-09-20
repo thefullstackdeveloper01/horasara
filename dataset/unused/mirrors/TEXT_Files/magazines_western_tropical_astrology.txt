@@ -1,0 +1,365 @@
+READABLE DATASET
+================================================================================
+Original file: magazines_western_tropical_astrology.json
+Dataset number: 267 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 11,137 bytes
+Top-level fields: 11
+Title: Magazines_Western-tropical astrology_
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Magazines_Western-tropical astrology_
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: classifiedbytopicscontents
+  • total_pages: 7
+  • total_words: 1415
+  • text_quality:
+    • ocr_word_validity_score: —
+    • quality_tier: not_a_book_index_list
+    • note: This file does not contain scripture/book text. It is a personal cloud-drive folder listing (PDF filenames and pcloud.com links) that was mistakenly catalogued as a book. Recommend excluding from the book library or re-filing under a different content type.
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Magazines_Western-tropical astrology link for all the books;
+https://my.pcloud.com/publink/show?code=kZIBvLkZTrJoLMuJjkz43RsD5Ac3kfm5aUuk
+root folder; https://my.pcloud.com/publink/show?code=kZ3NcW7Z9Np4EUHYYR8KAibwo1 NqcSmJjODV
+1 791-1 794 Astrologer'sConjuror's Magazine
+Astrologer's_Conjuror's Magazine_Aug. 1791- July 1792.pdf
+Astrologer's_Conjuror's Magazine_Aug. 1793- Jan. 1794.pdf
+1 793-94_the astrologer's magazine 1 1 .4 MB
+1793-08 to 1794 jan._Lemoine Astrologer'. ..gazine_ and PhilosophicalMiscellany.pdf 10.5 MB
+1 contents.webarchive
+1849_Zadkiel's Magazine
+1841-43_Zadkiel_The Horoscope_magazine.pdf
+1849 jan- feb_Zadkiel_The Horoscope_magazine.pdf
+1 857-1 858_Astrologers' Magazine_Williams.pdf
+1860-69_Broughton's Monthly Planet Reader
+rrm.
+1960-69_Broughton's Monthly Planet Reader.pdf
+1_content.webarchive
+“JS 1880_A.J. Pearce_Urania magazine.pdf
+1890 to1940_Alan Leo magazines_ with Hindu articles
+1 890- 91 .Astrologer's Magazine Vol.I.AIan Leo.Frederick Lacey.pdf
+1891- 92_Astrologer's Magazine Vol.2_Alan Leo.Frederick Lacey.pdf
+1892- 93_Astrologer's Magazine Vol.3_Alan Leo.Frederick Lacey.pdf
+1 893- 94_Astrologer's Magazine Vol.4_Alan Leo.Frederick Lacey.pdf
+1 894- 95_Astrologer's Magazine Vol.5_Alan Leo.Frederick Lacey.pdf
+1895- 96_Alan Leo.Modern Astrology magazine_vol.1_old voL6.pdf
+1896- 97_Alan Leo.Modern Astrology magazine_voL2.pdf
+1897- 98_Alan Leo.Modern Astrology magazine_voL3.pdf
+1898- 99_Alan Leo_Modern Astrology magazine_voL5.pdf
+1898_feb.-jul._Alan Leo.Modern Astrology magazine_voL4.pdf
+1 899- 1 900_Alan Leo.Modern Astrology magazine_voL8.pdf
+“S
+T
+A
+T
+A
+T
+T
+T
+T
+Alan Leo.
+Alan Leo.
+Alan Leo.
+Alan Leo.
+Alan Leo.
+Alan Leo.
+Alan Leo.
+Alan Leo
+Modern Astrology magazine_voL6.pdf
+Modern Astrology magazine_vol.8b fromjuly.pdf
+Modern Astrology magazine_vol.10.pdf
+Modern Astrology magazine_voL9.pdf
+Modern Astrology magazine_vol.11.pdf
+Modern Astrology magazine_vol.12.pdf
+Modern Astrology magazine_vol.13.pdf
+Modern Astrology magazine_vol.14.pdf
+1904_Alan Leo.Modern Astrology magazine_voL1.pdf
+1905_Alan Leo.Modern Astrology magazine_voL2.pdf
+1906_Alan Leo.Modern Astrology magazine_voL3.pdf
+ti
+
+Magazines Western -tropical astrology
+Name
+j
+1906_The Astrologer's AnnuaLAIan Leo.pdf
+1907_The Astrologer's AnnuaLAIan Leo.pdf
+1908_Alan LeoJVIodern Astrology magazine_vo
+1909_Alan LeoJVIodern Astrology magazine_vo
+1910_Alan Leo_Modern Astrology magazine_vo
+1911_Alan Leo_Modern Astrology magazine_vo
+1913_Alan Leo_Modern Astrology magazine_vo
+1914_Alan Leo_Modern Astrology magazine_vo
+1915_Alan Leo_Modern Astrology magazine_vo
+1916_Alan LeoJVIodern Astrology magazine_vo
+1917_Alan LeoJVIodern Astrology magazine_vo
+1918_Alan Leo_Modern Astrology magazine_vo
+1919_Alan Leo Modern Astrology magazine_vol
+1920_Alan Leo_Modern Astrology magazine_vo
+1921_Alan Leo_Modern Astrology magazine_vo
+1922_Alan Leo_Modern Astrology magazine_vo
+1923_Alan Leo_Modern Astrology magazine_vo
+1924_Alan Leo_Modern Astrology magazine_vo
+1925_Alan Leo_Modern Astrology magazine_vo
+/H
+CJ^
+A
+A
+AA
+A
+As
+K
+A—
+AA-
+A.
+AA-
+1926_Alan Leo_Modern Astrology magazine_vo
+1927_Alan Leo_Modern Astrology magazine_vo
+1928_Alan Leo_Modern Astrology magazine_vo
+1929_Alan Leo_Modern Astrology magazine_vo
+1930_Alan Leo_Modern Astrology magazine_vo
+1931_Alan Leo_Modern Astrology magazine_vo
+1932_Alan Leo_Modern Astrology magazine_vo
+1933_Alan Leo_Modern Astrology magazine_vo
+1934_Alan Leo_Modern Astrology magazine_vo
+1935_Alan Leo_Modern Astrology magazine_vo
+1936_Alan Leo_Modern Astrology magazine_vo
+1937_Alan Leo_Modern Astrology magazine_vo
+1938_Alan Leo_Modern Astrology magazine_vo
+Browse.plb
+C ~$inerant to Eternity Instructions.docx
+1890_Sepharial_Fate and Fortune_magazine.pdf
+File Listing
+Page 2
+
+Magazines Western -tropical astrology
+Name
+1 892-1 894_A.J. Pearce_The Future_Vol.1 & 2_monthly mag. pdf
+1 895-1 904_Planets and People
+1_contents.webarchive
+Planets and People_v10_1904.pdf
+Planets and People_v1_1895.pdf
+Planets and People_v2_1896.pdf
+Planets and People_v3_1897.pdf
+Planets and People_v4_1898.pdf
+Planets and People_v5_1899.pdf
+Planets and People_v6_1900.pdf
+Planets and People_v7_1901.pdf
+Planets and People_v8_1902.pdf
+ft
+1897_star lore_9 magazines.pdf
+1899-1 901 _The Sphinx_astrological magazine
+Magazine_The Sphynx Vol. 1_July- Dec. 1899_Catharine H. Thompson.pdf
+Magazine_The Sphynx Vol. 2_Feb.-July 1900_Catharine H. Thompson.pdf
+Magazine_The Sphynx Vol. 4_Jan.-May 1901_Catharine H. Thompson.pdf
+1900_1902_The Occult and biological journal
+The Occult and biological journal_Vol 1_sept.1900-aug.1901.pdf
+The Occult and biological journaLVol 2_sept.1901- aug.1902.pdf
+1 903-1 904_The Horoscope_London
+1 contents.webarchive
+horoscope_v2_n5_october_1903.pdf
+horoscope_v2_n6January_1 904.pdf
+horoscope_v2_n7_april_1 904.pdf
+horoscope_v2_n8July_1904.pdf
+1907-1914_Old Moores monthly messenger
+Notable living astrologers.pdf
+Old Moores monthly messenger_v1_1907.pdf
+Old Moores monthly messenger_v2_1908.pdf
+Old Moores monthly messenger_v3_1909.pdf
+Old Moores monthly messenger_v4-5_1910.pdf
+Old Moores monthly messenger_v6-7_1912-13.pdf
+Size
+Old Moores monthly messenger_vol.8-9_19...16_The British Journal of Astrology.pdf 16.7 MB
+1920_21_magazine_the Adept
+1 contents.webarchive
+The Adept_American journal of astrology_11 issues.pdf
+File Listing
+Page 3
+
+Magazines Western -tropical astrology
+Name
+1921_astrological_bulletina_5 issues.pdf
+1922_Jamieson's planet reader_ astrologers' magazine.pdf
+1929 to 1937_L' Astrosophie.pdf
+k
+1 932-1 945_Astrology quarterly_C.O Carter
+Astrology- Vol-1 0-No-1 -Dec-1 936.pdf
+Astrology-Vol-1 3-No-3-1939.pdf
+Astrology- Vol-1 4-No-1 -May-1 940. pdf
+Astrology- Vol-1 4-No-2-Aug-1 940. pdf
+Astrology- Vol-1 4-No-3-Nov-1 940. pdf
+Astrology- Vol-1 4-No-4-Dec-1 940-Feb-1 941 . pdf
+Astrology-Vol-1 5-No-2-Aug1 941 .pdf
+Astrology- Vol-1 5-No-4-Dec-1 941 -Feb-1 942.pdf
+Astrology-Vol-1 6-No-2-Aug-1942.pdf
+Astrology-Vol-16-No-4-Dec-1942-Feb-1943.pdf
+Astrology-Vol-1 7-No-1-May-1943.pdf
+Astrology-Vol-17-No-2-Aug-1943.pdf
+Astrology-Vol-1 7-No-3-Nov-1 943.pdf
+Astrology-Vol-1 7-No-4-Dec-1943-Feb-1 944.pdf
+Astrology-Vol-1 8-No-4-Dec-1 944-Feb-1 945.pdf
+Astrology-Vol-1 9-No-3-Nov-1 945.pdf
+Astrology-Vol-6-No-1 -March-1 932.pdf
+Astrology-Vol-8-No-4-Dec-1934jan-Feb-1935.pdf
+Astrology-Vol-9-No-2-Dec-1935.pdf
+1936 to 1940_Wynns astrology_7 magazines.pdf
+1945_The Astrologer and Oracle of Destiny
+1 945_Astrologer and Oracle of Destiny_Vol 1 .pdf
+1_contents.webarchive
+1984-2006 freeconsiderations.com
+CJs
+yV-r
+LM
+1 contents.pdf
+1listofmagazines.pdf
+ssues Considerations
+Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+Size
+1.7MB
+I. 7MB
+II. 7MB
+File Listing
+Page 4
+
+Magazines Western-tropical astrology
+Name
+Vol.08_
+Vol.09
+Vol.10.
+Vol.11.
+Vol.12.
+Vol.13.
+Vol.15.
+Vol.16.
+Vol.17
+Vol.18.
+Vol.19
+Vol.20.
+Vol.21
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssues_Considerations Magazine_Astrology and earth mysteries.pdf
+ssue_Considerations Magazine_Astrology and earth mysteries.pdf
+1996_The Astrologer's Apprentice
+The Astrologer's Apprenticejssue 1 .pdf
+The Astrologer's Apprenticejssue 2.pdf
+The Astrologer's Apprenticejssue 3.pdf
+The Astrologer's Apprenticejssue 4.pdf
+1 998-2001 _Apollon_Centre for Psychological Astrology
+issue1.pdf
+issue2.pdf
+issue3.pdf
+issue4.pdf
+issue5.pdf
+issue6.pdf
+■ft
+■ft
+Journa
+Journa
+Journa
+Journa
+Journa
+Journa
+Journa
+Journa
+Journa
+Journa
+Journa
+Journal of astronomical history and heritage
+■I
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+of astronomica
+history and heritage_voL1.pdf
+history and heritage_vol.10.pdf
+history and heritage_vol.11.pdf
+history and heritage_vol.12.pdf
+history and heritage_vol.13.pdf
+history and heritage_vol.14.pdf
+history and heritage_vol.15.pdf
+history and heritage_vol.16.pdf
+history and heritage_vol.17.pdf
+history and heritage_vol.18.pdf
+history and heritage_vol.19.pdf
+Size
+File Listing
+Page 5
+
+Magazines Western-tropical astrology
+File Listing
+Page 6
+Name
+Size
+Journal of astronomical history and heritage_voL2.pdf
+Journal of astronomical history and heritage_voL3.pdf
+Journal of astronomical history and heritage_voL4.pdf
+Journal of astronomical history and heritage_voL5.pdf
+Journal of astronomical history and heritage_voL6.pdf
+Journal of astronomical history and heritage_voL7.pdf
+Journal of astronomical history and heritage_voL8.pdf
+Journal of astronomical history and heritage_voL9.pdf
+2007-201 0_The Mountain Astrologer
+Index 1990 to 2014 2300 Articles
+by Author.pdf
+by date.pdf
+by Subject.pdf
+k
+A-r
+The Mountain Astrologer Article Index.webarchive
+Instructions for ordering previous versions.pdf
+The Mountain Astrologer_2007-2008.pdf
+The Mountain Astrologer_2009-2010.pdf
+The Mountain Astrologer_201 0-dec to Jan 2011 .o.pdf
+The Mountain Astrologer_201 0-dec to Jan 2011.pdf
+The Mountain Astrologer_2012_10-11.pdf
+k
+t\
+s~
+2009-201 4_Guild News astro magazine_not worthy
+A.
+A.
+2011 Jssue 1.pdf
+2011_issue 2.pdf
+K\
+K,
+t
+1.7MB
+
+File Listing
+Page 7
+International Association for the Preserva...and Occult Periodicals/ Catalog.webarchive 358 KB
+Magazines Western-tropical astrology

@@ -1,0 +1,72 @@
+{
+  "PLANET_DOMAINS": {
+    "Sun": [
+      "career",
+      "authority",
+      "health",
+      "father"
+    ],
+    "Moon": [
+      "emotions",
+      "home",
+      "mother",
+      "relationships"
+    ],
+    "Mars": [
+      "energy",
+      "property",
+      "siblings",
+      "competition"
+    ],
+    "Mercury": [
+      "business",
+      "communication",
+      "learning",
+      "travel"
+    ],
+    "Jupiter": [
+      "wisdom",
+      "wealth",
+      "children",
+      "spirituality"
+    ],
+    "Venus": [
+      "love",
+      "luxury",
+      "creativity",
+      "partnerships"
+    ],
+    "Saturn": [
+      "discipline",
+      "delays",
+      "karma",
+      "longevity"
+    ],
+    "Rahu": [
+      "ambition",
+      "foreign",
+      "technology",
+      "unconventional"
+    ],
+    "Ketu": [
+      "spirituality",
+      "detachment",
+      "research",
+      "past-karma"
+    ]
+  },
+  "HOUSE_THEMES": {
+    "1": "self and appearance",
+    "2": "wealth and speech",
+    "3": "courage and siblings",
+    "4": "home and mother",
+    "5": "children and creativity",
+    "6": "health and enemies",
+    "7": "relationships and partnerships",
+    "8": "transformation and longevity",
+    "9": "fortune and dharma",
+    "10": "career and reputation",
+    "11": "gains and income",
+    "12": "spirituality and foreign lands"
+  }
+}

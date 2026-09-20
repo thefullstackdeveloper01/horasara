@@ -1,0 +1,903 @@
+READABLE DATASET
+================================================================================
+Original file: yogas_detailed_database.json
+Dataset number: 455 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 25,465 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• yogas_database:
+  • metadata:
+    • version: 1.0
+    • last_updated: 2024
+    • source: Classical Vedic Astrology Texts (BPHS, Phaladeepika, Saravali)
+    • total_yogas: 50
+    • categories:
+      • shubh_yogas: Auspicious Yogas
+      • ashubh_yogas: Inauspicious Yogas
+      • mixed_yogas: Mixed/Conditional Yogas
+  • shubh_yogas:
+    • gajakesari_yoga:
+      • type: Shubh
+      • name: Gajakesari Yoga
+      • description: Jupiter in kendra from Moon
+      • rules:
+        • condition: Jupiter should be in 1st, 4th, 7th, or 10th house from Moon
+        • strength_factors:
+          1.
+            Jupiter should not be debilitated
+          2.
+            Jupiter should not be combust
+          3.
+            Jupiter should not be in enemy's sign
+          4.
+            Moon should have adequate strength
+        • effects:
+          1.
+            Fame and reputation
+          2.
+            Intelligence and wisdom
+          3.
+            Leadership qualities
+          4.
+            Wealth and prosperity
+          5.
+            Respect in society
+        • cancellation:
+          1.
+            Jupiter debilitated
+          2.
+            Jupiter combust
+          3.
+            Jupiter in enemy sign
+          4.
+            Moon severely afflicted
+    • budhaditya_yoga:
+      • type: Shubh
+      • name: Budhaditya Yoga
+      • description: Mercury and Sun conjunction
+      • rules:
+        • condition: Mercury conjunct with Sun in same house
+        • optimal_conditions:
+          1.
+            Mercury should not be combust
+          2.
+            Conjunction in kendra or trikona
+          3.
+            Mercury should be in friendly sign
+        • effects:
+          1.
+            High intelligence
+          2.
+            Excellent communication skills
+          3.
+            Success in education
+          4.
+            Good analytical abilities
+          5.
+            Success in business
+        • cancellation:
+          1.
+            Mercury completely combust
+          2.
+            Conjunction in dusthana houses
+          3.
+            Sun and Mercury in enemy signs
+    • chandra_mangala_yoga:
+      • type: Shubh
+      • name: Chandra-Mangala Yoga
+      • description: Moon and Mars conjunction or mutual aspect
+      • rules:
+        • condition: Moon and Mars in conjunction or mutual kendra
+        • effects:
+          1.
+            Wealth through property
+          2.
+            Success in business
+          3.
+            Strong determination
+          4.
+            Leadership in commerce
+          5.
+            Profits from land and real estate
+        • cautions: Can make person aggressive if afflicted
+    • lakshmi_yoga:
+      • type: Shubh
+      • name: Lakshmi Yoga
+      • description: Lord of 9th house in own/exaltation sign in kendra/trikona
+      • rules:
+        • condition: 9th lord placed in kendra or trikona in own/exaltation sign
+        • effects:
+          1.
+            Immense wealth
+          2.
+            Good fortune
+          3.
+            Prosperity throughout life
+          4.
+            Success in all endeavors
+          5.
+            Blessings of Lakshmi
+    • raja_yoga:
+      • type: Shubh
+      • name: Raja Yoga (Various Combinations)
+      • description: Multiple combinations for kingship/authority
+      • rules:
+        • basic_condition: Lords of kendra and trikona houses in mutual relationship
+        • combinations:
+          1.
+            9th and 10th lords in conjunction
+          2.
+            4th and 5th lords in mutual aspect
+          3.
+            9th lord in 10th and 10th lord in 9th (Parivartana)
+          4.
+            Lords of 1st, 4th, 7th, 10th in kendra from each other
+        • effects:
+          1.
+            High position in life
+          2.
+            Authority and power
+          3.
+            Success in career
+          4.
+            Recognition from government
+          5.
+            Leadership positions
+    • amala_yoga:
+      • type: Shubh
+      • name: Amala Yoga
+      • description: Benefic in 10th from Moon or Ascendant
+      • rules:
+        • condition: Benefic planet (Jupiter, Venus, Mercury, waxing Moon) in 10th house
+        • effects:
+          1.
+            Pure reputation
+          2.
+            Ethical character
+          3.
+            Success in career
+          4.
+            Respect in society
+          5.
+            Spiritual inclination
+    • bhadra_mahapurusha_yoga:
+      • type: Shubh
+      • name: Bhadra Mahapurusha Yoga
+      • description: Mercury in kendra in own/exaltation sign
+      • rules:
+        • condition: Mercury in 1st, 4th, 7th, or 10th in Gemini, Virgo, or Aquarius
+        • effects:
+          1.
+            Great intelligence
+          2.
+            Excellent communication
+          3.
+            Wealth and success
+          4.
+            Good business acumen
+          5.
+            Strong mental capabilities
+    • hamsa_mahapurusha_yoga:
+      • type: Shubh
+      • name: Hamsa Mahapurusha Yoga
+      • description: Jupiter in kendra in own/exaltation sign
+      • rules:
+        • condition: Jupiter in 1st, 4th, 7th, or 10th in Sagittarius, Pisces, or Cancer
+        • effects:
+          1.
+            Spiritual wisdom
+          2.
+            High moral values
+          3.
+            Respected by all
+          4.
+            Wealth and prosperity
+          5.
+            Leadership in religious/spiritual matters
+    • malavya_mahapurusha_yoga:
+      • type: Shubh
+      • name: Malavya Mahapurusha Yoga
+      • description: Venus in kendra in own/exaltation sign
+      • rules:
+        • condition: Venus in 1st, 4th, 7th, or 10th in Taurus, Libra, or Pisces
+        • effects:
+          1.
+            Luxurious life
+          2.
+            Artistic talents
+          3.
+            Wealth and comforts
+          4.
+            Attractive personality
+          5.
+            Success in creative fields
+    • ruchaka_mahapurusha_yoga:
+      • type: Shubh
+      • name: Ruchaka Mahapurusha Yoga
+      • description: Mars in kendra in own/exaltation sign
+      • rules:
+        • condition: Mars in 1st, 4th, 7th, or 10th in Aries, Scorpio, or Capricorn
+        • effects:
+          1.
+            Great courage
+          2.
+            Military success
+          3.
+            Leadership abilities
+          4.
+            Physical strength
+          5.
+            Success in competitive fields
+    • sasa_mahapurusha_yoga:
+      • type: Shubh
+      • name: Sasa Mahapurusha Yoga
+      • description: Saturn in kendra in own/exaltation sign
+      • rules:
+        • condition: Saturn in 1st, 4th, 7th, or 10th in Capricorn, Aquarius, or Libra
+        • effects:
+          1.
+            Great authority
+          2.
+            Success in politics
+          3.
+            Leadership of masses
+          4.
+            Wealth through hard work
+          5.
+            Success in mining/industry
+    • adhana_yoga:
+      • type: Shubh
+      • name: Adhana Yoga
+      • description: Benefics in 2nd, 5th, 9th, and 11th houses
+      • rules:
+        • condition: Benefic planets occupying wealth houses
+        • effects:
+          1.
+            Accumulation of wealth
+          2.
+            Financial stability
+          3.
+            Multiple income sources
+          4.
+            Good investment skills
+    • dhana_yoga:
+      • type: Shubh
+      • name: Dhana Yoga (Wealth Combinations)
+      • description: Various wealth-giving combinations
+      • rules:
+        • conditions:
+          1.
+            Lords of 2nd and 11th in mutual relationship
+          2.
+            Lord of 2nd in 11th or vice versa
+          3.
+            Lords of 5th and 9th in kendra
+          4.
+            Jupiter in 2nd with aspect of Mercury
+        • effects:
+          1.
+            Great wealth
+          2.
+            Financial success
+          3.
+            Business prosperity
+          4.
+            Accumulation of assets
+    • viparita_raja_yoga:
+      • type: Shubh (Conditional)
+      • name: Viparita Raja Yoga
+      • description: Lords of dusthanas in dusthanas
+      • rules:
+        • condition: Lords of 6th, 8th, or 12th houses placed in dusthanas
+        • effects:
+          1.
+            Success after initial struggles
+          2.
+            Rise from adversity
+          3.
+            Unexpected gains
+          4.
+            Victory over enemies
+    • nicha_bhanga_raja_yoga:
+      • type: Shubh
+      • name: Nicha Bhanga Raja Yoga
+      • description: Cancellation of debilitation leading to success
+      • rules:
+        • conditions:
+          1.
+            Debilitated planet's dispositor in kendra from Moon/Ascendant
+          2.
+            Debilitated planet aspected by its exaltation lord
+          3.
+            Debilitated planet's exaltation sign lord in kendra
+        • effects:
+          1.
+            Rise from humble beginnings
+          2.
+            Extraordinary success
+          3.
+            Fame and recognition
+          4.
+            Wealth despite initial difficulties
+  • ashubh_yogas:
+    • kemadruma_yoga:
+      • type: Ashubh
+      • name: Kemadruma Yoga
+      • description: No planets (except Sun, Rahu, Ketu) in 2nd and 12th from Moon
+      • rules:
+        • condition: Moon without support from planets in adjacent houses
+        • effects:
+          1.
+            Mental stress and anxiety
+          2.
+            Financial difficulties
+          3.
+            Loneliness and isolation
+          4.
+            Lack of support from others
+          5.
+            Emotional instability
+        • cancellation:
+          1.
+            Moon in kendra from Ascendant
+          2.
+            Moon with benefic aspect
+          3.
+            Moon in friendly sign
+          4.
+            Planets in kendra from Moon
+    • daridra_yoga:
+      • type: Ashubh
+      • name: Daridra Yoga (Poverty Yoga)
+      • description: Various poverty-indicating combinations
+      • rules:
+        • conditions:
+          1.
+            Lord of 11th in 6th, 8th, or 12th
+          2.
+            Lord of 2nd in 6th, 8th, or 12th
+          3.
+            Lords of 2nd and 11th in dusthanas
+          4.
+            Malefics in 2nd and 11th houses
+        • effects:
+          1.
+            Financial struggles
+          2.
+            Difficulty in accumulating wealth
+          3.
+            Loss of money
+          4.
+            Debt and liabilities
+    • shakata_yoga:
+      • type: Ashubh
+      • name: Shakata Yoga
+      • description: Jupiter in 6th, 8th, or 12th from Moon
+      • rules:
+        • condition: Jupiter placed in dusthana from Moon
+        • effects:
+          1.
+            Fluctuating fortunes
+          2.
+            Unstable wealth
+          3.
+            Periods of prosperity followed by poverty
+          4.
+            Difficulty in maintaining status
+        • cancellation:
+          1.
+            Jupiter aspected by benefics
+          2.
+            Jupiter in own/exaltation sign
+          3.
+            Strong Moon
+    • angarak_yoga:
+      • type: Ashubh
+      • name: Angarak Yoga
+      • description: Mars in 1st, 4th, 7th, 8th, or 12th from Moon
+      • rules:
+        • condition: Mars in specific houses from Moon
+        • effects:
+          1.
+            Aggressive nature
+          2.
+            Health problems
+          3.
+            Accidents and injuries
+          4.
+            Financial losses
+          5.
+            Conflict with others
+    • grahan_yoga:
+      • type: Ashubh
+      • name: Grahan Yoga (Eclipse Yoga)
+      • description: Sun or Moon with Rahu/Ketu
+      • rules:
+        • condition: Sun or Moon conjunct with Rahu or Ketu
+        • effects:
+          1.
+            Health issues
+          2.
+            Mental stress
+          3.
+            Obstacles in life
+          4.
+            Karmic challenges
+          5.
+            Spiritual crisis
+    • kalsarpa_yoga:
+      • type: Ashubh (Conditional)
+      • name: Kalsarpa Yoga
+      • description: All planets between Rahu and Ketu
+      • rules:
+        • condition: All seven planets on one side of Rahu-Ketu axis
+        • types:
+          1.
+            Anant Kalsarpa - Rahu in 1st, Ketu in 7th
+          2.
+            Kulik Kalsarpa - Rahu in 2nd, Ketu in 8th
+          3.
+            Vasuki Kalsarpa - Rahu in 3rd, Ketu in 9th
+          4.
+            Shankhpal Kalsarpa - Rahu in 4th, Ketu in 10th
+          5.
+            Padma Kalsarpa - Rahu in 5th, Ketu in 11th
+          6.
+            Mahapadma Kalsarpa - Rahu in 6th, Ketu in 12th
+          7.
+            Takshak Kalsarpa - Rahu in 7th, Ketu in 1st
+          8.
+            Karkotak Kalsarpa - Rahu in 8th, Ketu in 2nd
+          9.
+            Shankhachur Kalsarpa - Rahu in 9th, Ketu in 3rd
+          10.
+            Ghatak Kalsarpa - Rahu in 10th, Ketu in 4th
+          11.
+            Vishdhar Kalsarpa - Rahu in 11th, Ketu in 5th
+          12.
+            Sheshnag Kalsarpa - Rahu in 12th, Ketu in 6th
+        • effects:
+          1.
+            Obstacles in life
+          2.
+            Delayed success
+          3.
+            Mental anxiety
+          4.
+            Career instability
+          5.
+            Relationship problems
+        • cancellation:
+          1.
+            Benefics strong in chart
+          2.
+            Jupiter's aspect on Rahu-Ketu axis
+          3.
+            Strong Ascendant lord
+    • manglik_dosha:
+      • type: Ashubh
+      • name: Manglik Dosha (Kuja Dosha)
+      • description: Mars in specific houses from Ascendant, Moon, or Venus
+      • rules:
+        • condition: Mars in 1st, 2nd, 4th, 7th, 8th, or 12th house
+        • effects:
+          1.
+            Marital discord
+          2.
+            Delay in marriage
+          3.
+            Health issues for spouse
+          4.
+            Conflict in relationships
+        • cancellation:
+          1.
+            Mars in own/exaltation sign
+          2.
+            Mars aspected by Jupiter
+          3.
+            Mars in Aries, Scorpio, or Capricorn
+    • chandal_yoga:
+      • type: Ashubh
+      • name: Chandal Yoga
+      • description: Jupiter with Rahu or Ketu
+      • rules:
+        • condition: Jupiter conjunct with Rahu or Ketu
+        • effects:
+          1.
+            Distorted wisdom
+          2.
+            Wrong spiritual guidance
+          3.
+            Loss of moral values
+          4.
+            Problems with teachers/elders
+    • vish_yoga:
+      • type: Ashubh
+      • name: Vish Yoga (Poison Yoga)
+      • description: Saturn with Moon or in specific relationship
+      • rules:
+        • condition: Saturn conjunct with Moon or Saturn in kendra from Moon
+        • effects:
+          1.
+            Mental depression
+          2.
+            Health problems
+          3.
+            Losses in life
+          4.
+            Difficulty in relationships
+          5.
+            Low self-esteem
+        • cancellation:
+          1.
+            Jupiter's aspect
+          2.
+            Strong Moon
+          3.
+            Benefics in kendra
+    • paisacha_yoga:
+      • type: Ashubh
+      • name: Paisacha Yoga
+      • description: Malefics in specific houses
+      • rules:
+        • condition: Saturn and Mars in 1st, 4th, 7th, or 10th
+        • effects:
+          1.
+            Evil tendencies
+          2.
+            Immoral behavior
+          3.
+            Problems with law
+          4.
+            Loss of reputation
+    • dur_yoga:
+      • type: Ashubh
+      • name: Dur Yoga
+      • description: Lord of 10th in 6th, 8th, or 12th
+      • rules:
+        • condition: 10th lord in dusthana
+        • effects:
+          1.
+            Career obstacles
+          2.
+            Lack of recognition
+          3.
+            Professional failures
+          4.
+            Difficulty in maintaining job
+    • reka_yoga:
+      • type: Ashubh
+      • name: Reka Yoga
+      • description: Malefics in 2nd and 12th from Moon
+      • rules:
+        • condition: Mars and Saturn in 2nd and 12th from Moon
+        • effects:
+          1.
+            Financial losses
+          2.
+            Poverty
+          3.
+            Mental stress
+          4.
+            Health problems
+    • mrityu_yoga:
+      • type: Ashubh
+      • name: Mrityu Yoga
+      • description: Various death-indicating combinations
+      • rules:
+        • conditions:
+          1.
+            Lord of 8th in Ascendant
+          2.
+            Saturn and Mars in 7th house
+          3.
+            Rahu in 1st, 7th, or 8th with malefic
+          4.
+            Lord of Ascendant in 8th with malefic
+        • effects:
+          1.
+            Health problems
+          2.
+            Accidents
+          3.
+            Life-threatening situations
+          4.
+            Surgery and hospitalization
+  • mixed_yogas:
+    • naga_yoga:
+      • type: Mixed
+      • name: Naga Yoga
+      • description: Malefics in 1st, 4th, 7th, and 10th houses
+      • rules:
+        • condition: Natural malefics in all kendra houses
+        • effects:
+          1.
+            Success through struggle
+          2.
+            Leadership through adversity
+          3.
+            Power after difficulties
+          4.
+            Mixed results in life
+    • guru_mangala_yoga:
+      • type: Mixed
+      • name: Guru-Mangala Yoga
+      • description: Jupiter and Mars conjunction
+      • rules:
+        • condition: Jupiter conjunct with Mars
+        • effects:
+          1.
+            Dynamic energy
+          2.
+            Success in legal matters
+          3.
+            Wealth through property
+          4.
+            May cause aggression if afflicted
+    • shasha_yoga:
+      • type: Mixed
+      • name: Shasha Yoga
+      • description: Saturn in specific houses from Moon
+      • rules:
+        • condition: Saturn in 6th, 8th, or 12th from Moon
+        • effects:
+          1.
+            Discipline and hard work
+          2.
+            Success through perseverance
+          3.
+            May cause delays and obstacles
+          4.
+            Mixed results depending on strength
+    • shubha_kartari_yoga:
+      • type: Shubh
+      • name: Shubha Kartari Yoga
+      • description: Benefics on both sides of a house
+      • rules:
+        • condition: Benefic planets in houses adjacent to Ascendant or Moon
+        • effects:
+          1.
+            Protection from harm
+          2.
+            Success in endeavors
+          3.
+            Good fortune
+          4.
+            Support from others
+    • papa_kartari_yoga:
+      • type: Ashubh
+      • name: Papa Kartari Yoga
+      • description: Malefics on both sides of a house
+      • rules:
+        • condition: Malefic planets in houses adjacent to Ascendant or Moon
+        • effects:
+          1.
+            Obstacles in life
+          2.
+            Lack of support
+          3.
+            Health issues
+          4.
+            Financial difficulties
+    • adhi_yoga:
+      • type: Shubh
+      • name: Adhi Yoga
+      • description: Benefics in 6th, 7th, and 8th from Moon
+      • rules:
+        • condition: Jupiter, Venus, and Mercury in houses 6, 7, 8 from Moon
+        • effects:
+          1.
+            Success in life
+          2.
+            Good reputation
+          3.
+            Leadership qualities
+          4.
+            Wealth and prosperity
+    • chatussagara_yoga:
+      • type: Shubh
+      • name: Chatussagara Yoga
+      • description: All kendra houses occupied by planets
+      • rules:
+        • condition: All four kendra houses (1, 4, 7, 10) have planets
+        • effects:
+          1.
+            Great success in life
+          2.
+            Balanced personality
+          3.
+            Achievement in all areas
+          4.
+            Fame and recognition
+    • vasumati_yoga:
+      • type: Shubh
+      • name: Vasumati Yoga
+      • description: Benefics in upachaya houses (3, 6, 10, 11)
+      • rules:
+        • condition: Jupiter, Venus, Mercury in 3rd, 6th, 10th, or 11th houses
+        • effects:
+          1.
+            Progressive growth
+          2.
+            Wealth accumulation
+          3.
+            Success in career
+          4.
+            Overcoming obstacles
+    • akhanda_samrajya_yoga:
+      • type: Shubh
+      • name: Akhanda Samrajya Yoga
+      • description: Various combinations for sustained success
+      • rules:
+        • conditions:
+          1.
+            Lord of 9th in 11th and Lord of 11th in 9th
+          2.
+            Jupiter in 11th with aspect of Mercury
+          3.
+            Lords of 2nd, 9th, and 11th in mutual relationship
+          4.
+            Strong Jupiter and Venus in kendra/trikona
+        • effects:
+          1.
+            Long-lasting success
+          2.
+            Uninterrupted prosperity
+          3.
+            High social status
+          4.
+            Generational wealth
+    • parvata_yoga:
+      • type: Shubh
+      • name: Parvata Yoga
+      • description: Benefics in 1st, 4th, 7th, and 10th houses
+      • rules:
+        • condition: Benefic planets in all kendra houses
+        • effects:
+          1.
+            Great fortune
+          2.
+            Respect in society
+          3.
+            Wealth and happiness
+          4.
+            Success in all fields
+    • kahala_yoga:
+      • type: Shubh
+      • name: Kahala Yoga
+      • description: Lords of 4th and 9th in mutual kendra
+      • rules:
+        • condition: 4th lord and 9th lord in kendra from each other
+        • effects:
+          1.
+            Wealth and property
+          2.
+            Educational success
+          3.
+            Good fortune
+          4.
+            Happiness in life
+    • chamara_yoga:
+      • type: Shubh
+      • name: Chamara Yoga
+      • description: Lord of Ascendant exalted in kendra
+      • rules:
+        • condition: Ascendant lord exalted in kendra house
+        • effects:
+          1.
+            Great reputation
+          2.
+            Leadership qualities
+          3.
+            Success in all endeavors
+          4.
+            Respect from all quarters
+    • shankha_yoga:
+      • type: Shubh
+      • name: Shankha Yoga
+      • description: Lords of 5th and 6th in mutual kendra
+      • rules:
+        • condition: 5th lord and 6th lord in kendra from each other
+        • effects:
+          1.
+            Wealth and prosperity
+          2.
+            Victory over enemies
+          3.
+            Good health
+          4.
+            Success in education
+    • bheri_yoga:
+      • type: Shubh
+      • name: Bheri Yoga
+      • description: Lords of 9th and 2nd in mutual kendra
+      • rules:
+        • condition: 9th lord and 2nd lord in kendra from each other
+        • effects:
+          1.
+            Great wealth
+          2.
+            Good fortune
+          3.
+            Family happiness
+          4.
+            Success in business
+    • mridanga_yoga:
+      • type: Shubh
+      • name: Mridanga Yoga
+      • description: Lords of 9th and 4th in mutual kendra
+      • rules:
+        • condition: 9th lord and 4th lord in kendra from each other
+        • effects:
+          1.
+            Wealth and property
+          2.
+            Good education
+          3.
+            Success in life
+          4.
+            Happiness and prosperity
+    • srinatha_yoga:
+      • type: Shubh
+      • name: Srinatha Yoga
+      • description: Lord of 7th in 10th and lord of 10th in 9th
+      • rules:
+        • condition: 7th lord in 10th house and 10th lord in 9th house
+        • effects:
+          1.
+            High position in life
+          2.
+            Success in career
+          3.
+            Good married life
+          4.
+            Wealth and fame
+    • matsya_yoga:
+      • type: Shubh
+      • name: Matsya Yoga
+      • description: Lords of 5th and 9th in mutual kendra
+      • rules:
+        • condition: 5th lord and 9th lord in kendra from each other
+        • effects:
+          1.
+            Great intelligence
+          2.
+            Success in education
+          3.
+            Good fortune
+          4.
+            Spiritual progress
+    • kurma_yoga:
+      • type: Shubh
+      • name: Kurma Yoga
+      • description: Benefics in 3rd, 6th, and 11th houses
+      • rules:
+        • condition: Jupiter, Venus, and Mercury in 3rd, 6th, and 11th houses
+        • effects:
+          1.
+            Success through effort
+          2.
+            Wealth accumulation
+          3.
+            Overcoming obstacles
+          4.
+            Progressive growth
+    • khanda_yoga:
+      • type: Mixed
+      • name: Khanda Yoga
+      • description: Lords of 4th and 6th in mutual kendra
+      • rules:
+        • condition: 4th lord and 6th lord in kendra from each other
+        • effects:
+          1.
+            Success in property matters
+          2.
+            Victory over enemies
+          3.
+            But some obstacles in life
+          4.
+            Mixed results in career

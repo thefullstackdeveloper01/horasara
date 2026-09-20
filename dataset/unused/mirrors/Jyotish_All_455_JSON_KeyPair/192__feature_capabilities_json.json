@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "192__feature_capabilities_json",
+    "name": "feature-capabilities",
+    "original_file": "feature-capabilities.json",
+    "dataset_number": "122 of 455",
+    "format": "json",
+    "source_readable_file": "feature-capabilities.txt",
+    "source_sha256": "b8fdd695afb4eba703df839ed3e51c6b3f47aaef3426031c5b050d0937a5d0bf",
+    "source_bytes": 2213
+  },
+  "metadata": {},
+  "content": {
+    "type": "text",
+    "text": "1.\n  1.\n    LAGNA\n  2.\n    VERIFIED\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n2.\n  1.\n    RASHIFAL\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n3.\n  1.\n    PANCHANGA_BIRTH\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n4.\n  1.\n    VARGAS\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n5.\n  1.\n    VIMSHOTTARI_DASHA\n  2.\n    VERIFIED\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n6.\n  1.\n    DASHA_SUITE\n  2.\n    PARTIAL\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n7.\n  1.\n    SHADBALA\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n8.\n  1.\n    ASHTAKAVARGA\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n9.\n  1.\n    SPECIAL_LAGNAS\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n10.\n  1.\n    KP_SYSTEM\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n11.\n  1.\n    LAL_KITAB\n  2.\n    PARTIAL\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n12.\n  1.\n    WESTERN_CHART\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n13.\n  1.\n    VARSHAPHAL\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n14.\n  1.\n    PRASHNA\n  2.\n    PARTIAL\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n15.\n  1.\n    SARVATOBHADRA\n  2.\n    PARTIAL\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n16.\n  1.\n    SYNASTRY\n  2.\n    PARTIAL\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n17.\n  1.\n    COMPOSITE\n  2.\n    PARTIAL\n  3.\n    AVAILABLE\n  4.\n    PARTIAL\n18.\n  1.\n    CONFIDENCE\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n19.\n  1.\n    EVIDENCE_MATRIX\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n20.\n  1.\n    BACKTESTING\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    EXPERIMENTAL\n21.\n  1.\n    OUTCOME_CALIBRATION\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    EXPERIMENTAL\n22.\n  1.\n    CALCULATION_AUDIT\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE\n23.\n  1.\n    SOURCE_LINEAGE\n  2.\n    AVAILABLE\n  3.\n    AVAILABLE\n  4.\n    AVAILABLE"
+  }
+}

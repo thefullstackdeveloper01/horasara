@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "065__json_files_transit_impact_matrix_json",
+    "name": "JSON_Files_Transit-Impact-Matrix",
+    "original_file": "JSON_Files/Transit-Impact-Matrix.json",
+    "dataset_number": "213 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Transit-Impact-Matrix.txt",
+    "source_sha256": "bbb2fb63600f00e86e81d9c103578c94450dde1c3d7b25142523c6d81a19de87",
+    "source_bytes": 602
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "transiting_planet": "Jupiter",
+        "house_from_moon": 5,
+        "prediction": "Birth of child, success in education, sudden wealth."
+      },
+      {
+        "transiting_planet": "Jupiter",
+        "house_from_moon": 8,
+        "prediction": "Health issues, obstacles, loss of wealth."
+      }
+    ]
+  }
+}

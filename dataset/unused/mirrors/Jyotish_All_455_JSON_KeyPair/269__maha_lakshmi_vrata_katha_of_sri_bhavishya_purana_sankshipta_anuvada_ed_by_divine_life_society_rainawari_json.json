@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "269__maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari_json",
+    "name": "Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar Divine Life Society",
+    "original_file": "maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.json",
+    "dataset_number": "268 of 455",
+    "format": "json",
+    "source_readable_file": "maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.txt",
+    "source_sha256": "4869a2f1af94f93651becdfbae81205f0970cf38ffc0015e0a6d6d837cdd22eb",
+    "source_bytes": 1438
+  },
+  "metadata": {
+    "title": "Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar Divine Life Society",
+    "creator": "Divine Life Society",
+    "description": "'Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar - Divine Life Society'"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "title": "Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar Divine Life Society",
+      "creator": "Divine Life Society",
+      "date": null,
+      "description": "'Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar - Divine Life Society'",
+      "subject": "Indology Books",
+      "identifier": "SDrd_maha-lakshmi-vrata-katha-of-sri-bhavishya-purana-sankshipta-anuvada-ed.-by-divin",
+      "source_folder": "SDrd_maha-lakshmi-vrata-katha-of-sri-bhavishya-purana-sankshipta-anuvada-ed.-by-divin",
+      "text": null,
+      "note": "OCR text not available for this item in the source archive"
+    }
+  }
+}

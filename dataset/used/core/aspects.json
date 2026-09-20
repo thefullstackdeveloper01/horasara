@@ -1,0 +1,181 @@
+{
+  "ASPECTS": [
+    {
+      "name": "Conjunction",
+      "angle": 0,
+      "orb": 8,
+      "type": "Major",
+      "nature": "Neutral",
+      "description": "Planets in the same place. Energy is amplified and blended."
+    },
+    {
+      "name": "Opposition",
+      "angle": 180,
+      "orb": 8,
+      "type": "Major",
+      "nature": "Tense",
+      "description": "Planets are opposite each other. Represents polarity, tension, and awareness."
+    },
+    {
+      "name": "Trine",
+      "angle": 120,
+      "orb": 8,
+      "type": "Major",
+      "nature": "Harmonious",
+      "description": "Planets are 120 degrees apart. Represents ease, flow, and natural talent."
+    },
+    {
+      "name": "Square",
+      "angle": 90,
+      "orb": 8,
+      "type": "Major",
+      "nature": "Tense",
+      "description": "Planets are 90 degrees apart. Represents internal conflict, tension, and drive for action."
+    },
+    {
+      "name": "Sextile",
+      "angle": 60,
+      "orb": 6,
+      "type": "Major",
+      "nature": "Harmonious",
+      "description": "Planets are 60 degrees apart. Represents opportunity, talent, and friendship that requires effort."
+    },
+    {
+      "name": "Quincunx",
+      "angle": 150,
+      "orb": 3,
+      "type": "Minor",
+      "nature": "Neutral",
+      "description": "Also called Inconjunct. Represents irritation, adjustment, and blind spots."
+    },
+    {
+      "name": "Semi-sextile",
+      "angle": 30,
+      "orb": 2,
+      "type": "Minor",
+      "nature": "Mildly Harmonious",
+      "description": "Planets are 30 degrees apart. Represents subtle growth and mild friction."
+    },
+    {
+      "name": "Semi-square",
+      "angle": 45,
+      "orb": 2,
+      "type": "Minor",
+      "nature": "Mildly Tense",
+      "description": "Planets are 45 degrees apart. Represents internal friction and agitation."
+    },
+    {
+      "name": "Sesquiquadrate",
+      "angle": 135,
+      "orb": 2,
+      "type": "Minor",
+      "nature": "Mildly Tense",
+      "description": "Planets are 135 degrees apart. Represents external challenges and need for adjustment."
+    },
+    {
+      "name": "Quintile",
+      "angle": 72,
+      "orb": 2,
+      "type": "Minor",
+      "nature": "Creative",
+      "description": "Planets are 72 degrees apart. Associated with creative talent and dynamic energy."
+    },
+    {
+      "name": "Biquintile",
+      "angle": 144,
+      "orb": 2,
+      "type": "Minor",
+      "nature": "Creative",
+      "description": "Planets are 144 degrees apart. Associated with mastery, creative will, and arranging things."
+    }
+  ],
+  "ASPECT_GROUPS": {
+    "MAJOR_ASPECTS": [
+      "Conjunction",
+      "Opposition",
+      "Trine",
+      "Square",
+      "Sextile"
+    ],
+    "MINOR_ASPECTS": [
+      "Quincunx",
+      "Semi-sextile",
+      "Semi-square",
+      "Sesquiquadrate",
+      "Quintile",
+      "Biquintile"
+    ],
+    "HARD_ASPECTS": ["Opposition", "Square", "Semi-square", "Sesquiquadrate"],
+    "SOFT_ASPECTS": ["Trine", "Sextile", "Semi-sextile"]
+  },
+  "PLANETARY_ORB_MODIFIERS": {
+    "Sun": 1.5,
+    "Moon": 1.5,
+    "Mercury": 1.0,
+    "Venus": 1.0,
+    "Mars": 1.0,
+    "Jupiter": 1.0,
+    "Saturn": 1.0,
+    "Uranus": 0.8,
+    "Neptune": 0.8,
+    "Pluto": 0.8,
+    "Rahu": 0.8,
+    "Ketu": 0.8
+  },
+  "ASPECT_NATURES": {
+    "Tense": ["Opposition", "Square", "Semi-square", "Sesquiquadrate"],
+    "Harmonious": ["Trine", "Sextile", "Semi-sextile"],
+    "Neutral": ["Conjunction", "Quincunx"],
+    "Creative": ["Quintile", "Biquintile"]
+  },
+  "VEDIC_DRISHTI": {
+    "description": "In Vedic astrology, aspects (Drishti) are house-based rather than degree-based. All planets aspect the 7th house from themselves with 100% influence. Mars, Jupiter, and Saturn have special aspects.",
+    "DEFAULT_ASPECT": {
+      "houses": [7],
+      "strength": 100
+    },
+    "PLANETARY_DRISHTI": {
+      "Mars": {
+        "houses": [4, 7, 8],
+        "strengths": [100, 100, 100],
+        "notes": "Aspects 4th, 7th, and 8th houses from itself."
+      },
+      "Jupiter": {
+        "houses": [5, 7, 9],
+        "strengths": [100, 100, 100],
+        "notes": "Aspects 5th, 7th, and 9th houses from itself."
+      },
+      "Saturn": {
+        "houses": [3, 7, 10],
+        "strengths": [100, 100, 100],
+        "notes": "Aspects 3rd, 7th, and 10th houses from itself."
+      },
+      "Rahu": {
+        "houses": [5, 7, 9],
+        "strengths": [100, 100, 100],
+        "notes": "Aspects 5th, 7th, and 9th houses from itself (often considered similar to Jupiter's aspects in modern Jyotish)."
+      },
+      "Ketu": {
+        "houses": [5, 7, 9],
+        "strengths": [100, 100, 100],
+        "notes": "Aspects 5th, 7th, and 9th houses from itself."
+      },
+      "Sun": {
+        "houses": [7],
+        "strengths": [100]
+      },
+      "Moon": {
+        "houses": [7],
+        "strengths": [100]
+      },
+      "Mercury": {
+        "houses": [7],
+        "strengths": [100]
+      },
+      "Venus": {
+        "houses": [7],
+        "strengths": [100]
+      }
+    }
+  }
+}

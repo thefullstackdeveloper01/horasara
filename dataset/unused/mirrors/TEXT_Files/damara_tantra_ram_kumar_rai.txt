@@ -1,0 +1,3915 @@
+READABLE DATASET
+================================================================================
+Original file: damara_tantra_ram_kumar_rai.json
+Dataset number: 95 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 165,063 bytes
+Top-level fields: 11
+Title: 266109451 Damara Tantra Ram Kumar Rai
+Creator: —
+Date: —
+Description: Damata tantra
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: 266109451 Damara Tantra Ram Kumar Rai
+  • creator: —
+  • date: —
+  • description: Damata tantra
+  • subject: tanta traditions
+  • identifier: 266109451DamaraTantraRamKumarRai
+  • source_folder: 266109451DamaraTantraRamKumarRai
+  • total_pages: 142
+  • total_words: 29077
+  • text_quality:
+    • ocr_word_validity_score: 0.775
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+TANTRA GRANTHAMALA No. 13
+Damara Tantra
+(Text in Nagari Scri.pt- with an English Trartslation)
+Text Edited and Translatecl into English by *
+ii .iii KI M Ui li ii
+PR ACH V A PRAKASHAN
+74-A, Jagatganj, Varanasi-221003
+
+First Edition : 1988
+PR ACHY A PRAKASHAN
+Post Box No. 2037
+Varanasi-221002
+Phone : 44152
+Ali Rights Reserved
+Ne part of tlils book may be uanslated or reproduced.
+any form, by prlnt, photoprlnt, mlcrofllm or any othef
+moanB wlthoat wrltten pormlsslon from the publlsher*
+Printed by P. K. Rai At the Anoop Printing Works,
+Varanasi-221002
+
+PREFACE
+The Damara Tantra is being presented for thc first time
+with its Text in Devanagarl and an English Translation. It
+was initially publishcd long ago in the Bangala script and that
+edition has been thc sole sourcc for the preparation of thc
+prcscnt edition. The Pangala edition contains fuli Text in
+Sanskrit but the matter in the Appendix I is only in T angalri
+language and no Sansrit original has either been given or
+referred to. Thercfore, in thc present edition I have given only
+a Translation of the Bangala materiał.
+As far as the subject matter of the Tantra is concerned
+there is a lot of similarity bctwccn the earlier partions of this
+Tantra and the Bhuta-Damara Tantra also published only in
+Bangala script so far. Howeyer, as thc Tantra proceeds the
+matter starts diflering to the extent sufficient enough to give
+it its individual identity.
+This Tantra is unicpie from many points of views. It
+contains elaborate materiał on thc Satkarmas out of whicli the
+topie of Subjugation ( Yailkarana ) has receivcd a specially
+comprehcnsive ti eatmcnt. It also contains numerous other uscful
+subjects, such as making wealth and stock of foodgrains incxhaustible, many prescriptions for thc improvement of crops,
+for driving away many obstacles, such as, parasites, pests and
+and insects from thc house and making life prosperous It
+sepccially mentions elaborate])* thc uses of parasitc plants
+growing on certain trees. Such plants havc been mentioned as
+possessing special powers of bestowing prosperity on human
+beings and curing yarious discases. They show their results
+without any mantra-sadhana and hence deserve special attention
+
+Preface
+for rcsearch and yalidation of ihe asscrtions about thcir such
+powers. If they rcally possess thc powers ascribcd to thcm they
+can be of immense bcnefit for mankind even in the present
+day World.
+In spite of numerous such useful prcscriptions it is very
+unfortunate that majority of modern Indians labcl the
+Tanlras as fuli of superficial rituals which may have no use.
+Howcver, without practicing any of the Sadhanas it is unscientific to brand them as such by persons who claim to be
+scientific in their out-look. Therc are numerous cxamples of
+ascctics and Tanlrikas even today who liave achicvcd various
+Siddhis ( supernalural powers ) on thc basis of thcir rigorous
+Sadhana. To brand such Tanlrikas as fakes or trickstcrs just
+because ihey may not bc in a position to dcmonslratc thc mcchanics of powers of performing miracles because thcir such capabilities have beeii acquired not on the basis of somc scientific
+experiments or theorics but on thc basis of Sadhana which
+can devclop the intrinsic powers of the Sadhaka, Thcre may
+not be a theory about the acąuisition of thcsc powers cxcept a
+gradual attainment by rigorous ritualistic and absliact Sadhana.
+Thcrefore what is necdcd today is to perform variom Sadhanas
+with faith and sec whether they yield positivc rcsults or not,
+because no scientific lool can bc applied for such validation.
+Moreovci. it is repeatedly mentioned in thc Tanlras that a
+sccptic approach to Sadhana inakcs the Sadhana an cxercisc
+in futility. For any succcss one should approach it only with
+extrcmc faith and without reason. Uttcr surrender is the only
+way of achicving success in Sadhana. Moreover, thcre arc
+numerous prcscriptions in Tantras which can succced eyen
+without any Sadhana or Mantra-japa. To start with, scientists
+can take up such topics at the outset for study and yalidalion.
+
+Prefacc
+The cflfccts of Herbs and Roots can also be easily tested,
+providcd they are obtained acćording to methods preser i bed in
+the present and other Tantras
+1 havc undertaken to present this Tantra, hitherto regarded
+as sccret of secrets, with its English translation so that it may
+bccomc acccssiblc to scientists and tliey may be able to vcrify
+and yalidate som« of its claims which do not involve claborate
+ituis or Mantra-sadhana. 'i he scction on the science of
+serpents. preseriptions foi the curc of serpent-poison and
+the power of parasitc plants deserve special attention. Many
+. under Satkarmas which do not necd mantra-japa
+preserlpuons • • 1
+also ] )C ta kcn for such studics. Even where mantras are
+olved tliey too can he scientifically studied in various stages,
+wc can take up the vcey fact about the naturę of the
+such as
+^ t’ -eness of mantras themselves and whether they rcally
+i i onv intrinsic change in the human psyche and on
+bring about
+* thev bestow certain powers on the Sadhakas.
+activation oo ;
+‘ sh ill fccl my labour amply rewarded if the present Tantra
+w _,i f oi m is able to attract ihc attention of the
+: n transiatcu
+t i irv a re able to derive some benefits from
+inquisitivcs and y
+■ ,; n rK Latcr on, I propose to brmg out some morc
+its preseripti •
+fWl as sccrct w uh translations so tliat they may
+Tantras regatom -
+become access
+-iblc to the scientilic rcaders.
+RKR
+
+CONTENTS
+Preface iii
+Mangalacarana 1, Dialoguc betwwccn Bhairava and
+BhairavT about the subjcct-maltcr of the Tantra ], Description
+of the Mantra for the liquidation of Brahma etc. Gods 5,
+Bhutinl-Sadhana 6, Determination of Mahcndradi Yoga in
+Satkarmas 7, Determination of the use of Fingers in Satkarmas
+8, Methods for procuring Roots and Herbs 8.
+CHAPTER ONE 10-25
+Method of Wslkarana 10, Captivation of the Kings 14,
+Captivation of wickcd women 1 5, Captivation of Husband 18;
+Attraction 19 Method for obtaining prosperity 19, Unguents
+21, Orał perfumes 22, Dcstruction of erruptions ofthc mouili
+22, Blackcning the hairs 23, Destruction of Lice 24, Curc of
+Baldness 24.
+CHAPTER TWO 25-56
+Paralysing 25, Paralysing a Boat 26, Paralysing Tire 2 7,
+Rctention of Semen 2 7, On accptiring vigour 29, On whitening black hairs 30, Inducement of slccp 31 . Obtaining victory
+31, Pacifying the anger of Iśvara and others 32, On Depilation 33, Frecdom from fetters or bondage 35, Rcstarting the
+Mcnses 37, Making a sterilc woman pregnant 38, Cure of a
+sterile woman sińce birth 38, Treatment of Kakabandhya 41,
+Treatment of Mrtavatsa 41, Protection of the Foetus in the
+womb 42, Prcscriptions for painless cliild-birth 45, Warding
+off ill-effects of the plancts and cvil-spirits 48, Inflicting
+misfortunc 51, Creating strifc 51, Method of Protection 52,
+Driving away parasites, pests and insects from the house 54.
+
+vm
+Gontcnts
+CHAPTER THREE
+Crcation of Aversion 56.
+CHAPTER EOUR
+Dissension 59, Inflicting and also curing diseascs 60.
+CHAPTER FIVE , 62 ’ 86
+Marąiia or Liąuidation 62, Liąuidation 0 r Horscs 65,
+Destroying thc stock of clothings of a washerman 66, Destroying
+fishes of a fishcrman 66, Destorying thc oil-stock of an oil
+merchant 67, Destroying Milk 67, Destroying thc crop 67,
+Destroying bctcl-lcavcs 68, Dcstruction or wines 68, Fulfilment of desires 69, Supcmatural pcrfcction of speech 70,
+Making thc voicc mclodius 71, Trcalmcnt of Eyes 72, Curing
+dcafness and improving power of hcaring 73, Strcngthening
+the dentures 73, Science of Scrpcnts 76, Medicincs against
+serpent-bitc and poison 80, Dcstruction of poison of Scorpions
+84, Curing a Dog’s poison 85, Curing thc poison of various
+other animals 86.
+CHAPTER SIX 86-116
+YaksinT Sadhana 86, Vibhrama Yaksinl 87, Sadhana of
+Ratipriya 88, Sadhana ofVata-yaksii.il 88, Sadhana of Candradrava 39, Sadhana of Candrika 89, Sadhana of Mahabhaya
+90, Subjugation Tantra 91-109. Attraction 109, Cure of
+various diseascs 113, Cure of diseascs of Stornach 114,
+Restoring Eycsight 1 14, Other Cures 114, Cure of all kinds
+of diseases 1 14, Charms for curing Dyscntery 1 15 f Charm for
+curing diarrhea 1 16.
+APPENDIX I 117-120
+Mantra Sadhana of AlaktarasT 1 1 7, Bhuta Sadhana 118.
+APPENDIK II 121-128
+Latin names of the Hcrbs.
+
+Damara Tantra
+( Tcxt with Fnglish Transkition )
+Auńi Salutation lo Krodhabhairaya
+I bow down to thc Unmatta Bhairaya named Bhuta
+Damara, W ho is skybodicd, immense in form, shining like
+thc Fire of Pralaya ( Dissolution ) and thc Diflerentiator of
+l nd i fferentiatcd. 1
+Bowing down to Unmatta Bhairaya Who is thc Lord of
+worlds, Horriblc in Form and worshippcd by thc Cods and
+thc Siddhas, thc Unmatta BhairavT askcd : 2
+ł*T «TCT ^TT^TT: Ppsrt smism I
+IT^R^fóTSRl^ffT: || 3 U
+BhairavT saicl : O Bhairaya ! In what way in ihisKaliyuga
+ilic Yaksas, men, serpenls, Kinnaras, Framathas and thc
+womcn etc residcntsof Jambiidyipa can obtain thc yarious
+Siddhis ? 3
+qmćiT l
+fTT^T f Tćf: II * II
+How can all thesc men who arcembedded insin, falsehood,
+deyoid of morality and lctliargic, can help thejnsalycs ? 4
+
+Damara Tantra
+%rftqpte ^gGjfSRrssTg: i
+«TRF% *ftsrq5ćI5r: STmi I
+o
+fas*fa c 9PraT?TT3J *n?rqTćrq7 JTrf^T^r: ii * w
+How can the sins gcneratcd by Faliyuga can 1)c dcstroycd'
+How can one obtain all the Animn. etc. cight Siddhis which
+are deslroyers of sins and also what arc ihc auspicious and
+desirable methods for obtaining Emancipation P 5
+szrama: qiqq^ę5ftqRfnf?3U]r j
+ćttt: ii t n
+O Dęvj&a S How can the sir.'? arising out of laking ford
+with Iow castes, resorting to otherks women and the torturę of
+darkest of Helis be destroyed p 6
+HRhtw ęmraf i
+sprerasigirT *rrftćir gr w-4 sr**fł i
+q«7.* %?r srtafrći PtsNt: ii s ii
+O Lord ! How can the passion of a person liying away be
+so agitated that coming from the distance lic yoluptuously
+embraces his belovcd. and how cvcn the Brahma etc. C ods
+could be liquidatcd ? Also, how can a dead person bccomc
+aliye and healthy and immortal P 7
+?Tć7T ĆTmaW '•ffofą || c II
+Unmatta Bhairava said ■ 1, the Lord of Angcr, Sky hodied,
+holding the Vajra in My hands the Destroyer of cven the
+f ods. Lord of the Earth and called by the name Bhiitad mara,
+may after bowing down, will speak to \ ou 8
+ęgif ^55qfir: i
+^1^'!% ćT^T ^^SajGą - jjtt fsłiT |
+
+Damara Tantra
+fćr^TT frr€mr i
+gfism> R^fcćT fafsfRGjr ^ajG* rfćT II 5. II
+Om of love for You 1 will disclose thosc wonderful facts
+to You which arc not worth disćlosing to anyonc. O My
+Bcloycd ! Listcn from Mc the facts which arc rare cycn for the
+( :’ods in Heaycn, men and scekcrs of Emancipation in this
+world and Nagas in ihc Nagaloka. AYithout the knowlcdgc of
+thcsc facts ncithcr women could bc cmancipatcd nor the
+Yaksiijus obtain the desired fruits. Plcasc thcrcforc listcn to
+them. ^
+rpTHTmr RlTlf &R II ?<i |1
+Now 1 deser ihc the cxtrcmely secret of the Mant ras with
+which cycn the dcath of the G< ds and the Bhntas too could be
+cffocted. ^ ®
+cTćT: RR;RtftćT*[ II
+SI^BI Rr^ n T ^t5TTStRfqćn I
+SRTRfcl sjKlfaćT STRRT5R: I
+sffar: ^R*r5TT*R^ II? W’ U
+The Mantra is : Aiuh yisam yajrajalcna han han saryabhatan
+hmh phat. By actiyation of this Mantra is born from the pores
+of the hairs of the 1 rodhabhairava the flame of thunderbolt with which the Pramathas etc bccome parched and
+Brahma-Indra etc principal Cods too becomc subject to the
+rcign of Yama ( That is evcn thcsc principal and otherwise
+irrunortal COds also arc subjcctcd to Ecalli ) 11-12
+R ? R ^TR^SćftsfćlfRręRćIT I
+3TfR RifRriRi^iT snśręrmPRfafćTT: li
+r^T RSTfafftl
+
+Damara Tantra
+vtI^zt swrćt: ii ?M* W
+I describe to you thc vcry astonishing Mantra namcd
+Vijfianakarsinl. It runs thus : Aum Vajramukhe sara sara
+phat. Merc pronunciation of tliis Mantra destroys thc fear of
+thunderbolt. This is thc yeritablc Mrtyufijaya Yidya irom
+which dead pcrsons could again bc brouglit to lifc and all thc
+misfortunes and calamitics of men arc dcslroyed. 13-14
+ćTćft^T I
+$?r: ii UH
+ijćufrrfćr qą f^ćr: il
+ęerfpwgrT u \% w
+Thercaftcr, for thc bencf.t of men and Pramathas, I.ord
+Krodharaja again tclls thc MrtasaftjTvanI Mantra, which. runs
+thus : Aum Samghatta Sań',ghatta mrtańi jlvaya sv?.ha. By,
+a merc pronunciation of this Mantra all thc Blvuta-Dcvalas
+swoon, are stunned, and when arise arc complctcly paralysed
+in mind. 15-H’
+^T5T^T?r I ^ ^ srtft I
+iróterc rf^r 5rqqsfęri{ h u u
+Unmattabhairavl said : O Lord, O C od ! leli mc about
+the practice of Sundarl Mantra, its cxtrication. its Mudras,
+its worship and the method of its Japa. 1 7
+qirqrq^qTqqifqąT I
+festif;ęi^ri^rćf?qT Honfacs qjęrq5i: u u -\
+Unmattabha iraya said : Taking his seat ( Asana ) in a
+tempie, in a forest, in a Śiva-templc, on thc ctnfiuence of a
+riyer, or in a cremation ground, il' one worships then thc
+
+Damara Tantra
+Bhutas and thc BhutinTs etc. are pleased and men obtain their
+I Q
+desirccl fruits. 1 c
+STO^T. l
+ęf^nFą- 1TR0T 3% z?f? gsstsfgffcą I! $5. H
+UnmattabhairavT said : O Kalavaktra ( Form of Dcath ),
+MahabhTma ( C-Tcat In Form ), O Pramatheśa, O Trilocana
+( Thrcc-eycd ) ! If you arc satisf.cd withme, thcn O Ehairava !
+tell mc thc method of causing thc Dcath of Gods likc
+Brahma ctc.. ^ ^
+3?rTrf 3ąf =3
+ewras stbi^ i
+Unmattabhairava said : Now I am telling thc Marana
+Mantra ( Mantra for Eradication ) from which eyen the
+impossiblc bccomes possible
+qT^JT ETF3 EIF3 !
+tt
+fsnfesn i
+S5iT3ręi^i: II
+ęrspisnęftPł^fii^r ^^rwr^fąjęrcT: i
+fąfTTSTć^ giri*TST: 1
+The Mantra runs thus : Auńi liana hana sarvańt maraya
+maraya vajrajalena huih phat. This Mantra is the vcritablc
+destroyer of all thc Dcvatas. By performing its thirty thousand
+japa all thc Cardinal points of thc compass bccomc nnstablc by
+thc llamc of the thunderbolt; all thc wcapons arc agitated
+and Brahma, Mahadcya, Visnu, India ctc. Cods, Yaksas,
+Candharvas, Kinnaras along with their ladics all perish
+into pieccs and fali destroyed.
+sftfaOTT siT|fqfęBćTr. 11
+
+Damara Tantra
+G)
+|:ęft^ c IT c I^^s?q?iT 5ff|[ g*T?dą> |
+^^rqipj|łT?fTcnj%:flrr5 n Ro \\
+When thc Hhutim mantra, thc dcstoyerof immortal, sinncrs
+and the ( r.ds, was so dcclarcd by Vajrapani then thc Códś
+were surpriscd. Thcy salutcd thc Lord and said : "Kindly bc
+mcrciful on us. In this Kaliyuga wc want onr fulfilmcnt in
+JambudvTpa." 9 o
+91^4 «fręięfl?5JIT 3Rlfo sfltfćT-flrTłTr I
+ddisf m*rm ii
+fa<T 1
+ćtr emtfmgtF.RćfmmfćT q^tfr n
+dl d ęfęr f^Gf JSfięąęfr qxr 1
+STdlfę ątswrW vpqją t
+*t*r dć^r mj dfaiigdnRTj wr\ \\
+Auńi Srlńi Tilottama. SrTńi lirlm KaAcanarnala. Aum Sńm
+Hum Kulaharim. Aum hutfi Uatnamala Aum hum Rambhfl
+Aum Śrlm Urvaslm. Auńi RaniabhusinT.
+With Salutation lo Krodhabhairaya 1 havc told you all
+thcsc BhutinI Mantras, 2 1
+am^fiłrhr
+m| ; s Wt ą>d'sqfaf fdfgSd II
+ąJR^ li
+qqc5r *tftercrei?T bt^twi ^ ii
+urlwWfWr ^ sitd5 *w$łfdfsęT I
+ęzu^crer 3 *tt ę?dfa*n
+#rqr *re«rawnrr: i
+jsrfam sa: <infórfa[iqv$ft ę^di i
+m€\ ST*?
+
+Damara Tantra
+ąff srą^Yfęrćrr li
+aifoanft flw fw ^pficsr «reqr *rqr i
+fasrnar *
+ąjjj^ag-ęrfTeJTfsn ćT^Tćf>*7SI?ęrf53T II
+ęfći 6r£ł*fqt *rr|fffrfę«Tf*T«f*r: l
+Determination of Mn.hendrp.di Yoga in Satkarmas
+Slambhana and Marana shotild be practiced when ihe
+J arili I Icment is on tlić risc and Yasikarana when the Waler
+] Icment is on the rise. Vidve : ana should be practiced when
+llie Firc Element is on tlić risc. Uuccatana should be practiced
+when the wind Mement is on the risc. Jyestha, Uttarasadha,
+Anuradha and Rohini arc the lunar mansions auspicious for
+tlić practiccs said to be pcrfoimed when the Farth Element is
+on the risc. Uttarabhadrapada, Mula, Śatabhisa Puryabhadrapada and \slcsa arc the lunar mansions favourable for the
+practiccs said to be pcrfoimed during the rcign of Watcr
+Element Puryasadha, Svati, Mrgaśira, Ardra UttaraphalgunT,
+Plisy a and Punarvasu are the lunar mansions favo urąbie for
+ihc practiccs said to l>c performed during the rcign of ihc T irc
+1 Icment. AnyiiiT, bharanl. ( iira Dhanisi.ha. Sravana Magha,
+Vi^akha, Krittika, PuryaphaJgunT and Peyatil aic the lunar
+mansions favourable to the practiccs said to be performed
+during the rcign of Wind 1 Icment. Thcrefore all tho practiccs
+should be performed only after the determination oftlicir
+favourable lunar mansions.
+End of the chapter on the determination of the
+Mahendra etc. Yogas for the Satkarmas
+
+Damara Tantra
+ćrmjsęrar*? ii
+afjfafaofa: HHia i
+Determination of the usc of thc Eingers
+in thc Satkarmas
+In thc Rituals of Santi ( Pacification ) thc use of Tarjaru
+fingcr, in thc Paustika rituals thc usc of Madhyama ancl thc
+Ańgustha, ancl in thc Marana ( Liquidation ) ctc. thc usc of
+Anamika and thc Ańgustha arc said to l)c auspicious.
+Elid of thc cliaptcr on determination of thc usc
+of fmgcrs in thc Satkarmas.
+m farV:
+f*rfW*r«łfaj[fa5g u
+Method for procuring thc
+Roots and Herbs
+The Osadhls ( Roots and Herbs ) arc cITccuyc and fruitful
+only when they arc procured according to rules and wiih
+proper Manlras. When procured unmethodically and without
+Mantras the Osadhls remain only pieccs of wood and they
+havc neyer been founcl to be fruitful.
+snsr r^fy-tir fafgćrpzftrcR: fafssT fr u
+Ali thc Osadhls growing on an anthill, \vcll # roadside,
+beneath a trcc, in a tempie or on thc crernation ground, cvcn
+if obtained according to ilic prescribed method, havc neyer
+been known to bc efTectiye.
+ćizufwr g:si?H^«2T w
+Osadhls with delects likc lhose decomposcd duc to wuter,
+burnt by firc, growing out oi' season, or worm-catcn ctc. should
+
+Damara Tantra
+not bc uscd. OsadhTs should also not be taken in cithcr morc
+or less in quantity dian actually ncedcd.
+sHćrefęnfh i
+After leaving his bed in the morning die Sadhaka should
+ch an his body by purificatipn of die Elemcnts (Bhutasuddhi).
+•md worship Śiva along with His Bliutas* Only after performing
+thesc rites should hc procced to collcct ihc Osadhls with due
+respcct dccp faith and obserying completc fast.
+snął W
+& %ćrręrf?5 fq5mT?a wsią eft^qr: I
+siqnq?ćT rf w
+2\ow the methods and rules are bcing describcd according
+to which one should procure the Rools and Herbs. Firstly,
+bcforc going near the root of tlić concerned tree or plant one
+should rccitc dre Mantra : n Auih Vetalasca pisacasca raksasasca, sarlsrpah. Apasarpantu tc sarye vrksadasmacchivajnayfi. ,;
+ćlćft nfn:
+35- TOęctsęćrcrngct i
+swwjh A sfą qni”t 3if| ^r; u
+ćtći: *3^
+iln ^5 1
+cf?TT^ *TCfa®llfa II
+m d q^ *nfaqTfa nr % 1
+sm fas ęęmfa w ą^ąr-ft m w
+& ęff i ^ąjt §isfręr 1
+Thcn bewing down should say : "Aum namaste : nutasarabhute balavTryavivardhim. Balamayuśca me dehi papanme
+trshi duratali. "That is ‘O bora out of Amita ( Nectar ) and
+
+Damara Tantra
+strengthener of strength and vogour ! Give mc strcngth and
+life and dcstroy my sins\ Reciting thus ihc Sądhaka should
+bow down and salute thc trcc. Then reciting this Mantra :
+“Yena tvain khanate Brahrra ycna tvańi khanate Bhrgu Ycna
+Indrohha Varuno ycna tvamupacakramc. Tenaham Khanisyami mantraputena panina. A Ta te patc mani pat i ma te te jo’
+nyathabhavct. Atraiva tistha kalyani mama karyakarl bhava, ,;
+the Sadhaka should dig out thc root of the trcc and thcn
+reciting this mantra "Aum hrlih ksrauih svaha” lic should cut
+the root.
+Thus has bcen describcd thc mcthod and procedurę for
+the procurement rd thc roots and herbs for Salkami as and thc
+Sadhana of all other mantras.
+1 nd of the description of thc procedurę for
+procuring thc roots and herbs.
+CHAPTER ONE
+m WMwnfafa.
+Mcthod of VasTkarana
+( Subjugation )
+Now the mcthods for Vaslkarana of all typcs of persons
+arc being describcd :
+a&pre farcęrr fęrcflfćmr ii
+ffKifwrsrottFir ^ srnsąt (tą ^ tl
+
+fr^TGićT gtft: i
+5^t qr ^ferets - firerfrr srffsrrwrrn i
+ąęftH^ffćT *??*«! faSSt 1 ! 3<?TfćT« || ? I!
+The appropriate mantra as could be extricatcd from ilie
+Tcxt is łl Mrom Drom / 1 Obtaining this mantra from his Guru
+one should perform its five hundred Japas. Even by doing this
+jnuch a Sadhaka can Gaptiyate persons, be they sous friends,
+kings or their relations. This is called a Siddha Yoga ( A
+perfect formula ). 1
+■<aS w. i”
+HHifanPfsm =qra 3^5% sHATfr qfe i
+3ćzt# jttrt 5 wTnwfo *r u h W
+The Sadhaka should rccitc this mantra daily : "Auńi
+nawali kai.avikata ghorarupinT svaha.” II' the Sadhaka consecraies sevcn morsels of grains and prononneing the name of
+ihe person, to hc captivated, cats those grains tlien that
+person would ccrtainly be captivatcd. 2
+“3$ gĘfftRfŚt l”
+ąęfwfR <3 «mf*rsifęrcJ 1
+Any person can be captiyatcd by such a Sadhaka who
+washes his mouth seven limes daily with this mantra : "Auńi
+vaśyamukht rajamukhl svaha.” 3
+& ęćT^łT^T ęć!P>?JT
+qqt l
+SKfttó |
+TRT m W fafe^ II V 11
+1 lowers should be consccratcd with this mantra : “Auńi
+C.amunclc jaya jaya stambhaya stambliaya mohaya mohaya
+sarva satvan namah svaha. ”
+Whomsocver such a consccratcd flower is given, be he a
+
+Dam ara Tantra
+king or tlić son of a king, hc would dcfinitcly be captivated. 4
+aS> ffff: jnfafft ęąi^r I
+3jgtrT^g^3 SR^TT ^ssf spRifp: I
+gęf t i
+ęifqGEr fastó yim cTsmr^ęr »u. w
+“Auih namah kodanda£ara-vijalini malin! sawaloka
+vas aikkari svaha M —willi sincerc eiTorts one should perform one
+thousand and cightjapas ofthiś mantra and then pounding
+togetlier tlie roots oF Apamarga and Gorocana should put a
+Tilalca on his forchead with ihc rccitation of the said mantra.
+Sadhaka can thus captivate persons oF all the threc worlds. 5
+q$ fstófaęr: \
+^gą^T gfęr: ii
+ęffq«r fć^r si^ąś i
+qzj f_3» *nrećft irrct^nr. eą®r'r
+q|jinir aj? fal
+(i % ii
+Mantra For this charm runs thus : "Auih namo BhagawatT
+Matańgesvari saryamukharaftjc śarvesam mahamaye matańgc
+kumarike laha laha jihve sarvaIokavaśairikarI svaha k
+On the cighth or the fouteenlh da.y oF dark Fortnight
+Sadhaka, observing contincncc and fasting should dig up the
+root oF Damiotpala and pound it. 1 hereafter consccrating the
+pounded root-paste a thousand times with the abovc mantra
+(Aum namo Bhagavatl, etc.) he should place a portion ol it in
+betel and give it to any person to chew. Thus the person who
+chews the betel would be captivated. 6
+fjw stos: 1
+*T*3fa ift JRI I
+gr wsi ^ęr^TT fjjęr srótag u» w
+
+Dci mara Tantra
+Taking tlić root of Danclotpala a Sadhaka should bind it
+carcfully to his waist and then repeating ihe abovc mantra
+( sec para 6 above ) if hc gocs to a woman thcn that woman
+would bc captivatcd like a slave. 7
+^ ąffsjęr aą g śfastr i
+ęftćFścrr sreftpfcr mż reiwign n
+jjfsft m\-& łłfąnisr ^ mmfipjd p p
+Mantra for this charm runs thus : 1 Auiń vakrakirane Śivc
+raksa bhayc tnayahyamrtaih kuru kuru syć ha."
+At thc timc of a lunar eclipse a Srdhaka should obtain
+thc root of Svctaparajita and ccnsccrating it one thousand
+limes with thc above mantra ( Sec para 7 abovc ) pound thc
+root. NoW, if thc Sadhaka applics thc pastę to his cycs hc will
+captivatc all thc peoplc of thc thrcc worlds. 8
+<j3*ąFT JTf^rT ^5T 11 £ 11
+Pounding Gorocana and thc root of Syctaparajita a Sadhaka
+should consccrate thc pastc so obtaincd with the Mantra in
+thc aforesaid manner ( Scc para 8 aboye ). Applying a i ilaka
+of this pastę captiyatcs thc persons of all thc thrcc worlds.
+Fnclose thc root of Śyetaparajita in a betel and consccrate
+thc betel with thc aforesaid Mantra ( Scc para 8 abovc ). Now
+whomsoeycr this betel is givcn for chewing hc will be captivatcd.
+qi<?n% pujf-Rfeaą i
+jrffsia 11
+jjf-sft W-3/> W II U u
+
+Damara Tantra
+Obtaining tlić impurities of the nose, cyc and sole of the
+fcct a Sadhaka should pound them logether wilh tlić seeds of
+Guvaka and then consecratc the pasie willi the Mantra : “Aum
+pingalayai namah.” \Yhomsoevcr this mmurc isgiven to drink
+willi walcr, hc will definitely bccomc captivaled. 1 1
+spr *rfj*ęr ćrą 5 u
+fsw sreret 11
+Tj-r^rą <p*ćf n n 11
+The root of Indlyara (l)lue lotus) should bc poundcd together witli Corocana. 1 his pastę then should be consecratcd a
+thousand limes with the aforesaid mantra (sec para 1 1 aboye).
+Thereafier if the Srdhaka applies this pastę in his cycs hc
+bccomes bcloyfed o i all persons and the thrcc worlds becomc
+hiscaptivc. 12
+II ^ II
+fltTTR II
+If the Sadhaka obtains a parasite plant growing on
+the Vat.a tree during the lunar mansion ofRohin! and holds it
+in his hand then eyery one will bccomc his captiyc—so has
+bcen dcclarcd by the sagę Visvamitra. 1 3
+End of the section dealing with the
+captiyation of all persons.
+s?q
+& W I
+spi sicęarr cTcfis^sT flmfafafcrfi f
+^ fjjrfćT II ? H
+ęfęrcTsrsrcTte^rif
+Gąptivation of the K ings
+After performing one thousand japas of the Mantra : ‘ Auńi
+
+Damara Tantra
+hńńl sali amukańi ( Substitute Amukam with thc namc of thc
+person intended to bc captivatcd ) me va!śamanaya svaha.”
+The Sadhaka should then consccrate scven times with this
+mantra Kuihkuma, Candana, ( orocana and camphoi inixed
+together and apply a tilak of dtis mixturc. This will captivate
+ihc Kings. ^
+Ind of thc scction on Oaptiyation of Kings.
+aiqspTSFsif r f ś i
+ftecl srer n
+Gaptivation of a wickcd lady
+Kakąjaflgha, Vaca and K ust ha should bc mixed with
+ones own semen and blond Then, if all thcsc things together
+arc givcn in thc hands of a woman or she is madeto drink
+them with water along with thc recitation of thc Mantra :
+ł, Auih namo bhagavatc rudraya atuh camunc.c amukmi ( subs¬
+titute the word amuklih with thc namc of thc person to be
+captivated ) mc vasamanaya svahY’, then that woman will
+bccomc a iifc-long slavc of her hushand, and cycu after thc death
+of thc husband lament and kecp roarning in thc cremation
+o-round in scarch of her deccascd husband. 1
+-i fasrrerroi 5rr^ręa«rr i
+fćT^r^ fe^TT ą fSTSt (1 ? 11
+One should obtain with effort thc (lowcr ol black Dhatlfira
+in thc lunar mansion of 1’usya, its fruit in thc lunar mansion of
+Bharai.il, its twigs in the lunar mansion ol Yiśakha, lcavcs in
+
+Damara Tantra
+ihc Iunar m ans i on of Hasta and ils root in thc lunar mansion
+of Mula. '1 hen taking cqual parts of caraphor, Kumkuma and
+Corocana, should pound them together withthe various parts of
+thc Dhattura mentioned carlicr. One who applics aTilakaof
+this pastc on his forchcad captivates his wifc evcn if slic is
+of a very bad charactcr. 2
+UW fflRT ST ?5ft SWr |
+?ut: fgrratirftr u 3 u
+Rising up in thc morning a Srdhaka should wash his
+mouth. Then taking thc namc oi his wifc if hc drinks water
+with thc recitalion of thc mantra: cl Auih namah ksiprakarmani
+amukirn ( siibstitutc amuklńi with thc namc of thc person to
+he captiyatcd ] mc yasamanaya svrdia ,; J then his wifc would
+dcfinitcly becomc his ca vtivc. 3
+SiąąąT^ ęsn^WlI >T3fćT *n«WT II
+& t, H X U
+CS
+Fnelose thc rool of Krsnaprajita in a betel leaf and consecratc it with thc. mantra : "Auńi hruih svaha”. If t h; s
+consccratcd betel is given cvcn to a wickcd woman she will
+dcfinitcly be caplivatcd 1 his charm nevcr fails. 4
+ąjjft W ii
+th t, TII S II
+C\
+If a Sadhaka pronounces his namc along with thc name
+of his wifc and consccrates a flower seven times with thc
+mantra "Aum hruih svaha and then giycs that flower in thc
+hands of his wifc she will dcfinitcly be captiyatcd. 5
+wtoiwrasfrr sr ^r fasnfrwi ^ćt i
+
+Dsunara Tantra
+ret s*; si^t śsrs: u
+aS fą^isąstir s;fcfen q»«TRiwf*nfiit ?^qt sts^rer
+^ ss?ćt*s f%5gćTff% ęąif r ii % w
+Rcciting the mantra : "Aurh viśvavasurnama gandharvah
+kanyanamadhipatih surupaih sąlaihkaraih dchi memanantasmai
+vibvavasave svaha/ ; a Sadhaka who offers seven anjalis (cavity
+formcd by joining both the hands ) of watcr, gcts a virgin girl
+fully dccorat#d with fme gartnents and ornamcnts. 6
+sktssgjf v[^ sęzni sTSifafass *ćt **ttR^tćT ST S5ST SsfćT II II
+If a Sadhnka wnieś the namc of a woman with Gorocana
+and K uniku ma on Bhojapatra and placcs it in Ghcc and honey.,
+then that woman would be captiyatcd. 7
+^ S5T g S<?Tćlt TreilfaćTT*{ II
+as- qr^ r^r I ssStćT u c u
+ęfćT I
+Obtaining tiic root of Daru Haridra in the Lunar mansion
+of Visakha a Sadhaka should Consccratc it with the mantra
+"Aturi pate yajraya svaha." If this consecratcd root is tied f
+the lcft hand of cven a wickcd woman shc will become a
+captiyc of her husband. I
+Elid of the scction on the captiyation
+of a wickcd woman
+ars qfa sęfTąre<*m i
+q^T^ sifeś fq§r sYremsgs*!; i
+saifsHf^ś cis sIFs^rtćt qfaśęT: u
+^ ąssmfaśY qfs ssmiss s: s: SćfiStSTŚ sarfafsfs: u ? ||
+
+Damara Tantra
+Captivation of tlie Husband
+Taking thc Pancnńga ( fivc prgans } of thc Pomcgranatc
+trec (viz. its root, bark leaves, iruit and ilowcr) and pounding
+thcm thgethcr with white mustard a S“dhaka should consecrate
+the pasie seven limes with thc mantra “Aum K amamalinT pathu
+me vasamanaya ihah tliab.’ 7 Applying this pasie to thc v agi na
+of a woman will captivate her husband. 1
+ćręzrr: wł 7 fSd i
+SSFŚtf \\ H ||
+Tor thc benefit of married ladics the sagę Yatsyavana says
+that Gorocana and thc root of Venara should be soakcd in
+Kumkuma. Thcreaftcr application of this pastę as Tilak on the
+forehead by a lady will coptivate her husband. 2
+m ^ifir^ ^5rfćT qmqRr*^r \
+qfb: ąieiTR
+ą»f^; t%rr qt>rcr3r; ii 3 u
+qfa sreftareupj 1
+A lady who at the end of cohabitation with her husband
+touches his mcdiira ( penis ) with her left foot, captiyatcs him
+like a slave. This king of charms has bccn disclosed by the son
+of Goni. 3
+i nd of the section on captivation of hushand
+AttraCtion
+fsatqq*f^fę«łęiTi; 1
+fć^i | fsdmą 11
+ar fsRfl fć^r srę*m sreTrw^ 1
+gąęrisę*! ^ *rqfa ęriserćią u
+
+Damara Tantra
+mi mi mi Ęi |f 11 1
+<3*i3Tte?n:iST3T! 1
+ę^T^TSr^JIT^ł 3TT5I2T?%3*T^ II l II
+The mantra after its extrication from the tcxt runs thus :
+7 h“fn Jh~m Jhaih hańi hańi hafn hcńi heih”. Men, C ; ods,
+Vak‘-as, Nagas. Kaksasas ard all the moving and static
+organ bms are attracted by tliis mantra ! ivc hundred ,’apas of
+the mantra"act i\ ates after which it c.onld be used for charms 1
+RHć^TćT: I
+3T3PJ^1T ęrfq«T ^ęćr% II
+ffift ąrfq ^ćfi tt ^ i
+?g77?TTqTfrr eęir grsrsugiT II 3 II
+The Sadhaka sliould bring the root of Arjuna tree in the
+1 unar mansion of Aślcsa and pound it willi the urine of a goat.
+If this pasie is thrown on the forehead of a man or a woman
+or evcn an animal then they will dafinitely by attracted. 2
+^3 q*a«iT i
+ćTIif^JT *ró ęsiTćT ęTOPJTfa II 3 II
+ęfa 3TTq:^?i i
+Taking the root of Suryayarta on the fifth day of a fortniglit
+and enclosing it within a betel leaf if given to a woman then
+that woman will be attracted to the extcnt that she will herself
+come to the Sadhaka-there is no doubt about it. 3
+J nd of the Section on Attraction
+śtst ęft^rpw-frtfći ^qifq ?r ^m^r: n X u
+Mothods for oblaining prosperity
+Taking the root of Sitarka in the lunar mansion of Pusya
+and wearing it on the lcft arm brings ample prosperity. 1
+^rh <rm-J E 3 \
+
+Damara Tantra
+tftei fq§i » r ii
+Digging out thc roots of Raktacita and Gittnrka at thc timc
+of a lunar cclipse and pounding thcm with somc honey one
+should make pills out of thc pastę so obtained. Now rubbing
+this pili in water and applying its lilak on thc forchead is
+auspicious and brings prosperity. ^
+nw fiiH
+Writing thc namc of somc person with Gorocana and
+Kuihkuma on a Bhurjapatra and then putting that Bhurjapatra
+in honey brings immediatc prosperity to thc person whosc
+namc has becn so written on it 3
+3f5nniKH*na«łętiT *n*r śfeęir
+^T^CfćT II tf II
+Writing thc namc of a person on a Bhurjapatra with
+Kuihkuma, Gorocana and Alaktaka ( a kind of red paint uscd
+for colouring the fcct etc. ) and putting that Bhurjapatra in
+honey brings prosperity to the person whosc namc has becn so
+written. 4
+gftrnreGcnntt sw *tpt n$q«5r wicftą
+eHi^rą e otaram? ii * n
+Writing the name of a person with Kuihkuma and
+Alaktaka on a Bihapatra and putting that Bilyapatra in honey
+brings prosperity within seven days to the person whosc name
+has becn so written. 5
+J nd of thc section on obtaining prosperity
+aro
+aroi^roi 5^*1 wfi
+feraraft i
+rentą tHffrrpinRl
+
+Damara Tantra
+faSTlfa*! II ł II
+Unguents
+Be they men or women, if they have to indulge In worldly
+pleasurcs unguents and cosmctics ar e a must for them. Thcrcfore for the inerement of the pleasures of luxurious and
+amorous pcople perfumes arc now bcing deser ibed. 1
+fq^T ćTe^fTT^ćT ?TT5Tllą 'Eqq*T " ’ "
+Leavcs of K adamba Lodhra and flowers of Arjuna should
+all be pounded togetber. Thereafter applicalion of this unguent
+destroys bad odour of tbc body. 2
+ąłTJWT ?T«Tl I
+nfascr li 3 u
+The upper skin of pomegranate, Lodhra, lotus-flotvers,
+honey and leaves if Nnna should all be pounded together. The
+application of this unguent destroys bad odour of the body. 3
+ąfąFT I
+3155 ćTćjfr eftsr gwasr II
+TrśfTięf^^ią frrente ll v li
+Sandał, Tcjapatra Bała, root of Uślra, Aguru Badarlb7»a
+and Nagakesara shoukl all be pounded together. This unguent
+immcdiately destroys the bad odour of the body. 1
+asiiwr I
+gfrąctf ^*1 ll 2.11
+^srcfwni 1
+Bark of Sajitaparna, Lodhra, lcaves of hihna and Abhaya
+should all be pounded together. T his unguent dcfinitcly destroys
+the bad odour of the body, 5
+End of the section on Unguents
+ara gtrcOT-fawni
+
+I atńara Tamra
+aVTTcf STRct 5 % II \ W
+Orał perfumes
+If llic powder of Pippall, ghrta and honey is mixed togcthcr
+and eatcn daily in the mornig it will destroy the bad odour of
+the mouth. ]
+q T ą 37% ąj q;sqjqTqfq ]
+folią ęrfifi 5# ęfręf gJ^ifdćT^ li R W
+Muramańist, Yaca ( Knstha and Nagakcsara should all be
+pounded together in the form of a powder. The mouth of a
+woman who takes tltis powder daily in the morning and
+evening becomes as fragrant as camphor. 2
+■nwfiw fqp i
+Sced of mango fruit and tlić root of lotus should be pound
+together. Mixed with honey wlien this pastę is placed in the
+mouth it iminediatcly produccs pleasant fragrancc, 3
+J.nd ol the section on orał perfumes
+ST^T
+^iqfTrć^3nćTę5 ^FćRąęfa \\ * \\
+Destruction of erruptions of tlić moutli
+Mixing Gorocanawith Marica powder, putting it in tlić
+mouth and retaining it thereforsome timc soon destroys all the
+erruptions of the mouth. 1
+nęśmią fW«r 3*^ finwRi u ? n
+Tila, milk and Śvcta Sarsapa should be pound together.
+
+Tamara Tantra
+Putting this pastę in the mouth destroys all the erruptions and
+wounds of the mouth, 2
+]'nd of the scction on dcstruction of erruptions
+of the Mouth.
+sjąif, fątnB ^
+^®Tr«Tt
+siW farctaąroin l
+II K li
+Methods for blackcning the Ilairs.
+All such persons whose liairs of the head may licve bccome
+white, should blackcn them; otherwise nonę of the cosmetics
+and unguents would extend lustre and beauty to their personalities, 1
+fsrąjęn 1
+*il D t WTtf fa^V43ćT l
+Triphala, iron powder, Iksurasa and Bhr figar a jar asa in
+ccpial quantities and half of the total ąuantily ofthcse substanccs
+black clay be collecied and then put in a vessel for one montb
+Thcrcaftcr, the medicinal potion so formed if applied to the
+white hairs will make thun blaćk within four months.
+srary*! fq|T ^*1 •
+fąfęjf ^qhćl wtf u 3 II
+ęfa fort®* f*WW*l
+Impurity of iron, Japa-puspa, and AmalakT taken in cqual
+ąuantities be pound together. This pastę if applied to the white
+hairs for threc days will blacken them within threc monthstherc is no douht about it, 3
+End of the section on methods for
+blackening white hairs.
+
+i amara Tantra
+siq faJTTsrfetrHTj;
+ip fas ^%smacr i
+3!¥ZT^q)it^ forami
+3*>rfefaęq sw frąfo u \ w
+wfa ^-faęuife fr?TięrfąWR*[ ]
+Destruction of Lice etc.
+Yidańga^ sulphur and co\v f s urinc should all 1 >c cooked in
+mustard oil. If the medicinc so prepared is applied to the hairs
+it will destroy all the lice etc. 1
+Tnd of the scction on ihe dcstruction of Lice etc.
+m faftn
+«WI5«<T ęr^Tfftir ęGąłftgąęf.joą I
+££T^f?ćr ćię^qi5n5r ęfęrq: u < n
+Cure of Baldness
+Japa-puspa aud nrinc of a 1 >lack cow should be mixcd
+together and the mcdicine so formed l>e applied to the scalp.
+This strenghens tlić root of the hairs-there is no doubt about
+it. 1
+ffi. łifręsri 3 ?i*th 1
+fąfrięr^ || ^ ||
+Kuńikuma and Marica in equal ąuantitics be cookcd in
+mustard oil. Thcreaftcr mixing the juicc of llimba llowcrs
+one should apply it to his scalp. This will soon destroy
+baldness. 2
+śfq*u łUjOTfaran 1
+aęętqisfW* fa^ęfći it 3 u
+(Juftjaphala and honey poundcd together and applied to the
+scalp destroys baldness. 3
+5riFći35q tw fq c qsft (spi am i
+
+Pałnara Tanlra
+. fq^r sr%qt yfe i
+qęTTSTsar^r5Tiq w ? s^o fajfer u * n
+|-fćT ??ggafaqn:<JT feFw: i
+Ja$i-puspa and Jati mula in cqual' ąuantitics and double
+the ąuantity of these Pippali sKould be pound togelher in the
+urinc of a black cow. Ii' this pastc is applied to the scalp for
+one weck or one fortnight it will destroy baldness altogether. 4
+i nd of the ścction on curing baldness
+CHAPTI R TWO
+11 ZW U
+a*
+ą^ąiąY Ji%;^ą^SSiąT lufd l
+ąąćT 5^tfć«ia u
+35 -gf xtgf yięof gę ćję 3Tg^ I 3lij
+I STtótofflfę: 11 \ 11
+PARAŁY SIN Ci
+On the first instance in this scction methods for paralysing
+the mouth of the Enemy :
+1 irst of all the Sadhka shonld activate the Camui.ida Mantra
+through its Japa. Mantra runs thus : “Aum hruh raksa Camuridc
+tura turu amukalii ( Substitute the Word amukam with tlić
+name of the person to be paralysed ) me yasammaya svaha. u
+1 'his is the Camunda mantra which fructifies this charm After
+thus activating this mantra a Sadhaka should consecrate the root
+of Palasa tree with this mantra and hołd lliat root in his mouth
+
+2G
+Dainara Tantra
+with thc recitation of Auiii. This will eithcr paralyse thc mouth
+of thc enemy or transfer him to some olher place. Pntting thc
+root of Svetaguśja in thc mouth in the same manner paralyses
+thc voice of the enemy. Ali these charms should be performed
+only after activating the Camunda mantra. 1
+Pluck the parasite plant growing on the Licjuoricc (Ji ceper
+in thc lunar mansion of Pusya. If it is thrown amidsta council
+of persons then mouth of all the persons present there would 1 >c
+paralysed. 2
+ąfadmwd frT*rrf>T%ęir fęrTd^t 1 ^
+i|<5l*ćTJ:¥RT[
+VVhomsoever name is written on thc Arkapatra with the
+juice of Haritala and then that leaf buried in thc north-east
+corner of some garden then the mouth of that person whose
+namc is written on the Arkapatra would be paralysed. 3
+Łnd of the section on Paralysing the Mouth.
+m
+ĆKT SUSct sjątj \\ \ \\
+Paralysing a Boat
+lf in the lunar mansion of BharanI fivc-fingcr long nail of
+the wood of some Kslrl trec ( Commonly Nyagrodha or Ficus
+Indica, I dumbara or Ficus Glomerala, Aśvattha or Ficus
+Rcligiosa-and Madhuka or Basia Latifolia are known as KsIrT
+vrksas or trees which cmit milk-like suhstance when their twig
+or leal is broken or the trunk punched ) is thrown in a boat it
+
+Tamara Tantra
+will paralyse the boat.
+Fnd of thc section on paraly.s ing a boat
+m arffcrcsrwnrn
+kśi mi i
+3 srfkslsęft *t ?Ęrfćr i
+qfą*ufą4Y 5T5 ^ ĘSt ęh ą>5 ąi5
+ęćff^ ęęrsw srpfr ęąr^r u \ w
+Extlnguishing lirę
+Mantra for this cliarm is "Aum hriiii MahiśamardinT laha
+laba hala hala katha katha slambhaya stambhaja agniih svaha.
+After a ten thousand Japa? of this MahiśamardinT mantra one
+does not bum himself even if he enters a fire of burning ernbers
+of Khadira wood. ^
+fjmftWP fa§T ?Rt i
+ćf II ^ II
+?fa
+If thc Sadhaka soaks his hands with dic juicc of Kumarł
+( GhrtakumarT ) and rcciting thc aforesaid MahiśamardinT
+mantra picks up a burning ember or hot iron in his hands lic
+would not be lnirnt. 2
+I nd of thc section on estinguishing
+the l irc.
+3T«T
+3RT3JWF fWW* 3TIT II X II
+Ketcntion oi Semen
+The Sadhaka, bcing fully naked, dig out the root of lndravarui.il and pound it with Trikatu and cow’s milk and then
+
+Damara Tantra
+make pi lis out of this pastc. Thesc pills shoulcl be dried in
+sliadc. By putting this pili in his mouth a Sadhaka will be ablc
+to retain his semen 1
+ągi- ą \i - n
+11 the Sadhaka ties to his waist the ront of NUT plant
+growing in a cremation ^round, he would l>c able to retain
+his semen. 2
+^ ais: sijsćs srsi 5 11 3 u
+SftT 1
+! irst of all a Sadhaka should invite the root of Rak t a pamarga on a Monday and tlien on the morning of Tuesday he
+should dig out the same rool. If he ties the root so obtained to
+his waist he would retain his semen. 3
+! nd of the section on retention of semen.
+S 3 TR |
+ąr^ęf i
+BRTltat qqrfft^ <ą- \\
+jj^ TęąT eqVTTłTćT: 1
+'fwrffa ćTćfVcT^ (|
+fer*ntn?r fq|i ^ofiifefa t
+eTI^ f^TćIT 11
+*r^r fa«r irtęąi qftqi?qirą \
+rfłąąftąfi; fą?q^ U
+f?r§*rfor i
+ęsrrtf^ćnrpt 5 sfaRrcfrctęsu u
+*rsr$ćj srrćP 5 ę*TW erm#*rmiq^ 1
+
+Damara Tantra
+f ęrHWfa^inTt &ĘŚ I
+3 ff*T*iefiT*ITC>W U
+ąśifrĘi ^ I
+^gęq ęTćfćfT^TeTćr «TgPfa ĆT^1TTZI% U
+ęf^jor: srg^i^T urnc^fen ll
+(rej- ąjinęif ^S«P-f ST=Flf=rćT: 1
+5rsr ęręfp w?f ęsfart ^ % ^i 5 ?^ u ? u
+ęFći g?rr*rR*[ i
+On Acąuiring Vigour
+In this cnnncction first of all the ŚrTmanmadanamodaka :
+Trailokyavijava patra and its sccd should bc Fiicd m
+( hrta Then Tri katu, Triphala K ustła Bhrńgaraja, Saindhavalavana, Dhaniya, ŚathT. Tatóapatra Katphala. Nagakesara,
+]Tra.’ yaroam, Yastimadhu Methl and Tcjapatra should all
+bc takcn in cqual parts, and poundcd on'a stonc slab to form a
+fmc powder. Thcn Sugar cqual in quanthy to this powder
+should bc mixcd in the powder. lvcrything should then bc
+cooked in Ghrta and honey in such a manner and to sucli a
+riscosity that Modaka round sweet balls ) ćould be madc out
+ofit Then one should prcparc round sweet balls of about !!
+maśas cach in wcight. bila powder Wed in ( hrta powdered
+cardamom. crystal sugar, powdered Tcjapatra and comphor
+etc. should bc stuck ovcr cach sweet bali ( Modaka ) to extend
+flavour to it.
+This is called Madana Modaka It should bc stored in a
+vcsscl in which formerly < -hrta ma) havc bcen kcpt. lt should
+be takcn at the ratc of one modaka cvcry moring with water.
+IU mcdicinal qualities are said to bc mfmitc It cures all
+discascs cattscd by the imbalance of the rhrcc humours vh.
+Wind Phlegm and Gough. It incrcascs appetite and creatcs
+appetite in thosc who havc lost their appetite duc to somc
+
+Dam ara Tantra
+rcason. It makes thc body of Jean and thin pcrsons healthy,
+musctilar strong and vigorous. It makcs coarsc bodics ofmcn
+lustrous and smoolh; cures all kinds of discascs of cough and
+rclicycs pain lven it curcs dysentery and constipation of
+bowcls with flatulcncc and iniumesrcncc. In short, a constant
+use of this modaka makcs cvcn old pcrsons like youths. Lord
+af the W orlds Vnsudeva and Brahma etc. Gods, aftcr hcaring
+aboutthis great mcdicinc urgcd upon Deyarsi Narada to
+propagate it all around as the bcsi mcclicinc for incrcasing thc
+generał hcalth and sexual yigour, which Narada gladly did
+1 nd of thc scction on acąuiring yigour
+3tą
+^ yfBff 1
+fmęrfęmn %$rrjg spmr; WTdfa tfęra u y u
+wujLLiiing j)iacK Jtlairs
+lila should bc kept soaked in thc milk ofVajrI trec for
+one week. At the end of oncwcek if thc oil extricated out of
+that Tila is rubbed in the hairs then evcn thc blackest of thc
+hairs would turn white—there is no doiibt about it. ,
+^ SRif i
+Soak for one *«k ,hc Abhaya frui, i„ goals railk . Th
+dryng these fru.ts afor this period ,hey be "
+to powder. Now usittg this powder w ith oil makc .. "
+hairs white. ack
+wptaw gwar qif?d ^V r: (1 ą
+Taking eąual parts of Kustha and Amalaki powder ,l l0
+should be soaked in milk of Vajrl trec for one week. Therc-tf^
+application of this powder to the hairs would make thun wip^'
+1 nd of the scction on whitening thc black hairs
+
+Damara Tantra
+grfęęłr fić^i ęra
+sęnąJtęi ćję^rfóęT zr sirtFći ćięm*i% f»rsr h^Fćt u ? u
+Inducemcnt of Slcep
+Taking a Guvaka fruit one should cat a part of it and bury
+the remainlng part in a hole madę on a road. Kcep that place
+sprinkled with water. Now, whoever passes that way will fali
+into decp sleep—thcrc is no doubt about it. 1
+?nzr%5n:$<?rą>*{ i
+U 3 II
+I luc lotus, Marica and rool of Nagakesara should rubbed
+together to form a pastę. Application of this pastę to the eyes
+would inducc slcep.
+r 3 itt fasi 5 t^ći fęrcfa f^ćrr l
+^ ąi *T'^T?a fre^TZłTęćf^i u 3 u
+Holding the root or the hairy fibres of Kakajafigha on the
+head inducc immediate sleep. Roots of Kakamact or black
+Aparajita also have the same property- -that is holding cither
+ofthcm on the head incluces sleep.
+I nd of the scction on Inducemcnt of sleep.
+gil^ąt ąz&ZIŚ fęNaTTOFsrćf: l
+5ni*n cf 0FfT 5 tzit ę^ć^i ći*n W ? u
+Obtaining Victorv
+A person would rcmain invincible in any battle orany
+controvcrsy if hc obtains a twig of somc parasite plant growing
+on a Vata trcc or on a mango trcc in the lunar mansion oi
+Ardra and tics it or liolds it in his hands. 1
+f f^T *T flTCTWrT «T I
+
+Damara Tantra
+3f?r?Tq^ li 3 li
+Therc will be no doubt about a victory in a battle if the
+Sadhaka purchases a ncw garmcnt on a Tuesday falling in the
+lunar mansions of YisFddifi or Krttika and procceds-to the
+battlcfield aftcr putting on that garmenf* 2
+^ śrsT i
+n 3 ll
+?fćT
+Kecping the root of Su dar san a tied to the hands brings
+v i eto rv in Royal families. If the root of the plant Jaya i s tied
+similarly it will also bring the same result,
+I nd of the scction on obtaining victor\
+m dl ^V^qęjXT?r |
+fT *T fflfaęZT f.fiT ffqq:
+Pacifying (hc anger of Tśvara and others,
+\Yhatevcr person ? s name is written on a palm-1 caf whh a
+thorn and then that leąf buried in mirę or dirt w*ll bccomc
+pleascd with the Sadhaka evcn though hc may have been a n»- rv
+with him earlicr. ^
+w frr^r qtrtosir ^ T q^
+sraat *rqfrr u ? n
+\\ homsocycr namc is written on a lJhunąpątra with
+(-orocana and then that Bhirjapatra submerged in milk
+Itccomes pleascd witłi the Sadhaka even though earlicr hc mav
+have been angry with him. '
+sftd łT^«r pr ii ą u
+At the timc of a pacifying ritual in order to obtain
+Siddhis or succcss without doubt the Srdhaka should recite the
+
+Daraara Tantra . *rf-k-y-i->-C,__ 33
+mantra : f 'Auńi Sanie praśantc sarvakruddhopaśamani svaha/ ł
+twcntyonc times and then wash his mouth. 3
+Fnd of the scction on pacifying the anger
+3TZT?ftlTqićT?TF[
+ą^a sręrjrHr ^rnr; I
+w^rćT^t^JT ęi
+sflrsnu *rm: U
+stTćH
+fćwr WT*TTC
+ttmftr ęrcffrr
+II ł 11
+On Dcpilation
+One part of the powder of Haritala, f.ve parls of Śańkliabhasma and five parts of powder of the wood of Pakara tree
+should be mixed together and soakcd in the juice of Banana
+tree for scvcn days. Thereafter, the pastę can be applied to th«
+place from wherc the hair has to be removcd-this will remove
+the hair.
+ąęrTST^iTrP^^T^oT
+ę;ęq 5 r|
+iftnfor u ^ u
+Powder of the wood of Palaia tree and powder of Haritala
+should be mixed together and madę a pastę in the jmce ol
+Banana tree Applying this pastę repeatedly on the place «
+hairs would successfully rcmove the hairs.
+«f%; ęiHfefr
+ęfęnrfiT bsjićt i
+
+JJamara Tantra
+sm II 3 II
+Śamkha-bhasma should bc soaked in the juicc of Banana
+tree for one week; then Haritala powder be mixcd with it
+and the cntire pastę be thoroughly kncadcd. 'I his pastę whcn
+applied to tlie places of hairs would dcpilatc. 3
+O V II
+F.qual parts of Haritala powder, Śamkha-bhasma,
+Maftjislha-bhasma and powder of the K iihśuka wood should be
+mixed well with the help of water. This pastę whcn applied
+to the place of hairs would remoye ilicm. 4
+^qaićj; ęftmfa qqqqqfaą gtnd l
+%q*TięT ^n=er %ęrisq u % \\
+T qual parts of powders of Śamkha, Haritala, Barlcy and
+Gufljaphala should be mixcd well with the solution of curd.
+The pastę if applied to the hairs would make them fali likc the
+leaves of a dry tree. Mixing Manal/sila in mustard oil and
+applying it to the hairs would also yicld similar rcsults. 5
+^ fam awiwą n % w
+Śamkha-bhasma and Haritala powder should bc ground in
+salinę water to make a fme pastę. This pastę when applied to
+the head or any other part of the body would instantly rcmove
+its hairs. g
+qqtćqs*^: fq|r-q |
+u is u
+wfa ęfłwritHu
+A pastę of sulphur should bc madę in the juicc of the
+bctcl-nut tree J his pastę when applied to the hairy parts
+would rcmove the hairs. 7
+Lnd ol the section 011 Depilation.
+
+Damara Tanlra
+S5
+sfrmrar fórfe^ęf sgs^r i
+?fferfTi? 5 ^s(cr ffcrerwa* ?r ęfęnr: u ? n
+Frcedom from Fettcrs or Bondagc
+Taking thc root of Śikhi plant on thc Purnima ( Fuli
+moon night ) of Margaślrsa ( tcnth month of tlie Hindu
+Calcndar ) and consccrating it one hundrcd and cight timcs
+witli the following mantra and then fastening it with thc Siklia
+( taft of hair at thc crown of the hcad ) will give frcedom
+from Bondagc or 1 cttcrs. Writing thc Bija mantia one lac
+timcs ( 1,00,000 ) also proyidcs frcedom from Bondagc.
+ara s&fęsrctftfrr
+fagfćiB ^ g* srcfa fiwi*
+ęąj§r i STgtrHSm ftaTTOt
+fęrF^i i ęręf *m " ? 11
+Mantra for thc ahovc formula : ' Aiuhnamah kamalpińgale
+rudrahrdayańgc vctala tala asthidharii.il tistha tistha sara sara
+sarnin mohaya mohaya Bhagavati 'shikhaye timirc mahamayc
+svaha.”
+ęąęffr srwłFł^* ^ Sitami: 11 9 II
+YYhen tlicrc is a Sunday in thc lunar mansion of Hasta
+then one should on that day dig out thc northern side root of
+thc Sindhiwara plant Merc touch of this root will immcdiately
+providc frcedom from bondagc.
+**TTj?T II 3 W ,
+Consccratc one fistful of whitc muslard and thrcc llowcrs
+•f Javakusuma with thc mantra "Auih hum auih aya aya cim
+citi citi hafn la yajranandika kalika svaha.” Thercaftcr open
+thc first gatc of the prison liousc and the rest of thc gates will
+
+Damara Tantra
+opcn automatically. 3
+•ą tftairą i
+ęr;łt%gfeą>Tęq5rftTęi ^ fororeni u * u
+?fa gwTfnrtafT wr=<ir i
+Takc equal ąuantities of Jatamaihsi and red lotus and fced
+them to a chameleon. Thcn obtaining the cxcreta of that
+chamelcon make a pili out of it. Merc touch of this pili will
+provide freedom from Bondagc. 4
+End of the section on sccuring freedom from
+Bondagc.
+ijg srąran $fqg^ 1
+JT|If|fTT <ftćlfaś 5ąeqr:
+ąretfćT qsq ę*rc*tf;?q;f*T II ? :i
+llestarting the Mcnscs when it may havc stopped
+prematurely
+First of all bakę green and dclicatc lcaves of Jyoti-mati
+( MalakańgunI ) in fire. and then pound them with
+Japakusuma. If the woman, whose menses have stopped
+prematurely, takes this pastę with a few days old water or
+with hafiji ( churncd curd ) . her menses would start again. 1
+fWfcąis^ fag qftqrteći^ i
+qfaćir qqg
+q;cq ęnró gęna^q»r li q ii
+Taking equal quantities of Durva grass and lice, pound
+them together to make a pastę Baking this pasie on fire and
+taking it regularly would restorc the menses whieh may havc
+stopped prematurely, to the cxtent r>f the fuli strength of the
+woman.
+
+Datnara Tantra
+^sięaęrT tjęr^fr srrfaan 11 3 li
+Taking the excreta of a pigeon w i tli honey restoies the
+inenses of a woman whose mensesmay havc stopped prcmaturely.
+This formula has bcen described by Muladeva.
+ąąjzf wgę^ąniijf ter^T^TT^fY ^ćf tq^ I
+ąąi«T 2?% ^ ^t^ćT W * U
+Dccoction of Trikatu, jaggery and powder of Tila should
+be takcn togcther. 1 his will restore the prcmaturely stopped
+mcnscs of a woman. This dccoction is also useful m the
+discasc callcd Raktagulma.
+End of the section on llestarting the Mcnses.
+m sifa^iifaąrcor^
+r«Tćf^ i
+H firnów »* "
+Curing the Excessivc flow of the Menses
+DhatrT, Harltaki and Rasafijana should be powdered and
+mixcd together. Taking this powder with water will stop evcn
+such menstrual flofws which may 1>c flowing likc a stream
+fafaaa«f«m faMra tog f^fspiYiprww '
+yrsita«rim ^ *^ łr: " ^ 11
+llice mixcd up with its plant should bo poundcd togcther
+to form a good pastę. Application of this pastę on the vagma
+will stop exccssive tlow of the menstrual fluid
+§*śft*rcfćT U 3 U
+Cne should eat one Cmaka ( betel nut ) with Apamarga
+This will stop even the most obstinate oł the menstrual flows,
+
+1J ani ara Tantra
+This must be tricd and expcrienced to be belicycd* 3
+ti v u
+ęfa BTfa^tfaąpwTr i
+Candan, Kslra, Ghrta, Sugar* IToncy should all lic tale en
+in equal quantities and mixed logether. Taking this mcdicine
+would dcfinitely subdue the mcnstrual (Iow. A
+End of the section on the excessive flow of the menses.
+5if^ąn5qr ąjią;er?eqT faq: |
+ćriei g;f%<T \\ \ u
+Making a Sterilc woman pregnant
+Stcrilc women are of thrcc kinds. i) Janmavandhya, (Li,
+Kakavandhya, and (iii) Mrtavatsa. All thcsc can becomc
+pregnant and produce children. For this purpose Lord Śiva
+has, in the past, described certain methods which arc
+follows :
+SW srrtTćfremf^nPćHT
+ąąi*r«T? łi^refi^; n
+^^ 1 % rq%5«r?sqr q^iś af^r i
+asmą n
+ę# srM fęqr ^qr »rąfa i
+sgtf ii
+srff^ f^ifasr fqq5ii?tr i
+?t w jpRilą u
+ęrcr qw tr*t u
+qf?re^T^»T^TęTT^ft ?n* u ? u
+Gure of Janmavandhya or Sterile sińce birth
+One should dig out the plant known as SarpaksI with its
+roots and lcaves on a Sunday. This should then be poundcd
+
+Tamara Tantra
+by one hancl by a virgin girl along with thc milk of a one
+coloured cow. This raedicinc should be started lo be taken at
+thc ratę of 1 /2 pala daily from the first day of the menslrual
+scason and continucd for scven days. During these seven days
+when thc mcdicinc is bcing taken thc woman should takc
+ordy light food, such as, milk. rice and moonga etc., and try
+to bc frec from cmotions, fcar. sorrow, cxercise, cohabitation
+with her husband, sleeping during the daytime. Works wliich
+need cxertion, excessivc hcat and cold. Ihe lady obscrving
+these rules can get a child by cohabitation with her
+husband. 1
+SRWfa 11 5
+ćRsra 11 ^ ll
+C-nly one piece of Rudraksa and one K arsa of Sarpaksi
+should be cooked together and pounded in the milk of one
+coloured cow This, taken during the mcnstrual period would
+make cven a stcrile woman conceiye.
+During thc period or taking this mcdicinc the following
+C. aneśa mantra should be rccilcd faithfully. C anc'sa Mantra
+,-Amh dadanmahaganapatc raksf.mitam matsutaih delii.”
+ąfnęręJT JT^ofr-ątTdir^ćTTT 1
+qt?ćrr 5 ^ sfera : u
+dSćf ę?nf<««TrafV ll ^ H
+Potiud one Palaśa leaf with the milk of a lady who has a
+child. by taking this mcdicinc a stcrile woman would also
+conceive and produce a beautiful child Howeyer she should
+follow all thc rules and stricturcs prescribcd in the paragraph
+1 abovc.
+
+Damara Tantra
+fqąq; mt: wirna: ii
+^«qrRr qsć jt^t ii * u
+Dig out tlić root of DeyadanI plant on a Sunday in thc
+lunar mansion of Pusya. This should bc poundcd with milk
+and three niska of this pastę be taken regularly. This will
+proyide a son eyen to a Janmayandhya But during thc
+trcatment all the ruies laid down im der thc paragraph 1 aboyc
+should be scrupulously followcd. 4
+qq: ę?ITtTfą?T q\ćąT I
+ai^ffifćT »nf 5bsgTfq H
+SHir foir, ii h w
+On lh^ day of bathing after thc menstrual cyclc the lady
+should soak Asyagandha in Chi ta and water. r i herca fi er
+this Asyagandha should bc taken with C hrta and milk After
+this if she cohabits with her husband shc will dcfmitcly get a
+child, but at the timc of retiring she should drink a littlc
+Ghrta again. 5
+?CTin^ifsicii^ęr sraisn^T \
+After the menstrual bath the lady should take thc root of
+krsnaparajita and pound it with Goat s milk, By taking this
+pasto eyen a stcrile woman would obtain a child. p
+ęffq«T?ft qm*r i
+ą;ęqifq |&fT qfą 8; [m
+ęfef sr?TT^?KZTTr^f%ćęir
+Taking Pippal i, Kcsara, Srngabcra and a littlc of black
+pcppcr and pound llictn tgoethcr in dic Ghrta of cow. Taking
+this pastc would make a sterilc woman conccivc and obhtin a
+son. This is the grealest medicinc and has bccn described by
+great Munls and Sages. 7
+End of thc scction on curing a Janma-vandhya
+
+Damara Tantra
+<ją 'ISSISt Zffe I
+ą^ą^Eof ^ gr fefaćtnęzusr w \ li
+Trcatmcnt of Kakavandhya
+A lady who after giving birth to thc first child docs not
+concehe again is called a Kaka-|ndhya. Now thc treatment
+of such a lady is bciog dcscribcd.
+fącoj^HT ^T ; 3 tq i T 1
+jtfeąt ^«PI^T ^ ^ *
+7PT HI «rr9r $«rt W,«^ >1
+Picking up a \-isnuknmta plant along with its rool and
+then pound it in a she-buffalo's butter during thc Kt«-kala
+(period of mensesb This will make a l<aka-vandhya to cencenc
+again- The rules and routines which have been laid down m
+paragraph 1 ofthc P rcvious section ( On Janmavandhya )
+should also bc obscrved herc for a week.
+qęfT ® '
+hrtśII? 5 ^ "Piw^n h iw: u 3 li
+On a Sunday of thc lunar mansion of Pusya dig out thc
+r „„ t „, 'a Aśvagandha plant and pound it tfith shcbnflalo,
+milk This pasto if takcn hali' a pala in qttant.ly for »cven days
+will make thc Kakawandhya conccivc again.
+I nd of thc scction on the trcatmcnt of Kaka-vandhya
+3151 ^?.3ćHT fafoćHT
+ntfwirew** q <9T?mai^ \
+fefgąctfST Hf^TS HI Jąsflłfswi II l II
+Treatment of Mrta-vatsa
+A lady whose child cither immediately after birth ot after
+a fortnight or after a month or a ycar. two ycar. or thrcc years
+
+Damara Tantra
+di es and sucli a siatę continues repeatedly thcn that lady is
+called a Mrtavatsa. Now ihe ircalmcnt of such a lady is being
+describcd. 1
+qr sm*! faś ^f%«n fąfasriT i
+faqfa ?qqfa SfSTfo <fra?qcj ćRZTĆSf^r |R||
+?fa ^ćT^eTF^f%ć^r
+Digging out the root of a pomegrariate trce soak ii in milk,
+ihcn mix Ghrta in it Taking this medicine during Rtu-Kala
+and aftcr the bath when the mcnslrual period is ovcr if a lady
+cohabits with hcr husband tlicn if shc conceiyes ihe child
+born lo her will bc blesscd wilh a longcr lifc. 2
+bnd of ihc scction on treattnent of a Mrtavatsa.
+m *nftęrrFąfa:
+ĆT?T SR* *r%
+sr*t *r?r ąą*r i
+»rteftts qmiłri5ir qqrqwsi?ę?i* ii
+qćł*i* u \ n
+Prolection of ihe l oetus in the Womb
+During the first month :
+If therc is a scmblanoc of labour pain during the first
+month of prcgnancy therc may bc a possibility of abortion.
+In such a case Pudma-kesara and Sandał in cqual quantitics
+shoukl be pounded in milk. I aking four Tolas of this medicine
+daiiy would rcmove every doubt of abortion. \
+ęr«r fsm*
+fft5ftćqęr qf«: i
+fSrTt^sft? qjćąr tfRfa %5?TT II ^ II
+Second Month :
+Petals of blue lotus, Yasti-madhu and T< arkatasrńgl should
+all be pounded in cow’s milk. Taking this medicine rcmoves all
+doubts of abortion during the sccond month of pregnancy. 2
+
+fcjathara Tahtra
+ą^T JS q*&5KTr„ l
+ąfcą tffcteąr Pre 3 <fft Wlwt u ą II
+Third Month :
+Sandał-wood, I ustha, Mrrulla and Padma-kesar should bc
+pounded in cold watcr. Taking this medicinc rcxnovcs all
+possibilitics or a labour pain during thc third month.
+fftęfaq?r tjiiwtPt i
+gpfmlr «wt srTt; fq§łą m ^ifa « * «
+T’ou r tli Month :
+Pctals of blue lotus, Mrnala, Coksura and Kascruka should
+all be pounded in Cow's milk. Taking this medicine would
+rcmovc any possibility of a labour pain. 4
+łftąfY^ mfa mźźmęi ^ćt ii x ii
+Fifth Month :
+Punarnavu Kakoli, flower of Tagara and pctals of blue
+lotus should all be pounded together and taken with cow s
+milk, will pac i Ty thc labour pain of the fifth month. 5
+fęjćir ^ tiiTćifnM*? qq^d i
+<r<& mfa ik: fqfrą « * «
+Sixth Month :
+Honey, sugar and Kapittha-majja pounded in cold watcr
+and taken with cow’s milk pacifics the labour pain of the
+sixth month.
+qnq*mr
+mi *fta3Wł* i
+fq§r ^ *rrfa: ęfrt: qV?qi swnwrfd u ^ w
+
+Damara Tantra
+Scyenth Month :
+K aśeruka, Puskara-mula, Srnjata and petals of blue lotus
+powdcred together and taken with cow’s milk pacifics ihe labour
+pain of the seventh month. 7
+3TS*T TTI^T
+qfg gtćrr i
+sft^i rq^ęg*nrre% ii c «
+F ighth Month :
+Yasti-madhu, stem of lotus, Musta, Kaseruka GajapippalT
+and thc petals of blue lotus poundcd together and taken with
+cow*s milk pacifies the labour pain of thc eighth month. g
+^ irrfa 5Trfomi c ;rtfa 3T«rar li ę. ii
+Ninth Month :
+Viśala-bija and Kakkola poundcd together and taken with
+sugar and honey pacifies thc labour pain of the ninth month. 9
+*rr*r
+sraki ś.srts' \
+qi^ęirr irifa qeri afr^: asn^ir 11
+mm fq%ą i
+&zf3i 5i^5]f« eft^-iT fffq%ą n ^ y
+Tenth Month :
+Sugar, grape-juicc. honey and petals ofblus lotus poundcd
+together and taken with milk pacifies the labour pain of the
+tenth month. Also Sunthl cookcd in cow s milk produccs
+similar effect C)r Yasti-madhu, Devadaru and Sunthl cookcd
+in milk and then taking that milk pticifics the labour pain of
+the tenth month. 10
+w i faśm stcsf |3fr i
+fafaśfazr *rrfr ?r \\\\ n
+
+Damara Tantra
+Dhania, Rasafljana, Lodhra and Yasti-madhu be poundcd
+togcther and boilcd on gcntlc hcat. Thcn filtcring ihc cssence
+and taking the Kvatha for thrce days or one wcck would remoye
+the seyerest of the labour pains. 1 1
+wUrsaw *tot. i
+TpjfetjFrT trrFTtrńY ^?tFfT łl>f 111311
+The clay sticking to a pouer's hand, shę-goat s inilk and
+honc>- mixcd up and taken would pacify cven a scycic labour
+pain—thcrc is no doubt about it. 1 -
+ąiftefoostfćrreftfiT: I
+qu: trr^TOT faftTO tfrcrróąmMta 11*311
+Kaścruka, Srńgńta, Payoghana ( water lump ofMotha).
+castor seeds. Śatilwarl should all bc cookcd in milk; with sugar
+added to it and taken will stabili/.e an unstablc foetus. 1 3
+sfasr flwi tffar «Srrnf*rar i
+II W W
+ęf?T łpfTWTPlPf I
+The root of lotus should be poundcd with
+Taking this pastc with honcy and milk: also
+black Tila.
+stabilizcs the
+foetus.
+I nd of the scction on protection of foetus
+3T^T
+sr<JTTća*jitó «rfrnfer u ? n
+Prescriptions for Painless Delivcry
+v Painless Child birth)
+Vaking a |)owdcr of the root of the Śycta-punarnava and
+introducing it into the yagina of the woman under labour pain
+would immcdiatcly help a painless child birth. 1
+ąjwr ątfT fagrfi 3 * *nf ^'3 M H 11
+
+Damara Tantra
+1 acc north and dig out that root of Śvcta-gufija which
+may bc going to thc north dircction Binding this root to tlić
+waist of a pregnant woman would causc an immediatc and
+painlcss child-birlh 9
+gqg^: g# u 3 n
+Dig out that root of Vfisaka plant which may bc going to
+thc north sidc and tic it with scvcn tln cads to thc waist of a
+woman undcr labour pain This will causc a painless dęli¬
+by. 3
+gg^ g gmg^a ^gggfr^gta^g i
+ćfćsriTięrr^ gem: i
+qr gr i
+gfłmsr gggj srg^gs^ u i u
+Takc that fruit of Svcta-gufija which may bc growino- on
+thc norlhcrn sidc of thc plant and lag it to thc hairs of pregnant
+woman. This will causc a painlcss deliycry. Or makin^
+pastę of thc same fruit and applying thc pastc on thc vagina
+of the pregnant woman would also causc a painlcss deliycry
+Binding the root of Sahadcyl plant to thc waist of a p rC g_
+nant woman would also cause a painless deliycry. 4
+sniRinm ^g?g ai$^3<$gg 1
+aWsfrA GćSTgRgr a$q^ 11 \ u
+Dig out an almost 4 fingcr-lcngth of the root of Apamarga
+plant As soon as this root is introduced into the yagina of a
+pregnant woman she will immcdiately giyc birth to a child r )
+gm m^gtg;g fq§T g>R> a%g^g i
+gqiigg 3mrg ggg u % n
+Bound the root of Lańgall plant in waler Introclucing this
+pastc a littlc into the yagina of the pregnant woman and
+
+Damara Tantra
+applying a little on hcr navcl will cfiect an immcdiatc
+n
+dcliycry.
+fddidigćdijd 5^ ^ ^ fasisg i
+ąrfewl: tjśfd sftaęłt ęfręr ihsii
+Digging out two roots of Gufija tree on a Sunday of the
+lunar mansion of Pusya, bind one to the waist of the pregnant
+woman and the other on ltcr head. This will causc immcdiatc
+delhery.
+gTTl^^' *fpr qsgi5qfq«ł smdT fdłfor I
+addlFdgtd Sldd g&d Sl c d" 1 fd fddićl^fSt II
+iTT^gdTd ^ d 3 BiśT I
+ddid^rsT ta w u c u
+i\'akc a powder ofMatuluńga and N . a<i-madhu Jaking
+tlus powder miscd with Ghrta and honey wil cause an
+immcdiatc and painless delivery 1 rinking the K\..tha
+root of Matuluńg mixed with sugar and Ghrta will also producc
+similar cffect
+liW i
+^ 13*1 fataig drft « * 11
+Take water in whicli for soroetimc DaiamTill may have
+becn soaked. Thcn ifa pregnant woman takes this water m.xed
+with Ghita and Saindhava salt she will havc an immcdiatc
+and painless delivCry.
+stffT SR SSll Big *}«* l
+infant sta?* g^d U*o||
+Water should be wcll heated up with this mantra :
+“Auńi mantnatha yahinl lambodarafn munca mufica sv.'h i.
+Now taking this heated water along with the recitation ol the
+same mantra a pregnant woman will have an immediate and
+painless dcliycry. * ^
+
+Dsunara Tantra
+5 nf^ir 9TR5q $f*rc»i>T§ i
+g^seaiłTT^rćT gi śrtó sr*i u u w
+Rccitation ol thc mantra r 'Aih Auih haih namastrimurfcayc n
+in the labour room will causc a painless dcl i v ery to thc
+pregnant woman; thc child so bojn will definitely bc a malc
+child—therc is no doubt about it,
+Ind of thc scction on painless dclivcry
+3T!r łjag^TfąfasrrWW
+fq^T gqt TJ^ĆT^HS: I
+CTif^sfYTTęrer: fwr^rr a^rcusrar: l
+ząĄ WTfćT ^ĆST«JII^ II
+& sifatf 5 5: i
+sftfT '|q g-^rrą II ? II
+Wardingoflf thc ill-cflccts ofthc Plancts and
+Evil Spirits
+Pound together Deyadaru, Gośrńgl Priyańgu, root of
+Bilva trcc excreta of a cat, Kustha, bark of Vamśa trec and
+urine of an elephant. Give an inccnse of this pastę in thc
+labour room and to the body of thc new born infant. Also
+recitc thc mantra : n Auih drayitam tapam thaih tha.h svaha ”
+This will destroy the ill-cffccts of plancts and cvil spirits and
+pacify the fcycrs ctc. if any. Sak i ni, Raksasas, Pręta Pisaca
+and Brahma-raksasas all run far away by this ritualistic
+practicc and fcvers ctc discascs rlso immediately subside i
+$8 ftó S|cT ąer I
+^qt sthjtI TT^usTfmrfrrit n ? n
+Giying incensc in thc liousc continuously with Sandał
+Saindhaya salt, Kustha, Vaca oil, Ghrta and fat pacifics the
+effccts of plancts and the Rńkjasas ctc. rctrcat far away.
+
+Darnara Tantra
+qr?r ę*T ć^T I
+^ęrcsnę ą»*$Jii w %$*{ w
+gqt |f?ćT ąćrf^or srf*?rćT: i
+as gg g=g arirmFćT ęqr|r I
+SlTOFTtfra' ii ą u
+Give incensc with nil thcsc : Śirlsa, leavcs of Nlma tree,
+bark of Gosrńga, Vaca, bark of Vairisa, Sikhipuccha, Kambu
+and Ghrta. Whilc giving thc incensc rccitc the mantra : "Auin
+drutaih munea muftca Uddamarcwara ajfiapayati svaha. M This
+ritual would ward oiT all thc ill cffccts of plancts from th«
+infant, 0
+5fT?faffa*5m $<?l I
+JTFsntfT 9ri5JT?Tt ftćfćT ^fiTI<R: II * II
+If incensc is given with Punarnava, leaves of Nlma,
+mustard and ( hrta, thcrc will be no ill cffcct on cithcr thc
+mother or the chi Id. ^
+^ ?T5!T*TT II U. II
+Snatching any parasite plant growing on a pomegranatc
+trec ancl hanging it on thc door ol thc room in which the
+infant may bc living would drivc away all kinds of planetaiy
+ill-cffccts. ^
+$giipp vr^ćT 1
+3T5łT*H ^15^ II ?i II
+Digging out thc root of Svcta • gufij i ticc on a Sunday in
+thc lun ar mansion of Pitsya and binding it around the ncck of
+the infant dcstroys thc fcar from Dakints. e
+sjćnq^TriTtTn5f 1
+Fr?zr ^qf?qęrrqf^ 11« 11
+
+Damara Tantra
+Mixing the juicc of thc lcaycs of Syetaparajita and
+JayantI and thcn introducing a fcw drops of this mixturc in
+thc nosc of the infant will drivc away the DakinTs and other
+Demons. 7
+Ewrcra ^ćt^rT fqsnn ?a*n1:g;nra nnęg.
+ntain ą* ęk fn*n: fann q^ ę * ę * n*qn «*qn »r«r w
+<bs s: 3: cjpfe mstinnifiT wt?t sfa l
+w Propcr pronunciation of Narasirnha Bija : ''Auńi nr ino
+Narasiihhaya Hiranyakasipuvak§ahsthala yidaranaya tribliuyan
+yyapikaya bhuta-preta-piś .ca d : kinl-kulonmalanaya stambhcdbhayaya samasta dosan hara har visara visara paca paca han
+han kampaya kampaya matha malha hrlih hrlih hrlih phat
+phat thah thah ehyehi rudra ajflapayami svaha.”
+A person welhyersed in thc ritualistic practiccs if with
+a concentrated mind recites this Narasirnha Bija only oncc
+then all thc evil spirits mentioned abovc eithcr residing in
+thc body of the infant or in his room would vanish likc
+darkness at sunrise.
+fRfa? | S* S* I
+The Narasińiha Mantra runs thus : Auiii Aum hrmi
+hrlmhrah hrah phat svaha.”
+s h?t wrotentoń fć^T HfjrcfonT nn
+q?rnTf% u c u
+Consccrating mustard sccds with this Narasińiha \'anti a
+and striking the paticnt with such consecrated mustaid seeds
+would drive away all kinds of planelary ctc. ill effects. g
+fa«fą?ąiąi WT sin ęfact 9T vjąfęr [\\\\
+
+Damara Tarilpa
+Intlicting Misfortune
+Snatch a parasite plant growing on a Nlma trec. If this
+plant is thrown on any w oman she will suffcr from
+misfortune. 1
+3T*F
+zięiT VT^fćI I fftf ^ 3
+II \ II
+Crcatirig Strifc
+Bcing nakcd and cyes closcd snatch witli the mouth a
+port i on of such a root of Nima tree which may bc growing
+on its nórthcrn sidc. If this root is thrown in a person s
+house there will begin a constant strifc. If the root is taken
+out and thrown away normality will prcvail again. 1
+srręft sfrcm 5 ^: U
+erą 1 g;q! ssTćI^i (tl^^ HSH3: l
+ą«rr*Ttó smsrrfćr fqfrr 5 ^: *w U ^ u
+BrahmudayclI plant witli its root and KakamacT should
+bc poundcd togctlicr rcpcatcdly in the juice of Jatlpuspa. Inccnse
+of this pastc should then bc givcn amidst the cncmics of the
+Sadhaka As many of them would inhalc this inccnsc would
+immcdiatcly enter into strifc This can crcatc strifc bctwccn a
+father and his sons. ~
+3T*r śMfrfaPfi
+aHrc fęr?:ęf ftrfafawr i
+<tTćTT53TWT^ćT: I
+sRraiftSfTTCT: wifeOT* II l u
+
+Damara Tantra
+Mcthod of Protcction
+The extrication of Saihyamana mantra from the tcxt is
+as follows • "Aum kr uh hrlm thrIm , ^ or cl Auńi krnh thrTm
+ksrIih ,, . These are Saihyamana mantras. Fifty recitation with
+devotion and faith of this mantra destroys all the adversities.
+Lord Mahadeva Himself always speaks vcry high about this
+mantra. 1
+ą>q t l
+qq^ ąajfirf 1 W U
+ssis^t 5 Ępz i
+?R«IT ĆK*I <£Ef: S^FtS i
+T.W, 5,cqq Sjf^eRI mF*re>9T 1
+Bifewsą ęrS?nFq *n?reśr l
+Złiąssftą Fąf* I
+?r TT^sf?igqrćr: ęmFe^fećWi ę^n^" u ?. w
+A person who with cocentration, devolion and faith
+regularly recitcs this Maha-mantra ‘ Aum hrnh thrlm chrńu
+thrlih thrnh frlńi hrlm” obtains all the well being and
+all his adversities arc destroyed. One who himself makes a
+garland of red flowcrs and then consccrating the garland
+hundred times with the above mantra offers it to the
+DevT 3 obtains lifelong peace and comfort. All the desires of
+such a devotee arc fulfilled and in any house where this
+Mahamantra is preserved, that house always rcmains frcc of
+calamities and unpleasantness. 2
+«sr=fft<R u
+f ^ 3i ? ct l
+3» ęjfij ęjff ęjff <B5 II
+
+Damara Tantra
+fllf '5f c T tWT ^ I
+sst sró wrą i
+ąęft^ir ćtćh^ ?nfę?T wroncg^ u
+fąćŚ 3RT: «R»łT 31«lt: I
+ŚTrfćTfa: ęj^S3Tfq Slffaai f^faćH I
+sif^ng,^ sfr^fr ^jg ^ w 3 H
+Mahadeva said to ParvalT : The mantra "Aum ksrlm
+ksnńi ksńm ksrlm ksrlm phat”, is my I orm and in Jact, it is
+my Dhyana and Japa. Therc is always welfarc and prosperity
+in the house of thc person who performs the Japa of this
+Mantra five hundred times No one in the three worlds can
+equal such a person and every minutę he obtains the fulfilment
+of his desires. In this Loka ( world ) remaining without an
+enemy and always surroundcd with wives, sons, brothers,
+friends and othcr fraternal bcings after death hc obtains thc
+best of comfort in another world.
+33ćrrqv5?T 1
+gfdglfT fostad: 11
+q*!T*l^ 3ĆTTSIT ftćft ^ II * II
+Digging out the root of Śvet?.rka on a Sunday of thc
+lunar mansion of Pusya and wearing it on the arms destroys
+all advcrsities. The Dakinls, Pretas and Demons etc. run
+away by a mere sight of such a person. Giving incensc of
+thc said root drivcs away cvil spirits. 4-
+^ f$Rfa faccT 31HT II * U
+Goilccting thc parasitc plant growing on a Sirisa trcc in
+thc lunar mansion of Purva-bhadrapad and throwing it on
+the forehead of some person makes him devoid of fear 1'rom
+any cptarter. 5
+
+Damara Tantra
+ara łjitłśtapfran:^
+$fspf>Tf i
+ćrraTsrre ^fem ?rra ęfęra: ii \ w
+Driving away parasitcs, pests and insects
+from ihc house
+Pound Haritala with Takra, apply thc pastę all over thc
+body of some puppet and tlicn place that puppct somc whcrc
+in the house. By merely seęing such a puppct all thc houseflies,
+being afraid of its smell, will run away from thc house [
+5%ćiiq?3rafje*ira fćr^tfęrafraći^ i
+Mix K ul masa and powder of Tila in thc milk of thc
+Śvetarka trec and tlicn apply thc pastc on thc leaf of Arka
+tree. If sucii a treated leaf is kept in a house therc will bc
+no mice thcrc., 2
+mens qęTioi ^crJrą i
+aufara ęra i
+# E§T ^ *{i ^rqąiT: U 3 u
+Pound together Haritfda, excicta and urine of a she-goat
+and onion. Applying this pastc on thc body of a mouse
+lcave it alivc. Secing this mouse all other mice will leavc thc
+house altogether. 3
+Pound equal parts of sulphur, Haritala, Brahml and
+Trikatu in thc urine of a goat. Apply as bcforc this pastę on
+the body of a mouse and leave it. All other mice ot thc house,
+sceing that treated mouse would run away. 4
+łreW %% I
+Dig out the root of Arka-vrksa in the lunar mansion of
+
+Damara Tantra
+Magha, mix it with yasti-madhu and place the mixture in
+the field of crops. This will shut the mouth of all the creatures
+such as flies and mice etc who destroy or eat away the
+grams.
+fęręr wętjfrrr wgpTTTt II S Ił
+The twigs and ilowers of Rohisa tree be enclosed in a
+wiek and then that wiek burnt in a lamp. Merc sight of this
+lamp will destroy all the smali inseets. 6
+ęęąi 4V4 Sff4fa Wf°T» 11 0 0
+Making a wiek of the frontal portion of the leaves of
+SomaiTijT tree it sliould be burnt in a lamp This will, as
+before destroy all the smaller inseets.
+4tq mf ? ćl SćfOTT: II e II
+Making a wiek of the cotton of Arka fruit burn it m
+the bitter oil of Arka itsclf. This will destroy all kinds of
+flies and mice etc.
+5 EC T I
+S3?53 iTTOTSUfa feęftesn II & H
+7-lowers and fruits of Arjuna tree, L".ksa, Sandał, Cuggulu,
+root of Śvetaparajita, rhalPtaka and Bidańga should all be
+mixcd togelher and rcduced to powder and then jtticc of Sarja
+be added to it. Giving incense of this compound in ihc housc
+will make snakes mice, smali inseets and flies leave the housc
+and run away in all directions.
+gssfarsRemćr faq>?n3ćm l
+^qtąfjaą>g4fti tl t® II
+
+Damara Tantra
+Jaggery, c andal J Bhallataka, Bidańga Triphala and fruit
+•f Arka should all be powdered and mixed with thc resin of
+Laksa. Giving incense of this mixture to the house will destroy
+all the snakcs and scorpions infesting thc house. 1 U
+Saryarasa ( salinę solution of thc resin of Laksa ), fat, root
+of Arjuna tree, Jhintl ( Maruyaka ), root of Ketakl and
+Nakhayiddha should all be mi>;cd togethcr. Whcrcyer incense
+of this mixture is giycn thcre will bc no snakcs, mice, Iti cs
+and other insccts. 1 i
+CHAPTl'.R THRF.E
+g^rsnfarfW:
+^ ęęąi
+*t| ??ąfg- mu
+Greation of Ayersion
+On the night of a Tucsday obtaining a piece of coal of
+funeral pyrę from the Gremation ground in a black cloth.
+binding it with a red thread and throwing it in the house of
+an enemy will causc a complete Ayersion in him—there is no
+doubt about it. 1
+5t| Q%|=5WT£rT II
+II V II
+Make a five finger length of nail of the wood of Gitraka
+tree in the lunar mansion of Punaryasu and consecrate it scven
+times with thc mantra “Aum lohitamnkhe syaha,” In whateyer
+
+i amara Tantra
+house tliis couLsecratcd nail is buricd tliere will be complctc
+avcrsion in thc membcrs. Howcver, before using ihe mantra
+it should first be awakencd by one thousand and eight Japas. 2
+$ zręzr Gra *rąćf li
+: & fafa fafr raąr u 3 n
+Taking a four finger long piece of wood of I'diunbara
+trcc one should consccratc it with thc mantra "Audi Sini Sini
+svaha.” In a house where this consecrated piece of wood is
+buricd thcrc will be aversion among the membcrs of that
+house—therc is no doubt about it.
+mansion of bharanl oonseerate it
+“Auih daha daha laha laha svaha.
+bonc is burried thcrc will bc av<
+ersion in the members of thc
+house.
+T3TTf3 ^i^*i •
+^ęrrffir łfwwffirfr "
+: eS nut WTct ^ gęrIn whomsocver namc one hundred eight oblations of thc
+leathers of crow and owi arc poured in thc firc with thc
+rccitation of thc following mantra hc with his entire family
+and relations would develop complctc ayersion. 1 he mantra is
+“Aum namo bhagawatc rudraya hum damstrakaralaya amukaih
+( In place of Amukam substitute the name of the person wlrosc
+ayersion is intended ) saputra bandhayaih saha han han daha
+
+Damara Tantra
+daha paca paca ślghraiii uccaiaya uccataya hu fn phat svaha
+thali thali ” r.
+%qifcą>T'f>f c RT f T i
+trw sftesrrzfr u
+Apply the bile c>r a crow on a nail of one fingcr in lcngtli
+and consecrate it with thc mantra "Aum hrińi dandin
+dandin mahadandin namo’stutc thali thah.” In any housc
+wherc this consecralcd nail will bc buried thcrc will bc
+complete aversion among tbe mcmbcrs of thc housc. G
+fddfoś sf i
+5Trr;?T n t? n
+Bringirtg from thc Gremation ground a piece of the shroud
+of some corpsc and thc garlands laid on that corpsc on the
+cightli or fourtccnth day of a fortnight and burying thcm in a
+housc will crealc aversion among all thc membcrs of that housc.
+1 aking out thrsc things from thc housc woitld restorc normalcy
+and pcacc again. j
+Fdn^fiętT ąąqTd 1
+^ *T?T ęidH II e; II
+Taking thc root of Svcta lańgalika and burying it in a
+housc would causc aycrsion in thc rncmbers of that housc_
+thcrc is absolutcly no doubt about it. g
+cttaptf-r rOUR
+w f^ar^orfirpŁri
+cmr i
+fafaćsrig \
+
+Damara Tantra
+fą|«ft srmcr a*r u x u
+Disscnsion
+Taking acrow’s feather in one hand and an owl’s feather in
+anothcr one should recilc tlie Mantra of MahalShairava. Thcn
+putting both thc fealhers together in front of himself thc
+Sadhaka should bind them with a black thread. Now, reciting
+tlie names or the pcrsons betwecn whom disscnsion is dcsired
+thc Sadhaka, holding thc two ticd fcathcrs in his hand perform
+Tarpana ( pouring water oblations ). Doing so for one week
+and thcn reciting thc Mahabhairava mantra ( sec below ) one
+hundred and ciglu times will causc disscnsion betwecn dic
+dcsired pcrsons.
+fćTT I
+fągąt urmcT II
+^ *^sriiT
+$ 5 f^ li R u
+Taking the excreta ofcatsand mice thc Sadhaka should
+preparc two puppets and wrap them with bluc cloth. Now,
+reciting the names of pcrsons betwecn whom disscnsion is
+dcsired, the Sadhaka should rccite thc Mahabhairava mantra
+one hundred and cight times. This will causc serious disscnsion
+betwecn thc intended pcrsons. Not only this, it w dl creatc
+dissension evcn betwecn father and sons or betwecn two rcal
+o
+brothers.
+The Mahabhairava mantra for thc above rituals runs
+thus : -'Aum namo Mahabhairavaya śmaśanavasinyai amukaxnukayorvidvesaih kuru kuru kruth phat.
+
+JJamara Tantra
+f?fć*T f^łW 5I?Ta^łłS^^|^ą?^ ||
+<rcm FsFszir ssrgćr: i
+32- tT 3T: q>£tefft SHłteffaft *ft€r iftfr srpęq- Sf|%q- ą f
+fę w ę^r ii 3 n
+sfa Fąg^roiF^Fcr
+Holding carefully willi 1- usa grass a fcalhcr of a crow in
+one hand and a feather of an owi in another the Sadhaka
+should pronouncc ihc natnes of the persons betwccn whom
+dissension is desired, ofFer one thousand eight oblations of
+water by joining both hands and putting red I'aravira fiower
+in each oblątion, and also recite this mantra eyery tirne r; Auih
+namah katotanl pramótanlkl gauri gaurl amnkasya amukena
+( herc substitute the names of ihc persons between whom
+dissension is intended ) salta kakolukadivat kuru kuru
+svaha. ,; n
+o
+I nd of tlić scction on Dissension
+aro ćzrrF^^crf aF^re^
+<§§mą aąr tr^ftrd ii i ii
+Inflicting and also curing Diseases
+Rcciting the mantra "Aum amukaih ( herc substitute the
+namc of the person against whom the rilual is intended ) han
+han svahV ; if the Sadhaka effers oblations of bitter oil mixcd
+with Trikatu in fire his enemy would bccomc dcaf. [
+3^r $qfcFęrf|frrgn i
+Faq^ f ś u ^ 0
+Guflja should be powdered with Bhallataka juicc. Now,
+on whosc face this powder will be thrown he will devclop
+leprosy But if sugar, honey and milk mixed together is rubbed
+on his face he will bc normal again 2
+
+Damarn Tantra
+^rg;^ fsrte ęmę^aitęinfaST u
+H rtf ^ITĆT ćft^^le^TćTT f^TT**** II 3 »
+VanarTphala ( a kind of crcepcr whose fruits have hair-like
+fibrcs on thcir outcr body. Locally callcd Alktólra ). Vi'sva,
+Bhallataka, Citraka and Gunja if miscd togclhcr and thro^n
+on thc body of an enemy hc will deyelop Luta ( a kim o
+cutaneous discasc sald to be produced by thc moisturcofa
+spider. It rescroblcs to the cutaneous erruptions known as
+harpies causing scverc pain to thc yjctun. but pounc m
+Ute*. sandał, Priyańgu, red Sandał and Tagar m jater and
+applying it to the body of the victim would cure bu d.scase.
+A pigs milk and nil wrhether applied In thc l*dy »r drunk
+orally curcs wbite leprosy. C,iving a peraon d» tnscctJt„o ™
+; , . _ i _ tr i w would also creatc wbite
+as Indragopa wrapped tn a b ^
+icprosy.
+53^ q[^sqiręifZI OTWti* II «. li
+Moist wood of Karavlra t, cc should be rcdaccd to ,tender.
+Iflhis powder, either wrapped in a betel leafor in a„y o,ber
+form, i, given to a person to ea. .hen that person would become
+tfrą m^qti «I«IW IW li' 3 ' a q, 'J
+f ^OT JT^ct II ^ -
+ai^fr ęiąon|fćjiT8e?ęr ** ^ I 5 * 1 ' v '" n
+If cight thousand oblations arc given in fire with Nim.
+lcavcs mixed with some bitter oil wilh.be recltation of d»
+
+Damara Tantra
+mantra "Auwi Camnnrlc hana hana daha daha paca paca
+Amukarh ( substitutc thc namc of llie victim liere ) grhna
+grhna svaha n then the yictim will immediatcly sufFer From a
+scrious type of feyer. g
+«rft faćTrsftt: II o ||
+If an enemy is toadc lo cat a finc powder of Haritala and
+Dhurtabija mixcd together hc will atoncc becomc mad. But,
+if sweetened milk is giycn to him hc will regain normalcy. 7
+łrtaćT i
+BrjTTSffttfT qi5r?rtriTrrfTT5r?rrf || c II
+If equal parts of co\v’s C hrla, ’ aindhava salt and bile of a
+pig mixed in goats milk is givcn to an insanc person his
+insanity would bc curcd <>
+CHAPTER 11VE
+3W irrcor&fa:
+»t| g^STIT: ||
+*T«T?5 1 & & 'tz.WĘj 1 gwarną \\\\\
+Marana or Liquidation
+Obtain a four finger length of human bonę in thc lunar
+mansion of Pusya. As long as this bonę would be kepi buried
+in a house so long the members of that house would be
+gradually liquidatcd. I-Iowever, one should perform this ritual
+only after one thousand Japa of thc mantra "Aum hrlńi phai
+sv3ha.” •'
+** Serowi* I
+
+Damara Tanira
+One finger length of a serpent's bonc if consecrated sevcn
+tiraes \vith'lhe mantra “Auńi SureWaraya svaha” and buried
+in the housc of an enemy in the 'lunar mansion of Afclesa tlien
+the eh ii dren of that enemy would be liąuidatcd.
+f^ tfort l
+11 ęsifT i fsfs: u ą n
+Consccrating seven times four finger length of a bonę of
+horsc with the mantra : “Huih Hum phat svaha”, if il is buried
+in the housc of an enemy in the lunar mansion of Aśvinl tlien
+the entire family of that enemy would be liąuidatcd.
+& ś st &i ii *t si ti ś w: su# *rf f i s: s: i
+sr^rT ireiferotatf
+wrffc i r . P .
+anta flr-ąor nssmforófa*
+?JTTfSTTT WGTlź SI STCT! ęSIS 11 * H
+Consccrating a thousand times a piece of human bonc with
+the mantra : "Auih dam dani ę’Tm dufn {Kim dem Oabli dom
+daum dam dah amukain ( substitutc amukaib with the namc of
+the enemy ) grhpa gihna huih lium thah thah and burying it
+cithcr in the housc of an enemy, or in the cremation ground,
+or throwing it in a burning pyrę with the name of that enemy,
+the enemy would be Liąuidatcd by a very sevcrc typc ol
+fever. ^
+wisfai f?n ! ss 5: ęT E P sratt i
+ęrstsl ęsrsfsęsr u n II
+Burying a parasite plant growing on a Nlma tree in the
+lunar mansion of Ardra in the bedroom of the enemy would
+
+Damara Tantra
+causc his death, but as soon as thc plant is dug out thc dead
+would rcgain consciousncss.
+Also kecping a parasitc plant of Śirisa trce in the lunar
+mansion of Ardra in thc housc of an cney would cause his
+death. 5
+fćlćtó ^ T 1
+^ItTćęfOTlI^ sftfesęf ^ spf *ritćT I! % II
+Applying a 'l ilaka on his forchcad with thc blcod of a black
+buli mixcd with thc clay of thc rivcr ( angcs whomsocycr a
+Sadhaka talks, that person would immcdiately bc struck down.
+Howevcr, as soon as thc Tilaka is nSfebed off, thc yictim will
+regain his health. ę
+f ęąr qrłT|ęćr«i>ffTgqr \
+4 f$R> ćfęq *qfći fafetTg II \s ||
+Obtain thc hairs of thc hoof of a goat and a horsc and
+four feathers cach of a black cock and a crow and rcduce all
+these things to ash by burning them together. Now, mix water
+in this ash and put a Tilaka on thc forchcad with thc littlc
+finger of thc Icft hand. With this Tilaka on his forchcad
+whomsocycr thc Sadhaka would bow down to salute that person
+would immcdiately bc struck down. y
+ęrcriT fq??*rg33 |
+irqf fsrct goj f^T |
+fT?55rr^fr n?ęr<JTTfśrqr u c \\
+Takc thc left sidc tooth of thc lowcr jaw of a crab and
+make it the head of an arrow. Make a bow of thc wood of a
+
+Dasaara Tantra
+funeral pyrc and llic bowstring out of thc vcin of an animal (?).
+The enemy should bc madę out of clay. Now, as soon as an
+arrow is sliot from thc bow so madc on the clay-enctny the
+rcal enemy would immcditatclv dic — therc is no doubt about
+fttjfąsr 3 farfafertą !
+arrssraaratffaw fsrfa 1
+fmet SSefr 5fn li fi. li
+?ffT tiitit f^fsf fi^rro
+Takc ihe cxcrcta of the enemy and a scorpion and putting
+thesc two things in a clay pot covcr its mouth with clay. As
+soon as this pot is buried in a hole in thc ground the bowcls
+of thc enemy would be chokcd and hc would not be able to
+pass his stool, and inay ultimatcly die. However, taking thc
+buried pot out and throwing its contcnts would make the
+enemy normal again.
+Fnd of the scction on methods for licpiidation
+ćsrf^flT 5 ^ tT I
+Liąuidation ofHorscs
+Application of thc powder of black Jtraka in the eyes of
+thc horse will make him blind but washing thc eyes with
+Takra will make him normal again. 10
+5 T[ót I
+frrsTm^ * w U w
+Dry a dcad rnusk rat andthen rcduce it to powder. Making
+a horse smell this powder would make it fali on thc ground.
+ITo w cyc r, mixing sandal-pastc in a little water and putting this
+
+Damara Tantra
+watcr in the nosc of the horsc would make it healthy again. 1 1
+irroi&sr ii
+*^3 : a* q«? ii n li
+If a seven finger length of a horses's bonę in the lunar
+mansion of Asvinl is buried in the stable of horses no horse
+would enter ihe stable. But before doing so ihc Sadhaka should
+perform Japa of the mantra “Aum paca paca svaha. ,; 12
+aiEig^sjTiriif^ fat^zTrerorsp i
+ęrćrTfiniNś srfwrtfr srięftą i
+3 S> ii \ w
+Destroying the stock o i' clothings of a Washcrman
+. Take an eight finger length of wood of JatI trec in the
+lunar mansion of Purva-phalgunl* consecrate it one hundred
+times with the mantra “Auih Kumbham svaha ,; and bury it
+in the house of the washcrman. This will destory all the stock
+of clothings in his house. 1
+ęfinir s^ęgfziT i
+arsrg^ ii
+i a* sr% ęąr^r o * (i
+Method for destroying the fishes of a fisherman
+Take an eight finger length of wood of Badań tree in the
+lunar mansion of Purva-phalgunT and bury it in the fisherman’s
+house with the recitation of the Mantra "Auihjale svaha. M
+r J his will destroy not only the fishes of the house but all the
+fishes of his water-pond if he owns any. 1
+f>ig^ ąfr^ fstóą i
+gsteffa Q?Tirrct *tćr*3* ii h ii
+
+Damara Tantra
+G7
+Takc one fingcr lcngth of wood of Ark trce in thc lunar
+mansion of Krttika and throw it in ihc pond of ihe enemy.
+This will deslroy all ihe fishes of the reservoir. 2
+frfafięg frafrrcrf2rf«r:
+rfr^^^ęnęirifr fter as? f%^T^qfćr n
+s* zę 1sćta s?*®? sfęrsrc: ii ? u
+Mcthod of destroying the oil-slock
+of an oil merchant
+Reciting one thousand limes the mantra u Auńi daha daha
+svaha/ ; takc four fingcr lcngth of Yastimadhu and bury it in
+the house of thc oil merchant in the lunar mansion of Gitra.
+This will destroy the entirc stock of his Oil. 1
+^prra^FB fawf >t| i
+STST^ęf ĆT3TT ^ ii ^ II
+If an eiglit fingcr lcngth of wood of Bhallataka trec is
+buried in thc lunar mansion of Citra in the house of the
+Oil-mcrchant no purchaser or customcr would evcr come to
+that merchant. ^
+m !»fcTfTI*Tfafa!
+fafafcgTrwr 3r*fWBW l
+Bjgigęf iffaiffj qr^irqqfćF ii ? ii
+Method of destroying Milk
+Throwing an eiglit fingcr length of wood of Jambu tree in
+in the lunar mansion of Anuradha in thc house of a milk man
+will destroy his cnlire stock of milk. 1
+ara- ęrrfifiTęTfaftJ - :
+Jpcjsp =ffÓT3 ć!?T fafafcjlćTfafaff*! I
+JT^ffćT 5fqioq?q?l?Tlf!T S II ni
+Method for the destruction of Orops.
+Mixing sulphur powder in water and throw ing it in the
+
+Damara Tantra
+field of an enemy would destory all the crop of that field. If
+howeyer, somc crop cscapes dcstruction it will havc no hcalthy
+growth. 1
+ćnffjTOCT 31 «£& «jr elfami^ i
+stct ęięzr <ą Orfsaćr^ li \ u
+Method for the destruction of bctcl-leavcs
+Taking a nine finger-length of wood of betel*nut tree in
+the lunar mansion of Satabhisa and throwing it eilher in tlić
+housc or field of the betel-leaf-scllcr would desiroy his entire
+stock—there is no doubt about it. 1
+m ^rfonirerfafa:
+śteęrfpsp ff^^rur i
+>T| fSTR fTT5II^?f^ ii \ ||
+ęfp jtropi
+Method for the dcstruction of Winę
+Taking sixtcen finger-length of wood of Śyctarka tree in
+the lunar mansion of Krttika and throwing it in the house of
+of a person who cither manufacturcs winę or sells it, will
+destroy all the stock of winę in \vhatevcr stage of production it
+may be. 1
+Fnd of the Section on Liquidation
+w ąjTwrfafg:
+g gJTlTTff |
+STJB SlfćWt RfpłTT?5 |
+zuą *tr srr*T^ ą>isnT ^ i
+
+Damara Tantra
+: q t si?ćró a» haftem l aft* "
+ai^?T tt^ot TfBtsErm^rPrr ^afategaifa !g§*ną 1 ąifeti
+??ifrr i # sfi m*tfr fafs flr *mi i ^ h^«t *xfi55^^ 3R*T faęŚ fSET^ĆT I ^ <*« ^ I WTBt 3H5T
+318551 jnSfa>3°T 5 ?Tfćr u ? ii
+sfa ą>mr«fe i
+Fulfilmcnt of Desires
+Takc one finger length of the root of Śvetarka trec on a
+Sunday of the lunar mansion of Pusya and make an idol of
+Ganek of the size of the thumb. Thereafter. sbjugating the
+senśes, eating only sacrif.cial food and with devotion the
+Sadhaka should worship that idol with the Bijamantra, red
+KaravTra flowers and fragrances. By doing so whateyer be the
+desire of the Sadhaka that will be fulfillcd within one month.
+But for the fulfilmcnt of cach desire the Sadhaka should worship
+the idol daily for one month The worship should, as indicated
+aboye. be done with the Bija-mantra "Auih Antańksaya svah.w
+Thereafter with the mantra “Auih hrlih puryadąyat auih hrlin
+phai. svaha,” the Sadhaka should perform Homa ( offer oblations in the sacrif.cial fire ) with red FaravTra flowers mixcd
+with Ghrta and honcy. Worshipping only in this manner
+the Cod pleases and fulfills the desires. Apart from this a
+Sadhaka should offer red V aravira flowers to the Cod with the
+rccitation of the mantra "Auih hrlih Śrlńi namaść siddhikarl
+hrlih namah ” Tn this manner offering one lac (, 1,00,000'
+flowers rcciting the mantra everytime a flower is oflered. Ihus
+the boon-giver Goddess BhagawatT is pleased and fulfills all
+the desires of the Sadhaka.
+End of the section on Fulfilment of Wishes
+
+7U
+Damara Tantra
+irmfafs^rrw ląfsmfaę ^ćtjt ti
+3^r*T ITT^ą ęSTTflfara* arsrftearn i
+?Rł»i «Tćąr ^g?3 Sfl«qaT II
+^T?5fflTią 31^ 33 Wr^wĄó r I
+& sFcrt-tars ^r|T i sr^rf sr^ą « \ u
+Supernatural perfection of Speech
+Wcaring on the hands the parasite plant growing on SnuhT
+trec in ihe lunar mansion of Krttika with the rccitation of the
+mantra : a Aum Antariksaya syaha/* provides supernatural
+perfection of Speech—this is an cxtraordinary mi racie.
+Wcaring on the hands the parasite plant growing on the
+BadarT tree in the lunar mansion of SyatT willi the rccitation
+of the same mantra ( Sec para 1 abovc ) the Sadhaka gets anv
+and eyerything which he desires. 1
+SJ?T 33 q*RTJT 33 fa II \ \\
+Making wealth and food-grains inexhaustible
+Collecting the parasite plant growing on the Bahuyaraka
+tree in the lunar mansion of Magha and kceping it in the
+granary makes it defmitely inexhaustible. 1
+%qRTfęr^T^n i
+tfpmró 5 ętefrś ii 3 y
+Taking a parasite plant growing on the Sephalikń tree in
+the lunar mansion of Hasta and placing it in the granary will
+make the stock of grains inexhaustiblc. 2
+vr^qt fęrsssró \
+wyri n \ \\
+Taking a parasite plant growing on Ku$a tree in the lunar
+
+Damara Tantra
+mansion of Bharaiu, if a wise man puts it in his granary
+thcn all his wealth and foodgrains would definitely becomc
+inexhaustiblc. 3
+ę«uq5r^ affeanfea li
+a* I H f? T
+ąi«qcr ii * u
+A wise man laking a parasitc plant growing on the
+l dumbara trcc in the lunar mansion of Rohii.il, consecrating
+it with the mantra "Auih naino Dhanadaya svahii” and again
+reciting this very mantra puts tliat parasite plant in his
+trcasury, his wcaltli would becomc incxhaustlblc, ‘1
+?TT3fT ***$ I
+qęf ^ fwRifiw ę* ^ u l w
+Mcthod for making the Voice melodious
+Lea\ es of JatT tree, Kana, Łaja, the leaves of Matulu ńga
+and Madhu ( honcy ) should all be ground together. 'laking
+one pala of this medicinc daily will make the voicc cvcn
+morę melodious than Kinnaras ( a kind of Demi-gods who
+arc said to possess a vcry melodious voicc ). 1
+tjust q mu ^ćrr i
+ąftfeęrffl* ^ ii ^ n
+Sugar and honey should bc mixed with the powder of
+Śunthl and thcn pills be madę out of this mixturc. laking a
+pili daily will make the voicc swcctcr than that of a Guckoo. 11
+fest: 9 g u ? n
+Mixing the powder of Nirgunęlt in fil oil and taking it
+daily would enablc the Sadhaka to sing along with the
+Kinnaras 3
+
+Dam ara Tantra
+%<jtt 5«5T *m eną I
+fq^rą ww fost: w. iftecT ii * n
+Take Bahera Kana, SunthT, Saindhava salt and Tvaka
+( Dalclnl ) in cqual ąuantitics and mix iliem with a cow's
+urine. Taking 2 tolas of this mixture daily makcs thc voicc
+so melodious that the Sadhaka can sing with thc K ihnaras. 4
+3PT SRTCIPI
+ki i
+?r II \ II
+Trcaimcnt of Fyes
+lloot of white Punarnaya should be ground in Ghrta.
+Daily application of this as collyrium to the eycs will cure thc
+diseases of cxcessive water dischargc from thc eycs. The same
+root ground with Haridra and its application to thc eycs as a
+collyrium will curc thc eyes of pains if any. 1
+«ST*fę*śrT ^T£«?T |
+ąffćl II R 11
+Sambukamba or Varatamba should bc dried, burnt and
+then reduccd to a fine powder. Mixing this powder in purc
+butter and then applying it as a collyrium to the eycs cures
+even white spots in the black portion of thc eyes. 2
+ąqfq>i?r ą>T*pmqV s$vfT frcwfaćiT i
+^ręiTćrs ursawg TT^gfs^ą ęmą u 3 u
+Taking in thc rainy season a KakamacI plant with its
+roots cook it in oil. Taking this oil for a month makcs thc
+eyesight as sharp as that of a yulturc. o
+5furgt fafjr i
+«aifqęr firną « v u
+Pound Hantaki or seed of JayantI in thc milk of a
+w oman 'e brcast. Application ol this as collyrium to thc cycs
+
+faamara Tantra
+curcs discascs like night blindness, dischargc of blood from
+tlić cyes and overgrowth of flesh aiound the cyes, ^
+f ś <ą I
+q33rr ^ si3f f fiF*T f *TJnf«5T«n' i
+gą^ćf sre $wt 9nftwft°r i
+fTIStffafiK * I
+stFłtepiFjt ? meTf^T rar w* * ^Fa «
+eifq y*r fn^ćT l
+gf 259 ?gtę*u «rm Efs sęufęjfi I
+siut^t Jim u * '»
+HarTtakl, Vaca, Kustha, PippalT, Marica, core of
+Vibhltaka, Śaihkhanabhi and Manal/sila should all bc taken
+in eąual cp.antitics and poundcd in a goats rńilk and pills
+madc out of this pasie. Thcse pills be drjcd in shadc. 'i his js
+callcd Candrodaya pili. Using thesc pills as a collyrium and
+applicd to the cyes curcs tliecyesight, itching, partial blindness.
+cataract. «scessive growth of llesh around the cyes and night
+blindness. If this great medicinc is uscd for one month
+continuously it destroys cven two year old White spot of the eyc.
+In short, this Candrodaya pili sharpens the eyesiglu and kecps
+ihe cye frcc of discascs.
+A person who, discarding unhealthy food. in the cvcning
+takes Triphala powder mixcd with Gluta and honcy . becomcs
+free of cvery kind of discasc of the cye. 5
+st?i*N 3iF*w ll l U
+Guring dcafness and improying the
+power of hearing
+Gook well the Kwatha of Dasamula with its one fourth
+
+Damara Tantra
+quantitv of oil. During thc process of cooking add a littlc
+morę of Dasamula. The medicine which is prepared thus
+destroys deafness
+Dasamula consists of ten herbs, viz„ Trikantaka, both
+kincls of Brhatls, PithaparnI Vidarlgandha. Bilya
+Agnimantha, Tuntuka, Patala and KasmarT 1
+The powder of Manahsila and thc root of Apamar«a
+mixed willi honey if taken 2 Tolas daily will cuie deafness. o
+ęrajfrmępp ei?r fa§r ^35^ 1
+jot 1
+Taking equal ąuantitics of Garlic, Amalakl, Haritala w i tli
+four times oil should be pounded together. Then all thesc
+should be cooked in a pot with milk taken four times ul
+oil. When all thc milk is burnt up and only oil remains ther
+the pot should be remoyed from thc fire. Introducing a fcw
+drops of this oil daily in thc cars curcs deafness. o
+ę?ęł?r fr?ęrnT#T?rięmt: 1
+ćmrnr ą><if eWsm » < n
+Tagara and thc root of Palaśa trcc should be chcwcd
+1 hereafter cithcr the chcwcd residue or its juicc ifdropped
+in the ear will destroy any insect which may liave crept j n
+the ear.
+%5f fes wfflwtfgćPi 1
+ą?*? faitrTęfaeme: 11 * u
+The juice of NilTbradhna should bc cooked in oil and
+mixed with Kaftjl. Introducing a few drops of this juice when
+it is tepid will destroy all kinds of insects which tn a y be
+there in the ear.
+
+Damara Tahtra
+^%?r ^fćf u<n f77;gr?ćr i
+^p>eąi^ąct?T ^mi^T ą™ fir*ng^ u * li
+Rubbing cither a pig’s oil or blood of Carmacataka to
+the car increases its size. 6
+SR^ŁTF 7^F f 8 *r3rrqcqfęrą;i I
+śtaTą; ^ n ® ii
+Taking erjual parts Awagandha, Yaca, Kustha and
+( ajapippalt they should all be rcduced to a finc powdcr.
+Rubbing the ear with this powdcr mi.scd with a buflalos
+butter increases the hcaring power. 7
+fest*? %'7srqTqijf stf i
+7%qtsń f^Feft fą5hgEćF II « II
+Pounding together cqual ąuantities of Siddhartha, BrhatI
+and Apamwga and then mixing in this pastę the milk of a
+goat, iT rubbed on the car, will incrcase the lobcs of the
+ears. ^
+ĆTFWF^ i
+fq|T ^ jfcąjT 7>r7? fofiT ^ĆF tl \ 11
+Strengtliening the Dentures
+Cook for a few seconds the powdcr of Hamaki and honey
+in a copper vessel. Thcrcafter pounding them well preparc
+pi lis out of the pastę. Keeping this pili in the mouth destro>s
+all the germs of the teeth. 1
+ą?atffą I
+Tiratw *FF7 II R II
+Putting in the mouth the rool of Snuht plant destroys
+dcntal germs. Cooking Kaśtsa with Gluta and then putting it
+in the mouth cures toothachc. 2
+7r sireF5U«TaM
+fę^i: ę^wftrćFi <?ferrę^fs&f?ęFvi7fnq u 3 li
+
+Damara Tantra
+Chcwing thc leaves of JatT trec or F olaka Irce aftcr
+getting up in thc morning and using thc thin twig of thc
+same trec for clcaning thc leeth makes cvcn loosc tccih
+fixcd again. 3
+^ ąrfWT I
+5% ^ n v ii
+Even a toolh which nceds extraction can be madc hcalthy
+and firm again by chcwing thc Bakula fruit Pound thc seeds
+of Bakula fruit boil them in pure water. Now, gargling
+with this water when it is tepid also makes tccth firm 4
+sst: ^5»f^rrTT TOrginn św. \\ * n
+Boil thc bark of Bakula trec in water and hołd that water
+in the moulh when it is bcarably warm. Doing so for scvcn
+days will make cven loosc leeth firm again. 5
+$qff?ir
+1^3 $ CJTćpjrfęęj s^ąi: \\ i u
+Science of Serpents
+Whitc snakes arc known as Brahraanas red are Ksatriyasycllow arc Vaisyas and the l)lack arc Sfidras. \
+3R?ćT: f srnjspti ?TĘ qićqą>: |
+waw *rgn<T qrfT z: q^T ąą ^ i
+^<TćT %«TT faf || ^ l(
+There arc eight familics of Serpents viz. Ananta, Kulika.
+Vasukl, Śańikhapalaka, Tak jaka, Mahapadma. Karkotaka ancl
+Padma. The difierent characteristics of thcsc eight kinds of
+serpents as deseribed by Lord Śiva, are as follows : 2
+jfoiwpfór $5 ^ m%\
+WĘ stow fęrcfa ^ i
+
+Damara Tantra
+ę«pfcęćrer«r. tnffirfHga: I
+^RHćf HHt fa^Urwrm ?8ćt: I
+g EW*% 3,^ T: qig rąfaąi 1
+ąą ąt%ftT smąiąte faątfećm; u
+łjfątatfmfó fęr33 ? ^ Himąt ^h: i
+ęsaęam ęrofan 'mfar ą^t hht i
+sąm^r nm hPsh^ hht u 3 u
+Ananta bas a whitc lotus maik on his licad and back,
+Kulika bas a maik of Conchshcll on bis hcad; \ asuki bas a
+lotus on his back; Karkota has a mark likc ilncc cycs on liis
+brcast; Taksaka has thc outlinc of a harc on his body;
+Śamkhapala has a Taiśfda and crcsccnt sign on his hcad;
+Mahapadma has on his back thc dots of various colours; and
+thc serpent named Padroa has fwc red dots on his back In
+this manner a person who can idcntily thc names and specics
+of serpents on thc basis of thc charactcristic marks desenbed
+by Lord Mahadeya, his mantra and mcdicincs bccome
+succcssful and thc serpents on just sccing such a man run
+away from him.
+aiwćft firatta i
+ęfwnrqft«r3r i
+ąąąt 35m« H V 11
+Serpent-bites also havc becn dcclarcd to be of ten kinds,
+i. c. Bhita (fearful), Unmatta( frantic ), Ksudharta (hungry),
+Akranta ( ovcrrun or tormented ), Viśa-darpita ( prrdc ol
+poison ), Aharcccha ( desirous of food ), Rosayukta ( angry ),
+Sva-sthana-pariraksaka ( protccting his hving place ), Yairisandhana ( for taking reyenge ) and Kala ( Death ). 4
+
+Dama.ru Tantra
+^TRasriłft ćrcr ^ orns^f% i
+^5 WPł? % gST^cf ff sforffćT JUd^T.' n K II
+A person bitten by a snakc in these places. i e. garden,
+delapłdated well, Vata-vrksa, dry Irce, cremation ground,
+Plaksa tree, Sigru Irce, tempie, and \cgctablc plants, will
+dcfinitely dic. 5
+3 r«T ^^ęęwii
+*rt«N5 Ęfośt V Ń^rąfćr n % w
+Bctwecn the eycbrows, lips, forehead, thighs, eyes, on the
+ncck, cheeks, throat, middlc of the hand, palatc, breasts, tlić
+shoulders, bclly, penis, testicles, nayel and yital joints arc the
+places wheic ii a person is bitten by a snake will nevcr
+survive. q
+nft* gąągt *t |
+sr^łfr ^q? aimwir |
+asimfawm srttłiT ?rqęgfą;iTfęm: u y> n
+A person bitten by snakes on Sundays, Tuesday and
+Saturday nevcr survivcs. Astami, PaftcatnT, Pfirnima, Amavasya
+and Caturdaśl have bcen said to be inauspicious davs of the
+fortnight and a person bitten on these days dcfinitely dics. 7
+ffopr gm fiwrar ćw i
+f%5fTQ^r«TT ff śftąfa II c II
+Krttika.Sravaj.ia, Mfila, Yiśakha, BharanT, Purvasadha
+Purvaphalguni, Purva-bhadrapada, Ginu, and A'svinl arc the
+lunar mansion in which a person bitten by a snakc will haye
+no hope for survival. ,,
+
+Dainara Tantra
+ąjT5f^r srclęrr eqse1 ?r sfafa li 5. ił
+Mid-day, morning and eyening. midnight and laicr part
+of the night have becn said to bc ihe limes of death and
+altack. Thcrcforc a person bitten by a snake in thesetimes can
+nevcr bc saved. - 1
+ćii^frro«t zfts*^ęr^fęrvi: i
+fat^fći far«f .wsrtfsra u ?« ll
+Hook-likc tceth which are situated in the palatc of the
+snakes dischargc deadly poison which is callcd Kala ( Death
+person ified ).
+^^TfifeTS qr ęsr: qwsr*f<E?rT?fo i
+5|ćJ^^TT 3T faęęfofą q sfafćT ll U ił
+If ihe place of snakc-bite looks like a discus ov ripc Jambu
+fruit or blue or wbite or red then cvcn the Gods cannot save
+the victim. ' '
+%ęqi 5151^% fTBęęftssraT I
+aćST<JTi^Tt^?i|sr ęftsfq u w
+lf at the bitten spot there is intense pain or the mark of
+the bite is not visiblc, or il there is intense burning sensation
+then one should conclude that the victim will dcfinitely be
+dcvourcd by Death. * -
+q srlirw a firaią ęręwfaa*! ll ^ u
+If by rcpcatedly throwing cold water on the body of a
+victim of snake bite there is no sensation of thrill of the
+hairs—that is the body-hairs of the victim do not bccome ercct
+when cold water is thrown on him, then he should be treated as
+devoured by Death. 1 3
+w3*Tfaq>qT *rf«rfcq«iTfq w I
+
+Damara Tantra
+f*rot«ffc*r 5 src*T ęęr frerią $i?iqi*i^ w u li
+1 he symptoms of a possiblc death of snąke-bitten person
+are as follows : Dischargc of urine and faeccs, pain in thc
+hcart, nausea, buring sensation in thc body, nasal voice 5 pain
+in ihc joints and thc colour of eycs cithcr copper-likc or
+bluc. 14
+altf ćt«it śtó q^KT ^ i
+ęq<?r qr 3^ 1
+5T 11 u ll
+If thc eycs of a victim of snakc bite arc unablc to sec sun.
+moon or stars, or unable to sec his own image in a mirror,
+still water, Ghrta or oil, then it should be concludcd that lic
+has bccn bitten by Kala himsclf. 15
+?nflr q>r*nr$T«Fv 1
+??q?ęr fatf irifęs q>ięr?gt ?r sfafa 1
+^qifq q»^ 3 q 1
+snrrei^ w \% w
+Only after asccrtaining thc abovc symptoms of a snakebitten person should thc doctor start his treatment. lf thc poison
+has pervadcd in thc entire body then thc death is dcfinitc. Yct
+so long a snakc-bitten person is alivc, it is nccessary to continue
+thc trealmcnt because sometimes cvcn thc Kala ( personified
+Death ) is dcfcated by ccrtain divine mcdicines (Diyyausadhi).
+gqfq^F 3 r
+<^ćTTq^F3rćrr^ 1
+qrf^r «PT*rsetsfq gftąfa u \ \\
+Description of mcdicines against
+serpent-poison
+Pound thc roots of Syctaparajita and DeyadanI in water.
+
+Tamara Tantra
+Introducing a few drops of this mcdicinc into thi nose #f tht
+victim of snake-bite may savc him. 1
+irfasrefq t $ i snetf tw* I
+ąęrfćr l
+Curd, honcy, buttcr, PippalT, Srngavcra, Marica, hustha,
+and Saindhava salt —taking thcsc cight mcdicines together
+would bring thc victini frona thc abodc of God of Dcath, cvcn
+if hc has bccn bittcn by an angry Taksaka or VasukT.
+ąfier^T^infęf Smą n 3 tt
+Mixing Kut.akl and thc powder of thc root of Muśall and
+taking it with watcr destroys thc scrpcnt-poison. The roots of
+Vrścika and Vlrana should v e poundcd together and the past*
+applied at thc place of thc snakc-bilc. .1 his will destroy th*
+cffcct of thc poison.
+fq%ą U* «
+Dissolving thc powder of thc sccd of SomarajT in thc m in*
+of a cow bccomes a Mrtasafijlvanl ( which can save from th*
+clutches of dcath) and it can destroy all thc poisons originatinj
+cithcr from movable or immovable sourccs.
+ąęmfa efq: sTrofafęrawft li * W
+Mix Haridra with thc urinc cithcr of a cow or of a man,
+or with old Ghrla. This will destory all thc poisons originating
+cithcr from movable or immoyablc sourccs. Old Ghrta is thc
+one which may be older than ten ycars or motc. o
+
+Damara Tantra
+S#łTfnTŚ fąąą \
+łrtsftt: *3T?ff rar-irj- fq^ ^gfaffto^n || ą ||
+If the poison has pervaded the cntirc body then the victitn
+of snake-bite should be madę to drink cov/s milk and Haridra
+Kwatha which is said to be the destroyer of all types of
+poisons. 6
+tnffcqrn3*[ ll <3 u
+Drinking the Kwatha of Haridra, Kustha and cow ł s milk
+destroys the poison. Taking Haridra, Kustha, honey and Ghrta
+mixed together destroys all kinds of poisons. 7
+Hćar^ign^Tgręf fącrętłrrfgiT 5 ^ \\ t; 11
+If the poison has sprcad all over, the body then the fruit or
+root ofjambu trcc should be pounded with Takra and water
+and drunk. The patient will immcdiately vomit. 'I he proccss
+should be rcpcated till the vomilted liquid bccomcs elear Thus
+the patient may soon becomc healthy. g
+f %ą[sq^ą;r T I
+3feą>T^qfT?3ffćT faf H R
+Kumkuma, Alaktaka, Lodhra, Manahśila and Gorocana
+should all be pounded together and pi lis madc out of this
+pastę. When poison has entered the body then these pills rcduced
+to pastę again be applied to the body of the victim This will
+destroy the poison originating either from movablc or immovable source. 9
+fqcq?ft jtM f g 3 ^ *T?T:f5T?ri^ i
+ćrr^rsF gqqr: n
+qTfn^q^q%qrTre[ 1
+ęiąT^Tfq f^ifsrcfr w \o w
+
+Damara Tanlra
+PippalT, Marica, Kustha, Grhadhuma, Manahsila Haritala
+and white mustard should all bc wcll poundcd togcther i n
+co\v*s milk. Latcr on, using thc pastc as a collyrium, nasal
+drop and as unguent for rubbing oycr thc body will curc the
+victim evcn if hc has bccn bittcn by a dcadly serpent likc.
+Taksaka. 10
+^ WWT 5 T I
+q?rer I
+3Tfę«TTf u
+trwntamifsrai mu
+Tlie rool of Aparajita taken with Ciu la curcs thc poison if
+it is confincd to skin. Root of Aparajita taken with milk cures
+thc poison if it has reachcd thc blood lhis vcry mcdicinc
+taken with diflerent herbs will curc thc victim if thc poison
+has rcachcd diflerent parts of his body, vi/.., (i) taken with
+powder of Kustha curcs thc poison of thc flcsh (ii) taken with
+Haridra curcs thc poison of thc bones; .iii) taken with KakalT
+curcs thc poison of thc fat: (iv taken with PippalT curcs the
+poison of thc marrow, and (v) taken w i th thc C»andalTkanda
+curcs thc poison of thc semen. If thc poison has pcryaded into
+thc body then the root of Aparajita should bc used. 1 1
+3T?q;g fafaferttl lit’II
+If a snakc-bitten person is in a vcry serious condition
+ihcn he should be thrown into the water. 1 2
+3jsą?r«p * iPtffSEtmw ?T lit311
+Beginning from the day thc sun is in thc Zodiac sign of
+Mesa ( Aries ) if Masiira and Icaves of NTma are taken for
+one year then there will lic no fear from thc poison of any
+kind. 13
+
+L)amant Tantra
+Ol&mpHlf T.ą\ |
+<afa<tqifcraęaęq asm f% ęft^fćr ii u\\
+Even an extremely angry Taksaka can do no harm to a
+person who tak es Masura and lcaves of Nlma trec in thc montli
+of Vaiśakha. 14
+i nd of thc section on thc mcthods
+for the cure of serpent-poison.
+gql3f?qąnjf fąq^ || \ ||
+Destruction of thc poiosn of Scorpions
+Śirlśa-blja, cow’s fat, root of pomcgranate trcc and milk
+of an Arka trce should all bc mixcd togethcr. (-iving inccnsc
+of this mixture at thc place of thc sting of the scorpion
+destroys thc poison. j
+fqq ^tćT U ^ U
+Rubbing Hińgula mixcd in water at thc place of thc
+sting destroys thc poison. o
+Orefsrą ii ą \\
+Chcwing thc root of Karpasa one should blow into thc
+ear of thc person stung by a scorpion. This will relieye thc
+cffcct of the poison. 3
+eatn >tis 4 1
+a*TH fątf ii y ii
+Taking wax dissolye it sevcn times in the milks of Snuhi
+and Arka trce. Latcr on if this hcated a littlc and applied
+to thc place of sting will destroy thc poison of a scorpion 4
+q5?i?q53fT ąęntfN 1
+*T33Ti Sl^qtq §f?ćT \\ K, |]
+
+Damara Tantra
+The marrow of the fruits of Putrajlva, Pałała and Karafka
+should be pounded in water and rubbed at ihe place of the
+sting of a scorpion will destroy the poison 5
+=n facąte*! I
+sf%qi^Tf3af>faq HTsrfmftrofrran i
+aS> sr 0 ś 5T ® w ę $ sit aft i ll s, II
+Pounding mtirrow of the sccd of Rtikulu <ind conscciating
+it with the mantra "Aum jhańi hum yańi Aańi ńańi vaih
+barn laih ksaih e a i o au ham hah apply it at the place
+of the sting. This will definitely destroy the poison of the
+scorpion. ®
+ąi jgi a® mśfaK-
+^fwpFwrot I wifaęft
+Consecrate the Olayrnta ( ? ) with the mantra “Ham hrlih
+mam cam aum ,, and then several times sweep the place of the
+sting. This will destroy the poison of the scorpion. The method
+has been rcvcalcd by Lord biva and hcnce no doubt should be
+cxpressed adout its efficacy. 1
+Lnd of the section on the methods for the
+destruction of the poison of scorpions
+m ffTfifłfJTłrwfeRl
+Methods for Curing Dog\s poison
+Jaggery, oil and milk of Arka trec should all be mixed
+together and rubbed at the place of the dog's bite. This will
+destroy the poison. 1
+Fqg gsrem ir n
+
+Darnara Tantra
+If a rabid dog has bitten thcn die leaves of Ghrtakumarl
+and Saindhava salt pounded together andheated a littlc, should
+be applied at the place of the Ijite and bandaged. Doing so
+for threc days will destroy the effect of the poison 2
+Fnd of the section no the curc of dog-bite.
+s-JPfKtFT fqnf II '{ W
+Guring the poisons of various other animals
+If the horned fish stings then rubbing a littlc Ghrta ; ł t
+the place of Sting and heating tnildly on fire would relicvo
+the pain. 1
+fai*TT5T5faęTT |
+q.<łi ''TrTlfąflFRff W R \\
+Haridra, Daru-haridra, Mafijbtha and Nagakcsara should
+all be pounded together and rubbed at the place of the sting will
+destroy the spider*s poison. 2
+ąiTSRWesm fafłsąt i
+?fćr fgąSI^TOT^
+Karafijabija, Siddhńrtha and Tila pounded together and
+rubbed at the place of the sting destroys the poison of all thr
+various minor inseets. Adding castor oil to this foimula makes
+it morę effect i ve-that is it destroys the poisons of all kinds ol
+inseets. 3
+hnd of the Ghaptcr on Poisons
+CHAPTŁR SIX
+m
+
+Damara Tantra
+5 IT *T*f i\
+3qfa«wif3FU?t ^ am: z 4 *itra I
+fa^»r% sifcr 1
+qiąą SćhSTflt Slfo qf5T<J^> ąłferTSęn II X W
+General rituals :
+According to one’s own desire the Yaksims should be
+addrcssed as sislcr, niother, or daugbter-in-la\v and meditated
+upon with concentration 1 or this Sadhana one sliould abstain
+from betel chewing and take only vegetarian food. After taking
+his batli in the morning a Sadhaka should not touch anybod\
+and with purc mind he should go to a desolatc place, finish
+his daily routine and then taking his seat on a pure leatherscat start the Japa of the YaksinI mantra. As long as the
+YaksinI does not appear to award the desired boon, so long the
+the Sadhaka should continue his Japa. By so doing the
+YaksinI would appear in person-there is no doubt abont it 1
+55TTęf 5*5^ tl
+Sadhana of Yibhrama YaksiyT
+Xhc Sadhaka should fearlessly and with concentrated mind
+sitting in a desolate cretnation ground perform two lac
+( 2,00 000 ) Japa of the mantra "Aufn hrlih Yibhramarlipc
+Vibhramain kuru kuru ehyehi Bhagawati svaha”. After
+completing the required number of Japas Homa should 1 c
+performed one tenth of the Japa ( i. e. 20,000 ) with Guggul i
+mixed with Ghrta. Tlius this Yaksiyl is pleased. I
+tfafsraKIWni
+r?szf i
+
+Datnara Tantfa
+srrtfryftt aćft srtą I
+fsr^T ćrd> ^ifag; fasfaą \
+ststi^ ki] gtmrer a^sfa \
+q*afś?tffći r^ifTffr s? 9 ? ćftfagr *rar ii
+Śż tfęrfsflr n X w
+Sadhana of Ratipriya
+First of ąll on a piece of cloth in which Śaihkha is usually
+wrappcd. an image of the Devi should bc drawn as follows :
+Her Form rcprescnting tlić entire World Ali Her body and
+organs should be beautiful, wearing all kinds of ornamcnts
+and adorned with blue lotus. This Form of the DevT should
+be worshipped witli various Upacaras and JatI flowcrs. Aftcr
+fmishing the worship the Sadhaka should, mcditating upon
+the aforesaid form of l'evl pcrform one thousand Japa of the
+mantra : “Audi hrlih ratipriye svaha. ;; l or fuli one week in all
+the three Sandhyas i. e. morning, mid day and eyenings and
+after one week in a desolate place in the night the Sadhaka
+should regularly perform one thousand japas of the said mantra.
+By so doing the Devl plcases and after midnight appears beforc
+the Sadhaka and gives him Twentyfive Cold Goins and
+continucs to give the sanie numbcr of coins cver after, i
+faqsr 5 i
+miń as: fest I
+m 58T sitrere w
+srssrifefr renfafor
+?fT£T II ? II
+Sadhana of Vata-Yaksi$I
+In the night at a Crossing where threc roads mect (Tripatha)
+or under a Vata trcc the Sadhaka, with pure and conccntrated
+
+Damara Tantra
+mind perform ihree lac ( 3,00,000 ) Japas of thc mantra :
+“Auńi hrlm śrlfn Vatavasini Yakskula praśnie Vata-Yaksin!
+chyehi svaha.” By so doing the i cvl pleases and pleased she
+givcs to the Sadhaka divinc clothings and orńatnents, all kinds
+of Chemicals, medic.ines, all kinds of food mantcrial and divinc
+collyrium. 1
+elćr: 1
+flT-S^rzf 2?^3>fęf Jlfeoft I
+r?57T t£Ffa>*TT I
+faSlfa *1^1 so^sgąt^ |
+^^ąfrpr ?3Tf[T l ^3 U ? "
+Sadhana of Candrava
+In tlić night climl>ing up a Yata trcc thc Sadhaka should
+pcrfoim one lac ( 1,00 000 ) Japa of any of thc two mantras
+mentioned hcrcin : 1. “Auńi nama.tcandrady5.va kainakiu atlia
+svaha”: 2 "Aurh namah Bhagawatc Rudraya Gandaveginc
+svaha.” Aftcr thc Japa is ovcr the Sadhaka should wash his
+mouth w i tli kafli! duły consccrated sevcn times. i oing so lot
+thrcc months thc YaksinT pleases andgh es hoon to the Sadhaka.
+She also givcs various mcdicines and Chemicals, food matcrials
+and also luliills all the desircs and other Works—thcrc is no
+doubt about it. Lord Śiva Himself lias said so. 1
+wsrfaś ^ u
+as i$: Hi 3*fi ii i u
+Sadhana of Candrika
+The Sadhaka should begin thc japa of thc mantra “Aum
+
+Damara Tantra
+hrlm Candrike hariisąh krlm kllm svaha ,; from tlić Pratipada
+till the end of the lightcd fortnight. As long as thc moon is
+yisible in thc sky so long he should kecp on pcrformig thc
+Japa. Doing so hc should completc nine lac ( 9,00 000 ) Japas
+upto the Purnlma Tithi. By doing thc Zadbana in this manner
+thc Candrika Devl plcascs and giycs ncctar to thc Sadhaka
+drinking which hc becomes immortal. 1
+*ł|PWT
+jRTfaąfafaai ^ splqt: |
+smsrrea: i
+f?reir: i
+ćlćfil i
+q%ęrę: |
+a* ęąr|T u \ ii
+Spdhana of Mahabhaya
+Putting on garlands madc up of haman bones in his ncck ;
+hands and cars and also using Rosary also of thc same materiał
+the Sadhaka becoming purc and fcarlcss in mind, should go
+alonc to a desolatc cremation ground and perform one lac
+(1 ; 00,000) Japa of the Abhaya Yaksii.u mantra running thus :
+Auih krlm Mahabhayc klTńi svaha." 1 y so doing thc Maha¬
+bhaya Yaksięl pleascs with thc Sadhaka and giyes him a clic
+mical By eating this chcmical thc Sadhaka becomes capablc of
+moying or obtaining all types of jewels and gold according to
+his will He also becoming frcc of old age and sen i lity, obtains
+immortality. 1
+Fnd of the section on thc YaksinI Sadhana.
+snmpfai 1
+
+Damara Tantra
+& <EZ W?|I I
+STćmsmt ^I c 5^r |
+fast ćTcaćJT feretf f5<lr u ? U
+Subjugation Tantra
+Digging out thc root of Apamarga take a piece of three
+fingcr length out of it and consecrate with thc mantra “Auiii
+Madana Kamadevava phat svaha.” In whomsocyer housc this
+consecrated piece oi thc root is thrown, he will bc subjugated,
+However, in order to activate the mantra its lOSJapasare
+nccessary bcforc its usc for the purpose of Sribjugation. Also
+the Sadhaka should put on a Tilak of Apamarga root on his
+forehchd because only then he will succeed in his aim. 1
+ąęr frófćT ^ 11
+^ fTHł eTT#ną?r#» «ira^r r
+The Sadhaka should collect in a piece of cloth somc sellgrowing llowcrs flowers whtch may not have been grown by
+anyonc ). Thcn on a Saturday or a Tucsday he should bum
+that cloth containing thc flowers on a Iripatha ( a ciossin^
+where three roads meet ) and collect thc ashcs. Pulting on a
+'l ilaka of this ash on his forehead thc Sadhaka can subjugate
+cven a king, what to say of an ordinary person. However, all
+the aforesaid rituals should be performed with thc recitation
+of thc mantra "Aufn namo Bhairavltare ajflakale Kamalamukhc
+rajamohane prajavaślkarane strTpurusa-rańjaiti lokavasyamohani mc so'hafn aum guruprasadanc." 2
+II X II
+
+Damara Tantra
+On ihc night of CaturdasT of the dark fortnight dig out
+thc root of Lańgall trec. Bcsidcs. takc Nara-taila ( } honev
+and Haritala. .\'ixing all thcse apply a Tilaka on thc forchead.
+Thus the Sndhaka can subjugate thc cntire worid. 3
+Bwiteęir Tfśtrf ętftipfaanirr i
+Jpr*ł«I«Tr I
+ąąićągi |
+ii v ii
+Pounding togcther thc root or Ajamoda tree and Haritala
+make pi lis out of thc pastc. Putting one pili in thc mouth
+whomsoever thc Sndhaka asks for anything that person will givc
+that thing to him. Howeyer. all thcsc rituals should bc performed with the mantra : “Auńt asmakarr.csyari durbalc aikcśikajatakalape. Cakkara phctk~rini svahn.” 4
+GZHĄ q^ręr^ziT fei^PF |
+fąt«5^T?ęTT TtWJi I
+jfifanTi r 3rai^ęf i
+ąiftiTT fayTąr fq?ĆT || v W
+Taking ccjual quantities of lcavcs of Vata tree and thc taił
+fealhers of a pcacock if the Sadhaka puts on a Tilak on his
+forchead hc can subjugate thc cntire worid. Also taking
+Yisęukrmta. Bhrńgaraja, Gorocana. Sahadcyika ,-oot of
+Syetiiparajita. all bc pounded togcther, Thcn this pasie
+should bc applied to thc hands of a virgin girl an d wrapped
+with a cloth. Now if the Sndhaka puts on a Tilaka of thc water
+dripping out of thc cloth wrapped aroitnd thc yirgin girl
+he can subjugate thc cntire worid. 5
+TOiwrrcjw $8=* *jawi^ 1
+
+Damara Tantra
+ęwrrewit 5^15^ sr«nfw»i l
+toUą q»iqq>T|ę% fasró ąąqą>r^^ II % W
+Collect flowers of Rakta'mara ; Kuslha, Śveta-sarsapa, root
+of Śvctarka, Tagara, Śvcta-guflja and Varui.il on thc Astami or
+Caturdaśl of thc dark fortnight in thc lnnar mansion of Pusya
+and pound them togcthcr, Putting on a 1 ilaka of this pastc on
+his forehead from thc hands ol a virgin girl thc badhaka can
+subjugatc eycrybody.
+3jqiHT*T*q 3^3 3 1
+u
+& Ftłft sr^jrTfafft s^reflwsr^Y i ^
+<n*it l fisrfii 11 ta 11
+Root of Apamarga and Gorocana should bc poundcd
+togcthcr. Putting on a Tilak of thc pastc on his forehead a
+Sadhaka can subjugatc all thc three worlds. Ilowcycr, th«
+ritual should bc performed with thc rccitation of th#
+mantra after actiyating it. 'J hc mantra runs thus : “Auli*
+namo yarajalinT sarvalokavaśamkan svaha.” This mantra
+is actiyatcd by its one thousand and cight Japas.
+?TćI3q qTfTTgsqą>< <w{ W « W
+Bring thc cycs of an owi and mix Gorocana with it.
+Whomsoeycr this mixturc is given to drink that person will
+g
+bc subjugated.
+ćt^o? qi?r irał*i*to 11
+s qst?Y 3 ?™% fe 7 '* w s n
+Pars of an owi and botli thc cycs of a Gataka ( a bird )
+should be reduced togcthcr to a finc powder. Putting on a
+Tilaka of this powder one can subjugatc thc whole World.
+
+Damara Tantra
+Giving this powder to somconc with eithcr somc food or
+water or mixing it with sort.e fragrance or flower to bc
+inhaled by somcone will subjugate that person. The same powder
+offerred to somcone for Tilaka will also subjugate that person 9
+fqg qi^ ;3rqgąrg u
+fcsnit qr ąifq u
+An owl’s flesh, with cqual quantities of Kumkuma, Agaru,
+Sandał and Gorocana poundcd together and offerred for eithcr
+eating or drinking will subjugate anyone eithcr a man or a
+woman. This ritual should dc performed with the mantra
+mentioned in the lext after activating it by a thousand Japa,
+•The mantra runs thus : “Amii hrlni hrlńi hrah hrah phat
+namah.” 10
+ęatorai Turnią g^rr%śrąre<jftłj i
+3*TClfag%^q fI
+9fćqie^ I
+fęR^r gąr 5T«rgąrn U U Ił
+Obserying fast on the previous day one should dig up the
+IndrayarunI plant with its root. Thercaftcr facing north pound
+this root and plant in a mortar with pestle. Thcn mixing in
+it cqual ąuantities of Marica, Pippali and ŚunthT pound
+eyerything and then malcing pills out of the pastę dry the
+pills in shade. Thereaftei rub one of the pills with sandał to
+make a pastę. Applying this pastę in his linger whomsocycr
+the Sr.dhaka touches with that finger will be subjugated. It
+can subjugate eyerybody in the World. 11
+
+Damara Tantra
+Taking thc aforesaid pili ( Scc paragraph 1 1 abovc ) and
+Tevadaru and white Sandał in equal quantitics these should
+bc rubbed togclhcr with water. V\homsocvcr this pastę is given
+for application in his body will be subjugatcd. 1 ~
+v3T?rą fdśtó ?ęsr Prapft u
+a> fw twigr l sreę
+Taking thc aforesaid pili ( Sec paragraph 1 1 ahove ) and
+Corocana in ccjual parts should bc rubbed withwatei. Putting
+on a Tilaka of this pastę thc Sadhaka can obtain victory
+cverywhcrc. Howeycr. all thc rituals should be perlormed with
+thc mantra mentioned in thc Text after duły activating it b\
+one thousand Japa. The mantra runs thus : "Aum namah Sad
+Ind rani S ar vava-śath k ar I sarvarthas.'dhinT svaha .
+srfa $1°^ 1
+ćfT*ę[ęTd 3 41u l* u
+The Sadhaka should observe fast cither on Astami or
+Gaturdaśl of the dark fortnight and offer oblations to tlie
+Dcyata Thcrcafter dig out Sahadcv r T plant and lcduce it to
+powder. Whemsocver this powder is givcn in a betel lor
+eating, he will bc subjugated. 1 4
+jTjnfsmr ^ ® ^ II
+Pounding Corocana and Sahadeyl together and applying a
+Tilaka of this pastę a Sadhaka can subjugate cyeryone. Pounding
+Manahśila and thc root of Sahadeyl plant together and using
+the pastę as a collyrium a Sadhaka can subjugate anyone in
+the world. 15
+5U7t3f4ćT I
+
+iJamara Tantra
+w TOinraMi ą?r ??tt 11 \\ 11
+Usinjg for one week Sahadcyl enclosecl in betel subjugates
+even tlie kings, ihen what to say of comraon people. 16
+3=31 f 8 fąęąqq<g |
+ęwśŚSHSćT ąrcąwfćj u ^ \\
+Kakajańgha, Vaca, Kustha, Bilvapatra and Kumkuma
+poundcd togethcr and mixcd with one’s own blood, if used
+for a Tilaka will subjugate wómcn. 1 7
+ęrcrarg r ott f 8 ^TOńfaęrsgarn i
+ęgt 31 łlSTI tutrft ęąetflST u \\
+Kakajańgha, Vaca, Kustha mixcd with semen and blocd
+if given to a girl to cat she will be subjugated to tlie extcnt
+that if her beloved who had subjugated her dics she will kccp
+on lamenting for him cvcn in the crcmation grounds. 1 6
+»aramiT ^ i
+qft ąjTJęij qęj- U U II
+Brain of Cataka ( a bird ), root of Śvctarka, Mafljistha
+and Khadir mixcd together if giyen to a woman to drink she
+will be subjugated. 19
+^nrraretsę^^ sr$3ftęr « \\
+1 fpial parts of snakc-skin, wood of pomegranate and
+castor oil should be mixed together. Giving incensc of this
+mixture at the timc of sexual intercourse subjugates the
+woman. 20
+fnFqq?T qęrqr >t%ćt \\ ^ u
+Digging out the root of Palasa tree in the lunar mansion
+of AsyinT and binding it in the hand a Sfidhaka can subjugate
+any woman he desires. 2 1
+
+Damara Tantra
+^ ergi ^trg ą>wit sr ^t ^iWong ii u
+Digging out the root of I dumbara tree in the lunar
+mansion of Mrgaślrsa and binding it in the hand a Sadhaka can
+subjugale any lady whom he touches. 22
+t?fa8r*TT SBrWSI*? «T ? £f*łćT I
+sr trKritoP# ^tht f li u
+Digging out the root of Sirlsa tree in the lunar mansion
+of Dhanistha, or the root of DhatakT tree in the lunar mansion
+of Svat! and binding cithcr of them in the hand a Sadhaka
+can subjugatc women. “ ^
+sifjijfirr flT^gtmrr i
+ef5T STlf^T^T 3T WęTPT^tT II R* II
+Digging out the root of Palafsa tree in lunar mansion of
+A's\-inl and binding it in his hand a Sadhaka can subjugate
+any woman lic touches,
+ćtSI 3^ I
+z?r ii ^h, ii
+Taking the sheath or calyx of a young bud of Vata tree
+in the lunar mansion of Rcvatl and binding it in the hand a
+Sadhaka can subjugatc any woman, Digging out the root of
+Badan tree in the lunar mansion of Mula and making a
+woman to cat it subjugates that woman. 2 o
+ęąef ^|T >
+qćrPT gą 5Tłft»riS3 11
+o&Kifcró sresr fest ^r^ęzł^r^ li w
+Pound the root of Tarapuspa tree. Any woman who is
+touchcd with this pastę is subjugaled Ali the above cxperiments
+should be performed with an activated Canda Mantra, This
+
+Damara Tantra
+mantra is activated by its one hundred and cight Japas. ( For
+Carida mantra see paragraph 58 below ). 26
+*TF»fęft^r % 335^ 1
+ąnJrą ^sfr^f vft«r5r ęsft u
+Dig out the root of Apamarga on tlić fuli moon night of
+the lunar mansion of Margaiirsa. Any woman who is madę to
+cat this root with Canda mantra becomes subjugated. 2 7
+qi?r ^ ii n
+Take the root of Sveta-gui\ja and fivc impuritics, i. c.
+impurity of tongue, teeth, eyes, ear and nose. If a woman is
+madę to eat these substances together with the rccitation of the
+Canda mantra she will be subjugated. 28
+5ITĆT: ęąąfćT StSTT?JI I
+*rw fqirxfr4 st ^mi qęrnr i
+3^ ?TO: f5TŚ ąśrf*T?flf STtjąfY if ąęRHą § q>S *ąr§r WRIW
+In the morning after washing the teeih if the Sadhaka
+drinks water seven times, cach time consecrating it with the
+mantra "Aum namah ksipram k7inimin amukTiri ( substitute
+the namc of the woman in place of the word amukTm M ) mc
+yasamanaya huih phat svaha” ( he can subjugate the wotnan
+whose name has been substituted in the mantra. 29
+eHRta ( f'fó«Tatórair: n
+ęerr$ę$ *jqfofo fara: i
+& 3fa m yst w\ęj i
+U 3* II
+Flower of Nagakesar, Priyańgu, wood of Tagara,
+Padmakesara, Vaca and JatamaihsT should all be reduced
+
+Damara Tanlra. 99
+togethcr to powder. Reciting llie mantra n Aupa muli muli
+mahamuli raksa raksa saryasatksetrayebhyoparebhyah svaha ,;
+ifthc Sadhaka rubs tlie powder in his body then the woman
+treating him as Kamadeya ( God of Love ) will become his
+subjugate. . ( , ^9
+faf męf firer^fa^f i
+^r«7i?r sręrasą li
+& rw; w: eqi ; ^ *r aęąśf % WflW U3?ii
+Mixing the impurities of tonguc, teeth, nose and ear in
+the winę with the rccitation of the mantra “Mm namali
+sayayai namah sayanyai ca amuklih ( substitute amuklih with
+the namc of the person desired to be subjugated ) me vasamanaya syaha” and then making the desired person drink that
+winę would snbjugate him. ^ 1
+qi<ś m śtacf mm I
+tst Fgfs sreFg ęqr§r HU
+Consccrating scvcn times flower or fruit of SahadcyT with
+the Vacataka mantra “Auih namo yacata patha patha hiti
+drayahi syaha” and giving that flower or fruit to the desired
+woman would definitely subjugalc her, 32
+flRifanfrm fsr4gsqiq| ąęrT 1
+& srfatft IMI
+Takc a four finger lenglh of wood from the central part of
+Apamarga plant and consccrating it seyen times with the
+mantra "Aum dravim syaha Auih hamilc syaha”, throw it into
+the housc of a prostitute and she will be subjugated. 33
+ąwN i
+wwltowr wn F*^qi \
+& ^ W W V H
+
+Damara Tantra
+An owl*s flesh and eyes, Rakta-candana, Gorocana,
+Kumkuma and fish oil should all be mixed togcther and rubbed
+in one*s own body with the recitation of the mantra "Aum
+hrlm hrlói plam piani phat namal;.” This will definitely
+subjugate any woman. 34
+fąfafTT sfaluj i
+TfćTąJT^T 5 ę^ęsif fTita ^sit: i
+qt qwfćT Timi 31*1 3 I
+: «* 31T*T f ? sr§l & ęft 351* cęji ćfnfa ćpq[fa
+Taking the right leg of a Krkalasa and putting it in his
+mouth if a Sadhaka does intcrcourse with a woman then that
+woman will be subjugated. Also taking the left cyc of a
+Krkalasa, honey and oil mix them together. Applying this
+collyrium in his cyes a Sadhaka can subjugate a woman by
+merely seeing her. All these experimenls, however, should bc
+done with the mantra “Aum ananda brahma svaha. Aum
+hrim kllól plam kali kapali svaha.” 35
+łT^fTT I
+sifsftTi^q ę?T swr m ęśY ^ą^rfaeiT i
+a» u H w
+Mixing together the right eye of a Krkalasa Kaftji and
+honey and applying it as a collyrium in the cyes the Sndhaka
+can subjugate merely by seeing even a lady proud of her
+beauty. This expcriment should be done with the rnantra :
+"Aum pujitaya svaha. H 36
+5|?r?Tif5T ęjrl^ |
+ęmiftą q>Tf*TfrV wwt ssifarą i
+a* 5 t»ti ą>irów ^
+
+Damara Tantra
+3TtT ąęTff fS f ^ ąesąostf^ f łT^T ^ ^
+ę^r li lo 11
+Perform in each of the three midpoints ( i.e. raorning,
+mid-day and evening ) daily one hundred Japa of the Manmatha mantra "Aujh namah Kamadevaya sahakala sahadcia
+saliasama sahali me vahne dhunan janaih mama darsanańi
+utakanthitafn kuru kuru daksdandadhara Kusumaói vanena
+hana hana svaha.” By regularly doing so for one week the
+Sadhaka can subjugate a woman by his mere appearancc. 37
+sjąącf gj^cT STęręft I
+as ąęęff sręflf w*
+ęąc^fr JTO SIW ćf^JT sff ^ II3 dl
+With a passionatc mind the Sadhaka, taking the narnc of
+the desired woman should perform Japa of the following mantra
+in the night. This will definitely subjugate the desired woman.
+The mantra runs thus : "Aum sahavalllm vallli'n karavalllm
+kamapiśaca amukmt ( substitutc amuklih with the naroe of
+the desired woman ) karnalit grahaya swapnena mama rupei.ia
+nakhairvidaraya dravaya swedena bandhana silih phat.
+wro wtfą 1
+gąJteiger 5}c^t FeFs WIWWRł: « ^ tt
+In the Homa etc. for subjugation one should always usc
+the Canda mantra ( See paragrapb 58 below ). Prior to its
+use ten thousand ( 10,000 ) Japa of this mantra is neccssary
+to activatc it. By so doing the Sadhaka will definitely be
+successful.
+ęrąot 1
+Perfonning Homa for one wcek with salt, Tila, railk, honey
+
+Jdanflara Tantra
+and Ghrta mixed together, cven an ugly person can subjugate
+a woman as bcautiful as Tillottama ( a Dmne nymph ). 40
+eai|fi ^ifer m ^qqfećir fi w
+Performing Homa for one week with mustard, salt, milk,
+honey and Ghrta mixed together one can subjugate even a
+woman proud of her beauty. 41
+sjetrnsrś ^3^3^ i
+ęrąif ftfWtw ilwą i
+fwi «raiwn ai sf^iT *r^ęr « ^ h
+Perform one hundred eight Ilomas of four flnger length
+pieccs of the wood of Castor oil plant, mustard oil and salt
+all mixed together with the accompaniment of the mantra
+given bel o w in the paragraph 43. By so doing the Sadhaka
+will subjugate the person whosc name hc substitutes in the
+mantra. ( Por the mantra see Sloka 43 below ). 42
+S®łlfiT ^cR i
+WI* ^ mfćl Złfą TUTT rRRJU fi
+2& ^ 3HJ9?f TOUPTO fi* 3 U
+Performing for scvcn nighls one hundred and cight Homas
+daily with fiowers of Mahf.nimba and Ghrta mixcd together
+and reciting alongsidc the following mantra a Sadhaka can
+subjugate any wotnan whosc namc is substituted in the mantra.
+The mantra for this and for the paragraph 42 runs tlius :
+“Auńi hrim rakta Camunęe turu turu Amukifn substitutc
+the word Amukifn with the namc of the desired person ) mc
+v ■ va3«manaya svaha4 3
+f^T q*rwrc 5 ^% 1
+qi% \
+qiq? ! q f 3 qqii; fam 1
+
+Damara Tantra
+^ifr ^4 fonft I
+itó mnśł f%fiF fafss: u **n
+Obtaining three skulls of cows make a fireplace with them.
+Then take a human skuli and using it as a pot bakę in it paddy
+to convert it into parched rice. In (his process carefully kecp
+separately whateycr grains jump out of thc pot and reducc
+them to powder. Those rcmaining in thc pot should be kept
+separately and also reduced to powder separately. Thereafter
+if the powder of parched rice whicli had jumpcd out of thc
+pot, is applied to thc forehead of a "'oman she will be subjugatcd. 1 his charm will cnd when the powder of those parched
+rice which had remained in the pot, is applied to the forehead
+of that woman. This charm succccds even without any mantra.
+^1^5 er *f«łT u* si^*i9r i
+STOI* 5 11
+wfwfcę f«rata*n?r« ** «
+Pili human skuli with the marrow of the skuli oi an ass.
+Now boil it with the juice of Bhrńgaraja for one week so that
+the entire marrow of thc ass dries up. Then using a wiek of
+cotton bum it on a Saturday in the same human skuli in
+which the marrow of thc skuli of the ass was kept and collcct
+the soot as collyrium from that wiek in another human skuli.
+Using this collyrium in the eyes a Sadhaka can subjugatc
+any woman hc happens to sec. 45
+fia*Tr ćim ętpWte i
+lakę Manal/sila, Haritala, own semen and the oil of
+Amkola fruit and mix them all with the fat of thc tempie of an
+
+Dam ara Tantra
+clephant. By applying Tilaka of this pastc a Sadhaka can
+subjugate any woman. 46
+Slfeaięft gęftf || w \\
+Manahsila, Priyańgu, flowers of Nagakesar and Corocana
+should all be mixcd togcther and reduced to a pasto, Applying
+the pastę as a collyrium in his eyes a Sadhaka can subjugate
+any woman whom he desires. 47
+fsrs'3 5 ^ i
+3ł%WI«STt EfJT TTtE^rćT ST^ || U
+Priyańgu, Vaca, Tcjapatra, Gorocana and "Rakta-candana
+should all bc mixcd togethcr. Making a collyrium of this
+mixtuic and applying it in his cyes a Sadhaka can dcfinitely
+subjugate any woman whom lic sccs. 48
+*pfeę*r rT^nsf ąr u *$. u
+Wearing on the waist Somarajl and the root of Arka trcc
+or the root of Oakramardda will subjugate both men and
+women. 49
+^IIT gotaPT lUo 11
+Taking a root of Pltadhustura dug out cithcr on Astami
+or a Caturdaśl of a dark fortnight, Deyadaru and Kustha in
+cqual ąuantities and rcducc them togethcr into a fine powder.
+Throwing this powder on the forehead of cither a man or a
+woman will subjugale. 50
+5fęTfT ^|T 5 I
+ę*Vqoęęf ęr^rą m\\
+Kubbing with watcr the root of Amalakl tree and applying
+
+Da mara Tantra
+this pastc as collyrium in thc cyes or wearing its Tilaka on
+thc forchead a Sadhaka can immediately subjugate a man or
+a woman. 1
+Epssftfaf ®Yh Fq|r 1
+Fastó li IR w
+Reing nakcd dig out thc root of Indravariu.u in the lunar
+mansion of Pnęya. Now pound togctlicr this root with Marica.
+Pippall and Śuiithl in cow's milk and make pills out of thc
+pastc. Rubbing this pili with Rakta-Candana and wearing a
+Tilaka of this pastc on thc forehead a Sadhaka can subjugate
+womcn.
+ąi II *3 II
+Dig out thc root of VarvatT in thc lunar mansion of SyatT
+and thc root of Badań in thc lunar mansion of Anuradha.
+Wearing these as amulets on his arm a Sadhaka can subjugate
+women,
+garą ^iąq=5^ *mś3^ l
+q T i* Sf^TćTsir 5 ^ "
+Bringing thc flowers of Lrdhvapuspl, Adhahpuspl, Lajjalu
+and Girikarpika the Sadhaka should soak them in his own
+semen. Thereafter the fivc impurities ( viz impunties ol cyc,
+tonguc, tecthj car andnose ) should be mixcd with thc howers
+soaked in semen. Now, whichcver woman is madc to cat or
+drink these things together, will be subjugated. 54
+w: ll
+
+Damara lantra
+h^ćt |
+f?i?r fąjfT lin II
+Svetarka, LangalT, Vaca, Laj jalu, should all bc reduccd
+to powder in equal ąuantitics and mixcd with thc milk of a
+bitch. Thercafter put this medicinc cncloscd in thc fruit of
+Dliattura. Thus this medicine bccomcs like thc arrow of Cupid.
+Whichevcr woman is madc to cat this midicinc she will bc
+subjugatcd. In all the above formula thc Canda Mantra should
+be used ( See paragraph 58 for Canda Mantra ). Oli the first
+instance thc Canda mantra should be actiyated by its ten
+thousand Japa and only tlien it should bc uscd for any
+charm. 55
+^ *r: 315^ ^ f 5 i jafafor gpi
+3d)siłff ufrsłó u ^ |j
+Kumkuma, Ifakta Candana, Gorocana, and camphor luken
+in equal parts should be mixed in cow’s milk. Apply Tilaka
+of this materiał and it will subjugate c v en thc king. Howcyer,
+before performing this expcriment thc Sadhaka should perform
+a thousand Japa of thc mantra "Auiii klifu sah Amukain
+( Substitutc Amukam with thc namc of thc desired person
+mc vasań) kuru kuru Sv5.hu.’' After this rcquired number of
+Japa is ovcr thc Sadhaka before applyingthe said Tilaka should
+scvcn limes consecratc thc materiał of Tilaka. 5 G
+a* ęęęffiizi f 'fis i fgfg: n^n
+Dig out thc root ol Oakramaidda in thc lunar mansion ol
+Ilasta. Wearing this root on his hand a Sadhaka receives
+rcspect at the court oi a King and obtains succcss in controvci-
+
+Damara M antra
+sies. Ho\vever, bcforc performing ihis experiment thc
+Sp.dhaka should pcrform one thousand Japa ofthe mantra "Aufh
+Sudarsanaya liuin phat svaha/ 7 He should then pcrform the
+experiment with the activated mantra. 5 7
+gat Ęfta&rctgig 3*^ SHifHgf^ćrg 1
+Fgszró ii
+=ąagq?4 gąffótOTfćr II II
+Canda Mantra :
+The Cancla Mantra is activated by its ten thousand Japa.
+Thereafter every cxperirnent will be successful if it is perforined after consecrating it seven tiraes with thc activatcd Canda
+Mantra The mantra runs thus : "Audi hrlńi Raktacamunde
+kuru kuru Amukam me Vaśamńnaya svaha.” This is thc
+Canda mantra which makes cverything successful. 58
+sjąiitai fgiPwr i
+f^ćrgęir *r *nr^r i
+getł ^ f ć^r gtw ^ ^nflćr i
+ęqę% ef T II ve. |1
+A Sadhaka should collect Manjistha Kumkuma, Ajamoda,
+Ghrtakumarl, ash of a pyrc and own blood and together soak
+them all in his own semen. In thc lunar mansion of Pusya
+make pills out of thc total materiał. \Yhocver is madę to eat
+this pili with his food or drink it with water, hc will dcfmitely
+be snbjugatcd. If the king is madę to touch this pili hc will
+also be subjugated due to the influence of thc Cai.ida mantra.
+
+Damara Tantra
+Sadhaka should dig out thc root of Svetaparajita on thc
+occasion of a lunar eclipse and fccd it to his master. Thus, due
+to the influence of thc Gauda mantra that master will be
+subjugated. 60
+SRTgW RTćWSRSfTćpn |
+^ ®f<»T 3 ^rsrgi^ u w \\
+In thc moining of thc lunar mansions of Uttaraphalgunl
+or Uttarasadha or Uttarabhadrapada digging out thc root of
+Aśvattha trec and wearing it on his hand the Sadhaka will be
+victorious at every place including the court of the king. 6 1
+to (
+^ Zff? TRr U ^ ||
+Ihc roots of AmalakT, Mango and Pomcgrantc should bc
+dug out respectiycly in thc lunar mansions of BharanJ, Yiśakha
+and Parvaphalgunl. If thc Sadhaka wears ihcm on his arro hc
+can subjugate cven thc C ods likc Indra. G 9
+^ srsi *r> Ti5rr ^rfaerfafa: u u
+Digging out thc root of Nagakefar in thc lunar mansion
+of Aślcsa and wearing it on thc arm a Sadhaka can subjugate
+thc Lord of I arth, thc Fmpcror. 63
+fćREF |
+fflfę: u ^ o
+Rubbing Rakta Candana in thc oil of Ainkola and
+consecrating it scven times with the Gand.a mantra, if a Sadhaka
+puts on its Tilaka on his forehead he can subjugate cven a
+king. Ali the charms and experiments described above should
+be practiced only after activating the Caijd.a mantra ( See para
+58 above ). 64
+
+Damara Tantra
+ttsiht srerar^ą w %* w
+5P3 ewa:
+If the Sadhaka pours in the sacrificial firc one thousand
+oblations of Rakta Candana and white mustard mixed with
+bitter oil be can immediately subjugatc the king.
+End of the chapter on Subjugation.
+31«T 3TO«n>T*[
+srr^^di fmT«TTf% I
+ATTRAGTION
+Now I dcscribe the method of Attraction in brief. Ihis
+topie has l>cen idcntically described in Tripura Tantra and the
+Bhuta Lam ar a.
+3ną5I^ *1151 5T ĆT*TT I
+Brgof gmłf aiST sfór*! ęrą I
+g;v(T^ą *395^ *T?ŚV ćTćft I
+n?*ęir f«f5; li
+Consecrate a Pa'sa with the Am mantra and AńikuSa with
+the Krom mantra. Thereafter taking tripple Pa'sa in tlić left
+hand and a burning Ańikuśa in the right hand the Sadhaka
+should perform Japa of the mantra "Anin hrlih Rakta Camuttde
+turu turu Amukith Akarsaya hrlm svaha ” This mantra
+should first be activatcd by performing its ten thousand japas.
+smi i
+SfCRT ^T%^T^crcrt *ł%ćT W R II
+Or obtaining onc’s own desired mantra from the mouth
+of Guru and performing its ten thousand Japa can also be
+useful for Attraction.
+
+Damara Tąntra
+si«i*r3f qi5i ftT^sąręręr^^ąifi; i
+srąrą^ i
+ott?t JTf^ <ą ^ćt ii 3 ii
+A Sadhaka should imaginc ihc person to be attractcd as
+a person of a wcak soul and then in his own mind raedilate
+upon the God Thcrcafter it should be imagined that there
+is Pasa in the ncck of the person to be attractcd and burning
+Aóikuśa on his hcad. Imagining them the Sadhaka should
+perform the Japa of the Mantra in all the threc Sandhyas i. c.
+morning, mid day and cycning. Thus imagning and performing
+Japa tor twentyonc days rcgularly the Sadhaka can attract the
+threc world. g
+reT%nf^ ęriĘTąi |
+^ ssi re%ćT |
+^RTąstjitaręif sfą *qrćT fałisrNćiT ii * n
+U ntC thc ^ antra on a rcd cl °th with Laksarasa and Raktacandana and worship the God on this Yantra. Thcrcafter bury
+this 'i antra under a trcc and pour ricc-watcr on it daily in
+the threc Sandhyas, i. c . morning, mid-day, and cvening.
+Irrigating this for three wccks the Sadhaka can attract a
+woman cven if she is in chains in a far off place. 4
+**WNM*** ^thąęśr ?f?T I
+^fqq- (1
+ssrwr ę 3^«NV faf $ gęn |
+fH^rft sifćiątfećj^ u u u
+Write the aforesaid Yantra on a red cloth with Laksarasa
+and Rakta-candana and then lic that cloth with a red string.
+Thereafter perform Dhyana. worship and mantra-japa as
+
+Damara Tantra
+bcforc. By so doing cvcn a person in chains will be attractcd
+to the Sadhaka. J
+F5 T€Rt| Ftf ai c ^ awnri*^ ^ »* «
+Draw a Yanua on a betel leaf with Laksarasa and Rakta
+Candana. Perform Dhyana worship and mantra-japa as bcforc.
+Thus doing for three wceks a Sadhaka can soon altract a
+person,
+FbFsi^ćt ^ęfęrrći^t i
+zżą ^sr^fęićtT ?tt łjęrę^'i
+Writing the aforesaid Yantra on a betel leaf with the same
+tnaterials as bcforc. Uren tic the Yantra with a string of Lotusstalk and put it in the Kalaśa (ceremoniał pot filled with
+water ). Thcrcaftcr worship this Kalaśa. Worshipping thus
+for one month a SSdhaka can attract anyonc. Ilcrc worship
+has to be donc of the Oamunda Yantra and Rakta Camunda. 7
+3TI5%<^THt fltTTSTJT 81^»1WPT I
+gjąTS^r ęrF*^ ftrcFa FdFsróćt, i
+^ąęą FsftelSBftf « « U
+Bring the root of Arjuna trec in the lunar mansion of
+Aślesa and pound it in the urine of a goat . If this medicine
+is thrown on the head of a woman she will be attractcd.
+Throwing, similarly, this medicine on the head of a man or
+even an animal will attract thetn also. 8
+sręftar sfarete ęft»srf*iw Fsr% 1
+sjTPsft* 'FT&a^PT SPWTWW ® * tt
+Kill a leech and a black serpent, dry them and reduce
+
+Damara Tantra
+thcm togcthcr to powder. Thereaftcr giving incensc of this
+powder on a firc produccd by thc Jamblra wood will attract
+pcoplc. 9
+w sifćmr g*fV: i
+sriwrcnmR* ąfrtęęrśredfirf^sfe i
+3^1% qqr mą II
+srr^cfirTnćrt ?tt<¥ cerata? u
+m 3,<sqq;5Tr9tat SRtopfiŚoT I
+331 ti^T 3Uff8^ Sigąft ąr> ■glf II \o li
+Bring thc clay whcrc thc person to be attractcd may havc
+P ut his lcft foot. Thereupon mixing in that clay thc blood of
+a Krkalasa the Sadhaka should make an idol and on its chcst
+write thc namc of thc person to bc attractcd with thc blood
+of a Krkalasa. Thereaftcr this idol should bc buried at a place
+whcrc pcoplc gencrally urinate and then thc Sadhaka should
+also urinate on the spot. By so doing evcn a woman living
+thousands of miles away will comc to thc Sadhaka. Howevcr
+this charm should be practiccd only with thc Japa of thc
+mantra : "Anin ghuńi ghumta akrstikarta srsti [purl Amukim
+( subslitute Amukim with the namc of thc desired person )
+varo hrlm hrliii”, 10
+VT'ipft I
+£ćąT 5 <j?n |
+BftStarsmt |
+Zż 51ST qftffs?te I
+q<n qifd 5 Stcft ERgroartę \
+fiJKfa ST0Tięi£6qitcr fcrqq; |
+3 wi fnmfe i
+
+Damara Tantra
+& ętfirwf sresr ^ łttowPrwJfr fafs ii u ii
+iTT^TfW
+Bring two bumblc-bces who may bc in thc proccss of
+intercoursc, burn tlicm scparatcly in firc and collcct iheir
+ashcs also scparatcly. Aftcr tliat wrap thc two ashcs in two
+picccs of cloth to make two smali bundlcs. Now one of thc
+bundles bc tied sccurcLy to thc horn of a shc-goat and set thc
+she goat frcc. Kccp thc olher bundlc with you. Now to whomsocvcr that goat would go hc ^v i 11 comc attractcd to thc Sadhaka.
+If no succcss is obtaincd in thc lirst attempt then tic that
+bundlc which is with you to thc horn of another she-goat and
+leavc it. There will bc definitc attraction in this second
+attempt. Howcvcr, before doing this cxpcrimcnt perform ten
+thousand Japa of thc mantra : “Aum Krsnavartaya svaha",
+and then consccratc thc ashcs with this actiyatcd mantia. 1 1
+* sfaw W ? 11
+Gurc of various discascs
+Dig out thc root of Apamarga and get H tied to thc arm
+of thc patient by an umnarried girl This will soon curc thc
+fever ofthc patient. So has been said by Lord Swa and hcncc
+there can be no doubt about it.
+II ^ II
+Tic thc root of Raktawatya with thc fibrę ol a Banana
+trcc and place it on thc bed of thc patient. I his will curc all
+kinds of fcvers of thc patient.
+
+JDamara Tantra
+fTiSfssrc ^ g§gr gf <n*n|śKW gwfg ii \ w
+Curc of thc Diseases of thc Stornach
+Rub the root of Nagesvara with honcy and make the
+patient to drink it. This will cure his various stornach diseases.
+m
+śtq ?sgr gra qT^ grgśrąg- |
+ararcsftą i
+gg g gigęf sś grgęra ii % \\
+Restoring thc eyesight
+Light a lamp in a coppcr pot and collect soot for collyrium
+from it. Mixing this collyrium in the Ghrta of a cow and
+applying it to thc eyes will restorc thc eyesight as bcforc. 1
+sra snroi
+^ ii ^ n
+Othcr Cures
+iiating the Juicc of Punarnava mixcd with Ghita sharpens
+the eyesight. 2
+& sft ęr g g g: i
+sq*t»r ęrgggteś fq%q \
+*ntqi qggr# g*ret»T|?ri gg; fq%g i
+eśft fq|g gfgqj^q^ i
+ągsięg gm gggiSg i
+^ gięmfg g°igt?qr fq%ą i
+gisra gisrofa gefsJTifa faggit l
+rafa gfggąfggsr \
+siq^ fq%g srg ^ arrafg n \ w
+Charms for thc Curc of all kinds of Diseases
+Drink the cow’s Ghrta after performing one hundred and
+
+Damara Tantra
+cight Japas of thc Mantra : a Auni krlm sam sah. n One pala
+of Ghrta should be taken for one month and after it honcy
+should be taken. Tliis will destroy all kinds of diseases. If
+drinking this Ghrta is followed by drinking milk for on®
+month regularly thc cyesight will sharpen. This will also cur®
+Cough. If this Ghrta is taken with ricc-water it will cur®
+pain. Taking this Ghrta with juice of thc root of Punarnaya
+thc effect of old age will be destroyed. Taking it with sugarcane juice one may bccomc free of yarious kinds of diseases,
+gain strength and good hcalth. Taking this Ghrta bGfor®
+and after thc sugarcanc juice destroys evcn certain uncurable
+diseases. 1
+aft qt^r qr^fV
+^TsrfiT srrjir”
+ęfćT 5R ton u ? II
+( harms for curing Dysentery
+“Sagarera kule upajil sula, Arc pio pio pani, Amuker
+ghucilam raktaśula. Gharani Dharmcr ajfla.” Reciting this
+Mantra one should drink water. This will cure Dysentery.
+( Substitutc the word ‘Amuker' of thc mantra with the namc of
+thc person who is suffering).
+w stFctat* srsrrer |
+SfT’* :
+'łiftT,
+srr^ft ątfęfł
+
+Damara Tantra
+ąwUT
+fgfg £5 *5fV 3TI5TT^ n \ w
+Charm for curing Diarrhca
+Sri Mahadeva said :
+"Gańga Yamuna tlrthera pani; ye kahilo kahini, sc
+khailo pani Aija hoite dura hoilo amukera bandhya tulani;
+Siddha guru Śrlramera Ajfia.” Drinking water consccrated
+with the abovc mantra will cure the Diarrhea of thc paticnt.
+( Substitutc the name of the paticnt in place of the word
+Amuker of the mantra. 1
+
+APPENDIK I
+( The Bańgala yersion of the Tantra eon tai ns materiał of
+the Appendix only in Bańgala languagc and no Sanskrit sourcc
+has heen referred to. Therefore only a translation of the Bańgala
+yersion has been given here ).
+Mantra-sadhana of AlaktarasI :
+The Sadhana of AlaktarasI mantra is yery astonishing.
+One who is able to complete this Sadhana can answer all the
+curiosities of people. If a question is asked in a language which
+the Sadhaka knows then he can reply that question in the
+language—there is no doubt about it. Just as this subject is
+vcry difhcult so is tliis Sadhana also equally difTicult and
+hence it has to 1)e described in fuli. Without Sadhana no one
+can obtain succcss in any field. Various Sadhanas which show
+result eyen after simple rituals but to those who haye no faith
+in such things eyerything apjDcars mislcading
+Take a stone ( some precious stone likc a Mani ) and paint
+it with Alaktaka upto two finger-length. Thcreaftcr make a
+1 łiij >1 et with the mantra “Aum rańjanc sind.iic sindare uttaraya
+namah svah r i. n It is a rulc to perform the Japa ol this mantra
+only thrcc linie. Then supposing the aforesaid Marii-stolic as a
+Śiyalińg tlić Sadhaka should worsliip it with proper Upacaras,
+Al ter that catching a crow on a Saturday 01 Iuesday when
+thcrc raay bc Amayasya soak the Lińgańi painted with
+Alaktaka in the blood of that crow. While tlić blood ol the crow
+is being collcctcd tlić Sadhaka should thrice speak the mantra
+n Aum Isane Śoj.litaih pratigrhyataih aśaya pura pura svaha. ,J
+After this consecration ritual is ovcr the Sadhaka should,
+taking the stone-lińgańi^ proceed to the crcmation ground and
+
+Appendix 1
+pcrform one lhousand Japa of the name of Śiva. 'Hien al the
+cremation ground make a Vedi of sand for the purpose of Henia
+and pcrform Homa on it. At the timc of Homa Sadhaka can
+use Palrisa leaves instead of Bilyapatras and coconut oil intead
+of Ohrta. The mantra for Homa is nothing but the name of
+Siva (Auńi narnah Siyaya ).
+After fmishing the Homa colour the bottom of the stonc
+lińgam with the ash of the Homa and then bring tliat stonchomc. Now, if someone asks somc qucstion get tliat ąuestion
+written on a piece of blank paper, put tliat paper on the lińgaih
+and covcr it with flowers. The Sadhaka should now worship the
+stonc Siva-lińgam with Śodaśopacara. After the Piija and Home
+is finished according to the rules the Sadhaka should throw
+away the flowers placed on the paper containing the cjuestion,
+takc the paper, fold it and hand over to the cjuestioner The
+questioncr will be surpriscd to find his cjucstion on one sidc ol
+the paper and its answer on the other side. lf there is a disturbancc in the woiship of Siva there will be no possibility of
+obtaining any succcss in the cxpcriment.
+BHUIA-SADI-IANa
+( Which bestows all Succcss
+If this Sadhana bccomcs successful tlić Sadhaka can pcrform
+all sorts of supcrnatural deeds. It will be described latcr what
+a Sadhaka can do if this Sadhana is successful. At present the
+mothod of the Sadhana is bcing described.
+Whatcvcr the Bhuta a Sadhaka sclccts for his Sadhana lic
+will haye to altogether leave smoking, drinking winę and
+cohabitation with women. He should always try to livc with
+ji pious mind. If the Sadhaka is a nonyegetarian then hc should
+allow one month to lapse bctwccn the datc hc had taken non-
+
+Appendix I
+vcgetarian food and thc datc of the beginning of Sadhana,
+After this one month has passed the Sadhaka should manage
+to prepare the Asana ( seat ) in rhe following manncr :
+He should try to gct a dead infant from the womb of a
+woman who taay have bcen struck to death by a lightning.
+The Sadhaka should then for one month continuously dry thc
+body of the infant under the sun and also keep on stroking
+it to make it fiat. Thus after one month the dead body of the
+infant would become suitable for a seat and there will be no
+bad odour left in it. When thc seat is thus ready, the Sadhaka
+should on a Amayasya proceed to a cremation ground with it,
+take seat on that Asana of the treated dead body of the infant
+and begin thc worship of thc Divine Mother Kall. Her name
+should be pronounced as "Aum Śmaśanakalike Capęlikayai
+namal/\ After the daily Japa of thc name of Kall the Sadhaka
+should perform Homa and then rub the ash of Hotna in his
+body. Thus he should kecp on doing with concentrated mind.
+In thc process thc Sadhaka will see numerous horrible sighls,
+such as, lions, serpents, bears and yarious carnivora besides
+other ghastly apparitions. If thc Sadhaka happens to fear
+from these sights hc will not only be unsucccssful in his
+Sadhana but also may become deaf, durnb or loose some of
+his bcdily organs. Therefore throughout the Sadhana he should
+remain fearless and in no case ans we r any of thc questions put
+to him by the apparitions. After some timc hc will sec that a
+person whose hairs of the head arc standing ercct, whose body
+is besmeared with foul-smelling de 'emposed flesh, who is
+wearing Sindura in her hairs and forehead, who is extremely
+horrible in appearance and half nake i, appear before him.
+Seeing such a Form the Sadhaka shouLl say, "Tistha mama
+puja grhyatam n ( Please sit down and accept my worship \
+
+Appcndix I
+After saying so he should in his mind kccp on rcpeating ' Auńi
+Gamuncle Smasanakalike raktavarna trinayana. Bhutadi
+Prctadi sańga mharata parayana. Praslda Prasida Dcvi Bhutyastava mamakan, Sarva siddhi sarvatlra dclii mc. Auih hrlih
+hńm lrlrh lrlrh syaha. n
+In this mąnner lic should kccp on rcpeating tlić mantra.
+Ultimatcly that horriMc Devl will say, a VVhat is your
+rcąucst n i hen the Sadhaka should rcply. rr My only rcquest
+is that you may always rcmain witli mc and fulfil all my
+desires. n Thcn that Dcvl will rcpcatcdly try to dissuadc tlić
+Sadhaka to make some ollicr request but tlić Sadhaka should
+steadfastly stick to his original rcąucst and kccp on rcpeating
+the same.
+Ultimatcly the MurtT of Kall will givc two things to the
+Sadhaka out of whicli if lic will bring one thing in contact
+with fire the Devi will immcdiatcly appęąr bcforc him and
+fulfil his desire; whilc the Sadhaka should kccp the ollicr thing
+always with him so that no other evil may torment liiin.
+In this manner, giving two things in the hands of the
+Sadhaka the L'evl will disappear.
+T PI E E N D
+
+APPENDIK II
+Abhaya — Andropogon Muricatum
+Agnimantlia - Prcmna Spinosa
+Aguru — Acąuilaria Agallocha
+Ajaraoda - Pimpinella Invalucrata
+Alaktaka — Red juice or Lac ( Sce Laksa )
+Amalaki — Emblic Myrobalan
+Ańgustha - Tliumb
+Anima - One of ilic eight supcrnatural Attainmenis, which
+givcs Sadhaka power to assumc a very tiny form
+Apamiuga — Achyranlhes Aspera. Rakta — Its red variety
+Aparajita - Cliloria Ternalea ( It is Śveta or white and
+Krsna or black )
+Arjuna - Terminalia Arjuna
+Aśvagandha — Physalis 1 lexuosa
+Badań - Jujube ( Mucuna Pruritus ) -bija - secd
+Bahera - Terminalia Balcrica
+Bahuvaraka — Córdia Myxa
+Bakula - Mimusops Elcngi
+Bhojapatra (also written Bhurjapatra) - Betuta bhojapatra
+Bhallataka — Smccarpus Anacardiuiń
+Bhyńgaraja - Wcdclia Calendulacca
+Bhutaśuddhi - Purificalion of I leraents uf ihc body
+Bidańga - Pmbclia ribes
+]3ilva - Acgle marmelos ( -palia - lcavcs )
+Biroba - Coccinia indica
+Brahmadaęęll — Lamprahoenium mirocephclum
+Bralima-raksasa — Jivil spirit of a dead Brahmin
+BrahmT - Hcrpcstis raonnicra
+
+Appendix li
+BrliatTs - Solanum indicum
+Candana - Sandał
+Carmacataka — An insect ( a crickct )
+Cataka — Sparrow
+Citraka - Plumbago Zeylani
+DakinT - An evil dcm i-go dd es.s
+Dandotpala - Scc Sahadeyi
+Daru-haridra - Berbcris aristata
+DasamulI — A kind of Tonie mcdicine prepared from ten
+rootSj viz. 1 rikantaka, both Brhatis. Prthakparnl, Vidarigandh a, Bilva_. Agnimantha,
+Tuntuka, Patala, and Kaśmarl. Sec all thcsc
+names at their proper alphabctical placcs.
+Devadanl - Andropogon serratus
+Deyadaru - Pinus deodara
+DhatrI - See Amalakl
+Dhattura — Datura stramonium
+Dhurtabija - Seed of the above
+Diirva - Clynodon dactylon
+GajapippalT - Seindapsus officinalis
+Ghrtakumarl - Aloc indica
+( orocana - A bnght yellow orpiment used for Tilaka ctc
+Goksura — Tribulus lanuginosus
+Gośrńgl - Acacia arabica
+Grhadhuma - Smokc of the kitchcn which lingers in the
+spider’s webs.
+Guvaka — Betel-nut
+Haridra — Circuma longa
+Harltika - Terminalia chebula
+Iksurasa — Juice of sugar-cane
+Indtvara - Blue lotus
+
+Appendix II
+Jambu - Eugenia Jambolana
+Japa-puspa (kusuma) — Flowcr of Hińgula plant ( China
+rosę )
+JatamainsI — Valeriana Jatamamsi
+Jatipuspa — Jasminum grandifloram
+Jaya — See Japa
+JayantI — Eachynomene sesban or Sesbania aculcatia
+JhintI ( Maruvaka )-Barlaria costata or B, prionitis
+J Traka - Seed of Cuminum Cyminum
+JyotismatI - Cardiospermun halicacbum
+Kadamba — Anthocephalus Kadamba
+Kakajańgha - Lecą hirta
+Kakali - A kind of grapę without stone
+KakamacI — Solanum indicum
+Kakkola - Coculus indicus
+K a koli — See Kakkola
+Kambu - Physalis flexuosa
+Kana - See J Traka
+KafijT — t hurned curd
+Karanja — Pangamia glabra
+KaravTra — Ncriutn odorum
+Karpasa — Colton plant
+Kascruka - Scirpus Kysoor
+Kasisa - Green sulphatc of iron
+Kasmarl — Gmclina arboica
+Katphala — Myrica sapida
+Kcsara - SafFron
+KctakT - Pandanus odoratissitnus
+Khadira - Acacia Catcchu
+Kińiśuka - Butca frondosa
+Kolaka - Pipcr chaba
+
+Appcndix II
+Kslra — Milk
+Kujmasa — Sour grucl ( prcpared by thc spontaneous
+fcrmcntation of thc juicc of fruits ).
+K u iii kum a - Crocus Sativus
+Kustha — Sauseria auriculata
+KutakT — Picrorrhiza kurroa
+Kwatha — A Dccoction of any herb
+Laksil ^lac) — a kind of red dyc ( obtaincd from thc
+cochineal or a similar inscct ).
+LańgalT - Mcthonia superba ( Sveta-langali is white L. )
+Lodhra — Symplocos Rac cm os a
+Madhyama - Middle fmgcr
+Mafijistha - Rubia cordifolia
+Manahśila — Red arsenie
+Mar i ca Piper nigrum
+Masiira - Vicialcns or Frvum lens
+Matulufiga - Gitrus mcdica
+^ [ct M - Trigonclla foenum graecum
+Mmala - Andropogon muriculatum
+Mruiga - A pulsc
+Muramamsl - Ancthum grayeolcns
+MusalT - Curculigo orchioides
+Musta - Cypcrus rotundus
+Nagakcsara - Mesua ferrea
+Nakhaviddha - Myrtus communis
+Nill - Indigofera tinctoria
+Nlma — Azadirachta indica
+Nirguijrli — Vitex negundo
+Olwnta — Amorphophallus companulatus
+Padma-kesara - Filaaacnts of Lotus
+Pakara - Ficus lacor
+
+Appcndix XI
+Palaśa - Butea frondosa
+Pippall - Pipcr longum
+Pifcaca — A class of evil spirit
+Plaksa — Thespesia populnca
+Patala - Cassia or Senna csculenta
+Pręta - A class of cvil spirit
+Priyańgu — Agalia odoratissima
+Prthuparju - Lcaves of Hińgula plant.
+Punarnava — l$ocrlicvia IDilTusa Sveta wbite )
+Puskara-mala — Clostus spcciosus
+PutrajTva — Nagcra putrajiva
+Raksasa - A class of demons
+Raktaśmara - Red Nerium odorum
+Raśaftjana - Aglaia Roxburghiane
+Rohisa - Andropogon schocnanthus
+Rudraksa - I lacocarpus janitrus
+Sahadcvl — Sonchus arucnois
+ŚakinI - A class of evil demi-goddcss
+Saindhava — Rock salt
+Śańikha-bhasma - Ash of conchshcll
+Śańkhanabhi - A fragrant materiał ( perhaps a kind of
+shcll )
+Sarja - Shorca Robusta
+SarpaksI - 1 lcocarpus ganitrus
+Śatayarl - Asparagus racemosa
+SathT - Gircuma gcdoaria
+Ścphalika - Nyctanthcs arbortristis
+Siddhartha - Grucifcrac sinapis
+Śigru - Moringa ptcrygospcrma
+Śikhi (-puspa) - Taił of a pcacock
+Sindhuyara - Vitcx negundo
+
+Appcndix II
+r
+Sirisa - Acacia sirissa
+Sitarka — Whitc Galotrovis gigantca
+SnuhT — F.uphorbia antiąuorum
+SomarajT - Vcrnonia anthclminthica
+Srńgabera — Typha angustifolia
+SrDjala - Trap bispinosa
+Sudarśana - Coculus tomcntosus
+Suryavarta - Scindapsus officinalis
+t
+Sveiaparria - Pistica stratiolcs
+Taliśapatra - Trigonclla focnum gracum
+Tarjanl — Indcx fingcr
+Tejapatra - CInnamomum tamala
+Tjla — Sesamum indicum
+Trikatu - Threc bittcr things, i. c . PippalT, Marica, and
+gingcr
+Triphala - Thrcc fruits ( Tcrminalia chcbula, Tcrminalia
+bcllcrica and Phyllanthus cmbilica )
+Tuętuka - Caloganthcs indica
+Tvaka ( Dalacinl ) - Cinnamomum Zyeylanicua
+Uslra - Andropogon Muricatus
+Vaca — Turdus salica
+Vajrl - Carpopogon pruriens
+Vamsa - Bambusa arundinacca
+Vanarlphala - Jacca aspcra
+Varunl — A kind of liquor
+Vata — Ficus indica
+Yidańga ( also Bidanga ) - Embclia ribcs
+Vidangandha — Phascolus vu]garis
+Venara VTrana - Root of Andropogon muricatum
+Yiśala — basclla cordifolia
+
+Appcndix II
+Vasaka - Gcndarussa vulgaris
+Vrścika - Borhavia Procumbcns
+Visnukranta — Glitoria tcrnatca
+Visva — Scc Satavan
+YamanT — Ligusticum ajwan or Gamm copticum
+Yastimadhu — Glycyrhiza glabra
+
+f^eft *r??r Rfm> ( ąż ff?<fr srpre )
+^ ą^sv/-, IkćTr <śp? ? ay /-, ęr»»? \ooj-
+^ . *ftfafTm*r ćT»^^ ( rj/FTO!?! )
+\i °/- stRjtfę*? smt vtft: * U 0 /-
+3. f^TT^fa ćf^ ( ^ trą cnfift er^T? ) ^y..« o
+v. irrewra**! ( %*r mż f|^V anjąre ) : ?oo/-
+v.. fcRąRfafsrcT (^ fą?Ct st^ćtr) : u./-
+v urpi^r? a^r ( ^ feMV «fę«r) u/-
+«. fa$UgR HgW (nT^r^fg q* ntfe^T-sm g*?g śWt) c/-
+aiKratenfenj ^:%»l1°. fa^TćUf^JRfa^ trą : 3 /.
+U* *ate ąą l^ST^srięsr ^ćft^r g???
+feąw<tw ( ^ ttf **5ft ST^R ^ J
+*3. ęrfaęatar?%
+**. ^nr%5qftqg^ ( ^ ęa sf^r^ft srprs ęrfęęr j
+t*. ^tęnrRPfJi*? ( ^ ąsf afifcft ar^rrę af^a)
+«ftnn aF*r irorcra
+*3T^~ fas* (*as) sfęssfttsn (****)
+( W wjłTC )
+ą\s arów ( ^ mi fa»*V * 3 * 1 * ofag )
+W»T *qsm ( 1J31 rrif fęęjft )
+8T?ęćr TI*TT«W (*T$Fq nTV9#tf%r fg) gfa?* ^,,0 ł* 1^.0
+grgFsęsm^ ( ąą >irera=rtffcRt stor ) ^°/-
+Indological Reference Sedes
+1. Encyclopedia of Yoga : Ram Kumor Rai 100.00
+2. Dlctionarics of Tantraśaetra ( TantrSbhldhanam) 50.00
+3. Encyclopedia of Indian Erotics : Ram Kumor Rai 80.00
+srwiWRn
+ł. «ft*T ( fq fjpft mi rteffo ^ ) u# 0 .
+R- ^fF^eTI ( ^[ST 3TtJ^T^ ) ; i
+i xlW
+W
+V 0 c

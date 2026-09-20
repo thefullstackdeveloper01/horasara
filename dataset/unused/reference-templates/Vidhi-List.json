@@ -1,0 +1,29 @@
+[
+  {
+    "id": "vidhi_001",
+    "name": "Sankalp Vidhi (Taking Vow before Puja)",
+    "applicability": "Before starting any Hindu Puja or Fasting",
+    "steps": [
+      "Sit on an Asana facing East or North.",
+      "Take water in the right palm with a Tulsi leaf and Kusha grass.",
+      "Chant the Sankalp Mantra: Om Vishnu... (stating place, time, lineage, and purpose).",
+      "Drop the water on the ground in front of the deity."
+    ],
+    "audio_url": "your_app_url/sankalp.mp3",
+    "source_text": "Vedic Dharma Sindhu"
+  },
+  {
+    "id": "vidhi_002",
+    "name": "Shivratri Fast Vidhi",
+    "applicability": "On the night of Maha Shivratri",
+    "steps": [
+      "Wake up early, take bath with sesame seeds.",
+      "Wear clean clothes and visit Shiva temple.",
+      "Offer milk, water, honey, and Bel Patra on Shivling.",
+      "Do Jagran (stay awake all night) and chant 'Om Namah Shivaya'.",
+      "Break the fast next morning after sunrise."
+    ],
+    "audio_url": "your_app_url/shivratri.mp3",
+    "source_text": "Shiva Purana"
+  }
+]

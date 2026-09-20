@@ -1,0 +1,788 @@
+{
+  "yogas_database": {
+    "metadata": {
+      "version": "1.0",
+      "last_updated": "2024",
+      "source": "Classical Vedic Astrology Texts (BPHS, Phaladeepika, Saravali)",
+      "total_yogas": 50,
+      "categories": {
+        "shubh_yogas": "Auspicious Yogas",
+        "ashubh_yogas": "Inauspicious Yogas",
+        "mixed_yogas": "Mixed/Conditional Yogas"
+      }
+    },
+    "shubh_yogas": {
+      "gajakesari_yoga": {
+        "type": "Shubh",
+        "name": "Gajakesari Yoga",
+        "description": "Jupiter in kendra from Moon",
+        "rules": {
+          "condition": "Jupiter should be in 1st, 4th, 7th, or 10th house from Moon",
+          "strength_factors": [
+            "Jupiter should not be debilitated",
+            "Jupiter should not be combust",
+            "Jupiter should not be in enemy's sign",
+            "Moon should have adequate strength"
+          ],
+          "effects": [
+            "Fame and reputation",
+            "Intelligence and wisdom",
+            "Leadership qualities",
+            "Wealth and prosperity",
+            "Respect in society"
+          ],
+          "cancellation": [
+            "Jupiter debilitated",
+            "Jupiter combust",
+            "Jupiter in enemy sign",
+            "Moon severely afflicted"
+          ]
+        }
+      },
+      "budhaditya_yoga": {
+        "type": "Shubh",
+        "name": "Budhaditya Yoga",
+        "description": "Mercury and Sun conjunction",
+        "rules": {
+          "condition": "Mercury conjunct with Sun in same house",
+          "optimal_conditions": [
+            "Mercury should not be combust",
+            "Conjunction in kendra or trikona",
+            "Mercury should be in friendly sign"
+          ],
+          "effects": [
+            "High intelligence",
+            "Excellent communication skills",
+            "Success in education",
+            "Good analytical abilities",
+            "Success in business"
+          ],
+          "cancellation": [
+            "Mercury completely combust",
+            "Conjunction in dusthana houses",
+            "Sun and Mercury in enemy signs"
+          ]
+        }
+      },
+      "chandra_mangala_yoga": {
+        "type": "Shubh",
+        "name": "Chandra-Mangala Yoga",
+        "description": "Moon and Mars conjunction or mutual aspect",
+        "rules": {
+          "condition": "Moon and Mars in conjunction or mutual kendra",
+          "effects": [
+            "Wealth through property",
+            "Success in business",
+            "Strong determination",
+            "Leadership in commerce",
+            "Profits from land and real estate"
+          ],
+          "cautions": "Can make person aggressive if afflicted"
+        }
+      },
+      "lakshmi_yoga": {
+        "type": "Shubh",
+        "name": "Lakshmi Yoga",
+        "description": "Lord of 9th house in own/exaltation sign in kendra/trikona",
+        "rules": {
+          "condition": "9th lord placed in kendra or trikona in own/exaltation sign",
+          "effects": [
+            "Immense wealth",
+            "Good fortune",
+            "Prosperity throughout life",
+            "Success in all endeavors",
+            "Blessings of Lakshmi"
+          ]
+        }
+      },
+      "raja_yoga": {
+        "type": "Shubh",
+        "name": "Raja Yoga (Various Combinations)",
+        "description": "Multiple combinations for kingship/authority",
+        "rules": {
+          "basic_condition": "Lords of kendra and trikona houses in mutual relationship",
+          "combinations": [
+            "9th and 10th lords in conjunction",
+            "4th and 5th lords in mutual aspect",
+            "9th lord in 10th and 10th lord in 9th (Parivartana)",
+            "Lords of 1st, 4th, 7th, 10th in kendra from each other"
+          ],
+          "effects": [
+            "High position in life",
+            "Authority and power",
+            "Success in career",
+            "Recognition from government",
+            "Leadership positions"
+          ]
+        }
+      },
+      "amala_yoga": {
+        "type": "Shubh",
+        "name": "Amala Yoga",
+        "description": "Benefic in 10th from Moon or Ascendant",
+        "rules": {
+          "condition": "Benefic planet (Jupiter, Venus, Mercury, waxing Moon) in 10th house",
+          "effects": [
+            "Pure reputation",
+            "Ethical character",
+            "Success in career",
+            "Respect in society",
+            "Spiritual inclination"
+          ]
+        }
+      },
+      "bhadra_mahapurusha_yoga": {
+        "type": "Shubh",
+        "name": "Bhadra Mahapurusha Yoga",
+        "description": "Mercury in kendra in own/exaltation sign",
+        "rules": {
+          "condition": "Mercury in 1st, 4th, 7th, or 10th in Gemini, Virgo, or Aquarius",
+          "effects": [
+            "Great intelligence",
+            "Excellent communication",
+            "Wealth and success",
+            "Good business acumen",
+            "Strong mental capabilities"
+          ]
+        }
+      },
+      "hamsa_mahapurusha_yoga": {
+        "type": "Shubh",
+        "name": "Hamsa Mahapurusha Yoga",
+        "description": "Jupiter in kendra in own/exaltation sign",
+        "rules": {
+          "condition": "Jupiter in 1st, 4th, 7th, or 10th in Sagittarius, Pisces, or Cancer",
+          "effects": [
+            "Spiritual wisdom",
+            "High moral values",
+            "Respected by all",
+            "Wealth and prosperity",
+            "Leadership in religious/spiritual matters"
+          ]
+        }
+      },
+      "malavya_mahapurusha_yoga": {
+        "type": "Shubh",
+        "name": "Malavya Mahapurusha Yoga",
+        "description": "Venus in kendra in own/exaltation sign",
+        "rules": {
+          "condition": "Venus in 1st, 4th, 7th, or 10th in Taurus, Libra, or Pisces",
+          "effects": [
+            "Luxurious life",
+            "Artistic talents",
+            "Wealth and comforts",
+            "Attractive personality",
+            "Success in creative fields"
+          ]
+        }
+      },
+      "ruchaka_mahapurusha_yoga": {
+        "type": "Shubh",
+        "name": "Ruchaka Mahapurusha Yoga",
+        "description": "Mars in kendra in own/exaltation sign",
+        "rules": {
+          "condition": "Mars in 1st, 4th, 7th, or 10th in Aries, Scorpio, or Capricorn",
+          "effects": [
+            "Great courage",
+            "Military success",
+            "Leadership abilities",
+            "Physical strength",
+            "Success in competitive fields"
+          ]
+        }
+      },
+      "sasa_mahapurusha_yoga": {
+        "type": "Shubh",
+        "name": "Sasa Mahapurusha Yoga",
+        "description": "Saturn in kendra in own/exaltation sign",
+        "rules": {
+          "condition": "Saturn in 1st, 4th, 7th, or 10th in Capricorn, Aquarius, or Libra",
+          "effects": [
+            "Great authority",
+            "Success in politics",
+            "Leadership of masses",
+            "Wealth through hard work",
+            "Success in mining/industry"
+          ]
+        }
+      },
+      "adhana_yoga": {
+        "type": "Shubh",
+        "name": "Adhana Yoga",
+        "description": "Benefics in 2nd, 5th, 9th, and 11th houses",
+        "rules": {
+          "condition": "Benefic planets occupying wealth houses",
+          "effects": [
+            "Accumulation of wealth",
+            "Financial stability",
+            "Multiple income sources",
+            "Good investment skills"
+          ]
+        }
+      },
+      "dhana_yoga": {
+        "type": "Shubh",
+        "name": "Dhana Yoga (Wealth Combinations)",
+        "description": "Various wealth-giving combinations",
+        "rules": {
+          "conditions": [
+            "Lords of 2nd and 11th in mutual relationship",
+            "Lord of 2nd in 11th or vice versa",
+            "Lords of 5th and 9th in kendra",
+            "Jupiter in 2nd with aspect of Mercury"
+          ],
+          "effects": [
+            "Great wealth",
+            "Financial success",
+            "Business prosperity",
+            "Accumulation of assets"
+          ]
+        }
+      },
+      "viparita_raja_yoga": {
+        "type": "Shubh (Conditional)",
+        "name": "Viparita Raja Yoga",
+        "description": "Lords of dusthanas in dusthanas",
+        "rules": {
+          "condition": "Lords of 6th, 8th, or 12th houses placed in dusthanas",
+          "effects": [
+            "Success after initial struggles",
+            "Rise from adversity",
+            "Unexpected gains",
+            "Victory over enemies"
+          ]
+        }
+      },
+      "nicha_bhanga_raja_yoga": {
+        "type": "Shubh",
+        "name": "Nicha Bhanga Raja Yoga",
+        "description": "Cancellation of debilitation leading to success",
+        "rules": {
+          "conditions": [
+            "Debilitated planet's dispositor in kendra from Moon/Ascendant",
+            "Debilitated planet aspected by its exaltation lord",
+            "Debilitated planet's exaltation sign lord in kendra"
+          ],
+          "effects": [
+            "Rise from humble beginnings",
+            "Extraordinary success",
+            "Fame and recognition",
+            "Wealth despite initial difficulties"
+          ]
+        }
+      }
+    },
+    "ashubh_yogas": {
+      "kemadruma_yoga": {
+        "type": "Ashubh",
+        "name": "Kemadruma Yoga",
+        "description": "No planets (except Sun, Rahu, Ketu) in 2nd and 12th from Moon",
+        "rules": {
+          "condition": "Moon without support from planets in adjacent houses",
+          "effects": [
+            "Mental stress and anxiety",
+            "Financial difficulties",
+            "Loneliness and isolation",
+            "Lack of support from others",
+            "Emotional instability"
+          ],
+          "cancellation": [
+            "Moon in kendra from Ascendant",
+            "Moon with benefic aspect",
+            "Moon in friendly sign",
+            "Planets in kendra from Moon"
+          ]
+        }
+      },
+      "daridra_yoga": {
+        "type": "Ashubh",
+        "name": "Daridra Yoga (Poverty Yoga)",
+        "description": "Various poverty-indicating combinations",
+        "rules": {
+          "conditions": [
+            "Lord of 11th in 6th, 8th, or 12th",
+            "Lord of 2nd in 6th, 8th, or 12th",
+            "Lords of 2nd and 11th in dusthanas",
+            "Malefics in 2nd and 11th houses"
+          ],
+          "effects": [
+            "Financial struggles",
+            "Difficulty in accumulating wealth",
+            "Loss of money",
+            "Debt and liabilities"
+          ]
+        }
+      },
+      "shakata_yoga": {
+        "type": "Ashubh",
+        "name": "Shakata Yoga",
+        "description": "Jupiter in 6th, 8th, or 12th from Moon",
+        "rules": {
+          "condition": "Jupiter placed in dusthana from Moon",
+          "effects": [
+            "Fluctuating fortunes",
+            "Unstable wealth",
+            "Periods of prosperity followed by poverty",
+            "Difficulty in maintaining status"
+          ],
+          "cancellation": [
+            "Jupiter aspected by benefics",
+            "Jupiter in own/exaltation sign",
+            "Strong Moon"
+          ]
+        }
+      },
+      "angarak_yoga": {
+        "type": "Ashubh",
+        "name": "Angarak Yoga",
+        "description": "Mars in 1st, 4th, 7th, 8th, or 12th from Moon",
+        "rules": {
+          "condition": "Mars in specific houses from Moon",
+          "effects": [
+            "Aggressive nature",
+            "Health problems",
+            "Accidents and injuries",
+            "Financial losses",
+            "Conflict with others"
+          ]
+        }
+      },
+      "grahan_yoga": {
+        "type": "Ashubh",
+        "name": "Grahan Yoga (Eclipse Yoga)",
+        "description": "Sun or Moon with Rahu/Ketu",
+        "rules": {
+          "condition": "Sun or Moon conjunct with Rahu or Ketu",
+          "effects": [
+            "Health issues",
+            "Mental stress",
+            "Obstacles in life",
+            "Karmic challenges",
+            "Spiritual crisis"
+          ]
+        }
+      },
+      "kalsarpa_yoga": {
+        "type": "Ashubh (Conditional)",
+        "name": "Kalsarpa Yoga",
+        "description": "All planets between Rahu and Ketu",
+        "rules": {
+          "condition": "All seven planets on one side of Rahu-Ketu axis",
+          "types": [
+            "Anant Kalsarpa - Rahu in 1st, Ketu in 7th",
+            "Kulik Kalsarpa - Rahu in 2nd, Ketu in 8th",
+            "Vasuki Kalsarpa - Rahu in 3rd, Ketu in 9th",
+            "Shankhpal Kalsarpa - Rahu in 4th, Ketu in 10th",
+            "Padma Kalsarpa - Rahu in 5th, Ketu in 11th",
+            "Mahapadma Kalsarpa - Rahu in 6th, Ketu in 12th",
+            "Takshak Kalsarpa - Rahu in 7th, Ketu in 1st",
+            "Karkotak Kalsarpa - Rahu in 8th, Ketu in 2nd",
+            "Shankhachur Kalsarpa - Rahu in 9th, Ketu in 3rd",
+            "Ghatak Kalsarpa - Rahu in 10th, Ketu in 4th",
+            "Vishdhar Kalsarpa - Rahu in 11th, Ketu in 5th",
+            "Sheshnag Kalsarpa - Rahu in 12th, Ketu in 6th"
+          ],
+          "effects": [
+            "Obstacles in life",
+            "Delayed success",
+            "Mental anxiety",
+            "Career instability",
+            "Relationship problems"
+          ],
+          "cancellation": [
+            "Benefics strong in chart",
+            "Jupiter's aspect on Rahu-Ketu axis",
+            "Strong Ascendant lord"
+          ]
+        }
+      },
+      "manglik_dosha": {
+        "type": "Ashubh",
+        "name": "Manglik Dosha (Kuja Dosha)",
+        "description": "Mars in specific houses from Ascendant, Moon, or Venus",
+        "rules": {
+          "condition": "Mars in 1st, 2nd, 4th, 7th, 8th, or 12th house",
+          "effects": [
+            "Marital discord",
+            "Delay in marriage",
+            "Health issues for spouse",
+            "Conflict in relationships"
+          ],
+          "cancellation": [
+            "Mars in own/exaltation sign",
+            "Mars aspected by Jupiter",
+            "Mars in Aries, Scorpio, or Capricorn"
+          ]
+        }
+      },
+      "chandal_yoga": {
+        "type": "Ashubh",
+        "name": "Chandal Yoga",
+        "description": "Jupiter with Rahu or Ketu",
+        "rules": {
+          "condition": "Jupiter conjunct with Rahu or Ketu",
+          "effects": [
+            "Distorted wisdom",
+            "Wrong spiritual guidance",
+            "Loss of moral values",
+            "Problems with teachers/elders"
+          ]
+        }
+      },
+      "vish_yoga": {
+        "type": "Ashubh",
+        "name": "Vish Yoga (Poison Yoga)",
+        "description": "Saturn with Moon or in specific relationship",
+        "rules": {
+          "condition": "Saturn conjunct with Moon or Saturn in kendra from Moon",
+          "effects": [
+            "Mental depression",
+            "Health problems",
+            "Losses in life",
+            "Difficulty in relationships",
+            "Low self-esteem"
+          ],
+          "cancellation": [
+            "Jupiter's aspect",
+            "Strong Moon",
+            "Benefics in kendra"
+          ]
+        }
+      },
+      "paisacha_yoga": {
+        "type": "Ashubh",
+        "name": "Paisacha Yoga",
+        "description": "Malefics in specific houses",
+        "rules": {
+          "condition": "Saturn and Mars in 1st, 4th, 7th, or 10th",
+          "effects": [
+            "Evil tendencies",
+            "Immoral behavior",
+            "Problems with law",
+            "Loss of reputation"
+          ]
+        }
+      },
+      "dur_yoga": {
+        "type": "Ashubh",
+        "name": "Dur Yoga",
+        "description": "Lord of 10th in 6th, 8th, or 12th",
+        "rules": {
+          "condition": "10th lord in dusthana",
+          "effects": [
+            "Career obstacles",
+            "Lack of recognition",
+            "Professional failures",
+            "Difficulty in maintaining job"
+          ]
+        }
+      },
+      "reka_yoga": {
+        "type": "Ashubh",
+        "name": "Reka Yoga",
+        "description": "Malefics in 2nd and 12th from Moon",
+        "rules": {
+          "condition": "Mars and Saturn in 2nd and 12th from Moon",
+          "effects": [
+            "Financial losses",
+            "Poverty",
+            "Mental stress",
+            "Health problems"
+          ]
+        }
+      },
+      "mrityu_yoga": {
+        "type": "Ashubh",
+        "name": "Mrityu Yoga",
+        "description": "Various death-indicating combinations",
+        "rules": {
+          "conditions": [
+            "Lord of 8th in Ascendant",
+            "Saturn and Mars in 7th house",
+            "Rahu in 1st, 7th, or 8th with malefic",
+            "Lord of Ascendant in 8th with malefic"
+          ],
+          "effects": [
+            "Health problems",
+            "Accidents",
+            "Life-threatening situations",
+            "Surgery and hospitalization"
+          ]
+        }
+      }
+    },
+    "mixed_yogas": {
+      "naga_yoga": {
+        "type": "Mixed",
+        "name": "Naga Yoga",
+        "description": "Malefics in 1st, 4th, 7th, and 10th houses",
+        "rules": {
+          "condition": "Natural malefics in all kendra houses",
+          "effects": [
+            "Success through struggle",
+            "Leadership through adversity",
+            "Power after difficulties",
+            "Mixed results in life"
+          ]
+        }
+      },
+      "guru_mangala_yoga": {
+        "type": "Mixed",
+        "name": "Guru-Mangala Yoga",
+        "description": "Jupiter and Mars conjunction",
+        "rules": {
+          "condition": "Jupiter conjunct with Mars",
+          "effects": [
+            "Dynamic energy",
+            "Success in legal matters",
+            "Wealth through property",
+            "May cause aggression if afflicted"
+          ]
+        }
+      },
+      "shasha_yoga": {
+        "type": "Mixed",
+        "name": "Shasha Yoga",
+        "description": "Saturn in specific houses from Moon",
+        "rules": {
+          "condition": "Saturn in 6th, 8th, or 12th from Moon",
+          "effects": [
+            "Discipline and hard work",
+            "Success through perseverance",
+            "May cause delays and obstacles",
+            "Mixed results depending on strength"
+          ]
+        }
+      },
+      "shubha_kartari_yoga": {
+        "type": "Shubh",
+        "name": "Shubha Kartari Yoga",
+        "description": "Benefics on both sides of a house",
+        "rules": {
+          "condition": "Benefic planets in houses adjacent to Ascendant or Moon",
+          "effects": [
+            "Protection from harm",
+            "Success in endeavors",
+            "Good fortune",
+            "Support from others"
+          ]
+        }
+      },
+      "papa_kartari_yoga": {
+        "type": "Ashubh",
+        "name": "Papa Kartari Yoga",
+        "description": "Malefics on both sides of a house",
+        "rules": {
+          "condition": "Malefic planets in houses adjacent to Ascendant or Moon",
+          "effects": [
+            "Obstacles in life",
+            "Lack of support",
+            "Health issues",
+            "Financial difficulties"
+          ]
+        }
+      },
+      "adhi_yoga": {
+        "type": "Shubh",
+        "name": "Adhi Yoga",
+        "description": "Benefics in 6th, 7th, and 8th from Moon",
+        "rules": {
+          "condition": "Jupiter, Venus, and Mercury in houses 6, 7, 8 from Moon",
+          "effects": [
+            "Success in life",
+            "Good reputation",
+            "Leadership qualities",
+            "Wealth and prosperity"
+          ]
+        }
+      },
+      "chatussagara_yoga": {
+        "type": "Shubh",
+        "name": "Chatussagara Yoga",
+        "description": "All kendra houses occupied by planets",
+        "rules": {
+          "condition": "All four kendra houses (1, 4, 7, 10) have planets",
+          "effects": [
+            "Great success in life",
+            "Balanced personality",
+            "Achievement in all areas",
+            "Fame and recognition"
+          ]
+        }
+      },
+      "vasumati_yoga": {
+        "type": "Shubh",
+        "name": "Vasumati Yoga",
+        "description": "Benefics in upachaya houses (3, 6, 10, 11)",
+        "rules": {
+          "condition": "Jupiter, Venus, Mercury in 3rd, 6th, 10th, or 11th houses",
+          "effects": [
+            "Progressive growth",
+            "Wealth accumulation",
+            "Success in career",
+            "Overcoming obstacles"
+          ]
+        }
+      },
+      "akhanda_samrajya_yoga": {
+        "type": "Shubh",
+        "name": "Akhanda Samrajya Yoga",
+        "description": "Various combinations for sustained success",
+        "rules": {
+          "conditions": [
+            "Lord of 9th in 11th and Lord of 11th in 9th",
+            "Jupiter in 11th with aspect of Mercury",
+            "Lords of 2nd, 9th, and 11th in mutual relationship",
+            "Strong Jupiter and Venus in kendra/trikona"
+          ],
+          "effects": [
+            "Long-lasting success",
+            "Uninterrupted prosperity",
+            "High social status",
+            "Generational wealth"
+          ]
+        }
+      },
+      "parvata_yoga": {
+        "type": "Shubh",
+        "name": "Parvata Yoga",
+        "description": "Benefics in 1st, 4th, 7th, and 10th houses",
+        "rules": {
+          "condition": "Benefic planets in all kendra houses",
+          "effects": [
+            "Great fortune",
+            "Respect in society",
+            "Wealth and happiness",
+            "Success in all fields"
+          ]
+        }
+      },
+      "kahala_yoga": {
+        "type": "Shubh",
+        "name": "Kahala Yoga",
+        "description": "Lords of 4th and 9th in mutual kendra",
+        "rules": {
+          "condition": "4th lord and 9th lord in kendra from each other",
+          "effects": [
+            "Wealth and property",
+            "Educational success",
+            "Good fortune",
+            "Happiness in life"
+          ]
+        }
+      },
+      "chamara_yoga": {
+        "type": "Shubh",
+        "name": "Chamara Yoga",
+        "description": "Lord of Ascendant exalted in kendra",
+        "rules": {
+          "condition": "Ascendant lord exalted in kendra house",
+          "effects": [
+            "Great reputation",
+            "Leadership qualities",
+            "Success in all endeavors",
+            "Respect from all quarters"
+          ]
+        }
+      },
+      "shankha_yoga": {
+        "type": "Shubh",
+        "name": "Shankha Yoga",
+        "description": "Lords of 5th and 6th in mutual kendra",
+        "rules": {
+          "condition": "5th lord and 6th lord in kendra from each other",
+          "effects": [
+            "Wealth and prosperity",
+            "Victory over enemies",
+            "Good health",
+            "Success in education"
+          ]
+        }
+      },
+      "bheri_yoga": {
+        "type": "Shubh",
+        "name": "Bheri Yoga",
+        "description": "Lords of 9th and 2nd in mutual kendra",
+        "rules": {
+          "condition": "9th lord and 2nd lord in kendra from each other",
+          "effects": [
+            "Great wealth",
+            "Good fortune",
+            "Family happiness",
+            "Success in business"
+          ]
+        }
+      },
+      "mridanga_yoga": {
+        "type": "Shubh",
+        "name": "Mridanga Yoga",
+        "description": "Lords of 9th and 4th in mutual kendra",
+        "rules": {
+          "condition": "9th lord and 4th lord in kendra from each other",
+          "effects": [
+            "Wealth and property",
+            "Good education",
+            "Success in life",
+            "Happiness and prosperity"
+          ]
+        }
+      },
+      "srinatha_yoga": {
+        "type": "Shubh",
+        "name": "Srinatha Yoga",
+        "description": "Lord of 7th in 10th and lord of 10th in 9th",
+        "rules": {
+          "condition": "7th lord in 10th house and 10th lord in 9th house",
+          "effects": [
+            "High position in life",
+            "Success in career",
+            "Good married life",
+            "Wealth and fame"
+          ]
+        }
+      },
+      "matsya_yoga": {
+        "type": "Shubh",
+        "name": "Matsya Yoga",
+        "description": "Lords of 5th and 9th in mutual kendra",
+        "rules": {
+          "condition": "5th lord and 9th lord in kendra from each other",
+          "effects": [
+            "Great intelligence",
+            "Success in education",
+            "Good fortune",
+            "Spiritual progress"
+          ]
+        }
+      },
+      "kurma_yoga": {
+        "type": "Shubh",
+        "name": "Kurma Yoga",
+        "description": "Benefics in 3rd, 6th, and 11th houses",
+        "rules": {
+          "condition": "Jupiter, Venus, and Mercury in 3rd, 6th, and 11th houses",
+          "effects": [
+            "Success through effort",
+            "Wealth accumulation",
+            "Overcoming obstacles",
+            "Progressive growth"
+          ]
+        }
+      },
+      "khanda_yoga": {
+        "type": "Mixed",
+        "name": "Khanda Yoga",
+        "description": "Lords of 4th and 6th in mutual kendra",
+        "rules": {
+          "condition": "4th lord and 6th lord in kendra from each other",
+          "effects": [
+            "Success in property matters",
+            "Victory over enemies",
+            "But some obstacles in life",
+            "Mixed results in career"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "METADATA": {
+    "TOTAL_KARANAS": 11,
+    "MOVABLE_KARANAS_COUNT": 7,
+    "FIXED_KARANAS_COUNT": 4,
+    "HALF_TITHIS_PER_MONTH": 60,
+    "DESCRIPTION": "A Karana is half of a Tithi (lunar day). There are 11 distinct Karanas: 7 Movable (Chara) which repeat 8 times in a lunar month, and 4 Fixed (Sthira) which occur only once per month towards the end of the Krishna Paksha (dark fortnight).",
+    "SYMBOLISM": "In Vedic astrology, each Karana is associated with a specific animal or symbol, representing the underlying energy of that half-day period."
+  },
+  "KARANA_DETAILS": [
+    {
+      "id": 1,
+      "name": "Bava",
+      "symbol": "Lion",
+      "type": "Movable (Chara)",
+      "lord": "Indra",
+      "nature": "Auspicious",
+      "half_tithi_sequence": [1, 8, 15, 22, 29, 36, 43, 50],
+      "activities": [
+        "Trade",
+        "Travel",
+        "Medical treatment",
+        "Auspicious work",
+        "Government related tasks"
+      ],
+      "deity": "Surya",
+      "ruling_planet": "Sun",
+      "favorable_for": [
+        "New ventures",
+        "Commerce",
+        "Starting new jobs",
+        "Meeting important people"
+      ],
+      "unfavorable_for": ["Spiritual ceremonies", "Renunciation"],
+      "occurs_times_per_month": 8
+    },
+    {
+      "id": 2,
+      "name": "Balava",
+      "symbol": "Vulture / Archer",
+      "type": "Movable (Chara)",
+      "lord": "Brahma",
+      "nature": "Auspicious",
+      "half_tithi_sequence": [2, 9, 16, 23, 30, 37, 44, 51],
+      "activities": [
+        "Marriage",
+        "Religious work",
+        "Education",
+        "House construction",
+        "Thread ceremony (Upanayana)"
+      ],
+      "deity": "Brahma",
+      "ruling_planet": "Jupiter",
+      "favorable_for": [
+        "Weddings",
+        "Puja",
+        "Starting education",
+        "Building houses",
+        "Spiritual initiations"
+      ],
+      "unfavorable_for": ["Aggressive tasks", "Warfare", "Hostile actions"],
+      "occurs_times_per_month": 8
+    },
+    {
+      "id": 3,
+      "name": "Kaulava",
+      "symbol": "Boar",
+      "type": "Movable (Chara)",
+      "lord": "Mitra",
+      "nature": "Mixed",
+      "half_tithi_sequence": [3, 10, 17, 24, 31, 38, 45, 52],
+      "activities": [
+        "Friends/social",
+        "Gossip",
+        "Light work",
+        "Entertainment",
+        "Sowing seeds"
+      ],
+      "deity": "Mitra",
+      "ruling_planet": "Venus",
+      "favorable_for": [
+        "Social events",
+        "Friendships",
+        "Forming alliances",
+        "Planting",
+        "Music and arts"
+      ],
+      "unfavorable_for": ["Critical decisions", "Serious or solitary work"],
+      "occurs_times_per_month": 8
+    },
+    {
+      "id": 4,
+      "name": "Taitila",
+      "symbol": "Bull / Ox",
+      "type": "Movable (Chara)",
+      "lord": "Aryaman",
+      "nature": "Auspicious",
+      "half_tithi_sequence": [4, 11, 18, 25, 32, 39, 46, 53],
+      "activities": [
+        "Business",
+        "Friendship",
+        "Agriculture",
+        "Buying vehicles",
+        "Negotiations"
+      ],
+      "deity": "Aryaman",
+      "ruling_planet": "Mercury",
+      "favorable_for": [
+        "Business deals",
+        "Agriculture",
+        "Making friends",
+        "Purchasing assets",
+        "Diplomacy"
+      ],
+      "unfavorable_for": ["Confrontations", "Physical conflicts"],
+      "occurs_times_per_month": 8
+    },
+    {
+      "id": 5,
+      "name": "Garaja",
+      "symbol": "Elephant / Mule",
+      "type": "Movable (Chara)",
+      "lord": "Bhumi",
+      "nature": "Mixed",
+      "half_tithi_sequence": [5, 12, 19, 26, 33, 40, 47, 54],
+      "activities": [
+        "Slow/steady work",
+        "Construction",
+        "Heavy tasks",
+        "Digging foundations"
+      ],
+      "deity": "Bhumi",
+      "ruling_planet": "Saturn",
+      "favorable_for": [
+        "Construction",
+        "Long-term projects",
+        "Physical labor",
+        "Mining",
+        "Real estate"
+      ],
+      "unfavorable_for": ["Quick decisions", "Travel", "Rushed ventures"],
+      "occurs_times_per_month": 8
+    },
+    {
+      "id": 6,
+      "name": "Vanija",
+      "symbol": "Monkey",
+      "type": "Movable (Chara)",
+      "lord": "Kubera",
+      "nature": "Auspicious",
+      "half_tithi_sequence": [6, 13, 20, 27, 34, 41, 48, 55],
+      "activities": [
+        "Trade",
+        "Commerce",
+        "Financial transactions",
+        "Debt collection",
+        "Selling goods"
+      ],
+      "deity": "Kubera",
+      "ruling_planet": "Mercury",
+      "favorable_for": [
+        "Business",
+        "Trade",
+        "Finance",
+        "Market activity",
+        "Repaying or taking loans"
+      ],
+      "unfavorable_for": [
+        "Spiritual practice",
+        "Charity",
+        "Lending without interest"
+      ],
+      "occurs_times_per_month": 8
+    },
+    {
+      "id": 7,
+      "name": "Vishti (Bhadra)",
+      "symbol": "Hen",
+      "type": "Movable (Chara)",
+      "lord": "Yama",
+      "nature": "Inauspicious",
+      "half_tithi_sequence": [7, 14, 21, 28, 35, 42, 49, 56],
+      "activities": [
+        "Avoid auspicious",
+        "Aggressive tasks OK",
+        "Military",
+        "Disciplinary actions"
+      ],
+      "deity": "Yama",
+      "ruling_planet": "Saturn/Mars",
+      "favorable_for": [
+        "Warfare",
+        "Destruction",
+        "Aggressive action",
+        "Breaking things",
+        "Punishing enemies"
+      ],
+      "unfavorable_for": [
+        "Marriage",
+        "New ventures",
+        "Auspicious ceremonies",
+        "Travel",
+        "Starting education"
+      ],
+      "occurs_times_per_month": 8,
+      "special_notes": "Most inauspicious Karana; also called Bhadra. It is strictly avoided for any Manglik (auspicious) work."
+    },
+    {
+      "id": 8,
+      "name": "Shakuni",
+      "symbol": "Bird / Owl",
+      "type": "Fixed (Sthira)",
+      "lord": "Kali",
+      "nature": "Mixed-Malefic",
+      "half_tithi_sequence": [57],
+      "activities": [
+        "Magical practices",
+        "Occult",
+        "Deception",
+        "Strategic planning"
+      ],
+      "deity": "Kali",
+      "ruling_planet": "Rahu",
+      "favorable_for": [
+        "Occult practices",
+        "Tantra",
+        "Mantra siddhi",
+        "Cunning tasks"
+      ],
+      "unfavorable_for": ["Conventional auspicious work", "Honest trade"],
+      "occurs_times_per_month": 1,
+      "special_notes": "Occurs on the 1st half of Krishna Chaturdashi (14th day of dark fortnight)."
+    },
+    {
+      "id": 9,
+      "name": "Chatushpada",
+      "symbol": "Four-legged animal (Stag/Cow)",
+      "type": "Fixed (Sthira)",
+      "lord": "Pashu-pati",
+      "nature": "Mixed",
+      "half_tithi_sequence": [58],
+      "activities": [
+        "Animal-related work",
+        "Farming",
+        "Veterinary",
+        "Acquiring livestock"
+      ],
+      "deity": "Shiva",
+      "ruling_planet": "Moon",
+      "favorable_for": ["Agriculture", "Animal care", "Buying land"],
+      "unfavorable_for": [
+        "Legal work",
+        "Disputes",
+        "Auspicious social functions"
+      ],
+      "occurs_times_per_month": 1,
+      "special_notes": "Occurs on the 2nd half of Krishna Chaturdashi."
+    },
+    {
+      "id": 10,
+      "name": "Naga",
+      "symbol": "Serpent",
+      "type": "Fixed (Sthira)",
+      "lord": "Shesha Naga",
+      "nature": "Malefic",
+      "half_tithi_sequence": [59],
+      "activities": [
+        "Serpent worship",
+        "Poison-related",
+        "Healing venoms",
+        "Dealing with chemicals"
+      ],
+      "deity": "Naga",
+      "ruling_planet": "Ketu",
+      "favorable_for": [
+        "Naga puja",
+        "Mantra siddhi",
+        "Treating poisonous bites",
+        "Astrological remedies"
+      ],
+      "unfavorable_for": [
+        "Travel",
+        "New ventures",
+        "Marriage",
+        "Starting a family"
+      ],
+      "occurs_times_per_month": 1,
+      "special_notes": "Occurs on the 1st half of Amavasya (New Moon day)."
+    },
+    {
+      "id": 11,
+      "name": "Kimstughna",
+      "symbol": "Insect / Beast",
+      "type": "Fixed (Sthira)",
+      "lord": "Vishnu",
+      "nature": "Auspicious",
+      "half_tithi_sequence": [60],
+      "activities": [
+        "Completing pending work",
+        "Satisfying duties",
+        "Finalizing accounts"
+      ],
+      "deity": "Vishnu",
+      "ruling_planet": "Jupiter",
+      "favorable_for": [
+        "Completing tasks",
+        "Finishing projects",
+        "Spiritual contemplation"
+      ],
+      "unfavorable_for": ["New beginnings", "Starting new projects"],
+      "occurs_times_per_month": 1,
+      "special_notes": "Occurs only on the 2nd half of Amavasya (Shukla Pratipada technically begins after this); considered very auspicious for completing old duties but not for starting new ones."
+    }
+  ]
+}

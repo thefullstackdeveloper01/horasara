@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "320__public_navigation_json",
+    "name": "public-navigation",
+    "original_file": "public-navigation.json",
+    "dataset_number": "320 of 455",
+    "format": "json",
+    "source_readable_file": "public-navigation.txt",
+    "source_sha256": "8ad3ee002e0beb08279785ef4db6ff80be3ac81e85edaeb230aa689c2de3bb09",
+    "source_bytes": 15015
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Meṣa",
+        "english": "Aries"
+      },
+      {
+        "name": "Vṛṣabha",
+        "english": "Taurus"
+      },
+      {
+        "name": "Mithuna",
+        "english": "Gemini"
+      },
+      {
+        "name": "Karkaṭa",
+        "english": "Cancer"
+      },
+      {
+        "name": "Siṃha",
+        "english": "Leo"
+      },
+      {
+        "name": "Kanyā",
+        "english": "Virgo"
+      },
+      {
+        "name": "Tulā",
+        "english": "Libra"
+      },
+      {
+        "name": "Vṛścika",
+        "english": "Scorpio"
+      },
+      {
+        "name": "Dhanus",
+        "english": "Sagittarius"
+      },
+      {
+        "name": "Makara",
+        "english": "Capricorn"
+      },
+      {
+        "name": "Kumbha",
+        "english": "Aquarius"
+      },
+      {
+        "name": "Mīna",
+        "english": "Pisces"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v10/cross-engine-benchmark.json
+Dataset number: 409 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 260 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 10.0.0
+• status: HARNESS_READY_DATA_PENDING
+• engines:
+  1.
+    HoraSaar
+  2.
+    JHora
+  3.
+    HoraParashara
+  4.
+    AstroSage
+  5.
+    Astro.com
+• cases:
+  (empty list)
+• policy:
+  • identical_inputs_required: Yes
+  • convention_capture_required: Yes
+  • no_unverified_superiority_claims: Yes

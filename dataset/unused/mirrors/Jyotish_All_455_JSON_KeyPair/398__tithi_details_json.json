@@ -1,0 +1,1473 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "398__tithi_details_json",
+    "name": "tithi_details",
+    "original_file": "tithi_details.json",
+    "dataset_number": "398 of 455",
+    "format": "json",
+    "source_readable_file": "tithi_details.txt",
+    "source_sha256": "5cb0ba963fe014de062d0440c4911ad0db614c4885ab243fb8ed5282f7f0c7f3",
+    "source_bytes": 20052
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "tithi_details": {
+        "_items": [
+          {
+            "tithi_number": 1,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "प्रतिपदा / Pratipada",
+            "tithi_name_english": "Pratipada",
+            "deity": "Lord Agni (Fire God)",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Commencing new projects"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Marriage ceremonies"
+                  ]
+                },
+                {
+                  "_text": [
+                    "House warming (Griha Pravesh)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting a business"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying new vehicles"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Journey/Travel"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Cutting hair and nails"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Borrowing money"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting long-term medication"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "This is the first day of the lunar fortnight. It is ruled by Agni Dev and is highly auspicious for all types of new beginnings and prosperity rituals. The shape of the moon is a thin crescent."
+          },
+          {
+            "tithi_number": 2,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "द्वितीया / Dwitiya",
+            "tithi_name_english": "Dwitiya",
+            "deity": "Lord Brahma",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Laying foundation of buildings"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Installing idols (Murti Sthapana)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying gold and jewelry"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Planting trees"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Confrontations"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Litigation / Court cases"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Surgery"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Dwitiya is ruled by Brahma. It is a good day for beginning construction or laying foundations as it ensures structural longevity. It is also associated with Chandra (Moon)."
+          },
+          {
+            "tithi_number": 3,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "तृतीया / Tritiya",
+            "tithi_name_english": "Tritiya",
+            "deity": "Lord Vishnu / Goddess Gauri",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Starting education"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Learning arts and music"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying clothes"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Cutting hair and nails"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Making ornaments"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Traveling long distances"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Taking loans"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "This tithi is ruled by Vishnu. It is especially good for beauty, arts, and personal grooming. In some regions, it is associated with Goddess Gauri."
+          },
+          {
+            "tithi_number": 4,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "चतुर्थी / Chaturthi",
+            "tithi_name_english": "Chaturthi",
+            "deity": "Lord Ganesha",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Lord Ganesha (Ganesh Puja)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Breaking obstacles"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Removing negative energies"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Filing legal cases for justice"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Eating non-vegetarian food"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting marriage preparations"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Signing business contracts"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Chaturthi is dedicated to Lord Ganesha. The Shukla Paksha Chaturthi in Bhadrapada month is celebrated as Ganesh Chaturthi. It is powerful for removing obstacles."
+          },
+          {
+            "tithi_number": 5,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "पंचमी / Panchami",
+            "tithi_name_english": "Panchami",
+            "deity": "Nag Devta (Serpent God) / Goddess Saraswati",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Nag Devta"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Medical treatments"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Surgery"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Cleaning and purifying house"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Starting new business ventures"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Panchami is ruled by the Nag Devta. In Shukla Paksha of Magha month, it is celebrated as Vasant Panchami (Saraswati Puja). It is excellent for healing and medical interventions."
+          },
+          {
+            "tithi_number": 6,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "षष्ठी / Shashthi",
+            "tithi_name_english": "Shashthi",
+            "deity": "Lord Kartikeya / Subrahmanya",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Fasting"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Worshipping Lord Kartikeya"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Making new friends and alliances"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting a new job"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Eating heavy food"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Aggressive arguments"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Shashthi is ruled by Kartikeya. It is considered very auspicious for fasting and winning over enemies. The famous Skanda Shashthi is observed on this day."
+          },
+          {
+            "tithi_number": 7,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "सप्तमी / Saptami",
+            "tithi_name_english": "Saptami",
+            "deity": "Lord Surya (Sun God)",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Surya (Surya Namaskar)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying property"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Planting trees"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting educational courses"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Quarreling"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Leaving home for permanent migration"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Saptami is dedicated to Surya Dev. The Shukla Saptami of Magha month is celebrated as Ratha Saptami. It is a very energetic day."
+          },
+          {
+            "tithi_number": 8,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "अष्टमी / Ashtami",
+            "tithi_name_english": "Ashtami",
+            "deity": "Goddess Durga / Bhairava",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Goddess Durga"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Worship of Bhairava"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Spiritual practices"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fasting (Vrat)"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Starting a new business"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Journey"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying weapons"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Ashtami is very powerful for Shakti worship. The Shukla Ashtami of Ashwin month is the famous Durga Ashtami (Maha Ashtami). It is not good for materialistic beginnings but excellent for spiritual gains."
+          },
+          {
+            "tithi_number": 9,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "नवमी / Navami",
+            "tithi_name_english": "Navami",
+            "deity": "Goddess Durga / Lord Rama",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Victory in court cases"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Defeating enemies"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Physical exercise and weapons training"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Worshipping Lord Rama"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Buying land"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Traveling"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Navami is ruled by Durga. The Shukla Navami of Chaitra month is celebrated as Ram Navami. This tithi grants victory and power."
+          },
+          {
+            "tithi_number": 10,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "दशमी / Dashami",
+            "tithi_name_english": "Dashami",
+            "deity": "Lord Yama (Dharmaraj)",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worshipping Lord Yama for long life"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting a new profession"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying horses or elephants (vehicles)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Administering medicines"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Lying"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Committing sins"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Dashami is ruled by Yama. The Shukla Dashami of Ashwin is Vijayadashami (Dussehra), a day of victory of good over evil. It is good for starting a new career."
+          },
+          {
+            "tithi_number": 11,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "एकादशी / Ekadashi",
+            "tithi_name_english": "Ekadashi",
+            "deity": "Lord Vishnu (Madhava)",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Fasting (Ekadashi Vrat)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Worship of Lord Vishnu"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Charity and donations"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Singing bhajans and kirtans"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Eating rice and grains (during fasting)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Sleeping during the day"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Quarreling"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Ekadashi is the most beloved day of Lord Vishnu. All Ekadashis are highly sacred. It purifies the soul and helps in attaining Moksha. Fasting on this day is considered equivalent to performing 100 yagnas."
+          },
+          {
+            "tithi_number": 12,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "द्वादशी / Dwadashi",
+            "tithi_name_english": "Dwadashi",
+            "deity": "Lord Vishnu (Vamana avatar)",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Breaking the Ekadashi fast (Parana)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Worship of Lord Vishnu"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Giving charity of cows (Gau Daan)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Beginning agricultural work"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Eating heavy food"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Laziness"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Dwadashi is ruled by Vishnu. The Shukla Dwadashi of Bhadrapada month is celebrated as Vamana Dwadashi. It is a day of nourishment and completing previous day's fast."
+          },
+          {
+            "tithi_number": 13,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "त्रयोदशी / Trayodashi",
+            "tithi_name_english": "Trayodashi",
+            "deity": "Lord Kamadeva / Lord Shiva",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Lord Shiva"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Making new connections"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying gold"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Sensual pleasures (for married couples)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Naming ceremony of child"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Traveling"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting agriculture"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Trayodashi is ruled by Kamadeva. The Shukla Trayodashi of Chaitra month is celebrated as Mahavir Jayanti (Jainism). It is good for luxury and relationships."
+          },
+          {
+            "tithi_number": 14,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "चतुर्दशी / Chaturdashi",
+            "tithi_name_english": "Chaturdashi",
+            "deity": "Lord Shiva / Goddess Kali",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Lord Shiva"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Tantric practices"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Worship of Kali and Bhairava"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Taking baths in holy rivers"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying property"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting business"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Chaturdashi is ruled by Shiva. The Shukla Chaturdashi is considered very powerful for Shaivites. However, it is generally avoided for auspicious materialistic events as it is a fiery tithi."
+          },
+          {
+            "tithi_number": 15,
+            "paksha": "Shukla",
+            "tithi_name_sanskrit": "पूर्णिमा / Purnima",
+            "tithi_name_english": "Purnima (Full Moon)",
+            "deity": "Lord Vishnu / Chandra (Moon God)",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "All types of worship (Puja)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Yagna and Havan"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Charity"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Taking Sanyas (renunciation)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Satyanarayan Katha"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Starting long journeys (in some regions)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Aggressive arguments"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Purnima is the most luminous day of the month. The full moon radiates positive energy. It is celebrated as Buddha Purnima, Guru Purnima, Sharad Purnima, and Kartik Purnima. It is highly auspicious for all religious activities."
+          },
+          {
+            "tithi_number": 1,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "प्रतिपदा / Pratipada",
+            "tithi_name_english": "Pratipada",
+            "deity": "Lord Agni",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Starting new projects (if Purnima has passed)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Renovation of house"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Journey"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying property"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Beginning major financial investments"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Pratipada follows the Full Moon. The energy starts decreasing. It is neutral to mildly auspicious for daily tasks but not for major events."
+          },
+          {
+            "tithi_number": 2,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "द्वितीया / Dwitiya",
+            "tithi_name_english": "Dwitiya",
+            "deity": "Lord Brahma / Vayu",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Breathing exercises and yoga"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting fitness regimen"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Learning weaponry"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Buying gold"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Signing legal documents"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Dwitiya is ruled by Vayu (Wind God). Good for physical strength, but material gains are moderate."
+          },
+          {
+            "tithi_number": 3,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "तृतीया / Tritiya",
+            "tithi_name_english": "Tritiya",
+            "deity": "Lord Vishnu",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of ancestors (Pitru)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Donating to temples"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Cleaning and repairing"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Buying new clothes"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Tritiya is somewhat neutral. It is good for maintenance and repair work rather than new beginnings."
+          },
+          {
+            "tithi_number": 4,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "चतुर्थी / Chaturthi",
+            "tithi_name_english": "Chaturthi",
+            "deity": "Lord Ganesha",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Ganesha"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Sankashti Chaturthi fasting"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Removing obstacles"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Moon sighting at night"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Starting long journeys"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying vehicles"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Chaturthi is celebrated as Sankashti Chaturthi. This is a very powerful day for Ganesha worship and removing life's obstacles. Moon sighting at night is mandatory to break the fast."
+          },
+          {
+            "tithi_number": 5,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "पंचमी / Panchami",
+            "tithi_name_english": "Panchami",
+            "deity": "Nag Devta",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Nag Devta"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Ayurvedic treatments"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting medicine courses"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Buying property"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Panchami is good for medical sciences and healing. It is not considered auspicious for marriage."
+          },
+          {
+            "tithi_number": 6,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "षष्ठी / Shashthi",
+            "tithi_name_english": "Shashthi",
+            "deity": "Lord Kartikeya",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Kartikeya"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fasting for protection of children"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting new business"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Gossiping"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Wasting money"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Shashthi is good for protection of children (Bal Shashthi). It is a stable day for starting businesses."
+          },
+          {
+            "tithi_number": 7,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "सप्तमी / Saptami",
+            "tithi_name_english": "Saptami",
+            "deity": "Lord Surya",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Surya worship"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying vehicles"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting physical workouts"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Giving up jobs"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Ending relationships"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Saptami is good for energy-related tasks. Buying a vehicle on this day is considered auspicious."
+          },
+          {
+            "tithi_number": 8,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "अष्टमी / Ashtami",
+            "tithi_name_english": "Ashtami",
+            "deity": "Goddess Kali / Bhairava",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Kali"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Tantric rituals"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fasting"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying property"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting a new job"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Ashtami in Bhadrapada month is celebrated as Janmashtami (birth of Lord Krishna). It is a dark, intense tithi, excellent for spiritual and tantric practices, but avoided for materialistic work."
+          },
+          {
+            "tithi_number": 9,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "नवमी / Navami",
+            "tithi_name_english": "Navami",
+            "deity": "Goddess Durga",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Durga"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Defeating enemies"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting litigation"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Journey"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying clothes"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Navami is good for aggressive actions and winning over opponents. It is ruled by Durga."
+          },
+          {
+            "tithi_number": 10,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "दशमी / Dashami",
+            "tithi_name_english": "Dashami",
+            "deity": "Lord Yama",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Yama"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Charity for ancestors"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Renovation"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Buying gold"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Dashami is ruled by Yama. It is good for spiritual discipline and charity. Not considered highly auspicious for marriage."
+          },
+          {
+            "tithi_number": 11,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "एकादशी / Ekadashi",
+            "tithi_name_english": "Ekadashi",
+            "deity": "Lord Vishnu (Keshava)",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Fasting"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Vishnu Puja"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Charity"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Meditation"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Eating grains"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Sleeping during the day"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Anger"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Ekadashi is equally sacred as Shukla Ekadashi. It is a day of complete devotion to Lord Vishnu. Fasting helps in purification of the soul and attainment of Vaikuntha."
+          },
+          {
+            "tithi_number": 12,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "द्वादशी / Dwadashi",
+            "tithi_name_english": "Dwadashi",
+            "deity": "Lord Vishnu",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Breaking Ekadashi fast (Parana)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Vishnu Puja"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Giving Gau Daan (cow donation)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying silver"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Eating heavy food"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Wasting resources"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Dwadashi is specifically important for breaking the Ekadashi fast. The Parana time must be calculated according to sunrise."
+          },
+          {
+            "tithi_number": 13,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "त्रयोदशी / Trayodashi",
+            "tithi_name_english": "Trayodashi",
+            "deity": "Lord Shiva",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Lord Shiva (Pradosh Vrat)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fasting"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying gold and property (in some regions)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Night worship"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Laziness"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Sleeping in"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Trayodashi is dedicated to Lord Shiva. The Pradosh Vrat falls on this day. It is considered highly auspicious for Shiva devotees."
+          },
+          {
+            "tithi_number": 14,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "चतुर्दशी / Chaturdashi",
+            "tithi_name_english": "Chaturdashi",
+            "deity": "Lord Shiva / Goddess Kali",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of Kali"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Tantric practices"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Protection from evil"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Lighting lamps"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Night vigil (Jagran)"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying property"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting business"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Traveling"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Krishna Chaturdashi is observed as Masik Shivaratri (monthly Shivaratri). The Krishna Chaturdashi of Phalguna month is the great Maha Shivaratri. It is a night of intense spiritual practice and fasting."
+          },
+          {
+            "tithi_number": 15,
+            "paksha": "Krishna",
+            "tithi_name_sanskrit": "अमावस्या / Amavasya",
+            "tithi_name_english": "Amavasya (New Moon)",
+            "deity": "Pitru (Ancestors) / Lord Shani",
+            "shubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Worship of ancestors (Pitru Tarpan)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Charity to the poor"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Shani worship"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Tantric practices"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Taking holy dips"
+                  ]
+                }
+              ]
+            },
+            "ashubh_karya": {
+              "_items": [
+                {
+                  "_text": [
+                    "Marriage"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Starting new business"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying property"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Journey"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Buying vehicles"
+                  ]
+                }
+              ]
+            },
+            "vishesh_mahatva": "Amavasya is the darkest night of the month. It is exclusively reserved for ancestors (Pitru). The Krishna Amavasya of Ashwin month is celebrated as Pitru Paksha Amavasya or Mahalaya. It is inauspicious for all new material beginnings, but highly powerful for spiritual cleansing and ancestral worship."
+          }
+        ]
+      }
+    }
+  }
+}

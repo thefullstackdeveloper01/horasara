@@ -1,0 +1,37 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Lalkitab.json
+Dataset number: 184 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 775 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: lk_001
+  • planet: Jupiter (Guru)
+  • house: 1
+  • symptom: Native is self-centered, faces issues in marital life, or suffers from liver problems.
+  • remedy:
+    1.
+      Offer water to a Peepal tree daily.
+    2.
+      Wear clean clothes.
+    3.
+      Keep solid silver in the house.
+  • source: Lal Kitab (Original by Pt. Roop Chand)
+2.
+  • id: lk_002
+  • planet: Saturn (Shani)
+  • house: 4
+  • symptom: Native faces issues with mother, vehicle accidents, or loss of property.
+  • remedy:
+    1.
+      Feed milk to a black dog.
+    2.
+      Keep a black and white dog in the house.
+    3.
+      Serve beggars and disabled people.
+  • source: Lal Kitab (Original by Pt. Roop Chand)

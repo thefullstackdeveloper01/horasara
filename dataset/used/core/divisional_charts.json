@@ -1,0 +1,346 @@
+[
+  {
+    "chart": "D1",
+    "name": "Rashi",
+    "division": 1,
+    "purpose": "Main birth chart — overall life, all matters",
+    "sign_calculation": "Direct rashi position",
+    "planets_used": "All 9 grahas",
+    "key_ascendant": "Lagna",
+    "primary_domains": [
+      "All life areas"
+    ],
+    "secondary_domains": [
+      "Physical body",
+      "General fate"
+    ],
+    "traditional_text": "Brihat Parashara Hora Shastra Ch.6",
+    "importance": "Highest",
+    "how_to_read": "Primary chart; all other divisional charts are read relative to D1"
+  },
+  {
+    "chart": "D2",
+    "name": "Hora",
+    "division": 2,
+    "purpose": "Wealth and financial prosperity",
+    "sign_calculation": "Odd signs: Sun hora (Leo); Even signs: Moon hora (Cancer)",
+    "planets_used": "Sun, Moon preferred",
+    "key_ascendant": "Hora Lagna",
+    "primary_domains": [
+      "Wealth",
+      "Financial gains",
+      "Income"
+    ],
+    "secondary_domains": [
+      "Prosperity",
+      "Financial karma"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "High",
+    "how_to_read": "Count planets in Sun hora vs Moon hora; Sun = male/active wealth; Moon = female/passive wealth"
+  },
+  {
+    "chart": "D3",
+    "name": "Drekkana",
+    "division": 3,
+    "purpose": "Siblings, courage, co-borns",
+    "sign_calculation": "First 10°: same sign; 10-20°: 5th sign; 20-30°: 9th sign",
+    "planets_used": "Mars, 3rd lord",
+    "key_ascendant": "Drekkana Lagna",
+    "primary_domains": [
+      "Siblings",
+      "Younger siblings",
+      "Courage",
+      "Short journeys"
+    ],
+    "secondary_domains": [
+      "Physical stamina",
+      "Boldness"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Medium",
+    "how_to_read": "3rd house from Drekkana = eldest sibling; 11th = younger"
+  },
+  {
+    "chart": "D4",
+    "name": "Chaturthamsa",
+    "division": 4,
+    "purpose": "Fortune, property, fixed assets",
+    "sign_calculation": "Each 7.5° maps to Cardinal, Fixed, Mutable, Cardinal signs",
+    "planets_used": "Moon, 4th lord",
+    "key_ascendant": "Chaturthamsa Lagna",
+    "primary_domains": [
+      "Property",
+      "Home",
+      "Land",
+      "Vehicles",
+      "Fixed assets"
+    ],
+    "secondary_domains": [
+      "Mother",
+      "Education"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Medium",
+    "how_to_read": "4th house from D4 = property; benefics indicate good property"
+  },
+  {
+    "chart": "D7",
+    "name": "Saptamsa",
+    "division": 7,
+    "purpose": "Children, creativity, progeny",
+    "sign_calculation": "Odd sign: 1st to 7th harmonic; Even sign: 7th to 1st",
+    "planets_used": "Jupiter, 5th lord",
+    "key_ascendant": "Saptamsa Lagna",
+    "primary_domains": [
+      "Children",
+      "Progeny",
+      "Fertility",
+      "Creativity"
+    ],
+    "secondary_domains": [
+      "5th house matters"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "High",
+    "how_to_read": "5th house of D7 = children; Jupiter position key"
+  },
+  {
+    "chart": "D9",
+    "name": "Navamsa",
+    "division": 9,
+    "purpose": "Marriage, dharma, higher purpose, strength of planets",
+    "sign_calculation": "Each sign divided into 9 parts of 3°20'; Fire signs start Aries; Earth start Capricorn; Air start Libra; Water start Cancer",
+    "planets_used": "All grahas",
+    "key_ascendant": "Navamsa Lagna (Atmakaraka important)",
+    "primary_domains": [
+      "Marriage",
+      "Spouse",
+      "Dharma",
+      "Spiritual purpose"
+    ],
+    "secondary_domains": [
+      "Planet strength",
+      "Soul purpose",
+      "After 30s life"
+    ],
+    "traditional_text": "BPHS Ch.6, Jaimini Sutras",
+    "importance": "Highest — second only to D1",
+    "how_to_read": "Vargottama (same sign in D1 and D9) = very strong planet; 7th house = spouse nature"
+  },
+  {
+    "chart": "D10",
+    "name": "Dashamsa",
+    "division": 10,
+    "purpose": "Career, profession, karma, authority",
+    "sign_calculation": "Odd signs: 1st through 10th harmonic; Even signs: 9th downward",
+    "planets_used": "Sun, 10th lord",
+    "key_ascendant": "Dashamsa Lagna",
+    "primary_domains": [
+      "Career",
+      "Profession",
+      "Status",
+      "Authority",
+      "Fame"
+    ],
+    "secondary_domains": [
+      "Government",
+      "Social status",
+      "Life purpose"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "High",
+    "how_to_read": "10th house of D10 = peak career; Sun position = status; Exalted planets = career success"
+  },
+  {
+    "chart": "D12",
+    "name": "Dwadashamsa",
+    "division": 12,
+    "purpose": "Parents, ancestral karma",
+    "sign_calculation": "Each sign divided into 12 parts of 2°30'",
+    "planets_used": "Sun (father), Moon (mother)",
+    "key_ascendant": "Dwadashamsa Lagna",
+    "primary_domains": [
+      "Father",
+      "Mother",
+      "Ancestors",
+      "Ancestral karma"
+    ],
+    "secondary_domains": [
+      "Lineage",
+      "Heritage"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Medium",
+    "how_to_read": "9th house = father; 4th house = mother; malefics = parental issues"
+  },
+  {
+    "chart": "D16",
+    "name": "Shodasamsa",
+    "division": 16,
+    "purpose": "Vehicles, comforts, happiness",
+    "sign_calculation": "Each 1°52'30\" = one division",
+    "planets_used": "Venus, 4th lord",
+    "key_ascendant": "Shodasamsa Lagna",
+    "primary_domains": [
+      "Vehicles",
+      "Comforts",
+      "Luxury items",
+      "Happiness"
+    ],
+    "secondary_domains": [
+      "Material enjoyment"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Low-Medium",
+    "how_to_read": "Venus well-placed = vehicles; 4th house = general comfort"
+  },
+  {
+    "chart": "D20",
+    "name": "Vimshamsa",
+    "division": 20,
+    "purpose": "Spiritual advancement, religious activities",
+    "sign_calculation": "Each 1°30' = one division",
+    "planets_used": "Jupiter, Ketu",
+    "key_ascendant": "Vimshamsa Lagna",
+    "primary_domains": [
+      "Spirituality",
+      "Meditation",
+      "Worship",
+      "Religious practice"
+    ],
+    "secondary_domains": [
+      "Moksha",
+      "Sadhana"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Medium",
+    "how_to_read": "12th house = moksha; 9th = dharma; Jupiter position = spiritual growth"
+  },
+  {
+    "chart": "D24",
+    "name": "Chaturvimshamsa",
+    "division": 24,
+    "purpose": "Education, learning, knowledge",
+    "sign_calculation": "Each 1°15' = one division",
+    "planets_used": "Mercury, Jupiter",
+    "key_ascendant": "Chaturvimshamsa Lagna",
+    "primary_domains": [
+      "Education",
+      "Academic achievement",
+      "Knowledge",
+      "Learning"
+    ],
+    "secondary_domains": [
+      "Degrees",
+      "Certifications"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Medium",
+    "how_to_read": "5th house = formal education; Mercury = analytical ability; Jupiter = wisdom"
+  },
+  {
+    "chart": "D27",
+    "name": "Saptavimshamsa (Bhamsa)",
+    "division": 27,
+    "purpose": "Physical strength, vitality",
+    "sign_calculation": "Each nakshatra = one division (27 total)",
+    "planets_used": "Mars, Sun",
+    "key_ascendant": "Bhamsa Lagna",
+    "primary_domains": [
+      "Physical strength",
+      "Vitality",
+      "Athletic ability"
+    ],
+    "secondary_domains": [
+      "Stamina",
+      "Sports"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Low-Medium",
+    "how_to_read": "Mars strong = physical strength; Ascendant = overall constitution"
+  },
+  {
+    "chart": "D30",
+    "name": "Trimshamsa",
+    "division": 30,
+    "purpose": "Misfortunes, evils, health issues",
+    "sign_calculation": "Odd signs: Mars (0-5°), Saturn (5-10°), Jupiter (10-18°), Mercury (18-25°), Venus (25-30°); Even signs reversed",
+    "planets_used": "Saturn, Mars",
+    "key_ascendant": "Trimshamsa Lagna",
+    "primary_domains": [
+      "Evils",
+      "Misfortunes",
+      "Chronic illness",
+      "Sins"
+    ],
+    "secondary_domains": [
+      "Karma",
+      "Past life issues"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "High for negative matters",
+    "how_to_read": "Malefics in Trimshamsa = area of life suffering; 6,8,12 houses = worst outcomes"
+  },
+  {
+    "chart": "D40",
+    "name": "Khavedamsa",
+    "division": 40,
+    "purpose": "Auspicious and inauspicious events (maternal lineage)",
+    "sign_calculation": "Each 0°45' = one division",
+    "planets_used": "Moon",
+    "key_ascendant": "Khavedamsa Lagna",
+    "primary_domains": [
+      "Maternal ancestry",
+      "Auspicious events",
+      "Feminine influences"
+    ],
+    "secondary_domains": [
+      "Heredity"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Low",
+    "how_to_read": "Read like D1 but for ancestral karma from mother's side"
+  },
+  {
+    "chart": "D45",
+    "name": "Akshavedamsa",
+    "division": 45,
+    "purpose": "Paternal lineage, character, personality",
+    "sign_calculation": "Each 0°40' = one division",
+    "planets_used": "Sun",
+    "key_ascendant": "Akshavedamsa Lagna",
+    "primary_domains": [
+      "Paternal ancestry",
+      "Character",
+      "Ethics"
+    ],
+    "secondary_domains": [
+      "Father's karma"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Low",
+    "how_to_read": "Read like D1 for father's ancestral matters"
+  },
+  {
+    "chart": "D60",
+    "name": "Shastiamsa",
+    "division": 60,
+    "purpose": "Past life karma, overall destiny",
+    "sign_calculation": "Each 0°30' = one division; Each part has specific name and nature",
+    "planets_used": "All",
+    "key_ascendant": "Shastiamsa Lagna",
+    "primary_domains": [
+      "Past life karma",
+      "Overall destiny",
+      "Deep fate patterns"
+    ],
+    "secondary_domains": [
+      "Soul karma",
+      "Ultimate fate"
+    ],
+    "traditional_text": "BPHS Ch.6",
+    "importance": "Very High — ultimate chart",
+    "how_to_read": "Most precise divisional; Lagna lord strong = favorable past karma; malefics in angles = difficult destiny"
+  }
+]

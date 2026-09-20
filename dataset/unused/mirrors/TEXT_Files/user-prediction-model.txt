@@ -1,0 +1,80 @@
+READABLE DATASET
+================================================================================
+Original file: user-prediction-model.json
+Dataset number: 402 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 502 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• planets:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+  8.
+    Rahu
+  9.
+    Ketu
+• weights:
+  • Sun: 0.8
+  • Moon: 0.95
+  • Mars: 0.9
+  • Mercury: 0.85
+  • Jupiter: 1.25
+  • Venus: 1.05
+  • Saturn: 1.1
+  • Rahu: 0.85
+  • Ketu: 0.75
+• chaldeanOrder:
+  1.
+    Saturn
+  2.
+    Jupiter
+  3.
+    Mars
+  4.
+    Sun
+  5.
+    Venus
+  6.
+    Mercury
+  7.
+    Moon
+• weekdayLords:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+• horaQuality:
+  • Sun: 2.0
+  • Moon: 2.0
+  • Mars: -2.0
+  • Mercury: 1.5
+  • Jupiter: 2.5
+  • Venus: 2.5
+  • Saturn: -2.0
+  • Rahu: -1.5
+  • Ketu: -1.5

@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "437__vastu_rules_json",
+    "name": "vastu_rules",
+    "original_file": "vastu_rules.json",
+    "dataset_number": "437 of 455",
+    "format": "json",
+    "source_readable_file": "vastu_rules.txt",
+    "source_sha256": "ecd561923e175e35f20f8ec9b261e84656900483cacf9622571aeaac935b4845",
+    "source_bytes": 48389
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Brahma",
+        "location": "Center (Brahmasthan)",
+        "role": "Creator of Universe",
+        "element": "Space/Ether",
+        "mantra": "ॐ ब्रह्मणे नमः"
+      },
+      {
+        "name": "Ishana",
+        "location": "North-East",
+        "role": "Supreme Lord, Wisdom",
+        "element": "Water",
+        "mantra": "ॐ ईशानाय नमः"
+      },
+      {
+        "name": "Parjanya",
+        "location": "North-East-East",
+        "role": "Rain God",
+        "element": "Water",
+        "mantra": "ॐ पर्जन्याय नमः"
+      },
+      {
+        "name": "Jayanta",
+        "location": "North-East-North",
+        "role": "Victory",
+        "element": "Water",
+        "mantra": "ॐ जयन्ताय नमः"
+      },
+      {
+        "name": "Kubera",
+        "location": "North",
+        "role": "Wealth",
+        "element": "Water",
+        "mantra": "ॐ कुबेराय नमः"
+      },
+      {
+        "name": "Soma",
+        "location": "North-North-West",
+        "role": "Moon God",
+        "element": "Water",
+        "mantra": "ॐ सोमाय नमः"
+      },
+      {
+        "name": "Mukhya",
+        "location": "North-West-North",
+        "role": "Main Deity",
+        "element": "Air",
+        "mantra": "ॐ मुख्याय नमः"
+      },
+      {
+        "name": "Vayu",
+        "location": "North-West",
+        "role": "Wind God",
+        "element": "Air",
+        "mantra": "ॐ वायवे नमः"
+      },
+      {
+        "name": "Rog",
+        "location": "West-North-West",
+        "role": "Disease",
+        "element": "Air",
+        "mantra": "ॐ रोगाय नमः"
+      },
+      {
+        "name": "Nag",
+        "location": "North-North-West",
+        "role": "Serpent God",
+        "element": "Air",
+        "mantra": "ॐ नागाय नमः"
+      },
+      {
+        "name": "Varuna",
+        "location": "West",
+        "role": "Water God",
+        "element": "Air",
+        "mantra": "ॐ वरुणाय नमः"
+      },
+      {
+        "name": "Pushan",
+        "location": "West-South-West",
+        "role": "Nourisher",
+        "element": "Air",
+        "mantra": "ॐ पूष्णे नमः"
+      },
+      {
+        "name": "Gandharva",
+        "location": "South-South-West",
+        "role": "Celestial Musician",
+        "element": "Earth",
+        "mantra": "ॐ गन्धर्वाय नमः"
+      },
+      {
+        "name": "Nirriti",
+        "location": "South-West",
+        "role": "Protection",
+        "element": "Earth",
+        "mantra": "ॐ निरृत्यै नमः"
+      },
+      {
+        "name": "Bhringraj",
+        "location": "South-South-East",
+        "role": "Lord of Bees",
+        "element": "Earth",
+        "mantra": "ॐ भृङ्गराजाय नमः"
+      },
+      {
+        "name": "Yama",
+        "location": "South",
+        "role": "Death & Dharma",
+        "element": "Earth",
+        "mantra": "ॐ यमाय नमः"
+      },
+      {
+        "name": "Vitatha",
+        "location": "East-South-East",
+        "role": "Analysis",
+        "element": "Fire",
+        "mantra": "ॐ वितथाय नमः"
+      },
+      {
+        "name": "Agni",
+        "location": "South-East",
+        "role": "Fire God",
+        "element": "Fire",
+        "mantra": "ॐ अग्नये नमः"
+      },
+      {
+        "name": "Aditi",
+        "location": "East-North-East",
+        "role": "Mother of Gods",
+        "element": "Fire",
+        "mantra": "ॐ अदित्यै नमः"
+      },
+      {
+        "name": "Surya",
+        "location": "East",
+        "role": "Sun God",
+        "element": "Light",
+        "mantra": "ॐ सूर्याय नमः"
+      },
+      {
+        "name": "Bhudhar",
+        "location": "North-North-East",
+        "role": "Earth",
+        "element": "Water",
+        "mantra": "ॐ भूधराय नमः"
+      },
+      {
+        "name": "Aryama",
+        "location": "East-South",
+        "role": "Ancestor",
+        "element": "Fire",
+        "mantra": "ॐ अर्यम्णे नमः"
+      },
+      {
+        "name": "Savita",
+        "location": "South-East-East",
+        "role": "Solar Deity",
+        "element": "Fire",
+        "mantra": "ॐ सवित्रे नमः"
+      },
+      {
+        "name": "Indra",
+        "location": "East",
+        "role": "King of Gods",
+        "element": "Light",
+        "mantra": "ॐ इन्द्राय नमः"
+      },
+      {
+        "name": "Mitra",
+        "location": "East-West",
+        "role": "Friendship",
+        "element": "Light",
+        "mantra": "ॐ मित्राय नमः"
+      },
+      {
+        "name": "Rudra",
+        "location": "South-East-South",
+        "role": "Storm God",
+        "element": "Fire",
+        "mantra": "ॐ रुद्राय नमः"
+      },
+      {
+        "name": "Prithvidhara",
+        "location": "South-South-West",
+        "role": "Earth Holder",
+        "element": "Earth",
+        "mantra": "ॐ पृथ्वीधराय नमः"
+      },
+      {
+        "name": "Apah",
+        "location": "West",
+        "role": "Water",
+        "element": "Water",
+        "mantra": "ॐ अपां नमः"
+      },
+      {
+        "name": "Apavatsa",
+        "location": "West-North",
+        "role": "Water Spirit",
+        "element": "Water",
+        "mantra": "ॐ अपवत्साय नमः"
+      },
+      {
+        "name": "Brahma (Center)",
+        "location": "Center",
+        "role": "Cosmic Creator",
+        "element": "Space",
+        "mantra": "ॐ ब्रह्मणे नमः"
+      },
+      {
+        "name": "Diti",
+        "location": "North-West-West",
+        "role": "Mother of Demons",
+        "element": "Air",
+        "mantra": "ॐ दित्यै नमः"
+      },
+      {
+        "name": "Shikhi",
+        "location": "South-East",
+        "role": "Fire Peacock",
+        "element": "Fire",
+        "mantra": "ॐ शिखिने नमः"
+      },
+      {
+        "name": "Charaki",
+        "location": "South-South-West",
+        "role": "Witch Deity",
+        "element": "Earth",
+        "mantra": "ॐ चरक्यै नमः"
+      },
+      {
+        "name": "Vidarika",
+        "location": "South-East-East",
+        "role": "Tearing Deity",
+        "element": "Fire",
+        "mantra": "ॐ विदारिकायै नमः"
+      },
+      {
+        "name": "Prajapati",
+        "location": "Center-East",
+        "role": "Lord of Creatures",
+        "element": "Space",
+        "mantra": "ॐ प्रजापतये नमः"
+      },
+      {
+        "name": "Bhrish",
+        "location": "South-West-South",
+        "role": "Apostle",
+        "element": "Earth",
+        "mantra": "ॐ भृशाय नमः"
+      },
+      {
+        "name": "Indrajaya",
+        "location": "East-North",
+        "role": "Victory of Indra",
+        "element": "Light",
+        "mantra": "ॐ इन्द्रजयाय नमः"
+      },
+      {
+        "name": "Rudraja",
+        "location": "South-South-East",
+        "role": "Born of Rudra",
+        "element": "Earth",
+        "mantra": "ॐ रुद्रजाय नमः"
+      },
+      {
+        "name": "Mriga",
+        "location": "South-West-West",
+        "role": "Deer",
+        "element": "Earth",
+        "mantra": "ॐ मृगाय नमः"
+      },
+      {
+        "name": "Pitara",
+        "location": "West-South-West",
+        "role": "Ancestors",
+        "element": "Air",
+        "mantra": "ॐ पितृभ्यः नमः"
+      },
+      {
+        "name": "Dauvarika",
+        "location": "South-West",
+        "role": "Gatekeeper",
+        "element": "Earth",
+        "mantra": "ॐ दौवारिकाय नमः"
+      },
+      {
+        "name": "Sugriva",
+        "location": "South-South-West",
+        "role": "Monkey King",
+        "element": "Earth",
+        "mantra": "ॐ सुग्रीवाय नमः"
+      },
+      {
+        "name": "Kusumadanta",
+        "location": "West-North-West",
+        "role": "Flower Toothed",
+        "element": "Air",
+        "mantra": "ॐ कुसुमदन्ताय नमः"
+      },
+      {
+        "name": "Jaya",
+        "location": "North-East",
+        "role": "Victory",
+        "element": "Water",
+        "mantra": "ॐ जयाय नमः"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "435__vargas_json",
+    "name": "vargas",
+    "original_file": "vargas.json",
+    "dataset_number": "435 of 455",
+    "format": "json",
+    "source_readable_file": "vargas.txt",
+    "source_sha256": "1b0f5fe2d220ca18ef3721109e15a9bf1521c08afd00903ee819d3461cb63182",
+    "source_bytes": 3009
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "p": "Mars",
+        "to": 5
+      },
+      {
+        "p": "Saturn",
+        "to": 10
+      },
+      {
+        "p": "Jupiter",
+        "to": 18
+      },
+      {
+        "p": "Mercury",
+        "to": 25
+      },
+      {
+        "p": "Venus",
+        "to": 30
+      },
+      {
+        "p": "p",
+        "to": "to"
+      },
+      {
+        "p": "Venus",
+        "to": 5
+      },
+      {
+        "p": "Mercury",
+        "to": 12
+      },
+      {
+        "p": "Jupiter",
+        "to": 20
+      },
+      {
+        "p": "Saturn",
+        "to": 25
+      },
+      {
+        "p": "Mars",
+        "to": 30
+      }
+    ]
+  }
+}

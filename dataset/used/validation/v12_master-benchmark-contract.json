@@ -1,0 +1,8 @@
+{
+  "version":"12.0.0",
+  "status":"READY_FOR_INDEPENDENT_EVIDENCE",
+  "principles":["identical_input","identical_conventions","provenance_required","no_fabrication","out_of_sample_only"],
+  "engines":["HoraSaar","JHora","HoraParashara","AstroSage","Astro.com","OtherReferenceEngine"],
+  "requiredEvidence":["verifiedCharts","verifiedOutcomes","crossEngineCases","independentReviews"],
+  "claimPolicy":"Do not declare competitor superiority until reproducible evidence exists."
+}

@@ -1,0 +1,22 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/KP-Sub-Lord-Table.json
+Dataset number: 183 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 370 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: kp_001
+  • nakshatra: Ashwini
+  • star_lord: Ketu
+  • sub_lords:
+    TABLE (2 rows)
+    name | start_degree | end_degree
+    --------------------------------
+    Mercury | 0°00' | 0°46'40
+    Venus | 0°46'40 | 1°33'20
+  • prediction_logic: If the sub-lord of the 7th cusp is Venus, marriage is guaranteed.

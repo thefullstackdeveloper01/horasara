@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "369__special_lagnas_json",
+    "name": "special_lagnas",
+    "original_file": "special_lagnas.json",
+    "dataset_number": "369 of 455",
+    "format": "json",
+    "source_readable_file": "special_lagnas.txt",
+    "source_sha256": "bd04a31f4cecafb495aec48dcde340b4136d34021c09625fab7f11fbf26d8c15",
+    "source_bytes": 508
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "INDU_VALUES": {
+        "Sun": 30,
+        "Moon": 16,
+        "Mars": 6,
+        "Mercury": 8,
+        "Jupiter": 10,
+        "Venus": 12,
+        "Saturn": 1,
+        "Rahu": 0,
+        "Ketu": 0
+      }
+    }
+  }
+}

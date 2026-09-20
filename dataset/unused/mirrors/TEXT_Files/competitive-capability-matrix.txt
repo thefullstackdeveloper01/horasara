@@ -1,0 +1,43 @@
+READABLE DATASET
+================================================================================
+Original file: competitive-capability-matrix.json
+Dataset number: 86 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 2,708 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 6.0.0
+• principle: Capability is only marked complete when deterministic implementation, dataset provenance, regression vectors, and surfaced evidence exist.
+• areas:
+  TABLE (26 rows)
+  id | name | target
+  --------------------
+  astronomy | Core astronomical calculations | reference-validated
+  rashi_bhava | Rashi / Bhava calculations | reference-validated
+  charts | North/South Indian charts | complete-interactive
+  vargas | Shodashavarga / Vargas | all-supported-variants-validated
+  strength | Shadbala / Bhavbala / Vimshopaka | formula-and-vector-validated
+  ashtakavarga | Ashtakavarga | formula-and-vector-validated
+  dashas | Vimshottari / multiple Dashas | complete-timeline-validated
+  yoga | Yoga engine | sourced-rules-and-cancellations
+  dosha | Dosha engine | sourced-rules-and-cancellations
+  kp | KP | cuspal-sub-significator-validation
+  jaimini | Jaimini | complete-rule-family-validation
+  lal_kitab | Lal Kitab | sourced-rule-validation
+  tajik | Tajik / Varshaphal | annual-chart-validation
+  panchanga | Panchanga | astronomical-reference-validation
+  transit | Transit analysis | ephemeris-and-event-window-validation
+  muhurta | Muhurta | rule-catalog-and-time-validation
+  prediction | Prediction engine | calculation-evidence-timing-prediction-pipeline
+  prediction_rules | Prediction rule coverage | dataset-first-rule-catalog
+  prediction_validation | Prediction validation | golden-chart-and-outcome-corpus
+  reference_charts | Historical/reference chart database | structured-reference-corpus
+  reconciliation | Cross-system prediction reconciliation | visible-support-and-conflict-resolution
+  explainability | Explainable prediction | trace-every-claim-to-evidence
+  provenance | Evidence / provenance | source-rule-dataset-test-vector
+  ux | Interactive prediction UX | evidence-first-interactive-dashboard
+  enterprise | Enterprise subscriptions / automation | queue-retry-history-observability
+  offline | Complete offline architecture | zero-runtime-network-dependency

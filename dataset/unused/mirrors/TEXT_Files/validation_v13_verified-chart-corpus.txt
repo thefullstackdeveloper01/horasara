@@ -1,0 +1,19 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v13/verified-chart-corpus.json
+Dataset number: 420 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 178 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 13.0.0
+• status: VERIFIED_IMPORT_REQUIRED
+• records:
+  (empty list)
+• policy:
+  • no_fabrication: Yes
+  • source_provenance_required: Yes
+  • independent_verification_required: Yes

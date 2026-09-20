@@ -1,0 +1,406 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "288__menu_json",
+    "name": "menu",
+    "original_file": "menu.json",
+    "dataset_number": "288 of 455",
+    "format": "json",
+    "source_readable_file": "menu.txt",
+    "source_sha256": "2aea186507665d75c72afa5adf37716250c88ae3de2eccd37167f8dff6f51199",
+    "source_bytes": 4821
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "MODES": {
+        "1": "milan",
+        "2": "reading",
+        "3": "panchang",
+        "4": "muhurtha",
+        "5": "horary",
+        "milan": "milan",
+        "kundali milan": "milan",
+        "kundli milan": "milan",
+        "match": "milan",
+        "matching": "milan",
+        "horoscope matching": "milan",
+        "marriage matching": "milan",
+        "gun milan": "milan",
+        "ashtakoot milan": "milan",
+        "teva milan": "milan",
+        "reading": "reading",
+        "kundali reading": "reading",
+        "kundli reading": "reading",
+        "horoscope": "reading",
+        "kundali": "reading",
+        "kundli": "reading",
+        "janam kundali": "reading",
+        "birth chart": "reading",
+        "natal chart": "reading",
+        "teva": "reading",
+        "jataka": "reading",
+        "phala": "reading",
+        "horoscope reading": "reading",
+        "panchang": "panchang",
+        "panchanga": "panchang",
+        "daily panchang": "panchang",
+        "panchangam": "panchang",
+        "almanac": "panchang",
+        "calendar": "panchang",
+        "drik panchang": "panchang",
+        "muhurtha": "muhurtha",
+        "muhurat": "muhurtha",
+        "electional astrology": "muhurtha",
+        "auspicious time": "muhurtha",
+        "shubh muhurat": "muhurtha",
+        "horary": "horary",
+        "prashna": "horary",
+        "prashna jyotish": "horary",
+        "query": "horary"
+      },
+      "MENU_DETAILS": {
+        "milan": {
+          "display_name": "Kundali Milan (Matching)",
+          "description": "Compatibility analysis between two individuals for marriage or partnership.",
+          "methods": {
+            "_items": [
+              {
+                "_text": [
+                  "Ashtakoot (8-point system)"
+                ]
+              },
+              {
+                "_text": [
+                  "Dashakoot (10-point system)"
+                ]
+              },
+              {
+                "_text": [
+                  "Mangal Dosha Check"
+                ]
+              },
+              {
+                "_text": [
+                  "Mahendra Match"
+                ]
+              },
+              {
+                "_text": [
+                  "Nadi Dosha Check"
+                ]
+              },
+              {
+                "_text": [
+                  "Stree-Deergha Match"
+                ]
+              },
+              {
+                "_text": [
+                  "Rajju Dosha Check"
+                ]
+              }
+            ]
+          },
+          "inputs_required": {
+            "_items": [
+              {
+                "_text": [
+                  "Boy's Birth Details (Date, Time, Location)"
+                ]
+              },
+              {
+                "_text": [
+                  "Girl's Birth Details (Date, Time, Location)"
+                ]
+              }
+            ]
+          }
+        },
+        "reading": {
+          "display_name": "Kundali Reading (Horoscope)",
+          "description": "Comprehensive analysis of an individual's birth chart, planetary positions, and life predictions.",
+          "modules": {
+            "_items": [
+              {
+                "_text": [
+                  "Lagna (Ascendant) Analysis"
+                ]
+              },
+              {
+                "_text": [
+                  "Rashi & Nakshatra Details"
+                ]
+              },
+              {
+                "_text": [
+                  "Vimshottari Dasha & Antardasha"
+                ]
+              },
+              {
+                "_text": [
+                  "Planetary Strengths & Weaknesses"
+                ]
+              },
+              {
+                "_text": [
+                  "Yogas & Doshas Identification"
+                ]
+              },
+              {
+                "_text": [
+                  "Divisional Charts (Navamsa, Dashamsa, etc.)"
+                ]
+              },
+              {
+                "_text": [
+                  "Career & Finance Prospects"
+                ]
+              },
+              {
+                "_text": [
+                  "Marriage & Relationship Timing"
+                ]
+              },
+              {
+                "_text": [
+                  "Health & Longevity"
+                ]
+              }
+            ]
+          },
+          "inputs_required": {
+            "_items": [
+              {
+                "_text": [
+                  "Date of Birth"
+                ]
+              },
+              {
+                "_text": [
+                  "Time of Birth"
+                ]
+              },
+              {
+                "_text": [
+                  "Place of Birth"
+                ]
+              }
+            ]
+          }
+        },
+        "panchang": {
+          "display_name": "Daily Panchang (Almanac)",
+          "description": "Daily astrological almanac providing auspicious and inauspicious timings based on the lunar calendar.",
+          "elements": {
+            "_items": [
+              {
+                "_text": [
+                  "Tithi (Lunar Day)"
+                ]
+              },
+              {
+                "_text": [
+                  "Vaar (Weekday)"
+                ]
+              },
+              {
+                "_text": [
+                  "Nakshatra (Lunar Mansion)"
+                ]
+              },
+              {
+                "_text": [
+                  "Yoga (Luni-Solar Angle)"
+                ]
+              },
+              {
+                "_text": [
+                  "Karana (Half-Tithi)"
+                ]
+              }
+            ]
+          },
+          "timing_calculations": {
+            "_items": [
+              {
+                "_text": [
+                  "Rahu Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Gulika Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Yamaganda Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Abhijit Muhurtha"
+                ]
+              },
+              {
+                "_text": [
+                  "Amrit Kaal"
+                ]
+              },
+              {
+                "_text": [
+                  "Sunrise & Sunset"
+                ]
+              },
+              {
+                "_text": [
+                  "Moonrise & Moonset"
+                ]
+              }
+            ]
+          },
+          "inputs_required": {
+            "_items": [
+              {
+                "_text": [
+                  "Date"
+                ]
+              },
+              {
+                "_text": [
+                  "Location"
+                ]
+              }
+            ]
+          }
+        },
+        "muhurtha": {
+          "display_name": "Muhurtha (Electional Astrology)",
+          "description": "Finding the most auspicious time to begin important life activities and events.",
+          "events": {
+            "_items": [
+              {
+                "_text": [
+                  "Marriage (Vivaha)"
+                ]
+              },
+              {
+                "_text": [
+                  "Housewarming (Griha Pravesh)"
+                ]
+              },
+              {
+                "_text": [
+                  "Starting a Business/Shop"
+                ]
+              },
+              {
+                "_text": [
+                  "Naming Ceremony (Namakarana)"
+                ]
+              },
+              {
+                "_text": [
+                  "Thread Ceremony (Upanayana)"
+                ]
+              },
+              {
+                "_text": [
+                  "Traveling (Yatra)"
+                ]
+              },
+              {
+                "_text": [
+                  "Education/Vidya Arambha"
+                ]
+              },
+              {
+                "_text": [
+                  "Purchasing Vehicle/Property"
+                ]
+              }
+            ]
+          },
+          "inputs_required": {
+            "_items": [
+              {
+                "_text": [
+                  "Nature of Event"
+                ]
+              },
+              {
+                "_text": [
+                  "Date Range (optional)"
+                ]
+              },
+              {
+                "_text": [
+                  "Location"
+                ]
+              }
+            ]
+          }
+        },
+        "horary": {
+          "display_name": "Horary (Prashna Shastra)",
+          "description": "Answering specific questions based on the time the question is asked, without requiring a birth chart.",
+          "types": {
+            "_items": [
+              {
+                "_text": [
+                  "Question on lost items"
+                ]
+              },
+              {
+                "_text": [
+                  "Question on marriage"
+                ]
+              },
+              {
+                "_text": [
+                  "Question on career"
+                ]
+              },
+              {
+                "_text": [
+                  "Question on health"
+                ]
+              },
+              {
+                "_text": [
+                  "Yes/No specific queries"
+                ]
+              }
+            ]
+          },
+          "inputs_required": {
+            "_items": [
+              {
+                "_text": [
+                  "The exact Question"
+                ]
+              },
+              {
+                "_text": [
+                  "Current Time (auto-fetched)"
+                ]
+              },
+              {
+                "_text": [
+                  "Current Location (auto-fetched)"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "DEFAULT_SETTINGS": {
+        "DEFAULT_MODE": "reading",
+        "DEFAULT_CHART_STYLE": "NorthIndian",
+        "DEFAULT_AMSATYPE": "Lahiri"
+      }
+    }
+  }
+}

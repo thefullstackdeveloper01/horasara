@@ -1,0 +1,28 @@
+import assert from 'node:assert/strict';
+import { ChartCalculatorService } from '../app/ChartCalculatorService.js';
+import { buildJyotiVedaReport } from '../src/reporting/JyotiVedaReportEngine.js';
+import { buildCapabilityTruth } from '../src/quality/v4/CapabilityTruthEngine.js';
+import { auditReportConsistency } from '../src/quality/v4/ReportConsistencyEngine.js';
+import { rectifyBirthTimeV4 } from '../src/rectification/BirthTimeRectificationEngineV4.js';
+import { listVargaVariants, calculateVargaVariant } from '../src/charts/VargaVariantEngine.js';
+import { runEngineeringSelfAudit } from '../src/quality/EngineeringSelfAudit.js';
+
+const birth={name:'V4 Test',sex:'U',year:1990,month:5,day:15,hour:14,min:30,sec:0,lat:28.6139,lon:77.209,tz:5.5,place:'Delhi'};
+const chart=await new ChartCalculatorService().calculate(birth);
+assert.equal(chart._v4CapabilityTruth.total,100);
+assert.equal(chart._v4CapabilityTruth.counts.FAIL||0,0);
+assert.equal(chart.completion.astronomy.swissEphemeris,false);
+assert.equal(chart.vargaVariants.variants.length,16);
+assert.equal(calculateVargaVariant('D9',123.456).status,'IMPLEMENTED_VARIANT');
+assert.ok(listVargaVariants().length>=16);
+assert.ok(chart.completeSystems?.systems?.dasha);
+const report=buildJyotiVedaReport(chart,{elapsedMs:123,version:'4.0'});
+assert.equal(report.integrity.pass,true);
+assert.equal(report.consistency.pass,true);
+assert.ok(report.sections.some(s=>s.id==='v4-upgrade'));
+assert.equal(report.capabilitySummary.FAIL||0,0);
+const consistency=auditReportConsistency(report,chart); assert.equal(consistency.pass,true);
+const rect=rectifyBirthTimeV4({centerJD:2450000,events:[{id:1},{id:2},{id:3}],evaluator:(jd,e)=>100-Math.abs(jd-2450000)*100000});
+assert.equal(rect.status,'CANDIDATE_SELECTED');
+const self=runEngineeringSelfAudit({result:chart}); assert.ok(self.score>=99);
+console.log(`V4 upgrade gate: PASS — ${JSON.stringify(chart._v4CapabilityTruth.counts)}, engineering=${self.score}`);

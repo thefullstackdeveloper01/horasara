@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Karana-List.json
+Dataset number: 181 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 434 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | type | ruler | interpretation
+-----------------------------------------
+kar_001 | Bava | Movable (Chara) | Sun | Good for medicine, fire-related works, and government tasks.
+kar_002 | Vishti | Movable (Chara) | Saturn | Vishti (Bhadra) is considered highly inauspicious. All good work must be avoided during this Karana.

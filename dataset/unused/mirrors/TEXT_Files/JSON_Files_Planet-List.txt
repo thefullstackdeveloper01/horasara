@@ -1,0 +1,44 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Planet-List.json
+Dataset number: 195 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 749 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: planet_001
+  • name: Sun
+  • hindi_name: Surya
+  • gender: Male
+  • nature: Severe/Cruel (Kroor)
+  • primary_signification: Soul, Father, Government, Vitality
+  • secondary_signification: Eyes, Heart, Bones
+  • exaltation_sign: Aries (Maximum degree: 10°)
+  • debilitation_sign: Libra (Maximum degree: 10°)
+  • own_sign: Leo
+  • mooltrikona_sign: Leo (0° to 20°)
+  • gemstone: Ruby
+  • color: Saffron / Red
+  • direction: East
+  • friends:
+    1.
+      Moon
+    2.
+      Mars
+    3.
+      Jupiter
+  • enemies:
+    1.
+      Venus
+    2.
+      Saturn
+  • neutrals:
+    1.
+      Mercury
+  • element: Fire
+  • default_dasha_years: 6
+  • associated_deity: Agni / Lord Shiva

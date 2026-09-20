@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/River-List.json
+Dataset number: 203 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 794 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | source | associated_deity | astrological_significance | remedy_association | source_text
+----------------------------------------------------------------------------------------------------
+river_001 | Ganga | Gangotri Glacier (Himalayas) | Goddess Ganga / Lord Shiva | Taking a dip in the Ganga is believed to nullify all negative karmas (Pitra Dosha, Kaal Sarp Dosha). | Used universally for all planetary afflictions. | Ramayana / Mahabharata
+river_002 | Yamuna | Yamunotri | Goddess Yamuna | Bathing in the Yamuna is highly recommended for remedies related to Venus (Shukra) and relationship doshas. | Venus (Shukra) afflictions. | Bhagavata Purana

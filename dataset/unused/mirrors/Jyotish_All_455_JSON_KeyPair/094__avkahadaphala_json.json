@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "094__avkahadaphala_json",
+    "name": "avkahadaPhala",
+    "original_file": "avkahadaPhala.json",
+    "dataset_number": "24 of 455",
+    "format": "json",
+    "source_readable_file": "avkahadaPhala.txt",
+    "source_sha256": "57c0ca806764a3d02eb60ad6b774d2f5554260b6bb17df96911081c9700c88e5",
+    "source_bytes": 11958
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "PAKSHA_INFO": {
+        "Shukla (Bright Half)": {
+          "meaning": "The waxing fortnight, from New Moon to Full Moon — the Moon's light is increasing each day.",
+          "personality": "Associated with growth, accumulation, outward energy, and building momentum.",
+          "tendencies": "Tends to favour starting things, expansion, visibility, and gathering resources.",
+          "strengths": "Vitality and confidence generally build steadily through this half of the month.",
+          "challenges": "Can incline toward overextension or taking on more than is sustainable.",
+          "practical": "Classically favoured for beginnings — new ventures, ceremonies, and growth-oriented decisions."
+        },
+        "Krishna (Dark Half)": {
+          "meaning": "The waning fortnight, from Full Moon to New Moon — the Moon's light is decreasing each day.",
+          "personality": "Associated with introspection, consolidation, release, and inward energy.",
+          "tendencies": "Tends to favour completion, review, letting go, and conserving resources.",
+          "strengths": "Often brings clearer judgement and reduced impulsiveness.",
+          "challenges": "Can incline toward withdrawal, low energy, or difficulty initiating new things.",
+          "practical": "Classically favoured for closure — completing tasks, rest, and reflective work rather than launches."
+        }
+      },
+      "VARA_INFO": {
+        "Sunday": {
+          "lord": "Sun",
+          "personality": "Leadership-oriented, confident, drawn to authority and recognition.",
+          "tendencies": "Assertive, self-directed, enjoys being visible and in charge.",
+          "strengths": "Willpower, vitality, and clarity of purpose.",
+          "challenges": "Can lean toward ego, stubbornness, or impatience with subordination."
+        },
+        "Monday": {
+          "lord": "Moon",
+          "personality": "Emotionally sensitive, nurturing, imaginative, and responsive to mood/environment.",
+          "tendencies": "Empathetic, home- and family-oriented, intuitive.",
+          "strengths": "Adaptability and emotional intelligence.",
+          "challenges": "Can be prone to mood swings or being easily affected by surroundings."
+        },
+        "Tuesday": {
+          "lord": "Mars",
+          "personality": "Energetic, competitive, courageous, and action-oriented.",
+          "tendencies": "Direct, decisive, drawn to physical activity and challenges.",
+          "strengths": "Drive, discipline, and the ability to act under pressure.",
+          "challenges": "Can lean toward impatience, aggression, or impulsiveness."
+        },
+        "Wednesday": {
+          "lord": "Mercury",
+          "personality": "Communicative, analytical, curious, and adaptable.",
+          "tendencies": "Enjoys learning, discussion, business, and problem-solving.",
+          "strengths": "Wit, versatility, and quick thinking.",
+          "challenges": "Can be prone to overthinking, restlessness, or scattered focus."
+        },
+        "Thursday": {
+          "lord": "Jupiter",
+          "personality": "Optimistic, principled, generous, and drawn to knowledge or teaching.",
+          "tendencies": "Guided by ethics and a wish to grow/expand — often in wisdom, wealth, or influence.",
+          "strengths": "Wisdom, good judgement, and a naturally reassuring presence.",
+          "challenges": "Can lean toward overconfidence, excess, or preachiness."
+        },
+        "Friday": {
+          "lord": "Venus",
+          "personality": "Aesthetic, relationship-oriented, diplomatic, and drawn to comfort/beauty.",
+          "tendencies": "Values harmony, partnership, art, and pleasure.",
+          "strengths": "Charm, creativity, and the ability to build rapport.",
+          "challenges": "Can lean toward indulgence, indecision, or over-attachment to comfort."
+        },
+        "Saturday": {
+          "lord": "Saturn",
+          "personality": "Disciplined, patient, responsible, and drawn to structure/duty.",
+          "tendencies": "Methodical, hardworking, comfortable with delayed gratification.",
+          "strengths": "Perseverance, reliability, and long-term staying power.",
+          "challenges": "Can lean toward pessimism, rigidity, or excessive self-restriction."
+        }
+      },
+      "YOGA_INFO": {
+        "Vishkambha": {
+          "meaning": "Obstruction/support — a yoga of resistance that must be worked through.",
+          "practical": "Favour patience and steady effort; avoid rushing important starts."
+        },
+        "Preeti": {
+          "meaning": "Affection and love — a yoga of warmth and pleasant connection.",
+          "practical": "Favourable for relationships, social occasions, and reconciliation."
+        },
+        "Ayushman": {
+          "meaning": "Longevity — a yoga associated with health and endurance.",
+          "practical": "Favourable for health-related decisions and long-term commitments."
+        },
+        "Saubhagya": {
+          "meaning": "Good fortune — a yoga of luck and auspiciousness.",
+          "practical": "Favourable for auspicious ceremonies and new undertakings."
+        },
+        "Shobhana": {
+          "meaning": "Splendour/beauty — a yoga bringing brightness and grace to affairs.",
+          "practical": "Favourable for creative, celebratory, and aesthetic pursuits."
+        },
+        "Atiganda": {
+          "meaning": "Great obstacle — a yoga marked by friction and difficulty.",
+          "practical": "Best used for caution and risk review rather than new launches."
+        },
+        "Sukarman": {
+          "meaning": "Good deeds — a yoga favouring virtuous, well-intentioned action.",
+          "practical": "Favourable for service, charity, and ethically-grounded decisions."
+        },
+        "Dhriti": {
+          "meaning": "Steadiness/resolve — a yoga of firmness and determination.",
+          "practical": "Favourable for commitments requiring discipline and follow-through."
+        },
+        "Shoola": {
+          "meaning": "The spear/thorn — a yoga associated with sharp difficulty or conflict.",
+          "practical": "Best approached carefully; avoid confrontational or risky decisions."
+        },
+        "Ganda": {
+          "meaning": "Danger/knot — a yoga of entanglement and complication.",
+          "practical": "Favour double-checking details before committing to plans."
+        },
+        "Vriddhi": {
+          "meaning": "Growth/increase — a yoga of expansion and accumulation.",
+          "practical": "Favourable for financial decisions and growth-oriented starts."
+        },
+        "Dhruva": {
+          "meaning": "The fixed star — a yoga of stability and permanence.",
+          "practical": "Favourable for foundational, long-lasting commitments (construction, marriage)."
+        },
+        "Vyaghata": {
+          "meaning": "Striking down — a yoga associated with sudden setbacks.",
+          "practical": "Best used for review and consolidation rather than bold new moves."
+        },
+        "Harshana": {
+          "meaning": "Joy/thrill — a yoga bringing cheerfulness and enthusiasm.",
+          "practical": "Favourable for celebrations and socially engaging activity."
+        },
+        "Vajra": {
+          "meaning": "The thunderbolt — a yoga of hardness, both resilience and rigidity.",
+          "practical": "Good for tasks needing toughness; avoid where flexibility is required."
+        },
+        "Siddhi": {
+          "meaning": "Accomplishment — a yoga of successful completion.",
+          "practical": "Favourable for finishing projects and achieving goals."
+        },
+        "Vyatipata": {
+          "meaning": "Calamity — one of the most cautioned yogas in classical Muhurta.",
+          "practical": "Classically avoided for major new beginnings; favour routine, low-risk activity."
+        },
+        "Variyan": {
+          "meaning": "Excellence — a yoga bringing favourable, superior outcomes.",
+          "practical": "Favourable for important decisions and new commitments."
+        },
+        "Parigha": {
+          "meaning": "The iron bar/obstruction — a yoga of blockage.",
+          "practical": "Best used for patience and troubleshooting rather than fresh starts."
+        },
+        "Shiva": {
+          "meaning": "Auspiciousness (named for the deity) — a yoga of grace and well-being.",
+          "practical": "Favourable for spiritual practice and auspicious ceremonies."
+        },
+        "Siddha": {
+          "meaning": "The accomplished one — a yoga of mastery and successful effort.",
+          "practical": "Favourable for skilled work and demonstrations of competence."
+        },
+        "Sadhya": {
+          "meaning": "The attainable — a yoga where goals are within reach.",
+          "practical": "Favourable for goal-setting and pursuing realistic objectives."
+        },
+        "Shubha": {
+          "meaning": "Auspiciousness — a generally favourable, gentle yoga.",
+          "practical": "Favourable for most ordinary auspicious activities."
+        },
+        "Shukla": {
+          "meaning": "Brightness/purity — a yoga of clarity and positive outlook.",
+          "practical": "Favourable for decisions needing a clear head and good intent."
+        },
+        "Brahma": {
+          "meaning": "The Creator — a yoga associated with creation and new structure.",
+          "practical": "Favourable for starting projects with a long-term creative vision."
+        },
+        "Indra": {
+          "meaning": "The King of Gods — a yoga of authority and command.",
+          "practical": "Favourable for leadership decisions and asserting position."
+        },
+        "Vaidhriti": {
+          "meaning": "Separation/tension — one of the most cautioned yogas, alongside Vyatipata.",
+          "practical": "Classically avoided for major new beginnings; favour caution and review."
+        }
+      },
+      "VARNA_EFFECTS": {
+        "Brahmin": {
+          "meaning": "Priestly/intellectual class — associated with knowledge, wisdom, and spiritual inclination.",
+          "tendencies": "Naturally reflective, values learning and ethical conduct."
+        },
+        "Kshatriya": {
+          "meaning": "Warrior/ruling class — associated with courage, leadership, and protection of others.",
+          "tendencies": "Naturally assertive, drawn to responsibility and command."
+        },
+        "Vaishya": {
+          "meaning": "Merchant/trading class — associated with commerce, resourcefulness, and material planning.",
+          "tendencies": "Naturally practical, good at building and managing resources."
+        },
+        "Shudra": {
+          "meaning": "Service class — associated with skill, service to others, and steady application.",
+          "tendencies": "Naturally hardworking, cooperative, and dependable in execution."
+        }
+      },
+      "GANA_EFFECTS": {
+        "Deva": {
+          "meaning": "Divine temperament — gentle, refined, and inclined toward harmony.",
+          "tendencies": "Generally sattvic (calm/pure) in disposition, cooperative and courteous."
+        },
+        "Manushya": {
+          "meaning": "Human temperament — balanced, ambitious, and worldly.",
+          "tendencies": "Generally rajasic (active) in disposition, driven by practical goals and relationships."
+        },
+        "Rakshasa": {
+          "meaning": "Fierce/assertive temperament — intense, competitive, and strong-willed.",
+          "tendencies": "Generally tamasic (forceful) in disposition, decisive but can be domineering if unchecked."
+        }
+      },
+      "NADI_EFFECTS": {
+        "Vata": {
+          "meaning": "Air/wind constitution (classical Ayurvedic Nadi type) — linked to movement, nervous energy, and quick change.",
+          "tendencies": "Tends toward quick thinking and activity, with a need for grounding routines."
+        },
+        "Pitta": {
+          "meaning": "Fire constitution — linked to metabolism, intensity, and transformation.",
+          "tendencies": "Tends toward strong drive and focus, with a need to manage intensity/heat (literal and temperamental)."
+        },
+        "Kapha": {
+          "meaning": "Water/earth constitution — linked to stability, endurance, and steadiness.",
+          "tendencies": "Tends toward calm persistence, with a need to guard against inertia."
+        }
+      },
+      "PAYA_EFFECTS": {
+        "Swarna (Gold)": {
+          "meaning": "Gold Paya — classically the most prosperous of the three, associated with wealth and stability arriving through one's own birth-star placement.",
+          "tendencies": "Traditionally read as a favourable sign for material comfort over the life."
+        },
+        "Rajat (Silver)": {
+          "meaning": "Silver Paya — classically a moderately favourable placement, associated with steady, gradual prosperity.",
+          "tendencies": "Traditionally read as a sign of comfort achieved through consistent effort rather than sudden gain."
+        },
+        "Tamba (Copper)": {
+          "meaning": "Copper Paya — classically the most modest of the three; traditional texts read it as calling for effort to build prosperity.",
+          "tendencies": "Traditionally read as a sign that stability is built rather than inherited."
+        }
+      }
+    }
+  }
+}

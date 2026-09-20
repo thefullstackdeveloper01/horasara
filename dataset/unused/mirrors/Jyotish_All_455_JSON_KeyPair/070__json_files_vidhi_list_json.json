@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "070__json_files_vidhi_list_json",
+    "name": "JSON_Files_Vidhi-List",
+    "original_file": "JSON_Files/Vidhi-List.json",
+    "dataset_number": "218 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Vidhi-List.txt",
+    "source_sha256": "f864a74a3fccfaf4442b04c4261df5e098dc30399690161bfdfb4d7bc560c713",
+    "source_bytes": 1386
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "vidhi_001",
+          "name": "Sankalp Vidhi (Taking Vow before Puja)",
+          "applicability": "Before starting any Hindu Puja or Fasting",
+          "steps": {
+            "_items": [
+              {
+                "_text": [
+                  "Sit on an Asana facing East or North."
+                ]
+              },
+              {
+                "_text": [
+                  "Take water in the right palm with a Tulsi leaf and Kusha grass."
+                ]
+              },
+              {
+                "_text": [
+                  "Chant the Sankalp Mantra: Om Vishnu... (stating place, time, lineage, and purpose)."
+                ]
+              },
+              {
+                "_text": [
+                  "Drop the water on the ground in front of the deity."
+                ]
+              }
+            ]
+          },
+          "audio_url": "your_app_url/sankalp.mp3",
+          "source_text": "Vedic Dharma Sindhu"
+        },
+        {
+          "id": "vidhi_002",
+          "name": "Shivratri Fast Vidhi",
+          "applicability": "On the night of Maha Shivratri",
+          "steps": {
+            "_items": [
+              {
+                "_text": [
+                  "Wake up early, take bath with sesame seeds."
+                ]
+              },
+              {
+                "_text": [
+                  "Wear clean clothes and visit Shiva temple."
+                ]
+              },
+              {
+                "_text": [
+                  "Offer milk, water, honey, and Bel Patra on Shivling."
+                ]
+              },
+              {
+                "_text": [
+                  "Do Jagran (stay awake all night) and chant 'Om Namah Shivaya'."
+                ]
+              },
+              {
+                "_text": [
+                  "Break the fast next morning after sunrise."
+                ]
+              }
+            ]
+          },
+          "audio_url": "your_app_url/shivratri.mp3",
+          "source_text": "Shiva Purana"
+        }
+      ]
+    }
+  }
+}

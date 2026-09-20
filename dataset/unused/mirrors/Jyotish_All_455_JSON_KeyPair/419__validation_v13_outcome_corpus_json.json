@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "419__validation_v13_outcome_corpus_json",
+    "name": "validation_v13_outcome-corpus",
+    "original_file": "validation/v13/outcome-corpus.json",
+    "dataset_number": "418 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v13_outcome-corpus.txt",
+    "source_sha256": "0424ffb37386b606ac4eae79b5abf76cb16549c1fc81adc883b12ef102f73b60",
+    "source_bytes": 607
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "13.0.0",
+      "status": "VERIFIED_IMPORT_REQUIRED",
+      "records": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "policy": {
+        "no_fabrication": "Yes",
+        "cutoff_before_outcome": "Yes",
+        "source_provenance_required": "Yes",
+        "independent_verification_required": "Yes"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Colors-List.json
+Dataset number: 164 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 310 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | color_name | associated_planet | astrological_use | avoid_on
+-----------------------------------------------------------------
+color_001 | White | Moon & Venus | Wearing white clothes on Monday and Friday brings peace, mental clarity, and relationship harmony. | Wednesday (if Mercury is afflicted, green is preferred)

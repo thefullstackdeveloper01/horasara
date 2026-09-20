@@ -1,0 +1,24 @@
+READABLE DATASET
+================================================================================
+Original file: saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.json
+Dataset number: 342 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 510 bytes
+Top-level fields: 9
+Title: Saravali Of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi Motilal Banarasi Das, Delhi
+Creator: —
+Date: —
+Description: Sarawali 
+
+CONTENT
+--------------------------------------------------------------------------------
+• title: Saravali Of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi Motilal Banarasi Das, Delhi
+• creator: —
+• date: —
+• description: Sarawali 
+• subject: Sarawali
+• identifier: saravali-of-shri-kalyana-varma-with-kanti-mati-hindi-commentary-by-dr.-muralidha
+• source_folder: saravali-of-shri-kalyana-varma-with-kanti-mati-hindi-commentary-by-dr.-muralidha
+• text: —
+• note: OCR text not available for this item in the source archive

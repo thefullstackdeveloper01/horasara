@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "407__v11_master_evidence_policy_json",
+    "name": "v11_master-evidence-policy",
+    "original_file": "v11_master-evidence-policy.json",
+    "dataset_number": "407 of 455",
+    "format": "json",
+    "source_readable_file": "v11_master-evidence-policy.txt",
+    "source_sha256": "daec6e8770d624c1803ce0ebc755a4bf998f3b916a5acb04a4d9892339f1b8ba",
+    "source_bytes": 761
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": 11.0,
+      "rules": {
+        "_items": [
+          {
+            "_text": [
+              "No fabricated historical persons or birth data"
+            ]
+          },
+          {
+            "_text": [
+              "No fabricated event outcomes"
+            ]
+          },
+          {
+            "_text": [
+              "No fabricated competitor results"
+            ]
+          },
+          {
+            "_text": [
+              "No unsupported accuracy claims"
+            ]
+          },
+          {
+            "_text": [
+              "Every benchmark case must preserve conventions and provenance"
+            ]
+          },
+          {
+            "_text": [
+              "Outcome cutoff must precede every evaluated event"
+            ]
+          },
+          {
+            "_text": [
+              "Third-party review must be independently documented"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version":"15.0.0",
+  "choghadiya": {
+    "day": {
+      "Sunday":["Udveg","Char","Labh","Amrit","Kaal","Shubh","Rog","Udveg"],
+      "Monday":["Amrit","Kaal","Shubh","Rog","Udveg","Char","Labh","Amrit"],
+      "Tuesday":["Rog","Udveg","Char","Labh","Amrit","Kaal","Shubh","Rog"],
+      "Wednesday":["Labh","Amrit","Kaal","Shubh","Rog","Udveg","Char","Labh"],
+      "Thursday":["Shubh","Rog","Udveg","Char","Labh","Amrit","Kaal","Shubh"],
+      "Friday":["Char","Labh","Amrit","Kaal","Shubh","Rog","Udveg","Char"],
+      "Saturday":["Kaal","Shubh","Rog","Udveg","Char","Labh","Amrit","Kaal"]
+    },
+    "night": {
+      "Sunday":["Shubh","Amrit","Char","Rog","Kaal","Labh","Udveg","Shubh"],
+      "Monday":["Char","Rog","Kaal","Labh","Udveg","Shubh","Amrit","Char"],
+      "Tuesday":["Kaal","Labh","Udveg","Shubh","Amrit","Char","Rog","Kaal"],
+      "Wednesday":["Udveg","Shubh","Amrit","Char","Rog","Kaal","Labh","Udveg"],
+      "Thursday":["Amrit","Char","Rog","Kaal","Labh","Udveg","Shubh","Amrit"],
+      "Friday":["Rog","Kaal","Labh","Udveg","Shubh","Amrit","Char","Rog"],
+      "Saturday":["Labh","Udveg","Shubh","Amrit","Char","Rog","Kaal","Labh"]
+    }
+  }
+}

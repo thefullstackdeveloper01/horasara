@@ -1,0 +1,36 @@
+READABLE DATASET
+================================================================================
+Original file: sade_sati_accurate.json
+Dataset number: 336 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 158 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• MONTH_NAMES:
+  1.
+    Jan
+  2.
+    Feb
+  3.
+    Mar
+  4.
+    Apr
+  5.
+    May
+  6.
+    Jun
+  7.
+    Jul
+  8.
+    Aug
+  9.
+    Sep
+  10.
+    Oct
+  11.
+    Nov
+  12.
+    Dec

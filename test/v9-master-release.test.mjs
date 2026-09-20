@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import { runBenchmark } from '../src/quality/v9/BenchmarkSuite.js';
+import { reconcileSystems } from '../src/quality/v9/CrossSystemReconciliation.js';
+import { buildV9Readiness } from '../src/quality/v9/ReleaseReadiness.js';
+const fixture=JSON.parse(fs.readFileSync(new URL('./fixtures/ephemeris-golden.json',import.meta.url),'utf8'));
+assert.equal(fixture.fixtures.length,1000);
+const names=['Sun','Moon','Mars','Mercury','Jupiter','Venus','Saturn'];
+assert.equal(names.length,7);
+const r=await runBenchmark({name:'fixture shape',cases:fixture.fixtures.slice(0,2).map(f=>({id:f.id,input:f,expected:{Sun:f.positions.Sun.longitude}})),calculate:x=>({Sun:x.positions.Sun.longitude})});
+assert.equal(r.failed,0);
+const rec=reconcileSystems([{system:'Parashari',status:'ok',conclusion:{event:'x'}},{system:'KP',status:'ok',conclusion:{event:'y'}}]);assert.equal(rec.requiresReview,true);
+const ready=buildV9Readiness({calculationCases:0,researchCases:0,outcomeCases:0,benchmarkReports:1,ruleCoverage:1});assert.equal(ready.empiricalAccuracyClaimAllowed,false);
+console.log('V9 master release gate: PASS — corpus contracts, benchmark suite, reconciliation and evidence gates wired.');

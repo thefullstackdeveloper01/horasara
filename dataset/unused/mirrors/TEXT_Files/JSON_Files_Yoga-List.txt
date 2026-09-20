@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Yoga-List.json
+Dataset number: 221 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 950 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | formed_by | type | effects | exceptions | source_text
+-----------------------------------------------------------------
+yoga_001 | Budhaditya Yoga | Conjunction of Sun and Mercury in the same house. | Intellectual / Wealth Yoga | Native is intelligent, educated, wealthy, and holds a respectable position in society. | If this yoga occurs in the 8th house or if Mercury is combust (too close to Sun), the positive effects are diminished. | Brihat Parashara Hora Shastra
+yoga_002 | Gajakesari Yoga | Jupiter in Kendra (1,4,7,10) from Moon. | Raja Yoga (Auspicious) | Native is highly intelligent, virtuous, famous, and has a strong moral compass. Brings immense wealth and spiritual wisdom. | If Jupiter is debilitated (Capricorn) or aspected by Rahu/Ketu, effects are reduced. | Brihat Parashara Hora Shastra

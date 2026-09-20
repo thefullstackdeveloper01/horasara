@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "040__json_files_navagraha_list_json",
+    "name": "JSON_Files_Navagraha-List",
+    "original_file": "JSON_Files/Navagraha-List.json",
+    "dataset_number": "188 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Navagraha-List.txt",
+    "source_sha256": "c83122b7be89b8c7474862e47e0f881147df504a6cb86f50ac7154255ead198d",
+    "source_bytes": 683
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "graha_001",
+          "name": "Surya (Sun)",
+          "nature": "Malefic / Benefic",
+          "color": "Red",
+          "direction": "East",
+          "gemstone": "Ruby",
+          "favorite_food": "Jaggery, Wheat",
+          "associated_deity": "Shiva (Surya as the eye of Shiva)",
+          "mantra": "Om Suryaya Namah",
+          "exaltation_sign": "Aries",
+          "debilitation_sign": "Libra"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "varga_001",
+    "name": "Navamsa (D9)",
+    "division": "9",
+    "primary_significator": "Marriage, Spouse, Inner Soul, Fortunes after 30",
+    "calculation_rule": "Each sign of 30° is divided into 9 parts of 3°20'.",
+    "interpretation_logic": "If a planet is strong in D1 but debilitated in D9, its positive effects will not manifest. 'D9 is the fruit of the tree (D1)'."
+  },
+  {
+    "id": "varga_002",
+    "name": "Dashamsa (D10)",
+    "division": "10",
+    "primary_significator": "Career, Profession, Public Standing",
+    "calculation_rule": "Each sign is divided into 10 parts of 3°.",
+    "interpretation_logic": "Used to check the true strength of the 10th house lord of D1."
+  }
+]

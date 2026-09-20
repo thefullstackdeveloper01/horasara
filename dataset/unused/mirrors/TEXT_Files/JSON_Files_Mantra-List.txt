@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Mantra-List.json
+Dataset number: 186 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 388 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | name | deity | text | purpose | count | associated_planet | source_text
+----------------------------------------------------------------------------
+mantra_001 | Gayatri Mantra | Savitur (Sun) | Om Bhur Bhuva Swaha, Tat Savitur Varenyam, Bhargo Devasya Dhimahi, Dhiyo Yo Nah Prachodayat | Spiritual enlightenment, mental clarity, removal of negative energy. | 108 | Sun | Rig Veda 3.62.10

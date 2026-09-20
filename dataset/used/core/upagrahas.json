@@ -1,0 +1,20 @@
+{
+  "PLANET_ORDER_WEEKDAY": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn"
+  ],
+  "WEEKDAY_RULERS": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn"
+  ]
+}

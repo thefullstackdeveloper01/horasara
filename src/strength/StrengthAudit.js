@@ -1,0 +1,2 @@
+/** Validate a granular strength result without changing its mathematics. */
+export function auditStrengthResult(result,{requiredComponents=[]}={}){if(!result||typeof result!=='object')throw new TypeError('Strength result must be an object');const missing=requiredComponents.filter(key=>!Object.hasOwn(result,key));for(const [key,value] of Object.entries(result))if(typeof value==='number'&&!Number.isFinite(value))throw new RangeError(`Non-finite strength value: ${key}`);return Object.freeze({valid:missing.length===0,missing,auditedKeys:Object.keys(result)})}

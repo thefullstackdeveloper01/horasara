@@ -1,0 +1,681 @@
+READABLE DATASET
+================================================================================
+Original file: ashtakavarga_bphs.json
+Dataset number: 13 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 30,756 bytes
+Top-level records: 43
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: 1
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 1
+  • description: O Lord, you have described the results related to planets and houses, which are approved by many sages and acharyas.
+  • hindi: हे भगवन्, आपने ग्रहों और भावों से सम्बन्धित फल बताए हैं, जो अनेक महर्षियों और आचार्यों को सम्मत हैं।
+  • keywords:
+    1.
+      ashtaka varga
+    2.
+      introduction
+    3.
+      planets
+    4.
+      houses
+2.
+  • id: 2
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 2
+  • description: Due to the brevity of results and the subtlety of planetary motions, not all people are capable of knowing and declaring them.
+  • hindi: फलों के संक्षेप और ग्रहों की गति के क्षय के कारण, सभी मनुष्य इसे जानकर कहने में समर्थ नहीं हैं।
+  • keywords:
+    1.
+      need for system
+    2.
+      planetary motions
+    3.
+      difficulty
+3.
+  • id: 3
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 3
+  • description: In Kali Yuga, people have dull intellect. Therefore, please tell me that scripture which even those with little intelligence can understand.
+  • hindi: कलियुग में पापियों की बुद्धि क्षीण होती है। इसलिए मुझे वह शास्त्र बताइए जो अल्पबुद्धि लोग भी समझ सकें।
+  • keywords:
+    1.
+      kali yuga
+    2.
+      dull intellect
+    3.
+      simple method
+4.
+  • id: 4
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 4
+  • description: For knowing the happiness and sorrows of people and determining longevity, the condition of planets at all times should be clearly known.
+  • hindi: मनुष्यों के सुख-दुःख के ज्ञान और आयु के निर्णय के लिए, प्रत्येक काल में ग्रहों की अवस्था स्पष्ट रूप से जाननी चाहिए।
+  • keywords:
+    1.
+      purpose
+    2.
+      happiness
+    3.
+      sorrow
+    4.
+      longevity
+5.
+  • id: 5
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 5
+  • description: O Brahma, you have asked well. I shall now describe this scripture for knowing the ways of the world and determining longevity.
+  • hindi: हे ब्रह्मन्, तुमने अच्छा प्रश्न किया है। मैं तुम्हें लोकयात्रा के ज्ञान और आयु के निर्णय के लिए यह शास्त्र बता रहा हूँ।
+  • keywords:
+    1.
+      teaching
+    2.
+      ashtaka varga
+    3.
+      longevity determination
+6.
+  • id: 6
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 6
+  • description: There is purpose in both the concise and detailed aspects of the scripture. For the benefit of people, listen with a delighted mind.
+  • hindi: शास्त्र के संक्षेप और विस्तार का भी प्रयोजन है। लोगों के उपकार के लिए, सम्यक् आनन्द मन से सुनो।
+  • keywords:
+    1.
+      purpose
+    2.
+      benefit of people
+    3.
+      attention
+7.
+  • id: 7
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 7
+  • description: The houses from Ascendant to 12th give results according to their names. They are considered auspicious when associated with benefic planets.
+  • hindi: लग्न से व्यय तक के भाव अपने-अपने नाम के अनुरूप फल देते हैं। वे शुभ ग्रहों से युक्त होने पर शुभ फल देते हैं।
+  • keywords:
+    1.
+      houses
+    2.
+      benefic association
+    3.
+      auspicious results
+8.
+  • id: 8
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 8
+  • description: Houses associated with exalted planets or aspected by malefic planets in enemy or debilitated signs cause inauspicious results.
+  • hindi: जो भाव उच्चादि स्थानों में स्थित ग्रहों से युक्त हों, या शत्रु-नीच राशि में स्थित पाप ग्रहों से दृष्ट हों, वे अकल्याणकारक होते हैं।
+  • keywords:
+    1.
+      exaltation
+    2.
+      enemy sign
+    3.
+      debilitation
+    4.
+      inauspicious
+9.
+  • id: 9
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 9
+  • description: Similarly, planets in enemy/debilitated signs or friend/exalted signs produce results. This general principle has been stated by learned astrologers.
+  • hindi: इसी प्रकार शत्रु-नीच स्थित ग्रह या मित्र-उच्च स्थित ग्रह भी फल देते हैं। होरा शास्त्र के ज्ञाता विद्वानों ने यह सामान्य नियम कहा है।
+  • keywords:
+    1.
+      general principle
+    2.
+      friend sign
+    3.
+      enemy sign
+    4.
+      exaltation
+10.
+  • id: 10
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 10
+  • description: I have stated all this following the ancient acharyas. The purpose of this scripture is knowledge of longevity and worldly affairs.
+  • hindi: मैंने पूर्वाचार्यों के अनुसार यह सब कहा है। इस शास्त्र का प्रयोजन आयु और लोकयात्रा का ज्ञान है।
+  • keywords:
+    1.
+      ancient acharyas
+    2.
+      longevity
+    3.
+      worldly affairs
+11.
+  • id: 11
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 11
+  • description: Even Vashistha or Brihaspati cannot determine this with certainty. What then of humans, especially in Kali Yuga?
+  • hindi: वशिष्ठ या बृहस्पति भी इसका निश्चय नहीं कर सकते। फिर कलियुग में मनुष्य तो क्या कहें?
+  • keywords:
+    1.
+      difficulty
+    2.
+      vashistha
+    3.
+      brihaspati
+    4.
+      kali yuga
+12.
+  • id: 12
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 12
+  • description: Therefore, I shall describe the method by which, just as results of houses are known from the Ascendant and Moon, they can also be known from other planets.
+  • hindi: इसलिए मैं वह विधि बताता हूँ जिससे लग्न और चन्द्र से जैसे भावों का फल जाना जाता है, वैसे ही अन्य ग्रहों से भी जाना जा सके।
+  • keywords:
+    1.
+      ashtaka varga method
+    2.
+      systematic
+    3.
+      all planets
+13.
+  • id: 13
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 13
+  • description: Now I shall describe separately the auspicious and inauspicious places for the nine planets including the Ascendant.
+  • hindi: अब मैं लग्न सहित नव ग्रहों के अशुभ और शुभ स्थानों को अलग-अलग बताता हूँ।
+  • keywords:
+    1.
+      nine planets
+    2.
+      ascendant
+    3.
+      auspicious
+    4.
+      inauspicious
+14.
+  • id: 14
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 14
+  • description: Knowing the Karana (inauspicious) and Sthana (auspicious) through the marks of dots and lines, the clear results of Ashtaka Varga should be declared.
+  • hindi: करण और स्थान को रेखा और बिन्दु के लक्षण से जानकर, क्रम से अष्टक वर्ग का स्पष्ट फल कहना चाहिए।
+  • keywords:
+    1.
+      karana
+    2.
+      sthana
+    3.
+      dot
+    4.
+      line
+    5.
+      auspicious
+    6.
+      inauspicious
+15.
+  • id: 15
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 15
+  • description: In the Sun's Ashtaka Varga, five planets give dots in 1st, 2nd, 8th, 3rd, and 12th; four in 7th and 4th; three in 6th and 9th; six in 5th; two in 10th; and one in 11th house.
+  • hindi: सूर्य के अष्टक वर्ग में प्रथम, द्वितीय, अष्टम, तृतीय और द्वादश में पाँच-पाँच; सप्तम और चतुर्थ में चार-चार; षष्ठ और नवम में तीन-तीन; पंचम में छह; दशम में दो; और एकादश में एक ग्रह करण (बिन्दु) देने वाले होते हैं।
+  • keywords:
+    1.
+      sun ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+16.
+  • id: 16
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 16
+  • description: Detailed list of planets giving dots (Karana) in various houses in the Sun's Ashtaka Varga.
+  • hindi: सूर्य के अष्टक वर्ग में विभिन्न भावों में करण (बिन्दु) देने वाले ग्रहों की विस्तृत सूची।
+  • keywords:
+    1.
+      sun ashtaka varga
+    2.
+      karana details
+    3.
+      all houses
+17.
+  • id: 17
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 17
+  • description: In the Moon's Ashtaka Varga, six planets give dots in 9th and 2nd; five in 4th, 8th, and 1st; one in 10th and 3rd; four in 5th; three in 6th, 7th, and 11th; and eight in 12th house.
+  • hindi: चन्द्र के अष्टक वर्ग में नवम और द्वितीय में छह; चतुर्थ, अष्टम और प्रथम में पाँच; दशम और तृतीय में एक; पंचम में चार; षष्ठ, सप्तम और एकादश में तीन; और द्वादश में आठ ग्रह करण देते हैं।
+  • keywords:
+    1.
+      moon ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+18.
+  • id: 18
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 18
+  • description: In Mars's Ashtaka Varga, six planets give dots in 12th, 4th, 5th, and 7th; seven in 2nd and 9th; five in 1st and 8th; four in 3rd; three in 10th; two in 6th; and none in 11th house.
+  • hindi: मंगल के अष्टक वर्ग में द्वादश, चतुर्थ, पंचम और सप्तम में छह; द्वितीय और नवम में सात; प्रथम और अष्टम में पाँच; तृतीय में चार; दशम में तीन; षष्ठ में दो; और एकादश में कोई करण नहीं होता।
+  • keywords:
+    1.
+      mars ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+19.
+  • id: 19
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 19
+  • description: In Mercury's Ashtaka Varga, three planets give dots in 1st, 2nd, 4th, 10th, 6th, and 9th; two in 8th; six in 3rd and 7th; none in 11th; and five in 5th and 12th house.
+  • hindi: बुध के अष्टक वर्ग में प्रथम, द्वितीय, चतुर्थ, दशम, षष्ठ और नवम में तीन; अष्टम में दो; तृतीय और सप्तम में छह; एकादश में कोई नहीं; पंचम और द्वादश में पाँच ग्रह करण देते हैं।
+  • keywords:
+    1.
+      mercury ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+20.
+  • id: 20
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 20
+  • description: In Jupiter's Ashtaka Varga, one planet gives a dot in 2nd and 11th; two in 10th; seven in 12th; four in 6th; five in 8th and 3rd; and three in the remaining houses (1st, 4th, 5th, 7th, 9th).
+  • hindi: गुरु के अष्टक वर्ग में द्वितीय और एकादश में एक; दशम में दो; द्वादश में सात; षष्ठ में चार; अष्टम और तृतीय में पाँच; और शेष भावों (प्रथम, चतुर्थ, पंचम, सप्तम, नवम) में तीन-तीन ग्रह करण देते हैं।
+  • keywords:
+    1.
+      jupiter ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+21.
+  • id: 21
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 21
+  • description: In Venus's Ashtaka Varga, two planets give dots in 5th, 8th, and 3rd; five in 1st, 2nd, 12th, and 10th; eight in 7th; six in 6th; one in 9th; three in 4th; and none in 11th house.
+  • hindi: शुक्र के अष्टक वर्ग में पंचम, अष्टम और तृतीय में दो; प्रथम, द्वितीय, द्वादश, दशम में पाँच; सप्तम में आठ; षष्ठ में छह; नवम में एक; चतुर्थ में तीन; और एकादश में कोई करण नहीं होता।
+  • keywords:
+    1.
+      venus ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+22.
+  • id: 22
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 22
+  • description: In Saturn's Ashtaka Varga, seven planets give dots in 2nd, 7th, and 9th; six in 8th, 1st, and 4th; four in 10th, 3rd, and 12th; one in 6th; five in 5th; and none in 11th house.
+  • hindi: शनि के अष्टक वर्ग में द्वितीय, सप्तम और नवम में सात; अष्टम, प्रथम और चतुर्थ में छह; दशम, तृतीय और द्वादश में चार; षष्ठ में एक; पंचम में पाँच; और एकादश में कोई करण नहीं होता।
+  • keywords:
+    1.
+      saturn ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+23.
+  • id: 23
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 23
+  • description: In the Ascendant's Ashtaka Varga, three planets give dots in 1st and 4th; five in 2nd and 12th; two in 3rd; one in 6th; seven in 7th; six in 5th, 8th, and 9th; and one each in 10th and 11th house.
+  • hindi: लग्न के अष्टक वर्ग में प्रथम और चतुर्थ में तीन; द्वितीय और द्वादश में पाँच; तृतीय में दो; षष्ठ में एक; सप्तम में सात; पंचम, अष्टम, नवम में छह-छह; दशम और एकादश में एक-एक ग्रह करण देते हैं।
+  • keywords:
+    1.
+      ascendant ashtaka varga
+    2.
+      karana
+    3.
+      dot positions
+24.
+  • id: 24
+  • chapter: 66
+  • title: Ashtaka Varga System
+  • shloka: 24
+  • description: Karana should be marked with a dot and Sthana with a line. Karana gives inauspicious results and Sthana gives auspicious results.
+  • hindi: करण को बिन्दु से और स्थान को रेखा से चिह्नित करना चाहिए। करण अशुभ और स्थान शुभ फल देने वाला होता है।
+  • keywords:
+    1.
+      dot
+    2.
+      line
+    3.
+      karana
+    4.
+      sthana
+    5.
+      auspicious
+    6.
+      inauspicious
+25.
+  • id: 25
+  • chapter: 67
+  • title: Trikona Shodhana (Rectification) in Ashtaka Varga
+  • shloka: 1
+  • description: After preparing the Ashtaka Varga of all planets including the Ascendant, Trikona Shodhana should first be performed for all signs.
+  • hindi: लग्न सहित सभी ग्रहों का अष्टक वर्ग बनाकर, सबसे पहले सभी राशियों का त्रिकोण शोधन करना चाहिए।
+  • keywords:
+    1.
+      trikona shodhana
+    2.
+      rectification
+    3.
+      first step
+26.
+  • id: 26
+  • chapter: 67
+  • title: Trikona Shodhana (Rectification) in Ashtaka Varga
+  • shloka: 2
+  • description: O Brahmin, the Trikonas are: Aries, Leo, Sagittarius (fire signs); Taurus, Virgo, Capricorn (earth signs); Gemini, Libra, Aquarius (air signs); and Cancer, Scorpio, Pisces (water signs).
+  • hindi: हे विप्र, त्रिकोण इस प्रकार हैं: मेष, सिंह और धनु एक त्रिकोण; वृष, कन्या और मकर दूसरा; मिथुन, तुला और कुम्भ तीसरा; और कर्क, वृश्चिक और मीन चौथा त्रिकोण।
+  • keywords:
+    1.
+      trikonas
+    2.
+      trines
+    3.
+      fire signs
+    4.
+      earth signs
+    5.
+      air signs
+    6.
+      water signs
+27.
+  • id: 27
+  • chapter: 67
+  • title: Trikona Shodhana (Rectification) in Ashtaka Varga
+  • shloka: 3
+  • description: In a Trikona, subtract the smallest number from each of the three signs. If any sign has zero, do not perform Shodhana for that Trikona.
+  • hindi: त्रिकोण की तीनों राशियों में जो सबसे कम संख्या हो, उसे घटाकर शेष राशियों में वही संख्या रख देनी चाहिए। यदि किसी राशि में शून्य हो तो उस त्रिकोण का शोधन नहीं करना चाहिए।
+  • keywords:
+    1.
+      trikona shodhana method
+    2.
+      subtract smallest
+    3.
+      zero exception
+28.
+  • id: 28
+  • chapter: 67
+  • title: Trikona Shodhana (Rectification) in Ashtaka Varga
+  • shloka: 4
+  • description: If all three signs have equal numbers, reduce all to zero. Thereafter, Ekadhipatya Shodhana should be performed.
+  • hindi: यदि तीनों राशियों में समान संख्या हो तो सभी को शून्य कर देना चाहिए। इसके बाद एकाधिपत्य शोधन करना चाहिए।
+  • keywords:
+    1.
+      equal numbers
+    2.
+      reduce to zero
+    3.
+      ekadhipatya shodhana
+29.
+  • id: 29
+  • chapter: 68
+  • title: Ekadhipatya Shodhana in Ashtaka Varga
+  • shloka: 1
+  • description: After performing Trikona Shodhana and obtaining the results for signs, Ekadhipatya Shodhana should then be performed separately.
+  • hindi: पहले त्रिकोण शोधन करके राशियों के फल निकालें। फिर अलग-अलग एकाधिपत्य शोधन करना चाहिए।
+  • keywords:
+    1.
+      ekadhipatya shodhana
+    2.
+      second step
+    3.
+      rectification
+30.
+  • id: 30
+  • chapter: 68
+  • title: Ekadhipatya Shodhana in Ashtaka Varga
+  • shloka: 2
+  • description: If both signs owned by a planet have numbers, the smaller number is retained and the larger is reduced accordingly. For signs without planets, numbers are reduced.
+  • hindi: यदि दो राशियों में फल हों तो शोधन का नियम: जिस राशि में ग्रह हो और संख्या कम हो, वहीं रखनी चाहिए; बिना ग्रह वाली राशि की संख्या घटा देनी चाहिए।
+  • keywords:
+    1.
+      ekadhipatya rules
+    2.
+      signs with planets
+    3.
+      signs without planets
+31.
+  • id: 31
+  • chapter: 68
+  • title: Ekadhipatya Shodhana in Ashtaka Varga
+  • shloka: 3
+  • description: If both signs have planets, never perform Shodhana. If one sign has a planet with a smaller number and the other has no planet with a larger number, perform Shodhana.
+  • hindi: यदि दोनों राशियों में ग्रह हों तो कभी भी शोधन नहीं करना चाहिए। यदि एक राशि में ग्रह हो और उसकी संख्या कम हो, और दूसरी में ग्रह न हो और संख्या अधिक हो, तो शोधन करना चाहिए।
+  • keywords:
+    1.
+      both signs with planets
+    2.
+      no shodhana
+    3.
+      conditions
+32.
+  • id: 32
+  • chapter: 69
+  • title: Pinda Sadhana in Ashtaka Varga
+  • shloka: 1
+  • description: Multiply the rectified numbers by the Rashi multiplier. If there are planets in that sign, also multiply by the Graha multiplier.
+  • hindi: इस प्रकार शोधन के बाद प्राप्त संख्याओं को राशि मान से गुणा करें। यदि उस राशि में ग्रह हों तो ग्रह मान से भी गुणा करें।
+  • keywords:
+    1.
+      pinda sadhana
+    2.
+      rashi multiplier
+    3.
+      graha multiplier
+33.
+  • id: 33
+  • chapter: 69
+  • title: Pinda Sadhana in Ashtaka Varga
+  • shloka: 2
+  • description: Multiply Taurus and Leo by 10; Gemini and Scorpio by 8; Libra and Aries by 7; Cancer and Capricorn by 5; Sagittarius by 9; Aquarius by 11; and Pisces by 12.
+  • hindi: वृष और सिंह को 10 से, मिथुन और वृश्चिक को 8 से, तुला और मेष को 7 से, कर्क और मकर को 5 से, धनु को 9 से, कुम्भ को 11 से, और मीन को 12 से गुणा करें।
+  • keywords:
+    1.
+      rashi multipliers
+    2.
+      pinda calculation
+    3.
+      multiplication factors
+34.
+  • id: 34
+  • chapter: 69
+  • title: Pinda Sadhana in Ashtaka Varga
+  • shloka: 3
+  • description: Jupiter's multiplier is 10, Sun's 5, Venus's 7, Mercury's 5, Mars's 8, Moon's 5, Saturn's 5, and Rahu-Ketu's 8.
+  • hindi: गुरु का मान 10, सूर्य का 5, शुक्र का 7, बुध का 5, मंगल का 8, चन्द्र का 5, शनि का 5 और राहु-केतु का 8 है।
+  • keywords:
+    1.
+      graha multipliers
+    2.
+      pinda calculation
+    3.
+      planet factors
+35.
+  • id: 35
+  • chapter: 70
+  • title: Effects of Ashtaka Varga
+  • shloka: 1
+  • description: From the Sun's Ashtaka Varga, results related to soul, nature, and father should be known. From the Moon's Ashtaka Varga, results related to mind, intellect, and mother should be known.
+  • hindi: सूर्य के अष्टक वर्ग से आत्मा, स्वभाव और पिता सम्बन्धी फल जानने चाहिए। चन्द्र के अष्टक वर्ग से मन, बुद्धि और माता सम्बन्धी फल जानने चाहिए।
+  • keywords:
+    1.
+      sun ashtaka varga
+    2.
+      soul
+    3.
+      father
+    4.
+      moon ashtaka varga
+    5.
+      mind
+    6.
+      mother
+36.
+  • id: 36
+  • chapter: 70
+  • title: Effects of Ashtaka Varga
+  • shloka: 2
+  • description: From Mars, consider brothers, qualities, and land. From Mercury, consider business, profession, knowledge, and friends.
+  • hindi: मंगल से भाई, गुण और भूमि का विचार करें। बुध से व्यापार, कर्म, विद्या और मित्रों का विचार करें।
+  • keywords:
+    1.
+      mars ashtaka varga
+    2.
+      brothers
+    3.
+      land
+    4.
+      mercury ashtaka varga
+    5.
+      business
+    6.
+      knowledge
+    7.
+      friends
+37.
+  • id: 37
+  • chapter: 70
+  • title: Effects of Ashtaka Varga
+  • shloka: 3
+  • description: From Jupiter, consider physical health, knowledge, children, and wealth. From Venus, consider marriage, enjoyments, and conveyances.
+  • hindi: गुरु से शरीर की पुष्टि, विद्या, पुत्र और अर्थ की सम्पत्ति का विचार करें। शुक्र से विवाह, भोग और वाहन का विचार करें।
+  • keywords:
+    1.
+      jupiter ashtaka varga
+    2.
+      health
+    3.
+      knowledge
+    4.
+      children
+    5.
+      wealth
+    6.
+      venus ashtaka varga
+    7.
+      marriage
+    8.
+      conveyances
+38.
+  • id: 38
+  • chapter: 70
+  • title: Effects of Ashtaka Varga
+  • shloka: 4
+  • description: From Venus, consider association with courtesans and women. From Saturn, consider longevity, means of livelihood, sorrow, grief, fear, total loss, and death.
+  • hindi: शुक्र से वेश्या-स्त्री सम्बन्ध का विचार करें। शनि से आयु, जीवनोपाय, दुःख, शोक, भय, सर्वनाश और मृत्यु का विचार करें।
+  • keywords:
+    1.
+      venus ashtaka varga
+    2.
+      women association
+    3.
+      saturn ashtaka varga
+    4.
+      longevity
+    5.
+      sorrow
+    6.
+      death
+39.
+  • id: 39
+  • chapter: 71
+  • title: Determination of Longevity through Ashtaka Varga
+  • shloka: 1
+  • description: Now I shall describe the longevity derived from Ashtaka Varga. For one rekha (line), 2 days; for two rekhas, 1.5 days; for three rekhas, 1 day of life is allotted.
+  • hindi: अब मैं अष्टक वर्ग से उत्पन्न आयु बताता हूँ। एक रेखा पर 2 दिन, दो रेखाओं पर 1½ दिन, तीन रेखाओं पर 1 दिन आयु मानी गई है।
+  • keywords:
+    1.
+      longevity
+    2.
+      rekha allocation
+    3.
+      days
+40.
+  • id: 40
+  • chapter: 71
+  • title: Determination of Longevity through Ashtaka Varga
+  • shloka: 2
+  • description: For two rekhas, 1 day; for three, half a day; for four, 7 days; for five, 2 years; for six, 4 years; for seven, 6 years; and for eight, 8 years of life are allotted.
+  • hindi: दो रेखाओं पर 1 दिन, तीन पर आधा दिन, चार पर 7 दिन, पाँच पर 2 वर्ष, छह पर 4 वर्ष, सात पर 6 वर्ष, और आठ पर 8 वर्ष आयु होती है।
+  • keywords:
+    1.
+      longevity
+    2.
+      rekha allocation
+    3.
+      days
+    4.
+      years
+41.
+  • id: 41
+  • chapter: 72
+  • title: Aggregational Ashtaka Varga
+  • shloka: 1
+  • description: Draw a chart of 12 signs including the birth Ascendant. Collect the results from all Ashtaka Vargas and place them in each sign.
+  • hindi: जन्म लग्न आदि सहित बारह राशियों का चक्र बनाएँ। सब अष्टक वर्गों के फलों को एकत्र करके प्रत्येक राशि में रखें।
+  • keywords:
+    1.
+      aggregational ashtaka varga
+    2.
+      all signs
+    3.
+      combined results
+42.
+  • id: 42
+  • chapter: 72
+  • title: Aggregational Ashtaka Varga
+  • shloka: 2
+  • description: O best of Brahmins, this is called Aggregational Ashtaka Varga. From this, the results for natives should be known.
+  • hindi: हे द्विजोत्तम, यह समुदाय अष्टक वर्ग कहलाता है। इससे जातकों के फल जानने चाहिए।
+  • keywords:
+    1.
+      aggregational ashtaka varga
+    2.
+      definition
+    3.
+      purpose
+43.
+  • id: 43
+  • chapter: 72
+  • title: Aggregational Ashtaka Varga
+  • shloka: 3
+  • description: Signs with more than 30 rekhas give auspicious results. Those with 25-30 give medium results. Those with less than 25 rekhas give distress and sorrow.
+  • hindi: जिन राशियों में 30 से अधिक रेखाएँ हों, वे शुभ फल देने वाली होती हैं। 25 से 30 के बीच मध्यम फल, और 25 से कम रेखाएँ कष्ट-दुःख देने वाली होती हैं।
+  • keywords:
+    1.
+      auspicious signs
+    2.
+      30+ rekhas
+    3.
+      medium signs
+    4.
+      25-30 rekhas
+    5.
+      inauspicious signs
+    6.
+      below 25 rekhas

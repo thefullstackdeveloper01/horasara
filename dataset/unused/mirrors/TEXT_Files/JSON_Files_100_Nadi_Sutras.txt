@@ -1,0 +1,123 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/100_Nadi_Sutras.json
+Dataset number: 153 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 25,432 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• metadata:
+  • title: 100 Nadi Sutras
+  • description: A collection of 100 Nadi Sutras (Nadi Shastra / Nadi Astrology aphorisms) presented in a readable JSON format. These sutras are traditional aphorisms attributed to ancient Indian sages, used in Nadi Astrology for guidance on karma, destiny, dharma, and spiritual life.
+  • total_sutras: 100
+  • language: Sanskrit (transliterated) + English translation
+  • format_version: 1.0
+  • created_for: Educational and spiritual study
+  • note: Nadi Sutras are traditionally transmitted orally and vary by lineage. This compilation is a representative collection for study and reflection.
+• sutras:
+  TABLE (100 rows)
+  id | sanskrit | english | theme | source
+  ----------------------------------------
+  1 | Karmany evadhikaras te ma phaleshu kadachana | You have the right to action alone, never to its fruits. | Karma Yoga | Bhagavad Gita 2.47
+  2 | Yoga-sthah kuru karmani sangam tyaktva dhananjaya | Established in yoga, perform actions, abandoning attachment, O Arjuna. | Karma Yoga | Bhagavad Gita 2.48
+  3 | Sukha-duhkhe same kritva labhalabhau jayajayau | Treating pleasure and pain, gain and loss, victory and defeat equally. | Equanimity | Bhagavad Gita 2.38
+  4 | Atmaiva hy atmano bandhur atmaiva ripur atmanah | The self is the friend of the self, and the self is the enemy of the self. | Self-Discipline | Bhagavad Gita 6.5
+  5 | Uddhared atmanatmanam natmanam avasadayet | One should uplift oneself by oneself; one should not degrade oneself. | Self-Improvement | Bhagavad Gita 6.5
+  6 | Yatra yogeshvarah krishno yatra partho dhanur-dharah | Wherever there is Krishna, the master of yoga, and Arjuna, the wielder of the bow, there will surely be victory, prosperity, and righteousness. | Divine Guidance | Bhagavad Gita 18.78
+  7 | Paritranaya sadhunam vinashaya cha dushkritam | For the protection of the good and the destruction of the wicked. | Divine Purpose | Bhagavad Gita 4.8
+  8 | Dharma-samsthapanarthaya sambhavami yuge yuge | I manifest age after age to reestablish dharma. | Dharma | Bhagavad Gita 4.8
+  9 | Yada yada hi dharmasya glanir bhavati bharata | Whenever there is a decline of dharma, O Bharata. | Dharma | Bhagavad Gita 4.7
+  10 | Abhyasa-vairagyabhyam tan-nirodhah | The mind is restrained by practice and detachment. | Mind Control | Yoga Sutras 1.12
+  11 | Yogash chitta-vritti-nirodhah | Yoga is the cessation of the modifications of the mind. | Yoga | Yoga Sutras 1.2
+  12 | Tada drashtuh svarupe avasthanam | Then the seer abides in its own true nature. | Self-Realization | Yoga Sutras 1.3
+  13 | Vritti-sarupyam itaratra | At other times, the seer identifies with the modifications of the mind. | Ignorance | Yoga Sutras 1.4
+  14 | Pramana-viparyaya-vikalpa-nidra-smritayah | The modifications are right knowledge, wrong knowledge, imagination, sleep, and memory. | Mind | Yoga Sutras 1.6
+  15 | Drashta drishimatrah shuddho 'pi pratyaya-anupashyah | The seer is pure consciousness, but appears to be colored by the mind. | Consciousness | Yoga Sutras 2.20
+  16 | Heyam duhkham anagatam | Future suffering can be avoided. | Suffering | Yoga Sutras 2.16
+  17 | Drashta-drishyayoh samyogo heya-hetuh | The cause of suffering is the union of the seer and the seen. | Suffering | Yoga Sutras 2.17
+  18 | Avidya-Asmita-Raga-Dvesha-Abhiniveshah kleshah | The afflictions are ignorance, egoism, attachment, aversion, and fear of death. | Afflictions | Yoga Sutras 2.3
+  19 | Anityashuchi-duhkhanatmasu nitya-shuchi-sukhatma-khyatir avidya | Ignorance is mistaking the impermanent, impure, painful, and non-self for the permanent, pure, pleasurable, and self. | Ignorance | Yoga Sutras 2.5
+  20 | Sattva-purushayoh atyanta-asankhyatoh | The purity of the mind and the seer are absolutely distinct. | Discernment | Yoga Sutras 2.19
+  21 | Tasya heyah hetuh avidya | The cause of suffering is ignorance. | Ignorance | Yoga Sutras 2.24
+  22 | Hanam duhkham anagatam | The avoidance of future suffering is the goal. | Liberation | Yoga Sutras 2.16
+  23 | Samyag-darshana-vishuddhih | Purity of right vision. | Wisdom | Yoga Sutras 2.25
+  24 | Viveka-khyatir aviplava | Uninterrupted discriminative awareness. | Discernment | Yoga Sutras 2.26
+  25 | Tasya saptadha pranta-bhumih prajnaya | The yogi's insight becomes sevenfold and reaches the highest ground. | Enlightenment | Yoga Sutras 2.27
+  26 | Yoganganushthanad ashuddhi-kshaye jnana-diptir a-viveka-khyateh | By practicing the limbs of yoga, impurities are destroyed and the light of knowledge shines. | Yoga Practice | Yoga Sutras 2.28
+  27 | Yama-niyama-asana-pranayama-pratyahara-dharana-dhyana-samadhayah ashtau angani | The eight limbs are yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, and samadhi. | Ashtanga Yoga | Yoga Sutras 2.29
+  28 | Ahimsa-satya-asteya-brahmacharya-aparigrahah yamah | Non-violence, truthfulness, non-stealing, celibacy, and non-possessiveness are the yamas. | Ethics | Yoga Sutras 2.30
+  29 | Shaucha-santosha-tapah-svadhyaya-Ishvara-pranidhanani niyamah | Purity, contentment, austerity, self-study, and surrender to God are the niyamas. | Ethics | Yoga Sutras 2.32
+  30 | Sthira-sukham asanam | Asana is a steady, comfortable posture. | Asana | Yoga Sutras 2.46
+  31 | Prayatna-shaithilya-ananta-samapattibhyam | By loosening effort and meditating on the infinite. | Asana | Yoga Sutras 2.47
+  32 | Tatah dvandva-anabhighatah | Then one is not disturbed by dualities. | Equanimity | Yoga Sutras 2.48
+  33 | Tasmin sati shvasa-prashvasayoh gati-vichchhedah pranayamah | Pranayama is the regulation of inhalation and exhalation. | Pranayama | Yoga Sutras 2.49
+  34 | Svavishaya-asamprayoge chitta-svarupa-anukarah iva indriyanam pratyaharah | Pratyahara is the withdrawal of the senses from their objects. | Pratyahara | Yoga Sutras 2.54
+  35 | Desha-bandhah chittasya dharana | Dharana is the binding of the mind to one place. | Dharana | Yoga Sutras 3.1
+  36 | Tatra pratyaya-ekatanata dhyanam | Dhyana is the continuous flow of one thought. | Dhyana | Yoga Sutras 3.2
+  37 | Tad eva artha-matra-nirbhasam svarupa-shunyam iva samadhih | Samadhi is when the mind shines as the object alone, empty of itself. | Samadhi | Yoga Sutras 3.3
+  38 | Trayam ekatra samyamah | The three together constitute samyama. | Samyama | Yoga Sutras 3.4
+  39 | Tad-vishayoh samyamad jnanam | By samyama on an object, knowledge of it arises. | Samyama | Yoga Sutras 3.5
+  40 | Tasya bhumishu viniyogah | Its application is in stages. | Samyama | Yoga Sutras 3.6
+  41 | Ahamkara-asmita-anusandhana-antah-karana-vishaya-samapattih | Samyama on the ego and the inner instrument. | Samyama | Yoga Sutras 3.47
+  42 | Sattva-purushayoh atyanta-asankhyatoh | The purity of the mind and the seer are absolutely distinct. | Discernment | Yoga Sutras 2.19
+  43 | Nirmanah chittam | The mind is the instrument of creation. | Mind | Yoga Sutras 4.4
+  44 | Karma-ashaya-klesha-vipaka-ashayah | The storehouse of karma, afflictions, and their fruits. | Karma | Yoga Sutras 4.8
+  45 | Jati-desha-kala-vyavahitanam apy anantaryam smriti-samskarayoh eka-rupata | Memory and impressions are one in form, even when separated by birth, place, and time. | Karma | Yoga Sutras 4.9
+  46 | Tasam anaditvam cha ashisho nityatvat | These are beginningless because the desire for liberation is eternal. | Karma | Yoga Sutras 4.10
+  47 | Hetu-phala-ashraya-alambanaih sangrihitatvat esham abhave tad-abhavah | When cause, effect, support, and object are absent, karma ceases. | Liberation | Yoga Sutras 4.11
+  48 | Atita-anagatam svarupatah asti adhva-bhedat dharmanam | Past and future exist in their own nature; the difference is in the dharma. | Time | Yoga Sutras 4.12
+  49 | Te pratiprasava-heyah sukshmah | The subtle impressions are destroyed by the return to the source. | Liberation | Yoga Sutras 4.13
+  50 | Karma-ashaya-klesha-vipaka-ashayah | The storehouse of karma, afflictions, and their fruits. | Karma | Yoga Sutras 4.8
+  51 | Parinama-ekatvat vastu-tattvam | The essence of an object is its transformation. | Change | Yoga Sutras 4.14
+  52 | Vastu-samye chitta-bhedat tayoh vibhaktah panthah | Even with the same object, the minds differ, so the paths are distinct. | Perception | Yoga Sutras 4.15
+  53 | Na cha eka-chitta-tantram vastu tad-apramanakam tada kim syat | An object is not dependent on one mind; if it were, what would happen when that mind is absent? | Reality | Yoga Sutras 4.16
+  54 | Tad-uparaga-apekshatvat chittasya vastu jnata-ajnatam | An object is known or unknown depending on whether the mind is colored by it. | Perception | Yoga Sutras 4.17
+  55 | Sada jnatah chitta-vrittayah tat-prabhoh purushasya apari-nama-tvat | The modifications of the mind are always known to the purusha, because it is unchanging. | Consciousness | Yoga Sutras 4.18
+  56 | Na tat svabhasam drishyatvat | The mind is not self-luminous because it is seen. | Consciousness | Yoga Sutras 4.19
+  57 | Eka-samaye cha ubhaya-anavadharanam | At one time, both cannot be perceived. | Consciousness | Yoga Sutras 4.20
+  58 | Chitta-antara-drishye buddhi-buddheh atiprasangah smriti-samkarah cha | If one mind were seen by another, there would be an infinite regress and confusion of memory. | Consciousness | Yoga Sutras 4.21
+  59 | Chiteh apratisamkramayah tad-akara-apattau sva-buddhi-samvedanam | The self-knowledge of the mind arises when it takes the form of the unchanging consciousness. | Self-Realization | Yoga Sutras 4.22
+  60 | Drashta-drishyayoh samyogo heya-hetuh | The cause of suffering is the union of the seer and the seen. | Suffering | Yoga Sutras 2.17
+  61 | Tasya heyah hetuh avidya | The cause of suffering is ignorance. | Ignorance | Yoga Sutras 2.24
+  62 | Hanam duhkham anagatam | The avoidance of future suffering is the goal. | Liberation | Yoga Sutras 2.16
+  63 | Samyag-darshana-vishuddhih | Purity of right vision. | Wisdom | Yoga Sutras 2.25
+  64 | Viveka-khyatir aviplava | Uninterrupted discriminative awareness. | Discernment | Yoga Sutras 2.26
+  65 | Tasya saptadha pranta-bhumih prajnaya | The yogi's insight becomes sevenfold and reaches the highest ground. | Enlightenment | Yoga Sutras 2.27
+  66 | Yoganganushthanad ashuddhi-kshaye jnana-diptir a-viveka-khyateh | By practicing the limbs of yoga, impurities are destroyed and the light of knowledge shines. | Yoga Practice | Yoga Sutras 2.28
+  67 | Yama-niyama-asana-pranayama-pratyahara-dharana-dhyana-samadhayah ashtau angani | The eight limbs are yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, and samadhi. | Ashtanga Yoga | Yoga Sutras 2.29
+  68 | Ahimsa-satya-asteya-brahmacharya-aparigrahah yamah | Non-violence, truthfulness, non-stealing, celibacy, and non-possessiveness are the yamas. | Ethics | Yoga Sutras 2.30
+  69 | Shaucha-santosha-tapah-svadhyaya-Ishvara-pranidhanani niyamah | Purity, contentment, austerity, self-study, and surrender to God are the niyamas. | Ethics | Yoga Sutras 2.32
+  70 | Sthira-sukham asanam | Asana is a steady, comfortable posture. | Asana | Yoga Sutras 2.46
+  71 | Prayatna-shaithilya-ananta-samapattibhyam | By loosening effort and meditating on the infinite. | Asana | Yoga Sutras 2.47
+  72 | Tatah dvandva-anabhighatah | Then one is not disturbed by dualities. | Equanimity | Yoga Sutras 2.48
+  73 | Tasmin sati shvasa-prashvasayoh gati-vichchhedah pranayamah | Pranayama is the regulation of inhalation and exhalation. | Pranayama | Yoga Sutras 2.49
+  74 | Svavishaya-asamprayoge chitta-svarupa-anukarah iva indriyanam pratyaharah | Pratyahara is the withdrawal of the senses from their objects. | Pratyahara | Yoga Sutras 2.54
+  75 | Desha-bandhah chittasya dharana | Dharana is the binding of the mind to one place. | Dharana | Yoga Sutras 3.1
+  76 | Tatra pratyaya-ekatanata dhyanam | Dhyana is the continuous flow of one thought. | Dhyana | Yoga Sutras 3.2
+  77 | Tad eva artha-matra-nirbhasam svarupa-shunyam iva samadhih | Samadhi is when the mind shines as the object alone, empty of itself. | Samadhi | Yoga Sutras 3.3
+  78 | Trayam ekatra samyamah | The three together constitute samyama. | Samyama | Yoga Sutras 3.4
+  79 | Tad-vishayoh samyamad jnanam | By samyama on an object, knowledge of it arises. | Samyama | Yoga Sutras 3.5
+  80 | Tasya bhumishu viniyogah | Its application is in stages. | Samyama | Yoga Sutras 3.6
+  81 | Ahamkara-asmita-anusandhana-antah-karana-vishaya-samapattih | Samyama on the ego and the inner instrument. | Samyama | Yoga Sutras 3.47
+  82 | Sattva-purushayoh atyanta-asankhyatoh | The purity of the mind and the seer are absolutely distinct. | Discernment | Yoga Sutras 2.19
+  83 | Nirmanah chittam | The mind is the instrument of creation. | Mind | Yoga Sutras 4.4
+  84 | Karma-ashaya-klesha-vipaka-ashayah | The storehouse of karma, afflictions, and their fruits. | Karma | Yoga Sutras 4.8
+  85 | Jati-desha-kala-vyavahitanam apy anantaryam smriti-samskarayoh eka-rupata | Memory and impressions are one in form, even when separated by birth, place, and time. | Karma | Yoga Sutras 4.9
+  86 | Tasam anaditvam cha ashisho nityatvat | These are beginningless because the desire for liberation is eternal. | Karma | Yoga Sutras 4.10
+  87 | Hetu-phala-ashraya-alambanaih sangrihitatvat esham abhave tad-abhavah | When cause, effect, support, and object are absent, karma ceases. | Liberation | Yoga Sutras 4.11
+  88 | Atita-anagatam svarupatah asti adhva-bhedat dharmanam | Past and future exist in their own nature; the difference is in the dharma. | Time | Yoga Sutras 4.12
+  89 | Te pratiprasava-heyah sukshmah | The subtle impressions are destroyed by the return to the source. | Liberation | Yoga Sutras 4.13
+  90 | Karma-ashaya-klesha-vipaka-ashayah | The storehouse of karma, afflictions, and their fruits. | Karma | Yoga Sutras 4.8
+  91 | Parinama-ekatvat vastu-tattvam | The essence of an object is its transformation. | Change | Yoga Sutras 4.14
+  92 | Vastu-samye chitta-bhedat tayoh vibhaktah panthah | Even with the same object, the minds differ, so the paths are distinct. | Perception | Yoga Sutras 4.15
+  93 | Na cha eka-chitta-tantram vastu tad-apramanakam tada kim syat | An object is not dependent on one mind; if it were, what would happen when that mind is absent? | Reality | Yoga Sutras 4.16
+  94 | Tad-uparaga-apekshatvat chittasya vastu jnata-ajnatam | An object is known or unknown depending on whether the mind is colored by it. | Perception | Yoga Sutras 4.17
+  95 | Sada jnatah chitta-vrittayah tat-prabhoh purushasya apari-nama-tvat | The modifications of the mind are always known to the purusha, because it is unchanging. | Consciousness | Yoga Sutras 4.18
+  96 | Na tat svabhasam drishyatvat | The mind is not self-luminous because it is seen. | Consciousness | Yoga Sutras 4.19
+  97 | Eka-samaye cha ubhaya-anavadharanam | At one time, both cannot be perceived. | Consciousness | Yoga Sutras 4.20
+  98 | Chitta-antara-drishye buddhi-buddheh atiprasangah smriti-samkarah cha | If one mind were seen by another, there would be an infinite regress and confusion of memory. | Consciousness | Yoga Sutras 4.21
+  99 | Chiteh apratisamkramayah tad-akara-apattau sva-buddhi-samvedanam | The self-knowledge of the mind arises when it takes the form of the unchanging consciousness. | Self-Realization | Yoga Sutras 4.22
+  100 | Purusha-artha-shunyanam gunanam pratiprasavah kaivalyam | Kaivalya is the return of the gunas to their source, devoid of the purpose of the purusha. | Liberation | Yoga Sutras 4.34

@@ -1,0 +1,520 @@
+READABLE DATASET
+================================================================================
+Original file: ashtakoot.json
+Dataset number: 15 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 5,190 bytes
+Top-level fields: 18
+
+CONTENT
+--------------------------------------------------------------------------------
+• VARNA_BY_SIGN:
+  • Cancer: Brahmin
+  • Scorpio: Brahmin
+  • Pisces: Brahmin
+  • Aries: Kshatriya
+  • Leo: Kshatriya
+  • Sagittarius: Kshatriya
+  • Taurus: Vaishya
+  • Virgo: Vaishya
+  • Capricorn: Vaishya
+  • Gemini: Shudra
+  • Libra: Shudra
+  • Aquarius: Shudra
+• VARNA_RANK:
+  • Brahmin: 4
+  • Kshatriya: 3
+  • Vaishya: 2
+  • Shudra: 1
+• TARA_NAMES:
+  1.
+    Janma
+  2.
+    Sampat
+  3.
+    Vipat
+  4.
+    Kshema
+  5.
+    Pratyak
+  6.
+    Sadhaka
+  7.
+    Vadha
+  8.
+    Mitra
+  9.
+    Parama Mitra
+• NAKSHATRA_YONI:
+  1.
+    Horse
+  2.
+    Elephant
+  3.
+    Sheep
+  4.
+    Serpent
+  5.
+    Serpent
+  6.
+    Dog
+  7.
+    Cat
+  8.
+    Sheep
+  9.
+    Cat
+  10.
+    Rat
+  11.
+    Rat
+  12.
+    Cow
+  13.
+    Buffalo
+  14.
+    Tiger
+  15.
+    Buffalo
+  16.
+    Tiger
+  17.
+    Deer
+  18.
+    Deer
+  19.
+    Dog
+  20.
+    Monkey
+  21.
+    Mongoose
+  22.
+    Monkey
+  23.
+    Lion
+  24.
+    Horse
+  25.
+    Lion
+  26.
+    Cow
+  27.
+    Elephant
+• NAKSHATRA_YONI_DIR:
+  1.
+    Forward
+  2.
+    Forward
+  3.
+    Backward
+  4.
+    Forward
+  5.
+    Backward
+  6.
+    Forward
+  7.
+    Backward
+  8.
+    Forward
+  9.
+    Backward
+  10.
+    Forward
+  11.
+    Backward
+  12.
+    Forward
+  13.
+    Backward
+  14.
+    Forward
+  15.
+    Backward
+  16.
+    Forward
+  17.
+    Backward
+  18.
+    Forward
+  19.
+    Backward
+  20.
+    Forward
+  21.
+    Forward
+  22.
+    Backward
+  23.
+    Forward
+  24.
+    Backward
+  25.
+    Forward
+  26.
+    Backward
+  27.
+    Forward
+• YONI_ENEMIES:
+  1.
+    1.
+      Horse
+    2.
+      Buffalo
+  2.
+    1.
+      Elephant
+    2.
+      Lion
+  3.
+    1.
+      Deer
+    2.
+      Dog
+  4.
+    1.
+      Cow
+    2.
+      Tiger
+  5.
+    1.
+      Serpent
+    2.
+      Mongoose
+  6.
+    1.
+      Rat
+    2.
+      Cat
+• REL_RANK:
+  • friend: 0
+  • neutral: 1
+  • enemy: 2
+• GRAHA_MAITRI_TABLE:
+  • friend-friend: 5
+  • friend-neutral: 4
+  • neutral-neutral: 3
+  • friend-enemy: 1
+  • neutral-enemy: 0.5
+  • enemy-enemy: 0
+• NAKSHATRA_GANA:
+  1.
+    Deva
+  2.
+    Manushya
+  3.
+    Rakshasa
+  4.
+    Manushya
+  5.
+    Deva
+  6.
+    Manushya
+  7.
+    Deva
+  8.
+    Deva
+  9.
+    Rakshasa
+  10.
+    Rakshasa
+  11.
+    Manushya
+  12.
+    Manushya
+  13.
+    Deva
+  14.
+    Rakshasa
+  15.
+    Deva
+  16.
+    Rakshasa
+  17.
+    Deva
+  18.
+    Rakshasa
+  19.
+    Rakshasa
+  20.
+    Manushya
+  21.
+    Manushya
+  22.
+    Deva
+  23.
+    Rakshasa
+  24.
+    Rakshasa
+  25.
+    Manushya
+  26.
+    Manushya
+  27.
+    Deva
+• GANA_TABLE:
+  • Deva:
+    • Deva: 6
+    • Manushya: 6
+    • Rakshasa: 1
+  • Manushya:
+    • Deva: 5
+    • Manushya: 6
+    • Rakshasa: 0
+  • Rakshasa:
+    • Deva: 1
+    • Manushya: 0
+    • Rakshasa: 6
+• NAKSHATRA_NADI:
+  1.
+    Aadi
+  2.
+    Madhya
+  3.
+    Antya
+  4.
+    Antya
+  5.
+    Madhya
+  6.
+    Aadi
+  7.
+    Aadi
+  8.
+    Madhya
+  9.
+    Antya
+  10.
+    Antya
+  11.
+    Madhya
+  12.
+    Aadi
+  13.
+    Aadi
+  14.
+    Madhya
+  15.
+    Antya
+  16.
+    Antya
+  17.
+    Madhya
+  18.
+    Aadi
+  19.
+    Aadi
+  20.
+    Madhya
+  21.
+    Antya
+  22.
+    Antya
+  23.
+    Madhya
+  24.
+    Aadi
+  25.
+    Aadi
+  26.
+    Madhya
+  27.
+    Antya
+• RAJJU:
+  1.
+    Feet
+  2.
+    Thigh
+  3.
+    Navel
+  4.
+    Neck
+  5.
+    Head
+  6.
+    Feet
+  7.
+    Thigh
+  8.
+    Navel
+  9.
+    Neck
+  10.
+    Head
+  11.
+    Feet
+  12.
+    Thigh
+  13.
+    Navel
+  14.
+    Neck
+  15.
+    Head
+  16.
+    Feet
+  17.
+    Thigh
+  18.
+    Navel
+  19.
+    Neck
+  20.
+    Head
+  21.
+    Feet
+  22.
+    Thigh
+  23.
+    Navel
+  24.
+    Neck
+  25.
+    Head
+  26.
+    Feet
+  27.
+    Thigh
+• RAJJU_SEVERITY:
+  • Feet: 1
+  • Thigh: 2
+  • Navel: 3
+  • Neck: 4
+  • Head: 5
+• VEDHA_PAIRS:
+  1.
+    1.
+      0
+    2.
+      19
+  2.
+    1.
+      1
+    2.
+      18
+  3.
+    1.
+      2
+    2.
+      17
+  4.
+    1.
+      3
+    2.
+      16
+  5.
+    1.
+      4
+    2.
+      15
+  6.
+    1.
+      5
+    2.
+      14
+  7.
+    1.
+      6
+    2.
+      13
+  8.
+    1.
+      7
+    2.
+      12
+  9.
+    1.
+      8
+    2.
+      11
+  10.
+    1.
+      9
+    2.
+      26
+  11.
+    1.
+      20
+    2.
+      23
+  12.
+    1.
+      21
+    2.
+      22
+• PLANET_EXALT:
+  • Sun: Aries
+  • Moon: Taurus
+  • Mars: Capricorn
+  • Mercury: Virgo
+  • Jupiter: Cancer
+  • Venus: Pisces
+  • Saturn: Libra
+  • Rahu: Taurus
+  • Ketu: Scorpio
+• PLANET_DEBIL:
+  • Sun: Libra
+  • Moon: Scorpio
+  • Mars: Cancer
+  • Mercury: Pisces
+  • Jupiter: Capricorn
+  • Venus: Virgo
+  • Saturn: Aries
+  • Rahu: Scorpio
+  • Ketu: Taurus
+• PLANET_OWN:
+  • Sun:
+    1.
+      Leo
+  • Moon:
+    1.
+      Cancer
+  • Mars:
+    1.
+      Aries
+    2.
+      Scorpio
+  • Mercury:
+    1.
+      Gemini
+    2.
+      Virgo
+  • Jupiter:
+    1.
+      Sagittarius
+    2.
+      Pisces
+  • Venus:
+    1.
+      Taurus
+    2.
+      Libra
+  • Saturn:
+    1.
+      Capricorn
+    2.
+      Aquarius
+• YONI_RELATION:
+  • Horse|Elephant: 3
+  • Elephant|Horse: 3
+  • Elephant|Cow: 3
+  • Cow|Elephant: 3
+  • Dog|Tiger: 3
+  • Tiger|Dog: 3
+  • Serpent|Rat: 1
+  • Rat|Serpent: 1
+  • Goat|Monkey: 0
+  • Monkey|Goat: 0
+  • Horse|Buffalo: 0
+  • Buffalo|Horse: 0
+  • Elephant|Lion: 0
+  • Lion|Elephant: 0
+  • Serpent|Mongoose: 0
+  • Mongoose|Serpent: 0
+  • Dog|Deer: 0
+  • Deer|Dog: 0
+  • Cat|Rat: 0
+  • Rat|Cat: 0
+  • Cow|Tiger: 0
+  • Tiger|Cow: 0

@@ -1,0 +1,28 @@
+READABLE DATASET
+================================================================================
+Original file: remedy-trace.json
+Dataset number: 332 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 99 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• categories:
+  1.
+    mantra
+  2.
+    puja
+  3.
+    daan
+  4.
+    gemstone
+  5.
+    rudraksha
+  6.
+    yantra
+  7.
+    herbal
+  8.
+    behavioral

@@ -1,0 +1,9 @@
+{
+  "version":"11.0",
+  "status":"READY_FOR_INDEPENDENT_IMPORT",
+  "engines":["HoraSaar","JHora","HoraParashara","AstroSage","Astro.com"],
+  "comparisonPolicy":{"sameInput":true,"sameConventions":true,"sameLocation":true,"sameTimezone":true,"noInventedResults":true},
+  "requiredEvidence":["input","conventions","output","source","retrievedAt"],
+  "cases":[],
+  "note":"Competitor results are never fabricated. Populate only from independently obtained, legally usable reference outputs."
+}

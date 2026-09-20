@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Nimitta-Omens-List.json
+Dataset number: 189 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 521 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | omen_type | subject | interpretation | action_to_take
+----------------------------------------------------------
+omen_001 | Sighting an animal | Black Cat crossing path | Obstacle in current work. Saturn or Rahu energy is blocking success. | Wait for 5 minutes, take a breath, and proceed.
+omen_002 | Sighting a bird | Owl hooting on left side | Indicates imminent wealth or gain. | Proceed with the intended work.

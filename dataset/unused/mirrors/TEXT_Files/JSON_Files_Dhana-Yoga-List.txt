@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Dhana-Yoga-List.json
+Dataset number: 165 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 146 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+name | formed_by | effects
+--------------------------
+Lakshmi Yoga | Lord of 9th in own/exalted sign in a Trikona/Kendra | Immense wealth, luxurious life.

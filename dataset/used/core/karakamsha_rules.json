@@ -1,0 +1,105 @@
+[
+  {
+    "rule_id": 1,
+    "concept": "Atmakaraka",
+    "definition": "Planet at highest degree in natal chart (0-30° within any sign)",
+    "purpose": "Represents soul's highest desire; the king of the chart",
+    "all_karakas": [
+      "Sun",
+      "Moon",
+      "Mars",
+      "Mercury",
+      "Jupiter",
+      "Venus",
+      "Saturn",
+      "Rahu"
+    ],
+    "karaka_ranking_method": "Rank all planets by their degree within their sign (0-30°); highest degree = Atmakaraka",
+    "rahu_note": "Rahu's degree is subtracted from 30° for ranking (Rahu moves backward)",
+    "source": "Jaimini Sutras 1.1.2"
+  },
+  {
+    "rule_id": 2,
+    "concept": "Karakamsha Lagna",
+    "definition": "Sign occupied by Atmakaraka in the Navamsa (D9) chart",
+    "purpose": "Most important reference point for soul's purpose and karma",
+    "calculation": "Find Atmakaraka's Navamsa sign — that becomes Karakamsha Lagna",
+    "usage": [
+      "Life purpose determination",
+      "Spiritual path",
+      "Major life events",
+      "Career (along with 10th from KL)"
+    ],
+    "source": "Jaimini Sutras 1.2.1"
+  },
+  {
+    "rule_id": 3,
+    "concept": "Chara Karaka",
+    "definition": "Variable karakas based on planet degrees",
+    "seven_karakas": {
+      "1st_Atmakaraka (AK)": "Soul indicator — highest degree planet",
+      "2nd_Amatyakaraka (AmK)": "Career indicator — 2nd highest",
+      "3rd_Bhratrukaraka (BK)": "Siblings indicator",
+      "4th_Matrukaraka (MK)": "Mother indicator",
+      "5th_Pitrukaraka (PK)": "Father indicator",
+      "6th_Gnatikaraka (GK)": "Relatives/enemies indicator",
+      "7th_Darakaraka (DK)": "Spouse indicator — lowest degree planet"
+    },
+    "eight_karaka_system": {
+      "8th_added": "Rahu is added as 8th karaka in 8-karaka system",
+      "represents": "Maternal grandparents or additional relative"
+    },
+    "source": "Jaimini Sutras 1.1.1-5"
+  },
+  {
+    "rule_id": 4,
+    "concept": "Karakamsha Analysis — Planets in/aspecting KL",
+    "definition": "Planets related to Karakamsha Lagna shape soul's karma",
+    "planet_in_KL": {
+      "Sun_in_KL": "Leadership, authority, government service in past life",
+      "Moon_in_KL": "Emotional/nurturing focus; maternal karma",
+      "Mars_in_KL": "Warrior spirit; technical/surgical skill karma",
+      "Mercury_in_KL": "Intellect; business; writing; spiritual study",
+      "Jupiter_in_KL": "Guru karma; teaching; dharmic path",
+      "Venus_in_KL": "Artistic karma; relationship focus; luxury life",
+      "Saturn_in_KL": "Karma yoga; service; discipline; prior life of restriction",
+      "Rahu_in_KL": "Foreign connections; unconventional soul purpose",
+      "Ketu_in_KL": "Spiritual liberation; past-life completion; detachment karma"
+    },
+    "source": "Jaimini Sutras 2.1-2"
+  },
+  {
+    "rule_id": 5,
+    "concept": "Swamsha",
+    "definition": "When Atmakaraka occupies its own sign or exaltation sign in Navamsa",
+    "conditions": [
+      "AK in its own sign in D9 = Swamsha",
+      "AK in its exaltation sign in D9 = Swamsha"
+    ],
+    "effects": "Very powerful yoga — soul is completely aligned with its purpose; rare and highly beneficial",
+    "source": "Jaimini Sutras 2.3-4"
+  },
+  {
+    "rule_id": 6,
+    "concept": "Karakamsha + 5th house",
+    "definition": "5th from Karakamsha Lagna = past life merit (Purva Punya)",
+    "interpretation": {
+      "Benefics_in_5th_from_KL": "Good past karma; spiritual merit; intelligence",
+      "Malefics_in_5th_from_KL": "Challenging past karma; need to work through old patterns",
+      "Jupiter_in_5th_from_KL": "Great spiritual merit; mantra siddhi in past life"
+    },
+    "source": "Jaimini tradition"
+  },
+  {
+    "rule_id": 7,
+    "concept": "Karakamsha + 12th house (Moksha)",
+    "definition": "12th from Karakamsha = liberation path",
+    "interpretation": {
+      "Ketu_in_12th_from_KL": "Liberation through detachment and spirituality",
+      "Venus_in_12th_from_KL": "Liberation through devotion and beauty",
+      "Jupiter_in_12th_from_KL": "Liberation through wisdom and dharma",
+      "Saturn_in_12th_from_KL": "Liberation through karma yoga and service"
+    },
+    "source": "Jaimini Sutras 2.6"
+  }
+]

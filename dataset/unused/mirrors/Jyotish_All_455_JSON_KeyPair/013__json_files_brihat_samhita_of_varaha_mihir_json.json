@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "013__json_files_brihat_samhita_of_varaha_mihir_json",
+    "name": "JSON_Files_Brihat_Samhita_of_Varaha_Mihir",
+    "original_file": "JSON_Files/Brihat_Samhita_of_Varaha_Mihir.json",
+    "dataset_number": "161 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Brihat_Samhita_of_Varaha_Mihir.txt",
+    "source_sha256": "68765e152657cc2fa5f3b75b8150e2522becbb72b2f605dfd083e1adf6bde90d",
+    "source_bytes": 15626
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "commentator": "Achyutananda Jha",
+        "period": "",
+        "description": "",
+        "language": "Hindi"
+      },
+      {
+        "commentator": "Suresh Chandra Mishra",
+        "period": "",
+        "description": "",
+        "language": "Hindi"
+      },
+      {
+        "commentator": "year",
+        "period": "type",
+        "description": "origin",
+        "language": "script"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "025__json_files_gandanta_list_json",
+    "name": "JSON_Files_Gandanta-List",
+    "original_file": "JSON_Files/Gandanta-List.json",
+    "dataset_number": "173 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Gandanta-List.txt",
+    "source_sha256": "e883a53657896fda75f1c0ba7e01a50a48e6c9e0e46a1701a476a560f96ef6d4",
+    "source_bytes": 725
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "gand_001",
+          "name": "Rashi Gandanta",
+          "junction": "Pisces (Revati) to Aries (Ashwini)",
+          "ruling_planets": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              }
+            ]
+          },
+          "effects": "Native faces severe life-threatening situations, identity crises, and hidden fears.",
+          "remedy": "Perform Gandanta Shanti Puja on the 27th day after birth.",
+          "source_text": "Jataka Parijata"
+        }
+      ]
+    }
+  }
+}

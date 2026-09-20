@@ -1,0 +1,375 @@
+READABLE DATASET
+================================================================================
+Original file: career_prediction_rules.json
+Dataset number: 75 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 7,097 bytes
+Top-level records: 10
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • rule_id: 1
+  • category: Career Identification
+  • primary_indicator: 10th house and its lord
+  • rule: Sign on 10th cusp and its lord's nature, position, and aspects determine career field
+  • planet_career_mapping:
+    • Sun:
+      1.
+        Government
+      2.
+        Administration
+      3.
+        Politics
+      4.
+        Gold trade
+      5.
+        Healthcare (heart)
+      6.
+        Management
+    • Moon:
+      1.
+        Hospitality
+      2.
+        Nursing
+      3.
+        Public relations
+      4.
+        Agriculture
+      5.
+        Food industry
+      6.
+        Import-export
+    • Mars:
+      1.
+        Military
+      2.
+        Police
+      3.
+        Engineering
+      4.
+        Surgery
+      5.
+        Sports
+      6.
+        Real estate
+      7.
+        Construction
+    • Mercury:
+      1.
+        IT
+      2.
+        Accounting
+      3.
+        Writing
+      4.
+        Teaching
+      5.
+        Trade
+      6.
+        Consulting
+      7.
+        Media
+      8.
+        Mathematics
+    • Jupiter:
+      1.
+        Teaching
+      2.
+        Law
+      3.
+        Finance
+      4.
+        Consulting
+      5.
+        Religion
+      6.
+        Publishing
+      7.
+        Counseling
+    • Venus:
+      1.
+        Arts
+      2.
+        Music
+      3.
+        Entertainment
+      4.
+        Fashion
+      5.
+        Cosmetics
+      6.
+        Diplomacy
+      7.
+        Luxury goods
+    • Saturn:
+      1.
+        Mining
+      2.
+        Construction
+      3.
+        Labor
+      4.
+        Politics
+      5.
+        Agriculture
+      6.
+        Heavy industry
+      7.
+        Judiciary
+    • Rahu:
+      1.
+        Technology
+      2.
+        Foreign service
+      3.
+        Mass media
+      4.
+        Research
+      5.
+        Politics
+      6.
+        Unconventional fields
+    • Ketu:
+      1.
+        Spirituality
+      2.
+        Occult
+      3.
+        Research
+      4.
+        Surgery
+      5.
+        Military (covert)
+      6.
+        Astrology
+  • strength_required: 10th lord must be strong (in own/exalted/friendly sign) for professional success
+  • source: BPHS, Phaladeepika
+2.
+  • rule_id: 2
+  • category: Career Timing
+  • primary_indicator: 10th lord Dasha
+  • rule: Significant career events occur during Dasha of 10th lord, Sun, or strong planet in 10th house
+  • dasha_triggers:
+    1.
+      10th lord Dasha
+    2.
+      Sun Dasha (career/authority)
+    3.
+      Planet in 10th house Dasha
+    4.
+      Lagna lord Dasha (self-initiative)
+  • transit_triggers:
+    1.
+      Jupiter transiting 10th house
+    2.
+      Jupiter aspecting 10th lord
+    3.
+      Saturn completing Sade Sati
+    4.
+      Rahu in 10th (sudden career change)
+  • source: Uttara Kalamrita, BPHS
+3.
+  • rule_id: 3
+  • category: Government Service
+  • primary_indicator: Sun + 10th house
+  • rule: Sun strong in 10th, or Sun conjunct 10th lord, or Leo on 10th cusp = government career
+  • supporting_factors:
+    1.
+      Sun in 1st, 4th, 7th, or 10th houses
+    2.
+      Sun exalted (Aries)
+    3.
+      Sun in Leo
+    4.
+      Mars assisting Sun
+  • challenging_factors:
+    1.
+      Sun in 6th or 12th
+    2.
+      Sun debilitated (Libra)
+    3.
+      Saturn heavily afflicting Sun
+  • example: Aries lagna: Sun (5th lord) in 10th house = government or politics career
+  • source: Saravali, classical texts
+4.
+  • rule_id: 4
+  • category: Business/Trade
+  • primary_indicator: Mercury + Venus + 2nd + 11th lords
+  • rule: Mercury or Venus strong in 2nd or 10th, with connection to 11th lord = business career
+  • supporting_factors:
+    1.
+      Mercury in own sign (Gemini/Virgo)
+    2.
+      Venus in 2nd or 11th
+    3.
+      2nd and 11th lords in mutual aspect
+  • career_fields:
+    1.
+      Trading
+    2.
+      Commerce
+    3.
+      Import/export
+    4.
+      Entertainment business
+    5.
+      Tech entrepreneurship
+  • source: BPHS, traditional texts
+5.
+  • rule_id: 5
+  • category: Arts and Entertainment
+  • primary_indicator: Venus + Moon + 5th house
+  • rule: Venus in 5th or 10th, Moon strong, 5th lord connected to 10th = arts/entertainment
+  • supporting_factors:
+    1.
+      Venus in Taurus/Libra/Pisces
+    2.
+      Moon in 5th or 10th
+    3.
+      5th and 10th lords exchanging
+  • career_fields:
+    1.
+      Music
+    2.
+      Dance
+    3.
+      Acting
+    4.
+      Film
+    5.
+      Visual arts
+    6.
+      Fashion
+    7.
+      Design
+  • source: Phaladeepika
+6.
+  • rule_id: 6
+  • category: Medicine/Healthcare
+  • primary_indicator: Mars + Saturn + 6th house
+  • rule: Mars (surgery), Saturn (chronic disease), or Ketu in 6th/8th/12th with strong Lagna = medical career
+  • supporting_factors:
+    1.
+      Mars in 6th or 8th
+    2.
+      Saturn in 6th
+    3.
+      6th lord connected to 10th
+    4.
+      Strong Scorpio or Virgo
+  • career_fields:
+    1.
+      Surgery
+    2.
+      Medicine
+    3.
+      Nursing
+    4.
+      Pharmacy
+    5.
+      Alternative healing
+    6.
+      Psychiatry
+  • source: Brihat Jataka, Saravali
+7.
+  • rule_id: 7
+  • category: Spiritual/Teaching
+  • primary_indicator: Jupiter + 9th house + Ketu
+  • rule: Jupiter strong in Kendra or Trikona, 9th lord in 10th, or Ketu in spiritual house = spiritual/teaching career
+  • supporting_factors:
+    1.
+      Jupiter in own sign
+    2.
+      9th and 10th lords exchanging
+    3.
+      Ketu in 12th or 9th
+    4.
+      Strong Sagittarius or Pisces
+  • career_fields:
+    1.
+      Teaching
+    2.
+      Religious leadership
+    3.
+      Yoga/meditation teaching
+    4.
+      Counseling
+    5.
+      Philosophy
+  • source: BPHS, Uttara Kalamrita
+8.
+  • rule_id: 8
+  • category: Technical/Engineering
+  • primary_indicator: Mars + Mercury + Saturn
+  • rule: Mars (technical skill), Mercury (precision), Saturn (structural work) combination with 10th house
+  • supporting_factors:
+    1.
+      Mars in Gemini or Virgo
+    2.
+      Mercury in Aries
+    3.
+      Saturn-Mercury conjunction
+  • career_fields:
+    1.
+      Civil engineering
+    2.
+      Mechanical engineering
+    3.
+      IT engineering
+    4.
+      Architecture
+    5.
+      Mathematics
+  • source: Traditional Jyotish
+9.
+  • rule_id: 9
+  • category: Law and Justice
+  • primary_indicator: Saturn + Jupiter + 9th house
+  • rule: Jupiter (law, dharma) or Saturn (justice, discipline) connected to 9th and 10th houses
+  • supporting_factors:
+    1.
+      Jupiter in 9th or 10th
+    2.
+      Saturn in 9th
+    3.
+      Libra on 9th/10th cusp
+  • career_fields:
+    1.
+      Law
+    2.
+      Judiciary
+    3.
+      Arbitration
+    4.
+      Legal consulting
+    5.
+      Government legal services
+  • source: Phaladeepika, classical texts
+10.
+  • rule_id: 10
+  • category: Research/Science
+  • primary_indicator: Saturn + Rahu + 8th house
+  • rule: Saturn (deep analysis), Rahu (research, unconventional), 8th house (hidden knowledge) combination
+  • supporting_factors:
+    1.
+      Saturn in 8th or 12th
+    2.
+      Rahu in 3rd or 10th
+    3.
+      Ketu with Mercury
+  • career_fields:
+    1.
+      Scientific research
+    2.
+      Chemistry
+    3.
+      Physics
+    4.
+      Occult research
+    5.
+      Archaeology
+    6.
+      Forensics
+  • source: Modern Jyotish interpretation

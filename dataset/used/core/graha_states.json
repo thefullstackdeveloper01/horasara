@@ -1,0 +1,20 @@
+{
+  "COMBUSTION_ORBS": {
+    "Moon": 12,
+    "Mars": 17,
+    "Mercury": 14,
+    "Jupiter": 11,
+    "Venus": 10,
+    "Saturn": 15
+  },
+  "HELIACAL_LIMITS": {
+    "Moon": 8,
+    "Mars": 14.5,
+    "Mercury": 18,
+    "Jupiter": 10,
+    "Venus": 9,
+    "Saturn": 13
+  },
+  "CAZIMI_ORB": 0.2833,
+  "GRAHA_YUDDHA_ORB": 1
+}

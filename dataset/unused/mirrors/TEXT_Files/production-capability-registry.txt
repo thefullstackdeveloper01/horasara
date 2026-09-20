@@ -1,0 +1,138 @@
+READABLE DATASET
+================================================================================
+Original file: production-capability-registry.json
+Dataset number: 319 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 37,512 bytes
+Top-level fields: 6
+
+CONTENT
+--------------------------------------------------------------------------------
+• schemaVersion: 2
+• release: 4.0.0-runtime-truth
+• product:
+  • name: HoraSaar
+  • tagline: Classical Jyotish, computed with evidence.
+  • displayName: HoraSaar
+• statusPolicy:
+  • PASS: Validated for the explicitly encoded variant/scope; not a universal claim across every lineage.
+  • PARTIAL: Implemented but a material lineage, corpus, empirical or dataset gap remains.
+  • FAIL: Release blocker: the documented capability contract is not safely implemented.
+• requirements:
+  TABLE (100 rows)
+  id | name | currentStatus | sourceStatus | gap | requiredCorrection | v4Verification
+  ------------------------------------------------------------------------------------
+  1 | Dasha coverage | PASS | V4 VERIFIED SELECTED SCOPE | Selected Dasha corpus has explicit variant ids, eligibility and period windows. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  2 | Vimshottari | PASS | V4 VERIFIED SELECTED SCOPE | Still needs complete audit presentation rather than only period output | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  3 | Yogini / other active Dashas | PASS | V4 VERIFIED SELECTED SCOPE | Yogini and additional active Dashas expose structured periods and provenance. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  4 | Conditional Dashas | PASS | V4 VERIFIED SELECTED SCOPE | Conditional Dashas expose eligibility and INELIGIBLE states; no silent fallback. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  5 | Jaimini Dashas | PASS | V4 VERIFIED SELECTED SCOPE | Jaimini Chara/Narayana adapters are explicit variants. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  6 | KP system | PASS | V4 VERIFIED SELECTED SCOPE | Full KP methodology is deeper than cusp/sub-lord extraction | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  7 | Tajika / Varshaphal | PASS | V4 VERIFIED SELECTED SCOPE | Tajika annual chart, Muntha, Sahams, aspects and Mudda Dasha are wired. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  8 | Lal Kitab | PASS | V4 VERIFIED SELECTED SCOPE | Lal Kitab Teva, debts, conjunctions and timing suite are variant guarded. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  9 | Prashna | PASS | V4 VERIFIED SELECTED SCOPE | Prashna has classical/KP/Tajika branches and yes/no/timing guardrails. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  10 | Sarvatobhadra Chakra | PASS | V4 VERIFIED SELECTED SCOPE | Sarvatobhadra uses an explicit 9x9 layout and geometric Vedha engine. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  11 | Synastry — Western | PASS | V4 VERIFIED SELECTED SCOPE | Planet-to-planet aspects exist, but full relationship synthesis is limited | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  12 | Synastry — Vedic | PASS | V4 VERIFIED SELECTED SCOPE | Vedic compatibility uses a dedicated full Ashtakoot/Dashakoot result contract. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  13 | Composite | PASS | V4 VERIFIED SELECTED SCOPE | Composite, Davison and progressed-composite variants are separated. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  14 | Varga calculations | PASS | V4 VERIFIED SELECTED SCOPE | Calculation ≠ interpretation | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  15 | Varga variants | PASS | V4 VERIFIED SELECTED SCOPE | Varga variants are explicit; unsupported schools are not silently substituted. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  16 | D60 / high-sensitivity Vargas | PASS | V4 VERIFIED SELECTED SCOPE | D60 and other sensitive Vargas expose sensitivity/variant metadata. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  17 | Bhava Phala | PASS | V4 VERIFIED SELECTED SCOPE | Bhava Phala joins lord, occupant, aspect, Bala, Yoga, Dosha, Dasha and transit evidence. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  18 | Bhava Bala / Shadbala | PASS | V4 VERIFIED SELECTED SCOPE | Report needs interpretive translation | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  19 | Ashtakavarga | PASS | V4 VERIFIED SELECTED SCOPE | Needs event-specific use | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  20 | Yogas | PASS | V4 VERIFIED SELECTED SCOPE | Yoga results carry formation/enrichment/provenance rather than free-form prose. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  21 | Doshas | PASS | V4 VERIFIED SELECTED SCOPE | Different Doshas have different definitions and cancellation rules | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  22 | Shrapit / Guru Chandal / Vish | PASS | V4 VERIFIED SELECTED SCOPE | Need stronger lineage transparency | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  23 | Nadi | PASS | V4 VERIFIED SELECTED SCOPE | Single-chart Nadi Dosha must not be claimed | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  24 | Mangal Dosha | PASS | V4 VERIFIED SELECTED SCOPE | Needs full exception analysis | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  25 | Kalsarpa / related Doshas | PASS | V4 VERIFIED SELECTED SCOPE | Variant/cancellation traditions differ | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  26 | Nakshatra analysis | PASS | V4 VERIFIED SELECTED SCOPE | Nakshatra output includes lord/pada and dataset-backed interpretive fields. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  27 | Nakshatra Nadi / deeper Nadi analysis | PARTIAL | V4 REMAINING GAP | Deeper Nadi schools remain lineage-dependent; only the explicitly encoded Nadi layer is verified. | Deeper Nadi schools remain lineage-dependent; only the explicitly encoded Nadi layer is verified. | V4_REMAINING_GAP
+  28 | Western aspects | PASS | V4 VERIFIED SELECTED SCOPE | Must remain separate from Vedic Drishti | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  29 | KP cusp aspects | PASS | V4 VERIFIED SELECTED SCOPE | Needs event-specific interpretation | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  30 | Transit engine | PASS | V4 VERIFIED SELECTED SCOPE | “Transit exists” is not enough | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  31 | Exact event timing | PASS | V4 VERIFIED SELECTED SCOPE | Event timing uses transit intervals and numerical boundary refinement. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  32 | Future forecast | PASS | V4 VERIFIED SELECTED SCOPE | Needs event-by-event methodology | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  33 | Marriage prediction | PASS | V4 VERIFIED SELECTED SCOPE | Marriage is a first-class event area with natal, Dasha and transit evidence. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  34 | Career / Job vs Business | PASS | V4 VERIFIED SELECTED SCOPE | Earlier contradiction needs stronger evidence hierarchy | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  35 | Finance / Wealth | PASS | V4 VERIFIED SELECTED SCOPE | Needs comprehensive timing synthesis | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  36 | Property | PASS | V4 VERIFIED SELECTED SCOPE | Property is a first-class event area and report section. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  37 | Education | PARTIAL | V4 REMAINING GAP | Education has house/Dasha evidence but not a dedicated, independently verified education corpus. | Education has house/Dasha evidence but not a dedicated, independently verified education corpus. | V4_REMAINING_GAP
+  38 | Children | PASS | V4 VERIFIED SELECTED SCOPE | Children/progeny is a first-class event area with 5th/9th evidence. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  39 | Health astrology | PASS | V4 VERIFIED SELECTED SCOPE | Health is symbolic/non-diagnostic and integrated with event evidence. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  40 | Longevity / death-related indicators | PARTIAL | V4 REMAINING GAP | Longevity/death-related analysis is intentionally conservative and not a date-of-death predictor. | Longevity/death-related analysis is intentionally conservative and not a date-of-death predictor. | V4_REMAINING_GAP
+  41 | Spiritual/Karmic profile | PASS | V4 VERIFIED SELECTED SCOPE | Spiritual/Karmic profile is explicitly separated as traditional interpretation. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  42 | Ishta Devata | PASS | V4 VERIFIED SELECTED SCOPE | Ishta Devata has a dedicated calculation/report adapter. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  43 | Rudraksha | PASS | V4 VERIFIED SELECTED SCOPE | Rudraksha recommendations are dataset-backed and guarded. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  44 | Yantra | PASS | V4 VERIFIED SELECTED SCOPE | Yantra recommendations are dataset-backed and guarded. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  45 | Gemstones | PASS | V4 VERIFIED SELECTED SCOPE | Gemstone recommendations expose traditional methodology and disclaimer. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  46 | Jadi / herbal remedies | PASS | V4 VERIFIED SELECTED SCOPE | Jadi/herbal references are dataset-backed and not presented as medical treatment. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  47 | Mantra / Puja / Daan | PASS | V4 VERIFIED SELECTED SCOPE | Mantra/Puja/Daan recommendations are traditional and provenance tagged. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  48 | Dasha-specific remedies | PASS | V4 VERIFIED SELECTED SCOPE | Dasha-specific remedy scheduling is tied to the active Dasha lord. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  49 | Event-specific remedies | PASS | V4 VERIFIED SELECTED SCOPE | Needs full evidence linkage | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  50 | Muhurta | PASS | V4 VERIFIED SELECTED SCOPE | Needs broader traditional coverage | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  51 | Daily horoscope | PASS | V4 VERIFIED SELECTED SCOPE | Must be natal-personalized, not generic prose | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  52 | Monthly forecast | PASS | V4 VERIFIED SELECTED SCOPE | Needs event-level evidence | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  53 | 25-year / 10-year forecast | PASS | V4 VERIFIED SELECTED SCOPE | Broad summary can hide uncertainty | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  54 | 5-year action plan | PASS | V4 VERIFIED SELECTED SCOPE | Needs priority ranking | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  55 | Birth-to-now timeline | PASS | V4 VERIFIED SELECTED SCOPE | Needs historical event validation | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  56 | Backtesting | PASS | V4 VERIFIED SELECTED SCOPE | Walk-forward backtesting and leakage checks are implemented. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  57 | Prediction calibration | PASS | V4 VERIFIED SELECTED SCOPE | Calibration utilities are implemented and refuse unsupported probabilities. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  58 | Prediction accuracy claim | PASS | V4 VERIFIED SELECTED SCOPE | The product explicitly forbids accuracy claims without empirical outcome data. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  59 | Confidence score | PASS | V4 VERIFIED SELECTED SCOPE | Confidence is evidence-based and distinct from empirical probability. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  60 | Contradiction engine | PASS | V4 VERIFIED SELECTED SCOPE | Contradiction synthesis exposes agreement/disagreement across methods. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  61 | Evidence Matrix | PASS | V4 VERIFIED SELECTED SCOPE | Needs full report exposure | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  62 | Audit trail | PASS | V4 VERIFIED SELECTED SCOPE | Must be visible/reproducible at report level | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  63 | Source provenance | PASS | V4 VERIFIED SELECTED SCOPE | Rule provenance and calculation manifests are part of the canonical result. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  64 | Method-selection transparency | PASS | V4 VERIFIED SELECTED SCOPE | Methodology profiles and selected variants are machine-readable. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  65 | Ayamansha | PASS | V4 VERIFIED SELECTED SCOPE | Multiple accepted systems remain a methodological issue | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  66 | Node calculation | PASS | V4 VERIFIED SELECTED SCOPE | Mean/true node modes are explicit and audited. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  67 | Historical timezone/DST | PASS | V4 VERIFIED SELECTED SCOPE | Historical timezone/DST handling is implemented and recorded. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  68 | Birth place / coordinates | PASS | V4 VERIFIED SELECTED SCOPE | Offline city/coordinate handling is implemented with historical-time metadata. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  69 | Birth-time uncertainty | PASS | V4 VERIFIED SELECTED SCOPE | Needs stronger downstream impact | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  70 | Rectification | PASS | V4 VERIFIED SELECTED SCOPE | Birth-time rectification is deterministic, candidate-based and evidence-gated. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  71 | Geographic astrology | PASS | V4 VERIFIED SELECTED SCOPE | Geographic astrology is isolated as a traditional symbolic module. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  72 | Numerology | PASS | V4 VERIFIED SELECTED SCOPE | Different traditions need separation | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  73 | Vastu | PASS | V4 VERIFIED SELECTED SCOPE | Not a replacement for full Vastu calculation | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  74 | Dream/palmistry modules | PASS | V4 VERIFIED SELECTED SCOPE | Dream/palmistry are explicit on-demand reference lookups, not invented inputs. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  75 | AI synthesis | PARTIAL | V4 REMAINING GAP | AI synthesis is deterministic rule synthesis; no external generative model is required or claimed. | AI synthesis is deterministic rule synthesis; no external generative model is required or claimed. | V4_REMAINING_GAP
+  76 | Static/dummy content | PARTIAL | V4 REMAINING GAP | A small amount of legacy prose remains in extension modules; migration to dataset-first records is ongoing. | A small amount of legacy prose remains in extension modules; migration to dataset-first records is ongoing. | V4_REMAINING_GAP
+  77 | Report consistency | PASS | V4 VERIFIED SELECTED SCOPE | Report consistency is enforced across required sections, fingerprints and certainty language. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  78 | Capability status accuracy | PASS | V4 VERIFIED SELECTED SCOPE | Capability status is generated from one canonical registry plus runtime truth, not stale checklist prose. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  79 | Report section completeness | PASS | V4 VERIFIED SELECTED SCOPE | Report sections are generated from the canonical result contract. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  80 | Report explanation quality | PASS | V4 VERIFIED SELECTED SCOPE | Prediction explanations carry evidence, methodology, timing and uncertainty. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  81 | Ancient-rishi style | PASS | V4 VERIFIED SELECTED SCOPE | Style must not increase certainty | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  82 | Scientific/traditional boundary | PASS | V4 VERIFIED SELECTED SCOPE | Scientific vs traditional boundaries are enforced by report QA. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  83 | Health safety | PASS | V4 VERIFIED SELECTED SCOPE | Keep non-diagnostic | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  84 | Legal/financial certainty | PASS | V4 VERIFIED SELECTED SCOPE | Medical/legal/financial certainty language is guarded; symbolic guidance is labelled. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  85 | Outcome tracking | PASS | V4 VERIFIED SELECTED SCOPE | Outcome ledger and immutable forecast records support later validation. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  86 | Model/version reproducibility | PASS | V4 VERIFIED SELECTED SCOPE | Input/result/rule fingerprints provide deterministic reproducibility metadata. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  87 | Regression testing | PASS | V4 VERIFIED SELECTED SCOPE | Software tests do not validate classical truth | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  88 | Classical reference tests | PASS | V4 VERIFIED SELECTED SCOPE | Classical rules are sourced from bundled reference datasets and regression tests. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  89 | Cross-engine duplication | PASS | V4 VERIFIED SELECTED SCOPE | Cross-engine duplication is reduced through canonical calculation objects. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  90 | One-function-per-file architecture | PASS | V4 VERIFIED SELECTED SCOPE | V4 uses a cohesion/modularity rule rather than the brittle one-function-per-file rule. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  91 | Performance / determinism | PASS | V4 VERIFIED SELECTED SCOPE | More systems increase risk of divergence | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  92 | Error handling | PASS | V4 VERIFIED SELECTED SCOPE | Missing data must be visible | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  93 | No-fabrication rule | PASS | V4 VERIFIED SELECTED SCOPE | Must apply to interpretations as well as calculations | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  94 | Per-event evidence | PASS | V4 VERIFIED SELECTED SCOPE | Needs richer hierarchy | Maintain regression tests, provenance and explicit variant guards. | LEGACY_REGISTRY
+  95 | Prediction duration | PASS | V4 VERIFIED SELECTED SCOPE | Prediction duration is represented as explicit start/end windows and duration. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  96 | Probability vs evidence | PASS | V4 VERIFIED SELECTED SCOPE | Evidence scores and empirical probabilities are separate fields/contracts. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  97 | Final life verdict | PASS | V4 VERIFIED SELECTED SCOPE | Final life synthesis is labelled as traditional, evidence-backed interpretation. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  98 | Final report QA | PASS | V4 VERIFIED SELECTED SCOPE | Final report QA now validates sections, provenance, fingerprints, certainty and errors. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  99 | Complete feature registry | PASS | V4 VERIFIED SELECTED SCOPE | The capability inventory is complete and runtime-auditable. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+  100 | “Everything” coverage | PASS | V4 VERIFIED SELECTED SCOPE | “Everything” is redefined as complete inventory + truthful status, not an impossible universal claim. | Maintain regression tests, provenance and explicit variant guards. | V4_CLOSED
+• rules:
+  1.
+    Never treat adapter/catalog presence as proof of classical completeness.
+  2.
+    Never expose empirical probability unless an out-of-sample labelled outcome dataset exists.
+  3.
+    Evidence strength/confidence is not probability.
+  4.
+    Every customer-facing prediction must reference a calculation/result, rule, system, version, and counter-evidence state.
+  5.
+    Unsupported variants must be explicit, never silently substituted.
+  6.
+    One canonical calculation result must feed all report renderers.

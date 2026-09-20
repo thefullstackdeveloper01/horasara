@@ -1,0 +1,418 @@
+{
+  "prashna": {
+    "ASPECTS": {
+      "Mars": [
+        4,
+        7,
+        8
+      ],
+      "Jupiter": [
+        5,
+        7,
+        9
+      ],
+      "Saturn": [
+        3,
+        7,
+        10
+      ],
+      "Rahu": [
+        5,
+        7,
+        9
+      ],
+      "Ketu": [
+        5,
+        7,
+        9
+      ],
+      "Sun": [
+        7
+      ],
+      "Moon": [
+        7
+      ],
+      "Mercury": [
+        7
+      ],
+      "Venus": [
+        7
+      ]
+    },
+    "QUESTION_HOUSES": {
+      "marriage": [
+        7,
+        2,
+        11
+      ],
+      "partnership": [
+        7,
+        11,
+        2
+      ],
+      "love": [
+        5,
+        7,
+        11
+      ],
+      "career": [
+        10,
+        6,
+        11,
+        2
+      ],
+      "job": [
+        10,
+        6,
+        11,
+        2
+      ],
+      "business": [
+        7,
+        10,
+        11,
+        2
+      ],
+      "finance": [
+        2,
+        11,
+        5
+      ],
+      "wealth": [
+        2,
+        11,
+        9
+      ],
+      "property": [
+        4,
+        2,
+        11
+      ],
+      "vehicle": [
+        4,
+        11
+      ],
+      "education": [
+        4,
+        5,
+        9
+      ],
+      "children": [
+        5,
+        2,
+        11
+      ],
+      "pregnancy": [
+        5,
+        11
+      ],
+      "travel": [
+        3,
+        9,
+        12
+      ],
+      "foreign": [
+        9,
+        12,
+        7
+      ],
+      "litigation": [
+        6,
+        7,
+        8,
+        12
+      ],
+      "illness": [
+        1,
+        6,
+        8,
+        12
+      ],
+      "recovery": [
+        1,
+        5,
+        11
+      ],
+      "spiritual": [
+        5,
+        9,
+        12
+      ],
+      "promotion": [
+        10,
+        11,
+        2
+      ],
+      "loss": [
+        8,
+        12,
+        6
+      ]
+    },
+    "BENEFICS": [
+      "Jupiter",
+      "Venus",
+      "Mercury",
+      "Moon"
+    ],
+    "MALEFICS": [
+      "Sun",
+      "Mars",
+      "Saturn",
+      "Rahu",
+      "Ketu"
+    ]
+  },
+  "synastry": {
+    "DEFINITIONS": [
+      [
+        "conjunction",
+        0,
+        6,
+        1
+      ],
+      [
+        "opposition",
+        180,
+        6,
+        -1
+      ],
+      [
+        "trine",
+        120,
+        5,
+        1
+      ],
+      [
+        "square",
+        90,
+        5,
+        -1
+      ],
+      [
+        "sextile",
+        60,
+        4,
+        1
+      ],
+      [
+        "quincunx",
+        150,
+        3,
+        -1
+      ]
+    ],
+    "SIGN_ELEMENT": [
+      "Fire",
+      "Earth",
+      "Air",
+      "Water",
+      "Fire",
+      "Earth",
+      "Air",
+      "Water",
+      "Fire",
+      "Earth",
+      "Air",
+      "Water"
+    ],
+    "HOUSE_KEYS": {
+      "marriage": [
+        7
+      ],
+      "romance": [
+        5,
+        7
+      ],
+      "family": [
+        2,
+        4
+      ],
+      "career": [
+        10,
+        11,
+        6
+      ],
+      "finance": [
+        2,
+        11
+      ],
+      "intimacy": [
+        8
+      ],
+      "spirituality": [
+        9,
+        12
+      ]
+    }
+  },
+  "sarvatobhadra": {
+    "NAKSHATRAS_28": [
+      "Ashwini",
+      "Bharani",
+      "Krittika",
+      "Rohini",
+      "Mrigashira",
+      "Ardra",
+      "Punarvasu",
+      "Pushya",
+      "Ashlesha",
+      "Magha",
+      "Purva Phalguni",
+      "Uttara Phalguni",
+      "Hasta",
+      "Chitra",
+      "Swati",
+      "Vishakha",
+      "Anuradha",
+      "Jyeshtha",
+      "Mula",
+      "Purva Ashadha",
+      "Uttara Ashadha",
+      "Abhijit",
+      "Shravana",
+      "Dhanishta",
+      "Shatabhisha",
+      "Purva Bhadrapada",
+      "Uttara Bhadrapada",
+      "Revati"
+    ],
+    "SIGNS": [
+      "Aries",
+      "Taurus",
+      "Gemini",
+      "Cancer",
+      "Leo",
+      "Virgo",
+      "Libra",
+      "Scorpio",
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius",
+      "Pisces"
+    ],
+    "WEEKDAYS": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "TITHI_GROUPS": {
+      "Nanda": [
+        1,
+        6,
+        11,
+        16,
+        21,
+        26
+      ],
+      "Bhadra": [
+        2,
+        7,
+        12,
+        17,
+        22,
+        27
+      ],
+      "Jaya": [
+        3,
+        8,
+        13,
+        18,
+        23,
+        28
+      ],
+      "Rikta": [
+        4,
+        9,
+        14,
+        19,
+        24,
+        29
+      ],
+      "Poorna": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30
+      ]
+    },
+    "VOWELS": [
+      "a",
+      "ā",
+      "i",
+      "ī",
+      "u",
+      "ū",
+      "ṛ",
+      "ṝ",
+      "ḷ",
+      "e",
+      "ai",
+      "o",
+      "au",
+      "aṃ",
+      "aḥ",
+      "lṛ"
+    ],
+    "CONSONANTS": [
+      "ka",
+      "kha",
+      "ga",
+      "gha",
+      "ṅa",
+      "ca",
+      "cha",
+      "ja",
+      "jha",
+      "ña",
+      "ṭa",
+      "ṭha",
+      "ḍa",
+      "ḍha",
+      "ṇa",
+      "ta",
+      "tha",
+      "da",
+      "dha",
+      "na"
+    ]
+  },
+  "complete-dasha": {},
+  "audit": {
+    "RULE_IDS": [
+      "BPHS.DASHA.VIMSHOTTARI",
+      "BPHS.DASHA.UDU-CONDITIONAL",
+      "KP.CUSP-SUB-LORD",
+      "JAIMINI.ARUDHA",
+      "JAIMINI.KARAKAMSHA",
+      "TAJIKA.VARSHAPHAL",
+      "LAL.KITAB.35Y",
+      "SBC.81GRID",
+      "PRASHNA.HORARY",
+      "MILAN.ASHTAKOOT"
+    ]
+  },
+  "contradiction": {
+    "EVENTS": [
+      "marriage",
+      "career",
+      "job",
+      "business",
+      "wealth",
+      "finance",
+      "property",
+      "children",
+      "education",
+      "health",
+      "foreign",
+      "litigation",
+      "spirituality"
+    ]
+  }
+}

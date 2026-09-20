@@ -1,0 +1,2 @@
+import assert from 'node:assert/strict';import {mkdtemp} from 'node:fs/promises';import {tmpdir} from 'node:os';import {join} from 'node:path';import {JsonDatabase} from '../src/infrastructure/persistence/JsonDatabase.js';
+const d=await mkdtemp(join(tmpdir(),'jv-db-'));const db=new JsonDatabase({filePath:join(d,'db.json'),defaults:{version:1,items:[]}});await db.transaction(x=>{x.items.push({id:1});return x});assert.deepEqual((await db.read()).items,[{id:1}]);console.log('JSON database smoke test: PASS');

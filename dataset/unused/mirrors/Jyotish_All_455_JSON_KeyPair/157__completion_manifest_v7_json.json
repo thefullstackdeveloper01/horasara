@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "157__completion_manifest_v7_json",
+    "name": "completion-manifest-v7",
+    "original_file": "completion-manifest-v7.json",
+    "dataset_number": "87 of 455",
+    "format": "json",
+    "source_readable_file": "completion-manifest-v7.txt",
+    "source_sha256": "b7f0c52405af6a72d7dd96e76509bfd65e5fad14aa8c638948a397adb9af5eb2",
+    "source_bytes": 1237
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "release": "7.0.0",
+      "goal": "Maximum defensible completeness without fabricating universal doctrine or empirical accuracy",
+      "dashaCatalogueCount": 45,
+      "builtinPluginCount": 47,
+      "sarvatobhadraCells": 81,
+      "sarvatobhadraNakshatras": 28,
+      "synastry": {
+        "ashtakoot": "Yes",
+        "dashakoot": "Yes",
+        "rajju": "Yes",
+        "vedha": "Yes",
+        "papaSamyam": "Yes",
+        "mangal": "Yes"
+      },
+      "prashnaRuleFamilies": {
+        "_items": [
+          {
+            "_text": [
+              "classical"
+            ]
+          },
+          {
+            "_text": [
+              "prashna-marga"
+            ]
+          },
+          {
+            "_text": [
+              "tajika"
+            ]
+          },
+          {
+            "_text": [
+              "kp"
+            ]
+          }
+        ]
+      },
+      "backtesting": {
+        "leakageChecks": "Yes",
+        "walkForward": "Yes",
+        "empiricalDatasetBundled": "No"
+      },
+      "calibration": {
+        "reliabilityBins": "Yes",
+        "brier": "Yes",
+        "logLoss": "Yes",
+        "empiricalOutcomesBundled": "No"
+      },
+      "ruleProvenance": "Yes",
+      "calculationAudit": "Yes",
+      "astronomyPrecision": "provider-dependent; internal VSOP87 remains explicitly lower precision than Swiss/JPL",
+      "predictionAccuracyClaim": "NOT_CLAIMED"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"version":"10.0.0","status":"HARDENING_GATE_DEFINED","requiredChecks":["health","inputLimits","errorHandling","securityHeaders","structuredLogs","metrics","gracefulShutdown","backup","restoreTest","dependencyAudit","loadTest"]}

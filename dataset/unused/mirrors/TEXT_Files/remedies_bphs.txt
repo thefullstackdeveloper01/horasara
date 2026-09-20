@@ -1,0 +1,2809 @@
+READABLE DATASET
+================================================================================
+Original file: remedies_bphs.json
+Dataset number: 331 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 146,170 bytes
+Top-level records: 149
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: 1
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 1
+  • description: O sage, please describe the worship and other remedies for pacifying planetary defects. For the benefit of mankind, kindly tell them in brief.
+  • hindi: हे मुने, ग्रहों के दोषों की शान्ति के लिए उनकी पूजा आदि का वर्णन कीजिए। कृपया मनुष्यों के हित के लिए संक्षेप में बताइए।
+  • gujarati: હે મુને, ગ્રહોના દોષોની શાંતિ માટે તેમની પૂજા આદિનું વર્ણન કરો. કૃપા કરીને મનુષ્યોના હિત માટે સંક્ષિપ્તમાં કહો.
+  • keywords:
+    1.
+      planetary defects
+    2.
+      remedies
+    3.
+      pacification
+    4.
+      worship
+  • source: BPHS Ch84
+2.
+  • id: 2
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 2
+  • description: O best of Brahmins, I have previously described the Sun and other planets. The happiness and sorrow of all beings in the world are under their control.
+  • hindi: हे द्विजोत्तम, सूर्य आदि ग्रहों का वर्णन मैं पहले कर चुका हूँ। संसार में सभी प्राणियों का सुख-दुःख उन्हीं के अधीन है।
+  • gujarati: હે દ્વિજોત્તમ, સૂર્ય આદિ ગ્રહોનું વર્ણન મેં પહેલાં કરી દીધું છે. સંસારમાં બધા પ્રાણીઓનું સુખ-દુઃખ તેમના જ અધીન છે.
+  • keywords:
+    1.
+      planets control
+    2.
+      happiness
+    3.
+      sorrow
+    4.
+      all beings
+  • source: BPHS Ch84
+3.
+  • id: 3
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 3
+  • description: Therefore, one who desires peace, a woman, rain, longevity, or nourishment should with a pure mind perform worship of the planets.
+  • hindi: इसलिए जो शान्ति, स्त्री, वृष्टि, आयु या पुष्टि चाहता है, उसे सुचेतसा होकर ग्रहों की पूजा करनी चाहिए।
+  • gujarati: તેથી જે શાંતિ, સ્ત્રી, વૃષ્ટિ, આયુ કે પુષ્ટિ ઇચ્છે છે, તેણે સુચેતસા થઈને ગ્રહોની પૂજા કરવી જોઈએ.
+  • keywords:
+    1.
+      planetary worship
+    2.
+      peace
+    3.
+      longevity
+    4.
+      prosperity
+    5.
+      rain
+  • source: BPHS Ch84
+4.
+  • id: 4
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 4
+  • description: Idols of the planets should be made respectively from copper, crystal, red sandalwood, gold, silver, iron, lead, and bronze.
+  • hindi: ग्रहों की मूर्तियाँ क्रमशः ताम्बे, स्फटिक, लाल चन्दन, सोने, चाँदी, लोहे, सीसे और काँसे से बनानी चाहिए।
+  • gujarati: ગ્રહોની મૂર્તિઓ ક્રમશઃ તાંબા, સ્ફટિક, લાલ ચંદન, સોના, ચાંદી, લોખંડ, સીસા અને કાંસાથી બનાવવી જોઈએ.
+  • keywords:
+    1.
+      planetary idols
+    2.
+      copper
+    3.
+      crystal
+    4.
+      red sandalwood
+    5.
+      gold
+    6.
+      silver
+    7.
+      iron
+    8.
+      lead
+    9.
+      bronze
+  • source: BPHS Ch84
+5.
+  • id: 5
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 5
+  • description: Venus and Mercury idols should be made of gold, the Moon of silver, the Sun of copper, Mars of iron, Saturn of lead, and Rahu of lead.
+  • hindi: शुक्र और बुध की मूर्ति सोने की, चन्द्र की चाँदी की, सूर्य की ताँबे की, मंगल की लोहे की, शनि की सीसे की, और राहु की सीसे की बनानी चाहिए।
+  • gujarati: શુક્ર અને બુધની મૂર્તિ સોનાની, ચંદ્રની ચાંદીની, સૂર્યની તાંબાની, મંગળની લોખંડની, શનિની સીસાની, અને રાહુની સીસાની બનાવવી જોઈએ.
+  • keywords:
+    1.
+      venus - gold
+    2.
+      mercury - gold
+    3.
+      moon - silver
+    4.
+      sun - copper
+    5.
+      mars - iron
+    6.
+      saturn - lead
+    7.
+      rahu - lead
+  • source: BPHS Ch84
+6.
+  • id: 6
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 6
+  • description: O best of Brahmins, if idols cannot be made, the planets should be drawn on cloth in their respective colors and worshipped.
+  • hindi: हे द्विजोत्तम, यदि मूर्तियाँ न बन सकें तो कपड़े पर अपने-अपने वर्णों में ग्रहों के चित्र बनाकर उनकी पूजा करनी चाहिए।
+  • gujarati: હે દ્વિજોત્તમ, જો મૂર્તિઓ ન બની શકે તો કપડા પર પોતાના-પોતાના વર્ણોમાં ગ્રહોના ચિત્રો બનાવીને તેમની પૂજા કરવી જોઈએ.
+  • keywords:
+    1.
+      planetary drawings
+    2.
+      cloth
+    3.
+      respective colors
+    4.
+      worship
+  • source: BPHS Ch84
+7.
+  • id: 7
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 7
+  • description: The Sun god is seated on a lotus, holds a lotus in his hand, has the luster of a lotus, rides a chariot of seven horses, and has two arms.
+  • hindi: सूर्य देव कमलासन पर विराजमान, हाथ में कमल धारण किए, कमल के समान कान्ति वाले, सात घोड़ों के रथ पर सवार और दो भुजाओं वाले हैं।
+  • gujarati: સૂર્ય દેવ કમળાસન પર વિરાજમાન, હાથમાં કમળ ધારણ કરેલ, કમળ સમાન કાન્તિવાળા, સાત ઘોડાઓના રથ પર સવાર અને બે ભુજાઓવાળા છે.
+  • keywords:
+    1.
+      sun iconography
+    2.
+      lotus
+    3.
+      seven horses
+    4.
+      two arms
+    5.
+      worship
+  • source: BPHS Ch84
+8.
+  • id: 8
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 8
+  • description: O Brahmin, the Moon god is white, dressed in white, rides a chariot of ten horses, wears white ornaments, holds a mace, and has two arms.
+  • hindi: हे द्विज, चन्द्र देव श्वेत वर्ण के, श्वेत वस्त्र धारण किए, दस घोड़ों के रथ पर सवार, श्वेत आभूषणों से युक्त, हाथ में गदा लिए और दो भुजाओं वाले हैं।
+  • gujarati: હે દ્વિજ, ચંદ્ર દેવ શ્વેત વર્ણના, શ્વેત વસ્ત્ર ધારણ કરેલ, દસ ઘોડાઓના રથ પર સવાર, શ્વેત આભૂષણોથી યુક્ત, હાથમાં ગદા લીધેલ અને બે ભુજાઓવાળા છે.
+  • keywords:
+    1.
+      moon iconography
+    2.
+      white
+    3.
+      ten horses
+    4.
+      mace
+    5.
+      two arms
+    6.
+      worship
+  • source: BPHS Ch84
+9.
+  • id: 9
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 9
+  • description: Mars is dressed in red garlands and clothes, holds Shakti, trident, and mace, has four arms, is in the boon-giving pose, and rides a ram.
+  • hindi: मंगल देव लाल माला और वस्त्र धारण किए, शक्ति, शूल और गदा धारण किए, चार भुजाओं वाले, वरद मुद्रा में और मेष पर सवार हैं।
+  • gujarati: મંગળ દેવ લાલ માળા અને વસ્ત્ર ધારણ કરેલ, શક્તિ, શૂળ અને ગદા ધારણ કરેલ, ચાર ભુજાઓવાળા, વરદ મુદ્રામાં અને મેષ પર સવાર છે.
+  • keywords:
+    1.
+      mars iconography
+    2.
+      red
+    3.
+      four arms
+    4.
+      trident
+    5.
+      mace
+    6.
+      ram
+    7.
+      worship
+  • source: BPHS Ch84
+10.
+  • id: 10
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 10
+  • description: Mercury is dressed in yellow garlands and clothes, is yellow in color, has four arms, holds a sword, shield, and mace, and rides a lion.
+  • hindi: बुध देव पीत (पीले) माला और वस्त्र धारण किए, पीत वर्ण के, चार भुजाओं वाले, हाथ में खड्ग, चर्म और गदा लिए और सिंह पर सवार हैं।
+  • gujarati: બુધ દેવ પીત (પીળા) માળા અને વસ્ત્ર ધારણ કરેલ, પીત વર્ણના, ચાર ભુજાઓવાળા, હાથમાં ખડ્ગ, ચર્મ અને ગદા લીધેલ અને સિંહ પર સવાર છે.
+  • keywords:
+    1.
+      mercury iconography
+    2.
+      yellow
+    3.
+      four arms
+    4.
+      sword
+    5.
+      shield
+    6.
+      mace
+    7.
+      lion
+    8.
+      worship
+  • source: BPHS Ch84
+11.
+  • id: 11
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 11
+  • description: Jupiter and Venus are respectively yellow and white, have four arms, and hold a staff, rosary, water pot, and are in the boon-giving pose.
+  • hindi: गुरु और शुक्र क्रमशः पीत और श्वेत वर्ण के, चार भुजाओं वाले, दण्ड, अक्षसूत्र, कमण्डलु और वरद मुद्रा वाले हैं।
+  • gujarati: ગુરુ અને શુક્ર ક્રમશઃ પીત અને શ્વેત વર્ણના, ચાર ભુજાઓવાળા, દંડ, અક્ષસૂત્ર, કમંડલુ અને વરદ મુદ્રાવાળા છે.
+  • keywords:
+    1.
+      jupiter iconography
+    2.
+      venus iconography
+    3.
+      yellow
+    4.
+      white
+    5.
+      four arms
+    6.
+      staff
+    7.
+      rosary
+    8.
+      water pot
+    9.
+      worship
+  • source: BPHS Ch84
+12.
+  • id: 12
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 12
+  • description: O Brahmin, Saturn has the luster of blue sapphire, holds a trident, is in the boon-giving pose, rides a vulture, and holds a bow and arrow.
+  • hindi: हे द्विज, शनि देव इन्द्रनील के समान कान्ति वाले, शूल धारण किए, वरद मुद्रा में, गिद्ध पर सवार, और बाण-धनुष धारण किए हैं।
+  • gujarati: હે દ્વિજ, શનિ દેવ ઇન્દ્રનીલ સમાન કાન્તિવાળા, શૂળ ધારણ કરેલ, વરદ મુદ્રામાં, ગીધ પર સવાર, અને બાણ-ધનુષ ધારણ કરેલ છે.
+  • keywords:
+    1.
+      saturn iconography
+    2.
+      blue sapphire
+    3.
+      trident
+    4.
+      vulture
+    5.
+      bow and arrow
+    6.
+      worship
+  • source: BPHS Ch84
+13.
+  • id: 13
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 13
+  • description: Rahu has a fearsome face, holds a sword, shield, and trident, is in the boon-giving pose, rides a lion, and is blue in color.
+  • hindi: राहु देव भयानक मुख वाले, खड्ग, चर्म और शूल धारण किए, वरद मुद्रा में, सिंह पर सवार और नील वर्ण के हैं।
+  • gujarati: રાહુ દેવ ભયાનક મુખવાળા, ખડ્ગ, ચર્મ અને શૂળ ધારણ કરેલ, વરદ મુદ્રામાં, સિંહ પર સવાર અને નીલ વર્ણના છે.
+  • keywords:
+    1.
+      rahu iconography
+    2.
+      fearsome face
+    3.
+      sword
+    4.
+      shield
+    5.
+      trident
+    6.
+      lion
+    7.
+      blue
+    8.
+      worship
+  • source: BPHS Ch84
+14.
+  • id: 14
+  • chapter: 84
+  • chapter_title: Remedial Measures to Obtain Relief from Malevolence of Planets
+  • shloka: 14
+  • description: Ketu is smoky in color, has two arms, holds a mace, has a deformed face, and rides a vulture.
+  • hindi: केतु देव धूम्र वर्ण के, दो भुजाओं वाले, गदा धारण किए, विकृत मुख वाले और गिद्ध पर सवार हैं।
+  • gujarati: કેતુ દેવ ધૂમ્ર વર્ણના, બે ભુજાઓવાળા, ગદા ધારણ કરેલ, વિકૃત મુખવાળા અને ગીધ પર સવાર છે.
+  • keywords:
+    1.
+      ketu iconography
+    2.
+      smoky
+    3.
+      two arms
+    4.
+      mace
+    5.
+      deformed face
+    6.
+      vulture
+    7.
+      worship
+  • source: BPHS Ch84
+15.
+  • id: 15
+  • chapter: 85
+  • chapter_title: Inauspicious Births
+  • shloka: 1
+  • description: Now I shall describe inauspicious births that give adverse results even with a good Ascendant and good planets.
+  • hindi: अब मैं वैसे अशुभ जन्मों का वर्णन करता हूँ जो अच्छे लग्न और अच्छे ग्रह होने पर भी अशुभ फल देते हैं।
+  • gujarati: હવે હું તેવા અશુભ જન્મોનું વર્ણન કરું છું જે સારા લગ્ન અને સારા ગ્રહો હોવા છતાં પણ અશુભ ફળ આપે છે.
+  • keywords:
+    1.
+      inauspicious births
+    2.
+      good ascendant
+    3.
+      good planets
+    4.
+      adverse results
+  • source: BPHS Ch85
+16.
+  • id: 16
+  • chapter: 85
+  • chapter_title: Inauspicious Births
+  • shloka: 2
+  • description: Inauspicious births occur: on Krishna Chaturdashi, in the brother's nakshatra, in the father's nakshatra, at the time of solar ingress (Sankranti), at the time of Pata, and during solar and lunar eclipses.
+  • hindi: अशुभ जन्म निम्न स्थितियों में होता है: कृष्ण पक्ष की चतुर्दशी को, सोदर्य नक्षत्र (भाई के नक्षत्र) में, पितृ नक्षत्र में, सूर्य संक्रान्ति के समय, पात (ग्रहण के समय), और सूर्य-चन्द्र ग्रहण के समय।
+  • gujarati: અશુભ જન્મ નીચેની પરિસ્થિતિઓમાં થાય છે: કૃષ્ણ પક્ષની ચતુર્દશીને, સોદર્ય નક્ષત્ર (ભાઈના નક્ષત્ર)માં, પિતૃ નક્ષત્રમાં, સૂર્ય સંક્રાન્તિ સમયે, પાત (ગ્રહણ સમયે), અને સૂર્ય-ચંદ્ર ગ્રહણ સમયે.
+  • keywords:
+    1.
+      krishna chaturdashi
+    2.
+      brother's nakshatra
+    3.
+      father's nakshatra
+    4.
+      sankranti
+    5.
+      pata
+    6.
+      eclipse
+  • source: BPHS Ch85
+17.
+  • id: 17
+  • chapter: 85
+  • chapter_title: Inauspicious Births
+  • shloka: 3
+  • description: Birth is inauspicious during Vyatipata and other evil yogas, in the three types of Gandanta, in Yamaghanta yoga, in Abhukta yoga, in Dagdha yoga, and the birth of a daughter after three sons or a son after three daughters.
+  • hindi: व्यतीपात आदि दुर्योगों में, तीनों प्रकार के गण्डान्त में, यमघण्ट योग में, अभुक्त योग में, दग्ध योग में, और तीन पुत्रों के बाद कन्या या तीन कन्याओं के बाद पुत्र का जन्म अशुभ होता है।
+  • gujarati: વ્યતીપાત આદિ દુર્યોગોમાં, ત્રણેય પ્રકારના ગણ્ડાન્તમાં, યમઘણ્ટ યોગમાં, અભુક્ત યોગમાં, દગ્ધ યોગમાં, અને ત્રણ પુત્રો પછી કન્યા કે ત્રણ કન્યાઓ પછી પુત્રનો જન્મ અશુભ થાય છે.
+  • keywords:
+    1.
+      vyatipata
+    2.
+      gandanta
+    3.
+      yamaghanta
+    4.
+      abhukta
+    5.
+      dagdha
+    6.
+      birth after three sons
+    7.
+      birth after three daughters
+  • source: BPHS Ch85
+18.
+  • id: 18
+  • chapter: 85
+  • chapter_title: Inauspicious Births
+  • shloka: 4
+  • description: Birth is also inauspicious when there is abnormality in delivery. Peace (remedial rites) brings well-being; the remedy will be described later.
+  • hindi: प्रसव में विकार (असामान्य प्रसव) होने पर भी जन्म अशुभ होता है। शान्ति से कल्याण होता है, उसका उपाय आगे बताया जाएगा।
+  • gujarati: પ્રસવમાં વિકાર (અસામાન્ય પ્રસવ) થવા પર પણ જન્મ અશુભ થાય છે. શાંતિથી કલ્યાણ થાય છે, તેનો ઉપાય આગળ કહેવામાં આવશે.
+  • keywords:
+    1.
+      abnormal delivery
+    2.
+      inauspicious birth
+    3.
+      remedy
+    4.
+      well-being
+  • source: BPHS Ch85
+19.
+  • id: 19
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 1
+  • description: O Maitreya, the parents of one born on Amavasya (new moon day) become poor. To remove this defect, the learned should perform propitiatory rites.
+  • hindi: हे मैत्रेय, अमावस्या को जन्म लेने वाले के माता-पिता दरिद्र होते हैं। इस दोष के निवारण के लिए विद्वान को शान्ति करनी चाहिए।
+  • gujarati: હે મૈત્રેય, અમાવાસ્યાએ જન્મ લેનારના માતા-પિતા દરિદ્ર થાય છે. આ દોષના નિવારણ માટે વિદ્વાને શાંતિ કરવી જોઈએ.
+  • keywords:
+    1.
+      amavasya
+    2.
+      new moon birth
+    3.
+      parental poverty
+    4.
+      remedy
+  • source: BPHS Ch86
+20.
+  • id: 20
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 2
+  • description: First, establish a Kalasha (water pot) according to prescribed rites. Also place twigs of Goolar, Peepal, Banyan, and Mango trees.
+  • hindi: सबसे पहले विधिपूर्वक कलश स्थापन करें। उदुम्बर, पीपल, वट और आम के पल्लव (कोपलें) भी रखें।
+  • gujarati: સૌથી પહેલાં વિધિપૂર્વક કળશ સ્થાપન કરો. ઉદુંબર, પીપળ, વટ અને આંબાના પલ્લવ (કોપલાં) પણ મૂકો.
+  • keywords:
+    1.
+      kalasha
+    2.
+      goolar
+    3.
+      peepal
+    4.
+      banyan
+    5.
+      mango
+    6.
+      twigs
+  • source: BPHS Ch86
+21.
+  • id: 21
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 3
+  • description: Also place Neem twigs, roots, and bark. Place five gems and cover with two cloths.
+  • hindi: नीम की समिधाएँ, जड़ें, छालें भी रखें। पाँच रत्न रखकर दो वस्त्रों से ढक दें।
+  • gujarati: નીમની સમિધાઓ, મૂળ, છાલ પણ મૂકો. પાંચ રત્ન મૂકીને બે વસ્ત્રોથી ઢાંકી દો.
+  • keywords:
+    1.
+      neem
+    2.
+      five gems
+    3.
+      cloth covering
+  • source: BPHS Ch86
+22.
+  • id: 22
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 4
+  • description: Consecrate the Kalasha with mantras like 'Sarve Samudra' and 'Apo Vishtha', then place it in the South-West direction.
+  • hindi: 'सर्वे समुद्रा' और 'आपो द्विष्ठा' आदि मन्त्रों से कलश को अभिमन्त्रित करके उसे नैऋत्य (दक्षिण-पश्चिम) दिशा में स्थापित करें।
+  • gujarati: 'સર્વે સમુદ્રા' અને 'આપો દ્વિષ્ઠા' આદિ મંત્રોથી કળશને અભિમંત્રિત કરીને તેને નૈઋત્ય (દક્ષિણ-પશ્ચિમ) દિશામાં સ્થાપિત કરો.
+  • keywords:
+    1.
+      mantras
+    2.
+      consecration
+    3.
+      south-west direction
+  • source: BPHS Ch86
+23.
+  • id: 23
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 5
+  • description: The presiding deities of Amavasya are the Sun and Moon. Make their idols from gold, silver, and copper respectively.
+  • hindi: अमावस्या के अधिदेवता सूर्य और चन्द्र हैं। उनकी प्रतिमाएँ क्रमशः सोने, चाँदी और ताँबे की बनवाएँ।
+  • gujarati: અમાવાસ્યાના અધિદેવતા સૂર્ય અને ચંદ્ર છે. તેમની પ્રતિમાઓ ક્રમશઃ સોના, ચાંદી અને તાંબાની બનાવો.
+  • keywords:
+    1.
+      sun idol
+    2.
+      moon idol
+    3.
+      gold
+    4.
+      silver
+    5.
+      copper
+  • source: BPHS Ch86
+24.
+  • id: 24
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 6
+  • description: Worship the Moon with 'Apyayasva' mantra and the Sun with 'Saviteti' mantra, then perform Havana.
+  • hindi: 'आप्यायस्व' मन्त्र से चन्द्र की और 'सवित्रेति' मन्त्र से सूर्य की पूजा करके फिर होम करें।
+  • gujarati: 'આપ્યાયસ્વ' મંત્રથી ચંદ્રની અને 'સવિત્રેતિ' મંત્રથી સૂર્યની પૂજા કરીને પછી હોમ કરો.
+  • keywords:
+    1.
+      mantras
+    2.
+      worship
+    3.
+      havana
+    4.
+      sun
+    5.
+      moon
+  • source: BPHS Ch86
+25.
+  • id: 25
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 7
+  • description: The learned person should offer oblations with samidha and charu (sweet rice) using the mantras of the Sun and Moon respectively.
+  • hindi: विद्वान् व्यक्ति समिधा और चरु (खीर) से क्रमशः सूर्य और चन्द्र मन्त्रों से होम करे।
+  • gujarati: વિદ્વાન વ્યક્તિ સમિધા અને ચરુ (ખીર)થી ક્રમશઃ સૂર્ય અને ચંદ્ર મંત્રોથી હોમ કરે.
+  • keywords:
+    1.
+      samidha
+    2.
+      charu
+    3.
+      sun mantra
+    4.
+      moon mantra
+    5.
+      havana
+  • source: BPHS Ch86
+26.
+  • id: 26
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 8
+  • description: Perform Havana 108 or 28 times. Then perform Abhisheka (sprinkling) of the parents and the child.
+  • hindi: 108 या 28 बार होम करें। फिर माता-पिता और पुत्र का अभिषेक करें।
+  • gujarati: 108 કે 28 વાર હોમ કરો. પછી માતા-પિતા અને પુત્રનો અભિષેક કરો.
+  • keywords:
+    1.
+      108 oblations
+    2.
+      28 oblations
+    3.
+      abhisheka
+    4.
+      parents
+    5.
+      child
+  • source: BPHS Ch86
+27.
+  • id: 27
+  • chapter: 86
+  • chapter_title: Remedial Measures for Birth on Amavasya
+  • shloka: 9
+  • description: Give silver and a black cow as charity (Dakshina). Feed Brahmins according to one's capacity. Thus one attains well-being.
+  • hindi: दक्षिणा में चाँदी और काली गाय दें। शक्ति अनुसार ब्राह्मणों को भोजन कराएँ। तब क्षेम (कल्याण) प्राप्त होता है।
+  • gujarati: દક્ષિણામાં ચાંદી અને કાળી ગાય આપો. શક્તિ પ્રમાણે બ્રાહ્મણોને ભોજન કરાવો. ત્યારે ક્ષેમ (કલ્યાણ) પ્રાપ્ત થાય છે.
+  • keywords:
+    1.
+      silver
+    2.
+      black cow
+    3.
+      feed brahmins
+    4.
+      dakshina
+    5.
+      well-being
+  • source: BPHS Ch86
+28.
+  • id: 28
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 1
+  • description: O Brahmin, birth in the six parts of Krishna Chaturdashi gives results in order. Birth in the first part is auspicious.
+  • hindi: हे द्विज, कृष्ण पक्ष की चतुर्दशी के छः भागों में जन्म हो तो क्रमशः फल होते हैं। पहले भाग में जन्म शुभ होता है।
+  • gujarati: હે દ્વિજ, કૃષ્ણ પક્ષની ચતુર્દશીના છ ભાગોમાં જન્મ થાય તો ક્રમશઃ ફળો થાય છે. પહેલા ભાગમાં જન્મ શુભ થાય છે.
+  • keywords:
+    1.
+      krishna chaturdashi
+    2.
+      six parts
+    3.
+      first part auspicious
+  • source: BPHS Ch87
+29.
+  • id: 29
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 2
+  • description: Birth in the second part destroys the father, in the third the mother, in the fourth the maternal uncle, and in the fifth destroys the lineage.
+  • hindi: दूसरे भाग में जन्म पिता का नाश करता है, तीसरे में माता का, चौथे में मामा का, और पाँचवें में वंश का नाश करता है।
+  • gujarati: બીજા ભાગમાં જન્મ પિતાનો નાશ કરે છે, ત્રીજામાં માતાનો, ચોથામાં મામાનો, અને પાંચમામાં વંશનો નાશ કરે છે.
+  • keywords:
+    1.
+      second part - father death
+    2.
+      third part - mother death
+    3.
+      fourth part - maternal uncle death
+    4.
+      fifth part - lineage destruction
+  • source: BPHS Ch87
+30.
+  • id: 30
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 3
+  • description: In the sixth part, there is loss of wealth or death of self. To remove these defects, one should perform propitiatory rites with effort.
+  • hindi: छठे भाग में धन का नाश या स्वयं का नाश होता है। इन दोषों के निवारण के लिए यत्नपूर्वक शान्ति करनी चाहिए।
+  • gujarati: છઠ્ઠા ભાગમાં ધનનો નાશ કે પોતાનો જ નાશ થાય છે. આ દોષોના નિવારણ માટે યત્નપૂર્વક શાંતિ કરવી જોઈએ.
+  • keywords:
+    1.
+      sixth part - wealth loss or self death
+    2.
+      remedy needed
+  • source: BPHS Ch87
+31.
+  • id: 31
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 4
+  • description: Make a golden idol of Lord Shiva weighing one Karsha (approx 10 grams), or half that, or as beautiful as one can afford.
+  • hindi: शिव जी की सोने की प्रतिमा बनवाएँ, जिसका वजन एक कर्ष (लगभग 10 ग्राम) या उसके आधे वजन की, या शक्ति अनुसार सुन्दर प्रतिमा बनवाएँ।
+  • gujarati: શિવજીની સોનાની પ્રતિમા બનાવો, જેનું વજન એક કર્ષ (લગભગ 10 ગ્રામ) કે તેના અડધા વજનની, કે શક્તિ પ્રમાણે સુંદર પ્રતિમા બનાવો.
+  • keywords:
+    1.
+      shiva idol
+    2.
+      gold
+    3.
+      one karsha
+    4.
+      as per capacity
+  • source: BPHS Ch87
+32.
+  • id: 32
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 5
+  • description: The Shiva idol should have the crescent moon on the forehead, white garlands and clothes, three eyes, seated on a bull, and showing boon-giving and fear-allaying gestures.
+  • hindi: शिव जी की प्रतिमा बालचन्द्र धारण किए हुए, श्वेत माला और वस्त्रों से युक्त, तीन नेत्रों वाली, वृषभ पर सवार, वरद और अभय मुद्रा वाली बनवाएँ।
+  • gujarati: શિવજીની પ્રતિમા બાલચંદ્ર ધારણ કરેલ, શ્વેત માળા અને વસ્ત્રોથી યુક્ત, ત્રણ નેત્રોવાળી, વૃષભ પર સવાર, વરદ અને અભય મુદ્રાવાળી બનાવો.
+  • keywords:
+    1.
+      crescent moon
+    2.
+      three eyes
+    3.
+      bull vehicle
+    4.
+      boon-giving gesture
+    5.
+      fear-allaying gesture
+  • source: BPHS Ch87
+33.
+  • id: 33
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 6
+  • description: Perform worship with 'Tryambaka' etc. mantras. The chief priest, skilled in mantras, should invoke with Varuna mantras.
+  • hindi: 'त्र्यम्बकं' आदि मन्त्रों से पूजा करें। मन्त्रों में निपुण आचार्य वरुण मन्त्रों से आवाहन करें।
+  • gujarati: 'ત્ર્યમ્બકં' આદિ મંત્રોથી પૂજા કરો. મંત્રોમાં નિપુણ આચાર્ય વરુણ મંત્રોથી આવાહન કરો.
+  • keywords:
+    1.
+      tryambaka mantra
+    2.
+      varuna mantras
+    3.
+      invocation
+    4.
+      worship
+  • source: BPHS Ch87
+34.
+  • id: 34
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 7
+  • description: Chant the mantras 'Imam Me Varuna', 'Twam No Agne', 'Savitru Na', etc.
+  • hindi: 'इमं मे वरुण', 'त्वं नो अग्ने', 'सवितृ न' इत्यादि मन्त्रों का जप करें।
+  • gujarati: 'ઇમં મે વરુણ', 'ત્વં નો અગ્ને', 'સવિતૃ ન' ઇત્યાદિ મંત્રોનો જપ કરો.
+  • keywords:
+    1.
+      varuna mantra
+    2.
+      agni mantra
+    3.
+      savitru mantra
+    4.
+      chanting
+  • source: BPHS Ch87
+35.
+  • id: 35
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 8
+  • description: After placing the Agneya Kalasha, worship with devotion. Recite 'A No Bhadra' Sukta and 'Bhadra Agneh' Sukta.
+  • hindi: आग्नेय कुम्भ स्थापित करके भक्तिपूर्वक पूजा करें। 'आ नो भद्रा' सूक्त और 'भद्रा अग्ने:' सूक्त का पाठ करें।
+  • gujarati: આગ્નેય કુંભ સ્થાપિત કરીને ભક્તિપૂર્વક પૂજા કરો. 'આ નો ભદ્રા' સૂક્ત અને 'ભદ્રા અગ્ને:' સૂક્તનો પાઠ કરો.
+  • keywords:
+    1.
+      agneya kalasha
+    2.
+      suktas
+    3.
+      recitation
+    4.
+      worship
+  • source: BPHS Ch87
+36.
+  • id: 36
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 9
+  • description: Chant Purusha Sukta, then chant Rudradhyaya. Perform Abhisheka of Lord Shiva and worship the planets.
+  • hindi: पुरुषसूक्त का जप करें, फिर रुद्राध्याय का जप करें। शंकर जी का अभिषेक और ग्रहों की पूजा कराएँ।
+  • gujarati: પુરુષસૂક્તનો જપ કરો, પછી રુદ્રાધ્યાયનો જપ કરો. શંકરજીનો અભિષેક અને ગ્રહોની પૂજા કરાવો.
+  • keywords:
+    1.
+      purusha sukta
+    2.
+      rudradhyaya
+    3.
+      shiva abhisheka
+    4.
+      planetary worship
+  • source: BPHS Ch87
+37.
+  • id: 37
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 10
+  • description: Perform Havana with samidha, ghee, charu, sesame seeds, urad dal, mustard, and auspicious twigs of Peepal, Palash, Khadir, etc.
+  • hindi: समिधा, घी, चरु, तिल, माष, सरसों, और पीपल, पलाश, खदिर आदि शुभ समिधाओं से होम करें।
+  • gujarati: સમિધા, ઘી, ચરુ, તિલ, માષ, સરસો, અને પીપળ, પલાશ, ખદિર આદિ શુભ સમિધાઓથી હોમ કરો.
+  • keywords:
+    1.
+      samidha
+    2.
+      ghee
+    3.
+      charu
+    4.
+      sesame seeds
+    5.
+      urad dal
+    6.
+      mustard
+    7.
+      peepal
+    8.
+      palash
+    9.
+      khadir
+  • source: BPHS Ch87
+38.
+  • id: 38
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 11
+  • description: Perform Havana 108 or 28 times according to prescribed procedure. Perform separately for each.
+  • hindi: 108 या 28 बार विधिपूर्वक होम करें। अलग-अलग होम करें।
+  • gujarati: 108 કે 28 વાર વિધિપૂર્વક હોમ કરો. અલગ-અલગ હોમ કરો.
+  • keywords:
+    1.
+      108 havana
+    2.
+      28 havana
+    3.
+      separate offerings
+  • source: BPHS Ch87
+39.
+  • id: 39
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 12
+  • description: Offer sesame seeds with 'Tryambaka' mantra and also offer with Vyahrtis. Perform planetary Havana according to prescribed procedure, then well-being occurs.
+  • hindi: 'त्र्यम्बक' मन्त्र से तिलों की आहुति दें, और व्याहृतियों से भी होम करें। विधिवत् ग्रह होम करें, तब क्षेम होता है।
+  • gujarati: 'ત્ર્યમ્બક' મંત્રથી તિલોની આહુતિ આપો, અને વ્યાહૃતિઓથી પણ હોમ કરો. વિધિવત્ ગ્રહ હોમ કરો, ત્યારે ક્ષેમ થાય છે.
+  • keywords:
+    1.
+      tryambaka mantra
+    2.
+      vyahrtis
+    3.
+      planetary havana
+    4.
+      well-being
+  • source: BPHS Ch87
+40.
+  • id: 40
+  • chapter: 87
+  • chapter_title: Remedies from Evil Effects of Birth on Krishna Chaturdashi
+  • shloka: 13
+  • description: Have the child's Abhisheka performed by learned priests. Then feed Brahmins according to one's capacity.
+  • hindi: जातक का अभिषेक विद्वान् पुरोहितों से कराएँ। फिर शक्ति अनुसार ब्राह्मणों को भोजन कराएँ।
+  • gujarati: જાતકનો અભિષેક વિદ્વાન્ પુરોહિતોથી કરાવો. પછી શક્તિ પ્રમાણે બ્રાહ્મણોને ભોજન કરાવો.
+  • keywords:
+    1.
+      child abhisheka
+    2.
+      learned priests
+    3.
+      feed brahmins
+  • source: BPHS Ch87
+41.
+  • id: 41
+  • chapter: 88
+  • chapter_title: Remedies from Evil Effects of Birth in Bhadra and Inauspicious Yogas
+  • shloka: 1
+  • description: Now I shall describe the remedial measures for births during Bhadra, Vyatipata, Yamaghanta, and other inauspicious yogas.
+  • hindi: अब मैं भद्रा, व्यतीपात, यमघण्ट आदि दुर्योगों में जन्म की शान्ति बताता हूँ।
+  • gujarati: હવે હું ભદ્રા, વ્યતીપાત, યમઘણ્ટ આદિ દુર્યોગોમાં જન્મની શાંતિ કહું છું.
+  • keywords:
+    1.
+      bhadra
+    2.
+      vyatipata
+    3.
+      yamaghanta
+    4.
+      inauspicious yogas
+    5.
+      remedies
+  • source: BPHS Ch88
+42.
+  • id: 42
+  • chapter: 88
+  • chapter_title: Remedies from Evil Effects of Birth in Bhadra and Inauspicious Yogas
+  • shloka: 2
+  • description: O Brahmin, the results of inauspicious birth have been described. When birth occurs during an inauspicious yoga, the learned should perform propitiatory rites.
+  • hindi: हे द्विज, अशुभ जन्म के फल कहे गए हैं। जब प्रसव दुर्योग में हो, तो विद्वान् को शान्ति करनी चाहिए।
+  • gujarati: હે દ્વિજ, અશુભ જન્મના ફળો કહેવાયા છે. જ્યારે પ્રસવ દુર્યોગમાં થાય, તો વિદ્વાને શાંતિ કરવી જોઈએ.
+  • keywords:
+    1.
+      inauspicious birth
+    2.
+      propitiatory rites
+    3.
+      shanti
+  • source: BPHS Ch88
+43.
+  • id: 43
+  • chapter: 88
+  • chapter_title: Remedies from Evil Effects of Birth in Bhadra and Inauspicious Yogas
+  • shloka: 3
+  • description: On an auspicious day and auspicious Lagna as advised by an astrologer, one should worship the deities and perform planetary yajnas.
+  • hindi: ज्योतिषी के बताए अनुसार शुभ लग्न और शुभ दिन में देवताओं की पूजा और ग्रहों का यजन करना चाहिए।
+  • gujarati: જ્યોતિષીના કહ્યા પ્રમાણે શુભ લગ્ન અને શુભ દિવસમાં દેવતાઓની પૂજા અને ગ્રહોનું યજન કરવું જોઈએ.
+  • keywords:
+    1.
+      auspicious day
+    2.
+      auspicious lagna
+    3.
+      deity worship
+    4.
+      planetary yajna
+  • source: BPHS Ch88
+44.
+  • id: 44
+  • chapter: 88
+  • chapter_title: Remedies from Evil Effects of Birth in Bhadra and Inauspicious Yogas
+  • shloka: 4
+  • description: Perform Abhisheka of Lord Shiva, light a ghee lamp in a Shiva temple, and circumambulate a Peepal tree. This increases longevity.
+  • hindi: शिव जी का अभिषेक करें, शिवालय में घृत का दीप जलाएँ। पीपल की प्रदक्षिणा करें, यह आयु बढ़ाने वाला है।
+  • gujarati: શિવજીનો અભિષેક કરો, શિવાલયમાં ઘૃતનો દીપ પ્રગટાવો. પીપળની પ્રદક્ષિણા કરો, આ આયુ વધારનાર છે.
+  • keywords:
+    1.
+      shiva abhisheka
+    2.
+      ghee lamp
+    3.
+      peepal circumambulation
+    4.
+      longevity
+  • source: BPHS Ch88
+45.
+  • id: 45
+  • chapter: 88
+  • chapter_title: Remedies from Evil Effects of Birth in Bhadra and Inauspicious Yogas
+  • shloka: 5
+  • description: Perform Havana 108 times with Vishnu mantra. Feed Brahmins according to one's capacity. Then one attains well-being.
+  • hindi: विष्णु मन्त्र से 108 बार होम करें। शक्ति अनुसार ब्राह्मणों को भोजन कराएँ, तब कल्याण प्राप्त होता है।
+  • gujarati: વિષ્ણુ મંત્રથી 108 વાર હોમ કરો. શક્તિ પ્રમાણે બ્રાહ્મણોને ભોજન કરાવો, ત્યારે કલ્યાણ પ્રાપ્ત થાય છે.
+  • keywords:
+    1.
+      vishnu mantra
+    2.
+      108 havana
+    3.
+      feed brahmins
+    4.
+      well-being
+  • source: BPHS Ch88
+46.
+  • id: 46
+  • chapter: 89
+  • chapter_title: Remedies from Nakshatra Birth
+  • shloka: 1
+  • description: If birth occurs in the same Nakshatra as a brother, father, or son, their destruction is certain.
+  • hindi: यदि भाई, पिता या पुत्र के एक ही नक्षत्र में जन्म हो, तो उनका नियत रूप से नाश होता है।
+  • gujarati: જો ભાઈ, પિતા કે પુત્રના એક જ નક્ષત્રમાં જન્મ થાય, તો તેમનો નિયત રૂપે નાશ થાય છે.
+  • keywords:
+    1.
+      same nakshatra
+    2.
+      brother
+    3.
+      father
+    4.
+      son
+    5.
+      destruction
+  • source: BPHS Ch89
+47.
+  • id: 47
+  • chapter: 89
+  • chapter_title: Remedies from Nakshatra Birth
+  • shloka: 2
+  • description: I shall describe the propitiation for that as spoken by sages like Garga. It should be done on an auspicious day, auspicious Nakshatra, with strong Moon and stars.
+  • hindi: गर्ग आदि मुनियों ने जैसा कहा है, वैसी ही उसकी शान्ति मैं बताता हूँ। शुभ दिन, शुभ नक्षत्र और चन्द्र-तारा बल से युक्त हो।
+  • gujarati: ગર્ગ આદિ મુનિઓએ જેમ કહ્યું છે, તેવી જ તેની શાંતિ હું કહું છું. શુભ દિવસ, શુભ નક્ષત્ર અને ચંદ્ર-તારા બળથી યુક્ત હોય.
+  • keywords:
+    1.
+      propitiation
+    2.
+      auspicious day
+    3.
+      auspicious nakshatra
+    4.
+      strong moon
+  • source: BPHS Ch89
+48.
+  • id: 48
+  • chapter: 89
+  • chapter_title: Remedies from Nakshatra Birth
+  • shloka: 3
+  • description: Perform the propitiation at a time free from Rikta, Bhadra, etc. Install an auspicious idol of the Nakshatra in the direction of Saturn.
+  • hindi: रिक्ता, भद्रा आदि से रहित समय में शान्ति करनी चाहिए। शनि आदि की दिशा में नक्षत्र की शुभ प्रतिमा स्थापित करें।
+  • gujarati: રિક્તા, ભદ્રા આદિથી રહિત સમયમાં શાંતિ કરવી જોઈએ. શનિ આદિની દિશામાં નક્ષત્રની શુભ પ્રતિમા સ્થાપિત કરો.
+  • keywords:
+    1.
+      rikta
+    2.
+      bhadra
+    3.
+      nakshatra idol
+    4.
+      saturn direction
+  • source: BPHS Ch89
+49.
+  • id: 49
+  • chapter: 89
+  • chapter_title: Remedies from Nakshatra Birth
+  • shloka: 4
+  • description: Worship the idol placed on a Kalasha with the mantra of that Nakshatra. Cover with a red cloth and wrap with two cloths.
+  • hindi: अपने नक्षत्र के मन्त्र से कलश के ऊपर प्रतिमा की पूजा करें। लाल वस्त्र से ढकें और दो वस्त्रों से लपेटें।
+  • gujarati: પોતાના નક્ષત્રના મંત્રથી કળશ ઉપર પ્રતિમાની પૂજા કરો. લાલ વસ્ત્રથી ઢાંકો અને બે વસ્ત્રોથી લપેટો.
+  • keywords:
+    1.
+      nakshatra mantra
+    2.
+      kalasha
+    3.
+      red cloth
+    4.
+      worship
+  • source: BPHS Ch89
+50.
+  • id: 50
+  • chapter: 89
+  • chapter_title: Remedies from Nakshatra Birth
+  • shloka: 5
+  • description: Establish the fire according to one's own Vedic branch. Then perform Havana 108 times with the same mantra.
+  • hindi: अपनी-अपनी शाखा के अनुसार अग्नि स्थापन करें। फिर उसी मन्त्र से 108 बार होम करें।
+  • gujarati: પોતાની-પોતાની શાખા પ્રમાણે અગ્નિ સ્થાપન કરો. પછી તે જ મંત્રથી 108 વાર હોમ કરો.
+  • keywords:
+    1.
+      vedic branch
+    2.
+      fire establishment
+    3.
+      108 havana
+    4.
+      same mantra
+  • source: BPHS Ch89
+51.
+  • id: 51
+  • chapter: 89
+  • chapter_title: Remedies from Nakshatra Birth
+  • shloka: 6
+  • description: Perform expiatory Havana with samidha, food, and ghee for each. Then perform Abhisheka of the chief priest and Brahmins.
+  • hindi: प्रत्येक के लिए समिधा, अन्न और घी से प्रायश्चित होम करें। फिर आचार्य और ब्राह्मणों का अभिषेक करें।
+  • gujarati: પ્રત્યેક માટે સમિધા, અન્ન અને ઘીથી પ્રાયશ્ચિત હોમ કરો. પછી આચાર્ય અને બ્રાહ્મણોનો અભિષેક કરો.
+  • keywords:
+    1.
+      expiatory havana
+    2.
+      samidha
+    3.
+      ghee
+    4.
+      abhisheka
+    5.
+      priest
+  • source: BPHS Ch89
+52.
+  • id: 52
+  • chapter: 89
+  • chapter_title: Remedies from Nakshatra Birth
+  • shloka: 7
+  • description: Give Dakshina (fees) to the priests, especially to the chief priest. Feed Brahmins with devotion according to one's capacity.
+  • hindi: ऋत्विजों को दक्षिणा दें, विशेष रूप से आचार्य को। भक्तिपूर्वक ब्राह्मणों को शक्ति अनुसार भोजन कराएँ।
+  • gujarati: ઋત્વિજોને દક્ષિણા આપો, વિશેષ રૂપે આચાર્યને. ભક્તિપૂર્વક બ્રાહ્મણોને શક્તિ પ્રમાણે ભોજન કરાવો.
+  • keywords:
+    1.
+      dakshina
+    2.
+      chief priest
+    3.
+      feed brahmins
+    4.
+      devotion
+  • source: BPHS Ch89
+53.
+  • id: 53
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 1
+  • description: Starting from Sunday, the names of Sankrantis are: Ghora, Dhvankshi, Mahodari, Manda, Mandakini, Mishra, and Rakshasi.
+  • hindi: सूर्यवार से आरंभ करके संक्रान्तियों के नाम हैं: घोरा, ध्वांक्षी, महोदरी, मन्दा, मन्दाकिनी, मिश्रा और राक्षसी।
+  • gujarati: સૂર્યવારથી આરંભ કરીને સંક્રાન્તિઓના નામ છે: ઘોરા, ધ્વાંક્ષી, મહોદરી, મંદા, મંદાકિની, મિશ્રા અને રાક્ષસી.
+  • keywords:
+    1.
+      sankranti names
+    2.
+      sunday to saturday
+    3.
+      ghora
+    4.
+      dhvankshi
+    5.
+      mahodari
+    6.
+      manda
+    7.
+      mandakini
+    8.
+      mishra
+    9.
+      rakshasi
+  • source: BPHS Ch90
+54.
+  • id: 54
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 2
+  • description: A person born during Sankranti becomes poor and unhappy. Through propitiation, he attains happiness. Hence I describe the propitiatory procedure.
+  • hindi: संक्रान्ति के समय जन्म लेने वाला मनुष्य दरिद्र और दुःखी होता है। शान्ति से सुख प्राप्त करता है, इसलिए मैं शान्ति का विधान बताता हूँ।
+  • gujarati: સંક્રાન્તિ સમયે જન્મ લેનાર મનુષ્ય દરિદ્ર અને દુઃખી થાય છે. શાંતિથી સુખ પ્રાપ્ત કરે છે, તેથી હું શાંતિનો વિધાન કહું છું.
+  • keywords:
+    1.
+      sankranti birth
+    2.
+      poverty
+    3.
+      unhappiness
+    4.
+      propitiation
+    5.
+      happiness
+  • source: BPHS Ch90
+55.
+  • id: 55
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 3
+  • description: To pacify those defects, one should perform a Navagraha Yajna. After plastering the eastern part of the house with cow dung.
+  • hindi: उसके दोषों की शान्ति के लिए नवग्रह यज्ञ करना चाहिए। घर के पूर्व भाग में गोबर से लीप करके।
+  • gujarati: તેના દોષોની શાંતિ માટે નવગ્રહ યજ્ઞ કરવો જોઈએ. ઘરના પૂર્વ ભાગમાં ગોબરથી લીપ કરીને.
+  • keywords:
+    1.
+      navagraha yajna
+    2.
+      cow dung plaster
+    3.
+      east direction
+  • source: BPHS Ch90
+56.
+  • id: 56
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 4
+  • description: In a well-decorated place, make a heap of paddy. Five Dronas (approx 100 kg) of paddy, and half that amount of rice.
+  • hindi: सजाए गए स्थान पर धान (चावल) का ढेर बनाएँ। पाँच द्रोण (लगभग 100 किलो) धान का, और उससे आधा चावल का ढेर बनाएँ।
+  • gujarati: સજાવેલા સ્થાન પર ધાન (ચોખા)નો ઢગલો બનાવો. પાંચ દ્રોણ (લગભગ 100 કિલો) ધાનનો, અને તેનાથી અડધો ચોખાનો ઢગલો બનાવો.
+  • keywords:
+    1.
+      paddy heap
+    2.
+      rice heap
+    3.
+      five dronas
+    4.
+      decoration
+  • source: BPHS Ch90
+57.
+  • id: 57
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 5
+  • description: O best of Brahmins, make half that amount of sesame seeds. On each of the three heaps, draw an eight-petaled lotus.
+  • hindi: हे द्विजसत्तम, उससे आधा तिलों का ढेर बनाएँ। तीनों ढेरों पर अलग-अलग आठ दलों वाला कमल बनाएँ।
+  • gujarati: હે દ્વિજસત્તમ, તેનાથી અડધો તિલોનો ઢગલો બનાવો. ત્રણેય ઢગલા પર અલગ-અલગ આઠ દળોવાળું કમળ બનાવો.
+  • keywords:
+    1.
+      sesame heap
+    2.
+      eight-petaled lotus
+    3.
+      three heaps
+  • source: BPHS Ch90
+58.
+  • id: 58
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 6
+  • description: After reciting Punyahavachana, select a priest who knows dharma, knows mantras, and is skilled in propitiatory rites.
+  • hindi: पुण्याह वाचन करके फिर आचार्य को वरण करें जो धर्मज्ञ, मन्त्रवेत्ता और शान्तिकर्म में कुशल हो।
+  • gujarati: પુણ્યાહ વાચન કરીને પછી આચાર્યને વરણ કરો જે ધર્મજ્ઞ, મંત્રવેત્તા અને શાંતિકર્મમાં કુશળ હોય.
+  • keywords:
+    1.
+      punyahavachana
+    2.
+      qualified priest
+    3.
+      dharma
+    4.
+      mantras
+    5.
+      shanti karma
+  • source: BPHS Ch90
+59.
+  • id: 59
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 7
+  • description: Place beautiful, unbroken Kalashas on the heaps. Fill them with holy water, samidha, herbs, and twigs.
+  • hindi: ढेरों पर बिना छिद्र वाले सुन्दर कलश रखें। तीर्थोदक, समिधा, औषधियाँ और पल्लवों से भरें।
+  • gujarati: ઢગલા પર વિના છિદ્રવાળા સુંદર કળશ મૂકો. તીર્થોદક, સમિધા, ઔષધિઓ અને પલ્લવોથી ભરો.
+  • keywords:
+    1.
+      kalasha
+    2.
+      holy water
+    3.
+      samidha
+    4.
+      herbs
+    5.
+      twigs
+  • source: BPHS Ch90
+60.
+  • id: 60
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 8
+  • description: Add Panchagavya. Cover with two cloths. On top of the Kalasha, place a vessel covered with fine cloth.
+  • hindi: उसमें पंचगव्य डालें। दो वस्त्रों से ढकें। कलश के ऊपर बारीक वस्त्र से ढका हुआ पात्र रखें।
+  • gujarati: તેમાં પંચગવ્ય નાખો. બે વસ્ત્રોથી ઢાંકો. કળશ ઉપર બારીક વસ્ત્રથી ઢંકાયેલું પાત્ર મૂકો.
+  • keywords:
+    1.
+      panchagavya
+    2.
+      cloth covering
+    3.
+      vessel
+  • source: BPHS Ch90
+61.
+  • id: 61
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 9
+  • description: Install an idol there along with the Adhideva and Pratyadhideva. The Adhideva is the Sun and the Pratyadhideva is the Moon.
+  • hindi: वहाँ अधिदेव और प्रत्यधिदेव सहित प्रतिमा स्थापित करें। अधिदेव सूर्य हैं और प्रत्यधिदेव चन्द्र हैं।
+  • gujarati: ત્યાં અધિદેવ અને પ્રત્યધિદેવ સહિત પ્રતિમા સ્થાપિત કરો. અધિદેવ સૂર્ય છે અને પ્રત્યધિદેવ ચંદ્ર છે.
+  • keywords:
+    1.
+      idol
+    2.
+      adhideva
+    3.
+      pratyadhideva
+    4.
+      sun
+    5.
+      moon
+  • source: BPHS Ch90
+62.
+  • id: 62
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 10
+  • description: Place the Sun and Moon idols on the sides, and worship the Sankranti in the middle. Before worship, offer two cloths.
+  • hindi: सूर्य और चन्द्र की प्रतिमाएँ पार्श्व में रखें, बीच में संक्रान्ति की पूजा करें। पूजा से पहले दो वस्त्र अर्पित करें।
+  • gujarati: સૂર્ય અને ચંદ્રની પ્રતિમાઓ પાર્શ્વમાં મૂકો, વચ્ચે સંક્રાન્તિની પૂજા કરો. પૂજા પહેલાં બે વસ્ત્ર અર્પિત કરો.
+  • keywords:
+    1.
+      sun idol
+    2.
+      moon idol
+    3.
+      sankranti worship
+    4.
+      cloth offering
+  • source: BPHS Ch90
+63.
+  • id: 63
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 11
+  • description: Then worship with that mantra preceded by Vyahritis. Worship the main idol with 'Tryambaka' mantra.
+  • hindi: फिर व्याहृतियों से पहले उस मन्त्र से पूजा करें। 'त्र्यम्बक' मन्त्र से मुख्य प्रतिमा की पूजा करें।
+  • gujarati: પછી વ્યાહૃતિઓ પહેલાં તે મંત્રથી પૂજા કરો. 'ત્ર્યમ્બક' મંત્રથી મુખ્ય પ્રતિમાની પૂજા કરો.
+  • keywords:
+    1.
+      vyahrtis
+    2.
+      mantra
+    3.
+      tryambaka mantra
+    4.
+      main idol worship
+  • source: BPHS Ch90
+64.
+  • id: 64
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 12
+  • description: Worship the Sun with 'Utsurya' mantra. Worship the Moon with 'Apyayasva' mantra.
+  • hindi: 'उत्सूर्य' मन्त्र से सूर्य की पूजा करें। 'आप्यायस्व' मन्त्र से चन्द्र की पूजा करें।
+  • gujarati: 'ઉત્સૂર્ય' મંત્રથી સૂર્યની પૂજા કરો. 'આપ્યાયસ્વ' મંત્રથી ચંદ્રની પૂજા કરો.
+  • keywords:
+    1.
+      utsurya mantra
+    2.
+      sun worship
+    3.
+      apyayasva mantra
+    4.
+      moon worship
+  • source: BPHS Ch90
+65.
+  • id: 65
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 13
+  • description: Worship with 16 or 5 offerings. Touch the main idol while chanting 'Mrityunjaya' mantra.
+  • hindi: 16 या 5 उपचारों से पूजा करें। 'मृत्युंजय' मन्त्र का जप करते हुए मुख्य प्रतिमा को स्पर्श करें।
+  • gujarati: 16 કે 5 ઉપચારોથી પૂજા કરો. 'મૃત્યુંજય' મંત્રનો જપ કરતાં મુખ્ય પ્રતિમાને સ્પર્શ કરો.
+  • keywords:
+    1.
+      16 offerings
+    2.
+      5 offerings
+    3.
+      mrityunjaya mantra
+    4.
+      idol touching
+  • source: BPHS Ch90
+66.
+  • id: 66
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 14
+  • description: Chant the mantra 1008, 108, or 28 times, according to one's capacity.
+  • hindi: 1008 या 108 या 28 बार मन्त्र का जप करें, शक्ति के अनुसार।
+  • gujarati: 1008 કે 108 કે 28 વાર મંત્રનો જપ કરો, શક્તિ પ્રમાણે.
+  • keywords:
+    1.
+      1008 times
+    2.
+      108 times
+    3.
+      28 times
+    4.
+      as per capacity
+  • source: BPHS Ch90
+67.
+  • id: 67
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 15
+  • description: To the west of the Kalashas, prepare a Mandala and establish the fire. Have the fire consecrated according to one's Grihya Sutra.
+  • hindi: कलशों के पश्चिम दिशा में मण्डल बनाकर अग्नि स्थापित करें। अपने गृह्य सूत्र के अनुसार संस्कृत अग्नि कराएँ।
+  • gujarati: કળશોની પશ્ચિમ દિશામાં મંડળ બનાવીને અગ્નિ સ્થાપિત કરો. પોતાના ગૃહ્ય સૂત્ર પ્રમાણે સંસ્કૃત અગ્નિ કરાવો.
+  • keywords:
+    1.
+      west direction
+    2.
+      mandala
+    3.
+      fire establishment
+    4.
+      grihya sutra
+  • source: BPHS Ch90
+68.
+  • id: 68
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 16
+  • description: Offer samidha, ghee, and charu with 'Tryambaka' mantra. Perform Havana 1008 or 108 times.
+  • hindi: 'त्र्यम्बक' मन्त्र से समिधा, घी और चरु की आहुति दें। 1008 या 108 बार होम करें।
+  • gujarati: 'ત્ર્યમ્બક' મંત્રથી સમિધા, ઘી અને ચરુની આહુતિ આપો. 1008 કે 108 વાર હોમ કરો.
+  • keywords:
+    1.
+      tryambaka mantra
+    2.
+      samidha
+    3.
+      ghee
+    4.
+      charu
+    5.
+      108 havana
+    6.
+      1008 havana
+  • source: BPHS Ch90
+69.
+  • id: 69
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 17
+  • description: Or perform Havana 28 times according to one's capacity. Also perform Havana with sesame seeds using 'Mrityunjaya' mantra.
+  • hindi: या शक्ति अनुसार 28 बार होम करें। 'मृत्युंजय' मन्त्र से तिलों का होम कराएँ।
+  • gujarati: કે શક્તિ પ્રમાણે 28 વાર હોમ કરો. 'મૃત્યુંજય' મંત્રથી તિલોનો હોમ કરાવો.
+  • keywords:
+    1.
+      28 havana
+    2.
+      mrityunjaya mantra
+    3.
+      sesame havana
+  • source: BPHS Ch90
+70.
+  • id: 70
+  • chapter: 90
+  • chapter_title: Remedies from Sankranti Birth
+  • shloka: 18
+  • description: Then perform Svistakrit Havana and then Abhisheka. Feed Brahmins. Thus one attains peace.
+  • hindi: फिर स्विष्टकृत् होम करके अभिषेक कराएँ। ब्राह्मणों को भोजन कराएँ। इस प्रकार शान्ति प्राप्त करे।
+  • gujarati: પછી સ્વિષ્ટકૃત્ હોમ કરીને અભિષેક કરાવો. બ્રાહ્મણોને ભોજન કરાવો. આ રીતે શાંતિ પ્રાપ્ત કરે.
+  • keywords:
+    1.
+      svistakrit havana
+    2.
+      abhisheka
+    3.
+      feed brahmins
+    4.
+      peace
+  • source: BPHS Ch90
+71.
+  • id: 71
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 1
+  • description: O Brahmin, those born during a solar or lunar eclipse suffer from diseases, distress, poverty, and fear of death.
+  • hindi: हे द्विज, सूर्य या चन्द्र ग्रहण के समय जिनका जन्म होता है, उन्हें रोग, कष्ट, दरिद्रता और मृत्यु का भय रहता है।
+  • gujarati: હે દ્વિજ, સૂર્ય કે ચંદ્ર ગ્રહણ સમયે જેમનો જન્મ થાય છે, તેમને રોગ, કષ્ટ, દરિદ્રતા અને મૃત્યુનો ભય રહે છે.
+  • keywords:
+    1.
+      solar eclipse birth
+    2.
+      lunar eclipse birth
+    3.
+      diseases
+    4.
+      poverty
+    5.
+      fear of death
+  • source: BPHS Ch91
+72.
+  • id: 72
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 2
+  • description: Therefore, for the benefit of people, I describe the propitiation according to the Nakshatra in which the solar or lunar eclipse occurs.
+  • hindi: इसलिए मैं लोगों के हित के लिए शान्ति बताता हूँ। सूर्य या चन्द्र ग्रहण में जिस-जिस नक्षत्र में जन्म होता है, उसके अनुसार।
+  • gujarati: તેથી હું લોકોના હિત માટે શાંતિ કહું છું. સૂર્ય કે ચંદ્ર ગ્રહણમાં જે-જે નક્ષત્રમાં જન્મ થાય છે, તે પ્રમાણે.
+  • keywords:
+    1.
+      eclipse remedy
+    2.
+      nakshatra based
+    3.
+      solar eclipse
+    4.
+      lunar eclipse
+  • source: BPHS Ch91
+73.
+  • id: 73
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 3
+  • description: Make a golden idol of the deity of that Nakshatra. For a solar eclipse, make a golden idol of the Sun, according to one's capacity.
+  • hindi: उस नक्षत्र के देवता की सोने की प्रतिमा बनवाएँ। सूर्य ग्रहण में सूर्य की प्रतिमा सोने की बनवाएँ, शक्ति अनुसार।
+  • gujarati: તે નક્ષત્રના દેવતાની સોનાની પ્રતિમા બનાવો. સૂર્ય ગ્રહણમાં સૂર્યની પ્રતિમા સોનાની બનાવો, શક્તિ પ્રમાણે.
+  • keywords:
+    1.
+      golden idol
+    2.
+      nakshatra deity
+    3.
+      sun idol
+    4.
+      as per capacity
+  • source: BPHS Ch91
+74.
+  • id: 74
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 4
+  • description: For a lunar eclipse, make a silver idol of the Moon. Make an idol of Rahu from lead.
+  • hindi: चन्द्र ग्रहण में चाँदी से चन्द्र की प्रतिमा बनवाएँ। राहु की प्रतिमा सीसे से बनवाएँ।
+  • gujarati: ચંદ્ર ગ્રહણમાં ચાંદીથી ચંદ્રની પ્રતિમા બનાવો. રાહુની પ્રતિમા સીસાથી બનાવો.
+  • keywords:
+    1.
+      silver idol
+    2.
+      moon idol
+    3.
+      lead idol
+    4.
+      rahu idol
+  • source: BPHS Ch91
+75.
+  • id: 75
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 5
+  • description: Plaster a clean place with cow dung. There, spread a new and beautiful cloth.
+  • hindi: स्वच्छ स्थान पर गोबर से लीप करें। वहाँ नया और सुन्दर वस्त्र बिछाएँ।
+  • gujarati: સ્વચ્છ સ્થાન પર ગોબરથી લીપ કરો. ત્યાં નવું અને સુંદર વસ્ત્ર બિછાવો.
+  • keywords:
+    1.
+      cow dung plaster
+    2.
+      clean place
+    3.
+      new cloth
+  • source: BPHS Ch91
+76.
+  • id: 76
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 6
+  • description: Install all three idols in order. During a solar eclipse, give in charity things that please the Sun.
+  • hindi: तीनों प्रतिमाओं की स्थापना क्रम से करें। सूर्य ग्रहण में सूर्य को प्रसन्न करने वाली वस्तुएँ दान करें।
+  • gujarati: ત્રણેય પ્રતિમાઓની સ્થાપના ક્રમથી કરો. સૂર્ય ગ્રહણમાં સૂર્યને પ્રસન્ન કરનારી વસ્તુઓ દાન કરો.
+  • keywords:
+    1.
+      idol installation
+    2.
+      sun pleasing items
+    3.
+      charity
+  • source: BPHS Ch91
+77.
+  • id: 77
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 7
+  • description: Give red unbroken rice, red sandal, red garlands, and red clothes. During a lunar eclipse, give things that please the Moon.
+  • hindi: लाल अक्षत, लाल गन्ध, लाल माला और वस्त्र आदि दान करें। चन्द्र ग्रहण में चन्द्र को प्रसन्न करने वाली वस्तुएँ दान करें।
+  • gujarati: લાલ અક્ષત, લાલ ગંધ, લાલ માળા અને વસ્ત્ર આદિ દાન કરો. ચંદ્ર ગ્રહણમાં ચંદ્રને પ્રસન્ન કરનારી વસ્તુઓ દાન કરો.
+  • keywords:
+    1.
+      red items
+    2.
+      sun pleasing
+    3.
+      moon pleasing
+    4.
+      charity
+  • source: BPHS Ch91
+78.
+  • id: 78
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 8
+  • description: Give black flowers and clothes to Rahu. Give white sandal etc. to the deity of the Nakshatra.
+  • hindi: राहु को कृष्ण पुष्प और वस्त्र आदि दान करें। नक्षत्र के देवता को श्वेत गन्ध आदि दान करें।
+  • gujarati: રાહુને કૃષ્ણ પુષ્પ અને વસ્ત્ર આદિ દાન કરો. નક્ષત્રના દેવતાને શ્વેત ગંધ આદિ દાન કરો.
+  • keywords:
+    1.
+      black flowers
+    2.
+      black clothes
+    3.
+      rahu offering
+    4.
+      white sandal
+    5.
+      nakshatra deity
+  • source: BPHS Ch91
+79.
+  • id: 79
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 9
+  • description: The wise person should worship the Sun with 'Akrishnena' mantra. Then worship the Moon with 'Ime Deva' mantra with devotion.
+  • hindi: बुद्धिमान् व्यक्ति 'आकृष्णेन' मन्त्र से सूर्य की पूजा करे। फिर 'इमे देवा' मन्त्र से चन्द्र की पूजा करे।
+  • gujarati: બુદ્ધિમાન વ્યક્તિ 'આકૃષ્ણેન' મંત્રથી સૂર્યની પૂજા કરે. પછી 'ઇમે દેવા' મંત્રથી ચંદ્રની પૂજા કરે.
+  • keywords:
+    1.
+      akrishnena mantra
+    2.
+      sun worship
+    3.
+      ime deva mantra
+    4.
+      moon worship
+  • source: BPHS Ch91
+80.
+  • id: 80
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 10
+  • description: Worship Rahu with Durva grass using 'Kaya Nah' mantra. Perform Havana for the Sun and Moon with Palash, Khadir, and other samidha.
+  • hindi: दूर्वा (दूब) से 'कया नः' मन्त्र से राहु की पूजा करें। सूर्य और चन्द्र के लिए पलाश, खदिर आदि समिधाओं से होम करें।
+  • gujarati: દૂર્વા (દૂબ)થી 'કયા નઃ' મંત્રથી રાહુની પૂજા કરો. સૂર્ય અને ચંદ્ર માટે પલાશ, ખદિર આદિ સમિધાઓથી હોમ કરો.
+  • keywords:
+    1.
+      durva grass
+    2.
+      kaya nah mantra
+    3.
+      rahu worship
+    4.
+      palash
+    5.
+      khadir
+    6.
+      samidha
+  • source: BPHS Ch91
+81.
+  • id: 81
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 11
+  • description: O best of Brahmins, to please Rahu, perform Havana with Durva grass. Then again perform Havana for Lord Shiva with twigs of Peepal tree.
+  • hindi: हे द्विजसत्तम, राहु को प्रसन्न करने के लिए दूर्वा से होम करें। फिर ब्रह्मवृक्ष (पीपल) की समिधाओं से विश्वेश्वर (शिव) के लिए होम करें।
+  • gujarati: હે દ્વિજસત્તમ, રાહુને પ્રસન્ન કરવા માટે દૂર્વાથી હોમ કરો. પછી બ્રહ્મવૃક્ષ (પીપળ)ની સમિધાઓથી વિશ્વેશ્વર (શિવ) માટે હોમ કરો.
+  • keywords:
+    1.
+      rahu havana
+    2.
+      durva grass
+    3.
+      shiva havana
+    4.
+      peepal twigs
+  • source: BPHS Ch91
+82.
+  • id: 82
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 12
+  • description: Then perform Abhisheka of the child with water from the Kalashas. Worship the chief priest with devotion, who is peaceful and has conquered his senses.
+  • hindi: फिर कलश के जल से जातक का अभिषेक करें। आचार्य को भक्तिपूर्वक पूजा करें, जो शान्त और जितेन्द्रिय हो।
+  • gujarati: પછી કળશના જળથી જાતકનો અભિષેક કરો. આચાર્યને ભક્તિપૂર્વક પૂજા કરો, જે શાંત અને જિતેન્દ્રિય હોય.
+  • keywords:
+    1.
+      abhisheka
+    2.
+      kalasha water
+    3.
+      priest worship
+    4.
+      peaceful
+  • source: BPHS Ch91
+83.
+  • id: 83
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 13
+  • description: There, feed Brahmins according to one's capacity and prescribed procedure. Thus, the one who knows the procedure, having performed the propitiation for one born during an eclipse, bestows peace.
+  • hindi: वहाँ ब्राह्मणों को शक्ति अनुसार विधि से भोजन कराएँ। इस प्रकार ग्रहण में जन्मे की शान्ति करके विधानवित् (विधि जानने वाला) शान्ति प्रदान करे।
+  • gujarati: ત્યાં બ્રાહ્મણોને શક્તિ પ્રમાણે વિધિથી ભોજન કરાવો. આ રીતે ગ્રહણમાં જન્મેલાની શાંતિ કરીને વિધાનવિત્ (વિધિ જાણનાર) શાંતિ પ્રદાન કરે.
+  • keywords:
+    1.
+      feed brahmins
+    2.
+      as per capacity
+    3.
+      eclipse birth remedy
+    4.
+      peace
+  • source: BPHS Ch91
+84.
+  • id: 84
+  • chapter: 91
+  • chapter_title: Remedies from Birth in Eclipses
+  • shloka: 14
+  • description: Having overcome all obstacles, the person attains good fortune.
+  • hindi: सभी विघ्नों को दूर करके मनुष्य सौभाग्य प्राप्त करता है।
+  • gujarati: બધા વિઘ્નોને દૂર કરીને મનુષ્ય સૌભાગ્ય પ્રાપ્ત કરે છે.
+  • keywords:
+    1.
+      overcome obstacles
+    2.
+      good fortune
+  • source: BPHS Ch91
+85.
+  • id: 85
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 1
+  • description: Gandanta is of three types: Tithi Gandanta, Nakshatra Gandanta, and Lagna Gandanta. Destruction occurs during birth, travel, marriage, etc., in their presence.
+  • hindi: तिथि, नक्षत्र और लग्न के गण्डान्त तीन प्रकार के होते हैं। जन्म, यात्रा, विवाह आदि में इनकी उपस्थिति में विनाश होता है।
+  • gujarati: તિથિ, નક્ષત્ર અને લગ્નના ગણ્ડાન્ત ત્રણ પ્રકારના હોય છે. જન્મ, યાત્રા, લગ્ન આદિમાં તેની ઉપસ્થિતિમાં વિનાશ થાય છે.
+  • keywords:
+    1.
+      tithi gandanta
+    2.
+      nakshatra gandanta
+    3.
+      lagna gandanta
+    4.
+      destruction
+  • source: BPHS Ch92
+86.
+  • id: 86
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 2
+  • description: O Maitreya, Tithi Gandanta occurs at the junction of Poorna (full moon) and Nanda (1st, 6th, 11th) tithis, lasting four Ghatis.
+  • hindi: हे मैत्रेय, पूर्णा (पूर्णिमा, पूर्णा तिथि) और नन्दा (प्रतिपदा, षष्ठी, एकादशी) तिथियों के सन्धि में चार घड़ी का तिथि गण्डान्त होता है।
+  • gujarati: હે મૈત્રેય, પૂર્ણા (પૂર્ણિમા, પૂર્ણા તિથિ) અને નંદા (પ્રતિપદા, ષષ્ઠી, એકાદશી) તિથિઓના સંધિમાં ચાર ઘડીનો તિથિ ગણ્ડાન્ત થાય છે.
+  • keywords:
+    1.
+      tithi gandanta
+    2.
+      poorna tithi
+    3.
+      nanda tithi
+    4.
+      four ghatis
+  • source: BPHS Ch92
+87.
+  • id: 87
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 3
+  • description: Nakshatra Gandanta occurs at the junctions of Revati-Ashwini, Ashlesha-Magha, and Jyeshtha-Moola, lasting four Ghatis.
+  • hindi: रेवती-अश्विनी के सन्धि में, आश्लेषा-मघा के सन्धि में, और ज्येष्ठा-मूल के सन्धि में नक्षत्र गण्डान्त होता है। यह भी चार घड़ी का होता है।
+  • gujarati: રેવતી-અશ્વિનીના સંધિમાં, આશ્લેષા-મઘાના સંધિમાં, અને જ્યેષ્ઠા-મૂળના સંધિમાં નક્ષત્ર ગણ્ડાન્ત થાય છે. આ પણ ચાર ઘડીનો થાય છે.
+  • keywords:
+    1.
+      nakshatra gandanta
+    2.
+      revati-ashwini
+    3.
+      ashlesha-magha
+    4.
+      jyeshtha-moola
+    5.
+      four ghatis
+  • source: BPHS Ch92
+88.
+  • id: 88
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 4
+  • description: Lagna Gandanta occurs at the junctions of Pisces-Aries, Cancer-Leo, and Libra-Scorpio, lasting two Ghatis.
+  • hindi: मीन-मेष के सन्धि में, कर्क-सिंह के सन्धि में, और तुला-वृश्चिक के सन्धि में लग्न गण्डान्त होता है। यह दो घड़ी का होता है।
+  • gujarati: મીન-મેષના સંધિમાં, કર્ક-સિંહના સંધિમાં, અને તુલા-વૃશ્ચિકના સંધિમાં લગ્ન ગણ્ડાન્ત થાય છે. આ બે ઘડીનો થાય છે.
+  • keywords:
+    1.
+      lagna gandanta
+    2.
+      pisces-aries
+    3.
+      cancer-leo
+    4.
+      libra-scorpio
+    5.
+      two ghatis
+  • source: BPHS Ch92
+89.
+  • id: 89
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 5
+  • description: Among these, Abhukta Moola is considered a great obstacle. It occurs at the junction of Indra (Jyeshtha) and Rakshasa (Moola), lasting five and eight Ghatis respectively.
+  • hindi: इन्हीं में अभुक्त मूल नामक महान विघ्न वाला स्थान है। यह इन्द्र (ज्येष्ठा) और राक्षस (मूल) के सन्धि में पाँच और आठ घड़ी का होता है।
+  • gujarati: આમાં જ અભુક્ત મૂળ નામક મહાન વિઘ્નવાળું સ્થાન છે. આ ઇન્દ્ર (જ્યેષ્ઠા) અને રાક્ષસ (મૂળ)ના સંધિમાં પાંચ અને આઠ ઘડીનો થાય છે.
+  • keywords:
+    1.
+      abhukta moola
+    2.
+      jyeshtha-moola
+    3.
+      great obstacle
+    4.
+      five ghatis
+    5.
+      eight ghatis
+  • source: BPHS Ch92
+90.
+  • id: 90
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 6
+  • description: Now I describe the propitiatory procedure for one born in Gandanta. The propitiation for one born during Gandanta should be performed after the period of Sutaka.
+  • hindi: अब मैं गण्डान्त में जन्मे की शान्ति का विधान बताता हूँ। गण्डान्त काल में जन्मे की शान्ति सूतक के अन्त में करनी चाहिए।
+  • gujarati: હવે હું ગણ્ડાન્તમાં જન્મેલાની શાંતિનો વિધાન કહું છું. ગણ્ડાન્ત કાળમાં જન્મેલાની શાંતિ સૂતકના અંતમાં કરવી જોઈએ.
+  • keywords:
+    1.
+      gandanta remedy
+    2.
+      after sutaka
+    3.
+      propitiation
+  • source: BPHS Ch92
+91.
+  • id: 91
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 7
+  • description: For Tithi Gandanta, give a bull in charity; for Nakshatra Gandanta, give a cow; for Lagna Gandanta, give gold. Thus the defect is pacified.
+  • hindi: तिथि गण्डान्त में बैल का दान करें, नक्षत्र गण्डान्त में गाय का दान करें, और लग्न गण्डान्त में सोने का दान करें, दोष की शान्ति के लिए।
+  • gujarati: તિથિ ગણ્ડાન્તમાં બળદનું દાન કરો, નક્ષત્ર ગણ્ડાન્તમાં ગાયનું દાન કરો, અને લગ્ન ગણ્ડાન્તમાં સોનાનું દાન કરો, દોષની શાંતિ માટે.
+  • keywords:
+    1.
+      tithi gandanta - bull
+    2.
+      nakshatra gandanta - cow
+    3.
+      lagna gandanta - gold
+    4.
+      charity
+  • source: BPHS Ch92
+92.
+  • id: 92
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 8
+  • description: For birth in the first part of Gandanta, perform Abhisheka of the father. For birth in the second part, perform Abhisheka of the mother.
+  • hindi: गण्डान्त के पहले भाग में जन्मे की पिता का अभिषेक करें। दूसरे भाग में जन्मे की माता का अभिषेक करें।
+  • gujarati: ગણ્ડાન્તના પહેલા ભાગમાં જન્મેલાના પિતાનો અભિષેક કરો. બીજા ભાગમાં જન્મેલાની માતાનો અભિષેક કરો.
+  • keywords:
+    1.
+      first part - father abhisheka
+    2.
+      second part - mother abhisheka
+  • source: BPHS Ch92
+93.
+  • id: 93
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 9
+  • description: O best of Brahmins, according to one's capacity, make an idol of the deity of the tithi etc. from gold, half gold, or a quarter gold, and place it on a Kalasha with clothes.
+  • hindi: हे द्विजोत्तम, सोने से या उसके आधे से या उसके भी आधे से, शक्ति अनुसार, तिथि आदि के देवता की प्रतिमा बनाकर वस्त्र सहित कलश पर रखें।
+  • gujarati: હે દ્વિજોત્તમ, સોનાથી કે તેના અડધાથી કે તેના પણ અડધાથી, શક્તિ પ્રમાણે, તિથિ આદિના દેવતાની પ્રતિમા બનાવીને વસ્ત્ર સહિત કળશ પર મૂકો.
+  • keywords:
+    1.
+      gold idol
+    2.
+      half gold
+    3.
+      quarter gold
+    4.
+      kalasha
+    5.
+      as per capacity
+  • source: BPHS Ch92
+94.
+  • id: 94
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 10
+  • description: Worship the idol on the Kalasha with offerings according to one's capacity. After worship, perform Havana with samidha, food, and ghee according to prescribed procedure.
+  • hindi: शक्ति अनुसार उपचारों से कलश के ऊपर पूजा करें। पूजा के अन्त में समिधा, अन्न और घी से विधिपूर्वक होम करें।
+  • gujarati: શક્તિ પ્રમાણે ઉપચારોથી કળશ ઉપર પૂજા કરો. પૂજાના અંતે સમિધા, અન્ન અને ઘીથી વિધિપૂર્વક હોમ કરો.
+  • keywords:
+    1.
+      worship
+    2.
+      kalasha
+    3.
+      havana
+    4.
+      samidha
+    5.
+      ghee
+    6.
+      as per capacity
+  • source: BPHS Ch92
+95.
+  • id: 95
+  • chapter: 92
+  • chapter_title: Remedies from Birth in Gandanta
+  • shloka: 11
+  • description: Then feed Brahmins. Thus one is freed from the defect. One attains longevity, health, and prosperity day by day.
+  • hindi: फिर ब्राह्मणों को भोजन कराएँ। इस प्रकार दोष से मुक्त होता है। आयु, आरोग्य और ऐश्वर्य को प्रतिदिन प्राप्त करता है।
+  • gujarati: પછી બ્રાહ્મણોને ભોજન કરાવો. આ રીતે દોષથી મુક્ત થાય છે. આયુ, આરોગ્ય અને ઐશ્વર્યને પ્રતિદિન પ્રાપ્ત કરે છે.
+  • keywords:
+    1.
+      feed brahmins
+    2.
+      freed from defect
+    3.
+      longevity
+    4.
+      health
+    5.
+      prosperity
+  • source: BPHS Ch92
+96.
+  • id: 96
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 1
+  • description: The lords of Jyeshtha and Moola are Indra and Rakshasa respectively. They are great enemies, therefore their junction is considered extremely defect-causing.
+  • hindi: ज्येष्ठा और मूल के अधिपति क्रमशः इन्द्र और राक्षस हैं। इनमें महान वैर है, इसलिए इनका सन्धि अति दोषप्रद माना गया है।
+  • gujarati: જ્યેષ્ઠા અને મૂળના અધિપતિ ક્રમશઃ ઇન્દ્ર અને રાક્ષસ છે. આમાં મહાન વૈર છે, તેથી આનો સંધિ અતિ દોષપ્રદ માનવામાં આવ્યો છે.
+  • keywords:
+    1.
+      jyeshtha - indra
+    2.
+      moola - rakshasa
+    3.
+      great enmity
+    4.
+      defect-causing
+  • source: BPHS Ch93
+97.
+  • id: 97
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 2
+  • description: A son or daughter born in Abhukta Moola should be abandoned, or one should not see their face for eight years.
+  • hindi: अभुक्त मूल में जन्मे पुत्र या पुत्री को त्याग देना चाहिए, या आठ वर्ष तक उसका मुख नहीं देखना चाहिए।
+  • gujarati: અભુક્ત મૂળમાં જન્મેલા પુત્ર કે પુત્રીને ત્યાગ કરી દેવો જોઈએ, કે આઠ વર્ષ સુધી તેનું મુખ ન જોવું જોઈએ.
+  • keywords:
+    1.
+      abhukta moola
+    2.
+      abandon child
+    3.
+      not see face for eight years
+  • source: BPHS Ch93
+98.
+  • id: 98
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 3
+  • description: To remove this defect, I now describe the propitiatory procedure. Due to the abundance of defects, Moola Shanti (propitiation of Moola) is first prescribed.
+  • hindi: इस दोष के निवारण के लिए अब मैं शान्ति का विधान बताता हूँ। इसमें पहले दोषों की अधिकता के कारण मूल शान्ति कही जाती है।
+  • gujarati: આ દોષના નિવારણ માટે હવે હું શાંતિનો વિધાન કહું છું. આમાં પહેલાં દોષોની અધિકતાને કારણે મૂળ શાંતિ કહેવામાં આવે છે.
+  • keywords:
+    1.
+      abhukta moola remedy
+    2.
+      moola shanti
+    3.
+      propitiation
+  • source: BPHS Ch93
+99.
+  • id: 99
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 4
+  • description: On the twelfth day after birth, or on an auspicious day of the same Nakshatra, or in the eighth year, the one who knows the procedure should perform the propitiation.
+  • hindi: जन्म के बारहवें दिन, या उसी नक्षत्र के शुभ दिन, या आठवें वर्ष में विधान जानने वाला शान्ति करे।
+  • gujarati: જન્મના બારમા દિવસ, કે તે જ નક્ષત્રના શુભ દિવસ, કે આઠમા વર્ષે વિધાન જાણનાર શાંતિ કરે.
+  • keywords:
+    1.
+      twelfth day
+    2.
+      same nakshatra day
+    3.
+      eighth year
+    4.
+      propitiation
+  • source: BPHS Ch93
+100.
+  • id: 100
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 5
+  • description: After plastering a clean and auspicious place with cow dung, erect a canopy (Mandapa) to the east or north of one's house.
+  • hindi: स्वच्छ और शुभ स्थान पर गोबर से लीप करके, अपने घर के पूर्व या उत्तर दिशा में मण्डप बनाएँ।
+  • gujarati: સ્વચ્છ અને શુભ સ્થાન પર ગોબરથી લીપ કરીને, પોતાના ઘરના પૂર્વ કે ઉત્તર દિશામાં મંડપ બનાવો.
+  • keywords:
+    1.
+      cow dung plaster
+    2.
+      mandapa
+    3.
+      east direction
+    4.
+      north direction
+  • source: BPHS Ch93
+101.
+  • id: 101
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 6
+  • description: Erect a Mandapa with four gates, decorated with festoons. Outside it, prepare a pit (Kunda) for the planetary Yajna.
+  • hindi: चार द्वारों से युक्त, तोरण आदि से सजाया हुआ मण्डप बनाएँ। ग्रह यज्ञ के लिए उसके बाहर कुण्ड बनाएँ।
+  • gujarati: ચાર દ્વારોથી યુક્ત, તોરણ આદિથી સજાવેલો મંડપ બનાવો. ગ્રહ યજ્ઞ માટે તેની બહાર કુંડ બનાવો.
+  • keywords:
+    1.
+      four gates
+    2.
+      festoons
+    3.
+      kunda
+    4.
+      planetary yajna
+  • source: BPHS Ch93
+102.
+  • id: 102
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 7
+  • description: O best of Brahmins, according to one's capacity, make an idol of the Nakshatra deity (Rakshasa) from gold, half gold, or quarter gold.
+  • hindi: हे द्विजोत्तम, शक्ति अनुसार सोने से या उसके आधे से या उसके भी आधे से नक्षत्र देवता (राक्षस) की प्रतिमा बनवाएँ।
+  • gujarati: હે દ્વિજોત્તમ, શક્તિ પ્રમાણે સોનાથી કે તેના અડધાથી કે તેના પણ અડધાથી નક્ષત્ર દેવતા (રાક્ષસ)ની પ્રતિમા બનાવો.
+  • keywords:
+    1.
+      gold idol
+    2.
+      rakshasa idol
+    3.
+      nakshatra deity
+    4.
+      as per capacity
+  • source: BPHS Ch93
+103.
+  • id: 103
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 8
+  • description: The idol should be dark-colored, very fierce, with two heads, a wolf-like face, holding a sword and shield, and seated on a corpse.
+  • hindi: प्रतिमा श्याम वर्ण की, भयानक, दो सिरों वाली, भेड़िए के समान मुख वाली, खड्ग और चर्म धारण किए, और मुर्दे पर सवार बनवाएँ।
+  • gujarati: પ્રતિમા શ્યામ વર્ણની, ભયાનક, બે માથાવાળી, વરુ સમાન મુખવાળી, ખડ્ગ અને ચર્મ ધારણ કરેલ, અને મુરદા પર સવાર બનાવો.
+  • keywords:
+    1.
+      dark color
+    2.
+      fierce
+    3.
+      two heads
+    4.
+      wolf face
+    5.
+      sword
+    6.
+      shield
+    7.
+      seated on corpse
+  • source: BPHS Ch93
+104.
+  • id: 104
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 9
+  • description: If an idol cannot be made, a piece of gold may be installed and worshipped, for gold is determined in the scriptures to be for all deities.
+  • hindi: यदि प्रतिमा न बन सके तो सोने के टुकड़े को स्थापित करके पूजा करें, क्योंकि शास्त्रों में सोना सभी देवताओं के लिए निश्चित है।
+  • gujarati: જો પ્રતિમા ન બની શકે તો સોનાના ટુકડાને સ્થાપિત કરીને પૂજા કરો, કારણ કે શાસ્ત્રોમાં સોનું બધા દેવતાઓ માટે નિશ્ચિત છે.
+  • keywords:
+    1.
+      gold piece
+    2.
+      alternative
+    3.
+      all deities
+  • source: BPHS Ch93
+105.
+  • id: 105
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 10
+  • description: Then select a priest, perform Svastivachana (auspicious recitation). Then establish the Kalasha according to one's Grihya Sutra.
+  • hindi: फिर आचार्य को वरण करें, स्वस्तिवाचन करें। फिर अपने गृह्य सूत्र के अनुसार कलश स्थापन करें।
+  • gujarati: પછી આચાર્યને વરણ કરો, સ્વસ્તિવાચન કરો. પછી પોતાના ગૃહ્ય સૂત્ર પ્રમાણે કળશ સ્થાપન કરો.
+  • keywords:
+    1.
+      priest
+    2.
+      svastivachana
+    3.
+      kalasha
+    4.
+      grihya sutra
+  • source: BPHS Ch93
+106.
+  • id: 106
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 11
+  • description: Add Panchagavya and holy water to the Kalasha. In a pot with a hundred holes, add Shataushadhi (hundred herbs).
+  • hindi: कलश में पंचगव्य और तीर्थ जल डालें। सौ छिद्र वाले घट में शतौषधियाँ डालें।
+  • gujarati: કળશમાં પંચગવ્ય અને તીર્થ જળ નાખો. સો છિદ્રવાળા ઘટમાં શતૌષધિઓ નાખો.
+  • keywords:
+    1.
+      panchagavya
+    2.
+      holy water
+    3.
+      hundred holes pot
+    4.
+      shataushadhi
+  • source: BPHS Ch93
+107.
+  • id: 107
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 12
+  • description: Place a vessel on top of it, facing west. Invoke the deity Nairriti (Rakshasa) with white clothes, unbroken rice, etc.
+  • hindi: उसके ऊपर पात्र रखकर पश्चिम मुख करके स्थापित करें। नैरृति (राक्षस) देवता का आवाहन करें, श्वेत वस्त्र और अक्षत आदि से।
+  • gujarati: તેના ઉપર પાત્ર મૂકીને પશ્ચિમ મુખ કરીને સ્થાપિત કરો. નૈરૃતિ (રાક્ષસ) દેવતાનો આવાહન કરો, શ્વેત વસ્ત્ર અને અક્ષત આદિથી.
+  • keywords:
+    1.
+      west facing
+    2.
+      nairriti
+    3.
+      rakshasa
+    4.
+      invocation
+    5.
+      white clothes
+  • source: BPHS Ch93
+108.
+  • id: 108
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 13
+  • description: Indra is the Adhideva and water is the Pratyadhideva. Worship the main deities with the mantras of one's own Vedic branch.
+  • hindi: इन्द्र को अधिदेव और जल को प्रत्यधिदेव समझें। अपनी-अपनी शाखा के मन्त्रों से मुख्य आदि देवताओं की पूजा करें।
+  • gujarati: ઇન્દ્રને અધિદેવ અને જળને પ્રત્યધિદેવ સમજો. પોતાની-પોતાની શાખાના મંત્રોથી મુખ્ય આદિ દેવતાઓની પૂજા કરો.
+  • keywords:
+    1.
+      indra - adhideva
+    2.
+      water - pratyadhideva
+    3.
+      vedic branch mantras
+    4.
+      worship
+  • source: BPHS Ch93
+109.
+  • id: 109
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 14
+  • description: To please the deity and Adhideva, perform Havana according to prescribed procedure. With senses controlled, perform Havana 108 or 100 times.
+  • hindi: देव और अधिदेव को प्रसन्न करने के लिए विधिपूर्वक होम करें। जितेन्द्रिय होकर 108 या 100 बार होम करें।
+  • gujarati: દેવ અને અધિદેવને પ્રસન્ન કરવા માટે વિધિપૂર્વક હોમ કરો. જિતેન્દ્રિય થઈને 108 કે 100 વાર હોમ કરો.
+  • keywords:
+    1.
+      deity pleasure
+    2.
+      108 havana
+    3.
+      100 havana
+    4.
+      controlled senses
+  • source: BPHS Ch93
+110.
+  • id: 110
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 15
+  • description: To pacify death, chant the 'Tryambaka' mantra. Then pray to the deities for Abhisheka.
+  • hindi: मृत्यु की शान्ति के लिए 'त्र्यम्बक' मन्त्र का जप करें। फिर अभिषेक के लिए देवताओं की प्रार्थना करें।
+  • gujarati: મૃત્યુની શાંતિ માટે 'ત્ર્યમ્બક' મંત્રનો જપ કરો. પછી અભિષેક માટે દેવતાઓની પ્રાર્થના કરો.
+  • keywords:
+    1.
+      mrityunjaya mantra
+    2.
+      pacify death
+    3.
+      prayer
+    4.
+      abhisheka
+  • source: BPHS Ch93
+111.
+  • id: 111
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 16
+  • description: The priest, skilled in mantras, should lovingly perform Abhisheka of the man and woman seated on a Bhadrasana.
+  • hindi: भद्रासन पर बैठे स्त्री और पुरुष का मन्त्रवेत्ता आचार्य प्रीतिपूर्वक अभिषेक करें।
+  • gujarati: ભદ્રાસન પર બેઠેલા સ્ત્રી અને પુરુષનો મંત્રવેત્તા આચાર્ય પ્રીતિપૂર્વક અભિષેક કરે.
+  • keywords:
+    1.
+      bhadrasana
+    2.
+      priest
+    3.
+      abhisheka
+    4.
+      man and woman
+  • source: BPHS Ch93
+112.
+  • id: 112
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 17
+  • description: Then bathe them with Kalashas decorated with clothes and ornaments. They should wear white clothes and apply white sandal paste.
+  • hindi: फिर वस्त्र और आभूषणों से सजे कुम्भों से स्नान कराएँ। वे दोनों श्वेत वस्त्र धारण करें और श्वेत चन्दन लगाएँ।
+  • gujarati: પછી વસ્ત્ર અને આભૂષણોથી સજેલા કુંભોથી સ્નાન કરાવો. તેઓ બંને શ્વેત વસ્ત્ર ધારણ કરે અને શ્વેત ચંદન લગાવે.
+  • keywords:
+    1.
+      kalasha bath
+    2.
+      white clothes
+    3.
+      white sandal
+  • source: BPHS Ch93
+113.
+  • id: 113
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 18
+  • description: Give a milch cow to the chief priest according to one's capacity. Give Dakshina to the priests and feed the Brahmins.
+  • hindi: दूध देने वाली गाय आचार्य को दान करें, शक्ति अनुसार। ऋत्विजों को दक्षिणा दें और ब्राह्मणों को भोजन कराएँ।
+  • gujarati: દૂધ આપનારી ગાય આચાર્યને દાન કરો, શક્તિ પ્રમાણે. ઋત્વિજોને દક્ષિણા આપો અને બ્રાહ્મણોને ભોજન કરાવો.
+  • keywords:
+    1.
+      milch cow
+    2.
+      chief priest
+    3.
+      dakshina
+    4.
+      feed brahmins
+  • source: BPHS Ch93
+114.
+  • id: 114
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 19
+  • description: Whatever sin, misery, and unhappiness there is, may you consume them all and increase Lakshmi (wealth) and nourishment.
+  • hindi: जो पाप, दुःस्थिति और असुख हो, उन सबको तुम भक्षण करो और लक्ष्मी एवं पुष्टि की वृद्धि करो।
+  • gujarati: જે પાપ, દુઃસ્થિતિ અને અસુખ હોય, તે બધાંને તમે ભક્ષણ કરો અને લક્ષ્મી તથા પુષ્ટિની વૃદ્ધિ કરો.
+  • keywords:
+    1.
+      sin removal mantra
+    2.
+      misery removal
+    3.
+      wealth increase
+    4.
+      nourishment
+  • source: BPHS Ch93
+115.
+  • id: 115
+  • chapter: 93
+  • chapter_title: Remedies from Birth in Abhukta Moola
+  • shloka: 20
+  • description: With this very mantra, look into the ghee (as into a mirror). All serpent sins arising from Moola Gandanta are destroyed.
+  • hindi: इसी मन्त्र से घी में सम्यक् देखें (दर्पण की तरह)। मूल गण्डान्त से उत्पन्न सभी सर्प पाप नष्ट हो जाते हैं।
+  • gujarati: આ જ મંત્રથી ઘીમાં સમ્યક્ જુઓ (દર્પણની જેમ). મૂળ ગણ્ડાન્તથી ઉત્પન્ન બધાં સર્પ પાપ નષ્ટ થઈ જાય છે.
+  • keywords:
+    1.
+      ghee mirror
+    2.
+      serpent sins
+    3.
+      moola gandanta
+    4.
+      destroyed
+  • source: BPHS Ch93
+116.
+  • id: 116
+  • chapter: 94
+  • chapter_title: Remedies from Effects of Birth in Jyeshtha Gandanta
+  • shloka: 1
+  • description: One born in Jyeshtha Gandanta destroys his father and himself. To pacify all obstacles, I describe the propitiatory procedure for that.
+  • hindi: ज्येष्ठा गण्डान्त में जन्म लेने वाला पिता और अपना नाश करने वाला होता है। सब विघ्नों की शान्ति के लिए मैं उसकी शान्ति का विधान बताता हूँ।
+  • gujarati: જ્યેષ્ઠા ગણ્ડાન્તમાં જન્મ લેનાર પિતા અને પોતાનો નાશ કરનાર હોય છે. બધા વિઘ્નોની શાંતિ માટે હું તેની શાંતિનો વિધાન કહું છું.
+  • keywords:
+    1.
+      jyeshtha gandanta
+    2.
+      father destruction
+    3.
+      self destruction
+    4.
+      remedy
+  • source: BPHS Ch94
+117.
+  • id: 117
+  • chapter: 94
+  • chapter_title: Remedies from Effects of Birth in Jyeshtha Gandanta
+  • shloka: 2
+  • description: Everything – the Mandapa, etc. – is the same as for Moola Shanti. Indra is the deity, Agni is the Adhideva.
+  • hindi: मूल शान्ति के समान ही सब कुछ है – मण्डप आदि। इन्द्र देवता हैं, अधिदेव अग्नि हैं।
+  • gujarati: મૂળ શાંતિ સમાન જ બધું છે – મંડપ આદિ. ઇન્દ્ર દેવતા છે, અધિદેવ અગ્નિ છે.
+  • keywords:
+    1.
+      similar to moola shanti
+    2.
+      indra deity
+    3.
+      agni adhideva
+  • source: BPHS Ch94
+118.
+  • id: 118
+  • chapter: 94
+  • chapter_title: Remedies from Effects of Birth in Jyeshtha Gandanta
+  • shloka: 3
+  • description: O Brahmin, know that Rakshasa is the Pratyadhideva. According to one's capacity, make a golden idol of Indra.
+  • hindi: हे विप्र, राक्षस को प्रत्यधिदेव जानना चाहिए। शक्ति अनुसार सोने से इन्द्र की प्रतिमा बनवाएँ।
+  • gujarati: હે વિપ્ર, રાક્ષસને પ્રત્યધિદેવ જાણવો જોઈએ. શક્તિ પ્રમાણે સોનાથી ઇન્દ્રની પ્રતિમા બનાવો.
+  • keywords:
+    1.
+      rakshasa - pratyadhideva
+    2.
+      golden indra idol
+    3.
+      as per capacity
+  • source: BPHS Ch94
+119.
+  • id: 119
+  • chapter: 94
+  • chapter_title: Remedies from Effects of Birth in Jyeshtha Gandanta
+  • shloka: 4
+  • description: The Indra idol should hold Vajra and Ankusha, be divine, seated on Airavata (the elephant king). Worship it placed on a Kalasha on a heap of rice.
+  • hindi: इन्द्र की प्रतिमा वज्र और अंकुश धारण किए, दिव्य, ऐरावत (हाथी) पर सवार, चावल के ढेर पर रखे कुम्भ के ऊपर स्थापित करके पूजा करें।
+  • gujarati: ઇન્દ્રની પ્રતિમા વજ્ર અને અંકુશ ધારણ કરેલ, દિવ્ય, ઐરાવત (હાથી) પર સવાર, ચોખાના ઢગલા પર રાખેલા કુંભ ઉપર સ્થાપિત કરીને પૂજા કરો.
+  • keywords:
+    1.
+      vajra
+    2.
+      ankusha
+    3.
+      airaavata
+    4.
+      rice heap
+    5.
+      kalasha
+  • source: BPHS Ch94
+120.
+  • id: 120
+  • chapter: 94
+  • chapter_title: Remedies from Effects of Birth in Jyeshtha Gandanta
+  • shloka: 5
+  • description: Worship with sandal, flowers, unbroken rice, etc., using mantras from one's Grihya Sutra. Then perform Abhisheka, Havana, and feed Brahmins.
+  • hindi: अपने गृह्य सूत्र के मन्त्रों से गन्ध, पुष्प, अक्षत आदि से पूजा करें। फिर अभिषेक, होम और ब्राह्मण भोजन कराएँ।
+  • gujarati: પોતાના ગૃહ્ય સૂત્રના મંત્રોથી ગંધ, પુષ્પ, અક્ષત આદિથી પૂજા કરો. પછી અભિષેક, હોમ અને બ્રાહ્મણ ભોજન કરાવો.
+  • keywords:
+    1.
+      worship
+    2.
+      abhisheka
+    3.
+      havana
+    4.
+      feed brahmins
+    5.
+      grihya sutra
+  • source: BPHS Ch94
+121.
+  • id: 121
+  • chapter: 94
+  • chapter_title: Remedies from Effects of Birth in Jyeshtha Gandanta
+  • shloka: 6
+  • description: Chant Indra Sukta and Mrityunjaya mantra with devotion. Pray to Lord Indra. Then one attains peace.
+  • hindi: भक्तिपूर्वक इन्द्र सूक्त और मृत्युंजय मन्त्र का जप करें। इन्द्र देव की प्रार्थना करें। तब शान्ति प्राप्त होती है।
+  • gujarati: ભક્તિપૂર્વક ઇન્દ્ર સૂક્ત અને મૃત્યુંજય મંત્રનો જપ કરો. ઇન્દ્ર દેવની પ્રાર્થના કરો. ત્યારે શાંતિ પ્રાપ્ત થાય છે.
+  • keywords:
+    1.
+      indra sukta
+    2.
+      mrityunjaya mantra
+    3.
+      prayer to indra
+    4.
+      peace
+  • source: BPHS Ch94
+122.
+  • id: 122
+  • chapter: 94
+  • chapter_title: Remedies from Effects of Birth in Jyeshtha Gandanta
+  • shloka: 7
+  • description: If not capable, one may simply give a cow in charity. For giving a cow is superior to giving all land.
+  • hindi: यदि शक्ति न हो तो गाय का दान ही करें। क्योंकि सब भूमि के दान से गाय का दान श्रेष्ठ है।
+  • gujarati: જો શક્તિ ન હોય તો ગાયનું દાન જ કરો. કારણ કે બધી ભૂમિના દાન કરતાં ગાયનું દાન શ્રેષ્ઠ છે.
+  • keywords:
+    1.
+      cow donation
+    2.
+      simpler remedy
+    3.
+      superior charity
+  • source: BPHS Ch94
+123.
+  • id: 123
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 1
+  • description: O Brahmin, now I describe another birth defect. The birth of a daughter after three sons, or a son after three daughters, is defect-causing.
+  • hindi: हे द्विज, अब मैं एक और जन्म दोष बताता हूँ। तीन पुत्रों के बाद कन्या का जन्म, या तीन कन्याओं के बाद पुत्र का जन्म दोषकारी होता है।
+  • gujarati: હે દ્વિજ, હવે હું એક અન્ય જન્મ દોષ કહું છું. ત્રણ પુત્રો પછી કન્યાનો જન્મ, કે ત્રણ કન્યાઓ પછી પુત્રનો જન્મ દોષકારી થાય છે.
+  • keywords:
+    1.
+      daughter after three sons
+    2.
+      son after three daughters
+    3.
+      birth defect
+  • source: BPHS Ch95
+124.
+  • id: 124
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 2
+  • description: Then fear of calamity should be known for both paternal and maternal families. Therefore, propitiation should be performed according to scriptural procedure.
+  • hindi: तब पितृ और मातृ दोनों कुलों में अरिष्ट का भय जानना चाहिए। इसलिए शास्त्रानुसार विधिपूर्वक शान्ति करनी चाहिए।
+  • gujarati: ત્યારે પિતૃ અને માતૃ બંને કુળોમાં અરિષ્ટનો ભય જાણવો જોઈએ. તેથી શાસ્ત્રાનુસાર વિધિપૂર્વક શાંતિ કરવી જોઈએ.
+  • keywords:
+    1.
+      calamity fear
+    2.
+      paternal family
+    3.
+      maternal family
+    4.
+      propitiation
+  • source: BPHS Ch95
+125.
+  • id: 125
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 3
+  • description: After the period of Sutaka, or at an auspicious time on a pure day, having selected a chief priest and other priests, perform propitiation along with a planetary Yajna.
+  • hindi: सूतक के अन्त में या शुद्ध समय में, शुभ दिन में, आचार्य और ऋत्विजों को वरण करके ग्रह यज्ञ के साथ शान्ति करें।
+  • gujarati: સૂતકના અંતમાં કે શુદ્ધ સમયે, શુભ દિવસે, આચાર્ય અને ઋત્વિજોને વરણ કરીને ગ્રહ યજ્ઞ સાથે શાંતિ કરો.
+  • keywords:
+    1.
+      after sutaka
+    2.
+      auspicious day
+    3.
+      priests
+    4.
+      planetary yajna
+  • source: BPHS Ch95
+126.
+  • id: 126
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 4
+  • description: Make beautiful golden idols of Brahma, Vishnu, Mahesha, and Indra. Worship them with devotion, placed on Kalashas on heaps of grain.
+  • hindi: ब्रह्मा, विष्णु, महेश और इन्द्र की सोने की सुन्दर प्रतिमाएँ बनवाएँ। धान्य के ढेर पर रखे कलशों के ऊपर भक्तिपूर्वक पूजा करें।
+  • gujarati: બ્રહ્મા, વિષ્ણુ, મહેશ અને ઇન્દ્રની સોનાની સુંદર પ્રતિમાઓ બનાવો. ધાન્યના ઢગલા પર રાખેલા કળશો ઉપર ભક્તિપૂર્વક પૂજા કરો.
+  • keywords:
+    1.
+      brahma idol
+    2.
+      vishnu idol
+    3.
+      shiva idol
+    4.
+      indra idol
+    5.
+      gold
+    6.
+      kalasha
+    7.
+      grain heaps
+  • source: BPHS Ch95
+127.
+  • id: 127
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 5
+  • description: One person should chant the four Rudra Suktas and all the Shanti Suktas with concentration at the time of Havana.
+  • hindi: चार रुद्र सूक्त और समस्त शान्ति सूक्तों का एक व्यक्ति होम के समय समाधि सहित जप करे।
+  • gujarati: ચાર રુદ્ર સૂક્ત અને સમસ્ત શાંતિ સૂક્તોનો એક વ્યક્તિ હોમના સમયે સમાધિ સહિત જપ કરે.
+  • keywords:
+    1.
+      rudra suktas
+    2.
+      shanti suktas
+    3.
+      chanting
+    4.
+      concentration
+  • source: BPHS Ch95
+128.
+  • id: 128
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 6
+  • description: The chief priest should offer samidha, ghee, sesame seeds, and charu. Perform Havana 108, 100, or 28 times.
+  • hindi: आचार्य वहाँ समिधा, घी, तिल और चरु की आहुति दे। 108 या 100 या 28 बार होम करे।
+  • gujarati: આચાર્ય ત્યાં સમિધા, ઘી, તિલ અને ચરુની આહુતિ આપે. 108 કે 100 કે 28 વાર હોમ કરે.
+  • keywords:
+    1.
+      samidha
+    2.
+      ghee
+    3.
+      sesame seeds
+    4.
+      charu
+    5.
+      108 havana
+    6.
+      100 havana
+    7.
+      28 havana
+  • source: BPHS Ch95
+129.
+  • id: 129
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 7
+  • description: Perform Havana for Brahma and all deities with mantras from one's own Grihya Sutra. Then perform Svistakrit Havana, offer Bali, and then offer Poornahuti.
+  • hindi: ब्रह्मा आदि सब देवताओं को अपने-अपने गृह्य सूत्र के मन्त्रों से होम करें। फिर स्विष्टकृत् होम करें, बलि दें, और पूर्णाहुति दें।
+  • gujarati: બ્રહ્મા આદિ બધા દેવતાઓને પોતાના-પોતાના ગૃહ્ય સૂત્રના મંત્રોથી હોમ કરો. પછી સ્વિષ્ટકૃત્ હોમ કરો, બલિ આપો, અને પૂર્ણાહુતિ આપો.
+  • keywords:
+    1.
+      brahma
+    2.
+      all deities
+    3.
+      svistakrit havana
+    4.
+      bali
+    5.
+      poornahuti
+  • source: BPHS Ch95
+130.
+  • id: 130
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 8
+  • description: Perform Abhisheka of the child and his family. Give Dakshina to the priests and feed the Brahmins.
+  • hindi: जातक और उसके कुटुम्ब का अभिषेक कराएँ। ऋत्विजों को दक्षिणा दें और ब्राह्मणों को भोजन कराएँ।
+  • gujarati: જાતક અને તેના કુટુંબનો અભિષેક કરાવો. ઋત્વિજોને દક્ષિણા આપો અને બ્રાહ્મણોને ભોજન કરાવો.
+  • keywords:
+    1.
+      child abhisheka
+    2.
+      family abhisheka
+    3.
+      dakshina
+    4.
+      feed brahmins
+  • source: BPHS Ch95
+131.
+  • id: 131
+  • chapter: 95
+  • chapter_title: Remedies from Effects of Birth of a Daughter after 3 Sons
+  • shloka: 9
+  • description: O Maitreya, after looking into the ghee in a bronze vessel (like a mirror) and satisfying the poor and helpless, thus all calamities are destroyed by this propitiation.
+  • hindi: हे मैत्रेय, कांसे के पात्र में घी देखकर (दर्पण की तरह) और दीन-नाथों को तृप्त करके, इस प्रकार शान्ति से सब अरिष्ट नष्ट हो जाते हैं।
+  • gujarati: હે મૈત્રેય, કાંસાના પાત્રમાં ઘી જોઈને (દર્પણની જેમ) અને દીન-નાથોને તૃપ્ત કરીને, આ રીતે શાંતિથી બધાં અરિષ્ટ નષ્ટ થઈ જાય છે.
+  • keywords:
+    1.
+      ghee mirror
+    2.
+      bronze vessel
+    3.
+      satisfy poor
+    4.
+      calamities destroyed
+  • source: BPHS Ch95
+132.
+  • id: 132
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 1
+  • description: Now I shall describe the abnormalities in delivery, which cause calamity to the entire village and family.
+  • hindi: अब मैं प्रसव के विकारों का वर्णन करता हूँ, जिससे सम्पूर्ण ग्राम और कुल का अरिष्ट होता है।
+  • gujarati: હવે હું પ્રસવના વિકારોનું વર્ણન કરું છું, જેનાથી સમ્પૂર્ણ ગ્રામ અને કુળનું અરિષ્ટ થાય છે.
+  • keywords:
+    1.
+      unusual delivery
+    2.
+      calamity
+    3.
+      village
+    4.
+      family
+  • source: BPHS Ch96
+133.
+  • id: 133
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 2
+  • description: If delivery occurs too early or too late, or if the child is born with missing limbs, extra limbs, deformed, or with two heads.
+  • hindi: यदि बहुत कम या अधिक समय पर प्रसव हो, या अंगहीन या अधिक अंगों वाला, या बदरूप, या दो सिर वाला बच्चा पैदा हो।
+  • gujarati: જો ઘણા ઓછા કે વધુ સમયે પ્રસવ થાય, કે અંગહીન કે વધુ અંગોવાળું, કે બદરૂપ, કે બે માથાંવાળું બાળક જન્મે.
+  • keywords:
+    1.
+      early delivery
+    2.
+      late delivery
+    3.
+      missing limbs
+    4.
+      extra limbs
+    5.
+      deformed
+    6.
+      two heads
+  • source: BPHS Ch96
+134.
+  • id: 134
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 3
+  • description: If a woman gives birth to an animal-shaped being, or an animal gives birth to a human-shaped being – this abnormality in delivery occurs for destruction.
+  • hindi: स्त्री से पशु के आकार का, या पशु से मनुष्य के आकार का प्रसव हो – यह प्रसव का विकार विनाश के लिए उत्पन्न होता है।
+  • gujarati: સ્ત્રીથી પશુના આકારનો, કે પશુથી મનુષ્યના આકારનો પ્રસવ થાય – આ પ્રસવનો વિકાર વિનાશ માટે ઉત્પન્ન થાય છે.
+  • keywords:
+    1.
+      woman births animal
+    2.
+      animal births human
+    3.
+      destruction
+  • source: BPHS Ch96
+135.
+  • id: 135
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 4
+  • description: In whose woman or animal this abnormality occurs in delivery, great calamity befalls their family as well.
+  • hindi: जिस स्त्री या पशु के प्रसव में यह विकार हो, उसके कुल में भी महान अरिष्ट होता है।
+  • gujarati: જે સ્ત્રી કે પશુના પ્રસવમાં આ વિકાર થાય, તેના કુળમાં પણ મહાન અરિષ્ટ થાય છે.
+  • keywords:
+    1.
+      calamity to family
+    2.
+      great calamity
+  • source: BPHS Ch96
+136.
+  • id: 136
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 5
+  • description: To remove this defect, propitiation should be performed with effort. One who seeks well-being should abandon that woman, cow, or mare.
+  • hindi: इस दोष के निवारण के लिए यत्नपूर्वक शान्ति करनी चाहिए। हित चाहने वाले को स्त्री, गाय या घोड़ी का त्याग कर देना चाहिए।
+  • gujarati: આ દોષના નિવારણ માટે યત્નપૂર્વક શાંતિ કરવી જોઈએ. હિત ઇચ્છનારે સ્ત્રી, ગાય કે ઘોડીનો ત્યાગ કરી દેવો જોઈએ.
+  • keywords:
+    1.
+      abandon woman
+    2.
+      abandon cow
+    3.
+      abandon mare
+    4.
+      propitiation
+    5.
+      well-being
+  • source: BPHS Ch96
+137.
+  • id: 137
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 6
+  • description: Pregnancy or delivery in a woman's 15th or 16th year is not auspicious.
+  • hindi: स्त्री के 15वें या 16वें वर्ष में गर्भ या प्रसव शुभ के लिए नहीं होता है।
+  • gujarati: સ્ત્રીના 15મા કે 16મા વર્ષમાં ગર્ભ કે પ્રસવ શુભ માટે થતું નથી.
+  • keywords:
+    1.
+      15th year
+    2.
+      16th year
+    3.
+      inauspicious pregnancy
+  • source: BPHS Ch96
+138.
+  • id: 138
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 7
+  • description: If a cow gives birth when the Sun is in Leo, or a buffalo when the Sun is in Capricorn, it certainly destroys its master.
+  • hindi: सूर्य सिंह राशि में हो तो गाय प्रसव करे, या मकर राशि में हो तो भैंस प्रसव करे – तो वह निश्चित रूप से अपने स्वामी का नाश करती है।
+  • gujarati: સૂર્ય સિંહ રાશિમાં હોય તો ગાય પ્રસવ કરે, કે મકર રાશિમાં હોય તો ભેંસ પ્રસવ કરે – તો તે નિશ્ચિત રૂપે પોતાના સ્વામીનો નાશ કરે છે.
+  • keywords:
+    1.
+      sun in leo - cow birth
+    2.
+      sun in capricorn - buffalo birth
+    3.
+      destroys master
+  • source: BPHS Ch96
+139.
+  • id: 139
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 8
+  • description: That cow or buffalo should be given to a Brahmin, or propitiation should be performed. Worship of Brahma, Vishnu, Mahesha, and the planets should be done.
+  • hindi: उस गाय या भैंस को ब्राह्मण को दान कर देना चाहिए, या शान्ति करनी चाहिए। ब्रह्मा, विष्णु, महेश और ग्रहों की पूजा करनी चाहिए।
+  • gujarati: તે ગાય કે ભેંસને બ્રાહ્મણને દાન કરી દેવી જોઈએ, કે શાંતિ કરવી જોઈએ. બ્રહ્મા, વિષ્ણુ, મહેશ અને ગ્રહોની પૂજા કરવી જોઈએ.
+  • keywords:
+    1.
+      give to brahmin
+    2.
+      propitiation
+    3.
+      deity worship
+    4.
+      planetary worship
+  • source: BPHS Ch96
+140.
+  • id: 140
+  • chapter: 96
+  • chapter_title: Remedies from Evil Effects of Unusual Delivery
+  • shloka: 9
+  • description: Perform all Havana and other rites as for the three types of Shanti. Then the householder becomes happy and is freed from all sins.
+  • hindi: सब होम आदि कर्म त्रिविध शान्ति के समान करे। तब गृहस्थ सुखी होकर सब पापों से मुक्त हो जाता है।
+  • gujarati: બધા હોમ આદિ કર્મ ત્રિવિધ શાંતિ સમાન કરે. ત્યારે ગૃહસ્થ સુખી થઈને બધા પાપોથી મુક્ત થઈ જાય છે.
+  • keywords:
+    1.
+      havana
+    2.
+      three types of shanti
+    3.
+      happy
+    4.
+      freed from sins
+  • source: BPHS Ch96
+141.
+  • id: 141
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 1
+  • description: The scripture that was spoken by Brahma to the great sage Narada, the same was respectfully narrated by Narada to Shaunaka and others.
+  • hindi: ब्रह्मा ने जो शास्त्र नारद को कहा, वही नारद ने शौनक आदि को कहा।
+  • gujarati: બ્રહ્માએ જે શાસ્ત્ર નારદને કહ્યું, તે જ નારદે શૌનક આદિને કહ્યું.
+  • keywords:
+    1.
+      brahma to narada
+    2.
+      narada to shaunaka
+    3.
+      scripture lineage
+  • source: BPHS Ch97
+142.
+  • id: 142
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 2
+  • description: O Brahmin, as I have known it, so I have told you. This scripture should not be given to the envious nor to the critic.
+  • hindi: हे द्विज, जैसा मैंने जाना, वैसा ही तुमसे कहा। यह शास्त्र ईर्ष्यालु को नहीं देना चाहिए, न ही निन्दक को।
+  • gujarati: હે દ્વિજ, જેમ મેં જાણ્યું, તેમ જ તમને કહ્યું. આ શાસ્ત્ર ઈર્ષ્યાળુને ન આપવું જોઈએ, ન તો નિંદકને.
+  • keywords:
+    1.
+      not for envious
+    2.
+      not for critics
+    3.
+      restricted
+  • source: BPHS Ch97
+143.
+  • id: 143
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 3
+  • description: Never give it to the dull, the ill-behaved, or the ignorant. But it should be given to a friend, a devotee, and a truthful person.
+  • hindi: जड़, दुर्विनीत और अज्ञानी को कभी न दें। परन्तु मित्र, भक्त और सत्यवादी को देना चाहिए।
+  • gujarati: જડ, દુર્વિનીત અને અજ્ઞાનીને કદી ન આપો. પરંતુ મિત્ર, ભક્ત અને સત્યવાદીને આપવું જોઈએ.
+  • keywords:
+    1.
+      for friend
+    2.
+      for devotee
+    3.
+      for truthful
+    4.
+      not for dull
+    5.
+      not for ill-behaved
+  • source: BPHS Ch97
+144.
+  • id: 144
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 4
+  • description: It should be given to the intelligent, the modest, one born in a good family, and the learned. This meritorious Jyotisha Shastra is the excellent and supreme limb of the Vedas.
+  • hindi: बुद्धिमान, विनीत, सत्कुल में उत्पन्न और ज्ञानी को ही यह पुण्यदायी ज्योतिष शास्त्र, जो वेदों का अंग है, देना चाहिए।
+  • gujarati: બુદ્ધિમાન, વિનીત, સત્કુળમાં ઉત્પન્ન અને જ્ઞાનીને જ આ પુણ્યદાયી જ્યોતિષ શાસ્ત્ર, જે વેદોનો અંગ છે, આપવું જોઈએ.
+  • keywords:
+    1.
+      intelligent
+    2.
+      modest
+    3.
+      good family
+    4.
+      learned
+    5.
+      vedanga
+  • source: BPHS Ch97
+145.
+  • id: 145
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 5
+  • description: One who knows the measure of time and the positions of the planets alone truly understands this Horā Shastra, no other.
+  • hindi: जो काल का मान और ग्रहों की स्थिति जानता है, वही इस होरा शास्त्र को सम्यक् जानता है, दूसरा नहीं।
+  • gujarati: જે કાળનું માન અને ગ્રહોની સ્થિતિ જાણે છે, તે જ આ હોરા શાસ્ત્રને સમ્યક્ જાણે છે, બીજો નહીં.
+  • keywords:
+    1.
+      know time
+    2.
+      know planetary positions
+    3.
+      understand horā shastra
+  • source: BPHS Ch97
+146.
+  • id: 146
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 6
+  • description: One who knows the essence of the Horā Shastra, is truthful, and has conquered his senses – he alone declares auspicious and inauspicious results, and his words are true.
+  • hindi: जो होरा शास्त्र के अर्थ का तत्त्व जानता है, सत्यवादी है, और जितेन्द्रिय है, वही शुभ-अशुभ फल कहता है, उसका वचन सत्य होता है।
+  • gujarati: જે હોરા શાસ્ત્રના અર્થનું તત્ત્વ જાણે છે, સત્યવાદી છે, અને જિતેન્દ્રિય છે, તે જ શુભ-અશુભ ફળ કહે છે, તેનું વચન સત્ય થાય છે.
+  • keywords:
+    1.
+      knows essence
+    2.
+      truthful
+    3.
+      conquered senses
+    4.
+      true predictions
+  • source: BPHS Ch97
+147.
+  • id: 147
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 7
+  • description: Those who read this scripture with reverence, or listen to it with devotion, their longevity, strength, prosperity, and fame ever increase.
+  • hindi: जो शुश्रूषा (सेवा भाव) से इस शास्त्र को पढ़ते हैं, या भक्ति से सुनते हैं, उनकी दीर्घायु, बल, वृद्धि और यश सदा बढ़ता है।
+  • gujarati: જે શુશ્રૂષા (સેવા ભાવ)થી આ શાસ્ત્રને વાંચે છે, કે ભક્તિથી સાંભળે છે, તેમની દીર્ઘાયુ, બળ, વૃદ્ધિ અને યશ સદા વધે છે.
+  • keywords:
+    1.
+      reverence
+    2.
+      devotion
+    3.
+      longevity
+    4.
+      strength
+    5.
+      prosperity
+    6.
+      fame
+  • source: BPHS Ch97
+148.
+  • id: 148
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 8
+  • description: Thus was this wonderful Horā Shastra spoken by Parashara, containing the essence of various scriptures, in 107 chapters.
+  • hindi: इस प्रकार पराशर मुनि ने यह अद्भुत होरा शास्त्र कहा, जो 107 अध्यायों में विभिन्न शास्त्रों के सार से युक्त है।
+  • gujarati: આ રીતે પારાશર મુનિએ આ અદ્ભુત હોરા શાસ્ત્ર કહ્યું, જે 107 અધ્યાયોમાં વિવિધ શાસ્ત્રોના સારથી યુક્ત છે.
+  • keywords:
+    1.
+      parashara
+    2.
+      wonderful
+    3.
+      107 chapters
+    4.
+      essence of scriptures
+  • source: BPHS Ch97
+149.
+  • id: 149
+  • chapter: 97
+  • chapter_title: Conclusion
+  • shloka: 9
+  • description: This excellent scripture, for the welfare of the world, was spoken to the twice-born Maitreya. Since then, it has spread on earth and been received with reverence.
+  • hindi: यह श्रेष्ठ शास्त्र, जगत के हित के लिए, द्विजन्मा मैत्रेय को कहा गया। तब से यह पृथ्वी पर प्रचलित हुआ और आदर से स्वीकार किया गया।
+  • gujarati: આ શ્રેષ્ઠ શાસ્ત્ર, જગતના હિત માટે, દ્વિજન્મા મૈત્રેયને કહેવામાં આવ્યું. ત્યારથી તે પૃથ્વી પર પ્રચલિત થયું અને આદરથી સ્વીકારવામાં આવ્યું.
+  • keywords:
+    1.
+      for world welfare
+  • source: BPHS Ch97

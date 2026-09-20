@@ -1,0 +1,24 @@
+READABLE DATASET
+================================================================================
+Original file: maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.json
+Dataset number: 268 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 683 bytes
+Top-level fields: 9
+Title: Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar Divine Life Society
+Creator: Divine Life Society
+Date: —
+Description: 'Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar - Divine Life Society'
+
+CONTENT
+--------------------------------------------------------------------------------
+• title: Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar Divine Life Society
+• creator: Divine Life Society
+• date: —
+• description: 'Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar - Divine Life Society'
+• subject: Indology Books
+• identifier: SDrd_maha-lakshmi-vrata-katha-of-sri-bhavishya-purana-sankshipta-anuvada-ed.-by-divin
+• source_folder: SDrd_maha-lakshmi-vrata-katha-of-sri-bhavishya-purana-sankshipta-anuvada-ed.-by-divin
+• text: —
+• note: OCR text not available for this item in the source archive

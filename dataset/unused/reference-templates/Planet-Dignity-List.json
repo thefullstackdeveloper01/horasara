@@ -1,0 +1,11 @@
+[
+  {
+    "planet": "Sun",
+    "exaltation": {"sign": "Aries", "degree": 10},
+    "debilitation": {"sign": "Libra", "degree": 10},
+    "own_sign": ["Leo"],
+    "mooltrikona": {"sign": "Leo", "start_degree": 0, "end_degree": 20},
+    "friendly_signs": ["Aries", "Leo", "Scorpio", "Sagittarius", "Pisces"],
+    "enemy_signs": ["Taurus", "Virgo", "Capricorn", "Aquarius"]
+  }
+]

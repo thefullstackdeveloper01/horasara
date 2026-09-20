@@ -1,0 +1,365 @@
+{
+  "DIG_BEST_HOUSE": {
+    "Sun": 10,
+    "Mars": 10,
+    "Moon": 4,
+    "Venus": 4,
+    "Jupiter": 1,
+    "Mercury": 1,
+    "Saturn": 7
+  },
+  "DIG_BEST_OFFSET": {
+    "Sun": 270,
+    "Mars": 270,
+    "Moon": 90,
+    "Venus": 90,
+    "Jupiter": 0,
+    "Mercury": 0,
+    "Saturn": 180
+  },
+  "THRIB_DAY_LORDS": [
+    "Mercury",
+    "Sun",
+    "Saturn"
+  ],
+  "THRIB_NIGHT_LORDS": [
+    "Moon",
+    "Venus",
+    "Mars"
+  ],
+  "WEEKDAY_LORDS": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn"
+  ],
+  "HORA_SEQ": [
+    "Sun",
+    "Venus",
+    "Mercury",
+    "Moon",
+    "Saturn",
+    "Jupiter",
+    "Mars"
+  ],
+  "MEAN_SPEEDS": {
+    "Sun": 0.9856,
+    "Moon": 13.1764,
+    "Mars": 0.524,
+    "Mercury": 1.3833,
+    "Jupiter": 0.0831,
+    "Venus": 1.2,
+    "Saturn": 0.0335
+  },
+  "AYANA_MAX_KRANTI": 23.45,
+  "CONSTANTS": {
+    "SIGNS": [
+      "Aries",
+      "Taurus",
+      "Gemini",
+      "Cancer",
+      "Leo",
+      "Virgo",
+      "Libra",
+      "Scorpio",
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius",
+      "Pisces"
+    ],
+    "SIGN_LORDS": {
+      "Aries": "Mars",
+      "Taurus": "Venus",
+      "Gemini": "Mercury",
+      "Cancer": "Moon",
+      "Leo": "Sun",
+      "Virgo": "Mercury",
+      "Libra": "Venus",
+      "Scorpio": "Mars",
+      "Sagittarius": "Jupiter",
+      "Capricorn": "Saturn",
+      "Aquarius": "Saturn",
+      "Pisces": "Jupiter"
+    },
+    "EXALTATION": {
+      "Sun": {
+        "sign": "Aries",
+        "deg": 10
+      },
+      "Moon": {
+        "sign": "Taurus",
+        "deg": 3
+      },
+      "Mars": {
+        "sign": "Capricorn",
+        "deg": 28
+      },
+      "Mercury": {
+        "sign": "Virgo",
+        "deg": 15
+      },
+      "Jupiter": {
+        "sign": "Cancer",
+        "deg": 5
+      },
+      "Venus": {
+        "sign": "Pisces",
+        "deg": 27
+      },
+      "Saturn": {
+        "sign": "Libra",
+        "deg": 20
+      },
+      "Rahu": {
+        "sign": "Gemini",
+        "deg": 20
+      },
+      "Ketu": {
+        "sign": "Sagittarius",
+        "deg": 20
+      }
+    },
+    "DEBILITATION": {
+      "Sun": {
+        "sign": "Libra",
+        "deg": 10
+      },
+      "Moon": {
+        "sign": "Scorpio",
+        "deg": 3
+      },
+      "Mars": {
+        "sign": "Cancer",
+        "deg": 28
+      },
+      "Mercury": {
+        "sign": "Pisces",
+        "deg": 15
+      },
+      "Jupiter": {
+        "sign": "Capricorn",
+        "deg": 5
+      },
+      "Venus": {
+        "sign": "Virgo",
+        "deg": 27
+      },
+      "Saturn": {
+        "sign": "Aries",
+        "deg": 20
+      },
+      "Rahu": {
+        "sign": "Sagittarius",
+        "deg": 20
+      },
+      "Ketu": {
+        "sign": "Gemini",
+        "deg": 20
+      }
+    },
+    "OWN_SIGNS": {
+      "Sun": [
+        "Leo"
+      ],
+      "Moon": [
+        "Cancer"
+      ],
+      "Mars": [
+        "Aries",
+        "Scorpio"
+      ],
+      "Mercury": [
+        "Gemini",
+        "Virgo"
+      ],
+      "Jupiter": [
+        "Sagittarius",
+        "Pisces"
+      ],
+      "Venus": [
+        "Taurus",
+        "Libra"
+      ],
+      "Saturn": [
+        "Capricorn",
+        "Aquarius"
+      ],
+      "Rahu": [],
+      "Ketu": []
+    },
+    "MOOLATRIKONA": {
+      "Sun": {
+        "sign": "Leo",
+        "from": 0,
+        "to": 20
+      },
+      "Moon": {
+        "sign": "Taurus",
+        "from": 4,
+        "to": 20
+      },
+      "Mars": {
+        "sign": "Aries",
+        "from": 0,
+        "to": 12
+      },
+      "Mercury": {
+        "sign": "Virgo",
+        "from": 16,
+        "to": 20
+      },
+      "Jupiter": {
+        "sign": "Sagittarius",
+        "from": 0,
+        "to": 10
+      },
+      "Venus": {
+        "sign": "Libra",
+        "from": 0,
+        "to": 15
+      },
+      "Saturn": {
+        "sign": "Aquarius",
+        "from": 0,
+        "to": 20
+      }
+    },
+    "NATURAL_FRIENDS": {
+      "Sun": [
+        "Moon",
+        "Mars",
+        "Jupiter"
+      ],
+      "Moon": [
+        "Sun",
+        "Mercury"
+      ],
+      "Mars": [
+        "Sun",
+        "Moon",
+        "Jupiter"
+      ],
+      "Mercury": [
+        "Sun",
+        "Venus"
+      ],
+      "Jupiter": [
+        "Sun",
+        "Moon",
+        "Mars"
+      ],
+      "Venus": [
+        "Mercury",
+        "Saturn"
+      ],
+      "Saturn": [
+        "Mercury",
+        "Venus"
+      ],
+      "Rahu": [
+        "Saturn",
+        "Venus",
+        "Mercury"
+      ],
+      "Ketu": [
+        "Mars",
+        "Jupiter"
+      ]
+    },
+    "NATURAL_ENEMIES": {
+      "Sun": [
+        "Saturn",
+        "Venus",
+        "Rahu",
+        "Ketu"
+      ],
+      "Moon": [
+        "Rahu",
+        "Ketu"
+      ],
+      "Mars": [
+        "Mercury"
+      ],
+      "Mercury": [
+        "Moon"
+      ],
+      "Jupiter": [
+        "Mercury",
+        "Venus",
+        "Rahu",
+        "Ketu"
+      ],
+      "Venus": [
+        "Moon"
+      ],
+      "Saturn": [
+        "Sun",
+        "Moon",
+        "Mars"
+      ],
+      "Rahu": [
+        "Sun",
+        "Moon",
+        "Mars"
+      ],
+      "Ketu": [
+        "Venus",
+        "Saturn",
+        "Mercury"
+      ]
+    }
+  },
+  "DRIK_SPECIAL_ASPECTS": {
+    "_comment": "BPHS special (vishesha) drishti: exact separation in degrees at which the graha casts full 60-virupa drishti, in addition to the universal 7th (180 deg).",
+    "_source": "Brihat Parashara Hora Shastra, Drikbala Adhyaya",
+    "Mars": [
+      90,
+      210
+    ],
+    "Jupiter": [
+      120,
+      240
+    ],
+    "Saturn": [
+      60,
+      270
+    ]
+  },
+  "DRIK_NATURAL_MALEFICS": [
+    "Sun",
+    "Mars",
+    "Saturn",
+    "Rahu",
+    "Ketu"
+  ],
+  "DRIK_NATURAL_BENEFICS": [
+    "Jupiter",
+    "Venus"
+  ],
+  "DRIK_ASPECTING_BODIES": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn",
+    "Rahu",
+    "Ketu"
+  ],
+  "DRIK_CURVE_BREAKPOINTS": {
+    "_comment": "Sphuta Drishti piecewise curve breakpoints in degrees; value in virupas. Continuous by construction, peak 60 at 180.",
+    "breaks": [
+      30,
+      60,
+      90,
+      120,
+      150,
+      180,
+      300
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "030__json_files_house_calculation_methods_json",
+    "name": "JSON_Files_House-Calculation-Methods",
+    "original_file": "JSON_Files/House-Calculation-Methods.json",
+    "dataset_number": "178 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_House-Calculation-Methods.txt",
+    "source_sha256": "8d307e3e5c50b6bea810c21ebbf81d64b0e5555b548fcb462102bc590322d5ce",
+    "source_bytes": 522
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "method": "Placidus",
+        "use_case": "Western/KP System"
+      },
+      {
+        "method": "Sripati",
+        "use_case": "Traditional Vedic"
+      },
+      {
+        "method": "Equal",
+        "use_case": "When exact birth time is unknown"
+      }
+    ]
+  }
+}

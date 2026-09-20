@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "418__validation_v13_outcome_corpus_schema_json",
+    "name": "HoraSaar V13 Verified Prediction Outcome Corpus",
+    "original_file": "validation/v13/outcome-corpus.schema.json",
+    "dataset_number": "419 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v13_outcome-corpus.schema.txt",
+    "source_sha256": "810e0559f263e94a147d97fbfaf8f4588e7bf17d896b7afa8e12ffebd4915356",
+    "source_bytes": 779
+  },
+  "metadata": {
+    "title": "HoraSaar V13 Verified Prediction Outcome Corpus"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "HoraSaar V13 Verified Prediction Outcome Corpus",
+      "type": "object",
+      "required": {
+        "_items": [
+          {
+            "_text": [
+              "version"
+            ]
+          },
+          {
+            "_text": [
+              "status"
+            ]
+          },
+          {
+            "_text": [
+              "records"
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "version": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        },
+        "records": {
+          "type": "array"
+        }
+      },
+      "additionalProperties": "No"
+    }
+  }
+}

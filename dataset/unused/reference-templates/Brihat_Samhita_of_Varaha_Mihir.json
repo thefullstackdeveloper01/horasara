@@ -1,0 +1,888 @@
+{
+  "brihat_samhita": {
+    "metadata": {
+      "title": "Brihat Samhita of Varaha Mihir",
+      "alternative_titles": [
+        "Bṛhat-saṃhitā",
+        "Varāhi-saṃhitā",
+        "Great Compendium"
+      ],
+      "author": {
+        "name": "Varahamihira",
+        "alternative_names": [
+          "Varāhamihira",
+          "Varaha Mihir"
+        ],
+        "birth_death": {
+          "born": "505 CE",
+          "died": "587 CE"
+        },
+        "father": "Adityadasa",
+        "birthplace": "Ujjain, India",
+        "era": "6th century CE",
+        "court": "Nine gems of Vikramaditya's court"
+      },
+      "language": "Sanskrit",
+      "genre": "Encyclopedia",
+      "subject_areas": [
+        "Astrology",
+        "Astronomy",
+        "Architecture",
+        "Agriculture",
+        "Botany",
+        "Zoology",
+        "Perfumery",
+        "Gemology",
+        "Meteorology",
+        "Omens"
+      ],
+      "total_chapters": 106,
+      "total_verses": "< 4000 shlokas",
+      "date_composed": "6th century CE",
+      "place_composed": "Ujjain, India",
+      "commentaries": [
+        {
+          "commentator": "Utpala (Bhattotpala)",
+          "period": "10th century CE",
+          "description": "Most authoritative commentary"
+        },
+        {
+          "commentator": "Achyutananda Jha",
+          "language": "Hindi"
+        },
+        {
+          "commentator": "Suresh Chandra Mishra",
+          "language": "Hindi"
+        }
+      ],
+      "editions": [
+        {
+          "year": "1865",
+          "editor": "H. Kern",
+          "place": "Calcutta"
+        },
+        {
+          "year": "1895-1897",
+          "editor": "Sudhakara Dvivedi",
+          "place": "Varanasi",
+          "notes": "With Bhattotpala's commentary"
+        },
+        {
+          "year": "1947",
+          "translators": ["V. Subrahmanya Sastri", "M. Ramakrishna Bhat"],
+          "place": "Bangalore",
+          "notes": "Sanskrit text with English translation"
+        },
+        {
+          "year": "1981-1982",
+          "translator": "M. Ramakrishna Bhat",
+          "publisher": "Motilal Banarsidass",
+          "place": "Delhi",
+          "notes": "With exhaustive notes and literary comments"
+        }
+      ]
+    },
+    "structure": {
+      "organization": "Chapters grouped thematically",
+      "primary_divisions": [
+        {
+          "name": "Anga",
+          "description": "Divination based on planets, asterisms, and zodiac signs",
+          "chapter_range": "1-26"
+        },
+        {
+          "name": "Upanga",
+          "description": "Miscellaneous topics including architecture, agriculture, omens, etc.",
+          "chapter_range": "27-106"
+        }
+      ]
+    },
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Introduction",
+        "sanskrit_title": "Pīṭhikā",
+        "category": "Astrology",
+        "summary": "Introduction to astrology and its importance for kings and society."
+      },
+      {
+        "number": 2,
+        "title": "Canons for Astrologers",
+        "sanskrit_title": "Jyotiṣa",
+        "category": "Astrology",
+        "summary": "Qualifications and characteristics of a competent astrologer."
+      },
+      {
+        "number": 3,
+        "title": "Transit of the Sun",
+        "sanskrit_title": "Āditya-cāra",
+        "category": "Astronomy",
+        "summary": "Movements of the Sun and their effects."
+      },
+      {
+        "number": 4,
+        "title": "Transit of the Moon",
+        "sanskrit_title": "Candra-cāra",
+        "category": "Astronomy",
+        "summary": "Movements of the Moon and their effects."
+      },
+      {
+        "number": 5,
+        "title": "Course of Rahu",
+        "sanskrit_title": "Rāhu-cāra",
+        "category": "Astronomy",
+        "summary": "Movements of Rahu (lunar node) and eclipses."
+      },
+      {
+        "number": 6,
+        "title": "Transit of Mars",
+        "sanskrit_title": "Bhauma-cāra",
+        "category": "Astrology",
+        "summary": "Movements of Mars and their effects."
+      },
+      {
+        "number": 7,
+        "title": "Transit of Mercury",
+        "sanskrit_title": "Budha-cāra",
+        "category": "Astrology",
+        "summary": "Movements of Mercury and their effects."
+      },
+      {
+        "number": 8,
+        "title": "Course of Jupiter",
+        "sanskrit_title": "Bṛhaspati-cāra",
+        "category": "Astrology",
+        "summary": "Movements of Jupiter and their effects."
+      },
+      {
+        "number": 9,
+        "title": "Course of Venus",
+        "sanskrit_title": "Śukra-cāra",
+        "category": "Astrology",
+        "summary": "Movements of Venus and their effects."
+      },
+      {
+        "number": 10,
+        "title": "Transit of Saturn",
+        "sanskrit_title": "Śanaiścara-cāra",
+        "category": "Astrology",
+        "summary": "Movements of Saturn and their effects."
+      },
+      {
+        "number": 11,
+        "title": "Comets",
+        "sanskrit_title": "Ketu",
+        "category": "Astronomy",
+        "summary": "Description of comets and their portents."
+      },
+      {
+        "number": 12,
+        "title": "Canopus",
+        "sanskrit_title": "Agastya",
+        "category": "Astronomy",
+        "summary": "Rising and setting of Canopus."
+      },
+      {
+        "number": 13,
+        "title": "Course of the Seven Sages (Big Dipper)",
+        "sanskrit_title": "Saptarṣi",
+        "category": "Astronomy",
+        "summary": "Movements of the Big Dipper constellation."
+      },
+      {
+        "number": 14,
+        "title": "Divisions of Globe",
+        "sanskrit_title": "Kūrma-vibhāga",
+        "category": "Geography",
+        "summary": "Ancient geography of India divided into nine regions based on asterisms."
+      },
+      {
+        "number": 15,
+        "title": "Stellar Rulership",
+        "sanskrit_title": "Nakṣatra-vyūha",
+        "category": "Astrology",
+        "summary": "Arrangement and influence of lunar mansions."
+      },
+      {
+        "number": 16,
+        "title": "Planetary Rulership",
+        "sanskrit_title": "Graha-bhaktiyoga",
+        "category": "Astrology",
+        "summary": "Planetary worship and propitiation."
+      },
+      {
+        "number": 17,
+        "title": "Planetary Wars",
+        "sanskrit_title": "Graha-yuddha",
+        "category": "Astrology",
+        "summary": "Conjunctions and conflicts between planets."
+      },
+      {
+        "number": 18,
+        "title": "Conjunction of the Moon with Planets and Stars",
+        "sanskrit_title": "Śaśigraha-samāgama",
+        "category": "Astrology",
+        "summary": "Effects of Moon's conjunctions."
+      },
+      {
+        "number": 19,
+        "title": "Planetary Years and Effects",
+        "sanskrit_title": "Graha-varṣaphala",
+        "category": "Astrology",
+        "summary": "Yearly predictions based on planetary positions."
+      },
+      {
+        "number": 20,
+        "title": "The Planetary Triangle",
+        "sanskrit_title": "Graha-śṛṅgāṭaka",
+        "category": "Astrology",
+        "summary": "Effects of triangular planetary configurations."
+      },
+      {
+        "number": 21,
+        "title": "Pregnancy of Clouds",
+        "sanskrit_title": "Garbha-lakṣaṇa",
+        "category": "Meteorology",
+        "summary": "Formation and signs of rain-bearing clouds."
+      },
+      {
+        "number": 22,
+        "title": "Retention of Embryo",
+        "sanskrit_title": "Garbha-dhāraṇa",
+        "category": "Meteorology",
+        "summary": "Cloud retention and rainfall prediction."
+      },
+      {
+        "number": 23,
+        "title": "Rainfall",
+        "sanskrit_title": "Pravarṣaṇa",
+        "category": "Meteorology",
+        "summary": "Predictions about rainfall."
+      },
+      {
+        "number": 24,
+        "title": "The Moon's Conjunction with Rohini",
+        "sanskrit_title": "Rohiṇī-yoga",
+        "category": "Astrology",
+        "summary": "Effects of Moon's conjunction with Aldebaran."
+      },
+      {
+        "number": 25,
+        "title": "The Moon's Conjunction with Svati",
+        "sanskrit_title": "Svāti-yoga",
+        "category": "Astrology",
+        "summary": "Effects of Moon's conjunction with Arcturus."
+      },
+      {
+        "number": 26,
+        "title": "The Moon's Conjunction with Asadha",
+        "sanskrit_title": "Āṣāḍhī-yoga",
+        "category": "Astrology",
+        "summary": "Effects of Moon's conjunction with Asadha."
+      },
+      {
+        "number": 27,
+        "title": "The Wind Circle",
+        "sanskrit_title": "Vāta-cakra",
+        "category": "Meteorology",
+        "summary": "Cyclical patterns of winds."
+      },
+      {
+        "number": 28,
+        "title": "Signs of Immediate Rain",
+        "sanskrit_title": "Sadyo-varṣaṇa",
+        "category": "Meteorology",
+        "summary": "Predicting imminent rainfall."
+      },
+      {
+        "number": 29,
+        "title": "Prognostics from Flowers and Creepers",
+        "sanskrit_title": "Kusuma-latā",
+        "category": "Botany",
+        "summary": "Predictions based on flowering patterns."
+      },
+      {
+        "number": 30,
+        "title": "Indications at Dawn and Twilight",
+        "sanskrit_title": "Sandhyā-lakṣaṇa",
+        "category": "Meteorology",
+        "summary": "Colors and signs during twilight."
+      },
+      {
+        "number": 31,
+        "title": "Glow at the Horizon",
+        "sanskrit_title": "Digdāha",
+        "category": "Meteorology",
+        "summary": "Atmospheric glow phenomena."
+      },
+      {
+        "number": 32,
+        "title": "Signs of Earthquake",
+        "sanskrit_title": "Bhūkampa-lakṣaṇa",
+        "category": "Seismology",
+        "summary": "Earthquake prediction and effects."
+      },
+      {
+        "number": 33,
+        "title": "Signs of Meteors",
+        "sanskrit_title": "Ulkā",
+        "category": "Astronomy",
+        "summary": "Meteor sightings and portents."
+      },
+      {
+        "number": 34,
+        "title": "Characteristics of Halos",
+        "sanskrit_title": "Pariveṣa-lakṣaṇa",
+        "category": "Astronomy",
+        "summary": "Halos around Sun and Moon."
+      },
+      {
+        "number": 35,
+        "title": "Signs of Rainbows",
+        "sanskrit_title": "Indrāyudha-lakṣaṇa",
+        "category": "Meteorology",
+        "summary": "Rainbow phenomena and predictions."
+      },
+      {
+        "number": 36,
+        "title": "Signs of Aerial City",
+        "sanskrit_title": "Gandharvanagara-lakṣaṇa",
+        "category": "Meteorology",
+        "summary": "Mirage and atmospheric phenomena."
+      },
+      {
+        "number": 37,
+        "title": "Mock Suns",
+        "sanskrit_title": "Pratisūrya-lakṣaṇa",
+        "category": "Astronomy",
+        "summary": "Parhelia (sun dogs) and their meaning."
+      },
+      {
+        "number": 38,
+        "title": "Indications of Haze",
+        "sanskrit_title": "Rajas-lakṣaṇa",
+        "category": "Meteorology",
+        "summary": "Dust storms and haze."
+      },
+      {
+        "number": 39,
+        "title": "Symptoms of Hurricane",
+        "sanskrit_title": "Vātyā",
+        "category": "Meteorology",
+        "summary": "Cyclones and severe weather."
+      },
+      {
+        "number": 40,
+        "title": "Growth of Crops",
+        "sanskrit_title": "Sasya-jātaka",
+        "category": "Agriculture",
+        "summary": "Crop prediction based on astronomical signs."
+      },
+      {
+        "number": 41,
+        "title": "Classification of Substances",
+        "sanskrit_title": "Dravya-niścaya",
+        "category": "Economics",
+        "summary": "Classification and valuation of commodities."
+      },
+      {
+        "number": 42,
+        "title": "Fluctuations of Prices",
+        "sanskrit_title": "Mūlya-niścaya",
+        "category": "Economics",
+        "summary": "Price fluctuations based on planetary influences."
+      },
+      {
+        "number": 43,
+        "title": "Glory of Indra's Banner",
+        "sanskrit_title": "Indra-dhvaja",
+        "category": "Rituals",
+        "summary": "Indra's banner ceremony."
+      },
+      {
+        "number": 44,
+        "title": "Lustration Ceremony",
+        "sanskrit_title": "Nīrājana-vidhi",
+        "category": "Rituals",
+        "summary": "Purification rituals for kings."
+      },
+      {
+        "number": 45,
+        "title": "The Wagtail",
+        "sanskrit_title": "Khañjana-lakṣaṇa",
+        "category": "Omens",
+        "summary": "Omens from wagtail bird behavior."
+      },
+      {
+        "number": 46,
+        "title": "Portentous Phenomena",
+        "sanskrit_title": "Utpāta-adhyāya",
+        "category": "Omens",
+        "summary": "Public calamities and omens."
+      },
+      {
+        "number": 47,
+        "title": "Motley Miscellany",
+        "sanskrit_title": "Mayūra-citraka",
+        "category": "Miscellaneous",
+        "summary": "Miscellaneous topics including peacock-related omens."
+      },
+      {
+        "number": 48,
+        "title": "Royal Ablution",
+        "sanskrit_title": "Puṣya-snāna",
+        "category": "Rituals",
+        "summary": "Royal bathing ceremony during Pushya."
+      },
+      {
+        "number": 49,
+        "title": "Signs of Crowns",
+        "sanskrit_title": "Paṭṭa-lakṣaṇa",
+        "category": "Royalty",
+        "summary": "Characteristics of royal crowns."
+      },
+      {
+        "number": 50,
+        "title": "Signs of Swords",
+        "sanskrit_title": "Khaḍga-lakṣaṇa",
+        "category": "Royalty",
+        "summary": "Characteristics of swords."
+      },
+      {
+        "number": 51,
+        "title": "Science of Limbs",
+        "sanskrit_title": "Aṅga-vidyā",
+        "category": "Physiognomy",
+        "summary": "Body marks and their meanings."
+      },
+      {
+        "number": 52,
+        "title": "Characteristics of Pimples",
+        "sanskrit_title": "Piṭaka-lakṣaṇa",
+        "category": "Physiognomy",
+        "summary": "Pimples and skin marks as omens."
+      },
+      {
+        "number": 53,
+        "title": "Architecture",
+        "sanskrit_title": "Vāstu-vidyā",
+        "category": "Architecture",
+        "summary": "Principles of civil architecture and town planning."
+      },
+      {
+        "number": 54,
+        "title": "Exploration of Water Springs",
+        "sanskrit_title": "Udakārgala",
+        "category": "Hydrology",
+        "summary": "Finding underground water sources."
+      },
+      {
+        "number": 55,
+        "title": "Treatment of Trees",
+        "sanskrit_title": "Vṛkṣāyurveda",
+        "category": "Botany",
+        "summary": "Arboriculture and tree care."
+      },
+      {
+        "number": 56,
+        "title": "Description of Temples",
+        "sanskrit_title": "Prāsāda-lakṣaṇa",
+        "category": "Architecture",
+        "summary": "Temple architecture and construction."
+      },
+      {
+        "number": 57,
+        "title": "Preparation of Adamantine Glue",
+        "sanskrit_title": "Vajra-lepa-lakṣaṇa",
+        "category": "Chemistry",
+        "summary": "Making durable cement or glue."
+      },
+      {
+        "number": 58,
+        "title": "Description of Idols",
+        "sanskrit_title": "Pratimā-lakṣaṇa",
+        "category": "Iconography",
+        "summary": "Characteristics of temple idols."
+      },
+      {
+        "number": 59,
+        "title": "Entering Forest",
+        "sanskrit_title": "Vana-sampraveśa",
+        "category": "Omens",
+        "summary": "Auspicious times for entering forests."
+      },
+      {
+        "number": 60,
+        "title": "Installation of Images",
+        "sanskrit_title": "Pratimā-pratiṣṭhāpana",
+        "category": "Iconography",
+        "summary": "Consecration of temple idols."
+      },
+      {
+        "number": 61,
+        "title": "Features of Cows",
+        "sanskrit_title": "Go-lakṣaṇa",
+        "category": "Zoology",
+        "summary": "Characteristics of cows and oxen."
+      },
+      {
+        "number": 62,
+        "title": "Characteristics of Dogs",
+        "sanskrit_title": "Śva-lakṣaṇa",
+        "category": "Zoology",
+        "summary": "Characteristics of dogs."
+      },
+      {
+        "number": 63,
+        "title": "Signs of Cocks",
+        "sanskrit_title": "Kukkuṭa-lakṣaṇa",
+        "category": "Zoology",
+        "summary": "Characteristics of roosters."
+      },
+      {
+        "number": 64,
+        "title": "Characteristics of Tortoises",
+        "sanskrit_title": "Kūrma-lakṣaṇa",
+        "category": "Zoology",
+        "summary": "Characteristics of tortoises."
+      },
+      {
+        "number": 65,
+        "title": "Signs of Goats",
+        "sanskrit_title": "Chāga-lakṣaṇa",
+        "category": "Zoology",
+        "summary": "Characteristics of goats."
+      },
+      {
+        "number": 66,
+        "title": "Characteristics of Horses",
+        "sanskrit_title": "Aśva-lakṣaṇa",
+        "category": "Zoology",
+        "summary": "Characteristics of horses."
+      },
+      {
+        "number": 67,
+        "title": "Signs of Elephants",
+        "sanskrit_title": "Gaja-lakṣaṇa",
+        "category": "Zoology",
+        "summary": "Characteristics of elephants."
+      },
+      {
+        "number": 68,
+        "title": "Signs of Men",
+        "sanskrit_title": "Puruṣa-lakṣaṇa",
+        "category": "Physiognomy",
+        "summary": "Physical characteristics of men."
+      },
+      {
+        "number": 69,
+        "title": "Signs of the Great Five Men",
+        "sanskrit_title": "Pañca-puruṣa-lakṣaṇa",
+        "category": "Physiognomy",
+        "summary": "Characteristics of five types of great men."
+      },
+      {
+        "number": 70,
+        "title": "Characteristics of Maidens",
+        "sanskrit_title": "Kanyā-lakṣaṇa",
+        "category": "Physiognomy",
+        "summary": "Characteristics of young women."
+      },
+      {
+        "number": 71,
+        "title": "Omens from Slits of Garments",
+        "sanskrit_title": "Vastra-cheda-lakṣaṇa",
+        "category": "Omens",
+        "summary": "Omens from torn clothing."
+      },
+      {
+        "number": 72,
+        "title": "Signs of Chowries",
+        "sanskrit_title": "Cāmara-lakṣaṇa",
+        "category": "Royalty",
+        "summary": "Characteristics of royal whisks."
+      },
+      {
+        "number": 73,
+        "title": "Signs of Umbrellas",
+        "sanskrit_title": "Chatra-lakṣaṇa",
+        "category": "Royalty",
+        "summary": "Characteristics of royal umbrellas."
+      },
+      {
+        "number": 74,
+        "title": "Praise of Women",
+        "sanskrit_title": "Strī-praśaṃsā",
+        "category": "Sociology",
+        "summary": "Qualities and praise of women."
+      },
+      {
+        "number": 75,
+        "title": "Winning of Affection",
+        "sanskrit_title": "Saubhāgya-karaṇa",
+        "category": "Sociology",
+        "summary": "Methods for gaining affection and personality development."
+      },
+      {
+        "number": 76,
+        "title": "Erotic Recipes",
+        "sanskrit_title": "Kāndarpikā",
+        "category": "Medicine",
+        "summary": "Recipes for vitality and sexual health."
+      },
+      {
+        "number": 77,
+        "title": "Preparation of Perfumes",
+        "sanskrit_title": "Gandha-yukti",
+        "category": "Perfumery",
+        "summary": "Manufacture of perfumes and aromatics."
+      },
+      {
+        "number": 78,
+        "title": "Union of Man and Woman",
+        "sanskrit_title": "Puṃstrī-samāyoga",
+        "category": "Sociology",
+        "summary": "Sexual relations and compatibility."
+      },
+      {
+        "number": 79,
+        "title": "Signs of Couches and Seats",
+        "sanskrit_title": "Śayyā-āsana",
+        "category": "Domestic",
+        "summary": "Characteristics of beds and seats."
+      },
+      {
+        "number": 80,
+        "title": "Examination of Gems",
+        "sanskrit_title": "Muktā-lakṣaṇa",
+        "category": "Gemology",
+        "summary": "Characteristics of pearls."
+      },
+      {
+        "number": 81,
+        "title": "Signs of Pearls",
+        "sanskrit_title": "Padmarāga-lakṣaṇa",
+        "category": "Gemology",
+        "summary": "Characteristics of rubies."
+      },
+      {
+        "number": 82,
+        "title": "Signs of Rubies",
+        "sanskrit_title": "Marakata-lakṣaṇa",
+        "category": "Gemology",
+        "summary": "Characteristics of emeralds."
+      },
+      {
+        "number": 83,
+        "title": "Signs of Emeralds",
+        "sanskrit_title": "Vajra-lakṣaṇa",
+        "category": "Gemology",
+        "summary": "Characteristics of diamonds."
+      },
+      {
+        "number": 84,
+        "title": "Signs of Lamps",
+        "sanskrit_title": "Dīpa-lakṣaṇa",
+        "category": "Domestic",
+        "summary": "Characteristics of lamps and lighting."
+      },
+      {
+        "number": 85,
+        "title": "Token of Tooth Sticks",
+        "sanskrit_title": "Danta-dhāvana-kāṣṭha",
+        "category": "Hygiene",
+        "summary": "Characteristics of wood for toothbrushes."
+      },
+      {
+        "number": 86,
+        "title": "Omens through Birds and Beasts",
+        "sanskrit_title": "Śakuna",
+        "category": "Omens",
+        "summary": "Omens from bird and animal behavior."
+      },
+      {
+        "number": 87,
+        "title": "The Circle of Quarters",
+        "sanskrit_title": "Dig-cakra",
+        "category": "Omens",
+        "summary": "Directional omens."
+      },
+      {
+        "number": 88,
+        "title": "Cries of Birds and Beasts",
+        "sanskrit_title": "Vāyasādi-vākya",
+        "category": "Omens",
+        "summary": "Cries of crows and other creatures."
+      },
+      {
+        "number": 89,
+        "title": "The Circle of Dogs",
+        "sanskrit_title": "Śva-cakra",
+        "category": "Omens",
+        "summary": "Behavior of dogs as omens."
+      },
+      {
+        "number": 90,
+        "title": "The Cries of Jackals",
+        "sanskrit_title": "Śṛgāla-vākya",
+        "category": "Omens",
+        "summary": "Jackal cries and their meanings."
+      },
+      {
+        "number": 91,
+        "title": "Behaviour of Wild Animals",
+        "sanskrit_title": "Mṛga-ceṣṭā",
+        "category": "Omens",
+        "summary": "Behavior of wild animals."
+      },
+      {
+        "number": 92,
+        "title": "Intention of Cows",
+        "sanskrit_title": "Go-ceṣṭā",
+        "category": "Omens",
+        "summary": "Behavior of cows as omens."
+      },
+      {
+        "number": 93,
+        "title": "Intention of Horses",
+        "sanskrit_title": "Aśva-ceṣṭā",
+        "category": "Omens",
+        "summary": "Behavior of horses as omens."
+      },
+      {
+        "number": 94,
+        "title": "Attitude of Elephants",
+        "sanskrit_title": "Gaja-ceṣṭā",
+        "category": "Omens",
+        "summary": "Behavior of elephants as omens."
+      },
+      {
+        "number": 95,
+        "title": "Cries of Crows",
+        "sanskrit_title": "Kāka-vākya",
+        "category": "Omens",
+        "summary": "Crow calls and their meanings."
+      },
+      {
+        "number": 96,
+        "title": "Further Omens",
+        "sanskrit_title": "Śakuna-adhyāya",
+        "category": "Omens",
+        "summary": "Additional omens and signs."
+      },
+      {
+        "number": 97,
+        "title": "Time of Fruition of Effects",
+        "sanskrit_title": "Phala-prāpti-kāla",
+        "category": "Astrology",
+        "summary": "Timing of karmic effects."
+      },
+      {
+        "number": 98,
+        "title": "Functions and Properties of Asterisms",
+        "sanskrit_title": "Nakṣatra-karma",
+        "category": "Astrology",
+        "summary": "Functions of lunar mansions."
+      },
+      {
+        "number": 99,
+        "title": "Functions and Properties of Lunar Days",
+        "sanskrit_title": "Tithi-karma",
+        "category": "Astrology",
+        "summary": "Properties of lunar days."
+      },
+      {
+        "number": 100,
+        "title": "Qualities of the Karanas",
+        "sanskrit_title": "Karaṇa-guṇa",
+        "category": "Astrology",
+        "summary": "Qualities of the karanas (half-tithis)."
+      },
+      {
+        "number": 101,
+        "title": "Effects of Birth in the Asterisms",
+        "sanskrit_title": "Janma-nakṣatra-phala",
+        "category": "Astrology",
+        "summary": "Effects of birth in different lunar mansions."
+      },
+      {
+        "number": 102,
+        "title": "Division of the Zodiac",
+        "sanskrit_title": "Rāśi-vibhāga",
+        "category": "Astrology",
+        "summary": "Divisions of the zodiac."
+      },
+      {
+        "number": 103,
+        "title": "Planetary Combinations at Marriage",
+        "sanskrit_title": "Vivāha-paṭala",
+        "category": "Astrology",
+        "summary": "Auspicious planetary combinations for marriage."
+      },
+      {
+        "number": 104,
+        "title": "Transits of Planets",
+        "sanskrit_title": "Graha-gocara",
+        "category": "Astrology",
+        "summary": "Effects of planetary transits."
+      },
+      {
+        "number": 105,
+        "title": "Worship of the Stellar Day",
+        "sanskrit_title": "Rūpa-satra",
+        "category": "Astrology",
+        "summary": "Worship of stellar deities."
+      },
+      {
+        "number": 106,
+        "title": "Conclusion",
+        "sanskrit_title": "Upasaṃhāra",
+        "category": "Conclusion",
+        "summary": "Concluding remarks."
+      }
+    ],
+    "key_concepts": {
+      "scientific_approach": "Varahamihira adhered to scientific principles in astrology, quoting ancient sages but stating his own confirmed decisions.",
+      "literary_merit": "The text employs at least 63 different Sanskrit metres, with Arya being the most frequent.",
+      "influence": "The text became more popular than earlier similar texts due to its comprehensiveness and lucidity.",
+      "combinatorics": {
+        "description": "The text contains early combinatorics related to perfume blending.",
+        "verse": "ṣoḍaśake dravyagaṇe caturvikalpena bhidyamānānām | aṣṭādaśa jāyante śatāni sahitāni viṃśatyā ||",
+        "meaning": "If there are 16 types of substances, choosing 4 at a time yields 1820 types of perfumes."
+      },
+      "geographical_content": "Chapter 14 describes ancient India divided into 9 regions based on asterisms, taken from Parasara Tantra.",
+      "hydrology": "Chapter 54 (Udakārgala) describes methods for finding underground water.",
+      "arboriculture": "Chapter 55 (Vṛkṣāyurveda) covers tree planting, care, diseases, and fertilizers."
+    },
+    "historical_context": {
+      "author_background": "Varahamihira was the son of Adityadasa of Ujjain and was ranked among the nine gems of Vikramaditya's court.",
+      "date_debate": "Scholars place Varahamihira in the 5th-6th century CE. Al-Biruni confirms 505 CE as the date of his Pancha Siddhantika.",
+      "contemporaries": "He was a contemporary of the neo-Kalidasa and Amarasimha.",
+      "source_material": "He drew from earlier Samhitas by Parasara, Garga, and others, acknowledging their contributions."
+    },
+    "manuscripts": [
+      {
+        "year": "1279 CE",
+        "type": "Palm-leaf manuscript",
+        "origin": "Buddhist monastery"
+      },
+      {
+        "type": "Devanagari manuscript",
+        "origin": "Jain temple"
+      },
+      {
+        "type": "Manuscript with Utpala's commentary",
+        "script": "Grantha script"
+      }
+    ],
+    "translations": [
+      {
+        "language": "Persian",
+        "title": "Tarjamah i Barahi",
+        "translator": "Abd Al-Aziz ibn Shams ibn Baha' Nuri Dihlavwi",
+        "patron": "Delhi Sultan Firuz Shah Tughluq",
+        "period": "circa 1350-1375 CE"
+      }
+    ]
+  }
+}

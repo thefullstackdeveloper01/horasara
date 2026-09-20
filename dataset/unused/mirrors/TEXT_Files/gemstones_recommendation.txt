@@ -1,0 +1,264 @@
+READABLE DATASET
+================================================================================
+Original file: gemstones_recommendation.json
+Dataset number: 128 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 15,844 bytes
+Top-level fields: 7
+Title: Gemstones Recommendation as per Rashi and Lagna
+Description: Complete guide on which gemstones to wear, when to wear, metal to use, finger to wear, and which gemstones to avoid based on Vedic astrology.
+
+CONTENT
+--------------------------------------------------------------------------------
+• title: Gemstones Recommendation as per Rashi and Lagna
+• description: Complete guide on which gemstones to wear, when to wear, metal to use, finger to wear, and which gemstones to avoid based on Vedic astrology.
+• rules:
+  1.
+    • id: 1
+    • rashi: Mesha (Aries)
+    • rashi_lord: Mangal (Mars)
+    • lagna: Mesha Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Moonga (Red Coral) | Mars | 5 to 9 carats | Gold or Copper | Ring finger | Tuesday | Morning (Sunrise to 11 AM) | Om Ang Angarkaya Namah | Courage, energy, victory over enemies, blood purification, property gains.
+      Manik (Ruby) | Sun | 3 to 6 carats | Gold or Copper | Ring finger | Sunday | Morning | Om Ghrini Suryaya Namah | Authority, fame, leadership, confidence, good health.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Heera (Diamond) | Venus | Venus is maraka (death-inflicting) for Mesha Lagna, can cause financial loss and health issues.
+      Neelam (Blue Sapphire) | Saturn | Saturn is not a friend of Mars, may cause obstacles and delays.
+    • special_notes: Wear Moonga during Mars Mahadasha or Antardasha for best results. Ruby can be worn along with Moonga for enhanced leadership.
+  2.
+    • id: 2
+    • rashi: Vrishabha (Taurus)
+    • rashi_lord: Shukra (Venus)
+    • lagna: Vrishabha Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Heera (Diamond) | Venus | 0.5 to 1.5 carats | Platinum or Silver | Middle finger or Little finger | Friday | Morning or Evening | Om Shum Shukraya Namah | Luxury, artistic success, marital bliss, beauty, wealth.
+      Panna (Emerald) | Mercury | 4 to 6 carats | Gold or Silver | Little finger | Wednesday | Morning | Om Bum Budhaya Namah | Intelligence, business success, communication, financial gains.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Pukhraj (Yellow Sapphire) | Jupiter | Jupiter is not beneficial for Vrishabha Lagna, may cause weight gain and financial instability.
+      Moonga (Red Coral) | Mars | Mars is a malefic for Taurus, can cause accidents and disputes.
+    • special_notes: Diamond should be of good clarity and colorless. Always wear on Friday after consulting a qualified astrologer.
+  3.
+    • id: 3
+    • rashi: Mithuna (Gemini)
+    • rashi_lord: Budh (Mercury)
+    • lagna: Mithuna Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Panna (Emerald) | Mercury | 5 to 7 carats | Gold or Silver | Little finger | Wednesday | Morning (Sunrise to 10 AM) | Om Bum Budhaya Namah | Intelligence, memory, business success, communication skills.
+      Pukhraj (Yellow Sapphire) | Jupiter | 4 to 6 carats | Gold | Index finger | Thursday | Morning | Om Brim Brihaspataye Namah | Wisdom, wealth, progeny, spiritual growth, marital harmony.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Moonga (Red Coral) | Mars | Mars is a malefic for Mithuna Lagna, can cause anger issues and accidents.
+      Manik (Ruby) | Sun | Sun is a functional malefic for Gemini, can cause ego clashes and health problems.
+    • special_notes: Panna is the most important gemstone for Mithuna Rashi. It should be worn after testing its energy.
+  4.
+    • id: 4
+    • rashi: Karka (Cancer)
+    • rashi_lord: Chandra (Moon)
+    • lagna: Karka Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Moti (Pearl) | Moon | 5 to 7 carats | Silver | Little finger | Monday | Evening (After Moonrise) | Om Som Somaya Namah | Mental peace, emotional stability, mother's blessings, prosperity.
+      Panna (Emerald) | Mercury | 4 to 6 carats | Gold or Silver | Little finger | Wednesday | Morning | Om Bum Budhaya Namah | Intelligence, career growth, financial stability.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Gomed (Hessonite) | Rahu | Rahu can cause mental disturbance and anxiety for Cancer natives.
+      Lahsuniya (Cat's Eye) | Ketu | Ketu can cause detachment and emotional instability.
+    • special_notes: Pearl is the most recommended gemstone for Karka Rashi. It should be worn in silver only for best results.
+  5.
+    • id: 5
+    • rashi: Simha (Leo)
+    • rashi_lord: Surya (Sun)
+    • lagna: Simha Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Manik (Ruby) | Sun | 4 to 6 carats | Gold or Copper | Ring finger | Sunday | Morning (Sunrise) | Om Ghrini Suryaya Namah | Authority, fame, leadership, good health, father's blessings.
+      Moonga (Red Coral) | Mars | 5 to 7 carats | Gold or Copper | Ring finger | Tuesday | Morning | Om Ang Angarkaya Namah | Courage, victory over enemies, property gains, physical strength.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Heera (Diamond) | Venus | Venus is a functional malefic for Simha Lagna, can cause financial losses.
+      Neelam (Blue Sapphire) | Saturn | Saturn is an enemy of Sun, can cause career setbacks.
+    • special_notes: Ruby is the primary gemstone for Leo. It should be worn at sunrise on Sunday for maximum benefits.
+  6.
+    • id: 6
+    • rashi: Kanya (Virgo)
+    • rashi_lord: Budh (Mercury)
+    • lagna: Kanya Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Panna (Emerald) | Mercury | 5 to 7 carats | Gold or Silver | Little finger | Wednesday | Morning | Om Bum Budhaya Namah | Intelligence, analytical skills, business success, wealth.
+      Heera (Diamond) | Venus | 0.5 to 1 carat | Platinum or Silver | Middle finger | Friday | Morning | Om Shum Shukraya Namah | Luxury, artistic success, marital bliss, financial growth.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Moonga (Red Coral) | Mars | Mars is a malefic for Kanya Lagna, can cause accidents and disputes.
+      Pukhraj (Yellow Sapphire) | Jupiter | Jupiter can cause over-thinking and delays for Virgo natives.
+    • special_notes: Panna is the most important gemstone for Kanya Rashi. It enhances analytical abilities and business acumen.
+  7.
+    • id: 7
+    • rashi: Tula (Libra)
+    • rashi_lord: Shukra (Venus)
+    • lagna: Tula Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Heera (Diamond) | Venus | 0.5 to 1.5 carats | Platinum or Silver | Middle finger | Friday | Morning or Evening | Om Shum Shukraya Namah | Luxury, beauty, artistic success, marital harmony, wealth.
+      Neelam (Blue Sapphire) | Saturn | 3 to 5 carats | Silver or Panchdhatu | Middle finger | Saturday | Morning | Om Sham Shanaishcharaya Namah | Discipline, career growth, longevity, protection from enemies.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Manik (Ruby) | Sun | Sun is a functional malefic for Tula Lagna, can cause health issues.
+      Moonga (Red Coral) | Mars | Mars can cause conflicts and legal issues for Libra natives.
+    • special_notes: Tula Rashi natives should be careful with Neelam. It should only be worn after proper trial period of 3-7 days.
+  8.
+    • id: 8
+    • rashi: Vrishchika (Scorpio)
+    • rashi_lord: Mangal (Mars)
+    • lagna: Vrishchika Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Moonga (Red Coral) | Mars | 6 to 9 carats | Gold or Copper | Ring finger | Tuesday | Morning | Om Ang Angarkaya Namah | Courage, victory over enemies, property gains, physical strength.
+      Pukhraj (Yellow Sapphire) | Jupiter | 4 to 6 carats | Gold | Index finger | Thursday | Morning | Om Brim Brihaspataye Namah | Wisdom, wealth, spiritual growth, marital harmony, progeny.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Panna (Emerald) | Mercury | Mercury is a functional malefic for Vrishchika Lagna, can cause business losses.
+      Heera (Diamond) | Venus | Venus can cause financial instability and relationship issues.
+    • special_notes: Moonga is the most powerful gemstone for Vrishchika Rashi. It should be worn in gold or copper on Tuesday.
+  9.
+    • id: 9
+    • rashi: Dhanu (Sagittarius)
+    • rashi_lord: Guru (Jupiter)
+    • lagna: Dhanu Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Pukhraj (Yellow Sapphire) | Jupiter | 5 to 7 carats | Gold | Index finger | Thursday | Morning | Om Brim Brihaspataye Namah | Wisdom, wealth, spiritual growth, marital harmony, progeny, good fortune.
+      Manik (Ruby) | Sun | 3 to 5 carats | Gold or Copper | Ring finger | Sunday | Morning | Om Ghrini Suryaya Namah | Authority, fame, leadership, good health.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Heera (Diamond) | Venus | Venus is a maraka for Dhanu Lagna, can cause financial losses and health issues.
+      Neelam (Blue Sapphire) | Saturn | Saturn can cause delays and obstacles for Sagittarius natives.
+    • special_notes: Pukhraj is the most beneficial gemstone for Dhanu Rashi. It should be worn in gold on Thursday morning.
+  10.
+    • id: 10
+    • rashi: Makar (Capricorn)
+    • rashi_lord: Shani (Saturn)
+    • lagna: Makar Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Neelam (Blue Sapphire) | Saturn | 3 to 5 carats | Silver, Panchdhatu, or Iron | Middle finger | Saturday | Morning or Evening | Om Sham Shanaishcharaya Namah | Discipline, career growth, longevity, protection from enemies, land gains.
+      Heera (Diamond) | Venus | 0.5 to 1.5 carats | Platinum or Silver | Middle finger | Friday | Morning | Om Shum Shukraya Namah | Luxury, marital bliss, artistic success, financial growth.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Pukhraj (Yellow Sapphire) | Jupiter | Jupiter is a functional malefic for Makar Lagna, can cause health issues.
+      Moonga (Red Coral) | Mars | Mars can cause accidents and disputes for Capricorn natives.
+    • special_notes: Neelam is very powerful for Makar Rashi but must be tested before wearing. Wear only after proper trial period.
+  11.
+    • id: 11
+    • rashi: Kumbha (Aquarius)
+    • rashi_lord: Shani (Saturn)
+    • lagna: Kumbha Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Neelam (Blue Sapphire) | Saturn | 3 to 5 carats | Silver, Panchdhatu, or Iron | Middle finger | Saturday | Morning or Evening | Om Sham Shanaishcharaya Namah | Discipline, career growth, longevity, protection from enemies.
+      Panna (Emerald) | Mercury | 4 to 6 carats | Gold or Silver | Little finger | Wednesday | Morning | Om Bum Budhaya Namah | Intelligence, business success, communication, financial gains.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Manik (Ruby) | Sun | Sun is a functional malefic for Kumbha Lagna, can cause ego clashes.
+      Pukhraj (Yellow Sapphire) | Jupiter | Jupiter can cause over-expenditure and health issues.
+    • special_notes: Neelam is the primary gemstone for Kumbha Rashi. It should be worn on Saturday after testing.
+  12.
+    • id: 12
+    • rashi: Meena (Pisces)
+    • rashi_lord: Guru (Jupiter)
+    • lagna: Meena Lagna
+    • recommended_gemstones:
+      TABLE (2 rows)
+      name | planet | weight | metal | finger | day | time | mantra | benefits
+      ------------------------------------------------------------------------
+      Pukhraj (Yellow Sapphire) | Jupiter | 5 to 7 carats | Gold | Index finger | Thursday | Morning | Om Brim Brihaspataye Namah | Wisdom, wealth, spiritual growth, marital harmony, progeny.
+      Moonga (Red Coral) | Mars | 5 to 7 carats | Gold or Copper | Ring finger | Tuesday | Morning | Om Ang Angarkaya Namah | Courage, victory over enemies, property gains.
+    • avoid_gemstones:
+      TABLE (2 rows)
+      name | planet | reason
+      ----------------------
+      Panna (Emerald) | Mercury | Mercury is not favorable for Meena Lagna, can cause confusion and losses.
+      Heera (Diamond) | Venus | Venus can cause financial instability and relationship issues.
+    • special_notes: Pukhraj is the most beneficial gemstone for Meena Rashi. It should be worn in gold on Thursday morning.
+• general_rules:
+  TABLE (13 rows)
+  rule | importance
+  --------------------
+  Always consult a qualified Vedic astrologer before wearing any gemstone. | Critical
+  Gemstones should be natural, untreated, and free from cracks or inclusions. | High
+  Wear gemstones on the prescribed day, time, and metal for best results. | High
+  Purify the gemstone with Ganga Jal, raw milk, honey, and water before wearing. | Medium
+  Chant the associated mantra 108 times before wearing the gemstone. | High
+  Gemstones should touch the skin directly. | Medium
+  Do not wear gemstones of malefic planets for your Lagna or Rashi. | Critical
+  Test gemstones like Neelam (Blue Sapphire) for 3-7 days before permanent wearing. | High
+  Gemstones should be re-energized periodically (every 6-12 months). | Medium
+  Do not share your gemstone with anyone else. | Medium
+  Remove gemstone before bathing, sleeping (optional), or during inauspicious activities. | Low
+  Multiple gemstones can be worn if planets are friendly to each other. | Medium
+  If gemstone cracks, breaks, or falls out, replace it immediately. | High
+• finger_mapping:
+  • index_finger: Jupiter (Pukhraj)
+  • middle_finger: Saturn (Neelam) - Some traditions use for Venus too
+  • ring_finger: Sun (Manik), Mars (Moonga)
+  • little_finger: Mercury (Panna), Moon (Moti)
+  • thumb: Generally avoided for gemstones
+• day_mapping:
+  • Sunday: Sun (Manik/Ruby)
+  • Monday: Moon (Moti/Pearl)
+  • Tuesday: Mars (Moonga/Red Coral)
+  • Wednesday: Mercury (Panna/Emerald)
+  • Thursday: Jupiter (Pukhraj/Yellow Sapphire)
+  • Friday: Venus (Heera/Diamond)
+  • Saturday: Saturn (Neelam/Blue Sapphire), Rahu (Gomed/Hessonite), Ketu (Lahsuniya/Cat's Eye)
+• disclaimer: This gemstone recommendation is based on classical Vedic astrology principles. Results may vary from person to person. Always consult a qualified astrologer before wearing any gemstone. Gemstones are not a substitute for medical treatment.

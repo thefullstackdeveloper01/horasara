@@ -1,0 +1,1216 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "085__ashtakoot_json",
+    "name": "ashtakoot",
+    "original_file": "ashtakoot.json",
+    "dataset_number": "15 of 455",
+    "format": "json",
+    "source_readable_file": "ashtakoot.txt",
+    "source_sha256": "1b461153155a6a1716e7dad33e5db232b321068ef9d729179e3a0b8f971a8800",
+    "source_bytes": 5705
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "VARNA_BY_SIGN": {
+        "Cancer": "Brahmin",
+        "Scorpio": "Brahmin",
+        "Pisces": "Brahmin",
+        "Aries": "Kshatriya",
+        "Leo": "Kshatriya",
+        "Sagittarius": "Kshatriya",
+        "Taurus": "Vaishya",
+        "Virgo": "Vaishya",
+        "Capricorn": "Vaishya",
+        "Gemini": "Shudra",
+        "Libra": "Shudra",
+        "Aquarius": "Shudra"
+      },
+      "VARNA_RANK": {
+        "Brahmin": 4,
+        "Kshatriya": 3,
+        "Vaishya": 2,
+        "Shudra": 1
+      },
+      "TARA_NAMES": {
+        "_items": [
+          {
+            "_text": [
+              "Janma"
+            ]
+          },
+          {
+            "_text": [
+              "Sampat"
+            ]
+          },
+          {
+            "_text": [
+              "Vipat"
+            ]
+          },
+          {
+            "_text": [
+              "Kshema"
+            ]
+          },
+          {
+            "_text": [
+              "Pratyak"
+            ]
+          },
+          {
+            "_text": [
+              "Sadhaka"
+            ]
+          },
+          {
+            "_text": [
+              "Vadha"
+            ]
+          },
+          {
+            "_text": [
+              "Mitra"
+            ]
+          },
+          {
+            "_text": [
+              "Parama Mitra"
+            ]
+          }
+        ]
+      },
+      "NAKSHATRA_YONI": {
+        "_items": [
+          {
+            "_text": [
+              "Horse"
+            ]
+          },
+          {
+            "_text": [
+              "Elephant"
+            ]
+          },
+          {
+            "_text": [
+              "Sheep"
+            ]
+          },
+          {
+            "_text": [
+              "Serpent"
+            ]
+          },
+          {
+            "_text": [
+              "Serpent"
+            ]
+          },
+          {
+            "_text": [
+              "Dog"
+            ]
+          },
+          {
+            "_text": [
+              "Cat"
+            ]
+          },
+          {
+            "_text": [
+              "Sheep"
+            ]
+          },
+          {
+            "_text": [
+              "Cat"
+            ]
+          },
+          {
+            "_text": [
+              "Rat"
+            ]
+          },
+          {
+            "_text": [
+              "Rat"
+            ]
+          },
+          {
+            "_text": [
+              "Cow"
+            ]
+          },
+          {
+            "_text": [
+              "Buffalo"
+            ]
+          },
+          {
+            "_text": [
+              "Tiger"
+            ]
+          },
+          {
+            "_text": [
+              "Buffalo"
+            ]
+          },
+          {
+            "_text": [
+              "Tiger"
+            ]
+          },
+          {
+            "_text": [
+              "Deer"
+            ]
+          },
+          {
+            "_text": [
+              "Deer"
+            ]
+          },
+          {
+            "_text": [
+              "Dog"
+            ]
+          },
+          {
+            "_text": [
+              "Monkey"
+            ]
+          },
+          {
+            "_text": [
+              "Mongoose"
+            ]
+          },
+          {
+            "_text": [
+              "Monkey"
+            ]
+          },
+          {
+            "_text": [
+              "Lion"
+            ]
+          },
+          {
+            "_text": [
+              "Horse"
+            ]
+          },
+          {
+            "_text": [
+              "Lion"
+            ]
+          },
+          {
+            "_text": [
+              "Cow"
+            ]
+          },
+          {
+            "_text": [
+              "Elephant"
+            ]
+          }
+        ]
+      },
+      "NAKSHATRA_YONI_DIR": {
+        "_items": [
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          },
+          {
+            "_text": [
+              "Backward"
+            ]
+          },
+          {
+            "_text": [
+              "Forward"
+            ]
+          }
+        ]
+      },
+      "YONI_ENEMIES": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_text": [
+                  "Horse"
+                ]
+              },
+              {
+                "_text": [
+                  "Buffalo"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "Elephant"
+                ]
+              },
+              {
+                "_text": [
+                  "Lion"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "Deer"
+                ]
+              },
+              {
+                "_text": [
+                  "Dog"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "Cow"
+                ]
+              },
+              {
+                "_text": [
+                  "Tiger"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "Serpent"
+                ]
+              },
+              {
+                "_text": [
+                  "Mongoose"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "Rat"
+                ]
+              },
+              {
+                "_text": [
+                  "Cat"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "REL_RANK": {
+        "friend": 0,
+        "neutral": 1,
+        "enemy": 2
+      },
+      "GRAHA_MAITRI_TABLE": {
+        "friend-friend": 5,
+        "friend-neutral": 4,
+        "neutral-neutral": 3,
+        "friend-enemy": 1,
+        "neutral-enemy": 0.5,
+        "enemy-enemy": 0
+      },
+      "NAKSHATRA_GANA": {
+        "_items": [
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Rakshasa"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Manushya"
+            ]
+          },
+          {
+            "_text": [
+              "Deva"
+            ]
+          }
+        ]
+      },
+      "GANA_TABLE": {
+        "Deva": {
+          "Deva": 6,
+          "Manushya": 6,
+          "Rakshasa": 1
+        },
+        "Manushya": {
+          "Deva": 5,
+          "Manushya": 6,
+          "Rakshasa": 0
+        },
+        "Rakshasa": {
+          "Deva": 1,
+          "Manushya": 0,
+          "Rakshasa": 6
+        }
+      },
+      "NAKSHATRA_NADI": {
+        "_items": [
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Aadi"
+            ]
+          },
+          {
+            "_text": [
+              "Madhya"
+            ]
+          },
+          {
+            "_text": [
+              "Antya"
+            ]
+          }
+        ]
+      },
+      "RAJJU": {
+        "_items": [
+          {
+            "_text": [
+              "Feet"
+            ]
+          },
+          {
+            "_text": [
+              "Thigh"
+            ]
+          },
+          {
+            "_text": [
+              "Navel"
+            ]
+          },
+          {
+            "_text": [
+              "Neck"
+            ]
+          },
+          {
+            "_text": [
+              "Head"
+            ]
+          },
+          {
+            "_text": [
+              "Feet"
+            ]
+          },
+          {
+            "_text": [
+              "Thigh"
+            ]
+          },
+          {
+            "_text": [
+              "Navel"
+            ]
+          },
+          {
+            "_text": [
+              "Neck"
+            ]
+          },
+          {
+            "_text": [
+              "Head"
+            ]
+          },
+          {
+            "_text": [
+              "Feet"
+            ]
+          },
+          {
+            "_text": [
+              "Thigh"
+            ]
+          },
+          {
+            "_text": [
+              "Navel"
+            ]
+          },
+          {
+            "_text": [
+              "Neck"
+            ]
+          },
+          {
+            "_text": [
+              "Head"
+            ]
+          },
+          {
+            "_text": [
+              "Feet"
+            ]
+          },
+          {
+            "_text": [
+              "Thigh"
+            ]
+          },
+          {
+            "_text": [
+              "Navel"
+            ]
+          },
+          {
+            "_text": [
+              "Neck"
+            ]
+          },
+          {
+            "_text": [
+              "Head"
+            ]
+          },
+          {
+            "_text": [
+              "Feet"
+            ]
+          },
+          {
+            "_text": [
+              "Thigh"
+            ]
+          },
+          {
+            "_text": [
+              "Navel"
+            ]
+          },
+          {
+            "_text": [
+              "Neck"
+            ]
+          },
+          {
+            "_text": [
+              "Head"
+            ]
+          },
+          {
+            "_text": [
+              "Feet"
+            ]
+          },
+          {
+            "_text": [
+              "Thigh"
+            ]
+          }
+        ]
+      },
+      "RAJJU_SEVERITY": {
+        "Feet": 1,
+        "Thigh": 2,
+        "Navel": 3,
+        "Neck": 4,
+        "Head": 5
+      },
+      "VEDHA_PAIRS": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_text": [
+                  "0"
+                ]
+              },
+              {
+                "_text": [
+                  "19"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "18"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "17"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "16"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "15"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "14"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "13"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "26"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "20"
+                ]
+              },
+              {
+                "_text": [
+                  "23"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "21"
+                ]
+              },
+              {
+                "_text": [
+                  "22"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "PLANET_EXALT": {
+        "Sun": "Aries",
+        "Moon": "Taurus",
+        "Mars": "Capricorn",
+        "Mercury": "Virgo",
+        "Jupiter": "Cancer",
+        "Venus": "Pisces",
+        "Saturn": "Libra",
+        "Rahu": "Taurus",
+        "Ketu": "Scorpio"
+      },
+      "PLANET_DEBIL": {
+        "Sun": "Libra",
+        "Moon": "Scorpio",
+        "Mars": "Cancer",
+        "Mercury": "Pisces",
+        "Jupiter": "Capricorn",
+        "Venus": "Virgo",
+        "Saturn": "Aries",
+        "Rahu": "Scorpio",
+        "Ketu": "Taurus"
+      },
+      "PLANET_OWN": {
+        "Sun": {
+          "_items": [
+            {
+              "_text": [
+                "Leo"
+              ]
+            }
+          ]
+        },
+        "Moon": {
+          "_items": [
+            {
+              "_text": [
+                "Cancer"
+              ]
+            }
+          ]
+        },
+        "Mars": {
+          "_items": [
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Scorpio"
+              ]
+            }
+          ]
+        },
+        "Mercury": {
+          "_items": [
+            {
+              "_text": [
+                "Gemini"
+              ]
+            },
+            {
+              "_text": [
+                "Virgo"
+              ]
+            }
+          ]
+        },
+        "Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            }
+          ]
+        },
+        "Venus": {
+          "_items": [
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            }
+          ]
+        },
+        "Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            }
+          ]
+        }
+      },
+      "YONI_RELATION": {
+        "Horse|Elephant": 3,
+        "Elephant|Horse": 3,
+        "Elephant|Cow": 3,
+        "Cow|Elephant": 3,
+        "Dog|Tiger": 3,
+        "Tiger|Dog": 3,
+        "Serpent|Rat": 1,
+        "Rat|Serpent": 1,
+        "Goat|Monkey": 0,
+        "Monkey|Goat": 0,
+        "Horse|Buffalo": 0,
+        "Buffalo|Horse": 0,
+        "Elephant|Lion": 0,
+        "Lion|Elephant": 0,
+        "Serpent|Mongoose": 0,
+        "Mongoose|Serpent": 0,
+        "Dog|Deer": 0,
+        "Deer|Dog": 0,
+        "Cat|Rat": 0,
+        "Rat|Cat": 0,
+        "Cow|Tiger": 0,
+        "Tiger|Cow": 0
+      }
+    }
+  }
+}

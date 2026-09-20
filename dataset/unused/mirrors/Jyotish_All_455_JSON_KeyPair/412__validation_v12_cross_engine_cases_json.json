@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "412__validation_v12_cross_engine_cases_json",
+    "name": "validation_v12_cross-engine-cases",
+    "original_file": "validation/v12/cross-engine-cases.json",
+    "dataset_number": "412 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v12_cross-engine-cases.txt",
+    "source_sha256": "b68dd31972873195c71c3b01956211ad5c83f7bf05ffda4fa3ade28daa5ac1e1",
+    "source_bytes": 560
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "12.0.0",
+      "status": "READY_FOR_REFERENCE_IMPORTS",
+      "cases": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "note": "Empty by design. Actual competitor outputs must be imported from independently run engines."
+    }
+  }
+}

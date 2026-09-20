@@ -1,0 +1,267 @@
+[
+  {
+    "rule_id": 1,
+    "category": "Career Identification",
+    "primary_indicator": "10th house and its lord",
+    "rule": "Sign on 10th cusp and its lord's nature, position, and aspects determine career field",
+    "planet_career_mapping": {
+      "Sun": [
+        "Government",
+        "Administration",
+        "Politics",
+        "Gold trade",
+        "Healthcare (heart)",
+        "Management"
+      ],
+      "Moon": [
+        "Hospitality",
+        "Nursing",
+        "Public relations",
+        "Agriculture",
+        "Food industry",
+        "Import-export"
+      ],
+      "Mars": [
+        "Military",
+        "Police",
+        "Engineering",
+        "Surgery",
+        "Sports",
+        "Real estate",
+        "Construction"
+      ],
+      "Mercury": [
+        "IT",
+        "Accounting",
+        "Writing",
+        "Teaching",
+        "Trade",
+        "Consulting",
+        "Media",
+        "Mathematics"
+      ],
+      "Jupiter": [
+        "Teaching",
+        "Law",
+        "Finance",
+        "Consulting",
+        "Religion",
+        "Publishing",
+        "Counseling"
+      ],
+      "Venus": [
+        "Arts",
+        "Music",
+        "Entertainment",
+        "Fashion",
+        "Cosmetics",
+        "Diplomacy",
+        "Luxury goods"
+      ],
+      "Saturn": [
+        "Mining",
+        "Construction",
+        "Labor",
+        "Politics",
+        "Agriculture",
+        "Heavy industry",
+        "Judiciary"
+      ],
+      "Rahu": [
+        "Technology",
+        "Foreign service",
+        "Mass media",
+        "Research",
+        "Politics",
+        "Unconventional fields"
+      ],
+      "Ketu": [
+        "Spirituality",
+        "Occult",
+        "Research",
+        "Surgery",
+        "Military (covert)",
+        "Astrology"
+      ]
+    },
+    "strength_required": "10th lord must be strong (in own/exalted/friendly sign) for professional success",
+    "source": "BPHS, Phaladeepika"
+  },
+  {
+    "rule_id": 2,
+    "category": "Career Timing",
+    "primary_indicator": "10th lord Dasha",
+    "rule": "Significant career events occur during Dasha of 10th lord, Sun, or strong planet in 10th house",
+    "dasha_triggers": [
+      "10th lord Dasha",
+      "Sun Dasha (career/authority)",
+      "Planet in 10th house Dasha",
+      "Lagna lord Dasha (self-initiative)"
+    ],
+    "transit_triggers": [
+      "Jupiter transiting 10th house",
+      "Jupiter aspecting 10th lord",
+      "Saturn completing Sade Sati",
+      "Rahu in 10th (sudden career change)"
+    ],
+    "source": "Uttara Kalamrita, BPHS"
+  },
+  {
+    "rule_id": 3,
+    "category": "Government Service",
+    "primary_indicator": "Sun + 10th house",
+    "rule": "Sun strong in 10th, or Sun conjunct 10th lord, or Leo on 10th cusp = government career",
+    "supporting_factors": [
+      "Sun in 1st, 4th, 7th, or 10th houses",
+      "Sun exalted (Aries)",
+      "Sun in Leo",
+      "Mars assisting Sun"
+    ],
+    "challenging_factors": [
+      "Sun in 6th or 12th",
+      "Sun debilitated (Libra)",
+      "Saturn heavily afflicting Sun"
+    ],
+    "example": "Aries lagna: Sun (5th lord) in 10th house = government or politics career",
+    "source": "Saravali, classical texts"
+  },
+  {
+    "rule_id": 4,
+    "category": "Business/Trade",
+    "primary_indicator": "Mercury + Venus + 2nd + 11th lords",
+    "rule": "Mercury or Venus strong in 2nd or 10th, with connection to 11th lord = business career",
+    "supporting_factors": [
+      "Mercury in own sign (Gemini/Virgo)",
+      "Venus in 2nd or 11th",
+      "2nd and 11th lords in mutual aspect"
+    ],
+    "career_fields": [
+      "Trading",
+      "Commerce",
+      "Import/export",
+      "Entertainment business",
+      "Tech entrepreneurship"
+    ],
+    "source": "BPHS, traditional texts"
+  },
+  {
+    "rule_id": 5,
+    "category": "Arts and Entertainment",
+    "primary_indicator": "Venus + Moon + 5th house",
+    "rule": "Venus in 5th or 10th, Moon strong, 5th lord connected to 10th = arts/entertainment",
+    "supporting_factors": [
+      "Venus in Taurus/Libra/Pisces",
+      "Moon in 5th or 10th",
+      "5th and 10th lords exchanging"
+    ],
+    "career_fields": [
+      "Music",
+      "Dance",
+      "Acting",
+      "Film",
+      "Visual arts",
+      "Fashion",
+      "Design"
+    ],
+    "source": "Phaladeepika"
+  },
+  {
+    "rule_id": 6,
+    "category": "Medicine/Healthcare",
+    "primary_indicator": "Mars + Saturn + 6th house",
+    "rule": "Mars (surgery), Saturn (chronic disease), or Ketu in 6th/8th/12th with strong Lagna = medical career",
+    "supporting_factors": [
+      "Mars in 6th or 8th",
+      "Saturn in 6th",
+      "6th lord connected to 10th",
+      "Strong Scorpio or Virgo"
+    ],
+    "career_fields": [
+      "Surgery",
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Alternative healing",
+      "Psychiatry"
+    ],
+    "source": "Brihat Jataka, Saravali"
+  },
+  {
+    "rule_id": 7,
+    "category": "Spiritual/Teaching",
+    "primary_indicator": "Jupiter + 9th house + Ketu",
+    "rule": "Jupiter strong in Kendra or Trikona, 9th lord in 10th, or Ketu in spiritual house = spiritual/teaching career",
+    "supporting_factors": [
+      "Jupiter in own sign",
+      "9th and 10th lords exchanging",
+      "Ketu in 12th or 9th",
+      "Strong Sagittarius or Pisces"
+    ],
+    "career_fields": [
+      "Teaching",
+      "Religious leadership",
+      "Yoga/meditation teaching",
+      "Counseling",
+      "Philosophy"
+    ],
+    "source": "BPHS, Uttara Kalamrita"
+  },
+  {
+    "rule_id": 8,
+    "category": "Technical/Engineering",
+    "primary_indicator": "Mars + Mercury + Saturn",
+    "rule": "Mars (technical skill), Mercury (precision), Saturn (structural work) combination with 10th house",
+    "supporting_factors": [
+      "Mars in Gemini or Virgo",
+      "Mercury in Aries",
+      "Saturn-Mercury conjunction"
+    ],
+    "career_fields": [
+      "Civil engineering",
+      "Mechanical engineering",
+      "IT engineering",
+      "Architecture",
+      "Mathematics"
+    ],
+    "source": "Traditional Jyotish"
+  },
+  {
+    "rule_id": 9,
+    "category": "Law and Justice",
+    "primary_indicator": "Saturn + Jupiter + 9th house",
+    "rule": "Jupiter (law, dharma) or Saturn (justice, discipline) connected to 9th and 10th houses",
+    "supporting_factors": [
+      "Jupiter in 9th or 10th",
+      "Saturn in 9th",
+      "Libra on 9th/10th cusp"
+    ],
+    "career_fields": [
+      "Law",
+      "Judiciary",
+      "Arbitration",
+      "Legal consulting",
+      "Government legal services"
+    ],
+    "source": "Phaladeepika, classical texts"
+  },
+  {
+    "rule_id": 10,
+    "category": "Research/Science",
+    "primary_indicator": "Saturn + Rahu + 8th house",
+    "rule": "Saturn (deep analysis), Rahu (research, unconventional), 8th house (hidden knowledge) combination",
+    "supporting_factors": [
+      "Saturn in 8th or 12th",
+      "Rahu in 3rd or 10th",
+      "Ketu with Mercury"
+    ],
+    "career_fields": [
+      "Scientific research",
+      "Chemistry",
+      "Physics",
+      "Occult research",
+      "Archaeology",
+      "Forensics"
+    ],
+    "source": "Modern Jyotish interpretation"
+  }
+]

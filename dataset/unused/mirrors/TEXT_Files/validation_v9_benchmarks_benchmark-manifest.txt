@@ -1,0 +1,20 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v9/benchmarks/benchmark-manifest.json
+Dataset number: 428 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 531 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 9.0.0
+• benchmarks:
+  TABLE (4 rows)
+  id | source | status | scope
+  ----------------------------
+  ephemeris-1000 | test/fixtures/ephemeris-golden.json | wired | 1000 epochs x 7 primary planets
+  calculation-reference | dataset/validation/v9/calculation/verified-corpus.json | import-ready | 
+  research-outcomes | dataset/validation/v9/research/research-corpus.json | import-ready | 
+  cross-system |  | wired | Parashari/KP/Jaimini/Tajik/Lal Kitab reconciliation

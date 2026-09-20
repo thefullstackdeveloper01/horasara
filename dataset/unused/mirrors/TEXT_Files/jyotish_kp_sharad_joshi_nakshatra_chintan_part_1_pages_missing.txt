@@ -1,0 +1,907 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing.json
+Dataset number: 238 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 48,130 bytes
+Top-level fields: 11
+Title: Jyotish_KP_Sharad Joshi_Nakshatra chintan_part 1_pages missing
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_KP_Sharad Joshi_Nakshatra chintan_part 1_pages missing
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 51
+  • total_words: 8841
+  • text_quality:
+    • ocr_word_validity_score: 0.946
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+NAKSHATRA
+CHINTAN
+PART - 1
+BY
+SHARAD JOSHI
+
+PREFACE
+It is not my intention to increase one more book in
+your library by writtingthe same rules, giving examples.
+This is developing Science and Experience only makes it
+more perfect, and it is the duty ofthe follower to contribute
+their experiences and views regarding the present established theory. So with this regard, I have written some modified rules which I have coine across during my practical
+studies.
+This book is the mainly for the KP followers and not
+for the beginners, so keeping this in view, I have not given
+the theory of KP or the other topics, and also avoided the
+examples, except where it is needed. Those who arc well
+versed with the sidereal, tropical and KP, they will find tha(
+it is more easy to understand to modified rules than the
+present ones. And if one applys these modified rules, I think
+that, they will be able to give a clearer judgement.
+I am associated with the subject and Jyotish Bharati
+since 1979.1 have no prejudice towards any ofthe systems.
+Every system has it's own peculiarities. Late Shri
+Krishanmurty had applied the peculiarities of sidereal and
+tropical system, and established the new concept to the
+Astrological world. Today and in the coming years I am sure
+that many Astrologers will apply KP.
+With inspiration of my Parents, blessing of all my
+(•lirus and dedicated devotion of mv wife Sint. Jayshree
+
+and my son Master Chintan. I have been able to complete
+this book. 1 dedicate this book to them because it is a reality of their co-operation.
+I also thank my friend Advocate Mr. Aran Joshi who
+has provided facility to allow me to type this book from my
+hand-writen notes and my wife for taking all the responsibilities to get it published. Daxay Jakhia helped in proof
+reading of the script.
+Followers of KP and scholars of this science are welcome with positive criticisms to improve the knowledge and
+for the betterment of the science.
+SHARADC. JOSHI
+
+Chanter- 1
+RESULT S INTENSITY
+Those who believe in astrology and have experienced
+this science, know that, planets of our solar system have
+influences on the living and non-living things on earth. Planets influence human beings and all the facets of their life,
+i.e.Physicafly, Mentally, Psycologically, Spiritually etc
+The students of Astrology know that, the planet influence us through signs, aspects, constellations, houses. But
+most of the students don't know, from how and where to
+start the chart Out of the above four factors, which one
+should be considerd first and how to proceed further.
+To realise and understand which factor is more important out of these four factors, knowledge of the castingof
+the horoscope gives the clue for it We all know that, signs
+are equal division of the ecliptic, aspects by way of sidereal
+or tropical formation and constellations are the bright stars
+near the zodiac belt But all these are celestial factors.
+While we take the details of the native, we require
+the birth place, because with the help of the birth places
+latitude and longitude, we get rising and setting degree on
+the horizon and zenith - nadir for the particular hour. These
+are called the Houses or Cusps. Further divide these four
+angles into twelve unequal divisions. And these houses indicate all the facets of the life.
+
+For a particular hour, without considering the birth place,
+planetary position remain the same for all those who born
+on the same hour, in respect to the sign, aspects and the
+constellation position. But all do not have the same influence of the same position of planets if we do not considerthe
+houses .The houses show the different departments qf life
+and without any influence of a sign, planets and constellation over the house, the matter of all the houses remain the
+same for all the native. But once we enter the rising degree
+for particular hour, all these matters of the houses give different pictures to the native. The planets are bound to give
+results according to the houses position and it's natural
+karaktwa influence becomes the secondary, in this way the
+impact of the houses has more importance than the sign,
+aspects and constellation.
+Those who follow the KP system know that a particular degree is ruled by three planets i.e. sign lord, star lord
+and sub lord. Sub lord is a very sensitive factors for the
+houses. In twins horoscope only cusp sub lord gives the different pictures. Sub lord of the twelve houses decides the
+positive, negative and mixed results, through its significance.
+To judge the significance, we consider the cusp sub lord and
+star of the sub lord. But here I would like to mention that,
+out of these two factors whether which one is more important i.e. cusp sub lord or its star lord. According to personal
+experience, I feel that sub lord's position is more important
+than it's star lord. It is explained as under.
+
+In twins horoscopes there is a possibility of different
+sub on all the twelve houses. Except that there is a chance
+of the same sub lord rule over a particular cusp, particularly for Venus, Saturn, Jupiter, Rahu and Mercury. In most
+of the cases there is a different sub for all the twelve houses.
+But there are chances that this subs of the cusp ruler arc
+transiting through the same star i.e. trine to each other then
+in this situation. Because If wc blindly follow the
+significators of the sub lord's star lord, the position will remain the same according to the star lord. For eg. Suppose
+in twin horoscope native "A" is bom with rising degree Os -
+15d - 20m and native “B” has a rising degree Os - 16d -
+10m. So for native "A" Venus is the sub lord, for native
+“B” Sun is the sub lord. But their positions arc 5s - 24d -
+15m and 5s - 25d - 10m respectively. So, Mars becomes the
+star lord for both the planets i.e. sub lords.
+Thus wc can say that for native A - Venus is lord of
+2nd and 7tb for Aries asc and it's star lord Mars is lord of
+1st and 8th houses. For the other native - Sun sub lord is
+the lord of the 5th house in aries asc. it's star lord is Mars
+who is lord of 1st and 8th houses.
+Thus, from the above example we can see that, the
+star lord's position remains the same for both the charts,
+while the sub positons are different in both the charts. This
+difference gives a more clear picture of the chart. According to me, the sub lord of the cusp position is more important than the star lord's of this sub lord.
+
+To judge any matter, we go through the particular
+house's sub lord and it's significance shows the positive,
+negative and mixed results for that particular matter.For
+example suppose for health - 1st house sub lord signify the
+6th , 8th or 12th house or vice versa 6th, 8th or 12th house
+sub lord signify the 1st housc.For marriage 7th house sub
+lord decide the status of the married life. 10th house sub
+lord decide the career factors.Ifthe star lord of the 7th house
+sub lord is deposited in the 6th house, then immediately an
+idea flashes in our minds that, there is disturbance in the
+married life or there is scpcration.Ifthe 8(h sublord signifies the 6th or 2nd house we judge that there will be benefit
+of retirement or financial support or wealth of the partner.
+But actually it is not with that quantum or quality as
+expected. One can argue that if the 7th sublord signifies
+the 6th house and all other factors are to be judged like
+sign, aspects and planets involved, then even though there
+may not be lifetime seperationor divorce, it may be a time
+being seperation. On this point also some one might argue
+that, it depends upon the dasa and transits. But according
+<o me only these factors arc not sufficient to judge the correct results. All of you know that, the 6tb house shows disturbance in married life or 6th and 2nd house shows financial benefit, if the 8th house sublord signifies these houses.
+But the question arises that what is the intensity of these
+results? So to know the intensity of the results, the above
+significance is not enough, and to know that, further analysis is necessary as under.
+
+For further analysis, students should fully be made
+aware of how to derive the significators in an order for the
+houses. In this analysis cusp sub lord and star lord are the
+main factors.
+Proceed As Under :
+1) Judge th^ cusp sub lord's significance and in which
+house the sub lord of the house under consideration is deposited.
+2) Judge the cusp sub lord's significance and in which
+house, the star lord of the sub lord of that house which is
+under consideration is deposited.
+This analysis of the cusp sub lord of the above two
+factors show the correct intensity of the results.
+For example - 1st house sub lord is Mars in 3rd house
+and its star lord is Mercury who is in the 6th house.The general analysis is that, health remains weak due to its signification of the 6th house. Or another example if the 6th house sub
+lord is Venus in 8th house, Venus in thestar of the rnoon who is
+in the 1st house It also give general bad health indication Jiut
+with what intensity it will affect the health that is more important to know. For that in the first case we have to analyse fin -
+ther as per the theory mentioned above.
+Mars is in third house, so judge the 3rd house sub lord's
+significanc&Starlord Mercury is in the 6th house, so judge
+the 6th house sub lord's significance. If this further
+
+analysts of the sub lords strongly signifies 6th or 8th or 12th
+house, then it surely indicates more afflicted health. But if
+it signifies improve houses for the health then even dasa
+and sub period can not affecttoo much for the health problem.
+In second case, follow as under :
+Venus the 6th house sub lord is in the 8th house, so
+judge the 8th house sub lord's significances tar lord Moon
+is in the 1st house, so judge the 1st house sub lord's
+significanccJfthis further analysis of the sub lords strongly
+signify 6 - 8 - 12th house then it is more dangerous, but if it
+docs not signify these houses then there is no danger.
+For another, example - if the 7th house sub lord Jupiter is in the 5th house and it's star lord is in the 2nd house,
+then the general indication for the above situation is that
+married life is good and there is harmonious relation between them.
+But further analysis as mentioned in the theory is as
+under : Jupiter is in the 5th house, so judge the 5th house
+sublord's significance, and note what it indicatesJStar lord
+moon is in the 2nd house, so judge the 2nd house sub lord's
+significance, and note what it indicates.
+If in the fiirther analysis, both sub lords signify the
+positive houses, from the marriage point of view, then it
+indicates more harmonious relations between them. But if
+
+in the further analysis both the sub lord signifying negative
+houses, from the marriage point of view, then it indicates
+only harmonious relations on the surface and internally they
+may not be so good.
+In this intensity analysis theory, one can get a more
+clearer idea about the result for which the astrologer is judging. One can apply this theory where an intensity of the
+result is necessary.
+For example - you arc expecting some retirement
+benefit, then in the normal judgement we consider the 8th
+house sub lord. If it signifies either the 2, 6 and 11 th houses,
+wc can conclude that the native will have a benefit. But actually the result is not that. To find out the reasons for this
+result, wc apply the further analysis theory to find out the
+level of satisfaction for these results. In this case sub lord
+and star lord of the 8th house sub lord signify 2 - 6 -11th
+house by its desposition, judge the 2 - 6 -11th house sub
+lord, and if it is not signifying the positive houses for the
+benefit, but signifying the 5-8-1 2th houses, then results of
+the retirement benefit with delay, lessen and there may be
+some harassment.
+The students arc advised to go according to this intensity theory to know the result better where it is needed.
+Some times by seeing the 7th house sub lord in the 6th
+house or it's star lord in the 6th house one can immediately
+conclude that either the married life has a disturbance
+
+or separation or divorce or that the native may remain unmarrietl but actually it may not be tllC situation. Because if
+the 6th house sub lord shows positive houses for the marriage, then the disturbance is only for the time - being or on
+the surface due to dasa and transit, but if 6th house sub lord
+also signifies the negative house from the matrimonial point
+of view, then there is a total negative results for the niarried life.
+Therefore, Always judge the intensity of the result
+for better judgement through this applied theory mentioned
+where it is necessary.
+
+Chanter- II
+NUMBER BEYOND 249! YES
+Horary astrology is a branch which gives seperate
+results of the query and at the same time works to support
+or give confirmation of the natal result for that particular
+query. There are merits and demerits of both the branches,
+but here we do not consider this.
+To cast the horary chart, there are two main systems.
+One is the time of the query, in the native's mind or when he
+approaches the astrologer and the other system is through
+the numbers.
+Those who follow KP know that, there is a system to
+ask for a number between 1 to 249. And the querist gives
+the number which is in his or her mind. This number is mainly
+develop from “Uttar Kalmitra” granth, in which granthkar
+has given number system between 1 to 108 (27 constellation X 4 pada each). We know that in KP system, any zodiac degree ruled by a minimum of three planets, i.e. as a
+sign lord, as a star lord, as a sub lord. So each constellation
+has 9 sub lords on the base of Vimshottari Dasa System. So
+27 X 9 = 243, but the Rahu sub in the sun star and the moon
+sub in the Jupiter star, fall under another sign ruler. So, in
+thft way another 6 numbers are increased and the total
+number is 249. Now each number is ruled by 3 planets.
+Numbers given by the querist and the zodiac ruled by the
+number becomes the ascedent for the horary chart.
+
+In KP horary book it is mentioned that, if the querist
+gives the number beyond the 249, then without calculating
+any chart the astrologer should give a negative answer of
+the query.
+But in this regards my personal experience differs. I
+have experienced that , when you asked for a number within
+1 to 249, mostly internally the querent has a prejudice towards a particular number and will not give a number like
+13 or 113 ot 213 but they are biased by lucky numbers like
+their birth date number or age. So, intention to get the correct number is not fulfilled.
+So, personally I have started to take the number from
+the querent without any limit Suppose this given number is
+more than 249, then divide the number by 249 and whatever quotient you arrive, at is again multiplied by 249 and
+the answer is deducted from the given number. The balance
+will be the correct number for the horary chart.
+For example- Suppose the given numberis T23676'.
+Now divide this number by 249, you will get the quotient
+496. Now again you multiply quotient 496 X 249, and you
+will get the answer 123504. Now deduct this answer from
+the given number i.e. 123676. You will get the number 172
+which is the correct number for the horary chart
+If you work through this system forthe horary chart I
+am sure that you will get better results if you have applied
+
+the correct principles of KP for predictions.
+I have been using this experiment since 1985 and have
+not failed so far. So try it for your self.
+
+Chaptei - ill
+ASPECTS •
+An aspect plays a vital role in predictions. It can
+change the tendency of the planet to give the result according to the aspects. Many times I have heard from students
+that all the planets aspects the 7th house, from their placement In addition that Mars aspect the 4th and the 8th house,
+Jupiter aspects the 5th and 9th house and Saturn aspects
+the 3rd and the 1 0(h house. But one should not forget that
+the planets can not aspect to the house. The planet aspect
+to the sign from it's placement in the sign. So always a planet
+aspect to the 7th sign or additional aspects to the respective signs for Mars, Jupiter and Saturn.
+This type of a cofusion is there in the mind of the students because in the sidereal system most students follow
+the equal house division. Secondly the signs are equal of 30
+degree, but not the house. House may be more or less than
+30 degree. It depends upon the birth latittude. There are
+chances of intercepted sign in the house or one sign may
+cover more than one house.
+In sidereal aspect, the planet aspects to full sign,
+whether it is in starting or ending degree of the sign. The
+planet aspects to the sign from it's placement in the sign,
+and this aspect cover the other planets, in that sign and the
+house where this aspected sign falls.
+In the above aspects there are two main categories :
+
+A) THE PLANET ASPECT TO THE PLANET :
+By sidereal aspects, suppose any planet is there from
+respective planet's placement, then we can say that the
+planet is in aspect
+For example - Saturn in the Pisces and Mercury in
+the Taurus sign, so one can say that Saturn aspects to Mercury, but Mercury can not aspect to Saturn. In this case
+Saturn's influence to Mercury modifies the result of Mercury.
+In another aspect : Sun in Aries and Mars in Libra.
+Here both the planets are in aspect to each other and influences in each others results.
+In thb way we can draw two patterns for such type of
+aspect.
+1) One planet aspects to another, but the other planet
+can not aspect.
+2) Both the planets aspects each other.
+B) THE PLANET ASPECT TO THE SIGN EVEN
+THOUGH THERE IS NO PLANET :
+This is an unique predictive tools in sidereal astrology; that the planet aspects to the sign from it's placement.
+In this way the planet influences that aspected sign
+
+through it's aspect, and influences the result of the house,
+in which the sign falls. In this way the aspecting planet influences the house matter.
+So, the result through dasa or to judge a particular
+matter of life, these two categories of the aspect play ayital role in prediction.
+One more important point is that during the dasa period, the planet is bound to give the result and the influence
+by:
+a) The aspected planet.
+b) The planet which it aspects.
+c) The house matter, where it's aspected sign falls.
+Now we will sec the example to understand it.
+A) Influence By The Aspected Planet :
+Suppose Saturn aspects to the Mercury by it's 3rd
+aspect. In such a case whenever Mercury's dasa, sub period run and wc arc judging the results of Mercury, wc will
+find Saturn's influence in Mercury's result, and this Saturn's influence by it's placement in the chart, the house
+lordship, the karaktwa and other planet's aspect on Saturn.
+B) Planet to whom it aspect:
+
+Suppose Saturn aspects to Mercury by it's 3rd
+aspect, then in Saturn dasa, sub period it is bound to give a
+result of it's own, in addition one will also give the results of
+Mercury in which house it is deposited, lord of the house in
+the chart and it's karaktwa.
+Q The house result where the aspected sign fall.
+Suppose Saturn from Taurus^spects to Cancer by it's
+3rd aspect to Scorpio by it's 7th aspect and Aquarius by it's
+10th aspect. And assume that there is planet in all these
+aspected signs. In such cases during Saturn dasa, sub period, it is bound to give a result of it's own and in addition to
+the results of the houses, where the aspected signs fall. So
+without the planet in a sign, the aspected planets influences
+the house matters.
+Our yoga systems are based on the following factors.
+1) By a combination of the planets.
+2) By a particular planet in a particular sign and in a
+particular house.
+3) By placement of a planet in a particular house.
+4) By placement of a particular planet from a particu
+lar planet.
+Thus, in yoga systems aspects play a vital role.
+Now we will judge the tropical aspect.
+
+In the tropical aspects , it measures in a longitude difference between two planets or between a planet and cusp.
+Aspects are not always in the exact degree. So, some orbs
+are given to each planet and to the cusp also. In aspects,
+there are classification, like good or bad or neutral. It depends upon the longitued distance and planet involved*So
+far the planet involved in an aspect and then- classification
+of good or bad or neutral is on the basis of then- natural
+tendency is understood. But the classifications of the aspects good or bad or neutral on the basis of longitude distance between the planets are not always in the same sense,
+not good or bad terminology always should depend on the
+matter .An aspect may be in applying exact or a scpcrate,and
+this classification is useful in radical, in progressed and in
+horary charts.
+Same classification one can use in the sidereal astrology, the "Tajik" shodas yoga based on the same formation.
+In the tropical aspect, suppose the planet is radically
+not into the aspect with the Cusp (by considering the orb),
+only then it will activate the cusp result during it's progression, if it is possible.
+The parallel aspects are also to be considered, where
+some times longitude aspects arc not found.
+The Mundane aspects arc based on the placement of
+the planet in the Cusp. For example, the planet in the 1st
+house always aspects angle aspect in the 4th and in the
+
+10th house. I rinc aspect to the planet in the 5th and 9th
+house. Here there is no longitude distance imasm cmail
+but it is in the form of the planet's 1/3 semi arc either it may
+be diurnal or nocturnal , and without an orb , one has to work
+out an exact arc to get the time factors.
+In the parallel, there are four types of formations- (1)
+Quadrant, (2) Rapt, (3) Horizon, (4) diagonal.
+In the tropical aspect, time factors arc involved. There
+arc classification oi'the aspects like aspect from superior
+to inferior or vice versa.
+And also different patterns of aspects are considered
+with special attention. Like " Yod", “Grand Cross" , "Fan"
+and "Grand Trine” etc.
+The strength of the aspects depend upon the house
+from where they are and also change the formation of the
+aspects from trine to square or vice versa based on whether
+the sign, is short or long ascension. So, KP student's are
+advised to use, the tropical aspects to judge the influence
+of the other planet on it, by longitude distance.
+
+Chanter -IV
+MATCHING OF THE HOROSCOPE
+Marriage institution is being established by the society to maintain life on the earth and cordial relation among
+people by forming some rules for the family life. Every society has its own rules for the normal age of marriage and
+number of marriages allowed. But most marriages today
+arc based on reasons such as financial backing, backing
+from the partner's family for career or social standing or
+even to get settled abroad. Also one might many another
+for fame etc. Now a days there is a new concept developed
+in which couples decide not to have children.
+The 1st house represents the native, and the 7th house
+represents the partner, but the same partner is bound to be
+a family member which is in the 2nd house and permanent
+tic relationship shows by the 11th house.
+Before proceeding for the matching of the horoscope,
+one should consider the following points in an individual chart
+1) Longevity
+2) Health - Physically and Mentally
+3) Promise of married life
+4) Status of the married life
+5) Promise of the child
+6) Financial aspects
+7) Dasa and Progression after marriage
+
+1) LONGEVITY:
+1st - 3rd - 8th house sub lord, the Saturn and the rising
+planet, sun and moon should not be the strong significator of
+the badhak and the marak houses, and less connection with
+the 6th - 8th - 12th houses and their representatives.
+2) HEALTH:
+Physically- the 1st house, Sun, Moon, the rising planet in
+the asc or aspect to the asc , should not be connected with
+the 6th - 8th - 12th houses or its significators, or 6th - 8th -
+12th house significator should not signify the 1st house.
+3) MENTALLY:
+The 1st - 3rd - 9th house sub lord, Moon, Mercury and
+the rising planet, and Moon's first aspect after the birth play
+an important role in determining the mental condition.
+4) PROMISE OF THE MARRIED LIFE :
+The 7th house sub lord shows the promise, if it is connected with 2nd -7th - 11th house.
+5) STATUS OF THE MARRIED LIFE :
+a) If the 7th house sub lord afflicted, duality, barren
+sign, significator of negative houses.
+b) More than one marriage indication due to duality
+"* and promise through the 2nd house then question
+arise of a second marriage due to the death of the
+partner or by the divorce.
+c) Planet in the Cusp of the 7th house.
+
+d) The Venus karak also play the important role.
+From the above radical factors, one can judge the status of the married life like harmony - disturbance - scperation
+- early death of the partner- divorce, remarriage or to live
+alone.
+6) PROMISE OF THE CHILD :
+The 5th, 11th and 2nd house sub lords and Jupiter's
+significance with positive houses, effect of the fertile planet
+and the fertile sign.
+7) FINANCIAL :
+In today's materialistic world money becomes the main
+factor in every field, so, one should judge that the native is
+able to meet the requirement of the spouse and the family
+8) DASA:
+Dasa and following dasa, for nearly 15 to 20 years
+should be connected with the marriage houses after the
+marriage.
+After considering the above factors in both the chart,
+one should go for the match.
+In matching, longevity and promise of the marriage
+life with the status of the marriage life play important role.
+Without going in much details, one can make different categories according to the society and age factor. For
+
+example • in the female chart If you find a medium longevity with more than one marriage condition, in such condition
+one can select the chart of the male in whose Chart duality
+by divorce.
+Suppose both the charts indicate short longevity then
+the marriage is not advised, because children becomes orphans in such a case.
+So, such type of different category you can classify.
+For matching factors one can proceed as under :
+1) The ruling planets of both the charts should be
+significators of the 2nd - 5th - 11th - 7th in each other's
+charts.
+2) 7th house sub lord of the both charts should be
+significators of the 2nd - 5th - 7th and 11th house.
+3) The running dasa and following dasas of both the charts
+should be significators of the 2nd - 5th - 7th and 11th house.
+4) Tropical aspects of the planets, the asc. and the MC.
+should match with each other. Particularly superior planets
+of the one chart should not be afflicted to the inferior planets or points in the other chart.
+-f
+After considering the above factors there is no need
+to see or too weigh the 36 points, Mars dosha or one should
+not go to match Mars dosha with Rahu or Saturn.
+
+In the chart, if you find purpose other than the real mar
+riage life, one can expect a problem in marriage life. Whei
+one of the chart’s period starts negative and if the char
+does not show any kind of seperation then one person i:
+suffering due to the partner.
+
+Chanter- V
+ASTROLOGY & REMEDY
+Astrology is based on the reincarnation of the birth,
+and in this theory it believes the good or bad results of our
+past deeds, we get in this birth or in the fiiture birth. Astrology shows results in many ways, but to understand we
+can classify in the following catcgoics :
+1) "i he Objective
+2) The Subjective
+I n the objective results, the native passes through such
+results, where the society, the family members and other
+members know it.
+In the subjective results, the native passes through
+such results, where rarely anyone knows the results except
+the native.
+Human beings make the efforts to achieve some goal
+in life. Either it may be a materialistic goal or it may be
+spiritualistic. Ultimately the efforts give rise to evolution of
+the soul and that is the purpose of the creator.
+The creator has given intelligence, thinking power,
+freedom to act, mind to realise the feelings, the mental and
+physical organs to use in proper direction in most situation.
+So all these factors, and freedom to act, bind us to get
+( he result accordingly. Either they may be good or bad that
+
+depends upon our purpose.
+Human being have formed some rules and regulations
+to run the society smoothly. In some action the purpose may
+be good, but according to the society's rules and laws the
+purpose is not considered while the natural law always act
+on the base of the ‘ Bhavna’ of the human being during the
+action. Some times we see that some persons escape from
+the society's law but in the natures justice it is not so. And
+one is bound to get the result during (he present birth or in
+the future births.
+There are seven types of bodies, in process of evolution of the soul. The physical, the cthcrtic, the astral, the
+mental, the spiritual, the cosmic and the nirvanic. And it is
+very difficult to know that the native is passing through
+which body internally, without the intuition or the sixth sense
+or the divine power.
+The knowledge of astrology has given some hint, about
+it. Astrology gives guidance particularly where the native
+has positive or negative points in regards to all the aspect
+of the life how to make efforts, and in which direction, so
+the native can get relief through this guidance.
+The 12 houses shows the circumstances, the positive
+and the negative results for all the departments of life. While
+the planets are bound to give the results according to the
+sign - aspects and the constellation for that house matters
+for which the planets become the significators.
+
+Many people have the impression that with the help of astrology one can change the life pattern as they wish, and
+with this expectation they contact the astrologer for some
+remedy. But one should understand that there are three
+types of karma. Dhruda Karma, Dhruda Adhruda Karma
+and Adhruda Karma. In Dhruda karma there is no escapism from the results, whether one can perform any remedy
+or not.
+In the other two types of karma, the remedy can give
+sane relief, if it is mentioned in the chart. The chart indicates whether the native will get the effect of the remedy or
+not, and also it indicates the remedy for the time being or
+for pemanent in nature.
+There a re some remedial measures, which can help if
+the remedy is promised in the native's chart. And if it is cot
+mentioned in the chart, whichever remedy one applies it
+will not work. Nature gives the indication from the chart
+only that one will get relief or not through remedial measures. It is the astrologer's duty to check this condition and
+suggest the remedy accordingly.
+Today in all the newspapers most of the advertisements published with 100% solution and guarantee of all
+the types of problem through astrology, which is totally
+wrong. It creates a wrong impression in the mind of the public
+and it is a disgrace not only to the astrologers but also to
+the divine science.
+
+Following types of remedies are generally applied :
+1) Approach according to house reflection, for a particu
+lar matter.
+2) Gems
+3) Mantra -tantra-yantra
+4) Rudraksh „
+5) Medicine - naturopathy
+6) Vastu
+7) Muhurat
+8) Radiation
+One knows that, one is not able to change the birth
+data, the motion of the planets, the situations of the
+planetery sign, aspect and constellations position, because
+one can not control the celestial bodies. The life matters
+reflect through the houses and these houses only shows plus
+or minus in each and every matter. So, if one follows according to the house conditions it will be better relief to the
+native.
+Suppose in the chart, the education shows trend ol
+technology and parents insist for medicine or for management due to their position. In such a case the child will not
+shine in the other field due to the native's apptitude, likes -
+dislikes.
+Suppose in the chart one finds the fourth house afflicted, then that the native will develope better in other
+place according to the chart. Suppose in the chart native's
+development shows dependent on someone else, then in
+
+gems, rudraksh, medicine - naturopathy, muruhat, vastu
+yantra etc.
+If the result is activated by Rahu-Ketu then apply th
+remedy of tantra-yantra- vastu dosha pooja to get relief.
+So which type of the remedy will be useful to the na
+tive, one cau find out from the chart, but at the same tim
+one should follow the 11th house sub lord. Whether it show
+success. For the mantra-tantra one should follow the 5tl
+house sub lord to get the evolution of the soul and also t
+get the mental relief in a difficult time. It is not necessar
+that the 5th house sub lord will give a materialistic result, i
+is only for spiritual development
+Before applying a particular planet's remedy on
+should be aware that, not a single planet is totally benificis
+or totally malefic in chart, it depends upon the matter. Sam
+planet is good for a particular matter and the same planet
+negative for another matter to the same person.
+So, here matter becomes the priority for the nativ
+what he likes to achieve by applying the particular planet
+remedy.
+Suppose Jupiter is the significator of the 6th hou:
+then for health it may effect negatively and for the career
+may effect positively or for marriage life it may effect neg
+lively. So, in such conditions the astrologer should give
+clear idea about it, before suggesting remedy.
+
+Chapter VI .
+HOW TO JUDGE THE PLANET
+The planets activates the matter of the house, through
+the influence of it's sign where it is deposited, aspect to the
+house, the house by sign position aspects from or between
+the other planets, and through the constellation where it is
+deposited. The sign, aspect, and the constellation's combined effect change the natural quality of the planet The
+sign influences through it's elements, nature and with respect to exalation, moolatrikona, friendly, own and fall etc.
+to the particular planet The aspect's result depends on the
+elements and nature of the planets, the natural friendshipenimity or neutral relation between them, the longitude distance effect, the radical house position and their lordship.
+The constellation influence through it's quality, devta-nadiguna magnitude etc.
+On the basis of the natural quality of the planets some
+are classified benefic, some are malefic or neutral or krura
+planets. But the students consider them as it is, like benefic
+or malefic or neutral etc which is totally wrong. Not a single planet wholly becomes benefic or malefic in a single
+horoscope. It depends upon the matter which we would like
+to judge, and the matters are to be observed from the respective houses, and some planets are the significators for
+the houses, so these planets are bound to give the result of
+the matter represented by the house, in respect to the ascendent.
+
+Fa* example - suppose in the horoscope Jupiter is the
+significator of the 6th house, and service or disease or partner's health or matrimonial relation, loan etc. all are reflected through this 6th house. Now Jupiter who is the
+significator of this house is bound to give positive or negative result of all above matters, for some matters it is positive and for some matters it is negative. We can not blindly
+consider benefic result for all above matters simply because
+Jupiter is naturally benefic planet.
+The planets always remain in a degree of zodiac and
+according to KP that degree is ruled by minimum of three
+planets.
+1) The sign lord in which sign, the planet is deposited.
+2) The star lord in which star, the planet is deposited.
+3) The sub lord in which sub, the planet is deposited.
+In this way the planet is controlled by the above three
+rulers and it change the planet's result tendency. The sign
+loxl of the planet changes the natural quality of the planet
+and also the planet is bound to behave according to the sign
+quality where it is deposited.
+The planet is always bound to give the result of it's
+star lord. And the sub lord of the planet decides the good or
+bad result of the star lord.
+
+intensity of the result. If they signify the improving houses I
+for health, then it may not be so serious for health.
+Further I have observed that, many KP followers consider the star lord of the planet's sub lord for the final judgement. Which is wrong according to me. One should restrict
+upto the sub lord of the planet If we further consider^the
+star lord of the sub lord, it increases the double probability
+of the result. And for this reason some one will argue that,
+if a planet in the star of this sub lord then why not use the
+star lord, to get the final strong result. But in fact it is not
+the correct approach.
+For example - Suppose Sun is in Mars star and in sub
+of Jupiter and this sub lord Jupiter is in the star of Moon.
+According to me, Sun will give the result of Mars and
+it's good or bad result depend on Jupiter who is the sub
+lord.
+But many consider the star lord of the sub lord. Here
+in this case they will consider Moon also who is the star
+lord of the sub lord Jupiter and this is wrong due to the
+following reasons according to me.
+Any pis'* ! et whether it has to perform the role of the
+source, the star lord or the sublord, it is bound to give result
+according to following pattern.
+1) The house occupied by it.
+
+2) Accbrding to the lordship of the houses.
+3) Aspects to the houses through sign and combination
+with other planets i.e. aspects.
+4) Natural karaktwa.
+So, it depends upon you to accept this view or not.
+In terms wc say that, the planet is bound to give the
+result of the star lord and directly we jump to the star lord's
+lordship, which is actually the sign lordship instead of the
+star. So here for the activate planet, star's quality play the
+important role.
+For example - Suppose Sun in 4s - 15d - 25m and Mars
+in Os - 14d - 10m. Both are in Venus star and in Venus sub.
+Roth arc a fiery planet, both are in their own sign, and in
+same navmasha. So, apprently both are giving the same
+result, for the star lord Venus, according to the sub Venus,
+except their source. But in result, quality of the
+NAKSHATRA also play an important role. In example for
+Sun, it is in the Purva Phalguni and for Mars which is in the
+Bharni nakshtra. So, this point also should be condisered.
+
+Chapter MI
+RECTIFICATION OFTHE BIRTH TIME
+From the first chapter we came to know that the cusp
+is a decisive factor in a-chart. It's sub lord makes distinction in the twin's horoscope or those who are bom in the
+same locality within the difference of 2 to 3 minutes. The
+error in minutes in the birth time makes the chart and the
+judgementwrong.
+The minimum area of the sub is 40m of Sun and maximum aera of the sub is 2d - 13m - 20sec of Venus. If we
+consider the average movement Id per four minutes than
+in 2 to 3 minutes difference of the birth time gives different
+sub lord of the cusps.
+So, first of all, we will try to find out the chances of
+such type of the errors.
+1) If the calculation of casting of the horoscope is wrong.
+2) If tables of the houses used other than the placidius
+semi arc and upto the minutes.
+3) If different aynamsa is used other than KP.
+4) An error in noted birth time.
+From the above 1st to 3rd errors one is able to rectify
+the error by applying the correct calculation method, proper
+tables of houses like “Krishmans tables of houses” and correct KP aynamasa upto seconds.
+
+But in 4th situation, rectification is required to find out the
+correct birth time.
+Now we will try to judge which type of error may be
+there in the given birth time. Here we have to use some
+practical approach.
+1) Now a days almost everyone knows the importance
+of noting the correct birth time, even in villages. The chances
+of error in the birth time may be 5 to 10 minutes plus or
+minus.
+2) The birth data, particularly more than 40 to 50 years
+old or birth in villages or in semi urban area, have chances
+of 1 5 to 30 minutes error plus or minus .
+3) When the data is provided with time around particular hours like, around 7 am. In ssuch cases possibility of
+the difference is 15 minutes plus or minus.
+4) When the data provided with the time around the sunset or sunrise or noon then in such cases one can expect
+the difference of 20 to 25 minutes plus or minus.
+5) When the data is provided between 6 to 8 am . but the
+correct time is not known.
+6) When the data is provided 7.30, but it is not known
+whether it is am. or pm.
+
+7) When the data is provided with the time but don't know
+whether it is war time or standard time or summer time.
+In all above situations, ruling planets are to be used
+with diffemt criteria.
+Every degree of the Zodiac is ruled by a minimum of
+three planets. One is the sign lord, second is the star lord
+and the third is the sub lord . further division like sub sub,
+and sub sub sub can be adjusted after fixing the above three
+planets.
+First of all find out which category the birth data falls
+in, from the above list We have to mind well that -
+There are two type of sandhis -
+1) The sign sandhi,
+2) The star sandhi.
+Always work out the ascendent according to the time
+given.
+1) Where the difference expected as per the above category is around 5m to 10m phis or minus. If the birth ascendent is not in the sandhi either by the sign or the star then the
+importance has to be given to select the sub,sub sub and sub
+sub snb lord from the ruling planetsjf the birth asc is in the
+star sandhi, then first adjust the star lord and then adjust
+sub, sub sub etc. If the birth asc. is in the sign
+
+by the native. Now we will discuss anotlicrtypc of problem.
+We all know that the Day changes from sunrise to
+sunrise, and the date changes at midnight. If the birth is
+after midnight and before sunrise and suppose they don’t
+mention the actual birth day and the correct date then it is a
+problem for the astrologer to judge which one is correct.
+For example - Suppose a native is bom on the 24th
+April, 1968, at 233am. in Mumbai.
+In such cases there are following possibilities.
+In such cases, work out the asc. and Moon's position
+for the both day's time and compare with the RP as follow:
+First priority is given to Moon's position. If the sign
+remain the same on both the days, then compare Moon s
+star lord with RP. If on both the days Moon's star lord also
+remains the same, then give importance to Moon's sub lord
+on both the days and compare with the RP.
+After that, give importance to the birth day from the
+RP and with the help of these two adjustments one can select the correct birth data.
+
+Now something about the RP.
+RP are in the follwing order :
+1) The asc. star lord.
+2) The asc. sign lord.
+3) Moon's star lord.
+4) Moon's sign lord.
+5) The day lord.
+If Rahu or Ketu represent any RP by the sign or the
+aspect of the planet, then consider Rahu or Ketu but don't
+reject the planet, only give preference to Rahu or Ketu.
+Consider the following planets if -
+1) A planet aspect to the asc. star lord.
+2) A planet aspect to the asc. sign lord.
+3) A planet in the asc. or aspect to the asc.
+Now consider the following insturctions.
+1) If a RP is in the star of the other RP, then give more
+importance to that planet.
+2) Don't reject any planet, even though it is in the retrograde planet's star or in the sub or itself is the retrograde.
+3) Lastly consider the planets which are aspecting
+Moon's star lord, Moon's sign lord and the day lord.
+
+So, in above order consider the RP.
+Once the rectification is done correctly, in future,
+whenever we come across the same chart, the RP of that
+time tally with one of the following condition :
+1) The birth asc . rulers are according to the RP.
+2) The birth RP and the judgement RP remain the
+same.
+3) The present dasa, sub sub period match with the RP
+or in the stars of RPin the birth chart.
+4) The significators of the query houses are the same.
+i.e. the RP.
+So, always make up your mind, what you want to rectify, and then take the help of the divine ruling planets.
+So far all the above discussions we had for the rectification is when we have some data. But one more type of the
+rectification, I have developed through this system and for
+which I got the inspiration from the RP only.
+This rectification is for such genuine data, in which
+native knows only the birth date and the birth place but the
+native is not at all aware of the birth time and not even th
+hints as mentioed in this chapter are known.
+Procedure is as under :
+1) Find out Moon's longitude of OQhrs. OOmin. of the
+
+birth day (date) called " A" .
+:) Find out Moon's longitude of 24hrs. OOmin. of the birth
+day (date) called “B”.
+S) Now “B” - "A" = "C" will give the motion of Moon
+for 24rs. of the birth date from OQhrs. to 24hrs.
+I) With the help of the RP at the time of the judgement,
+fix up Moon's position upto the sub sub.
+5) Find out the starting and ending of the longitude for
+the selected sub sub for no. '4' and call it TV and 'E'
+respectively.
+8) Put the equation in such a way that if the motion of
+Moon “C” takes 24hrs.Then forthc motion “F” how
+many hours ? and call it “II”.
+9) Same way put the equation for the “C»” and call it T\
+10) -This “U” and "I" hours we willget from the OOhrs. of
+the birth date.
+II) Kind out the asc. for the hrs. "II" and hrs. “1” for the
+birth date according to the birth place.
+
+12) The asc. for the hrs. "H" call “J” and for hrs. "I"
+call MK”.
+13) So our asc. range of the birth will be between " J" to
+“K” and one can fix the correct birth longitude
+with the help of same RP without fail. -
+14) By reverse procedure from asc. to the time, one can
+find out the correct birth time.
+For the better explanation, I am quoting one example
+from my file. A male born on 25th August, 1968 at lat 24d
+03m N, and 72d 34m E and the time is not known to him
+from any source.
+1) The position of Moon on OOhrs. =4s 17d 53m 30sec
+2) The position of Moon on 24hrs. =5s Old 25m 37sec
+4) With the help of the RP fixed up the sub sub posi
+tion of Moon.
+RP on the date of judgement (17th May 1992 at 1335
+at Mumbai).
+
+a) The asc. star lord = Venus.
+b) The asc. sign lord = Sun.
+c) Moon star lord" Saturn.
+d) Moon sign lord = Mars.
+e) The day lord = Sun.
+Now from the RP v.’e can see that Sun is in the RP,
+rule Moon sign of the birth date. And Sun is stronger in RP
+category, so we can fix the uative is bom in Leo sign.
+Now in Leo sign, there are three stars Ketu, Venus
+and Sun. From the RP we arc getting Venus, so we can
+judge that the native is bom in Venus star. And Venus star
+degrre ruled upto 4s 26d 40m.
+Now we have to fix sub and subsub from the remaining RP. Saturn is strong in remaining RP. So Saturn becomes sub in Venus star in Leo sign. Now wc have to select
+sub sub. In the RP chart Jupiter is in the asc. and it aspect
+to Rahu and remaining RP., Mars is in the 8th house in the
+RP chart. So, select Rahu as a sub sub lord in Saturn sub in
+Venus star in Leo sign.
+5) Rahu sub sub starting is 4s 23d 24m 07sec~ “D”.
+Rahu sub sub ending is 4s 23d 43in 07sec ~ " E " .
+-f

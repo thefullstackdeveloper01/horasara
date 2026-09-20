@@ -1,0 +1,1444 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "322__raja_yoga_json",
+    "name": "raja_yoga",
+    "original_file": "raja_yoga.json",
+    "dataset_number": "322 of 455",
+    "format": "json",
+    "source_readable_file": "raja_yoga.txt",
+    "source_sha256": "802d446f88ddf7282bd8da3793513795f54cac347a5c0e0a44bddcb90347c3fb",
+    "source_bytes": 45385
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": 1,
+          "name": "BPHS_Ch34_S1",
+          "chapter": 34,
+          "shloka": 1,
+          "description": "Benefices owning angles (Kendra) do not give benefic effects. Malefics owning angles do not remain inauspicious. The lord of a trine (Trikona) gives auspicious results.",
+          "hindi": "शुभ ग्रह केन्द्र के स्वामी हों तो शुभ फल नहीं देते। क्रूर ग्रह केन्द्र के स्वामी हों तो अशुभ फल नहीं देते। शुभ ग्रह त्रिकोण के स्वामी हों तो शुभ फल देते हैं।",
+          "gujarati": "શુભ ગ્રહ કેન્દ્રના સ્વામી હોય તો શુભ ફળ આપતા નથી. ક્રૂર ગ્રહ કેન્દ્રના સ્વામી હોય તો અશુભ ફળ આપતા નથી. શુભ ગ્રહ ત્રિકોણના સ્વામી હોય તો શુભ ફળ આપે છે.",
+          "sanskrit": "केन्द्राधिपतयः सौम्या नैव दिशन्ति शुभं फलम्। क्रूरा नैवाशुभं कुर्युः शुभाश्च त्रिकोणगाः॥",
+          "meaning": "Angular lordship neutralizes natural benefic/malefic nature; trinal lordship gives good results.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "kendra"
+                ]
+              },
+              {
+                "_text": [
+                  "angle"
+                ]
+              },
+              {
+                "_text": [
+                  "trikona"
+                ]
+              },
+              {
+                "_text": [
+                  "trine"
+                ]
+              },
+              {
+                "_text": [
+                  "benefice"
+                ]
+              },
+              {
+                "_text": [
+                  "malefic"
+                ]
+              },
+              {
+                "_text": [
+                  "yoga karaka"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 2,
+          "name": "BPHS_Ch34_S2",
+          "chapter": 34,
+          "shloka": 2,
+          "description": "The lord of the ascendant is especially auspicious as the ascendant is both an angle and a trine. The 5th and 9th houses are especially for wealth.",
+          "hindi": "लग्न केन्द्र और त्रिकोण दोनों होने के कारण विशेष रूप से शुभ फल देता है। पंचम और नवम भाव विशेष रूप से धन के कारक कहे जाते हैं।",
+          "gujarati": "લગ્ન કેન્દ્ર અને ત્રિકોણ બંને હોવાથી વિશેષ રૂપથી શુભ ફળ આપે છે. પંચમ અને નવમ ભાવ વિશેષ રૂપથી ધનના કારક કહેવાય છે.",
+          "sanskrit": "लग्नं केन्द्रत्रिकोणत्वाद् विशेषेण शुभप्रदम्। पञ्चमं नवमं चैव विशेषधनमुच्यते॥",
+          "meaning": "Lagna lord is doubly auspicious; 5th and 9th lords are wealth-givers.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "lagna lord"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              },
+              {
+                "_text": [
+                  "5th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "9th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "wealth"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 3,
+          "name": "BPHS_Ch34_S3",
+          "chapter": 34,
+          "shloka": 3,
+          "description": "The 7th and 10th houses are especially for happiness. The lords of the 3rd, 6th, and 11th houses all give evil effects.",
+          "hindi": "सप्तम और दशम भाव विशेष रूप से सुख के कारक हैं। तृतीय, षष्ठ और एकादश भाव के स्वामी सभी ग्रह पाप फल देने वाले कहे गए हैं।",
+          "gujarati": "સપ્તમ અને દશમ ભાવ વિશેષ રૂપથી સુખના કારક છે. તૃતીય, ષષ્ઠ અને એકાદશ ભાવના સ્વામી બધા ગ્રહ પાપ ફળ આપનારા કહેવાયા છે.",
+          "sanskrit": "सप्तमं दशमं चैव विशेषसुखमुच्यते। तृतीयषष्ठैकादशाधिपाः सर्वे ग्रहाः पापफलाः स्मृताः॥",
+          "meaning": "7th/10th lords give happiness; 3rd/6th/11th lords give evil.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "7th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "10th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "happiness"
+                ]
+              },
+              {
+                "_text": [
+                  "3rd lord"
+                ]
+              },
+              {
+                "_text": [
+                  "6th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "11th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "evil effects"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 4,
+          "name": "BPHS_Ch34_S4",
+          "chapter": 34,
+          "shloka": 4,
+          "description": "The lords of the 12th, 2nd, and 8th give effects according to their association. Among these, the 8th lord is the strongest.",
+          "hindi": "बारहवें, दूसरे और आठवें भाव के स्वामी अपने संग के अनुसार फल देते हैं। इनमें भी आठवें का स्वामी सबसे प्रबल होता है।",
+          "gujarati": "બારમા, બીજા અને આઠમા ભાવના સ્વામી પોતાના સંગ પ્રમાણે ફળ આપે છે. આમાં પણ આઠમાનો સ્વામી સૌથી પ્રબળ હોય છે.",
+          "sanskrit": "व्ययद्वितीयरन्ध्रेशाः साहचर्यात् फलप्रदाः। स्थानान्तरानुरोधात्ते प्रबलाश्चोत्तरोत्तरम्॥",
+          "meaning": "Lords of 12th, 2nd, 8th are conditional; 8th is most powerful.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "12th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "2nd lord"
+                ]
+              },
+              {
+                "_text": [
+                  "8th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "conditional effects"
+                ]
+              },
+              {
+                "_text": [
+                  "strongest"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 5,
+          "name": "BPHS_Ch34_S5",
+          "chapter": 34,
+          "shloka": 5,
+          "description": "The 8th lord is not auspicious, even if he simultaneously owns the 5th (a trine). If he owns a trine (like 5th or 9th), he will prove auspicious.",
+          "hindi": "आठवें भाव का स्वामी शुभ फल नहीं देता, यदि वह पाँचवें भाव का भी स्वामी हो और त्रिकोण में हो तो भी। किन्तु यदि वह त्रिकोण का स्वामी हो तो वह शुभ फल देता है।",
+          "gujarati": "આઠમા ભાવનો સ્વામી શુભ ફળ આપતો નથી, જો તે પાંચમા ભાવનો પણ સ્વામી હોય અને ત્રિકોણમાં હોય તોપણ. પણ જો તે ત્રિકોણનો સ્વામી હોય તો તે શુભ ફળ આપે છે.",
+          "sanskrit": "रन्ध्रेशो न शुभप्रदः पञ्चमेशत्वेऽपि कोणगे। त्रिकोणाधिपतित्वे तु सत्फलः परिकीर्तितः॥",
+          "meaning": "8th lord only becomes auspicious if he owns a trine.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "8th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "5th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "trine"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              },
+              {
+                "_text": [
+                  "inauspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 6,
+          "name": "BPHS_Ch34_S6",
+          "chapter": 34,
+          "shloka": 6,
+          "description": "If one and the same planet owns both an angle and a trine, it becomes a Yoga karaka. Also, if a trinal lord is in an angle or an angular lord is in a trine, it becomes a Yoga karaka.",
+          "hindi": "एक ही ग्रह यदि केन्द्र और त्रिकोण दोनों का स्वामी हो, तो वह योगकारक होता है। त्रिकोण का स्वामी होते हुए केन्द्र में हो या केन्द्र का स्वामी होते हुए त्रिकोण में हो, तो भी वह योगकारक होता है।",
+          "gujarati": "એક જ ગ્રહ જો કેન્દ્ર અને ત્રિકોણ બંનેનો સ્વામી હોય, તો તે યોગકારક થાય છે. ત્રિકોણનો સ્વામી હોવા છતાં કેન્દ્રમાં હોય કે કેન્દ્રનો સ્વામી હોવા છતાં ત્રિકોણમાં હોય, તોપણ તે યોગકારક થાય છે.",
+          "sanskrit": "एकेन केन्द्रकोणाधिपतिना योगकारकः। त्रिकोणाधिपतित्वे च केन्द्राधिपतित्व एव च॥",
+          "meaning": "Conditions for a planet to be a Yoga karaka.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "angle lord"
+                ]
+              },
+              {
+                "_text": [
+                  "trine lord"
+                ]
+              },
+              {
+                "_text": [
+                  "same planet"
+                ]
+              },
+              {
+                "_text": [
+                  "angle placement"
+                ]
+              },
+              {
+                "_text": [
+                  "trine placement"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 7,
+          "name": "BPHS_Ch34_S7",
+          "chapter": 34,
+          "shloka": 7,
+          "description": "For Aries ascendant, Mars is the lord of an angle (1st) and a trine (5th and 9th?). He is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "मेष लग्न में मंगल केन्द्र (प्रथम) और त्रिकोण (पंचम और नवम?) का स्वामी है। यह राजयोगकारक है। गुरु और शुक्र शुभ फल देने वाले हैं।",
+          "gujarati": "મેષ લગ્નમાં મંગળ કેન્દ્ર (પ્રથમ) અને ત્રિકોણ (પંચમ અને નવમ?) નો સ્વામી છે. આ રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ ફળ આપનારા છે.",
+          "sanskrit": "मेषलग्ने भौमः केन्द्रत्रिकोणाधिपः स्मृतः। राजयोगकरः प्रोक्तो गुरुशुक्रौ शुभप्रदौ॥",
+          "meaning": "Yoga karakas and benefices for Aries ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "aries ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "mars"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 8,
+          "name": "BPHS_Ch34_S8",
+          "chapter": 34,
+          "shloka": 8,
+          "description": "For Taurus ascendant, Venus is the lord of an angle (7th) and a trine (9th). He is a Raja-yoga karaka. Saturn and the Sun are auspicious.",
+          "hindi": "वृषभ लग्न में शुक्र केन्द्र (सप्तम?) और त्रिकोण (नवम?) का स्वामी है। वह राजयोगकारक है। शनि और सूर्य शुभ फल देने वाले हैं।",
+          "gujarati": "વૃષભ લગ્નમાં શુક્ર કેન્દ્ર (સપ્તમ?) અને ત્રિકોણ (નવમ?) નો સ્વામી છે. તે રાજયોગકારક છે. શનિ અને સૂર્ય શુભ ફળ આપનારા છે.",
+          "sanskrit": "वृषभे शुक्रः केन्द्रत्रिकोणाधिपः स्मृतः। स राजयोगकरः प्रोक्तो गुरुशुक्रौ शुभप्रदौ॥",
+          "meaning": "Yoga karakas and benefices for Taurus ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "taurus ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "sun"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 9,
+          "name": "BPHS_Ch34_S9",
+          "chapter": 34,
+          "shloka": 9,
+          "description": "For Gemini ascendant, Mercury is the lord of angles (1st and 10th) and a trine (5th). He is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "मिथुन लग्न में बुध केन्द्र (प्रथम और दशम?) और त्रिकोण (पंचम?) का स्वामी है। वह राजयोगकारक है। गुरु और शुक्र शुभ फल देने वाले हैं?",
+          "gujarati": "મિથુન લગ્નમાં બુધ કેન્દ્ર (પ્રથમ અને દશમ?) અને ત્રિકોણ (પંચમ?) નો સ્વામી છે. તે રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ ફળ આપનારા છે?",
+          "sanskrit": "मिथुने बुधः केन्द्रत्रिकोणाधिपः स्मृतः। स राजयोगकरः प्रोक्तो गुरुशुक्रौ शुभप्रदौ॥",
+          "meaning": "Yoga karakas and benefices for Gemini ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "gemini ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 10,
+          "name": "BPHS_Ch34_S10",
+          "chapter": 34,
+          "shloka": 10,
+          "description": "For Cancer ascendant, the Moon is the lord of an angle (1st), and Mars is the lord of trines (5th and 9th). Mars is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "कर्क लग्न में चंद्र केन्द्र (प्रथम) का स्वामी है और मंगल त्रिकोण (पंचम और नवम?) का स्वामी है। मंगल राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "કર્ક લગ્નમાં ચંદ્ર કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને મંગળ ત્રિકોણ (પંચમ અને નવમ?) નો સ્વામી છે. મંગળ રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "कर्कटे चन्द्रः केन्द्राधिपः त्रिकोणाधिपः कुजः। कुजो राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Cancer ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "cancer ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "mars"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              },
+              {
+                "_text": [
+                  "moon"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 11,
+          "name": "BPHS_Ch34_S11",
+          "chapter": 34,
+          "shloka": 11,
+          "description": "For Leo ascendant, the Sun is the lord of an angle (1st), and Mars is the lord of trines (5th and 9th). Mars is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "सिंह लग्न में सूर्य केन्द्र (प्रथम) का स्वामी है और मंगल त्रिकोण (पंचम और नवम?) का स्वामी है। मंगल राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "સિંહ લગ્નમાં સૂર્ય કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને મંગળ ત્રિકોણ (પંચમ અને નવમ?) નો સ્વામી છે. મંગળ રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "सिंहे सूर्यः केन्द्राधिपः त्रिकोणाधिपः कुजः। कुजो राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Leo ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "leo ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "mars"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              },
+              {
+                "_text": [
+                  "sun"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 12,
+          "name": "BPHS_Ch34_S12",
+          "chapter": 34,
+          "shloka": 12,
+          "description": "For Virgo ascendant, Mercury is the lord of an angle (1st), and Venus is the lord of a trine (5th). Venus is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "कन्या लग्न में बुध केन्द्र (प्रथम) का स्वामी है और शुक्र त्रिकोण (पंचम?) का स्वामी है। शुक्र राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "કન્યા લગ્નમાં બુધ કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને શુક્ર ત્રિકોણ (પંચમ?) નો સ્વામી છે. શુક્ર રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "कन्यायां बुधः केन्द्राधिपः त्रिकोणाधिपः शुक्रः। शुक्रो राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Virgo ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "virgo ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 13,
+          "name": "BPHS_Ch34_S13",
+          "chapter": 34,
+          "shloka": 13,
+          "description": "For Libra ascendant, Venus is the lord of an angle (1st), and Saturn is the lord of a trine (5th). Saturn is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "तुला लग्न में शुक्र केन्द्र (प्रथम) का स्वामी है और शनि त्रिकोण (पंचम?) का स्वामी है। शनि राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "તુલા લગ્નમાં શુક્ર કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને શનિ ત્રિકોણ (પંચમ?) નો સ્વામી છે. શનિ રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "तुलायां शुक्रः केन्द्राधिपः त्रिकोणाधिपः शनिः। शनि राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Libra ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "libra ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 14,
+          "name": "BPHS_Ch34_S14",
+          "chapter": 34,
+          "shloka": 14,
+          "description": "For Scorpio ascendant, Mars is the lord of an angle (1st), and Saturn is the lord of a trine (5th). Saturn is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "वृश्चिक लग्न में मंगल केन्द्र (प्रथम) का स्वामी है और शनि त्रिकोण (पंचम?) का स्वामी है। शनि राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "વૃશ્ચિક લગ્નમાં મંગળ કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને શનિ ત્રિકોણ (પંચમ?) નો સ્વામી છે. શનિ રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "वृश्चिके कुजः केन्द्राधिपः त्रिकोणाधिपः शनिः। शनि राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Scorpio ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "scorpio ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              },
+              {
+                "_text": [
+                  "mars"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 15,
+          "name": "BPHS_Ch34_S15",
+          "chapter": 34,
+          "shloka": 15,
+          "description": "For Sagittarius ascendant, Jupiter is the lord of an angle (1st), and Mars is the lord of a trine (5th). Mars is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "धनु लग्न में गुरु केन्द्र (प्रथम) का स्वामी है और मंगल त्रिकोण (पंचम?) का स्वामी है। मंगल राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "ધનુ લગ્નમાં ગુરુ કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને મંગળ ત્રિકોણ (પંચમ?) નો સ્વામી છે. મંગળ રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "धनुषि गुरुः केन्द्राधिपः त्रिकोणाधिपः कुजः। कुजो राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Sagittarius ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "sagittarius ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "mars"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 16,
+          "name": "BPHS_Ch34_S16",
+          "chapter": 34,
+          "shloka": 16,
+          "description": "For Capricorn ascendant, Saturn is the lord of an angle (1st), and Venus is the lord of a trine (5th). Venus is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "मकर लग्न में शनि केन्द्र (प्रथम) का स्वामी है और शुक्र त्रिकोण (पंचम?) का स्वामी है। शुक्र राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "મકર લગ્નમાં શનિ કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને શુક્ર ત્રિકોણ (પંચમ?) નો સ્વામી છે. શુક્ર રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "मकरे शनिः केन्द्राधिपः त्रिकोणाधिपः शुक्रः। शुक्रो राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Capricorn ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "capricorn ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 17,
+          "name": "BPHS_Ch34_S17",
+          "chapter": 34,
+          "shloka": 17,
+          "description": "For Aquarius ascendant, Saturn is the lord of an angle (1st), and Venus is the lord of a trine (5th). Venus is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "कुम्भ लग्न में शनि केन्द्र (प्रथम) का स्वामी है और शुक्र त्रिकोण (पंचम?) का स्वामी है। शुक्र राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "કુંભ લગ્નમાં શનિ કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને શુક્ર ત્રિકોણ (પંચમ?) નો સ્વામી છે. શુક્ર રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "कुम्भे शनिः केन्द्राधिपः त्रिकोणाधिपः शुक्रः। शुक्रो राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Aquarius ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "aquarius ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 18,
+          "name": "BPHS_Ch34_S18",
+          "chapter": 34,
+          "shloka": 18,
+          "description": "For Pisces ascendant, Jupiter is the lord of an angle (1st), and Mars is the lord of a trine (5th). Mars is a Raja-yoga karaka. Jupiter and Venus are auspicious.",
+          "hindi": "मीन लग्न में गुरु केन्द्र (प्रथम) का स्वामी है और मंगल त्रिकोण (पंचम?) का स्वामी है। मंगल राजयोगकारक है। गुरु और शुक्र शुभ हैं।",
+          "gujarati": "મીન લગ્નમાં ગુરુ કેન્દ્ર (પ્રથમ) નો સ્વામી છે અને મંગળ ત્રિકોણ (પંચમ?) નો સ્વામી છે. મંગળ રાજયોગકારક છે. ગુરુ અને શુક્ર શુભ છે.",
+          "sanskrit": "मीने गुरुः केन्द्राधिपः त्रिकोणाधिपः कुजः। कुजो राजयोगकरः प्रोक्तः शुभौ गुरुशुक्रौ स्मृतौ॥",
+          "meaning": "Yoga karakas and benefices for Pisces ascendant.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "pisces ascendant"
+                ]
+              },
+              {
+                "_text": [
+                  "mars"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga karaka"
+                ]
+              },
+              {
+                "_text": [
+                  "jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "venus"
+                ]
+              },
+              {
+                "_text": [
+                  "auspicious"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 19,
+          "name": "BPHS_Ch39_S1",
+          "chapter": 39,
+          "shloka": 1,
+          "description": "If the ascendant lord is in the 5th house and the 5th lord is in the ascendant, a Raja-yoga is formed. The native will become a king.",
+          "hindi": "लग्नेश पंचम भाव में हो और पंचमेश लग्न में हो, तो राजयोग होता है। जातक राजा होता है, इसमें संशय नहीं।",
+          "gujarati": "લગ્નેશ પંચમ ભાવમાં હોય અને પંચમેશ લગ્નમાં હોય, તો રાજયોગ થાય છે. જાતક રાજા થાય છે, આમાં શંકા નથી.",
+          "sanskrit": "लग्नेशे पञ्चमे भावे पञ्चमेशे च लग्नगे। राजयोगः समाख्यातो राजा स्यान्नात्र संशयः॥",
+          "meaning": "Raja-yoga from exchange between lagna and 5th lords.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord 5th"
+                ]
+              },
+              {
+                "_text": [
+                  "5th lord lagna"
+                ]
+              },
+              {
+                "_text": [
+                  "exchange"
+                ]
+              },
+              {
+                "_text": [
+                  "king"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 20,
+          "name": "BPHS_Ch39_S2",
+          "chapter": 39,
+          "shloka": 2,
+          "description": "If the ascendant lord is in an angle or trine and the ascendant is associated with benefices, a Raja-yoga is formed. The native will be famous, wealthy, and happy.",
+          "hindi": "लग्नेश केन्द्र या त्रिकोण में हो और लग्न शुभ ग्रहों से युत हो, तो राजयोग होता है। जातक कीर्तिमान, धनवान और सुखी होता है।",
+          "gujarati": "લગ્નેશ કેન્દ્ર કે ત્રિકોણમાં હોય અને લગ્ન શુભ ગ્રહોથી યુત હોય, તો રાજયોગ થાય છે. જાતક કીર્તિમાન, ધનવાન અને સુખી થાય છે.",
+          "sanskrit": "लग्नेशे केन्द्रकोणस्थे लग्ने शुभसमन्विते। राजयोगो भवेत्तस्य कीर्तिमान् धनवान् सुखी॥",
+          "meaning": "Raja-yoga from strong lagna lord and benefice in lagna.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord angle"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord trine"
+                ]
+              },
+              {
+                "_text": [
+                  "benefice in lagna"
+                ]
+              },
+              {
+                "_text": [
+                  "famous"
+                ]
+              },
+              {
+                "_text": [
+                  "wealthy"
+                ]
+              },
+              {
+                "_text": [
+                  "happy"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 21,
+          "name": "BPHS_Ch39_S3",
+          "chapter": 39,
+          "shloka": 3,
+          "description": "If three planets are exalted, including the lords of the ascendant and 8th, and the 8th house is devoid of a malefic, full life span will result.",
+          "hindi": "तीन ग्रह उच्च राशि में हों, जिनमें लग्नेश और अष्टमेश शामिल हों, और आठवें भाव में पाप ग्रह न हों, तो पूर्णायु होता है।",
+          "gujarati": "ત્રણ ગ્રહ ઉચ્ચ રાશિમાં હોય, જેમાં લગ્નેશ અને અષ્ટમેશ સામેલ હોય, અને આઠમા ભાવમાં પાપ ગ્રહ ન હોય, તો પૂર્ણાયુ થાય છે.",
+          "sanskrit": "स्वोच्चस्थैस्त्रिभिः खेटैर्लग्नरन्ध्रेशसंयुतैः। रन्ध्रे पापविहीने च पूर्णमायुर्न संशयः॥",
+          "meaning": "Raja-yoga and longevity combination.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "exalted planets"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord exalted"
+                ]
+              },
+              {
+                "_text": [
+                  "8th lord exalted"
+                ]
+              },
+              {
+                "_text": [
+                  "no malefic in 8th"
+                ]
+              },
+              {
+                "_text": [
+                  "full life"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 22,
+          "name": "BPHS_Ch39_S4",
+          "chapter": 39,
+          "shloka": 4,
+          "description": "If Jupiter is exalted in an angle and the ascendant lord is strong, a Raja-yoga is formed. The native will be a king.",
+          "hindi": "केन्द्र में गुरु उच्च राशि का हो और लग्नेश बलयुक्त हो, तो राजयोग होता है। जातक नृपति होता है।",
+          "gujarati": "કેન્દ્રમાં ગુરુ ઉચ્ચ રાશિનો હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે. જાતક નૃપતિ થાય છે.",
+          "sanskrit": "केन्द्रे स्वोच्चगते जीवे लग्नेशे बलसंयुते। राजयोगो भवेत्तस्य नृपतिर्नात्र संशयः॥",
+          "meaning": "Raja-yoga from exalted Jupiter in angle and strong lagna lord.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "jupiter exalted"
+                ]
+              },
+              {
+                "_text": [
+                  "angle"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord strong"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "king"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 23,
+          "name": "BPHS_Ch39_S5",
+          "chapter": 39,
+          "shloka": 5,
+          "description": "If the 5th lord is in a trine and the ascendant lord is strong, a Raja-yoga is formed. The native will become an emperor.",
+          "hindi": "पंचमेश त्रिकोण में हो और लग्नेश बलयुक्त हो, तो राजयोग होता है। जातक साम्राज्य का अधिपति होता है।",
+          "gujarati": "પંચમેશ ત્રિકોણમાં હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે. જાતક સામ્રાજ્યનો અધિપતિ થાય છે.",
+          "sanskrit": "पञ्चमेशे त्रिकोणस्थे लग्नेशे बलसंयुते। राजयोगो भवेत्तस्य साम्राज्याधिपतिर्भवेत्॥",
+          "meaning": "Raja-yoga from 5th lord in trine and strong lagna lord.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "5th lord trine"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord strong"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "emperor"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 24,
+          "name": "BPHS_Ch39_S6",
+          "chapter": 39,
+          "shloka": 6,
+          "description": "If the 9th lord is in a trine and the ascendant lord is strong, a Raja-yoga is formed. The native will be a king or equal to a king.",
+          "hindi": "नवमेश त्रिकोण में हो और लग्नेश बलयुक्त हो, तो राजयोग होता है। जातक राजा या राजा के समान होता है।",
+          "gujarati": "નવમેશ ત્રિકોણમાં હોય અને લગ્નેશ બળયુક્ત હોય, તો રાજયોગ થાય છે. જાતક રાજા કે રાજા સમાન થાય છે.",
+          "sanskrit": "नवमेशे त्रिकोणस्थे लग्नेशे बलसंयुते। राजयोगो भवेत्तस्य राजा वा राजसमो भवेत्॥",
+          "meaning": "Raja-yoga from 9th lord in trine and strong lagna lord.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "9th lord trine"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord strong"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "king"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 25,
+          "name": "BPHS_Ch39_S7",
+          "chapter": 39,
+          "shloka": 7,
+          "description": "If the ascendant lord is in an angle or trine and conjunct the 9th lord, a Raja-yoga is formed. The native will be a king.",
+          "hindi": "लग्नेश केन्द्र या त्रिकोण में हो और नवमेश से युत हो, तो राजयोग होता है। जातक नृपति होता है।",
+          "gujarati": "લગ્નેશ કેન્દ્ર કે ત્રિકોણમાં હોય અને નવમેશ સાથે યુત હોય, તો રાજયોગ થાય છે. જાતક નૃપતિ થાય છે.",
+          "sanskrit": "लग्नेशे केन्द्रकोणस्थे नवमेशेन संयुते। राजयोगो भवेत्तस्य नृपतिर्नात्र संशयः॥",
+          "meaning": "Raja-yoga from lagna lord in angle/trine with 9th lord.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "lagna lord angle"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord trine"
+                ]
+              },
+              {
+                "_text": [
+                  "9th lord conjunction"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "king"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 26,
+          "name": "BPHS_Ch39_S8",
+          "chapter": 39,
+          "shloka": 8,
+          "description": "If the 9th lord is in the ascendant, the native will be fortunate, honoured by the king, and endowed with a Raja-yoga.",
+          "hindi": "भाग्येश (नवमेश) लग्न में हो तो जातक भाग्यवान, राजपूजित और राजयोग से युक्त होता है।",
+          "gujarati": "ભાગ્યેશ (નવમેશ) લગ્નમાં હોય તો જાતક ભાગ્યવાન, રાજપૂજિત અને રાજયોગથી યુક્ત થાય છે.",
+          "sanskrit": "भाग्येशे लग्नगे जातो भाग्यवान् राजपूजितः। राजयोगसमायुक्तो भवत्येव न संशयः॥",
+          "meaning": "Raja-yoga from 9th lord in lagna.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "9th lord lagna"
+                ]
+              },
+              {
+                "_text": [
+                  "fortunate"
+                ]
+              },
+              {
+                "_text": [
+                  "royal honor"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 27,
+          "name": "BPHS_Ch39_S9",
+          "chapter": 39,
+          "shloka": 9,
+          "description": "If the 10th lord is in the ascendant, the native will be endowed with a Raja-yoga, paternal happiness, and fame.",
+          "hindi": "दशमेश लग्न में हो तो जातक राजयोगयुक्त, पितृसुखयुक्त और यशस्वी होता है।",
+          "gujarati": "દશમેશ લગ્નમાં હોય તો જાતક રાજયોગયુક્ત, પિતૃસુખયુક્ત અને યશસ્વી થાય છે.",
+          "sanskrit": "दशमेशे लग्नगे जातो राजयोगसमन्वितः। पितृसौख्यसमायुक्तो यशस्वी नात्र संशयः॥",
+          "meaning": "Raja-yoga from 10th lord in lagna.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "10th lord lagna"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "paternal happiness"
+                ]
+              },
+              {
+                "_text": [
+                  "fame"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 28,
+          "name": "BPHS_Ch39_S10",
+          "chapter": 39,
+          "shloka": 10,
+          "description": "If the ascendant lord is in the 10th or the 9th lord is in the ascendant, a Raja-yoga is formed. The native will be a king or equal to a king.",
+          "hindi": "लग्नेश दशम भाव में हो या भाग्येश लग्न में हो, तो राजयोग होता है। जातक राजा या राजा के समान होता है।",
+          "gujarati": "લગ્નેશ દશમ ભાવમાં હોય કે ભાગ્યેશ લગ્નમાં હોય, તો રાજયોગ થાય છે. જાતક રાજા કે રાજા સમાન થાય છે.",
+          "sanskrit": "लग्नेशे दशमे भाग्येशे लग्नगे वा यदा भवेत्। राजयोगस्तदा ज्ञेयो राजा वा तत्समो भवेत्॥",
+          "meaning": "Raja-yoga from lagna lord in 10th or 9th lord in lagna.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "lagna lord 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "9th lord lagna"
+                ]
+              },
+              {
+                "_text": [
+                  "raja yoga"
+                ]
+              },
+              {
+                "_text": [
+                  "king"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 29,
+          "name": "BPHS_Ch40_S1",
+          "chapter": 40,
+          "shloka": 1,
+          "description": "If the 10th lord is in the ascendant and the ascendant lord is in the 10th (exchange), a yoga for royal association is formed.",
+          "hindi": "दशमेश लग्न में हो और लग्नेश दशम में हो (परिवर्तन), तो राजसम्बन्ध योग होता है।",
+          "gujarati": "દશમેશ લગ્નમાં હોય અને લગ્નેશ દશમમાં હોય (પરિવર્તન), તો રાજસમ્બન્ધ યોગ થાય છે.",
+          "sanskrit": "राज्यनाथे लग्नगे राज्येशे लग्नसंयुते। राजसम्बन्धयोगोऽयं विज्ञेयो नात्र संशयः॥",
+          "meaning": "Yoga for association with royalty from exchange of lagna and 10th lords.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "royal association"
+                ]
+              },
+              {
+                "_text": [
+                  "10th lord lagna"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "exchange"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 30,
+          "name": "BPHS_Ch40_S2",
+          "chapter": 40,
+          "shloka": 2,
+          "description": "If the ascendant lord is in the 10th and the 10th lord is in the ascendant, this yoga for royal association gives a chief position in the king's court.",
+          "hindi": "लग्नेश दशम में हो और दशमेश लग्न में हो, तो राजसम्बन्ध योग होता है और राज्य में प्रधानता प्राप्त होती है।",
+          "gujarati": "લગ્નેશ દશમમાં હોય અને દશમેશ લગ્નમાં હોય, તો રાજસમ્બન્ધ યોગ થાય છે અને રાજ્યમાં પ્રધાનતા પ્રાપ્ત થાય છે.",
+          "sanskrit": "लग्नेशे राज्यगे राज्येशे लग्नगे यदा। राजसम्बन्धयोगोऽयं प्रधानत्वं नृपालये॥",
+          "meaning": "Royal association gives high position.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "royal association"
+                ]
+              },
+              {
+                "_text": [
+                  "chief position"
+                ]
+              },
+              {
+                "_text": [
+                  "king's court"
+                ]
+              },
+              {
+                "_text": [
+                  "lagna lord 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "10th lord lagna"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 31,
+          "name": "BPHS_Ch40_S3",
+          "chapter": 40,
+          "shloka": 3,
+          "description": "If the 9th lord is in the 10th and the 10th lord is associated with the 9th, a yoga for royal association is formed, and the native becomes a king's minister.",
+          "hindi": "भाग्येश दशम भाव में हो और दशमेश नवम भाव में हो (परिवर्तन या योग), तो राजसम्बन्ध योग होता है और जातक राजमन्त्री होता है।",
+          "gujarati": "ભાગ્યેશ દશમ ભાવમાં હોય અને દશમેશ નવમ ભાવમાં હોય (પરિવર્તન કે યોગ), તો રાજસમ્બન્ધ યોગ થાય છે અને જાતક રાજમંત્રી થાય છે.",
+          "sanskrit": "भाग्येशे राज्यगे भाग्ये राज्येशेन समन्विते। राजसम्बन्धयोगोऽयं राजमन्त्री भवेन्नरः॥",
+          "meaning": "Royal association gives ministership.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "9th lord 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "10th lord with 9th"
+                ]
+              },
+              {
+                "_text": [
+                  "royal association"
+                ]
+              },
+              {
+                "_text": [
+                  "minister"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 32,
+          "name": "BPHS_Ch40_S4",
+          "chapter": 40,
+          "shloka": 4,
+          "description": "If the 11th lord is in the 11th, the 11th house is associated with its lord, and aspected by a benefice, a yoga for royal association is formed, and the native gains royal honor.",
+          "hindi": "लाभेश ग्यारहवें भाव में हो, लाभ भाव अपने स्वामी से युक्त हो और शुभ से देखा गया हो, तो राजसम्बन्ध योग होता है और राजसम्मान प्राप्त होता है।",
+          "gujarati": "લાભેશ અગિયારમા ભાવમાં હોય, લાભ ભાવ પોતાના સ્વામી સાથે યુક્ત હોય અને શુભથી જોવાયેલો હોય, તો રાજસમ્બન્ધ યોગ થાય છે અને રાજસમ્માન પ્રાપ્ત થાય છે.",
+          "sanskrit": "लाभेशे लाभगे लाभे स्वामियुक्ते शुभेक्षिते। राजसम्बन्धयोगोऽयं राजसम्मानमाप्नुयात्॥",
+          "meaning": "Royal association gives royal honor.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "11th lord 11th"
+                ]
+              },
+              {
+                "_text": [
+                  "11th house with lord"
+                ]
+              },
+              {
+                "_text": [
+                  "benefice aspect"
+                ]
+              },
+              {
+                "_text": [
+                  "royal honor"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        },
+        {
+          "id": 33,
+          "name": "BPHS_Ch40_S5",
+          "chapter": 40,
+          "shloka": 5,
+          "description": "If the Atmakaraka is in an angle or trine and is conjunct the 10th lord, a yoga for royal association is formed, and the native gets royal service.",
+          "hindi": "आत्मकारक केन्द्र या त्रिकोण में हो और दशमेश से युत हो, तो राजसम्बन्ध योग होता है और राजसेवा प्राप्त होती है।",
+          "gujarati": "આત્મકારક કેન્દ્ર કે ત્રિકોણમાં હોય અને દશમેશ સાથે યુત હોય, તો રાજસમ્બન્ધ યોગ થાય છે અને રાજસેવા પ્રાપ્ત થાય છે.",
+          "sanskrit": "कारके केन्द्रकोणस्थे राज्येशेन समन्विते। राजसम्बन्धयोगोऽयं राजसेवां समाप्नुयात्॥",
+          "meaning": "Atmakaraka in angle/trine with 10th lord gives royal service.",
+          "keywords": {
+            "_items": [
+              {
+                "_text": [
+                  "atmakaraka"
+                ]
+              },
+              {
+                "_text": [
+                  "angle"
+                ]
+              },
+              {
+                "_text": [
+                  "trine"
+                ]
+              },
+              {
+                "_text": [
+                  "10th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "royal service"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS"
+        }
+      ]
+    }
+  }
+}

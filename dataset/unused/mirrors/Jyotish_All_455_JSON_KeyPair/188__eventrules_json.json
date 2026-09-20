@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "188__eventrules_json",
+    "name": "eventRules",
+    "original_file": "eventRules.json",
+    "dataset_number": "118 of 455",
+    "format": "json",
+    "source_readable_file": "eventRules.txt",
+    "source_sha256": "1c70f1fc6aa587096fdda339345d60b7e8526700fb9df7f287975f93742ee00b",
+    "source_bytes": 5762
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "planet": "Mars",
+        "house": 4
+      },
+      {
+        "planet": "planet",
+        "house": "house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9
+      }
+    ]
+  }
+}

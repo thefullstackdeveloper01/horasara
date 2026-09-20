@@ -1,0 +1,61 @@
+{
+  "NEECHA_BHANGA_RULES": [
+    {
+      "id": 1,
+      "condition": "Lord of debilitated planet in Kendra from Lagna or Moon"
+    },
+    {
+      "id": 2,
+      "condition": "Planet that would exalt in same sign as debilitated planet is in Kendra"
+    },
+    {
+      "id": 3,
+      "condition": "Lord of the sign where planet is debilitated is exalted"
+    },
+    {
+      "id": 4,
+      "condition": "Lord of the sign where planet is debilitated aspects the debilitated planet"
+    },
+    {
+      "id": 5,
+      "condition": "Debilitated planet is in Kendra from Lagna or Moon (self-cancellation)"
+    },
+    {
+      "id": 6,
+      "condition": "Debilitated planet is conjunct or aspected by its exaltation sign lord"
+    }
+  ],
+  "EXALTS_IN": {
+    "Aries": "Sun",
+    "Taurus": "Moon",
+    "Cancer": "Jupiter",
+    "Virgo": "Mercury",
+    "Libra": "Saturn",
+    "Capricorn": "Mars",
+    "Pisces": "Venus",
+    "Gemini": "Rahu",
+    "Sagittarius": "Ketu"
+  },
+  "EXALTATION_SIGN": {
+    "Sun": "Aries",
+    "Moon": "Taurus",
+    "Mars": "Capricorn",
+    "Mercury": "Virgo",
+    "Jupiter": "Cancer",
+    "Venus": "Pisces",
+    "Saturn": "Libra",
+    "Rahu": "Gemini",
+    "Ketu": "Sagittarius"
+  },
+  "DEBILITATION_SIGN": {
+    "Sun": "Libra",
+    "Moon": "Scorpio",
+    "Mars": "Cancer",
+    "Mercury": "Pisces",
+    "Jupiter": "Capricorn",
+    "Venus": "Virgo",
+    "Saturn": "Aries",
+    "Rahu": "Sagittarius",
+    "Ketu": "Gemini"
+  }
+}

@@ -1,0 +1,23 @@
+import assert from 'node:assert/strict';
+import { listCalculators, listPanchangFeatures, listHoroscopeRoutes } from '../src/calculators/CalculatorRegistry.js';
+import { runCalculator, buildPanchangFeature, buildHoroscope } from '../src/calculators/CalculatorEngine.js';
+
+const birth={year:1990,month:1,day:1,hour:12,min:0,sec:0,lat:23.02,lon:72.57,tz:5.5};
+const calculators=listCalculators();
+assert.equal(calculators.length,26);
+assert.equal(new Set(calculators.map(x=>x.id)).size,26);
+assert.equal(listPanchangFeatures().length,10);
+assert.equal(listHoroscopeRoutes().length,6);
+assert.equal((await runCalculator('mulank',{dob:{year:1990,month:1,day:29}})).mulank,11);
+assert.equal((await runCalculator('flames',{nameA:'Alice',nameB:'Bob'})).result !== undefined,true);
+assert.equal((await runCalculator('mobile-number',{mobile:'9876543210'})).number,9);
+assert.equal((await runCalculator('lo-shu-grid',{dob:{year:1990,month:1,day:1}})).counts['1']>0,true);
+assert.equal((await runCalculator('moon-phase',{date:'2026-09-12'})).phase !== undefined,true);
+assert.equal((await runCalculator('ayanamsa',{date:'2026-09-12'})).method,'Lahiri ayanamsa');
+const p=buildPanchangFeature('today',{date:'2026-09-12',lat:23.02,lon:72.57,tz:5.5});
+assert.ok(p.tithi && p.vara && p.karana && p.rahuKaal);
+assert.equal(buildPanchangFeature('choghadiya',{date:'2026-09-12',lat:23.02,lon:72.57,tz:5.5}).choghadiya.length,16);
+assert.equal(buildPanchangFeature('hora',{date:'2026-09-12',lat:23.02,lon:72.57,tz:5.5}).hora.length,24);
+const h=buildHoroscope('weekly','2026-09-12','Aries');
+assert.equal(h.days,7); assert.ok(h.horoscopes.Aries.averageScore>=1);
+console.log('v15 calculator/panchang/horoscope tests: PASS');

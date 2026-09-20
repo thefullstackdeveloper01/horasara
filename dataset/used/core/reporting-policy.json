@@ -1,0 +1,6 @@
+{
+  "planets": ["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn","Rahu","Ketu","Uranus","Neptune","Pluto"],
+  "lifeAreas": [["career","Career & Profession"],["wealth","Wealth & Finance"],["marriage","Marriage & Partnership"],["health","Health Symbolism"],["children","Children & Progeny"],["spirituality","Spirituality"],["property","Property & Assets"],["foreign","Foreign Travel / Settlement"]],
+  "forbiddenCertaintyPatterns": ["100\\s*%\\s*(accurate|certain)","scientifically\\s+(proven|proved|validated)\\s+astrology","guaranteed\\s+(result|outcome|prediction)","will\\s+definitely\\b","certainly\\s+(will|happen)"],
+  "requiredSectionIds": ["executive","calculation-audit","basic-details","planetary-position","charts","houses","vargas","strength","dasha","transits","prediction","timing","evidence","remedies","provenance","validation","qa"]
+}

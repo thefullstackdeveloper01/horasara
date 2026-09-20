@@ -1,0 +1,43 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Vidhi-List.json
+Dataset number: 218 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 1,079 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: vidhi_001
+  • name: Sankalp Vidhi (Taking Vow before Puja)
+  • applicability: Before starting any Hindu Puja or Fasting
+  • steps:
+    1.
+      Sit on an Asana facing East or North.
+    2.
+      Take water in the right palm with a Tulsi leaf and Kusha grass.
+    3.
+      Chant the Sankalp Mantra: Om Vishnu... (stating place, time, lineage, and purpose).
+    4.
+      Drop the water on the ground in front of the deity.
+  • audio_url: your_app_url/sankalp.mp3
+  • source_text: Vedic Dharma Sindhu
+2.
+  • id: vidhi_002
+  • name: Shivratri Fast Vidhi
+  • applicability: On the night of Maha Shivratri
+  • steps:
+    1.
+      Wake up early, take bath with sesame seeds.
+    2.
+      Wear clean clothes and visit Shiva temple.
+    3.
+      Offer milk, water, honey, and Bel Patra on Shivling.
+    4.
+      Do Jagran (stay awake all night) and chant 'Om Namah Shivaya'.
+    5.
+      Break the fast next morning after sunrise.
+  • audio_url: your_app_url/shivratri.mp3
+  • source_text: Shiva Purana

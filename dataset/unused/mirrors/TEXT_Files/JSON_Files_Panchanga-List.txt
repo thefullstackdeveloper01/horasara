@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Panchanga-List.json
+Dataset number: 192 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 355 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | name | paksha | ruler | nature | prediction_effect | deity
+---------------------------------------------------------------
+tithi_001 | Shukla Pratipada | Shukla Paksha (Bright Half) | Sun | Good for starting new ventures, but not for travel. | Born on this Tithi: Native is hardworking, ambitious, and possesses strong leadership qualities. | Agni

@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "206__index_json",
+    "name": "index",
+    "original_file": "index.json",
+    "dataset_number": "136 of 455",
+    "format": "json",
+    "source_readable_file": "index.txt",
+    "source_sha256": "249d53663f63fca8883c7bcf775513ec65285376e8afa2bf7f0e011ea4da0801",
+    "source_bytes": 1021
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "EXTENDED_CALCULATION_KEYS": {
+        "_items": [
+          {
+            "_text": [
+              "kpAdvanced"
+            ]
+          }
+        ]
+      },
+      "EXTENDED_PREDICTION_KEYS": {
+        "_items": [
+          {
+            "_text": [
+              "futureForecast"
+            ]
+          },
+          {
+            "_text": [
+              "lifePhaseStrategy"
+            ]
+          },
+          {
+            "_text": [
+              "birthToNowTimeline"
+            ]
+          },
+          {
+            "_text": [
+              "dailyHoroscopeExt"
+            ]
+          },
+          {
+            "_text": [
+              "monthlyForecast"
+            ]
+          },
+          {
+            "_text": [
+              "lifePredictions"
+            ]
+          },
+          {
+            "_text": [
+              "careerDNA"
+            ]
+          },
+          {
+            "_text": [
+              "financialAstrology"
+            ]
+          },
+          {
+            "_text": [
+              "relationshipArchitecture"
+            ]
+          },
+          {
+            "_text": [
+              "medicalAstrology"
+            ]
+          },
+          {
+            "_text": [
+              "nakshatraPersonality"
+            ]
+          },
+          {
+            "_text": [
+              "karmicBlueprint"
+            ]
+          },
+          {
+            "_text": [
+              "planetaryActivators"
+            ]
+          },
+          {
+            "_text": [
+              "geographicAstrology"
+            ]
+          },
+          {
+            "_text": [
+              "birthTimeSensitivity"
+            ]
+          },
+          {
+            "_text": [
+              "specialLagnasReport"
+            ]
+          },
+          {
+            "_text": [
+              "conflictResolution"
+            ]
+          },
+          {
+            "_text": [
+              "finalLifeVerdict"
+            ]
+          },
+          {
+            "_text": [
+              "advancedRemedies"
+            ]
+          },
+          {
+            "_text": [
+              "panchPakshi"
+            ]
+          },
+          {
+            "_text": [
+              "executiveSummary"
+            ]
+          },
+          {
+            "_text": [
+              "aiSynthesis"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

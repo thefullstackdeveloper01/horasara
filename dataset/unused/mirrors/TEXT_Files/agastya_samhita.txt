@@ -1,0 +1,2263 @@
+READABLE DATASET
+================================================================================
+Original file: agastya_samhita.json
+Dataset number: 7 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 99,502 bytes
+Top-level fields: 11
+Title: Agastya Samhita
+Creator: Agastya Muni
+Date: —
+Description: Book Name: Agastya Samhita (only translation)
+Language: Bengali
+Compiled by: Sri Rohininandan Sarkar
+Printed by: Sri Chunilal Mukhopadhyay
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Agastya Samhita
+  • creator: Agastya Muni
+  • date: —
+  • description:
+    Book Name: Agastya Samhita (only translation)
+    Language: Bengali
+    Compiled by: Sri Rohininandan Sarkar
+    Printed by: Sri Chunilal Mukhopadhyay
+  • subject: sri;shri;agastya;agatsya;agasty;agatsy;samhit;samhita;sanhita;sanghita;samhitaa;sanhitaa;sanghitaa;sanhitaa;bengali;translation;rohininandan;sarkar;chunilal;mukhopadhyay
+  • identifier: AgastyaSamhita
+  • source_folder: AgastyaSamhita
+  • total_pages: 175
+  • total_words: 18030
+  • text_quality:
+    • ocr_word_validity_score: 0.516
+    • quality_tier: poor
+    • note: Source OCR scan quality was poor; text may contain garbled words. Cleanup removed formatting noise but could not restore misrecognized characters.
+
+FULL TEXT
+--------------------------------------------------------------------------------
+^StvSt,
+AH Rights Reserved.
+
+It
+*t*t* ij$, "tt% ^rstir stirt, *rer
+^r*ts to*, «rt 3rsta to, win *r*t* w* * **t
+•tow* « ^f*rst**ffofe, c*i^ fa^M ^tftfirc*
+viTOt? i
+wr *fc*f, tow *r»r^c*r i* ac*r <*?r ittrtw ^«r-
+.to «rrtrt men «wst*^fo f*w* ^tT, tessr,
+^tsj s *wt fa«rt?i *ftrai f faTO?r ^itw wt
+ersjtw-ifwm «tt=f ▼fiui, cwfort* ..«nr? vf*?i,
+
+'^8i estate ^fa, *Ffasrrf#3 fore.srfti $ft
+f cw^r •fir «rta $fa fa *tw 7— f fa. .^Icfc iflns
+*^w, 'UNti-ertro* ^ *fe*, ^t*r T$zw* few
+*ttrcttf faf$ ^t, <^ 3fi$ c*ttF% '« $ft^
+*r*tta c*fa w*ti fe*rfos ^? i 15*1 fwfwii
+«rtt t*, <*»^r5R% it^re *&:* stfaffi, b?Ni «rranr
+ofa* ^ittrft^ sraror f fa-#fcre *rfs«te Vires ?
+«rt* c*=r fa*a ft^w *fairi, $tf»t& «rt«i *rr?« ^tf*r«
+vfiiw «m «?i< *1H *rfsra ^??ire «rra* ^f*rc
+*^3l f^fjtcf i *$«* c^Wa <i?tfa<ir?! «rfa %u
+bp— fa«tt*r ▼faints it? cwtto ? ^fa *s-*fTOff?t #k ? ^fa fa fwffc <#§ <&tn^ TfaTsra
+*$re $*sl *i vr, *w *$z*i, « § frothi 91 «phr.
+
+*t*rt **r, ^W wwi *ftf% « 'R'stir nta w *ift i
+^ ^urt* «tar^ c^rtt^p c^tc^ir *iw *i firar *^rt «rtt*
+«£ff« W «ftf% « «fap V$*1 «ttre i ^fa *fin fa i
+$ ^Wrta *r& ^pfirc^, fj tf^ fa*o to? ^<wf*t
+( > ) fc^% &*t*rtffa arts fTFwtfftl ir% i #Hre ww?
+?ffl% «ts^r to i *&r®n w\Pk?[ ant "ft^©tcF T*fe Tfinrl,
+^^ fawttfa,, .trot* «qtfrc i°^f5 »
+
+$*1 *1W ^t* ^M TO =& *fa'G ^T1 I It^rS*
+sf^tn^ «rfof$s ^tci i CT<rtw «rff, «itf, w g
+TO§ ^r*tl, ^1, *t*rai e ^1 ^ f^cwst ^ti^rTar s
+ostr?r^t*i 5?i ^sutre, i#nt *ia* fr^w fasten,
+cto I'tffta ( * ) f-KOTr* <i? temi»p6ra* fwc*t*fTO*r c*rrc** it w far** 5ut?,-«tf^«it^i
+sj^H ntf* **rai "ttfoiFoit'raro cto lira
+n$**cwiir ^tfrfsmf3-c*t(^i-f^-fafa^, franco f^fefarwi
+
+*nw, c*r<rtw *rtfatf*tft ffas-fwrra 5tt*retcs
+^ sfl i cuter fa*cs<r v6\, ci^ <rirsR^ *i*ft% *
+**fiat* ^fa?t*r ^fafe ^r?r ; ct«HW t^ra «
+«te»w- wi-fira i mtfai <«t *ttn fi*v$$ wt»r,
+isvti:* *tfrrc*m>sfl fftwt, fa^ra «*ti««i 4 cit*tCT15T ^finri «rft5i i ^tffa *r wto «rrfafa&
+* cmw ^<wra| fafiftfc i iwc?a i**rtc*
+reten ^ ^ «nfa 11 *rtift tf»nrt cftsv
+
+CPf^^n OT ^1 tVt*rc sot* ?rft ; ^rstsl fwsr
+OKFiffiff Wl^ H 1t»fF fw r§si «ftr^ | ^1 f^U
+^n qrfa^ it«rw *i*«i « aft'R ^t ^^ *mtc«fa"
+<4?rT3i ^rt«r^ | s© r ^, ^j c*rc it«R =itt t
+*tfac»w, $($ urtyt «*ra ^1 wro to i
+««^wi fofa ^¥n fast *farets=r, <a*R ito
+fWIT fit latest ^^CTT^I ^fsCISf, 5^^111 *$
+$?[fe»T*I *t»Pt f 5 «T3TW CTTCTO ^fesffe f^t^t^ S
+■®i iv^i « *wftjF5 ^*to$ i wise ^t* ci cs^
+sirt, c 5 ? ftft s?t^, ci h^r 3tt, CT 1t*f ^1 <3 *t? %
+
+•ram* *tt«R *yf**tt§ 4?? ^«§rt "Ufa* *tf**ttf
+«Htfo* fcw ^Tfcrtts i <4$ *st*f c*rft** *ma *ta
+3FW * 5!rt* IT* fa^5 <4** *Cfi» ?T* SHE ^8 TOFRT
+^T?T £TO *^*T* fcf3W ^*KS I ^WH% IT*
+*i**trfr aw *t^, *ntlw* ^ 3 rft, i^^t *fa
+mfc <W tSTTKfW <2T*% ^Tt^ I **!$*, *t^t
+<3t%fiR £ffoi7:*T ^tst^ ^ftrecw cai?. $^c*f3*
+S§T$4t ^fclt* 3% ^ffNW I C^TC^if *rt* C^T3
+faret ^otwi ^ i ^«n *tftc*r, s* s, «rtst?r
+^cfc 3i1, *rt*t* ^ftc*r, ^r ^5 f *i *tc* =i1 ; i wr*^
+«rt* ur^«tot 1*11 f^nttw i *^w, *ts fire*
+*ra *?t*t <*»rtn* *t*sfii«fc*ttc?r* it* ?f^ ^*ft§ i
+st^f* t?t1 ^ *fol wrt*R vfircrt, sf%$ 3^*1
+fcfa»R 4*V to to fcsfl ^f*c^ mft re*. «*ta»n
+#*t* vt*i f?"} w fw c?fi ««r*^t fwwfai
+^fscT, or^* wfi *r«*tfo *i^t* *s«*n *fa*t-
+*nf% * ft* fs**t ^jpwat* mfiw ^in, *iw«.
+*rc3T*$fS ^fa*Ft*t^, cm **, ^nfi^ *^rtc* i
+w«r«tCT$ c*tTe*** **r *fa, h% «*Wr * wm
+fwtt %^rtfw f*=i fta ^t«i *$rro i vWnt "t*
+cto fare cro*<n ^n it^ i eft vtow fwt*
+
+it*np*r * *fi?rtir c*fr?^% rtrens, <w ci%
+*t«n^ fz*fa fa*i> • tfto* waro *^raa?,
+( nmsmi? ) nfinfir ^?s*ni ^s row ( tr$i
+«t^fe* ) im *%&& i c*^ toc*^ ft*r* ^w
+^ j foft^ ^sh fc^tt* fa«rfa ^fa^R i
+cwfw, o\\ wt^* ^Mtcft arTOtirt <wfm
+•Rtfafa mifas *firai, tt^ttv ito ^spfe f«rc*rc i
+I*?} <e stcsT* ??l& *P5* ; *»reg «*fnr Affair tot
+wp§ f *tw «rtwi *fa*i, cwtw n^tir *t*,
+*w^r *t^ft? ^toto ^f^^?r, ^t*tt*r * •nj^vt^i
+
+* c^s *1 «rar wcf to«r *firai, trstra sittrtfas
+*fa*i i *ftt§ <nfti «rtsTOi«t c^twf cf*T *?,
+<a^ ra ^wh fcs* lit*, *ftsw, c*iW *e fir*
+fo?n fifaw *fwi, #f^fir nf^h <are «itf*rc»R
+▼fam, 4^t« *%ifo ^c5« *jt*, f w* *K3faftat*TO i wfo? *^% "tftar cTOtfa^ « «rtort
+«ft^srt=r **, e*R *if$ s M/s w^ st*r* •» firrtrt
+nw* *ftfo->r$%* ifrfctt I ^J-mtt?! TO
+
+$re c*rc <ff$ *1tfa ?|T3 ifas, *t»i^ ?f fa*tir ^iTir,
+«* ^ « «p«ftfe lit i ^rati s^fif \mi ^t*
+c*ttsi-Tsrfw **fa ^to, *?r-to nfii^g vta*
+sifrnfl wrfa ^?R*n wtfeft *rai « fawum *rf^
+^ul, <«*mj ^sprs « fast* *w ^rere « cwva
+WTO wfaihi 1**TC^ ^ftwtti w*tf? *f**i,
+fstafppftfr c«rfl?r f •ft^fct^-frn-vW* <4* *tftf
+c?ttre<f ^^rc^f *rafa^ *$ *rt^t*f «it*wi firar^,
+ft-§ ks ! *^wt ^*rar %^ «wti i
+
+^t*r, ^€7 •ft^^t-^^^TOTtf^ fern-i^a tart*
+*tc* r tt^ta *iw en, *ito ?rsf * *iw «*r ftw 3
+Iff*, '•JCI^I * •fBfl I ^W C$W* siTfiT, Wt^
+^ifv i#rtt wrwa wsta, wwta * *r«Rta i
+*rtost $*&* faffa i c^Mre cvm wi% msti
+srrt i 33*T% ^Ns •fare* f^ft% « ^^?r *m*r-
+■sf# ^«nsi c*fhr mifm %iu *tt*j W <*i3$Cte
+fastis f*ftfc?r irfai **re ^twtn ^*tti^i *fii*r f
+««n$t ^*tu trstt^ *rret«R *fa?ri ^c?r, ?«^ I
+^fa C*T fcWFCl' ItfaHtS, «tffa $W «Tff ^ ^Stff I
+f%, ♦rnRr fcw* wt it** *fa «in nc??
+cwn ^yn, ir<nre w *tcs> *ti ^tti, sjtsrra
+^tt5. ^<fl ^tlf; lit*** sw *iw| *tfC5i
+
+sst^s ^U1 *rc* i «re«?i <£rr<fat vfa, csrera irnr,
+•jw, cwtCT *rt«rsi *l ito%, ci^rtw^ fjw ^
+t»t«ra »f«i^nr w *f?fe ^wl*. w* wta i 3«*tt
+•ifvs itfiw ^*t$s ^{^r^ti fefl «iftfa$ arft i
+C5W5, CT C5*8 WfatW* WI3 *f* c«ft1 **f*Sl
+
+U*tmi fatbits i wt& ititer**fa fw «ifcw »
+*nn, tot*, Witt, i^ttfa, Tir=?r^tf=r, ^*
+prei m$t s rft *t®ffa f«nw*fa tow ^nfr i
+^ i^p^t f*w* c*t\fa* fa*t* ^t*T i c*ftfo^
+fan? stffi ^afts *i c*ttF^n m$ i c*i 11,
+^«1 «ift* i *rW ^jswtf, st^t? faiff «wr
+«rttfa eft* fo « fw fa i
+c*r\fo* ft*t«r^ «ff 3 fw i nt fawn sii^
+«rftriri *i wit* i ^?i fa**?r, s$i* *f* vf
+*jl m* ^ f%ft«r «ffo ^«1 «rtre i wircw vf-
+*tfo* it* ^tfa 5 *} tfe «it it?*t *tfoa ifa sftmt
+*tfo i <«$ stiff ifol w*ns *n «uw*t nif
+if)ft*H ifanftsi, iwrr* wrgrfw ii.fcraT-
+^s ^«%, «pft* ^cfa to Tr«f ^^itff, <«*T¥
+fitt^n i c*i ii, TOl ci ci to ic^i, a,
+ci <©?rti* *t*i fcffw ^cra, fcttfra, i^ren
+
+fe*mr fa 7 cw$?r, ^' ^" *Wf* 3fa fawn «
+sat* «j^fe* ifw •kri^s ^5 ^c^i i c^fa
+*fa?Tft i csfn* wnr m^ws *jto* ^<&*r
+^n^i i cif w *rt*w c^Ws ^ftm «njfs
+CBflt* (SfCStfl wrwtfi ^^ «twra *f«* i «ra-
+?1 W<? $<tH[ faf^5 ^|?ltt§ I U)^ TOSJ fc*ttnra
+few* *mttfl ^fa^ i «uwj mfa* »nrt «t$s
+^ *tw fiwt* «rt^ wi *t* i fr^ <*rt<s
+
+*\m m t **t« v** * cnwrton* *iw
+*$*1 mre I.
+*Ntm *«ft *r«i, ^tnrca ***** w»
+«Ww nfo* tf*i '■rcfc w m? ™ ^
+*tf* ▼frofl i *t« wW *lf«* 11*1 *t»,
+' wr <«*, f* *tftw tt*i *u 1 iwl* ? ii • c**
+
+f$* itll C^t=» »TfN IT^I ^33k ^t^l WW =11
+wW fe*ift t*rft i *KTt* ^ <*t*t"f-f?csr?r
+1*J>M *nfmbft f*W1 I *l*t? $*tt*8 WW
+«fanr f * #ot ^°vi ^roc§ w wit?* *ra
+^$ lilt* ^tfaWtf * ?1^*tW,' ^t*t* 1W1 *ft I
+?i^wtf , $t*i it* ewfarev m^ m < on* to ^,
+•tft sfi i cn w qftr, ^^r=r- <5t*t* wph Wfa
+wFi.tTO tot i
+twfa %t* wtal l?t^ fa^tf?r3 *^*r, c?,
+*t*l itsl ww'wt *wrc* srt^re mal TO
+^3* ifatt*IT« *< ^TEf I *tf* C*W* «t<fsifa fafa«f, it^J ssto e fid* ^art^r t «ttfa
+^tfl, ^ ^ts, <«t *ww ^tu%, ^wfir mmn mi
+iriW ssft i «tT?r, «ttfa «rrf|, f*^ *tfa* jji ;
+^fa *tts, f^F^ *tfaw ii ; t^nfw wtws im fan
+*R.I fa-rc wiw $H**fff«r ^8 ^wtw ^f%»-
+
+m *h «'ww iH ww urn w wto,
+f«W «fi 31 <rt*t^ «t*t? wt?«i, ^fws crfaat
+r
+^sttfw fafa* TOti ^fw fti^f to*, sflffc
+•(•w, c** c** *t*ra, *ttw ■« *ra«FW W1
+*»fa s ^<f, ^tt^rt *t?i**f a ^ r *si i *w *t*i %%\zw
+<«^«r*i* ^c^w ^fatre •ttfirai, ^igftir *r**rfa »nr-
+*iWre ct fare *rr^i m &t?T*t 3t*r sit* »
+wan, *t*i i# TO*t, ^t^t^ wr ^ J? wr^
+i^rets^ <«*^1 ***1 tl'^l 4**T<5 CTtW
+•ntu 5rt *$E*r, '<iton ^t c^Ft^ *re* *ro icf i
+»rciThr .^^?itF?r ttfare «tfs*i «rtw, c*rfe*a ^%
+*?ft fTsr **, *r fHtu p n\ -AT 13 ff»r fs$s p, tfafw-
+
+*H ft* *? *1 I ^Ffrtf&e,, ^fts <*$ ft* ft* ^gt,
+a^sr mcro 11 ftfa$**for, wptt* *m**ta fafam
+^^ftn ^w* «rfcT=?s5i *w*titi •tfiro * *t?rcW-.
+3ir*f^t?f s?s*tts n^fta ss i vti»if*tnr Jhir*t
+ft*TC ^«to ^CT, flftTt* I^Sf ^tf ^tfc I *nfa-
+*t* ^m trttv i
+^® ^ft*t <*| few* ^wtsl wt* wi i ci 1 !
+*of ^ ^fa vq trfaraitw* ^sritir ^f c^5 *rtfaf %
+^§31 «ftCF i i^wra- *rc 4* fw, i% ^w fire* s
+^farmi «ifir <** t?c* i c^sw, vW* c*t=r
+fcnfinwfwts fcfirf«rs rtift*:, «nMR *w
+wtrtnr fcttisfl, *ri, c%, fcWr. srir Tff *
+wk\ «t^ft* c«rnftpwti, aft t<s * . . ^tfaro
+
+wtw* fafa«f it*1 ; to*, ' w*t * ^«pt i
+^W fH*tv* ^%«?:^^ i fafk fasts? sri vfim,
+foft w wfan* ^tw^ *k^ ▼firai, c?i«farat*
+*w*t* it ^wiift «rrfa^ti *|*l «ftcp i c? wfrea
+*tta1 ?tw, \5T^ta 3ffi to* wfa i ^ 55t??ra.^*f?r
+*l* lift * »t^ ^1 ftfafc wtsr i mf^^ «t^t
+*tfir f fa *i *tfsrt?r c^t^rir, ^^Tt^?T ^*t?, *fv-
+*rr=r -e **rel «t^ f%a #Fra « emta rtm, ww *nr
+nr »!•%*&« 'to, wr* m* W1 WR I Olt W*
+Wfa *N? * SF*f«. a^ tonr* Wl€t 50 W* ^?&n I
+*tft* <*^ wft* «ffc itcs, ^d$ cwr w w i
+«i«fil, Sfors wfcs* 415 wir^s «rtc§, u^fpvt* cw
+fift *$*i «&▼ i c^ww, w* wtw ^fw«rtf^
+
+wt*t Shin 11 «f*K cVti Fwm\ cvfa«tvt* *tak»ii
+wt* i ^ faffe wiw *rw? * •tw* iws *firai,
+fc*ntfo, itsi, feFiH ^w ■« «i«t9 ^Tf^FtfW
+5W fs^t^tn i cFts Ffa vtws c*ta, sW*
+feiTO fo% *rt^ i fa^ nfi«rt*r fr ^<r t ^ *^
+^ii T$c«r, «Wa fa*v*1 it! i ^Sta^ iti vw
+11 5T*1 WTtl* V$t* I tfl^ $t* 1 S5T1 *R*jr*
+srtir, <«vfti wnfa* *ra i wi ^1^ $t?Tt§ w
+*rt* n, <*r? «n*i ^rt^R it i ^«r ci ^wr.^
+^ji ^fare if fra ** ii i ^tri* •nrctfTO
+foortf*^ w i sfroi ci ' n^5i to, ^t/it^t%-
+<glJ%s nat^s ^ I ^TO, TC** !JJtf, ^U[tl fi^5tbrsNi, fare*p s fast* ^f^fci wtiaii *i^n
+
+faRi I
+?t*1 St*1 Wfll ^TII, Wt?l *t1 Wtf I <4^ BR W
+TOStW *f?R •ffilf 3 ^*l I i%tr, ssRt fwtW*
+to*t #i#* *fa?n, *rt*mi ? sttf to* i
+?1 h^ft 41f% wi itfar #t «tfv i 'c«rwr w*t
+^l^esi vfiidt, «rRt**F?I ^<R*T ^fare fTfirw i ^s-
+
+^finrtnR, *tftrl tfrfaw, f%ft uifcpr fp ft* ft"**r ^nr fit'
+sto ^tftf % saw fa ^ ? cfM*rtft ft4tf«r%5 wwi
+^f?#Ww *tff c?f»t 'whr itfvs *£w, *W^f 'snj's^ft ^tTii
+IwiTfal *iw ^n t^3 s^t^sraftlt?* «t?, atfofft^ *$nl.
+«pw%vrw* ^«sf® dfatW* , *lft»tW ^TtOT ^swt^fsp*
+^TRf ^m ^w^tfrs ettt? centra- a ftip*ro-*rgft?rl-*rew ^ts^
+ftaro ft*flwft ftF*i» «toi, *crc wn, fcOTtcra »t*, ira»nrt
+"^ft* w *rcw« ct ^Rwr^r pfhptfj w*m «rcftffc ▼firs,
+'iwnrt ^sfapt 0t{% 'srr'^f *pft^ i Mir <m*\ ^? * f&rwfa
+^5% ^t^fiaT •rtWKrra i#n •pn ^ft i atmnr itot, ^Fift*
+fcvr, c«rcsRf ifnr, ^f^r ^rKti, ftarreg ftre^, *rot* ^t"^,
+ctwrift * T r#^f"r<2t ; !FK^tt *ri%ftf&3f fatn^fll Tiwtnnr ^^
+win* it«[.«Rtj i wnfrfTOr *rsftt02ft^ ftffc* *>ftnr «rfft-
+^h *fro i ttftr »rc*t»i it*r* Tfatpnr m, ^rftFsrtcanr^
+-^%?r ft* i *wi ^rtBt^r ^r^t? ^? fff% sfira T^^imftcara «rtrf ftn i ^retre «nf »pst »rri% atffwr ^w* ^rtppr
+w a -srat^fr «tftann, <sw^ ft**fe*i v *f*witw.
+totsi ftiflrot^ %, "to wW[- ft* isrrpf ^swi mvftTBt^Rl srft i feft tf ci ift^R, ^tft^ *rW«, crc $ ^
+
+*m ; c* •&* sftraR, stcft j rw«, ifi ; CTftw «rtftre*, «t*ft
+ffcft *<rc i^ffnrr ^^wt^rrfw «tffa tor ^, **tPr T¥»rc*$
+CTtfasTftrtlwR ; w crR?pr *rffif? <2r.^t*r^r^T srfc, <5«rrf*f
+T^TOF^ tffaRB *fwtf^t*R ; Wl CTR^f Wfw 5t*Rl TOR Ttf ,
+wrpt itotc& w ^fpiK , *finrt%»ra «wt w c*ttvt fir reftvrtfr ft*t» tor mt, witM wrc^ wt <srRiR totstifapR i faft frw fts»rc sri, wrtf*r wr*fi% «P*stift « 'wpwft
+crfaratarc^ %?rr*r *Ffiratftc»R i ftfa Ws *snp* fst*R ^i,
+witf*r *r^ -r« ^rf^t* <*#ft *»r tR TOrcrflt*R-i foR tc
+faft m fajj* flew, wrtft i*ar w* crfTOP fwfi «W*
+*T5 *jfvc* TO TTC *foltffC«R I f%fo TO ft*K ftl*R, t WttfH
+ittPr *tPr Tsr fwsrc fftjrftpR i ftjfar to wfirar ffc«R, wrrft
+T* "t^ ^rf^c* «r! *Ff?nitfe*R i fan ^trc^ «tft*t« or
+«tfrrtw trrfrosr, w?r tfinrt^ or $ft nfe*, ^tfti "flR
+*flnrt« or «i^ *mrt f*wi ^f^s* i faR *r«R ^<hf
+f^wR, wr -stR ?tre «tfr, spnr ^os stf* or ^wres carrrei-
+'tct *w* «npttft jt* 1 faft Tfa?, fjd « 3* frorat wr
+«MV»ttT, »flft « W ffciRI fft ffrar, "T3F R3S, TfOT^
+ar^rsra i^rsir wtr ^w« fisfw i ' s ^% *W» ^ «j?r{%
+jm^K iti «wrt IIpr, ft* t<r l^tfR ftc«R ti i st^ns,
+^iflT c»!tc^ *Wn «tt«twfcat ^i tftt^T ^s i -Wit ftfts
+
+faftftS «F*!W *fa»[, *prfo ifSt* ^fllC^T,
+*fa*r, cwn ^f<sr ^e *rtf%«rf^ *?, c*ftan c*fc«ra
+fc»ar *tt% * ^fg errs wi ms i
+fcft*"! *tf, <4^ Cf^ Flt^«V l"Nf*ff% <5*WC5J
+C<2fW Wt | $W* SITCS fiRStt* CI i»tt 4ft$-
+grim tr*r* c* *ri%; sww «w <anm , *finrtffc»R i <?^ **t,
+w<srf atartw itwrr ^stwrgs w *t*fa ftitnt ^^wt
+fj^T^^si «wft ^ra^ i <i& if, "Tfrtt $Wrf jf'Rsnr «rW*
+*ws fjr^ft, «rftr tftstrc Tf^nr c*pi% c^w, ^rhr. "tteiw
+sjhsrsi, *?tT *f^nrtft*i i <#&&*, ifiivt1% #wc* «t«rN
+itftfr, »flfe «rafa fc«fa, sKffSrft '^f fair affffsi, <w* ^nwrr^
+•^irfre «K$jf^ feqtroi iswtsr *f*rtft»r i nftr^jfi wrf
+c«ff^F fccw frsiu ^f?rc*r, cttoi ft* uretqtnr ^ipr wttft wfa
+^«rt in ft *i i ftfa *rcfMTMnr oafara rampt <*t*tf «
+^tfi, t^rt^rt a ftfBsj cVt^Wtm ft*t* ▼or, ^st*i <*TOr«
+ft<tfti *fcw, ft-^i, >iCTre i ftft >rw* twt « «nf*r»f itftf'*
+sk^t, ^t^l «r5rti *firc*i, farl ^ttrcr ftft*rt« ^i, ^fw^ ^
+.^t3J V-Ht srft I ftfa ^NttCT c*r ^tfwfa tor, tfrtlsw*
+
+c«tf ^fre iimnr cwitfw ^rtf*Rftw, vtf%
+c«w, ^f^^*ttir*r«w Ore Ufwzs £ftfa * wr
+c«w wfa ^wss 5 , «H r ^5ic*t<! ^t^n, cf^wtcsf^
+w, to* if*, wtPnr *wrc, onum* ***,
+irtifwa *stffai, *rer?5ta Ttfa&to *rw, »rtffa
+•ntfanrs itfa **•» i
+fwitw, *if*rre c«*s fortes, <2fa%5 *rtfar*v5i
+fastis, Ttetci *t«rfost ffarcs, *tfain fa^r fsfirtn? ,
+
+*em*\ *tf% %tr.f , ^c? <*rf%<5l ffattf, IF*!
+*it$* wrfavsj ^"t^R ^%tc§ i
+c*m$i, g^rsi ^itfa «2f<r% m^i fa% crw *
+<3c^nr **roi ^<&*t «rf*ircr f ?, ^rc?f?r *ru ^f «
+to? *c*r fc»mr fir, •(spTtf * n**rfr*f? fro *t*
+feratfts ** ^Tn to* TOc*a =?rt?r w vt*t w
+faror arm"R ^ c^cto wi fa*n, ^w*
+t firft« fasfa f*r^i, torttr ^8 facsft* $£ta f*t*Fl,
+fare * <e?i ^t*t* ^af f*w i
+^ <*$ C<2fCTO ^WCTT <5f1tCTO ftfFOI Wt
+TO*, 4R .^RiTOCW *Wl* <**R *«R, cAffi
+ftffC* J#|^^«. ^f5 *fta1 5#It?« .fW[fo*1
+* TOjvpR *$**, *t*ft *w?fo sfm cscsf «rtfafc
+
+Gift *t*rc* <&rsw tftsr ^orc i m^ acnc«m ^awicra lit?, ^fftJi^e wtort* *w,
+•t«W8 *%q ^5rai «rtt<p i ^c< c^tc|, *ic*f *tw,
+foes "taFw, «cs *renr f ^ire ^re, €^ci
+*tf f^tw, arte* rettf, ^rrc=i c«fc=it, w y «Rt<,
+frortc* *fcwtc*t w cite* *rc*t ^wr^t^tnsfv6 vffai, i^t^ iwt* *f*tt» wr'^em *t* i
+
+^^<f«r^^, ton •tftow fart*?^^*, <2ft*t
+?r ■ft®* *fani, ^ww «Tivf7 aN ^at^ c«ft*t?r
+fc«?$ i*rr* i Shmra *fisns fcnra *tfora, $?to ^
+^s «tfft*ta «i<ft«. 'sccfai *ttnt* *tfow, «ifit*m
+ihra <*i?Kfis c«rw* wti i tsvca c«rwr *tfa*t*
+carfare *tteat it* i trow, cwt^tt^ it^t* *w
+^ppj 1*3?, C«£ffi « ^fVB *w W1 ^cwt€ »w I
+^ifwwaft fan ^iirtCT ««t *rc«ra «ti* s^re *rtc*,
+wtre m*?s s?t^ i ^t*,*p* * ^**tfw^ whrtw
+^ to *ttw x*, c«^% <;jra<i ^re i %*i to
+^fijw^ w wr ct ci wen *it«Ri **1 its i fat*tfaf% w ^ wr to i ^t*, *rww* Wtre
+
+taoi* *t*F *sl, <^lfo *rt«R **1, vrc **l twtff i
+*r*ti *^*i <*rtre i
+^«f itsl w ^ca i c«re *itwi w *«fi* *CTt*<
+wtoi wtci ? c^'W Tt^i ciw to i ctff
+c«ra <e sfe 5 *wto trtfacr, f^l CTtcf» fan
+irtHf^ ift^i Swift wrt« w *fa i
+^tcs, mtm W faf> «vw$ fsfsi i fcft
+
+f%st vtii faf^ =rt^ i <*\m *nrfc* WW $^ i
+«tf%t*r, «rh *rtfore *ttnr 511 1 *rar icfc, .s^ f*fa
+«rt«i, ^raa I?? f snfw "tt*r ftripn ¥ftffrtpi 1
+€ff$*tt*R *sl1 ^Tt^TT I C^TSR 3#t >i^?r 1*Jft5 ftfTO
+^CT, wfo «WCT* fwrfa *1^, W1 Cm
+*ri>t*H *rer*Tc*r a»*?tEal sre *rr^?rt «tte*, «am,
+i**t *TE*fa * i*?r *t*w* «Rftr ^es ctm
+•nVrt* «ri fcwro *?rt to, «ww «rt«r ttw, cn§
+«tf fa* «ra*twtw f^vnr tot 1 «rt«* ctw
+«r*rrr%a c?^ 1 <a^«w* fa*tro$ ^*tr%5 ^e*t,
+frf3ftTO**n $iwwwra cfht ^w, f?*tE*a
+
+v^rfw f§rnF*f ^%»rt ?$' wi fa^ ^^itfTfw
+*tm *f * *sn vtf nr fur ^s 11 1 c*il<H, fw*
+»ror »rfarai ^fSwns* ; Shflf w limit*
+^Wfirow 1 ^ ^tmnra fw *$ot, itw
+^-*rv3r c^t* *tw cw wet GFfanrc «wtfe
+« ^«?Nr5i *t%^ ^ 5?1 1 itfs-rr «rwc»r erfW
+nrtf'w s^r*T, cron ^t*nr **ws\ cwfare •rresi
+*rTs sn, Nor cnfa« fsresr ^Ctosi * wrrfo
+¥TO:, ^T fT|W OUR *P5WtlT CWW ^ftr^re
+^c« fcsRT ^5 $^?ri «ttof 1 enfW sire
+«tfl*f on*R erwfa^ **, fc^twr w* 3Ris
+w *t*i Ttw wtw* ▼w, vWcv «rt^«r hraRT
+fw* 1^ ^ri *tw* 1 «tfaw, wot* fmm m
+
+tcTrtf mft w, vte* fcrawj* mu ^1*6 3t?t*
+Ttnro ^1 1 ^frea if^w ct\m* c*r i"»rt£
+«na cwtffc* wttm Tfaita *rc$ srt i ^ ivittr
+mwa cws ^rftrc^ fafosr, ^c^t fsrofars *i v#f?r-
+*Tfa wmi ^f€s ^c*i«, wffsa ^rrtu, stft* CTfnrtar
+ITOt CTfe CTfo CHW WN ^%1, tft*fc* «*faf
+fan ifirfw *firc»ft, ^ ^wtfe its *^*1 tft* i
+«^rj cTt^pntcanfr ^fas ?« itqi TO* * ^*Tfir
+sfwr ^f^forai *u*tfa% f fofa*ft i <^ ^f%
+TOi ^fanro*£*ra ei»rci ^ i ss«m sfwc* ^far-
+^csF?r ct_ »wi, 3%a if** ^tarsiM* c*i%
+«rTO »w* i l ^ s«m$i nfiTfa *firc*u tfawi*
+^ ^ faTOT fa^3 *tj1, f%iT ^W TO I C*3i35
+1C*T *f*« $$1 ^ nt^t I ^ ^ C^OTnft
+
+«*WRVfa'l 'frill *tt* I C^3)55 iifturcf
+*tr* <*w <*t«r^ ^T$jra **<ft* ^mn ififl* ^t?
+*ttC3 I W8S, <«W3[ %J.t C*W *fa 5R^ «P$ f$
+fafi* ornr* fofsati, s^*r * war c«rw iwrt^F,
+aF^tv, «ffa\% «r^fo fafa«r fafoarr ifirft^
+c^mta *rf*t-ir ^ai, sire ^re itto, *tft*
+<rwtf««i^v, «^tc^ fairro ^f?rro •nfaCT^
+f^vsrsij *g[at* tofts *s ^ ^nfaa c?^ wi
+
+*8 If 'SMtfS'Sl I
+<«i* *ft t*r w '*w fc*rtm wt^tflw ^fsr^* «*m
+it*i ^nre*f ^«ft?r "it% ^e cwtfi *ff *t«w
+«*ta fart *fs*i, «r«tw *rf«r *i •ft*, *w 3?f-
+*IC3, *^8 *t5S ^tOTtWl *t*1 C*f\fo* Set* fftf*
+*$iri, Sfafoifi fc*tfw *Iet%, *ffa^ c«rwr
+«tffa*t«r *$c*, «Htw w? Tt$ i qt*t*l c*fa-
+*t*nn *r?s c<2fi«w?r •tt*, *t*t*i if«mi
+*if^tfir fif% t^Tfare ft wi *f*roi *<anw w** i
+tt^ttwa ifo*rtu ^, w Shtw ^|sj rtc*ft, *i**r
+^tfldfar * *i**i fafe c*ra **, $*fa ^«.i^w «rt*$
+*fii?rta BfJii «rr*tT ntem •ftiai'mtar i TO wrrfa
+?P^ *f?THl, "rifts ^tf*t< ^fk*r,- W1 Wtlfsi^.
+*rftta •pi^i fa <{ ?fir states •t.v^F ^tng, "?i*t*
+¥U1 *rtv, <st*i ^c»r, *tg«w Jtew »(c* ^sffr-
+*rti ^?Htfw*« *ijw *tts, ^fata ▼fop $\w i
+
+errer^ *rfvs fiRPW vfFww* ivf^i i fa*,
+•t^tfrc* tow* ifts 4tf^ ^al, CTt«r *?, *r#-
+fo<rr*ffa lit, cws c*^ nw »rtfatfw>wr« ^fafwCTW, Tf^tTS *t*t*« fe&f¥ 3t^ I C^sf 5»1, <*^
+c*w wr ^»t%, *nntw Jft^, ^ *t*, c«* =rt^ i
+3$$ stu <*tre i fa*, fonrwiCT qfir «w vtiWi
+irtnw a*wi «^®i rtai *rw i *t*fo* *j#«rf<s*
+<£r*t* *i«»# «rtre 11 1 c*r 5fi, ¥tw ^c«t
+vtrtimr fcvtfa *a i ^ «tf*in c*tc% $ws
+«iw«i itfvtw sfta w, <*r *iN ^fe*t« *fa?nr
+»nr *rw. ^m «rrt* i ^fa**, w ta «?% «
+cwrtro n*itt« ^TOt •wrtfro ^ i «fc
+
+*rettu ^kaw ^tofia fortes « **f"tfc *ft* =rt i
+awtro* CT k\% ^1 «^, cwiw aft <ft^ it
+•ra^ty ststre cw? « 3^t« ^»nr?ft w^tt ittf i
+*rtita, c»r*wti *$t*r, ^wsm ^ i <*ft <&t*r
+c? ? ^e j^rt* fc«?ft 43s w i c*pr, f*f ^fton, w*ft
+f^ TO3! ^f to, $OT 5^tQ CTOa >iifl^r^ i
+«*fttCT *lfa S$V\, <ift Wmf CTO* ^«1^fv» ** ;
+^sft«. *| c?s «fta wi ^Rt*t^ *firw s, *3l OTt
+^t*r i *tc$ *fr*, %$ft\ it* «f ^ c«r^?r *t*i i
+irf*r$ f^cro wifros »nw =n ; ®w*l c«rf^v *(*?
+^t*tw* itf^nii'w it * fjfl^ *^1, wit?
+
+5j1 e*Ht», ^Slfat* fast? *f«*T, «Hft"S* f^t'TO,
+^^FTsrsrf^a *i^<ti cw ?^m <irc* i £*rw aivsr-
+^C*r, ^f ifT TO* 1%5 «ff5 ^WTOS* *t r ?H»t5
+?^*1 «rtc* h «$«ito *t<iiwR$ c*rwT «tfa wfafi,
+ftsstWft? 1^[«t^ *\IW I *rfl &GB CPR fw
+1¥?r *t^3 *^S1, *R3 *TC1t* «nc*Ttfo$ *t*, ««ar*r
+fawfatTO ^F5 «5|WI £tfv5»1 fa*1«f *^?1, *t3-
+•hrN sr*fra* wl s$*ti:w i «toj «ifa*jT?:*
+tfW Wj3f ^t?t* f^TT ^f5lf1 «ttt^ I CT 1?fa <t
+vifism w^vrtr c=»fo c*fe cu«r for *tf3rct?
+zg^t^s c«w fftul, s$Mt?i ^*rsntc* *rm^* c*$
+fasTCsiTrfo *rcw *ftrai «rtw i %mw « w
+to*n Wft $ im\fewivf&* *t f *«itt i fat*
+
+•sir <sr?faT-T!fw| •
+*Wft *W* H=i*^* *rtfosfB"ta *f <riw Ore
+c^tc^ *tfW^ ' l^foltC* fTOW Tf*OT •tttlR,
+urtn* *irrtc^r ct*r <Rt*m $t§ **, wr tow*
+twctj tow?i iw< rial «rftr, st^re *rcf ^
+if?® *i*rctw c? ^si «itcw, ®t^i ♦jt^ erfis-
+^Ft?r it^ ^3i *tc*, ^*1 TOf*m *w i carrot*
+csa «if=rej^Tfw orre ito ^©t *rew ^?i «rtc* i
+fan sje*t ^tfra «rf%fi^ *»ra f^g^f^t, I$1 c^ =rt
+^l*t* ^fat* I «5Hft1, «rw*t f^pJfa ^C«% =W5ff
+stsvrf** <9^s to*i =*?Rfaro *rfos f^5l *tl»,
+^§*, 3 r ¥*r **tsr *fa *Ict, *freir «rfsiWN5l W
+^T«fifl ?|r.^| <2rfo*ftft® ^s, ®*R *rt*T c*Ttfto ftti
+^*t* fa^ra «rt*tf« *^w nTw =n i s5«r=i feft
+*MTOHcit &**r* ^tc^r, «trtw fafoa^i fa 1
+$*r*t* f=wstw«n^ c*froKfa iflitsr *tf
+
+fc**fHR ^fflSTTl, ^St^tt^ *^*T fa ? ^lf# *t*
+fa i «rtitcw* *t* «rtmw, *itfa*t* *fa *itf*i*i
+fiifai *fir*rt*, wiret *i f l»i fa ? <«$«wfo
+*nmt?r ^«rt^*^' *rt«<ft* « «^t'3r fare ifiow
+fast* *fa»T, fWF* fafita • fofotS'T *i crbr^
+c«w ^w «fif\ 'sfap *^ro wt5i,wt5j *tw ifis 8
+ssttis ititsa *fasi wii tor i $f*rcw* ire ci
+ufa %t%a il TO* c^tisf^ft *R31 it^ ^far^i
+•t^t, s*rc « * tarreta«rtfw »i**tt* ^*ftm ^fe
+tiw ii, stet* fa fewta ^w ii i *t*tai ^t«i=i»
+(fl^sftsi ^ <*ttfac5T, w^st «rfo *tfre?r fa^prtaf
+iti ici (it^i e *tfta n nt**) a *rt c*rcif«r
+
+8« Wf«T-J1tff ? 5l I
+<£*RFta iffaT c«rc wfa vftiw *w', f$fa$
+»rc*rtw *r^*r fi^c?r?i% fit«m fati? nfati* «itt$ i
+^ •tfinwc* c*s f?r *p?r, c^s *1 fetw ^fasi
+«f^ f "5 * f^f%? wa ^m «rrcv i *t*T* fafrts
+wr *t$, cn« ffaitx *l ^f^cr, *trtr <ff « ** ^1 1
+*rtj«. wriest $1 wfa, wre** •ifim* ^tsrmfs,
+•ffliw citf, return nfiiiw cw^tfa^tt, w\
+«*ht*i ^^sm\ ftt*ra fan* ^tt*ra far*ft fwra
+<jh? Tfstre ifa^t^fe **, «tctw nf*n% ♦fftrit 3 *
+
+^^» ^*t« ^fare ^-1 ^rfw *%* *rf*«it*r
+siowgfis 5 ? nfsnti fcw*nr i ^<t* CTt^l tpw
+^re &»ito ^orc, ^ttfw^ »rtfostfr ta^n*
+*t*r, Tft, ^w^ * *nr?£* ^f^ 4i\ fkvufqtxi
+iftvs *rc«.»m ; ^ «rt, w, f^rw « 3f*mnr
+«r^fo ortor ffro i Wt* *t»rt ^st c«nr *ft
+'pc?, w *w$ sWwr i*s?t? to i «fa ton
+*r^T?tfw *iro *ttfra «twt«r*, sW* srfa*t»n
+*tn *?l£* fsnrt** snntrw *rtcrntai i «nw,
+^fertae, wiw* wtfw *tt»nre *t»ratf<5r w i
+nfazm m%, ®\m Mm am f* * m^ c*r
+t»
+
+ivrt* «Wn^ ^fc^« itire ^*rt *m* i tow
+^w ct *ret?r? w^ sirt i cot it, «**t^ uteres
+^1t, ^c^rs «jw% <*»*? frrcr* to i «i^
+apfol* tfttft* •fiTC^f! « *RTC to ««t *fil^
+«iw^ ^f»nrt *ic* i «i^tTc??r *fa4t <* fw* vnpij-
+*tf1 fswfa I fewM "^srt C^tl VtClt WW
+3J*ft*1 *Tl* I COT11, <*% I^CHI WtCS •fWiTtl
+*fsfre3 ^rfl ^fetti i to»i«t* «$ wi Tt^c«i?«
+*tt* I *W CTOT *fte*T ^CT, W\ 5^*1, WOT
+fafa$ vr, w *t* <5tslOT tw vn *tsr
+11; OT<* Cft#t •[*? $ frwtw «fto ^ot,
+sststOT wt* ^t*T ?f?i?fl «n?lt% *fo> •ttw 11 i
+TO*»l iWt *rcfo TO«fe, TO*«ft 5t*ft¥ ^t^M
+VII *tl ; fo^g ^ ^3 *^OT, «W* «fW«f to.
+^t»m *»f*w *?wf*r^ cwopr fofltSI T*t¥ it! i
+
+<s$ imwe »tfwv ^ts *rttfa i *m ctarc
+fat^fa otto tot, $w«> <^ ^t^«isrhr« ^rartoff-
+*rt«rr t «« firtw faf ith * whi 11$ i
+^fSld «i»w* *tci =11 cr, ^W fa *t»ft «|
+«nfafa *f?rat* «rt ^ ^r sjft i '■rW* orftfir
+*i wft «rtRsr i *rtqrtffr* *rre ^ sfsfa^ ^^r
+^w, <st*t* ^rtrat^tvn c^t«rt?r ^t?r ? ^wtw
+fafets vr, ^1 ^*tt ^§a ^ot *ftnr art ; ^t?r«f,
+^csT wi iwr* faan owi *mr =n i c*r ^¥ ?t*t*
+^st^1 ^^s ^tn ati ; fa* sft ^fT?rl ^1
+*tti? sfl i *rfa faf*re ^5, «W *$&% «TC*T<» fcw-
+*>* c^pt^rt &js '&* 7 n^s*r ffara CTtfShw
+
+6 (J *PWJ-T«ft*1 i
+fnrca? faTO fofl* irt i fro* c^^^f ^teire
+3^t% *1 wi i it^i *fa, «r*i *firc* Mra
+a^«rrhr *te *ra hfeir ^rtlfre *%i *lcv i
+wt ^=f *fir, «rn *? i *fafa* *rc*f cwrol
+ire i ■rtanfro f*n#"t ^tcf t i#nfv *Hpn*i
+*tff WtfSlWqf *tf*Ftf*n5 l^WCI I f%fsr ctw-
+^tvriv «r*k*f? irm, wi »wra f*w*j
+•^ » ^ .wfas ^»ft, ^ttf* ^fctivtifart
+
+o
+•ftfrcafcf state *f*intf i ^^r *nrft* *?^-
+W1 OCT,' fsiftCT fafal? «f»«r ^3 | ^T^C^fW
+fann tnfro ssstref, w*T«r»ii effort *tr*i
+gwtfw?« **pnr *^si *tw, firo crtcv ^wr
+«r*tFra^ wi vi i *«^*rt ^fafsra *faw, wt
+C*W TOTS *K1 I ft* *t$* *f«f tflTtftltl I
+cwtoI tot i <i? iv»r cros'it *i'*t *?}£* iufI *sw
+«rt^f % rtntcf , <«? i^wi ^ * Tf*7 *ftaf *tc* I
+^*1 ^TTOIW fa?TC CT, ft* iTfil mil «tf*OT,
+wftw* fihwtcsi Shmftsv *r**t » *^w
+#t^tftTOF »rtfcri wtar* trf*r» ** w <«^-
+«w wn* #KtfaTO?« ^ftf*rc i^fte faw^tt
+*fwrtcfi \
+
+itit*, w ifafsro -$$z*f$ *fi*r$ *ff^anr <f«f%t
+^rcfsr c»ttoi i3frt?M ^i? i *rfat*, faff spra ^w*t
+vffairl cw«r, *tfa*|t*re <3^ ?ff ^a **, ftsfo ipf
+«rat i#*n *tf*fa* ^=i, «t^-i tot, *rc*nr ^w
+or*^* "Sftft ®1?^ fofas ^Tftf I
+TO5N « "Wtt^ faffS CRUt- *ft% ^3, fW *t*t
+arHwrfwres CT»»r «tf«? tofri *t$ i w*w
+<OT I *^'f *faf«re *$*tcs, •nrTtiri ***
+*i*t ^retort 'iw f«rar «rt? c* *tre ntor ? *t*t*
+
+it
+*tor m i ^r*r?n nm $wi, '^Rt* ffrsr wt*t*t
+<*fara ntfir i to<^ tw icw *^* i^ ^miwa
+itntir faifvwt i fans w*, ivot* «
+fans *an iT>nnr w Opts, *ftw •fcwt
+wifo fsrc^n ^if^-s ^m, firtftafci faTOnr if?«
+f«Ri it&Tcn ^ if*nrt% ^^ ^8 *n$?ifforT* f*rw
+^ftros •fit* i <$w\ «u*tw* wirar m\ mu\
+*ttf jt i «rfaT?, fisfa TOf*w wt^^a^t i <*r| art
+1**^5, «*Ht^ ?T%C?C^ «ff5 www If
+*rt* c*s it^ i *f?ttv i*»r wt «r tf*nrt afore
+imi nts i ^*nr w $?ra cftr* «nfrsr **, fc**fr
+cart* anf ** **, ^fw fant*?fa>f w *tw^ cits
+
+8 b- ^^T-fvf^SI I
+?<r $s*sn ^car? vrinr fwrcw toot *tfre fawt-
+«S* C*tRT* «ffo*1* *f*Cfc 1*«f -TC^-T l fgfsj ^1
+^«i vtwr «w fawn ^tsta c**r fa^ta*! ^ fare
+•rrciR ; <«**rc*r fawt* *ai $t*t* it<nr *s srt i
+«v*«it< *jto cwrra fSretW ^s i c^*w,
+fofa fror, to* « ctT^i <«? «**?* «» s
+^3 tre i TO4* fef* fa* «r^5 $w<rTO q$
+*)^%5 *$wi, wt^r< tfawa TO ^8*st *ir^i ■«
+f^rawf *^31 f^««i *or, ^stfa ^%«it« *firra *ttt*
+*fwe, wt* ct^ u?p^ir ctwto •tfinnr «nr ^1,
+*f**rm i Wt*, fit nt*c* wfa cw natal
+**, «w«. fa w i^stir nftai ^51 «ttt* \ <&**p{
+*r*tw* *rc*w fiwora nfaw tow i #\mi *wc¥
+
+<*$ fill? fags *fc$ *t?rtf^ t «wt tst^f-
+?^ ^vtPT $t*to? ^ fa*rt? W* *am i swift
+fa*tt:wa ct ptsr %1, f% f * stsl ^W ^csi i ««t-
+*t* it «rfc*w c?fare *rte?ri its 11 1 «t«fr* $®
+«rtforo, ff c*nc* f<w* «[^ns c*tet^ to, a
+ci\?tt^ *rfsifct ^fa* i wfafa, stfori orWc*r,
+mitt* fo§^ ^Tat j»c< i to**, wfttcv «rtit?f
+citetfF fa ? «m *rc*rfa ^*»tft ^t*r, cftfT^f s
+fa t WW, *rt^t??f *t**r^ <*t*W?Rl i
+<8re?i ««tr *pp«!e wtw ^fffrr c*fat$
+wfa ¥«t i «<rtft, tt^rtt^ *rc*rfc* wtm*
+calk, *W*t «rcrar cftrrtFWM *fiw f wtw
+«r^ «ft% it*R tot i <«**lo[ $ «ftfe^
+^f*t?t iki* ** ' ^^ iw *W ytf *its
+*«m nvrttre ftfcvt crtitn «wtro w ^ i
+
+i°vitn3 en «1fe, si^tre 331* ^l< iffonrsi
+TT^ I C^lH, fctffo .*tt«6 «JtHFfWSl *tt* I *5<-
+ere, arc ?ffi «t?fc* **t^ ^w, ^t^TC^ w
+ems *^H ^tn i ot^'SW, «1f«* **fa ^twtw
+^w«, *tnr'a ^m?m ^w^r >rf*Ti^i fcnf's^ sir i
+CW «lft*Tt^ 11 <tfaOT, 'Wfa W 31 ; ci^ar*t
+ic^i ^i *»ii *t^»& cr, f*fi ifai ^ct.
+srtf^re ii rtcr, ststre ettfeis c*(to *faiHt<i
+*ff&**R ^ 11 I foH*\ STC*T 1tW"f *?*»tf> *if*re
+3^31 *tw I ^fw ifac*! CJ3R«f ^t* fofflW
+«iMi emti ^<ii «rtc^ i «&B*f «t%c* o&r«tfo
+5^ i *rR*rtfa* fwwr *ns*T i9i «lte*f ^tirc«t n\\-
+f* \%$\ «rtre ; $*1 «tfe*rfti **l it**ii i <n^«rci
+Wrfw *^rft*, ft*fiu * »&*!%▼ ^Ife^ cmh
+«tfo i vstai «itwft ^t^t* «it«r wrt *rt?r i
+fr*W St^fl «ft%?T IttfCTT *I^1 ^fF5 3$S1
+
+c*\ fa^ptcO ^tw tor i ^st^ «wtv5rw **■
+*tfac*r, critter otM *rcrt fac<nr i c*sri, fofre
+*?r i vffjwir Fftrar <a f^^c?r?r ^»»tf& faipfa
+itnf i *twi ifa <a^«nrfa CT^ttwl Wt^tT^^w
+^W ^?rt%*ra 1 WW ^fireT, <ii^3f*f e <®RJ?r*f
+
+^fore cafanat* s ■$*$£$ Mwu win 9 !
+«[tspt«f ^t't* ? 1*1 ^T^JI 5»W, WTCT *lT^J1 CTt^f
+gfote sra^^nrwrat* *iMtt w, sststre faftisr
+^fsre *^ot, tfl^pTRTTts ft^w sofawn crtffa «wwj
+*W«r'; t«rt*t* c*t«r ti *ttfaw, «t*tt* wytdr
+=rt *fiin ? wi, ififF^tre *n?r «t%i, st^ta
+«t*tt 11 W^TfiF ^t*tl *1 *f«i1 «ffc¥ ? W»,
+*n*fa *«f"? *tem*fipnt* ift *tfa»1, ,»Wi
+
+ii <&H iifo ftera 5rt *ftaj ? *r«tTi, «p?|c*f*
+itCTTC¥ ^Mff?T5 Wsffir «Tfeft^ Jf<q *fm,
+^iran $%ra %mt c?^tf?c5 ^i^fvr fare ft*ffanre ^«fa *firai, W1 •tftonf ^fsre T£Wi$a $*t~
+cti tot i ^reNflsc* ^Tsjtawrw f^tm *fa?r,
+cwn *tf=ifcmfs* mmu c^an wtff»r ct c*r fare
+itft ^w f%s, ^vpurc* ^t^i ifm\ cits ^fir-
+•tfiwfc *w r <*^«r=?r, sstMi ifipraftrfipitfMt
+l[W% ItCtWJ WW «It1 ^fast «TTC¥* i *ftfc*i
+*tft 3*1 ^H ?Ff*OT *fft* 11 I 17 C*lt£*^
+«Wc¥ w»r #ret «tfc* i Wl wot* ifas
+«Ht* $*rei **i ^tsw *nti i ^srfre ^twn^J
+wi <*tt*rtwl *rt i
+«*wft *f*t*re, ^f?n vfw fm ^fa«*l%, awn
+
+*H1 $:c«ra sniT^^t^ i ^srt, onfw ^wri
+srti *faal •fs<3ranR«ft ^lift 5 * faf*rc *tra C^1
+TORI ^t^T CTt* ^E*f, ^ $*« &sv$
+fro* ^r i ^3»*t ^ ggr.^ *[3ftre^ f^t«t Sfo
+*f»nrt Tfc* i wrc* fwwt*rt ^fare ntOR,
+?r*tra *r*r sn^, g§*r srft, o\ wts fa<irn
+( ^?r ) *rtetre itf ic<?r iw *wt«. ^rt^fsf c^R
+nysn m\ w inf&flmifc. itfT *rtsi *tc*,
+<s*R, ^Wre ^*r m^, $°.*r *rt%, \5t^ fa3r*t *it?i,
+^tst? i^^ **ta «rcw ^ i
+$teta ww* <rWii ft i c^rtc 5 ? sr*ra 3^ cf^i
+tot, <w stsi *rt9 *tft*£ ifa^sr w i { fes* )
+*fta, ^t*Rtre ^ c*t«r *?r ; fa^ c$t*ra TOfft
+fa*$*\ ^<t n$^ *cu i wftt*, *»fa«h fvr^ •rf*«rfr,
+<W '■Ptf^B C*E*f ^f%f tfn« "HR ^Ttft fafaf f FK
+
+<«t rat, ^c«r* f=i<%r ^fas ^rsuT faqpsRwar i
+*fa *T,3%C3 ^«T9 SJI^, $8«f8 *ft, \sc* f^fir
+m\ *f *$** tfaa «ft<fai ^fam to* ? ( fcs* )
+wt*, *"«; fawn, *fis ?TO fof, iuti$ «*«tfs^[4 1
+«W» fiprttiii «w nc? few i wrfw c*r vt «rc
+sit ; ^ <&m »r^n^ ^j*s «rtf«s 3$ i ^ *cfe
+*»to fc^rtfafo t$to* ; swr it'ft ^1%?ji in
+fc*^ 5 * *ftcr«', T?itw f=i^% « ftf*w rt^nr
+ivfa^i ift i to* «*«ww *ffai, ^rtftafa ft*ft
+•f^ifj =tft i <4 wc*f i^t? *«r^ faatn* *i
+ft«a src* \ \?wv8 *n&rnt wfa i** cfw* wtra
+fc***f ^CS3 cvfa «wt fa 55t<s W^1 sift i
+«rnt*,- ^ «rt%*ft ^rowr TO*, t*i w iw
+
+tsia ffct* fwi ^t* i iotp? 13 13 ffnrt^t
+faults ^m^ft, ^$1 «rto$ c*r<n qt* i *r?»rfcra
+iaRft «rcrfi5ii 3w?i w * ^s ws *fcn fatal ;
+WWW It**? C*f*rt3 1t«Hl *Tfa I ^3T, $3 «
+cite* ^t^nr *t*te wW ^t3t$, frotw ivtcn
+TCltTO 1$Pl3tfw «tl«Ttfff ^f?lt1, 3T?t?S fR3
+•rt^cra i*t* *ir i *s^, s*r =ii «rr^i, ^fw
+«ttre 5ri, t^i ▼«* «rc=i9 *fire 5ii i ivwn «(T?1
+« ^cto «w?i ^33^ *wti i *t*RF cw «^r 511
+qtfowe, »rtfrtt wfafnrv, ffvwe 3351 *c<fif
+^8<r *fc*r, ^*t?r ct t»»wr ^wt« 3if*3 *?r,
+3m iwft «rtOTn •pratu, ^c** wnr* <&
+wfatroiRti wn **frt wftw* tfai ftiw
+^wifrtfir «tt$ ^19, *p6*1 sfts 5f¥3 fiww
+*fam «tttv t itts •pit* *rtro *fii«CT ifo$
+*|C3 **, *$ iqrft ^w wti *5wa *t<«ttt¥ 1
+
+*p?r* 8 ., *rcitnnr ^sjrfcft «rfii?«fa i t^t *fcw^
+«rctwl *?r i *tw <« *rc*K?r, fa* sMsr f •rtm
+*fa i ci^ ft. ^trftr ti^ CTWr% %i ^, 5strt?r
+*r nTa fsr «rft ^«.fas i toct* Vf s *ifts ; fa*
+fa* sw* ^twnr «rt$ i Fcff ctW **mr fcf*te
+.foe^n fwtifa Wnn, *rcThr Wt *fN* frf3R *f?re&s, to c*frt rtw iTftsm srrtir ststt*
+<«*? <5?tar?r •f* $a^ «fts i c^facia fir itffai,
+*tfc*nr *t<r $fa%r. «J3t^«fat i *rt*tcr* v$ f%
+*fiw, ffaTTf%*t*m, t* w\k cirtc^f cftcv **f*rirtarttf 3 ^ i oi^ !5w, qt% «f5T Prw, c*nrc wen*
+fwF^fa ^fa<5 *tr 5ri, ran, ^«r $§<r •np*t* ^*f
+*rft& «tw fifam ^?ri wtne or, «np*fcinr fSrt^tw
+**i *re* ^ i Tfttai ^^ ?rtn >rc»rttfr $t<ra *roi-
+<r«t *flre tmr, vtm *r#ifi>*ttr fn*t t*ri iff* *f?rre
+ante* «ifa?rtt ^tlr?rl «rtre i
+
+sfvr swr ^tan «rtt* i i%? «*rc»ft ^far^r-
+^faraitw** cfs^i i*n* ^ i f fsw topi ^f^s
+«ft ^;f%?f faw ^*mi sire »ttw i tow ^ tots
+*rt$ TOWtor* if** *tf*FtfTO *$«, «n?i$ *\4i
+Wtl *W* TO I «t<t«. *▼ 3Jfo CT <«^ 71CI^ ftf?.
+W, ?*fa «"**f*fatfa wttl •jtf •[•rqf fro •rfiratf
+
+t
+^t?«l I tfi^ft IE® 9 ^t^fs. ^^ <j«i^ .^tti v»n
+w
+Ws ^t*r, t^ *w *ft*1 ^tre fe*.»ra ^ w *j^ts
+tj*rar fKtre *!ta ^it «flt*, foft^ 3^ i
+ct *ti «tnrt»i **tf5i*CT t^s ^iii, apfa* n^i *fam
+tot*fc<rt mil ^w^Rtffr *W «tt«rart* ^firw *ro«f
+55rt ifn w c^nrtfKw i**ji c^f*r «?rea $$ ras
+
+«rt* ^f)re*f I ^t* "IfT ¥®3 Wt* «Ht &H
+W faWl. I ( > ) .
+^K %^fJt ^«fl *t*rtft ii •
+*tffc «rtft «rf «rift, «rtU?5 ifott «tff% srt^ ; wf wtfSr.
+"srtttrf cwt Tents, "^rtf^r ^t?t^ *fl*1 «ttf% i
+**nrf»tc«tftfsnr5^, ^ftf *w»*tw» f¥s ire* <*tn-
+*ft, «ww *m ^flu" ^isf *rtetm -* t *itc*fo whr
+•tspp, (gt^l ^b ^i ^ nt W<A bra»1*ft ^ftll «ftre I CT •JOT
+*ptt^*r Mh^rtsr ^TtffiT fcWrft^l *H1Tffl «rffa^
+^tforftn* *prWf «^ *nnffiraf% FtafNt* «Rtftre ^^tN
+fto ws «wt , wftw csfci *rsrc i *<ti, jk *fm «J¥^ *<
+
+vfafl vfa*R, fro it* artatf s,*wsr *fcnn i
+C5®rfr *$c»i*, *t*T?s *h*m ivri to *$s\ «ttcv i
+c*re wtm ^r.%i cm ^t*r, cw w *te. *wpjnr tost
+cffj fcnfc* cn% to^i cbw **1 ton i ws:,
+Wt* *t*rfa *tffa I TO<M, Wtl *lf%<IR 31
+▼flw, tft«tc* «ft$f ^8U1 ^ i S5**rtfs, «*tr
+«tr?[«W wra *tnrc rtsi «rrre 1 wpTste wfai
+1T«R 1W, ^f^TCTir lit*, fa**'* I (>)
+ifirt nfft it^ir to ; ttsirfe ^W^ *rft **i osrft sfl *nri o*re
+§^ jprtsr, ^3F*r fiwHimtfiq^tft *t*i *rftrr* ^ *mr
+
+■itar^rcflal faw*t»rcnr fa**q\* ^Cg Utfft
+*rr i **i, s^fro, f sfwsrt i e *fi*rfafl i ^rai
+fTHl to i wi WW ^TO fa3% *«, «TTO TO
+vif^nrt i its, *w «fan fa3^ w, 'Wft*
+«fajfi*i ^frrai <rtre i *rm wfa ** 31 ^r, «ft*
+ctw'W cstt ^*1 «ttre i % cw «fa«
+<5OT *^f *nn *ifa* ^ot, «w* *f*»rtafte.»ttfa*i
+"tfva fwf ^m «rtt¥ i ^^ **t* c?*^trani est*
+*f*ra ^ 31 1 crtt* w faw ^n, ^vrtir
+wfor F^-sr *st3 c*ft wir «rr*t3t* ^its ***
+CWft I wttfft ^1 ^8 ^!?f?i\5l 3 *rffa fa|^ 3f?,
+<*ft <st*t ^vtroW "*tal arc* <^ci wtwir* §*tF?r
+j$ot, w «to cwf«rat, writ*, ^fca tonr ?I«1
+«*ft* i •i-is*^* ^wft f i C7 ft *fiw «fr*tfa*
+•r fait* ^n, ^%?r *t* «it*rci *trat ^wfifo *s i
+srt *rsri §mK *ratt i spanfc, f? *iTf^rc* <srta c*t* ^fa w
+
+&m *rfini*i «rt^s *rc*tf fl*t* qfaus *s i *rtet*
+«fitffnr <*it'$>46f«i>frt'5 1 ^ssrtft
+«rtfK «hrc*ftT vpivt cwt «Wcqr ^rtsfir ^r?r, «au»r, *3^rtf^s ftwrt (^wjt) ^JtTUCT *WT¥ «Nh ft^sftT «rt^ sti i"
+^w, «ft «tftrc faii ^rt <ft* i
+^tt^ fafo I TOW <2ttf*f*M *ft *WT« ttftfl *&▼, «M^
+»rt "fanr *ftt its i* fti (roRfrRt* *rf^5 *far, <flto ?t* ♦fa*
+»rtv« fa*^ *&fl ittr i <4^rar^ ^f*ns ^rrc^,—
+^% atfeffa Whs « ivft* ibn, •okto ^ **«r ▼fc
+C5T55T I H?5 CT *jf» •UBOftT Wtw* UNfWntf *pm<m
+^f» ¥or, *tmn *\\ f*fo **i ▼fiinf •now *fl i «itft,—
+
+^tft*. »rtfai isftf *r fircfr *nr "spwiterw <£ *rti arfaffa f*ri
+fi •itfcri «iti* i i^««w ifttw feci tfwfinnprto «rf«ftv ^st,
+TStBR^faj WF •rtrttltbll ^fSTCf, &S*fc <2T«W ^?l «ffcf t
+*pk *f ctt fanr, fa »ttar 5ttc»i ^t^r. ftf^k *ifani *rt*i
+Tfa'sppu f*rft for* *rc«Te fa$ ?rc* <*rc? ?rtf retell "snrarn-
+^f^Rtai ^3, Tt^r% $*tc* ^ ^focac* «rfa c*t* ^1% «rfarftnt^ srar *tefi ^for® «ttar? ^M^r fonrcfFti, ^rftrrVrte
+■ffiawrrt^, fW(5*\ iffttS &o*\ C^aRl, ^fcitETO ^r <^f
+src? i *m Tifirfs** ) ^» ^fafj •« ^5ft?r ^rnflr f»wt *i
+
+t^itiw ^rcqrni *re?fo w:*3rs-rc^ o*rc ^ntftp*, <«rtfafrrfto «
+Wffl^ ^Sl ^1 <2f?fa *ltftfa fWt<T *FFtf?R &I3 ^l<(1 *ttT<F I ^*1
+fmipftt* c^ iffa ^vl» m^M^lf^n ^rfats *rnrc ton
+<s*r fa, svw Trifan fa:*re, ^fm haw 5%^n 1 <$^2Wi
+
+^1 w^ *hs?> ^t*f 1W VB ^fflW, TfaT «Pff% oth
+*rt*ffl ^Nfa ^fcM fan*i tot, <wr <rf^r <r$U ?fal iftare
+s1l^ TStt <3W T^*tt«R ^STl I ^ST&m ^t^ 3fpRR ^Tft
+ct fWWtft ?t^1 sfft^R, ^rltji *tcr ^fsnrl. ^rora fSrcrrfa ^"srrt
+^7!, ^ ^i^lilVv <eft^ ^w/S f^T?T^ a|f$*F*Fl \\u$ *fft<T
+^TflC^Ttf^ fW^ ^5^1 W( *TC*I
+csrfa ^^ ^rl i ^f*r ^i*Nfa «rrfare, ^Kfa tor ^rfsrafa varlTtw
+^3 i «rtrft, «n?rc^ tfsre ^fwtaH, ct, *fW<» sf*nrl c*rc*r«,
+s**rsfa cv\ U^v^ e \ *tfrs «nfwi Tfa i sfVs ^*rfa ^ttT
+vfinw ntiHRnf ^na*r c^fs<n ^^1 ^tc* i fltrw, ^^s ^c^r^F
+^r$tR^ «tf%?^ ^m ^tw t ^Rf<f, ^Tt^f^ ^r^fr^ ^c5jt?
+
+*rt?ftwti to tfrrs^fti »n«rt *(rer *ta ^f "#i*i, first*
+*rtreiw.i$$ atotfir® wl <s *rew tw ii, "sWs ' ,5 tir^ wrs
+
+w «W*J->Rft«1 i
+«wta fam c*ft s «f«^ <*^«t?t* fcwifa to i
+fcwfas»<i$ we xfwn ftfm »it«n « £p«tt*tt3
+fc»rw«r ?f*i ^fcrfcsi cqwtuj «ntro: nvm
+^ITU *ra^ $ *it«Ht?j to ; ^" satffrre ^faffa
+Ttfa* ntnit?r iwitsfap, Steffi *n«rat*i ap^f*
+^eutt* «*TOfo*f*nii <tc* i ileitis 11 ♦t^ibnf^r.
+f»l Wl? 3ltW, «J$fa faf% <«t WtS Sffit^ faR«l
+*%1, Vara ito* w^ ttci iR^ * ctw *tti
+*rc iTO* t^wti *^#p araist^ ^rafafo *ftrc»ft,
+^tc?w Ffarcl j? i c*$ Ft*rctwt qjv Vara icr i
+SW Wfa Wfl -*rfa I W1, 4^ c*f* (TO 5fttfl
+
+wiifaiw *hi ^ttreir fcpf*f ^ 11 f 33*t%
+c^rf^a*? $afl ^sf?ic^r, ^Taftit twit ifas ^fanrfalc* ^csf ^!re *tiui i ^*t* ij% -yfe i
+«r«ft* ^* «f^ *$c*r c*ri ^tstffs ^*?r
+fcvt* ^3 11, • wf ^t*rit?r ^3 ^*r, ^t^r fawr
+i^rtl srnr *1 1 s*ri fit *tfaras *ta **fa f » H»
+carter *rtfore^s *fa «hi ^ 11, sr tftfwse^t*
+*rws *t<fr ^ n i cwt w »t?*rra stn *or,
+s$*ri *^ sjfuptci* i«*ti? *%i, ^faif wci*
+«»r c<u*r ^fam $ftt$i i 5Wt*r ^wcts c^p? ***
+^fSf^-lf^ *T**r UJ*<5 ftf^S ^ffl <ft* I CVW1,
+^t** ^1 ^facft, t**i ^fara* c* 1 * wl wv
+iw "fas •toer i ct m^t? ^$s, c»r vwt*
+*Rt*tw^ ^t*r=rm ^^tft ^finrl, m^s® *Ri ^fare
+•ftw, ^1 <£ffo*ft?i ^P?r1 *t^*rr i
+3s n, ^t^tcv ^ *fl fa* or* ic^t i ^^ ^^sr
+*iC13 T[*W C?S TO I CTlfftl ^ ii^*it fa*
+
+1« *r*faT-*Rfr5l I
+Tit ^ora s»t$ i fic*i^;, ct *r^re<r wfor
+t«:*t 11 $r?i ^d^te ^ft^ <r^ic? v«t *f«pf ^ st<fl
+^ ^ ^fem* fa* *finti itre *fTC"3r i ( i ) itiw
+^fst^tn w]*\u*\v»ft\ i^ ^?il «rrre, CTtfw
+CTt W Wttl ^l^twa ft^TC^T ^fatll ^1% *W*T
+^fa* f%& mra, wrra f^^srtar *m* it^r
+^tnn ^c<st w« *n, <sr*i <2tfo*ft*re **1 it^i i
+0>) ^iffa Tft*nr ^rtfa^ cfcflMrt^n <stf?-5 Ttfi <w icwfe
+" a if i »3Fi T&5 wtfxtw %*1 ¥?rt its, ^t« irfsfiftanr nfa^ts
+
+*wi, fatrri ,w* *w wt*i t *ic*t^^ Shrnnr fan-
+•warappfa ^'; c^t* *wtt ?rtt *t*i'*rhqi »wrrtrt?r
+W*re ^r w *ratfV *itfi«. *w inn tfarafmi*
+* w?r if*s -<£f^rt^^«i *fa?n, wwsi %*if%& vx i
+^■Jf -WFl fulfil «l^%3 1^C5t«tt^ «fW»I
+ito «rf« ^fli *rc* ; fa^ fafjff'r wt*i *wn**»r
+^ct, ^*t* va s?r 11 « fawn, ^n, isrtff * cw*
+?trfai wits *ro ^ ^c?, stffcir* ^fRfwr
+wt<^ ^rani *■$ it wW ^fasi *Jct i Tpfrrf*
+sssn W wra *fa*i, W »wh **tc*«,
+
+«rf%^ i fa^ c«t* «nai ct *rfe it« ?ir, c^ii *tc*i$
+«W 'RT HT^ W1 CW CWC"§ Wt3 <£t1%TO
+*fata* *fi^1t* ^F ^tlte ^ ftfcs *tti i shifts
+crft** ifafctoft i «nft«. tfa^ *F5jrta *rtc*nr**
+c*«™ i xnp\ sriftu *n* * i*t* f inn *nmr
+=iitff, if c^im fafas &% arar*t« »tfre <rtfte
+
+f=nre *rew ^m «ift§ i c*h c^ra ^re *t FiF
+strsf »nr*t*tTOr cw, wftrto cwrrfe* s «rfiE«t
+wftre 3^11, ^rtr, Fear « *whi ^totf* «
+<wtf%: *twtc^f iwFfro *t*i ^rrc^ i ahft *(**
+^mf> ito *t?w^ ^* f^:^ *itst?r *finrt
+«ntw i mk^\fa$ "rata *r*it $3Ta fctff *rf§re
+^t^sr m? ^t^i far i^i ^ f&% f*f$* i ^ *|
+c^tre faf^a ^fasl cw?c^ ^n>c^fa* *c*r i c^cw
+Ws to^ c^fa ^c^®^ to* ^ ^i i c*pW, ^rt*
+siftfats* i ^i «f*re$wtog cr, ?w asm wftis,
+tfw fsrtfa *fft?i sr^«i *ai ^frar* i ctfnct wr«
+
+cnt«wt*r aroc* *i^te Tfcnnpr, #tfW ^ **tw nt*r
+*tt* i n^j . cntt^tn *tf%«iTT «i^ wrtfa i
+en nt? Wfa vfatffirtMse «if<fvta =n| I ct nt»r
+ntftfa rett fa^ftrt c*fa wen «^f ^facs ntt* jrI i
+i^nr fn$t nt$i stre en cft^ai^rrfT -msr ^?r, ^«>-
+*iw§ c^ftfa* fa^tn nf*rai, ifs^tar ^?t*?1*t i en
+<wtf *r*N m est* ^fsre m m i i^fiii
+fat nT^fa ^t*nr iqfiife ^farecs, w ^TFartfir
+wt^l ^ratntcn^ ^Tfi vsws to* ^feiR *firei,
+«fctn fcnfa «rtt?rt^«i n^i ntn i ^ «r?f% n^t-
+«£3*to <&«r*t* cnt*foc»r «n^«fPT? ^ n? ^fnrr*
+^firatas* i **nw, ntstre ^f%«r n? ^nf^
+TO <«v m^tCV Wt^Til fc*** TO; «ftnT*,
+en foffe m en fc«3 fcufe « ^w*a fw>h,
+ewe* vfl$«f*t* nf<® ^nft$, "4$ c?s nf«rffr-
+^isn < n/<«tto en n$f $ «rftw, <s^ <ro *§W%
+*rtwt «wTstc»ft «rcn"r ^m nts i fawnr era
+
+fa^wFircn ftfas crtsi fa^ta *fairfc£ i ^st*
+^® m^s fafqf «i J? Trtci *r6?t^ f%?«i tost i
+*Tt^ ^t wHft *£<R ^Wi3 ^«*ftl *rr*t*-
+vhwri ^tfEstvrc *ps^ ^f?rai *iw* i ctm
+^iftore 'rhre'T ^t «rt« ^t*i *rr?i 3ii i f o «t^fo
+^fa'Ml ^fe^rs c^tnf^^r ^siz^r i u^ari f t*t0>) ^rtRfr^ tsfatsitror ^fsrft^ sulfas, cr, <7ft*f ?Ww ^*fe
+itnR *w ?rt^#)wr fafa *p^ c^cwtf ^ ffa Tfa its Tf<nrfc^r,
+f^Ps fosj Prat* ^r, ^teta *rt* TO*ffa i ^tw stn *f*r*l
+t
+
+*^n, ^^i^-sni ^^, *nriirft ^?fatOT ws *r*?f^? ■sffttre nfftf^n itfim <stt# ^ ^1, ^r ^srfafa Fm*Ri fV to*t ^^ ^^
+^f*rsrt ^faf^ ^tt^r i ^?ts, <2tt^ c^r^r ores* ^fa,
+^ *mrCT#rt?s '*nr 'Stt« s%i «nr^ i ^n ^r<n *rc*rtara *m-
+*V^ W&* ^^ ^ ] *^> a ffi^fa* 3^fi *$re <3t *R*rfcK
+^ ^tc?, *t5Hr *lr® w ^tft ^^, wr *rc*rtare ^*n ^ fa
+faftfeflrt <2tfa*ttffiF5 ^fto* J *Rnt*TC?T3 ^«3r ^y ^ t fe*1
+^5^r ^^t% nft«ffa*tftRtflnj <w $:*n?fft^ x s *Tfafav**r?
+^Tit% ^irficirc ^t^rart ^nrpnpp —
+
+^re *rtC3 sri i *i?mta *f eft* w icwt «n$-
+^tf% tCcanr f^r, ^tfa f*f$ ftm^ ; «afa ^fasitH,
+«rtfa s*fat*< ^Tf*r ft^ifCTCRr «?t^ $<»%$t
+«trc* i fa ts& fa %, fas ^ fa 1?*, fa «ri fa
+?f*a?, fa $^*l fa «fi*T, fa faf1^ fa f*f, 4151 c^m
+^r«pn it*, *flTfa a^ cvfa ^i c*r <sm ^ eric**
+WPfc* ^NttfS w*&fa$ 5l1 33 i ^f fast* TO,
+Ctrl «ftfr8fa«?f« faffe^re:^ ii"
+c^r ^snnt «tfasl ♦fnffi tpfni »f* **»rt* Ri«*W «?« ior»
+
+«rft* i artnwrcw frn^utt >rctn*f =11 <*Wt
+*r*wi firoj, fcm, acmstfa, *tt"tt«* « cft^«rig1r
+fa^ irai* *it3R«i cwfare ni«m *rnr i. itstfi&iw
+^te «OTf « oiiwe wt^^i $$r 3ft* f3t^*r
+ftW I CFft C^t* *CS ^t^ftC* fa^rs OT1 HWft
+«tre i «rtfa *ftft* «ft3 sftc3 ^t*r %?i Tftup'ft
+*tt8>n *t* 31 * *tm*&mcw t^t<f c*r*wni 3if i
+«*t* lefiiff, mum, ^wal, ^tw, *rew ^nsj ff?
+ItltW 11=11 £J^ft3 *!£* Wt *Tt^»[>5l fe*ffl a
+*3 I 31$3 CW ^fam *fa, Wft*m CPH ^fl-
+?t* fafo, ^n^Tst* c$*r *f«*tcir *fc*rtca ^s^r*:
+ifn^*«i *fin:*au c^^a? ef3T, c*s fatffa wv,
+c^ gw ®p^, c*3 fiian* wv, <«% <&c*t 3T31 ^t*m
+CTfa*itt<s^ *rt^*i ^m, fw ^m, *i#nt ^3*1
+TO, 1t|C?lWtTt^ *T % «t*» *T*ta 8 C¥t3 UK**
+
+<&$ nw$ii *rf^ ^us *^n^5 * fawi ^f*rcsng t
+W fa* *lVlt*, «<5 ffa <fl^ *It^*T<5l ; %*X8 fl*m
+cn*tTre cam, fa*n « cw^ «ittw, ^ tto, arts
+*f?n:*r, fasr fcw* csw ^ai *ftc^, ^tl 11 ct
+*r^fai ^?m, &w*f9 cwrfft $%z% vtxtus
+ff <2rt# si, 'stefc <i)«ttr^ tw^cs fctopr Tart ^t i •tsw, >rc»rtir
+acrtr, ^t, snri, few*r « irt$»r«ta ^rff% «w ^:*r, fait?,
+«Ws <4tftsr set! «rSt-5 wi c*r»r i a *rfa wtitcsnr fti *r*
+w srl, ct *&$ ■$ <argm wrU s^cts, wfsfafr wfal cstf
+^Ffirai «rtt* i *ff<PF Pf, il wtfari wtors «nfr <?f*rc?rs, ^t
+itt i c*r »re»r CTt^t &*tvht <«m* sttch, *t*t*i ifawir •ror
+<5rf^f *fcr»r«, <^>2f^ft to«?I«i c»W vor i W *rc*W vit^F
+
+awrt**rt9 safari? fisfa* 1te *^?rt «tfc* i
+*ret*i ^fjtr.^ * * *»f*#» «£*h* «t*w ^itt*
+fic*i^ fawn ^bf *rcv* *fafli *rc** i *fi*nii
+*Rtui g^rt* ifiH* t^ *^*n *tc*i i Htm w
+fcw iw «ntwt wi i "near crt ^tiww113R *$, W ; ^ <£ff fee* *tt«tt ^f?TC*T, C1^ «ff -
+fs si «u*fi%»to *|C5 iot^i Wife ^tt i ^wvi
+wren, wreTt*ta wen ■"Msirtar ffln it?. IT35 wc*f
+awiiras ^tai c«ws, recsfa iv.*t fl'Wirrn sTai w*t,
+wnr wK"f ^rtPB'srni vnii ^ftt^f ^t*n ^u i ««$
+«rfc*, c*\\ <$Mt £ fart* arc** «m wtw
+va^ *W WRW1* *tflRT«l Cm$ CTfcR, C*fa C^tt
+*re *rem <ret$ cwrc i faftu wtw wnfr-
+
+fro^i Fftf^si *t*,- -wr *rfan «tt¥t*r,
+^*i nvci^ wrcur, *rtstre &**tfo, «trtro^ m i
+ortit<rrtfa ^!^i?«i ^fro, <«^«w* »nr vrtutrn^
+spr*fa ^r I CTtt*fa *rftMHT <«**t«* to? * *^ |
+■raff re *fis "re to «rt$^ ^m, i?w *?ft^ aiter*
+ftfro ^?f^, «nw *rw«. f^t* *at*r farai «r*N
+^flfUl, *V fcm*T 'tt'Tt? attt *f*ra frfF5 *&* ;
+wfc*. f%fa farwr ^•twt« ift ^*i, ^ftr^r
+^cn«pt , 9 if^> ^*1, it** ^c*rot« fita *^*i «w
+
+error tor ^%*ra %T?T *3T#P ftfa% ^UttS,
+C*, Sin* lift ^fBHlfw m*\ 1St«*t1 *^t<W*
+itfwsre ^fifa« wm f^U w* *fm\ *tw I
+w* ss*«. ^f®y ifts ^tiF®^ ^f^ftfc ^?r, cit
+*tvt% f to** ^5** ^^ i n^Rt^n n?w ?i-
+*tr, ®ffa foonrmrfa, wft* loiter «t*f6 »*H*pr
+•twronrnfFrci urn vws'j'fi y*mn frnww *f**i,
+§rore *tTO w^tw, ^HEf*i« •tranTw* «nrm,
+*r#n^ n< ^m, towiti *$pfas "ft* i * wit*
+
+<s$ ^RCW?t $»Rt sift | *%Zi{$ *ItM$prtoSS ^
+^iwffir fafswr ^facs w,y$ %5fi ^r 31 1 ^ta^iii
+i«t«f*nr f Tft**f *Fftrft cstt vfiufl <rtt*H i ( i )
+ffvsi *tm «wa *»m%w «rfe$ $ *tt*H ; fa^
+<fr*T ?*T, "W *I*T, 5?t»pf lt*ft^ if^f ^ « ^5Wt5l
+*^*i *rra, c^<&*f vtwi ^ *ri"T c*t*i s^re fv
+«l^ttW *KT SftS f^irt Wl 7 *, ^T^l WtfJTC« *1 «tfa-
+<lf*W* fsrftt'fjr W«f C 1 !?^ *Z% I fc*fa IV?,
+( > ) I "nraW% <##5 CTWtBtt^ll &»TCTt *0R, ^WW
+<3$?rfc, «*&«rftHf n^tcnr *tjsrw t^tfsir ^it?TOi *iftTwa
+f&i lit, «at 'srf 5 ^ nrlc?<r fw ww ^m i*f<r ^c<f } nt*toRf
+^«m lift it«R to ; TOftw fin itn ^, i*t* i"»tfa «rt*,
+ftfawS; wrtm ^t i itw *wr « ^>R ^rf*nitfc ■fit* mfa*
+"srl^c'Bi it^ ^ftnrs ts: its; t&fcl ^ra i itelre cft^t^it
+
+erf fo ^rc'5r shm *rlw <2fi^f % ss i ^ »w
+^tw *nfr*ffw to i *ff fa 11 we** *ifa 11 ^e*t,
+<B1 *WRl *fcr ^W 511 I C^TC^P *rfa C*T1 *lfi* W.-
+*fcfl *rfa i *^*r*ni "5%c^^ «rf tec* ^i tow*
+*nro ^1 i&rfcf i «r?fa *i|*t^ *hm, wra ^
+*i^*t^ «fffe i np*p, «t** c*pr 2ptn ^cwt
+2ft-^<Rt^ ^€.«tt*R TO, WEEf ^ Tt^tc^ ^faf&s
+3^*1, T^Tta^RT^tiO ^TfTO* TOR, fctW$ «lf fa
+^irfti i c?u cvft *sz*i, "*rt"«i if*rei ^f «tffe*
+$mz* srt?r1 ^e «tff% $1 sites «ri«mj tor 1 c*S
+res ^tre Nraa Tsi to*? i cvrai, ^t* c*r
+^fts*, %tf wnrft «w ifare *tnrt sra i c*into
+<*it «ff fa <5??r ^1 *nw ^si «rtc^ i
+sstetre §ntfa to i fcttfa ^qwfa i s^n
+fe*nfi ^facr," i«f« « *m»^w* ^«.*m *i^r*t<tfif
+faTO 1W W *W*tft WVB *ITO i\VItll' ^us
+
+•tfa*1*srl ^fatr, <2lf^ijfe «tf**?T ^,31 ^ R
+w ^ti*t* *f»rcn c*&m iw vs^msttirTniJw
+*£«i*s, w*mr» ^fare, *t*ot*^ «usw ^m «rft*,
+*fa?ri, «w ifare *tTfac»r, to wti«»r*m»ni *^*i
+*tC*, tf1 f*C*!$ 5rft5T I t«Tfat 5fR ^swiw I
+*ti«n *ris 511 1 «twnf TOTOtfcc*^ «tf *tfr
+frwiw i «^t ^ffjf^^ ^irtcf ct, fc^ww if
+35? S5*tS «Tff» Wl 1«Wfa CSW *H*ltM* fc**jfa*
+
+*ifts *, wi *i5wa ^f% «i^fa 3% >i^?t *mft «rvft=T
+fa, Tt^, $*1 «tf=Rt?f «TCT %5Wt ^finta ^"fT*3l
+^cs srtfare *rtai ^t? i fafa ^rnnr ^, wort
+itc?5R i <a *<n wt»rcfa ^rat* fflfwpji *fiw^,
+TOw$ fararfat ^firol, *«fa^ir ^*t$ s^Tf^w,
+$*^t St^rre c^rtfw *w*wir *ifrm ^tat* *f«rre
+^s ^ i <st%i cwf«rw, ottc*$ cm to i c**ri,
+qr^tcs g'spsm fciftra *?i, ^ttfwp ow *kw i ^rcw
+itcttwi ^fiicr, 3^nr*ft st^re erffare *tt?ii
+inr i ts-m ^wuc^s ci? *ra i ( > )
+0>) <»t*ftren «mp& c»ni «rtcs, ^trft wiCTtrt ^rarfcr cnr
+enrft ^ or i fcrtre ^i *rfo ci, ws ?kzv$ cum *& sStfrn i
+
+wfl ^fwi, & w^ ws*N <£re ^T§t $fe, «t?re ^ ^rf%c*
+« wflwrwr wr «wt»r wl flrfcf i ^1 *r*w$ ®flrsR, ww
+tffiiarwfo w«i i ^i, *r, \flt,fFs* w^rhu cwnw Ftft-
+«r^ts faaffl, ^ri, ^, ^p, *rfa ■« w*rtf i ^sjtft arc* fa&H
+^Ffe^, ws v9 c^r f^itsr otusq wfars *rr$3i Tft ^1 i
+w i *jwwr« ^*t surfa^s sfft s s c i i stf?r «* ftFfu ^ foci,
+cwr ^rtr, wrsr*, w?f& * *fa wtftre <tfti *rfa, *§*fot fcwK *t
+ftftw *tKi, *ra?rft *ftn ^t*r <»wwr ^^ winter w tor i
+^W ^?r, gros^Tt* ^sra wf«ww *fa^M ^ri, wrai ^ ^w i
+ftWs ?^^1 Tfa i 3^ ^1 c^r^r ^fsirsr ft^M^r fam$*f 5^"^
+ww fSrwn ^rftfi f^ti ^f%¥rftr«H 5 ^^rnr^ ^ o*m «t¥r»t
+^rcn ^^ WW fMW^ Tfirre Frft?rtftFt*R « ^^it^ ^t c<sfa
+T&fwn i$wy\® wtT^r i 'pf*! crrt >f^^ ^t^^r i^^t w^rtt^
+*W1T aRI, VR ^ #e^T ^ftw I
+SW f?^ srhR*, ^^ ftn? TT»f ^^^t^^ '^m fttfw
+
+w vtar-wtftsi i
+<*t *fa?*t* 1* *>^1 <ltCW I ^t<3 TOC»& WftWW CT, ^5tW ^W1
+^#* Ti ^rn fore afrt ^f?rcw, OTlrwftapr^ 1w <2fijsf ^ «rftrl
+<srw ** i ^sftrsr wc*w ^>m f^ra <w *t*?t<r wis^t? ^twi
+t fe^rrcwiro^TTk *t?rt^ forcwirc fori twft » w
+^fewt^ tor <w fo^?M ^1 a^q Tfinn at^«i wott iiro
+^R» <3t# w j ^wttwfSt ^rfacscw 'whir c^to ^rf^ ^wc^ra
+«ty"r *1 ^Wcw fore ^ wl i
+^w^, a ^if^ foprwwrfir whrt wrfaprsji ^ra, <&t*tw *fs
+'wtSRt^^tw wl y f$% a ^Tfe ^^ft^nr wfV&wftw^,
+^tstc^ ^mt€t ^w i %■&($ *rtim <wf©«rfa i *tjw, 1^1
+wlvrhs *tw ^"Nrfa tstoI w«ffl ^rarerst i fftfw^ w^Wftww i fafw cwftteR <w "ffc^ \fwf%*R ct, <r ww, fore
+fa©*, ^ *rataFw *rcwtc?ra fof$ fof ?{Z% i ^rfai 5r ^Tt^*ref?T
+&WT S3 Wl I 4^W3T fofa borW WWW «J#F wM^ri?
+it**ft[*^ra> f¥w*faw$*tt?wi isc&fa ^$fta <wtea wrora ^sre
+^wPwf^^^ttwi *w* w*hr fowiis ftw i c^^vrr
+wRwfiF * sffiwRwfs i wvrcw wrfwcw, ^iufww ^ttf^ ws, ^
+wi^Tk, wtoh ^f^ wfwr^ ^* c^f^ wtwti^n ^cn f%P{ *ran
+«^tT*Tt ^t^Rl w ftfw^5 ^tw^ r
+
+c»n w fawn *fite»ft ^sa *tt«3t *t» 1 tow
+^r a^tfwwt ^«r *f*rsi «tft¥ 1 f^s nfhn
+wtii cr^ft f*firtt*, $tf t« ^«r to 1 «^ ^:n *mtTto, ^wfc wtre ^pw fSufai *f*re cw, ^mi
+*it?s ^fa * «rct*tt* *rr«i *f*re 1*1* i^gl «ttw,
+TMtfir* ^c«r« c^rfSr *c«ra «rt*r fakt^re c*ft*r,
+^iw^ »!*t* *t*i «rtwi wr f¥ *K*rtnr ^t
+*t$ ? ***, ititw cw ^«r «itct , 'srcffs c*i3r*t
+m^ 1 ( m, «*rt*r, it*w, fcwj «r^ f% « ftaw
+*r*f*3 ** *wrcrtwa *tfta *t# "ran 1 Jten tui
+wt*r •tt**i, *n*fo3 we ctan wwi»itrfi
+
+HfHFttTO «f^5 Wit 1"t^ ^ I C1§ «TCT
+3tfo*trc<!t *f*ratoi?, it?ra fi?n s»t^, ^% trt
+««? TOa *to «rf%*w fro, ci ft«Bl *t ts i
+*#*t fo^t f t«i «rtc* i ^tct* cto ^r
+fast ^fare **, •rwtm* ci^Rf vai ton i
+TO*** ^snr, *f*«i i^ c^t* ^ i ciwt
+#*rc *iw*i cro ^* «rt«rw ^H $ . ^rtcf ,
+c^srfj? ^*t*r «rcn*tt «wrtw>8 <srt^T^r "ttrar
+il *i*f* ; ^tire 3c«f?r <5W« c®*rft ^* i «i«ri,
+maw ifare ttcira, w *tf$3R **i i**
+**t* i ci **n >rer id, fa$ sr$ K*n\ fctta
+*iw, *$ c«tt m\ v%zm *it?r, fafa$ «rtta
+
+'»t^i*r *fcc*R, *jwtfta w»*1 *fat*T a**
+$55 *F*T *!t« *», «ttt^ fof ^5TTt=IT CTTOta «rt*Tf srt^ osrofa «t*t* *ftv **rotwr c*nr ivtw
+*ft I ^TTff, 3^TC^<sf fe* «WT fafi CTCfa ¥flW
+3^fT?l *F*p5l «IT% I ^"0, CW9 *WT* *ff*t*
+wirt tosri i wtir, vtfan cwfacr, smn ***
+«t«ttv ^tifw wrc fffs finite *^*i *tc*, $w
+$trfa fc*n*Rts ^ra 5 * f^i *ro **t €ftf«i »wtroi
+■^fwitiar itTtirn* **ra ^nsf ^c?r«f vfinrtcw i
+tit*, ^ «rf^8mtw«i **1 ^flpir i cwt, Wfas
+fci* % fvFM v\\ **\ <4$*m\ c$% Mlt* .f*r*
+
+i$m «tft<i *i » it^tFrt octets** crtc*^ $t*ti
+ci «w w* fir, «t*T* f *, <7i^ 5t*rt®*i s»;5*fc«t?f
+*rrWf?r i^fcih ^re®f* -c^t <5*sri ^iTarWrtFfts
+f»3 ^w fafl w$ , wt* *^«* *f«re fto i
+^^ ^, ^Itftf VfaTl twltwa I ^f 1 ft*1
+W* »mrctfa* fc*fo *n *n i *r^t< *rcprtist
+^firfw §nt*Ri «tF$tu fc^fw* wre «wt«i
+ostein iff s **t#Tf? vii f^ i^pi * fctfrtfir
+«nns, c? Nrt * «fsc?rT?r *twnr fw «f?t f f m ntcw 9
+cwp{ ^f%it^ «£** "Hfial ^^ -«1T^ 'R'^f ^ttf*
+•rtaR ? <*^ «rt *fHfo «i^nT •« *t*rt *psriPi*
+wf qftw *tffc»rtft tor =it^ i wi, *t*r c*r,
+■pf^tw^nr, wt i*c«t$ wtw, 43? *rtfPM or **-
+nrcit^fts fir, ^Tfte ■ "rtsrvtafi ifat*ire crffc-
+•TOR vfiratasi i
+■ittt* wt^ sfat &w, twtfa *rt«fai ^t*nr i& i
+
+it*, W1 ap^wfai «rc*w c^.Ti* ^tt»i^<ai* w t
+■torn tffa* ^t* ^$i **t ^*ri i ^ftsfi^irtw*!
+«*hs*f wftyvt «m *fa*i ««ftc^=u *n$a fc$fe*
+*lft$, *t*TtiT3 C^tl 'i»^<F *T^ i
+ttjh ftft ift w s$s§*f ^fa#)*« fcm*Rl *fircv
+^rfats <stfe*rt* it^ i c^m, cwfara *ft«?rl itir,
+fius% i^<n ♦$ c^tt ▼fa?ri <rrc* i <«$ <&n, srac*«
+f^Wst it* c*tt ▼ft'ts wit «m «jjia «rat^r
+^wei *fst*t tT^t?i ^fts $s H, ft*i1 *firt*i
+*rrsrra *t* cfai *rc* 11, cit ciW*r w«fa vs
+wrft**Mr ^t^*trnr n i *y$*"K ^fta w&-
+5tc«iv^ ftwfe mn «fWii citsi *rr?n «*im
+«RT3I if%?ri *r$re *^n I
+CTft ftfHffc flTO* ^t111 ««U* ^ 5(1 «fT^*,
+«wt *«r, *rti, «ra, <r£, *«f ^^Tt'fw i*»t ft*oii^
+*t*ri *tf *, fa*i ^^Tt<jf c*rc**^ ^djuit* *rf*,
+frirt*ifw ^ifo* ^??* «fv«w ii*i«r caft
+nw^vi vntw^ iwtwt *ftw* r <«^m*
+
+*tt*t *f^ *%*\ *tCV, 5t*tC*t «f =5 braTIT ^T I
+hiJtctiir &?» Oct, *"f, i^, ^t*r, ■vrcattr, ^fasCTl<K*f wr.CTTOta c«ffc *m*r <2iR «*toTFra
+irat*rct* «wti to* 0*1 «rrc*p i
+^Wtt *3< tor i <«*t«ftnr «forn i^fafaWl^nilH <«RI c*fa CTTOfi$ ^f$1 Wl, fc»fCT
+ciin ^flrf^^ On, $T*tro **r^ er^fo s^ir,
+<$ i*»r cttoi. fam* fan* *m=n w *finri
+Ore *ftw *n i *p"F, \fa for fa =n Ocre, *«ritcro *t*t«Ri **i *rew ^ =ii i fort* *rt^r ^tftfe, «twfo *«W ^t^j^t ^sitf? *ra^tir fro*
+tfn i c**ju *™ n wt ^ W tft w i tM
+$T*tt* nt^re Oct, ilftsmn w»fto fai^R
+*U1 ^f^oTT 1
+
+31 I «fw*t=ir *Wf"N W$%\ ,1131 I cii 1 W
+sf c*ti *tc$rr?r ^ sii f ciii *«f' «*ar •£«*
+imts, *1*1 ci*r ^^^« fwi ctwira, cr^sw «fo"jrir iif f*f«i fa?iitxTar i ^fare
+W* *KtiCHr* fiw vi i ^u'i* f«^n cm
+OlWtfires ffas> ^FT, C*11 Wit Tta •ft«Ut ^T?T
+511, C*Pt3R*t ^fwH *tfwi« ^*ft^Ctf?1 «^e1 W
+11 I TT5: C^tC^s C*T £§*&, *jj, *1W ^WfiHl
+*t* ^*f«rf% ^fasi, *wt* ^ *cs, fa^ ®i^t«T
+<«*it'3i iwi i cil*R*f, tivrf^f^tjr cv ^ 15? v
+^s, «fap^ «t* ts cs^ i tf^^^i *t?r«rnc^^ "Wct*
+<*rftt«f1tfl ^1131 ^f^tl^ <£tt<ft1T « 1T*RF51 flfifcfc
+^fi fi**a artfis, ifa ^3Ktfa «iiTriJ" crista
+3^C*V W1 *rt*t«RT$ ^W *ttra 551 J GMCT *w*
+•tfiF* n ^fscr, «$«▼#* nifr **t *rra H, tf*rai
+^rcsr ^r®i « ^* iwni *ffasir *fare *?r i ^®?m
+CI I'fafilFCT •£<&* 1**1 fallE*^ «ttfr **1 11^
+*ftc? ii, state* **i^ <r^5 I'fnfiiwr ifare *n*i
+ira ^1 1 c^ an, «*fttci ifa vfwwW itii *f*ra
+511 •ftW, sei^l *$W, *HT11T CTVSti ^tllHTOt*
+£f*S *!t*T«Rl ^tS •ftCS 11 I
+
+* «f»«rfti wis* $^*w* fcw* ftftrfe ^V
+ct *rfv ts^r our ^*% ^t^t^p frftv, c*i *jf^
+•Wftar ^*f? t sr*tt* itfar*, c* *rfv *rmc«i
+vt?tc*$ ^r^y "KaPt if»rai ^tc^ t **i ss, itiar*
+•ttw il i c*$ w% c^r *rfe, fat-m fM* cwfa
+*ft*1 *rrc*, «n? c*r *rf<y ^ wen fat*tt %«w
+*n*r«Rti ^iits ^%i, «wm*n ▼finite^,
+itciw nfaaTt^i, i<fi *t^fo cw s?rti <**ifiir
+w*Wtt*$ *tor **, cif <s*f, *vffa wtci^ *i*»r
+orwfa *wt* ^i *f*rn*rti *$*1 «rrre i 3$?t% **-
+ftwi ^1 ftre vt, cA»»r, <«*itar Wtwr
+fcffaitre^ *£<tnw fc«ttf* nt« ^facs nt*i *rt* ;
+*ftirt ft* Vtfltcsi 1 )
+^tvfa*, « wrunWw <wtc*l tow ir«
+
+f ?t"?"i T'V&| i
+*t$, wi *t» *rc*tote *w* i $t*fa *tvi sift,
+^^Frtta^ fafRre ^?rl ftsft^ i ^ttt?r fasts
+en «tf^w ^ fwi, wtsi faRfa « %t?tfwn**m
+f^faita ii^ =rt^ i f%f=i ^ftr« fW*f ^%tci^,
+en, cq«toi SftawR cfartOT* ft^r ^r « for
+vrfm*i *rfmto ^fwi, , «wr=r « ^tt*R *f?m *mi
+
+«snrt* fF^i«srt, wit* =rft, ^^t^, ^tt wt
+f% ? <$<Rt<5 Nsrssttt $ttffirifn? ^w*f 3*rwtf
+¥*res 3 ifaawfa sfc ^ft*r, cww wtin *ta ■&%
+sftft ^t<rc 511, »tt% ^t<* fenre*rt tfta =rrfsr *wf
+*«, $t*l ^w csTO* TWRT <^ $f%^i wtvts
+*t%5 ^31 isa* wto rtw i <4 wts wt* ^tw
+^5at5J ^ ^8, sat^l ^tt»T ^T<? ^13 0*faH «ft«l «
+C*fat3 ^t*1 &5tfft W ^31 ^s^RTS IT^T *£CTI
+<rtdft *f?raft c«Ww ^*J^ ^tfari cffiros^
+
+i^W *tfw, cm^ *rrr$ *u?r -suns srwti
+=>^ii *ii^#r "»^H ^i*rc* ^2t*t?i 3*tt**i
+S5lt* fas! &H ^fiTO ^OR I ffato?l ^TSfao ^OT,
+
+■'NN'SIT ?\-U t
+r
+*r$f^ srfosrim i^re rtre, 'it'roi ^%*R t
+a^ ! ^t*faft??r ^hr, 5*fsf*re *£awi, *rt*rtw
+-<rc*i ®^w wiTtfs ; *i#rrt «rt«ttttTO f *n «
+«f?rat^ ^ *if^ts *?tw *tf^" ^raft® if\ ^fars
+*ro<l ^tf$ i ^srt 3t«\m ^ta % ^tatc<! «(*tsrtc?*, itsu ^fssl, ^$^t« ^3»f i ^t*fata silts
+c*i far iti^w =n ^r. <ti ffesrt 3*1 i cs*ttw ir^w
+>rt*r^ ^»t^r c*fare *ft9in *mu ^s^^t^r?i
+*ftsT?i ^ firws ^ctfi <rtw ntfk «rasr c^f^
+
+^ft ^rs ^^, ci, -*> $*f% stfv W% =rcs ;
+*Rfre <fNfaf*f% ^tr i
+siferet \$y\ 9 iwwzi f^RT ^f?rc*i, ^fafo il^si
+faffrS ^^CS faf^ ^T=l ^1 ff f ^ ^f*^I TO I
+■5tf*s% cf w, ?fare =fl *tr*n ti c<rf*n;s =ci *tfsm i
+^«il^ fft ^fh ft* *ffi ^C© 1"5H ^ ♦few ^ft -
+
+V-T'KJ n
+-f*w
+*i«r s^r^w, lutufapfo #t^ ^to, si^tf
+^<i i ' *ta«i, TW?n cstitir *rt^%rre<j *>rcprtft
+^?n T ^<&t*t ^ *r? *rt« 8 ^t*i sffaras ir«fai
+fafer eftftf ^n *ftre I
+*fa^? «r$sr?fa fsFwfiTl ^ta, srW! ^r^ *nro
+^|€K3 c*t«r ?fa?ri, c*i<fr*i %f% «Flfo *s^ ^f?r-
+<f$ frsffa fan^R *%*r i aft ftsrfa*faw?r *ft*rt<
+^f§?r ^- F^a ^*r f^thr c^Ttf^?s c?r ^fa^
+^tSTi ?%*R I C'Jft jftsT, C*R *mt*ft?M «R^3T
+c>ft >i^i ^ttftra toIW TxWi «r? s s^h i
+^*ftR f^r«N ^^t fafHre « ^*rf%t«3 srta
+^fiR ^fatls ^n, ^tre foirefes *^hr ^*rCWfaJSTOtfTOSTC* I fFT^S, ^fitiJ bf^I OT*R
+^rsRfatai i -bi*^ ctrr cttw c^rui w*3
+
+ftror tuft ^r «rr»*f ^ i ^<pi ^ft iw*
+c^ ^tft sri wtfrol, c^tTtw ft#«rsftir ctt*fa*r
+tfwfa^ ¥ft*Tfa i ^rir. ^Kt? #fai fa *tfw, qttfre
+sT2rf%t«<* ^nr, CTtafawi ?ftsi, nffia ^*r, *r~
+V$\ Wfrs ^ftf^^u 3rta,^«.TO iftPRTO ¥ftil,
+erfafors i ^tfa *rt^ c* ih Tfinrtfs,^ ^^
+<sHf« *&*l, ^"f if^tftar eftwfa ^Ki qfatfl i
+>5«rrf*t, ^st^ts *itesifa ^ iftyiR ^ftre *ttft*rfa
+=rl i ifafa to ^r;^ #tTO« *ttfH fa Tl *iw i
+ci fro wft n^««^n «it*Rfa «**rctw *ttt*fr
+^unrsi « *iftnti-c*tw^t<t ^*iw*r ^ftref%z:^r=r ; *tftr«fa n^i ^%1, ^t^tw aftsffl* ^^j
+(TTffi C?W>fw1 *ftfa -W *VFft*[<*ft ^f*nn T*«t
+
+■SIMSM-f*'.,! |
+«iWs spitfire * jf^ti ^£tfr^ i ^ttvs ^M*r
+*$iri «rtre i ^rfa w w 'Id iw ^f?, wi
+w^ ^row tow sfa^ « ^t^» ^rl *ttfa i sfa.
+■sjtfsi *tw ¥%tfl ^f%n, ^*t *tfa3 ^tw« ^sifts «^[>5HTO5Rt *if^t<t*rft^ *retf &c$f% sri »
+#1^fe ^fifcs ^atts I fa"§ ^rfsr« <j#3f%3
+fo*rcn«*t ^src^-CTNOTteNr *p^ ^fk^ itfaeTft
+^ if^as *tfa^fa ^tw i *t^ ! <$to cn^ 3fsfhm «rftoi ^fari, ?«rf«n ^sw ^ w^s
+*trH^t ^fst«, cwfta ^tefw% ^tre *ftf<nrtf%,
+*ttt*m ^ cto *rt*FK *? * ctfa. wra *tf3«tfa
+
+, *f13J >I-fV':i I '-ii
+C«fl, 5*M TOT | «9^ C^fa^CS* ^C^WHsto? c^t^ ^ wrtft Tc<rr ^«5rQ?rqfc5r ^^ ^5
+^^ ^ ^ 4-<F§totar <qf<rct^t; ^WCT*stfTt3
+«I$W*f #?f% ftft^ s$n, vst^tre iw fa ?
+*itotor fasretosa *i b ^t>=[ fa* I'siUifii ^fa fai^
+ci 3ft*t ^ c t ; fall ^9T, Tui ^ CI C*} 3rt*t *t?rc ;
+c^ft fwa c<?ft<fi*t fast* stft « ffattii sift -,
+3«*t 5?^RT 8 WT ft<TO f*m fTOS W C"<Pft 3iC*l
+T*it*Rt3it fa^tr:^ cfte^t ~<rWi %\ ^*n ft?*r m
+
+m I 33 !> ^t^tUf? C^FR fpf^T «R*fCT, (7FH OtR w-
+*KR, C^TftR <f1 tffcftCT ^f%^tf^ 3^ I ^hr«
+^foa i *fe«. c^r ^re ^ ^^ <ttR ^f%^^ Mcto ^w ^1 *r fe, fa 3« f ^fare *m 3tir *i i
+?hh i •tftnreai c3*ttiR ifafa fc*^ ^tm^R
+«iti3R i ^ ^tfa ^wj 3t<H $ °*f c^ arc*f c^tf
+3*f3*ft3 ; ^W?t 3ft ^3 8 *R *itt3\ ^Wft 3*?TJ
+ton w* tfo* =11 3^re 33 i «$ ^3,f% *fin
+fw^T i f¥§ ^3ta *m3 31 *ft^tre, <£33t3 C^ 3r<F$-
+•stw *R3 ^f33Tf§*r i ^tfa sFtRre *ttf33l, $«.-
+W ^3tt^ «r«Tt?3 * *"#fo ^f$CT ^R?R^3*
+it^<rtw ^sfare ^fl?rtfi i ^refa wfo ^3tt* ^tft
+*tf*3ta 3*f3 =ri i cwn ^3fa ^'nr 3ft, ^srar
+«£3?lt3 >5tyt 3t*i3*T*rt3 *tf%^ 3^ *tft?T i
+
+^f<JTTl *fft<F i ^fw, TO* $Sl«t *Ttf«l f Stffe
+*?t^i *ri 5ff^ 5f^5T^ i *i5?TtF<[ cffare item qfa.
+•sf^itfw ~<ft%=i ^K *pf9$ c? fa ~<f W <r<rto 3rc*t *rtt
+fir y\ i ^nrs *ifw c*rt src 9 * ^te'=ri fir, vstfl ^*r,
+ititt«r?i iff » $tf to ^r? *tr«foi f^ ? croft its
+«?fafa Jfl *TNf§ ^t»ffa^, *JP*ff f<F ? ^I,
+*iwtwi *i-^i«i ^fsiri, «Tf * ^i ^fairi *it$ ; $fa-
+*fa sf* *rrfe*fa «k^Tr f^t^i i
+W& ^ffn*H, ^atr^fo *wfa "<F?R I f 6-
+<&r-i, $tn, ^, %^, to, fww, T^m't *mj
+cu?t 31 raw «rfourc*r *t«ro*rr%fr wi 3ft*i *h-
+^?f«i ^fuirl sr#I ^Rtr<F #11 ^flfirft, $%fa^
+^rfimffs^ fwtra ^w:«i «fN«rffi ^t?R i Nst*pi
+SWtot »r?r^f«r^^ari *tffa frorhr *rc^5 f sirtre,
+fins ^Tfa wi «ifroi, ^Ttar *rw « ^r*?i >re-
+^ftu ^Wu *Tt?R *tr*ra <Ff<rre zTTf*ft*R i ^fa^
+f<F % «it*rtt* £f!$ f^in, fofa ^wra ffirnt^
+fafvS f^trR I ^t*rft 4fs "STf fa C3Ef 3 6 Wil3
+
+^faft* cffasff *>t*rc *rai ?w itf^. sfvo
+C*tCT WW 3FW 4*1 ^fftre *5*1 fcft?Tfa CT,C^t5Iart *rffiFi «rw ^tots <ot frst* *mt«ri « c3F"rf^ri ^f£*r i "lopfsrai c^^f *rWa wri ^fire 31 J
+t#a*i ^$sw ^t*rret*T ^€te *^ot, iftc*Rr
+^, dtrcni ^tWtw ^W? cwt^ ^sri ^^ !)*m
+«att[«i ^f<j*r i 3$^ft ct*r ^tMt ^rt, *s^t ^re
+^»ft^ra fanw to, ^tfae ^si*t dfa33tw 3«1
+3^1, cwft3 CT^tw *s«ei farerc ^fsre *rtf«fafa i
+^ *n:*t *TOt*r ^*tfas ^ot, f*w itTtr^f fet^
+*ift<s *r*iwt3 ¥f??1, c*R ftf*F$ ^1, ^«Tt¥
+^fare it* c^ sifar 31 i ^t3ts **Wi* ^*f
+c^, ^?ran ?i to 1^1 ^forest 31 j *tt*t* ^f^far
+*jt*fa^i, «rfs>*rtai wrs^l « if^rtor TOt^tfa-
+•t^ifavfa, ^B^ror $5pw3*rtfaOT ft* « *raw,
+'srtfta ^=jf^^c^ «r^#3. ^trtfnt «ra«rtw, ^srtf*
+g^ ^tfa T-fat'S T $tV?i -5i^^t3 -*f« : 5t* i ffi'f-
+
+iHMft^ni *r?t*ft ^ircft srfs fare ^t fcftc?rc i
+irftre ;n ^ i fa* *fafa iirosw ^«fa
+^tft Tt^i ifac*R ^t i ^tTOs «rfa *teta ^5?n
+vfw i ^rtft, faft *(^t*t?f *tfrtt*rtRl *tfa$*
+i$$\% ifflre cwwt ^yrtt* it?rCTir $t*i
+fwH -^to %*n~s *5s*rci ^ifaft traKc^t
+*Wfp 1#I1 ftatatMt sFtforw i fa* *$j&*
+«rf% «wt? «ftfa«r^ c«fr <k*i erfaTR ^%t
+•tt^R «r*fa &*\ it i faft c^r ^^ ^%i,
+^sjfa *%*r, i>fi ^1 ^fk*r, ^fats iWnr *'
+C^frfOT •tTfiR ^fe *tt<* i ^tfar *F(t«fl faF*tfa
+wtfaai, ^xtf *r wpi ^%rti, ®Rft ! ^ffa ^*r^t.
+4^ffa#r c*t«fts *t*rrsR s fanrcit *i ^ftprai
+*fa* ? faft ^%?r, ctrr t «ir f*rc€t sitT
+
+*«^ ^tfa Ist^w.'if^toi ^rftre s sfr^ arctf fasfs»to vftv ^1, ws^ms "t^^firi, ita|5i%« *tffwfa =n i «*=rs?r ^fat^ ^F^ta sntir,
+<ii^f9 ^^^rt=i ^m ^ fi^r »T5^ ^w, «f?PT-
+*f«f5ft^l fUN^T ^2«Wft TOlfaW^f ^$1,
+>t#t *tfe^3i i «cfat* ci\*nf c*f, raw* ^
+^f^Tfti i c*r$ wtot *re**n *f*re ^ta i T\faz*
+*T^ft ett^fasr tc^r ^?ri ^^ i wfafaif?re
+
+^t^«r?f^ fcswtia «itfWfa«fsi wi ^kafa ^s-
+?rre, ^*ft«ft *r* fa ^tfrfv ?Ff *&ri c^st i
+ifiw\ *\f*z*R i *ifa fc«rft ^flre *ttfk*R =ri i
+*rrfari , «hf ®R^t *t%i tyfe cswf*re ^wtw
+=nfa, pro ^ffa *rw*f «ffaq ?p%i, ifarra*r-
+*ffatf *f c^rtRsr ^fa^ra *roa?r® ^^r ^firre *rtft-
+?rtsr i $?i c*ra «tjff ^f ?tf§*T ; *r c*r *rfta ^iN
+^%r%r ; «rt«i cr ^fa cwi^ fi^r =n ; ^fart« c«r
+«reft* ^tto ; *fa « cs^tfas c*r c*pi %r
+511 ; fa *fa, c*f«n *irf, ^*ffa fa, twr fa ?
+fa^t fwi ^ft ; ^2f¥fa "Wffa *r?s<i ^rfa,
+«r*rc«a ^rfa, c^m ^*re ^f?rre *rtf*r*rt* i ^rfafa
+^?i*r, «rf%wfat^t arf^turt ^fere ^ri fcfor i
+^fastM « ^*rfa^t tf*nn, *t£to5 fiftre ^fata •
+i^fa 6 ! ^fa^ =11 1 ^srtt ^t^fa apfw ^t^fa^
+
+wito f *fto irto, fcte:TO ctfiR ^facs ?rrft-
+^rft ^rttfftt ^tfa, ^tirctftft ^rfa "tes «fos
+totoj «Rrt^c«T »[ftal *$cto* I *W* fwt
+to* tf^fo, ?RRf?r?r frotfe * ^iw *rftre &$\
+ftfts^tfta *twnr s^t*. aft ^tstts ; ar^te^itffa
+^m CWfare *ttf%^Tt«r 31 I TO, CftC*. f^tW, CTttf,
+
+iiS>
+^?r sift i *r* f¥ g^mr ! tftesTRtftsi •t«rn^ *R#t
+•t?ro*t wtM ^fatre <OT ^fraft. ^^c^rtr^ *t*R .
+^finrtfe*R ! <ift ^tirei *rtft *r#fft crtt^sw,
+*re*>ft stsfa ^*rfa c^ i ^fw, $W* ^rwtf%-
+*ftri^f ^ CT^tf%*rs fitter *^ri, **W?r ^rt^rtt^
+$ta[ft* ^^ w*fa *firal, eft c*tt^ 5»ft^s * fw«-
+f«ra ^¥l fcft*r i *rt* *rtft ftpr ?rtf%ro *rrf?i*rfa
+St^T* TOTC3 ^w 'ft? 6 ! ^f^TN i *i^rl ^ffi*
+^faTOrcr fswewt wis *3ft $£ *tfre *fl *$*l
+ftfft #fa *Wsft drafts i
+
+irtfig i ^^ ^$51 ^iNy fa ? ft«f^ fanrotil «
+j&fw t *p& mat wfl ^faft ^rkwrn wsa *t«rfate
+c*rf<R ^f^rt^,^tmn Tfft ^"Wi totto TOftroft
+WS'SsT «rf%*tT5 CTtafiRfa « ^WWtatTOfa «W
+w*rt s^rftratt ** focatfnrafa i faf=j c*rc ^ltsrft resn ■s fa-st^r^ cipt^r <wi ^t*i «rc*w«
+$t*ta wnre f*t, .^< *if*ra, Virata *tfa<3< *
+fc**fc 5*faftf»tfc I 3W£*T C^fa<K*t fiffa^tTl
+w\ ^tt^t^ «r*tare c^to<&*t ^tarot* ft^ *i «rt<«r-
+*rs
+
+•linptnrs erfos^ ^ft jm *rs f%<F$ft?s *tf%*fa ^ft i
+^«Tftft «rfat?r ^rf%sfa ^fol w ^fwl ^ft $W*
+*ItW. ^E*I,^*-Tte WPT <St%1, SRR^tT *£$%«
+^%i,^ti ^ » **w «tsr *fast* i ^tfsf ^fa c*rr*«
+^fcft *&3i i fareta ^rffa ifcs ^ny fira H<&*f
+fa?t?H fo#Hw*ti *\ a ^$v ^re *f*nri, ^tfe? ^ffa
+sri i c*t<f *^*r <7R, ^»tf> cw^rei \stipf tow
+iW^tta ^tf^rs ^rtt^ i 7\\*t$ *T*1 « >i^-
+«rsr* ftfa *rt*rt* ^stt** i*^ *tf*T# ^stfe i
+
+itft ^\n.cn 4^te *rtf*t?i, «r«r*rei, «rffarai, cwrt-
+*«fai « c*tY?m«i f^nti =rl i ^rft TOatq
+*fa<srfa ; ^frc* ^¥t% *r*tftR ^frofa ; ^tft
+fa feoffor -sffisr *=r, ^TOft cf^i ^ffotsr i *F?res,
+afortfoa ^ ^#tt, ^t*ft ^ffot* i <*^ -$z*\
+*«tn* *tRre# ^etfrsft, «rtftr «rtrfa *t#fa ^t^r
+ittsrWfa ^ftin, =rt«r ! «pw ^, *f*nri, ^F$a
+^fltf* *im srfsN© ^fwi, *rr?M ^f?«TTi i »w *r~
+ctis *r ^f%*rt<s ^t«i i ^ *taw ^1 ^s?ft ^t^5
+fa^ts ^"n# sift, ^t^t? *r^1 ^t?fe ctt^fa Q
+^TTl ^^ I ^<fr*f sf&JW CW ^ft*Tfa 2TOT
+^tc^^ <srn*f ^s =11 1 s§to€fa ^ifa 5 cftt¥ cro
+fwr **, ^w ^*f is *$*t ttre ! *tfw fa.
+cwtw set? *ft,f"W *rft, cmtm c$U er^t^
+imi sift- w wto* *mt sift, c*wtCT artcstns* cTto er^t? forei ift i wr^ ! ^tft
+
+^t^?e ^fa^*r m^*i ^Ti f^=T i foft ^tro
+fa* ^rtasa, sntsr, w^Fsr fast* ifaar^ ^aft ^n»*t
+f*wfR, ^<Cr^ c^rtrea ^i^Rt^ ^»R i *mi, ^u
+c®RR ^ta fftwfl *r% c^R ^HR c^t=nmc*i
+erf^tw ai srf^rt^ ^firc^ «iRR ^*tr fft i
+c$fs, o»RR ^tr ^#r crtwrwi « crfwRi
+eftforo *%t%*R ? *iRR ^1 <*Ffa fro *
+^t^j ctR ^ran i c**r. «t^R « *fo wis
+*re*t ^*R r*r ^r *i i f¥§ fr<rtel toi « aft
+^ cm?, $ ^fo CTR«T ^t^ft«T^1 <flV ^rfo "qffa
+^TOFC* iffl^a «rtf*PR *%1. COT* WTO?
+
+f
+ftwtfos (ii^^jfi sftf=rc^ i <$?r ^ gf^ qt*ft
+sW, aft t«r «5t*tre #teatf«t% mi i ^ ^tKt
+f¥, <$% ^fa^rt aflurai faw fare « WRR«. ^#f^
+^«f*»F5 3%fl,i#*n *tf*^fa^fa^ ^gwt^s fc*tw«»
+s^rcfo i^fa^ '^ fao <qfq* wi TOtapsi *ft$ i
+«rm* ^tfa erw fats «r*« *&*rfa i ^5t^-
+"i^¥ WTC *F*R |
+*q|fa c*r$si*t *fw «rt*«i ^pfan, ft«rta ^rfcr, wto cat*ra ^fare «n?re ^fa*r, fefa faiw«i
+^Rt* 5&UT, fe^^flttS fa «Tfar5 *lTf*ft*R I «R-
+^3 far^ret^^ti:?! w*z% ''ftw to to
+^fa*R, ifafw ^fa ^rfw xf#t ^8, ^t*i ^ci, *r*-
+c*rtt^ njRits ^»ra<i *rct?m ^w i ^ *ft*ft*rtre
+&shri tf?r ctr srsjHi ^ i to-ot ^fa «R5irftre c*rt ^sta* «tc*nfi ^f^ ; c^i fw=? ^»n faT-
+^t? w* atwr »rr^w »rp*i? *prt*ra ^n.fafa
+*rt%3«r c»H ^fafl,^ *tt»rett*t w*% ^*rfa #fa=i
+Tt<^ ^fa ' *tir, ^ ^pswrtre fan c^ *rst*i-
+
+cWfr ! ^toi ^*rtsr Itt 9 ^ atar*. wfo^
+uTtfatsT, «Ritw?r| <4^fe*. ^"5Tt5tc?ni^ *rc^-
+« ftft* fa*t* ^m ^ <^<&*t e «Rinft ^t^s
+^a fa ^*t^ « ^t*tt^ ^fti ; ct i^cnr tftg^N-
+•(•ft *t*rtf*3 ^sttf w srfa fagrs « %f*r© ^-
+iretw* c*ph ift ; ** Wot* *r»r# *rt ; ^toi*?*
+nm srft w ^?re **rffiar ^ i *rt*l ^ta?/5t*H
+=imt<5 8 WfWl i fa si 3^ ft*i *rafc *
+^iret^, ^Hf^m ^stm i stfori, c^rtc^
+fa ^tfasi « fa ifasi, ^"t srtc^, OVtW *
+^bret xs?a*»rfa«. ifo *w *tt*t i^w iti to !
+itft ^ ^tre ^a, *nrsrw«t « ifa^*t^ fa^
+^ftstts i ftR«ra *fa*rf£ fara wit wri ^fk*r,
+^ *f«pfa:*rf% wei ^$ T^^r fa* «rfa*tf^ *&-
+irftf , ^tfalTl CW*t i fa-§ fa ^sc^Rf y<t1 ! «itft ^
+5^^?r ^5Rf#t s^ ^rrara ffar ^ta 8 cwt^ fan,
+
+tf*n ; <*irfa ct^r W ^far^ -^Ft^fe ^f%re fa, f%^-
+^f?rre cwf«r sift s w s ^fa ;rft i ^rfe^ruuft
+if* ^ ^ ^?pt « <5**j^tra ^*t fw=r *t«w ^to,
+cw *rc^iite ^ft^rtcw ? ^tfa fa*s? ^ta « fw
+^tefa ^*rr»H ^r ^ft ! c*r ^s sift, ^n^fi , w
+^^ <w c^itCT c^ns^i %*ks* « isjtstara ^<fl
+=fft, c*ft itfaftre^w mN* ^rt, fsf#«i^i est*
+^ffata cf^i ^ i pwsa Ti^m autre. <msr
+^c*r ^i.wft *i% «rc *ft <?rctre ^tsi *ft<$r ^tre I
+*rW?r w retire* * csfafa w *rmtre ^tt
+*tf^5 CT^ ^fif, ^roi ^fa •<* «?tfe *ft i fas ^faftr® *tt% ^[fafirs ^rei?? ^raffl, jrfatofari
+Ttft ^re *ttre sn ; *rsf»ft? *tesrc;*f ssttfa Ttret^
+
+cpri, ^tstre ^ta *fari =rrf i ct<t, ^rft ret^m
+^m ^tfwt^ i fm ^W? *tfa«rfa fa «afa* ^ !
+*tt*t «rtt«i $1^1 *rej ^fsre *ttfa*r =rl i vqvs fa- '
+*TO>s ^*t ; vvt&te WFfts nfm ^t ; ^<
+CfE*m, fa3ftw<r « «rf%$ft*ra fan «tf* fa ^rruw ti
+&C5 *\fa\n «r?R ^froffw i <raftw ^tfa ^rtri
+$3W 4^W*t ^*, F«T, Ifa <?R ««WI ^flTOf ?
+fa ^Mr.i s fa ^fesftart ^1 ^rcW ^fk^$ ?
+tfWrs ^fat® sst^ftr **nrat& 4**rf^5 ^m
+left's ^st, C^fH^fn IW^H IfaW ^?T1 C*M I
+
+^r*tR <&$ c*fte% ^w^% *tfas *rfat* foe?t<$
+®f*t ^i « fw y&s ^i, ^fati, wrs *tfat«i, 5f*T3
+<?t*ft *re*r ^ ^rfa^R s f^rwr wifr * tot i '
+Tfaf^ wfa«r ftsfe? *tf?r^t<* ^ ^ifwrs c^U
+^stfarl, 'RTF «fcn«r «r*rfa ^^ *«if«K ^fste
+¥%1 «ttf% 1 t^t ^, irfa ct *tt$r wfa ^fwsift ; f%^ ^tfsr 1^s?*f%tt5 ^ *TO 1FJ3 ^ff ;rft,
+«tftl1, W5 *t*0 «rt*rt? isr 3^1 ^5^ Ww.
+iftni, ^^\z^ if 3 ** ^w, ^ c*ft ^rffa nn
+
+3?c*t Will 3*r^*ror ^i^l^i^ *tf*R *fM\
+itfarefl i i^T *rcfc, c*^fa «rttCT ifafa i^tn
+wi *PS?rta ^tstii fasts if^w faftre shafts ;
+ct f*R ^ sr*t gscnr *ra*ifa ^tre, eft for WTfa-
+<*W* TT5 c^tit<f <ift ^t $s*r *r^i srK% I CH
+^•fTO* ^h%^ wrc, ^i *^*r, fort«t?r '*if«-
+*ptf* c*ftarc*f i^ft fare*! ^f?rc*r, ^rfi ^fo
+^t^«iT^f^* c^fa'tre? ^W^^w stf fa^f efagfos ^H, ^t&^etwfa TO * 9fa*rfa afoifa i
+fo ^fjft^r s f% ^r%*r *r ; ?r sir, fo$^ ^fart© «irf«f-
+•ttfirai, ^afta TO, ^tfw% TO, %t^TO cat**
+$$$8 i 'r&*u iff 'irfwrs, ^rsrc^cgrm, ^tfanri
+IftT I fapflT;, ^tfl CI *FT?tS *ff33 ftwf^"«TR.
+
+l^vft *I£fW f»W ^fa?1 ^5T1 ^tFt*T^tltSi I
+it^Rtart faitw *tfsr?r, *ra*ra ^ i <$ frets
+wm ^%*ra, ^*rctf«i ! ^fasi *rre relit*
+^afars ^#fa c*ft^t^ s sr#fa sirfa* ^fta' 4T-
+^t«3r ^t*«i, ^«,-^r?r ^rs fm\ ^fairi, ^Tita fcwf
+vtfk ?\ ^%rt, =fi wrf%irl « =11 *Ftfori, fa ^srtf^
+*P5$&5 ^&fa *fs*Ft*r ! ^srtsr vtefo sfawtw
+* fa^f *r ^i<r§ w^fas c*rt*ttif§ etttf ^*r !
+*ritf *rws fawn*, « fffaftis »ir$«fata fas I
+
+*ttft •(•rat* ^ffire wrc*?*ifrt*R ^%i *%*rc,
+^tf%tw ^wl qtre, ^1 %\m, -wtixa mftf®
+if* i ^fa ^ ^ *cw ^%1 Cf*l, ^rfs^fcs^
+c^R =rl cutset ^*m ^fsrei^ i w ^ras
+fast*, c^ tfaTtara wt^rt?, c^3 «ffa ^5ts=rto.
+c^ ^rcH* *rmiR, c^s afoft* wits, C¥^ «rc«fa
+c^ Ttftu ft^fc *Rrt*rnr. c^^ >w «rt^tt*, w
+1F«R ^fk^H I <*$?TC<1 *PTO T'^tut fw^t^t^
+^^ ^f?nn qft* i tf*rre fa.iFire *N?nw fafos '
+5j%¥l *re t c*R^tr?r c^Rwt e cvft ^jforet
+
+t
+*i-il<r srhK fffKin ^fta, wfare* $*, i^3r£
+^t<T t*l* ^fafa cs*, *Ki s %*rf* ^?re ^rst* jw
+C*Ttt¥ ^hWS "W^l ^re ^ TO TOT ^t
+^ssfar «r^f?r wss if*r s toto* $s<r ^iu «i^f
+s 9 "stfwMwtotfr ^fti >ito itti <*w &*& *iffa
+•itfa, ^t*rfa fa«w ^ar^^i ^ttw , ^ ^fftfatt^ni tot
+TOT ^tt*»3 ^BRC^S <il^fTO3 W 1^*^/37
+Wt^RSTCT, <W1 Vl«fa Tffit^S ftTO, fa°^1
+c«f<r, Tftpi W f fti **, ^*Ttt*r ot* ^f?in
+^d i ^tn, *t*M fa ? «tfcre?n ^^ ctT%i ft«fa
+
+*tt*i *t? =n i *fST ^, ihw 3f«r ^ i* =n i f¥s
+c^r ^u 5n;'' ^ro fa *fa ^tfanj «rfa ? erfafira
+ip«r ^%1, ^TOwa «wt*i ai^ ^?trw i <fl^TO"
+^TO?Jl ^ft Tt^tsiT ^t3TC«l Tl IfaRT ^ ^^SRtltrt
+1F*R TO =T1 I ^ft <*farora aranrtU ^fa«l I
+c^tw^ ^*rctfo^ « *«rfa« catt tot =n i ^ta
+^t*«i fa ? sr 5 ^ wrt=r to ^finn, ^Ww« ww
+wrtta ^r?r wrra cats ^ sfi i ^wre »te*t
+*i*rr ai trot* *ri ttre itft^ «psW ti «Wr
+to ^ftrcfl *ft* <w ^*rt ^TO ^FfaTO «rt«Rl
+ci ct ; otct* ^fipfaw tow ^*»R *fim, ^TO
+wi to^ src^ i <*i^brt *rcro , *c*t *rcro toct
+<iifaTO3 ^rfasta *rf*re ^ i nWTOro c&ftf $ al .
+Tff%^ ^8TT1 TO^lWtS TO I
+TO f^. c^r »rcittfnr *tf3«rfa <«^«f*ta «*t** t
+c*$ ^ro-»tf«t*rcift aft *fc^ •iftorfr *?n
+*rtfc3T*tnft *#rc i <§ cw£*fos^ffoF catt,c*ffa,
+vn, ifaj, farr» wrr* *r*W, ifrsN, ^timtR.
+
+toWh, ^rfartfa, wi, ctoi. <?& *flfor^ ^*i»
+^Wa tot ^farecs i ^K *Wr* sttf *r*.
+^ri *tti 11 1 ^ ch ns *ra *rfaF ^tm wsfa
+wr ifore ^*i. fo<&*t fats * w* fforfti !
+$ cm, ^ftro ^t^rtrf « ftStft^ti c?rt¥t*rcs ?*-
+^tf%, sre *tffa lit?, «fOT ^fare <n**ttrt *wf
+w*fr *nito w*t* cw ^fa Fff^ ir*pr ^firai
+iraf \«forTft ^rers 1 ^ ow, fc* ^ cr
+*tf%^3 * TOfa ^trets i to 3ft, to t**. ^
+*t*i^, to ^5*1, to ^f , to <arfa, to mfa, to
+*f$, to *t#t <te*t w$ « %*rire rtrfci ,«t*i ^tTO TO I Ifaqfa, ^ft« C*R W3i ^3 5tf | *$
+*te*r. i*t$^rafro ft** «rt» « ^twt ^wft,
+<flfkw cftsrart *rc*^ ift i <« *rt*«i «rct*
+^R1 tftaw C^R, Wt« 05*R <TO* ^tTOl
+rtirt <*tft* i •tWRitrt *% ^rt** w*f ft i ^ctf
+^fo C^tWi Tt# lft I TO43 ^ft Cn^ ^<-
+m t *f*re ftf, a ^«r *1 a *f% fo*ittV *ftG
+
+^%m 31 ; wf w\ *t?ra fn?vz fkwt &w «rt«
+•raw ir< ^irtff w «rctfs* *rtf*rtf wfipi
+w*fa *i wa~$ cwfan ^ftsi ^itpi ^^t m$$
+^«tNfa fa^ I ^TTW wfofa^r, ^t*rft*r, ^T-
+*fforfaE»r wta *^sl, *tra *tar trow ^farets i
+$ C**, ^fat* <flffa* Etf^lfl CT*. SFiafffR ^W
+<¥t*rft «tfipi *&ri, 4¥sr ^bwwt irrc* ^ta ^5Wl ^farTO 1 «tfto *tw *l *t3t* ^ tJR TO,
+iNt* ^fs£$ *rt«faT* *Tt*rtfro ?TO1, 4TOW ^tffo
+af^Tftf <W TO=l Tl •ty*!* f^^tW ^ftTOH I ^t
+«TCTO1 W^T, f«IT « WIT TTtlfa *tt* fa *ltt5 *l
+fa rtc^ Itn ? «ttfa« ^ ^fotW ** s 13
+
+.•jb snrsi t\ ;^5i i
+*Tc* i <*ft c*r<t, w?re <hf6m «rt*«i *fi*i, ^tots
+w& fa *tfa^ *fatts i afc cw*, ^srore wftroFi
+^fwi, ^fat* ^wt f*r ■« ^^ ^fstts i <*ft
+cT<r, <q^ra ata ritcff f^^^*i ^fiiin ^fat* ^w-
+^TO^5 TO TO <8PM ^%1, iftrfa *tws*T c*ft^*
+"«pf^r ^iftw i <*ft c?*r, ^fprfs ^$s sr^fa ^5*
+*t®a *rf*s Tfa ^%1, ^fat? *tfi$ *rfa « *^fa sta
+fa^m faf ^ ^tstts i wr«°.. ^tftre its faf -
+it<s «Rpnj ^tft i ^ft ^tij«! fa ? <*^*rt<5 Jstifcn i
+«* itfa *fain to, *K*rtaa ^rattanft ^^
+*$T •t^ Wfa T^rt «ftre I 4<pfTO3 <3RI*
+M5t*fa tfil^t* ^ I CMTCT qflCT, C*ft<ttFft
+cwfare nftt* ; <*ft ^«n ntfft^r ^its fawi *facsiK <w ^t^ratfara lit?, *wrc*^ ^tass ^fa?ri
+stfantai i itfa i^Tfo *n if^rtw ^farefi 31 1
+vtojtc ^fi <ift *tt*t *K*rt* ifircfa ^3 <«t qtstre
+eft ffantw TO ^firc^ •tfa, otrj ^rF^ ^e i
+it?RK<Fft ^i ^"ft w ^pfat*t"*ft, ^t«fat«H-#i
+
+' • f\t i^wrt* fa *m^ ! ^Wwa m%\ f%
+fwv\ vftvsp* \ wi c^H i$c£ <3w ^fks,
+4^ ^3ttt 2ft «$S *l^m. ftf^t?Tt*5 TfCTT* "SfCTtW ^fac$t$ i «rffrnr *TwrT *« «ttfwi, wtfwr «rwi
+i&wrfa ^ ^r^ ^^ar ^wttr*r TO*«m mn m j
+*ttn ^f*ftre«-*Hra "ftfo^pmfci *nw fa hi?
+*3<ot ^fsf ^ ^f t€| ^m *tfa^it«r *a i *t?rc*Ttre
+twtfiflt sf=rat ^fa*frfc ^m ^rf*f *pf?rm fsnrfti* i
+®rr<* £tmre *tt*rst*r cw ^fam, w*f *rrtf *it^s «
+c*t?r 4a? s^% ssrtae c*rtf^a< ^|*r i fofa irfrre
+to ^f^*rc, ^rtotre aa i «mw-TO^-ca*Rta ^fata
+fa^*r ^m, *itfa cw ^f~r« sra $t*ti^ «ffirU5
+•tftra t^tCR i ^*foi wtfa ^rs anrs stmr«f
+fc^tfa <Hf3ai, ^fe *rcif CHr-tC? fT?!«i ^faitl | ^|-
+
+?=(! iffaft ^rft. ^t#t *rtfa, ^stfrtft *rtfa wfa-*
+era— <rt iwtffasra (Pt| 4^f*ra ^r<5 'stftaTtTOm
+•srar^ fastereft sfinrftf i ^fare fa, ^% cw-
+-<f%i, *nrara ^t*t *ref*t i^rt* *ctt* *r«; ^ffrs
+fa^ *t$W*. ^Wf*tT *rf5[TO[ *F*W ^<R faw
+ftra 3X*r *ttfa^ « w *tft*. to ^ra. c*r| ffa^
+^W?r wW $;<rfc*tfa^ ^9 «r*ict ii ^rwfTO ^r^te
+*rtn <ftt^ « ^*trt ifa it^re* tffaii wita^i i
+^m offerer. TRtrrtCTrt to to, *wrfafr« <4^-
+arc «fr ife'j i fa* ; st*ta ^*i< fatfte ^1
+^fro* ifa ^fa^ *f?ret* ^tW^ffi *ft i *ra"r *r^-
+c?r* ct w*fl ti c^ «tfa,^w* ^rfre *vw\ *n ^ifa-
+
+**rft<r ^t*^ s ff q%$*r t c*tfn^*r sfrssfftr s
+^ *$&* i ^tw fa to ^to, Crra to* ^t^t-
+*nr TOt**r *fai 3-fafa ^nr^^r ^f% tof ftfSfrs
+*f**i,fteR *f*vs *rtfa*rfa W <«* 4^ *rfa ■j'ww
+^TTtf *r snrw cwfws *rffa*rfa, #t^tw cF^rfa *r*fa
+«*fa^ i *rcitt* it*tfa «t^t^ *it% «sfaf i
+citPF <*$ ^t*rfa «rc*rtro to « ^ts o ftst, ^rc^-8 ^«fan ^f*nri to ^ra w farces *%v
+lffa\ ^tft ^w^ fort* *rW ^firal, ^s-
+^tMt ^rrsrtr^ ifasf wft^ ^f%FR > *ttfa iftft
+witew to ^frrt, ^i spHt\ 5(1 1 ?rf*rc*fo
+^3sr?i ^toi^, *rcwr*rt« rtw «n°n *rwi »rfaj ftc*rt, fcftre rt?n. ^tftra ctw^i ifkcw i ^fai '
+^w*t to « TO*t «rt*ttrst *ret « fwri ffcrt-
+
+crc ; ^i*$OT f ^fi 1% $Wr* *n?fo"5 «irfti:tf ?
+**=$ =lt I ^CT C?1 ^fsf ihffi ^W ^ftst%*T,
+$*r*t, ^ftr*R, srar^ j fswts *reto *ft*t srft,
+s»ft i ^ ^ttft *rt^re *tf^»tc«Rr ft*w ^rwfa
+<w ^*nrf%a iw«. $fo fa fts i ^w *rt^tarat iwi ^itt*t Tfa* ^fa ^*ttw*r ^ftsrinsi i $fafai
+TOW, *rfa[CT* *lft ftFf <*Nfa ffasft 'Ift^, st*t
+*rc*rtm c^t=r Trt ^tft -s ^^sr *tft«rfa^*[fa3'
+Wft ft?f^5 9 ^fa^ &C6 ^ I ^<E*1 ^«Rfa
+to i ^tre •rrctw «tfo*ffo ^srae *^w.
+*rcfatt*rt ft*fftre i s ft^tft^ ^n «rtt^ i <«t ft*rc*fa *rj *ra ^#fa ^rcpre to i *v5r*rt* ^r*rl ^rspfts $fSfafa TOrtrrofa «*sa wtr© <wrfa9
+tufa's *^n, wc*r, wt, fc**w, ftfusia w
+wrft ?i ^retft^ i^ta ^®f**re ft«rtw ^*ti^3ji
+•« *fare9 ^n ^ftiri, 'wr =ra^ *rF» ^ftntif 9
+^fircro. sift ^f*fafa to i wr=r i m$ w?r$
+*M.W5\ 9 Wsv$[ ^Hfa ft*n ^ftrefs i *te-"
+
+*t*ro c*rfflf*3 ^ftt $1%$ fVi Wi
+ict, ^ffcrw s "raRsntw« froi«i ^f?tre ^T*W
+^3 sn i <*r$ ^Wi,$a* f**fr*tt =rxt?r, ^t^ awc^rrv *Jt6§?r ^%1 «m* i esffla* «t*r^ ^hrtff*r i *re<m ^fipriR cfft&\ ^®t*t ^firefa
+*rtro*si sift i f fa ci ^pi cwffa «mtt* ^MMW
+^fam, $P$\ ^s «w srarfa* furore fc*prcffo
+3fi*t «3Sri ^frcsfw , <w *ronr i^n «TO*ifa*
+^rfirtrt*, tw* srtfwi « ^r *$w c*rrf*i^2rr?
+^fesis, ^° sfatt?*f c*ra *tf ^*t f«nrtcf i ^sfcst$ i <^ ^tfarri, itre *rre *a ifai c*rt ft*tf*re
+cttPnnrtfa Ttf^f^ ^fare *rtf*t»tf* i *jtss
+
+<ii*itaft ^ftH K&\ fortes I Wl *srerf*tit ^\fi
+C5* I *tfTO TOTC TO *Rtft#t rt^tff ! «ft Wfa
+irft iti <r<rfa ir^ for «rtfara ntffart* =ci i
+faffa-n^r-froi ^ =tfftr, <4Tte mmri *fcn.
+^firre *rtforfa i *t*r, itfa to ^*rfa ! ^fa, itfa
+w$ ^»rfr ! *fa, itsrfa fa ^ ! *l ^k i *l *TO !
+csfrral c^Wt? !
+«rv* ^?¥r^ ^t% wrt^T *t*«i *firari, *te*
+to *f%rs itfortviN ! fPr ^ TO^tfrftre oretfaft *tfireiN *flirl, t*Nt* *fR f1w&$ ? Itfa
+TO<ire ifatt? *rofa^it^tf?fll ^3 i sfa, itft *r^«N
+«rW1 ^Tt*r ! iftrt* its ifj* fa ? *rc*rw fa ?
+fc«tti fa ? ifastro fa ? ^ *tlw *te*r,OTtf"nfl
+TOt« CW •tfVff 3*3, ^tftfaTC* lW?« ^5T*f
+*WJ *t^5f S^CT I tf?, itTfa fa ^*T ! ^fa, itft
+c*W *rft. fa *f*. tW^ ti *f?«tt*rw ^ j ^fir
+vr^K**tfr src^t «rftfaf \ itatn c^fata crtro
+wt^?f ! *rt*tw ^^r?f 4^ ^fr®^ to *fihri, c*rfa-
+
+CTtFPni ff^% ▼* i «ift i^m st** *m !
+^ ^t* ^w «r1% mtft% rt« ^ i *i ^ts !
+^ c*wt* ', ^rc ct «tt>rtir «rwrfq* -zftf^RWt*
+•nm *retwt* *tr*R « ^t*t *rtf¥* *frfai, wrrt$ *ro-
+•fa ▼ftrrt%*r •, f^j *tfftf c^t^ *wr «rt*n «
+t*t srctfirc ft**r qfar ! *tft srtsrfa ^rw ▼ftstN©t^s ! ^ *i?rc*rtre cvtTttr its ? *fartf*, ?^i
+■tffrnri effort tf«, ^tn $^*fta c*twi ^*tf*s
+^rrtti ! ^tfa ftfoi *R#fa ^re ▼fti m i cwn,
+fan wt^nturt ^'rtra ^m ^firaiifsj i tfvrtfa
+fa ▼ft, ret«rt ^ .'
+asN ! #tftw*a ! <«▼*!* «rftarMffa ▼? i itft
+sfot *f© reWra «rtftPR ▼ft i ^ft ?t#fat*rt^ !
+<a^ ct *rt*rra ftnrott^j wra«i ▼ftusfer?
+^ *wr ^Ws f¥ ^tatt ^§?r, *rt* ^n ▼%**
+sn ? siW ! fosro ifare ^rw «nrt«jtfc «f*re fctft '
+▼ftre =rl i fcfc, ^> ; «ifo ▼tfo ^ftwi **ft*f c^t*r*r
+<TO* *rcftrft*rt ws* ctw=h *fa* r.^rft ^fare-
+
+^<j n-f ^ csfat? «r*rtw *fa*rfc*r >*rc* 4c$ *rct*ts
+^t f% ^tf, sri.^w «i«ro CTtt*fatTi mtfw fa*t* ?
+a *rs w* *!t*t «rt«r ! ^ <msr« ^ *t*?ifft ^«tfas cfc* *rafaf% ^fsres ? ufif <irt ^fr§ ^
+♦tfirertf sn to, to*t#? c^tra fftf ^ ^ftre i
+«rt* 5R^l 1% ? ft?, «rtfa ^ta ^ *tt*t ^tflt^
+*refsfa ^ftre 5Ti ! ■ Tt^farcf t$*i w '•Mto-
+^fsi ^rfre j *t*. ^tfa c?wi *rt. fa ^ft ! c<f
+*rt*rt* wl ^to s ^Tt*5^r fro ! *tffat ^tfa ^5
+^W* fa ^t !
+^fiwtfiETt^, c*r ttot 4«r wr ^s sn i c^t^r fare
+c*l*ra»i fcit? vi%, ^fs*t^^ srft, *tii =ift f ^fsrfa
+«W*ftT stt^ TfSSXW T^fa ^T*Tfa CT *fo ^f 3R
+*«f* fa^*f * *rt^*r i$'<U *ra?t^n ; wfaa
+
+^fowtiH ^^t^ ^*t* *tvt i fcsnft rat*-
+•totoi wtror tfo* « cntw ^ ctfta.
+to ^ftre *rtia, *rtf*rt fttfft *tt^ ^srt ^fwtf? i
+ft^m ^*1 ^ifcr *w wnrtfw mprl <4^ *f *fa
+^frcta *u»t* *$*r ct, *rft*t? 4^ ^ifs 5 «« *m
+**W*« situ crfa ftre C^t^^RI *i* sift W
+sift i ftwss, *rtfr ftfwi qtfax*T, ^ffafto^ *1
+feftltSR * fis** «ta *fiM ^ft* t ^1 «ft?H
+^fti*r, ^w, nw* fmm% *i fei*t* fa ? qttf
+fa^l^tw* erarKi t! tottoi fl*r, f*t«l, .^51
+5ttl i *re** *% W«t *rc<fa ^ cw^fa- tft-
+*t* ^ftsl *re*r ^stcw *rt** ^ft*r i
+^^TC ! ^Tt^T « fa^*F OTCT <^ tffat* ft*l ^ft- '
+C©ft, WR *i^ ^ICTTI ^ffa *ffi^ttfT *W\ CW
+^nf^ <2ffo^s *fe*T, *rft **fatl"t % It^tOT, fa
+^faffefaft ffa?5 Itftftl =Ti I liW^ nft«f *t*
+
+j^refs i £ ira <^^i#t *rc#t <?w o\% ^%^u Hi?
+c^rsr, *rfs ^wrftfa ! .«rtWfosft *$* Ti i ^^Tpar^
+r *t?l ^twf, it^^n ^firal. ^*re vst^fa *w 3*1
+*ifa i -^fa ^t *rt* w ^ifw **tw « Tf^tw
+fcfW* <lflR 5R#t ®R^t *f*Rl1, #t*ft* ^tf^fJR
+^favs ^fl« ^*Tffi i fa* Wtfvs ^rvt% ^ra
+srt?r *rct*tti *t«raT* t^^ss sfa^s s**r fwi^fi
+«rtfi raw qffai itrot* faw ^ftofis, <«**ta
+"Spwraw fatten ^firai, «rt*rtra ^f^s ^ i *rfat<i
+^im fc*ttw fa, *r*w fa ? fa^i *rr^l <a^ ^s^tfTfte* ^rffi ^%1 f*totnp i <w ^ft ^jt*r vfacr
+^tfsr row* sro W *rowi W ^firai, «fHhjtCBRr
+fa^ ^ ^f«tin «rN^i ~4fH «jfa <rfcrt* ; $f* *r$-
+
+*rtfa1 fwratfwt i ^4* *r*rfo *fftoF tf*n
+^TT1. C^tW^ wfa=? TtK*! Wf ^ 31 I =ltt !
+W 3ft Wfa faftffal ?*fa ^frsl.^W?! eft 6 ! *k\-
+^tt ! *1 fa itfa ! *1 fa 5*^fc ! *t#f *fafa
+uit *f?fa ffot*t ^fsre ^fare *ffor *n?^
+OFtsum sfi^ ^fari, ?t?re2$ crtsw ^f to*
+^r ^fsrei i *« iro *ftf*t^ *rtfa **K tfwi
+c*t*rm *[*tfa5 ^fire =tt i wfa, rora *re <wt*
+^tfasR ^ffind, «rt*ttr %^*r « *rt«fa ^f?t i ^t<*
+
+*?lr
+^rsT^f^w r
+^qq§ *ig$ ?$K ;r | . ^-s^tfofl ^W3 ft *$TC !
+«ta«i ^% j mm, *ta srtfo c*t*rt* c¥r w ^pi
+=n i *t#fo fc*ift ft? -srf? fa ? «re**w ^fa ^
+*f*R ^<r i »tforwi c*r csMa c*twr fas 3d*3i
+^tfanraRCT ^fapttTrt^ crratc* «r«tt* «£#? «rr«fti
+^firefa, ffa wtw mfata (WtCT <tr fasi ^*r-
+*ftf% fortw ^r<r i <w c^Rsr^ta fcwt « *w
+c*r ^©TOr fa*ffrt?r ^rtre 5fi *rtca t =rt*r ! ^ft ^~
+crtr^f ^ot - oh est* *fastts i *t<rc*rrre faai
+•*to, ct w c*R «rto<5 ^a^ti ^r ; ftafas
+cr fa*fa*«i fafaat to* ; wft Urtfi ^tfa
+«nm[ c*R ^npw «tttf*3 ^r ; or? cs fats c*r to^to
+w*r sri **i ^ft *w ^ts c^w^t ^<ws
+^a srft i c*rt •j^tnCT »rarsrtr? «nro ^ft «rttr
+^q i fnrW^fipfoftM «3t*WRr ct «rfa, cstsrta
+OR C^ ifa *TF® ^Sl »HRt«fHi N5TWft*fo C3
+*tfa, csUH c*R c*r§ ffa *rt* ^r i *rcait*[fwft
+f^tta ct ifa, c^fat?« c*r <ttI life *rt« *s i
+*ra*r « »PR^»tr«ti c*i *rf%, c^fttu c*r c*r| *tfa
+*rt* ^r i $fo c^sr «^t f^cr, <««r c*r c*r$**t
+*fatfa I <iW *W* ifas *R, «TM, ^t*T« *TO *fa
+
+^fl*rto i $% >resj csfaft ^ttefc ^ci ^fa to
+w qfai « fatf^t fcsor csfrts ^»s *ftf wt ^<r i
+tow ^farsoR, aft Ttw ^*rfa «j#f ^
+?ftre *f*rre #*t?r ^'tt^t «ratwr •tfira
+*ft*rt* i to*w «tf?*tfFrt*. ^w *rw ^ =ri i
+?ht w vfacftaft f^srat'fli * *f»R«twt* i
+c^i *w* vtfa *ri « c^s it is** ftfsre cnt^p
+^swat« cro **t f*w ^rrtf i wi, fa*\\ ^*tPs^ ^*r, ^^« ft* iftirt *ft* i ^trt *ta
+*rtfa*rt* i c*rtre 8 $:^«r *r ^5 fror « *fc-
+^ ft «r i urfw ^t^tra «siw*t rt*r ti i W-
+^tt ^s^cfcft to to fcfi *firai, t'WM «<f~
+*to fcttro ^ft^ttT i *?w* fa ^st«t?i vtt t tartc?s fa 'erffo* ^wu, it** fa to. *rtroi v? fa
+#tfw, ^t^m fwi *ft i ' A«Hrt* «mt* it*-
+
+fa^tfefajffcf *ftsi, byx&to ^f?i*rfa i
+^^t ! wis «tt«Wwj f^t% *f*R f? s?ft r
+wis ^R^ncra ft#i*fi fc«tfts ^r sift i w
+^« sroft&sr «rfosi «t^5i ^r =rft i wrs ^*tfrwc*ra aw sfc *s Jift i frntror fsptt** «rffc
+to* •tfare iftiwe, ^trfa eft fSrtftwtit* «itPrt*-
+GW1 CTO *« ^U *rfa*5 **, WIS *t*t* eft wiftrafiET i *rtfa wrc* « orarenrw ^t^ft cwftre
+*rtft«rfa w *tto a ^fl ^e ^«i <£t^% *r?hw;i •«
+*tfa*tft wit* «fti^to ; to to *at**r *t*i
+^W wrfa«t « it^rc ^fare *rtf*mfi i to ^*r,foft
+c*rc *t$*ttw *re ^rl, wrt ^nri *ifinsw «rc*ra
+^n. fawi *rwatre *r«m*rc wft^si. m-
+% •trfcrpi to ^finri «m:^ i «iwrift fe^rfa'^ftcrc i *rfw to fe*ft =ii <rc<rc, wt^i *fe*r, «rtf*ft
+TO*p»>F fcW wft* I C^Rl, *ftt?I CStaRWTl
+^fe<srftr «ro fa^tfa^ *jtirtTO*rt« fc»fa$-
+«rt* i ^i^rffR «ft*t ^*r, sRtt *t*tt* fefrftm
+<rtws» i f%^ fwft ftforc*! ^wifw states* i
+*&** *itfa fes it? re fr*ft ^rft^r i
+WtV{ ! *ft« <ro* ftOT v«i. TSJrtl ito*
+to =ift ; f^ fisnr^ra ci 1 ! ffar crt^ ^*fu 3ii,
+
+to srws ^ ft ]5t3i« *wrf^s %% =fft i .tafl «rtTt^
+^rrfsf w ssm & ei «p*TO ^1 «rej* w*fa *frai
+TO* ^|F5 «wrf^5 ^r =ri i <*ft wrfar *rt*Frfa *rf^5
+w ^f$u5f§, <*ts tofl ctt *»ffi* TO#i* cftsw
+*$re fc*i TOffa *fc*,c*ft fto *1 eft ^ *rt*rfa
+*fftw?r *rc*rft ^fcrtns, qrrftffR i «tfa ct ^TO
+gh ffata ^firat wrm ^fksfi, *r?rc*tfre *tfto
+*if^5 fsffifs ^?rft >5t^fa <*^Rtaj ^iw i tW<
+<*w* T^lCTt^ *rfs ^ct i «itfa *i*t#taft eft
+W CI *|3« fa ^W ^f§ I CT f*R CT^frtS
+wtfa eft fwroutt* ^fats eft «2f^i^ cw^reta
+if^s >rcfof?re rt' i *rtfa c*ro <*ft ^Hra <s
+«ft «rt*tt*ft **f«K «rwnr«i ^firaft i ?%%
+csj^f^s? er cvFniPt *i*rc* •ft^f ^flr^fr i cwflsr
+
+ifaus tf*rre $t^fa cit^ cw. srflw *$*i
+^ra*r i f%ft sn* ^it^fii^u ^ts ^e*r i *r^?i
+<<f*rcs *rtfrft;*rc, w^ ! ^*R toarcta i c^n
+3?*t *m =rft i cTfa ** a$ c*fts% ^rfcrt f*R ^ta,
+jpsprftr *rc*rfo <tr Sfa* *$*ttf , ^i $#* v\^%
+cwm **f« ^m^rto ^al iw WJ ^fits to.
+Urates* i $t*t* ^fl «rwf»re *rfa*p«mr i ctf*rc;*i
+^^ c*t«r ^r, fisfa c^r ^ «iro wfoi «rfo*ta?
+^f*R» ^rtt^ i fire *n*re C*R ^fat*' $sw
+CTWfw *tirt ^ito i i%is c*r ^fata c*rtre
+i^^r rt*ft, ww «^tf^5 ^fret§ i $t*re
+•foPHW C«R Irtt? *rett*t 3TR *fal ftatti I
+^FTOVITO *Kltift C*R <*rt ^-srfa* ^ffafa f^tfifN©
+crta ^fffi «tf^5 nfitataR i St^fo ^*R 1«f CTt'R,
+■rfta crart TOs, c*r$*rc ^*re i c*ff ^*r, c*r
+W1, ijMirtw c*r *ta*t*w fii*ttf5« ^fwltf i
+
+fafat *fo\& c*ft®wnrtf*r c^jstft ctjFHft ctti
+*rw* ^fas i « f^^tf^ns ^ri *tf?attw i ^wi,
+*^5tWt ^tfn ct *rt*t ^f?nrrfw, <5t*ttft ^5fH
+fa*tf?MtH <7R &rc«i *r*#s ^rrtos i fo ^fH f^
+^ct, wtfroi f%ft faa ^fe» *itf?r*rtH hi i ^*ft¥
+fV.^rwct fV, ^fa« c^tef Ms ^r h1 i t^-
+*f*nrt *f**rt* i ^Htf?rfafHtff*r^ nwrf*n:*r s^f-
+*m ^tfroi sfe« *rtf*m i ^ «iw?r ^f%*ra ^ar-
+$tetw* wpfcfta #to«r «rtTfa itfe* «rfata ffo-
+*fc& *tfas sf^rtts i ^t^to hot wara ^%r,
+srteFfa ^ftwf ^ttw, to* Hi sfcr, ?*pj^ to*
+■*fari, *r^?rl st^s i ^rft fast* fHwfts ^stfort
+^«Tff# c*rtFtH wr srh *%fa, «ttTt* wrto
+f% ? ^W*1 Tfi[*r, «ftf=f Hi I <W SFffHStHS C^tH
+<srw^ nft i centre ^ h&<.*§ vfas ^ct I
+'Oftfar ^*TtH;5rtHt3 ^tft « ^3$?I ftf ^pi ? xST^ftrl
+^f^r, ^te wtrol wtfn HI i *rcww ^nf ^h<^
+it wis hi *%i, ^*rtn ^ i sr$*i,»twr Him. s3fh
+^fire i <«t *«rt* «rtf*r ^HT^wnr « wf^w f^p$>
+fatten *f**i, iffa ^|re*F3*mr ^wts^rtsn
+«3*fo ^t^tora fjCQ ws ^ffafa i ^tft*rtH,^tf^
+
+<%U ^ ^titor ^wrra toi^r fa ? «nw $k
+iffcfro. <5t*ft ^f*r i ^t?n ^*r$t? •rft*i, *rm-
+^I5t srsro ** ! ^tre *t*stt* ^?it^% *tt«,
+\st^t3« C5^1 ^f?R I ^ifa, IfaftTO TOW <4¥SR
+srt*i ! ^ f® *pfr it#r, ^tfa ^1 ^ffoi csrfatw
+csftfs «rtTOF $tw ^fe^ =n i arrows wsi
+f% ? c*i c*m ft*tw* *w if^ « *v*tora arcs
+Wfw 6 ! i , «Rfefa*rc^ wits ^*tfa« '^rfr i
+
+?r$*fata c^fa *«n f%^»t>ii srt *%i. jiw ^^
+t*H, ^fir »foft ! stffa <$rt^ ***£* *m* utoq
+3*«i ^%tf? j ^fsr ct ^fafa ^firsts, ^tstts,
+csret* f=p6t*ra ?«^ i*ifra «ftsf*F§ i *rwh
+^ft ^ ^ft€| ^ ?twT ifosTtt ^finrl Ff*rs1 its i
+*rrfa c^to fcsa sn *%i, f^?f ^1, tts%i <rf^-
+*rc$$l ^tr5 ^f^sff% ^f<f*t i fcfa ^%?r, ^it%-
+^rfa *%rm, Crests, ^tfa- *t#n ft<mtftft i foft ^%*r. «fat«i fa ? ^tfsr ^f^rrtf.
+iftnrf ttt^ i ^fa tf^rfa. ^w? cw sift, ^t-
+*tsft ^fa *refa i irft ^^rtr^ Tfoe Tmm sfaC«ft^ ^^tftsTtl =J1, fa's *t<rc*rtt^ ^^ ^frfa
+sracfi, ctte, CTtf. ^ ^^^r *frfa *%«ftc*rt<i
+^rtfs*r i fa ifacr s fa *%*t, «fr **. v5t^t?r
+«nTOfa Juti.fft ftfi^ ^fare itPt^iti i tfts f^t*
+
+tpfrtft^wfo ifcws « cw*r ?ftre f^tft^ ^?r t
+^•t*ifas«tT ft^s ^rto i 4^tw crt=r *wft fair ssft-
+^?ri, «rfartat ^%*h, ^rcifa > f ft ct ^tiretMt
+*« ^ift, ^t farfo CTl^tctnr fais i <srtfa s§tro?r
+^r*rv5s ap»R ^fes *rtfort>r i f%f=c ^t^rtu i#tt
+fapfctfaft s?tfartfk*ra i <$%mi *$Kte $tt% sri
+^f?ral ^%^r, ^ss ! cstito ^fwi sift i «itfir
+rew& ftfa^i "¥% i ^fsr fmz^ wrcff *tt^#fa
+^to i wsrfa ^*rt«fi foft sift i ur| *f*nrl feft
+fsrota* ^*rfa i ^itfo a ^ptwfhr *tfarfa *rc<f j
+•rf^rf 5 !^ ^rtft, ^i <?ft ^*mrt ^* ffiiTfa i
+
+' swft*i ! ^«tf*flt «tffl* <*ft fiatf*** C"tto5ttfq*t* erwfa ^fare ^f%»rt? ^r i ^s<ot 'srfa *tH
+^F$rfa ^trar^ sift i ^t, ^t*rtre ^t*ftts f%
+^ftre ^tre, *twt ^firai, ^$$*te ^^ '
+«ntor *%*r. ^rerrtft ! csfafa aft ^fof* w
+'©fttfi, *f?re£?tf% *rF» ^fa*rfa i ^wrai *rt*rta *fe-
+^fcmr to ft wi «R«fa jpfas ^nrfa i it*i *^.
+^ fro ^w» wt^«i *K*m *rttw i
+^n:<j Rrtw fttf^l »nra *^ wrctre^ ^al,
+
+?ifsf^ sr^srtra wi « toft aM^r ?rti ^#iV
+ssforar to: *fa«s wrPi ^ct i crfniw ^ts
+sift i
+^tre *ttra, <*r?R*t f-w ^rft ^tsn^tcni ^r i
+^r^t ^%*r, wi ! ^rta er«ffa ^e^j, ^Rtw
+Ttsi fW c*wi toi i c*sri, ftro* «rt*rftR «rf%
+*lf%^ ^te*r, «ycft *w*w ^?r, f^ra *tf*ifi* >ftc*F.
+c*m wtwfo ^flbrK srtf=i i ctrri. f^nr « wrtf
+^ fcsnr ?^r <toi i •tfwnn TO<st*t ftroni
+^s\, *m*tTOi, f^R^^i, wsi, *rf%*trf%^i fw-
+
+'m\, ptetftsi, ^riwi, «Pi$*w*tft$i, ^^
+ftwtftsl, •foOTfaaAn. «roral, «f$wl « ft#-
+«H«J *ftc»R, ^*TItf«i ! ^re <«w faira *tf
+?ftc5 *it*t^ *fc*r, c*rtt¥ «rt*fota <*t«f fesr «tf?r
+foft c^fare it* =ri ; sr^tt ft*^ ww *ra
+f^^c?r w?rr<r ^i *te i ^n c*pr ^fer, cwt
+fcins im i ft*#taturt f*stft*«fa*tfti* i ^t*
+^teftVf errs iz*i i ft^ft *rc»w ittrftfs *its
+c* «iftf ? qt^tre ^1 ^rcsrffis ^,^tyr 'm^rft
+Wt? «nfts "t^ow «rmft *fcrt <rtt^ i *ftfo
+«rf % qpwH *ftrai c** ^tsft* *r*w ~*fk$
+«rf%5fa i ct **ft* irtts fefstw* qi *tai itix
+f%*i TOf t <W1 *wft<f «ifo f *f*re srw $*ttara
+^Itft *S, Cnt"* 3 !^^ $t*tt* «tfojp* "*%!
+
+■ItC* I ^1?ft fMft ^Ttf* *Wt»Rr Tl *tf*tfrtj ?ft I
+^fift ^ ^f%^r^*i i <rtapt wtw ■sot stoi
+Wtt ft. *<* ^ i
+wwn, ^i <2Tf^tm ^ri ?f^*rj i ^i to
+fi-nr, oft totw *ro*ft •tfirarw ^fro tfe* i
+^1, to fSfRT ; "tftara if^ $t*£srtf*f iiUttt
+T^s •tftoiw ^fare ^ct i T^t« to ft**s ;
+^rfata f*rert, f*tet*r* « ^rcrftr *t*rq*i *rez»ft
+fwl eft sfWt^ts "firttt* ^sH ^n* *TO
+
+TOSft I fitf W^fcl CWt «3TtfflPft 35^fa
+<2ff%¥f^® « ^rf^F* ^?r, «rrtri faster *$ot. ^sRt
+« ^-g^tfr ^fts N59iwrt«rc=r $35 **, ^w?rl
+$f*T CT?i*t WW3 *rf^ frfsns ^t*r, ^ ^tm ■
+vtv, ^*t ^sf% ^t*r. «*wtw #fa ti fafars
+•t^s *tomi c«w wr. W cvrtrfif ^rfa 4 ^*
+•iftw sn ^sift ^ni <aT*rta c^i> i ^rsftf^^t^
+fixfa tor, ¥ft cvw ^srti 5fi ^ot* ^^wis *t«r
+i ws «rtf% ** i <^° ^s*i frfa* 33to$n *^n
+
+fa* "utgtfr its? c^faer^ts «2a^? 3?ft i •t«f«i
+s53R»t ^firai «rtr* i c "^to *tft<rfa «rt^r3j*"t i
+•flaw *t^ta i F^fw ^*rt, *ns ^5f ^i i *f$s
+*^t, «t*tre *mf%* «mr fa ^n ^re •ms ?
+&T*& ?%*R, ^fa[fow *3CWM CTtH* ^faq
+"TNI fad*t*f ^%ttm I Itfa 4t<F 41? ^W^y
+wttw ?
+mstc* TO ^c=r *ror. ^si*t* *tw sstsi <5t*t^ ^rt
+«itre i ww *K it%si ^rr=i ?fer, fc*i aftsfWt
+^*fo foStfo* *fan <itc? i c^to ^tIt ?fo *f*rei
+3tf<Rl1 faw.^TO *tfs T*t* ?'H1 to* ;rc* i ?tft ^
+
+f^ cs^l stal *f*w sfori «itre i *ft*ftft wfa^^Hft
+^tre, "try ^tre, ftfof f^r ^re, v^re: ^-sr^fa
+fait* f$T5 fall TO*. ^1 H\$ftj\ t fall 1T5 9
+fall ^«f <W1 ^fa<® «tfa1 *Tfa ?
+^fr ^%*ra, W{ ! w*te*ff% •Rwfari ^t^n:^
+<ws *nrc<ra srt s fw??i w *?lt tor =rt i
+Ht^ # c^*r ftzm strong w^^t * ft*m ^tsi
+^«rt *rear«i 9 *i<mtw ?r^5 tot t «nfaM *rait*f
+Tt^Rartcf far*Tfaj ®mz<\ nfetffs^ toi^brj
+f t^fal wi s ww *i ^attefaW ?R =n I f*^
+*rec*r atoro ti qraifw i^iw $»t*rc* <ire3tfai
+vtw ^fiiw, nvfa *w*ro *t*i ^d I <nfat«f
+*te *t® far ^rcfattf «r"Tct *rt*ft ^t<R ; faift
+** far fcwpft *tas «rri « farami **rt itw i
+*rc. fanrs if*w* iw i ^rt *tfrr* fro-
+
+»2^Kta *rctm <*rc? «5Wi ft?*rl, c^r s ^tfirs c*p*
+=rt, iv*itta ^"W* c*M*ts *fiF ^t 5 ! i ci ^j%
+C*fa4*t*l «TT *l ftl? %\$ ?$ 31 I ««ft*M ^falc*rt* ^re, c*rt* ^re, 7T*f^tre, ff***^r«,
+*i^r«r*fa ih» fa*tw « *t**^ ^ra ^RftrtiT wi
+«rts ^m nil* s
+ft ^r *%*r, f^i fcttnr fw* s fowi
+fcltCT atfq*TCT$ faft*rt« 3*r !
+^r^t ■^ftc^R, «^ ! fttotre* *r* *f^» »r^i
+ftft«r i ^w *rtft* *w^ ^fa*rMt fafa it<R
+»ratft^, *t<* i ^faf*re *mtg' ^*ft*r fa^f *«31 iti i
+wsr *%*r, mft* *W *t^tt* ^i*r ?
+Wit *f^:*rc, «H fa^fa, fosrftT, ffcf^*l, ^*f-
+*fo, «rrfa qtfq, *ratf*, *rot*tir, firsiOTr, fttw,
+«f», c*fa, 5^n, ^PPff^Rrt ^sitfw* sjl^f itfa* *w i
+fm *%*r, ^ttfa* •TO *t^ft* ^w t
+Wl ^Ffttfrc, 15*, ^*, «s* ^rtffa i\*
+
+^^>rtw «f^f^ f%f%«r cst*r « *Ttf<ra ^T?H ^tji
+*pfar ^%*r, f^Kff ^^r^§t=i *rt« ^r ?
+^1R I
+^f?r i c*r$ are ^ra, *iwt€fa s fawt^fa ^ foncjtoj, ^f . s% feral, srt*!, Trf , •ttft, *rtf, fc*re, *R, *
+*Ww %sr ^ttt^t i *t^?F cffisws ^# itsi
+errs wi *rft =d i *r «f^tre wtftre f^rai «rfott^tre bvw « c^^^^ff *f»nri f=rc$"t ^firat-
+
+•fc*«t* ^IfttW, 4^1* SJ^fcV *t*1 *TC*T I mtwtt
+f%ft irora *t?n rtw«, C'^Ffa TW3 *fiC5 *TC^ ?t
+f^^ f*i# &xs?{ i fcftfa c^to Vfirt ft *rm
+=rt J t^f^ ^ *p**t=f £r*tl«H a^ite' c^ s
+•tOT f^rer tow ,to=i i f%ft ssto « cses fre*-
+^3»*t i ^<ft* foft't %?nK*t fro t^ra <2f^t*t
+tor i f%R fes >T^Tt7:?r cto c^ft fWt =rrt,
+faftfcantt ^tsfafowtw c^tata ^<^i x$$ft% I
+*rtfa «r»ro wa fwt?r<2#F ^faronr %*n:w*r , ^fir-
+«M^tVF ^1 « C^ 5[^ ^te*tfr fro •fiRtH,
+<$**tar for* I ^^j aH% sr?fora ttoftw itftft
+
+ftrffc tor. c^mw *w*i « iwrnti* twT
+ftfa c^rt ^* *wtfa 4 vrtor ^Bfartfc fro ti »ro
+>st*ta «toni *foWil «rtf<& *ferl ltre i f%f=r
+•riot * 3rt* .afa ^ ^«trra ifPfeK*t ft^j %tw-
+*rra, *t*tr^ ^ fo»w«?r *psrt «£sr ^ •
+T, ^¥ « ^ ^ fosi&t "fFW CTt^t Tt#M*f ft*
+CT ^PffaWt **fa «Rf*t*> «ftW, N5t^ft *W«,
+^?t<r izfa £ffo*rftR ^t ftftfcsiW •tftwtw to
+^ct i cvri, ft# W <*wrsr fc*tff5^ ifllf^F I
+C^t=T C^ft TU5, ^ 4^ *t<?r «rafay «r#t?w*t ^r-
+«2fff%i fetfi ^tt*r, ^▼mt^nm ^^rts i wi*»
+
+erfcifaj^ 3twji *Rpreft tor, f$ft ^rtfri?
+fa w, fa *rerft, wr *tto^ «it«t^pF c*K-
+<ff$*f*T* «rT«it?rtar «rerfa *f?rc*r, c*rtre i*^«jht
+c*. *t=re "tfta *nw ct wtvtt^fa f=mi erm iu 9
+« ^^ffc^ ^fijl *TOT *?t*ft ^^ | -i^t*! «(ftfl
+« ^Wt ««^t^ ^*r, «rtn faf^ fryi ^fe srl I
+1^ «fHtTfa •TO'I ^T%3 <4^*Ft3 ^W I t^R=H %
+growth ^flrftra irc*t fsrf^^K *PrtfaCTti«t 3^-
+=m*t ^reifa «$*fo f^ifa * «jwt^raf^s ^n t
+^fat*r « <toki*h ^ frs* *$sm *w« « ift^s
+
+»wtfat ¥?r^ <*$ i 4^ nsrrf^r irfw f ct* *f*i, *tfc^ ^^ j f t$. fW$w *fa$ «rt^t«tn
+ft*j* ^ 1 . & °$m *nf ^ Ut 9 ffc* oi^'w
+«rc«rr iff ft^ *ft*i *rsOTs*l ^fnra fNl tfftf i
+%f ft wtfCTMf f f 3 *Ttfffrtcf s «tf * *pm i v»re:.
+iftftw* «frfai « «ntf ft*?s fi ftcr, ff «rtftw
+f f$w, cror *mitf it*^ ^r fi i
+*tfnFt«nft fir fH *t«w ftw c^rtf tfw nr «ra-
+^tre fcft *rc*r i *t«raifr v*ft ss ^ 'srf^sR ^t%l
+fast*? ^ftrenR i feft t>$5t, fa*s*r ^s *r^r s*f *rf**t w 1%f^r «T3trt=iT,f^tfi, *ftp*?rc « «rtf ft«u t.
+«*ft«tet* ^TOff ^ftfl *tftl^ Wfa ^to I
+*rtfcFrr « ^pst^fT f ^m, ft#fa «r#fc»fo afrtir. fe
+*rr^ ft*p»nBtf "sr^r^f ^* cwrtfo'fcr ihm *mi
+«wf tf tw , *W?r c*ft ^reift^ TTtrlr^ *t?Pt*nr ?t^<i
+ff«nrt Hfa ^ta i ftft <*^*r*fo *fftfwi fttiff% * feTO *$fi. $m* «ihctj «t3ta *i
+$#ti fcsroinrt w s $flra, Stffsft ^f^t* ft*i
+
+*t«rer-*nfoi »
+"faftfc =11 f^wr, w'$" ^Wr? «ft« *s*i *t* *i i
+^TTtfS ito ^jtt csfitfos *f^f f^Ftf^ *ts\-
+^t?r«, *wrfa*fa ^r% ahrarv ft*s*T *f*rai wfa
+^f^%, foftft i^rnr c^rw? N5t«Mr %*msrc*r
+*tW 3w, «w*i faft TOreat, ^twRt -s
+tem «tfrttasi =rtt i CT5R1, *Tfr**i fa* *$ot,
+**nrc«ra srmtsrc *ifa5$ *^ai ats i
+
+c^i, c*rt ^*tt<tt^ ^satftt $N* ^ran# fasts?
+^TOR I
+IrtPrtW^taRT *£^ CT *WT *rt«Rt^$R ^t^-
+*ata ^tsl <?rtre, iMrfiwh «fte rtcr, en
+*TO5T ^ta f^f *rte ^N*^*1 ^r srt i srttft , c^rtr^
+^rn«. ^fntraa fc«tr?r ^i ra. ^fa«* *W3 ctWt-
+^fe, ^m st^t* <RWtt« c^t=r «rrirm=r «rtr¥ =ti i
+c*faffi wfa *rft«. ttwwR artre *R«f =rl ^, *5fa*
+vst^Ts ertftsfa, «rrR s qtantfw ftfiw ^Ws^t* itt-
+**3i ^n $\zw, f^gf ittrfo *iw^ *rc*riite
+^%i, ^«w**rc* fra fim^R to, ftoft ^w-
+&$\, *rci*tre aft "ttar i^t *tfrart*r ^Ffirc^ i
+«rwfa attire c*r tftars «rcw w c*rtre
+cpr $*fl <W ^%i «rtre, <«*? c*ft «rf%*tf^
+*ra ffa ^cr^wte c*rf fc*rei ^lt*t Tta. ^8R*t
+^R?Ttw*t ftfas f^fro ^rssw <*ft • ittflpwfwt
+awftre '•nRt^^ffci «rf«*rtfl t?w wt 5 ^ few
+1WWJ ^tWW C*ft *[foffR 5 TO l^fitr^
+
+*c* ijfo ^s ira ^finri, *tf«n?sr ?&?rtn, ^fa
+^fari, ftfa ^fa^ *rtt3 *tf^$ ^tos*. *W*
+*taF. ^*r f^f ^r c*itft<j ^rs f$%w$ ^&r
+tew ^tor *i¥*r c*w csW^ft itvtre, wsat-
+% *t<F*r ^ TT««t^ ^t ^^ i ^3 c^t^ Tf»sr-
+•W5,s c«Rrs?ii*t *fircf*ttT «rtf=rcT, c^R *i^t «rW
+*a, c*fapt Sttfw- «tte ^re w» «tt^r *fcn
+^jrtnR. foftt «r^y wtfsnrtr^ i ^U fefift «nps
+
+kfo\ « 3R stai after ^sirt nte sfl i fan ^at^ts
+ftft ^sr^n ^fare ttarc, fisfifc *wt«f crow
+fttsj *imtre ^fi ( w* *nm*tt^ *t* )
+^s amre *•» «rafa ^firai, *fTto<&*t M«ra ^rsrfa
+tor, f%ft ot? tai fttt? ^rtftr w*ra tffoi ^ttresr i
+w«. ^i *rt*i ^fir fc**rtfra.*?r,&Ri ^h ^t&re
+*ttre, ^*t «Pfow « «f«rc fe^irnF oiTOtitt <w
+ti «rt«t ^%i, *rt*wt?r ^rR ^tor, *refa ^ ^t
+t^srWii ifrtvpt*«rtfo ^ir i ifwtir c^rm <$^-..
+aft* ^PfT, ♦RPTW' «ff^*lfR TOT I <2M^ CTCT^r
+f»r «H i &fc **f «W •rtrtCTtwi ^fk*r, wrt
+**foni ^NPhw ^ftfw *to*ct croft *pfw
+"ttapttfc *fHfa* ^t^fa fro$ *5i =ti i ^fa ^t?«r
+fa ? ^w, cr ^rf^ 5 *np5 , st**tfr»i4jU«iiwttpfo
+wft •nrawsrftjit** *** »rt3r ^rotr tot «rt i
+
+c* «i^p ! *HrotTn, r 5 ^ *tfares srfa, ftW
+?fa< «rw firs ^t$n *msn&*» «irft ffirw i
+cw<t, *r snrt wfir foa^a ^rass- *tf*3R«t
+^fttfTO i ^faa wre ct«r F®f?ra <ftf%¥fire 33
+<rt v? *Rre fare ^re «reit*?M ^fwi, itfaw
+*f|*fo* «nr •wtstf jrto ^to i ^trt =»ta
+rt lt*R TO1 ^ sil ; 9 t<RtWTt«R<&*( ^f%^^ fares* ^«ti to f% ifcn ?
+•fircWre* CT^*r*t* fa<s-«rf$R^-*re?F i *ifata.
+vi sffis i c*rtre ct*r ^*t«t ^ •tfforw *%i ^
+ig •ffiftfa ^r?,#tTt^ri c^fR #t<cw^ •rfl^U *t*is*Ri
+=rfR (To *$«rftfe *cir i s^nte, f%R c^Rre^
+art (TO f*rcf 51TO l <a^ *ro <*fo «Tf fe fassR *ftg-
+*t?H *flfa^ *rf¥s **,fa* C^R *t*rtt<^ *K5* ?1
+
+it^w ^stw fsrf*re *hr, ^t^ st^ta Trti i «mt,
+w?r src*r?r *rf^ faf*re ^f w, ^tre fipw fa ? i
+crtTF *fs§to ^*t^t ^ «F*ta ^sri to i »Kift3f
+^fa ^t« fan* =rr^ i rifaww s&rWto ws
+^ifvartwnft TO **, ^fa"? fVtfw FfilTOtl I fa^
+fct*1 ^<l=ft 3TC* I TOfa *"t>5^ >5tyr *IRfo *ltfrapfofft* sf^t *»it* torts* ittat*! ^r i *raiK-
+<wfaf% ^fsrets i tffott, *fafarl *fft?p$ *fe*r«.
+arawto c*rt "Tftws srfer, wre w$ w§J* iflfes
+f^ =TC^R I Sp5*t?, CsV^V *f*ftt*fa WftTf $ttfa
+^*5, ^ c^iw *rcfafo ^fk*rs wt^^rt
+fa$$ cott "<priR sfl i w =fi, fofa 3*r ^swir
+
+^tre ^l^t^M ^f»nmnf i ¥?res, cw^t c«w tt«r
+c^j sri, ^ c^r ifanrtift, $?*« c^ 5 ^ , *f«to
+*RP*fif *Rtt, ^ttfre *IW f% ? «^«WK fTOWl
+*firc*r, *Ff«r^ c^ «ff^ *fc* ^t*Rts ^r^t^t^
+^ ^:w *R%; ffm fvfa *tt** wt ^farl
+^«5, c*w, ctt*. tfaw 8 *«r «r?f% -ftfar
+5^w ^i <«r$ c*wr mHVs *tore, «ittfl
+cTft *i*t to *hi itsrl^s =rc* i <qiwr$ sfl spfai,
+Ms 5ii ^t%i, ^ftrtre TO5»«rta vm -qu i fa* *t*-
+fw ^t*i ^ i ( ^N»tt$ ^sri tr^rre «rcw,
+«irsifj,*w « ^Ttw «tff^ ir*r fctiw ^finrttfR i)
+c* *nfe : fa* *w tew* *t*yt**m *re*
+
+^rtjd crow TfatfairaRi afairtfofr *rtfora[
+CS 51, f%R f%?T C^fa Wf lft I foft f^C^I,
+^tft^ ^fW I f%R ^ESft^e'toT *R*.«T TSF5^ ^3-
+^tfoni ifir CTO #^tf*te ^T5R, W*t cwftx-
+*r#f ^t*t^t «rt*tft «2T^H ^rt^rei^ i ^tro
+cqwtrat ^*ttw*r Tfortro , *fosrtvi *r#rl *rer*r?r
+*fWTO fatfSRft ^Fat^r I *t*ffl ^1 3fl SFftR,
+.**M* c^i ^f?nrl *tFF i fa* ^fal StKfc* »nrw
+efttf *«*1 ^ I CTOl, CT TO TO* 1W ifirf^,
+^rtstrv ?tfer *rcro ^ftpr, fa*n:*i *tt -am qftre
+•ttta i **res, Tt^ cro ^t^tn trow ^w, re^t
+cwfare *ttir sri, sanf faft i*r*ni if* ^*i, w-
+<fi*t *fatt"f rw* trow ^feroi i ^^rT*
+erf wi*tfrHtff c*t*ft*M *WTfart*tf^fati#* *^-
+fircrtfafta ^ri, «prt ^faro ^ftrfre TO«tf*
+•£r «rc*wi *rm •nrofaprt*t**t?ns*t F?roftfa
+«sft^ tor i
+*^rte ftfa to* ^ *kw s fawrtfta f^ftf^
+
+'51V V&I-Mfl&l I
+fa© ^ri »Rjr>m?ra «rtf^rsn m fafiprtr* i^jnre
+3Tfa ^WTO 'SI 8 ! *%^Ef I ^ft¥ «ftlT5 *<tt^
+«Ttf^RT ^kfa sp^ffa'a ^TBStOTl ^Tfa*fa ^1 *rft* I
+C*T ^if^ 5 <4$ to* %flrfa^ *R*fTtf* f^f^s «
+«rtWfo =ntsr *rtfait*&* ftf*rer *fare *ttui,
+*PttfVTO *FM I ( ^K CT Wtf? ^fiF5 *^OT.
+*r *rw fro ^tre <4* *tt*rt fnre « ^totna
+srct*, firfa *^sl *mw<&*l *tfro*rt*5f *t<*,
+^tar ^»m *fan, i^wi wsfa *f?rcfa^tWn
+«2f^ *mtff ^«Tt*f *E?TC, fofa * W WJT 5 l^ c 1tf^
+
+»atfa f¥^ =rtt, fteta fare <jftft erf f% ^ ti
+^tonr i^retar fafaf¥» c^ft *r?t€^ =rt^ w
+^Wfal ^%1, Sf^tt^ fF?5l ^^, foft^ «Tf ^
+5§Tn5 ^t*t, *rc?? ^r *rft*t *ff*tf?r «ftfe^rl
+tfa !lc<rft>%;i%? fWi! >Prfa'9 ^t«T *J J f*>"5l >Wf I

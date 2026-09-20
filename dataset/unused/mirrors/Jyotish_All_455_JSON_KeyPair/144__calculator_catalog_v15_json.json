@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "144__calculator_catalog_v15_json",
+    "name": "calculator_catalog_v15",
+    "original_file": "calculator_catalog_v15.json",
+    "dataset_number": "74 of 455",
+    "format": "json",
+    "source_readable_file": "calculator_catalog_v15.txt",
+    "source_sha256": "b5fb207bfdb3c268ca1996a3b8077e2c6274501c2f31d4e3ec1e270b58c82079",
+    "source_bytes": 8988
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "today-panchang",
+        "route": "/panchang/today",
+        "method": "canonical calcPanchanga"
+      },
+      {
+        "id": "rahu-kaal",
+        "route": "/panchang/rahu-kaal",
+        "method": "canonical calcPanchanga.rahuKaal"
+      },
+      {
+        "id": "choghadiya",
+        "route": "/panchang/choghadiya",
+        "method": "eight daytime/eight nighttime segments with weekday lords"
+      },
+      {
+        "id": "tithi",
+        "route": "/panchang/tithi",
+        "method": "canonical lunar-solar elongation"
+      },
+      {
+        "id": "vaar",
+        "route": "/panchang/vaar",
+        "method": "canonical local civil weekday"
+      },
+      {
+        "id": "hora",
+        "route": "/panchang/hora",
+        "method": "planetary-hour sequence from sunrise"
+      },
+      {
+        "id": "karana",
+        "route": "/panchang/karana",
+        "method": "canonical half-tithi karana"
+      },
+      {
+        "id": "tomorrow-panchang",
+        "route": "/panchang/tomorrow",
+        "method": "canonical calcPanchanga next civil day"
+      },
+      {
+        "id": "shubh-muhurat",
+        "route": "/panchang/shubh-muhurat",
+        "method": "canonical auspicious-period calculations"
+      },
+      {
+        "id": "numerology",
+        "route": "/panchang/numerology",
+        "method": "numerology integration"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "179__doshas_json",
+    "name": "doshas",
+    "original_file": "doshas.json",
+    "dataset_number": "109 of 455",
+    "format": "json",
+    "source_readable_file": "doshas.txt",
+    "source_sha256": "0ab13f62f92e404546387ab8aafb34ee07c2379750fff4a389995c00ef3095d3",
+    "source_bytes": 9421
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "Name": "Anant Kalsarp Yog",
+        "Formation": "Rahu in 1st, Ketu in 7th, rest of planets in between."
+      },
+      {
+        "Name": "Kulik Kalsarp Yog",
+        "Formation": "Rahu in 2nd, Ketu in 8th, rest of planets in between."
+      },
+      {
+        "Name": "Vasuki Kalsarp Yog",
+        "Formation": "Rahu in 3rd, Ketu in 9th, rest of planets in between."
+      },
+      {
+        "Name": "Shankpal Kalsarp Yog",
+        "Formation": "Rahu in 4th, Ketu in 10th, rest of planets in between."
+      },
+      {
+        "Name": "Padma Kalsarp Yog",
+        "Formation": "Rahu in 5th, Ketu in 11th, rest of planets in between."
+      },
+      {
+        "Name": "Mahapadma Kalsarp Yog",
+        "Formation": "Rahu in 6th, Ketu in 12th, rest of planets in between."
+      },
+      {
+        "Name": "Takshak Kalsarp Yog",
+        "Formation": "Rahu in 7th, Ketu in 1st, rest of planets in between."
+      },
+      {
+        "Name": "Karkotak Kalsarp Yog",
+        "Formation": "Rahu in 8th, Ketu in 2nd, rest of planets in between."
+      },
+      {
+        "Name": "Shankhnaad Kalsarp Yog",
+        "Formation": "Rahu in 9th, Ketu in 3rd, rest of planets in between."
+      },
+      {
+        "Name": "Ghatak Kalsarp Yog",
+        "Formation": "Rahu in 10th, Ketu in 4th, rest of planets in between."
+      },
+      {
+        "Name": "Vishdhar Kalsarp Yog",
+        "Formation": "Rahu in 11th, Ketu in 5th, rest of planets in between."
+      },
+      {
+        "Name": "Sheshnag Kalsarp Yog",
+        "Formation": "Rahu in 12th, Ketu in 6th, rest of planets in between."
+      }
+    ]
+  }
+}

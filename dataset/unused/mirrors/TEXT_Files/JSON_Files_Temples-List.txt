@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Temples-List.json
+Dataset number: 210 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 396 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | name | location | associated_planet | remedy_significance | source_text
+----------------------------------------------------------------------------
+temple_001 | Navagraha Temple (Surya) | Suryanar Kovil, Tamil Nadu, India | Sun (Surya) | Visiting this temple on Sundays and performing Archana with red lotuses cures eye diseases, improves government relations, and pacifies a debilitated Sun. | Saiva Agamas

@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import { listCompleteDashaCorpus } from '../src/completion/CompleteDashaEngine.js';
+import { calculateCompletePrashna } from '../src/completion/CompletePrashnaEngine.js';
+import { calculateCompleteLalKitab } from '../src/completion/CompleteLalKitabEngine.js';
+import { calculateCompleteRelationship } from '../src/completion/CompleteRelationshipEngine.js';
+import { validateOutcomeDataset, fingerprintOutcomeDataset, freezeForecast, attachOutcome } from '../src/quality/outcomes/OutcomeDataset.js';
+assert.ok(listCompleteDashaCorpus().length>=12);
+const chart={ascendant:{longitude:10},planets:[{name:'Sun',siderealLon:10,house:1},{name:'Moon',siderealLon:25,house:1,nakshatra:'Bharani'},{name:'Mars',siderealLon:100,house:4},{name:'Mercury',siderealLon:120,house:5},{name:'Jupiter',siderealLon:150,house:6},{name:'Venus',siderealLon:200,house:7},{name:'Saturn',siderealLon:250,house:9},{name:'Rahu',siderealLon:300,house:10},{name:'Ketu',siderealLon:120,house:5}]};
+const p=calculateCompletePrashna({eventChart:chart,question:'Will I get the job?',method:'classical'}); assert.equal(p.type,'prashna');
+const lk=calculateCompleteLalKitab({planets:chart.planets,birthJD:2451545,nowJD:2455000,varshaStartJD:2451545}); assert.equal(lk.status,'IMPLEMENTED_VARIANT');
+const rel=calculateCompleteRelationship({chartA:chart,chartB:chart}); assert.equal(rel.status,'IMPLEMENTED_VARIANT'); assert.ok(rel.vedicMilan);
+const rows=[{id:'a',predictionCutoffJD:1,outcomeJD:2,outcome:1}]; assert.equal(validateOutcomeDataset(rows).valid,true); assert.equal(fingerprintOutcomeDataset(rows).length,64); const f=freezeForecast({id:'a',createdJD:1,prediction:{verdict:'YES'},modelVersion:'10',calculationVersion:'10',ruleVersion:'10'}); assert.equal(attachOutcome(f,{outcome:1,outcomeJD:2}).outcome,1);
+console.log('v10 complete engine tests: PASS');

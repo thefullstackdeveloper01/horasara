@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import { runMasterAudit } from '../src/completion/MasterCodebaseAudit.js';
+const r=runMasterAudit();
+assert.equal(r.pass,true);
+assert.equal(r.package.runtimeDependencies.length,0);
+assert.equal(r.package.optionalDependencies.length,0);
+assert.equal(r.package.devDependencies.length,0);
+assert.equal(r.datasets.validJson,true);
+assert.equal(r.networkImports.length,0);
+assert.ok(r.counts.datasets>=300);
+assert.ok(r.requirements.every(x=>x.effectiveStatus!=='FAIL'));
+console.log(`master-codebase-audit: PASS (${r.counts.sourceFiles} source, ${r.counts.datasets} datasets, ${r.counts.testFiles} tests)`);

@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Rudraksha-List.json
+Dataset number: 204 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 675 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | mukhi | ruling_planet | deity | associated_chakra | benefits | wearing_mantra | wearing_day
+------------------------------------------------------------------------------------------------
+rudra_001 | 1 | Sun | Lord Shiva | Sahasrara (Crown) | Cures headaches, heart diseases, and bone issues. Brings leadership and spiritual enlightenment. | Om Namah Shivaya | Monday
+rudra_002 | 5 | Jupiter | Kalagni Rudra | Vishuddha (Throat) | Brings academic success, wealth, and removes liver/gallbladder issues. | Om Hreem Namah | Thursday

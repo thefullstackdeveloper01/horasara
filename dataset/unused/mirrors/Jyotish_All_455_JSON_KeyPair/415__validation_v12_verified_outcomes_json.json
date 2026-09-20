@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "415__validation_v12_verified_outcomes_json",
+    "name": "validation_v12_verified-outcomes",
+    "original_file": "validation/v12/verified-outcomes.json",
+    "dataset_number": "415 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v12_verified-outcomes.txt",
+    "source_sha256": "dd2c51a6be9ae3aeaeb597c441048021924fa56042f58091298a001d6cac793e",
+    "source_bytes": 525
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "12.0.0",
+      "status": "READY_FOR_VERIFIED_IMPORTS",
+      "cases": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "note": "Empty by design. V12 never fabricates historical outcomes."
+    }
+  }
+}

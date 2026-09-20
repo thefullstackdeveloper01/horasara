@@ -1,0 +1,30 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v13/verified-chart-corpus.schema.json
+Dataset number: 421 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 307 bytes
+Top-level fields: 6
+Title: HoraSaar V13 Verified Chart Corpus
+
+CONTENT
+--------------------------------------------------------------------------------
+• $schema: https://json-schema.org/draft/2020-12/schema
+• title: HoraSaar V13 Verified Chart Corpus
+• type: object
+• required:
+  1.
+    version
+  2.
+    status
+  3.
+    records
+• properties:
+  • version:
+    • type: string
+  • status:
+    • type: string
+  • records:
+    • type: array
+• additionalProperties: No

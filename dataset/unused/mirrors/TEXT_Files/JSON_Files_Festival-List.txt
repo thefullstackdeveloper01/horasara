@@ -1,0 +1,26 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Festival-List.json
+Dataset number: 172 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 423 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: fest_001
+  • name: Diwali
+  • type: Major Festival
+  • deity: Goddess Lakshmi & Lord Ganesha
+  • tithi: Amavasya of Kartik month
+  • significance: Return of Lord Rama to Ayodhya, victory of light over darkness.
+  • rituals:
+    1.
+      Lighting diyas
+    2.
+      Lakshmi Puja
+    3.
+      Rangoli making
+  • astrological_significance: Sun is in Libra (debilitated), Moon in Scorpio.

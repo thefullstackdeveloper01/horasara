@@ -1,0 +1,7 @@
+{
+  "planets":["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn","Rahu","Ketu"],
+  "weights":{"Sun":0.8,"Moon":0.95,"Mars":0.9,"Mercury":0.85,"Jupiter":1.25,"Venus":1.05,"Saturn":1.1,"Rahu":0.85,"Ketu":0.75},
+  "chaldeanOrder":["Saturn","Jupiter","Mars","Sun","Venus","Mercury","Moon"],
+  "weekdayLords":["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn"],
+  "horaQuality":{"Sun":2.0,"Moon":2.0,"Mars":-2.0,"Mercury":1.5,"Jupiter":2.5,"Venus":2.5,"Saturn":-2.0,"Rahu":-1.5,"Ketu":-1.5}
+}

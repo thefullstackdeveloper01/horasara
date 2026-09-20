@@ -1,0 +1,24 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Numerology-List.json
+Dataset number: 191 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 126 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • number: 1
+  • ruling_planet: Sun
+  • traits: Leader, independent, aggressive
+  • compatible_numbers:
+    1.
+      1
+    2.
+      2
+    3.
+      3
+    4.
+      9

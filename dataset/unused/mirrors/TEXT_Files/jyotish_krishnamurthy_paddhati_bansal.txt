@@ -1,0 +1,1447 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_krishnamurthy_paddhati_bansal.json
+Dataset number: 243 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 83,684 bytes
+Top-level fields: 11
+Title: Jyotish_Krishnamurthy paddhati_Bansal
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_Krishnamurthy paddhati_Bansal
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 61
+  • total_words: 14263
+  • text_quality:
+    • ocr_word_validity_score: 0.917
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+KRISHNAMURTHY
+PADDHATI
+Author
+Arun Kumar Bansal
+
+Contents
+Chapter 1
+Casting Horoscope 1
+Chapter 2
+Krishnamurthy Paddhati 18
+Chapter 3
+Ruling Planets 29
+Chapter 4
+Significant Points for K.P. Analysis 33
+Chapter 5
+Krishnamurthy Paddhati Applied to Natal Horoscope — 41
+Chapter 6
+Horary Astrology using Krishnamurthy Paddhati 45
+Chapter 7
+Twelve Houses 53
+
+Chapter-1
+Casting Horoscope
+f
+An accurate casting of a horoscope enables closer predictions to the actual and this
+is more so essential in utilising the "Krishnamurthy Paddhati" mode for predictions. In
+K.P. System the horoscope casting is exactly the same as in traditional system but the
+house system is different. After calculation of Ascendant and planet positions, the
+house degrees are calculated as per Placidus system. Further for the planets and
+houses both, Nakshatra lord and sublord are computed for further analysis of
+horoscope.
+An illustration will revive the methodology to be adopted to ensure accurate casting of
+horoscopes.
+Birth Date: 1 2- 9-1 935. Birth Time: 9:08 P. M.
+Birth Place: GUNA. [M.P.] Latitude: 24° 39' N. Longitude: 77° 18' E.
+The procedure of casting horoscope includes following main steps :-
+FIRST STEP:
+CONVERSION OF THE INDIAN STANDARD TIME INTO LOCAL MEAN TIME
+The Earth moves in an ellipse round the Sun and revolves once on its axis in 24 hours.
+It takes 4 minutes to revolve one degree from west to east direction and thereby every
+solar body appears to move from east to west Hence in places in the same latitude
+about one degree east of any place, the Sun rise will be seen 4 minutes earlier than
+places in the west. Indian Standard Time is always 5 hrs. 30 mts. ahead of Greenwich
+Mean Time because it is fixed for the longitude 82 deg. 30 mts. E. For the calculation
+of Local Mean Time it is necessary to note the Geographical Coordinates i.e. the
+Latitude & Longitude.
+Guna is west of the chosen meridian 82° 30'. The diff. of Long is 5° 10'. The time
+correction @ 4 minutes per deg. will be equal to 5° 1 0 X 4 = 20 mts. 40 secs.
+So, when it is 9.08 p.m. 1ST. it means [09-08] - [0 hr. 20 mts. 40 secs.]
+=8 hrs. 47 mts. 20 secs. p.m. LMT. at Guna.
+Note :- If the locality is in the east of the chosen meridian 82° 30’ E. then the time
+correction calculated @ 4 minutes per deg. for the difference of longitude of place of
+birth should be added to the 1ST in order to obtain LMT for the birth place.
+Krishnamurthy Paddhati
+
+SECOND STEP:
+CALCULATION OF SIDEREAL TIME FROM LOCAL MEAN TIME
+After having obtained the Local mean time it would be necessary to calculate the
+sidereal time of the location concerned. The local mean time of 8hr 47 mts 20 seconds
+at Guna on 12.9.35 has been calculated above with Lat 24°40‘N & Long. 77°20'E.
+The sidereal time for 12.00 Noon on 12.9.1900 as given in Table of Lahari panchang
+h m s '
+(enclosed) is 11 23 14 . To this a year correction as given in Table II is to be taken.
+This for 1935 is -1m53s and correction for time interval of i.e. 1h24m needs to added.
+Accordingly, the sidereal time is
+THIRD STEP
+FINDING OUT THE POSITION OF THE ASCENDANT AND OTHER CUSPS’
+Referring to the table of houses in the Lahiri Ephemeris the position of the 1 0th cusp is
+given for each sidereal time. For the sidereal time the 10th cusp is gven for 20 hr 8'
+and 20 hrs 12' which is respectively 6° 49' & 7° 47'. For the difference for 4 mts there
+is 62 sec. difference. Thus for 2' 8" the proportionate increase would be 30' from 6°49‘
+From the table of Ascendants .for the lattitude 24°39' as given in Table the cusp is
+again given for 20hr 8' and 20 hr 12’ as 18°37' and 19°48' respectively i.e. approx 44'
+for 2 mts 8''. The Ascendant would therefore be 1 8°37' +36'=1 9°21 '. The span between
+the 10-1 1th cusp, 11th-12th, 12th-Asc,Asc-1st, 1-2nd and 2nd-3rd cusp are given in
+Krfshnamurthy Paddhati
+
+Table. By adding 1 80° to the above cusps the 7th cusp from there on would be available.
+Cusps of Different Houses
+FOURTH STEP:
+FINDING THE POSITIONS OF PLANETS AT BIRTH TIME (1ST)
+Referring to the Lahiri ephemeris where the longitude for planets is given for the year
+1935 at 5.30 p.m. 1ST, the position of the planets can be worked out as follows. The
+Nirayana position of the Moon has been given for each day while that for other planets
+are for 7 days. For arriving at the specific hour of 9.08 p.m. the method of log.
+proportional should be applied. In case of retrograte planet the proportional motion
+should be deducted from that of the previous day.
+Krlshnamurthy Paddhati
+
+As birth has taken place 3 hrs. 08 mts. after 5-30 p.m. 1ST on 1 2-9-1 935 find out the
+proportional movement for this interval, and add the same to the position of 12*91 935, if the planet is in direct motion or deduct if the planet is retrograde. As Rahu’s
+position is given in ephemeris, so to fix Ketu’s longitudes add 1 80°.
+FIFTH STEP:
+POSITION OF FORTUNA (F)
+Longitude of Lagna
+Add Longitude of Moon
+Sum of Lagna and Moon
+Deducting Long, of Sun
+Longitude of Fortuna
+SIXTH STEP :
+ERECT RASI-CHAKRA AND INSERT THE PLANETS
+Krishnamurthy Paddhati
+
+SEVENTH STEP:
+CALCULATION OF DASA BALANCE AT BIRTH.
+Moon at the time of birth was in 23°10'14" Aquarius in Poorvabhadrapad star which
+extends from 20 deg. Aquarius to 3 deg. 20 mts. Pisces. Therefore, the portion to be
+covered by Moon is 9052'5” or 609'. Jupiter has 1 6 years of Dasha. The Longitude of
+a star is 13 deg. 20 mts. or 800 mts. Therefore, the balance of Jupiter Dasa at birth.
+= 12 years 2M 8 days.
+Exercise
+1. Find the LMT for a Birth at 10.40 AM 1ST at Delhi.
+2. Describe the procedure to arrive at the sidereal time for a particular place.
+3. Describe the position to find the cusp of the Ascendant & Xth house using the
+Lahiri panchang and thereafter arriving at the cusps for all houses.
+4. How should the accurate locations of the position of planets be done.
+5. How should the position of Fortuna be determined.
+6. Indicate the constellation & sub lord of the each planet using Table.
+Krishnamurthy Paddhati
+
+Sidereal Time
+Table -1
+Sidereal Time at 12h noon local mean time for days of year.
+(For 821/2° E. Longitude and for 1 900 A.D.)
+Krishnamurthy Paddhati
+
+Sidereal Time
+Table -1 - Continued
+Sidereal Time a! 1 2h noon local mean time for days of year.
+(For 821/z° E. Longitude and for 1 900 A.D.)
+Date Sid. Time
+Date Sid. Time
+Date Sid. Time
+Date Sid. Time
+Date Sid. Time
+Date Sid. Time
+July
+August
+September
+m s
+October
+November
+December
+h m s
+Krishnamurthy Paddhati
+
+Table II- Correction for different years
+(To be applied to the result of Table I above)
+* For January and February only, f For March to December.
+Krishnamurthy Paddhati
+
+Table III - Correction for different localities
+Correction is @ .66 seconds per degree of longitude from central meridian 82°30' and positive for
+West and negative for East.
+Table IV - Correction to Increase the time Interval
+The time correction is applied for the time interval of the given moment from Noon, increased by
+the above correction.
+Krishrtamurthy Paddhati
+
+Tenth House or M.C. (For all places on the Earth)
+Krishnamurthy Paddhatl
+
+Ascendant for Latitude 24°30’ North
+Sidereal Time
+Proportional Parts
+Krishnamurthy Paddhati
+
+Nirayan a Longitudes of Planets at 5.30 PM 1ST for year 1935 Ayanamsa 22°57’17”
+Stationary : Saturn-June 22R, November 8D, Jupiter - March 10R, July 12D, Mars - Feb. 27R, May 18D,
+Venus - August 18R, Sept. 30D, Mercury-Feb. 8R, March 2 D, June 9R, July 3D, October 6 R, 27D.
+Krishnamurthy Paddhati
+
+Nirayana Longitudes of Moon at 5.30 PM 1ST for year 1 935
+Krishnamurthy Paddhati
+
+f
+Distance between the houses according to the Semi-arc system
+Krishnamurttiy Paddhatl
+
+Houses Division
+Distance between the houses according to the Semi-arc (Piacidus) system
+Krishnamurthy Paddhati
+
+Distance between the houses according to the Semi-arc system
+Krishnamurthy Paddhati
+
+Distance between the houses according to the Semi-arc system
+Krishnamurthy Paddhati
+
+Chapter-2
+Krishnamurthy Paddhati
+2.1. Purpose & Principles
+The position of a planet either benefic or malefic covers a large domain of 30° within
+a Rasi. K.P. system tends to evolve a system by which the operation of a particular
+planet in a Rasi, is determined by just not its placement but by the. constellation it
+travels and the sub lord it is positioned in.
+All planets moving from Vernal Equinox Aries according to the Nirayana system get
+their results modified as they move in the Zodiac. Thus in the first 13°20’ any planet
+transiting in Mesha will be influenced by the constellation called Aswini and so on till
+Revathi in which the planet will be influenced by Mercury. As the duration of the zone
+1 3°20’ for each Nakshatra is a broad zone, they are further classed into nine parts in .
+proportion to their duration as per their Vimshotri Dasa. This is termed as the sublord.
+Normally, Jupiter, Venus, affiliated Mercury and waxing Moon are termed as natural
+benefics while Sun, Mars, Saturn, Rahu & Ketu as malefics. But in KP it is determined
+by sub lord planet is posited in.
+2.2 Computation of Sub-Lords
+The Aswani nakshatra under the constellation lord Ketu has 13°20' duration. This if
+divided into 9 parts, for each planet starting from Ketu, in proportion to their Vimshottari
+Dasa duration we get the period of the sub lords under the constellation Ketu. Thus
+Ketu has 7 years off 120 years duration in the Vimshottari Dasa duration and therefore
+Ketu sub in Ketu occupies 7 parts out of 1 20 of the total span of Nakshatra of 1 3°20'
+and for Venus sub in Ket 800x20 _ -jog = 2° 1 3'20"*
+Thus Venus sub lord will extend from 46'40" to 3°.00'00'' in Aries.
+Krishnamurthy Paddhati
+
+Krishnamurthy Paddhati
+
+2.3 Role of Planets, Rashi & Constellations:
+Suppose (a) there is a light in the centre of a circular room provided with 12 glass
+panes of different colours (b) around the room there is a verandah and outside it, there
+are 27 glass panes of which the colour, 1,10 and 1 9, is the same; 2,11 and 20 differ
+from 1,10, 19 but these three are of the same colour; 3, 12 and 21; differ from others
+but these three of the same colour as they belong to one group. Similarly, all the 27
+panes are of 9 different colours.
+If a person walks outside the circular verandah looking at the light inside, he will find
+the colour of the light getting changed according to the colour of the coloured panes.
+Similarly, the results of the planets are modified by the lord of the sign and indicated by
+the lord of the Nakshathra or constellation.
+Bulb
+Moon Lord of the Constellation
+orNakshatra
+If a planet is compared to a torch light then the influence of the sign and the influence of
+the Zones of 13°. 20' called stars, change the colour of the light. Suppose a railway
+guard shows the light, It may be plain or green or red according to the background
+mirror.
+Similarly, imagine that the mirror used behind the bulb is the lord of the sign. It may be
+clear and it may illuminate to a maximum or it may be dull rendering the light, weak.
+The strength and modification of the colour depends, on the mirror behind the bulb
+(which is the reflector) which denotes whether a planet is exalted and strong or
+debilitated and weak.
+Also suppose one coloured slide is inserted between the torch light and the observer
+this colour depends on the lord of the constellation “C” when ‘p’ is the planet (which is
+the bulb).
+Therefore, the results of a planet in different positions in the Zodiac, in different signs
+and different constellations, is similar to the light from the torch getting modified and
+the resultant becoming absolutely different from the original light unless all the colours
+are similar to that of the planet.
+Krishnamurthy Paddhati
+
+Prof. Krishnamurti found out that a planet does not invariably give the matters of the
+houses it occupies or owns but offers to give matters of such planet in whose
+constellation it is deposited. He used the same 9 planets, the same 27 constellations,
+and the 12 Rasis together with the same old Vimshottari Dasa system, and said that
+a house occupied by the constellation lord and also the houses owned by that planet.
+The occupant of the house will move the matters of the house it occupies, apart from
+the results it has to offer due to its constellational position if there is no planet in any of
+its constellations.
+Whether or not, such results as are indicated by the tenant planet will come to pass
+depending upon the 'SUB' portion of the constellation occupied by the tenant planet.
+And if the lord of the 'SUB' occupied by the tenant planet is favourably connected by
+occupation, lordship to the matters signified by the constellation lord of the tenant
+planet, the tenant planet fructifies the matters of which it is the significator due to its
+constellation position.
+If the tenant planet is placed in the 'SUB' of a planet who occupies or owns houses
+detrimental to the affairs of the constellation lord, the matter is not fulfilled.
+The 'SUB' lord should not be in unfavourable aspect to the CUSP of the house signified
+by the constellation lord. The Aspects are to be computed by reckoning the distance
+in terms of the longitude. '
+If the constellation is akin to Dasa, the Bukthi is akin to 'SUB', the Anthra is akin to
+SUB-SUB, and so on.
+A planet in the Padhdhati terminology becomes a maletic or benefic, not in
+consideration of its nature in terms of the old traditional system, but by reason of its
+owning benefic or malefic houses or occupying such houses.
+Praf. K.S.K. was emphatic in saying that no planet is wholly a benefic nor in full a
+malefic. Neither Jupiter is benefic nor Saturn is malefic.
+Advantageous houses : 1,11, III, VI, X, XI
+Disadvantageous houses : IV, V, VII, VIII, IX, XII
+Just as a planet is governed by the sub lord, so also the cusps of houses are governed
+by the sub lords in accordance with the degree rising on the cusp of the Houses. The
+degree of effects depends on the sub-lord of the Cusp : not only it should be the
+significator of the Bhava where the cusp falls but also it should be the significator of
+any of the houses of the matter concerned. Sri K.S.K. emphasised that judgement of
+each bhava-cusps is essential. \
+Prof. K.S.K. had advocated the house divisions under Placidus system in constructing
+a birth chart or Horary chart.
+Krishnamurthy Paddhati
+
+K.P. System emphasis that as the ascendant and the cusp of each house move faster
+than the planets, it is these that explain rapid changes due to the occupation of the star
+and sub. The ascendent can move irr a sign for about two hrs but in a constellation, it
+can only be for about 50 to 60 mts. As certain events can happen within 5 to lOmts,
+sub lord becomes important. It would be wise to draw out the sign lord, star lord and
+sub lord for all the cusps and the ascendent for better understanding of the horoscope.
+Coming to the analytical part which is of supreme importance with such a large data
+base we could narrow it down to the following in the order or importance.
+1. The planet in a constellation will offer the result of Bhava house occupied by the
+lord of the constellation.
+2. The planet which is situated in a constellation is the strongest to offer the results of
+the house occupied by the lord of the constellation..
+3. The occupants of a house is strong to give the results of the house occupied by it.
+Planets in the constellation of the occupants of a Bhava will indicate the fruits of the
+Bhava. ►
+4. Planet deposited in the constellation of the lord of the sign where the cusp of a
+house falls. >
+5. Then only the lord of the sign where the cusp of a house falls.
+The above form the various significators for the determination of a particular event. Only
+the conjoined planets of the above should be utilised for determining the end result.
+Hence it may be concluded that the planet is the resource, constellation indicates
+nature of the result and the sub is a deciding factor whether the matter is favourable or
+not. Unless the last is favourable we do not call it a benefic.
+Note:- Rahu & Kethu are Nodes. A node signifies firstly the results of the planet or
+planets with which It Is conjoined, then the results of lord of the constellation in which It
+is deposited, then the planet or planets aspecting it and lastly of the owner of the sign
+in which it is deposited.
+HOUSE SIGNIFICATORS
+
+SIGNIFICATOR OF HOUSES
+1 . Mars
+2. , Sun, Venus, Rahu
+3. Mercury, Ketu
+4. Moon Mercury
+5. Sun, Venus, Rahu
+6. Mercury
+7. Sun, Moon, Mars, Jupiter, Venus, Rahu, Ketu
+8. Mars
+9. Moon, Jupiter, Saturn, Rahu, Ketu
+10. Mars, Saturn
+11. Moon, Mars, Mercury, Saturn
+12. Moon, Jupiter, Ketu
+PLANETS SIGNIFYING HOUSES
+Exercise
+1. How do you arrive at No. 249 in K.P.
+2. What is Sub-Lord. Calculate Sub-Lord for a planet with dergee 2s 5° 6'.
+3. What is the role of significator in K.P. When is planet strong significator.
+4. What are the ruling planets. What is the use of ruling planets.
+5. Write Rashi Lord, Nakshtra Lord and Sub-Lord for seed No. 142.
+6. What is the role of sub-lord in K.P.
+7. Why 249 No. system was evolved.
+Krishnamurthy Paddhati
+
+Sample horoscope
+Date 12X39/1935 Time 21:08:00 Place Guna Day Thursday
+Lat 24:39:00 North Long 77:18:D0East Zone 82:30:00 East TimeCorr -0:20:40
+Chitrapalcsh Ayanams a 22:57:48 Fortuna : Libra 16:30:55 Seed : OAsc. : 19:1902 Ari
+Planets
+S ignif icators of Houses
+Housl Planet
+MatSum* Van,
+Mer- Ket.
+Mon- MetSun+Ven+Rah+
+Met,
+Sun- Mon, Mar, Jup+Ven, Ket.
+MarMon-Jup, Sat, Rah. KetMar- SatMon.Mai+Mer, Sat,
+Mon-Jup, Ket*
+Nirayana Bhava
+Ruling Plenets
+Planet's Signification
+Vimshottari
+Jupiter 12Y2M10D
+Venus
+Saturn
+Mercury
+Ketu
+Vfenus
+Sun
+Moon
+Mars
+Rahu
+Jupiter
+Lagna Nirayana Bhava Chatit-CuspaE
+Krishnamurthy Paddhatt
+
+Planets
+Nirayana Bhava
+Ruling Planets
+Asc Sign Lord
+Asc Star Lord
+Ven
+Mar
+Significators of Houses
+Planet’s Signification
+Moon
+Mars
+Nirayana Bhava Chatit - Cuspal
+Krishnamurthy Paddhati
+
+Aries
+249 Number Table for Krishnamurti Padhdhati
+(D stands for degrees, M for minutes and S for seconds)
+Gemini
+Ven.
+Sun
+Sub
+lord
+Kelu
+Venus
+Sun
+Moon
+Mars
+Rahu
+Jupiter
+Saturn
+Mercury
+Venus
+Sun
+Moon
+Mars
+Rahu
+Jupiter
+Saturn
+Mercury
+Ketu
+Sun
+Moon
+Mars
+Rahu
+From
+D.M.S.
+To
+D.M.S.
+Taurus
+No. Sign
+lord
+42. Mercury
+Star
+lord
+Sub
+lord
+From To
+D.M.S. D.M.S.
+Mar Mercury
+“ Kelu 1
+“ Venus
+“ Sun
+“ Moon
+Rahu Rahu
+“ Jupiter |
+“ ■ Saturn
+e“ Mercury
+“ Ketu
+“ Venus
+“ Sun
+“ Moon
+MarsJupiter Jupiter
+“ Saturn
+“ Mercury
+“ Ketu
+Venus
+“ Sun
+“ Moon
+Cancer
+Krishnamurthy Paddhati
+
+Leo
+Libra
+Virgo
+Scorpio
+Krishnamurthy Paddhati
+
+Sagittarius
+Aquarius
+Capricorn
+Pisces
+Krishnamurthy Paddhati
+
+Chapter-3
+Ruling Planets
+3.1 Ruling planet
+The ultimate aim after assessing the matters of a house is to determine the time of
+fructification. In assisting to arrive at this correct time of fructification K.P. evolved the
+system of ruling planets. These are used to fix the time and date of realisation without
+resorting to Horary or Natal charts;
+These Ruling planets are
+1 . Lord of week day
+2. Lord of Moon sign
+3. Lord of Moon constellation
+4. Lord of Lagna
+5. Lord of Lagna constellation
+6. Nodes tenanting the signs of Ruling planets.
+Nodes, if they signify the sign position of a ruling planet should be included as a Ruling
+planet. While analysing the ruling planets, the following should be kept in view:-
+1 . Strength of ruling planet is in order of star lord of Ascendant, lord of the ascendant,
+star lord of the Nakshatra (Moon), Lord of the Rasi and then the lord of the day.
+2. Even though ruling planets are selected in the order given in Para 1 , if a ruling
+planet were to be in the sub of another who is detrimental to the houses to be judge
+•for particular matter - by being the signifactor for 8 & 1 2 to the house to be judged,
+then this will not be a fruitful ruling planet.
+3. If Ruling planet selected, were to be in a sub of a planet which is retrograde it is not
+useful.
+4. A ruling planet -fails to offer results only when it is in a sub of the lord which is
+retrograde.
+3.1.1 Example :
+The query was whether the orginal Horoscope cast was correct. The query was at 11
+Krishnamurthy Paddhati
+
+Orginal Chart
+Birth 4.25 a.m I.S.T. at Trivandrum on 15-12-1967
+The rashi chart for the moment of judgement was casted and was as below:
+Rasi Chart for the moment of Judgement
+Ruling Planets :
+4-2-1976 Wednesday. Time 11 p,m. I.S.T.
+Krishnamurthy Paddhati
+
+Kuja aspects Budha and Sukra. Guru is conjunctionwith Moon. So Kuja can act for
+Sukra and Budha, and Moon can act for Guru.
+When the Ascendant is calculated for 4-25 a.m. I.S.T., at Trivandrum on 15-12-1967 it
+comes to 0°-8' in Scorpio. Since Mars is the star lord of Ascendant, it is the most
+powerful of the ruling planets, so the Ascendant of the native must be Scorpio rasi only.
+By applying the theory of Ruling Planets, we can get the ascendant position as Mars
+Rasi, Guru star, Moon sub and Mars sub sub. So the Ascendant arrived at by casting
+for the time is correct. Kanya Lagna given in the orginal horoscope is wrong and the
+following is the correct horoscope of the native.
+Birth star Krittika,
+Balance of Rasi Dasa at birth time : 1 Y-6M-18 Days.
+3.1.2 Example : When will wife return :-
+Query details :
+Place
+* Latitude
+Longitude
+Date
+Time
+Bangalore
+2nd April 1972
+Ruling Planets :
+The Ascendant lagna rising at the time of judgment was noted to be Taurus 1 0°-09'
+(Nirayana system).
+Lord of the day
+Lord of the rasi transited by the Moon
+Lord of the constellation transited by the Moon
+Lord of the sign on the Ascendant
+Lord of the constellation rising on the Ascendant
+Sun
+Sukra (Libra)
+Guru (Visakam)
+Sukra (Rishaba)
+Chandra (Rohini)
+Krishnamurthy Paddhati
+
+The ruling planets were Chandra, Sukra, Guru and Surya. Although Surya was transiting
+in the constellation of retrograde Budha and was conjoined with Budha, Yet as the
+matter has to materialise in a short time, Surya was not rejected.
+When the Ascendant moves in Rishaba owned by Sukra, in Chandra's Constellation
+Rohini and to the sub of Guru and sub-sub of Surya. i.e. between 1 5°-3'-34" and 1 5°-
+8'-34" in Rishaba, she should arrive. So the time of arrival should be 9 hours 23 minutes
+28 secs. a.m. Local Mean Time. Adding 19 minutes 36 secs, being the difference in
+the local mean time between Bangalore Meridian and the Indian Standard Time
+Meridian, the arrival time was calculated to be 9-43 a.m. (I.S.T.). She did knock at the
+door at 9-43 a.m. (I.S.T.) exactly as surmised by the application of Krishnamurti
+Padhdhati.
+Krishnamurthy Paddhati
+
+Chapter-4
+Significant Points for
+K.P. Analysis
+4.1. Aspects and Significance
+All planets have a seventh aspect while Saturn's 3rd & 1 0th, Jupiter’s 5th & 9th and
+Mars 4th & 8th have a stronger aspect than even their 7th aspect. However, these
+aspects cover a wide range of 30° in a house and would mislead one into improper
+interpretation. To arrive at proper aspects mentioned, it would be necessary to work
+out the distance between the two longitudes of the planets concerned. Thus if Mars is
+in Kanya 1st degree and Kethu in 29th degree in Dhanus then they show beneficial
+results as they are at a distance of 11 8 degrees which is within the range of the trine
+aspect. It is thus observed that the same two planets though posited in the same
+house would have different aspects. They may be benefic or otherwise malefic,
+depending on the actual longitudinal distance between the two.
+No planets aspect the 2nd, the 11th and 6th houses subject to what is mentioned
+above.
+It may therefore be concluded that if two planets form favourable aspects then both of
+them will cooperate and offer such results which the lord of the dasa and the planet
+indicate e.g. if the lord of the Dasa promises agreeable results, then planets forming
+harmonious aspect will assist the dasa lord to offer desirable results. On the contrary
+if a planet forms adverse aspects then it will not cooperate with the dasa lord.
+The various aspects normally applied are given below :
+Krishnamurthy Paddhati
+
+All aspects of multiple of 22Vz ° are evil and of 18° and 30° beneficial except 90° &
+1 50°. The conjunction is most powerful followed by opposition, trine, quincunx, biquintile,
+sesquiquadrate, square sextile and quintile. The rest are moderate in affect. ■
+Orb : The distance during which a planet has an influence over another while
+approaching it and till the distance its effect prevails while receding from it is known as
+an orb. The orbs allowed to the Sun, Moon and other planets are :
+Separating
+It is to note that only faster moving planets will apply over a slow moving planet, overtake
+it and then recede.
+Applying
+The order of fast moving planets are Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn,
+Uranus and Neptune. It may sometimes be seen that the motion of Venus is faster than
+that of Mercury. Mercury when near the Sun moves faster than Venus than when it is in
+a aphelion position. A table of the different aspects and their range of influence is
+
+4.2 Mutual Application : When two planets are in an aspect and one of them is
+regtrograde, the other moves towards it at a faster rate. This is known as Mutual Application. Retrogradation is an appearance caused by the combined motions of a planet
+and the earth and their relative to Sun. No planet retraces in its orbit. If a planets
+longitude goes on decreasing then it is said to be in retrograde motion . Sun & Moon
+are never retrograde while Rahu & Ketu are forever retrograde.
+4.3 Retrogression : There are different versions to what effect a retrograde motion
+would give a few of which are :
+1 . Westerners feel when benefic planets are in retrograde they weaken their beneficial
+results while a malefic planet in such a position improves the evil double fold. When
+two planets which are retrograde are in good aspect, the results indicated by the
+aspect would be deficient and disappointing. An evil aspect of a retrograding planet
+accentuates evil effects.
+2. Hindu mythology states a planet conjoined with a retrograde planet gets increased
+strength. An exalted planet in retrograde attains neecha value while a debilitated planet
+attains exaltation. A retrograde planet possesses strength even in its depression or
+inimical sign or amsa.
+In Natal charts retrogression has no importance. However in Horary horoscope, the
+following results accrue as per KP :
+1 . A retrograde planet in the constellation of a planet which is in direct motion, indicates
+matter will materialize after obstacle and delay, when it is indirect motion and passes
+beyond the point wherefrom retrograde motion started.
+2. A planet in retrogression in the constellation of another retrograde planet or in its
+own, promises only failure.
+3. A planet in direct motion, in the constellation of a retrograde planet, one cannot
+Krtshnamurthy Paddhati
+
+have success (Rahu & Ketu should not be taken as retrograde for this purpose of
+analysis.)
+4.4 Combustion of Light : Planets within a distance of 5° from the Sun are in
+combustion (totally eclipsed). However, if they are 10° away from the Sun, the
+combustion is moderate while beyond 15° there is no combustion.
+It may be mentioned, that if two planets may not be having a direct aspect between
+themselves but could be having a link planet which produces the aspect. Thus if Mars
+in Rishabha 5° and Jupiter in Vrischika 17° they are not in opposition as Jupiter 4°
+falls beyond 13° of Vrichika upto which the orb of opposition extends. If however, if
+Moon is in 1 1 0 Sinha it will be square to both Mars & Jupiter (after allowing the orb for -
+square aspect) It will then transmute the influence of the malefic Mars towards the
+benefic Jupiter.
+Moon, situated in between them has brought about opposition aspect between Mars
+and Jupiter though it did not prevail earlier. *■
+4.5 Exaltation & Debilitation
+In K.P. if a planet is exalted, but is in a constellation of a debilitated planet, its ability to
+do good or bad is limited. However, if a planet is in debilitation and is running in the
+constellation of an exalted planet it magnifies its abilities manifold.
+4.6 ECLIPSE-ECLIPSED PLANET-RESULTS
+If any heavenly body Intercepts the light of another heavenly body and the onlooker is
+unable to see the farther off planet it is said to be eclipsed. The nearer planet deprives
+the light of the more distant planet. Its brilliance, the circular shape and splendour will
+be lost.
+In the Solar system, Sun is taken as the Central body around which the planets move
+round and round. Each planet has its own orbit- its own pathway round the Sun. But the
+earth and the Moon go round the Sun, together. The one feature of Moon which is
+about 2,40,000 miles away from the earth goes round the earth once in 27.5 days and
+both Moon and earth go round the Sun once a year.
+Mercury and Venus are very near Sun. Sun is 93 million miles away from the earth. Mercury
+is 36 millions miles away from Sun ; Venus is 67 million miles away from the Sun.
+Therefore, there will be occasions when Moon, Mercury and Venus can come between
+the earth and the Sun.
+Suppose you keep one of your fingers near either of your eyes. Close the other eye.
+One elephant standing 1 00 meters, away is hidden by this small finger. This depends
+on the size of the finger, its nearness to the eye and the farther distance of the elephant.
+Now, your eye, the finger and the elephant are in the same line and plane. Suppose,
+Krishnamurthy Paddhati
+
+the elephant is lifted by a lift, in the same place. Even though the elephant was hidden
+by the finger previously, as it is lifted up above the area covered by the finger, then the
+elephant becomes visible, slowly and steadily.
+Thus Moon is a decently big body. It is very near to the earth. The Sun is very far off. It
+is very big like the elephant compared with finger. So, when the Moon comes in between
+the observer and the Sun, the Sun is not visible. Slowly the shadow of the Moon, covers
+the Sun. This is called the Solar eclipse. During the duration of the eclipse the declination
+of the Moon and Sun will be the same. But if the declination is different, but the celestial
+longitude of both is the same then it is only New Moon. Similarly, when earth comes
+between Moon and Sun, earth prevents Moon from getting the light of the Sun, and
+lunar eclipse is formed.
+Just like, during Solar eclipse, Sun loss its brilliance and is hidden by Moon and during
+lunar eclipse Moon loses its pleasant light and is hidden by the earth, so also the rays
+of other planets are interrupted. Because, we, on the earth, do not receive very bright
+light, illuminating the objects<on the earth, from other planets, we cannot see, notice
+and realise the eclipse of the other planets.
+The planets Mercury and Venus are called Inferior planets as they are nearer to Sun
+than the earth and they can be between the Sun and the Earth, just like Moon during
+New Moon days and Solar eclipse days. Moon is hidden from Sun by the earth during
+lunar eclipse. But earth can never come in between Mercury and Sun or in between
+Venus and Sun. So Earth can never eclipse Mercury or Venus.
+4.6.1 What eclipsed planet can do in its period or sub-period: (as per KP)
+Let us consider the results of the planets situated in the constellation of those which
+are eclipsed and what they signify. If a planet is deposited in the constellation of an
+eclipsed one and if it is the sub-lord of the lagna cusp, the sub lord shows that the
+naiive will be imprisoned; he will lead the life incognito; will suffer from fear, disease
+and anxiety, will participate in funeral rites; incur loss and may lose position too, will be
+unfortunate, etc. .
+Sub lord of 2nd cusp: Behaves stupidly in a public assembly, will be untrustworthy, will
+receive annoying letters, write bad ones or anonymous ones sufferfrom eye troubles,
+will be foul-tongued, spend heavily, incur royal displeasure.
+Sub lord of 3rd cusp: Demise of brother, evil advice, trouble through secret
+mechanisation of internal enemies, humiliation, discomfitures and loss of pride thereby.
+Sub lord of 4th cusp: Distress to mother, sickness to dear friends, danger to building,
+trouble due to the loss of cattle, danger from water and conveyance.
+Sub lord of 5th cusp: Loss of a child, aberration of the mind, deception, wearisome,
+wandering, trouble in the stomach displeasure of the Government and bodily weakness.
+Krishnamurthy Paddhati
+
+Sub lord of 6th cusp: Will have troubles through thieves, will suffer reverse, defeat, will
+commit wicked acts, will do servile duties, will be despised, scandalised and injured.
+Sub lord of 7th cusp: Distress to son-in-law, separation from beloved, untoward results
+due to the troubles from the Opposite sex, intrigues with wicked women, diseases in
+the private parts, ever wandering.
+r
+Sub lord of 8th cusp :-Excessive sorrow: want of sense, carnal appetite, jealousy,
+unconsciousness, poverty, fruitless rambling, sickness, humiliation and death.
+Sub lord or 9th cusp : — Will incur the wrath of the deity or Guru or. preceptor or father
+suffer something untoward, trouble to wife and children, will do wicked acts, elder’s
+demise, will suffer from poverty.
+Sub lord of 10th cusp: Fruitless attempts, loss of honour, will become wicked, leaves
+his permanent place, inauspicious happenings, will lead bad life, suffer troubles.
+Sub lord of 1 1th cusp: Bad news, trouble to elder brother, sickness to children, w^j
+suffer misery, deception and ear disease.
+Sub lord of 1 2th cusp: Various diseases, dishonour, disappearance of wealth, detention,
+bondage.
+These results will be experienced by a person when he runs the dasa, bhukti or anthra
+of the sub lord as mentioned above.
+4.7 Principles of Judgement
+Aspects are the modifying influences in horoscope and a prediction is never complete
+unless the aspects are properly computed, studied, and the results judged Actually,
+the diametrically opposite results enjoyed by the twins can be scientifically explained
+by the aspect between the cusp and the significator.
+A few useful hints are given below to enable one to arrive at a correct judgment.
+(1) First assess the strength of the-aspect. Decile or 36 degrees aspect is not so
+powerful for good as a trine or 120 degrees aspect; not semi-square or 45 degrees
+aspect is so harmful as square or 90 degrees.
+(2) What Is the quality of the aspect? Is it a beneficial aspect or an evil one?
+(3) Is the aspect exact (rapt, partile) or is it wide (platic)?
+If platic, note whether the aspect is in the process of formation or dissolution.
+(4) Note the affairs governed by the house occupied by the aspected planet. Is it
+conjoined with any other planet at the same time? Association with a benefic (lord
+of a beneficial house in the chart) is very good and auspicious. Any connection
+with malefics, more especially with lord of 6 or 8 or 12 either by being conjoined
+with them or occupying their nakshatras, etc. portends evil. The nakshatra occupied
+Krishnamurthy Paddhati
+
+by a planet is the most important as the results denoted by the nakshatra lord (by
+its ownership) will mostly predominate.
+(5) What does the aspected planet denote by his lordship? Is he a benefic or not ? No
+doubt a planet possesses certain natural characteristics and these results will
+operate, but what the planet has to give by lordship will even change the results
+indicated by its nature e.g... Jupiter, a benefic by nature will be evil by owning evil
+• houses. Saturn by owning favourable houses becomes a benefic. Even these
+results are modified and changed by the occupation of various houses in the chart.
+The correct way is to Judge by taking the planet’s occupation, lordship of houses
+and its nature. Occupation in a particular constellation and the modification by the
+lord of the constellation are still more important. Jupiter and Venus who are natural
+benefics prove to be the worst evils for a number of people and the natural malefics,
+Mars and Saturn, immensely benefit some, as they occupy the constellation of the
+planets owning and occupying good houses.
+(6) Is the aspected planet placed in house which is 6 or 8 or 12 to the one it owns?
+Find out whether it is in a good angle (aspect) to the cusp of the house of which it
+is the owner. Suppose a person is born when the 29th degree of Aries (Mesha)
+was rising In the East. Then Mars rules the first house. If Mars happens to occupy
+Kanya (Virgo) 2nd degree, according to the Hindu method. Mars would be
+considered as being in 6th to the lagna and therefore badly, placed. Actually,
+however, Mars is at a distance of 1 23° from the Ascendant and so it is in good trine
+aspect. (7) Is the aspected planet dignified? A planet in its exaltation sign is the
+strongest. Next is the one in a Vargottamma position, i.e., occupying the same
+sign both in the rasi and in the navamsa chart. The third is the one in its
+Moolathrikona house. The fourth, the one in its swakshetra (own house) and the
+fifth is the planet which is in its friend’s quarters. A planet in debilitation or in enemy’s
+^ camp or connected with malefics in any manner, is said to be weakly posited and
+afflicted.
+(8) Then note the nature of the sign occupied by the aspected planet. Is it a movable
+(chara) sign, or fixed (sthira) sign or common, (ubhaya) sign? Is the sign fiery,
+earthy, airy or watery, positive or negative, fruitful or barren, etc.
+Similarly, find out whether the aspecting planet is a benefic by lordship, whether he is
+dignified or afflicted, beneficial or adverse by occupation and whether it aspects from
+a sign congenial to its nature. Also whether the aspecting planet in a kendra (angular)
+panaphara (succeedent) or apoklima (cadent) house. Houses 1 , 4, 7 and 1 0 are termed
+kendra houses and planets herein are said to be accidentally dignified, i.e., they attain
+full strength to express themselves. Planets in 2, 5, 8 and 11 called succeedent
+(panaphara) houses gain moderate strength. The houses 3, 6, 9 and 12 are called
+Krishnamurthy Paddhati
+
+cadent (apoklima) and planets in these houses get weakened and lack opportunity for
+expression. It is also important to note who is the lord of the constellation in which
+aspecting planet is situated.
+If one has correctly assimilated the basic elements constituting a horoscope and has
+acquired the ability to analyse properly, the value of this method to predict the nature of
+event and the time of the event.
+Exercise
+1. Define in short the advantages of using the Krishnamurthi Padathi system for
+analysis of an horoscope.
+2. State the order of importance for arriving at the conclusion as to which planets are
+the main significators for a particular event.
+3. Why should the longitudinal difference between planets be taken for arriving its
+aspects. State with example. *"
+4. Give the various aspects and their significance.
+5. What are effect of retrograde planets?
+6. How does exalted & deblitated planets effect the strength of a planet?
+7. Mention the effect of an eclipsed planet during its period or sub period as per K.P.
+Krishnamurthy Paddhati
+
+Chapter-5
+Knshnamurthy Paddhati Applied
+to Natal Horoscopes
+5.1 While applying Krishnamurthi Padhathi to Natal Horoscoppes it is ncessary that
+one should be aware of the significance of each houses. It may be mentioned that
+while analysing a Natal Horoscope retrograde motion is of no consequence.
+The constellation ruled by a planet indicates the matters signified by the bhava occupied
+and owned by it.
+The sub-lord occupied by a planet denotes whether it is auspicious for the progress of
+that bhava or inauspicious so that one meets with obstacle or faces dis-appointment
+or negation of the matter.
+This applies to all bhava results. If lagna is occupied by a planet or owned by one and
+if a planet either the same lagnadhipathi or any other planet is deposited in the
+occupant’s or owner’s star, then they indicate first house matters. If the depositor in
+that constellation is in the favourable sub, matters indicated by lagna will thrive. If the
+depositor in that constellation is in an unfavourable sub, the matter indicated by the
+lord of the constellation as per its occupation or ownership will suffer : must suffer.
+Accordingly systematic analysis by the K.P. mode requires the following:
+1 . Cast the Horoscope with planets and their Degrees
+2. Define the cusps of the 1 2 Bhavas.
+3. Ascertain the Bhavas for the query under consideration.
+4. Determine the significators for the Bhavas concerned as enuciated in Chapter-2 i.e.
+a) Bhava Lord, Its constellation and Sub-Lord
+b) The planets in the constellation of the occupants of the Bhava
+c) The planets signifying the particular Bhavas under consideration
+d) Determine the effect of the different aspects upon the Bhava as well as on the
+signifactors concerned. This will include whether the aspecting planet is in benefic or
+malefic longitudinal difference, whethers it is in retrogression etc. as enunciated in
+Chapter-4.
+5. Having obtained the signifactors, ascertain the conjoined signifactors that will operate
+the particulars Bhava under consideration.
+Krishnamurthy Paddhati
+
+6. Finally determine the Dasa, Bhukthi and Anthara when the signifactors will conjointly
+operate.
+5.1 .1 Example :
+Let us take the following chart
+Kethu Dasa balance 0 yrs 5 months 23 days.
+Lord of lagna is Sun: no planet is in lagna. Sun’s
+stars are Karthik, Uthrapalguni and Uthrashada.
+Planets, if deposited in these stars will refer the
+matters signified by the first house. If there is no
+planet, Sun gives lagna bhava results. This is similar
+to a Secretary who has 3 Deputy Secretaries & are
+given 3 rooms to carry out the instructions of the
+Secretary. If all 3 rooms are vacant, if no deputy is
+found, Secretary does the job. Even when they are
+there, Secretary can do other than what the Deputys
+do.
+There is no planet in Sun’s star. Hence Sun gives
+lagna results. Sun is in Moon’s star. Moon is in 9 and owns 12. Hence Sun mostly
+refers to the matters signified by 9 and 1 2, i.e., long journey; staying outside; loss of
+father: permanent possession of father, separation from father. 3.1 .1 judge the death
+of his father.
+Note the sub occupied by Sun. It is in Jupiter’s sub. What can Jupiter do to the 9th
+house. What can Jupiter do to the 12th house?
+Jupiter is in Saturn star. As Saturn is the Bhadhakasthana Adhipathi to 9, Jupiter
+indicates Bhadhaka to father. Therefore, if a constellation indicates father, then the
+sub of Jupiter in that constellation indicates danger to the father.
+Therefore Sun in the constellation of Moon in 9 and sub of Jupiter-the Bhadhaka to
+father, promises danger to father.
+9th house is owned by Mars. It governs Mrigasira, Chitra and Dhanishta stars. Rahu
+and Mercury are in Mars star Rahu is in the sub of Mars who denotes longevity to
+father. Mercury is in the sub of Saturn, Bhadhaka to father. Hence Rahu is a benefic
+whereas Mercury is evil.
+To the longevity of father houses 2 and 3 counted from 9th is evil. Both are owned by
+Venus. Rahu occupies 2 to 9; Mars occupies Venus star; none in Rahu star. Mars is in
+the sub of Venus. So it is harmful; Rahu is in the sub of Mars. It is good.
+Therefore Sun, Mercury and Mars are evil. Venus is in Jupiter sub. Venus is also evil.
+Krishnamurthy Paddhati
+
+(Venus is in the constellation of Kethu who represents 4th and 9th houses. Therefore
+Venus indicates the houses 9,10 and 3 danger to father)
+His father died during Sun Dasa, Mercury Bhukti Venus Anthra in July 1952.
+5.1.2 Let us judge 4th house. It is occupied by Sani and Kethu. It is owned by Mars. So
+planets in Saturn’s stars, Kethu stars and Mars stars are those which refer 4th house
+matters.
+Venus in Kethu star, Jupiter in Saturn star, Mercury in!
+Mars star indicate 4th house matters.
+Venus is in the sub of Jupiter, Marakasthana adhipathi and Venus is in Marakasthana
+Jupiter is in Venus sub. It is evil. Mercury is in Saturn sub. As Saturn is in rapt conjunction
+with Kethu and Saturn is in the constellation of the 8th from 4th, Mercury is evil; Saturn
+is also evil.
+Now Venus, Mercury, Mars, Saturn, Moon, etc. refer 4th house matters. It is the lord of
+the sub which indicates whether 4th house matter will thrive or not.
+Venus in 2 in the sub of lord of 2.
+Mercury in the constellation of planet in 2 to 4, owner of 4 and in sub of evil in 4.
+Saturn in the sub of Jupiter and Kethu in the sub of Jupiter, both occupying 4th house
+are evil. Hence he lost his mother during Venus Dasa Mercury Bhukti Saturn Anthra on
+Venus in the fifth house, i.e., the second to the 4th house by occupation and it refers
+the fourth house being the owner of the 4th.
+Hence Mars indicates about health and causes of death during the period of the planet
+iri^the star, if any, and which is in the sub of one referring the 4th or 5th or 1 0th (5th and
+10th are Maraka houses to the 4th). Mercury is in Mars star and sub of Sani who
+signifies the 4th.
+Let us find out the date of the death of his mother. It was on 27.4.47 when Venus Dasa
+(in the constellation of occupant of 4 and sub of the occupant of 10) Mercury Bhukti
+(constellation of planet in 2 to 4 and sub of planet in 4) and anthra of Saturn which
+refers the 4th house to give life or cause death depending on the sub which Saturn
+occupied) and it is in the sub of Mars and Shookshma of Rahu in 10 which is also in
+the constellation of Mars in 2 to 4 and sub of Mars. .
+t
+Day of demise-Friday. Star Moolam where Dasanatha was. (Jupiter rasi-Jupiter
+significator of 4 in Saturn star and sub of Venus in 2 to 4) at night which lagna was in
+poorvashada 15° in Dhanus.
+Krishnamurthy Paddhati
+
+5.1.3 Death of child: Happened during Moon Dasa Jupiter bukti Rahu Anthra. Moon
+is in the constellation of Kethu and sub of Mercury. Kethu has to give the results of
+planet with which it is conjoined, as it is a node. Saturn is lord of 2 to 5 and situated in
+1 2 to 5. Hence Moon is definitely evil as it is in the constellation of the node representing
+the second house to the 5th and in the sub of lord of 7 to 5, situated in 2 to 5.
+Jupiter is in the constellation of Saturn, lord of 2 in 12 to 5th house and sub of Venus,
+which is the occupant of 5 in the constellation of node in 12 to 5. Venus itself is evil to
+5. Mars in Venus star and Venus sub is also evil. Rahu in Venus sign, Mars star and
+Mars sub is definitely evil. Hence, Moon Dasa Jupiter Bhukti Rahu Anthra was evil. Let
+us take pleasant functions
+5.1.4 Marriage: Judge houses 2, 7 and 11 counted from lagna.2,7and 11 are vacant.
+2 is ruled by Sun. 11 is ruled by Mercury. 7 is owned by Saturn. Saturn and Kethu are
+in Mercury star. Jupiter is in Saturn’s star. Kethu is stronger than lord of 7. Moon and
+Venus are in Kethu star. Sun is also strong as there is no planet in Sun’s star. *-
+Marriage took place during Venus Dasa Kethu Bhukti Venus Anthra Moon Shookshma
+on 6-7-1947 on Sravanam star day Venus is in Kethu star. Kethu is stronger than
+Saturn; lord of 7 (7th house vacant). Kethu is in the star of Mercury (lord of 1 and 11).
+Both houses vacant. Moon is in Kethu star. Kethu stronger than Saturn, lord of 7. Kethu
+has to predominantly indicate Saturn’s result: then only that of Mars, Moon’s star is not
+in Mars sign. Hence, Sravanam star governed by Moon is Saturn’s sign gave marriage.
+Normally when one finds Saturn and Kethu in 4, 9 &1 1 house occupied by lord of 12,
+one following traditional Astrology must say that the native will have no tendency towards
+education. Also that he cannot come up nicely in studies. Not a word can be mentioned
+about marriage.
+But according to Krishnamurti Padhdhati, Saturn and Kethu in 4 are in the constellation
+of Mercury, lord of 11 and sub of Mars, owner of 4 and 9 shows higher education.
+According to Prof. Krishnamurti, if the dasanatha is connected with houses 4 and 9,
+they will give education. Venus’, the constellation of node in 4, gave studies throughout
+Venus Dasa. Sun in the constellation of Moon in 9 gave higher studies. As Moon is
+also significator of 12, Sun in the constellation of Moon, gave the break and ended his
+studies. He discontinued his studies after successfully completing Medical College
+course during Sun Dasa Saturn Bhukti Sun Anthra in December, 1 952.
+Exercise
+1 . Give the various factors to be kept in view while applying KP to Natal Horoscopes.
+2. A query is given at 9.45 am at Delhi on 24.9.04 as to when marriage will pccur. The
+girl was born in Delhi on 1.5.1982 at 12.30 pm (1ST).
+Krishnamurthy Paddhati
+
+Chapter-6
+Horary Astrology
+using Krishnamurthy Paddhati
+6.1 Why is Horary Astrology preferred
+To determine the events that are due to occur in ones life, there are basically two
+resources :-
+1 . Natal Astrology and
+2. Horary Astrology.
+The accuracy of the Natal horoscope, even today is of doubt as the time of birth itself
+is questionable. This leads to wrong predictions. Similarly to pinpoint the predictions
+of an event especially those in the near future, more articulation of the Natal Horoscope
+is called for. The Horary Astrology does come to the rescue especially where accurate
+Natal Horoscopes are not available. Horary Astrology can be of two mode.
+1 . Through horoscope cast at the time of query
+2. Through any numerical number between 1 &249 on a special query.
+Examples for evaluation in the former mode is given below :
+6.2 Krishnamurthy Padhathi applied to Horary Astrology through Time of query
+While applying Horary Astrology one must be confident of the Bhavas that enhance
+the significators for a particular query. In this connection one must also keep in mind
+the order of preference of significators as enumarated in chapter -3. The Bhava
+sjcjnificatons for some common functions are given in chapter 3 .
+An illustration using the above mode would make it clear.
+6.2.1 WHEN WILL THE TRUNK-CALL MATERIALISE?
+Consider the houses 3, 9 and 11. Take the sub-lord of the 11th cusp and find out
+whether the lord of the constellation in which the sub-lord is deposited, is not retrograde.
+If it were to be retrograde, no purpose will be served by that call. If the lord of the
+constellation in which third cusp sub-lord is deposited is retrograde, the call will not
+materialise. If the sub-lord of the 9th cusp is retrograde, the other party cannot, be
+contacted. But if they are in direct motion find out the significators of the houses 3,9
+and 1 1 as It will materialise.
+Since the call is to materialise in minutes or in hours one need not work out dasa
+balance, one has to note only the movement of the ascendant and calculate when the
+Krishnamurthy Paddhati
+
+ascendant will come to the position in the zodiac which is governed by the ruling planets
+and also the significators of the houses 3, 9 and 11.
+A planet which is the significator of 3 should also be the significators of 9 or 1 1 . Similarly
+the significator of 9 also should be the significator of 3 or 1 1 . The significator of 1 1
+should be the significator of 3 or 9. Such of the significators alone must be taken. If a
+planet is not the significator of 9 and 1 1 but is the significator of 6 or 8 or 1 2, one can
+take it that, that particular planet is not the significator for this trunk-call, even though it
+is the significator of the third house. Similarly if a planet is the significator of the 9 and
+it is also the significator of 6 or 8 or 12, and is not the significator of 3 or 1 1 , then the
+party in, the other end will be absent, only when significator of the 9th is also a significator
+or either 3 or 1 1 , then alone he will answer the call. If a planet is the significator of the
+1 1th house and not the significator of 3 or 9, but is the significator of other houses
+reject this planet. Select those planets which are the significator of the 1 1 th house and
+also the significator of 3 or 9 or both. „
+On 2-9-69 a telephone trunk call to Kandy was booked at 9.00 A.M. As it was an
+urgent call and Kandy was about is miles away from Matale. I expected the trunk call
+within an hour or two if the line is in order. Before I could get the call I worked out the
+time of fructification of the call according to Krishnamurti Padhdhati.
+Lagna : 20-22’, Ayanamsa used : 23° 20’
+Planets Lord of Constellation Lord of sub.
+Sun Sun Saturn
+Moon Sun Jupiter
+Mars Ketu Rahu
+Mercury (R) Moon Ketu
+Jupiter Moon Mercury
+Krishnamurthy Paddhati
+
+For the fructification of telephone trunk call, houses 3 and 1 1 have to be judged.
+The third house is occupied by the Moon. Mercury and Jupiter occupy the star of Moon.
+Jupiter is the lord of 3rd.
+Rahu is in Jupiter star. So the significators are Mercury, Jupiter and Rahu.
+The eleventh house is occupied by Kethu, Sun and Jupiter. Mars and Venus are posited
+in the constellation ruled by Kethu. Moon, Sun and Kethu are in Sun’s constellation.
+Rahu is in the star of Jupiter; So the significators are Mars, Venus, Moon, Sun and
+Rahu.
+Now the significators that contribute to the fructification of the telephone trunk call are
+Mercury, Jupiter, Rahu, Mars, Venus, Moon and Sun.
+The 3rd cusp is in the star of Kethu and sub of Moon.
+The 1 1 th cusp is in Venus star and Mars sub.
+As the sub-lords of these cusps happen to be strong significators, the fructification of
+the call is assured.
+In order to fix the significators which will rule the moment when the call materialises,
+take the ruling planets at the time of judgment:-
+1 . The day was Sunday whose ruler is Sun.
+2. The star in which Moon was transiting at the time of booking was ruled by Sun.
+3. The sign in which Moon was transiting was Makara, ruled by Saturn.
+4. The rising at the time of booking was Thula, owned by Venus.
+5! The rising star in which lagna falls was Jupiter.
+So the ruling planets arc Sun, Saturn, Venus and Jupiter.
+The common ones found among the significators’ are Sun, Jupiter and Venus. These
+planets conjointly indicate the time of fructification of the trunk call, irrespective of
+whether it is a minor or major event. As the call will be realised within a few minutes or
+hours, the transit of the lagna is to be considered, So I calculated the position of Zodiac
+to rise in the East. It can be Venus sign, Jupiter star, Sun sub, Venus sub sub. So, as
+stated above, the rising lagna will be 29° 20' Thula.
+The correct time of fructification of trunk call was calculated taking Nirayana lagna as
+29° 20' Thula. The Ayanamsa adopted was 23° 20’. Sidereal time for the Moon at
+Metale on this date is 1 1 hr. 59 mts. 52 sec. When calculated, the result arrived at was
+9.41 A.M. So I declared the trunk call will materialize at 9.41 A.M. only.
+Krishnamurthy Paddhati
+
+As predicted the telephone trunk call came through sharp at 9.41 A.M.
+6.3 Krishnamurthy Padhathi applied to Horary Astrology through a query vide
+a number
+A number is requested for between 1 &249 and the ascendant is fined through the
+Ready Reference table given at Chapter -2. The cusps and planetary positions are
+accordingly worked out for the time of query. While analysing and evolving the
+significators the principles as mentioned in Chapter - 2 should continue to be applied.
+An example will illustrate this application more clearly :
+6.3.1 How Long will one live?
+Ask for a number between 1 and 249: for that number fix the ascendant referring to the
+Table for Krishnamurti padhdhati.
+If the ascendant is in a movable sign, 11th house is the badhakasthana, if the ascendarjt
+falls in a fixed sign, 9th house is the badhakasthana if the ascendant falls in a common
+sign, the 7th house is the badhakasthana.
+Whatever be the sign in which the ascendant falls, the 2nd and the 7th houses are
+marakasthanas. Therefore one is to judge all these three houses and find out the
+significators.
+One has to erect the map and note down the dasa balance to find out the date of
+death.
+According to western system, the ascendant, the Moon and the Sun should not be
+forming evil aspects with the lord of 4,6,8 and 12, and at the same time the lord of the
+ascendant the Moon and the Sun must be strong. In that case, long life is promised.
+Jupiter and Venus ruling good houses and the lord of the ascendant forming good
+aspect with Moon or Sun promises long life. But if the ascendant, Moon and Sun are
+receiving bad aspects like square, opposition, conjunction etc., from the lord of 4, 6, 8
+or 1 2, only short life is indicated. This is how the westerners proceed, they say that the
+ascendant, its lord and the Moon indicate the consultant’s health and longevity. They
+add that lord of the ascendant retrograde or deposited in 8, or lord of 8 in one, or
+malefics occupying one and 8 will cause short life. To note for how many more years
+one would live, they calculate as follows: If the lord of the ascendant will from either
+conjunction or square or opposition with Sun or to the lord of 8, 6 or 4, calculate how
+many degrees he is away from that planet. Then calculate according to the rules given
+already.
+Note the sub-lord of the ascendant. If he is deposited in the constellation of the
+significators of badhakasthana and marakasthana the life will be short after the time
+of judgment. It will not be for many years. If sub-lord of the ascendant were to be in the
+Krishnamurthy Paddhati
+
+constellation of the significator of sixth house, the person will suffer from disease but
+will not succumb to it; but if the sub lord of the ascendant is deposited in the constellation of the significator of the 8th house, he will meet with an accident. If the sub-lord of
+the ascendant in the Horary Chart is the significator of the 12th house, he will be in bed
+for long period and may be admitted in a hospital. Death is indicated only by the
+significators of marakasthana and badhakasthana According to the strength of the
+lord of the constellation in which the sub-lord of the ascendant is deposited, one is to
+fix the dasa and the sub-periods. Calculate from the horoscope erected for the number (Horary) and work out, after how many years and months, the conjoined period of
+the significators will operate.
+Predict that he will live only for so many years and months. Never omit to confirm by
+taking the ruling planets at the moment of judgment.
+Number 246 is given for judgment at 5-30 P.M. on 24-1 0 — '67.
+By 246 it is meant that Jupiter’s sign Pisces, Mercury star Revathi and the sub of Mars
+is the Ascendant.
+The sub-lord Mars is in the constellation of Kethu in the 7th house. Hence the death is
+inevitable and by transit when lord of 1 , the ascendant conjoins the node in the 7th
+house, in that year, when Sun transit in Sun’s star and Kethu sub and when Moon
+transits the constellation of Rahu or Guru or Kethu, the end will come.
+Ruling planets : Day lord, Mars. Ascendant is in Aswini, Kethu star, sign is Aries,
+owned by Mars; Moon is in Arudhra star governed by Rahu and the lord of the sign
+where Moon is Mercury, hence the ruling planets are Rahu, Mars, Mercury and Kethu.
+Jupiter and Mars are in Kethu constellation. Since Mercury is in the sign and house,
+where Kethu is, take Kethu.
+Therefore in the conjoined period of the ruling planets there is danger to his life.
+Analysis:
+For danger to life, we must consider the badhakasthana and the marakasthanas. As
+Pisces is lagna, it is a common sign. 7th house from this sign is badhakasthana. For
+common sign the 7th house is badhakasthana and marakasthana, and Kendhrasthana.
+So it is trebly evil to cause the death.
+According to Krishnamurti Padhdhati, the following are the significators of death:
+(a) The planets posited in the constellation of the occupants of badhakasthana and
+marakasthana.
+(b) The planets occupying the above said houses.
+(c) The planets In the constellation of the lords of the above said badhaka and maraka
+houses.
+Krishnamurthy Paddhati
+
+(d) The lords of these houses.
+(e) Those which are conjoined with-the significators or aspected by them, thereby
+having connection with these matters.
+Now let us analyse houses 2 and 7.
+The second bhava Is unoccupied by any planet. Mars is lord of 2. Rahu is in Aries,
+representing Mars. Rahu (a node) is therefore more strong to give the result. Select
+Rahu. Sun is in Rahu star.
+The seventh bhava is occupied by Sun, Kethu and retrograde Mercury.
+Mercury rules Ashlesha, Jyeshta, and Revathi. No planet is in any. Mercury (R) is in the
+constellation of Jupiter and in the sub of retrograde Saturn.
+Sun is conjoined with Kethu. Kethu rules Aswini, Magha and Moola. Rahu, Mars and
+Jupiter are in the constellation of Kethu, Jupiter is in 6th sign and aspects both Mars
+and Rahu. Jupiter is also in sub Rahu, a significator of death. Mars is represented by
+node Rahu. Kethu is also occupant of 7th bhava. Kethu is in the constellation of Mars
+(lord of 2) and in the sub of Venus (lord of 8), a strong significator of death. Finally take
+Rahu, Kethu and Jupiter.
+If we analyse dasa system, the native is running Rahu Dasa, Mercury Bhukti. (Balance
+1 year and 26 days).
+Thus we come to the conclusion that during Rahu
+Dasa Kethu Bhukti Rahu Anthra, Jupiter
+Shookshma there would be danger to the native's
+life.
+4.3.2 Example 2
+Query will the delivery of my child be normal or not ?
+The number given within 249 on 2.7.1 969, 7.30 PM
+1ST (Lat. of Place : 18°55'N) at Bombay was 100.
+The ascendant at the time of query falls in 24.00
+Leo in Venus constellation & Mercury sub. The chart
+is as follows:-
+Krishnamurthy Paddhati
+
+1 . The Lagna Bhava is occupies by Ketu & Jupiter.
+2. Owner of Lagna is posted in 1 0th
+3. Mars aspects lord of Lagna by 8th aspect.
+The owner of Lagna in 1 0th is well deposited and therefore no danger to the lady. 8th
+Aspect of Mars on Sun, Lord of Lagna and Ketu in Lagna Bhava are not favourable. It
+indicates that the lady would undergo Ceaserian birth as Mars indicates surgery. However delivery will be frutful and with no danger to the lady's life as Jupiter is in Lagna
+Bhava. It may also be noted that though Mars is retrograde it is Mercury in the constellation of a Saturn which is in direct motion, thereby leading to use of surgical equipments but not for any control purpose.
+What about ailment ?
+Health is generally good if the sub-lord of the ascendant is deposited in the constellation of the planet occupying the house 1 or 11 . But, if the sub-lord of the ascendant is
+deposited in the constellation of a planet which is the significator of 1 and 6, one will
+sufferfrom disease during its periods and sub-periods. If the sub-lord of the 6th house
+is<deposited in the constellation of a planet which is the significator of the 6 and 1 and
+not of 11 , then the sub-lord. During its sub-period, will give the disease.
+If the sub-lord is deposited in a constellation, the lord of which is connected in any
+manner, with Saturn, the disease is a chronic one. Even, if the sub-lord is Saturn, the
+disease is a chronic one. But, if the sub-lord is in any manner connected with Mars, it
+is an acute disease. Mercury shows complications.
+Cure When?
+Generally, one falls ill at the time when the conjoined period of the planets connected
+with the 6th and the first house in any manner operates; but, the cure comes only when
+the significator of the 5th or 11th house follows the period governed by the disease
+producing 6th house significator. One will survive from the disease after the cure, only
+when his longevity is promised, For longevity, one has to find out the Badhaka Sthana
+Krishnamurthy Paddhati
+
+and Maraka Sthana. These will give a clear picture).
+As regards the nature of the disease, I have already published what each sign, star
+and sub indicates and said what it would be. Therefore, you have to refer to it and then
+ascertain which part of the body will be affected.
+Accident
+In Astrology, there is nothing as ‘Accident’. Astrological dictionary does not have this
+word because, for every result, there is a cause. Therefore, even that which the people
+call as ‘Accident’ is something which happens when least expected. Anything that is a
+surprise and an unexpected one alone is classified as an accident, whether the result
+is favourable or unfavourable.
+Therefore, the sub-lord of the 8th house is to be deposited in the constellation of the
+planet which is the significator of the 8th house. If the significator happens to be also
+the significator of the 6th house, then he will have fever, etc., following the accident If
+the same sub-lord is in the star of a planet who is also the significator of the 1 2th, he
+will be admitted in a hospital. If the sub-lord happens to be the significator of Bathaka
+Sthana, and Maraka Sthana ; he will succumb to it, provided his longevity is not further
+more promised. If the longevity is promised, he will get over this, and the condition of
+the patient would be threatening. Some may be unconscious; some may be given
+blood transfusion and also oxygen. Therefore we have to judge both the longevity and
+also the duration of the disease.
+Exercise
+1 . What is Horary Astrology & its advantages.
+2. What are the different modes of KP applied to Horary Astrology?
+3. What are the important items to be kept in mind while answering a query by using K.P.
+4. Using KP for a query at 9.00AM, 21 .9.1 969 7°28'N & 80°22''E as to whether a
+trunk all will materialize.
+5. What is the numerical method adopted by KP for Horary Astrology. How is it applied?
+6. Which are the bhavas that need to studied for the longevity, education and prosperity
+of an individual?
+Krishnamurthy Paddhati
+
+Chapter - 7
+Twelve Houses
+7.1 WHAT THE TWELVE HOUSES SIGNIFY?
+Lagna (First Bhava): Physical stature, colour, form and shape, constitution, health,
+vitality and vigour, habit of thinking, natural disposition and tendencies, personality
+and struggle for life, success or failure in attempts. General candour, honour, dignity,
+prosperity, general well-being. Head and upper part of the face. People in the country,
+person asking the question. Virtues, longevity, age, suffering. Appropriating other’s
+money, gambling on other’s money, skin Gains and profit to younger brother. Name,
+fame, reputation and the patrimony of mother. Higher studies, long journey, life in a
+foreign place or connection with strangers to native's children ; hostel, danger to
+maternal uncle, demise of partner, speculation of father, neighbours to elder brother
+and His short journeys.
+Second house: Money matters, fortune, profit, gain or loss. One’s power and
+resources, wordily attainments possessions of extrinsic value, jewellery; precious
+stones and metals, documents, bonds, securities, stocks and shares, promissory notes,
+mortgages, bank balance or negotiable or exchangeable assets.
+Ability to express his thoughts. Second marriage, vision or the power of observation,
+right eye, memory, imagination, nail, tongue, nose, teeth, cheeks and chin.
+Protects others, family members, law suits, extravagant or economical, loans, money
+lent, money borrowed, death of individual, national wealth, banking activities, revenue.
+Money of the querist, truth or falsehood, tongue, eyes, nails, garment, copper, diamond,
+gdm, pearl, trade, softness of speech, perfume to support others, effort in acquisition
+of wealth, miserliness or liberality, oratorical ability, gold, good silver, corn, cereals,
+close dependent, pearls, ruby, minerals, clothes.
+Loss to younger brother and his changes, mother’s gains, profession and success of
+children, rank, position, long journey to maternal uncle, danger to partner, common
+disease of the native's father, purchase of a house, or land or vehicle by elder brother.
+Third house: Mental inclination, ability, memory, intellect, inclination to study.
+Courage firmness, valour, prowess and heroism. Younger brother or sister, cousins,
+kindred, casual acquaintance, neighbour, short travel, cycle, bus, tram, or railway.
+Correspondence letter, papers, writings, accounting, mathematics, communication,
+post offices, letter boxes, telephone, telegraph, teleprint, television, telecommunication,
+Krishnamurthy Paddhati
+
+radio-reports, signal, airmail, mediator, messenger, publicity officer, reporter, editor,
+information officer, Journalist. Change of residence, restlessness, Library, bookstore,
+bargain, signature, signing contracts or agreements, rumours, carrying tales.
+Hands, throat, shoulder blade, collar bone, arms and nervous system.
+Neighbouring countries, treaties, Roadside, place, confusion of the mind, eating
+unspoiled or pure food, partition of property, female servant, Edible roots and fruits.
+Fourth house: Mother, one’s home, residence, domestic environments, grave, Private
+affairs, curious, secrets an secret life. Vehicles, fields, pastures, cornfields, farms,
+orchards, mines, real estate, gardens, buildings, ancient dwellings, monuments and
+antiquities. Hereditary properties and treasures, School and collegiate Mines, gardens,
+public buildings, crops, agriculture, Learning, boats, oil bath, small well, water, milk,
+trust, false allegation, tent, pavilion, pond, mansion.art, entrance into a house, celestial
+food, where stolen property is kept, vedic and secret texts. Herbs and caves.
+Fifth house: Progeny, inclinations, pleasure; society, with tastes and fancies, artistic
+talents and gains, to wife or business partner’s luck, recreation, entertainment,
+amusement, sports. , Romance and similar interests, games, cinema opera, drama,
+music, dance, banquets, merriment and amusements. Cards, crossword puzzles, dice,
+horse, shares. Lottery, gambling or betting and stock exchange. Love affairs, courtship
+and licentiousness, kidnap, rape. Envoys, ambassadors, banquets. Good morals,
+mechanical art, discretion, discrimination between virtue and sin, chanting of vedic
+hymns, religious mindedness, profound learning and wisdom, enormous riches, festive
+occasion, intense satisfaction, liaisons with courtesans. Chanting of mantras and
+spiritual practice.
+Sixth house: ‘House of sickness’. Disease, nursing food, dietary habits, service
+exhaustion, employees, subordinates or servants, debt or borrowing pet animals, small
+cattle, tenants, enmity, dress, and hygiene, sanitation, herbs, food and clothing.
+Favourable result in competition. Obstacle in any undertaking, maternal uncle, insanity,
+enmity, miserliness, intense anguish, incessant eye trouble, untimely meals, theft,
+calamity, prison house. Industries, sanitation and public health. Purchase or sale of
+conveyance, by younger brother or sister, short journeys of the mother, the bank position
+and profession of the first issue, and his family, loss to the partner, investment or
+purchases made by the partner, the secret enemies of the partner, separation from
+the partner. Occupation or business of the father. Danger to one’s elder brother.
+Seventh house: ‘House of the union or earthy ties’, legal bondage, partner in trade,
+those with whom the native transacts, litigation, duels. Mix up freely in society. Fines,
+divorces, legal bondage, contracts, break of journey. Influence in foreign countries,
+honour and reputation achieved there, danger to longevity. Recovery of lost property,
+Krishnamurthy Paddhati
+
+describes the thief, international relationships, arbitrations, war and foreign affairs,
+international trade, public meetings, open warfare. Self-acquisition of the native’s
+servant, mother’s immovable property, vehicle, adopted child. Secret enemy’s danger,
+difficulties, death, associates and friends of father, partnership with his father’s friend.
+Eighth house: Longevity or span of life. ‘House of death’, inheritance, legacies, wills,
+Insurance, gratuity, disincarnation, death-natural or unnatural, drowning, fire, accident
+or suicide. Mystery and misery, misfortune, sorrow and strife, worries and privations,
+delay and dejection, disappointment and defeat, loss and obstruction, blame and illrepute, accident, danger from enemies. Wrong actions, crossing river, theft,’ robbery,
+siege of a fort, fighting. Dowry, unearned wealth, share of profit. Surgeons, medical
+officers, health inspectors, slaughter houses, butchers, corners and so on. Public
+mortality the death rate, suicide, serious accidents, infection, flood, fire, famines,
+disease, earthquake, national calamity or grief, financial relation with foreign countries,
+the nation’s exports and imports debts due to foreign countries, surrender or loss,
+territory of another country, publjc loans, debts and interest rates, deficit budget, estate
+duties and public sales, Insurance, money of the deceased. Difficulties in journey,
+sufferings caused by enemies, corruption, mother may gain by way of lottery, prize
+bond or in speculation.
+Ninth house: Faith, wisdom and divine worship, fortune philosophy, religious and
+philosophical beliefs, devoted, orthodox, methodical meditation intuition and
+forethought, temples, churches, mosques, spiritual welfare, pilgrimage to holy places,
+circular reservoirs, sacrifices and charity, research, invention, discovery, exploration,
+the father-spiritual- preceptor: or guru of the children. Law, legal arbitration, teaching,
+dharma, dreams and visions, communications with spirits, long journeys, sea voyage,
+air travel.
+publishing books of intrinsic value, international affairs, reverence and devotion to
+God, communication, sea voyage, shipping, air and land travel, legal departments,
+matters relating to religion, temples, churches, Science, Universities, emigration and
+immigration, import and export of the nation, national trade, shortwave radio, longdistance communications, cables an wireless.
+Charity, visits, to holy places, vedic sacrifice, purity of mind, penance, good conduct,
+mythology, horses, buffaloes, coronation hall, circulation of money.
+Wells, lakes, tanks, watersheds, temples, monetary vows, pilgrimage. Short travels of
+the wife, servant’s vehicle and landed property, child’s speculative benefits and
+pleasures, Mother’s illness, younger brother’s wife, friends to the elder brother.
+Tenth house. Lordship, honour, dignity and public esteem, name and fame, power
+and prestige, credit and ‘conduct, success and status, rank and renown, respect and
+Krishnamurthy Paddhati
+
+reputation, ambition ports and authority. Worldly activities, responsibilities.
+Permanency promotion, advancement, appointment Profession occupation or
+business. ‘Karmasthana’. Last rites, to one’s parents, religious functions, employer,
+superior, master, judge and the Government.
+Pilgrimage to holy places, Honourfrom Government, honourable living, permanence,
+preeminence, seal of authority, horse riding, athletics, service, sacrifice and the like,
+agriculture, doctor, name, fame, depositing treasure’, talisman, morality, medicine,
+thigh, prosperity, adopted son, teaching, intellectual command mantras.
+Rain, retirement from the world, one’s valour, prowess learning and fame, substances
+taken away by the thieves, judges, stewards, president in the race clubs, aristocracy
+of the owners of the horses and the trainers. Head of the State, national leaders, national
+trade, father’s self-acquisition, maraka house to both father and mother permanent
+possessions or conveyance of the business, or married partner, pleasurable pursuits
+of servants, ill-health to children, debts incurred by them, litigation, election, Dangertb
+younger brother, mother’s opponents, loss and secret inimical activities to one’s elder
+brother.
+Eleventh house: House of friends, society community, favourites, flatterers’, admirers,
+associates, advisers, adherents, supporters, well-wishers, close acquaintances, hopes,
+wishes and aspirations and their realisation. Success in all undertakings, foreign
+collaboration, election, litigation, speculation, writings, health. Profit, incoming wealth.
+Principal and interest, pleasure, prosperity, profit, progress in attempts, peace after
+achievement of aspirations, partnership and permanent tie of friendship, reformative,
+unconventional activities. Elderbrother, cure of the disease, “Trusts”.
+Left ear, the right foot, the left hand and the two shanks prosperity and wealth. One’s
+influence, eldest brother, paternal uncle, devotion to God, luck, easy gains, brother-inlaw, mothers longevity, the knee, happy news, ministership, dawn of fortune.
+Bhadhakasthana for persons born in movable sign. Knowledge, income, horses,
+elephants, vehicle, chariots, furniture, ornaments, singing cradles, decoration,
+sovereign, money, son-in-law, daughter-in-law.
+Jewels, parliament or equivalent .legislative branches, Lok Sabha, Lower House of
+State Assemblies, Corporations, Municipal Bodies, District Boards, Panchayats.
+Government policies and planning, international friendships and exchange of amenities,
+companies, stores associations, societies, in horse racing the committee under the
+control of the stewards. Number of the winner is shown by this house.
+Government loans, electric companies, gas, museum, agriculture, estate, irrigation,
+silk. Hopes and desires, father’s short journeys, gains through correspondence, birth
+Krishnamurthy Paddhati
+
+of children, partner’s pleasurable pursuits, speculation. Recovery from ill health and
+victory over enemies. Children’s competitors, danger, younger brother, long journeys,
+Freedom from misery and pain, discharge from hospital.
+Twelfth house: Loss and impediments restraint and limitation, waste and
+extravagance, expenses, drudgery and deception.
+Purchases, investments, donations, charity and association with philanthropic institution.
+Separation from family and going to a place far away, sorrow and sin, sedition and
+segregation, obstacles and impediments, misery and misfortune, poverty and
+persecution, Intrigue and imprisonment, secret toil of mind.
+Fear, inferiority complex, solitude, secret, silent suffering and self undoing. Greatest
+self-sacrifice, seclusion and social barriers, limitations and restrictions, unseen or
+unexpected troubles.
+Secret plots and schemes, conspiracy and cunningness, envy and malice, fraud and
+treachery, intrigue and deception and suicide, murder or assassination. Exile and
+extradition, secrecy, mystery, mediumship, psychic research, occult investigations,
+detective work, confinement in hospital, nefarious scheme, deception, fraud, scandal,
+disgrace and secret sorrows.
+Success through occult, affairs, invention of chemical processes, danger from animals,
+disgrace, laborious occupations, bruises through animals, success in places remote
+from the place of birth and with large animals. Aid from charitable institutions. Banished
+persons, malefactors, lost goods never recovered, long hidden wrath, vile persons
+reproaches and disobedience. Hidden house, hidden side of life, sound sleep or not
+(third house show one’s awakening from sleep), the 6th house signifies trance, the 9th
+relates to dreams, Mental pain, agitation, the feet, the left eye, fear from enemies,
+mutilation of a limb, bodily injury, harm, wretchedness, imprisonment, anger, termination
+•ef appointment.
+Comfort of bed, unexpected demands, pressure of money, uncommon expenses, gift,
+charity, donation, segregation as jails, asylums, invalid and the prisoner. Sanatorium
+and nursing home, Mental Hospital.
+Life in a foreign place, trials and tribulations, sorrow and self-undoing, arson, loot,
+rape, poisoning, bootlegging, smuggling, blackmailing, the limitations and restrictions
+brought on the owners of the horses, the barring of jockey’s from riding, fraud and
+deceptive action, sedition, treason, assassination, Philanthropic, charitable or
+reformative institutions, jails, asylums, crime in general, spies, underground movements,
+secret and occult societies, father’s permanent possession, vehicle, sickness of wife,
+the litigation, danger, difficulties and disappointment to children, long journeys to mother,
+younger brother’s profession, popularity and his prosperity.
+Krishnamurthy Paddhati
+
+Houses to be considered for specific functions
+58 Krishnamurthy Paddhati
+
+A note on Ayanamsa
+t
+To ascertain the exact position of the commencement of the Fixed Zodiac the points
+that are necessary tocalculate are:
+1 . One should know when the fixed or Nirayana Zodiac and the Sayana Zodiac were
+in the same degree i.e. when both coincide.
+2. The rate at which the moving Zodiac moves backward.
+3. Which is the point to be taken as the first point of Aries according to Hindu method,
+i.e. Nirayana Zodiac.
+1 . The date of coincidence of both zodiacs: The following are the different opinions of
+the various scientists or astrologers.
+Cheiro 388 B. C. D. Davidson . 317 B.C.
+G. Massey 255 B. C. Thierens 125 B.C.
+P. Councel OA. D. C. Fagan 213 A. D.
+Lahiri 285 A. D. Krishnamurti 291 A. D.
+P. S. Ray 31 9 A. D. Sepharia 498 A. D.
+2. The rate at which the point of intersection of the Ecliptic and the celestial quator
+moves in retrograde motion is as follows and there too, there is no agrement.
+Aryabhata 46.3" Parasara 46.5"
+Varabamihira 50.0" K.P. follows Newcomb 50.2388475
+Surya Siddhanta 54.0" Bhaskara 59.9"
+3. Some astronomers take aswini group of stars as the starting point but it is difficult to
+fix a point when it is a group of stars. Others take a point which is 1 80° from the one
+bright star SPICA which is taken as the guide to locate the area of the constellation
+Chitra: It is the 1 4th star of the 27 stars making up the Zodiac, each extending to 1 3
+degrees 20 minutes. Spica is taken to be at the end of Virgo and at the commencement
+of Libra; hence it is taken to be at the sixth degree and 40 minutes from the
+commencement .of the asterism Chitra. Spica is considered to be exactly in the
+autumnal equinox on the fixed Zodiac.
+With the variation so vast in fixing ayanamsa, difference between K.P, Lahiri and C.G.
+Rajan is negligible and any one can be taken for all astrological purposes. Lahiri
+ayanamsa orso called Chitrapakha ayanamsa is widely accepted. However, followers
+of KP System like to use KP ayanamsa only.
+Krlshnamurthy Paddhati

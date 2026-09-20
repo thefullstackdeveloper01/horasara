@@ -1,0 +1,14 @@
+READABLE DATASET
+================================================================================
+Original file: scriptureLibrary.json
+Dataset number: 351 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 91 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• MAX_SNIPPET_CHARS: 240
+• MAX_RESULTS_DEFAULT: 5
+• MAX_BOOKS_TO_SCAN_TEXT: 40

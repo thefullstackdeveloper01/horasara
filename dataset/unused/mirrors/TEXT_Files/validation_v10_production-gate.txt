@@ -1,0 +1,36 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v10/production-gate.json
+Dataset number: 411 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 229 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 10.0.0
+• status: HARDENING_GATE_DEFINED
+• requiredChecks:
+  1.
+    health
+  2.
+    inputLimits
+  3.
+    errorHandling
+  4.
+    securityHeaders
+  5.
+    structuredLogs
+  6.
+    metrics
+  7.
+    gracefulShutdown
+  8.
+    backup
+  9.
+    restoreTest
+  10.
+    dependencyAudit
+  11.
+    loadTest

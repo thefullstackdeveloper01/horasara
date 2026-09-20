@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "160__current_year_monthly_json",
+    "name": "current_year_monthly",
+    "original_file": "current_year_monthly.json",
+    "dataset_number": "90 of 455",
+    "format": "json",
+    "source_readable_file": "current_year_monthly.txt",
+    "source_sha256": "aa9088a9c2d784911fe2d6d8837a259ba97082628578f800eabca3dcb8d77bd3",
+    "source_bytes": 572
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "MONTH_NAMES": {
+        "_items": [
+          {
+            "_text": [
+              "January"
+            ]
+          },
+          {
+            "_text": [
+              "February"
+            ]
+          },
+          {
+            "_text": [
+              "March"
+            ]
+          },
+          {
+            "_text": [
+              "April"
+            ]
+          },
+          {
+            "_text": [
+              "May"
+            ]
+          },
+          {
+            "_text": [
+              "June"
+            ]
+          },
+          {
+            "_text": [
+              "July"
+            ]
+          },
+          {
+            "_text": [
+              "August"
+            ]
+          },
+          {
+            "_text": [
+              "September"
+            ]
+          },
+          {
+            "_text": [
+              "October"
+            ]
+          },
+          {
+            "_text": [
+              "November"
+            ]
+          },
+          {
+            "_text": [
+              "December"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

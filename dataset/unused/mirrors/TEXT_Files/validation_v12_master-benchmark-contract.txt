@@ -1,0 +1,47 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v12/master-benchmark-contract.json
+Dataset number: 413 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 480 bytes
+Top-level fields: 6
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 12.0.0
+• status: READY_FOR_INDEPENDENT_EVIDENCE
+• principles:
+  1.
+    identical_input
+  2.
+    identical_conventions
+  3.
+    provenance_required
+  4.
+    no_fabrication
+  5.
+    out_of_sample_only
+• engines:
+  1.
+    HoraSaar
+  2.
+    JHora
+  3.
+    HoraParashara
+  4.
+    AstroSage
+  5.
+    Astro.com
+  6.
+    OtherReferenceEngine
+• requiredEvidence:
+  1.
+    verifiedCharts
+  2.
+    verifiedOutcomes
+  3.
+    crossEngineCases
+  4.
+    independentReviews
+• claimPolicy: Do not declare competitor superiority until reproducible evidence exists.

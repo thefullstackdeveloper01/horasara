@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v8/rule-coverage-discovery.json
+Dataset number: 427 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 117 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 8.0.0
+• jsonFiles: 361
+• ruleLikeDatasets: 156
+• generatedAt: 2026-09-17T15:25:45.441Z

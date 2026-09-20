@@ -1,0 +1,20 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v13/outcome-corpus.json
+Dataset number: 418 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 207 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 13.0.0
+• status: VERIFIED_IMPORT_REQUIRED
+• records:
+  (empty list)
+• policy:
+  • no_fabrication: Yes
+  • cutoff_before_outcome: Yes
+  • source_provenance_required: Yes
+  • independent_verification_required: Yes

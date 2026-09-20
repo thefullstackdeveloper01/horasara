@@ -1,0 +1,587 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "451__yogaenrichment_json",
+    "name": "yogaEnrichment",
+    "original_file": "yogaEnrichment.json",
+    "dataset_number": "451 of 455",
+    "format": "json",
+    "source_readable_file": "yogaEnrichment.txt",
+    "source_sha256": "abbe92d3727195ee499911ae3a93bd7afc1332e7175ae134f93e588a68051ffc",
+    "source_bytes": 9804
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "ALIASES": {
+        "kemdrum": "Kemadruma Yoga",
+        "kemadrum": "Kemadruma Yoga",
+        "kemaadruma": "Kemadruma Yoga",
+        "kemadrumadosha": "Kemadruma Yoga",
+        "shakat": "Shakata Yoga",
+        "shakata": "Shakata Yoga",
+        "shakatayoga": "Shakata Yoga",
+        "neechabhangaraja": "Neecha Bhanga Raja Yoga",
+        "neechabhanga": "Neecha Bhanga Raja Yoga",
+        "neecha bhanga": "Neecha Bhanga Raja Yoga",
+        "nichabhangaraja": "Neecha Bhanga Raja Yoga",
+        "nichabhanga": "Neecha Bhanga Raja Yoga",
+        "necha banga": "Neecha Bhanga Raja Yoga",
+        "neecha banga raja yoga": "Neecha Bhanga Raja Yoga",
+        "laxmi": "Lakshmi Yoga",
+        "lakshmi": "Lakshmi Yoga",
+        "lakshmiyoga": "Lakshmi Yoga",
+        "laksmi": "Lakshmi Yoga",
+        "sri yoga": "Sri Yoga",
+        "sriyoga": "Sri Yoga",
+        "gajakesari": "Gajakesari Yoga",
+        "gajakesariyoga": "Gajakesari Yoga",
+        "gajakeshari": "Gajakesari Yoga",
+        "gajakshari": "Gajakesari Yoga",
+        "gaja kesari": "Gajakesari Yoga",
+        "budhaditya": "Budhaditya Yoga",
+        "budhadityayoga": "Budhaditya Yoga",
+        "budhaaditya": "Budhaditya Yoga",
+        "budha aditya": "Budhaditya Yoga",
+        "panchamahapurusha": "Pancha Mahapurusha Yoga",
+        "pancha mahapurusha": "Pancha Mahapurusha Yoga",
+        "panchmahapurush": "Pancha Mahapurusha Yoga",
+        "panchamahapurush": "Pancha Mahapurusha Yoga",
+        "ruchak": "Ruchaka Yoga",
+        "ruchaka": "Ruchaka Yoga",
+        "ruchakayoga": "Ruchaka Yoga",
+        "bhadra": "Bhadra Yoga",
+        "bhadrayoga": "Bhadra Yoga",
+        "bhadrika": "Bhadra Yoga",
+        "hamsa": "Hamsa Yoga",
+        "hamsayoga": "Hamsa Yoga",
+        "hansa": "Hamsa Yoga",
+        "hansayoga": "Hamsa Yoga",
+        "malavya": "Malavya Yoga",
+        "malavyayoga": "Malavya Yoga",
+        "malavaya": "Malavya Yoga",
+        "sasa": "Sasa Yoga",
+        "sasayoga": "Sasa Yoga",
+        "sasha": "Sasa Yoga",
+        "vesi": "Vesi Yoga",
+        "vesiyoga": "Vesi Yoga",
+        "vosi": "Voshi Yoga",
+        "vosiyoga": "Voshi Yoga",
+        "vaasi": "Voshi Yoga",
+        "ubhayachari": "Ubhayachari Yoga",
+        "ubhayachariyoga": "Ubhayachari Yoga",
+        "ubhayachara": "Ubhayachari Yoga",
+        "ubhayachara yoga": "Ubhayachari Yoga",
+        "sunapha": "Sunapha Yoga",
+        "sunaphayoga": "Sunapha Yoga",
+        "sunfa": "Sunapha Yoga",
+        "anapha": "Anapha Yoga",
+        "anaphayoga": "Anapha Yoga",
+        "anfa": "Anapha Yoga",
+        "durudhara": "Durudhara Yoga",
+        "durudharayoga": "Durudhara Yoga",
+        "durudara": "Durudhara Yoga",
+        "vipareeta raja": "Vipareeta Raja Yoga",
+        "vipareetarajayoga": "Vipareeta Raja Yoga",
+        "vipreet raj": "Vipareeta Raja Yoga",
+        "vipreet raj yoga": "Vipareeta Raja Yoga",
+        "saraswati": "Saraswati Yoga",
+        "saraswatiyoga": "Saraswati Yoga",
+        "saraswathi": "Saraswati Yoga",
+        "chandra mangala": "Chandra-Mangala Yoga",
+        "chandramangala": "Chandra-Mangala Yoga",
+        "chandramangalayoga": "Chandra-Mangala Yoga",
+        "chandra-mangal": "Chandra-Mangala Yoga",
+        "mangal dosha": "Mangal Dosha",
+        "mangaldosha": "Mangal Dosha",
+        "manglik": "Mangal Dosha",
+        "manglikdosha": "Mangal Dosha",
+        "mangalik": "Mangal Dosha",
+        "kuja dosha": "Mangal Dosha",
+        "kuja dosham": "Mangal Dosha",
+        "bhauma dosha": "Mangal Dosha",
+        "sevvai dosham": "Mangal Dosha",
+        "kaal sarp": "Kaal Sarp Dosha",
+        "kaalsarp": "Kaal Sarp Dosha",
+        "kaal sarpa": "Kaal Sarp Dosha",
+        "kala sarpa": "Kaal Sarp Dosha",
+        "kalasarpa": "Kaal Sarp Dosha",
+        "kaalsarpadosha": "Kaal Sarp Dosha",
+        "pitra dosha": "Pitra Dosha",
+        "pitra dosh": "Pitra Dosha",
+        "pitru dosha": "Pitra Dosha",
+        "pithru dosham": "Pitra Dosha",
+        "grahan": "Grahan Dosha",
+        "grahan dosh": "Grahan Dosha",
+        "grahana dosha": "Grahan Dosha",
+        "grahadosha": "Grahan Dosha",
+        "shrapit": "Shrapit Dosha",
+        "shrapit dosh": "Shrapit Dosha",
+        "shrapita dosha": "Shrapit Dosha",
+        "shrapitdosha": "Shrapit Dosha",
+        "amala": "Amala Yoga",
+        "amalayoga": "Amala Yoga",
+        "amla": "Amala Yoga",
+        "vimala": "Vimala Yoga",
+        "vimalayoga": "Vimala Yoga",
+        "vimal": "Vimala Yoga",
+        "shubha": "Shubha Yoga",
+        "shubhayoga": "Shubha Yoga",
+        "vasumati": "Vasumati Yoga",
+        "vasumatiyoga": "Vasumati Yoga",
+        "vasumathi": "Vasumati Yoga"
+      },
+      "CANONICAL_YOGAS": {
+        "_items": [
+          {
+            "_text": [
+              "Vesi Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Voshi Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Ubhayachari Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Sunapha Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Anapha Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Durudhara Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Kemadruma Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Ruchaka Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Bhadra Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Hamsa Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Malavya Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Sasa Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Gajakesari Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Budhaditya Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Lakshmi Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Saraswati Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Chandra-Mangala Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Neecha Bhanga Raja Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Vipareeta Raja Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Amala Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Vimala Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Shubha Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Vasumati Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Shankha Yoga"
+            ]
+          },
+          {
+            "_text": [
+              "Vajra Yoga"
+            ]
+          }
+        ]
+      },
+      "CANONICAL_DOSHAS": {
+        "_items": [
+          {
+            "_text": [
+              "Mangal Dosha"
+            ]
+          },
+          {
+            "_text": [
+              "Kaal Sarp Dosha"
+            ]
+          },
+          {
+            "_text": [
+              "Pitra Dosha"
+            ]
+          },
+          {
+            "_text": [
+              "Grahan Dosha"
+            ]
+          },
+          {
+            "_text": [
+              "Shrapit Dosha"
+            ]
+          },
+          {
+            "_text": [
+              "Kemadruma Dosha"
+            ]
+          }
+        ]
+      },
+      "YOGA_CATEGORIES": {
+        "Vesi Yoga": "Solar Yoga",
+        "Voshi Yoga": "Solar Yoga",
+        "Ubhayachari Yoga": "Solar Yoga",
+        "Sunapha Yoga": "Lunar Yoga",
+        "Anapha Yoga": "Lunar Yoga",
+        "Durudhara Yoga": "Lunar Yoga",
+        "Kemadruma Yoga": "Lunar Yoga",
+        "Ruchaka Yoga": "Pancha Mahapurusha",
+        "Bhadra Yoga": "Pancha Mahapurusha",
+        "Hamsa Yoga": "Pancha Mahapurusha",
+        "Malavya Yoga": "Pancha Mahapurusha",
+        "Sasa Yoga": "Pancha Mahapurusha",
+        "Gajakesari Yoga": "Chandra/Jupiter Yoga",
+        "Budhaditya Yoga": "Surya/Budha Yoga",
+        "Lakshmi Yoga": "Wealth/Raja Yoga",
+        "Saraswati Yoga": "Knowledge Yoga",
+        "Chandra-Mangala Yoga": "Wealth Yoga",
+        "Neecha Bhanga Raja Yoga": "Raja Yoga",
+        "Vipareeta Raja Yoga": "Raja Yoga",
+        "Amala Yoga": "Nabhasa Yoga",
+        "Vimala Yoga": "Nabhasa Yoga",
+        "Shubha Yoga": "Nabhasa Yoga",
+        "Vasumati Yoga": "Nabhasa Yoga",
+        "Shankha Yoga": "Nabhasa Yoga",
+        "Vajra Yoga": "Nabhasa Yoga"
+      },
+      "YOGA_NATURE": {
+        "Vesi Yoga": "Auspicious",
+        "Voshi Yoga": "Auspicious",
+        "Ubhayachari Yoga": "Auspicious",
+        "Sunapha Yoga": "Auspicious",
+        "Anapha Yoga": "Auspicious",
+        "Durudhara Yoga": "Auspicious",
+        "Kemadruma Yoga": "Inauspicious",
+        "Ruchaka Yoga": "Auspicious",
+        "Bhadra Yoga": "Auspicious",
+        "Hamsa Yoga": "Auspicious",
+        "Malavya Yoga": "Auspicious",
+        "Sasa Yoga": "Auspicious",
+        "Gajakesari Yoga": "Auspicious",
+        "Budhaditya Yoga": "Auspicious",
+        "Lakshmi Yoga": "Auspicious",
+        "Saraswati Yoga": "Auspicious",
+        "Chandra-Mangala Yoga": "Mixed",
+        "Neecha Bhanga Raja Yoga": "Mixed",
+        "Vipareeta Raja Yoga": "Mixed",
+        "Amala Yoga": "Auspicious",
+        "Vimala Yoga": "Auspicious",
+        "Shubha Yoga": "Auspicious",
+        "Vasumati Yoga": "Auspicious",
+        "Shankha Yoga": "Auspicious",
+        "Vajra Yoga": "Mixed",
+        "Mangal Dosha": "Inauspicious",
+        "Kaal Sarp Dosha": "Inauspicious",
+        "Pitra Dosha": "Inauspicious",
+        "Grahan Dosha": "Inauspicious",
+        "Shrapit Dosha": "Inauspicious",
+        "Kemadruma Dosha": "Inauspicious"
+      },
+      "YOGA_CANCELLATIONS": {
+        "Kemadruma Yoga": {
+          "_items": [
+            {
+              "_text": [
+                "Moon is aspected by Jupiter or Venus"
+              ]
+            },
+            {
+              "_text": [
+                "Moon is conjunct with a benefic planet (Mercury, Venus, Jupiter)"
+              ]
+            },
+            {
+              "_text": [
+                "Moon is placed in a Kendra (1st, 4th, 7th, 10th) from the Lagna"
+              ]
+            },
+            {
+              "_text": [
+                "All planets aspect the Moon"
+              ]
+            },
+            {
+              "_text": [
+                "Moon is in a favorable Navamsa or is Vargottama"
+              ]
+            }
+          ]
+        },
+        "Mangal Dosha": {
+          "_items": [
+            {
+              "_text": [
+                "Mars is in its own sign (Aries or Scorpio) or exaltation (Capricorn)"
+              ]
+            },
+            {
+              "_text": [
+                "Mars is in the 2nd house in Gemini or Virgo"
+              ]
+            },
+            {
+              "_text": [
+                "Mars is in the 12th house in Taurus or Libra"
+              ]
+            },
+            {
+              "_text": [
+                "Mars is in the 7th house in Cancer or Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Mars is in the 8th house in Sagittarius or Pisces"
+              ]
+            },
+            {
+              "_text": [
+                "Mars is aspected by or conjunct with Jupiter"
+              ]
+            },
+            {
+              "_text": [
+                "If both partners have Mangal Dosha (Manglik matching)"
+              ]
+            }
+          ]
+        },
+        "Kaal Sarp Dosha": {
+          "_items": [
+            {
+              "_text": [
+                "All planets are not strictly within the Rahu and Ketu axis"
+              ]
+            },
+            {
+              "_text": [
+                "Presence of a strong benefic planet (Jupiter, Venus, Mercury) with Rahu or Ketu"
+              ]
+            },
+            {
+              "_text": [
+                "Rahu or Ketu is aspected by a strong benefic planet"
+              ]
+            }
+          ]
+        }
+      },
+      "PLANETARY_ASSOCIATIONS": {
+        "Ruchaka Yoga": "Mars",
+        "Bhadra Yoga": "Mercury",
+        "Hamsa Yoga": "Jupiter",
+        "Malavya Yoga": "Venus",
+        "Sasa Yoga": "Saturn",
+        "Budhaditya Yoga": {
+          "_items": [
+            {
+              "_text": [
+                "Sun"
+              ]
+            },
+            {
+              "_text": [
+                "Mercury"
+              ]
+            }
+          ]
+        },
+        "Chandra-Mangala Yoga": {
+          "_items": [
+            {
+              "_text": [
+                "Moon"
+              ]
+            },
+            {
+              "_text": [
+                "Mars"
+              ]
+            }
+          ]
+        },
+        "Gajakesari Yoga": {
+          "_items": [
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            },
+            {
+              "_text": [
+                "Moon"
+              ]
+            }
+          ]
+        },
+        "Grahan Dosha": {
+          "_items": [
+            {
+              "_text": [
+                "Sun"
+              ]
+            },
+            {
+              "_text": [
+                "Moon"
+              ]
+            },
+            {
+              "_text": [
+                "Rahu"
+              ]
+            },
+            {
+              "_text": [
+                "Ketu"
+              ]
+            }
+          ]
+        },
+        "Shrapit Dosha": {
+          "_items": [
+            {
+              "_text": [
+                "Saturn"
+              ]
+            },
+            {
+              "_text": [
+                "Rahu"
+              ]
+            }
+          ]
+        },
+        "Pitra Dosha": {
+          "_items": [
+            {
+              "_text": [
+                "Sun"
+              ]
+            },
+            {
+              "_text": [
+                "Rahu"
+              ]
+            },
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            },
+            {
+              "_text": [
+                "Saturn"
+              ]
+            }
+          ]
+        }
+      },
+      "SANSKRIT_NAMES": {
+        "Vesi Yoga": "वेशी योग",
+        "Voshi Yoga": "वोषी योग",
+        "Ubhayachari Yoga": "उभयचारी योग",
+        "Sunapha Yoga": "सुनफा योग",
+        "Anapha Yoga": "अनफा योग",
+        "Durudhara Yoga": "दुरुधरा योग",
+        "Kemadruma Yoga": "केमद्रुम योग",
+        "Ruchaka Yoga": "रुचक योग",
+        "Bhadra Yoga": "भद्र योग",
+        "Hamsa Yoga": "हंस योग",
+        "Malavya Yoga": "मालव्य योग",
+        "Sasa Yoga": "शश योग",
+        "Gajakesari Yoga": "गजकेसरी योग",
+        "Budhaditya Yoga": "बुधादित्य योग",
+        "Lakshmi Yoga": "लक्ष्मी योग",
+        "Saraswati Yoga": "सरस्वती योग",
+        "Chandra-Mangala Yoga": "चंद्र-मंगल योग",
+        "Neecha Bhanga Raja Yoga": "नीचभंग राज योग",
+        "Vipareeta Raja Yoga": "विपरीत राज योग",
+        "Mangal Dosha": "मंगल दोष",
+        "Kaal Sarp Dosha": "काल सर्प दोष",
+        "Pitra Dosha": "पितृ दोष",
+        "Grahan Dosha": "ग्रहण दोष",
+        "Shrapit Dosha": "श्रापित दोष",
+        "Kemadruma Dosha": "केमद्रुम दोष"
+      }
+    }
+  }
+}

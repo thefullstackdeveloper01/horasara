@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {buildMasterReleaseGate} from '../src/quality/v11/MasterReleaseGate.js';
+import {buildEvidenceLedger,evidenceGate} from '../src/quality/v11/EvidenceLedger.js';
+import {runIdenticalInputBenchmark,validateEngineAdapter} from '../src/benchmark/v11/EngineAdapterContract.js';
+import {buildProductionHealth,readinessChecklist} from '../src/infrastructure/production/ProductionHealth.js';
+const root=process.cwd();
+const gate=buildMasterReleaseGate({root,checks:{tests:true,security:true,load:true}});assert.equal(gate.files.every(x=>x.present),true);assert.equal(gate.engineeringComplete,true);assert.equal(gate.evidenceComplete,false);assert.equal(gate.releaseReady,false);
+assert.equal(buildEvidenceLedger([]).valid,true);assert.equal(evidenceGate([],1).ready,false);
+const adapter={name:'fixture',version:'1',calculate:x=>x};assert.equal(validateEngineAdapter(adapter).valid,true);assert.equal(runIdenticalInputBenchmark([{id:'1',input:{x:1}}],[adapter]).cases,1);
+assert.equal(buildProductionHealth({services:{engine:true,api:true}}).ok,true);assert.ok(readinessChecklist().length>=10);
+console.log('V11 master completion: PASS — engineering gates complete; empirical evidence gates remain explicitly data-gated.');

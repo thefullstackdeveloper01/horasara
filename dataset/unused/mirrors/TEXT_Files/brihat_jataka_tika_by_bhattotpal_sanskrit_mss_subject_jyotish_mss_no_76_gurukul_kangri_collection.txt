@@ -1,0 +1,165 @@
+READABLE DATASET
+================================================================================
+Original file: brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection.json
+Dataset number: 47 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 7,888 bytes
+Top-level fields: 11
+Title: Brihat Jataka Tika By Bhattotpal (Sanskrit MSS, Subject - Jyotish, MSS No. 76) - Gurukul Kangri Collection
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Brihat Jataka Tika By Bhattotpal (Sanskrit MSS, Subject - Jyotish, MSS No. 76) - Gurukul Kangri Collection
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Brihat Jataka-XML
+  • total_pages: 9
+  • total_words: 699
+  • text_quality:
+    • ocr_word_validity_score: 0.644
+    • quality_tier: moderate
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+ref जाया a Nahe
+4 TR यह यरसोभशनशरीत्तःनन्वतास्सेरि Wasa उच्यते यथे
+. रपर dra व्थाणतिशरिजाच जनचियामरनारिनासम्यादयिवमसमध्यीद
+, उचः पवोंवेशोजालास्ययांगे नातोक्षवाति यवे सप्सुसार्यायागेयफरेच्या यात
+चवळ.
+. han इत्ये वाविथानाभ्षसयोगाफलेःसाथीसिहनिशोरिताःउन्नाः ZU ` `
+ARRMIOTEHTRATE शा छ नियत्रालव्शः सर्वकालेफलपरासित्पाविशषगा
+नच वञादि्याधे व्ताविताः प्ररणि ताः तत्वा समश्तदशस्तित्पन्ताष् उच्तेतेयोव!
+| का खा य आयार विस
+दफ़ास्तणिय तसाइङःवयशभ विवाति ननक स्योयित्समेयं RARA
+uma येभोशिनस्तेसानसेसेरभिः तप्नाभवेति येतेभिशाण्णिनस्तेपिकर
+Tatiana शीत TRS HERAT aran तेदेयसादिसे
+RRA सर्वेधिससा रमातेनवियर्यये शाय येत्र ताकथे शस्तदशश्तषियोगा। `
+>, AMERO
+A
++ ‘a io i a ff 4
+रॉ ४ as ५ ~ LT Me २ ७६ o कक
+
+Tay! RV किक छल aa pel UE UM
+mud
+क आज काथशनिश्त/यशेशकारशक्त TUT मियोगेजातो
+भवेति शसा ज्ञैनेविशीसतः शनाज्ञेनाविशीलः थना नति
+SRA a Rda १ शभे बंथुभिञ यत्त एवाविथापाणासियि
+| शेनातिभवति ahyaeH ea VARIAN. AAA RARE RATA
+| वेविश्षः के्सयोशेनातोभवति घर समरभीज्ञत घहाशितःशसशविरशधियःचिशन
+केचिद _ नहाचिरित्रिपठेति णवाविथः असा येधोजातोभवाति॥ यथयुगणो।
+SO SE UE EE Ue LES ER
+थर्नविशक्षितशशणोरीवायुगेब्णगे लकेविधवशलिनो: ` न गिल
+नः sinew सा? र थकलेरिहनाभलानियत्तफलाञ्चियारेतेसमलदो
+ME eN शेनविश्द्धितः अर्थ हीनः या घोडी मारी पेता णा झी
+Pi ar :
+aN
+AS
+MOI DATARS
+pr &
+taaan AVR | | E:
+
+E a“
+e
+APS,
+A ~ ES
+a Mio NIA RENA Arian ip
+Sp त्तगजोयणाकगेशधाविववशशित्यावनात्येपरस्परयदिपण्पत RADA
+५७९ श Te MAY ICSU MIA च गताचनयो नाप पतरराहिती यायोगः
+ama Bawa
+ste नेयञतआ चस्थित्ते
+त
+Bamana
+a Gunik d SGOT IG EFT capers E
+a
+nd an
+ES ©
+e
+
+| WV
+FTEH Aaa ENeelanawh saa AVIVA
+anar MR A
+pila ld RAIMA “pss ‘Gamay
+su अन्न केशेशवरल्नषि E SU RE O!
+| ANUN Ree बकरी नरेगा प
+ZTANNANIMA NAT टेवणते ते थायोाशोचले EW
+ज्ञ ङ एतत श्वी WNT MAA" अय क्तीबचन्योशा का ईसेवि IR,
+sb bin समे चे
+सष dl
+Lashes oman AUR RRS A mM सुभ
+£ Re eg ERR HEE मि ER sis = + p 4
+A is A, GET a! En ‘+ eS क A A
+गकराणवीयचल |
+सतिश
+Br ae
+” hd
+
+. - », इवन्नयलसेचविदशात्नेशभमतलेविहतेजेशकञ्चविवर्िन्ाशत्नि aaah |
+a]
+e JURA
+STATHAM ART A pel TRE, a DE
+o al eb o
+PMAASGIA AAA ARA ENANA NARRAR RAR |
+RR VIER TATHAT TAA नाह toe Jamar |
+EN हे सखदेसास्प नसभषशसथियाञ्चसोम्परहेसंसयेतपि
+FRIA जण इप गह दयी श TMV gaa, RARA a
+सोग्श'कलहहासहेल्छा। " NANA mE
+UA Samen E AMA GUERRA ;
+feuds नाति RUSS SEAL A जी
+_ ज्ञातककालोचिज्ञाय विसनिञन्मनिस्चयशानेभवति TIAMAT सहे ` `
+$ td i E ;
+
+RIN
+wag `
+EA EE
+AUN
+U
+ह (ह$ श
+RADIO AST AR
+Gi
+EINE, sam |
+CIEN
+E ARA
+
+a
+tug
+ररे
+_ त्तेषां मआज्गर्योगे नचताशियोशाअभिल्हिताः सायबा En aa
+E Grape
+RAVEN RA FLOM ययी Arann शासिश्चयतेतेदगोलस्पववाशण
+aaa AAN निश्क्काण्तहिविथयः शावकाशानिशोन्ताथेमे शति अथे
+ङी कश श्ल्ि्हसाथ छल JUNAITARTINÄNANAIA तरयेसापरे
+a ते तान ङटचि छत्रिण छत तियोशातविशातियणववशहिहि
+शशरायंतेर्येशचभया WI VAAN IZA! Z TRAV A: तर वी क्रो दि
+wife: ARAITAN शहञधाविशतिशविति स्तायोगानासङ्नविश शके
+तष tana aime शके नाद्ाड्कशतानिभवेति RARA RNA
+त gana MAMARIA ERAN `
+wie fria चनर्विकल्यःयवारिशल Ra owe
+Qa: सञ्च व़विकल्येशकः ATAARBARMARIMANAIA Wa
+
+sos कि
+a QATAR ARA ए' तिरी
+a ana añ vat
+MAR AARAECRAATARARA ^ ससयोगाआयोय्यायानः
+अश्विन्नशाशेश्व बजाज बनिशततक गते द्सयोगाङतियोरायाः ANAYA
+AR ऋशाइ्लयीशेः शह जययोदानोतल्यकासययस्थारम TA HATAM
+' सहेसेहायोशासन्यते हि दाद्शयीरफेलेनेवभवत्ि अथाकत्तिरोगाः NAVA
+tá aquí नस्यास्तिायोगानामपवादःअन्णा
+ARO यायययोगोनमव्ययवार' भाधययोगस्वदिफलाभवे्णदिभि
+चिता; ब्मात्सायायोगाताञययोगाचीरूनियोशेशभिशयन्ञे IEA
+सहेसाऱ्यायोगश्योषह्यानेनभयति हेशचेगयोशयवभवेति म्वाचगयो गपात्याी
+_ ग्शनातवस्येणयादेयी अययेागेब्शाओआयो गो काश म्रशिभयते HA ARTE.
+_ अययोगस्यापाशननभयहि NAAA NT
+ee =, rs > OME ऽ Ps ma `
+ER Ke E LAA >
+NA SER
+E ह s
+०. का ce EEE :

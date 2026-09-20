@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Animal-Bird-List.json
+Dataset number: 155 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 606 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | associated_planet | remedy_use | source_text
+--------------------------------------------------------
+animal_001 | Black Dog | Saturn (Shani) & Rahu | Feeding a black dog sweet bread or mustard oil on Saturday reduces Rahu/Saturn afflictions and protects from sudden accidents. | Lal Kitab
+animal_002 | Cow | Jupiter (Guru) & Venus (Shukra) | Feeding a cow fresh grass or roti on Thursday and Friday pacifies Jupiter and Venus respectively, bringing wealth and marital harmony. | Atharva Veda

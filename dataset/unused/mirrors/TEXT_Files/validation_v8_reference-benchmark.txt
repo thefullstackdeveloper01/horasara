@@ -1,0 +1,19 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v8/reference-benchmark.json
+Dataset number: 426 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 209 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 8.0.0
+• status: READY_FOR_REFERENCE_IMPORT
+• cases:
+  (empty list)
+• tolerances:
+  • longitudeDegrees: 0.1
+  • timeSeconds: 1
+• policy: Reference values must carry independent source provenance.

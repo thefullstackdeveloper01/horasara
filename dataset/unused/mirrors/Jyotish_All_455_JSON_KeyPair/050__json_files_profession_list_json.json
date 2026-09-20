@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "050__json_files_profession_list_json",
+    "name": "JSON_Files_Profession-List",
+    "original_file": "JSON_Files/Profession-List.json",
+    "dataset_number": "198 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Profession-List.txt",
+    "source_sha256": "f0fa479260434b481e6b1c850351b384e1b984120756a2b760e0cff9f7d0747b",
+    "source_bytes": 1070
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "prof_001",
+          "planet": "Sun",
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          "professions": {
+            "_items": [
+              {
+                "_text": [
+                  "Government Service"
+                ]
+              },
+              {
+                "_text": [
+                  "Politician"
+                ]
+              },
+              {
+                "_text": [
+                  "Doctor"
+                ]
+              },
+              {
+                "_text": [
+                  "Administrator"
+                ]
+              },
+              {
+                "_text": [
+                  "Goldsmith"
+                ]
+              }
+            ]
+          },
+          "interpretation_logic": "If Sun is strongly placed in 10th, native will be in a position of authority."
+        },
+        {
+          "id": "prof_002",
+          "planet": "Mercury",
+          "houses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          "professions": {
+            "_items": [
+              {
+                "_text": [
+                  "IT Professional"
+                ]
+              },
+              {
+                "_text": [
+                  "CA"
+                ]
+              },
+              {
+                "_text": [
+                  "Businessman"
+                ]
+              },
+              {
+                "_text": [
+                  "Writer"
+                ]
+              },
+              {
+                "_text": [
+                  "Mathematician"
+                ]
+              },
+              {
+                "_text": [
+                  "Astrologer"
+                ]
+              }
+            ]
+          },
+          "interpretation_logic": "If Mercury is strong, native excels in analytical and communication-driven roles."
+        }
+      ]
+    }
+  }
+}

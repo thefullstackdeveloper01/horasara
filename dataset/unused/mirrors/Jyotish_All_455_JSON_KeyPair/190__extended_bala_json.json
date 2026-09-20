@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "190__extended_bala_json",
+    "name": "extended_bala",
+    "original_file": "extended_bala.json",
+    "dataset_number": "120 of 455",
+    "format": "json",
+    "source_readable_file": "extended_bala.txt",
+    "source_sha256": "9b170a06b812e7987c5a8e947fdc5e150b8694a582921293019e73733f004aff",
+    "source_bytes": 1290
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Bala (Infant)",
+        "from": 0,
+        "to": 6,
+        "delivery": 25
+      },
+      {
+        "name": "Kumara (Youth)",
+        "from": 6,
+        "to": 12,
+        "delivery": 50
+      },
+      {
+        "name": "Yuva (Adult)",
+        "from": 12,
+        "to": 18,
+        "delivery": 100
+      },
+      {
+        "name": "Vriddha (Old)",
+        "from": 18,
+        "to": 24,
+        "delivery": 50
+      },
+      {
+        "name": "Mrita (Dead)",
+        "from": 24,
+        "to": 30,
+        "delivery": 0
+      }
+    ]
+  }
+}

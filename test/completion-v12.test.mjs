@@ -1,0 +1,23 @@
+import assert from 'node:assert/strict';
+import { calculateChart } from '../src/engine.js';
+import { renderChartSvg } from '../src/presentation/svg/chartSvg.js';
+
+const r = await calculateChart({name:'Completion Test',year:1990,month:1,day:1,hour:12,min:0,sec:0,lat:23.0225,lon:72.5714,tz:5.5});
+assert.equal(r.completion.version,'12.0.0');
+assert.equal(r.completion.astronomy.swissEphemeris,true);
+assert.ok(r.completion.classical.BPHS);
+assert.ok(r.completion.classical.KP);
+assert.ok(r.completion.classical.Jaimini);
+assert.ok(r.completion.classical.Tajika);
+assert.ok(r.completion.classical.Shadbala);
+assert.ok(r.completion.classical.Ashtakavarga);
+assert.ok(r.completion.classical.Prasthara);
+assert.ok(r.completion.classical.BhavaMadhya);
+assert.ok(r.completion.businessVerdict.verdict);
+assert.ok(Number.isFinite(r.completion.businessVerdict.businessScore));
+assert.ok(Number.isFinite(r.completion.businessVerdict.employmentScore));
+assert.equal(r.completion.prakriti.status,'QUESTIONNAIRE_REQUIRED');
+const svg=renderChartSvg(r);
+assert.match(svg,/^<svg /); assert.match(svg,/Jyotish chart/);
+assert.ok(Array.isArray(r.exactEventForecast) || r.exactEventForecast?.status==='NOT_AVAILABLE');
+console.log('completion-v12: PASS');

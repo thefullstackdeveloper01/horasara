@@ -1,0 +1,26 @@
+READABLE DATASET
+================================================================================
+Original file: sign_countries.json
+Dataset number: 366 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,121 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 1
+• note: Traditional mundane (Kalapurusha) sign-to-nation associations, previously an inline literal (SIGN_COUNTRIES) inside src/extensions/new_sections.js. Different classical/Western mundane-astrology schools assign nations to signs differently; this bundled table is one commonly cited assignment, not a universally agreed standard.
+• countries:
+  • Aries: Germany, England, Israel, Poland, Syria
+  • Taurus: Iran, Russia, Ireland, Australia, Switzerland
+  • Gemini: USA, Belgium, Wales, Sardinia
+  • Cancer: Scotland, Holland, New Zealand, China, Paraguay
+  • Leo: France, Italy, Romania, Czech Republic, Sicily
+  • Virgo: Greece, Turkey, West Indies, Brazil, Switzerland
+  • Libra: Austria, Japan, Burma, China, Argentina, Ukraine
+  • Scorpio: Norway, Bavaria, Morocco, Algeria, New Zealand
+  • Sagittarius: Spain, Arabia, Hungary, Australia, South Africa
+  • Capricorn: India, Afghanistan, Mexico, Lithuania, Saxony
+  • Aquarius: Russia, Sweden, Ethiopia, Iran, Israel
+  • Pisces: Portugal, Scandinavia, Sahara, Egypt, Fiji

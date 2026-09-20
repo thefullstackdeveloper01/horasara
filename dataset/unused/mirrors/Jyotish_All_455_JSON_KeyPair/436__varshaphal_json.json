@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "436__varshaphal_json",
+    "name": "varshaphal",
+    "original_file": "varshaphal.json",
+    "dataset_number": "436 of 455",
+    "format": "json",
+    "source_readable_file": "varshaphal.txt",
+    "source_sha256": "581f3f6252f1fa22b420d33591a2070c8c117d35248356b4eb56163005e79a20",
+    "source_bytes": 503
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "WEEKDAY_LORDS": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          }
+        ]
+      },
+      "TROPICAL_YEAR": 365.24219
+    }
+  }
+}

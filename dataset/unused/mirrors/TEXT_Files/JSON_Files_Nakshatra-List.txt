@@ -1,0 +1,26 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Nakshatra-List.json
+Dataset number: 187 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 543 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: nak_001
+  • name: Ashwini
+  • ruler: Ketu
+  • deity: Ashwini Kumaras (Twin Physicians)
+  • symbol: Horse's Head
+  • nature: Deva (Divine)
+  • zodiac_span: Aries 0°00' to 13°20'
+  • pada_1_rashi: Aries
+  • pada_2_rashi: Aries
+  • pada_3_rashi: Aries
+  • pada_4_rashi: Aries
+  • gender: Male
+  • interpretation_traits: Speed, initiation, healing, pioneering spirit. Can be impulsive.
+  • remedy: Worship Lord Ganesha or Lord Dhanvantari.

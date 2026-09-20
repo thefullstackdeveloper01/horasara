@@ -1,0 +1,2 @@
+export function buildProductionHealth({services={},telemetry={},version='11.0'}={}){const names=Object.keys(services);const rows=names.map(name=>({name,status:services[name]===true?'UP':'DOWN'}));return {version,ok:rows.every(r=>r.status==='UP'),services:rows,telemetry:telemetry.enabled===true?'ENABLED':'PENDING',timestamp:new Date().toISOString()};}
+export function readinessChecklist(){return ['health','security','dependencyAudit','backup','restoreTest','loadTest','gracefulShutdown','metrics','structuredLogs','alerting','rateLimits','inputLimits','recoveryRunbook'];}

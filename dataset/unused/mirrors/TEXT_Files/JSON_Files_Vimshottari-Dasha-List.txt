@@ -1,0 +1,18 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Vimshottari-Dasha-List.json
+Dataset number: 219 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 205 bytes
+Top-level records: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (4 rows)
+planet | years | sequence
+-------------------------
+Ketu | 7 | 1
+Venus | 20 | 2
+Sun | 6 | 3
+Moon | 10 | 4

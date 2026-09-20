@@ -1,0 +1,220 @@
+{
+  "NADI_MAP": {
+    "Ashwini": "Vata",
+    "Bharani": "Pitta",
+    "Krittika": "Kapha",
+    "Rohini": "Vata",
+    "Mrigashira": "Pitta",
+    "Ardra": "Kapha",
+    "Punarvasu": "Vata",
+    "Pushya": "Pitta",
+    "Ashlesha": "Kapha",
+    "Magha": "Vata",
+    "Purva Phalguni": "Pitta",
+    "Uttara Phalguni": "Kapha",
+    "Hasta": "Vata",
+    "Chitra": "Pitta",
+    "Swati": "Kapha",
+    "Vishakha": "Vata",
+    "Anuradha": "Pitta",
+    "Jyeshtha": "Kapha",
+    "Mula": "Vata",
+    "Purva Ashadha": "Pitta",
+    "Uttara Ashadha": "Kapha",
+    "Shravana": "Vata",
+    "Dhanishtha": "Pitta",
+    "Shatabhisha": "Kapha",
+    "Purva Bhadrapada": "Vata",
+    "Uttara Bhadrapada": "Pitta",
+    "Revati": "Kapha"
+  },
+  "NADI_TRADITIONAL_NAMES": {
+    "Vata": "Aadi (Antya)",
+    "Pitta": "Madhya",
+    "Kapha": "Antya (Aadi)"
+  },
+  "NADI_DOSHA": {
+    "Definition": "In Ashtakoot Milan (8-point matching), Nadi Dosha occurs when the bride and groom have the same Nadi (Ayurvedic constitution) belonging to the same Nakshatra group.",
+    "Points_Alloted": 8,
+    "Effects": "According to classical texts, same Nadi leads to Nadi Dosha which is believed to cause progeny issues (Nadi means vein/flow), physical/health problems, or issues in marital harmony.",
+    "Cancellations_Bhakoot": [
+      "If the Moon signs of both partners are in the same sign but in different Nakshatras (and Nadis are different).",
+      "If the Moon signs are in adjacent signs with same Nakshatra and same Nadi (e.g., Taurus Rohini and Gemini Mrigashira - though usually Nadi is checked for exact same Nakshatra).",
+      "If the lord of the Navamsa of the Moon is different.",
+      "If the couple has the same Nakshatra but different Padas (Charanas), Nadi Dosha is cancelled.",
+      "If the Moon signs are mutually Sammukha (front-facing) or in mutually friendly signs."
+    ]
+  },
+  "GANDMOOL_DOSHA": {
+    "Definition": "Occurs when the Moon is placed in one of the 6 Nakshatras ruled by Mercury or Ketu.",
+    "Affected_Nakshatras": [
+      "Ashwini (Ketu)",
+      "Ashlesha (Mercury)",
+      "Magha (Ketu)",
+      "Jyeshtha (Mercury)",
+      "Mula (Ketu)",
+      "Revati (Mercury)"
+    ],
+    "Effects": "Believed to cause difficulties for the native, and sometimes for the parents/in-laws depending on the specific Gana (Mula, Jyeshtha, etc.).",
+    "Cancellations": [
+      "If the planet ruling the Nakshatra is placed in a Kendra (1st, 4th, 7th, 10th) from the Lagna or Moon.",
+      "If the Moon is in the 1st, 4th, 7th, 10th, or 8th house from the Ascendant and is aspected by a benefic.",
+      "The Dosha is generally considered mild if the birth is in the 1st or last quarter (Pada) of the Nakshatra.",
+      "Remedies include Gandmool Shanti Puja performed on the 27th day after birth or any auspicious day."
+    ]
+  },
+  "MANGAL_DOSHA": {
+    "Also_Known_As": ["Manglik", "Kuja Dosha", "Bhauma Dosha", "Sevvai Dosham"],
+    "Definition": "Occurs when Mars is placed in the 1st, 2nd, 4th, 7th, 8th, or 12th house from the Ascendant (Lagna), Moon, or Venus.",
+    "Severity_Per_House": {
+      "1st_House": "Affects personality and domestic harmony; aspect on 7th causes conflict.",
+      "2nd_House": "Creates family disputes and speech-related issues in marriage.",
+      "4th_House": "Affects domestic peace, property, and mother's health.",
+      "7th_House": "Directly impacts the spouse, marriage longevity, and sexual compatibility.",
+      "8th_House": "Affects longevity of spouse, sudden events, and hidden wealth.",
+      "12th_House": "Causes issues in bed pleasures, expenses, and foreign settlement."
+    },
+    "Cancellations_Parihara": [
+      "Mars is in its own sign (Aries, Scorpio) or exalted (Capricorn) in the dosha house.",
+      "Mars is in the 2nd house in Gemini or Virgo.",
+      "Mars is in the 12th house in Taurus or Libra.",
+      "Mars is in the 7th house in Cancer or Capricorn.",
+      "Mars is in the 8th house in Sagittarius or Pisces.",
+      "Mars is aspected by or conjunct with Jupiter.",
+      "Mars is conjunct with or aspected by the Moon.",
+      "If both the bride and groom have Mangal Dosha (matching cancels it out).",
+      "If Mars is weak (debilitated, combust, or in enemy sign) the dosha is considered mild."
+    ]
+  },
+  "KAAL_SARP_DOSHA": {
+    "Definition": "Occurs when all seven planets (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn) are placed between Rahu and Ketu in the birth chart.",
+    "Effects": "Can lead to sudden setbacks, financial instability, struggles, late success, and karmic challenges.",
+    "Types": [
+      {
+        "Name": "Anant Kalsarp Yog",
+        "Formation": "Rahu in 1st, Ketu in 7th, rest of planets in between."
+      },
+      {
+        "Name": "Kulik Kalsarp Yog",
+        "Formation": "Rahu in 2nd, Ketu in 8th, rest of planets in between."
+      },
+      {
+        "Name": "Vasuki Kalsarp Yog",
+        "Formation": "Rahu in 3rd, Ketu in 9th, rest of planets in between."
+      },
+      {
+        "Name": "Shankpal Kalsarp Yog",
+        "Formation": "Rahu in 4th, Ketu in 10th, rest of planets in between."
+      },
+      {
+        "Name": "Padma Kalsarp Yog",
+        "Formation": "Rahu in 5th, Ketu in 11th, rest of planets in between."
+      },
+      {
+        "Name": "Mahapadma Kalsarp Yog",
+        "Formation": "Rahu in 6th, Ketu in 12th, rest of planets in between."
+      },
+      {
+        "Name": "Takshak Kalsarp Yog",
+        "Formation": "Rahu in 7th, Ketu in 1st, rest of planets in between."
+      },
+      {
+        "Name": "Karkotak Kalsarp Yog",
+        "Formation": "Rahu in 8th, Ketu in 2nd, rest of planets in between."
+      },
+      {
+        "Name": "Shankhnaad Kalsarp Yog",
+        "Formation": "Rahu in 9th, Ketu in 3rd, rest of planets in between."
+      },
+      {
+        "Name": "Ghatak Kalsarp Yog",
+        "Formation": "Rahu in 10th, Ketu in 4th, rest of planets in between."
+      },
+      {
+        "Name": "Vishdhar Kalsarp Yog",
+        "Formation": "Rahu in 11th, Ketu in 5th, rest of planets in between."
+      },
+      {
+        "Name": "Sheshnag Kalsarp Yog",
+        "Formation": "Rahu in 12th, Ketu in 6th, rest of planets in between."
+      }
+    ],
+    "Cancellations": [
+      "If a single planet is outside the Rahu-Ketu axis.",
+      "If Jupiter or Venus is placed in a Kendra or Trikona strongly.",
+      "If the lord of the 6th, 8th, or 12th house is well-placed.",
+      "Rahu or Ketu are aspected by Jupiter."
+    ]
+  },
+  "PITRA_DOSHA": {
+    "Definition": "A karmic debt or curse from ancestors affecting the current generation, often indicated by specific planetary placements.",
+    "Indications": [
+      "Sun and Rahu conjunct in the 1st, 2nd, 4th, 5th, 7th, 9th, or 10th house.",
+      "Ketu and Moon conjunct in the 1st, 2nd, 4th, 5th, 7th, 9th, or 10th house.",
+      "Afflicted 9th house or 9th lord.",
+      "Sun is afflicted by malefics (Saturn, Mars, Rahu)."
+    ],
+    "Effects": [
+      "Delays in marriage and childbirth.",
+      "Frequent miscarriages or problems in progeny.",
+      "Unexplained health issues or mental unrest.",
+      "Obstacles in career and financial growth.",
+      "Sudden losses and family disputes."
+    ],
+    "Remedies": [
+      "Performing Shraddha and Tarpanam for ancestors during Amavasya or Pitru Paksha.",
+      "Offering food and water to crows, cows, and dogs.",
+      "Donating to the poor and helping elderly people.",
+      "Chanting the Gayatri Mantra and offering water to the Sun.",
+      "Performing Narayan Bali or Tripindi Shradh puja at holy places."
+    ]
+  },
+  "GRAHAN_DOSHA": {
+    "Also_Known_As": "Chandra-Surya Grahan Yoga",
+    "Definition": "Occurs when the Sun or Moon is conjunct with Rahu or Ketu in the birth chart.",
+    "Types": {
+      "Solar_Eclipse": "Sun conjunct Rahu or Ketu.",
+      "Lunar_Eclipse": "Moon conjunct Rahu or Ketu."
+    },
+    "Effects": [
+      "Mental stress, confusion, and emotional instability.",
+      "Obstacles in education and career progression.",
+      "Problems in relationships, especially with father (Sun) or mother (Moon).",
+      "Sudden health issues and unexplained fears."
+    ],
+    "Cancellations": [
+      "If Sun or Moon is in its own sign or exalted.",
+      "If Jupiter aspects the Sun or Moon.",
+      "If the eclipse occurs in a Kendra or Trikona and the lord of that house is strong."
+    ]
+  },
+  "SHRAPIT_DOSHA": {
+    "Definition": "Occurs when Saturn (Shani) and Rahu are conjunct in the same house in the birth chart. 'Shrapit' means cursed.",
+    "Effects": [
+      "Continuous struggles and obstacles in all endeavors.",
+      "Severe delays in achieving success, marriage, or career goals.",
+      "Financial instability and unexpected losses.",
+      "Health issues that are chronic or hard to diagnose."
+    ],
+    "Remedies": [
+      "Worshiping Lord Shiva and Hanuman.",
+      "Chanting the Durga Saptashati.",
+      "Performing remedies for both Saturn (Shani) and Rahu.",
+      "Feeding birds and animals, especially dogs and crows."
+    ]
+  },
+  "KEMADRUNA_DOSHA": {
+    "Definition": "Occurs when there are no planets on either side of the Moon (2nd and 12th house from the Moon are empty), forming no Sunapha or Anapha Yoga.",
+    "Effects": [
+      "Feelings of isolation and loneliness.",
+      "Financial fluctuations and lack of emotional support.",
+      "Mental anxiety and emotional dependency."
+    ],
+    "Cancellations": [
+      "Moon is in a Kendra (1st, 4th, 7th, 10th) from the Ascendant.",
+      "Moon is aspected by or conjunct with Jupiter.",
+      "Moon is placed in a favorable Navamsa or is Vargottama.",
+      "Benefics are placed in the 2nd or 12th house from the Navamsa Moon."
+    ]
+  }
+}

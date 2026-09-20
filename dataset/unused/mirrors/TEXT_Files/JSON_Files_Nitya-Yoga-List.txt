@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Nitya-Yoga-List.json
+Dataset number: 190 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 425 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | ruler | interpretation | auspicious
+-----------------------------------------------
+nyoga_001 | Vishkambha | Sun | Firm determination. Good for overcoming enemies and competitive tasks. | Yes
+nyoga_002 | Vydhati | Mars | Causes destruction, loss of wealth, and accidents. Avoided for auspicious activities. | No

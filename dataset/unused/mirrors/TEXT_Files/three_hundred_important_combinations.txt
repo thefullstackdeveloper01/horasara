@@ -1,0 +1,3582 @@
+READABLE DATASET
+================================================================================
+Original file: three_hundred_important_combinations.json
+Dataset number: 397 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 157,076 bytes
+Top-level fields: 11
+Title: 2015.83552.Three-Hundred-Important-Combinations
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: 2015.83552.Three-Hundred-Important-Combinations
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Three Hundred Important Combinations XML
+  • total_pages: 154
+  • total_words: 28178
+  • text_quality:
+    • ocr_word_validity_score: 0.956
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+THREE HUNDRED IMPORT&NT GSMBiN^TIONS
+PART 1
+BY
+BAiGALORE VENKATA RAMAN, MRAS.
+Editor, The Astrological Magazine
+Author: Astrology and Modern Thought Astrology
+for Beginners^', “A Manual of Hindu Astrology
+Hindu Predictive Astrology Graha and
+Bhava Balas Bhavartha Ratnakara
+“ Hoiv to Judge a Horoscope ”, “ Indian
+States Souvenir,'' World Predictions for 1941 to 1945
+Ayurveda,'' etc.
+Firti Edition
+RAMAN PUBLICATIONS
+P. O. Malles waram, Bangalore
+ALL RIGHTS RESERVED
+Price per copy :
+Poctage Extra
+
+THE STUDENTS’ EQUIPMENT
+A COMPLETE HOME STUDY COURSE
+IN ASTROLOGY
+BECOME A MASTER OF ASTROLOGY
+fife is set a Mystery — discover ih® power within jm
+mi use il Study Astrology in your leisure time and
+apply the precepts of Cosmic Law to the problems of
+e\eryday life.
+The Sliidents’ EqEipment course teaches vou to
+develop the understanding necessary for correct and
+practical application of Astrology to everyday life. The
+books selected take you through all the important
+aspects of Astrology and give you a good insight into
+the subject.
+Stodenls* Equipmeol includes the following items .
+(1) Hindu Predictive
+Astrology
+(2) Varshapbal
+(3) Astrology for
+Beginners
+(4) Manual of Hindu
+Astrology
+The cost ©f these beoks will come to Es. 35
+Tlie lowest casii pnc© for tie above 9 items ioclii«ling postage is
+t$» 27/8 only If you als® want to subscribe to “ Tfee Astrological Magaiiat *
+for one year m ailililjoo I© bayiag tfee equipraentj send Rs. 35 m all.
+RAMAN PUBLICATIONS
+P.O. MALLESWARAM. BANGALORE
+
+PAGIs
+26. Piishkala Y^oga ...
+29. Bnarathi Yoga ... ••• •••
+32. Sreenatha Y'oga ...
+48. 3»Inciaoga Y^oga ... «»• n
+49. Panjatha Y^oga ... •»» b7
+53. PI anbara Brahma Yoga ... ... ... 73
+62. Gandharva Y^oga ... ... 85
+71. Thrilochana Yoga ... ... ,,
+
+PAGE
+
+THiliE HOIOREO IMFOBTMI gSIEIHITlOMS
+PREFACE
+The importance of Astrology in the social life
+of man is manifold. Human needs and
+aspirations funiish a continuous motive power for
+astrological inquiry. Astrology has a definite
+relation to the several grades of urgency into
+which the needs of human being in society can be
+divided. Success in life depends to a large extent
+upon one’s material prosperity or adversityYogas in astrological parlance tend to show the
+degree of wealth, fame, rank, position, adversity,
+ill-health and misfortunes a man is likely to enjoy
+in his present life as a sequel to his owji actions
+in previous states of existence. In other words,,
+the dififerent specific planetary combinations show
+a summation of inherited physical and psychological tendencies which condition our present environment ; the extent to which we can offset the
+inherited tendencies by effort ; the characteristics
+that will be dominant and those that will be,
+and so on and so forth. Strictly speak*
+ing, all Yogas are combinations of planets but all
+combinations cannot be Yogas. Only specific
+combinations can be styled as Yogas. In this
+book, I have made an attempt to carefully select
+only such important combinations that could be
+'raised to the dignity of a Yoga and that could indicate certain definite physical or mental traits, or
+degree of wealth, fortune or misfortune. To collect
+
+•combinations at random is easy but to select
+notable ones illustrative of a variety of life
+events is not only difficult but even risky.
+I should call this book a research project in
+the sense the material used forms part of the vast
+scheme of investigations I have in view. Modern
+astrologers seem to have overlooked an exception^
+ally fertile field of investigation in their indifference
+to the study of Yogas which forms as it were, the
+essence of Indian Predictive Astrology. Most
+modern writers are silent on the subject of the
+Yogas except perhaps for some odd remarks upon
+a few common Raja Yogas or Arishta Yogas.
+For this reason, there has been for several years a
+demand for a book devoted specially ro the predictive significance of Yogas and the present work
+has been undertaken to meet this demand. Long
+back this want was supplied by my grandfather
+Prof. B, Suryanarain Rao whose excellent book
+SATAYOGAMANJARI deals with some of the
+most important Yogas on the subject. But I
+felt that a more and systematised account of all
+the important Yogas should be brought out so
+that, illustrated by a number of practical horoscopes, the work may stand as a foundation upon
+■which future research may be developed.
+Therefore THREE HUNDRED IMPORTANT COMBINATIONS is intended to provide
+a working knowledge of the yogas which indicate
+specific horoscopic trends. The astrological ^
+mathematics required for this purpose is very
+elementary. Numerous examples especially
+
+designed to illustrate points arising in the elucidation of the yogas have been inserted and as
+these are worked out fully, readers should have
+no difficulty in following the principles clearly.
+Points of a controversial nature have not been
+shelved or glossed over. They have been approached from the point of view of their practical
+applicability.
+All planetary combinations may be divided
+into two broad groups, viz.. Yogas and Artshtas.
+Though by the word Yoga is meant a combination,
+in practice Yoga is always considered to imply a
+fortunate combination. Arishtas generally deal
+with misfortunes though it is also included in the
+generic term Yoga. The Yogas may be Raja
+Yogas (political power), Dhana Yogas (combinations for wealth), Gnana Yogas (combinations for
+real higher knowledge and spirituality).
+The subject of interpretation of Yogas is
+briefly dealt with in the first few pages of the first
+part herewith presented. This branch is to be
+specially studied by the student of astrology
+inasmuch as it enables him to evalute the examt
+implication of a particular Yoga. Special Yogas,
+including what are called Nabhasa Yogas have
+been dealt with then with suitable illustrations
+wherever necessary. The difficulty arising when
+two or more Yogas coincide such as would be the
+case in respect of say Asraya and Akriti Yogas
+- (see page 124) have been suitably clarified with
+proper explanations. The first part also deals
+with some of the important Dhana Yogas which
+include combinations for poverty also.
+
+In a way, the second part is more important,
+for it deals with such outstanding combinations as
+Raja Yogas, Arishta Yogas and Neecha Bhanga
+Raja Yogas about which, of late so much fuss is
+being made by a section of astrological students.
+The last pages give a summary of the entire subject matter. The example horoscope, with which
+the book is closed, should be of particular interest
+to readers, for it shows how, in the face of many
+Yogas existing in a particular case, only a few can
+operate. It also demonstrates that in respect of
+certain Yogas, the indications become efective
+throughout life while in regard to certain other
+Yogas, the results can happen only during specific
+periods and not always.
+For such a work as this which largely rests
+upon the principles furnished by classical astrology no originality can be claimed. But I feel
+I can certainly claim credit for being the first to
+bring together all scattered information, present
+it systematically and prove its practical worth and
+utility. The truth of this becomes evident when
+it is remembered that the first part itself carries
+nearly 90 practical illustrations most of them
+being gathered from actual lives.
+I have as my readers, scholars, intellectuals,
+students and practitioners. Therefore, to meet
+such different tastes and angles presents difficult
+problems of authorship, especially that a book
+dealing with the practical aspect of astrology
+should not merely aim at an uncritical exposition
+of the subject matter. The only way to gratify
+
+the readers and at the same time preserve the
+theme is to present the apparently dreary principles in a graduated form and give the book a simple
+readability by interspersing the difficult sections
+with remarks which will not only elucidate the
+difficult points but encourage the casual reader to
+take a more positive interest in the study of
+the subject.
+I am thankful to Mr. S. Venkataraman for
+his assistance in not only correcting the proofs
+but in making available suitable examples for
+illustrative purposes.
+It is hoped that the exposition of Yogas presented in this book will stimulate readers to
+pursue the subject further.
+Bangalore, )
+21st July 1947- j
+B. V. RAMAN.
+
+Jkm Mmkd
+By B. V. Raman, m.r.a.s.
+INTRODUCTION
+This book is intended to place before my
+readers Three Hundred Important Planetary
+Combinations comprising a comprehensive list of
+human transactions including fortunes, misfortunes, death and various physical and mental
+worries and elations, financial troubles and
+successes and all other events connected with
+human life. Man wants to know something of
+everything connected with his career and the
+lives of those who are dear and near to him.
+These three hundred combinations include a large
+variety of his life transactions and a previous
+knowledge of these happenings will be of immense
+benefit to him so that he may not only take
+remedies to avert the evils indicated by the planets
+from time to time but also adjust his affairs where
+the remedies prove ineffectual.
+Human life falls under two grand divisions —
+Yogas and Arishtas, or fortunes and misfortunes.
+Yogas include success in every line — health, personality, success in politics, financial gains, good
+education, mental strength, bodily health, good
+wife, dutiful children, sympathetic friends and
+relations, righteous conduct and other sources of
+pleasure and enjoyment which generally go under
+the name of fortunes.
+
+2 THREE HUNDRED IMPORTANT COMBINATIONS
+Arishtas or misfortunes include all sorts
+and sources of sorrows, worries, miseries, troubles,
+distractions, bodily and mental disturbances such as
+ill-health, physical and mental deformities, financial
+losses, ugly and bad children, quarrelsome wife,
+hateful relations and friends, evil temper, sinful
+nature and other unpleasant sources in life which
+go under the name of evils or misfortunes. Therefore these three hundred combinations will be
+specially useful to astrological readers and
+students. I shall try and give the necessary explanations and notes where they are needed to make
+the meaning of the combinations clear.
+GENERAL OBSERVATIONS.
+1 am dealing in this book with three hundred
+important yogas or special combinations bearing
+on the twelve houses which signify certain definite
+indications in the horoscopes as different from the
+general combinations enunciated in astrological
+text books. The word ‘yog^-’ is rather difficult to
+define. Yoga means combination but in common
+parlance yoga means a certain definite or special
+combination which adds strength to the horoscope
+or removes the vitality from it.
+If you go through standard books on astrology
+you will find that each ascendant has certain
+planets disposed towards it as yogakarakas. In
+the treatment of special combinations in this book,
+we have nothing to do with such planets. Again
+the combination of trinal and a quadrangular lords is supposed to give rise to
+Rajayoga. We are concerned with this combination to the extent that it qualifies or
+
+STRENGTH OF YOGA
+modifies a certain special yoga. For example
+take the following horoscope. The disposition
+of the Moon and Jupiter in kendras or quadrants has given rise to
+Gajakesari yoga. The
+Moon and Jupiter who
+have generated this yoga are lords of the
+6th and 11th and consequently they are not
+as beneficial as they
+would have been were
+they lords of the 4th
+and 9th. In other words, the evil due to ownership
+has modified to some extent the strength of Gajakesari. What is the method of interpreting
+a yoga and how and when do the results manifest
+or make themselves felt. Let us try to answer
+these important questions.
+Strength of a Yoga
+A yoga is formed by more than one planet.
+The nature of a planet is of three types viz.,
+benefic, malefic and neutral.
+According to the natural classification benefics are Jupiter, Venus, well associated Mercury and
+malefics are the. Sun Mars, Saturn, evil associated
+Mercury and waxing Moon. But in this book our
+reference to melefics and benefics unless otherwise
+stated are in the sense of malefic lords and benefic
+lords.
+The benefics or benefic lords are (1) lord of
+Lagna, (2) Lords of the 5 th and 9th (3) and
+
+4 THREE HUNDRED IMPORTANT COMBINATIONS
+Lords of kendras or quadrants, when they are
+natural malefics. The malefics are (1) the lords
+of the 3rd, 6th and 11th (2) Lords of kendras
+when they are natural benefi.es.
+The lords of the 2nd and 12th may be termed
+as neutral because ther- give good or bad results
+according to their other conjunctions. The 8th
+lord is a malefic .according to Jathaha Chandrica
+but for all practical purposes he may be taken
+as a neutral. The above can be classified thus:
+Benefics. Lord of 1, Lords of 5 and 9 and Lords
+of 4, 7, 10 if they are natural malefics.
+Malefics. Lords of 3, 6 and 11. Lords of 4, 7,
+and 10 if they are natural benefics.
+Neutrals. Lords of 2, 8 and 12.
+Of course the 8th lord is supposed to be evil
+unless he be the Sun or the Moon. We shall
+avoid controversies and assume that the 8th lord
+is a neutral for the purpose of interpreting
+yogas.
+Here an observation has to be made.
+In the above list of benefics, malefics and
+neutrals we have completely omitted to take
+into account the influence due to a double
+lordship. Thus for Aquarius, Mars owning
+the 10th — a quadrant is good. In addition
+to the 10th he owns the 3rd also which is bad. In
+other words. Mars a natural malefic becoming
+a benefic lord by virtue of owning a kendra is
+‘ influenced ’ by his ownership of the 3rd house.
+It will be seen that excepting the Sun and the
+
+BENEFICS, MALEFICS AND NEUTRALS 5
+Moon al] the other planets own two houses each so
+that whether a planet is a benefic or malefic can
+be judged only when both the lordships are taken
+into account. The nature of a lord is influenced
+on account of two factors, viz., (1) the other lordship and (2) association. The other lordship
+varies with regard to different ascendants. Thus
+when Pisces is Lagna, Mars owns the 2nd and 9th
+houses whereas he owns the 1 st and 8th when
+Aries is Lagna. Thus the ‘ Ascendant ’ is of
+utmost importance while deciding the benefic and
+malefic lords.
+We shall now discuss the nature of the different planets.
+The Sun — He is benefic as lord of 1, 4, 7, 10,
+5 and 9 which is possible in regard to Leo,
+Taurus, Aquarius, Scorpio, Aries and Sagittarius.
+He is neutral as lord of 2, 12 and 8 which is possible
+for Cancer, Virgo, and Capricorn. He is malefic
+as lord of 3, 6 and 11, which is possible for Gemini,
+Pisces and Libra.
+The Moon. Benefic as lord of 1,5 and 9
+which is possible for Cancer, Pisces and Scorpio.
+Neutral as lord of 1, 2, 12 and 8 which is possible
+for Gemini, Leo and Sagittarius ; and malefic as
+lord of 3, 6, 11, 4, 7 and 10 which is possible in
+regard to Taurus, Aquarius, Virgo, xAries, Capricorn and Libra.
+Mars. He is benefic as lord of 1 and 8
+(Aries), 2 and 7 (Libra), 2 and 9 (Pisces), 3 and 10
+(Aquarius), 4 and 9 (Cancer) 5 and 10 (Leo) 5
+and 12 (Sagittarius) and 7 and 12 (Taurus).
+
+6 THREE HUNDRED IMPORTANT COMBINATIONS
+Here we have taken into account the
+‘ modified influence’ due to the second lordship.
+Thus if you take Sagittarius he is benefic as lord
+of a trine (5) and neutral as lord of 12. But his
+trinal lordship is so powerful as to overcome the
+12th lordship so that he becomes a benefic.
+Mars is netitral as lord of 1 and 6 (Scorpio)
+and malefic as lord of 3 and 8 (Kanya), 4 and 11
+(Capricorn) and 6 and 11 (Gemini)
+Mercury. Benefic, as lord 2 and 5 (Taurus),
+9 and 6 (Capricorn), and 9 and 12 (Libra):
+Neutral as lord of 1 and 4 (Gemini), 1 and 10
+(Kanya), and 5 and 8 (Kumbha) ; as lord
+of 2 and 12 (Cancer), 4 and 7 (Pisces), 7 and 10
+(Dhanas) and 8 and 11 (Scorpio)
+Jupiter. Benefic as lord of 2 and 5 (Scorpio),
+9 and 12 (Aries): neutral as lord of 1 and 4
+(Dhanas), 1 and 10 (Pisces), and 5 and 8 (Leo)?
+and i^alefi-c as lord of 2 and 11 (Kumbha), 3 and
+6 (Seel]^), 3 and 12 (Makara) 4 and 7 (Kanya), 7
+and 10 (Gemini) and 8 and 11 (Taurus)
+Venus. Benefic as lord of 1 and 8 (Libra), 2
+and 9 (Kanya), 4 and 9 (Aquarius), 5 and 10
+(Capricorn), and 5 and 12 (Gemini): neutral as
+lord of 1 and 6 (Taurus), and malefic as lord
+of 2 and 7 (Aries), 3 and 8 (Pisces), 3 and 10
+(Leo), 4 and 11 (Cancer), 6 and 11 (Dhanas), and
+7 and 12 (Scorpio).
+Saturn. Benefic as lord of 1 and 2 (Makara),
+1 and 12 (Kumbha), 4 and 5 (Thula), and 9 and
+10 (Taurus) ; neutral as lord of 3 and 4 (Scorpio),
+5 and 6 (Virgo), 6 and 7 (Leo) and 7 and 8
+
+VOGA-INTERPRETATiON
+(Cancer) : and malefic as lord of 2 and 3 (Dhanasj,
+11 and 12 (Pisces), 8 and 9 (Gemini), and 10 and
+11 (Mehsa).
+With the aid of the above sclicdnlc tlm i>cncfic and malefic planets (do not confuse this with
+the good and evil planets according to n.ttural
+classification) for any horoscope can be easily
+ascertained.
+In this e\am]ilc horosco[ic Lagna is Kumbha and tlu' follow ing
+arc the bcuieiics, neutrals tind malelics.
+Benefics. Sun (Lord
+ol 7) Mais (Ivord of 3
+and 10) Venus, (Loid
+ol 4 and 9 <iml Saturn
+(lord of 1 and 12).
+Neutrals. Mercury (Lord of 5 and H).
+Malefics Moon (Lord of 6), Jupiter (I..ord of
+Interpretation of Yogas
+Before attempting to interpret yoga.s propeuiy,
+the strengths of the various plaru'ts ha\e to he
+noted. There are two methods ol ascertaining
+the strengths which I shall name as the Lipprov,n
+mate ’ and the ‘correct.’ The coro'ct nieihotl
+is the one described in iny “ Gralia and
+Bhava Balas” which enables one to ca leulate the six sources of strength and weakness
+
+8 THREE HUNDRED IMPORTANT COMBINATIONS
+of planets. The majority of readers will probably find it difficult to work out the
+shadbalas so that for purposes of interpreting
+yogas they can rely on the ‘ approximate ’
+method. This consists in ascertaining the
+Saptavargaja bala wli’ch has also been fully
+described in ni}' Graha and Bhava Balas and
+which I do not propose to discuss here. It must
+be specially noted that one should resort to this
+‘ approximate ’ method onl)' when he is quite
+unable to apply the ‘correct method’. Saptavaragja bala means the strength a planet gets
+b)' virtue of its disposition in a friendly, neutral
+or inimical Rasi, Hora, Drekkana, Sapthamsa
+Navamsa, Dwadasamsa and thrimsamsa. An
+objection may be raised that in case a planet is
+strongly disposed according to the ‘ approximate
+method ’ but powerless according to shadbala
+method, which should be accepted. The answer
+is, always give preference to shadbala method.
+We call such strengths of planets as ‘ inherent
+strength’. The next step is to ascertain what
+may be called the residential strength which
+reveals the percentage of results a planet is
+capable of giving by virtue of occupation of a
+house. This requires the determination of
+Bhavas (house longitudes), Bhava sandhis (junctional points) and the lengths of Bhavas. All the
+processes involved for ascertaining these details
+are given in my Manual of Hindu Astrology.
+Thus we require the following details for purposes
+of interpreting yogas.
+1. The good and evil lords in a horoscope.
+2. The inherent strengths of planets.
+
+YOGA-INTERPRETATION
+3. The residential strengths of planets.
+A yoga is formed by at least two planets.
+Ascertain whether the planets forming a yoga
+are benefic lords or malefic lords. If benefic, they
+get one positive unit of strength ; if malefic assign
+a negative unit of strength, x^scertain if the two
+planets causing the yoga are in association with or
+aspected by other benefic and malefic lords. Assign
+one positive unit for benefic aspect or association
+and a negative unit for the association or aspect
+of a malefic. See also if the yogakarakas are in
+exaltation or debilitation, in friendly or inimical
+houses and assign positive and negative units for
+the same. Summarising: — positive units of
+strength are contributed thus :
+(a) If }fogakaraka is a benefic lord ... ] unit
+(b) Yo<?akaraka with a benefic lord ... 1 ,,
+(c) Yogakaraka receiving the aspect of a benefic lord 1 ,,
+(d) Yogakaraka in exaltation or friendly sign ... 1 ,,
+x\nd negative units of strength are contributed
+thus :
+(a) If Yogakaraka is a malefic lord ... 1 unit.
+(b) Yogakaraka with a malefic lord ... 1 „
+(c) Yogakaraka receiving the aspect of a malefic lord 1 „
+(d) Yogakaraka in debilitation or inimical sign ... 1 „
+If the positive units predominate, the yogakaraka will confer predominantly beneficial results
+in respect of a beneficial yoga ; and no evil results
+will be given by him in regard to a beneficial
+yoga if the negative units predominate. Out
+of the two planets causing a yoga, the planet
+
+10 THREE HUNDRED IMPORTAN".. COMBINATIONS
+who=;e inherent strength is more, will fulfil
+the larger part of the indications of the yoga in
+his Dasa while the planet whose shadbala strength
+is less \wll fulfil his part as a sub-lord to a lesser
+extent. The nature of the results of the yoga
+corresponds to the nature of the house in which
+the }oga occurs or to Mhich the 3'oga has reference
+and the extent of the results depends upon the
+residential strength of the 3’ogakarakas. The above
+method of interpretation has been developed and
+applied by me, the germ of the method, having
+been taken from standard astrological works. I
+shall illustrate the above with a suitable example.
+Inherent strcngihs Residential sttcngihs
+
+YOGA-INTERPRETATION
+Benefics and Malefics. — -As Aquarius o
+Kumbha is Lagna, the benefics are Venus, th^
+Sun, Saturn and Mars ; Mercury is neutral ; an(
+malefics are Jupiter and the Moon. Gajakesat
+Yoga is formed in the above horoscope by th
+disposition of the Moon and Jupiter in mutua
+kendras,
+Yogakarakas. — The planets causjiig th
+Gajakesari are the Moon and Jupiter.
+The Moon IS a malefic lord ... —unit
+The Moon is associated with Saturn, a
+Thus the Moon is benefic and Jupiter is mor
+benefic. The Moon’s shadbala strength is greate
+than that of Jupiter. Hence the Moon shouL
+fulfil the larger part of the yoga pertaining to th
+4th house while Jupiter gives the results pertainin
+to the 10th house. The native cannot enjoy th
+Moon’s Dasa and hence the Moon can produc
+the results of the yoga only as sub-lord and tha
+too to the extent of only A%. Jupiter on th
+other hand can give 90% of the results due by hir
+
+12 THREE HUNDRED IMPORTANT COMBINATIONS
+in reference to the 10th house and gives good
+results of the 2nd and 11th houses.
+Therefore :
+(1) The yoga will be enjoved throughout
+Jupiter’s Dasa subject to the influences of sub-lords.
+(2) The Moon’s bhukthi in Jupiter’s Dasa
+would have bee n excellent so far
+as this particular 3'oga is concerned
+but as the Moon can give onh’ 4%
+of the resul ts of the 4th house, much
+importance need not be attached.
+(3) During the Moon’s sub-period in all
+Dasas the yoga will manifest to a
+small proportion.
+(4) During Jupiter’s bhukthi in all Dasas
+the yoga will be felt to a fairly good
+proportion, subject of course to the
+disposition of the other major lords
+under whom Jupiter acts as sublord.
+The method suggested above should be studied and applied very carefully. It has been
+offered with a view to enabling the readers to make
+further investigations. By an extension of the
+same principle it will no doubt be possible to
+interpret any kind of yoga.
+In giving the combinations below no particular order has been followed but only such yogas
+(several of which are indeed rare) have been
+
+GAJAKESARI YOGA
+included which are to be met within the generality
+0 f horoscopes and which can be easily deciphered
+by the astrological students.
+1. GAJAKESARI YOGA.
+Definition. — If Jupiter is in a kendrafrom the
+Moon the combination goes under the name of
+Gajakesari.
+Results. — Many relations, polite and generous»
+builder of villages and towns or magistrate over
+them ; will have a lasting reputation even long
+after death.
+Remarks. — Here as well as elsewhere great
+difference in the enjoyment of results should be
+pronounced. The original writers saj' that the
+person born in this yoga will build villages and
+towns. A literal interpretation of the results leads
+one no where. They have to be adapted to suit
+modern conditions and climes. One born in this
+yoga may become a member of Municipality and
+engineer or if the yoga is really powerful, a mayor.
+The results ascribed to a yoga arc subject to qualification or modification according as the yogakarakas are strong or weak. There are magistrates from
+the village to the district with different powers.
+From a builder of a small shrine or choultry to the
+builder of a large and rich temple there is much
+difference. Combinations are given but the results
+of the same conjunction will vary with the strength
+of the planets, bhavas and the constellations. I
+would give here two typical horoscopes illustrative of the different variations in Gajakesari.
+
+14 THREE HUNDRED IMPORTANT COMBINATIONS
+Balance of Venus Dasa at birth, years 6-7-15.
+Balanc eof Moon’s Dasa at bnth, } e?5s 9-8-12.
+Above are given two chart-,— illu'^tratne of
+Gajakesan Yoga.
+
+GAJAKESARI YOGA
+Chart No. 2. — Yogakarakas are Jupiter and
+the Moon. Lagna is Scorpio, hence benefic lords
+are the Moon, the Sun and Jupiter. Malefics are
+Mercury and Venus. Neutrals are Mars and
+Saturn.
+2\ units.
+Both the Moon and Jupiter are beneficially disposed and as Jupiter gets more units he will fulfil
+the larger part of the blessings of the yoga. As
+the native enjoys Sukra Dasa at birth (about
+6 years) the Moon m his Dasa (12 to 22 age)
+gives tise to the results of the yoga to some extent
+while the larger part of it (particularly regarding
+finance and fortune) will be realised in Jupiter’s
+Dasa to begin from the 48th year. The extent
+of the results depends upon the residential
+strength.
+Chart Ko. 3. — The ascendant is Cancer.
+Therefore bencfics am Mars and Jupiter ; malefics
+
+16 THREE HUNDRED PIPORTANl COMBINATIONS
+arc Venus and ]\Iercury, and neutrals aie the
+Sun, the Moon and Saturn
+Thf Moon
+— I unit
+Jupiter IS feebly malefic and the Moon is
+feebly benefic. The Moon will give rise to a
+larger part of the }Oga results than Jupiter The
+Moon can fulfil his part of the results as major
+lord and sub-lord particularly in Jupiter’s Dasa
+The yoga is practically neutralised as the positive
+and negative units of strength obtained by both
+the planets are equal
+2. SUNAPHA YOGA
+Defimhon. — If there are planets (excepting
+the Sun) in the second house from the Moon
+Sunapha is caused.
+
+SUNAPHA YOGA
+Results — Self-eArned property, King, luleroi
+his equal, intelligent, we ilthy and good lepiitation
+Remarks — The Mo m pi lys a veiy laige paii
+m this AS well as in the IoIIoy i ig two } ogas The
+2nd house must be occupied b\ planets excepting
+the Sun The second may be occupied by Mais,
+Mercury, Jupitei, Venus and Saturn either singly
+or collectively Vgair the natuie of the yoga
+depends to a large extent upon the nature of the
+lord or lords occupying the second Thus take
+Taurus a<- the Moon’s Rasi and Meicurj^, Jupiter
+and Venus being placed in Gemini This is a
+powerful Sunapha Yoga capable of giving rise to
+much wealth The intensity of the yoga wnll be
+heightened if Lagna h ippens to be Leo as in
+this case the yoga will have reference to the 10th
+and 11th houses usual the results will find
+expression m the Dasas and Bhukthies of the
+planets responsible foi causing the >oga
+after Su-nrise Lat 13° N, Long 5 h \0 m 20 s E
+Balance of Mars Dasa at birth, yeais 5-10-17
+
+18 THREE HUNDRED IMPORTANT COMBINATIONS
+This is a peculiar horoscope. Note the concentration of 5 planets in the 2nd from the Moon
+causing a Sunapha Yoga. The yoga is practically
+defunct because all the evil forces have been
+focussed on it. The Sun is in debility, with
+Kethu aspected by Saturn and Rahu. The yoga
+ha« produced no results and the native is a nonentity. Compare this horoscope v\ilh Chart No. 5,
+where Sunapha is present as A'enus occupies the
+second from the Moon. Venus is a yogakaraka
+and his having caused Sunapha has fortified the
+financial position of the native. Note that Sunapha
+has much influence on the financial prosperity or
+adversity of a person.
+Balance of Mars Dasa at birth, } (vir-) 5-10-7.
+3. ANAPHA YOGA.
+Definition. — If there are plawts in the 12tb
+from the Mo('n, Anapha yi'ga is .or.iied.
+
+ANAPHA YOGA
+Results. — Well formed orj^ans, majestic
+appearance, good reputation, polite, generous
+self-respect, fond of dress and sense pleasures.
+In later life renunciation and austerity.
+Remarks. — In Anapha also the Sun is not
+taken into account. The remarks made for
+Sunapha apply to this also with slight variation.
+Chart No. 6. — Born on
+lO'E.
+Balance of Rahu Dasa at Birth, years 5-4-18.
+The Anapha is caused by the presence of
+Jupiter and Saturn in the 12th from the Moon.
+The yoga is feeblj" powerful inasmuch as Jupiter
+is debilitated — though there is Nceebabhanga
+because of Saturn’s disposition in a kendrn from
+Lagna. Saturn’s quota of the yoga will manife'-t
+in his Dasa. Note also the fact that the 12th has
+reference to moksha so that the nritive would
+cultivate an outlook of detachment for wordlv
+things in his later years.
+
+20 THREE HUNDRED IMPORTANT COMBINATIONS
+4. DHURDHURA YOGA.
+Definition. — If there are planets on either
+side of the Moon, the combination goes under the
+name of Dhurdhura.
+Results. — The native is bountiful. He will
+be blessed with much wealth and conveyances.
+Remarks. — Whatever may be the results
+ascribed to different yogas, one important truth
+emerges out and that is, the person gets money,
+power, fame and reputation with varying gradations. This of course does not apply to strictly
+Parivraja Yogas. Many varieties of Surtapha,
+Anapha and Durdhura are formed by permutations and combinations of the five planets and
+their results should be particularly noted. If Mars
+is in the 2nd and Mercury is in the 12lh a kind
+of Dhurdhura is formed. Similarly Mars in the
+12th and IMercury in the 2nd gives rise to another
+kind and Jupiter in the 2nd and Mercury in the
+12th gives rise to 3-et another type though all these
+go under the name of Dhurdhura. Each conjunction in these permutations produces different
+results. To give a simple illustration take Mars
+in the 2nd in Capricorn where he is exalted and
+Jupiter in the 12th in Scorpio in a friendl}^
+Now take Jupiter in the 2nd (debilitated) and Mars
+in the 12th (in his own house). Would the results
+in both cases be the same ? All these permutations must be carefully analysed. There will be
+31 varieties of Sunapha, and an equal number of
+Anapha combinations and there are something
+like 180 varieties of Dhurdhura. For fuller details
+
+DHUrWDHURA YOGA
+refer to English Translation o( Brihal Jalkaka
+by Prof. B. Suryanarain Rao.
+after Sunrtse^ Lat, S'" 44'
+Mercury! I J nn it i
+Rahu I ^ uui
+Siui
+Balance of Moon’s Da->a at Birth, yens
+In this horoscope the Durdhina Yoga fui nn <!
+IS a typical one. The Moon is cxallcd m Taunts,
+Saturn is m the 12th and Venus is in the hid.
+Saturn is Neecha but there is Ncechahhanga.
+ITom Chandra Saturn is a yogakaraka, Tlu*
+results of the yoga may find expnssion in a large
+measure in Sani Dasa parlicularl} in Sukra
+Bhukthi.
+5. KEMADRUMA YOGA.
+Definition. — When there arc no planets on
+both sides of the Moon, Kemadruma Yoga is
+formed.
+Results. — The person will be dirty, sorrowful,
+doing unrighteous deeds, poor, dependent, a rogue
+and a swindler.
+
+22 THREE HUNDRED IMPORTANT COMBINATIONS
+Remarks. — Some authors say that if planets
+are in a kendra from birth or from the Moon or if
+the kloon is in conjunction with a planet there is
+no Kemadruma. Theie are }^et other authors who
+say that these }ogas arise from kendras and navamsas but these observations aie not generally
+acceptable. Varahamihira adds emphasis by
+saying that when persons born in royal families
+are subjected to such degradations much more of
+these unfoitunate lesulLs must be predicted than
+in the case of persons born in ordinary families.
+Sorrows mean physical as well as mental The
+word Neecha ’s used in the original and this refers
+to such acts as are prohibited by the religious,
+moral and social codes and are therefore held to
+be disgt aceful.
+Chart No. 8 — Born on 28-7-1896 at Gh 10 after
+Balance of Jupiter Dasa at Birth’s xeais
+The above is a typicall}' Kemadiuma Yoga
+horoscope. No planets aie placed on either side
+
+CHANDRA MANGALA YOGA
+of Chandra and no planets aie to be louud m
+kendras either from Lapna or lioin llie Moon
+Here you will Ace that Kean idi urn i s
+present because the houses on eitliei side o^i th.c
+Moon are vacant. But there is distinct cam t i iLn i
+of the Kemadruma because {a) tiie kendi is tiiun
+the Moon are occupied and (&) kciulias lioin ilu
+Lagna are also occupied.
+6 CHANDRA MANGALA YOGA.
+Definition. — If Mais conjoins the Moon tins
+yoga IS formed.
+Results. — Earnings thiough unset ujiulous
+means, a seller of women, treating mothei h ushl>
+and doing mischief to her and other relatives.
+Remarks. — ^The results given above ,ire those
+ascribed bj'' ancient writers. With due lespecl to
+the ancient masters in the science I hivi to
+observe that Chandra Mangala Yoga acts as ,i
+powerful factor in stabilising one’s financial uoith
+The earnings will generally be ihrougli such
+occupations as toddy contract, bt'er siiop, hai,
+etc. One has to cater to the baser needs ol man,
+but when the Moon and Mats arc well disj-iostd.
+the earnings will be through other approwcl
+means. The yoga is saul to arise by the assoc lations of Mars and the Moon but 1 foci that the
+yoga will also be formed if the Moon and Mats
+are in mutual aspect. Take the Moon in Taurus
+and Mars m Scorpio. Take the Moon in ('aiicc r
+and Mars in Capricorn. These aic excellent
+
+24 THREE HUNDRED IMPORTANT COMBINATIONS
+positions. The combination can be productive of
+good if it occurs in the 2nd, 9th, 10th or 11th
+house.
+Balance of Kethu Dasa at Birth, years
+Chart No. 10. — Born on 24-9-1890 at Gh.
+37-10 after Sunrise. Lat. 13° N . Long, shivu 20s. E.
+Balance of Mercury’s Dasa at Birth, years
+
+Aiiiu ^nov
+The ChandiM Vo- i b
+in Scorpio the 9th from *';*■> '■
+own house and llic M>>on ■
+Because the Aloon is aiu
+his own sign, this yogi has leceo* '
+The Dasa of hlars \vd! be tin' h -.i.
+ta'. on plaei’
+M n - f a:eu mk ^
+When Chandra \laneala No;.'
+unfavourable houses, the naure will
+character. He may sob his wdo, hi
+and make money out ol unholy ti.ms
+!,n i'j ‘ha aed
+S S! fUG 7
+7. ADHl YOGA.
+Definition.— \\ benefu's are situ lU'd
+6lh, 7th and 8th from the Moon, dm combmalion
+goes under the name of Adhi Yoga.
+o
+Results.— The person will l)c polite and trustworthy, will have an enjoyable and happy j C
+surrounded by luxuries and ailluencc,
+defeats on his enemies, will bo healthy and wm
+live long.
+Remarks. — Adhi Yoga is ene cu the
+important combinations. Astrological authon i -
+classify this Adhi Yoga as Papadlu 1 and
+Shubhadhi Yoga. But Varahamihira and that
+section of Astrologers do not seem to favour sue
+a classification. Bhattotpala, the erudite
+meiitalor of the writings of Varahamihira sugges
+the existence of Papadhi Yoga. Vaiaha.mni
+distinctly observes Soumyehi implying cleai y on y
+the benefics, viz., Mercury, Jupiter an e .
+All these benefics may be in the 6th, 7th or
+in two houses or all of them may be in any o
+
+26 THREE HUMORED IMPORTANT COMBINATIONS
+these signs. If there is one planet in full strength
+in any one of these signs, that person becomes a
+leader. If there are two, he will be a minister
+and if there are three he will occupy a more
+eminent station in life. If all the three benefics,
+devoid of strength, are in the three signs, above
+mentioned, then also Adhi Yoga will be present
+but the influence it exerts would indeed be feeble.
+Adhi Yoga may be considered as a Raja Yoga or
+almost its equivalent.
+Chart No. 11. — Born on 24-9-1871 gha. 7 after
+Balance ot Moon's Dasa at Birth years 9-8-17.
+The Adhi Yoga is fairly powerful in Chart
+Ko. 11, because Jupiter is exalted in the 7th and
+Mercury is in the 8th from the Moon. Jupiter’s
+Dasa was an excellent one as it enabled him to
+attain a good position in life. Note also the
+presence of Gajakesari as Jupiter -s exalted in a
+kendra from the Moon. Thus Jupiter has given
+rise to two yogas.
+
+CHATUSSAGARA YOGA
+Balance of Jupiter Dasa at Birth years 0-2-22.
+Here also the Adhi Yoga is fairly powerful,
+Venus and Jupiter occupying the 7th and 8th from
+the Moon. Evidently Venus is more powerful as,
+though he is Neecha he is exalted in Navamsa,
+while Jupiter is in an inimical house. The native’s
+Sukra Dasa has been brilliant as he is a leading
+Indian figure.
+8. CHATUSSAGARA YOGA.
+Definition. — Chatussagara is caused when all
+the kendras are occupied by the planets.
+Results. — The person will earn good reputation, will be an equal to a ruler, wilh have a long
+and prosperous life, blessed with good children
+and health and his name tra\els to the confines of
+the four oceans.
+Remarks. — According to the dictum Kendrasihatibalassuhuhu planets disposed in kendras add
+
+28 THREE HUNDRED IMPORTANT COMBINATIONS
+great strength to the horoscope. The four angles
+m a horoscope are like the four falls of a building.
+The results should not be applied literally. Planets
+in the 10th kendra are more powerful than those
+in the 7th ; those in the 7th are more powerful
+than in the 4th and those in the fourth are more
+powerful than those in the 1st though Lagna
+Kendra is an exception. In ascribing results to
+the Dasas, the usual considerations such as a
+planet being a benefic or malefic lord, etc., has
+to be taken into account. Chatussagara Yoga
+contributes considerable financial soundness and
+good name to the person irrespective of the fact
+whether or not one is a ruler.
+after Sunrise, Lat. \TN. Long. 5h. lOm. 20s. E.
+The above is the horoscope of the father of
+late Professor B. Suryanarayana Rao. Note all
+the kendras are occupied. He was a man of
+great self-respect, held a decent position as a
+Dewan, a great yogee and knew well eight
+languages.
+
+VASUMATHI YOGA
+9. VASUMATHI YOGA.
+Definition. — If benefics occupy the upachayas
+(3, 6, 10, 11) either from the ascendant or from
+the Moon, the combination goes under the name
+ot Vasumathi Yoga.
+Results. — The person will not be a dependent
+but will always command plenty of wealth.
+Remarks. — Vasumathi Yoga has more to do
+with wealth than with anything else. The Vasumathi resulting from the Lagna seems to have
+more influence than the one formed with reference
+to the Moon. By implication it also means that
+two benefics will give less wealth while only one
+benefic will give ordinary wealth. If the upachayas happen to be exaltation places, the yoga
+becomes extremely powerful while the reverse
+holds good in case the upachayas happen to be
+debilitation places. When counted from the
+Moon all the four upachayas cannot be occupied
+because there will be only three benefics left.
+The authorities are silent on the matter and they
+simply say that the upachayas should be occupied.
+Varahamihira seems to go so iar as to assent that
+predictions made according to ordinary combinations maj^ sometimes fail but the results predicted
+by Vasumathi Yoga do not" fail. In all such
+planetary combinations, one must be very careful
+in assessing the real strength of a yoga and if its
+results have already been comprehended by some
+ocher more powerful 5mgas. It will be seen that
+purely Vasumathi Yogas are a rare occurrence.
+You v/ill find very few examples in which
+benefics are in all the upachayas. Even when
+
+30 THREE HUNDRED IMPORTANT COMBINATIONS
+benefics are in upachayas, they will be found to
+be associated with or aspect by malefics and due
+allowance must be made for such evil dispositions.
+Chart No. 14. — Born on 31st October 1915
+Balance of Mercury’s Dasa at birth years
+In Chart No. 14, the 3rd, 6th and 10th are
+occupied respectivelj' b}- the Moon, Mercury and
+Jupiter suggesting the presence of Vasumathi
+Yoga. Of the tnree planets that have caused
+the Yoga, Mercmy is the most powerful and hence
+most of the indications of the Yoga will fructify
+in Mercury’s period or sub-periods. A purely
+beneficial Vasuma.thi Yoga cannot occur m as
+much as, in very rare instances all the four
+upachayas can be occupied.
+10. RAJALAKSHANA YOGA
+Definition. — Jupiter, Venus, Mercury and the
+Moon should be in Lagna or they should be
+placed in kendra.
+
+VANCHANACHORABHEETHI YOGA
+Results. — The native will possess an attractive
+appearance and he will be endowed with all the
+good qualities of high personages.
+Remarks. — The week Moon or badly associated Mercury cannot make the person possess a
+beautiful appearance. However, the yoga seems
+to contribute Adrishta or luck in such a way that
+the person can command respect, dignity and
+regard. One need not necessarily be a king to
+inherit all the virtues, for all kings are not virtuous.
+Personalities are strokes of luck which many will
+not have and which many covet.
+Chapter No. 1. (page ) may be cited as an
+example for Rajalakshana in as much as Jupiter,
+Venus, Mercury and the Moon are all in Kendras.
+But owing to the association of the Moon with
+Saturn and the predominance of Saturnine influence both on the Moon and the Lagna for the
+physical appearance, the blessings of this yoga
+have fully manifested otherwise.
+11. VANCHANACHORABHEETHI YOGA
+Definition. — The Lagna is occupied by a
+malefic with Gulika in a trine ; or Gulika is
+associated with the lords of Kendras and
+Thrikonas ; or the lord of lagna is combined with
+Rahu, Sani or Kethu.
+Results. — The native will always entertain
+feelings of suspicion towards others around him.
+He is afraid of being cheated, swindled and
+robbed.
+
+32 THREE HUNDRED IMPORTANT COMBINATIONS
+Remarks- — Here three sets of combinations
+can be noted : They are ; —
+{a) The ascendant must have an evil
+planet with Gulika disposed in the
+5th or 9th.
+(6) Gulika should be associated with the
+(c) Lord of Lagna should join Rahu or
+Saturn or Kethu.
+In all these cases, the person will not only
+have fears from cheats, rogues and thieves but be
+will also have huge material losses. The combinations pertaining to this Yoga are to be found in
+almost all horoscopes, so that we are all guilty
+of cheating and being cheated each other in some
+form or other. It is a tragedy of our social life
+that a merchant minting millions at the cost of the
+poor is left scot-free while the poor, committing
+theft in the face of poverty and want, is booked
+by law. Cheating is practised in a wonderful
+variety of ways. Fertile brains find countless
+methods to cheat their associates. The merchants
+have various ways of cheating their clients. The
+lawyer is equally successful. The medical man
+commands many ways to defraud his patients.
+Gulika is considered as the son of Sani and
+his position is to be carefully fixed in the Zodiac.
+The Yoga given above refers to persons who will
+be the victims of fraud but the same combination
+can also be extended to apply to those who perpetrate of the deeds.
+
+SAKATA YOGA
+after sunrise, Lat. 17°N ; Long. 5 h. \0 m. 20 s. E.
+Balance of Mercury’s Dasa at birth years
+In this horoscope, you will see that lord of
+Lagna is Neecha and he is with Kethu aspected
+by Rahu. The Lagna is occupied by the Sun.
+The native is always afraid that he will be cheated
+and defrauded. Naturally he is nervous and
+extremely sensitive, miserly and very cautious.
+He adopts towards others the same siicpicious
+behaviour, that, he thinks others adopt towards
+him. This is a typical horoscope.
+12. SAKATA YOGA.
+Definition. — The Moon in the 12'h, 6lh or 8th
+from Jupiter gives rise to Sakata Yoga.
+Results. — The native loses fortune and may
+regain it. He will be ordinary and insignificant.
+He will sufier from proverty, privation and misery.
+He will be stubborn and hated by relatives.
+
+*^4 THREE HUNDRED IMPORTANT COMBINATIONS
+Remarks —While the generality of astrological writers hold that Sakata Yoga is productive of
+Til results, there is difference of opinion as
+regards the definition of this Yoga. The great
+pTasara and Varahamihira say that when all the
+planets are in the 1st and 7th, Sakata is caused.
+Prof. Rao opines that this definition leaves room
+for doubt as to why one should be 7th. On the
+contrary, the definition given above appears more
+reasonable inasmuch as the Yoga is generated by
+the Moon occupying the three Dusthanas from
+the greatest benefic Jupiter thus obstiucting the
+free flow of fortune ; but it is also open to
+objection as will be seen from the following
+observations : —
+In the large number of horoscopes examined
+by me I have been able to mark that Sakata
+Yoga has' not really made the natives poor and
+wretched but often the degree of poverty and
+wretchedness has been nominal. I have a work
+entitled SUKRANADI which says that one born
+in Sakata will have his fortune obstructed
+now and then. The exact words used
+are “ The periods of misfortune will accord with the times of transits
+in malefic rasis, uiz., 6th, 8th and 12lh. In other
+words, every time Moon transits the 6th, 8th and
+12th from the radical Jupiter, the effects of Sakata
+are realised.
+According to the definition given above,
+Sakata is caused by the Moon being placed in the
+6th or 8th or 12th from Jupiter. When one
+
+AMALA YOGA
+planet is in the 8th from the other, naturally, the
+other will be in the 6th.
+13. AMALA YOGA.
+Definition. — The 10th from the Moon or
+Lagna should be occupied by a benefic planet.
+Results. — The person will achieve lasting
+fame and reputation. His character will be
+spotless and he will lead a prosperous life.
+Remarks. — As in interpreting every combination, due consideration should be given to the
+strength of the lord causing the Amala and the
+aspects and associations he receives. Some
+benefic planet must occupy the 10th from Lagna
+or the Moon to cause Amala. If no benefic is
+present, then Amala is not caused. But yet on the
+strength of the dictum f'ftl |
+II which means that an'^
+planet in the 10th from Lagna or Chandra would
+give during his Dasa, much wealth, a malefic is
+not also ruled out. Amala means pure and when
+the Yoga is present, prosperity and affluence will
+be achieved through fair means while a malefic,
+whilst giving wealth may make the means questionable. After all, the end justifies the means according to some and therefore, Amala makes one
+scrupulous as to the means he employs for earning
+while a malefic in the 10th while no doubt good
+in its own w'ay, as causing wealth to come, would
+not make one famous or a man of character.
+
+36 THREE HUNDRED IMPORTANT COMBINATIONS
+In this chart, one can easily detect the presence of Amala because of the situation of Jupiter
+and Mercury in the 10th from Lagna.
+Balance of Mercury at birth years 14-8-6.
+Amala is prominently marked by the presence
+of A’enus in the 10th from Lagna and Jupiter in the
+10th from the Moon. The subject is a high
+
+PARVATA YOGA
+civilian officer, confident, imaginative and a good
+Judge of human nature. Venus as karaka of
+Amalayoga proved very beneficial to the native.
+14. PARVATA YOGA
+Definition. — Benefics being disposed in
+Kendras, the 6th and 8th houses should either be
+unoccupied or occupied by benefic planets. This
+combination goes under the name of Parvata
+Yoga.
+ResiiUs. — The person will become wealthy,
+prosperous, liberal, charitable, humorous and head
+of a town or village. He will be passionate
+also.
+Remarks. — According to some, Parvata is
+also caused if the lords of Lagna and the 12th are
+in mutual Kendras. Thus, three sets of combinations are comprehended —
+(a) Benefics should be in Kendras, and
+6th and 8th must be free.
+(&) Benefics should be in Kendras, and 6th
+and 8th should be occupied by
+benefics.
+(c) The lords of Lagna and the 12th should
+be in mutual Kendras.
+Strangely enough, for Kumbha Lagna, the
+definition mentioned in item (c) supra cannot hold
+good in asmuch as the lord of the 12th and the
+Lagna happen to be Saturn. Instead of the 6th
+and 8th being occupied by benefics, it is better
+they are entirely free, in which case, the
+native will be free from the machinations of enemies and debts. In my humble
+
+38 THREE HUNDRED IMPORTANT COMBINATIONS
+opinion, Parvata Yoga cannot be bo powerful as to
+minimise the strength of other important yogas.
+Its presence, no doubt, adds to making the person
+an entity within a limited circle. The Yoga does
+not seem to contribute much to political power.
+One may become a District Board member or a
+Municipal Commissioner. But it seems to have
+capacity enough to add financial stability.
+1 5. KAHALA YOGA.
+Definition. — Lords of the fourth and ninth
+houses should be in Kendras from each other and
+the lord of Lagna should be strongly disposed.
+Results. — The native will be stubborn, not
+well informed, daring, head of n small army and
+a few villages.
+Remarks. — No yogas ‘^1 n'd be interpreted
+verbatim if the results are lo hold good to modern
+life and conditions. An appropruite and intelligent interpretation of K.dialaYoga should suggest
+that the person concerned will eke out h's existence as a member of the army or police or in the
+capacity of a Collector or Tahsild?ir and the like.
+Kahala Yoga is a.lso caused when the 4th lord
+IS exalted or in his own house being conjoined
+ith or aspected by the lord or the lUdi. Both
+the definitions of Kahala Yoga mentioned above
+assume the strength of Lagna, the 4th and 9th.
+For Kumbha Lagna, Venu.. happens to be the
+lord of the 4th and 9th. Therefore, Kahala Yoga
+is applicable to Kumbha Lagna only according to
+the second definition, which means that Venus
+
+VESI YOGA
+should be in Pisces or Taurus or Libra in conjunction with or aspected by Mars. Naturally,
+Venus in Pisces and Mars in Dhanas will be an
+ideal Kahala Yoga.
+In Chart No. 1 lord of the 4th and 5th
+happens to be Venus. He is in a Kendra and the
+Lord of lagna is in the 4th fairly strongly disposed.
+But Jupiter aspecting lord of lagna takes away
+much of the evil aspect of the Yoga.
+16. VESI Y06A.
+Definition. — If planets other than the Moon
+occupy the 2nd from the Sun, Vesi Yoga is
+formed.
+Results. — The person will be fortunate, happy,
+virtuous, famous and aristocratic.
+Remarks. — Excepting the Moon and Rahu
+and Kethu, any other planet or planets may cause
+Ve.si Yoga. If malefics occupy the second from
+the Sun, papavesi is caused while subhavesi is
+given rise to by the presence of benefic planets.
+The degree of the yoga to do good or bad
+depends to a large extent upon the Sun and the
+planets causing the Yoga. The results given
+above are for Subhavesi yoga. Obviously quite
+the reverse holds good in case of papavesi. If tbe
+Sun is exalted, Lagna being Cancer and the
+subhavesi is caused b}^ the presence of Venus in
+Taurus and both the Sun and Venus are inherently strong, then inspite of the fact that both
+the Sun and Venus are natural enemies, the Yoga
+becomes supremely powerful and almost all the
+
+40 THREE HUNDRED IMPORTANT COMBINATIONS
+good results attributed to it would find full play
+when the Dasa and Bukthi of the two planets
+operate. Obviously, if more than one planet causes
+the Yoga, one of the planets being a malefic, say
+Saturn, the good influences have to be sufficiently
+moderated. Thus it will be seen that proper
+interpretation of a Yoga is not a joke. It demands
+on the part of the astrologer great analytical
+powers and a thorough acquaintance with the
+technicalities of the subject.
+Chart No. 18. — Born on 8-8-1912 A. D. at
+Balance of Mars Dasa at birth; years 5-6-15.
+Here Vesi Yoga is caused by the presence of
+Mars, Mercury and Venus in the 2nd from the
+Sun, the Lagna being Aquarius. Out of the
+Yogakarakas, Mars is the least powerful inasmuch
+as he is removed from the Sun by nearly 29
+degrees while Mercury and Venus alone can
+function as Yogakarakas. The yoga having been
+
+OBHAYACHARI YOGA
+primarily caused by the owner and the residents
+of the 7th house, the results will pertain to the
+Bhava in question, so that the person will be
+generally fortunate in respect of all the functions
+of the seventh house subject, of course, to the
+inherent strength of the house concerned.
+17. VASI YOGA.
+Definition. — Planets other than the Moon
+occupying the 12th from the Sun give rise to
+Vasi Yoga.
+RestcUs. — The subject will be happy, prosperous, liberal, favourite of his ruling classes.
+Remarks.— Here again, the definition and
+results are in reference to subhavasi. If malefics
+are present in the 12th, the results will be quite
+the reverse. The explanations given for the
+previous Yoga apply to this as well as to the next
+Yoga.
+18. OBHAYACHARI YOGA.
+Definition. — If planets other than the Moon
+are present on either side of the Sun, Obhayachari
+is caused.
+Results. — The person will be an eloquent
+speaker. He will have well proportioned limbs,
+will take delight in everything, will be liked by all,
+wealthy and famous.
+Remarks. — One or more of the above three
+Yogas caused by the Sun would be present in
+almost every horoscope. Mercury is always confined within a certain elongation from the Sun and
+unless the Sun is in the last part of a sign and
+
+42 THREE HUNDRED IMPORTANT COMBINATIONS
+Mercury has attained his greatest elongation, in
+which case, he will be in the 3rd or 11th house from
+the Sun’s position, Vesi or Vasi Yoga will invariably be present. Obviously, these Solar Yogas
+cannot be compared in their eminence to Rajayogas. They indicate more or less the ‘ego’
+development of the individual concerned. Sometimes the Solar Yogas may be merged into other
+more important Dhana or Raja Yogas with the
+result their interpretation is always subject to a
+closer analysis of the more powerful combinations
+obtaining in the horoscope.
+19. HAMSA YOGA.
+Definitions. — Jupiter should occupy a Kendra
+which should be his own house or exaltation sign.
+Results. — His legs will have the markings of
+a couch, lotus, fish and ankusa. He will possess
+a handsome body ; he will be liked by others he
+will be righteous in disposition and pure in mind.
+Remarks. — This and the following four Yogas
+go under the special distinction of Panchamahafiurusha Yogas producing five kinds of great men.
+Varahamihira has extolled these five combinations
+in his Brihat Samhita. Hamsa Yoga is caused if
+Jupiter is in a Kendra which should be identical
+with his own sign (Swakshetra) or the sign in
+which he gets exalted. In other words, Hamsa
+Yoga is possible in respect of all common and the
+movable signs Aries, Libra and Capricorn. The
+assumption here is that Lagna is also a Kendra
+or Quadrant. Those born in fixed signs (Taurus,
+Leo, Scorpio and Aquarius) cannot possess
+
+HAMSA YOGA
+Hamsa Yoga inasmuch as neither Jupiter’s
+exaltation sign nor own house can be identical
+with his situation in a Kendra. The strength of
+the Yoga is dependent as usual on the strength
+of Lagna and Jupiter and in which Kendra he is
+disposed. Obviously, the tenth Kendra is the
+most powerful. The ownership of Kendra by
+Jupiter is not desirable but when Hamsa Yoga is
+present, the general principle loses its significance.
+As between the situation of Jupiter in a Kendra
+identical with Swakshetra and a Kendra identical
+with his own uccha, Hamsa Yoga caused by the
+latter is preferable inasmuch as even the trace of
+evil due to Jupiter’s quadrangular ownership disappears. Hamsa Yoga should be very carefully
+interpreted, as it is supposed to produce a man of
+sterling character and immense moral fibre.
+after sunrise.
+The Lagna is Dhanas and Jupiter is in
+Pisces — a kendra hence causing Hamsa Yoga.
+The Yoga is also caused when reckoned from the
+
+44 THREE HUNDRED IMPORTANT COMBINATIONS
+Moon. But still the native is neither a King nor
+a high personality. The reason is obvious. The
+Moon who has also caused the Hamsa Yoga
+has given rise to Papadhi Yoga and Jupiter is
+powerfully aspected by Saturn and Mars. But
+still Jupiter is capable of giving rise to the results
+of Hamsa Yoga to a good extent in his Dasa.
+The native has a good personality, good-tempered
+and liked by his associates. The above horoscope
+is illustrated with a view to showing the restrictive
+effects of a Hamsa Yoga when Jupiter is subject
+to malefic aspects and associations’.
+after sunrise hat. 18' Af. Long. 5 h. 34 m. E.
+Balance of Venus’s Dasa at birth years
+Hamsa Yoga has resulted on account of the
+disposition of Guru in his own sign in 10th from
+Lagna. The iOth is the most powerful Kendra
+and Jupiter is in conjunction with lords of Lagna,
+5th and 9th and hence fortified. Still the Yoga is
+not completely unadulterated with the result the
+
+HAMSA YOGA
+native is not a King. He was a well-known figure
+in Indian Politics and Journalism, self-made and
+earned good reputation for his sober and balanced
+views.
+Lat. 51° iV. longitude 5' E.
+Balance of Sani’s Dasa at birth years 18-2-9.
+Here is a typical example of Hamsa Yoga in
+its full swing. The Lagna is Thula and Jupiter
+is in a Kendra in exaltation in the 10th house.
+Naturally, the Yoga has manifested in regard to
+the 10th house. In addition to Hamsa Yoga,
+Malavya and Sasa Yogas are also present in as
+much Venus and Saturn are respectively in
+Kendras identical with their Swakshetra and Swauccha. No wonder the horoscope belongs to a
+great King of our age. Sasa Yoga has rendered
+the native to covet for other’s possessions. Consequently he is to-day the head of the greatest
+imperial possession, an anachronism with modern
+concepts of democracy and freedom.
+
+46 THREE HUNDRED IMPORTANT COMBINATIONS
+20. MALAVYA YOGA
+Definition. — Venus should occupy a quadrant
+which should be his own or exaltation sign.
+Results. — The person will have a well-developed physique, will be strong-minded, wealthy,
+happy with children and wife, will command
+vehicles, endowed with clean sense organs and
+renoAvned and learned.
+Remarks. — Malavya Yoga can come into
+existence if Venus is exalted in a Kendra or
+occupies a Kendra which should be his own house.
+Malavya Yoga cannot occur with reference to
+every sign of the Zodiac. Consistent with the
+nature of Venus, Malavya Yoga will make one
+resolute, immensely rich and give him happiness
+from wife and children and fame and name.
+Venus is the indicator of conveyances, sensual
+pleasures, music, dancing, fine arts, luxury and
+material comforts. Naturally Malav}'a Yoga
+renders one inclined towards all the indications
+of Venus, wdth the result his spiritual advancement and outlook will be in inverse ratio to his
+material comforts and pleasures. In other words,
+while both Hamsa and Malavya are Raja Yogas,
+the former makes one more idealistic, spiritual,
+broad-minded and selfless while the latter indicates love of pleasure, and a predominantly
+materialistic outlook of life. Malavya Yoga can
+manifest in reference to the various Bhavas as
+given hereunder for persons born in different
+Lagnas.
+
+SASA YOGA
+TauruSj Libra, Pisces
+Aries, Scorpio and Virgo
+Gemini, Leo, Capricorn
+Julianas, Aquarius, Cancer
+First bouse.
+Seventh house.
+Tenth house.
+Fourth house.
+Chart No. 20 mentioned on page 44 may
+be taken as an example of Malavya Yoga inasmuch as Venus is exalted in the 10th house which
+is a Kendra. It may be noted that all these five
+Yogas going under the special distinction of
+Panchamaha Yogas, can occur unblemished only
+in exceptional cases and with regard to the
+generality of horoscopes, these Yogas will not be
+of much political value.
+21. SASA YOGA.
+Definition. — Sasa Yoga is given rise to if
+Saturn occupies a Kendra which should be his
+own or exaltation sign.
+Results. — One born in this Yoga will command good servants. His character will be
+questionable. He will be head of a village or a
+town or even a King, will covet other’s riches and
+will be wicked in disposition.
+Remarks. — Here Saturn comes into the
+picture. He should be exalted in a Kendra or
+occupy a Kendra being his own house. Birth in
+movable or fixed signs can give rise to Sasa Yoga
+by a certain disposition of Saturn. Naturally,
+common signs are exempted. Saturn’s inherent
+nature seems to play a large part in giving rise
+to the Yoga. Saturn is cruel, mean, undignified
+and sinful and consistent with these characteristics, the results of Sasa Yoga should be depicted.
+
+48 THREE HUNDRED IMPORTANT COMBINATIONS
+The man no doubt becomes famous and
+happy but his sexual outlook would be
+perverse. He would be sporting with other
+men’s wives and he would employ every unscrupulous means to gain other’s money. Most of our
+‘ war-contractors ’ would perhaps be having Sasa
+Yoga ; otherwise they could not have minted
+millions at the cost of the poor man.
+In interpreting the Sasa Yoga, due consideration should be bestowed on the disposition of the
+Moon. If this luminary is free from affliction,
+then the person having ‘Sasa Yoga’ will not covet
+other’s wealth nor will he be unscrupulous.
+Where the Moon is not afflicted, the evil results
+attributed to Sasa Yoga can have only a
+‘restricted play.’
+Lat. Long.
+Balance of Mercury’s Dasa at birth yrs. 5-1-16.
+Saturn is in the 4th a Kendra in exaltation.
+The Moon is free from affliction. On the other
+hand, Jupiter’s exaltation has immensely improved
+
+RUCHAKA YOGA
+the Moon’s situation with the result the native
+cannot entertain unholy thoughts. The Sasa
+Yoga is powerful inasmuch as it has occurred in
+the 4th or house of lands, houses, etc. This will
+make the native more or less equal to a King and
+his earnings would be by lakhs. Saturn makes
+the native a great industrialist.
+22. RUCHAKA YOGA.
+Definition. — Mars should be exalted in a
+Kendra or occupy a Kendra which should be his
+own sign.
+Results. — The person born in Ruchaka will
+have a strong physique, famous, well-versed in
+ancient lore. King or an equal to a King, conforming to traditions and customs. He will have
+a ruddy complexion, attractive body, charitable
+disposition, wealthy, long-lived and leader of
+an army.
+Remarks. — The Pancha Mahapurusha Yogas
+can be said to exist only when the planets concerned are strong and are full of vitality. The
+meaning implies five types of great men.
+Naturally a really powerful Yoga would be a rare
+phenomenon. Emphasis is laid on the world
+halishta so that if a planet is weak by debilitation, association or aspect the Yoga does
+not operate in its real sense, though nominally,
+it may exist. Here importance is attached to the
+de facto rather than de jure presence of the
+Yoga. Out of the several horoscopes given
+above illustrating the Pancha Mahapurusha Yogas,
+excepting Nos. 20 and 21 the rest are of no
+
+50 THREE HUNDRED IMPORTANT COMBINATIONS
+practical value inasmuch as their strength is either
+nominal or completely negligible.
+Ruchaka Yoga is caused by the strong disposition of Mars in a Kendra identical with his own
+or exalted sign. Ruchaka Yoga makes one martial,
+a leader of men, a great Commander, an aggressive
+but a patriotic ruler or an equal.
+Balance of Venus’ Dasa at birth yrs. 16-4-6.
+In Chart No. 23 Mars is in the 7th, a
+Kendra, in his own house. Mars is rendered
+extremely powerful by conjunction with the Sun,
+lord of the 10th and Saturn a Yogakaraka and
+Mercury lord of the 9th. Mars is no doubt very
+powerful but highly malefic- So Ruchaka Yoga is
+present in all its strength but because Mars is
+subject to the other evil rays, there is an element
+of destructiveness in this Yoga. Ruchaka Yoga
+made the native daring, extremely aggressive,
+arrogant, a great leader and the greatest ruler and
+tyrant of modern times leading his country to
+
+BHADRA YOGA
+abysmal depths of destruction. Though born m
+humble circumstances, he became ruler of a most
+powerful country and a whole continent trembled before his mite and power of destruction.
+23. BHADRA YOGA
+Definition. — Bhadra Yoga is caused by the
+disposition of Mercury in a Kendra which should
+be identical with his own or exaltation sign.
+Results. — The person born in Bhadra Yoga
+will be strong, will have a lion-like face, welldeveloped chest ; well-proportioned limbs; he will
+be taciturn, will help relatives and will live upto a
+good old age.
+Remarks. — Mercury is the planet of intellect
+and in consonance with the inherent nature of
+Mercury, Bhadra Yoga will manifest. Mercury
+must be very powerful as otherwise the presence
+of the combination will be simply de jure.
+after sunrise. Lat. 12° N. Long. 5 h. 10 m. 20 s. E.
+
+52 THREE HUNDRED IMPORTANT COMBINATIONS
+InCha.rtNo. 24 Mercury is in the 10th in
+his own house having caused Bhadra Yoga.
+Mercury is not subjected to any evil influences.
+Though the physical features of the person have
+partaken of the characteristics of the Lagna, in
+the matter of intellectual development, learning,
+wealth and generous instincts, Bhadra Yoga has
+been fully illustrated.
+24. BUDHA-ADITYA YOGA
+Defimtion. — If Mercury combines with the
+Sun, the combination goes under the name of
+Budha-Aditya Yoga.
+Results. — Highly intelligent, skilful in all
+work, good reputation, personal respect and surrounded by all comforts and happiness.
+Remarks. — Generally, any planet in association with the Sun becomes combust or Astha
+and loses its power to do good. Perhaps Budha
+is an exception. It should not be taken for
+granted that irrespective of the distance between
+the Sun and Mercury, Budha-Aditya Yoga would
+be present. On the contrary, Mercury should not
+be within 10° of the Sun to give rise to BudhaAditya Yoga. This combination is not, of course
+rare.
+25. MAHABHAGYA YOGA
+Definition. — In the case of a man, the Sun,
+the Moon and the Lagna should be in odd signs.
+In case of women, when the birth is during night,
+
+MAHABHAGYA YOGA
+the Sun, the Moon and Lagna must be in even
+signs.
+Results. — A male born under this Yoga will
+have good character, will be a source of pleasure
+to others, will be liberal, generous, famous, a ruler
+or an equal to him and lives to a good old age. A
+female born in this combination will be blessed
+with long-lived children and wealth; she will be of
+good behaviour.
+Remarks. — Mahabhagya means good fortune.
+Obviously, one born in this combination will be
+really fortunate. The Lagna, the Sun and the
+Moon form the tripod of life ruling as they do the
+body, the soul and the mind respectively and when
+these three elements are diposed in odd or masculine signs, the person will be an ideal one.
+Lat. IP iV; Long. 78° 40° E.
+Balance of Rahu Dasa at birth years 3-8-8.
+
+54 THREE HUNDRED IMPORTANT COMBINATIONS
+In this horscope, the Lagna is Aries, the Sun
+is in Leo and the Moon is in Libra — all odd signs,
+consequently Mahabhagya Yoga is fully present.
+But since however the Lagnadhipathi is bereft of
+Jupiter’s influence, the native is miserly, though
+in very affluent circumstances. Has risen by sheer
+merit.
+26. PUSHKALA YOGA
+Definition. — The lord of the sign occupied by
+the Moon (who should be associated with lord of
+Lagna) should be in a Kendra or in the house of
+an ml. mate friend aspecting Lagna and at the
+same time, Lagna should be occupied by a powerful planet.
+Results. — Wealthy, sweet speech, famous,
+honoured by the king and a lord.
+Remarks. — The Yoga is somewhat complicated. First of all, the lord of Lagna should be with
+the Moon. Lord of the sign occupied by the
+Moon should be in a very friendly sign or in
+Kendra aspecting the Lagna and the Lagna
+should have a strongly disposed planet. Pushkala
+Yoga in actual practice is full of significance
+inasmuch as it comprehends that Lagna, the lord
+of Lagna, the Moon and lord of Chandra Lagna
+should all be powerful.
+
+LAKSHMI YOGA
+Kethu
+Mercury
+Moon
+Balance of Mars Dasa at birth yrs. 5-6-15.
+In this Chart, Lord of Lagna Saturn is with
+the Moon ; lord of Chandra Lagna is in a Kendra
+aspecting Lagna. But there is no planet in
+Lagna. Subject to the absence of the third
+condition, Pushkala Yoga may be said to be
+present. The native has been enjoying all the
+blessings of this Yoga. An absolutely favourable
+Yoga is an impossibility.
+72. LAKSHMI YOGA.
+Definition. — If the lord of Lagna is powerful
+and the lord of the 9th occupies own or exaltation
+sign identical with a Kendra or Thrikona,
+Lakshmi Yoga is caused.
+Results. — The person will be wealthy, noble,
+learned, a man of high integrity and reputation,
+handsome appearance, a good ruler, and enjoying
+all the pleasures and comforts of life.
+Remarks. — Different definitions are given for
+Lakshmi Yoga. I mention a few versions for the
+readers’ information. Lakshmi Yoga is said to
+
+56 THREE HUNDRED IMPORTANT COMBINATIONS
+arise (a) by the mutual association of lords of
+Lagna and the 9th ; (b) by the lord of the 9th
+occupying Kendra, Thrikona or exaltation and
+the lord of the 9th being disposed powerfully;
+and (c) by the lord of the 9th and Venus being
+posited in own or exaltation places which should
+be Kendras or Thrikonas.
+Obviously, Lakshmi Yoga presumes the
+strength of lord of Lagna, Venus and the lord of
+the 9th. Lakshmi has predominantly to do with
+wealth and one born in this combination will be
+w'ealthy, the degree of wealth varying with regard
+to the degree of strength or weakness of the
+planets causing the Yoga. The definition given
+in Para (c) supra will producethe most powerful
+type of Lakshmi Yoga indicating immense wealth,
+while the mutual association of or aspect between
+the lords of lagna and the 9th in houses other than
+3, 6 and 8 would also result in an ordinary type
+of Lakshmi Yoga which might be fortified by the
+presence of other Dhana Yogas.
+Balance of Kethu’s Dasa at birth years 2-0-6,
+
+LAKSHMI YOGA
+Lakshmi Yoga is present in the above horoscope by the association of lord of Lagna (the Sun)
+and the lord of the 9th (Mars) both being posited
+in the 11th. Mars’ Dasa was very bright and it
+gave the native much wealth, name and
+reputation.
+Where a reall_v strong Lakshmi Yoga is
+present, and this is indeed a rare phenomenon,
+the results will manifest fully.
+But in almost every horoscope of any
+pretence to wealth, Lakshmi Yoga in some form
+or other is likely to be found.
+Balance of Budha Dasa at birth years 11-10-0.
+In Chart No. 28 lord of the 9th is in a
+Thrikona in his own house. But Venus though
+in his own house is not in a thrikona or kendra.
+Lakshmi Yoga is present. Besides this, the
+Dhana Yoga is excellent because lord of the 2nd
+
+58 THREE HUNDRED IMPORTANT COMBINATIONS
+Mercury is in the 5th exalted and in association
+with the 4th lord Sun. The native was the ruler
+of a small but independent state and he commanded much wealth.
+28. GAURI YOGA
+Definition. — The lord of the Navamsa occupied by the lord of the 10th should join the 10th
+in exaltation and combined with the lord of
+Lagna.
+Results. — The person belongs to a respectable family, owns several lands, charitable,
+performs religious rites, his sons will be of good
+character and he will be praised by all.
+Remarks. — Here again two definitions are to
+be found. Apart from what is given above,
+another school of Astrologers hold that Gauri
+Yoga is produced if the lord of the 9th and the
+Moon be posited in their own or exaltation signs
+identical with a trine or quadrant. The view held
+by certain orthodox Pandits that Gauri Yoga will
+manifest only between the ages of 36 and 48, does
+not seem to be reasonable inasmuch as there is no
+special injunction warranting such a belief. We
+shall stick to the definition we have first propounded and deem that in order to cause Gauri Yoga,
+the lord of the Navamsa occupied by the 10th
+lord should be in the 10th exalted. Such a definition does not exclude the possibility of some other
+planet occupying the 10th house.
+
+BHARATHI YOGA
+after Sunrise Lat. ll*" N. Long. 78“ 40' E.
+Balance of Sun’s Dasa at birth: years 4-8-18.
+In the above Chart, lord of the 10th is the
+■Vloon. He is in Sagittarius in Navamsa. The
+lord of this Navamsa is Jupiter and he is exalted
+in the lOth. Thus here is a typical horoscope
+illustrating the presence of Gaun Yoga. The
+native is in the Indian Civil Service and has all
+the characteristics of Gauri Yoga.
+29. BHARATHI YOGA
+Definition. — The lords of the Navamsas
+occupied by the lords of the 2nd, 5th and 11th
+should be exalted and combined with the 9th lord.
+Results. — World famous, a reputed scholar,
+!<md of music, romantic, handsome, attractive,
+religiously inclined and bewitching eyes.
+Remarks. — Three Yogas are given rise to
+inasmuch as the 9th lord cannot be in simultaneous conjunction with all the three Navamsa lords.
+
+60 THREE HUNDRED IMPORTANT COMBINATIONS
+Therefore, Bharathi Yoga maybe said to exist (a)
+if the lord of the Navamsa occupied by the 2nd
+lord is exalted and in conjunction with the 9th
+lord (6) if the lord of the Navamsa occupied b)?-
+the 5th lord is exalted and combines with the 9th
+lord (c) and if the lord of the Navamsa occupied
+by the 11th lord is similarly disposed, Bharathi
+Yoga IS not quite a common combination.
+Chart No. 30. — Born
+after Sunrise, Lat. 13° N
+Balance of Rahu Dasa at birth : years 7-0-7.
+The Lord of the 5th Venus is in the Navamsa
+of Gemini, the lord of which, viz.. Mercury is
+exalted in the fourth and in association with
+the lord of the 9th. Thus this chart is a typical
+example of Bharathi Yoga. On account of other
+evil combinations, the significance of the Yoga in
+question has to be practically ignored.
+
+CHAPA YOGA
+30. KUSUMA YOGAS
+Definition. — If Jupiter is in Las^na, the Moon
+in the seventh and the Sun in the 2nd, the
+combination goes under the nanme of Kusuma.
+Results. — King or equal to him or helping
+others, and becoming head of a town or city after
+the age of 20.
+Remarks. — Professor Rao gives an altogether
+different version in his Satayoga Manjari when he
+says that Kusuma Yoga is caused if Venus
+occupies a fixed sign in a Kendra, the weak Moon
+a thrikona and the Sun the 10th house. When
+Jupiter is in the 7th from the Moon, Gajakesari
+Yoga is caused while Jupiter being posited in the
+12th from the Sun, results in Vasi Yoga so that in
+such cases, where two or more Yogas are merged
+together, the most powerful of the lot is to be
+taken into account.
+31. CHAPA YOGA
+Definition, — If the Ascendant lord is exalted
+and the fourth and tenth lords have interchanged
+houses, Chapa Yoga is caused.
+Results. — The person will grace a King’s
+Council, wealthy, full of strength and an Exchequer or a Comptroller of treasury.
+Remarks. — My observations extending over
+nearly twenty years lead me to conclude that Chapa
+Yoga makes one control the wealth of others
+rather than make him rich. Horoscopes of bank
+cashiers, financial secretaries and exchequers
+could be advantageously studied.
+
+62 THREE HUNDRED IMPORTANT COMBINATIONS
+32. SREENATHA YOGA
+Definition. — If the exalted lord of the seventh
+occupies the tenth and the lord of the lOih is in
+the 9lh, Sreenatha Yoga is caused.
+Results. — The natne will have on his body
+the insignia of Vishnu, viz., the conch, the wheel,
+etc., agreeable speaker, godly, good wife and
+children and loved by all.
+Remarks. — Sreenatha Yoga may be said to
+be one of the important Raja Yogas inasmuch as
+a point of contact is established between the 7th,
+9th and 10th he uses. It is held to gi\e lise to
+power as well as wealth. The lord of the 7th should
+be invariably exalted in the 10th, the lord of which
+in his turn must be in the 9th. Obviously Sreenatha Yoga can occur only in respect of Dhanas
+in which case Mercury, lord of the 7th could
+remain exalted in the 10th. For no other Lagna
+can the seventh lord remain exalted in the 10th.
+Since the original writers have laid emphasis on
+the fact that the 7th lord should be in the 10th
+exalted, w'e have to conclude that the Yoga is a
+rare one and that it cannot arise with regard to
+any other sign of the Zodiac than Dhanas. If
+the definition could be extended to mean that the
+exalted 7th lord could also aspect the 10th, then
+Cancer and Thula could be included. Whether
+such a departure is permissible, I cannot yet
+say as the materials at my disposal are too inadequate to admit of a definite opinion.
+
+MALIKA YOGAS
+33 to 44. MALIKA YOGAS
+Definition. — If all the seven planets occupy
+the seven houses contiguous!} , reckoned from
+Lagna or any particular Bhava, the appropriate
+Malika Yoga is caused.
+Results. — Lagna Malika — King, Ruler or
+Commander, wealthy; Dhana Malika — very
+wealthy, dutiful, resolute and unsympathetic ;
+Vikrama Malika — Ruler, rich, sickly, surrounded
+by brave men; Sukha Malika — Charitable and
+wealthy ; Putra Malika — highly religious and
+famous; Satru Malika — greedy and somewhat
+poor ; Kalatra Malika — coveted by women and
+inliuential ; Randhra Mahka — poor and henpecked ; Bhagya Malika — Religious, well-to-do,
+mighty and good ; Karma Malika — respected
+and virtuous; Labha Malika — skilful and lord of
+lovely women and Vraya Malika — honoured,
+liberal and respected.
+Remarks. — Twelve types of Malika Yogas
+one for each Bhava are caused. Thus the Yoga
+beginning from the first is Lagna Malika, the one
+beginning from the fifth Putramalika and so on.
+The seven planets (excluding of course Rahu and
+Kethu) should occupy the seven houses contiguously from a Bhava in question. While the
+generality of Astrologers hold the vierv suggested
+above as regards the twelve kinds of Mahka Yogas,
+Bhavartha Ratnakara makes a departure and
+suggests that the Malika Yoga should always
+commence from Lagna and be disposed within
+five to nine houses from Lagna. According to
+thi-, view, evidently no contiguitv is implied.
+
+64 THREE HUNDRED IMPORTANT COMBINATIONS
+45. SANKHA YOGA
+Definition. — The lords of the 5th and 6ih
+should be in mutual kendras and the lord of
+Lagna must be powerful.
+Results. — Fond of pleasures, humanitanan,
+blessed with wife, children and lands, righteous]}'
+inclined, doing good deeds, learned in sciences
+and living upto a good old age.
+Remarks. — Where the planet or the house is
+not powerful, all the results attributed to a particular Yoga cannot happen but only traces of them
+will be present. Where Sankha Yoga is' present,
+the sixth lord also becomes beneficial inasmuch as
+by causing the Yoga, he must also be capable of
+producing the good results of the Yoga in his
+Dasa or Bhukthi. But still the blemish due to
+the sixth lord-ship must express itself by way of
+the native suffering from the machinations of
+debts, diseases or enemies.
+Balance of Mars Dasa at birth : years 5-6-15.
+
+BHERI YOGA
+Lord of the 5lh Meicui y is in a Kendra from the
+Moon ; lord of the 6th and lord of Lagna Saturn
+are powerful by being placed in the 4th in a
+friendly house aspecting Lagna.
+46. BHERI YOGA
+Dejinition.- -l\ Venus, lord of Lagna and
+Jupiter are m mutual Kendras and the lord ol the
+9th IS powerfully disposed, Bheri Yoga is caused.
+Long-lived, free from disease, ruler,
+various sources ol income, happiness from wife
+and children, exalted soul, generous instincts and
+religiously inclined.
+Remarks. — The sum and substance of Bheri
+Yoga is that it will make the native lead a happy
+and comfortable life.
+Balance of Mars Dasa at birth : years 1-6-8.
+In this horoscope, Venus is lord of Lagna
+and he is in i Kendra from Jupiter and Mercury
+
+65 THREE HUNDRED IMPORTANT COMBINATIONS
+lord of the 9th is powerfully disposed. The native
+is a high Educational Officer and is enjoying all
+the blessings of the Yoga subject of course to
+other evil dispositions o' planet'.
+47. MATSYA yoga
+Definition. — Maiefics should be disposed in
+Lagna and the 9th ; the fifth house should contain
+both malefics and benefics ; and the fourth and
+8th should be occupied by malefics.
+Results. — The nati\e will be a clever prophet,
+an ocean of kindness, intelligent, well-behaving,
+famous and learned.
+Remarks. — Malefics must invariably occup}'
+Lagna, 4th, 8th and 9th and mixed influences
+should prevail in the fifth house. In actual practice, this Yoga seems to be a rare one.
+48, MRIDANGA YOGA
+Definition. — The lord of the Navamsa occupied by an exalted planet ■should be posited in a
+trine or quadrant identical with friendly or exalted
+sign, and the lord of Lagna should be strongly
+disposed.
+Results. — Respected by rulers, famous, attractive and commanding much influence.
+Remarks. — The definition of the Yoga is
+somewhat confusing. Some planet is exalted and
+he occupies some Navamsa. The lord of the said
+Navamsa should occupy a Kendra, or Thrikona
+which should be either his own or exaltation or
+
+PARIJAi'HA YOGA
+friendly house. In addition to this, che lord of
+Ldgna should also be powerful.
+at Sandrigham, England.
+Balance of Saturn’s Dasa at birth: years 18-2-9.
+In this horoscope, Jupiter an exalted planet
+is in Sagittarius. The lord of this is Jupiter himself and he is in a kendra identical with his own
+exaltation. Even taking Venus lord of the Amsa
+in which Saturn (another exalted planet) is placed,
+we find that he is in a kendra identical with his
+own house while lord of Lagna is also Venus. In
+a sense, therefore, Mridanga Yoga is present. The
+native is ruler of a vast Empire.
+49. PARIJATHA YOGA
+Definition. — The lord of the sign in which
+the lord of the house occupied by the Ascendant
+lord; or the lord of Navamsa occupied by the lord
+
+88 THREE HUNDRED IMPORT A\1 COMBINATIONS
+In rdl such cases, where big results are attributed to yogas, the astrologer should be ver\
+careful in assessing the leal strength of the mam
+lord causing the yoga. The combination of the
+9th and 10th loids constitutes m itself a powerful
+Raja and this occurring in the 2nd, combined with the Amsa lord, is indeed a powerful
+Dhana Yoga so that there is a blending of Raja
+and Dhana Yogas The combination implies that
+the 2nd house must be occupied by at least three
+planets and hence not of very frequent occurrence
+at Bangalore
+Balance of Venus Dasa at birth years 4-2-0
+The lord of the 9th \enus is in Tauius
+Hence the lord of this Amsa is again Venus.
+Fie IS in the second along with the 10th lord and
+he himself happens to be the 9th lord Flence
+Vishnu yoga is present though it cannot have lull
+play because ol Rahu’s presence also in the 2nd
+The horoscope is that of an influential man oi
+high rank
+
+BK\riM^ \OGA
+Mar^
+Balance of Rahu’'5 Dasa at birth : y eats 17-5-9.
+In this chart, Vishnu Yoga is more pionounced. Venus happens not only to be the loi d of
+the 10th but also loid of the amsa occupied by the
+9th lord Mercury. Both Mercmy and Venus are
+in the 2nd. The native has been enjoying almost
+all the blessings of this Yoga. He has e lined in
+lakhs Fie is in the good looks of some of the
+Indian princes and the British Goveinment, he is
+highly learned, a brilliant statesman and a capable
+lawyer.
+65 BRAHMA YOGA
+Definition.— Jupiter and Venus are in
+Kendras resphfctively from the lords of the 9th
+and 11th, and Mercury is mb. similar position
+from the lord of eiftief'lagna or the 10th, Brahma
+Yoga IS caused. ' ’ '
+
+90 THREE HUNDRED IMPORTANT COMBINATIONS
+Results. — The person will enjoj luxurious
+foods, will be respected by Brahmins and learned
+men, will be highly learned, long lived, charitable
+and always bent on doing good deeds.
+Remarks. — The Yoga in question seems to
+bestow highly beneficial results implying that the
+native would command health, wealth, fame and
+above all instincts for serving others. It will be
+seen that in the formation of this yoga, all the
+natural benefics are involved. Even here, the
+exact strength and signification of the j’oga rests
+to a large extent upon a number of other horoscopic factors. For Mesha Lagna for example, this
+\oga cannot be deemed to be formed in all it-,
+aspects inasmuch as lord of the 9th is Jupiter so
+that Jupiter’s disposition in a kendra from the 9tli
+lord IS entirely ruled out. Similarly when Cancer
+IS the lagna, two conditions of the yoga would be
+absent as lords of the 9th and 11th, respectueh
+become Jupiter and Venus. Again li lagna is
+Kanya or Dhanas, the j’oga cannot be full, because
+in regard to Kanya, Mercury becomes lord of the
+10th while in regard to Dhanus Mercurx and
+Venus become lords of the 10th and 11th so that
+the disposition of Venus and Mercury respectively
+in kendras from the lords of the 11th and lOth is
+not possible. So far as Dhanas is conce' ned, in
+the place of the lOth lord„ lord of lagna may be
+considered. Therefore we may assume that Brahma
+Yoga is possible to the full extent in respect of all
+the signs except Aries, Cancer and Virgoi However, it does not seem to be quite erroneous to,
+assume that even in respect of ArieSf. (^^apcer apd
+
+BRAHMA YOGA
+Virgo, this yoga could be present with slight modification. If, say three factors are necessary to
+make up a certain yoga, the presence of even one
+or lwo cannot but suggest that the yoga does
+operate, may be feeblv .
+Chart No 44 — Born on 7-5-1886 at J-30 p.m.
+Balance of Rahu’s Dasa at birth : yrs. 13-1-4.
+In the above horoscope, . J upiter is in a
+kendra from the lord of the 9th, viz., Venus ;
+Venus is in a kendra from the lord of the llth,
+viz.., the N^oon. The third combination cannot
+obtain because Virgo is Lagna. Therefore Brahma
+Yoga IS present with a slight variation. The native
+of the horoscope was a ruler of an ladian State
+and enjoyed all the results attributed to this yoga.
+This may be t^iken as a rare - combination oecurringiin a small number of horoscopes.'’
+
+92 THREE HUNDRED IMPORTANT COMBINATIONS
+66. IMDRA YOGA
+Definition. — It the lords of the 5th and 11th
+interchange their houses and the Moon is in the
+5th, Indra Yoga is caused.
+Results. — Highly courageous, lasting fame, a
+King ol Kings, good enjoyments and living upto
+36 years.
+Remarks. — Unleis the house of longevit) is
+powerful, one has to assume that Indra Yoga does
+not confer longevit) Professor Rao has offered
+very suggesti\o remarks in his Sata Yoga Manjari
+in suggesting that Christ, Shankara and Alexander are e.Yainples oi short life but of lasting name
+and I would refer the readers to these notes.
+Though classical writers have attributed highly
+favourable results to this Yoga, I have my own
+doubts, which mav be due to want of sufficient
+experience.
+67. RAVI YOGA
+Definition. — The Sun should join the 10th
+and the lord of the 10th must be in the 3rd in
+conjunction with Saturn.
+Results. — Respected by rulers, well-versed in
+sciences, becoming famous after the 15th year,
+highly passionate, liking simple food, possessing
+lotus-like eyes and well developed chest.
+Remarks. — Each rule has an exception.
+Whilst Saturn’s association with any favourable
+horoscopic element is not desirable, under this
+Yoga, the 10th lord should occupy the third in
+
+RAVI YOGA
+conjunction with Saturn so that in the course of his
+Dasa, Saturn, under such a combination would be
+capable of giving rise to highly favourable results.
+Ravi Yoga comprehends a point of contact between the Sun, Saturn, the 10th and 3rd houses.
+The Sun should occupy the 10th, while the iOth
+lord should be in the 3rd with Saturn. For Mesh.-,
+Vnshabha and Vrischika Lagnas, Ravi Yoga
+cannot at all be said to exist in its real sense
+For Dhanus, Makaia, Simha and Kanja
+Lagnas, Ravi Yoga would be almost impossible
+bee luse in these cases the 10th lord happens to
+be either Mercury or Venus: when the Sun is in
+the 10th, Mercury or Venus cannot be in the 3rd
+from Lagna as it implies a distance of nearly 150
+to 180 degrees irom the Sun which is astronomically impossible. In view of the above explanations, one can easily <-te that Ravi Yoga is
+indeed ot rare occuiunce.
+Chart No, 45. — Born on 21-3-1921 at 12 noon
+
+96 THREE HUNDRED IMPORTANT COMBINATIONS
+. Remarks. — Jupiter ife Dhanak^raka or indicator of wealth. He should occupy his Moola
+Thrikona with the lord of the 2nd and the ascendant lord naust remain in exaltation.
+The Sun, the Moon, Mars, Mercury, Jupiter,
+Venus and Saturn, respective!} have as their
+Moolathrikonas, Leo, Taurus, Aries, Vir^o,
+Sagittarius, Libra and Aquarius. For Scorpio and
+Aquarius, since the second happens to be owned
+by Jupiter, the question of association with the
+spcond lord does not arise.
+Jupiter’s Moola Thrikona being confined to
+the first thirteen degrees of Sagittarius, Go Yoga
+can be present only in respect of those born when
+Jupiter occupies this particular arc in the heavens.
+In other words, this yoga, unlike Gaja Kesari, Vasi
+or Vesi, is subject to a law of periodicity, coming
+into effect only w'hen Jupiter occupies the constellation of Moola.
+Chart No 47. — Born on 2-1-1901 at 8 p.m. at
+Bangalore City.
+Balance of Moon’s Dasa at birth : years 1-6-0.
+
+TMRILOCHA.NA YOGA
+In this horoscope, Cancer is lagna ; the 2nd
+lord Sun is in Sagittarius with Jupiter uho, being
+placed in Moola, occupies his own Moola Thnkona. Lord of Lagna, viz., the Moon is exalted.
+Hence Go Yoga is present in the horoscope. Of
+course, the Moon’s conjunction with Kethu and
+Saturn’s presence in Sagittarius liave produced
+adverse influences so that the yoga cannot at all
+be effective. The example is onh illustrative of
+the presence of the particular yoga.
+70. GOLA YOGA
+Definition. — If the Full Moon is in the 9th m
+conjunction with jupitei and \’enus, and Mercury
+joins Navamsa Lagna, Gola Yoga is produced.
+Results. — Polite, learned, Magistrate or head
+of a village, long-lived and eating wholesome
+food.
+Remarks. — The yoga can come into effect
+provided the Moon is full and not otherwise.
+Mercury must occupy Navamsa Lagna. Such a
+Full Moon should be in the 9th with Jupiter and
+Venus. In other words, ev^en Gajakesari Yoga
+gets merged into Gola, inasmuch as when Jupiter
+and the Moon are in conjunction, they would be
+supposed to be in a kendra from each other.
+71. THRIIOCHANA YOGA
+Definition. — The Sun, the Moon and Mars
+should be in trines from each other.
+Results. — Great wealth, a terror to his
+enemies, highly intelligent and good longevit}.
+
+'98 THREE HUNDRED IMPORT \NT COMBINATIONS
+Remarhs. — Irrespective oi the presence of any
+particular kind of Yoga, dispositions of planets in
+mutual trines is always held to be highly favourable.
+One born in such a combination will have a smooth
+career and will not have to contend against
+■unfavourable forces.
+72. SAMUDRA YOGA
+Definiiton.—li all the planets are disposed in
+the 2nd, 4th, 6th, 8th, 10th and 12th houses,
+SamudraYoga is caused.
+Results. — The native will be a king or an
+equal to him.
+Remarks. — This is indeed a somewhat rare
+combination because all the seven planets have to
+occupy six alternate signs beginning from the
+second. x\ll odd houses reckoned from Lagna
+should be free from occupation.
+This is one of the several Akriti Yogas dealt
+with by the great Varaha Mihira. In our humble
+experience, Akriti Yogas by themselves cannot
+■exercise any definite influences unless the horoscope has gained strength otherwise.
+73. JAYA YOGA
+Definition. — When the lord of the 6th is
+debilitated and the lord of the 10th is exalted, the
+resulting combination goes under the name of
+Jaya Yoga.
+
+JAVA YOGA
+Results. — The person will ahvays be successful,' h'ippy and long-lived.
+Remarks. — As the name implies, jaya means
+victory and one born under this combination
+would always be successful. Success would be
+his watchword. As the sixth represents enemies,
+debts and diseases, when the 6th lord is debilitated, all the indications of the sixth house would
+be on the minus side. Added to this exalUition
+of the 10th lord invests the horoscope with
+inherent' strength rendering it highly invulnerable.
+Chart No. A%—Born on 25-2-1894 at about
+Balance of Rahu’s dasa at birth ; Yrs. 1-1-7.
+, tn this horoscope, the lord of the 6th Mercury
+is debilitated while the lord of the 10th Saturn
+is exalted definitely causing Jaya Yoga. The
+horoscope is that of a great religious leader and
+prophet who influenced the world in no ordinary
+
+100 THREE HUNDRED IMPORTANT COMBINATIONS
+way. He i"- one ol the most extraordinary characters m the stage ot the world’s religious drama.
+He had to deal with very rough and uncontrollable elements and the Jaya Yoga seems to have
+gone a long wav in enabling him to enlist
+the sympathies <.>f millions nf people for his cause.
+There are of course othet strong elements in the
+horoscope.
+74. KULAVARDHANA YOGAS
+Defimiion. — All planets should be in the 5th
+from Lagna, the Sun and the Moon.
+Results. — Unbroken line of successors, wealthy, healthy and long-lived.
+Remarks. — A.s the name implies, one born
+when the benefics are disposed in the 5th from
+Lagna, the Sun and the Moon will have plenty of
+children and the family traditions will be perpetuated by his children, grand-children and so
+forth and so on in an unbroken fashion. The
+fifth house becomes the focal point. The man
+will also be capable of producing a large number
+of children.
+75 to t06. NABHASA YOGAS
+Varaha Mihira has dealt with these various
+yogas in his immortal Brihat Jataka and the
+English rendering of this work by late Prof.
+B. Suryanarain Rao, would be of inestimable help
+to students of astrology. The Yavanas have
+extensively treated with Nahhasa Yogas.
+
+NABHASA YOGAS
+The Nabhasa Yogas consist of four groups, viz.,
+Aknli Yogas ... 20
+Sankya Yogas .. 7
+Asraya Yogas ... 3
+Dala Yogas ... 2
+According to Varaha Mihira, the effects of
+Nabhasa Yogas aie said to be felt throughout
+one’s life and not merely during the Dasa and
+Bhukthi periods of the planets causing the Yoga.
+75. Yupa Yoga
+76. Ishu Yoga
+77. Sakti Yoga
+78. Daiida Yoga
+Definition. — When all the planets occupy four
+signs contiguously from the Lagna and other kendras, Yupa, Ishu, Sakti and Danda Yogas are
+caused.
+Results. — One born in Yupa becomes liberal,
+self-possessed and noted for charitable deeds.
+Ishu makes one successful as a superintendent
+or head of a jail, concentration camp, etc.,
+Sakti renders the native lazy, slothful, devoid of
+riches, and generally disliked by people and Danda
+suggests that the person will lack happiness due
+from wife and children.
+Remarks. — These four yogas arise by virtue
+of the seven planets being disposed in four contiguous houses as reckoned from the Ascendant and
+
+102 THREE HUNDRED IMPORTANT COMBINATIONS
+Other kendias. Thus, if all tiie planets are placed
+m Lagna, 2nd, 3rd and 4th houses, Yupa is caused ;
+111 4th, 5th, 6th, and 7th, Ishu or Sara is produced ;
+in 7th, 8th, 9th and 10th, Sakti is caused and in the
+10th, 11th, 12th and Isl Danda is caused.
+Personally, we are of opinion that ail these
+various Akriti yogas do not contribute much to
+the making of the horoscope In fact they seem
+to give rise to clues as regards the means of
+Inelihood (>ne is likeK to have Thus, for
+instance, Ishu yoga, said to be caused by the
+seven planets occupying the 4th, 5th, 6tli and 7th
+houses IS common in the horoscopes of persons
+who may have anything to do with prisons,
+lock-ups, concentration camps, etc Of course
+these deductions are based on our own observations
+and readers have to view them with due reserv'e.
+,,5alance.p{ Saturn's Dasa at birth: years '3-Sr5.«.
+
+NABHASA YQGA
+Baitince <>1 Rahu’s dasa at birth ; yrs 12-1-17.
+In Chart No. 49, all the planets liave occupied
+the tour signs contiguously Irom lagna kendra
+causing Yupa Yoga while in Chart No 50, the
+disposition of planets in the 4th, 5th, 6th and 7th in
+a contiguous manner suggests the presence of
+Ishu Yoga. Whether' the various Nabhasa Yogas
+can have an independent effect on the horoscope
+or they get themselves mixed up with other Yogas,
+we shall discuss on a subsequent occasion. Now
+suffice it to say that they will have important
+bearings on certain aspects of one’s life depending
+upon the stress that is laid on particular bhavas
+by the dispositions of planets in or around them.
+Out of the four yogas mentioned above, Yupa
+and Danda are better than Ishu and Sakti because
+in the latter two, planets are about to culminate
+or about to set. , , , ,
+
+104 THREE HUNDRED IMPORTANT COMBINATIONS
+79- Na\ Yoga.
+•sO. Kuta Yoga.
+81. Chhatra Yoga,
+82. Chapa Yoga.
+Definition. — By virtue of the disposition of
+the seven planets in seven contiguous houses from
+Lagna, fourth house, 7th house and 10th house
+respectively, Nav, Kuta, Chatra and Chapa Yogas
+are produced.
+Results. — Nav makes one occasionally happy,
+famous and miserly; one born in Kuta becomes
+a liar and a jailor. Chatra Yoga produces a
+happy individual while one born in Chapa
+becomes brave and happy in the first and last
+periods of his life.
+Remarks. — The above definitions are simple.
+The seven planets should occupy the seven houses
+without a break from lagna, fourth house, seventh
+and tenth houses to produce the four kinds of yogas.
+Apart from the results ascribed by the classical
+writers, we may make a few observations.
+In regard to Nav Yoga (79), all the planets
+will be in the invisible sphere of the heavens. It
+seems to be generally productive of good and to
+have a bearing on the native having to do with
+water, watery places and aquatic substances.
+In regard to Kuta, when all the planets will
+be in the seven houses from the fourth, it will be
+more or less an equal distribution of planets in the
+visible and invisible halves of the zodiac. The
+mative may frequent caves, mountains, etc., and
+
+NABHASA YOGAS
+he will be addicted to evil habits. Robbers,
+drunkards, cheats and others may have this combination. In Chatra Yoga, all the planets will be
+in the visible half and hence may be deemed to be
+favourable. The native will be happy in the
+beginning and end of his life. He will possess great
+strength of mind and will earn much wealth. In
+Chapa Yoga all the planets will be in the 10th and
+subsequent houses and one born in this yoga will
+lead a comfortable life delighting in good deeds.
+83. Ardha Chandra Yoga
+Definition. — All the planets should occupy
+the seven houses beginning from a Panapara or
+Apoklima.
+Results. — The native will have fair features
+and will be happy throughout life.
+Remarks. — There are four Panaparas (cadent
+houses) and four Apoklimas (succeedent houses).
+Consequently there are eight kinds of Ardha
+Chandra Yogas, the planets occupying (i) from
+2nd to 8th, (ii) 3rd to 9th, (iii) 5th to 11th, (iv) 6th
+to 12th, (v) 8th to 2nd, (vi) 9th to 3rd, (vii) 11th to
+5th and (viii) 12th to 6th.
+84. Chakra Yoga
+Definition. — All the planets should occupy
+the 1st, 3rd, 5th, 7th, 9th and 11th houses.
+Results. — The subject will be a king or an
+equal to him. He will command respect and
+submission from others and he will earn and
+spend well.
+
+106 THREE HUNDRED IMPORTANT COMBINATIONS
+Remarks. — On page 113 we have dealt with
+Sumudra Yoga which is said to result by all
+the planets occupying the even ' signs, where as in
+this regard, all the odd signs must be occupied.
+The combination is not a rare one. So far as the
+results are concerned, the Yoga cannot produce
+rulers or emperors, but one who has this combination would certainly become an entity amongst his
+own people.
+85. Gada Yoga.
+86. Sakata Yoga.
+87. ViHAGA Yoga.
+Definition. — All the planets occupying two
+adjacent kendras, the first and seventh houses,
+and the 4th and 10th houses respectively will
+produce Gada, Sakata and Vihaga Yogas.
+Results: — Gada Yoga makes one highly religious and wealthy ; Sakata renders one poor and
+unhapyy in domestic life ; and one born in Vihaga
+•will be a vagrant, quarrelsome and mean.
+Remarks'. — A study of the Nabhasa Yogas
+outlined in Brihat Jataka and the comments
+made by Varah9,mihira clearly reveals that attempts had been made to assess clearly the
+strength due to every conceivable combination.
+Gada Yoga is caused when the planets
+occupy two successive kendras. Four varieties
+are to be seen in this viz., (a) All the planets may
+occupy the 1st and 4th houses, (b) 4th and 7th
+houses, (c) 7th and 10th houses and (d) 10th and
+1st houses. The Yavanas consider these as four
+■distinct Yogas and not merely as variations of a
+single combination and call them as Gada,
+
+NABHASA YOGAS
+Sanaha, Vibhuka and Dhuriya respectively. It
+is clear from the above that Gada Yoga and its
+variations, which the Yavanas recognise as four
+distinct yogas, are nothing but the disposition of
+all the planets in mutual square aspects. Of
+course Rahu and Kethu are omitted. The effects
+of Gada Yoga are assumed to be good so that the
+Western astrological theory that square aspects
+are all evil, has no warrant in Hindu astrology.
+Sakata Yoga is said to arise by the disposition
+of all the planets in the lagna and the 7th. It will
+be seen that the 1st and 7th houses become focii
+of attraction so that there seems to be justification
+in attributing evil results especially pertaining to
+the native’s body and wife. Sakata will make
+one derive his livelihood by manual labour ; he
+will be sickly and his wife will be quarrelsome.
+Vihaga means a bird and Vihaga Yoga is
+caused if all the planets are in the 4th and 10th
+houses Evil results are attributed to this combination. The native is said to be a vagrant and in
+modern parlance the yoga must be common in the
+horoscopes of travelling agents or guards of trains
+who are required to be always moving. One who
+has a powerful Vihaga Yoga is said to become a
+tale-bearer also.
+It is evident that the ancient writers have
+attributed evil results for opposition aspects though
+certain yogas such as Gajakesari must have been
+treated as exception. The results due to a single
+Yoga or a combination of yogas are always
+dependent upon the inherent strength of the
+horoscope.
+
+108 THREE HUNDRED IMPORTANT COMBINATIONS
+Balance of Rahu’s Dasa at birth ; yrs. 16-7-24.
+In the horoscope given above all the planets
+are in the 4th and 10th houses so that it is a typical illustration of Vihaga Yoga.
+88. Vajra Yoga.
+89. Yava Yoga.
+Definition. — Benefics occupying the ascendant
+and the seventh house, while malefics occupying
+the 4th and the 10th give rise to Vajra Yoga ; the
+reverse will be the case in Yava Yoga.
+Results. — Vajra gives rise to a happy and
+• handsome person ; Yava makes one happy in
+his middle life.
+Remarks. — The difference between Vajra and
+Yava Yogas is very thin. In the former, benefics
+will be found in the ascendant and the descendant,,
+and malefics in the.meridian and the nadir while
+
+NABHASA YOGAS
+in the other, the lagna and the descendant must
+have malefics and the meridian and the nadir
+should have benefics. Even in the production of
+results the difference between the two yogas is
+hardly worth attention, for while Vajra makes one
+fair, brave and happy, the effects of Yava are
+restricted to a particular period of life, viz., the
+middle portion. If one makes a serious attempt
+to study a number of horoscopes, he will not be
+slow in appreciating one important truth, viz.,
+that Yava Yoga is hardly conducive to the health
+and bodily happiness of the native or his wife ;
+for, if malefics occupy the lagna and the 7th, their
+effects, unless counter-balanced by other horoscopic
+factors, such as more powerful yogas or inherent
+strength etc., would necessarily converge on these
+two houses. These two yogas are not after all
+very important, because often times their influences
+become merged with those of other more powerful
+yogas.
+Chart No. 67 Chart No. 68
+
+110 THREE HUNDRED IMPORTANT COMBINATIONS
+Chart No. 67 illustrates Vajra Yoga because
+iagna IS occupied by Jupiter and the 7th by Venus,
+the 4th by the Sun and the 10th by Saturn and
+Mars. Chart No. 68 is a distinct case of Yava
+Yoga.
+90. Sringhataka Yoga.
+91. Hala Yoga.
+Defimtion. — If all the planets occupy the
+ascendant and its trines, Sringhataka is caused.
+If planets are confined to other triangular houses,
+Hala Yoga arises.
+Results. — One born in Sringhataka becomes
+happy in later life while Hala Yoga makes one an
+agriculturist.
+Remarks. — Sringhataka may mean junction
+of four roads or a square. Planets must invariably
+occupy the 1st, 5th and 9th houses. Lagna represents body, the 5th indicates progeny and the 9th
+suggests fortune in general. If these three houses
+are well fortified, then the native will have a
+smooth career, progeny and success in life. One
+born in Sringhataka is said to be happy in his
+later life. With due deference to the sages who
+have attributed this result, I have to observe that
+the period of happiness depends upon the stress
+laid on any one of the trines by virtue of a larger
+number of benefics being placed in it. Thus if
+the stress is on the iagna, the beginning of life
+will be happy ; if in the 5th, the middle part of
+life ; and if on the 9th, the last part. This is a
+simple observation that any student of astrology
+could conveniently carry on.
+
+NABHASA YOGAS
+Hi
+Hala implies a plough. Consistent with this
+meaning, Hala Yoga is said to make one an
+agriculturist. Three variations can be seen m
+tins Yoga. All the planets may occupy (a) the
+2nd, 6th and 10th houses, (b) the 3rd, 7th and
+11th houses and (c) the 4th, 8th and 12th houses.
+Hala Yoga would be helpful in deciding one’s
+profession, for a number of horoscopes possessing
+this combination, belong to agriculturists, farmers,
+estate managers, zammdars and petty landlords.
+Balance of Venus’ Dasa at birth : yrs. 2-6-27.
+The above horoscope is an example of
+Sringhataka Yoga,
+92. Kamala Yoga.
+93. Vapee Yoga.
+Definition. — Kamala Yoga will result when
+the planets are situated in the four kendras, while
+Vapee is caused when they are ranged in the four
+panaparas or the four apoklimas.
+
+112 THREE HUNDRED IMPORTANT COMBINATIONS
+Results. — One born in Kamala will not
+become much wealthy, but he will command high
+prestige, wide fame and innumerable virtues.
+Vapee makes one a hoarder of money.
+Remarks. — Kamala Yoga is practically the
+same as Chathussagara Yoga though not synonymous with it. Kendras are strong holds in a
+horoscope and when all the four kendras are
+occupied, the horoscope is rendered highly powerful. Kamala Yoga lays emphasis on fame, virtue,
+and prestige as different from mere earning
+capacity. Vapee, which means a well, on the
+other hand is said to make one mean, trickery
+and always pine for and hoard wealth. Panaparas
+are the 2nd, 5th, 8th and 11th and Apoklimas are
+3rd, 6th, 9th and 12th. The planets should
+occupy exclusively all the Panaparas or all the
+Apoklimas.
+Balance of Moon’s Dasa at birth: yrs. 4-4-19.
+
+NABHASA YOGAS
+In Chart No. 70 all the planets are disposed
+in Panaparas. It is a typical example for
+Vapee Yoga.
+94. Samudra Yoga.
+Definition. — All planets must occupy the six
+even houses.
+Results. — The native will be a ruler or live
+like him free from care and worry.
+Remarks. — With this we complete the 21
+Aknti Yogas, comprising the first of the 4 groups
+of Nabhasa Yogas. Yogas like Vajra and Yava
+which require the positions of the planets exclusively in kendras do not seem to have the approval
+of Varahamihira. He deals with them in his
+Brihat Jataka simply adopting the views of
+Yavana and others and feels sceptical about their
+possibility with the query ‘ How can Mercury and
+Venus occupy the 4th sign (Bhavana) from the
+Sun. The possibility or otherwise of Vajra,
+Yava and similar yogas which require mutual
+angular dispositions of the Sun and Mercury and
+Venus depends upon whether these yogas refer
+to the positions of planets in the Rasichakra or
+Bhavachakra. If the former, as is clearly implied
+by the latter Bhavana used by Mihira which
+means a sign, then the Sun can never be in a
+kendra from Mercury or Venus. If on the other
+hand, the reference is to Bhavachakra as some
+
+114 THREE HUNDRED IMPORTANT COMBINATIONS
+scholars contend, then Mercury can occupy a
+kendra bhava from the Sun, which could be possible in very high latitudes. Therefore the ancient
+writers have not eired if the Vajra and Yava Yogas
+refer to the positions in the Bhava Chakra.
+95. Vallaki Yoga.
+Definition. — All the planets must occupy any
+seven signs.
+Results. — The person will have a large number of friends, fond of music and fine arts,
+learned, happy and famous.
+Remarks. — This is the first of the Sankhya
+Yogas or numerical combinations. Vallaki is also
+known as Veena Yoga. All the seven planets
+should be disposed of in any seven signs. It will
+be seen, as would be shown subsequently that
+some times Sankhya Yogas actually coincide with
+Akriti Yogas (already discussed above). In such
+cases, Sankhya Yogas lose their individuality and
+they should not be considered at ail. There seems
+to be some justification in adopting this course,
+because in almost every horoscope since all the
+seven planets will have to occupy any seven, or
+less than seven rasis, Sankhya Yoga must be
+present in some form or the other. Provided noother Nabhasa Yoga is present, then aloneSankhya Yogas have to be reckoned. Vallaki
+and the six other Yogas to follow, belong to thecategory of Sankhya Yogas.
+
+SANKHVA YOGAS
+Balance of Moon’s Dasa at birth ; years 6-2-8.
+The above is a typical illustration of Vallaki
+or Veena Yoga for all the seven planets (Rahu and
+Ketu excepted) have occupied any seven RasisWhether the Yoga is able to independently function or has been absorbed by some other more
+powerful Nabhasa Yoga, the reader can easily
+find out.
+96. Damini Yoga.
+Definition Mi the seven planets should’
+occupy any six signs.
+Results — The person will be highly charitable,
+always helping others and a protector of cattle.
+Remarks : — In ascribing results to these
+Yogas, classical writers have differed from each
+other. For instance, the effects given above for
+Damini are based on Varahamihira while Saravali glorifies the Yoga considerably. But ai
+writers seem almost agreed about the genera
+
+116 THREE HUNDRED IMPORTANT COMBINATIONS
+good or bad nature of the results due to a yoga,
+Damini or Dama Yoga seems to give a man
+intellect, fame and wealth also. Of course, the
+exact nature of the effects depends upon the
+general disposition of the chart.
+Balance of Mercury’s Dasa at birth : years 9-3-5.
+Balance of Moon’s Dasa at birth : years 8-1-15.
+
+PASA YOGA
+Both the horcopes given above illustrate the
+presence of Damini Yoga. But yet, a careful
+examination of the two reveals that chart No.
+73 IS stronger and more potential. 72 is marred
+by the weakness of Lagnadhipathi while chart No.
+73 IS considerably fortified by the presence of
+Mars, a yogakaraka in the 5th and another trine
+lord Jupiter in the 11th. In point of fame
+and wealth. Chart No. 73 is decidedly more powerful. Such illustrations furnish clues as to how the
+same Yoga can operate in different ways in different horoscopes.
+97. Pasa Yoga,
+Definihon: — The planets should occupy any
+five signs.
+Results : — The person will acquire wealth
+through right means and he will always be surrounded by friends, servants and relatives.
+Remarks : — Saravali suggests that one born
+in Pasa Yoga will suffer from incarceration. This
+statement should not be taken in its face value.
+Pasa Yoga in itself cannot make one a prisoner
+unless there are other combinations indicating the
+same event. The presence of the lagna and the
+lord of lagna in the 6th and 8th in Pasa Drekkanas
+would be a powerful combination for imprisonment-
+
+118 THREE HUNDRED IMPORTANT COMBINATIONS
+Cliart No. 74 — Born on 4-3-1886 at ll-ZQ p.m.
+Balance of Rahu’s Dasa at birth : Yrs. 12-9-3.
+Balance of Mercury’s Dasa at birth: yrs. 15-1-1.
+Both the above horoscopes are examples of
+Pasa Yoga. Chart No. 74 belongs to an exspeaker of a Provincial Legislative Assembly who
+has suffered incarceration a number of times as
+
+SANKHYA YOGAS
+would be evident by the Rahu-Mars combination in
+the 10th aspected by Saturn. The tenth house has
+received no other benefic aspect. The disposition
+of Pasa Yoga may have also contributed its share
+of evil in making the subject undergo imprisonment. In Chart No. 75 on the other hand, the
+tenth is considerably strengthened by the
+presence of Mercury and Venus while the birth is
+fortified by the aspect of its own lord, in this
+case Jupiter. The native of the horoscope is a
+Joint Secretary in the Government of India and
+has been getting on very well. These illustrations
+are provided with a view to driving home to the
+reader that great care must be exercised in sifting
+the evidence furnished by different combinations.
+In both the horoscopes the sweeter aspects of
+Pasa Yoga have manifested considerably.
+98. Kedara Yoga.
+Definition, — All the planets must be ranged
+in any four signs.
+Results. — The person will earn his livelihood
+by agriculture and be highly helpful to others.
+Remarks. — A comparative study of a large
+number of horoscopes possessing Akriti Yogas
+leads me to the perception that these yogas could
+furnish helpful hints for guessing one’s profession
+which has always been a hard nut to crack. Hala
+Yoga, {vide page No. 110) makes one pursue
+agriculture. Similarly Kedara also is said to
+make one an agriculturist. Saravali points out
+that one having Kedara Yoga will have a dull
+
+120 THREE HUNDRED IMPORTANT COMBINATIONS
+intellect or poor comprehensive power. The presence of Kedara can easily be recognised and
+hence no illustration seems to be called for.
+99. SuLA Yoga.
+100. Yuga Yoga.
+101. Gola Yoga.
+Definition- — Sula Yoga. Yuga and Gola are
+given rise to by the Se\en planets occupying respectively, any three signs, two signs or single sign.
+Results. — Sula makes one devoid of wealth,
+courageous, cruel, and possess marks of wounds
+received in battle ; Yuga renders one poor, ostracised by society, heretical and a drunkard. Gola
+gives rise to a poor, dirty, unnamed, ignorant and
+indolent individual.
+Remarks. — All the above three yogas are said to
+cause poverty, render the person unfit for
+company by his wrathsome conduct and habits
+and make him miserable. Probably the joining
+together of all the seven planets within a space of
+90 degrees would release a conglomeration of evil
+forces that the rays of benefics would lose their
+lustre and get themselves merged together with
+those of the evil planets. As however, no Yoga
+can exclusively manifest itself, the results due to
+it should not be applied in their entirety. Sula
+Yoga may be present in a horoscope. The native
+may be poor, and may have sustained injuries in
+fights but yet, on account of the strength of lagna
+or the Moon he may be a man of sterling character.
+Therefore judgment in astrology has a number
+of pitfalls which a clever student has to avoid.
+
+NABHASA YOGAS
+Balance of Saturn’s Dasa at birth : Yrs. 6-7-21.
+In the above Chart, Sula Yoga is present, as
+all the planets have occupied three signs. It
+pertains to a living Commander in the Royal
+Air Force. Therefore some of the results attributed to Sula Yoga are to be found in the native.
+But he is neither poor nor cruel.
+Balance of the Moon’s Dasa at birth : Yrs. 7-11-2
+
+122 THREE HUNDRED IMPORTANT COMBINATIONS
+Yuga Yoga is brought out in Chart No. 77
+as all the planets are situated in two signs. But
+as the horoscope has a number of other relieving
+features, viewed from Chandra Lagna, the effects
+of Yuga Yoga have been considerably restricted.
+Gola Yoga is indeed a rare combination, as
+it requires the presence of all the planets in a
+single sign.
+102. Rajju Yoga.
+103. Musala Yoga.
+104. Nala Yoga.
+Definition. — If all the planets exclusively
+occupy movable, fixed or common signs respectively, Rajju, Musala and Nala Yogas are caused.
+Results. — The person born in Rajju will be
+fond of travel, handsome, searching for wealth in
+foreign countries, somewhat cruel and envious.
+One born in Musala will be endowed with selfrespect, wealth, learning and a steady mind,
+engaged in many works, famous and proud. Nala
+Yoga makes one deformed, shrewd and dejected.
+In Chart No. 78 all the planets are in
+movable signs and therefore illustrates Rajju
+Yoga.
+Remarks. — The above three yogas constitute
+the Asraya group being one of the sub-divisions of
+Nabhasa Yogas. All the planets must occupy
+exclusively movable signs, or exclusively fixed
+signs or exclusively common signs to give rise to
+these three yogas. Here no reference is made to
+the situation of the lagna or the disposition of the
+
+NABHASA YOGAS
+planets in the cardinal, fixed or common signs
+with reference to the lagna. Some commentators
+are of the opinion that in order to cause Asraya
+Yogas, all the four movable, all the four fixed
+and all the four common signs should be occupied.
+But Garga refutes this view and thereby implies
+that the only condition is that when the movable,— all or any of the four — signs are occupied,
+the fixed and the common signs should be vacant
+for causing Rajju Yoga. Similarly with regard to
+Musala and Nala. As Rajju has reference to
+movable signs, one born under its influence
+would always be wandering about in quest of
+wealth and fame. When all the planets are in
+immovable signs, the native is expected to be
+fixed in determination. Whereas planets being
+confined to common signs are held to make the
+person depressed and disappointed.
+Chart No. 78 — Born on 1-11-1910 at 1 p,m.
+Balance of Rahu’s Dasa at birth : Years 16-7-24.
+
+124 THREE HUNDRED IMPORTANT COMBINATIONS
+105. Srik Yoga
+106. Sarpa Yoga
+Definifion. — If all the benefics occupy
+kendras, Snk Yoga is caused. If all the malefics
+occupy kendras, Sarpa Yoga is produced.
+Results. — The person born in Srik Yoga will
+live in comfort, will possess conveyances, and will
+have many enjoyments. Sarpa Yoga renders one
+miserable in manj'- ways, cruel and stupid.
+Remarks. — Snk also known as Mala and
+Sarpa Yogas aiethetwo Dala Yogas mentioned
+by Parasara. The kendras must be exclusively
+occupied by benefics or malefics. It must be
+noted that so far as this yoga is concerned, the
+Moon is completely left out ol account so that
+there remain only three benefics and three
+malefics. We have formulated above in a fairly
+exhaustive manner all the Nabhasa Yogas mentioned by Varahamihira. In locating these yogas,
+there are certain factors to be considered. By
+carefully remembering the definition of Asraya
+Yogas, Akriti Yogas, Dala Yogas and Sankhya
+Yogas it would occur to any student of
+Astrology that sometimes Asraya Yogas become
+identical with Akriti Yogas ; Sankhya Yogas
+become identical with Akriti Yogas ; Asraya
+Yogas coincide with Sankhya Yogas and Dala
+Yogas coincide with Sankhya Yogas. When
+such identification of two yogas belonging to two
+different groups of the Nabhasa Yogas happens,
+one of the two will cease to operate. Mihira
+answers this point clearly and succinctly.
+
+NABHASA YOGAS
+It will be seen that the three Asraya Yogas
+(Rajju, Musala and Nala)are practically the same
+as Yava, Abja, Vajra, Andaja or Pakshi, Gola,
+Gada and Sakata, among the Akriti Yogas and
+Sula and Kedara among the Sankhya Yogas, while
+the two Dala Yogas (Srik and Sarpa) give results
+similar to those of benefics and malefics occupying
+kendras (Vajra and Yava). Elaborating the comparison further let us suppose that in a horoscope
+Cancer and Libra (movable signs) have been
+occupied by all the planets, thereby causing Rajju
+Yoga. Two adjacent angles are occupied. If
+the ascendant is either Cancer or Libra, then
+Gada is caused with the result it becomes
+identical with Rajju. Similarly if all the planets
+occupy Cancer and Capricorn and the Lagna is
+Cancer or Capricorn, both Rajju and Sakata
+Yogas merge together. Nala and Sakata coincide
+if we switch on to Gemini .and Sagittarius provided one of these two signs is rising. Thus, if
+the ascendant falls elsewhere, then both the yogas
+will be present. Similarly examples for coincidence of Asraya or Dala Yogas with other Akriti
+and Sankhya Yogas can be given. These coincidences do not include all possible instances of
+Asraya and Dala Yogas in the Akriti and Sankhya
+Yogas. Therefore, in order to show that Asraya
+and Dala Yogas are also Nabhasa Yogas
+Varahamihira has treated of them separately.
+We have now to consider another point. When
+Sankhya Yogas coincide with Akriti Yogas, the
+latter alone prevail. When Asraya Yogas coincide
+with other yogas (Akriti) the former cease to
+function. When Dala Yogas coincide with
+
+126 THREE HUNDRED IMPORTANT COMBINATIONS
+Sankhya Yogas the latter become defunct. And
+if Asraya Yogas coincide with Sankhya, i.e.,
+Kedara, Sula and Yuga, the former alone will
+prevail and finally if an Asraya Yoga coincides
+with Gola Yoga, the Asraya Yoga becomes
+defunct. Thus it will be seen that the differences
+between some of the yogas are very thin and calls
+forth on the part of the astrologer keen perception
+and analytical power.
+t07. OURYOGA
+Definition. — If the lord of the 10th is situated
+in the 6th, 8th or 12th Duryoga is caused.
+Results. — The person will not derive the
+fruits of his own bodily exertions ; he will be
+looked down by others ; highly selfish and always
+intent upon deceiving others, he will live m a
+foreign place.
+Remarks. — The tenth is the pivot of the
+horoscope and its lord should be strong if one’s
+life is to be tolerably happy. When the 10th lord
+is in Dusthanas he will lose his vitality and is
+therefore said to confer on the native just those
+qualities which render him insignificant in the
+eyes of the public. Harming others, selfishness
+and gluttony are not qualities conducive to make
+one virtuous. One who has Duryoga is supposed
+not to derive the benefits of his own bodily exertions. Duryoga seems to indicate that one would
+earn his livelihood by manual labour. Of the
+three Dusthanas, the twelfth seems to be the least
+malefic so far as this Yoga is concerned, because
+whilst depriving one of the fruits of his labours,
+
+VIMALA YOGA
+it will at least give him noble qualities and
+therefore a certain amount of respect in society.
+108. DARIDRA YOGA
+Definition. — The lord of the 11th in the 6th,
+8th or 12th will give rise to Dandra Yoga.
+Results. — The native will contract huge debts,
+will be very poor, will suffer from auditory
+troubles, will be mean and will commit sinful and
+criminal deeds.
+Remarks. — The yoga is a simple one and is
+quite common. Therefore one should not rush to
+ascribe all these results to a horoscope in which
+Daridra Yoga is present. When the Lagna is
+strong and the 2nd lord is in the 10th or 11th,
+Daridra Yoga exists nominally. Because, such a
+disposition whilst rendering the person mean and
+inclined to pursue sinful activities, will not make
+him very poor. Criminal intentions are not the
+sole monopoly of the poor. The rich are equally
+culpable to such a tendency because the richer a
+person the more avaricious he becomes to gain his
+selfish ends. Generous instincts and the tendency
+to worship the mammon are indeed poles apart.
+109. Harsha Yoga.
+110. Sarala Yoga.
+111. ViMALA Yoga.
+Definition. — The lords of the 6th, 8th and
+12th occupying the 6th, 8th and 12th will give rise
+to Harsha, Sarala and Vimala Yogas repsectively.
+Results. — Harsha makes one fortunate, happy,
+invincible, physically strong, wealthy, famous and
+
+128 THREE HUNDRED IMPORTANT COMBINATIONS
+afraid of sinful deeds. One born in Sarala
+becomes long-lived, fearless, learned, a terror to
+enemies, celebrated and prosperous. Vitnala
+renders the person frugal, happy, independent
+and possessed of ennobling qualities.
+Remarks. — These three yogas furnish us with
+a clue as to how lords of Dusthanas by occupying
+Dusthanas can overcome the evil due to such
+malefic ownership. Even though the author of
+the above yogas has ascribed very pleasant results
+to these three combinations, yet in actual practice,
+quite the contrary have been the results. Parasara and Lomasa do not seem to favour the
+conception that the sting arising from an evil
+lordship can disappear entirely as a result of the
+lord occupying another Dusthana. On the other
+hand, the intensity will be somewhat modified.
+This is evident from the fact that according to
+Parasara, when the 6th lord is in the 6th, the
+native’s relatives become enemies while he would
+befriend the outsiders and when the sixth lord is
+in the 8th or 12th, “the person becomes sickly,
+hates learned men, goes after others’ women and
+takes pleasure in causing violence.” Therefore in
+interpreting the three yogas given above, one
+should have an eye on the intrinsic evil nature of
+the ownership.
+112. SAREERA SOUKHYA YOGA
+Definition. — The lord of Lagna, Jupiter or
+Venus, should occupy a quadrant.
+Results. — The subject will be endowed with
+long life, wealth and political favours.
+
+DEHAKASHTA YOGA
+Remarks- — If all the three factors above
+referred to, viz., the ascendant lord, Jupiter and
+Venus are in Kendras, the Yoga would be rendered
+highly powerful with the result all the blessings of
+the yoga will manifest. The Yoga is fairly
+common but hardly noticed.
+113. DEHAPUSHTl YOGA
+Definition. — The ascendant lord in a movable sign aspected by a benefic, gives rise to this
+Yoga.
+Results. — The native will be happy, will
+possess a well-developed body, will become rich
+and will enjoy life.
+Remarks. — Leading a happy life is different
+from having amenities needed for it. Lord of
+Lagna must be in a movable sign and some
+benefic must aspect him. Some people will hardly
+possess bodily comforts while there are others who
+in spite of meagre earnings will look after their
+body with the utmost care.
+1 14. DEHAKASHTA YOGA
+Definition. — The lord of lagna must join a
+malefic or occupy the 8th house.
+Results. — The subject will be devoid of
+bodily comforts.
+Remarks. — As the name implies, Dehakashta
+Yoga means difficulty for the body. Most of the
+manual workers belong to this category. The
+Yoga is said to become defunct if a benefic aspects the ascendant lord.
+
+130 THREE HUNDRED IMPORTANT COMBINATIONS
+115. R0GA6RASTHA YOGA
+Definition. — (a) If the lord of lagna occupies
+the ascendant in conjunction with the lord of the
+6th, 8th or 12th; or (b) if the weak lord of
+Lagna joins a trine or a quadrant, Rogagrastha
+Yoga is caused.
+Results. — The native will possess a weak
+constitution and will become sickly.
+Remarks. — The Yoga comprehends two
+combinations, viz.., (1) the ascendant lord being
+placed in the ascendant and joined by the lord of
+the 6th, 8th or 12th and (2) the weak ascendant
+lord occupying a trine or a quadrant. It is a
+general astrological precept that when the ascendant lord joins a trine or a quadrant he acquires
+vitality. When he is weak, by which term is
+implied that his shadhala pinda (sum total of
+strength) falls short of the requisite quantity, the
+distinction attached to location in a kendra or
+thrikona becomes lost. It is found in actual practice that the lordship of the 12th is less malefic
+than that of the 6th or 8th and hence when the
+lords of the Lagna and 12th join, the affliction expresses itself more in the nature of financial stress than in terms of Dehakashta Yoga.
+One born under this combination will hardly have
+a healthy constitution. It will lack the requisite
+power of resistance so that the native falls an
+easy prey to disease.
+116&117. KRISANGA YOGA
+Definition. — The ascendant lord should
+
+KRISANGA YOGA
+occupy a dry sign or the sign owned by a ‘dry'
+pianet (116).
+The Navamsa Lagna should be owned by a
+‘dry’ planet and malefics should join the Lagna
+Results. — The subject will have an emaciated
+body and will suffer from bodily pains.
+Remarks- — Dry signs are Aries, Taurus,
+Gemini, Leo, Virgo and Sagittarius ; while dry
+planets are the Sun, Mars and Saturn. Mercury
+may also be held to be a dry planet for all
+practical purposes. The same result can be
+judged if the lagna and the lord have acquired a
+large number of dry vargas or divisions such as
+Rasi, Hora, etc.
+Chart No. 79 — Bom on 8-8-1912 at about
+Balance of Mars’ dasa at birth : Yrs. 5-6-15.
+
+132 THREE HUNDRED IMPORTANT COMBINATIONS
+Here the amsa lagna belongs to a dry planet and
+it is occupied by two first-rate malefics, viz.,
+Rahu and the Sun. The result is obvious, viz.,
+the native has a lean and emaciated physical
+appearance.
+118 to 120 DEHASTHOULYA YOGAS
+Definition. — Lord of Lagna and the planet in
+whose Navamsa the lord of lagna is placed, should
+occupy watery signs (118).
+The Lagna must be occupied by Jupiter or he
+must aspect the Lagna from a watery sign (119).
+The ascendant must fall in a watery sign in
+conjunction with benefics or the ascendant lord
+must be a watery planet (120).
+Remarks. — Possessing a strong body is different from having on unwieldy and corpulent
+appearance. Tn the above three combinations, by
+dehasthoulya is meant stoutness of the body and
+has no reference to a well-built or strong physical
+appearance. Watery signs are Cancer, Aquarius,
+Capricorn, Pisces, Scorpio and Libra, and the
+watery planets are the Moon and Venus. Of
+course. Mercury and Jupiter are also water
+resorters and a predominance of the water element
+in regard to lagna or lagnadhipathi would
+invariably make the person corpulent.
+
+SADA SANCHARA YOGA
+after sunrise; lat. 13°iV., long. 5 h. 10 m. 20 s. E.
+Balance of Mercury’s Dasa at birth: Years 6-8-27.
+In this horoscope, Cancer, a watery sign is
+rising and the Moon, a watery planet is in Scorpio
+another watery sign. The Moon (lord of the
+ascendant) is in Aquarius (a watery sign) in
+Navamsa aspected by Jupiter. The subject has a
+stout body, nervous and unimaginative.
+121. SADA SANCHARA YOGA
+Definition. — The lord of either Lagna or the
+sign occupied by Lagna lord must be in a movable sign.
+Results. — The native will almost always be a
+wanderer.
+Remarks. — The combination referred to
+above is very common in the horoscopes of travelling agents, diplomats and globe-trotters. If both
+
+134 THREE HUNDRED IMPORTANT COMBINATIONS
+the lagna and the Navamsa lagna are in movable
+signs, the subject would hardly confine himself to
+any particular locality. On the contrary, he will
+be seen moving about almost always.
+122 to 126. DHANA YOGAS
+Definition: — If the 5th from the Ascendant
+happens to be a sign of Venus, and if Venus and
+Saturn are situated in the 5th and 11th respectively, Dhana Yoga is caused — 122.
+Mercury should occupy his own sign which
+should be the 5th from lagna and the Moon and
+Mars should be in the 11th — 123.
+Saturn should occupy his own sign which
+should be the 5th from lagna, and Mercury and
+Mars should be posited in the 11th — 124.
+The Sun must occupy the 5th identical with
+his own sign and Jupiter and the Moon should be
+in the llth — 125.
+If the 5th from lagna happens to be a house
+of Jupiter with Jupiter there and Mars and the
+Moon in the llth, Dhana Yoga arises — 126.
+Results. — In all the above cases, the native
+will acquire immense wealth.
+Remarks. — The above five Yogas caused by
+the disposition of certain planets in the 5th and
+
+DHANA YOGAS
+1 1th houses are really significant as they indicate
+great riches. In the first case, the lagna must
+invariably be Capricorn or Gemini. When Makara
+is the Ascendant Saturn wall have to be in Scorpio
+the 11th. Lord of lagna in the 11th is indeed a
+fine combination. Similarly when Gemini is
+lagna, Saturn will have to be m Aries. This cannot be as powerful as in the first instance unless
+Saturn gets Neechabhanga.
+In 123 Lagna must fall either in Kumbha
+or in Taurus. In legard to Kumbha, the combination in the 11th will be due to the lord of the
+10th and 6th while for Taurus, the location in
+the eleventh would be of the lords of the 3rd and
+7th. The degree of wealth would be the same
+but the source of getting it would be different.
+Combination 124 has reference to Virgo and
+Libra. If Virgo is lagna, then Mercury lord of the
+10th will be in the 11th. If Libra is Lagna, then
+the 9th lord will be in the llth. Both the dispositions are highly favourable though in the first
+instance, Mercury being lord of Lagna also in
+addition to the lordship of the 10th would certainly have greater significance.
+Combination 125 is applicable only to Aries
+in which case the Sun as lord of the 5th would be
+in the 5th and the Moon lord of the 4th and
+Jupiter lord of the 9th would be in the 1 1th. MoonJupiter combination itself comprehends two
+powerful Raja Yogas, because firstly they are
+lords of a kendra and thrikona respectively, and
+
+136 THREE HUNDRED IMPORTANT COMBINATIONS
+secondly, Gaja Kesari would be formed — all
+occurring in the 11th house. 125 would indeed
+be a powerful Dhana Yoga.
+If Jupiter could be in the 5th identical with
+his own sign (as required in combination 126) in
+respect of Scorpio and Leo, the Yoga could be
+expected to be more powerful in respect of
+Scorpio, because when Mars and the Moon
+occupy the 11th, they do so as lords of 1 and 9
+and hence of considerable significance.
+It will be seen that all the five combinations
+given above have reference to the fortification of
+the 5th and 11th houses.
+Balance of Jupiter’s Dasa at birth ; Years 12-1-6
+
+DHANA YOGAS
+In the above horoscope the 5th from lagna
+is owned by Venus, and Venus and Saturn
+occupy respectively, the 5th and 11th houses,
+hence illustrating combination 122. Saturn’s
+dasa proved highly beneficial from the point of
+view of finance, prosperity having set-in, as
+soon as Venus’ sub-period commenced.
+Balance of Saturn’s dasa at birth : Yrs. 0-0-9.
+Chart No. 82 is a typical example for combination 124. Saturn owns and occupies the
+5th and Mars fiord of the 2nd) and Mercury
+(lord of the 9th) are in the 11th in association
+with the Sun, the lord of the 11th. The peculiarity
+in this case is that during Mercury’s dasa
+the native’s father became extremely wealthy,
+probably due to the fact that Mercury having
+caused Dhana yoga is associated with the Pitrukaraka Sun.
+
+138 THREE HUNDRED IMPORfANT COMBINATIONS
+Chart No. 83.— Bom on 20-8-1891 at lO p.m.
+Balance of Rahu*S'©asa at birth ; Years 2-6-15;
+Balance of Moon’s Dasa at birth ; Yrs. 3-8-21.
+
+DHANA YOGAS
+Chart No, 81 illustrates coiubinat^n 125^.
+The Sun occupies the 5th which is ^
+sien while the Moon and Jupiter .
+;®th"lUh. It will be seen that the Moon a„d
+luDiter have caused two yogas viz. Ga)akesaci
+and another Raja Yoga thus fort.iying the
+house of gains considerably.
+Chart No. 84 is an example for
+126 which requires the presence of Jupue
+5th (in his own sign') and Moon and Ma „
+11th A powerful Chandramangala yoga occurs
+‘n the u*. As Mars and the Moon of
+the 11th and 9th respectively a powerfu
+Yoga is also caused.
+Definitions If the Sun is ^ and
+with Leo, and aspected or joined b> Mars
+Jupiter, Dhana Yoga is formed-12/.
+If the Moon is in lagna
+and aspected by Jupiter and Mars, Dhana A og
+is caused — ^^128. • u a Vq
+Mars should be in lagna identical
+or Scorpio and joined or aspected by the Moon,
+Venus and Saturn —129. ^ -.vuMercury should be in
+own sign and joined or aspected by Saturn and
+Tupiter should be in lagna identical with his
+own sign and joined or aspected by Mercury and
+Venus should be in lagna '“(VT and
+own sign and joined or aspected by Saturn and
+Mercury— 132.
+
+140 THREE HUNDRED IMPORTANT COMBINATIONS
+Results : — In all the above cases, the subject
+acquires immense wealth.
+Remarks : — In the above six combinations,
+planets from the Sun to Venus are to occupy
+lagna which should be the own sign of the
+planet concerned and it should further be conjoined or aspected by certain other planets as
+per details given below : —
+Planet Ascendant Conjunction or aspect of
+It will be seen that except Capricorn and
+the rest of the signs have been taken
+into account. In all the above cases, the lord of
+lagna must be in his own sign identical with lagna
+and aspected by or associated with certain
+favourable lords.
+Each of the above combinations can have a
+number of variations as could be seen from the
+following explanation. Take for example the Sun.
+Leo is lagna, and the Sun is there.
+The Dhana Yoga in question may be caused
+by
+{a) Jupiter and Mars being in Lagna.
+{h'' Jupiter being in Dhanas and Mars in
+Makara.
+(c) Jupiter being in Dhanas and Mars in
+Aquarius.
+
+DHANA YOGAS
+Jupiter and Mars being in Kumbha.
+(e) Jupiter beingin Aries and Mars in Taurus.
+The same variations can be seen in regard to
+the Dhana Yoga arising out of other planets also.
+Chart No. 85 — Born on 15-5-1904 at 6 a.m.
+Rasi I — —
+ljupuer
+Ketu
+Lagna
+Venus
+Ketu
+Saturn
+j ^ Moon 1
+! Navahsa 1 i
+> Sun
+Balance of Jupiter’s Dasa at birth : Years 3-1-17.
+Chart No. 86 — Born on 20-8-1944 at 8 pan.
+Ketu
+Rasi
+I Saturn
+Rahu
+Lag. Sun
+Moon
+Mars
+Venus
+Mer. Jup
+Balance of Venus’ Dasa at birth : Years 13-4-19.
+
+142 THREE HUNDRED IMPORTANT COMBINATIONS
+Combination 132 is shown by Chart No. 85.
+The lagna is Taurus and Venus lord is in Lagna in
+conjunction with Mercury and aspected by Saturn.
+Chart No. 86 is an example for combination
+127. Lagna is Leo and the Sun is in Lagna in
+conjunction with Mars and Jupiter.
+133. BAHUDRAVYARJANA YOGA
+Definition ; — Lord of the lagna in the 2nd,,
+lord of the 2nd in the 11th and the lord of the
+11th in lagna will give rise to this yoga.
+Results: — The subject will earn lot of money
+and will amass a good fortune.
+Remarks : — A point of contact is established
+between the lagna, 2nd and 11th houses — the lords
+of these three houses inter-changing their respective positions. Here again, the real value of the
+Yoga depends upon the strength of the lords
+concerned and how they are disposed in* regard to
+the general scheme of the horoscope.
+lai. 13°A, long. IT 35" E.
+Balance of Venus’ Dasa at birth : Years 11-7-45.
+
+SWAVEERYADDHANA YOGA
+In the above horoscope lord of Lagna is in
+the 2nd, the lord of the 2nd is in the 11th and
+the lord of the 11th in lagna thus showing the
+presence of a verj/ powerful Dhana Yoga.
+134 to 136 SWAVEERYADDHANA YOGA
+Definition: — The lord of lagna being the
+strongest planet, should occup}^ a kendra in conjunction with Jupiter and the 2nd lord should join
+Vaiseshikamsa — 134.
+The lord of the sign in which the lord of the
+Navamsa occupied by the Ascendant lord should
+be strong, and join a quadrant or a trine from the
+2nd lord or should occupy his own or exaltation
+sign — 135.
+The 2nd lord should occupy a quadrant or
+trine from the first lord or the 2nd lord being a
+benefic should be either in deep exaltation or in
+conjunction with an exalted planet — 136.
+Results: — The subject will earn money by his
+own efforts and exertions.
+Remarks: — Inherited wealth cannot last long
+nor is it made use of properly. Generally such
+wealth is squandered away on pleasures and
+valueless purposes. The person concerned will
+have no experience as to how difficult it is to
+earn money by fair means. On the other hand,
+wealth acquired through personal effort would
+be rightly spent or at least not wasted because
+of the exertions put forth in making the money.
+The above three combinations are quite clear
+and need no clarification.
+
+144 THREE HUNDRED IMPORTANT COMBINATIONS
+According to 134, the ascendant lord must
+be the strongest planet in the horoscope and he
+should be in Vaiseshikamsa or in a kendra in
+conjunction with Jupiter.
+135 is somewhat confusing. Lord of Lagna
+is in some Navamsa. The lord of that Navamsa
+occupies some sign. Its lord must be disposed
+in a kendra or thnkona from the 2nd lord. Suppose Lagna is Kan^^a and the lord is in Makara
+Navamsa. The lord of Makara is Saturn and
+suppose he occupies (in Rasi) Mesha. Then the
+lord of this sign, viz., Mars should be in a kendra
+from Venus, lord of the 2nd. 136 is quite simple.
+Balance of Mars’ Dasa at birth ; Yrs. 5-6-15.
+In the above horoscope, lord of lagna, Saturn
+is in Mesha Navamsa ; the lord of which, viz.. Mars
+is in Leo. Its lord Sun is in a trine from Jupiter
+lord of the 2nd. The native started life with no
+
+MADHYA VAYASI DHANA YOGA
+financial facilities but earned decently by his own
+exertions.
+137 MADHYA VAYASI DHANA YOGA.
+Definitions : — The 2nd lord possessing Kalabala must join the lords of lagna and the 11th
+in a quadrant or a trine and be aspected bybenefics.
+Results. — The person will acquire money by
+self-effort towards the middle part of his life.
+Remarks. — Kalabala or temporal strength is
+one of the six sources of planetary strength enumerated at length in my GRAHA & BHAVA
+BALAS. Kalabala consists of various sub-divisions based upon the lunar phases, week day,
+time, solstice and planetary fights Generally
+speaking, planets are said to acquire Kalabala in
+their week days, months and years. The Moon,
+Mars and Saturn are powerful during the night.
+The Sun, Jupiter and Venus are powerful during
+the day. Mercury is always powerful. Malefics
+and benefics are powerful during the dark half and
+bright half of the lunar month respectively.
+In order to make one get wealth in the middle
+part of his life, lord of the 2nd having acquired
+Kalabala should be in a kendra or a thrikona in
+conjunction with the lords of lagna and the 11th.
+A perusal of astrological literature bearing
+upon ‘ Wealth’ reveals clearly that in order to
+become rich, one should have in his horoscope
+combinations which comprehend a point of contact between lords of lagna, 2nd, 11th, 5th and
+
+146 - THREE HUNDRED IMPORTANT COMBINATIONS
+9th.' It is the pernfiu-tations arid combinations of.
+these lords that give I'ise to a stupendous number
+of Dhana Yogas.
+138. .ANTHYAVAYAS! DHANA YOGA .
+■ '^ Definition: — The planet owning the sign in
+which the lords of the 2nd and ist together with;
+a natural benefic are placed, should be strongly
+disposed in lagna.
+Results. — The subject will acquire finance
+through various means towards the last part of his
+life.
+Remarks. — ^There are some who eke out a
+miserable existence almost throughout their lives
+but all of a sudden, just at the fag end of their
+lives fortune dawns on them. Such instances are
+not rare. The combination requires that lords of
+lagna and the 2nd should be in conjunction with
+a benefic and the lord of this sign should, be.
+strong and occupy lagna. The combination is
+not of frequent occurrence.
+139. BALYA DHANA YOGA
+Definition. — The lords of the 2ad and 10th
+should be in conjunction in a kendra aspected by
+the' lord of the Navamsa occupied by the ascendant lord.
+Results. — The person acquires immense
+riches in the early part of life.
+Remarks.-— The Yoga is a round about one.
+Three conditions have to be fulfilled for its presence, viz, {<?) the 2nd and 10th lords should be
+
+BBRA-T.RUMOOLADDHANAPRAPTI. YOGA 147;
+in .‘.-Gonjunction.-. (6) they , must occupy a.kendra
+from lagna, (e); and they , must be aspected lay .
+thet.plaiaet who, owns the Navamsa in which the
+lord of lagna. is- located. ■
+Balance of Moon’s Dasa at birth : Yrs. 2-6-23.
+. The .above horoscope illustrates combination
+140 & 141. BHRATRUMOOLADDHANAPRAPTI YOGA
+'• Definition.- — The lords of lagna and the 2nd
+should join the 3rd aspected by benefics — 140.
+The lord of the 3rd should be in the 2nd with
+Jupiter and aspected by or conjoined with the lord
+of iagna who should have attained Vaiseshikamsa
+.Results. — The native gets money through
+brothers and relati.ves. :
+
+148 THREE HUNDRED IMPORTANT COMBINATIONS
+Remarks. — Predicting the source of income
+astrologically is a difficult job. The above two
+combinations give a hint that one can earn moneythrough brothers by a certain disposition of the
+2nd and 3rd lords.
+142. MATRUMOOLADDHANA YOGA
+Defimtion. — If the lord of the 2nd joins the
+4th lord or is aspected by him the above yoga will
+be caused.
+Results. — One earns money with the help of
+one’s mother.
+Remarks. — The combination may also be
+interpreted to mean that depending upon the
+nature of the 4th lord, the source of earning could
+also vary. Thus if the 4th lord is Mars, agriculture may be the source.
+143. PUTRAMULADDHANA YOGA
+Definition. — If the strong lord of the 2nd is
+in conjunction with the 5th lord or Jupiter and if
+the lord of lagna is in Vaiseshikamsa, the above
+yoga arises.
+Results. — The person gets wealth through
+his sons.
+Remarks. — There are several instances of
+persons living from hand to mouth but becoming
+rich after their sons come to age and assist them
+in founding and developing some business or
+otherwise extending them financial facilities. The
+lagna must be in Vaiseshikamsa and the strong
+2nd lord should be associated with the fifth lord.
+
+SATRUMDLADDHANA YOGA
+Chart No. 90. — Bom on 1-6-1895 dt Gh.
+45-12 after Sunrise.
+Balance of Sun’s Dasa at birth ; Years 1-6-13.
+In the above horoscope, the 2nd lord is
+Jupiter and he is in conjunction with the 5th lord
+Mercury. The lagnalord is not in Vaiseshikamsa
+but he is decidedly strong. Till the age of 50, the
+native had never seen the bright side of life but
+beginning from the 51st year, father and son
+jointly floated a small business which was steadily
+developed into a substantial concern. When the
+Yoga is present, it does not necessarily imply that
+the son would help the father with money. It
+may mean that after the birth of a son the father
+would become rich. In such a case the son only
+brings invisible luck to the father.
+144. SATRUMULADDHANA YOGA
+Definition. — The strong lord of the 2nd should
+join the lord of the 6th or Mars and the powerful
+lord of lagna should be in Vaiseshikamsa.
+
+150 IHREL UmDREI) IMPORTANT COMBINATIONS
+Results — riie native earns moiie)" through
+his enemies
+Remarks — In ill these Yogas, stress is
+evidenth laid on the stiength oi the 2pd lord and
+the poweitul disoosition of lagiiadhipathi m
+A aiseshihams i To gi\e the results suggested in
+ihe iDo\c Yoga, the 2nd loid may edhei join the
+6lh luid 01 Mars oi be i^pected b} one them
+1 45 KALATRAMOOLADDHANA YOGA
+Difimiion — Tm stiong loid ot the 2nd
+should j lii 01 be aspecicd by the seventh lord
+and \ enim and the loui of lagna must be
+ponertid
+Results — The subject wil^ earn iTuney
+through wife
+Remarks — P the 2nd lord, whose inheient
+stiength is of coume assuoicd, is c-t^sociated with
+the 7th lord and AYnus, one would become iich on
+account of one’s wife
+146 AHARANANTHA DHANA YOGA
+DefiniUon — Ir a numbei of planets occupy
+the 2nd house and the wmalth-giving ones aie
+strong or occupy own or exaltation signs the
+above Yoga is caused
+Results — The native v\ill enjoy wealth
+throughout life
+Remarks — The 2nd should be occupied by a
+number of planets Besides this, wealth-giving
+ones, VIZ, the 2nd lord and Jupiter should be
+strongly disposed The Yoga given rise to in this
+
+DARIDliA YOGA
+wa} would enable the person concerned command
+iiches all thiough life When a horoscope is
+inherently strong in respect of anj particular
+bhava, its results will manifest peimanentH as
+different from those gi\en rise to by Yogakarakae
+whicii generally hold swa> during the Dasas
+concerned
+147 AYATNADDHANALABriA YOGA
+Definition — The lords of the lagna and the
+2nd must exchange their places
+Results. — The person eains wealth without
+much effort
+Remarks. — There are some who lead a miserable existence in spite of their best attempts to
+enrich themsekes w'hilst there are others who
+without straining themselves much earn decently
+We attnbute this to chance oi luck Actually it
+IS neither luck nor chance but the result of one’s
+good previous Karma Panvarthana between the
+first and 2nd lords is a highly desiiable feature.
+148 to 157 DARIDRA YOGAS
+Definition — The lords of the 12th and lagna
+should exchange their positions and be conjoined
+or aspected by the loid of the 7th — 148.
+The lords of the 6th and lagna interchange
+their positions and the Moon is aspected by the
+2nd or 7th loid — 149.
+Kethu and the Moon should be in Lagna — 150.
+The loid of lagna is in the 8th aspected by
+or in conjunction with the 2nd or 7th lord — 151.
+
+152 THREE HUNDRED IMPORTANT COMBINATIONS
+The lord of lagna joins the 6th, 8th or 12th
+with a malefic aspected by or combined with the
+2nd or 7th lord — 152.
+Lord of lagna is associated with the 6th, 8th
+or 12th lord and subjected to malefic aspects — 153.
+The lord of the 5th joins the lord of the 6th,
+8th or 12th without beneficial aspects or conjunctions— 154.
+The lord of the 5th is in the 6th or 10th
+aspected by lords of the 2nd, 7th, 6th, 8th or
+Natural malefics, who do not own the 9th
+or 10th should occupy lagna and associated with
+or aspected by the Maraka lords — 156.
+The lords of the lagna and Navamsa Lagna
+should occupy the 6th, 8th or 12th and have the
+aspect or conjunction of the lords of the 2nd and
+Results. — All the above Yogas produce dire
+poverty, financial straits, wretchedness and
+miseries.
+Remarks. — Poverty is a horrible spectre more
+grim-like than even death. Death puts an end
+to life and settles all worldly states. What happens
+after death, nobody knows. It is supposed to put
+an end to all the worldly miseries, sorrows and
+anxieties. Hence there are some misguided people
+who prefer death to abject poverty. A poor man
+leads a wretched life. He will be compelled to
+live in squalid and unhealthy houses. The children
+will have no facilities for education, health and
+decent existence. The poor man is generally
+
+YUKTHI SAMANWITHAVAGMI YOGA
+Bhunned everywhere. He will be an unwelcome
+ofuest at the doors of the ‘ well-to-do classes. His
+feeitimate activities are obstructed by financial
+difficulties and want of sympathy. Poverty
+is the hot bed of crime and vice and the imperious
+sensations of hunger and thirst drive him to disaraceful acts. Whatever may philsophers say, the
+pangs of poverty are difficult to bear.
+In all the above combinations, reference is
+made in the original to the conjunction of lords of
+lamia and the 5th with maraka lords. Evidently,
+the maraka lords are the 2nd and 7th lords. Some
+authors include 6th, 8th and 12th houses also as
+belonging to maraka category.
+158 and 159. YUKTHI SAMANWITHAVAGMI YOGA
+Definihon.—The 2nd lord should join a
+benefic in a kendraor thrikona, or be exalted and
+combined with Jupiter 158.
+The lord of speech should occupy a kendra,
+attain paramochha and gain Parvathamsa, while
+Jupiter or Venus should be in Simhasanamsa 159.
+Results. — The person will become an eloquent
+and skilled speaker.
+Remarks.— The art of speaking is not an easy
+one. The gift of eloquence can influence men
+and’ manners. Men can succeed beyond expectation by convincing speeches. Different occasions and conditions call for different degrees of
+eloquence or skill. In order to gain this power,
+lord of the 2nd must be well aspected and conjoined- Mercury must be free from affliction if
+one is not to become witty in the vulgar sense.
+
+154 THREE HUNDRED IMPORTANT COMBINATIONS
+For being an eloquent speaker, the lord of
+the 2nd should join a trine or a quadrant with
+Jupiter or get exalted. Parvatamsa, Simhasanamsa, etc., have been defined in the index of
+technical terms given at the end of the book.
+The nature of vocabulary and the dignified or
+low tone of the speech depends upon the good
+and malefic influences the planet of speech is
+subjected to.
+160. PARI H ASA KA YOGA
+Definition. — The lord of the Navamsa occupied by the Sun should attain Vaiseshikamsa and
+join the 2nd house.
+Results. — The person becomes a humorous
+and witty speaker.
+Remarks. — People of jolly temperament take
+things easily and humorously while there are
+some w'ho take even trifles as serious. Humour
+is the spice of life and all cannot claim it with
+equal facility.
+The Sun occupies some Navamsa and its
+lord should be in the 2nd besides attaining
+Vaiseshikamsa.
+It will be seen that a planet can occupy its
+own Rasi, its own Amsa, its own Drekkana etc.,
+in which case it is said to be in Swarasi or Swakshetra, Swa Hora, Swa Drekkana, etc. In all
+these cases it is in Swavarga. There are Shodasa
+Vargas or sixteen types of divisions. A planet
+can therefore occupy its own varga sixteen times.
+
+PARIHASAKA YOGA
+Astrological writers have attached great significance to the special distinction of a planet being
+in its own Varga more than once. The following
+are the important Amsas (distinctions) often
+alluded to in the astrological literature.
+When a planet is in its own Varga —
+When a planet attains Vaiseshikamsa, it is
+par excellence.
+161 ASATYAVAD! YOGA
+DeAnitton. — If the lord of the 2nd occupies
+the house of Saturn or Mars and if malefics join
+kendras and thnkonas, the above Yoga is caused.
+Results. — The native will be a liar.
+Remarks. — According to the above combination, lord of the 2nd must occupy Aries, Scorpio,
+Capricorn or Aquarius and the kendras and thrikonas must have malefics. The same Yoga is also
+said to be caused if the lord of the Navamsa
+occupied by the lord of the 2nd happens to be
+either Mars or Saturn or happens to stay in the
+signs of these two planets.
+
+156 THREE HUNDRED IMPORTANT COMBINATIONS
+162. jADA YOGA
+Definition. — The lord of the 2nd should be
+posited in the 10th with malefics or the 2nd must
+be joined by the Sun and Mandi.
+Results. — The person becomes nervous in
+public assemblies.
+Remarks. — There are some people who though
+learned, well-informed and capable of eloquence
+lose their balance of mind and become extremely
+nervous when they are called upon to speak in
+large gatherings. Such people will generally have
+the 2nd lord afSicted. Even when the above
+combination is present, if the 2nd lord is in a
+benefic Navamsa, the Yoga is found to lose its
+significance.

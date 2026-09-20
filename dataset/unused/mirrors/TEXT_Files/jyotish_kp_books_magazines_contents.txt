@@ -1,0 +1,242 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_kp_books_magazines_contents.json
+Dataset number: 233 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 6,722 bytes
+Top-level fields: 11
+Title: Jyotish_KP books-magazines_contents
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_KP books-magazines_contents
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: classifiedbytopicscontents
+  • total_pages: 6
+  • total_words: 959
+  • text_quality:
+    • ocr_word_validity_score: —
+    • quality_tier: not_a_book_index_list
+    • note: This file does not contain scripture/book text. It is a personal cloud-drive folder listing (PDF filenames and pcloud.com links) that was mistakenly catalogued as a book. Recommend excluding from the book library or re-filing under a different content type.
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Jyotish_KP books-magazines
+folder; https://my.pcloud.com/publink/show?code=kZcYTQkZgTubB2Wb6XH3bqjdKuHyQbESfT1k
+root folder; https://my.pcloud.com/publink/show?code=kZ3NcW7Z9Np4EUHYYR8KAibwo1 NqcSmJjODV
+articles 18.1 MB
+T
+A
+birth rectification
+Birth Time Rectification through KP Astrology.pdf
+Presentation_KP birt rectification_OVN Murthy.pdf
+Presentation_KP birth rectification_Rajendra Nimje.pdf
+aRectification_of_Birth_Time_lagna sub only.pdf
+Rectification_of_Birth_with prasna.pdf
+Does Krishnamurti Padhdhati Rest On a Mistake_T.R. Raghunath,.pdf
+Hidden Common Joint Rulers Effect In Sidereal Zodiac.pdf
+K.P.& SUB LORD AND THE PRINCIPLE.pdf
+KP Astrology_The Horoscope Explained.pdf
+KP astro_SOME FUNDAMENTAL RULES WHILE OFFERING JUDGEMENT.pdf
+KP deviation.doc
+KP deviation.pdf
+KP houses_examples.pdf
+KP system not always correct.pdf
+KP_Dr.Andrew Dutta articles
+12 HOUSES PREDICTION RULES.pdf
+Birth Time Rectification through K. P.pdf
+Dreams can reveal your future.. pdf
+Mamata Banerjee Swearing Chart_201 1 .pdf
+Marriages are made in Heaven.pdf
+Mysteries of Twin_Dr.Andrew Dutta.pdf
+Vimshottari Secret Code_Must read.pdf
+Will UPA return to power in the Center in 2009 General Elections.pdf
+win state elections.pdf
+KP_Love Affair & Love Marriage In KP.txt
+Krishnamurthi Padathi introduction.pdf
+T
+cau
+Krishnamurti Padhdhati_A New System_T.R. Raghunath.pdf
+Lecture_Note on Krishnamurti Paddhati.pdf
+medical
+K P_ASTRO_Di sease_C u re. pdf
+nakshatrazones_KP2.pdf
+Prasna-horary
+Horary Rules.txt
+Houses karakas for prasna_a must.pdf
+rrm.
+Houses karakas for prasna_simple.pdf
+2 KB
+
+Jyotish KP books-magazines
+File Listing
+Page 2
+Name
+Kp-System-Techniques-in-Horary.docx
+Kp-System-Techniques-in-Horary.pdf
+Kp_Prasna_Sastra.pdf
+U Prasna Kundali Krishnamurthy.html
+A
+Reading_a_KP_Horary_Chart.pdf
+Presentation_annual horoscope.pdf
+Presentation_computer tools for astrology.pdf
+Presentation_KP approach to Elections.pdf
+Presentation_KP principles_Rajendra Nimje.pdf
+Presentation_match making.pdf
+Pt Akash articles on kp astrology.pdf
+Significators in Krishnamurtipaddhati.pdf
+Simple rules of 4 stp theory_KP system.pdf
+Starlord Connection.pdf
+tuition
+AM
+4cusp sublord-KP.txt
+A Primer on KP Foundations.pdf
+Astro logy_K P_Sy stem . pdf
+Astrology_The divine science.pdf
+Bhaskaran's theory.pdf
+KP 4 STEP Theory. webarchive
+KP 4 STEP Theory_beginners.pdf
+KP system 2p.doc
+KP system 2p.pdf
+KP tuition_Jupiter web.pdf
+xj
+W
+a
+a
+KP-Second-Marriage-Rules.doc
+KP-Second-Marriage-Rules.pdf
+Kp-Second-Marriage.doc
+Kp-Second-Marriage.pdf
+KP_Astrology tuition.pdf
+KP_Methodology_for_Chart_Analysis.redownload.rtf
+KP_Methodology_Template_1 .pdf
+KP_NAKSHATRAS division.pdf
+C Predicting-With-KP-Horary.docx
+Predicting-With-KP-Horary.pdf
+Predictive_Kp.pdf
+ROLE OF SUBLORD.pdf
+xT
+Size
+7 KB
+3 KB
+
+File Listing
+Page 3
+
+Jyotish KP books-magazines
+File Listing
+Page 4
+Name
+Jyotish_KP.reader 4_marriage_married life & children.pdf
+Jyotish_KP.reader 5_transits banned.pdf
+by Kanak B. Bosmia
+Size
+Jyotish_2015_B. Bosmia_Easy Way To Learn KP Birth Time Rectification.pdf alias 1 KB
+K
+K
+Jyotish_K.P. muhurat_Kanak B. Bosmia.pdf
+by MK Viswanath-astrovision
+Jyotish_K.P._Basics of nakshatra padhathi_MK Viswanath.pdf
+by others
+Jyotish_Anil Chawla_A Philosophy of astrology_KP system.pdf
+Jyotish_Houses 8 and 3 in advanced astrology_KP Horary_Chatterjee.pdf
+Jyotish_How K.P. pinpoint events_prasna_K. HARIHARAN.pdf
+Jyotish_K.P. dynamics_S. NAIK.pdf
+Jyotish_K.P._How to judge longevity_K. HARIHARAN.pdf
+Jyotish_KP_Chandrakant R. Bhatt_ 1975_Nakshatra Chintamani.pdf
+Jyotish_KP_Chandrakant R. Bhatt_ 1980. ..er lights on Nakshatra Chintamani.pdf
+Jyotish_KP_new dimensions of KP astro_Prabhakar.pdf
+Jyotish_KP_Sharad JoshLKrishnamurthy padhdhati.pdf
+Jyotish_KP_Sharad Joshi_Nakshatra chintan_part 1_pages missing.pdf
+Jyotish_KP_Sharad Joshi_Nakshatra light.pdf
+Jyotish_KP_The times_Horary Astrology_Prabhakar.pdf
+Jyotish_Krishnamurthy paddhati_Bansal.pdf
+X-l
+M
+a
+by S.P. Khullar
+Jyotish_Key to Learn_K.P. cuspal system_S.P. Khullar.pdf
+Jyotish_KP_Kalamsa and cuspal interlinks _S.P. Khullar.pdf
+Jyotish_KP_True astrology _S.P. Khullar.pdf
+Jyotish_your true horoscope_KP rectification_S.P. Khullar.pdf
+Jyotish_K.P._Astro IQ_easy test.pdf
+Jyotish_KP year book 2010.pdf
+The Only Complete Compendium On KP Astrology_ get full book.pdf
+KP Tables
+Divya Tables
+1-Aries Leo Sagittarius.doc
+1- Aries Leo Sagittarius.pdf
+2- Taurus Virgo Capricorn.doc
+2- Taurus Virgo Capricorn.pdf
+3- Gemini libra Aquarius.doc
+3-Gemini libra Aquarius.pdf
+
+Jyotish KP books-magazines
+File Listing
+Page 5
+Name
+Size
+4-Cancer Scorpio Pisces.doc
+4-Cancer Scorpio Pisces.pdf
+KP subs with padas.doc
+KP subs with padas.pdf
+KP sub_sub tables.. pdf
+How KP divides into sub and sub_sub.pdf
+KP tables-Star_ Sub & Sub-Sub-good print.xlsx
+Tables_of_Sub_Sub_BEST.pdf
+~$KP tables-Star_ Sub & Sub-Sub-good print.xlsx
+~$KP tables.xlsx
+magazine-downloads
+Astrology and Athrishta Mag. 1963-72_1972 to 75 missing
+S
+El
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+Astrology and Athrishta_K.P._12
+ssues_1963.pdf
+ssues_1964.pdf
+ssues_1965.pdf
+ssues_1966.pdf
+ssues_1967.pdf
+ssues_1968.pdf
+ssues_1969.pdf
+ssues_1970.pdf
+ssues_1971.pdf
+ssues_1972.pdf
+JASA magazine-Andrew Dutta_till 2015
+JASA Latest Issue. webarchive
+JASA Past Issues. webarchive
+JASA_2011_6months.pdf
+JASA_2012.pdf
+JASA_2013.pdf
+JASA_2014-.pdf
+JASA_201 5_last issue.pdf
+Astrovision magazine
+KP Astrovision 2008 12 issues.pdf
+KP Astrovision 2009 12 issues.pdf
+KP Astrovision 2010 10 issues.pdf
+KP Astrovision 2011 12 issues.pdf
+KP Astrovision 2012_11 issues.pdf
+KP Astrovision 2013 9 issues.pdf
+171 bytes
+171 bytes
+
+Jyotish KP books-magazines
+File Listing
+Page 6

@@ -1,0 +1,9 @@
+{
+  "name": "HoraSaar — Jyotish & Horoscope",
+  "short_name": "HoraSaar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f1e7",
+  "theme_color": "#7b1e25",
+  "description": "HoraSaar provides dynamic Jyotish calculations, birth charts, reports, Panchang tools and subscription-based daily reports."
+}

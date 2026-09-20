@@ -1,0 +1,12 @@
+{
+  "WEEKDAY_LORDS": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn"
+  ],
+  "TROPICAL_YEAR": 365.24219
+}

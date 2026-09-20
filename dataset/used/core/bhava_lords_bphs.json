@@ -1,0 +1,1989 @@
+[
+  {
+    "id": 1,
+    "shloka": 1,
+    "description": "Should the ascendant lord be in the ascendant itself, the native will be endowed with physical happiness and prowess. He will be intelligent, fickle-minded, will have two wives, and will unite with other females.",
+    "hindi": "लग्नेश लग्न में हो तो देहसौख्य, बल, दो पत्नियाँ और परदार रति (पराई स्त्री में आसक्ति) होती है।",
+    "gujarati": "લગ્નેશ લગ્નમાં હોય તો દેહસૌખ્ય, બળ, બે પત્નીઓ અને પરદાર રતિ (પરાઈ સ્ત્રીમાં આસક્તિ) થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "lagna",
+      "physical happiness",
+      "two wives",
+      "extramarital affairs"
+    ]
+  },
+  {
+    "id": 2,
+    "shloka": 2,
+    "description": "If the lord of the ascendant is in the 2nd, he will be gainful, scholarly, happy, endowed with good qualities, religious, honourable, and will have many wives.",
+    "hindi": "लग्नेश द्वितीय भाव में हो तो धनवान, पण्डित, सुखी, गुणवान, धीर और बहुभार्यावान होता है।",
+    "gujarati": "લગ્નેશ દ્વિતીય ભાવમાં હોય તો ધનવાન, પંડિત, સુખી, ગુણવાન, ધીર અને બહુભાર્યાવાન થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "2nd house",
+      "wealth",
+      "learning",
+      "many wives"
+    ]
+  },
+  {
+    "id": 3,
+    "shloka": 3,
+    "description": "If the lord of the ascendant is in the 3rd, the native will equal a lion in valour, be endowed with all kinds of wealth, be honourable, will have two wives, be intelligent, and happy.",
+    "hindi": "लग्नेश तृतीय भाव में हो तो विक्रमी, सर्वसम्पत्तियुक्त, मानी, द्विभार्य, धीमान और सुखी होता है।",
+    "gujarati": "લગ્નેશ તૃતીય ભાવમાં હોય તો વિક્રમી, સર્વસમ્પત્તિયુક્ત, માની, દ્વિભાર્ય, ધીમાન અને સુખી થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "3rd house",
+      "valour",
+      "wealth",
+      "two wives"
+    ]
+  },
+  {
+    "id": 4,
+    "shloka": 4,
+    "description": "If the ascendant lord is in the 4th, the native will be endowed with paternal and maternal happiness, will have many brothers, be lustful, virtuous, and charming.",
+    "hindi": "लग्नेश चतुर्थ भाव में हो तो पितृ-मातृ सुख, बहुभ्राता, कामी, सुशील, सुमुख और सुखी होता है।",
+    "gujarati": "લગ્નેશ ચતુર્થ ભાવમાં હોય તો પિતૃ-માતૃ સુખ, બહુભ્રાતા, કામી, સુશીલ, સુમુખ અને સુખી થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "4th house",
+      "parental happiness",
+      "many brothers",
+      "charming"
+    ]
+  },
+  {
+    "id": 5,
+    "shloka": 5,
+    "description": "If the ascendant lord is in the 5th, the native will have mediocre progeny happiness, will lose his first child, be honourable, given to anger, and be dear to the king.",
+    "hindi": "लग्नेश पंचम भाव में हो तो मध्यम पुत्र सुख, प्रथम संतान का नाश, मानी, क्रोधी और राजप्रिय होता है।",
+    "gujarati": "લગ્નેશ પંચમ ભાવમાં હોય તો મધ્યમ પુત્ર સુખ, પ્રથમ સંતાનનો નાશ, માની, ક્રોધી અને રાજપ્રિય થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "5th house",
+      "loss of first child",
+      "royal favor",
+      "anger"
+    ]
+  },
+  {
+    "id": 6,
+    "shloka": 6,
+    "description": "If the ascendant lord is in the 6th and related to a malefic, the native will be devoid of physical happiness and will be troubled by enemies if there is no benefice aspect.",
+    "hindi": "लग्नेश छठे भाव में पाप से युत हो और शुभ की दृष्टि न हो, तो शारीरिक सुख से रहित और शत्रुओं से पीड़ित होता है।",
+    "gujarati": "લગ્નેશ છઠ્ઠા ભાવમાં પાપ સાથે યુત હોય અને શુભની દૃષ્ટિ ન હોય, તો શારીરિક સુખથી રહિત અને શત્રુઓથી પીડિત થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "6th house",
+      "malefic",
+      "no benefice aspect",
+      "ill health",
+      "enemies"
+    ]
+  },
+  {
+    "id": 7,
+    "shloka": 7,
+    "description": "If the ascendant lord is a malefic and be in the 7th, the native's wife will not live (long). If the planet in question be a benefice, one will wander aimlessly, face penury, and be dejected. He will alternatively become a king (if the said planet is strong).",
+    "hindi": "लग्नेश सातवें भाव में पाप हो तो पत्नी का नाश होता है। शुभ हो तो विचरण करने वाला, दीन या दरिद्र होता है, या बलवान होने पर राजा होता है।",
+    "gujarati": "લગ્નેશ સાતમા ભાવમાં પાપ હોય તો પત્નીનો નાશ થાય છે. શુભ હોય તો વિચરણ કરનાર, દીન કે દરિદ્ર થાય છે, કે બળવાન હોય તો રાજા થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "7th house",
+      "malefic",
+      "wife death",
+      "benefice",
+      "wandering",
+      "king"
+    ]
+  },
+  {
+    "id": 8,
+    "shloka": 8,
+    "description": "If the ascendant lord is in the 8th, the native will be an accomplished scholar, be sickly, thievish, be given to much anger, be a gambler, and will join others' wives.",
+    "hindi": "लग्नेश आठवें भाव में हो तो महापण्डित, रोगी, चोर, क्रोधी और परदाररत होता है।",
+    "gujarati": "લગ્નેશ આઠમા ભાવમાં હોય તો મહાપંડિત, રોગી, ચોર, ક્રોધી અને પરદારરત થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "8th house",
+      "scholar",
+      "sickly",
+      "thief",
+      "anger",
+      "adultery"
+    ]
+  },
+  {
+    "id": 9,
+    "shloka": 9,
+    "description": "If the ascendant lord is in the 9th, the native will be fortunate, dear to people, be a devotee of Sri Vishnu, be skilful, eloquent in speech, and be endowed with wife, sons, and wealth.",
+    "hindi": "लग्नेश नवम भाव में हो तो भाग्यवान, जनवल्लभ, विष्णुभक्त, कलाप्राज्ञ, सुवाक्य, पत्नी और पुत्रों से युक्त होता है।",
+    "gujarati": "લગ્નેશ નવમ ભાવમાં હોય તો ભાગ્યવાન, જનવલ્લભ, વિષ્ણુભક્ત, કલાપ્રાજ્ઞ, સુવાક્ય, પત્ની અને પુત્રોથી યુક્ત થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "9th house",
+      "fortune",
+      "vishnu devotee",
+      "eloquent",
+      "wife",
+      "sons"
+    ]
+  },
+  {
+    "id": 10,
+    "shloka": 10,
+    "description": "If the ascendant lord is in the 10th, the native will be endowed with paternal happiness, royal honour (or patronage), fame among men, and will doubtlessly have self-earned wealth.",
+    "hindi": "लग्नेश दशम भाव में हो तो पितृसुख, राजमान्य, यशस्वी और स्वार्जित ऐश्वर्य से युक्त होता है।",
+    "gujarati": "લગ્નેશ દશમ ભાવમાં હોય તો પિતૃસુખ, રાજમાન્ય, યશસ્વી અને સ્વાર્જિત ઐશ્વર્યથી યુક્ત થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "10th house",
+      "paternal happiness",
+      "royal honor",
+      "fame",
+      "self-earned wealth"
+    ]
+  },
+  {
+    "id": 11,
+    "shloka": 11,
+    "description": "If the ascendant lord is in the 11th, the native will always be endowed with gains, good qualities, fame, and many wives.",
+    "hindi": "लग्नेश ग्यारहवें भाव में हो तो नित्य लाभ, गुणवान, कीर्तिमान और बहुभार्यावान होता है।",
+    "gujarati": "લગ્નેશ અગિયારમા ભાવમાં હોય તો નિત્ય લાભ, ગુણવાન, કીર્તિમાન અને બહુભાર્યાવાન થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "11th house",
+      "gains",
+      "fame",
+      "many wives"
+    ]
+  },
+  {
+    "id": 12,
+    "shloka": 12,
+    "description": "If the ascendant lord is in the 12th and be devoid of benefice aspect/conjunction, the native will be bereft of physical happiness, will spend unfruitfully, and be given to much anger.",
+    "hindi": "लग्नेश बारहवें भाव में हो और शुभ की दृष्टि या योग से रहित हो, तो शारीरिक सुख से रहित, मिथ्या व्यय करने वाला और क्रोधी होता है।",
+    "gujarati": "લગ્નેશ બારમા ભાવમાં હોય અને શુભની દૃષ્ટિ કે યોગથી રહિત હોય, તો શારીરિક સુખથી રહિત, મિથ્યા વ્યય કરનાર અને ક્રોધી થાય છે.",
+    "keywords": [
+      "lagna lord",
+      "12th house",
+      "no benefice",
+      "ill health",
+      "wasteful expenses",
+      "anger"
+    ]
+  },
+  {
+    "id": 13,
+    "shloka": 13,
+    "description": "If the 2nd lord is in the ascendant, the native will be endowed with sons and wealth, be inimical to his family, lustful, hard-hearted, and will do others' jobs.",
+    "hindi": "धनेश (द्वितीयेश) लग्न में हो तो पुत्रवान, धनवान, कुलद्वेषी, कामी, क्रूर और परकर्म करने वाला होता है।",
+    "gujarati": "ધનેશ (દ્વિતીયેશ) લગ્નમાં હોય તો પુત્રવાન, ધનવાન, કુલદ્વેષી, કામી, ક્રૂર અને પરકર્મ કરનાર થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "lagna",
+      "wealth",
+      "sons",
+      "family enmity",
+      "lust"
+    ]
+  },
+  {
+    "id": 14,
+    "shloka": 14,
+    "description": "If the 2nd lord is in the 2nd, the native will be wealthy, proud, will have two or more wives, and be bereft of progeny.",
+    "hindi": "धनेश द्वितीय भाव में हो तो धनवान, गर्वित, दो या बहुत सी पत्नियाँ, किन्तु पुत्रहीन होता है।",
+    "gujarati": "ધનેશ દ્વિતીય ભાવમાં હોય તો ધનવાન, ગર્વિત, બે કે ઘણી પત્નીઓ, પણ પુત્રહીન થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "2nd house",
+      "wealth",
+      "proud",
+      "many wives",
+      "no children"
+    ]
+  },
+  {
+    "id": 15,
+    "shloka": 15,
+    "description": "If the 2nd lord is in the 3rd, the native will be valorous, wise, virtuous, lustful, and miserly – all these when related to a benefice. If related to a malefic, the native will be a heterodox.",
+    "hindi": "धनेश तृतीय भाव में हो तो विक्रमी, मतिमान, गुणी, कामी, लोभी होता है। शुभ से युत होने पर ये गुण, पाप से युत होने पर नास्तिक होता है।",
+    "gujarati": "ધનેશ તૃતીય ભાવમાં હોય તો વિક્રમી, મતિમાન, ગુણી, કામી, લોભી થાય છે. શુભ સાથે યુત હોવાથી આ ગુણો, પાપ સાથે યુત હોવાથી નાસ્તિક થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "3rd house",
+      "valour",
+      "wisdom",
+      "lust",
+      "miser",
+      "heterodox"
+    ]
+  },
+  {
+    "id": 16,
+    "shloka": 16,
+    "description": "If the 2nd lord is in the 4th, the native will acquire all kinds of wealth. If the 2nd lord is exalted and be conjunct Jupiter, one will be equal to a king.",
+    "hindi": "धनेश चतुर्थ भाव में हो तो सर्वसम्पत्ति से युक्त होता है। यदि धनेश उच्च का हो और गुरु से युत हो, तो राजा के तुल्य होता है।",
+    "gujarati": "ધનેશ ચતુર્થ ભાવમાં હોય તો સર્વસમ્પત્તિથી યુક્ત થાય છે. જો ધનેશ ઉચ્ચનો હોય અને ગુરુ સાથે યુત હોય, તો રાજા સમાન થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "4th house",
+      "all wealth",
+      "exaltation",
+      "jupiter",
+      "king"
+    ]
+  },
+  {
+    "id": 17,
+    "shloka": 17,
+    "description": "If the 2nd lord is in the 5th, the native will be wealthy. Not only the native, but also his sons, will be intent on earning wealth.",
+    "hindi": "धनेश पंचम भाव में हो तो धनवान, सुखी होता है और उसके पुत्र भी धनोपार्जन में तत्पर होते हैं।",
+    "gujarati": "ધનેશ પંચમ ભાવમાં હોય તો ધનવાન, સુખી થાય છે અને તેના પુત્રો પણ ધનોપાર્જનમાં તત્પર થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "5th house",
+      "wealth",
+      "sons also wealthy"
+    ]
+  },
+  {
+    "id": 18,
+    "shloka": 18,
+    "description": "If the 2nd lord is in the 6th along with a benefice, the native will gain wealth through his enemies; if with a malefic, there will be loss through enemies apart from mutilation of shanks.",
+    "hindi": "धनेश छठे भाव में शुभ से युत हो तो शत्रुओं से धन प्राप्ति होती है, पाप से युत हो तो शत्रुओं से हानि और पैरों की विकलता होती है।",
+    "gujarati": "ધનેશ છઠ્ઠા ભાવમાં શુભ સાથે યુત હોય તો શત્રુઓથી ધન પ્રાપ્તિ થાય છે, પાપ સાથે યુત હોય તો શત્રુઓથી હાનિ અને પગની વિકળતા થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "6th house",
+      "benefice",
+      "wealth from enemies",
+      "malefic",
+      "loss",
+      "leg mutilation"
+    ]
+  },
+  {
+    "id": 19,
+    "shloka": 19,
+    "description": "If the 2nd lord is in the 7th, the native will be addicted to others' wives and be a doctor. If a malefic is related to the said placement by conjunction or aspect, the native's wife will (also) be of questionable character.",
+    "hindi": "धनेश सप्तम भाव में हो तो परदाररत और वैद्य होता है। पाप से युत होने पर पत्नी भी व्यभिचारिणी होती है।",
+    "gujarati": "ધનેશ સપ્તમ ભાવમાં હોય તો પરદારરત અને વૈદ્ય થાય છે. પાપ સાથે યુત હોવાથી પત્ની પણ વ્યભિચારિણી થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "7th house",
+      "addicted to other women",
+      "doctor",
+      "unchaste wife"
+    ]
+  },
+  {
+    "id": 20,
+    "shloka": 20,
+    "description": "If the 2nd lord is in the 8th, the native will be interested in all scriptures, short-lived, cruel, and will think about women's inner chambers (be obsessed with women).",
+    "hindi": "धनेश आठवें भाव में हो तो सर्वशास्त्रार्थी, अल्पायु, क्रूरकर्मा और स्त्रियों के अन्तःपुर की चिन्ता करने वाला होता है।",
+    "gujarati": "ધનેશ આઠમા ભાવમાં હોય તો સર્વશાસ્ત્રાર્થી, અલ્પાયુ, ક્રૂરકર્મા અને સ્ત્રીઓના અંતઃપુરની ચિંતા કરનાર થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "8th house",
+      "scriptures",
+      "short life",
+      "cruel",
+      "obsessed with women"
+    ]
+  },
+  {
+    "id": 21,
+    "shloka": 21,
+    "description": "If the 2nd lord is in the 9th, the native will be wealthy and happy. If strengthened by Jupiter and Venus, he will be a king or equal to a king.",
+    "hindi": "धनेश नवम भाव में हो तो धनवान, सुखी होता है। गुरु-शुक्र से बलयुक्त हो तो राजा या राजा के समान होता है।",
+    "gujarati": "ધનેશ નવમ ભાવમાં હોય તો ધનવાન, સુખી થાય છે. ગુરુ-શુક્રથી બળયુક્ત હોય તો રાજા કે રાજા સમાન થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "9th house",
+      "wealth",
+      "jupiter",
+      "venus",
+      "king"
+    ]
+  },
+  {
+    "id": 22,
+    "shloka": 22,
+    "description": "If the 2nd lord is in the 10th, the native will be honoured by the king, wealthy, endowed with paternal happiness, famous, and truthful.",
+    "hindi": "धनेश दशम भाव में हो तो राजमान्य, धनवान, पितृसुखयुक्त, यशस्वी और सत्यवादी होता है।",
+    "gujarati": "ધનેશ દશમ ભાવમાં હોય તો રાજમાન્ય, ધનવાન, પિતૃસુખયુક્ત, યશસ્વી અને સત્યવાદી થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "10th house",
+      "royal honor",
+      "wealth",
+      "paternal happiness",
+      "fame",
+      "truthful"
+    ]
+  },
+  {
+    "id": 23,
+    "shloka": 23,
+    "description": "If the 2nd lord is in the 11th, the native will be wealthy, will have many wives, always be industrious, happy, and of good fame.",
+    "hindi": "धनेश ग्यारहवें भाव में हो तो धनवान, बहुभार्य, नित्योद्योगी, सुखी और सत्कीर्ति वाला होता है।",
+    "gujarati": "ધનેશ અગિયારમા ભાવમાં હોય તો ધનવાન, બહુભાર્ય, નિત્યોદ્યોગી, સુખી અને સત્કીર્તિવાળો થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "11th house",
+      "wealth",
+      "many wives",
+      "industrious",
+      "fame"
+    ]
+  },
+  {
+    "id": 24,
+    "shloka": 24,
+    "description": "If the 2nd lord is in the 12th, the native will be adventurous, be devoid of wealth, be interested in others' wealth, while his eldest child will not keep him happy.",
+    "hindi": "धनेश बारहवें भाव में हो तो साहसी, धनहीन, परद्रव्य की इच्छा करने वाला और ज्येष्ठ पुत्र से सुख न पाने वाला होता है।",
+    "gujarati": "ધનેશ બારમા ભાવમાં હોય તો સાહસી, ધનહીન, પરદ્રવ્યની ઇચ્છા કરનાર અને જ્યેષ્ઠ પુત્રથી સુખ ન પામનાર થાય છે.",
+    "keywords": [
+      "2nd lord",
+      "12th house",
+      "adventurous",
+      "poverty",
+      "desire for others' wealth",
+      "unhappy eldest son"
+    ]
+  },
+  {
+    "id": 25,
+    "shloka": 25,
+    "description": "If the 3rd lord is in the ascendant, the native will be wealthy, happy, always enjoy happiness from co-born, be patient, and be given to anger.",
+    "hindi": "तृतीयेश लग्न में हो तो धनवान, सुखी, सहोदरों से सुख, धीर और क्रोधी होता है।",
+    "gujarati": "તૃતીયેશ લગ્નમાં હોય તો ધનવાન, સુખી, સહોદરોથી સુખ, ધીર અને ક્રોધી થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "lagna",
+      "wealth",
+      "sibling happiness",
+      "patience",
+      "anger"
+    ]
+  },
+  {
+    "id": 26,
+    "shloka": 26,
+    "description": "If the 3rd lord is in the 2nd, the native will be wealthy, proud, happy, endowed with many brothers, and will have two wives.",
+    "hindi": "तृतीयेश द्वितीय भाव में हो तो धनवान, गर्वित, सुखी, बहुत भाइयों से युक्त और द्विभार्य होता है।",
+    "gujarati": "તૃતીયેશ દ્વિતીય ભાવમાં હોય તો ધનવાન, ગર્વિત, સુખી, ઘણા ભાઈઓથી યુક્ત અને દ્વિભાર્ય થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "2nd house",
+      "wealth",
+      "proud",
+      "many brothers",
+      "two wives"
+    ]
+  },
+  {
+    "id": 27,
+    "shloka": 27,
+    "description": "If the 3rd lord is in the 3rd, the native will be wealthy, endowed with brothers, virtuous, truthful, and addicted to others' wives.",
+    "hindi": "तृतीयेश तृतीय भाव में हो तो धनवान, भाइयों से युक्त, सुशील, सत्यवादी और परदाररत होता है।",
+    "gujarati": "તૃતીયેશ તૃતીય ભાવમાં હોય તો ધનવાન, ભાઈઓથી યુક્ત, સુશીલ, સત્યવાદી અને પરદારરત થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "3rd house",
+      "wealth",
+      "brothers",
+      "virtuous",
+      "truthful",
+      "adultery"
+    ]
+  },
+  {
+    "id": 28,
+    "shloka": 28,
+    "description": "If the 3rd lord is in the 4th, the native will be happy with co-born, endowed with all kinds of wealth, and enjoy maternal happiness.",
+    "hindi": "तृतीयेश चतुर्थ भाव में हो तो भाइयों से सुख, सर्वसम्पत्ति और मातृसुख से युक्त होता है।",
+    "gujarati": "તૃતીયેશ ચતુર્થ ભાવમાં હોય તો ભાઈઓથી સુખ, સર્વસમ્પત્તિ અને માતૃસુખથી યુક્ત થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "4th house",
+      "sibling happiness",
+      "all wealth",
+      "mother's happiness"
+    ]
+  },
+  {
+    "id": 29,
+    "shloka": 29,
+    "description": "If the 3rd lord is in the 5th, the native will have sons and be virtuous. If in the process the 3rd lord be conjunct or aspected by a malefic, the native will have a formidable wife.",
+    "hindi": "तृतीयेश पंचम भाव में हो तो पुत्रवान, धर्मवान होता है। पाप से युत या देखा गया हो तो पत्नी दुःसाध्य (क्रूर/अनियंत्रित) होती है।",
+    "gujarati": "તૃતીયેશ પંચમ ભાવમાં હોય તો પુત્રવાન, ધર્મવાન થાય છે. પાપ સાથે યુત કે જોવાયેલો હોય તો પત્ની દુઃસાધ્ય (ક્રૂર/અનિયંત્રિત) થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "5th house",
+      "sons",
+      "virtuous",
+      "malefic",
+      "formidable wife"
+    ]
+  },
+  {
+    "id": 30,
+    "shloka": 30,
+    "description": "If the 3rd lord is in the 6th, the native will be inimical to his co-born, be affluent, will not be well-disposed to his maternal uncle, and be dear to his maternal aunt.",
+    "hindi": "तृतीयेश छठे भाव में हो तो भाइयों से द्वेषी, धनवान, मामाओं से द्वेष करने वाला और मामी को प्रिय होता है।",
+    "gujarati": "તૃતીયેશ છઠ્ઠા ભાવમાં હોય તો ભાઈઓથી દ્વેષી, ધનવાન, મામાઓથી દ્વેષ કરનાર અને મામીને પ્રિય થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "6th house",
+      "enmity with siblings",
+      "wealth",
+      "maternal uncle hatred",
+      "maternal aunt affection"
+    ]
+  },
+  {
+    "id": 31,
+    "shloka": 31,
+    "description": "If the 3rd lord is in the 7th, the native will be interested in serving the king and be not happy during boyhood but at the end of his life.",
+    "hindi": "तृतीयेश सप्तम भाव में हो तो राजसेवा में तत्पर, बाल्य में दुःखी और वृद्धावस्था में सुखी होता है।",
+    "gujarati": "તૃતીયેશ સપ્તમ ભાવમાં હોય તો રાજસેવામાં તત્પર, બાલ્યમાં દુઃખી અને વૃદ્ધાવસ્થામાં સુખી થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "7th house",
+      "royal service",
+      "unhappy childhood",
+      "happy old age"
+    ]
+  },
+  {
+    "id": 32,
+    "shloka": 32,
+    "description": "If the 3rd lord is in the 8th, the native will be a thief, will derive his livelihood serving others, and will die at the gate of the royal palace.",
+    "hindi": "तृतीयेश आठवें भाव में हो तो चोर, परजीवी होता है और राजद्वार पर मृत्यु को प्राप्त होता है।",
+    "gujarati": "તૃતીયેશ આઠમા ભાવમાં હોય તો ચોર, પરજીવી થાય છે અને રાજદ્વાર પર મૃત્યુ પામે છે.",
+    "keywords": [
+      "3rd lord",
+      "8th house",
+      "thief",
+      "servant",
+      "death at royal gate"
+    ]
+  },
+  {
+    "id": 33,
+    "shloka": 33,
+    "description": "If the 3rd lord is in the 9th, the native will lack paternal bliss, will make fortunes through wife, and will enjoy progeny and other pleasures.",
+    "hindi": "तृतीयेश नवम भाव में हो तो पितृसुख से रहित, पत्नी से धन प्राप्त करने वाला, पुत्रादि सुखों से युक्त होता है।",
+    "gujarati": "તૃતીયેશ નવમ ભાવમાં હોય તો પિતૃસુખથી રહિત, પત્નીથી ધન પ્રાપ્ત કરનાર, પુત્રાદિ સુખોથી યુક્ત થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "9th house",
+      "no paternal bliss",
+      "wealth through wife",
+      "children"
+    ]
+  },
+  {
+    "id": 34,
+    "shloka": 34,
+    "description": "If the 3rd lord is in the 10th, the native will have all kinds of happiness and self-made wealth, and be interested in nurturing wicked females.",
+    "hindi": "तृतीयेश दशम भाव में हो तो सर्वसुखी, स्वार्जित ऐश्वर्य से सम्पन्न और पतित स्त्रियों में रति करने वाला होता है।",
+    "gujarati": "તૃતીયેશ દશમ ભાવમાં હોય તો સર્વસુખી, સ્વાર્જિત ઐશ્વર્યથી સમ્પન્ન અને પતિત સ્ત્રીઓમાં રતિ કરનાર થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "10th house",
+      "all happiness",
+      "self-earned wealth",
+      "wicked women"
+    ]
+  },
+  {
+    "id": 35,
+    "shloka": 35,
+    "description": "If the 3rd lord is in the 11th, the native will always gain in trading, be intelligent although not literate, be adventurous, and will serve others.",
+    "hindi": "तृतीयेश ग्यारहवें भाव में हो तो व्यापार में सदा उद्यत, अशिक्षित होते हुए भी बुद्धिमान और दूसरों का सेवक होता है।",
+    "gujarati": "તૃતીયેશ અગિયારમા ભાવમાં હોય તો વ્યાપારમાં સદા ઉદ્યત, અશિક્ષિત હોવા છતાં બુદ્ધિમાન અને બીજાનો સેવક થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "11th house",
+      "gains in trade",
+      "intelligent without literacy",
+      "servant"
+    ]
+  },
+  {
+    "id": 36,
+    "shloka": 36,
+    "description": "If the 3rd lord is in the 12th, the native will spend on evil deeds, will have a wicked father, and will be fortunate through a female (or wife).",
+    "hindi": "तृतीयेश बारहवें भाव में हो तो पाप कर्मों में व्यय करने वाला, पिता पापी, और स्त्री से भाग्य प्राप्त करने वाला होता है।",
+    "gujarati": "તૃતીયેશ બારમા ભાવમાં હોય તો પાપ કર્મોમાં વ્યય કરનાર, પિતા પાપી, અને સ્ત્રીથી ભાગ્ય પ્રાપ્ત કરનાર થાય છે.",
+    "keywords": [
+      "3rd lord",
+      "12th house",
+      "evil expenses",
+      "wicked father",
+      "fortune through women"
+    ]
+  },
+  {
+    "id": 37,
+    "shloka": 37,
+    "description": "If the 4th lord is in the ascendant, the native will be endowed with learning, virtues, ornaments, lands, conveyances, and maternal happiness.",
+    "hindi": "चतुर्थेश लग्न में हो तो विद्यावान, गुणी, आभूषण, क्षेत्र, वाहन और मातृसुख से युक्त होता है।",
+    "gujarati": "ચતુર્થેશ લગ્નમાં હોય તો વિદ્યાવાન, ગુણી, આભૂષણ, ક્ષેત્ર, વાહન અને માતૃસુખથી યુક્ત થાય છે.",
+    "keywords": [
+      "4th lord",
+      "lagna",
+      "learning",
+      "virtues",
+      "lands",
+      "conveyances",
+      "maternal happiness"
+    ]
+  },
+  {
+    "id": 38,
+    "shloka": 38,
+    "description": "If the 4th lord is in the 2nd, the native will enjoy pleasures, all kinds of wealth, family life, and honour, and be adventurous. He will be cunning in disposition.",
+    "hindi": "चतुर्थेश द्वितीय भाव में हो तो भोगी, सर्वधनयुक्त, कुटुम्बी, धीर, धूर्त और वंचक होता है।",
+    "gujarati": "ચતુર્થેશ દ્વિતીય ભાવમાં હોય તો ભોગી, સર્વધનયુક્ત, કુટુંબી, ધીર, ધૂર્ત અને વંચક થાય છે.",
+    "keywords": [
+      "4th lord",
+      "2nd house",
+      "pleasures",
+      "all wealth",
+      "family",
+      "honor",
+      "cunning"
+    ]
+  },
+  {
+    "id": 39,
+    "shloka": 39,
+    "description": "If the 4th lord is in the 3rd, the native will be valorous, will have servants, be liberal, virtuous, and charitable, and will possess self-earned wealth. He will be free from diseases.",
+    "hindi": "चतुर्थेश तृतीय भाव में हो तो विक्रमी, बहुप्रज, दानी, गुणी, क्षमी और स्वार्जित ऐश्वर्य से युक्त होता है।",
+    "gujarati": "ચતુર્થેશ તૃતીય ભાવમાં હોય તો વિક્રમી, બહુપ્રજ, દાની, ગુણી, ક્ષમી અને સ્વાર્જિત ઐશ્વર્યથી યુક્ત થાય છે.",
+    "keywords": [
+      "4th lord",
+      "3rd house",
+      "valour",
+      "servants",
+      "liberal",
+      "virtuous",
+      "charitable",
+      "self-earned wealth",
+      "disease-free"
+    ]
+  },
+  {
+    "id": 40,
+    "shloka": 40,
+    "description": "If the 4th lord is in the 4th, the native will have happiness from houses and lands, maternal happiness, and will be happy with relatives.",
+    "hindi": "चतुर्थेश चतुर्थ भाव में हो तो गृह-क्षेत्र सुख, मातृसुख और बन्धुओं से युक्त सुखी होता है।",
+    "gujarati": "ચતુર્થેશ ચતુર્થ ભાવમાં હોય તો ગૃહ-ક્ષેત્ર સુખ, માતૃસુખ અને બંધુઓથી યુક્ત સુખી થાય છે.",
+    "keywords": [
+      "4th lord",
+      "4th house",
+      "houses",
+      "lands",
+      "maternal happiness",
+      "relatives"
+    ]
+  },
+  {
+    "id": 41,
+    "shloka": 41,
+    "description": "If the 4th lord is in the 5th, the native will be happy, endowed with maternal happiness, wealth, and intelligence, and be a king or a minister or a preceptor.",
+    "hindi": "चतुर्थेश पंचम भाव में हो तो धनवान, सुखी, राजा, राजमन्त्री या पुरोहित के सुख से युक्त होता है।",
+    "gujarati": "ચતુર્થેશ પંચમ ભાવમાં હોય તો ધનવાન, સુખી, રાજા, રાજમંત્રી કે પુરોહિતના સુખથી યુક્ત થાય છે.",
+    "keywords": [
+      "4th lord",
+      "5th house",
+      "happiness",
+      "maternal happiness",
+      "wealth",
+      "king",
+      "minister",
+      "preceptor"
+    ]
+  },
+  {
+    "id": 42,
+    "shloka": 42,
+    "description": "If the 4th lord is in the 6th, the native will be wealthy, intelligent, happy, cause distress to relatives, be given to anger, and be devoid of maternal happiness.",
+    "hindi": "चतुर्थेश छठे भाव में हो तो धनवान, मतिमान, सुखी, बन्धुओं को दुःख देने वाला, क्रोधी और मातृसुख से रहित होता है।",
+    "gujarati": "ચતુર્થેશ છઠ્ઠા ભાવમાં હોય તો ધનવાન, મતિમાન, સુખી, બંધુઓને દુઃખ આપનાર, ક્રોધી અને માતૃસુખથી રહિત થાય છે.",
+    "keywords": [
+      "4th lord",
+      "6th house",
+      "wealth",
+      "intelligent",
+      "distress to relatives",
+      "anger",
+      "no maternal happiness"
+    ]
+  },
+  {
+    "id": 43,
+    "shloka": 43,
+    "description": "If the 4th lord is in the 7th, the native will have a crooked wife, be dear to people, happy, honourable, virtuous, learned, but sickly.",
+    "hindi": "चतुर्थेश सप्तम भाव में हो तो गृहसुख से भ्रष्ट, प्रिय, सुखी, मानी, गुणी, विद्वान, रोगी और मानी होता है।",
+    "gujarati": "ચતુર્થેશ સપ્તમ ભાવમાં હોય તો ગૃહસુખથી ભ્રષ્ટ, પ્રિય, સુખી, માની, ગુણી, વિદ્વાન, રોગી અને માની થાય છે.",
+    "keywords": [
+      "4th lord",
+      "7th house",
+      "crooked wife",
+      "popular",
+      "happy",
+      "honorable",
+      "learned",
+      "sickly"
+    ]
+  },
+  {
+    "id": 44,
+    "shloka": 44,
+    "description": "If the 4th lord is in the 8th, the native will be devoid of domestic and other comforts, will not enjoy much parental happiness, and be equal to a neuter.",
+    "hindi": "चतुर्थेश आठवें भाव में हो तो गृहसुख से रहित, अल्पसुखी, पितृसुख से रहित और नपुंसक के समान होता है।",
+    "gujarati": "ચતુર્થેશ આઠમા ભાવમાં હોય તો ગૃહસુખથી રહિત, અલ્પસુખી, પિતૃસુખથી રહિત અને નપુંસક સમાન થાય છે.",
+    "keywords": [
+      "4th lord",
+      "8th house",
+      "no domestic comforts",
+      "little parental happiness",
+      "impotent"
+    ]
+  },
+  {
+    "id": 45,
+    "shloka": 45,
+    "description": "If the 4th lord is in the 9th, the native will be dear to one and all, be devoted to God, be virtuous, honourable, and endowed with every kind of happiness.",
+    "hindi": "चतुर्थेश नवम भाव में हो तो सर्वलोकप्रिय, धर्मात्मा, गुणवान, मानी और सर्वसुखी होता है।",
+    "gujarati": "ચતુર્થેશ નવમ ભાવમાં હોય તો સર્વલોકપ્રિય, ધર્માત્મા, ગુણવાન, માની અને સર્વસુખી થાય છે.",
+    "keywords": [
+      "4th lord",
+      "9th house",
+      "popular",
+      "devoted to god",
+      "virtuous",
+      "honorable",
+      "all happiness"
+    ]
+  },
+  {
+    "id": 46,
+    "shloka": 46,
+    "description": "If the 4th lord is in the 10th, the native will enjoy royal honours, be an alchemist, be extremely pleased, will enjoy pleasures, and will conquer his five senses.",
+    "hindi": "चतुर्थेश दशम भाव में हो तो राजमान्य, रसायनविद्, अत्यन्त प्रीतियुक्त, भोगी और जितेन्द्रिय होता है।",
+    "gujarati": "ચતુર્થેશ દશમ ભાવમાં હોય તો રાજમાન્ય, રસાયનવિદ્, અત્યંત પ્રીતિયુક્ત, ભોગી અને જિતેન્દ્રિય થાય છે.",
+    "keywords": [
+      "4th lord",
+      "10th house",
+      "royal honors",
+      "alchemist",
+      "pleasure",
+      "self-control"
+    ]
+  },
+  {
+    "id": 47,
+    "shloka": 47,
+    "description": "If the 4th lord is in the 11th, the native will have fear of secret disease (like venereal disease), be liberal, virtuous, charitable, and helpful to others.",
+    "hindi": "चतुर्थेश ग्यारहवें भाव में हो तो गुप्त रोग का भय, दानी, गुणी, क्षमी और परोपकार में तत्पर होता है।",
+    "gujarati": "ચતુર્થેશ અગિયારમા ભાવમાં હોય તો ગુપ્ત રોગનો ભય, દાની, ગુણી, ક્ષમી અને પરોપકારમાં તત્પર થાય છે.",
+    "keywords": [
+      "4th lord",
+      "11th house",
+      "secret disease fear",
+      "liberal",
+      "virtuous",
+      "charitable",
+      "helpful"
+    ]
+  },
+  {
+    "id": 48,
+    "shloka": 48,
+    "description": "If the 4th lord is in the 12th, the native will be devoid of domestic and other comforts, will have vices, and be foolish and indolent.",
+    "hindi": "चतुर्थेश बारहवें भाव में हो तो गृहसुख से रहित, दुराचारी, महामूर्ख, आलसी और नित्य कुत्सित होता है।",
+    "gujarati": "ચતુર્થેશ બારમા ભાવમાં હોય તો ગૃહસુખથી રહિત, દુરાચારી, મહામૂર્ખ, આલસી અને નિત્ય કુત્સિત થાય છે.",
+    "keywords": [
+      "4th lord",
+      "12th house",
+      "no domestic comforts",
+      "vices",
+      "foolish",
+      "indolent"
+    ]
+  },
+  {
+    "id": 49,
+    "shloka": 49,
+    "description": "If the 5th lord is in the ascendant, the native will be scholarly, be endowed with progeny happiness, be a miser, be crooked, and will steal others' wealth.",
+    "hindi": "पंचमेश लग्न में हो तो पण्डित, मितव्ययी, वक्र (टेढ़ा), परधन से युक्त और चोरीशील होता है।",
+    "gujarati": "પંચમેશ લગ્નમાં હોય તો પંડિત, મિતવ્યયી, વક્ર (ટેઢો), પરધનથી યુક્ત અને ચોરીશીલ થાય છે.",
+    "keywords": [
+      "5th lord",
+      "lagna",
+      "scholarly",
+      "children",
+      "miser",
+      "crooked",
+      "theft"
+    ]
+  },
+  {
+    "id": 50,
+    "shloka": 50,
+    "description": "If the 5th lord is in the 2nd, the native will have many sons and wealth, be a pater familias, be honourable, be attached to his spouse, and be famous in the world.",
+    "hindi": "पंचमेश द्वितीय भाव में हो तो बहुपुत्र, धनवान, कुटुम्बी, विद्वान, पत्नी में अनुरक्त और सुखी होता है।",
+    "gujarati": "પંચમેશ દ્વિતીય ભાવમાં હોય તો બહુપુત્ર, ધનવાન, કુટુંબી, વિદ્વાન, પત્નીમાં અનુરક્ત અને સુખી થાય છે.",
+    "keywords": [
+      "5th lord",
+      "2nd house",
+      "many sons",
+      "wealth",
+      "family honor",
+      "attachment to spouse",
+      "fame"
+    ]
+  },
+  {
+    "id": 51,
+    "shloka": 51,
+    "description": "If the 5th lord is in the 3rd, the native will be attached to his co-born, be a talebearer and a miser, and be always interested in his own work.",
+    "hindi": "पंचमेश तृतीय भाव में हो तो भाइयों में आसक्त, सुखी, पैशुन्य करने वाला, कृपण और अपने कार्य में तत्पर होता है।",
+    "gujarati": "પંચમેશ તૃતીય ભાવમાં હોય તો ભાઈઓમાં આસક્ત, સુખી, પૈશુન્ય કરનાર, કૃપણ અને પોતાના કાર્યમાં તત્પર થાય છે.",
+    "keywords": [
+      "5th lord",
+      "3rd house",
+      "attached to siblings",
+      "talebearer",
+      "miser",
+      "self-interested"
+    ]
+  },
+  {
+    "id": 52,
+    "shloka": 52,
+    "description": "If the 5th lord is in the 4th, the native will be happy, endowed with maternal happiness, wealth and intelligence, and be a king or a minister or a preceptor.",
+    "hindi": "पंचमेश चतुर्थ भाव में हो तो सुखी, मातृसुखयुक्त, धनवान, राजा के तुल्य, राजा या राजमन्त्री होता है।",
+    "gujarati": "પંચમેશ ચતુર્થ ભાવમાં હોય તો સુખી, માતૃસુખયુક્ત, ધનવાન, રાજા સમાન, રાજા કે રાજમંત્રી થાય છે.",
+    "keywords": [
+      "5th lord",
+      "4th house",
+      "happiness",
+      "maternal happiness",
+      "wealth",
+      "king",
+      "minister"
+    ]
+  },
+  {
+    "id": 53,
+    "shloka": 53,
+    "description": "If the 5th lord is in the 5th, the native will have progeny if related to a benefice; there will be no issues if a malefic is related to the said 5th lord placed in 5th. The 5th lord in 5th will, however, make one virtuous and dear to friends.",
+    "hindi": "पंचमेश पंचम भाव में शुभ से युत हो तो पुत्रदायक, पाप से युत हो तो पुत्र नहीं होते, किन्तु धर्मात्मा और मित्रों को प्रिय होता है।",
+    "gujarati": "પંચમેશ પંચમ ભાવમાં શુભ સાથે યુત હોય તો પુત્રદાયક, પાપ સાથે યુત હોય તો પુત્ર થતા નથી, પણ ધર્માત્મા અને મિત્રોને પ્રિય થાય છે.",
+    "keywords": [
+      "5th lord",
+      "5th house",
+      "benefice",
+      "children",
+      "malefic",
+      "no children",
+      "virtuous",
+      "popular"
+    ]
+  },
+  {
+    "id": 54,
+    "shloka": 54,
+    "description": "If the 5th lord is in the 6th, the native will obtain such sons who will be equal to his enemies or will lose them, or will acquire an adopted or purchased son.",
+    "hindi": "पंचमेश छठे भाव में हो तो पुत्र शत्रुतुल्य होते हैं, या पुत्रों का नाश होता है, या दत्तक या क्रीत पुत्र होता है।",
+    "gujarati": "પંચમેશ છઠ્ઠા ભાવમાં હોય તો પુત્ર શત્રુતુલ્ય થાય છે, કે પુત્રોનો નાશ થાય છે, કે દત્તક કે ક્રીત પુત્ર થાય છે.",
+    "keywords": [
+      "5th lord",
+      "6th house",
+      "inimical sons",
+      "loss of children",
+      "adopted son",
+      "purchased son"
+    ]
+  },
+  {
+    "id": 55,
+    "shloka": 55,
+    "description": "If the 5th lord is in the 7th, the native will be honourable, very religious, endowed with progenic happiness, and be helpful to others.",
+    "hindi": "पंचमेश सप्तम भाव में हो तो मानी, धार्मिक, पुत्र-पौत्रों से सम्पन्न और परोपकार में तत्पर होता है।",
+    "gujarati": "પંચમેશ સપ્તમ ભાવમાં હોય તો માની, ધાર્મિક, પુત્ર-પૌત્રોથી સમ્પન્ન અને પરોપકારમાં તત્પર થાય છે.",
+    "keywords": [
+      "5th lord",
+      "7th house",
+      "honorable",
+      "religious",
+      "children",
+      "helpful"
+    ]
+  },
+  {
+    "id": 56,
+    "shloka": 56,
+    "description": "If the 5th lord is in the 8th, the native will not have much progenic happiness, be troubled by cough and pulmonary disorders, be given to anger, and be devoid of happiness.",
+    "hindi": "पंचमेश आठवें भाव में हो तो अल्प पुत्र सुख, कास रोगी, कफी, क्रोधी और सुखहीन होता है।",
+    "gujarati": "પંચમેશ આઠમા ભાવમાં હોય તો અલ્પ પુત્ર સુખ, કાસ રોગી, કફી, ક્રોધી અને સુખહીન થાય છે.",
+    "keywords": [
+      "5th lord",
+      "8th house",
+      "little child happiness",
+      "cough",
+      "phlegm",
+      "anger",
+      "unhappiness"
+    ]
+  },
+  {
+    "id": 57,
+    "shloka": 57,
+    "description": "If the 5th lord is in the 9th, the native will be a prince or equal to him, will author treatises, be famous, and will shine in his race.",
+    "hindi": "पंचमेश नवम भाव में हो तो राजा या राजा के समान, ग्रन्थकार, यशस्वी और कुलदीप होता है।",
+    "gujarati": "પંચમેશ નવમ ભાવમાં હોય તો રાજા કે રાજા સમાન, ગ્રંથકાર, યશસ્વી અને કુળદીપ થાય છે.",
+    "keywords": [
+      "5th lord",
+      "9th house",
+      "king",
+      "author",
+      "fame",
+      "family glory"
+    ]
+  },
+  {
+    "id": 58,
+    "shloka": 58,
+    "description": "If the 5th lord is in the 10th, the native will enjoy a Raja-yoga and various pleasures, and be very famous.",
+    "hindi": "पंचमेश दशम भाव में हो तो राजयोगयुक्त, सर्वसुखयुक्त, सत्कीर्ति और अतुलनीय होता है।",
+    "gujarati": "પંચમેશ દશમ ભાવમાં હોય તો રાજયોગયુક્ત, સર્વસુખયુક્ત, સત્કીર્તિ અને અતુલનીય થાય છે.",
+    "keywords": [
+      "5th lord",
+      "10th house",
+      "raja yoga",
+      "pleasures",
+      "great fame"
+    ]
+  },
+  {
+    "id": 59,
+    "shloka": 59,
+    "description": "If the 5th lord is in the 11th, the native will be learned, dear to people, be an author of treatises, be very skilful, and be endowed with many sons and wealth.",
+    "hindi": "पंचमेश ग्यारहवें भाव में हो तो विद्वान, लोकप्रिय, ग्रन्थकर्ता, सुकुशल, बहुपुत्र और धनवान होता है।",
+    "gujarati": "પંચમેશ અગિયારમા ભાવમાં હોય તો વિદ્વાન, લોકપ્રિય, ગ્રંથકર્તા, સુકુશલ, બહુપુત્ર અને ધનવાન થાય છે.",
+    "keywords": [
+      "5th lord",
+      "11th house",
+      "learned",
+      "popular",
+      "author",
+      "skilful",
+      "many sons",
+      "wealth"
+    ]
+  },
+  {
+    "id": 60,
+    "shloka": 60,
+    "description": "If the 5th lord is in the 12th, the native will be bereft of happiness from his own sons, and will have an adopted or purchased son.",
+    "hindi": "पंचमेश बारहवें भाव में हो तो पुत्रसुख से रहित, दत्तक या क्रीत पुत्र होता है।",
+    "gujarati": "પંચમેશ બારમા ભાવમાં હોય તો પુત્રસુખથી રહિત, દત્તક કે ક્રીત પુત્ર થાય છે.",
+    "keywords": [
+      "5th lord",
+      "12th house",
+      "no happiness from own sons",
+      "adopted son",
+      "purchased son"
+    ]
+  },
+  {
+    "id": 61,
+    "shloka": 61,
+    "description": "If the 6th lord is in the ascendant, the native will be sickly, famous, inimical to his own men, rich, honourable, adventurous, and virtuous.",
+    "hindi": "षष्ठेश लग्न में हो तो रोगी, कीर्तियुक्त, स्वजनद्वेषी, शूर, धनवान होता है।",
+    "gujarati": "ષષ્ઠેશ લગ્નમાં હોય તો રોગી, કીર્તિયુક્ત, સ્વજનદ્વેષી, શૂર, ધનવાન થાય છે.",
+    "keywords": [
+      "6th lord",
+      "lagna",
+      "sickly",
+      "famous",
+      "enmity with own people",
+      "wealth",
+      "honor",
+      "adventurous",
+      "virtuous"
+    ]
+  },
+  {
+    "id": 62,
+    "shloka": 62,
+    "description": "If the 6th lord is in the 2nd, the native will be adventurous, famous among his race-men, will live in alien countries (or places), be happy, be a skilful speaker, and be always interested in his own work.",
+    "hindi": "षष्ठेश द्वितीय भाव में हो तो साहसी, कुलपूजित, विदेशवासी, सुखी, वाक्पटु और स्वार्थतत्पर होता है।",
+    "gujarati": "ષષ્ઠેશ દ્વિતીય ભાવમાં હોય તો સાહસી, કુલપૂજિત, વિદેશવાસી, સુખી, વાક્પટુ અને સ્વાર્થતત્પર થાય છે.",
+    "keywords": [
+      "6th lord",
+      "2nd house",
+      "adventurous",
+      "fame",
+      "foreign residence",
+      "happy",
+      "eloquent",
+      "self-interested"
+    ]
+  },
+  {
+    "id": 63,
+    "shloka": 63,
+    "description": "If the 6th lord is in the 3rd, the native will be given to anger, be bereft of courage, inimical to all of his co-born, and will have disobedient servants.",
+    "hindi": "षष्ठेश तृतीय भाव में हो तो क्रोधन, वीर्यहीन, भाइयों का विरोधी और सेवक होते हुए भी सेवा न करने वाला होता है।",
+    "gujarati": "ષષ્ઠેશ તૃતીય ભાવમાં હોય તો ક્રોધન, વીર્યહીન, ભાઈઓનો વિરોધી અને સેવક હોવા છતાં સેવા ન કરનાર થાય છે.",
+    "keywords": [
+      "6th lord",
+      "3rd house",
+      "anger",
+      "cowardice",
+      "enmity with siblings",
+      "disobedient servants"
+    ]
+  },
+  {
+    "id": 64,
+    "shloka": 64,
+    "description": "If the 6th lord is in the 4th, the native will be devoid of maternal happiness, be intelligent, be a talebearer, be jealous, fickle-minded, and very rich.",
+    "hindi": "षष्ठेश चतुर्थ भाव में हो तो मातृसुख से रहित, बुद्धिमान, पिशुन, मत्सरी, चंचल और सुधनी होता है।",
+    "gujarati": "ષષ્ઠેશ ચતુર્થ ભાવમાં હોય તો માતૃસુખથી રહિત, બુદ્ધિમાન, પિશુન, મત્સરી, ચંચળ અને સુધની થાય છે.",
+    "keywords": [
+      "6th lord",
+      "4th house",
+      "no mother's happiness",
+      "intelligent",
+      "talebearer",
+      "jealous",
+      "fickle",
+      "very rich"
+    ]
+  },
+  {
+    "id": 65,
+    "shloka": 65,
+    "description": "If the 6th lord is in the 5th, the native will have fluctuating finances. He will incur enmity with his sons and friends. He will be happy, selfish, and kind.",
+    "hindi": "षष्ठेश पंचम भाव में हो तो चल अर्थ, मित्रों और पुत्रों वाला, सुखी, स्वार्थपर और दयालु होता है।",
+    "gujarati": "ષષ્ઠેશ પંચમ ભાવમાં હોય તો ચલ અર્થ, મિત્રો અને પુત્રોવાળો, સુખી, સ્વાર્થપર અને દયાળુ થાય છે.",
+    "keywords": [
+      "6th lord",
+      "5th house",
+      "fluctuating finances",
+      "enmity with sons",
+      "enmity with friends",
+      "happy",
+      "selfish",
+      "kind"
+    ]
+  },
+  {
+    "id": 66,
+    "shloka": 66,
+    "description": "If the 6th lord is in the 6th, the native will have enmity with the group of his kinsmen but be friendly to others, and will enjoy mediocre happiness in matters like wealth.",
+    "hindi": "षष्ठेश षष्ठ भाव में हो तो अपने बन्धुओं से कलह, परायों से मित्रता, और भोगों में मित सुख होता है।",
+    "gujarati": "ષષ્ઠેશ ષષ્ઠ ભાવમાં હોય તો પોતાના બંધુઓથી કલહ, પરાયોથી મિત્રતા, અને ભોગોમાં મિત સુખ થાય છે.",
+    "keywords": [
+      "6th lord",
+      "6th house",
+      "enmity with kinsmen",
+      "friendship with others",
+      "mediocre wealth happiness"
+    ]
+  },
+  {
+    "id": 67,
+    "shloka": 67,
+    "description": "If the 6th lord is in the 7th, the native will be deprived of happiness through wedlock. He will be famous, virtuous, honourable, adventurous, and wealthy.",
+    "hindi": "षष्ठेश सप्तम भाव में हो तो दारसुख से रहित, कीर्तिमान, गुणवान, मानी, साहसी और धनवान होता है।",
+    "gujarati": "ષષ્ઠેશ સપ્તમ ભાવમાં હોય તો દારસુખથી રહિત, કીર્તિમાન, ગુણવાન, માની, સાહસી અને ધનવાન થાય છે.",
+    "keywords": [
+      "6th lord",
+      "7th house",
+      "no marital happiness",
+      "fame",
+      "virtuous",
+      "honorable",
+      "adventurous",
+      "wealthy"
+    ]
+  },
+  {
+    "id": 68,
+    "shloka": 68,
+    "description": "If the 6th lord is in the 8th, the native will be sickly, inimical, will desire others' wealth, be interested in others' wives, and be impure (or degraded).",
+    "hindi": "षष्ठेश आठवें भाव में हो तो रोगी, द्वेषी, परद्रव्य वाला, परदाररत और नित्य अशुचि होता है।",
+    "gujarati": "ષષ્ઠેશ આઠમા ભાવમાં હોય તો રોગી, દ્વેષી, પરદ્રવ્યવાળો, પરદારરત અને નિત્ય અશુચિ થાય છે.",
+    "keywords": [
+      "6th lord",
+      "8th house",
+      "sickly",
+      "inimical",
+      "desire for others' wealth",
+      "adultery",
+      "impure"
+    ]
+  },
+  {
+    "id": 69,
+    "shloka": 69,
+    "description": "If the 6th lord is in the 9th, the native will trade in wood and stones, and will have fluctuating professional fortunes.",
+    "hindi": "षष्ठेश नवम भाव में हो तो काष्ठ-पाषाण का विक्रय करने वाला, स्थानच्युत, कभी सुखी कभी दुःखी होता है।",
+    "gujarati": "ષષ્ઠેશ નવમ ભાવમાં હોય તો કાષ્ઠ-પાષાણનો વિક્રય કરનાર, સ્થાનચ્યુત, ક્યારેક સુખી ક્યારેક દુઃખી થાય છે.",
+    "keywords": [
+      "6th lord",
+      "9th house",
+      "wood and stone trade",
+      "fluctuating fortunes"
+    ]
+  },
+  {
+    "id": 70,
+    "shloka": 70,
+    "description": "If the 6th lord is in the 10th, the native will be well-known among his men, will not be respectfully disposed to his father, will be happy in foreign countries, and be a gifted speaker.",
+    "hindi": "षष्ठेश दशम भाव में हो तो अपने वर्ग में विशिष्ट, पितृद्रोही, विदेशी और वाक्पटु होता है।",
+    "gujarati": "ષષ્ઠેશ દશમ ભાવમાં હોય તો પોતાના વર્ગમાં વિશિષ્ટ, પિતૃદ્રોહી, વિદેશી અને વાક્પટુ થાય છે.",
+    "keywords": [
+      "6th lord",
+      "10th house",
+      "distinguished",
+      "disrespect to father",
+      "happy abroad",
+      "eloquent"
+    ]
+  },
+  {
+    "id": 71,
+    "shloka": 71,
+    "description": "If the 6th lord is in the 11th, the native will gain wealth through his enemies, be virtuous, adventurous, and will be somewhat bereft of progenic happiness.",
+    "hindi": "षष्ठेश ग्यारहवें भाव में हो तो शत्रुओं से धन प्राप्त करने वाला, धर्मात्मा, साहसी और पुत्रसुख से हीन होता है।",
+    "gujarati": "ષષ્ઠેશ અગિયારમા ભાવમાં હોય તો શત્રુઓથી ધન પ્રાપ્ત કરનાર, ધર્માત્મા, સાહસી અને પુત્રસુખથી હીન થાય છે.",
+    "keywords": [
+      "6th lord",
+      "11th house",
+      "wealth from enemies",
+      "virtuous",
+      "adventurous",
+      "little child happiness"
+    ]
+  },
+  {
+    "id": 72,
+    "shloka": 72,
+    "description": "If the 6th lord is in the 12th, the native will always spend on vices, be hostile to learned people, and will torture living beings.",
+    "hindi": "षष्ठेश बारहवें भाव में हो तो पापकर्मों में व्यय करने वाला, विद्वानों से द्वेष करने वाला और हिंसक होता है।",
+    "gujarati": "ષષ્ઠેશ બારમા ભાવમાં હોય તો પાપકર્મોમાં વ્યય કરનાર, વિદ્વાનોથી દ્વેષ કરનાર અને હિંસક થાય છે.",
+    "keywords": [
+      "6th lord",
+      "12th house",
+      "vice expenses",
+      "hostile to learned",
+      "cruel"
+    ]
+  },
+  {
+    "id": 73,
+    "shloka": 73,
+    "description": "If the 7th lord is in the ascendant, the native will go to other's wives, be wicked, skilful, devoid of courage, and afflicted by windy diseases.",
+    "hindi": "सप्तमेश लग्न में हो तो परदाररत, दुष्ट, कुशलहीन और वातरोगी होता है।",
+    "gujarati": "સપ્તમેશ લગ્નમાં હોય તો પરદારરત, દુષ્ટ, કુશળહીન અને વાતરોગી થાય છે.",
+    "keywords": [
+      "7th lord",
+      "lagna",
+      "adultery",
+      "wicked",
+      "no courage",
+      "vata diseases"
+    ]
+  },
+  {
+    "id": 74,
+    "shloka": 74,
+    "description": "If the 7th lord is in the 2nd, the native will have many wives, will gain wealth through his wife, and be procrastinating in nature.",
+    "hindi": "सप्तमेश द्वितीय भाव में हो तो बहुदार, धनवान, पत्नी से धन प्राप्त करने वाला और चिरकारी (धीरे-धीरे काम करने वाला) होता है।",
+    "gujarati": "સપ્તમેશ દ્વિતીય ભાવમાં હોય તો બહુદાર, ધનવાન, પત્નીથી ધન પ્રાપ્ત કરનાર અને ચિરકારી (ધીરે-ધીરે કામ કરનાર) થાય છે.",
+    "keywords": [
+      "7th lord",
+      "2nd house",
+      "many wives",
+      "wealth through wife",
+      "procrastinating"
+    ]
+  },
+  {
+    "id": 75,
+    "shloka": 75,
+    "description": "If the 7th lord is in the 3rd, the native will face loss of children and sometimes with great difficulty there will exist a living son. There is also the possibility of birth of a daughter (who will sustain).",
+    "hindi": "सप्तमेश तृतीय भाव में हो तो पुत्रों का नाश, या बड़ी कठिनाई से एक पुत्र जीवित रहे, या एक पुत्री ही सुख देती है।",
+    "gujarati": "સપ્તમેશ તૃતીય ભાવમાં હોય તો પુત્રોનો નાશ, કે મોટી મુશ્કેલીથી એક પુત્ર જીવે, કે એક પુત્રી જ સુખ આપે છે.",
+    "keywords": [
+      "7th lord",
+      "3rd house",
+      "loss of sons",
+      "difficult son survival",
+      "daughter"
+    ]
+  },
+  {
+    "id": 76,
+    "shloka": 76,
+    "description": "If the 7th lord is in the 4th, the wife of the native will not be under his control. He will be fond of truth, be intelligent, and religious. He will suffer from dental diseases.",
+    "hindi": "सप्तमेश चतुर्थ भाव में हो तो स्त्रीवश्य, सत्यवादी, सुबुद्धि, धार्मिक और दन्तरोगी होता है।",
+    "gujarati": "સપ્તમેશ ચતુર્થ ભાવમાં હોય તો સ્ત્રીવશ્ય, સત્યવાદી, સુબુદ્ધિ, ધાર્મિક અને દંતરોગી થાય છે.",
+    "keywords": [
+      "7th lord",
+      "4th house",
+      "wife out of control",
+      "truthful",
+      "intelligent",
+      "religious",
+      "dental disease"
+    ]
+  },
+  {
+    "id": 77,
+    "shloka": 77,
+    "description": "If the 7th lord is in the 5th, the native will be honourable, endowed with all (i.e., seven principal) virtues, always delighted, and endowed with all kinds of wealth.",
+    "hindi": "सप्तमेश पंचम भाव में हो तो सर्वगुणयुक्त, नित्य सुखी, सदा हृष्ट और सर्वसम्पत्तियुक्त होता है।",
+    "gujarati": "સપ્તમેશ પંચમ ભાવમાં હોય તો સર્વગુણયુક્ત, નિત્ય સુખી, સદા હૃષ્ટ અને સર્વસમ્પત્તિયુક્ત થાય છે.",
+    "keywords": [
+      "7th lord",
+      "5th house",
+      "honorable",
+      "all virtues",
+      "always delighted",
+      "all wealth"
+    ]
+  },
+  {
+    "id": 78,
+    "shloka": 78,
+    "description": "If the 7th lord is in the 6th, the native will beget a sickly wife, be inimical to her, given to anger, and devoid of happiness.",
+    "hindi": "सप्तमेश छठे भाव में हो तो रोगी पत्नी, स्त्रीद्वेषी, क्रोधी और सुखहीन होता है।",
+    "gujarati": "સપ્તમેશ છઠ્ઠા ભાવમાં હોય તો રોગી પત્ની, સ્ત્રીદ્વેષી, ક્રોધી અને સુખહીન થાય છે.",
+    "keywords": [
+      "7th lord",
+      "6th house",
+      "sickly wife",
+      "enmity with wife",
+      "anger",
+      "unhappiness"
+    ]
+  },
+  {
+    "id": 79,
+    "shloka": 79,
+    "description": "If the 7th lord is in the 7th, the native will be endowed with happiness through wife, be courageous, skilful, and intelligent but only afflicted by windy diseases.",
+    "hindi": "सप्तमेश सप्तम भाव में हो तो पत्नी सुखयुक्त, शूर, कुशल, बुद्धिमान, किन्तु केवल वातरोगी होता है।",
+    "gujarati": "સપ્તમેશ સપ્તમ ભાવમાં હોય તો પત્ની સુખયુક્ત, શૂર, કુશળ, બુદ્ધિમાન, પણ માત્ર વાતરોગી થાય છે.",
+    "keywords": [
+      "7th lord",
+      "7th house",
+      "marital happiness",
+      "courage",
+      "skill",
+      "intelligence",
+      "vata diseases"
+    ]
+  },
+  {
+    "id": 80,
+    "shloka": 80,
+    "description": "If the 7th lord is in the 8th, the native will be deprived of marital happiness. His wife will be troubled by diseases, be devoid of good disposition, and will not obey the native.",
+    "hindi": "सप्तमेश आठवें भाव में हो तो पत्नी सुख से रहित, रोगी पत्नी, दुःशीला और वश में न रहने वाली पत्नी होती है।",
+    "gujarati": "સપ્તમેશ આઠમા ભાવમાં હોય તો પત્ની સુખથી રહિત, રોગી પત્ની, દુઃશીલા અને વશમાં ન રહેનારી પત્ની થાય છે.",
+    "keywords": [
+      "7th lord",
+      "8th house",
+      "no marital happiness",
+      "sickly wife",
+      "bad-tempered wife",
+      "disobedient wife"
+    ]
+  },
+  {
+    "id": 81,
+    "shloka": 81,
+    "description": "If the 7th lord is in the 9th, the native will have union with many women, be well-disposed to his own wife, and will have many undertakings (or assignments).",
+    "hindi": "सप्तमेश नवम भाव में हो तो बहु स्त्रियों से संगम, स्वदार में निरत, साधु और बहुकार्यों से युक्त होता है।",
+    "gujarati": "સપ્તમેશ નવમ ભાવમાં હોય તો બહુ સ્ત્રીઓથી સંગમ, સ્વદારમાં નિરત, સાધુ અને બહુકાર્યોથી યુક્ત થાય છે.",
+    "keywords": [
+      "7th lord",
+      "9th house",
+      "union with many women",
+      "devoted to own wife",
+      "many undertakings"
+    ]
+  },
+  {
+    "id": 82,
+    "shloka": 82,
+    "description": "If the 7th lord is in the 10th, the native will beget a disobedient wife, will be religious, and endowed with wealth, sons, etc.",
+    "hindi": "सप्तमेश दशम भाव में हो तो स्त्रीवश्य, धार्मिक, धन और पुत्रों से युक्त होता है।",
+    "gujarati": "સપ્તમેશ દશમ ભાવમાં હોય તો સ્ત્રીવશ્ય, ધાર્મિક, ધન અને પુત્રોથી યુક્ત થાય છે.",
+    "keywords": [
+      "7th lord",
+      "10th house",
+      "disobedient wife",
+      "religious",
+      "wealth",
+      "sons"
+    ]
+  },
+  {
+    "id": 83,
+    "shloka": 83,
+    "description": "If the 8th lord is in the ascendant, the native will be long-lived, wealthy, happy, endowed with sons and virtues, but sickly and thievish.",
+    "hindi": "रन्ध्रेश (अष्टमेश) लग्न में हो तो दीर्घायु, धनवान, सुखी, पुत्रवान, गुणसम्पन्न, किन्तु रोगी और चोर होता है।",
+    "gujarati": "રન્ધ્રેશ (અષ્ટમેશ) લગ્નમાં હોય તો દીર્ઘાયુ, ધનવાન, સુખી, પુત્રવાન, ગુણસમ્પન્ન, પણ રોગી અને ચોર થાય છે.",
+    "keywords": [
+      "8th lord",
+      "lagna",
+      "long life",
+      "wealth",
+      "sons",
+      "virtue",
+      "sickly",
+      "thief"
+    ]
+  },
+  {
+    "id": 84,
+    "shloka": 84,
+    "description": "If the 8th lord is in the 2nd, the native will be wealthy, happy, miserly, sad-faced, and a hater of Brahmins.",
+    "hindi": "रन्ध्रेश द्वितीय भाव में हो तो धनवान, सुखी, कृपण, दीनवदन और ब्राह्मणद्वेषी होता है।",
+    "gujarati": "રન્ધ્રેશ દ્વિતીય ભાવમાં હોય તો ધનવાન, સુખી, કૃપણ, દીનવદન અને બ્રાહ્મણદ્વેષી થાય છે.",
+    "keywords": [
+      "8th lord",
+      "2nd house",
+      "wealth",
+      "happy",
+      "miserly",
+      "sad-faced",
+      "hates brahmins"
+    ]
+  },
+  {
+    "id": 85,
+    "shloka": 85,
+    "description": "If the 8th lord is in the 3rd, the native will be bereft of brothers, wealthy, addicted to other's wives, given to anger, happy, and sickly.",
+    "hindi": "रन्ध्रेश तृतीय भाव में हो तो भ्रातृहीन, धनवान, परदाररत, क्रोधी, सुखी और रोगी होता है।",
+    "gujarati": "રન્ધ્રેશ તૃતીય ભાવમાં હોય તો ભ્રાતૃહીન, ધનવાન, પરદારરત, ક્રોધી, સુખી અને રોગી થાય છે.",
+    "keywords": [
+      "8th lord",
+      "3rd house",
+      "no brothers",
+      "wealth",
+      "adultery",
+      "anger",
+      "happy",
+      "sickly"
+    ]
+  },
+  {
+    "id": 86,
+    "shloka": 86,
+    "description": "If the 8th lord is in the 4th, the child will be deprived of its mother. He will be devoid of a house, lands, and happiness, and will doubtlessly betray his friends.",
+    "hindi": "रन्ध्रेश चतुर्थ भाव में हो तो मातृहीन, सुखी, राजा या राजा के समान, और धनवान होता है।",
+    "gujarati": "રન્ધ્રેશ ચતુર્થ ભાવમાં હોય તો માતૃહીન, સુખી, રાજા કે રાજા સમાન, અને ધનવાન થાય છે.",
+    "keywords": [
+      "8th lord",
+      "4th house",
+      "loss of mother",
+      "no house",
+      "no lands",
+      "betray friends"
+    ]
+  },
+  {
+    "id": 87,
+    "shloka": 87,
+    "description": "If the 8th lord is in the 5th, the native will have limited happiness from sons, be wealthy, happy, and afflicted by windy diseases.",
+    "hindi": "रन्ध्रेश पंचम भाव में हो तो अल्प पुत्र सुख, धनवान, सुखसम्पन्न और वातरोगी होता है।",
+    "gujarati": "રન્ધ્રેશ પંચમ ભાવમાં હોય તો અલ્પ પુત્ર સુખ, ધનવાન, સુખસમ્પન્ન અને વાતરોગી થાય છે.",
+    "keywords": [
+      "8th lord",
+      "5th house",
+      "little child happiness",
+      "wealth",
+      "happy",
+      "vata diseases"
+    ]
+  },
+  {
+    "id": 88,
+    "shloka": 88,
+    "description": "If the 8th lord is in the 6th, the native will be always sick, wealthy, troubled by enemies, and will destroy his friends.",
+    "hindi": "रन्ध्रेश छठे भाव में हो तो नित्य रोगी, धनवान, शत्रुओं से पीड़ित और मित्रों का नाश करने वाला होता है।",
+    "gujarati": "રન્ધ્રેશ છઠ્ઠા ભાવમાં હોય તો નિત્ય રોગી, ધનવાન, શત્રુઓથી પીડિત અને મિત્રોનો નાશ કરનાર થાય છે.",
+    "keywords": [
+      "8th lord",
+      "6th house",
+      "always sick",
+      "wealthy",
+      "enemy troubles",
+      "destroys friends"
+    ]
+  },
+  {
+    "id": 89,
+    "shloka": 89,
+    "description": "If the 8th lord is in the 7th, the native will have many wives, be wealthy, controlled by his wife, always lustful, and long-lived.",
+    "hindi": "रन्ध्रेश सप्तम भाव में हो तो बहुदार, धनवान, स्त्रीजित, सदा कामी और दीर्घायु होता है।",
+    "gujarati": "રન્ધ્રેશ સપ્તમ ભાવમાં હોય તો બહુદાર, ધનવાન, સ્ત્રીજિત, સદા કામી અને દીર્ઘાયુ થાય છે.",
+    "keywords": [
+      "8th lord",
+      "7th house",
+      "many wives",
+      "wealth",
+      "wife-controlled",
+      "lustful",
+      "long life"
+    ]
+  },
+  {
+    "id": 90,
+    "shloka": 90,
+    "description": "If the 8th lord is in the 8th, the native will be long-lived. If the said planet be weak being in the 8th, the longevity will be medium, while the native will be a thief, be blameworthy, and will blame others well.",
+    "hindi": "रन्ध्रेश आठवें भाव में हो तो दीर्घायु होता है। बलहीन होने पर मध्यमायु, चोर और निंदित होता है।",
+    "gujarati": "રન્ધ્રેશ આઠમા ભાવમાં હોય તો દીર્ઘાયુ થાય છે. બળહીન હોવાથી મધ્યમાયુ, ચોર અને નિંદિત થાય છે.",
+    "keywords": [
+      "8th lord",
+      "8th house",
+      "long life",
+      "weak",
+      "medium life",
+      "thief",
+      "blameworthy"
+    ]
+  },
+  {
+    "id": 91,
+    "shloka": 91,
+    "description": "If the 8th lord is in the 9th, the native will be fortunate, wealthy, happy, endowed with paternal happiness, and be a king or equal to a king.",
+    "hindi": "रन्ध्रेश नवम भाव में हो तो भाग्यवान, धनवान, सुखी, पितृसुखयुक्त और राजा या राजा के समान होता है।",
+    "gujarati": "રન્ધ્રેશ નવમ ભાવમાં હોય તો ભાગ્યવાન, ધનવાન, સુખી, પિતૃસુખયુક્ત અને રાજા કે રાજા સમાન થાય છે.",
+    "keywords": [
+      "8th lord",
+      "9th house",
+      "fortunate",
+      "wealthy",
+      "happy",
+      "paternal happiness",
+      "king"
+    ]
+  },
+  {
+    "id": 92,
+    "shloka": 92,
+    "description": "If the 8th lord is in the 10th, the native will be honoured by the king, famous, endowed with paternal happiness, be renowned, wealthy, and happy.",
+    "hindi": "रन्ध्रेश दशम भाव में हो तो राजमान्य, यशस्वी, पितृसुखयुक्त, कीर्तिमान, धनवान और सुखी होता है।",
+    "gujarati": "રન્ધ્રેશ દશમ ભાવમાં હોય તો રાજમાન્ય, યશસ્વી, પિતૃસુખયુક્ત, કીર્તિમાન, ધનવાન અને સુખી થાય છે.",
+    "keywords": [
+      "8th lord",
+      "10th house",
+      "royal honor",
+      "famous",
+      "paternal happiness",
+      "renowned",
+      "wealthy",
+      "happy"
+    ]
+  },
+  {
+    "id": 93,
+    "shloka": 93,
+    "description": "If the 8th lord along with a malefic is in the 11th, the native will be devoid of wealth and will be miserable in boyhood but happy later on. Should the 8th lord be in conjunction with a benefice and be in the 11th, the native will be long-lived.",
+    "hindi": "रन्ध्रेश ग्यारहवें भाव में हो तो धनवान, सुखी होता है। पाप से युत होने पर निर्धन, बाल्य में दुःखी और बाद में सुखी होता है।",
+    "gujarati": "રન્ધ્રેશ અગિયારમા ભાવમાં હોય તો ધનવાન, સુખી થાય છે. પાપ સાથે યુત હોવાથી નિર્ધન, બાલ્યમાં દુઃખી અને પછી સુખી થાય છે.",
+    "keywords": [
+      "8th lord",
+      "11th house",
+      "malefic",
+      "poverty",
+      "unhappy childhood",
+      "happy later",
+      "benefice",
+      "long life"
+    ]
+  },
+  {
+    "id": 94,
+    "shloka": 94,
+    "description": "If the 8th lord is in the 12th, the native will spend on evil deeds and will incur a short life. More so, if there be additionally a malefic in the said house.",
+    "hindi": "रन्ध्रेश बारहवें भाव में हो तो पापकर्मों में व्यय करने वाला और अल्पायु होता है। विशेषकर पाप से युत होने पर अल्पायु होता है।",
+    "gujarati": "રન્ધ્રેશ બારમા ભાવમાં હોય તો પાપકર્મોમાં વ્યય કરનાર અને અલ્પાયુ થાય છે. ખાસ કરીને પાપ સાથે યુત હોવાથી અલ્પાયુ થાય છે.",
+    "keywords": [
+      "8th lord",
+      "12th house",
+      "evil expenses",
+      "short life",
+      "malefic"
+    ]
+  },
+  {
+    "id": 95,
+    "shloka": 95,
+    "description": "If the 9th lord is in the ascendant, the native will be fortunate (or prosperous), will be honoured by the king, be virtuous, charming, learned, and honoured by the public.",
+    "hindi": "भाग्येश (नवमेश) लग्न में हो तो भाग्यवान, राजपूजित, सुशील, सुरूप, विद्यावान और जनवल्लभ होता है।",
+    "gujarati": "ભાગ્યેશ (નવમેશ) લગ્નમાં હોય તો ભાગ્યવાન, રાજપૂજિત, સુશીલ, સુરૂપ, વિદ્યાવાન અને જનવલ્લભ થાય છે.",
+    "keywords": [
+      "9th lord",
+      "lagna",
+      "fortunate",
+      "royal honor",
+      "virtuous",
+      "charming",
+      "learned",
+      "popular"
+    ]
+  },
+  {
+    "id": 96,
+    "shloka": 96,
+    "description": "If the 9th lord is in the 2nd, the native will be a scholar, be dear to all, wealthy, sensuous, and endowed with happiness from wife, sons, etc.",
+    "hindi": "भाग्येश द्वितीय भाव में हो तो वाग्मी, जनवल्लभ, धनवान, कामी और पुत्रादि सुखों से युक्त होता है।",
+    "gujarati": "ભાગ્યેશ દ્વિતીય ભાવમાં હોય તો વાગ્મી, જનવલ્લભ, ધનવાન, કામી અને પુત્રાદિ સુખોથી યુક્ત થાય છે.",
+    "keywords": [
+      "9th lord",
+      "2nd house",
+      "scholar",
+      "popular",
+      "wealthy",
+      "sensuous",
+      "family happiness"
+    ]
+  },
+  {
+    "id": 97,
+    "shloka": 97,
+    "description": "If the 9th lord is in the 3rd, the native will be endowed with fraternal bliss, be wealthy, virtuous, and charming.",
+    "hindi": "भाग्येश तृतीय भाव में हो तो भ्रातृसुखयुक्त, धनवान, गुणवान और रूप-शील से युक्त होता है।",
+    "gujarati": "ભાગ્યેશ તૃતીય ભાવમાં હોય તો ભ્રાતૃસુખયુક્ત, ધનવાન, ગુણવાન અને રૂપ-શીલથી યુક્ત થાય છે.",
+    "keywords": [
+      "9th lord",
+      "3rd house",
+      "sibling happiness",
+      "wealth",
+      "virtuous",
+      "charming"
+    ]
+  },
+  {
+    "id": 98,
+    "shloka": 98,
+    "description": "If the 9th lord is in the 4th, the native will enjoy houses, conveyances, and happiness, will have all kinds of wealth, and be devoted to his mother.",
+    "hindi": "भाग्येश चतुर्थ भाव में हो तो गृह-यान सुख, सर्वसम्पत्ति और मातृभक्त होता है।",
+    "gujarati": "ભાગ્યેશ ચતુર્થ ભાવમાં હોય તો ગૃહ-યાન સુખ, સર્વસમ્પત્તિ અને માતૃભક્ત થાય છે.",
+    "keywords": [
+      "9th lord",
+      "4th house",
+      "houses",
+      "conveyances",
+      "happiness",
+      "all wealth",
+      "devoted to mother"
+    ]
+  },
+  {
+    "id": 99,
+    "shloka": 99,
+    "description": "If the 9th lord is in the 5th, the native will be endowed with sons and prosperity, devoted to elders, bold, charitable, and learned.",
+    "hindi": "भाग्येश पंचम भाव में हो तो पुत्र-भाग्ययुक्त, गुरुभक्त, धीर, धर्मात्मा, वाग्मी और पण्डित होता है।",
+    "gujarati": "ભાગ્યેશ પંચમ ભાવમાં હોય તો પુત્ર-ભાગ્યયુક્ત, ગુરુભક્ત, ધીર, ધર્માત્મા, વાગ્મી અને પંડિત થાય છે.",
+    "keywords": [
+      "9th lord",
+      "5th house",
+      "sons",
+      "prosperity",
+      "devoted to elders",
+      "bold",
+      "charitable",
+      "learned"
+    ]
+  },
+  {
+    "id": 100,
+    "shloka": 100,
+    "description": "If the 9th lord is in the 6th, the native will enjoy meagre prosperity, be devoid of happiness from maternal relatives, and be always troubled by enemies.",
+    "hindi": "भाग्येश छठे भाव में हो तो अल्पभाग्य, मातुलादि सुखों से हीन और सदा शत्रुओं से पीड़ित होता है।",
+    "gujarati": "ભાગ્યેશ છઠ્ઠા ભાવમાં હોય તો અલ્પભાગ્ય, માતુલાદિ સુખોથી હીન અને સદા શત્રુઓથી પીડિત થાય છે.",
+    "keywords": [
+      "9th lord",
+      "6th house",
+      "little fortune",
+      "no maternal relative happiness",
+      "enemy troubles"
+    ]
+  },
+  {
+    "id": 101,
+    "shloka": 101,
+    "description": "O Brahmin, if the 9th lord is in the 7th, the native will beget happiness after marriage, be virtuous, and famous.",
+    "hindi": "भाग्येश सप्तम भाव में हो तो विवाह के बाद सुख, गुणवान और कीर्तिमान होता है।",
+    "gujarati": "ભાગ્યેશ સપ્તમ ભાવમાં હોય તો લગ્ન પછી સુખ, ગુણવાન અને કીર્તિમાન થાય છે.",
+    "keywords": [
+      "9th lord",
+      "7th house",
+      "post-marital happiness",
+      "virtuous",
+      "famous"
+    ]
+  },
+  {
+    "id": 102,
+    "shloka": 102,
+    "description": "If the 9th lord is in the 8th, the native will not be prosperous and will not enjoy happiness from his elder brother.",
+    "hindi": "भाग्येश आठवें भाव में हो तो भाग्यहीन होता है और ज्येष्ठ भ्राता से सुख नहीं मिलता।",
+    "gujarati": "ભાગ્યેશ આઠમા ભાવમાં હોય તો ભાગ્યહીન થાય છે અને જ્યેષ્ઠ ભ્રાતાથી સુખ મળતું નથી.",
+    "keywords": [
+      "9th lord",
+      "8th house",
+      "no fortune",
+      "no happiness from elder brother"
+    ]
+  },
+  {
+    "id": 103,
+    "shloka": 103,
+    "description": "If the 9th lord is in the 9th, the native will be endowed with abundant fortunes, virtues, and beauty, and will enjoy much happiness from co-born.",
+    "hindi": "भाग्येश नवम भाव में हो तो बहुभाग्ययुक्त, गुण-सौन्दर्य से सम्पन्न और सहोदरों से बहुत सुख मिलता है।",
+    "gujarati": "ભાગ્યેશ નવમ ભાવમાં હોય તો બહુભાગ્યયુક્ત, ગુણ-સૌન્દર્યથી સમ્પન્ન અને સહોદરોથી ઘણું સુખ મળે છે.",
+    "keywords": [
+      "9th lord",
+      "9th house",
+      "abundant fortune",
+      "virtue",
+      "beauty",
+      "sibling happiness"
+    ]
+  },
+  {
+    "id": 104,
+    "shloka": 104,
+    "description": "If the 9th lord is in the 10th, the native will be a king or equal to him or be a minister or an army chief, be virtuous, and dear to all.",
+    "hindi": "भाग्येश दशम भाव में हो तो राजा या राजा के समान, मन्त्री, सेनापति, गुणवान और जनवल्लभ होता है।",
+    "gujarati": "ભાગ્યેશ દશમ ભાવમાં હોય તો રાજા કે રાજા સમાન, મંત્રી, સેનાપતિ, ગુણવાન અને જનવલ્લભ થાય છે.",
+    "keywords": [
+      "9th lord",
+      "10th house",
+      "king",
+      "minister",
+      "army chief",
+      "virtuous",
+      "popular"
+    ]
+  },
+  {
+    "id": 105,
+    "shloka": 105,
+    "description": "If the 9th lord is in the 11th, the native will enjoy financial gains day by day, be devoted to elders, virtuous, and meritorious in acts.",
+    "hindi": "भाग्येश ग्यारहवें भाव में हो तो दिन-प्रतिदिन धनलाभ, गुरुजनों का भक्त, गुणवान और पुण्यवान होता है।",
+    "gujarati": "ભાગ્યેશ અગિયારમા ભાવમાં હોય તો દિન-પ્રતિદિન ધનલાભ, ગુરુજનોનો ભક્ત, ગુણવાન અને પુણ્યવાન થાય છે.",
+    "keywords": [
+      "9th lord",
+      "11th house",
+      "daily financial gains",
+      "devotion to elders",
+      "virtuous",
+      "meritorious"
+    ]
+  },
+  {
+    "id": 106,
+    "shloka": 106,
+    "description": "If the 9th lord is in the 12th, the native will incur loss of fortunes, will always spend on auspicious acts, and will become poor on account of entertaining guests.",
+    "hindi": "भाग्येश बारहवें भाव में हो तो भाग्यहानि करने वाला, शुभ कार्यों में व्यय करने वाला और अतिथि सत्कार से धनहीन होता है।",
+    "gujarati": "ભાગ્યેશ બારમા ભાવમાં હોય તો ભાગ્યહાનિ કરનાર, શુભ કાર્યોમાં વ્યય કરનાર અને અતિથિ સત્કારથી ધનહીન થાય છે.",
+    "keywords": [
+      "9th lord",
+      "12th house",
+      "loss of fortune",
+      "expenses on good deeds",
+      "poverty from guests"
+    ]
+  },
+  {
+    "id": 107,
+    "shloka": 107,
+    "description": "If the 10th lord is in the ascendant, the native will be scholarly, famous, be a poet, will incur diseases in boyhood and be happy later on. His wealth will increase day by day.",
+    "hindi": "कर्मेश (दशमेश) लग्न में हो तो विद्वान, ख्यात, धनी, कवि, बाल्य में रोगी, अन्त में सुखी और दिन-प्रतिदिन धनवृद्धि होती है।",
+    "gujarati": "કર્મેશ (દશમેશ) લગ્નમાં હોય તો વિદ્વાન, ખ્યાત, ધની, કવિ, બાલ્યમાં રોગી, અંતમાં સુખી અને દિન-પ્રતિદિન ધનવૃદ્ધિ થાય છે.",
+    "keywords": [
+      "10th lord",
+      "lagna",
+      "scholarly",
+      "famous",
+      "poet",
+      "childhood disease",
+      "later happiness",
+      "daily wealth increase"
+    ]
+  },
+  {
+    "id": 108,
+    "shloka": 108,
+    "description": "If the 10th lord is in the 2nd, the native will be wealthy, virtuous, honoured by the king, charitable, and will enjoy happiness from father and others.",
+    "hindi": "कर्मेश द्वितीय भाव में हो तो धनवान, राजपूजित, दानी, पुत्रवान, धीर और पितृसुखयुक्त होता है।",
+    "gujarati": "કર્મેશ દ્વિતીય ભાવમાં હોય તો ધનવાન, રાજપૂજિત, દાની, પુત્રવાન, ધીર અને પિતૃસુખયુક્ત થાય છે.",
+    "keywords": [
+      "10th lord",
+      "2nd house",
+      "wealthy",
+      "virtuous",
+      "royal honor",
+      "charitable",
+      "paternal happiness"
+    ]
+  },
+  {
+    "id": 109,
+    "shloka": 109,
+    "description": "If the 10th lord is in the 3rd, the native will enjoy happiness from brothers and servants, be valorous, virtuous, eloquent, and truthful.",
+    "hindi": "कर्मेश तृतीय भाव में हो तो भ्रातृ-सेवा से सुख, शूर, गुणी, सत्यवादी और सुखी होता है।",
+    "gujarati": "કર્મેશ તૃતીય ભાવમાં હોય તો ભ્રાતૃ-સેવાથી સુખ, શૂર, ગુણી, સત્યવાદી અને સુખી થાય છે.",
+    "keywords": [
+      "10th lord",
+      "3rd house",
+      "happiness from siblings",
+      "valour",
+      "virtuous",
+      "eloquent",
+      "truthful"
+    ]
+  },
+  {
+    "id": 110,
+    "shloka": 110,
+    "description": "If the 10th lord is in the 4th, the native will enjoy parental happiness, be honoured by the king, and be endowed with wealth.",
+    "hindi": "कर्मेश चतुर्थ भाव में हो तो पितृ-मातृ सुख, राजमान्य और धनयुक्त होता है।",
+    "gujarati": "કર્મેશ ચતુર્થ ભાવમાં હોય તો પિતૃ-માતૃ સુખ, રાજમાન્ય અને ધનયુક્ત થાય છે.",
+    "keywords": [
+      "10th lord",
+      "4th house",
+      "parental happiness",
+      "royal honor",
+      "wealth"
+    ]
+  },
+  {
+    "id": 111,
+    "shloka": 111,
+    "description": "If the 10th lord is in the 5th, the native will be learned, wealthy, happy, and endowed with a Raja-yoga.",
+    "hindi": "कर्मेश पंचम भाव में हो तो विद्यावान, धनवान, सुखी और राजयोगयुक्त होता है।",
+    "gujarati": "કર્મેશ પંચમ ભાવમાં હોય તો વિદ્યાવાન, ધનવાન, સુખી અને રાજયોગયુક્ત થાય છે.",
+    "keywords": [
+      "10th lord",
+      "5th house",
+      "learned",
+      "wealthy",
+      "happy",
+      "raja yoga"
+    ]
+  },
+  {
+    "id": 112,
+    "shloka": 112,
+    "description": "If the 10th lord is in the 6th, the native will be bereft of paternal bliss. Although he may be skilful, he will be bereft of wealth and be troubled by enemies.",
+    "hindi": "कर्मेश छठे भाव में हो तो पितृसुख से रहित, कुशल होते हुए भी धनहीन और सदा शत्रुओं से पीड़ित होता है।",
+    "gujarati": "કર્મેશ છઠ્ઠા ભાવમાં હોય તો પિતૃસુખથી રહિત, કુશળ હોવા છતાં ધનહીન અને સદા શત્રુઓથી પીડિત થાય છે.",
+    "keywords": [
+      "10th lord",
+      "6th house",
+      "no paternal happiness",
+      "skilful but poor",
+      "enemy troubles"
+    ]
+  },
+  {
+    "id": 113,
+    "shloka": 113,
+    "description": "If the 10th lord is in the 7th, the native will be endowed with happiness through wife, be intelligent, virtuous, eloquent, truthful, and religious.",
+    "hindi": "कर्मेश सप्तम भाव में हो तो पत्नी सुखयुक्त, बुद्धिमान, गुणवान, धीर, सत्यवादी और सुखी होता है।",
+    "gujarati": "કર્મેશ સપ્તમ ભાવમાં હોય તો પત્ની સુખયુક્ત, બુદ્ધિમાન, ગુણવાન, ધીર, સત્યવાદી અને સુખી થાય છે.",
+    "keywords": [
+      "10th lord",
+      "7th house",
+      "marital happiness",
+      "intelligent",
+      "virtuous",
+      "eloquent",
+      "truthful",
+      "religious"
+    ]
+  },
+  {
+    "id": 114,
+    "shloka": 114,
+    "description": "If the 10th lord is in the 8th, the native will be devoid of (good) acts, long-lived, and intent on blaming others.",
+    "hindi": "कर्मेश आठवें भाव में हो तो सत्कर्म से रहित, दीर्घायु और दूसरों की निंदा करने वाला होता है।",
+    "gujarati": "કર્મેશ આઠમા ભાવમાં હોય તો સત્કર્મથી રહિત, દીર્ઘાયુ અને બીજાની નિંદા કરનાર થાય છે.",
+    "keywords": [
+      "10th lord",
+      "8th house",
+      "no good deeds",
+      "long life",
+      "blames others"
+    ]
+  },
+  {
+    "id": 115,
+    "shloka": 115,
+    "description": "If the 10th lord is in the 9th, one born of royal scion will become a king whereas an ordinary native will be equal to a king. This placement will confer wealth and progenic happiness, etc.",
+    "hindi": "कर्मेश नवम भाव में हो तो राजा या राजा के समान, धनवान और पुत्रसम्पन्न होता है।",
+    "gujarati": "કર્મેશ નવમ ભાવમાં હોય તો રાજા કે રાજા સમાન, ધનવાન અને પુત્રસમ્પન્ન થાય છે.",
+    "keywords": [
+      "10th lord",
+      "9th house",
+      "king",
+      "equal to king",
+      "wealth",
+      "children"
+    ]
+  },
+  {
+    "id": 116,
+    "shloka": 116,
+    "description": "If the 10th lord is in the 10th, the native will be skilful in all jobs, be valorous, truthful, and devoted to elders.",
+    "hindi": "कर्मेश दशम भाव में हो तो सर्वकर्मों में कुशल, विक्रमी, सत्यवादी और गुरुभक्त होता है।",
+    "gujarati": "કર્મેશ દશમ ભાવમાં હોય તો સર્વકર્મોમાં કુશળ, વિક્રમી, સત્યવાદી અને ગુરુભક્ત થાય છે.",
+    "keywords": [
+      "10th lord",
+      "10th house",
+      "skill in all jobs",
+      "valour",
+      "truthful",
+      "devoted to elders"
+    ]
+  },
+  {
+    "id": 117,
+    "shloka": 117,
+    "description": "If the 10th lord is in the 11th, the native will be endowed with wealth, happiness, and sons. He will be virtuous, truthful, and always delighted.",
+    "hindi": "कर्मेश ग्यारहवें भाव में हो तो धन-पुत्र-सुखयुक्त, गुणवान, सत्यवादी और नित्य हृष्ट होता है।",
+    "gujarati": "કર્મેશ અગિયારમા ભાવમાં હોય તો ધન-પુત્ર-સુખયુક્ત, ગુણવાન, સત્યવાદી અને નિત્ય હૃષ્ટ થાય છે.",
+    "keywords": [
+      "10th lord",
+      "11th house",
+      "wealth",
+      "happiness",
+      "sons",
+      "virtuous",
+      "truthful",
+      "delighted"
+    ]
+  },
+  {
+    "id": 118,
+    "shloka": 118,
+    "description": "If the 10th lord is in the 12th, the native will spend through royal abodes (i.e., kings), will have fear from enemies, and will be worried in spite of being skilful.",
+    "hindi": "कर्मेश बारहवें भाव में हो तो राजद्वार पर व्यय, शत्रुभीति, सदा चिन्ता और कुशल होते हुए भी चिन्तित रहता है।",
+    "gujarati": "કર્મેશ બારમા ભાવમાં હોય તો રાજદ્વાર પર વ્યય, શત્રુભીતિ, સદા ચિંતા અને કુશળ હોવા છતાં ચિંતિત રહે છે.",
+    "keywords": [
+      "10th lord",
+      "12th house",
+      "expenses through kings",
+      "fear from enemies",
+      "worried"
+    ]
+  },
+  {
+    "id": 119,
+    "shloka": 119,
+    "description": "If the 11th lord is in the ascendant, the native will be genuine in disposition, be rich, happy, even-sighted, be a poet, be eloquent in speech, and be always endowed with gains.",
+    "hindi": "लाभेश (ग्यारहवें भाव का स्वामी) लग्न में हो तो सात्विक, धनवान, सुखी, समदर्शी, कवि, वाग्मी और नित्यलाभयुक्त होता है।",
+    "gujarati": "લાભેશ (અગિયારમા ભાવનો સ્વામી) લગ્નમાં હોય તો સાત્વિક, ધનવાન, સુખી, સમદર્શી, કવિ, વાગ્મી અને નિત્યલાભયુક્ત થાય છે.",
+    "keywords": [
+      "11th lord",
+      "lagna",
+      "genuine",
+      "rich",
+      "happy",
+      "even-sighted",
+      "poet",
+      "eloquent",
+      "constant gains"
+    ]
+  },
+  {
+    "id": 120,
+    "shloka": 120,
+    "description": "If the 11th lord is in the 2nd, the native will be endowed with all kinds of wealth and all kinds of accomplishments, be charitable, religious, and always happy.",
+    "hindi": "लाभेश द्वितीय भाव में हो तो सर्वधनयुक्त, सर्वलक्षणसम्पन्न, दाता और धार्मिक होता है।",
+    "gujarati": "લાભેશ દ્વિતીય ભાવમાં હોય તો સર્વધનયુક્ત, સર્વલક્ષણસમ્પન્ન, દાતા અને ધાર્મિક થાય છે.",
+    "keywords": [
+      "11th lord",
+      "2nd house",
+      "all wealth",
+      "all accomplishments",
+      "charitable",
+      "religious",
+      "happy"
+    ]
+  },
+  {
+    "id": 121,
+    "shloka": 121,
+    "description": "If the 11th lord is in the 3rd, the native will be skilful in all jobs, wealthy, endowed with fraternal bliss, and may sometimes incur gout pains.",
+    "hindi": "लाभेश तृतीय भाव में हो तो सर्वकर्मों में कुशल, धनी, भ्रातृसुखयुक्त और कभी-कभी शूल रोग का भय होता है।",
+    "gujarati": "લાભેશ તૃતીય ભાવમાં હોય તો સર્વકર્મોમાં કુશળ, ધની, ભ્રાતૃસુખયુક્ત અને ક્યારેક શૂળ રોગનો ભય થાય છે.",
+    "keywords": [
+      "11th lord",
+      "3rd house",
+      "skilful",
+      "wealthy",
+      "sibling happiness",
+      "gout"
+    ]
+  },
+  {
+    "id": 122,
+    "shloka": 122,
+    "description": "If the 11th lord is in the 4th, the native will gain from maternal relatives, will undertake visits to shrines, and will possess happiness of house and lands.",
+    "hindi": "लाभेश चतुर्थ भाव में हो तो मातृकुल से लाभ, तीर्थयात्रापर और गृह-भूमि सुख से युक्त होता है।",
+    "gujarati": "લાભેશ ચતુર્થ ભાવમાં હોય તો માતૃકુળથી લાભ, તીર્થયાત્રાપર અને ગૃહ-ભૂમિ સુખથી યુક્ત થાય છે.",
+    "keywords": [
+      "11th lord",
+      "4th house",
+      "gains from maternal relatives",
+      "pilgrimages",
+      "house and land happiness"
+    ]
+  },
+  {
+    "id": 123,
+    "shloka": 123,
+    "description": "If the 11th lord is in the 5th, the native's children will be happy, educated, and virtuous. He will be himself religious and happy.",
+    "hindi": "लाभेश पंचम भाव में हो तो सुखी पुत्र होते हैं, विद्यावान, सच्छील और स्वयं धर्मरत सुखी होता है।",
+    "gujarati": "લાભેશ પંચમ ભાવમાં હોય તો સુખી પુત્રો થાય છે, વિદ્યાવાન, સચ્છીલ અને સ્વયં ધર્મરત સુખી થાય છે.",
+    "keywords": [
+      "11th lord",
+      "5th house",
+      "happy children",
+      "educated children",
+      "virtuous children",
+      "religious",
+      "happy"
+    ]
+  },
+  {
+    "id": 124,
+    "shloka": 124,
+    "description": "If the 11th lord is in the 6th, the native will be afflicted by diseases, be cruel, living in foreign places, and troubled by enemies.",
+    "hindi": "लाभेश छठे भाव में हो तो रोगयुक्त, क्रूरबुद्धि, प्रवासी और शत्रुओं से पीड़ित होता है।",
+    "gujarati": "લાભેશ છઠ્ઠા ભાવમાં હોય તો રોગયુક્ત, ક્રૂરબુદ્ધિ, પ્રવાસી અને શત્રુઓથી પીડિત થાય છે.",
+    "keywords": [
+      "11th lord",
+      "6th house",
+      "diseases",
+      "cruel",
+      "foreign residence",
+      "enemy troubles"
+    ]
+  },
+  {
+    "id": 125,
+    "shloka": 125,
+    "description": "If the 11th lord is in the 7th, the native will gain wealth through his wife, be endowed with all happiness, and be a king or equal to a king.",
+    "hindi": "लाभेश सप्तम भाव में हो तो पत्नी से धन प्राप्त करने वाला, सर्वसुखयुक्त, राजा या राजा के समान होता है।",
+    "gujarati": "લાભેશ સપ્તમ ભાવમાં હોય તો પત્નીથી ધન પ્રાપ્ત કરનાર, સર્વસુખયુક્ત, રાજા કે રાજા સમાન થાય છે.",
+    "keywords": [
+      "11th lord",
+      "7th house",
+      "wealth through wife",
+      "all happiness",
+      "king"
+    ]
+  },
+  {
+    "id": 126,
+    "shloka": 126,
+    "description": "If the 11th lord is in the 8th, the native will be devoid of kinsmen, wealthy, short-lived, have little happiness, and be miserable.",
+    "hindi": "लाभेश आठवें भाव में हो तो बन्धुहीन, धनवान, अल्पायु, अल्प सुख और दुःखी होता है।",
+    "gujarati": "લાભેશ આઠમા ભાવમાં હોય તો બંધુહીન, ધનવાન, અલ્પાયુ, અલ્પ સુખ અને દુઃખી થાય છે.",
+    "keywords": [
+      "11th lord",
+      "8th house",
+      "no kinsmen",
+      "wealthy",
+      "short life",
+      "little happiness",
+      "miserable"
+    ]
+  },
+  {
+    "id": 127,
+    "shloka": 127,
+    "description": "If the 11th lord is in the 9th, the native will be a king or equal to a king, learned, happy, and endowed with sons, wife, and wealth.",
+    "hindi": "लाभेश नवम भाव में हो तो राजा या राजा के समान, विद्यावान, सुखसम्पन्न, पुत्र-दार-धन से युक्त होता है।",
+    "gujarati": "લાભેશ નવમ ભાવમાં હોય તો રાજા કે રાજા સમાન, વિદ્યાવાન, સુખસમ્પન્ન, પુત્ર-દાર-ધનથી યુક્ત થાય છે.",
+    "keywords": [
+      "11th lord",
+      "9th house",
+      "king",
+      "learned",
+      "happy",
+      "sons",
+      "wife",
+      "wealth"
+    ]
+  },
+  {
+    "id": 128,
+    "shloka": 128,
+    "description": "If the 11th lord is in the 10th, the native will always gain in his own house, be honoured by the king, wealthy, and happy.",
+    "hindi": "लाभेश दशम भाव में हो तो अपने घर में ही सदा लाभ, राजमान्य, धनयुक्त और सुखी होता है।",
+    "gujarati": "લાભેશ દશમ ભાવમાં હોય તો પોતાના ઘરમાં જ સદા લાભ, રાજમાન્ય, ધનયુક્ત અને સુખી થાય છે.",
+    "keywords": [
+      "11th lord",
+      "10th house",
+      "gains at home",
+      "royal honor",
+      "wealth",
+      "happy"
+    ]
+  },
+  {
+    "id": 129,
+    "shloka": 129,
+    "description": "If the 11th lord is in the 11th, the native will gain in all his undertakings, while his learning and happiness will be on the increase day by day.",
+    "hindi": "लाभेश ग्यारहवें भाव में हो तो सर्वकर्मों में लाभ, विद्या, धन और सुख दिन-प्रतिदिन बढ़ता है।",
+    "gujarati": "લાભેશ અગિયારમા ભાવમાં હોય તો સર્વકર્મોમાં લાભ, વિદ્યા, ધન અને સુખ દિન-પ્રતિદિન વધે છે.",
+    "keywords": [
+      "11th lord",
+      "11th house",
+      "gains in all undertakings",
+      "increasing learning",
+      "increasing happiness"
+    ]
+  },
+  {
+    "id": 130,
+    "shloka": 130,
+    "description": "If the 11th lord is in the 12th, the native will always expend on good deeds, be sensuous, will have many wives, and will befriend barbarians (or foreigners in general).",
+    "hindi": "लाभेश बारहवें भाव में हो तो सत्कार्यों में सदा व्यय, कामुक, बहु स्त्रियों वाला और म्लेच्छों (विदेशियों) से संसर्ग करने वाला होता है।",
+    "gujarati": "લાભેશ બારમા ભાવમાં હોય તો સત્કાર્યોમાં સદા વ્યય, કામુક, બહુ સ્ત્રીઓવાળો અને મ્લેચ્છો (વિદેશીઓ) સાથે સંસર્ગ કરનાર થાય છે.",
+    "keywords": [
+      "11th lord",
+      "12th house",
+      "expenses on good deeds",
+      "sensuous",
+      "many wives",
+      "friendship with foreigners"
+    ]
+  }
+]

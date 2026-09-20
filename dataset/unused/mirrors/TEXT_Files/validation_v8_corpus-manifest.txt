@@ -1,0 +1,18 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v8/corpus-manifest.json
+Dataset number: 423 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 220 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 8.0.0
+• historicalCharts:
+  (empty list)
+• predictionOutcomes:
+  (empty list)
+• status: READY_FOR_VERIFIED_IMPORTS
+• policy: No fabricated historical records, astronomical reference values, or real-world outcomes.

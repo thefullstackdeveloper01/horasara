@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "156__competitive_capability_matrix_json",
+    "name": "competitive-capability-matrix",
+    "original_file": "competitive-capability-matrix.json",
+    "dataset_number": "86 of 455",
+    "format": "json",
+    "source_readable_file": "competitive-capability-matrix.txt",
+    "source_sha256": "4239dc077b4d62ce9638b11c919369dbf51405d95ca91f795903fbc8f39897c9",
+    "source_bytes": 2396
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "astronomy",
+        "name": "Core astronomical calculations",
+        "target": "reference-validated"
+      },
+      {
+        "id": "rashi_bhava",
+        "name": "Rashi / Bhava calculations",
+        "target": "reference-validated"
+      },
+      {
+        "id": "charts",
+        "name": "North/South Indian charts",
+        "target": "complete-interactive"
+      },
+      {
+        "id": "vargas",
+        "name": "Shodashavarga / Vargas",
+        "target": "all-supported-variants-validated"
+      },
+      {
+        "id": "strength",
+        "name": "Shadbala / Bhavbala / Vimshopaka",
+        "target": "formula-and-vector-validated"
+      },
+      {
+        "id": "ashtakavarga",
+        "name": "Ashtakavarga",
+        "target": "formula-and-vector-validated"
+      },
+      {
+        "id": "dashas",
+        "name": "Vimshottari / multiple Dashas",
+        "target": "complete-timeline-validated"
+      },
+      {
+        "id": "yoga",
+        "name": "Yoga engine",
+        "target": "sourced-rules-and-cancellations"
+      },
+      {
+        "id": "dosha",
+        "name": "Dosha engine",
+        "target": "sourced-rules-and-cancellations"
+      },
+      {
+        "id": "kp",
+        "name": "KP",
+        "target": "cuspal-sub-significator-validation"
+      },
+      {
+        "id": "jaimini",
+        "name": "Jaimini",
+        "target": "complete-rule-family-validation"
+      },
+      {
+        "id": "lal_kitab",
+        "name": "Lal Kitab",
+        "target": "sourced-rule-validation"
+      },
+      {
+        "id": "tajik",
+        "name": "Tajik / Varshaphal",
+        "target": "annual-chart-validation"
+      },
+      {
+        "id": "panchanga",
+        "name": "Panchanga",
+        "target": "astronomical-reference-validation"
+      },
+      {
+        "id": "transit",
+        "name": "Transit analysis",
+        "target": "ephemeris-and-event-window-validation"
+      },
+      {
+        "id": "muhurta",
+        "name": "Muhurta",
+        "target": "rule-catalog-and-time-validation"
+      },
+      {
+        "id": "prediction",
+        "name": "Prediction engine",
+        "target": "calculation-evidence-timing-prediction-pipeline"
+      },
+      {
+        "id": "prediction_rules",
+        "name": "Prediction rule coverage",
+        "target": "dataset-first-rule-catalog"
+      },
+      {
+        "id": "prediction_validation",
+        "name": "Prediction validation",
+        "target": "golden-chart-and-outcome-corpus"
+      },
+      {
+        "id": "reference_charts",
+        "name": "Historical/reference chart database",
+        "target": "structured-reference-corpus"
+      },
+      {
+        "id": "reconciliation",
+        "name": "Cross-system prediction reconciliation",
+        "target": "visible-support-and-conflict-resolution"
+      },
+      {
+        "id": "explainability",
+        "name": "Explainable prediction",
+        "target": "trace-every-claim-to-evidence"
+      },
+      {
+        "id": "provenance",
+        "name": "Evidence / provenance",
+        "target": "source-rule-dataset-test-vector"
+      },
+      {
+        "id": "ux",
+        "name": "Interactive prediction UX",
+        "target": "evidence-first-interactive-dashboard"
+      },
+      {
+        "id": "enterprise",
+        "name": "Enterprise subscriptions / automation",
+        "target": "queue-retry-history-observability"
+      },
+      {
+        "id": "offline",
+        "name": "Complete offline architecture",
+        "target": "zero-runtime-network-dependency"
+      }
+    ]
+  }
+}

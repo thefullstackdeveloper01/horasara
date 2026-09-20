@@ -1,0 +1,1669 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Lal Kitab planetary data based on Pt. Roop Chand Joshi's works (1939-1952 editions)",
+    "validPlanets": [
+      "Sun",
+      "Moon",
+      "Mars",
+      "Mercury",
+      "Jupiter",
+      "Venus",
+      "Saturn",
+      "Rahu",
+      "Ketu"
+    ],
+    "validHouses": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "strongHouses": [
+      1,
+      10
+    ],
+    "_cleanupNote": "debts and metadata.weakHouses removed: superseded by the sourced RIN_RULES house-combination logic directly in lalkitab.js (see getLalKitabDebts) after the Lal Kitab audit found the old planet-pair debt table did not match real classical doctrine."
+  },
+  "planets": {
+    "Sun": {
+      "1": {
+        "effect": "Strong personality, government favor, leadership. Father is prominent figure. Health is robust.",
+        "positive": [
+          "Good self-confidence",
+          "Government job likely",
+          "Father supports well"
+        ],
+        "challenges": [
+          "Pride and ego can cause problems",
+          "Skin or eye issues possible"
+        ],
+        "remedy": [
+          "Throw copper coin in flowing river on Sundays",
+          "Never take gifts on birthdays",
+          "Help blind people"
+        ],
+        "pakka_ghar": 1
+      },
+      "2": {
+        "effect": "Family wealth but harsh speech. Gold in home. Eye-related issues.",
+        "remedy": [
+          "Never take gift on birthday",
+          "Donate wheat on Sundays",
+          "Do not keep broken mirror at home"
+        ],
+        "positive": [
+          "Family wealth"
+        ],
+        "challenges": [
+          "Harsh speech",
+          "Eye issues"
+        ],
+        "pakka_ghar": 1
+      },
+      "3": {
+        "effect": "Brave, independent. Good earning. Brothers may be distant.",
+        "remedy": [
+          "Stay humble",
+          "Never lie"
+        ],
+        "positive": [
+          "Courage",
+          "Good income"
+        ],
+        "challenges": [
+          "Brother issues"
+        ],
+        "pakka_ghar": 1
+      },
+      "4": {
+        "effect": "Property gains. Mother may suffer or be away. Political success possible.",
+        "remedy": [
+          "Serve mother sincerely",
+          "Donate to temples"
+        ],
+        "positive": [
+          "Property gains"
+        ],
+        "challenges": [
+          "Mother health"
+        ],
+        "pakka_ghar": 1
+      },
+      "5": {
+        "effect": "Intelligent but proud. Few children. Government connection. Creative.",
+        "remedy": [
+          "Feed monkeys jaggery",
+          "Never gamble"
+        ],
+        "positive": [
+          "Intelligence",
+          "Government"
+        ],
+        "challenges": [
+          "Child issues",
+          "Pride"
+        ],
+        "pakka_ghar": 1
+      },
+      "6": {
+        "effect": "Complete victory over enemies. Good health. Success in competition.",
+        "remedy": [
+          "Never be lazy",
+          "Help government servants"
+        ],
+        "positive": [
+          "Victory",
+          "Health"
+        ],
+        "challenges": [
+          "Overconfidence"
+        ],
+        "pakka_ghar": 1
+      },
+      "7": {
+        "effect": "Late marriage or spouse health issues. Business partner issues.",
+        "remedy": [
+          "Donate wheat on Sundays",
+          "Never keep round window in house"
+        ],
+        "positive": [
+          "Business acumen"
+        ],
+        "challenges": [
+          "Spouse health",
+          "Late marriage"
+        ],
+        "pakka_ghar": 1
+      },
+      "8": {
+        "effect": "Long life but hardships. Government obstacles. Secretive nature.",
+        "remedy": [
+          "Never lie",
+          "Worship ancestors"
+        ],
+        "positive": [
+          "Longevity"
+        ],
+        "challenges": [
+          "Obstacles",
+          "Secrets"
+        ],
+        "pakka_ghar": 1
+      },
+      "9": {
+        "effect": "Religious. Father issues or early loss. Pilgrimage.",
+        "remedy": [
+          "Never take bribe",
+          "Respect father"
+        ],
+        "positive": [
+          "Spirituality"
+        ],
+        "challenges": [
+          "Father issues"
+        ],
+        "pakka_ghar": 1
+      },
+      "10": {
+        "effect": "Excellent career. Government job likely. Father wealthy.",
+        "remedy": [
+          "Keep gold or copper at home",
+          "Help the poor"
+        ],
+        "positive": [
+          "Career success",
+          "Wealth"
+        ],
+        "challenges": [
+          "Arrogance at work"
+        ],
+        "pakka_ghar": 1
+      },
+      "11": {
+        "effect": "Rich. Many influential friends. Desires fulfilled.",
+        "remedy": [
+          "Give water to rising Sun",
+          "Never start work after sunset"
+        ],
+        "positive": [
+          "Wealth",
+          "Friends",
+          "Success"
+        ],
+        "challenges": [
+          "Over-reliance on friends"
+        ],
+        "pakka_ghar": 1
+      },
+      "12": {
+        "effect": "Foreign travel. Eye or vision issues. Spiritual inclinations. Expenditure.",
+        "remedy": [
+          "Help blind people",
+          "Donate wheat",
+          "Flow copper coin in river"
+        ],
+        "positive": [
+          "Spirituality",
+          "Foreign gains"
+        ],
+        "challenges": [
+          "Expenses",
+          "Eye issues"
+        ],
+        "pakka_ghar": 1
+      }
+    },
+    "Moon": {
+      "1": {
+        "effect": "Fair complexion, imaginative, good memory. Mother central. Emotional nature.",
+        "remedy": [
+          "Never disrespect mother",
+          "Keep silver at home"
+        ],
+        "positive": [
+          "Good memory",
+          "Creativity"
+        ],
+        "challenges": [
+          "Emotional volatility"
+        ],
+        "pakka_ghar": 4
+      },
+      "2": {
+        "effect": "Wealthy through female side. Sweet speech. Good family.",
+        "remedy": [
+          "Offer milk at Shiva temple on Mondays",
+          "Respect wife"
+        ],
+        "positive": [
+          "Family wealth"
+        ],
+        "challenges": [
+          "Over-spending"
+        ],
+        "pakka_ghar": 4
+      },
+      "3": {
+        "effect": "Brave. Travels frequently. Siblings may be dull or distant.",
+        "remedy": [
+          "Feed milk to snakes on Mondays"
+        ],
+        "positive": [
+          "Courage",
+          "Travel"
+        ],
+        "challenges": [
+          "Sibling issues"
+        ],
+        "pakka_ghar": 4
+      },
+      "4": {
+        "effect": "Blessed with mother. Good property. Happy home.",
+        "remedy": [
+          "Keep silver at home",
+          "Offer water to Moon on full moon"
+        ],
+        "positive": [
+          "Good mother",
+          "Property"
+        ],
+        "challenges": [
+          "Attachment to home"
+        ],
+        "pakka_ghar": 4
+      },
+      "5": {
+        "effect": "Creative mind. Good children. Romantic. Artistic talents.",
+        "remedy": [
+          "Worship Goddess Durga"
+        ],
+        "positive": [
+          "Creativity",
+          "Good children"
+        ],
+        "challenges": [
+          "Over-romanticism"
+        ],
+        "pakka_ghar": 4
+      },
+      "6": {
+        "effect": "Health issues related to stomach or lungs. Enemies from females.",
+        "remedy": [
+          "Donate milk and white items on Mondays",
+          "Keep silver ring"
+        ],
+        "positive": [
+          "Overcomes illness eventually"
+        ],
+        "challenges": [
+          "Stomach issues"
+        ],
+        "pakka_ghar": 4
+      },
+      "7": {
+        "effect": "Beautiful spouse. Partnerships flourish. Public life prominent.",
+        "remedy": [
+          "Never hide anything from spouse"
+        ],
+        "positive": [
+          "Good marriage",
+          "Partnerships"
+        ],
+        "challenges": [
+          "Dependence on others"
+        ],
+        "pakka_ghar": 4
+      },
+      "8": {
+        "effect": "Long life. Secret wealth. Inheritance possible.",
+        "remedy": [
+          "Never cheat anyone"
+        ],
+        "positive": [
+          "Longevity",
+          "Hidden wealth"
+        ],
+        "challenges": [
+          "Mysterious obstacles"
+        ],
+        "pakka_ghar": 4
+      },
+      "9": {
+        "effect": "Religious and lucky. Pilgrimages. Good fortune from Moon.",
+        "remedy": [
+          "Offer milk to Moon",
+          "Worship Shiva"
+        ],
+        "positive": [
+          "Good fortune",
+          "Religion"
+        ],
+        "challenges": [
+          "Over-idealism"
+        ],
+        "pakka_ghar": 4
+      },
+      "10": {
+        "effect": "Mother key to career. Public life. Fluctuating career.",
+        "remedy": [
+          "Serve mother",
+          "Help women in need"
+        ],
+        "positive": [
+          "Public recognition"
+        ],
+        "challenges": [
+          "Career fluctuations"
+        ],
+        "pakka_ghar": 4
+      },
+      "11": {
+        "effect": "Wealthy. Gains from water or female-related business.",
+        "remedy": [
+          "Offer milk to roots of trees"
+        ],
+        "positive": [
+          "Wealth",
+          "Gains"
+        ],
+        "challenges": [
+          "Over-spending"
+        ],
+        "pakka_ghar": 4
+      },
+      "12": {
+        "effect": "Spiritual. Foreign connections. Charitable. Losses possible.",
+        "remedy": [
+          "Keep silver in pocket",
+          "Donate white items"
+        ],
+        "positive": [
+          "Spirituality"
+        ],
+        "challenges": [
+          "Losses",
+          "Seclusion"
+        ],
+        "pakka_ghar": 4
+      }
+    },
+    "Mars": {
+      "1": {
+        "effect": "Bold, courageous, self-made. Accident-prone. High energy.",
+        "remedy": [
+          "Feed jaggery to monkeys on Tuesdays",
+          "Light diya at Hanuman temple"
+        ],
+        "positive": [
+          "Courage",
+          "Leadership"
+        ],
+        "challenges": [
+          "Accidents",
+          "Anger"
+        ],
+        "pakka_ghar": 3
+      },
+      "2": {
+        "effect": "Family conflicts. Harsh speech. Wealth through hard work.",
+        "remedy": [
+          "Put copper in water tank",
+          "Never use bad language"
+        ],
+        "positive": [
+          "Hard work pays"
+        ],
+        "challenges": [
+          "Family conflicts"
+        ],
+        "pakka_ghar": 3
+      },
+      "3": {
+        "effect": "Very brave. Short-tempered but protective of siblings.",
+        "remedy": [
+          "Offer sweets at temple on Tuesdays"
+        ],
+        "positive": [
+          "Courage",
+          "Siblings"
+        ],
+        "challenges": [
+          "Short temper"
+        ],
+        "pakka_ghar": 3
+      },
+      "4": {
+        "effect": "Property gains but mother relationship strained.",
+        "remedy": [
+          "Bury copper in owned land",
+          "Respect mother"
+        ],
+        "positive": [
+          "Property"
+        ],
+        "challenges": [
+          "Mother health"
+        ],
+        "pakka_ghar": 3
+      },
+      "5": {
+        "effect": "Athletic, leader, few children. Stomach issues.",
+        "remedy": [
+          "Worship Ganesha",
+          "Never consume egg or meat"
+        ],
+        "positive": [
+          "Athletics",
+          "Leadership"
+        ],
+        "challenges": [
+          "Child issues"
+        ],
+        "pakka_ghar": 3
+      },
+      "6": {
+        "effect": "Complete victory over enemies. Defeats all opposition.",
+        "remedy": [
+          "Never take loans",
+          "Feed dogs"
+        ],
+        "positive": [
+          "Victory over enemies"
+        ],
+        "challenges": [
+          "Legal issues"
+        ],
+        "pakka_ghar": 3
+      },
+      "7": {
+        "effect": "Mangal Dosha — marriage delays or tensions. Passionate spouse.",
+        "remedy": [
+          "Kumbh Vivah or marry a Manglik",
+          "Donate blood"
+        ],
+        "positive": [
+          "Passionate partnership"
+        ],
+        "challenges": [
+          "Mangal Dosha effects"
+        ],
+        "pakka_ghar": 3
+      },
+      "8": {
+        "effect": "Long life but accidents. Interest in occult. Surgery possible.",
+        "remedy": [
+          "Donate blood on birthdays",
+          "Worship Hanuman"
+        ],
+        "positive": [
+          "Longevity"
+        ],
+        "challenges": [
+          "Accidents",
+          "Surgery"
+        ],
+        "pakka_ghar": 3
+      },
+      "9": {
+        "effect": "Religious but father issues. Success in sports.",
+        "remedy": [
+          "Respect elders and saints"
+        ],
+        "positive": [
+          "Religion",
+          "Sports"
+        ],
+        "challenges": [
+          "Father relation"
+        ],
+        "pakka_ghar": 3
+      },
+      "10": {
+        "effect": "Excellent career. Real estate, military, or police.",
+        "remedy": [
+          "Offer copper items at temple",
+          "Help veterans"
+        ],
+        "positive": [
+          "Career success",
+          "Real estate"
+        ],
+        "challenges": [
+          "Work conflicts"
+        ],
+        "pakka_ghar": 3
+      },
+      "11": {
+        "effect": "Gains from land and property. Elder siblings may cause issues.",
+        "remedy": [
+          "Feed birds on Tuesdays"
+        ],
+        "positive": [
+          "Property gains"
+        ],
+        "challenges": [
+          "Sibling issues"
+        ],
+        "pakka_ghar": 3
+      },
+      "12": {
+        "effect": "Foreign connections. Secret enemies. Expenses.",
+        "remedy": [
+          "Donate red cloth on Tuesdays"
+        ],
+        "positive": [
+          "Foreign gains"
+        ],
+        "challenges": [
+          "Hidden enemies"
+        ],
+        "pakka_ghar": 3
+      }
+    },
+    "Mercury": {
+      "1": {
+        "effect": "Very intelligent, witty, communicative. Good education. Youthful appearance.",
+        "remedy": [
+          "Keep emerald or green stone",
+          "Feed birds green grains"
+        ],
+        "positive": [
+          "Intelligence",
+          "Communication"
+        ],
+        "challenges": [
+          "Nervousness",
+          "Skin issues"
+        ],
+        "pakka_ghar": 7
+      },
+      "2": {
+        "effect": "Wealthy through business, banking, writing. Sweet but clever speech.",
+        "remedy": [
+          "Donate green items on Wednesdays"
+        ],
+        "positive": [
+          "Business wealth"
+        ],
+        "challenges": [
+          "Over-cleverness"
+        ],
+        "pakka_ghar": 7
+      },
+      "3": {
+        "effect": "Excellent writer, journalist. Very skilled hands. Brave siblings.",
+        "remedy": [
+          "Donate books to students"
+        ],
+        "positive": [
+          "Writing",
+          "Communication"
+        ],
+        "challenges": [
+          "Jack of all trades"
+        ],
+        "pakka_ghar": 7
+      },
+      "4": {
+        "effect": "Good education, intelligent mother, good property through wisdom.",
+        "remedy": [
+          "Plant green trees",
+          "Keep green plants at home"
+        ],
+        "positive": [
+          "Education",
+          "Property"
+        ],
+        "challenges": [
+          "Overthinking home matters"
+        ],
+        "pakka_ghar": 7
+      },
+      "5": {
+        "effect": "Very intelligent children. Creative and romantic. Multiple interests.",
+        "remedy": [
+          "Feed parrots or green birds"
+        ],
+        "positive": [
+          "Intelligent children"
+        ],
+        "challenges": [
+          "Scattered focus"
+        ],
+        "pakka_ghar": 7
+      },
+      "6": {
+        "effect": "Defeats enemies through intelligence. Good health through diet.",
+        "remedy": [
+          "Donate green vegetables on Wednesdays"
+        ],
+        "positive": [
+          "Mental victory"
+        ],
+        "challenges": [
+          "Over-analysis"
+        ],
+        "pakka_ghar": 7
+      },
+      "7": {
+        "effect": "Excellent business partner. Spouse is intelligent. Multiple businesses.",
+        "remedy": [
+          "Business partner should be female or moon-ruled"
+        ],
+        "positive": [
+          "Business partnerships"
+        ],
+        "challenges": [
+          "Multiple relationships"
+        ],
+        "pakka_ghar": 7
+      },
+      "8": {
+        "effect": "Interested in hidden knowledge. Long life. Secret wealth.",
+        "remedy": [
+          "Never share secrets unnecessarily"
+        ],
+        "positive": [
+          "Longevity",
+          "Hidden wealth"
+        ],
+        "challenges": [
+          "Trust issues"
+        ],
+        "pakka_ghar": 7
+      },
+      "9": {
+        "effect": "Good education and luck. Multiple pilgrimages. Philosophical.",
+        "remedy": [
+          "Donate to educational institutions"
+        ],
+        "positive": [
+          "Education",
+          "Philosophy"
+        ],
+        "challenges": [
+          "Over-philosophical"
+        ],
+        "pakka_ghar": 7
+      },
+      "10": {
+        "effect": "Multiple careers. Success in banking, IT, writing, trading.",
+        "remedy": [
+          "Keep accounts meticulously",
+          "Never lie in business"
+        ],
+        "positive": [
+          "Career success",
+          "Multiple income"
+        ],
+        "challenges": [
+          "Career changes"
+        ],
+        "pakka_ghar": 7
+      },
+      "11": {
+        "effect": "Multiple income sources. Gains from trading, IT, writing.",
+        "remedy": [
+          "Feed green birds on Wednesdays"
+        ],
+        "positive": [
+          "Multiple gains"
+        ],
+        "challenges": [
+          "Greed possible"
+        ],
+        "pakka_ghar": 7
+      },
+      "12": {
+        "effect": "Foreign travel through business. Spiritual writing. Expenses on communication.",
+        "remedy": [
+          "Donate books abroad or to foreigners"
+        ],
+        "positive": [
+          "Foreign gains",
+          "Writing"
+        ],
+        "challenges": [
+          "Expenses"
+        ],
+        "pakka_ghar": 7
+      }
+    },
+    "Jupiter": {
+      "1": {
+        "effect": "Wise, respected, fortunate, spiritual. Good teacher. Helpful nature.",
+        "remedy": [
+          "Never lie or steal",
+          "Respect teachers"
+        ],
+        "positive": [
+          "Wisdom",
+          "Fortune",
+          "Respect"
+        ],
+        "challenges": [
+          "Weight gain",
+          "Over-generosity"
+        ],
+        "pakka_ghar": 2
+      },
+      "2": {
+        "effect": "Wealthy family. Good education. Banking gains. Family respected.",
+        "remedy": [
+          "Donate gold or yellow items on Thursdays"
+        ],
+        "positive": [
+          "Family wealth",
+          "Education"
+        ],
+        "challenges": [
+          "Overspending"
+        ],
+        "pakka_ghar": 2
+      },
+      "3": {
+        "effect": "Wise and lucky siblings. Success in teaching or writing.",
+        "remedy": [
+          "Donate books on Thursdays"
+        ],
+        "positive": [
+          "Education",
+          "Siblings"
+        ],
+        "challenges": [
+          "Procrastination"
+        ],
+        "pakka_ghar": 2
+      },
+      "4": {
+        "effect": "Happy home. Wise mother. Property through luck.",
+        "remedy": [
+          "Worship banana tree on Thursdays"
+        ],
+        "positive": [
+          "Good mother",
+          "Property"
+        ],
+        "challenges": [
+          "Over-attachment to home"
+        ],
+        "pakka_ghar": 2
+      },
+      "5": {
+        "effect": "Intelligent, well-educated children. Spiritual. Good investments.",
+        "remedy": [
+          "Plant banana tree in North direction"
+        ],
+        "positive": [
+          "Children",
+          "Investments"
+        ],
+        "challenges": [
+          "Ego through intelligence"
+        ],
+        "pakka_ghar": 2
+      },
+      "6": {
+        "effect": "Weak enemy position — Jupiter in H6 weakens its effects.",
+        "remedy": [
+          "Never take loans",
+          "Help teachers and priests"
+        ],
+        "positive": [
+          "Service"
+        ],
+        "challenges": [
+          "Reduced luck",
+          "Health issues"
+        ],
+        "pakka_ghar": 2
+      },
+      "7": {
+        "effect": "Wise and learned spouse. Business partnerships luck.",
+        "remedy": [
+          "Gift yellow items to wife on anniversary"
+        ],
+        "positive": [
+          "Good marriage",
+          "Partnerships"
+        ],
+        "challenges": [
+          "Spouse over-wise may dominate"
+        ],
+        "pakka_ghar": 2
+      },
+      "8": {
+        "effect": "Long life. Spiritual inheritance. Hidden wealth.",
+        "remedy": [
+          "Worship Vishnu on Thursdays"
+        ],
+        "positive": [
+          "Longevity",
+          "Inheritance"
+        ],
+        "challenges": [
+          "Blocked luck"
+        ],
+        "pakka_ghar": 2
+      },
+      "9": {
+        "effect": "Most fortunate position — Jupiter own nature. Dharmic life.",
+        "remedy": [
+          "Teach others freely",
+          "Donate to temples"
+        ],
+        "positive": [
+          "Maximum fortune",
+          "Spirituality"
+        ],
+        "challenges": [
+          "Over-philosophical"
+        ],
+        "pakka_ghar": 2
+      },
+      "10": {
+        "effect": "Excellent career — legal, teaching, consulting, government.",
+        "remedy": [
+          "Never misuse authority"
+        ],
+        "positive": [
+          "Career peak",
+          "Authority"
+        ],
+        "challenges": [
+          "Weight gain"
+        ],
+        "pakka_ghar": 2
+      },
+      "11": {
+        "effect": "Excellent gains. Wealthy. Many influential friends.",
+        "remedy": [
+          "Donate to orphanages",
+          "Help elderly"
+        ],
+        "positive": [
+          "Maximum wealth",
+          "Friends"
+        ],
+        "challenges": [
+          "Over-spending"
+        ],
+        "pakka_ghar": 2
+      },
+      "12": {
+        "effect": "Spiritual liberation. Foreign spiritual connections. Charitable.",
+        "remedy": [
+          "Visit temples in foreign lands",
+          "Donate to ashrams"
+        ],
+        "positive": [
+          "Spirituality",
+          "Liberation"
+        ],
+        "challenges": [
+          "Financial losses possible"
+        ],
+        "pakka_ghar": 2
+      }
+    },
+    "Venus": {
+      "1": {
+        "effect": "Beautiful, charming, artistic, loving nature. Good relationships.",
+        "remedy": [
+          "Keep home clean and beautiful",
+          "Never disrespect women"
+        ],
+        "positive": [
+          "Beauty",
+          "Charm",
+          "Love"
+        ],
+        "challenges": [
+          "Over-indulgence"
+        ],
+        "pakka_ghar": 7
+      },
+      "2": {
+        "effect": "Wealthy family. Beautiful possessions. Artistic home.",
+        "remedy": [
+          "Donate white items on Fridays"
+        ],
+        "positive": [
+          "Family wealth",
+          "Beauty"
+        ],
+        "challenges": [
+          "Excess luxury"
+        ],
+        "pakka_ghar": 7
+      },
+      "3": {
+        "effect": "Creative, artistic siblings. Success in arts and communication.",
+        "remedy": [
+          "Gift sister something valuable"
+        ],
+        "positive": [
+          "Creative skills"
+        ],
+        "challenges": [
+          "Sibling love issues"
+        ],
+        "pakka_ghar": 7
+      },
+      "4": {
+        "effect": "Beautiful home. Artistic mother. Property from female side.",
+        "remedy": [
+          "Keep rose water or perfume at home"
+        ],
+        "positive": [
+          "Beautiful home",
+          "Artistic"
+        ],
+        "challenges": [
+          "Over-comfort"
+        ],
+        "pakka_ghar": 7
+      },
+      "5": {
+        "effect": "Romantic, creative children. Love affairs. Artistic children.",
+        "remedy": [
+          "Gift children artistic tools"
+        ],
+        "positive": [
+          "Romance",
+          "Creative children"
+        ],
+        "challenges": [
+          "Multiple love affairs"
+        ],
+        "pakka_ghar": 7
+      },
+      "6": {
+        "effect": "Enemy from female side. Health through diet. Work in beauty or health.",
+        "remedy": [
+          "Never fight with women",
+          "Donate white items to widows"
+        ],
+        "positive": [
+          "Success in beauty work"
+        ],
+        "challenges": [
+          "Female enemies"
+        ],
+        "pakka_ghar": 7
+      },
+      "7": {
+        "effect": "Beautiful, loving spouse. Excellent partnerships. Luxury.",
+        "remedy": [
+          "Give wife jewelry every anniversary"
+        ],
+        "positive": [
+          "Great marriage",
+          "Partnerships"
+        ],
+        "challenges": [
+          "Spouse may be demanding"
+        ],
+        "pakka_ghar": 7
+      },
+      "8": {
+        "effect": "Long life. Inheritance from wife side. Secret beauty.",
+        "remedy": [
+          "Never share secrets with enemies"
+        ],
+        "positive": [
+          "Longevity",
+          "Inheritance"
+        ],
+        "challenges": [
+          "Hidden relationships"
+        ],
+        "pakka_ghar": 7
+      },
+      "9": {
+        "effect": "Lucky through female connections. Artistic pilgrimages.",
+        "remedy": [
+          "Worship Goddess Lakshmi on Fridays"
+        ],
+        "positive": [
+          "Good fortune",
+          "Luck"
+        ],
+        "challenges": [
+          "Over-indulgence in pleasure"
+        ],
+        "pakka_ghar": 7
+      },
+      "10": {
+        "effect": "Career in arts, beauty, luxury, entertainment or fashion.",
+        "remedy": [
+          "Never use unethical means in career"
+        ],
+        "positive": [
+          "Career success",
+          "Arts"
+        ],
+        "challenges": [
+          "Career through appearance"
+        ],
+        "pakka_ghar": 7
+      },
+      "11": {
+        "effect": "Gains from arts, beauty, luxury. Wealthy through female network.",
+        "remedy": [
+          "Donate to women causes on Fridays"
+        ],
+        "positive": [
+          "Wealthy",
+          "Artistic gains"
+        ],
+        "challenges": [
+          "Over-spending on luxury"
+        ],
+        "pakka_ghar": 7
+      },
+      "12": {
+        "effect": "Foreign beauty connections. Spiritual arts. Expenses on luxury.",
+        "remedy": [
+          "Keep things clean and minimal"
+        ],
+        "positive": [
+          "Spiritual beauty",
+          "Foreign"
+        ],
+        "challenges": [
+          "Excessive expenses"
+        ],
+        "pakka_ghar": 7
+      }
+    },
+    "Saturn": {
+      "1": {
+        "effect": "Hardworking, disciplined, delays in life. Long-lived. Lean body.",
+        "remedy": [
+          "Feed crows on Saturdays",
+          "Light mustard oil lamp"
+        ],
+        "positive": [
+          "Discipline",
+          "Longevity"
+        ],
+        "challenges": [
+          "Delays",
+          "Early hardships"
+        ],
+        "pakka_ghar": 8
+      },
+      "2": {
+        "effect": "Late family wealth. Family delays. Hardworking for money.",
+        "remedy": [
+          "Donate iron items on Saturdays"
+        ],
+        "positive": [
+          "Eventual wealth through work"
+        ],
+        "challenges": [
+          "Family delays"
+        ],
+        "pakka_ghar": 8
+      },
+      "3": {
+        "effect": "Hard work rewards — success only through effort. Strong.",
+        "remedy": [
+          "Never trouble siblings"
+        ],
+        "positive": [
+          "Success through effort"
+        ],
+        "challenges": [
+          "Late success",
+          "Hard life"
+        ],
+        "pakka_ghar": 8
+      },
+      "4": {
+        "effect": "Home built by own effort. Mother may be ill or absent. Hard property.",
+        "remedy": [
+          "Donate blankets to homeless on Saturdays"
+        ],
+        "positive": [
+          "Self-built home"
+        ],
+        "challenges": [
+          "Mother health",
+          "Property delays"
+        ],
+        "pakka_ghar": 8
+      },
+      "5": {
+        "effect": "Late or few children. Hard education. Serious children.",
+        "remedy": [
+          "Feed black sesame to birds on Saturdays"
+        ],
+        "positive": [
+          "Serious education"
+        ],
+        "challenges": [
+          "Child delays",
+          "Hard intelligence"
+        ],
+        "pakka_ghar": 8
+      },
+      "6": {
+        "effect": "Service orientation. Good at defeating enemies through patience.",
+        "remedy": [
+          "Serve the elderly and disabled"
+        ],
+        "positive": [
+          "Service success"
+        ],
+        "challenges": [
+          "Chronic health issues possible"
+        ],
+        "pakka_ghar": 8
+      },
+      "7": {
+        "effect": "Late marriage. Serious spouse. Hard partnership.",
+        "remedy": [
+          "Never delay marriage unnecessarily",
+          "Respect spouse always"
+        ],
+        "positive": [
+          "Lasting marriage"
+        ],
+        "challenges": [
+          "Late marriage",
+          "Serious spouse"
+        ],
+        "pakka_ghar": 8
+      },
+      "8": {
+        "effect": "Own house — Saturn loves H8. Long life. Hidden wealth.",
+        "remedy": [
+          "Worship Lord Bhairav or Shiva on Saturdays"
+        ],
+        "positive": [
+          "Maximum longevity",
+          "Hidden wealth"
+        ],
+        "challenges": [
+          "Mysterious problems"
+        ],
+        "pakka_ghar": 8
+      },
+      "9": {
+        "effect": "Hard earned luck. Father strict or absent. Karma-based life.",
+        "remedy": [
+          "Serve elderly and saints"
+        ],
+        "positive": [
+          "Karma rewards eventually"
+        ],
+        "challenges": [
+          "Father issues",
+          "Hard luck"
+        ],
+        "pakka_ghar": 8
+      },
+      "10": {
+        "effect": "Hard work → excellent career. Slow but steady professional growth.",
+        "remedy": [
+          "Never exploit workers",
+          "Pay all dues on time"
+        ],
+        "positive": [
+          "Career peak through effort"
+        ],
+        "challenges": [
+          "Slow start"
+        ],
+        "pakka_ghar": 8
+      },
+      "11": {
+        "effect": "Delayed gains but eventually wealthy. Hard-earned income.",
+        "remedy": [
+          "Feed workers and laborers on Saturdays"
+        ],
+        "positive": [
+          "Eventually wealthy"
+        ],
+        "challenges": [
+          "Delayed gains"
+        ],
+        "pakka_ghar": 8
+      },
+      "12": {
+        "effect": "Spiritual detachment. Service abroad. Hidden losses and gains.",
+        "remedy": [
+          "Donate shoes to the poor",
+          "Help disabled people"
+        ],
+        "positive": [
+          "Spiritual growth"
+        ],
+        "challenges": [
+          "Foreign losses"
+        ],
+        "pakka_ghar": 8
+      }
+    },
+    "Rahu": {
+      "1": {
+        "effect": "Mysterious personality. Foreign-looking or connection. Unconventional.",
+        "remedy": [
+          "Never eat food left by someone else",
+          "Offer coconut at Bhairav temple"
+        ],
+        "positive": [
+          "Unique personality",
+          "Foreign success"
+        ],
+        "challenges": [
+          "Health mysteries",
+          "Deception"
+        ],
+        "pakka_ghar": 12
+      },
+      "2": {
+        "effect": "Unusual family background. Foreign wealth. Lying possible.",
+        "remedy": [
+          "Keep a silver ball in pocket",
+          "Never keep too much cash at home"
+        ],
+        "positive": [
+          "Foreign wealth"
+        ],
+        "challenges": [
+          "Family deception",
+          "Lying habit"
+        ],
+        "pakka_ghar": 12
+      },
+      "3": {
+        "effect": "Unconventional siblings. Success in foreign communication, media.",
+        "remedy": [
+          "Donate dark blue items on Saturdays"
+        ],
+        "positive": [
+          "Media success",
+          "Foreign communication"
+        ],
+        "challenges": [
+          "Sibling deception"
+        ],
+        "pakka_ghar": 12
+      },
+      "4": {
+        "effect": "Foreign-style home. Mother unusual. Property in foreign lands.",
+        "remedy": [
+          "Offer coconut in flowing river"
+        ],
+        "positive": [
+          "Foreign property"
+        ],
+        "challenges": [
+          "Mother health",
+          "Unusual home"
+        ],
+        "pakka_ghar": 12
+      },
+      "5": {
+        "effect": "Unusual children. Foreign children. Speculative gains.",
+        "remedy": [
+          "Never gamble or speculate rashly"
+        ],
+        "positive": [
+          "Foreign connection through children"
+        ],
+        "challenges": [
+          "Child health issues"
+        ],
+        "pakka_ghar": 12
+      },
+      "6": {
+        "effect": "Defeats enemies through unexpected means. Health through alternative methods.",
+        "remedy": [
+          "Feed dogs on Saturdays"
+        ],
+        "positive": [
+          "Unexpected victory"
+        ],
+        "challenges": [
+          "Hidden enemies"
+        ],
+        "pakka_ghar": 12
+      },
+      "7": {
+        "effect": "Foreign or unusual spouse. International business.",
+        "remedy": [
+          "Keep a piece of lead in pocket"
+        ],
+        "positive": [
+          "International partnership"
+        ],
+        "challenges": [
+          "Marital deception"
+        ],
+        "pakka_ghar": 12
+      },
+      "8": {
+        "effect": "Research, occult, mystery. Sudden changes. Long life.",
+        "remedy": [
+          "Never open someone else's drawer without permission"
+        ],
+        "positive": [
+          "Research success"
+        ],
+        "challenges": [
+          "Sudden reversals"
+        ],
+        "pakka_ghar": 12
+      },
+      "9": {
+        "effect": "Unconventional religion. Foreign guru. Strange luck.",
+        "remedy": [
+          "Worship at unconventional temples"
+        ],
+        "positive": [
+          "Unique spiritual path"
+        ],
+        "challenges": [
+          "Luck is unpredictable"
+        ],
+        "pakka_ghar": 12
+      },
+      "10": {
+        "effect": "Foreign career. IT, technology, unconventional jobs.",
+        "remedy": [
+          "Never disrespect government authorities"
+        ],
+        "positive": [
+          "Technology career"
+        ],
+        "challenges": [
+          "Career instability"
+        ],
+        "pakka_ghar": 12
+      },
+      "11": {
+        "effect": "Sudden gains. Foreign income. Unusual friends.",
+        "remedy": [
+          "Donate to organizations helping foreigners"
+        ],
+        "positive": [
+          "Sudden wealth",
+          "Foreign income"
+        ],
+        "challenges": [
+          "Unreliable friends"
+        ],
+        "pakka_ghar": 12
+      },
+      "12": {
+        "effect": "Pakka Ghar (own house for Rahu). Foreign travel. Spiritual liberation.",
+        "remedy": [
+          "Offer coconut at Hanuman temple",
+          "Donate blankets to homeless"
+        ],
+        "positive": [
+          "Maximum Rahu results",
+          "Foreign success"
+        ],
+        "challenges": [
+          "Expenses in foreign lands"
+        ],
+        "pakka_ghar": 12
+      }
+    },
+    "Ketu": {
+      "1": {
+        "effect": "Spiritual personality. Detached from body. Past life wisdom.",
+        "remedy": [
+          "Worship Lord Ganesha",
+          "Feed dogs on Tuesdays"
+        ],
+        "positive": [
+          "Spiritual depth",
+          "Past life mastery"
+        ],
+        "challenges": [
+          "Poor health",
+          "Detachment"
+        ],
+        "pakka_ghar": 6
+      },
+      "2": {
+        "effect": "Past life wealth returns. Family may have spiritual background.",
+        "remedy": [
+          "Donate sesame seeds on Tuesdays"
+        ],
+        "positive": [
+          "Spiritual wealth"
+        ],
+        "challenges": [
+          "Family detachment"
+        ],
+        "pakka_ghar": 6
+      },
+      "3": {
+        "effect": "Spiritual siblings. Past life warrior energy. Short journeys for spirituality.",
+        "remedy": [
+          "Worship Durga on Tuesdays"
+        ],
+        "positive": [
+          "Spiritual strength"
+        ],
+        "challenges": [
+          "Sibling issues"
+        ],
+        "pakka_ghar": 6
+      },
+      "4": {
+        "effect": "Spiritual home environment. Mother may be spiritual. Property through past karma.",
+        "remedy": [
+          "Keep pets at home, especially dogs"
+        ],
+        "positive": [
+          "Spiritual home"
+        ],
+        "challenges": [
+          "Mother detachment"
+        ],
+        "pakka_ghar": 6
+      },
+      "5": {
+        "effect": "Spiritual children. Research-oriented. Past life intelligence.",
+        "remedy": [
+          "Donate to spiritual education"
+        ],
+        "positive": [
+          "Spiritual children"
+        ],
+        "challenges": [
+          "Child detachment"
+        ],
+        "pakka_ghar": 6
+      },
+      "6": {
+        "effect": "Pakka Ghar (own house for Ketu). Complete victory over enemies through spiritual power.",
+        "remedy": [
+          "Feed dogs on Saturdays",
+          "Keep a dog at home"
+        ],
+        "positive": [
+          "Maximum spiritual power",
+          "Enemy defeat"
+        ],
+        "challenges": [
+          "Unexpected enemies"
+        ],
+        "pakka_ghar": 6
+      },
+      "7": {
+        "effect": "Spiritual or unconventional spouse. Detached partnerships.",
+        "remedy": [
+          "Never ignore spouse spiritually"
+        ],
+        "positive": [
+          "Spiritual partnership"
+        ],
+        "challenges": [
+          "Marital detachment"
+        ],
+        "pakka_ghar": 6
+      },
+      "8": {
+        "effect": "Deep spiritual research. Past life karma surfaces. Occult interest.",
+        "remedy": [
+          "Worship Kali or Durga"
+        ],
+        "positive": [
+          "Research depth",
+          "Occult mastery"
+        ],
+        "challenges": [
+          "Sudden health issues"
+        ],
+        "pakka_ghar": 6
+      },
+      "9": {
+        "effect": "Past life religious merit. Spiritual father. Unconventional dharma.",
+        "remedy": [
+          "Donate to spiritual causes"
+        ],
+        "positive": [
+          "Spiritual merit",
+          "Fortune"
+        ],
+        "challenges": [
+          "Father detachment"
+        ],
+        "pakka_ghar": 6
+      },
+      "10": {
+        "effect": "Spiritual career. Research, investigation, spirituality as career.",
+        "remedy": [
+          "Never misuse spiritual authority"
+        ],
+        "positive": [
+          "Spiritual career"
+        ],
+        "challenges": [
+          "Career instability"
+        ],
+        "pakka_ghar": 6
+      },
+      "11": {
+        "effect": "Gains from past life karma. Spiritual income.",
+        "remedy": [
+          "Donate to animal shelters"
+        ],
+        "positive": [
+          "Karma rewards"
+        ],
+        "challenges": [
+          "Delayed gains"
+        ],
+        "pakka_ghar": 6
+      },
+      "12": {
+        "effect": "Liberation possible. Foreign spiritual connections. High spirituality.",
+        "remedy": [
+          "Meditate daily",
+          "Fast on Saturdays"
+        ],
+        "positive": [
+          "Liberation",
+          "High spirituality"
+        ],
+        "challenges": [
+          "Material losses"
+        ],
+        "pakka_ghar": 6
+      }
+    }
+  },
+  "conjunctions": {
+    "Sun+Moon": {
+      "effect": "Powerful — Sun burns Moon's emotions. Sharp, independent. Mother relation affected.",
+      "remedy": "Offer water to Sun at sunrise on Mondays."
+    },
+    "Sun+Mars": {
+      "effect": "Raja Yoga in Lal Kitab — government career, leadership, authority. Very powerful.",
+      "remedy": "Light diya at Hanuman temple on Sundays."
+    },
+    "Sun+Mercury": {
+      "effect": "Intelligent and authoritative. Career in administration or communication.",
+      "remedy": "Donate copper and green items together."
+    },
+    "Sun+Jupiter": {
+      "effect": "Highly auspicious — wisdom and authority combined. Teacher or government officer.",
+      "remedy": "Keep gold with you always."
+    },
+    "Sun+Venus": {
+      "effect": "Venus weakens near Sun (combustion). Romance vs career conflict.",
+      "remedy": "Donate white and copper items on Friday."
+    },
+    "Sun+Saturn": {
+      "effect": "Father-son conflict energy. Career delays. Service under authority.",
+      "remedy": "Respect father figure. Donate iron and copper together."
+    },
+    "Sun+Rahu": {
+      "effect": "Grahan yoga — eclipse of self. Government troubles. Foreign connections.",
+      "remedy": "Offer coconut in river on Sundays."
+    },
+    "Sun+Ketu": {
+      "effect": "Spiritual authority. Past life government karma. Detachment from ego.",
+      "remedy": "Fast on Sundays. Worship Ganesha."
+    },
+    "Moon+Mars": {
+      "effect": "Emotional warrior. Property gains but mother-land conflict.",
+      "remedy": "Offer milk at Hanuman temple."
+    },
+    "Moon+Mercury": {
+      "effect": "Sharp mind and emotions combined. Good for business and public life.",
+      "remedy": "Feed silver fish to water birds."
+    },
+    "Moon+Jupiter": {
+      "effect": "Gaja Kesari in Lal Kitab — wealth, wisdom, good family.",
+      "remedy": "Worship banana tree on Thursdays."
+    },
+    "Moon+Venus": {
+      "effect": "Beautiful nature, artistic, wealth from female connections.",
+      "remedy": "Offer rose water to Goddess on Fridays."
+    },
+    "Moon+Saturn": {
+      "effect": "Emotional delays. Depression possible. Hard-earned home and family.",
+      "remedy": "Feed crows milk-soaked bread on Saturdays."
+    },
+    "Moon+Rahu": {
+      "effect": "Mind turbulence, unusual mother, foreign emotional connections.",
+      "remedy": "Keep silver in water overnight, then drink that water."
+    },
+    "Moon+Ketu": {
+      "effect": "Spiritual emotions. Past life mother karma. Detachment from home.",
+      "remedy": "Worship Goddess Durga on full moon."
+    },
+    "Mars+Jupiter": {
+      "effect": "Auspicious for property and wealth. Brave and wise combination.",
+      "remedy": "Donate to soldiers' families on Thursdays."
+    },
+    "Mars+Saturn": {
+      "effect": "Conflict between action and delay. Property disputes. Hard work.",
+      "remedy": "Bury iron and copper together in own land."
+    },
+    "Rahu+Ketu": {
+      "effect": "Always in opposition — karmic axis. Spiritual struggles and worldly desires.",
+      "remedy": "Worship on both Tuesdays and Saturdays."
+    }
+  }
+}

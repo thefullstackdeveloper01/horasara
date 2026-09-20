@@ -1,0 +1,16 @@
+[
+  {
+    "id": "prof_001",
+    "planet": "Sun",
+    "houses": [1, 10],
+    "professions": ["Government Service", "Politician", "Doctor", "Administrator", "Goldsmith"],
+    "interpretation_logic": "If Sun is strongly placed in 10th, native will be in a position of authority."
+  },
+  {
+    "id": "prof_002",
+    "planet": "Mercury",
+    "houses": [2, 6, 10],
+    "professions": ["IT Professional", "CA", "Businessman", "Writer", "Mathematician", "Astrologer"],
+    "interpretation_logic": "If Mercury is strong, native excels in analytical and communication-driven roles."
+  }
+]

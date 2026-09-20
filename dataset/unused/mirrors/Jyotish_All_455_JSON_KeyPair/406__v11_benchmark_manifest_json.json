@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "406__v11_benchmark_manifest_json",
+    "name": "v11_benchmark-manifest",
+    "original_file": "v11_benchmark-manifest.json",
+    "dataset_number": "406 of 455",
+    "format": "json",
+    "source_readable_file": "v11_benchmark-manifest.txt",
+    "source_sha256": "aa42eb176396e13a1d295535b8bb3112f1cf728adac6b6be1386fa9e9a607974",
+    "source_bytes": 939
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": 11.0,
+      "status": "READY_FOR_INDEPENDENT_IMPORT",
+      "engines": {
+        "_items": [
+          {
+            "_text": [
+              "HoraSaar"
+            ]
+          },
+          {
+            "_text": [
+              "JHora"
+            ]
+          },
+          {
+            "_text": [
+              "HoraParashara"
+            ]
+          },
+          {
+            "_text": [
+              "AstroSage"
+            ]
+          },
+          {
+            "_text": [
+              "Astro.com"
+            ]
+          }
+        ]
+      },
+      "comparisonPolicy": {
+        "sameInput": "Yes",
+        "sameConventions": "Yes",
+        "sameLocation": "Yes",
+        "sameTimezone": "Yes",
+        "noInventedResults": "Yes"
+      },
+      "requiredEvidence": {
+        "_items": [
+          {
+            "_text": [
+              "input"
+            ]
+          },
+          {
+            "_text": [
+              "conventions"
+            ]
+          },
+          {
+            "_text": [
+              "output"
+            ]
+          },
+          {
+            "_text": [
+              "source"
+            ]
+          },
+          {
+            "_text": [
+              "retrievedAt"
+            ]
+          }
+        ]
+      },
+      "cases": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "note": "Competitor results are never fabricated. Populate only from independently obtained, legally usable reference outputs."
+    }
+  }
+}

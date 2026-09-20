@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "428__validation_v9_benchmarks_benchmark_manifest_json",
+    "name": "validation_v9_benchmarks_benchmark-manifest",
+    "original_file": "validation/v9/benchmarks/benchmark-manifest.json",
+    "dataset_number": "428 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v9_benchmarks_benchmark-manifest.txt",
+    "source_sha256": "68878fafe1a22319bd8644f6483f4894bce62464373425ceebe394acc928dfca",
+    "source_bytes": 864
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "ephemeris-1000",
+        "source": "test/fixtures/ephemeris-golden.json",
+        "status": "wired",
+        "scope": "1000 epochs x 7 primary planets"
+      },
+      {
+        "id": "cross-system",
+        "source": "",
+        "status": "wired",
+        "scope": "Parashari/KP/Jaimini/Tajik/Lal Kitab reconciliation"
+      }
+    ]
+  }
+}

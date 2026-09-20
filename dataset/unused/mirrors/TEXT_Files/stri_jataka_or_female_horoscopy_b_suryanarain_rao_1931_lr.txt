@@ -1,0 +1,4501 @@
+READABLE DATASET
+================================================================================
+Original file: stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr.json
+Dataset number: 371 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 140,173 bytes
+Top-level fields: 11
+Title: Stri Jataka or Female Horoscopy - B Suryanarain Rao 1931 LR
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Stri Jataka or Female Horoscopy - B Suryanarain Rao 1931 LR
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Sarvartha Chintamani XML
+  • total_pages: 90
+  • total_words: 23895
+  • text_quality:
+    • ocr_word_validity_score: 0.941
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+STRIJATAKA
+FEMALE HOR&SCOPY
+Prof, B. SURYANARAIN ROW, ba.mras.trhs
+Member of the Medico Legal Society of New Yark , Member of the
+Asiatic Society of Bengal, Diplomed Bto Chemist, Editor,
+Astrological Magazine Author of the Never To Be
+Forgotten Empire , Hyder Ah or Sultan of Mysore ,
+The Astrological Self Instructor, Astrological
+Mirror, Astrological Printer , Karma and
+Chemistry , An Introduction to the Study
+of Astrology ttt the Light of Modern
+Sciences , Engltsh Translator of
+Br that J at aka
+Jaitmnt Sutras
+etc , etc etc
+FIRST EDITION
+PUBLISHED El
+Dr B V RAMAN, M D , (h)
+(Grandson of the Author)
+BETTAHALSOOR P 0 BANGALORE, (Mia)
+Price per copy |
+l, or Sh 2, or Cents SO )
+ALL RIGHTS RESERVED
+
+STRIJATAKA OR FEMALE HOROSC&PY
+CONTENTS
+Preface
+INTRODUCTION’
+Chapter.
+I — Divisions m Humanity— Masculine, Feminine, Eunuch
+and Hermaphodiate, Obalacban and Obalamma, com ersion of Males into Females and Females into Males
+II — -Female peculiarities — Art ha v a Lagna — Results of Lagnas — Odd and Even Signs
+III — Characteristics of Girls — Combinations for Prostitutes
+and Adultery
+IV — Precautions in Predictions necessary, Different kinds
+of Prostitutions— Moral and Virtuous behaviour
+V — Sources of strength and weakness for Planets and
+, Zodiacal Signs
+VI — Beneficial Aspects and Conjunctions — Combinations
+for Barrenness— Pregnancy
+VII — Characteristics of the 12 Rasis or Signs— Results of
+the occupation of Chandra or Moon in the different
+Rasis — Stellar influences — or Nakshatras
+VIII — Results of the 27 Constellations or Stars
+IX — Significations of the Planets in the 12 houses — -Sun,
+Moon, Mars and Mercury
+X — Results of Jupiter, Venus, and Saturn m the 12 houses
+XI — Rajajogas or Auspicious Combinations for Political
+Power and Prosperity, Shadverga of signs or sub
+divisions, Shodasavergas or the Sixteen divisions
+XII — Soubhagyayogas, long marital states — Sahacbarya
+Yogas — -Widowhood Vydhavya Yogas — Puberty and
+
+STRIJATAKA OR FEMALE HOROSCOPY
+Ciui-tcr
+XIII — Effects of Lunar days or Tirst Menses Results of week
+days — Auspicious and Evil Constellat ons Remarks for
+serious reflections— Results of Monti s and Psksha
+Phalas
+XIV — Special influences of Constellations on the appearance
+of First Menses
+XV— Inausp c ous t mes for tl e appearance of First Menses
+in a Girl— Results of yogas and Karanas — Influences
+XVI — Results of the Zodiacal S gus — Influence of Planets and
+places on the appearance of the First Menses
+XVII— Results to be pred cted from tl e d rections of the ques
+t oner — Remed es for e\ Is attendant on the appearance
+of the T rst Menses
+XVIII— Results of clothes the number of drops of menstrual
+fluid— Planets in the Constellat ons and Planetary
+posit ons — Sun— Purifications after Menses
+XIX— Moon Mars Mercury Jupter Venus, Saturn Rabu
+and Kethu in the 12 Bhavas at the appearance of the
+First Menses
+XX— Spec al Rules — D agram for the Complet on of these
+Works by me
+Essent als to understand the works of English Transtat ons
+of M ne — dod acal S gns— Seasons — Planetary States'
+Periods and Sub per ods of Planets Constellat ons and
+their English Equivalents fully expla ned
+
+PREFACE TO STRIJATAKA
+Humanity is divided into
+three grand sexual divisions
+Females, Males and Eunuchs
+There is also a small section
+called Hermaphrodites who are
+neither males nor females but
+who partake of both charac
+teristics sometimes in a most
+pronounced form but often with
+apologies for sexual organs both
+sexual organs being ill developed
+and impotent to act individually
+In the male erection is needed
+for penetration In the female
+a certain internal adjustment is
+needed both for coition and
+also for the proper reception of
+the seed thrown into it by the
+male organ When this is not
+properly developed, the seed
+cannot be received and concep
+tion does not take place The
+planetary combinations for con
+ception progress of the foetus,
+birth and life are given elabora
+tely in the Astrological sciences
+Pxndotpalti Adkyaya or Foetal
+development is very interesting
+and instructive to readers I have
+given it in my Brihat Jataka
+In this book I have chiefly con
+fined myself to the sketch of
+female horoscopes Till about
+the 8th year there will not be
+much difference between boys
+and girls From the 8th year a
+peculiar fluid begins to form
+both in the males and also in
+the females In the former the
+fluid is white or whitish yellow
+and in the latter it will begin to
+assume reddish color, until in the
+first appearances of the menses,
+it flows out by a physical in
+voluntary motion and consti
+tutes what may be called the
+puberty or first Menses In the
+boy the fluid grows thicker
+and thicker and its development
+depends upon various con
+ditions, physical mental and
+moral There are some preco
+cious boys who can have erec
+tion and discharge of semen at
+14 years and the seed possesses
+reproductive capacity Generally
+this age is reached when the
+boy is 18 or 20 In some boys it
+will not develop properly until
+they are 20 or 25 or even 30
+years In some it will never
+develop at all The last is
+exceptional Between males
+and females a large number of
+characteristics are common I
+have treated here the female
+peculiarities
+
+INTRODUCTION TO STRIJATAKA
+Women never occupied an
+inferior position m Indian
+society, religion, politics or spiritual development The sastras
+never called them chattels, which
+can be disposed of by men at
+their sweet will and pleasure
+Some of the wrongly informed
+and superficial women are thun
+dering their ill advised orations,
+from the platforms and attributing motives, which have never
+been sanctioned by the sastras
+or approved by the thoughtful
+men For abuses of pure
+principles the original authors
+certainly cannot be blamed or
+held responsible The European nations are priding themselves upon the abolishment of
+slavery It is in name and
+theory but certainly it has no
+real existence in practice Take
+the tyrannies in offices, in the
+military, in large centres of
+manufactories and industries
+and of the various rulers and
+Governments and honestly say
+if slavery has really been abo
+jished and the labourers and
+subordinates have anything like
+liberty, independence of thought
+or action What do the enormous strikes indicate, if not the
+blackest tyranny, dirtiest slavery
+and the most unsatisfactory
+and shameful treatment of the
+ill-paid subordinates by their
+respective masters, and tyrants
+Statesmen and the principal
+leaders cannot utter a more
+daring falsehood Take the
+large numbers of divorce in the
+most enlightened country in the
+world, viz , America. 7,00,000
+divorces for a year, viz , in a few
+countries m the U S of America
+are certainly tangible evidences
+of domestic happiness and felicities in the most civilised countries and among the most
+enlightened nations Do the
+advanced Indian women want
+these domestic comforts and
+these unenviable divorces Do
+they reallj know the unhappiness
+that prevails in many of the
+European homes The liberty
+of a woman should never merge
+into the regions of license > The
+Hindus never treated women
+with ill grace The highest
+appointments in religion are
+given to the ladies in preference
+
+INTRODUCTION TO STRIJATARA
+to males Brahma, Vishnu
+and Maheswara, come after
+their spouses for respect and
+w orship Vasista comes after his
+chaste wife Arundhati Anusuya
+is held in the highest esteem
+abo\ e her revered husband Attri
+mahanshi While the Mahanshis
+are the brightest intellects,
+none of them got the post of
+Inspector General of Education,
+which ennable post, among all
+the 33 crores of Devatas, is held
+by Saraswathi the Goddess of
+Learning AH ha\e to praj to
+her for progress in education and
+intelligence and fall on her feet to
+get them Take the monej
+power It has been granted to
+Matru DeioBhaaa, then comes
+the father, Pitru De\o Bhava
+The debt to father is cleared by
+doing death ceremonies or srarddha in Gaya But the debt to
+the mother will not be cleared
+till a man denounces the world,
+becomes a sanyasi and falls on
+her feet The ancient writers
+are agreed in giung the best
+and the highest honours to
+women One of the finest
+tedantic works known as Seeta
+ramanjaney a ins given to Anjaneya by Seetha Devi, wife of Sn
+Rama The prizes to the mon
+ke\ warriors of Rama after the
+conquest of Lanin were distn
+buted in the public assembh, b\
+
+INTRODUCTION TO STRIJATAkA
+armies to success and conquest
+in person Her splended admi
+mstration has been installed as a
+model one by the great Chinese
+trav eller Huenestang Instances of courage, chastity, prudence and administrative tact
+and capacity hav e been recorded
+in the histones of the Marathas
+and the Rajaputs, of women, w ho
+have figured prominently before
+the public In every religious
+mantra and practice, the name
+of the women comes first and
+then that of her husband
+show ing unmistakably the high
+rank in which women are held
+m India The right side is
+always the place of the greatest
+honor and respect Matru Dev o
+Bhava, Pitru Devo Bhava Sachi
+Purandarayanamaha, Lakshmi
+narayanayanamaha, ParvatiParameswarayanamaha, A run
+dhati Vasistayanamaha, Seetharamay anamaha, Chayasuryaya
+namaha and so forth I can quote
+many instances to show that the
+Hindus never held their women
+as chattels to be disposed of
+but as Deities who have given
+birth to men and held them in
+high esteem, and if Dharma
+Raja staked his wife Draupadi
+in the gambling, he did so in
+an unholy trade and against his
+Kshatriya conscience and
+Dharma, Whether it is Dharma
+Raja or anybody else, gambling
+has never been justified as a
+righteous act by any sastras or
+moral religious codes He also
+staked his brothers, and made
+them ignoble and go to Agnatav asa or state of Incognito for a
+long period This was not all the
+folly of him He staked his own
+libertv and took up the disgraceful position of serving Virata in
+humble capacity The brothers
+and Draupadi were not bound by
+his stake in gambling but they
+yie'ded as honorable personages
+to preserve the honorable promi'e of a man in a dishonorable
+transaction Suppose they rebelled and disobeyed, it was not in
+Dharma Raja’s power to compel
+them if they had not y lelded to
+preserve the discipline of obedience to their elder brother
+Draupadi was not treated as a
+chattel nor the four brothers of
+Dharma Raja Louis XI of
+France went to England as a
+prisoner v oluntanly to keep up
+his word of honor, when the
+French nation did not redeem
+their promise of pay ment of the
+ransome fixed His words ring
+
+ISTRODUCTIO''
+Astrological Magnne Even his
+Astroiog justifj
+best admirers
+selling his brothers in the
+25 trade of g 5
+Faults cannot become virtues
+simpb because great men com
+nutted them Human beings
+toe their merits and dements
+tde by There are T7
+7 non m India and the
+iviild who are treating their
+husbands hhe chattels and worse
+than chattels For what can it
+mean else than selling their
+TO STRIJVTAkA
+retenge and sensual gratifica
+lions Will the platform
+ladies examine the criminal
+records in the world and find
+out what are the basis for the
+criminal acts and what responsi
+bility rests on their shoulders
+There is no use of blaming this
+or that sex and say these or
+those have been held as slat es
+Good people are found among
+both the sexes and the worst
+criminals are equallj counted
+among both Women are notv
+advancing rapidlj on various
+lines and their horoscopesall
+over the world are composed of
+varieties of temperaments The
+order of creation is such No
+one can change the laws of
+Nature and God alone must
+
+'introduction to strijataka
+rite servant Manthira. There
+is no use of blaming this or
+that section of humanity, take
+the world as it is, and try’ your
+best to modify the evil surroundings and make them as good as
+possible. Astrology helps to
+read the character and
+fortunes of individuals. After
+having read them correctly,
+try your best to modify or
+avert the evil influences and
+turn them to your advantage
+by’ the previous knowledge of
+future events. Remedies are
+recommended by the science of
+Astrology and Dharmasastras
+and they should be adopted in
+all cases, where they are likely
+to produce beneficial results by
+averting and modifying the
+evils.
+As I have explained often in
+my writings, Astrology is a
+huge chemical science and the
+rest of the sciences are its minor
+branches. What are Dharmasastras ? They are completely
+chemical in nature. They give
+you strict rules for the preservation of good and sound
+health, to purify the mind, to
+increase and develop the
+spiritual and moral tendencies
+and thus enable the person to
+live happily here and secure
+states of bliss and final emancipation after death. The constellations, the planets, the zodiacal signs, the lunar and solar
+days, the yogas and the karanas are all chemical in nature
+and as chemical bodies they
+exercise their good or evil influences on each other. In birth
+as well as in menses electrical
+and ethereal currents are set
+afloat and whenever their actions
+are prejudicial and injurious to
+mankind, remedies — chemical in
+nature — are prescribed to counteract those evils to neutralise
+their effects, to produce good
+and thus to secure comforts and
+happiness to humanity.
+
+I SRI 3
+STRIJATAK4
+FEMALE HOROSCOPY
+ENGLISH TRANSLATION
+BY
+B SURYAXAEAIX ROTT, b\,iikas, fkhs
+GENERAL OBSERVATIONS
+Chapter I have tremendous sexual energy
+Humanity is divided into and who are not satisfied with
+three mam divisions, nz , ?.Ias ordinary sexual embraces and
+culme, Feminine and Eunuch seek gratification even in unna
+There are any number of sub tural ways Some men and
+dmsions among them and the women have no inclination for
+phenomena of potency or vitality sexual congress There are
+among the abov e three classes some who hav e the development
+are remarkable There are men of the masculme and feminine
+with perfect masculine develop organs in a mild form, and there
+ment, but almost without are a few who have these two
+powers of erection or penetra organs in good perfection, so
+tion There are some women much so that as females they
+who have hardly any sexual have regular menses and at the
+excitements and desire for co same time as males, they hav e
+operation They evade or enjoyment with other females
+reject sexual offers and appli Cases, where such beings having
+cations On the .other hand, fully developed male and female
+there are A apumsakas or eunu organs in one and the same
+chs who have strong sexual person, have been brought to
+excitements and desires, but notice both by medical practi
+without suitab’e organs for such tioners and also by the general
+functions On the other hand, public at different times But,
+there are men and women, vvho whether such Ardha Nansxraras
+
+2 STR1Jboth man and woman together
+developed in one and the same
+body, has ever become pregnant
+and brought forth issues, has
+not been recorded There are
+some more peculiar phenomena
+among human beings, which
+deserve special mention here.
+While we were about 16 years
+old, a man was introduced to us
+by our elder paternal uncle.
+Venhatesayya who was Sheri -
+stedar at Chichballapur near
+Bangalore as Obalachari, who
+had been Obalamma before.
+The facts were these He was
+born as a girl m a poor but respectable Brahmin family, and
+was married in his 9th jear to a
+Brahmin youth of twenty Till
+then the development of all
+organs were strictly feminine,
+otherwise there could not ha\e
+V T A K A
+of feminine sexual organ, but
+a fully developed masculine organ , the marriage
+was cancelled and Obalachar
+married a girl, and had several
+children from her. One of his
+sons became an Amildar in the
+Mysore service, and there are
+now some grand-children of
+Obalachar formerly Obalamma
+We could not believe such a story
+but not only our uncle vouched
+for the truth of this, but
+Obalachar himself confirmed the same Our uncle had
+gone to the marriage of Obalamma first and then again to Ins
+marriage when he became Obalachar. The history written by
+an Androgine and published by
+the Medico Legal Journal confirms such instances Only the
+other day a bull was brought to
+
+strijatak a
+If the Lagna a
+odd signs, she
+nd Chandra fall
+will be masculine in appearance and temper,
+bad character, sorrowful, if these
+two Lagna and Chandra are
+combined with or aspected by
+cruel planets, her character will
+be bad and sinful
+In judging of these results the
+astrologer has great difficulties
+and has to use much discretion
+in predicting the results lake
+some illustrations Kataka is
+Lagna, with Kuja there and aspected by Sam. Lagna is even
+and the girl ought to be good,
+but the presence of Kuja in debilitation with the aspect of
+Sam will make her a whore and
+of bad character. There are
+some women, bad in morality
+but otherwise respectful and
+agreeable in behaviour. There
+are some others who are moral
+gems, but disrespectful and
+quarrelsome in behaviour In
+the above case sa> Chandra is
+they do in Kataka Kataka as
+Lagna with Kuja and Guru with
+Sam and Ravi, with Sukra and
+Sam, with Kuja and Sukra,
+with Rahu and Ravi, with Kethu
+and Chandra will and must
+produce certainly different results Suppose Mesha as Lagna
+with Sam and Kuja, Sant and
+Rahu, Sam and Guru, Sam and
+Chandra and Sani and Sukra,
+they will produce characteristics
+of a different kind and the
+student, should be very careful in
+his predictions Take Kataka as
+Lagna with Guru in it He will
+be in exaltation, and if he has
+no evil aspects he will produce a
+woman of great majesty, excell
+ent character, virtuous behaviour and generous disposition
+Suppose Makara is Lagna
+Here both Kataka and Makara
+are even signs and in both
+vve have Guru the most beneficial
+among the planets But in
+Makara, Guru is debilitated
+
+STRIJATAKA 5
+the sign will not be so powerful Odd signs are cruel or NaraMakara is an evil sign by nature
+and Guru there is bad both
+because Mahara is an evil sign
+and also because Guru is in
+debilitation
+Suppose T h u 1 a becomes
+Lagna with Sani in it and Mesha
+becomes Lagna with Sam in it
+The difference in the character
+and behaviour of the girl will be
+very great Say a female is adul
+terous and objectionable but
+will have the knack to treat her
+husband with apparent love and
+consideration and thus give no
+room for complaint as a wife,
+then he thinks he is happy But
+if the woman is adulterous and
+takes a defiant stand to her
+husband, admits her lovers in his
+presence and causes him great
+discomfort and pain There is
+some difference between the
+two women, although morally
+both arc bad Take a woman,
+not given to much adultery, but
+attached to one bad man, and
+tries to poison or kill her husband Her character is certainly reprehensible and she cannot
+be classed with the other two
+Therefore, in judging of planetary influences, great discretion
+must be used.
+rasis or masculine Even signs
+are mild, feminine or stnrasis
+When both Chandra and Lagna
+fall in odd signs and evil planets
+occupy or aspect them, the
+nature of the woman will be
+thoroughly bad. Even among
+cruel or odd signs there is, and
+there must be great difference
+m producing the evil effects
+Mesha, Mithuna, Simha, Thula,
+Dhanas and Kumbha are odd
+and cruel signs, but they are
+owned by malefic and benefic
+planets, Mesha, is ruled by Kuja,
+Mithuna by Budha, Simha by
+Rav i Thula by Sukra, Dhanas
+by Guru and Kumbha by Sam.
+When the Lagna of a girl falls
+in any one of them or Chandra
+occupies any one of these, her
+characteristics, will differ
+Chapter III. ■
+Characteristics of Girls
+The characteristics of girls
+all over the world are characterised by r a surprising and wonderful variety and these are
+accounted for by the permutations and combinations of Rasis
+constellations, planets and the
+various states ascribed to these
+in different places Take Aries.
+
+STRIJATAKA
+Kuja in its first degree is not
+the same as when he is in the
+second Ravi in the first degree
+of Alesha is not the same as
+Raum the 10th or 30th degree
+of that sign Similarly every
+planet in eveiy sign has changes
+in nature in each degree and the
+Bhava or signification it
+occupies These wonderful
+\aneties of planets m degrees, Bhaaas and signs account for the endless varjet} we
+find in the bad or good nature
+minute points The mathematical portion of Astrology becomes an absolute necessity,
+when the planets hare to be taken
+in their various divisions and
+degrees they occupy The'e
+delicate demarhations should be
+careful!} studied and special!}
+remembered in predicting the
+fortunes of girls, their personal
+appearances modest}, dignit}
+and other characteristicsWe shall non take the
+readers to Thnmsamsas whoso
+
+STRIJATAKA
+Chapter IV
+Precautions in Predictions.
+The readers attention is
+drawn to certain facts in making
+predictions about the character
+of women There are many de
+hcacics which should be particularly noted In the above
+paras the expression used is
+“ if Chandra or Lagna ” falls in
+so and so Chandra and Lagna
+may fall m one and the same
+sign or each may fall in a different house Now let us take
+first Chandra in Vrishabha He
+is exalted there, and the sign
+itself is a beneficial and mild
+one owned by a benefic planet
+Sukra A woman born when
+Kuja Th rises in Vrishabha
+becomes a bad one
+If Mcsha has Lagna or Chandra in it and Kuja Th rises, the
+woman will have sexual connection before her marriage Chandra in Vesln is not as good as
+he is in Vrishabha, Mcsha is a
+masculine sign and its Lord
+Kuja is an oil planet Take
+Lagna or Chandra in Vnschika
+Chandra here is in debilitation
+and if Kuj 1 Th rises, the girl
+will ha\c connection before
+m image Then what is the
+difference between Kuja Th
+rising when Chandra is in Mesha
+Vrishabha or Vnschika In
+these three cases the girl becomes adulterous Astrology
+lays down this result But the
+Astrologer must make some
+difference even in such cases of
+adultery A woman sleeps with
+a rich and agreeable sort of man,
+she yields her embraces to an
+ordinary man under passion before marriage, she will commit
+adultery with a street beggar
+out of violent passion In all
+these cases the gul is guilty of
+immoral actions But even then
+there is some difference A woman going wrong after marriage
+and before marriage, after puberty and before puberty, and
+with a rich man and a poor
+beggar cannot and will not have
+the same sms or same happiness
+The impulses will not be the
+same and the measure of plea
+sure and profit w ill considerably
+differ Suppose Sam is also in
+Mesha with Chandra, and both
+occupy the Kuja Th The girl
+will commit adultery with a
+dirty and sorrowful loafer in
+the street Suppose Chandra
+is in Kataka with Guru there
+
+STR1J ATAKA
+husband will be learned and
+intellectual If Kataka or that
+Navamsa rises at birth the husband will be immoral and c ympathetic. If Dhanas or Meena
+rises at birth or that Navamsa,
+the husband will be blessed with
+good behaviour and will be
+highly moral and virtuous If
+' the 7th Navamsa rises in Simha
+or Simha becomes 7th house,
+the husband will become engaged in various commercial concerns and will be immoral
+Chapter V
+Sources of Strength and
+Weakness
+In all these cases predictions
+should be based on a careful
+analyses of the various sources
+of strength and weakness of the
+planets If Mesha rises as the
+7th Navamsa and is occupied
+by Guru, or if it rises with Sam
+in it or Kuja or any other planet
+the results will vary with the
+nature of the planet Mesha
+Navamsa may rise as the 7th
+in Thula Lagna and Vnschika
+Navamsa will rise as the 7th in
+Vnshabha Lagna In other Lagnas, Mesha and Vrischika will not
+rise as the 7th N avamsa I f Lagna falls in any sign, there must
+be some sign which occupies
+the house and some Navamsa must rise as the 7th Out
+of the 7th house and the 7th
+Navamsa, find out which is
+stronger and ascribe the results
+to it But in doing so, there
+w ill be a tinge of the 7th house
+as Navamsa, vvhich is weaker
+Suppose Kataka falls as 7th and
+is occupied by Kuja and Kataka
+Navamsa rises with Guru
+in it Here it will be seen, that
+between the 7th house and the
+7th Navamsa, the Navamsa is
+stronger, and the Rasi is weaker
+The results for the 7th Navamsa
+should be predicted in preference
+to 7th Rasi In all these cases
+great patience, laborious calculations, high deligence, and excellent analysing power should
+be brought to bear on the
+subject, in order to arrive at
+correct results Haste, and
+want of patient labour, will
+bring the man and his noble
+science to ruin and disgrace
+I shall now try and giv e some
+mixed results If a weak evil
+planet occupies the 7th house
+from Lagna the woman will
+have no issues If evil planets
+occupy the 7th house she be
+comes a widow. If evil and
+
+STRIJATAKA
+good planets occupy the 7th she
+will neglect the first husband
+and marry a second one If
+Mesha, Vnsclnka, Makara or
+Kumbha becomes Lagna, combined by Chandra and Sukra
+the girl becomes adulterous
+along ruth her mother If there
+are no planets in the 7th from
+Lagna or Chandra, and the
+house is not powerful and has no
+beneficial conjunctions or aspects, the husband becomes a
+mean and hateful fellow. If
+the 7th from Lagna or Chandra
+is occupied by Sam or Budha the
+husband will become impotent
+soon after marriage I f Sam occupies the 7th with enl aspects
+the woman will be unmarried
+If Chandra and Sukra are in the
+birth, the woman becomes mean,
+jealous and fond of happiness
+If Budha and Chandra occupy
+Lagna she will be well skilled m
+music and arts, will ha\e good
+children, will be happy, and
+prosperous. If Sukra and Budha
+occupy Lagna, she will be
+agreeable, prosperous, well
+skilled in music and fine arts
+The highest pleasure for man
+in this world is to have a obedient, modest, loving, virtuous,
+
+STRI J ATAKA '
+Chapter VI
+Beneficial Aspects and
+Conjunctions
+If beneficial planets, vis , Fullmoon, well associated Mercury,
+Jupiter and Venus occupj Lagna.
+she will ha\e money , good
+clothes, ornaments, agreeable
+temper and attracts e persona
+lit\, happiness and prosperity
+If enl planets, the Sun, weak
+Moon, badly associated Mercury,
+Mars, Rahu, Sam and Kethu
+occupy the Lagna, she will hate
+the opposite results, viz , dis
+agreeable personality, repulsne
+manners, poierty, short and
+unpleasant temper and misery
+Full-moon and well associated
+Mercury are classed as benefics
+But when the Moon is weak
+like on a New -moon day and
+Mercury with Rahu, Sam, Mars
+and Kethu, he is said to be etil
+Here great differences must be
+made in the results Suppose
+Kanya is Lagna with Budha
+and Sam and Meena as Lagna
+with them The results will be
+and must be different In Meena
+Budha is debilitated, and with
+Sam, he will gne bad results
+In Kanya he is exalted and with
+Sam he will gne better results
+Suppose in Kanya they are
+joined by Guru and so .al=o in
+Meena, there will be difference
+m results If Sukra joins them
+in Kany a or Meena the results
+w ill be quite different In astrolo
+gy , it is no joke to make correct
+predictions, for, the astrologer
+has to remember all such details,
+analy se them as best as he could,
+balance the conflicting e\ idence,
+combine theory and practice,
+use common cense and intelligence, study the em ironments of
+the parties, consider the local, the
+political, the social and the reli
+gious conditions and then, after
+summensing all these, draw
+reasonable conclusions and make
+predictions with care and cau
+tion If Lagna is occupied by'
+Chandra, Budha and Sukra or
+by Budha, Guru and Sukra she
+will haa e excellent character, be
+happi , learned, intelligent, polite,
+attract i\e and command the
+sera ices of sera ants ff Chandra
+and Sukra are in Lagna she
+a\ ill be irritable, fond of happi
+ness and haae many gold orna
+ments If Lagna has Budha or
+Guru and Sukra, she aaill he
+skilful m arts, fond of happiness
+and attractiae If Budha and
+Chandra are in Lagna, she will
+
+STR1JATAKA
+be hippy and blessed with child
+ren If Guru occupies Lagna
+she will be very wealthy and
+will have sons and grand child
+ren If Kanya or Mithuna rises
+as Lagna and Chandra and
+Suhra are there, she will be fond
+of happiness will ha\e a ten
+dency to quarrel with her hus
+band and will have free move
+merits The latter means I
+suppose she will be free with
+other men Quarrels are not
+happy signs of domestic felicity
+If Budha Guru and Suhra
+ire powerless if Sam has middle
+strength and Ravi Chandra and
+Kuja are powerful and the
+Lagna falls in an odd sign the
+girl will be masculine in tempe
+rament and behaviour will be
+free in her sexuil mtercourse
+Lagna falls in an c\ en sign if the
+powerful Guru, Budha or Sul ra
+joins with Chandra in anys.gn,
+she will have religious wisdom
+and philosophical 1 nowledgc,
+insight into many sciences and
+will become famous If Lagna or
+Chandra is betwivt powerful
+evil planets she will have all
+her wants supplied by her
+parents and she will cause ex
+tinction of her f ither in law s
+house If two planets are in
+the 6th and there is one evil
+and one benefic in Lagna the
+girl will become a Vtsliakanya
+If a girl is born on the 2nd of a
+Lunar month which falls on a
+Saturday with the constellation
+Auslesha ruling on that day or if
+the lunar day is 7th fallm a on
+Tuesday and Satablusha ruling
+
+STRIJ AT AKA
+feminine planets and evil planets
+occupy Kendras, the girl will
+have two husbands
+If Sam and Chandra occupy
+a movable sign aspected by
+Sukra, her husband \ull be fond
+of other women, fickle minded
+and born of adultery This
+means that hts mother is immoral and he is not the son of his
+reputed or registered father If
+Sam occupies an even sign and
+the 7th is occupied or aspected
+by a benefic, her husband
+will be respected by the govern
+ing bodies and will be agreeable
+and happy If Chandra and
+Sukra occupy the 7th the
+husband will be old
+If seventh is occupied by evil
+planets she will become a widow,
+early in life If Ravi occupies the 7th aspected by an un
+friendly planet she will be neglected by her husband If Kuja
+occupies 7th. and has the aspect
+of an unfriendly planet, she- will
+become a widow, in early life
+If Sam occupies 7th with un
+frienly aspect, she becomes a
+young widow and will live as a
+widow till old age If the 7th
+is occupied by good and evil planets, she will become adulterous
+If 7th is an evil sign and is
+occupied by Sam and Kuja, she
+becomes a widow, very early in
+life If Kuja with an evil pla
+net joins 12th or 8th and Lagna
+is occupied by Rahu she will
+become a widow and immoral
+If Lagna is occupied by Ravi or
+Kuja, she becomes poor If
+Ravi, Kuja and Rahu occupy
+Lagna, she becomes a widow
+and immoral If these combine
+with Sukra, she will be fond of
+her husband There are extraordinary women who although
+they become widows at a very
+early age, preserve their chastity
+and command the highest res
+pect from all classes of people
+They are domestic gems
+If there is an evil planet in the
+8th from Lagna and when the
+sub period of the lord of the
+Navamsa, occupied by that
+planet occurs after the marriage,
+her widowhood should be predicted If the 2nd is occupied
+by benefics and the 8th by
+malefics, she will die before her
+husband Such a death is
+co\ eted by all good women and
+that state of marital life goes
+under the name of Sumangalt
+If e\il planets occupy 8th, the
+
+S T It I J A T A K A
+occupies the 7th and has the
+woman becomes a widow If
+there is a malefic in the 8th and
+a benefic occupies Kumbha she
+dies before her husband If
+Lagna has evil and good planets
+and the second has benefics her
+death occurs before her husband
+If Lagna falls in Simha,
+Vnshabha or Vnschika she will
+have few issues If malefics
+occupy 7th and 9th houses, she
+will become a sanyasm or one
+who renounces the world. If
+Kanya, Vnschika, Vnshabha or
+Simha joins Chandra or if the
+5th is occupied by benefics or
+has their aspects she will have
+few children If Lagna is joined
+by Sam and Ivuja, or by Chandra
+and Sukra, and the 5th is aspectcd or occupied by malefics she
+becomes barren.
+aspect of Sam she will have
+abortions If Sam occupies the
+7th possessing the aspect of ICuja,
+the issues will be sickly If
+Rahu and Ravi occupy the 7th
+she will have dead children If
+Chandra and Budha are in the
+7th, she will have female
+children If Guru and Sukra
+occupy the 5th she will have
+many sons and daughters, prosperous with good qualities,
+faithful and loving to husband
+and will do many’ charitable
+deeds These results may be
+predicted for females, at the
+tune of birth, at the time of
+marriage, at the time when
+marriages arc settled, at the time
+of querj or questions and at the
+time- of puberty These results
+
+STRIJ AT AKA
+Chapter VII
+Characteristics of the
+12 Rasis
+I will now give the descrip
+tion and characteristics of girls
+born in the 12 different Rasis
+and these are to be taken with
+considerable modifications For
+example, if a girl is born in Mesha
+without any planet or with Ravi,
+Chandra, Kuja, Budha, Guru,
+Sukra, Sam, Rahu or Kethu,
+in all these ten cases, the results
+will be necessarily different
+This should be particularly borne
+m mind But there w ill also be
+the general influences of the
+Rasi itself, which will be strong
+ly or weakly marked accord
+ing to the strength or weakness
+of the Rasi itself, its lord and
+the planets who are there and
+who aspect it Kuja in Mesha will
+be its lord Ravi in Mesha will
+have exaltation, Chandra will be
+in a friendly house Budha will
+be emerging from debilitation
+and in an unfriendly sign
+Guru will be in a friendly sign
+Sukra will be m an enemy’s
+house Sam will be debilitated
+Rahu will be powerful Kethu wall
+be weak Therefore the results
+of a girl born in Mesha, vary
+according to the strength and
+weakness of these planets and
+Rasis Then again we have
+double, table, quadruple,
+multiple, sextde and separate
+combinations, each of which
+has its own. strength and weak
+ness Therefore, when we give
+the results for Mesha, Vnshabha
+and so forth, the astrologers
+must be very careful, m making
+their predictions
+(1) A girl, who is born in
+Mesha will be truthful, cruel,
+phlegmatic, quarrelsome and
+fond of relations
+(2) A woman born in Vnsha
+bha will be fond of cultivation,
+agreeable, polite manners, obey
+her husband, skilled m arts and
+fond of relations
+(3) One who is born in
+Mithuna, will use harsh langu
+age, passionate, bad character,
+cruel temper, windy and phleg
+matte complaints and a spend
+thrift
+(4) One born m Kataka,
+will have many issues, hand
+some, wealth, righteous, fond
+ness for relations, pious, polite,
+attractive and happy
+(5) One who is born in Sim
+ha, will have anger, phlegmatic,
+
+S T R I J A T A K A
+fond of quarrels and varieties
+of flesh and charitable
+(6) One rvho is born in
+Kanya will have happiness
+politeness agreeable temper
+faithful servants fond of chari
+table deeds virtuous and sk 1ful in arts
+(7) One who is born in
+Thula steadiness laziness few
+friends proud heartburn avari
+cious and sinful
+(8) One born in Vnschika
+will be handsome delightful
+meritorious virtuous good
+character and truthful
+(9) One born in Dhanas good
+mind masculine deeds amen
+able to kindness cruel thinking
+ill of others and unkind
+(10) One born in Makara
+Mill be prosperous truthful
+fond of \ isitmg holy places
+w ithout enemies engaged in im
+porta nt work good reputation
+character and many children
+(11) One who is born in
+Kumbha powerful from birth
+bloody disease fond o( religious
+men pure minded ciqcnsive
+fond of went and grateful
+(12) One born in Mceni
+will hu children ind grind
+children fend of husbind
+respected by relations and
+friends beautiful eyes and hairs
+fond of worship kindness and
+respect to elders
+In judging of these charac
+t eristics the reader has to be
+careful When the sign is
+powerful well occupied benefici
+ally aspected and when its lord
+has good conjunctions and as
+pects then the characteristics
+sl-etched above will appear in
+full But when the s gn is weak
+and has evil conjunct ons and
+aspects its lord is not powerful
+then the results can only hare
+general traces and not in full
+One or two examples will suffice
+to explain what I mean
+Take Kataka If it is occupied
+by luija if its lord Moon is both
+New moon and debilitated in
+\ rischika then there will be
+faint traces of the characters
+tics represented by Kataka But
+if Guru is there and Chandra
+is full and exalted then all the
+characteristics gn en for Cancer
+will be prominently visible The
+task of an Astrologer if he
+wants to be honest and faithful
+to Ins science is not only taxing
+but also laborious Sciences
+whatever they may be, are not
+for hz\ fools or ignorant brains
+
+STRI J ATAK-A
+Derotion, intelligence, patience
+and industry are wanted
+Results of the occupation of
+Chandra ut the different Rasis
+1 When Chandra is in
+Jlesha, fond of work, much
+skill, handsome person, leader,
+fond of husband and deleted to
+elders and Gurus
+2 Chandra in Vnshabha,
+good temper, tact, education,
+fond of fine arts, r isiting hoi}
+places, blessed with children
+and grand children, acquisition
+of wealth and derotion to
+husband
+3 Chandra in Mithuna, well
+der eloped, handsome bod\,
+good character, profits from
+rarious engagements, good Intel
+ligence, helpful to others,
+charming e>es
+4 Chandra in Kataka, sicklj,
+respected among relations, dig
+nified, conquest orer enemies,
+derotion to Gods and Priests
+5 Chandra in Simha, leader
+among her class, good temper,
+fond of flesh, blessed with ornaments and clothes, engaged in
+large speculations, good marital
+life and handsome features
+6 Chandra in Kanja, man>
+cattle, r ittue, great wealth, con
+quest orer enemies, patience
+and righteous conduct
+7 Chandra in Thula, fond
+of religious rites, sjmpathetic
+and losing, rirtuous, good children, high social position, Jittle
+sexual passions
+8 Chandra in Vrischika,
+concealing sms, stead}, skilful
+work, agreeable to elders, great
+wealth, unsjmpatbetic
+9 Chandra in Dhanas, — fond
+of religious ntes, lor e for chanties, s}mpath>, musical taste,
+lor e for fellow creatures, agreeable, attainment in desires
+female issues, and polite man10 Chandra in Makara, terrible teeth, solar worship, agreeable, raned learning, truthful,
+handsome bod}, conquest or er
+passions and enemies, righteous
+11 Chandra m Kumbha j
+rounded bod}, attracts e face,
+chantables, issues, wealth, good
+actions, reputation, self respect
+12 Chandra in Jleena,
+man} male issues, charitable,
+good character, controlling
+passions, skilful in arts, great
+modest}, careful about reputation and agreeable.
+
+STRIJATAKA
+When Chandra is in any particular sign, not aspected or
+conjoined by good or e\ tl pla
+nets and the lord of the sign is
+powerful as has already been
+stated, then the characteristics
+detailed for that sign will be
+prominently seen But when
+conjunctions and aspects are
+present and conflicting, then
+there will be traces of these results Wesay a girl is handsome
+In beauty there are any number
+of varieties and the judgments
+on beauty also \ ary a ccording
+to the tastes of nations,
+manners, customs, social functions and aesthetic development
+Habit also has great deal to do
+with our tastes and judgments
+The darkest Negro, the Hotentat, the American, the Indian,
+the Aboriginals of India, the
+European and the Asiatic
+nations all have their own ideas
+of beauty.
+soils, the varied phenomera on
+the way, the climatic conditions,
+the presence or absence of
+waterj' surfaces, hills, valleys,
+dales, mountains, v egetation,
+animals, birds, beasts, reptiles, the
+human habitations their varied
+features, his own physical and
+mental changes, all these and
+many more necessarily change
+his mind, and make him miser
+able or pleasurable, according to
+these various influences Similarly when a planet enters Mesha
+he will be affected in the
+30 degrees with various sources
+of beneficial and malefic influ
+ences Say the Sun enters Mesha
+in the 1st degree We will explain
+the various influences in our
+colloquial language First he
+enters a friendly house, second
+he enters his sign of exaltation
+Third he enters his own hora,
+fourth he enters Kuja Drekkana,
+fifth he enters Kuja Navamsa,
+
+STRIJ AT AKA
+he travels in two and quarter
+stars in each sign which ha\e
+their own peculiar influences
+Aswim extends over 13s degrees
+and it does not exercise the same
+influence all through those
+degrees The tenth degree or
+the end of the 3rd quarter is his
+deep exaltation where he is alleg
+ed to giv e the highest beneficial
+influence
+Till the 10th degree he is in
+the ascendent and reaches the
+highest point m the 10th degree
+From the 11th degree he is said
+to be in the descent, and gradually loses his pow ers When he
+reaches the 30th degree he loses
+his power of exaltation and
+when he enters the 1st degree of
+Vrishabha, he comes to an unfriendly territory From the
+13i degree to the 26| degree, he
+will be in Bharani which is quite
+different m nature, m itsr esults
+from those of Aswim Bharani
+has Yama as its Deity and has its
+influence From the 26§ degree
+till he passes the 30th degree or
+the end of the first quarter of
+Krithika he travels in a star
+governed by Agm Bharani is
+governed by Yama or the dread
+judge, who punishes all
+wicked people after their death
+These are not easy lessons which
+could be learnt by casual glances They require deep intelh
+gent and patient study
+Chapter VIII
+Results of Constellations
+We will give the results of the
+27 constellations in which a girl
+1 Aswim — agreeable, great
+wealth, inviting looks, good
+speech, patience, fond of sexual
+operations, purity, respect for
+Gods and elders
+2 Bharani — female companions, cruel, quarrelsome evil
+heart, poverty, cowardly, dirty
+3 Knthtka — anger, fond of
+quarrels, later renunciation,
+hatred of people, few relations,
+phlegmatic, lean body
+4 Rohini — handsome body,
+purity, active, love to husband j
+dutiful to parents, good male
+and female children, wealth
+5 Mrigasira — respect, hand
+some, agreeable speech, good
+ornaments, delicious food, fine
+clothing, fond of wealth, good
+sons, charitable, clean body
+6 Andra — irritable temper,
+bad heart, bilious and phlegmatic
+
+STRIJ AT AKA
+devotion to God, clever in
+detecting enemies, faults, extravagant, perverted, learning,
+7. Punarvasu— humility, many
+servants, fond of virtue, charitable, pleasantness, respect,
+handsome husband
+8. Pushyami — h a n d s o m c,
+great deeds, wealth, good children, respect for Gods and priests,
+storied houses, great happiness,
+fond of relations
+9. Aslesha — ugly, sorrow, fond
+of sinful deeds, harsh language,
+doing objectionable work, pride,
+dissimilation and ungrateful.
+10 Makha— respect, joining
+enemies, great wealth, respect
+for Gods and Brahmins and
+royal comforts
+11. Pubba — success overene
+mies, prosperity, good issues,
+righteous, just acts, bold, fond of
+sciences, pleasant speech, meritorious gratitude
+12. Uttara — steady, wealth,
+principled, clever in managing
+domestic work, love for good
+conduct, joyful, healthy
+13 Hasta — beautiful hands,
+charming eyes and ears, patience,
+good nature, riches, scientific knowledge, attractive body,
+and well developed limbs
+tlnough comfortable living.
+14. Chitta — fine pictures, nice
+ornaments, handsome body. If
+she is born in Chitta on any
+lunar day excepting' the 14th
+day of the dark half of the
+month, she will become a Vishahanya or poisonous girl. If she
+is born on any lunar day in the
+bright half of the lunar month,
+excepting on the 14th in Chitta
+she will become poor and adul15 Swab — virtuous, issues,
+wealth, truthful, little travelling,
+respect, many friends, victory
+over enemies
+16 Visakha — good speech,
+delicate and fine body, wealth,
+fond of visiting shrines, and
+religious rites and sympathy
+for relations
+17 Anuradha— good friends,
+selfless, agreeable and altractn e
+person, social and political
+powers, good and suitable ornaments, beautiful waist, respect
+for elders and instructors, godly,
+respect for husband
+18 Jaista — agreeable, skilful
+work, sweet speech, feminine
+friends, great wealth, prosperity,
+issues, regard for relations,
+ruthful
+
+S T R I J ^
+19 Moola — little happiness,
+widowhood, poverty, sickness,
+enemies, few relations, despised
+!>v others, ev il deeds and short
+stature
+20 Poonashadha — agreeable,
+leader . among relations, good
+deeds, powerful, determination,
+truthful, broad eyes, well formed
+and handsome body, good regulation
+21 U ttarashadha — pleasan t,
+reputation, good enjoy ment,
+leader, joy ful and agreeable to
+husband
+22 Sravana — \ery handsome,
+w ise, fond of sastras, great repu
+tation, charitable, truthful, help
+ful to fellow creatures
+23 Dhamsta — fond of hearing
+stories, plenty of food and
+clothes, generous in distribution
+of various articles, riding on
+horses and carriages, excellent
+character, good deeds
+21 Satabhisha — control over
+passions, lot ed by females, respect among relations, demotion
+to God, love to elders, and fond
+of doing agreeable work
+25 l’oon-ibhadra — great
+wealth, loic for children, doing
+charity among good people,
+good company, education, prosperity, eminent, social position
+L T A K A
+26 U ttarabhadra — belov ed byhusband, patient, devoted to
+husband, agreeable to preceptors,
+humility, happy, wise and tactful, fond of good deeds
+27 Revati — dignified, very
+friendly, pure, fond of religious
+rites, attractive, many cattle (
+victory oxer enemies, beautiful
+Chapter IX
+Bhara Phala or the
+Significations of the Planets
+in the Twelve Houses.
+Here, the results of the
+various planets occupying the
+different Bhaxas are sketched
+out and the astrologer will see
+ho\v each house and its significations are affected and modified.
+The balancing of ei idence and
+pronouncing of correct judgment are not such great difficul
+ties to judge as the balancing
+of the results of the occupations
+of the planets in the different
+houses and making correct
+predictions for an astrologer
+Take Mesha First there arc the
+influences of the sign Then we
+have the Horn, Drckkana,
+Navnmsa, Dvadasams-a, Thrimsamsa, the stellar, and the planetary influences A11 these and
+the influences of combinations,
+
+aspects debilitations exalt 1
+ations retrogrades accelerations
+friendly and unfriendly houses
+Moola thnkonas and other parti
+culars will have to be taken into
+consideration Any brain how
+ever intelligent it may be reels
+back at the stupendous labour
+which lies before it in astrological
+calculations It is surprising how
+educated people themselves dis
+contented with their heavy in
+comes can make up their minds
+to overlook the dignity of the
+herculean labour and offer to the
+really learned astrologers small
+sums often even less than the
+humble wages of a street cooly
+Such however is the logic of the
+learned and they have the auda
+city to fitid fault with the
+astrologers for false predictions
+This is something like jeering
+at an Engineer for not building
+a tank bund properly when he
+is paid ten rupees for a work
+which really costs a thousand
+What w ould be his reply readers
+Ravi in 2 — deprived of corn and
+coin lnrsh tongue debility
+fond of quarrels hatred mis
+chief friendless
+Ravi m 3— always lnppy heal
+thy body handsome nice face
+full busts Three things in a
+woman add to her beauty
+fine teeth handsome eyes
+and well formed breasts
+Ravi m 4 — unhappy sickly
+body ugly teeth repulsive
+body hateful and trouble
+some behaviour
+Ravi in 5 —few issues leader
+ship religious observance
+stout face and teeth dutiful
+to parents agreeable conver
+sation and faith in Brahmins
+and priestly classes are
+indicated
+Ravi in 1— Ravi in Lagna pro
+duces hot body heat diseases
+bad temper leanness ingra
+titude fond of dining at others
+places and rcpulstve comp
+Ravi in 7 neglected by husband
+unhappiness terrible to deal
+with unsympathetic phleg
+matic diseases sinful deeds
+and deformed body
+
+STR1JATAKA
+crooked acts of charity, suffering from excessne blood
+passing
+Rum in 9 — pretending charities,
+fond of sinful deeds, pm erty ,
+many enemies, excessiv e anger,
+fine sources of comfort
+Ravi in 10 — crooked chanties,
+unattractive, hatred towards
+husband, dark body, fond of
+walking and travelling
+Ra\i in 11 — gams, children and
+grand children, command
+o\er passions, great skill m
+arts, patience, commanding,
+respect from relations
+Ran in 12 — expenditure on evil
+work, rough, extrav agance,
+fond of sinful deeds, cruel,
+fondness for all articles, irreligious tendencies
+Results of Moon in the
+licelie houses
+Chandra in 1 — handsome, when
+the moon is on the wane,
+slender body , sickness, quarrelsome and fond of crooked
+deeds
+Chandra in 2 — great wealth,
+polite, principal among females, charitable, devoted to
+husband, righteous and respect to good Brahmins
+Chandra in 3 — diseases from
+excessive phlegm and wind,
+disagreeable conversation,
+crooked views, dependency
+on mean masters, non regard
+for justice, bad conduct,
+miserliness, ungrateful.
+Chandra in 4 — happiness, valuable ornaments, steadiness,
+following strictly religious
+codes, great enjoyment, devotion to God and preceptors
+Chandra in 5 — good children,
+good conduct, great activity',
+happiness, truth, control over
+passions, love for husband,
+handsome
+Chandra in 6 — small heart, bold,
+rude, fickle minded, wounds,
+various kinds of diseases,
+emaciated body.
+Chandra m 7 — skill, love to husband, generosity , prudence,
+pleasant speech, vvealth attraction and good conduct.
+Chandra m 8 — cruel, envious
+eyes, ill-developed breasts and
+sexual organ, lack of ornaments, unclean body, anger,
+wonderful scandals
+Chandra in 9 — pious, good waist,
+fond of enjoyment, liberal,
+agreeable, faithful servants,
+good issues and happy.
+
+S T R 1 J A T A K A
+Chandra m 10 — goid ornaments
+good respect, not tond of
+sense engagements, good
+social position, high rank
+among relations, charitable,
+fond of meritorious deeds
+and truthful
+Chandra in 11 — much gam,
+agreeable, attractive prudence
+and foresight, control o\ er
+passions, easilj pleased
+charitable, law ful and health}
+Chandra in 12 — spendthrift,
+wind} diseases, actixe habits
+humble mind impatient
+unreasonable, poxert}
+Results of Kvja tn the
+ticehc houses
+hujr in 1 — red complexion,
+sorrow ful body, disrespect,
+rejected b} husband, poierty
+Kuji in 2 — irreligious, poxert},
+crooked husband, excessixe
+expenditure passionate
+anger, many diseases, feu
+Kuja in 3 — prosperity patience,
+agreeable relations respect
+for good men, impotence,
+health and dignit}
+
+STRIJATAKA
+guardian, poverty, cuts and
+scars, repulsive, fond of
+tormenting others
+Kuja in 9 — impious, unhappj,
+sickness, poverty, offensive
+to good people, and fond of
+flesh and drinking
+Kuja in 10— crooked works, and
+views, irreligious, and fond of
+unholy work, shameless,
+ignorance
+Kuja in 1 1 — large -gains, indifferent to possession of
+articles, good temper, various
+enjo) ments, fond of husband
+and righteous conduct
+Kuja m 12 — fond of red grams,
+misdeeds, expenditure on
+sinful acts, fond of drinking,
+cruel, alwajs suffering from
+some complaint and weak
+constitution.
+Budha in the tuchc houses
+Budha in 1 — handsome, devoted
+to husband, righteous, broad
+ejes, plcntj of food and
+drink, ahvajs loving, truthful.
+Iludha in 2— wealth, puritj,
+handsome, fond of Gods and
+Brahmins, and sacrificial
+rites, pro-i pent) , and desire
+to read and hear puranas or
+religious works
+Budha in 3 — riches, devoted to
+Gods and religious men,
+children, self respect, obliging
+and good social position and
+authority
+Budha in 4 — happiness, good
+and pious friends, servants,
+devotion to God and holy
+pnests, respectable family,
+and fondness for charitable
+Budha in 5 — few issues, poor
+eater, ordinary wealth,
+quarrelsome, objectless or
+non-profitable travelling,
+objectionable conduct, poverty and hatred for good people.
+Budha in 6 — hating enemies,
+kind hearted, long life, active
+habits, excessive passion,
+and unwillingness to help
+others.
+Budha in 7 — dignified, skilful
+in all work, fond of sastras,
+feasts and religious rites,
+good reputation, .and loving
+fellow creatures
+Budha in 8 — ungrateful and
+forgetting help, unsjmpathctic, uncharitable, misunderstandings among people,
+alw ivs sickness, timidit).
+
+STRIJATAKA
+Budha in 9 virtuous, charitable,
+polite, wealth, reputation
+strength, great patience,
+truthful
+Budha in 10 — righteous conduct,
+devotion to husband, pros
+penty, wealth, handsome,
+just and polite
+Budha in 1 1 — contented, great
+gains, good temper, virtuous
+popular
+Budha m 12 — pen erted and
+ignorant, indifference, quarrel
+some disordered, emaciated
+bod) and subject to criticisms
+from good people
+Chapter X
+Results of Guru in the
+Twelve Bhavas
+Guru in 1 — truthful, good
+enjojment, dignified speech,
+good company, beautiful,
+respect and leadership among
+females
+Guru in 2— great wealth, good
+marital life, agreeable, just
+fond of good deeds, good
+social position, disinterested
+and without mishaps
+Guru in 3— want of self respect,
+man) sms, disgrace and
+suffering ilwajs from some
+disease or nervous complaints
+in the limbs
+Guru in 4— great happiness and
+various foods and drinks,
+many servants and maids, rich
+ornaments, fine reputation,
+handsome features and bles
+sed with virtuous conduct
+Guru in 5 — good and prosperous
+children, bereft of sinful deeds,
+this means she will do good
+Agreeable temperament, fond
+of religious performances,
+truthful, respected in all
+assemblies and gatherings
+Guru in 6 — siding enemies
+virtuous, suffering from van
+ons troubles and worries
+timid and fearing, engaged in
+important or trivial works
+insincere attentions and
+politeness
+Guru in 7 — good temperament,
+meritorious deeds bright
+understanding few enemies
+love and regard for husband,
+desirable reputation
+Guru in 8 — untruthful, house
+less, loss of husband, pains in
+hands and feet, great sorrow,
+poor meals, and many comp
+hints in the bod)
+Guru in 9— 'religious faith, truth
+fulness, pleasure from build
+ing, tanks, wells and other
+charitable «nrU im-erihle.
+
+STRIJATAKA
+ness, reputation, love for holy
+men, riches, faithful and good
+servants and gratefulness
+Guru in 10— works which give
+reputation, good qualities, amiabilitj, many servants, polite
+ness, loveliness, engaged in
+virtuous and wonderful works
+Guru in 11 — control over pas
+sions, unsullied reputation,
+wealth, fond of skilful works
+truthfulness, praised for her
+amiable qualities
+Guru in 12 — spending money on
+sinful acts, sickly body, few
+gains, doing irreligious acts
+bad temperament and fond
+of other religious systems
+This means that 'he will neg
+lect her own religion and faith
+and join different faiths in
+antagoni'm to her normal reli
+gion This is considered to be
+hatefuK m the eyes of her
+co religionists
+Results oj Svkra in the
+tuelve houses
+Sukra in 1 — igreeable husband,
+good married life, skilful in
+, work, great wealth, pure body,
+conquest over enemies, ami
+able nature
+Sukra in 2 — great wealth, skil
+ful works, dependent, appearances of grandeur, love of
+chanty, good nature, respectable deeds and sweet speech
+Sukra in 3 — poverty, defeated
+relations, great sorrow, pride
+and speech in low tones
+Sukra in 4 — great happiness and
+wealth, jolly temperament,
+love of charitable deeds, con
+trol over passions, an orna
+ment to her family
+Sukra in 5 — wealth in coins and
+kind, many daughters, grand
+dress, good company, and
+leader in her family
+Sukra in 6 — meanness, irritable,
+cruel temperament, conquest
+over enemies, rejected by
+children and husband
+Sukra in 7 — greatness through
+wealth, love of husband, fond
+of scientific knowledge, gene
+ral piofficiency and cleverness,
+fond of Brahmins, helping
+Sukra in 8 — pride, sorrow, want
+of comforts, unsympathetic,
+cheating others, ill selected
+clothing, unrighteous conduct
+Sukra in 9 — fondness for men
+torious work, leader among
+
+STRIJATAKA
+females varieties of wealth
+and clothes luxurious food
+contentment agreeable to
+husband
+Sukram 10— respect and reput
+ation great wealth body
+worthy of respect by good
+deeds great power beauty
+truthful
+Suhra in 11— great gams fond
+of scientific knowledge great
+influence many houses and
+furniture
+Suhra in 12 — expenditure on
+evil deeds sorrow hard bodilj
+organs deceitful dissimulate
+talk disease dull
+Sam in the ittehe houses
+Sam in 1 — ugly and deformed
+body great discomforts
+insignificant stout bones
+teeth and hairs uninviting
+e>cs windy complaints
+constipation and piles fiery
+temperament stubborn
+Sam in 2 — poverty insignifi
+cant among the females
+rejected by others unsymjha
+thetic cruel temper un
+righteous irm ililt lnrsh
+language
+Sam in 3 — great capacity
+leader amont lulu*. ,
+many issues charitable and
+protective temperament
+friendship among good
+people
+Sam in 4 — unhappiness want
+of intelligence ungrateful
+capricious poor surroundings
+always fond of doing evil
+deeds and keeping company
+with undesirable people
+questionable morns
+Sam in 5— want of children
+unkind very proud prostitute
+behaviour friendship with
+wicked people perverse views
+Sam in 6— dull leader among
+women manv issues many
+jewels and clothes good
+character Jove for children
+Sam in 7 — widowhood ins gni
+ficant many diseases fond
+of drinling evil company
+many sms and undesirable
+associates
+Sanun8 committing sinful acts
+cruel temper untruthful and
+unrighteous thievish habits
+deceitful nature early dangers
+and accidents
+Sam in 9 — mean acts extra va
+gant friendship with misers,
+uneducated rough bereft of
+
+STRIJATAKA
+Sam m 10 — fond of evil deeds,
+feminine temper, lot e for filth}
+literature, porerty and bad
+conduct
+Sam in 11 — good issues, great
+wealth, handsome personality,
+luxurious food, great gains,
+bold
+Sam in 12 — bloody complaints,
+excess of wind and phlegm,
+diseases from these sources,
+stupidity, pen. erse nature,
+sorrowful and rejected by
+Results bate been explained
+from the constellations lunar
+influences, sign peculiarities, m
+fluences of planets in the different
+Bhatas These are speciall}
+applicable to females In astro
+logy as well as in other sciences
+right judgment is a great factor,
+weighing of etidence is import
+ant Great patience and labour
+are wanted Chandra enters
+hlesha twelre times a year
+Each month has its own peculiar
+influence, and the tanous
+angels he forms both with
+reference to himself and also
+for other planets are factors
+which hare to be taken into
+consideration in delineating the
+character of women So also
+for other planets
+Chapter XI
+Rajayogas or Auspicious
+Combinations
+1 If Guru is in Lagna, if
+Chandra is in 7th or in his own
+rergas, andSukra is in 10th, the
+woman wall become the wife of
+a king or a ruler, e\en if she is
+born in a poor family and in
+fenor caste Here it means that
+although a girl may be born in
+humble circumstances and
+belong to a lower caste than
+that of the ruler, she will become
+his wife Beautr is no doubt a
+powerful weapon for woman to
+conquer men, but sometimes
+lore is blind, and a women of
+ordinary complexion and beauty
+will be courted by a ru'er,
+under what we may call lucky
+and other subtle influences
+A fair woman sometimes courts
+and enjoys a dark and repulsire
+man and a fair man falls in.
+desperate lore with a dirty and
+ugly looking wench Why and
+wherefore nobody can satisfac
+tonly explain Lovers do not
+see the petty follies they
+commit
+2 If Guru has all the good
+sources of Shadvergas and
+
+S T R I ] A TAIvA
+ind his the powerful aspect of
+Chindn the woman will be
+blessed with plenty of wealth
+and will become the wife of a
+Rija Luxuries dependent on the
+royal position will be with her
+Morality has been specially
+mentioned when they hive any
+Royal females have greater
+temptations to fall into immoral
+channels
+3 If benefics occupy the
+kendras or if they are in Lagna
+and if the 7th falls in a Nara
+Rasi or signs like Mithuna
+Kanya Thula the first half of
+Dhanas or Kumbha occupied by
+evil planets the girl will have
+great wealth will have patient
+and agreeable temper ind the
+conquered enemies will serve
+upon her as servants This
+means she will hive great politi
+cal power
+4 If the llth is occupied by
+Chandra and the 7th is occupied
+by Sukra and Budha and posses
+ses the aspect of Guru she will
+become the bride of a ruler ind
+will hare all the paraphernalia
+of roy ally surrounding her
+5 If kanya becomes Lagni
+with Budha in it ind Guru is
+found located in the llth te
+Kataka in exaltation she will
+become i queen ind will com
+mand greit respect ind power
+Here two plinets Budha ind
+Guru are in exaltation and they
+produce Rayayoga
+6 If Sukn occupies Ligna
+Budha is in the 3rd and the
+powerful Guru possessed of
+Shadrerga strength is Incited in
+the 4th the girl will marry i
+king and will hare all royal
+enjoyments
+7 If one of the Strshodiya
+Rasis becomes the 7th with the
+Full Moon there and if there are
+no evil planets in the four ken
+dras the girl will become the wife
+of a ruler will have many
+elephants horses and convey
+ances will be a loving wife to her
+husband and will be able to
+conquer all her enemies
+8 If at the time of birth there
+are three planets who have good
+Shadvergas she will become
+the wife of a Raya If four
+planets are so well situated with
+good Shadvergas she will become
+the wife of a great emperor If
+five phnets have completely
+auspicious Shadvergas she will
+become the wife of a very great
+emperor who has command
+orer the three worlds and will
+travel in Vimams
+
+S T R I J A T A K A
+NOTES
+The Sirshodaya Rusts men
+tioned in No 7 are Mithuna,
+Simha, Kanya, Thuh, Vrischika
+and Kumbha, Sovereignty over
+the three worlds, Svvarga, Mart) a
+and Patala has been casually
+mentioned in the Puranas, but
+from the Pandavas downwards
+we have no historical evidence
+to show that any king has had
+jurisdiction ov er the three worlds
+Arjuna went to Svvarga and
+fought there Vikrumaditya
+went into Indraloka and got his
+valuable Throne with 32 steps
+guarded by 32 celestial Nymphs
+to whom are ascribed 32
+beautiful interesting and highly
+romantic stones, which form the
+theme of a separate book, called
+Dwathnmsat Sola Bhanjika
+Kathas
+Vunana is derived from the
+Sanskrit, Vi excessive or high
+VltA M ana measure of speed and
+refers to Aeroplanes and all
+those machines which could
+travel in the aerial regions
+See Verse 48 1st Kanda Amara
+Vyornin means aerial regions
+and that which can fly there is
+a Vimana Those cars which
+contain Devatas are Vimanas
+Vtna Pakshma Manamuha
+manam Gamanav Ax\attha.
+or that which when flying re
+sembles a winged bird Svvarga
+is inhabited by Devatas, headed
+by Indra Martyr is inhabited by
+human beings who are subjected to Mri to die or death Patala
+is inhabited by the Nagas or
+serpentlike beings headed by
+Audisesha Royal power is no
+doubt very covetable and desirable when people have got
+steady heads and pure minds
+They can do a great deal of
+good But when they hav e w eak
+or impulsive temperaments they
+will plunge themselves into the
+vortex of sexual and sensual
+pleasures, and become physically
+as well as morally ruined
+9 If Kumbha becomes Lagna.
+with Poorna Chandra in the
+fourth or Vnshabha, aspected by
+Guru, she will become the prin
+cipal "queen of a ruler, will have
+many children and will have
+conquest over her fcnemies
+Generally rulers are not very
+scrupulous about the moral
+atmosphere They are often
+wicked and mischievous
+10 If Budha joins Kanya or
+Mithuna and aspected by Guru
+with auspicious Shadvergas and
+the 4th, has the aspect of Sukra,
+the fi il will marrv a Mftharaia
+
+strijataka
+The Shadvergas are —
+1 Lctgna or Birth or Ascen
+dant
+2 Hora or half of a Rasi or sign
+3 Drekkana or one third of a
+sign
+4 Naiamsa or one ninth dm
+5 Diaeiasavtsa or one twelfth
+of a zodiacal sign
+0 Thnmsamsa or one thir
+ticth diwsion of a sign
+This corresponds to one
+degree tn the zodiacal
+circle.
+13 Shastamsa
+14 Ashtamsa
+15 Cliaturtamsa
+16 Shastiamsa See my
+notes in the Tnnshtion of
+Sarvarthachintamam 5 to 19
+The arrangement of these
+Amsas differs considerably and
+1 refer in) readers to other stand
+ard w orks for this information
+11 If Kuja occupies 3 or 6
+and Sam with auspicious Shad
+■vergas joins 11 and Guru aspects
+Lagna which should fall in a
+fixed sign the woman will
+become a
+
+STRIJ ATAKA
+much better Such is the consti
+tution of human society These
+Rajayogas gne power, money
+and luxuries afforded by them
+But moral and spiritual consi
+derations are different and these
+hai e generally few er chances of
+access to the royal palaces, than
+the Mces, which not only hare
+better access, but are fondled
+with great care and lor ed by the
+aristocrats Nemesis deals out
+its iron hand, catches them in
+its grip and gir es them plenty of
+disease® and a wonderful rariety
+of sorrows Palaces are nobly
+built, richly furnished and
+present rery mritmg appear
+ances to outloohers, but when
+one enters into it c precincts, the
+rotten smell of diseases, social
+scandals, immoral impulses and
+horrid Forms of r icious and
+unrighteous deeds hails the outsider and makes him reflect
+that his humble home is far
+better than the guilded compart
+ments, enclosing rotten human
+beings In the abor e Raj ay ogas
+the rirtuous conduct of the
+women is speciallr mentioned
+so that the holy may be distinguished from the unholy, and
+the healthy from the rotten
+13 If the Sun, with all the
+auspicious Shadi ergas, occupies
+the 3rd and Saturn is placed in
+the 6th, the woman becomes the
+wife of a ruler, will be fond of
+righteous conduct and will be
+loung her husband and beloved
+14 If the Sun occupies Mesha
+his sign of exaltation with all
+the auspicious Shadi ergas,
+aspected or conjoined by benefics
+and the birth falls m a fixed sign,
+the girl will become a queen and
+will command many elephants,
+horses and coniey ances
+15 If Lagna falls in Kanya
+with Budha combined there.
+Guru in the 11th, Sukra in the
+2nd and Poorna Chandra in the
+10th, she will become the wife
+of a mighty emperor and will be
+an empress She w ill be chant
+able, generous, blessed with
+sympathetic speech, urtuous
+and helpful to the poor and the
+distressed She wall be a grand
+woman in eiery way She will
+command the respect of all and
+will ha\e great reputation as a
+benevolent and religious lady
+
+STRIJATAKA
+Chapter XII
+Saubhagya Yogas
+1 If the lord of 7th joins Lagna
+with its lord and is aspected
+by Suhra
+2 If the lord of 7th occupies the
+7th and joins the Lord of
+Lagna, and is aspected bj
+Guru and Chandra
+3 If the lord of 7th joins exalta
+tion, and the lord of Lagna
+occupies Lagna
+4 If the Lord of Lagna
+occupies deep exaltation and
+if the Lord of 7th aspects 7th
+and benches occupj Kendras
+5 If the lord of 7th joins exal
+tation, m his own houses,
+Moolathri! onas and auspicious
+Shadvirgas
+surroundings These are pccu
+liar to woman! ind (sec t»j
+fftstory of Ntrbhagya)
+Sahacharya Yogas
+1 If the lord of 7th occupies 6th
+or if the lords of 6th and 7th
+are combined in 12 or if thej
+are in one Navamsa or m one
+constellation
+2 If the lord of 7th joins La^na,
+if the lord of 6th combines m
+12, or 7, and ha\c mutual
+aspects or, arc combined in
+one Naiamsa
+3 If the lord of 7th is Chandra
+and joins the Last Navamsa
+and is asjiectcd bj the lord
+of the 6th
+
+STR1 J ATAKA
+marries such a woman or one
+v\ho is born to such a woman
+may reap the highest blessings
+No gem can adorn a man or
+woman, more than their lore,
+morality and chastity The
+present combinations of planets
+are dm mg out such human
+beings, > ear after year into the
+background Material civihsa
+tion accounts much for this
+state Earn money by an\
+means is the motto
+Vydhavyayoga or Widowhood
+For a respectable, loving,
+chaste and modest woman,
+nothing can be more dreadful
+than the loss of her lawful lord,
+and this is specially held in great
+fear among the higher caste
+Hindu women For an adul
+terous unsy mpathetic, immoral
+and quarrelsome girl, nothing
+can give her greater pleasure
+than the death of her husband
+at an early age This* event gives
+her greater liberty and license
+for her immoral behaviour and
+independent conduct andshevvill
+be only too glad to do what she
+likes Widowhood, therefore is
+an event, which is looked at
+from various mentalities I give
+here the most formidable com
+binations for the widowhood
+We know there are some angelic
+and modest women who love
+their husbands more than a
+Deity and we also know there
+are some who treat their hus
+bands with the greatest con
+tempt There are some dirty
+women, who conspire with their
+lovers, and poison and kill their
+husbands There are some
+godly women, who cannot brook
+the idea of widowhood, and
+even kill themselves before their
+husbands Human Psychology is
+a great puzzle
+1 If the lords of 7 and 8 join
+and occupy the 8th, aspected
+by evil planets there will be
+widowhood
+2 If Rahu joins the 7th, if the
+lord of 7th ha= conjunction
+with Ravi and has the aspect
+of the lord of the 8th, widow
+hood will befall
+3 If the lord of 7 combines with
+Sam, is aspected by Kuja,
+Chandra and Rahu are in the
+8th, there will be widowhood
+4 If Kuja is in 8 in combiha
+tion with the lord of 8th, and
+Lagna falls in an evil
+Navamsa, widowhood will be
+fall on her
+5 If Rahu combines with Sani
+and Kuja and jotns 7th or 8th
+
+STRIJATAKA
+romantic, interesting and instructs e A poor girl, marries
+a poor man and he dies and she
+lives to a long term of widowhood. A girl marries an ordinary man, and lives with him for
+some years agreeably, then she
+becomes a widow and may
+have to live on reduced circum
+stances A wicked girl marries
+an old but rich man and becomes a widow after the marriage She leads quite a comfortable and jolly life with a large
+estate for her, pleasurable
+expenses A woman voluntarily
+becomes a widow by despatching her legal lord to an early
+grave Some do not like scandals Others take delight only
+in the midst of scandals Some
+remain maidens, though they
+are greatly dangerous to society
+The proverb old maids are
+most dangerous, is well founded
+on facts Sexual passions are
+imperious sensations and they
+seek satisfaction under the
+most honourable as well asunder
+the most dishonourable conditions Some lay down their lives
+for the sake of chastity and
+honour, while others, cut the
+throats of others for the sake of
+their bestial, sexual gratifications
+The History of Prostitution
+written by the American company of medical men, from the
+earliest times is a curious narration of how men and women
+have behaved and what disgraceful excesses they have committed in the name of love and
+sexual passions Strict, moral
+discipline and good early surroundings from the earliest times
+of children will have some good
+effect on their subsequent conduct Platonic love is a mental
+hallucination that has no
+practical existence with many
+Puberty and Menses.
+For a male, the Janma Lagna
+is sufficient for all purposes and
+there is no particular time at
+which any event like puberty or
+menses in a woman, can
+happen to him Among the
+generality of womankind, they
+are considered fit for sexual
+enjoyments only after they
+attain puberty There are, of
+course, some wicked and crooked
+girls, who resort to sexual indulgences even before they have
+menses, but these cases arise
+more from morbid sexuality,
+than the real desires of physical
+promptings These are trained
+
+STRIJATAKA
+mthe dens of iniquity, decojed
+into evil habits by dirty maids
+or* old prostitutes and some of
+them are also spoiled early m
+life by the constant evil com
+pany of unprincipled boys even
+before they attain the proper
+age of majority For a woman
+we have to take into considera
+tion three important Lagnas,
+V ir J-inma Lagna or the ascendant at birth, the Lagna for the
+first appearance of the menses
+in her and the Lagna or the
+sl gn in which she has the first
+sexual contact with the man, be
+he, her husband or lover or raper
+All the astrological writers in
+Sanskrit hate attached the
+greatest importance to the appearance of the first Menses in
+a girl, so much so that not only
+liaae the) explained the infiuen
+ces of the constellations, signs,
+planets, lunar and solar dajs,
+special occasions and appearances of phenomena, eclipses and
+omens, but they hare also
+dalKira(cl) explained about the
+direction, the place, the cloth,
+the lime, the number of drops
+of menstrual fluid which has
+come out, ind also about week
+di>s, yogis, 1 annas and other
+•*-r-u!iantics connected with the
+appearances of the first Menses
+One would be surprised to see
+such a a ist and elaborate literature about a natural event like
+the menses in a girl, if they had
+not by their Dtvya Dristi or
+Divine Vision, seen the subtle
+influences of all these on the
+future destinies of herself, her
+husband, her children and all
+that pertains to her career and
+prospects in life This one
+point should effectual!) sea! the
+months of all those ill informed
+and superficiall) read
+critics that the noble science of
+Astrology had neaer been borrowed from any foreign nation,
+that all these ideas explained
+here are completely indigenous
+and that 4 lacs of sutras sprang
+up, from the comprehensive
+brains of the Maharishis and
+that India, as a whole, had neacr
+the misfortune to borroav her
+scientific ulus and rescirchcs,
+from the surrounding nations
+who hate alwa)s been in a hope
+less condition of intellectual
+poacit), hut who were ever
+greed) to borrow from, hut
+neacr had the means to lend to
+the Indi in scholars 11 ive the)
+references to such eaents n
+tltpir nstroWir-il liuhlications 5
+
+STRIJ ATAKA
+Have they suggested any reme
+dies for averting, softening or
+modifying the planetary tnflu
+ences indicating the evil results
+from the past births Can their
+hillocks be compared to the
+grand Himalayn ranges ? Can
+any other river in the world
+claim rivalry with the purities of
+the Ganges floods ? So many
+details and with surprising
+minuteness about the appearan
+cesofthe first Menses have been
+given that I would earnestly
+request the readers to pay parti
+cular attention to them and
+apply them all practically to the
+time giv en for the menses, so that
+they may be able to draw proper
+inferences and make correct
+future predictions about the girl
+and all her prospects m life I
+challenge, if any astrological
+publications in England, Con
+tmental countries or America,
+have given any references to
+these details or even to this
+subject of the appearance of
+the first Menses If only we are
+willing to collect all the stanzas
+bearing on this particular subject
+of menses, they will at least
+come up to 10,000 verses The
+dabbling and shallow brained
+critics cannot commit a more
+grotesque blunder than to say
+that the great gr md father of
+a child is the offspring of that
+infant Sane men take a hearty
+laugh over these idiosyncra
+cies and let these egotists to
+dance in their own hallucma
+tions I shall now come to the
+subject proper Puberty or Men
+ses is a physical change in the
+constitution of a girl, where a
+reddish fluid called shomtha is
+suddenly expelled from the
+sexual organ, and changing the
+whole of her future life accord
+ing as it appears on an auspici
+ous or inauspicious time The
+details are very interesting and
+instructive and throw a flood of
+light on the subtle influences,
+which mark that event and
+which have such a direct influ
+ence on the future destiny of
+the girl Puberty in Sanskrit is
+called Ruthu or phenomenon
+which will have regular monthly
+appearances When Chandra is
+not in upachayas, viz , 3, 6, 10
+and 11 and when the Lagna is
+powerfully aspected by Kuja
+the appearance of first Menses
+should be predicted Such com
+binations may occur when the
+girl is young, when she is old,
+when she suffers from various
+
+STRIJATAICA
+diseases which cause irregular
+menses or stop them altogether
+But there ire special combi m
+tions with which menses appear
+and also disappear I shall not
+expand on this subject, any
+further here It will be explained
+in its proper place See m> notes
+on Bnhat lataka
+13 Thrayodasi — joyful and
+happy
+14 Chatnrdisi — Fond of sinful
+15 Poornama — Well de\ clop
+ed and strong body
+30 Aimnasya — Poor enjoy
+ment, little comforts
+
+STRIJ A T A K A
+Saturday — A icious
+tempered
+Auspiciols Constellations
+Hasta, Chitta, Strati, Visakha,
+Anoradha, Uttari, Uttarashadha
+Uttarabhadra, Shrarana, Moolai
+Ranati, Dhamsta, Satabhisha,
+Aswini, Pushy'ami, Rohim and
+Mngasira These 17 stars are
+considered good for the appear
+ance of the first Menses
+E\il Constellations
+Poobba, Poon ashada, Poor
+\ abhadra, Bharani Auslasha
+If first Menses appear in these
+stars the girl should not chew
+betel leases, should ha\e no oil
+baths near no fiouers, use no
+y ellou or red ponders (Hart
+dra and Kunkuma) and should
+not see the face of the husband
+for the special periods mentipned
+for each of those stars Proper
+remedies ordained by sastras
+to a\ert these e\il influences
+should at once be adopted in the
+interest of the girl s future
+If she attains age m Aundrt
+and Mahha she becomes sorrow
+ful She becomes adulterous,
+if she attains puberty m Punar
+visa ind Jaista
+If the girl attains puberty in
+Bharani 10 months, if m. Ivnthi
+ka, Auslasha and Jaista 4 months,
+if in Poobba, Poomshadha,
+Poon abhadra 8 months, if in
+Aundra 6 months, if in Mahha
+12 months, and if in Punanasu
+a months should be allowed
+to pass before Nuptials could
+be celebrated and she must not
+see during these months the face
+of her husband and should a\ old
+using betel feat es, flowers and
+other luxuries
+Remarks for Serious
+Reflection
+The safety of human society
+entirely depends upon the
+sexual purity, the times of
+enjoyment, and the health
+of the parties concerned
+Among many of the animals,
+there ire instincts e impulses m
+masculine and feminine crea
+tures which restrict the sexual
+enjoyments and they presene
+good health, because they
+tune the gift of nature, the
+great and unerring Instinct
+which guides the animals in
+all these operations Nature is
+not partial to them As a com
+pensatixe gift to mankind
+nature has been graciously
+pleased to implant in man a
+wonderful power, the great
+and bad
+
+STRIJATAKA
+intelligence and for its protec
+tion reasoning powers and
+practical knowledge Great as
+man is, with his intellectual
+powers and lofty compre
+hension, he often degrades and
+debases himself, lower than the
+lowest of brutes The collossal
+and appalling venereal comp
+laints prevailing in the most
+cnhghtend and civ llised centres
+are unmistakable monuments,
+showing the amount of moral
+filth which surrounds the loft}
+intellects of human beings and
+drags them to the lev el of brutes
+and sometimes even to lower
+levels than brutes in their social
+and sexual transactions Their
+horrible sexual htdcos can hav e
+In the flush of passions he for
+gets his intelligence and reason,
+rushes on the mad career of
+sexual excesses, falls into the
+folds of hopeless diseases,
+racls his brain to discover and
+invent remedies to remove these
+complaints, suffers all excruciat
+mg pain^ from his own bod},
+grows degenerate in health and
+mind produces unhealth} and
+syphilitic issues and corrupts
+society in so man} iujs that an
+enumeration of all the cv il effects
+of these sexual irregularities is
+not possible in such short
+treatises None of the other
+departments of knowledge can
+help humanit} in the selection
+of 'marriage couples, how they
+
+STRIJATAKA
+to see me and I saw him When
+1 questioned him he frankly
+told me that he had only two
+connections on that fatal night
+felt a sort of electric shock
+through his organ and fell sick
+The case was hopeless and the
+poor boy was sacrificed for rela
+tional and financial considera
+tions The girl is now a widow
+The human body is a strange
+and mysterious combination of
+various forces or energies some
+of which are demonstrable and
+others are ins lsible, but all . the
+same real How do the tem
+made to remove them, and
+secure happiness Therefore, this
+chapter of a girl s history should
+receive the best attention of all
+sensible men and women and
+no amount of time and labour
+spent upon an examination of
+these details should be consider
+ed as wasted The labour involved in the examination of
+these details should be consider
+ed as the most beneficial which
+a man could render to the
+service of humanity tn the up
+hftment of mankind, in their
+health, and prosperity
+
+STRIJATAKA
+IQ Pushava — Immoral
+11 Magha — Children, happi
+ness, agreeable
+12 Phalguna — Virtuous and 6
+faithful
+Pakshapliala, or the results of
+the two halfs of lunar months
+Bright half — Wealth cleanliness, 7
+Joyful and good enjoyments
+Dark half — Bodily disease,
+fond of sexual pleasures, talk
+mg ill of others, irreligious
+Chapter XIV
+Special Influences of
+Constellations
+1 Asuim — Wealthy, happy,
+good issues, fond of enjoy
+ment steady, leader among
+the community , respectful
+2 Bharani — Immoral, causing
+abortions, dependent on
+others, barren by excessive
+indulgences
+3 Knthika — Quarrelsome,
+adulterous, barren, causing
+abortions, dependent, dead
+children
+4 Rohim — Good conduct, nice
+children, respectable, loving
+husband, Yioman of princi
+pies, worshipping gods
+5 Mrigasira— Agreeable con
+duct, lore for charitable deeds,
+patient and enduring fatigue,
+virtuous, fond of husband,
+blessed with good children
+Aurtdra — Immoral, bad sex
+ual organ, miserable, dead
+children, unsympathetic, evil
+temper, lazy, bad, irreligious
+Punarvasu — Faithful to bus
+band, many issues, delight
+from possessing good children,
+religious
+8 Pushy ami — Lor e to husband,
+good issues, many kinds of
+enjoyments, agreeable, at
+tractive, clever, charitable
+9 Auslasha — Fond of other
+persons, servile, irritable, un
+sympathetic, disagreeable, liar,
+undesirable issues
+10 Makha — Generous and
+noble, sickly, fond of music,
+attraction to paternal home,
+respectful
+11 Pubba — Fond of embraces
+from others humble, bad
+conduct, sorrowful, dirty,
+cruel hearted, revengeful
+12 Uttara — Many children,
+fond of meritorious deeds,
+beloved by all, without any
+hateful feelings, respected by
+friends, virtuous fond of
+maternal home
+
+strijataka
+13 Hasta — Loving, good en
+joyments, children, agreeable
+life, highly respected, liberal,
+charitable
+14 Chitta — Skilful in arts and
+works, enjoyment in life, clever
+in mercantile transactions,
+very passionate, polite man
+ners, smooth behaviour
+15 Svvati — Rich, healthy, skilled in arts and mechanics,
+children and grand children,
+virtuous and faithful
+16 Visakha — Fond of low
+deeds, bad temper, addicted
+to drinks, agreeable to many,
+issuelcss, dirty habits, angry
+17 Anooradha — Respected b>
+the relations of the husband,
+adorned by excellent personal
+character, fair and loving,
+children, healthy sexual
+organ, attractive, and sympa
+20 Poorvashadha — Secret sin
+ful acts, bad children, fond of
+torturing others, sorrowful and
+melancholy
+21 Uttarashadha — Discerning
+and tactful, fond of chanties,
+righteous conduct, wealthy,
+and happy
+22 Shrav ana— Children and
+grand children, wealth, and
+landed properties, Virtuous,
+enjoying delights according
+to times, respected and honored
+23 Dhamsta Wealth and lands,
+good enjoy able life, surrounded by children and grandchildren, v irtuous, keeping to
+religious tenets
+24 Satabhisha — Many issues,
+wealth, religious, enjoying
+pleasures according to times,
+honored by people and rcla-
+
+STRI J ATAK A
+27 Ramti — Determination, do
+ing chanties, blessed with
+children and riches, happv,
+religious faith
+1 have named the general
+results produced bj the constel
+lation, when the first Menses
+appears and when it rules on the
+da> and at the time Great cau
+tion and discretion should be
+used in the delmation of charac
+teristics Take some examples
+Aswmi rules at the time of first
+Menses, Chandra naturall} will
+be in Mesha Take Sam there
+in that star, Sam is debilitated
+in Mesha and when he occupies
+the star, he produces evils, and
+his conjunction w ith Chandra be
+comes malicious, producing sor
+row, worries, immorality and
+social scandals Take Ravi
+there Ravi produces al
+together different results The
+influences of the star and the
+planet are mutual and undergo
+changes consequent^ Ravi is
+exalted in Mesha and with Chan
+dra the chemical changes in the
+bod> and the mind of the girl
+will be different from what the>
+would be when Moon joins with
+Sam in debilitation Therefore,
+the student must be very care
+fu! in predicting the results
+Take a traveller m a forest road
+The time, the fatigue, the health
+of the person, his powers of
+endurance, the distance he has
+travelled, the state of the see
+ner> all round and all along,
+the atmospherical conditions,
+his dullness or intelligence to the
+aesthetic impressions and the
+fullness or emptiness of his
+stomach, the pleasurable or the
+painful mission he has before
+him and other surroundings have
+to be taken into account, before
+we can say how he feels and
+how he works Similarly with
+reference to planets, houses,
+stars, aspects, conjunctions,
+yogas, karanas, lunar and solar
+days, week da>s and so many
+other forms of visible and invisible agencies, in these combi
+nations must be considered
+Astrology is meant for the
+whole world in all its complicat
+ed phenomena and therefore, as
+it comprehends all the pheno
+mena in nature, the intellect that
+is engaged in its pursuit, must
+be very comprehensive, keen,
+piercing and capacious enough
+to hold all its complicated princi
+pies and possess an excellent
+analysing and logical judgment
+which will be able to weigh the
+
+STRI J
+the Janma Rasi of her husband.
+15. When the Nidhana Tara
+rules.
+16. When Vajra, Vishkambha,
+Vyaghata, Shoola and Atigundas prevail.
+17. During night and Vydhruti.
+18. In constellations which arc
+occupied by the evil planets,
+viz., Ravi, Kuja, Sani, Rahu
+and Kethu.
+19. When the evil planets are
+found in the 7th house from
+her Lagna.
+20. When abnormal phenomena happen such as comets,
+meteors, solar spots, changes
+in the Sun’s rays.
+21. When the family is plunged
+in death pollution and sorrows.
+22. During the death times of
+parents, brothers, sisters and
+closer relations.
+23. When the people are vacating their homes for plague,
+famines and other epide24. When fires break out in the
+house or in the neighbourhood.
+25. When halos round the Sun
+and the Moon are seen.
+A T A K A 51
+Results of Yogas.
+I. If the first Menses appear in
+Vishkambha — Disease in sexual organs.
+■2. Ganda — Barrenness.
+3. Shoola-Adultery and issueless.
+4. Vyaghata — Committing
+suicide.
+5. Vajra — Free movements in
+immorality, unchecked license.
+6. Patha— Will kill her husband,
+children will die and she will
+7. Vydhruthi— Will kill her
+husband.
+The rest of the yogas are
+favourable as per th'eir naipes.
+For an explanation of yogas and
+Karanas, see my work Shukla
+and Pramoduta.
+Results of Karanas. •-
+1. Bava — Issueless or a widow.
+2. Balava — Will have children.
+3. Koulava — Passionate and
+4. Thythula — Good tempera5. Garaja — Loss of children.
+6. Vanik — Similar result. •
+7. Bhadra — Barren. Loss of
+children is certainly different
+from barrenness.
+
+STRIJATAKA
+8 Sakum — Widowhood.
+9 Chatushpath — Widowhood.
+10 Nagd/a — Fond of sexual
+operations
+11. Kimisthughna- Widowhood
+Influences of Time
+1 Morning — Happy and prosperous
+2 Before noon-Visitmg sacred
+shrines and holy rivers
+3 Midday or noon — Children,
+4. Afternoon — Adulterous
+5. Evening — Many husbands
+and lords.
+6 Twilight in the evening and
+morning- — A dancing woman,
+prostitute.
+7. Before midnight — Long life,
+8 Midnight — Widowhood
+9. Towards the close of night —
+Unfortunate
+10 If the girl attains pubertj
+between these periods named
+above she will be unfortunate
+and poor.
+1. Mesha — Adulterous
+Z Vnshabha-- Happy and prosperous.
+3. Mithuna 1 — Children
+4. Kataka — Very adulterous.
+5. Simha — Good and happy
+children.
+6 V Kanya — Fortunate and
+wealthy.
+7 Thula — Happy and prosperous
+8 Vrischika — Immoral
+9 Dhanas— First half adulterous, second half virtuous
+10 Mnkara— Shameless and
+immodest
+11 Kumbha — Wealth}, happy
+and lands
+12 Meena — Man} children
+
+ST R I J A
+they soften the influence of the
+sign Mesha and though the girl
+will have an inclination to com
+mit adultery, she will not do
+so for various considerations
+and reasons Therefore in
+predicting the influences of
+Rasis, the influences of planets
+should also be taken into careful
+consideration, Kataka makes her
+immoral, Kuja adds greater facilities for the sinful work Guru
+there, averts the evil
+The Influence of Places on
+the Appearance of the
+First Menses
+If the time of puberty falls
+in Mesha, Simha or Kanya, the
+menses appeared outside the
+town , in Vrishabha in places
+where cattle are kept or in cattle
+sheds, in Dhams in the house,
+in Thula m the same v lllage or
+in another house, in Meena,
+Kumbha, Mahara or Kataka,
+near watery surfaces such as
+tanks, rivers, ponds, lakes, in
+Mithuna when the girl was
+naked and m Vrischika the girl
+attains her age in the midst
+of forest or wilderness or m
+groves of trees The question
+time of menses may also be
+taken into consideration and
+TAKA 53
+all these details can also be
+correctly predicted by the astrologer Menses, as a compound
+is composed of so many physical and mental characteristics,
+that all the causes which produced that compound will have
+their individual influences and
+effects, and an analysis of all
+these becomes necessary to find
+out what results may be repeated from it as a whole and also
+from the individual causes All
+these are chemical in nature
+and astrology is a huge chemistry As in other departments of
+knowledge differences of opinion
+on some facts are often found in
+astrology How they have
+arisen are matters, on which we
+as Alpatmas or with narrowed
+vision, are not in a position to
+explain Whether the Maharishis
+found out the planetary influences by deductive or inductive
+methods, or by long and laborious observations or by developing their intellectual powers
+and mental vision by the practise of severe yoga, are points on
+which we can only make guesses
+but vve cannot say definitely,
+that they have done so and so
+They say that the Sun in the
+10th house is good, Jupiter
+
+STRIJATAKA
+Vision I leave, the readers to
+draw their own inferences on the
+facts I have adduced and the
+arguments I have given A
+handful of experience is worth
+ten cart loads of theories The
+modern scientists are quite unfit
+to pronounce opinions on
+subjects in which they are
+ignorant
+Chvptfr XVII
+Results to be Predicted
+from the Directions of the
+Questioner.
+If the man questions the astrologer and stands to his East,
+the girl will have 7 children,
+three drops of menstrual fluid
+and she has w orn an old cloth
+at the time of first Menses If
+he is in South east, predict that
+the girl will have one issue,
+seven drops of menstrual fluid,
+and the cloth she wore was
+bhek or blue If the questioner
+is in the South, 8 children, four
+drops of menstrual fluid and
+red cloth should be predicted
+he stands m South west, 4
+children, 2 drops of menstrual
+fluid and white cloth should be
+predicted If in the West
+Predict 6 issues, 4 drops and
+d, rt> cloth If in the North-west
+predict 2 children, 3 drops and
+rose colored cloth If in the
+North, predict 9 children, one
+drop and varied colored cloth.
+If the North east say she will
+have 10 children, one drop and
+cloth prepared from fibres or silk
+If a girl attains her age in the
+Constellations, Moola, Shravana
+or Dhanista, she will have five
+issues If she gets men«es in
+Mrigasira, Uttara, Uttarashadha, Uttarabhadra, Chitta,
+Hasta and Satabhisha she' will
+bear 10 children If she attains
+puberty in Visahha, Svvati,
+Anooradha, Aswini, Moola, she
+will have 8 children If she has
+menses in Itohini, predict 7
+children and in Raivati 9
+children
+Remedies for evils
+Give rice for weekday evil,
+ghee for Nakshatra or Constellation, fruits for yogas and
+cloths for Karanas These
+should be given by the girl to
+holy men, after she bathes on
+the fourth day of the menses,
+with religious faith and ac
+compamed by the Sastraic
+Mantras and suitable cash
+presents When she follows
+this procedure the evil indicated
+
+STR1JATAKA
+large and people should not
+allow such poisons to work rum
+unchecked by them In certain
+constellations, particular number of months are prohibited
+for sexual union and nuptials
+I say the temperature of an
+iron ball is 200 degrees centigrade Will I be superstitious
+or wrong when I tell a man, as
+having the correct knowledge of
+the heat of the jron ball, not to
+touch it for sometime till the
+heat subsides and does not
+prove dangerous Not only the
+sexual organs, but the whole
+body of a human being, go on
+sending continuously electric,
+magnetic, ethereal and other
+subtle forms of sparks or energies By a careful knowledge
+of these various forces, working
+for and against a person’s inte
+rest, Mahanshis have laid down
+a ' ar ge number of rules, by a
+careful observance of which, he
+W 'H be able to conserve hts
+energy, overcome the obstacles,
+and make sure of success in his
+undertakings The conservation of the right kind of physical,
+mental and spiritual energies
+and forces, is at the bottom of all
+Hindu Sastras, and the terrestrial, celestial and electrical and
+other forces should not be dissipated to the great prejudice of
+the persons concerned m any
+acts Please examine all our
+shastras, our rituals, and methods prescribed and sanctioned
+by the Vedas and then say,
+after due performances and experiences, whether they are
+senseless or you are stupid, not
+to understand and analyse them
+Ill-founded opinions are
+highly prejudicial and lead to
+dangerous results I have offered remarks which should set
+every man aright thinking
+The minuteness into which the
+Maharishis have descended and
+described, as if they have all
+the causes and results before
+their mental vision, speak wonderfully for their comprehensive
+powers, and show clearly that
+they were not drawing on their
+imaginations but were describing the actualities enacted
+before their eyes Can a huge
+literature of four hundred thousand sutras spring upon the
+basis of clear falsehood’ Can
+the greatest Intellects in the
+world be guilty of propogating
+such vast literature when they
+were not satisfied about their
+truth This is not a theoretical
+
+strijataka
+philosophy to be indulged in
+wild mental excesses or simple
+flights of imagination A girl
+who attains her age in Mesha in
+Bharani and with Sani there
+must prove a terrible whore
+and it will be so This is a
+practical and demonstrable
+science Take a woman with
+Kuja and Sam in Lagna with
+out beneficial aspects and see
+if ever she remains virtuous
+Her passions are excitable and
+she will yield to them All
+evidence is either simple or com
+plicated In simple matters the
+facts are easily grasped or
+demonstrated but m comphcat
+ed cases, where the evidence is
+confusing and confounded eien
+the best judges find it difficilt
+meet One h is seen a pheno
+menon the other has not What
+is the authority of the latter to
+deny about an event which the
+former has seen and known
+Exceptions to natural laws are
+admitted When and how they
+come are not known Judg
+ments are not uniform or sound
+The best judges are often faulty
+Therefore it would be silly on
+the part of the so called scien
+tists to deny truths in a science
+in which they have not even the
+elementary 1 nowledge It may
+be argued that some of the
+statements made in the Indian
+Sciences are found in India and
+not in many European or other
+Asiatic countries and that the
+Science of Astrology cannot be
+
+STR1J ATAKA
+maids and are generall) danger
+ons to cocietj , as thej are not
+onlj corrupt in themsehes, but
+draw towards them a large num
+ber of innocent girls and spoil
+them in a arious ways But provision is made for all these cases
+m the Astrological works, whose
+sutras have only to be read
+carefully to find out the pnnci
+pies to applj to such cases
+As regards religious remedies
+mentioned in them, they may be
+so adjusted as to suit the local
+conditions and customs preva
+lent there Prayers, though
+different in different religious
+sj stems, ha\e the same aim or
+goal like medicines prescribed
+m different countries vary in
+effecting cures for the same
+diseases or same classes of
+complaints
+Chapter XVIII
+Results of Clothes on First
+Menses
+White clothing — will be happj
+and health}
+Strong cloth — Virtuous
+Silk and fibre — wall become a
+queen or fortunate lad)
+New cloth — happ) and polite
+Torn cloth — poverty and un
+happiness
+Red cloth — disease
+Black cloth — widowhood
+Dirtj cloth — poverty and sorrow
+Results of the numbers of
+drops of Menstrual fluid
+One drop — gives wealth
+Two drops — good enjoyment m
+life
+Three drops — disease
+Man) drops— poverty and sor
+Results of planets in the
+constellations at first Menses
+1 If Kuja joins the Constella
+tion, she wall have dead
+children
+2 If Budha and Suhra combine
+in the star, she becomes
+childless or barren
+3 If Gum joins the star, she
+becomes pious and religious
+4 If Rasa joins, loss of husband
+5 If Rahu joins, she becomes
+adulterous
+6 If Sam combines she becomes
+a sen-ant
+7 If there are no planets she
+will haie long and happ)
+married life
+
+STRIJATAKA
+philosophy, to be indulged in
+wild mental excesses or simple
+flights of imagination A girl
+who attains her age in Mesha in
+Bharani, and with Sam there,
+must pro\e a terrible whore,
+and it will be so This is a
+practical and demonstrable
+science Take a woman with
+Kuja and Sam in Lagna with
+out beneficial aspects and see
+if e\er she remains virtuous
+Her passions are excitable and
+she will yield to them All
+e\ idence is either simple or com
+plicated In simple matters the
+facts are easily grasped or
+demonstrated, but in comphcat
+ed cases, where the evidence is
+confusing and confounded even
+the best judges find it difficult
+to probe into truth Contradic
+tions confuse them Human
+meet One has seen a pheno
+menon, the other has not What
+is the authority of the latter to
+deny about an event which the
+former has seen and known
+Exceptions to natural laws are
+admitted When and how they
+come, are not known Judg
+ments are not uniform or sound
+The best judges are often faulty
+Therefore, it would be silly on
+the part of the so called scien
+tists to deny truths m a science
+m which they have not even the
+elementary knowledge It may
+be argued that some of the
+statements made in the Indian
+Sciences are found in India and
+not in many European or other
+Asiatic countries, and that the
+Science of Astrologv cannot be
+called a science, since it cannot
+lie applied to the whole world
+
+STRIJATAKA
+maids and are generally dangerous to society, as they are not
+only corrupt in themselves, but
+draw towards them a large number of innocent girls and spoil
+them in various ways. But pro-
+\ision is made for all these cases
+in the Astrological works, whose
+sutras hate only to be read
+carefully to find out the principles to apply to such cases.
+As regards religious remedies
+mentioned in them, they may be
+so adjusted as to suit the local
+conditions and customs prevalent there. Prayers, though
+different in different religious
+systems, have the same aim or
+Roal like medicines prescribed
+in different countries vary in
+effecting cures for the same
+diseases or same classes of
+complaints.
+Chapter XVIII
+Results of Clothes on First
+Menses.
+White clothing — will be happy
+nnd healthy.
+Strong cloth — Virtuous.
+Silk and Fibre — will become a
+queen or fortunate lady.
+Rcw cloth — happy and polite
+Torn cloth — poterty and unhappiness
+Red cloth — disease
+Black cloth — widowhood
+Dirty cloth — poverty and sorrow.
+Results of the numbers of
+drops of Menstrua! fluid.
+One drop — gives wealth
+Two drops — good enjoyment in
+life.
+Three drops — disease
+Many drops— poverty and sorResults of planets in the
+constellations at first Menses.
+1 If Kuja joins the Constellation, she will have dead
+children.
+2 If Budha and Sukra combine
+in the star, she becomes
+childless or barren.
+3 If Guru joins the star, she
+becomes pious and religious.
+4 If Ravi joins, loss of husband.
+5 If Rahu joins, she becomes
+adulterous.
+6 If Sani combines she becomes
+a servant.
+7 If there are no planets she
+will hate long and happy
+married life.
+
+STRIJATAKA
+Results of Planetary Positions.
+If, at the time of first Menses,
+Chandra, Budha, Guru and
+Suhra are found in Kendras 14-7-10, Thnkonas 5-9 and
+second house, she will hare
+wealth, happiness, enjoyment
+and prosperity
+If evil planets are located in
+3-6-11 they produce the same
+happy results as aboi e described
+Brahmin, on the third day she
+will be compared to a washerwoman and on the 4th day she
+will be compared to a sudra woman In Bhagavadgita Krishna
+says — Cftciftirvartiam Maya
+sristam Guna Karma Vibhagasa. Meaning I have created
+four castes — Brahma, Kshatnya, Vysya and Sudra,
+according to their gunas —
+Satwiha, Rajasa and Thamasa
+
+STRIJATAKA
+If she gets menses on the 19th
+day, she must remain one day
+m pollution After 20 days
+she will and must be in pollution
+for 3 days as usual
+Results of Planetary Positions
+From the Lagna or the sign
+at which the first Menses appear
+Ravi
+1 If Ravi joins the Menses
+Lagna the results will be
+Complaints from excessive
+heat, bad conduct, leanness
+in body, ungrateful, fond of
+taking food in others houses,
+repulsive or faded bodily
+appearance
+2 Rai i m 2 — p o v e r t y and
+want, harsh speech, weak
+ness, quarrelsome
+3 Ravi m 3 — always happy,
+handsome body, good
+health high intelligence
+R a \ i m 4 — unhappiness
+diseassed body, disagree
+able appearance hated by
+relations and the husband
+3 Ran m o — few issues, faithful
+to parents, agreeable speech
+piercing intellect fickle
+minded
+6 Ravi m 6 — conquest over
+enemies, learned, uealthv,
+righteous conduct —
+7 Ravi in 7 — Rejected by hus
+band, unhappy, fear, ugly
+8 Ravi in 8 — poverty, sorrows,
+suffering from blood comp
+laints unpleasant flow of
+menstrual fluid
+9 Ravi in 9 — many diseases,
+quarrelsome, creating faeds,
+great courage
+10 Ravi in 10 — not fond of
+husband, constant travel
+hng
+11 Ravi in 11 — gams, children
+and grand children, control
+over passions, happiness
+12 Ravi in 12 — great expendi
+ture, fond of cruel deeds,
+irreligious In these results
+the positions of Ravi, his
+conjunctions, aspects, exal
+tations, debilitations friend
+ly and unfriendly houses,
+should be taken into account
+before predictions are made
+Chvpter XIX
+Chandra in the 12 Bhaias
+1 Chandra in 1 -If the girl
+attains her age when the
+Moon is waxing, she will
+
+STRI j M
+be handsome, happy and
+prosperous In the dark
+half— lean body, disease,
+mean ^
+2 Chandra in 2— leader among
+women, fond of charitable
+deeds, righteous, devotion
+to holy Brahmins ^
+3 Chandra in 3— windy and
+phlegmatic diseases, fond of
+talking to others, bad
+conduct, unsympathetic
+4 Chandra in 4— happiness,
+luxurious meals, steady
+character, fond of excessive
+enjoyment, devotion to holy
+men and God.
+5 Chandra in 5— good children,
+excellent character, doing
+good deeds, truthful, happiness, love to husband
+6 Chandra m 6— little wealth,
+great hatred, unpohte,
+fickle-minded, wounds and
+diseases.
+7 Chandra m 7— skilful, love
+to husband, meritorious
+work, wisdom and prudence
+8 Chandra in 8— ungrateful
+and bad temper, devoid of
+ornaments and jewels,
+re\engeful, wonderful
+scandals
+AKA
+9 Chandra in 9— meritorious
+excessive enjoyments,
+blessed with issues, happiness.
+I Chandra in 10— many gold
+ornaments, charitable and
+liberal, fond of righteous
+1 Chandra in 11— great gains,
+command o\er passions,
+charities, good health.
+2 Chandra in 12 — w indy
+complaints, quarrelling with
+females Po\erty and
+misery.
+Kuja tn the Twelve Houses
+1 Kuja in 1 — bilious tempera
+ment, wounds, pains and
+miseries
+2 Kuja m 2— irreligious,
+losses from landed properties, mean and unprincipled
+husband, passionate, re-
+\engeful, eje complaints
+3 Kuja in 3 — happiness, good
+enjoyments, patience, fondness for relations and good
+and holy people, greatness
+and social respect
+4 Kuja in 4 — disappointments,
+unhappiness, widowhood,
+hated by relations, little
+profits from landed proper-
+
+STRIJATAKA
+3 Kuja in 5 — bad children,
+shameless conduct, bad
+company, sinful deeds, loss
+of children or no children
+6 Kuja in 6 — enjoyment and
+delight from the husband,
+great wealth, good health,
+respectable learning, fond
+of Idols and holy perso
+nages
+7 Kuja in 7 — early w ldoivhood,
+bad conduct, immoral
+habits
+8 Kuja in 8 — diseased body,
+sorrows, evil thoughts,
+disagreeable
+9 Kuja in 9 — unrighteous,
+hatred, fond of cruel deeds
+10 Kuja in 10— evil nature,
+irreligious, want of intelli
+gence
+11 Kuja in 11 — gams in articles,
+agreeable temperament,
+lov cand regard for husband
+12 Kuja in 12— fond of rough
+and red ncc, constant
+complaints, dullness, weak,
+blood discharges
+Dudha tn the Txcchc Bhtnas
+* B u d h a in 1— handsome,
+faithful to husband, rightc-
+°us, generous, broad and
+•Utractne eyes, rich and
+tasteful meals, truthful
+2 Budha in 2 — riches, comforts,
+devotion and worship to
+holy Brahmins and God,
+fond of hearing Puranas or
+religious works
+3 Budha m 3 — many brothers,
+personal respect, helpful to
+people, riches, mercantile
+tact, if evil planets join him
+destruction to brothers
+4 Budha in 4 — happiness,
+friends, respectable family,
+progress m education,
+beauty, accumulating many
+articles
+5 Budha in 5 — few children,
+little wealth, quarrels,
+hatred toward pious people
+6 Budha in 6 — hatred, quarrels
+many enemies, diseases,
+female quarrels
+7 Budha in 7 — good deeds,
+religious rites, agreeablcness
+among all people, love and
+pleasure from husband
+8 Budha in 8— unsj mpathetic,
+ungenerous, timid nature,
+diseases in the body,
+sorrows from paternal side
+9 Budha m 9— fond of religious observances, meritorious, polite and afTable,
+wealth, reputation, ability,
+truthful
+
+STRIJATAKA
+10 Budha in 10 — good deeds
+beaut) , regard and lor e to
+husband, moral, politeness
+bath in hoi) rivers
+11 Budha in 11 — contented
+mind, loved by elder
+brothers, if evil planets are
+there, destruction to them
+12 Budha in 12 — quarrels,
+pride, showy, hated b> good
+and hoi) people
+Guru ttt the 12 Bltavas
+1 Guru in 1 — majestic speech
+enjoyment, handsome, good
+nature
+2 Guru in 2 — riches sweet
+speech, truthful, righteous
+3 Guru in 3 — clever in trans
+actions, despised, dullness
+4 Guru in 4 — happiness, rich
+and luxurious meals, man)
+servants, ornaments, high
+respect, excellent qualities
+houses and landed proper
+7 Guru in 7— good nature,
+meritorious, great wisdom
+8 Guru in 8 — diseases at home,
+widowhood cholic pains
+great hatred, sorrow,
+diseased bod)
+9 Guru in 9 — religious faith,
+rev erence to God construct
+ing charitable wells, tanks
+and canals, jo) ful, faithful,
+dependents generous
+nature
+10 Guru in 10 — reputation,
+good character, grateful,
+politeness, attach! e, men
+torious deeds, wonderful
+1 1 Guru in 1 1 — truthful, wealth,
+command over passions
+12 Guru in 12— little gains,
+bad nature disease
+SuLra tit the 12 Bhaxas
+1 bukra in 1 —loving husband,
+enjo)inem cleverness m
+
+STRIJ ATAKA
+increase m family, happi
+ness, fashionable
+5 Sukra in 5 — female issues,
+few males, fond of music,
+intelligent
+6 Sukra in 6 — anger, hatred
+of children and husband,
+travelling
+7 Sukra in 7 — well known,
+love to husband, enterpns
+ing, if evil planets are there,
+she will be adulterous
+8 Sukra in 8 — pride, sorrow,
+unkind, quarrels with
+females
+9 Sukra in 9 — learned among
+females, ornaments, clothes,
+jewels, personal adorn
+oients, happy temperament,
+many sources of wealth
+10 Sukra in 10 — reputation,
+worshipping Gods, beauty
+and good nature
+11 Sukra in 11 — great power
+and command, fond of
+studying sciences, gains
+12 Sukra in 12 selling body for
+money, sorrow dissimula
+tion, unhappy
+Sam m the Tzcclic Bhaias
+1 Sam in 1 — ugly bod}, in
+significant, e>c complaints
+2 Sam in 2 — female diseases,
+penury, cruel temperament
+3 Sam in 3 — great ability ,
+gratefulness, helpful to
+many, protecting holy
+people
+4 Sam m 4 — chronic comp
+lamts, unsteady, evil com
+pany
+5 Sam m 5 — evil to children,
+fond of other’s children,
+dull, given to wandering
+6 Sam in 6 — destruction to
+enemies, good ornaments,
+and clothing
+7 Sam m 7 — w l d o vv h o o d
+disease, bad company,
+quarrels wandering in
+villages and towns
+8 Sam in 8— evil deeds, thie
+vish, bad nature
+9 Sam in 9— irreligious, sor
+rows from mother and
+father
+10 Sam in 10 — objectionable
+conduct, fond of drinking
+11 Sani in 11 — handsome,
+man) varieties of enjoy
+ments
+12 Sam in 12 — windy com
+plaints, w orthless behav lour,
+crooked nature sorrowful,
+speaking ill of others
+
+STRIJATAKA
+Rahu and Kethu tn the
+Twelve Houses
+Rahu and Kethu in 3, 6 and
+11 from the Lagna when
+the girl attains first puberty
+produce, kind heart, charitable disposition, prayers to
+God and holy saints and
+she will attain to Gown
+Loka, she will suffer from
+Bhootas, pretas, pisachas
+and other evil spirits
+In the rest of the houses, viz ,
+results will be reverse of those
+which have been mentioned
+above There arc 56 varieties
+of Devils or evil spirits mention
+ed in the Sanskrit Sciences and
+each has a nature and chnracte
+nsticof its own All these are
+well defined and explained in
+the Pisachika Mantras or incantations which extend over
+9 crores, some of them may he
+mentioned here for read) reference Dhoo/a, Preta, Pisacha,
+Salim, Dhaktm, Jahm, MoJttni,
+Kaimnx, Mfllini, Rhclala,
+Halshasa, Prarabda, etc The
+females are more apt to be
+troubled by these evil spirits
+than the males They are sard to
+relish much, the drops of menstrual fluid and the urine which
+flows during menses period
+and they will be waiting to catch
+their prey in lonely, dclapidated
+and neglected watery surfaces
+They are said to have easy
+access to unclean females when
+they are rude or ill covered oier
+their bodies Pisachas are of
+two kinds Those from the
+world called Pisachaloka where
+they flourish in large numbers
+and are created by God as
+Pisachas and those human
+beings who become devils and
+evil spirits after their death as
+the result of their evil karma,
+fondness for worldly objects and
+from various revengeful feelings,
+greed and avarice They are
+subtle m form and some of
+them are Kama Rvpas or those
+which have the power of assuming any form, animal, bird,
+reptile or human as they like
+They can change these forms at
+their sweet will and pleasure,
+some of them are very troublesome and cannot easily be
+exercised by ordinary mantras
+Some of the European scientists
+are opening their eyes to the
+existence of these Pisachalokas and admit that there are
+many spirit worlds, about which
+
+STR1 J A TAK A
+they have yet to explore and
+investigate and that their present
+scientific know ledge is still in an
+infantile stage, about these matters Saptakoti Mahamantras
+or seven crores of good mantras
+and Navakolt Kshtidra Mantras,
+or nine crores of evil ones are
+completely sealed letters to them
+and they have yet to sit at the
+feet of Indian Mantraics and
+learn the my stenes of Mantras
+Chapter XX
+Special Rules
+In all horoscopes, belonging
+to males or females — Lagna
+plays an important part and if
+Lagna, its lord, the combina
+tious m it and the aspects, it
+has are all good, powerful and
+beneficial, the person, male or
+female will be well formed,
+developed and attractive, will
+hvelong in good position and
+comforts, will command many
+“tv ants, great wealth, landed
+an d house properties, will be
+educated and intelligent and
+"■'1 be a man of great financial
+resources If on the other hand
+■t has combinations and aspects
+the reverse of the above,
+| e results will be quite unfavourable He w ill be defective in limbs, ugly or ill developed, unattractive, poor and distressed, neglected by relations
+and friends, will be ignorant
+and will be neglected by his
+society and community For
+other ev ents in life other Bhav as
+and houses have to be consulted
+There is a large section of
+astrological writers, who have
+treated elaborately on the appearances of first Menses in a
+girl, and who seem to attach
+even greater importance to this
+phenomenon than to the birth
+time I have, therefore, treated
+this subject exhaustively in the
+previous paragraphs A few
+points, however may be noted
+here For personal appearances,
+character, general health, position and happiness, Lagna as
+well as Chandralagna should
+be consulted for a female, for
+the husband, his appearance,
+position and behaviour, the 7th
+from Lagna should be consulted
+For conception, pregnancy , delivery, marrted life, prosperity,
+jewels, ornaments and for the
+prosperity and adv ersity of the
+children, the 5th house from
+Chandra or Lagna or from both
+has to he examined For the
+longevity of the husband, for
+
+STRI J ATAKA
+and men are joining in sexual
+contacts, and the menses results
+explained before in this treatise,
+due to planetary, zodiacal and
+constellation influences, will
+happen to them both individually
+and also collectively Fire burns
+all the same whether jou touch
+it with the faith and belief, that
+it is a deit) or simply a ph> sical
+phenomenon Take a venereal
+Ionian It is immaterial
+whether >ou have her for sexual
+purposes as a wife, as a concubine or as simply a woman for
+that single occasion Will she
+not give you her property of
+disease after you enjoy her
+~he name and form are imma
+ternl, but the fact is material,
+an d the venereal complaint is
+demonstrable, as you get it
+PosUivelj I have known
+several women and men sending
+°hell, their sexual co operators,
+in quick succession They may
+Q become widows and
+'mowers, but they will suffer all
+e same from their venereal
+'sgaries, and their subsequent
+“"sequences Take a boy’s
+> r °'cope if he has Venus,
+and Saturn, Rahu or
+or'S* LaSnaor *hor7th
+■ even the purest girl who
+has the misfortune to unite with
+him sexually will fall a prey to
+venereal complaints and pay
+heavy penalties for such mdis
+cretions Similarly for females
+The subject is very interesting
+and instructive and I have done
+my best to present it in as
+inviting a manner as possible
+This interesting and instructive work Stn Jataka, or the
+Female Horoscopy, has been
+completed by me on Thursday
+28th May 1931, at 3 P M , m my
+residence at Hunsamaranahalli,
+Bangalore Dist S India, on the
+Dwadasi of the bright half of
+the lunar month Jaista, in the
+cyclic year Prajotpatti, m Sail
+vahana Saka 1853, in my 76th
+year, through the grace and
+mercy of the Almighty, Who has
+been graciously pleased to grant
+me full vigour and vitality to
+my brain, to achieve this translation without any break or hitch
+The following are the combinations of planets in Rasi and
+Namamsa Diagrams at the
+time —
+English, 28th May, 1931
+Kahjuga — 5033
+Samvat or I lgS rj
+Vikrama Saka J
+
+STRIJATAKA
+and men are joining in sexual
+contacts and the menses results
+explained before in this treatise
+due to planetar} , zodiacal and
+constellation influences will
+happen to them both individually
+and also collecttv el> Fire burns
+all the same whether you touch
+'t with the faith and belief, that
+it is a deity or simply a ph> sical
+phenomenon Take a venereal
+"Oman It ]s immaterial
+whether }ou have her for sexual
+purposes as a wife as a concu
+hme or as simply a woman for
+that single occasion Will she
+not give }ou her property of
+disease after you enjoy her
+The name and form are imma
+tern! but the fact is material,
+an d the venereal complaint is
+demonstrable as you get it
+^“.velj I have known
+^'cral women and men sending
+°he!l their sexual co operators
+<!U]c h succession They may
+not become widows and
+"'dowers, but they will suffer all
+c same from their venereal
+'"K^'cs, and their subsequent
+‘“"sequences Tale a bo> s
+horoscope , f hc hls y cnus
+and Saturn, Rahu or
+orr 'e ,n ° r dth or 7th
+Wh c ' cn the jiurest girl who
+has the misfortune to unite with
+him sexually will fall a prey to
+venereal complaints and pay
+heavy penalties for such indis
+cretions Similarly for females
+The subject is very interesting
+and instructive and I have done
+my best to present it m as
+inviting a manner as possible
+This interesting and mstruc
+tive work Sin J at aka, or the
+Female Horoscopy has been
+completed by me on Thursday
+28th May 1931 at 3 p m , in my
+residence at Hunsamaranahalh,
+Bangalore Dist S India, on the
+Dwadasi of the bright half of
+the lunar month Jaista m the
+cyclic year Prajotpatti in Sail
+vahana Saka 1853, m my 76th
+year through the grace and
+mercy of the Almighty Who has
+been graciously pleased to grant
+me full vigour and vitality to
+my brain, to achieve this transla
+tion without any break or hitch
+The following are the combina
+tions of planets in Iiasi and
+Namamsa Diagrams at the
+time —
+English 28th May, 1931
+Kahyu 0 a- 5033
+Samvator > ig S 0
+Vihrama Saka )
+
+STR I J A TA K A
+Solar month Taurus or
+Vnshabha date 15th completion
+time 23 ghatis after Sunrise
+Constellation — Chitta ruled at
+the time with the balance of
+kuja Dasa for 2 years 4 months
+and 21 da) s I ha\e made it a
+point to give the time of com
+plction of all m> works as also
+m) own age so that my readers
+Tin
+will be able to judge of the
+merits of m> works and find out
+what measure of successes will
+attcned on these publications
+and how long I will be able to
+live through my works as an
+author Gods glory is shown
+through the planetary combina
+tions r minent authors lite
+after their phy sical death
+Others die long before they
+arc actually dead
+r M>
+
+ESSENTIALS TO UNDERSTAND THE WORKS OF
+ENGLISH TRANSLATIONS OF MINE
+Sanskrit and the principal
+vernaculars of India — all of them
+taking their derivations and
+formations — corrupt though they
+may be from the original Sanskrit— which are prevalent in
+their respective areas have been
+influenced to a large extent by
+the governing language, the
+English The Arabic and the
+Persian languages ruled over the
+Indian languages through their
+c °nquerors for over a thousand
+> ears - and now all these have
+“ ecn checked back to give room
+t0 the language of the conquerots the British My English
+translations of many original
+Sanskrit works, are themselves
+^? m ples of these influences
+Cre Is a large English talking
+Peculation all over the world
+the intellectual treasures
+"dia, lying m deep mines of
+T'fr L,ter ature and Sciences
+f 0f U ^ have been scaled letters
+but f G °' cr "helming majority,
+or the noble attempts of the
+' ' ,0US authors, who were
+™ h> generous instincts,
+> before the public by their
+translations such treasures for
+their instruction and mental delight, as they were able to gather
+from their labours The difficulties of suitable translations from
+the highly technical Sanskrit
+Sciences into flowing English
+have been successively explained by me in my Introduction to Sarvarlhachmtamam If I enjoy a
+luxurious meal or a grand
+scenery, or a pleasant company
+there is certainly a sacred duty on
+me to give a share of it, to those
+who are dear and near to me
+Pleasure will be enhanced by
+the company of our friends and
+relations, and pain will be diminished through the same company In the course of such
+translations, it is but natural to
+use a large number of original
+Sanskrit expressions and explain
+them in their English equivalents when they are available
+But when they are not ready
+the translator will have the
+necessity to bring out the force
+of the original words in their
+English garbs, as best as he
+
+ESSENTIALS TO UNDERSTAND ThC WORKS
+could Since I have facility to
+read, write and explain my
+ideas in Sanskrit and English
+and since God has given me the
+capacity to render the ideas of
+one into the other fairly well
+I have thought that my
+knowledge, humble as it is must
+also be made available to
+others for their edification and
+delight 1 shall give here
+the original words tn Sans! rit
+and their equn alents tn English
+as best as I could
+2 Chandra Soma Indu —
+Moon Luna
+3 Kuja Bhouma Mangaln —
+Mars
+4 Budha Vit Gna Soumya —
+Mercury
+5 Guru Jiva Vachaspathy —
+Jupiter
+6 Sukra Sita Bhrigu — Venus
+7 Sant Manda, Ravija— Saturn
+8 Rahu, Thama Agu —
+Dragon s Head
+9 Itethu Sil hi Dwnja —
+Dragon s Tail
+
+ESSENTIALS TO UNDERSTNAD THE WORKS
+The Hindu Lunar months are 12
+1 Chaitra — Match and April.
+2 Vaisahha — April and May.
+3 Jaista — May and June
+4 Ashadha — June and July
+5 Shravana — July and August.
+6 Bhadrapada — August and
+September.
+7 Aswija — September and
+October
+8 Kartika— October and
+November.
+9 Margasira — November and
+December.
+JO Pushya — December and
+January.
+U Magha — January and
+February'
+12 Plialguna — February and
+March
+These lunar months are
+mmed so bccaasc on the Fulltno °n day or Pournama of each
+roonth, the constellation of such
+5 name occurs thus Chitta falls
+on the Pournama of Chaitra,
+•sahha falls on the Pournama
+®1 \ aisahha, Jaista falls on the
+ournama of Jaista, Poors asha1 occurs on the Pournama of
+Ashadha
+Shravana falls on the Pournama
+of Shravana.
+Poonabhadra in Bhadrapada.
+Aswini in Asvvija.
+Krithika m Kartika.
+Mngasira m Margasara.
+Pushy a in Pushy a.
+Makha in Magha
+Pubba or Poorvaphalgum in
+Phalguna.
+There are 6 Ruthus or Seasons
+1 Vasanta contains Chaitra
+and Vaisakha — Spring
+2 Gnshma — includes Jaista
+and Ashadha — Windy.
+3 Varsha — incorporates Shravana and Bhadrapada —
+Rainy
+4 Saradrutu— A s vv l j a and
+Kartika — Winter.
+5 Ilimanta— Margasira and
+Pushy a — Cold
+6 Sasira-Magha and Phalguna
+— Dropping of leaves
+Planetary states
+Decpata or Uccha— exaltation
+Suocha — deep exaltation
+Swakshetm — own house— suaMitrakshetm— friendly houseMudita.
+Satrukshctra— unfriendly house
+
+ESSENTIALS TO UNDERSTAND THE WORKS
+Neecha — debilitation, Khala
+Vakra — retrogression — Bali
+Asta— combustion — Vaikalya
+Atichara — acceleration- Bheeta.
+Santa — occupying favourable
+divisions
+Pepda — occupying the last
+degree of a sign
+Kendras or quadrants— 1st, 4th,
+7th and 10th houses
+Thrihonas— tnnes — 1st, 5th and
+9th
+As the first is included in
+kendra 5th and 9th are
+generally taken by the word
+Thrikona
+Upachajas — 3rd, 6th, 10th and
+11th houses
+Sama — Neutral.
+Lagnn — Birth, ascendapt body.
+Dhanu
+Netra vah
+( second house represents e>cs, wealth,
+speech
+3 Suhaja — B r a t r u — t h i r d
+house indicates brothers,
+courage, ornaments, cars.
+4 Matru, Vidyn, Bhoomi,
+Sukha — fourth house denotes
+mother, happiness, education,
+5 Prngnya, Putra, Pitru —
+fifth s h o w s intelligence,
+children, father.
+6 Satru, Roga, Runa — sixth
+house indicates enemies,
+diseases and debts.
+7 Kalatra, Kama, Bhoga—
+seventh house denotes wife,
+passion, enjoyment.
+8 Marana, Mrityu, Arista,
+Ayoo — eighth house explains
+about death, accidents, misfortunes and longevity.
+9 Bhagya Tapa, Pitru—
+ninth house signifies, wealth,
+piety and father
+10 Karma, Rajya, Jivanopnya
+Prakhyati, A g n y a — tenth
+house shows, actions, political power, means of livelihood,
+reputation and command
+11 Labha, Bhagini, mitra —
+eleventh house denotes gams,
+elder sisters, brothers and
+friends
+12 Vyaya, Nasta, Pap a —
+twelfth house refers to losses,
+expenditure and sins
+Each Bhava or signification
+refers to a large number of
+human events and transactions and as all the twelve
+B h a va s comprehend the
+whole worldly phenomena, it
+is not possible to refer to
+them all here.
+
+ESSENTIALS TO UNDERSTAND THE WORKS 75
+To get a wider information,
+reference should be made to
+larger works treating on these
+subjects
+The Sun — denotes soul reputation, political power, father
+and paternal relations
+The Moon — shows mother,
+mind, pearls, milk
+Mars denotes courage, adven
+tures, fires, brothers, lands
+Mercury explains about
+maternal aunts and uncles,
+intelligence
+Jupiter — denotes children, edu
+oation, gold, religiousness,
+self respect
+' e nus— shows wife, sexual
+desires, sense pleasures,
+siher, gems
+Saturn — denotes, sorrows, misenes > oldage, servants
+R ahu— denotes, darkness,
+P° ls on, paternal grand father
+and uncles
+R e t h u — indicates maternal
+(.rand father and uncles, wornes a nd final emancipation
+^tods anc { s „j p erw ds of
+Planets
+There are various methods
+calculating periods and subthem cannot be detailed here
+The easiest and the most
+familiar will be given here for
+the benefit of our readers
+Take the 27 constellations
+and 9 planets and div ide them.
+We get 3 constellations for
+each planet There are 120
+shares m the planetary company
+and the shares as given below
+are allotted to the planets
+Sun 6 years
+Moon 10 do
+Mars 7 do
+Rahu 18 do
+Jupiter 16 do
+Saturn 19 do
+Mercury 17 do
+Kethu 7 do
+Venus 20 do
+Grand total of 120 jears
+These shares are permanent
+and hold the same proportion
+in all the periods, sub periods,
+sub sub periods and other minor
+divisions The shares are
+constant and unalterable and
+the student will have no difficulty in allotting >ears, months
+and days
+
+The follow inf; Tib!c shows the English
+together with their true !ongitud(
+Phalgum Uttar
+
+ESSENTIALS
+UNDERSTAND THE WORKS
+Moon — Taurus
+Mercury — Virgo
+Jupiter — Sagittarius
+Venus — Libra
+Saturn — Aquarius
+The following are the houses
+of the planets —
+Sun-Leo, Moon Cancer, Mercury Virgo and Gemini Jupiter,
+Sagittarius and Pisces, Mars
+Aries _ and Scorpio, Saturn —
+Aquarius and Crocoddus
+Kalapurusha Time personified
+The following zodiacal signs
+from the different limbs of Kala
+purusha —
+Aries — head — Varangam
+Taurus — face — Ananam
+Gemini — the upper chest — aru
+Cancer — the heart — Hrit
+Leo — the stomach — Kroda
+Virgo — the hips — Vaso Brita
+Libra — lower stomach — Vasti
+Scorpio — sex organs — Vyanjana
+Sagittarius — thighs — ara
+Capncornus — Knees — JanyaAquanus — buttocks — Janyaha
+Pisces — feet — Anghrt Divayam
+All these details hare been
+giren by me for the benefit of
+my English readers, both Indian
+and Foreign for their benefit so
+that they may find no difficulty
+in understanding the Sanskrit
+terms in their nearest equiva
+lents In the course of my
+works, I have pronounciously
+used both English and Sanskrit
+terms, and these explanations
+of the technicalities will be
+found simp!} lnrnluable
+
+SHORT SKETCH OF THE LIFE OF
+B. STJRYANABAIN BOW
+BA.MKAS.FRHS,
+Editor of the Astrological Magazine
+It is but right, that my history should find a place
+in mv translations and books I belong to the Mulakanadu sect of the Andhra Community of Brahmins, and
+have the Gotra of the Venerable Vasista, the revered
+family Guru of Sn Rama and the Solar line of monarchs Vasista, Sakti, Parasara, Vyasa and Shuka are
+my first progenitors ili'y gramffirtfier was a mriYfary
+officer under Hyder and Tippu and changed the career
+to civil in his later life Venkataramanayya, m>
+grandfather was born in 1747 and died m 1828 He
+lost his first wife Narasamma in his 59th year and
+married my grandmother Naranamma of Hegganahalh
+in his 60th year and got 7 children from her Two
+daughters and five sons of whom my father Gopala
+Rao was the 3rd son My father was born on Friday'
+17th July 1816, the 10th Lunar day of the Dark half of
+the month Ashadha in the Cyclic year Dhatu at 15
+ghatis after Sunrise under the constellation Bharam
+with the period of Venus and he was only 12 years old
+when his father died My father was of slender build,
+energetic, strong and extremely active in work, qualities which I have inherited to a large extent My
+mother Rukminamma the daughter of Palamonda
+
+Subba Rao Pantulu was an intelligent handsome and
+quiet going lady and died m her 39th year when I
+was about 13 years old My father could speak and
+read about ten languages and filled various posts in
+the Ganjam District Northern Circars and finally
+became Manager or Dewan of Parlakimidi or Cfimna
+kimidi Zemmdari as it is called now He was an
+expert in Mantrasastras and highly religious and
+obliging He would ne\ er flinch from doing an obliga
+tion and brought me up with great love and care
+The following is
+his horoscope His
+tapobala was so great
+that with a blade
+of grass he was able
+to stop about l 000
+cattle and about 30
+or 35 cow herds
+under the Mafia As
+tra of Sanmohana
+All the c ittle and
+men lost their con
+sciousness and after .
+an hour of trial they beg m to move as if nothing had
+ha|pened when m> father threw ai ay the blade of
+grass Marl the positicns of jlanets n all the
+Kendras In addition to li s onerous duties he com
+pleted the gigantic tasl of finishing with his own
+hand one crore and twenty fi\c lacs of Sri Rama
+namas and concluded the religious rites connected
+
+with them four months before his death Guru in
+Lagna and Suhra and Ra\ i in the 10th made him
+a wonderful man in Mantrasastras and he used to
+perform miracles when he liked He died in his
+76th year on the morning of the 27th August
+1891, and was therefore 75 years and 40 days old
+according to English calculations
+M> mother had some abortions and at the advice
+of a Sadhu tn Chicacole, after the performance of
+set ere remedies, she had four daughters and two sons,
+myself being the younger' son My elder brother
+Jagannatha Row entered the Mysore service and
+.retired as an Amildar or Tahasildar and died in
+December 1915 I was born on Tuesday Rathasaptami
+in Maghaof,theCychcyearRakshasa,on 12th February
+1856, at about 14 ghatis after Sunrise or midnoon at
+Chicacole tn the Ganjam District and the following
+is my horoscope
+After my birth m>
+father w anted to gi\ e
+me the name of his
+father Venkataramaniah, but it appears,
+on the fourth day
+I became seriously
+ill and m the night,
+God Surya or the
+Sun appeared to my
+father tn a dream
+and ordered my’
+
+father to name me
+is Suryanaraina ns
+I was born at mid
+noon on the Ratha
+saptanm a day held
+sacred to the Sun
+and the Moon all
+o\er India About
+4 miles from Chica
+cole there is a ullage
+called Arasavalli
+where there is a
+complete Temple to the Sun God and which is consi
+dered a sacred shrine by the neighbouring people My
+father most gladly accepted the altered name and to
+his surprise and that of my good mother I was alright
+on the 5th day of my birth My father was called
+Gopala Row He completed 125 lacs of Ramanamas
+withhis own hand and died on Gokulastami held sacred
+to Sn Krishna and my mother was called Rukmim
+the name of the sacred wife of Krishna At 12 o clock
+m the noon the Sun is most powerful and the time
+goes under the special name of Abhijin Moohurta and
+Abhtjtf Sarva Doshaghnam or that noon time which
+cuts and cures all evil influences A notable incident
+occurred tome in my 5th year which has influenced
+all my life to a considerable extent My first Aksha
+rabhy isa or beginning of education began in my 5th
+year at Tarlakimidi where my father was Dewan to
+the Raja
+Lagna
+Guru
+Ualu
+Na amsi
+D agram
+Budha
+kethu
+Ra i
+Sukra
+San
+Kuja
+Chandra
+
+rebul ed me for want of attention to studies and for
+not copying notes which he ga\e us copiously I was
+ready with my impertinent answer I obsericd in a
+determined tone that copying notes forms the part of
+dull headed students and superficial teachers and that
+bright students 111 e myself need no such process He
+remarl ed that he was a student and amanuensis of
+Dr Bain of Psychological fame and that I should obey
+him I told him that I would become a greater man,
+than both of them with the result that I was turned
+out of the class for a day Mr Cook was a generous
+Scotcl gentleman He sent for me next day and
+questioned me whether my behaviour was right
+I lephed that h s treatment of students should be
+diffeient as the intelligent and spirited coufd not bear
+calmly remarks which dull boys consider as their
+inheritance Both being franl the reconciliation was
+quick and smooth When 1 met him 20 years after
+publishing some of my works specially the History of
+\ ijianngar or the Never To Be Forgotten Empire he
+had the nobility to address me as a greater man than
+himself while I modestly acknowledged his valuable
+instructions as the basis for all my scholarship in
+English and Physical Sciences I was intended to
+take up the legal line and finished my legal
+studies and practised for about 9 years as a
+Lawyer in BelJary I kept up a decent establishment
+and my house was open to all classes of professional
+experts The musicians the veena men the learned
+
+pandits, the religious yogis, the vedantists, the jugglers, buffoons and other artists would flock to my
+place. For fuller details, the readers are referred to
+my. Autobiography. My astrological instincts were
+stirred up by Thogaray Ramasastry at Bangalore
+while I was in the F. A. class.
+I picked up my knowledge in this science by
+reading books on this subject. The details are beautifully given in my life. I had no high opinion for
+English astrological publications and never cared to
+read them. There is neither depth nor enquiry', nor
+research in them. My first work on astrology appeared in a diaifect form, EngiYsfr and Kannada, in i882.
+My collegiate studies gave me no leisure for progress
+in my astrological researches and my Astrological Self
+Instructor first appeared in 1892, the second in 1893,
+and the 3rd in 1900, the interval being taken up by my
+legal practice. Fourth, fifth, sixth and seventh, followed at longer intervals, and the Sth has to be printed
+soon. An Ooriya, astrologer, in Parlakimidi by name
+Brahma, soon after my birth foretold my future greatness. I feel I am under the direct grace of the glorious
+Sun at every important turn in my life, and his presence in the 10th house from my Lagna.and 11th from
+Chandra, with Budha and Guru has inspired me to
+hold the view that I am destined to become a great
+man and write valuable works, on a variety of interesting and instructive subjects. I first married my
+maternal uncle’s daughter by name Bhagiratamma and
+
+she bore ten children, of whom five died and five are
+living My father in law Palamonda Punchanatha
+Row was an Assistant Commissioner in the Mysore
+Service and earned a very good name as an officer
+He died 21 years ago After the death of my first
+wife in 1903, I married again Subbamma, daughter
+of Yenkataramasastrv She bore 5 children, two of
+whom died soon after birth I hate now 2 daughters
+and one son by her I hate now 21 grandchildren and
+one great grandchild I hate built a spicious bungalow at the side of a tillage named Hunsamaranahalh
+on the Nandi High Road, 12 miles due north of
+Bangalore It contains 3 acres of compound, planted
+with varieties of fruit and flower trees I hv e kept
+up .a decent establishment with ten servants, and am
+fending a quiet honorable and religious fife My birthday s arc celebrated on a grand scale, and 1 am visited
+by all classes, creeds and nationalities of people from
+all parts of the world and my home is open to my
+friends and relations My eldest son Nanjunda Kow,
+helps me in tny publication business My second son
+B Lakshmtnaray ana Row, ha, is a Gradu ue of
+Philosophy and Logic and is an Inspector of Schools
+in the Mysore Service My third son Soroasekhara
+Row, was adopted by my late brother My 4th son
+Ch uidrasekara Row, aged 13 yeirs is studying here
+Three daughters are married and happilv settled in
+life 1 have one little daughter aged 13, to mi lay yet
+God has been graciously pleased to keep me ibo\ c want
+and in comparatively good health for my idvanccd age
+
+ttve, let the countries enjoy freedom from epidemics,
+let Brahmins attend to their prayers, without any fear
+from ev ll minded people, let those who have no children
+beget children, let those who have no grandchildren
+be blessed with grandchildren, let those who have no
+money, get money and let all people live till they are
+one hundred years old This is a prayer, as tolerant,
+as honest, as broad minded and as sympathetic as
+possible and when really good men send these prayers
+constantly to God with faith and devotion they will
+never go in vam I shall give you here a short sketch
+of my ancestors and pedigree
+' I am a direct descendant of the great Mahanshis
+Vasista, Parasara and Vedavyasa The Pedigree of
+Vednyasa is thus given in our daily prayers
+1 Vasista-Brahma Manasaputra or one evolved
+out of the great mental power or energy of
+Brahma
+2 Sahti son of Vasista and Arundhatt
+3 Parasara son of Sakti
+Vedavyasa, Badarayana or Krishna Dwaipayana son of Parasara
+Shuka son of Vyasa

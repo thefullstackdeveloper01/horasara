@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daily Jyotish Report Subscription | HoraSaar</title>
+<meta name="description" content="Subscribe to selected HoraSaar reports and receive your personalized daily report by email at 07:00 in your selected timezone.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="__PUBLIC_BASE_URL__/subscribe"><link rel="icon" href="/favicon.svg"><link rel="manifest" href="/site.webmanifest"><meta name="theme-color" content="#7b1e25">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"HoraSaar Daily Jyotish Reports","url":"__PUBLIC_BASE_URL__/subscribe","description":"Personalized daily Jyotish reports delivered by email at 07:00 in the subscriber's selected timezone.","provider":{"@type":"Organization","name":"HoraSaar","url":"__PUBLIC_BASE_URL__/"}}</script>
+<link rel="stylesheet" href="/assets/horasaar.css"><script src="https://checkout.razorpay.com/v1/checkout.js" defer></script><script src="/assets/horasaar.js" defer></script>
+</head>
+<body><div class="app-shell"><header class="topbar"><a class="brand" href="/"><span class="brand-mark">ॐ</span><span class="brand-copy"><strong>HoraSaar</strong><span>Daily Report Subscription</span></span></a><nav class="desktop-main-nav" aria-label="Primary navigation"></nav><div class="top-actions"><div class="language-wrap"><button class="lang-btn" id="languageToggle" type="button" aria-haspopup="true" aria-expanded="false"><i data-lucide="languages"></i><span id="languageShort">EN</span></button><div class="language-menu" id="languageMenu"><input id="languageSearch" class="language-search" placeholder="Search language" aria-label="Search language"><div id="languageItems"></div></div></div><button class="icon-btn" id="theme" type="button" aria-label="Toggle theme"><i data-lucide="moon"></i></button><a class="btn secondary" href="/">Dashboard</a></div></header>
+<main class="page"><section class="hero"><div><span class="eyebrow">Personalized daily Jyotish</span><h1>Receive only the guidance you choose.</h1><p>Select report topics, choose a plan, complete secure checkout, and receive a freshly calculated email every day at <b>07:00 in your selected timezone</b>.</p></div><div class="hero-side"><div class="motto">One subscription. One daily rhythm. Your chart.</div><div class="info-strip"><i data-lucide="mail"></i><span>Your report is regenerated from your birth inputs; payment must be verified before activation.</span></div></div></section>
+<form id="subscriptionForm"><div class="subscription-grid"><section class="card"><div class="card-header"><div><h2>Subscriber & birth details</h2><p>These inputs personalize your daily prediction.</p></div><span class="badge">Private</span></div><div class="formgrid"><div class="field"><label for="name">Name</label><input id="name" required autocomplete="name"></div><div class="field"><label for="email">Email</label><input id="email" type="email" required autocomplete="email"></div><div class="field sm"><label for="birthDate">Birth date</label><input id="birthDate" type="date" required></div><div class="field sm"><label for="birthTime">Birth time</label><input id="birthTime" type="time" step="1" required></div><div class="field sm"><label for="location">Birth place</label><select id="location" required><option value="">Select city / place</option></select></div><div class="field full"><div class="geo"><div><label for="lat">Latitude</label><input id="lat" readonly></div><div><label for="lon">Longitude</label><input id="lon" readonly></div><div><label for="tz">UTC offset</label><input id="tz" readonly></div></div></div></div><div class="delivery-card"><b>Daily schedule · 07:00</b><div class="input-note">The selected location supplies the timezone used by the daily scheduler.</div></div></section>
+<section class="card"><div class="card-header"><div><h2>Choose your subscription</h2><p>Choose one prediction focus and one billing period.</p></div></div><div id="preferences" class="topic-grid"></div><div class="card-header" style="margin-top:14px"><div><h2>Plan</h2><p>Prices come from the subscription dataset.</p></div></div><div id="plans" class="plan-grid"></div><div><div class="choice-label">Preferred payment method</div><div id="paymentMethods" class="method-list" role="radiogroup" aria-label="Preferred payment method"></div></div><div class="actions"><button class="btn primary" id="payButton" type="submit"><i data-lucide="credit-card"></i>Pay & activate</button><a class="btn secondary" href="/unsubscribe">Manage subscription</a></div><div id="status" class="status" role="status"></div><div class="input-note" style="margin-top:8px">Checkout is handled by Razorpay. Payment modes displayed by the gateway depend on your merchant configuration and eligibility.</div></section></div></form>
+<section id="success" class="card success-card" style="margin-top:14px"><div class="card-header"><div><h2>Subscription activated</h2><p id="successText"></p></div><i data-lucide="check-circle-2"></i></div><div class="actions"><a id="manageLink" class="btn secondary" href="#">Manage subscription</a><a class="btn primary" href="/">Return to HoraSaar</a></div></section>
+<footer class="footer"><nav><a href="/">Home</a><a href="/tools">Astrology Tools</a><a href="/subscribe">Subscriptions</a><a href="/unsubscribe">Manage</a></nav>HoraSaar · Daily report subscriptions are generated from the calculation engine and configured datasets.</footer>
+</main></div>
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  const { $, esc, state } = window.HoraSaarUI;
+  let plans = [];
+  let catalog = {};
+  let locations = [];
+  let selectedPlan = '';
+  let selectedPreference = 'general';
+  let selectedPaymentMethod = 'upi';
+  let i18n = state.i18n;
+
+  const setStatus = (message, type = 'ok') => {
+    const s = $('status');
+    s.textContent = message;
+    s.className = `status show ${type}`;
+  };
+
+  const birthPayload = () => {
+    const d = $('birthDate').value.split('-').map(Number);
+    const tm = ($('birthTime').value || '00:00:00').split(':').map(Number);
+    const place = locations.find(x => x.id === $('location').value) || {};
+    return {
+      name: $('name').value.trim(), year: d[0], month: d[1], day: d[2],
+      hour: tm[0] || 0, min: tm[1] || 0, sec: tm[2] || 0,
+      lat: Number($('lat').value), lon: Number($('lon').value), tz: Number($('tz').value),
+      timeZone: place.timeZone || undefined, place: place.name || '',
+      ayanamsaMode: 'lahiri', houseSystem: 'whole', nodeMode: 'true'
+    };
+  };
+
+  function renderTopics() {
+    const items = catalog.topics || [];
+    $('preferences').innerHTML = items.map((item, i) => `
+      <label class="topic">
+        <input type="radio" name="preference" value="${esc(item.id)}" ${item.id === selectedPreference ? 'checked' : ''}>
+        <span><b>${esc(item.label || item.name || item.id)}</b><span>${esc(item.description || 'Included in the daily prediction.')}</span></span>
+      </label>`).join('');
+  }
+
+  function renderPlans() {
+    const items = plans.plans || [];
+    selectedPlan = items[0]?.id || '';
+    $('plans').innerHTML = items.map((plan, i) => `
+      <label class="plan ${i === 0 ? 'selected' : ''}">
+        <div><input type="radio" name="plan" value="${esc(plan.id)}" ${i === 0 ? 'checked' : ''}> <b>${esc(plan.label)}</b><div class="input-note">${esc(plan.description)}</div></div>
+        <div><div class="price">₹${Number(plan.amountInr).toLocaleString('en-IN')}</div><div class="per">${esc(plan.billingPeriod)}</div></div>
+      </label>`).join('');
+    document.querySelectorAll('input[name=plan]').forEach(radio => radio.addEventListener('change', () => {
+      selectedPlan = radio.value;
+      document.querySelectorAll('.plan').forEach(x => x.classList.toggle('selected', x.querySelector('input').checked));
+    }));
+  }
+
+  async function load() {
+    try {
+      [i18n, catalog, locations] = await Promise.all([
+        fetch('/i18n').then(r => r.json()),
+        fetch('/subscription/catalog').then(r => r.json()),
+        fetch('/locations').then(r => r.json())
+      ]);
+      plans = await fetch('/subscription/plans').then(r => r.json());
+      window.HoraSaarUI.state.i18n = i18n;
+      window.dispatchEvent(new CustomEvent('jv:locale-change'));
+      $('location').innerHTML = '<option value="">Select city / place</option>' + locations.map(x => `<option value="${esc(x.id)}">${esc(x.name)}</option>`).join('');
+      renderTopics();
+      renderPlans();
+      const config = await fetch('/payment/config').then(r => r.json());
+      $('paymentMethods').innerHTML = (config.paymentMethods || []).map((m,i) => `<label class="method method-choice"><input type="radio" name="paymentMethod" value="${esc(m)}" ${m===selectedPaymentMethod||(!selectedPaymentMethod&&i===0)?'checked':''}><span>${esc(m.replaceAll('_',' '))}</span></label>`).join(''); document.querySelectorAll('input[name=paymentMethod]').forEach(r=>r.addEventListener('change',()=>selectedPaymentMethod=r.value));
+      window.lucide?.createIcons?.();
+    } catch (e) {
+      setStatus(e.message, 'err');
+    }
+  }
+
+  $('location').onchange = () => {
+    const place = locations.find(v => v.id === $('location').value);
+    if (!place) return;
+    $('lat').value = place.lat;
+    $('lon').value = place.lon;
+    $('tz').value = place.tz;
+  };
+
+  $('subscriptionForm').onsubmit = async (event) => {
+    event.preventDefault();
+    $('payButton').disabled = true;
+    window.HoraSaarUI.showLoader?.('Preparing secure checkout…');
+    setStatus('Preparing secure checkout…');
+    try {
+      const config = await fetch('/payment/config').then(r => r.json());
+      if (!config.configured) throw new Error('Payment gateway is not configured. Set RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET and RAZORPAY_WEBHOOK_SECRET on the server, then restart HoraSaar.');
+      const topics = [selectedPreference];
+      if (!selectedPreference) throw new Error('Select one prediction focus.');
+
+      const body = {
+        name: $('name').value.trim(),
+        email: $('email').value.trim(),
+        mobile: null,
+        topics,
+        preference: selectedPreference,
+        planId: selectedPlan,
+        timezone: (locations.find(x => x.id === $('location').value) || {}).timezone,
+        locale: state.locale,
+        chartStyle: 'both',
+        birth: birthPayload()
+      };
+
+      const initResponse = await fetch('/subscriptions/checkout', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      const data = await initResponse.json();
+      if (!initResponse.ok) throw new Error(data.message || 'Could not start checkout');
+
+      const payment = data.payment;
+      const options = {
+        key: payment.keyId,
+        amount: payment.amount,
+        currency: payment.currency,
+        name: 'HoraSaar',
+        description: payment.description,
+        order_id: payment.orderId,
+        prefill: { name: body.name, email: body.email },
+        notes: { subscription_id: data.subscription.id, plan_id: selectedPlan },
+        theme: { color: '#7b1e25' },
+        method: (()=>{ const m={}; const v=selectedPaymentMethod; if(v==='credit_card'||v==='debit_card'||v==='prepaid_card'||v==='international_card')m.card=true; else if(v==='netbanking')m.netbanking=true; else if(v==='wallet')m.wallet=true; else if(v==='emi')m.emi=true; else if(v==='paylater')m.paylater=true; else if(v==='upi')m.upi=true; return m; })(),
+        handler: async (paymentResponse) => {
+          window.HoraSaarUI.showLoader?.('Verifying payment…');
+          try {
+            setStatus('Verifying payment…');
+            const verifyResponse = await fetch('/payments/verify', {
+              method: 'POST',
+              headers: { 'content-type': 'application/json' },
+              body: JSON.stringify({ ...paymentResponse, subscriptionId: data.subscription.id })
+            });
+            const result = await verifyResponse.json();
+            if (!verifyResponse.ok) throw new Error(result.message || 'Payment verification failed');
+            $('successText').textContent = `${data.plan.label} is active. Your selected report topics will be emailed every day at 07:00 in your selected timezone.`;
+            $('manageLink').href = data.subscription.manageUrl;
+            $('success').classList.add('show');
+            $('subscriptionForm').style.display = 'none';
+            setStatus('Payment confirmed. Subscription activated.', 'ok');
+          } catch (err) {
+            setStatus(err.message, 'err');
+            $('payButton').disabled = false;
+          } finally {
+            window.HoraSaarUI.hideLoader?.();
+          }
+        },
+        modal: {
+          ondismiss: () => {
+            setStatus('Checkout closed. The subscription remains pending until payment is confirmed.', 'err');
+            $('payButton').disabled = false;
+            window.HoraSaarUI.hideLoader?.();
+          }
+        }
+      };
+
+      if (typeof Razorpay === 'undefined') throw new Error('Razorpay Checkout could not be loaded.');
+      // Hand off to Razorpay's own checkout UI — drop our loader so the two overlays never stack.
+      window.HoraSaarUI.hideLoader?.();
+      new Razorpay(options).open();
+    } catch (err) {
+      setStatus(err.message, 'err');
+      $('payButton').disabled = false;
+      window.HoraSaarUI.hideLoader?.();
+    }
+  };
+
+  load();
+});
+</script></body></html>

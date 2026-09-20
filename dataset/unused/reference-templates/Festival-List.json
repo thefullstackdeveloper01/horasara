@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fest_001",
+    "name": "Diwali",
+    "type": "Major Festival",
+    "deity": "Goddess Lakshmi & Lord Ganesha",
+    "tithi": "Amavasya of Kartik month",
+    "significance": "Return of Lord Rama to Ayodhya, victory of light over darkness.",
+    "rituals": ["Lighting diyas", "Lakshmi Puja", "Rangoli making"],
+    "astrological_significance": "Sun is in Libra (debilitated), Moon in Scorpio."
+  }
+]

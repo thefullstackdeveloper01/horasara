@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "414__validation_v12_outcome_corpus_schema_json",
+    "name": "V12 Outcome Case",
+    "original_file": "validation/v12/outcome-corpus.schema.json",
+    "dataset_number": "414 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v12_outcome-corpus.schema.txt",
+    "source_sha256": "f8014bf223d4732c8d02252027c3858e1a55a266bceaa44b9fd1c82a6ed6f50e",
+    "source_bytes": 914
+  },
+  "metadata": {
+    "title": "V12 Outcome Case"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "V12 Outcome Case",
+      "type": "object",
+      "required": {
+        "_items": [
+          {
+            "_text": [
+              "id"
+            ]
+          },
+          {
+            "_text": [
+              "chart"
+            ]
+          },
+          {
+            "_text": [
+              "eventType"
+            ]
+          },
+          {
+            "_text": [
+              "cutoffAt"
+            ]
+          },
+          {
+            "_text": [
+              "eventAt"
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "chart": {
+          "type": "object"
+        },
+        "eventType": {
+          "type": "string"
+        },
+        "cutoffAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "eventAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "source": {
+          "type": "string"
+        },
+        "verified": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

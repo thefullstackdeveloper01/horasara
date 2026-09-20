@@ -1,0 +1,353 @@
+READABLE DATASET
+================================================================================
+Original file: Mantra-Tantra-Sadhana-Laxmi-Narayan-Sharma-1978-1993.json
+Dataset number: 272 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 30,019 bytes
+Top-level fields: 13
+Title: मंत्र-तंत्र साधना
+
+CONTENT
+--------------------------------------------------------------------------------
+• file_name: 2015.550989.Mantra-Tantra.pdf
+• title: मंत्र-तंत्र साधना
+• subtitle: न्यूतन्य साधन
+• author: स्व० पंडित लक्ष्मी नारायण शर्मा बी०ए० प्रभाकर, साहित्य रत्न, ज्योतिष वाचस्पति
+• publisher: वल्डं बुक कम्पनी
+• editions:
+  TABLE (4 rows)
+  year | type
+  --------------------
+  1978 | प्रथम संस्करण
+  1982 | द्वितीय संस्करण
+  1987 | तृतीय पूर्णतः संशोधित संस्करण
+  1993 | तीव्र पर बढ़ित पर कम्पोजु संस्करण
+• price: 31 रुपये
+• publisher_address: 301, कूषा मीर आशिक, (दिनां बैंक के सामने) चावटी थानार, वित्ती-110006
+• printer: आनन्द आफलेट, ६(६७), पैस्ट ज्योति नगर, शाइवरा, फैंप : २२३०४००
+• dedication:
+  • dedicated_to: परम पूज्य स्वामी रामकृष्ण परमहंस देव
+  • dedicated_by: लक्ष्मी नारायण शर्मा 'अम्बाशरण'
+  • text_hindi: विनकी ओहुकी थूपा से रांसार के अनेकानेक पीवों का उद्धार हो गया, सिनकी गतित से सम्पन्न होकर क्रदीद सवासी विवेकानन्द पी ने सिख में सनातन धर्म की पताका पहराई, सिनकी कृपा-कृस्टि से मेरे गुड़ आनन्द शरण पं, ने मेरे वैसे भितने ही वनों का कल्याण विद्या ।
+  • text_hindi_meaning: उनकी कृपा से अनेक प्राणियों का उद्धार हुआ, उनकी शक्ति से विवेकानन्द ने सनातन धर्म की पताका फहराई, उनकी कृपा से मेरे गुरु आनन्द शरण ने मेरा कल्याण किया।
+• preface:
+  • text_hindi: धर्म अर्थ काम मोक्ष की प्राप्ति के लिए शास्त्रों में अनेक मन्त्र यन्त्र व तन्त्र की व्याख्या की गई है। उनमें से परमार्थ साधन के लिए तथा संसार यात्रा को सुलभ बनाने के लिए चो मन्त्र आदि प्रयोग मेरे दूध गुध्देव ने मुझे बताए हमा निनकी साधना उनके निर्देशन में की थी और निनका बाद में कई सज्जनों ने मेरे बताने पर सम्पत्तानूर्बिक प्रयोग किया, उत्तमें से मुख्य-मुख्य अनुभूत प्रयोगों को इस मुस्तक में विस्तार से बताया गया है।
+  • text_hindi_meaning: धर्म, अर्थ, काम और मोक्ष की प्राप्ति के लिए शास्त्रों में मंत्र, यंत्र और तंत्र का वर्णन है। मेरे गुरुदेव ने मुझे कई प्रयोग बताए और उनके निर्देशन में साधना की। अनुभव सिद्ध प्रयोगों को इस पुस्तक में विस्तार से बताया गया है।
+  • topics_covered:
+    1.
+      साधना की आरम्भिक आवश्यक बातें
+    2.
+      प्रसिद्ध सहनी 'मंत्र साधना'
+    3.
+      वशीकरण मोहन मंत्र
+    4.
+      श्री बटुक भैरव मन्त्र साधना
+    5.
+      बगलानुखी मन्त्र साधना
+    6.
+      हनुमान जी की साधना
+    7.
+      सारखती मन्त्र
+    8.
+      सन्धानं मोषाल मन्त्र
+    9.
+      विवाह के लिए विशेष दानं
+    10.
+      रक्षा कथन, गण्डे, ताबीव, भस्म, कावल, सिंदूर
+    11.
+      भूत प्रेत बाधा शान्ति
+    12.
+      शानु को परास्त करने के उपाय
+    13.
+      परीक्षा साक्षात्कार, मुकदमे में सफलता
+• chapters:
+  1.
+    • chapter_number: 1
+    • chapter_title_hindi: पहला अध्याय - विषयं प्रवेशं
+    • chapter_title_sanskrit: प्रथमः अध्यायः - विषयप्रवेशः
+    • chapter_title_english: Chapter 1 - Introduction to the Subject
+    • chapter_title_gujarati: પહેલો અધ્યાય - વિષય પ્રવેશ
+    • content_hindi: मन्न-मन्न सन्न का बिगहा हुआ रूप मन्नर जन्नर तन्नर हे और हन शास्त्रों से आम जनता मे जन्नतर मन्नतर जानने याते जिन औसा, सयानो, सेबड़ों, तानिक उपोरी याता जाहू या इन्नजात जानने याते की जो तस्वीर सामने आती है यह घोर्ड अब्धी तस्वीर नहीं होती । लोग कुछ भय-मिथित कोतुहल से इन लोगों को देखते हैं और इस विद्या के जानने याते या बान से हीन परन्तु पालछत तथा दम्भ का सहारा तेकर भूत प्रेग व्याधा उतारने, मारण मोहन वशीकरण के नाम पर अनाचार अभिचार करने यातों की काली करतूतों से इस विद्या पर किसी की भी शब्दा नहीं रही है ।
+    • summary_english: This chapter introduces the distorted perception of mantra-tantra in society. Many people misuse these ancient sciences for black magic, fear-mongering, and personal gain, which has led to a loss of faith in these traditions. The author explains that originally these practices were meant for public welfare and spiritual upliftment.
+    • key_concepts:
+      1.
+        मंत्र-तंत्र का सही स्वरूप
+      2.
+        अभिचार (काला जादू) की आलोचना
+      3.
+        प्राचीन विद्याओं का महत्व
+  2.
+    • chapter_number: 2
+    • chapter_title_hindi: दूसरा अध्याय - साधना की विधि
+    • chapter_title_sanskrit: द्वितीयः अध्यायः - साधनाविधिः
+    • chapter_title_english: Chapter 2 - Method of Sadhana
+    • chapter_title_gujarati: બીજો અધ્યાય - સાધના ની વિધિ
+    • content_hindi: मन्न किसी से लिखा जाता है। यानी मन्न को कोई बताया हैं। यो ही किसी पुस्तक में से देखकर से लेना ठीक नहीं होता। जो मन्न देता है या जित्त से मन्न लिखा जाता है उसे गुरु कहते हैं। गुरु की पदवी भाग्यान के धरावर या कहीं-कहीं तो भगवान से भी बड़ी बताई गई है जो गुरु भी गरिमा को देखते हुए यह अलुकित भी नहीं है।
+    • summary_english: This chapter discusses the proper method of sadhana (spiritual practice). It emphasizes the importance of a guru (spiritual teacher) for receiving a mantra. The guru should be selfless and focused on the disciple's spiritual welfare. The chapter outlines various purifications (shuddhi) required before starting mantra sadhana.
+    • key_concepts:
+      1.
+        गुरु का महत्व
+      2.
+        मंत्र दीक्षा
+      3.
+        शरीर और मन की शुद्धि
+      4.
+        साधना के नियम
+  3.
+    • chapter_number: 3
+    • chapter_title_hindi: तीसरा अध्याय - जप ध्यान आदि की विधियां
+    • chapter_title_sanskrit: तृतीयः अध्यायः - जपध्यानादिविधयः
+    • chapter_title_english: Chapter 3 - Methods of Japa and Meditation
+    • chapter_title_gujarati: ત્રીજો અધ્યાય - જપ ધ્યાન આદિ ની વિધિઓ
+    • content_hindi: मंत्र सिद्धि से परमपद मोक्ष की भी प्राप्ति होती है और सांसारिक भोग पदार्थों की भी। निष्काम साधना तथा सकाम साधना। हस्ते निष्काम साधना तो परमार्थ की-अपने परम अर्थ सबसे नेट स्वार्थ की सिद्धि आत्म कथ्याण के लिए की जाती है और यह सर्वोत्कृष्ट साधना है।
+    • summary_english: This chapter explains the techniques of japa (chanting) and dhyana (meditation). It distinguishes between nishkama (selfless) and sakama (desire-oriented) sadhana. The chapter provides detailed instructions on posture, breathing, and mental focus during mantra repetition. It also covers the use of japa mala (prayer beads) and the significance of 108 repetitions.
+    • key_concepts:
+      1.
+        निष्काम और सकाम साधना
+      2.
+        जप विधि
+      3.
+        माला का उपयोग
+      4.
+        ध्यान और एकाग्रता
+      5.
+        प्राणायाम
+  4.
+    • chapter_number: 4
+    • chapter_title_hindi: चौथा अध्याय - तंत्र साधना
+    • chapter_title_sanskrit: चतुर्थः अध्यायः - तन्त्रसाधना
+    • chapter_title_english: Chapter 4 - Tantra Sadhana
+    • chapter_title_gujarati: ચોથો અધ્યાય - તંત્ર સાધના
+    • content_hindi: तान्निकं साधनम भारतवर्षं में तथ्य विषय के अन्य दैवों में बहुत प्राचीनकाल से प्रचलित है । वैदिक वाल ते भी पहले जो आदिदम जालिखां इस भूभाग पर रहती थीं उनमें लिंग और योनि की पूजा प्रचलित थीं ।
+    • summary_english: This chapter explores Tantra Sadhana, tracing its origins to pre-Vedic times. It discusses the worship of linga and yoni, the influence of Buddhist and Shaivite traditions, and the concept of Kundalini energy. The chapter describes the seven chakras and their significance in tantric practice. It also covers the eight fetters (ashtapasha) that bind the soul and methods to overcome them.
+    • key_concepts:
+      1.
+        तंत्र का इतिहास
+      2.
+        कुण्डलिनी योग
+      3.
+        सप्त चक्र
+      4.
+        अष्टपाश
+      5.
+        वीरभाव साधना
+      6.
+        श्मशान साधना
+  5.
+    • chapter_number: 5
+    • chapter_title_hindi: पाँचवाँ अध्याय - श्री महालक्ष्मी मंत्र साधना
+    • chapter_title_sanskrit: पञ्चमः अध्यायः - श्रीमहालक्ष्मीमन्त्रसाधना
+    • chapter_title_english: Chapter 5 - Sri Mahalakshmi Mantra Sadhana
+    • chapter_title_gujarati: પાંચમો અધ્યાય - શ્રી મહાલક્ષ્મી મંત્ર સાધના
+    • summary_english: This chapter focuses on the sadhana of Goddess Mahalakshmi for wealth and prosperity. The author shares his personal experience with this mantra, which helped him achieve financial stability. The chapter provides detailed instructions for the 16-step (shodashopachara) worship method, including nyasa, dhyana, and homa procedures. The purascharana requires 160,000 mantra repetitions.
+    • key_concepts:
+      1.
+        महालक्ष्मी मंत्र
+      2.
+        षोडशोपचार पूजा
+      3.
+        श्री सूक्त
+      4.
+        हवन विधि
+      5.
+        पुरश्चरण
+    • mantras:
+      TABLE (1 rows)
+      mantra_name | mantra_text | meaning_hindi | meaning_english
+      -----------------------------------------------------------
+      श्री महालक्ष्मी मूल मंत्र | ॐ श्रीं ह्रीं क्लीं महालक्ष्म्यै नमः | ॐ, श्रीं, ह्रीं, क्लीं बीज मंत्रों सहित महालक्ष्मी को नमस्कार। | Salutations to Mahalakshmi, along with the seed syllables Om, Shrim, Hrim, Klim.
+  6.
+    • chapter_number: 6
+    • chapter_title_hindi: छठा अध्याय - श्री बटुक भैरव मंत्र साधना
+    • chapter_title_sanskrit: षष्ठः अध्यायः - श्रीबटुकभैरवमन्त्रसाधना
+    • chapter_title_english: Chapter 6 - Sri Batuk Bhairav Mantra Sadhana
+    • chapter_title_gujarati: છઠ્ઠો અધ્યાય - શ્રી બટુક ભૈરવ મંત્ર સાધના
+    • summary_english: This chapter describes the sadhana of Sri Batuk Bhairav, a fierce form of Lord Shiva. The author shares his personal experience of how this mantra helped him overcome professional difficulties and transfer challenges. The purascharana requires 31,000 mantra repetitions. The chapter includes nyasa procedures and the Batuk Bhairav Yantra.
+    • key_concepts:
+      1.
+        बटुक भैरव मंत्र
+      2.
+        भैरव यंत्र
+      3.
+        कर्मों में विजय
+      4.
+        बाधा निवारण
+    • mantras:
+      TABLE (1 rows)
+      mantra_name | mantra_text | meaning_hindi | meaning_english
+      -----------------------------------------------------------
+      बटुक भैरव मूल मंत्र | ॐ बटुकाय आपदुद्धारणाय कुरु कुरु बटुकाय ॐ ह्रीं नमः | बटुक भैरव को नमस्कार, जो विपत्तियों से उद्धार करते हैं। | Salutations to Batuk Bhairav, who delivers from calamities.
+  7.
+    • chapter_number: 7
+    • chapter_title_hindi: सातवां अध्याय - हनुमत साधना
+    • chapter_title_sanskrit: सप्तमः अध्यायः - हनुमत्साधना
+    • chapter_title_english: Chapter 7 - Hanumat Sadhana
+    • chapter_title_gujarati: સાતમો અધ્યાય - હનુમત સાધના
+    • summary_english: This chapter is dedicated to the worship of Hanuman. It emphasizes that Hanuman should not be approached for wealth or marriage, but for strength, courage, and protection from enemies. The chapter describes the Hanuman Chalisa anushthana of 108 recitations, along with detailed worship procedures, offerings, and the Hanuman Aarti.
+    • key_concepts:
+      1.
+        हनुमान चालीसा
+      2.
+        हनुमान चालीसा का 108 पाठ
+      3.
+        विघ्न निवारण
+      4.
+        बजरंग बाण
+    • mantras:
+      TABLE (1 rows)
+      mantra_name | mantra_text | meaning_hindi | meaning_english
+      -----------------------------------------------------------
+      हनुमान आरती | आरती कीजै हनुमान लला की, दुष्ट दलन रघुनाथ कला की। | हनुमान जी की आरती करो, जो रघुनाथ की कला से दुष्टों का दमन करते हैं। | Perform the aarti of Hanuman, who destroys the wicked as an aspect of Raghunath.
+  8.
+    • chapter_number: 8
+    • chapter_title_hindi: आठवां अध्याय - बगलामुखी साधना
+    • chapter_title_sanskrit: अष्टमः अध्यायः - बगलामुखीसाधना
+    • chapter_title_english: Chapter 8 - Bagalamukhi Sadhana
+    • chapter_title_gujarati: આઠમો અધ્યાય - બગલામુખી સાધના
+    • summary_english: This chapter describes the sadhana of Goddess Bagalamukhi, who represents the power to paralyze enemies and control speech. This sadhana is used for victory in legal cases, attracting desired persons, and neutralizing opponents. The chapter includes the Bagalamukhi yantra, mantra, and specific rules regarding yellow-colored items, food restrictions, and brahmacharya.
+    • key_concepts:
+      1.
+        बगलामुखी मंत्र
+      2.
+        वशीकरण
+      3.
+        मुकदमे में विजय
+      4.
+        शत्रु स्तम्भन
+      5.
+        पीताम्बर साधना
+    • mantras:
+      TABLE (1 rows)
+      mantra_name | mantra_text | meaning_hindi | meaning_english
+      -----------------------------------------------------------
+      बगलामुखी मूल मंत्र | ह्लीं बगलामुखी सर्वं दुष्टानां वाचं मुखं पदं स्तम्भय जिह्वां कीलय बुद्धिं नाशय ह्लीं ॐ स्वाहा | बगलामुखी देवी सभी दुष्टों की वाणी, मुख और पदों को स्तम्भित करें, जिह्वा को कीलित करें और बुद्धि का नाश करें। | Goddess Bagalamukhi paralyzes the speech, mouth, and steps of all evil ones, immobilizes the tongue, and destroys intellect.
+  9.
+    • chapter_number: 9
+    • chapter_title_hindi: नौवां अध्याय - वशीकरण मन्त्र
+    • chapter_title_sanskrit: नवमः अध्यायः - वशीकरणमन्त्रः
+    • chapter_title_english: Chapter 9 - Vashikaran Mantras
+    • chapter_title_gujarati: નવમો અધ્યાય - વશીકરણ મંત્ર
+    • summary_english: This chapter explores vashikaran (attraction/control) mantras, particularly the powerful 'Kali Kali Namah' mantra associated with both Goddess Kali and Lord Krishna. The chapter discusses the psychological aspects of attraction, mesmerism, and the importance of righteous intention. It provides methods for bringing back estranged individuals, winning court cases, and influencing others positively.
+    • key_concepts:
+      1.
+        वशीकरण का मनोवैज्ञानिक आधार
+      2.
+        कली कली नमः महामंत्र
+      3.
+        दुर्गा सप्तशती के प्रयोग
+      4.
+        भगोड़ों को वापस बुलाना
+      5.
+        पति-पत्नी सम्बन्धों में प्रयोग
+    • mantras:
+      TABLE (1 rows)
+      mantra_name | mantra_text | meaning_hindi | meaning_english
+      -----------------------------------------------------------
+      महावशीकरण मंत्र | ॐ कली कली नमः | काली देवी को नमस्कार। यह मंत्र वशीकरण के लिए है। | Salutations to Kali. This mantra is for attraction and control.
+  10.
+    • chapter_number: 10
+    • chapter_title_hindi: दसवां अध्याय - यन्त्रों को सिद्ध करना
+    • chapter_title_sanskrit: दशमः अध्यायः - यन्त्रसाधनम्
+    • chapter_title_english: Chapter 10 - Achieving Yantra Siddhi
+    • chapter_title_gujarati: દસમો અધ્યાય - યંત્રોને સિદ્ધ કરવા
+    • summary_english: This chapter provides comprehensive guidance on yantra (mystical diagram) sadhana. It explains the 15 and 20 yantras (magic squares), their construction using various materials like bhojpatra (birch bark), ashtagandha ink, and specific pens. The chapter covers the process of yantra siddhi through repeated writing, as well as the use of amulets (raksha kavach, tabeez) for protection, attracting wealth, and success in legal matters.
+    • key_concepts:
+      1.
+        यंत्र सिद्धि की विधि
+      2.
+        15 का यंत्र (मैजिक स्क्वायर)
+      3.
+        बीसा यंत्र
+      4.
+        रक्षा कवच और ताबीज
+      5.
+        भोजपत्र और अष्टगंध स्याही
+      6.
+        गण्डे बनाने की विधि
+  11.
+    • chapter_number: 11
+    • chapter_title_hindi: ग्यारहवां अध्याय - ग्रह शांति के लिए अनुष्ठान
+    • chapter_title_sanskrit: एकादशः अध्यायः - ग्रहशान्त्यनुष्ठानम्
+    • chapter_title_english: Chapter 11 - Rituals for Planetary Peace
+    • chapter_title_gujarati: અગિયારમો અધ્યાય - ગ્રહ શાંતિ માટે અનુષ્ઠાન
+    • summary_english: This chapter deals with planetary peace (graha shanti) rituals. It explains how malefic planetary influences cause difficulties in life and how specific mantras, donations, and gemstones can mitigate these effects. The chapter covers each planet's mantra, japa count, homa materials, donation items (daan), and the recommended gemstone for wearing.
+    • key_concepts:
+      1.
+        ग्रहों के अशुभ प्रभाव
+      2.
+        रत्न धारण का विज्ञान
+      3.
+        ग्रह मंत्र और जप संख्या
+      4.
+        ग्रहों के लिए दान वस्तुएं
+      5.
+        नीलम (शनि), मोती (चंद्र), मूंगा (मंगल), पन्ना (बुध), हीरा (शुक्र), पुखराज (गुरु), गोमेद (राहु), लहसुनिया (केतु)
+  12.
+    • chapter_number: 12
+    • chapter_title_hindi: बारहवां अध्याय - विविध मंत्र, मंत्र और तंत्र
+    • chapter_title_sanskrit: द्वादशः अध्यायः - विविधमन्त्राः तन्त्राणि च
+    • chapter_title_english: Chapter 12 - Various Mantras and Tantras
+    • chapter_title_gujarati: બારમો અધ્યાય - વિવિધ મંત્ર, મંત્ર અને તંત્ર
+    • summary_english: This chapter collects various practical mantras and tantras. It includes methods for making protective amulets (gande), sacred ash (bhasma/vibhuti), the Santan Tantra for progeny, Saraswati Tantra for education and wisdom, and the Karn Pishachini Siddhi for acquiring clairaudience (hearing distant or future events).
+    • key_concepts:
+      1.
+        गण्डे बनाने की विधि
+      2.
+        भस्म/विभूति का निर्माण और उपयोग
+      3.
+        सन्तान तंत्र (अजवायन प्रयोग)
+      4.
+        सरस्वती तंत्र (विद्या प्राप्ति)
+      5.
+        कर्ण पिशाचिनी सिद्धि
+      6.
+        सोए व्यक्ति को बुलाने का तंत्र
+    • mantras:
+      TABLE (1 rows)
+      mantra_name | mantra_text | meaning_hindi | meaning_english
+      -----------------------------------------------------------
+      सन्तान गोपाल मंत्र | ॐ श्रीं ह्रीं क्लीं ग्लीं गोविन्द गोपाल जगत्पते, देहि मे तनयं कृष्ण त्वामहं शरणं गतः। | गोविन्द, गोपाल, जगत्पति कृष्ण, मुझे संतान प्रदान करो, मैं आपकी शरण में हूँ। | Govinda, Gopala, Lord of the universe, Krishna, grant me a child, I take refuge in you.
+  13.
+    • chapter_number: 13
+    • chapter_title_hindi: तेरहवां अध्याय - टोने टोटके
+    • chapter_title_sanskrit: त्रयोदशः अध्यायः - टोनटोटकाः (प्रयोगाः)
+    • chapter_title_english: Chapter 13 - Folk Remedies and Practices (Tone-Totke)
+    • chapter_title_gujarati: તેરમો અધ્યાય - ટોના ટોટકા
+    • summary_english: This chapter presents various folk remedies (tone-totke) for common problems like fever, eye pain, digestive issues, and protection from evil eye. It includes practical methods such as using specific plants, nuts, and simple rituals. The chapter also covers remedies for delayed marriage, childbirth complications, and neutralizing black magic effects.
+    • key_concepts:
+      1.
+        नजर उतारने के उपाय
+      2.
+        ज्वर और रोग निवारण
+      3.
+        सिरदर्द, नेत्र पीड़ा के उपाय
+      4.
+        विवाह में बाधा दूर करना
+      5.
+        काली बिल्ली के जेर का प्रयोग
+      6.
+        दुर्भाग्य दूर करने का टोटका
+  14.
+    • chapter_number: 14
+    • chapter_title_hindi: चौदहवां अध्याय - शाबर मन्त्र साधना
+    • chapter_title_sanskrit: चतुर्दशः अध्यायः - शाबरमन्त्रसाधना
+    • chapter_title_english: Chapter 14 - Shabar Mantra Sadhana
+    • chapter_title_gujarati: ચૌદમો અધ્યાય - શાબર મંત્ર સાધના
+    • summary_english: This final chapter explains Shabar Mantras, which are unique mantras believed to have originated from Lord Shiva. Unlike Vedic mantras, these require no elaborate rituals, guru initiation, or specific japa counts. They are said to become siddha (perfected) by chanting during eclipses, Holi, Diwali, or Shivratri. The chapter includes mantras for curing diseases, removing ghost possessions, healing eye pain, and treating boils.
+    • key_concepts:
+      1.
+        शाबर मंत्रों की विशेषता
+      2.
+        ग्रहण काल में साधना
+      3.
+        भूत-प्रेत बाधा निवारण
+      4.
+        रोग नाशक शाबर मंत्र
+      5.
+        बवासीर, आंख दर्द, छाले के उपचार
+      6.
+        शाबर मंत्र सिद्धि के नियम
+• conclusion:
+  • text_hindi: भाषा सरल हिन्दी है। संस्कृत न जानने वाले भी इससे लाभ उठा सकते हैं।
+  • text_hindi_meaning: The language is simple Hindi. Even those who do not know Sanskrit can benefit from this book.

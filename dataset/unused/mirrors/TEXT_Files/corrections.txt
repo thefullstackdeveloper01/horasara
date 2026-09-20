@@ -1,0 +1,12 @@
+READABLE DATASET
+================================================================================
+Original file: corrections.json
+Dataset number: 89 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 25 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• WGS84_A: 6378137

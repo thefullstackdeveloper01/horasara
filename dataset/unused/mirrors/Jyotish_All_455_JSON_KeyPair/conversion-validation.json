@@ -1,0 +1,12 @@
+{
+  "total_source_txt_datasets": 455,
+  "total_generated_json_datasets": 455,
+  "valid_json_datasets": 455,
+  "unique_dataset_ids": 455,
+  "content_type_counts": {
+    "text": 250,
+    "array": 63,
+    "object": 142
+  },
+  "errors": []
+}

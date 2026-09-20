@@ -1,0 +1,2546 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "080__all_json_catalog_json",
+    "name": "all-json-catalog",
+    "original_file": "all-json-catalog.json",
+    "dataset_number": "10 of 455",
+    "format": "json",
+    "source_readable_file": "all-json-catalog.txt",
+    "source_sha256": "94a51927b0e3525362b555c284c743f051ca24dba989be996a4bf0cb0fa23afc",
+    "source_bytes": 45463
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "03_mar_1996.json",
+        "path": "dataset/03_mar_1996.json",
+        "bytes": 397085,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "100_nadi_sutras.json",
+        "path": "dataset/100_nadi_sutras.json",
+        "bytes": 98916,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "71_tantra_sharada_tilaka_tantram_i_sudhakar_malaviya.json",
+        "path": "dataset/71_tantra_sharada_tilaka_tantram_i_sudhakar_malaviya.json",
+        "bytes": 784334,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "72_tantra_sharada_tilaka_tantram_ii_sudhakar_malaviya.json",
+        "path": "dataset/72_tantra_sharada_tilaka_tantram_ii_sudhakar_malaviya.json",
+        "bytes": 723754,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "adhikarana_saravali_sanskrit_with_chintamani_commentary_by_kumara_vedanta_acharya_pages_partly_damaged_1940.json",
+        "path": "dataset/adhikarana_saravali_sanskrit_with_chintamani_commentary_by_kumara_vedanta_acharya_pages_partly_damaged_1940.json",
+        "bytes": 4656749,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "adhikarana_saravali_vedanta_desika_the_philosophy_of_visistadvaita_srinivasa_chari_2008_ocr.json",
+        "path": "dataset/adhikarana_saravali_vedanta_desika_the_philosophy_of_visistadvaita_srinivasa_chari_2008_ocr.json",
+        "bytes": 813431,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "agastya_samhita.json",
+        "path": "dataset/agastya_samhita.json",
+        "bytes": 99502,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "agni_purana_nag_publishers.json",
+        "path": "dataset/agni_purana_nag_publishers.json",
+        "bytes": 990897,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "agni_purana.json",
+        "path": "dataset/agni_purana.json",
+        "bytes": 3066175,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "all-json-catalog.json",
+        "path": "dataset/all-json-catalog.json",
+        "bytes": 77811,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ascii_chart.json",
+        "path": "dataset/ascii_chart.json",
+        "bytes": 7603,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ashtakavarga_bhagya_bindu_by_vinay_aditya_hindi_astrology_illustrated_bengaluru_2023_indian_council_of.json",
+        "path": "dataset/ashtakavarga_bhagya_bindu_by_vinay_aditya_hindi_astrology_illustrated_bengaluru_2023_indian_council_of.json",
+        "bytes": 680981,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ashtakavarga_bphs.json",
+        "path": "dataset/ashtakavarga_bphs.json",
+        "bytes": 30756,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "ashtakavarga_phalit_ki_adhunik_vidhiyan_by_m_s_mehta_and_rajesh_chandra_dadwal_pawan_ballabh_thapaliyal_hindi.json",
+        "path": "dataset/ashtakavarga_phalit_ki_adhunik_vidhiyan_by_m_s_mehta_and_rajesh_chandra_dadwal_pawan_ballabh_thapaliyal_hindi.json",
+        "bytes": 627594,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ashtakoot.json",
+        "path": "dataset/ashtakoot.json",
+        "bytes": 5190,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "asli_prachin_lal_kitab_girdhari_lal_sharma.json",
+        "path": "dataset/asli_prachin_lal_kitab_girdhari_lal_sharma.json",
+        "bytes": 1147489,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "aspects.json",
+        "path": "dataset/aspects.json",
+        "bytes": 5009,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "astrology_and_astronomy_software_collection_with_serials_or_crack_contents.json",
+        "path": "dataset/astrology_and_astronomy_software_collection_with_serials_or_crack_contents.json",
+        "bytes": 2687,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "astrology_tuitions_audio_video_contents.json",
+        "path": "dataset/astrology_tuitions_audio_video_contents.json",
+        "bytes": 45575,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "astronomy_time_history_ayanamsa_contents.json",
+        "path": "dataset/astronomy_time_history_ayanamsa_contents.json",
+        "bytes": 40153,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "atharvaveda_samhita_with_the_commentary_of_sayanacharya_vol_ii.json",
+        "path": "dataset/atharvaveda_samhita_with_the_commentary_of_sayanacharya_vol_ii.json",
+        "bytes": 2573884,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "atharvaveda_samhita.json",
+        "path": "dataset/atharvaveda_samhita.json",
+        "bytes": 4465341,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "avkahadaPhala.json",
+        "path": "dataset/avkahadaPhala.json",
+        "bytes": 12422,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "b9_5f_hora_sara_ashtavarga_jatak_manuscripts_by_i_am_visionary_tunes.json",
+        "path": "dataset/b9_5f_hora_sara_ashtavarga_jatak_manuscripts_by_i_am_visionary_tunes.json",
+        "bytes": 23664,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas.json",
+        "path": "dataset/bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas.json",
+        "bytes": 695,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bhava_lords_bphs.json",
+        "path": "dataset/bhava_lords_bphs.json",
+        "bytes": 116002,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "bhavishya_purana_acharya_sriram_sharma.json",
+        "path": "dataset/bhavishya_purana_acharya_sriram_sharma.json",
+        "bytes": 1858877,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bhavishya_purana_vol_1_acharya_sriram_sharma.json",
+        "path": "dataset/bhavishya_purana_vol_1_acharya_sriram_sharma.json",
+        "bytes": 1859645,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bhrigu_samhita_concise_version_by_maharishi_bhrigu_and_t_m_rao_astrology_illustrated_delhi_2008_pustak_mahal.json",
+        "path": "dataset/bhrigu_samhita_concise_version_by_maharishi_bhrigu_and_t_m_rao_astrology_illustrated_delhi_2008_pustak_mahal.json",
+        "bytes": 420285,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bhrigu_samhita_falita_sarvanga_darshana_by_shri_bhagavana_dasa_mittal_thakura_prasad_and_sons_varanasi.json",
+        "path": "dataset/bhrigu_samhita_falita_sarvanga_darshana_by_shri_bhagavana_dasa_mittal_thakura_prasad_and_sons_varanasi.json",
+        "bytes": 2839853,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bhrigu_samhita_phalita_sarvanga_darshana_by_bhagavan_das_mittal_rupesh_takur_prasad_prakashana_varanasi.json",
+        "path": "dataset/bhrigu_samhita_phalita_sarvanga_darshana_by_bhagavan_das_mittal_rupesh_takur_prasad_prakashana_varanasi.json",
+        "bytes": 4202908,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bhrigu_sutra_siddha_nath_sharma.json",
+        "path": "dataset/bhrigu_sutra_siddha_nath_sharma.json",
+        "bytes": 214281,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "book_1969_liewellyn_a_to_z_horoscope_maker_and_delineator_kp_red_it.json",
+        "path": "dataset/book_1969_liewellyn_a_to_z_horoscope_maker_and_delineator_kp_red_it.json",
+        "bytes": 1415431,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "books_index.json",
+        "path": "dataset/books_index.json",
+        "bytes": 67660,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "books_jyotish_nadi_using_siderial_zodiac_contents.json",
+        "path": "dataset/books_jyotish_nadi_using_siderial_zodiac_contents.json",
+        "bytes": 66948,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "books_using_tropical_zodiac_contents.json",
+        "path": "dataset/books_using_tropical_zodiac_contents.json",
+        "bytes": 152313,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bphs_1_rsanthanam.json",
+        "path": "dataset/bphs_1_rsanthanam.json",
+        "bytes": 702907,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "bphs_2_rsanthanam.json",
+        "path": "dataset/bphs_2_rsanthanam.json",
+        "bytes": 654845,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "braj_vilas_saravali_kanpur_1898_naval_kishore_press.json",
+        "path": "dataset/braj_vilas_saravali_kanpur_1898_naval_kishore_press.json",
+        "bytes": 22776,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_jataka_bharatiya_phalit_shastra_umesh_puri_gyaneshwar.json",
+        "path": "dataset/brihat_jataka_bharatiya_phalit_shastra_umesh_puri_gyaneshwar.json",
+        "bytes": 966419,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_jataka_english_translation_b_suryanarain_row_1919_lr.json",
+        "path": "dataset/brihat_jataka_english_translation_b_suryanarain_row_1919_lr.json",
+        "bytes": 141735,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_jataka_english_translation_usha_and_sashi.json",
+        "path": "dataset/brihat_jataka_english_translation_usha_and_sashi.json",
+        "bytes": 7919,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_jataka_of_varaha_mihira_ed_by_venkata_raman_trans_by_surya_narain_rao_1957_bangalore_raman_publications.json",
+        "path": "dataset/brihat_jataka_of_varaha_mihira_ed_by_venkata_raman_trans_by_surya_narain_rao_1957_bangalore_raman_publications.json",
+        "bytes": 878498,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_jataka_of_varahamihira_swami_vijnanananda_mrml.json",
+        "path": "dataset/brihat_jataka_of_varahamihira_swami_vijnanananda_mrml.json",
+        "bytes": 455626,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_jataka_of_varahamihira_vivrutti_of_bhattolpala_sitaram_jha.json",
+        "path": "dataset/brihat_jataka_of_varahamihira_vivrutti_of_bhattolpala_sitaram_jha.json",
+        "bytes": 2343301,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection.json",
+        "path": "dataset/brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection.json",
+        "bytes": 7888,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashar_hora_shastra_ganesh_datt_pathak.json",
+        "path": "dataset/brihat_parashar_hora_shastra_ganesh_datt_pathak.json",
+        "bytes": 2606358,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashar_hora_shastra_of_parashar_muni.json",
+        "path": "dataset/brihat_parashar_hora_shastra_of_parashar_muni.json",
+        "bytes": 2809231,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashar_hora_shastra_parashar.json",
+        "path": "dataset/brihat_parashar_hora_shastra_parashar.json",
+        "bytes": 2598869,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashar_hora_shastra_suresh_chandra_mishra.json",
+        "path": "dataset/brihat_parashar_hora_shastra_suresh_chandra_mishra.json",
+        "bytes": 1493538,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashar_hora_shastra_vol_1.json",
+        "path": "dataset/brihat_parashar_hora_shastra_vol_1.json",
+        "bytes": 1483322,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashar_hora_shastra_vol_2.json",
+        "path": "dataset/brihat_parashar_hora_shastra_vol_2.json",
+        "bytes": 1904990,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashar_hora_shastram.json",
+        "path": "dataset/brihat_parashar_hora_shastram.json",
+        "bytes": 2845341,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_parashara_hora_shastram_of_parashar_muni_with_hindi_commentary_by_pt_shri_ganesh_datta_jyotish.json",
+        "path": "dataset/brihat_parashara_hora_shastram_of_parashar_muni_with_hindi_commentary_by_pt_shri_ganesh_datta_jyotish.json",
+        "bytes": 2681535,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_b_p_mishra.json",
+        "path": "dataset/brihat_samhita_b_p_mishra.json",
+        "bytes": 2215853,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_dr_surkant_jha_2.json",
+        "path": "dataset/brihat_samhita_dr_surkant_jha_2.json",
+        "bytes": 2975560,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_dr_surkant_jha.json",
+        "path": "dataset/brihat_samhita_dr_surkant_jha.json",
+        "bytes": 2966380,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_edited_by_mohan_chatopadhyay_missing_pages_jangamwadi_math.json",
+        "path": "dataset/brihat_samhita_edited_by_mohan_chatopadhyay_missing_pages_jangamwadi_math.json",
+        "bytes": 2431416,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_edition_1.json",
+        "path": "dataset/brihat_samhita_edition_1.json",
+        "bytes": 2075781,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_edition_2.json",
+        "path": "dataset/brihat_samhita_edition_2.json",
+        "bytes": 1308192,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_edition_3.json",
+        "path": "dataset/brihat_samhita_edition_3.json",
+        "bytes": 1483429,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_edition_4.json",
+        "path": "dataset/brihat_samhita_edition_4.json",
+        "bytes": 1923057,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_of_sri_varaha_mihira_part_2_with_bhattotpala_commentary_edited_by_dr_krishna_chandra_dvivedi.json",
+        "path": "dataset/brihat_samhita_of_sri_varaha_mihira_part_2_with_bhattotpala_commentary_edited_by_dr_krishna_chandra_dvivedi.json",
+        "bytes": 2610129,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_of_varaha_mihir_part_1_edited_by_m_ramakrishna_bhat_motilal_banarasidas_delhi.json",
+        "path": "dataset/brihat_samhita_of_varaha_mihir_part_1_edited_by_m_ramakrishna_bhat_motilal_banarasidas_delhi.json",
+        "bytes": 1692978,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_samhita_of_varaha_mihira_by_avadha_vihari_tripathi_varanaseya_sanskrit_vishwavidyalaya.json",
+        "path": "dataset/brihat_samhita_of_varaha_mihira_by_avadha_vihari_tripathi_varanaseya_sanskrit_vishwavidyalaya.json",
+        "bytes": 2558323,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_stotra_ratnakar_1932_pandurang_javji_mumbai.json",
+        "path": "dataset/brihat_stotra_ratnakar_1932_pandurang_javji_mumbai.json",
+        "bytes": 1037272,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_stotra_ratnakar_acharya_pandit_shivdutta_shastri.json",
+        "path": "dataset/brihat_stotra_ratnakar_acharya_pandit_shivdutta_shastri.json",
+        "bytes": 1580882,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_stotra_ratnakar_by_shiva_datt_kavi_khemraj.json",
+        "path": "dataset/brihat_stotra_ratnakar_by_shiva_datt_kavi_khemraj.json",
+        "bytes": 1165097,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_stotra_ratnakar_ed_chaman_lal_gautam_sanskriti_sansthan_bareli.json",
+        "path": "dataset/brihat_stotra_ratnakar_ed_chaman_lal_gautam_sanskriti_sansthan_bareli.json",
+        "bytes": 1262334,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_stotra_ratnakar_illustrated_khemraj.json",
+        "path": "dataset/brihat_stotra_ratnakar_illustrated_khemraj.json",
+        "bytes": 929723,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_stotra_ratnakar_part_i_1906_khemraj.json",
+        "path": "dataset/brihat_stotra_ratnakar_part_i_1906_khemraj.json",
+        "bytes": 698430,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "brihat_stotra_ratnakar_partial_garbled.json",
+        "path": "dataset/brihat_stotra_ratnakar_partial_garbled.json",
+        "bytes": 626558,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "calculator_catalog_v15.json",
+        "path": "dataset/calculator_catalog_v15.json",
+        "bytes": 7299,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "career_prediction_rules.json",
+        "path": "dataset/career_prediction_rules.json",
+        "bytes": 7097,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "chamatkar_chintamani_jatak_granth_pt_mahidhar_sharma.json",
+        "path": "dataset/chamatkar_chintamani_jatak_granth_pt_mahidhar_sharma.json",
+        "bytes": 156828,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "chamatkari_mantra_aur_siddhiyaan_srivastava.json",
+        "path": "dataset/chamatkari_mantra_aur_siddhiyaan_srivastava.json",
+        "bytes": 455645,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.json",
+        "path": "dataset/chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.json",
+        "bytes": 895,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "chandrakala_nadi_1.json",
+        "path": "dataset/chandrakala_nadi_1.json",
+        "bytes": 1224198,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "chandrakala_nadi_2.json",
+        "path": "dataset/chandrakala_nadi_2.json",
+        "bytes": 1407829,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "chappanna_or_prasana_sastra_b_suryanarain_rao_1946.json",
+        "path": "dataset/chappanna_or_prasana_sastra_b_suryanarain_rao_1946.json",
+        "bytes": 145631,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "chara.json",
+        "path": "dataset/chara.json",
+        "bytes": 30,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "cities.json",
+        "path": "dataset/cities.json",
+        "bytes": 55956535,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ckn_3.json",
+        "path": "dataset/ckn_3.json",
+        "bytes": 1787418,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "classified_by_topics_contents.json",
+        "path": "dataset/classified_by_topics_contents.json",
+        "bytes": 478260,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "competitive-capability-matrix.json",
+        "path": "dataset/competitive-capability-matrix.json",
+        "bytes": 2708,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "completion-manifest-v7.json",
+        "path": "dataset/completion-manifest-v7.json",
+        "bytes": 861,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "constants.json",
+        "path": "dataset/constants.json",
+        "bytes": 50248,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "corrections.json",
+        "path": "dataset/corrections.json",
+        "bytes": 25,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "current_year_monthly.json",
+        "path": "dataset/current_year_monthly.json",
+        "bytes": 196,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "d10_dashamsa_rules.json",
+        "path": "dataset/d10_dashamsa_rules.json",
+        "bytes": 4802,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "d9_navamsa_rules.json",
+        "path": "dataset/d9_navamsa_rules.json",
+        "bytes": 3835,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "daily_horoscope.json",
+        "path": "dataset/daily_horoscope.json",
+        "bytes": 1314,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "damara_tantra_manu_01_04_125_lal_bahadur_shastri_sanskrit_university.json",
+        "path": "dataset/damara_tantra_manu_01_04_125_lal_bahadur_shastri_sanskrit_university.json",
+        "bytes": 50675,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "damara_tantra_ram_kumar_rai.json",
+        "path": "dataset/damara_tantra_ram_kumar_rai.json",
+        "bytes": 165063,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "dasha_bphs.json",
+        "path": "dataset/dasha_bphs.json",
+        "bytes": 279688,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "dasha_meanings.json",
+        "path": "dataset/dasha_meanings.json",
+        "bytes": 19455,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "datasetCatalog.json",
+        "path": "dataset/datasetCatalog.json",
+        "bytes": 59523,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "datasetRegistry.json",
+        "path": "dataset/datasetRegistry.json",
+        "bytes": 2524,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "decade_forecast.json",
+        "path": "dataset/decade_forecast.json",
+        "bytes": 226,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "deva_keralam_1_chandrakala_nadi.json",
+        "path": "dataset/deva_keralam_1_chandrakala_nadi.json",
+        "bytes": 682069,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "deva_keralam_2_chandrakala_nadi.json",
+        "path": "dataset/deva_keralam_2_chandrakala_nadi.json",
+        "bytes": 723641,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "deva_keralam.json",
+        "path": "dataset/deva_keralam.json",
+        "bytes": 3946351,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "dharma_sindhu_by_kashinath_upadhyaya_1904_nirnaya_sagar_press_jangamawadi_math_collection.json",
+        "path": "dataset/dharma_sindhu_by_kashinath_upadhyaya_1904_nirnaya_sagar_press_jangamawadi_math_collection.json",
+        "bytes": 2447903,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "dharmasindhu_srikashinaththopadhyavicharit.json",
+        "path": "dataset/dharmasindhu_srikashinaththopadhyavicharit.json",
+        "bytes": 5440947,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "dharmasindhu.json",
+        "path": "dataset/dharmasindhu.json",
+        "bytes": 2291820,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "divisional_charts.json",
+        "path": "dataset/divisional_charts.json",
+        "bytes": 10024,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "dosha_yoga_remedies.json",
+        "path": "dataset/dosha_yoga_remedies.json",
+        "bytes": 288,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "doshas_detailed_database.json",
+        "path": "dataset/doshas_detailed_database.json",
+        "bytes": 17223,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "doshas.json",
+        "path": "dataset/doshas.json",
+        "bytes": 9699,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "dream_meanings.json",
+        "path": "dataset/dream_meanings.json",
+        "bytes": 52987,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "durga_saptashati_tantra_books.json",
+        "path": "dataset/durga_saptashati_tantra_books.json",
+        "bytes": 799025,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "education_config.json",
+        "path": "dataset/education_config.json",
+        "bytes": 490,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ekaksharaganapatikavacha_rudrayamalatantra_cgv_pss_0948_1006.json",
+        "path": "dataset/ekaksharaganapatikavacha_rudrayamalatantra_cgv_pss_0948_1006.json",
+        "bytes": 6364,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "encyclopaedia_of_hinduism.json",
+        "path": "dataset/encyclopaedia_of_hinduism.json",
+        "bytes": 568470,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "engine.json",
+        "path": "dataset/engine.json",
+        "bytes": 13356,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "event-remedies.json",
+        "path": "dataset/event-remedies.json",
+        "bytes": 1360,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "eventRules.json",
+        "path": "dataset/eventRules.json",
+        "bytes": 5660,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "extended_bala.json",
+        "path": "dataset/extended_bala.json",
+        "bytes": 1286,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "extended_sections.json",
+        "path": "dataset/extended_sections.json",
+        "bytes": 7257,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "extended-sections.json",
+        "path": "dataset/extended-sections.json",
+        "bytes": 2936,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "feature-capabilities.json",
+        "path": "dataset/feature-capabilities.json",
+        "bytes": 1775,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "finance_prediction_rules.json",
+        "path": "dataset/finance_prediction_rules.json",
+        "bytes": 3584,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "garuda_mahapurana.json",
+        "path": "dataset/garuda_mahapurana.json",
+        "bytes": 5770602,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "garuda_purana_sankshipt_gita_press.json",
+        "path": "dataset/garuda_purana_sankshipt_gita_press.json",
+        "bytes": 4531942,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "garuda_purana.json",
+        "path": "dataset/garuda_purana.json",
+        "bytes": 1193752,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "gayatri_maha_mantra_swami_kashikananda_giri.json",
+        "path": "dataset/gayatri_maha_mantra_swami_kashikananda_giri.json",
+        "bytes": 1121290,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "gemstones_recommendation.json",
+        "path": "dataset/gemstones_recommendation.json",
+        "bytes": 15844,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ghatakFavourable.json",
+        "path": "dataset/ghatakFavourable.json",
+        "bytes": 246,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "gochar.json",
+        "path": "dataset/gochar.json",
+        "bytes": 8210,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "graha_shanti_rules.json",
+        "path": "dataset/graha_shanti_rules.json",
+        "bytes": 22887,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "graha_states.json",
+        "path": "dataset/graha_states.json",
+        "bytes": 316,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "health_prediction_rules.json",
+        "path": "dataset/health_prediction_rules.json",
+        "bytes": 3546,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "hora_sara_of_prithuyasas_prof_r_santhanam.json",
+        "path": "dataset/hora_sara_of_prithuyasas_prof_r_santhanam.json",
+        "bytes": 465777,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "house_effects_bphs.json",
+        "path": "dataset/house_effects_bphs.json",
+        "bytes": 138095,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "index.json",
+        "path": "dataset/index.json",
+        "bytes": 633,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ishta_devata_mapping.json",
+        "path": "dataset/ishta_devata_mapping.json",
+        "bytes": 5186,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "iti_brihat_jataka_by_bhattotpala_ashtaka_varga_adhyaya_and_muhurta_darpana_sanskrit_subject_jyotish_gurukul.json",
+        "path": "dataset/iti_brihat_jataka_by_bhattotpala_ashtaka_varga_adhyaya_and_muhurta_darpana_sanskrit_subject_jyotish_gurukul.json",
+        "bytes": 28098,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jadi_herbs.json",
+        "path": "dataset/jadi_herbs.json",
+        "bytes": 6985,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jaimini_sutras_2.json",
+        "path": "dataset/jaimini_sutras_2.json",
+        "bytes": 231660,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jaimini_sutras_b_suryanarain_rao_1949.json",
+        "path": "dataset/jaimini_sutras_b_suryanarain_rao_1949.json",
+        "bytes": 269824,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jaimini_sutras_b_suryanarain_rao_1955.json",
+        "path": "dataset/jaimini_sutras_b_suryanarain_rao_1955.json",
+        "bytes": 271563,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jaimini_sutras.json",
+        "path": "dataset/jaimini_sutras.json",
+        "bytes": 55869,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "janam_kundali_rachna_evam_phal_vichar.json",
+        "path": "dataset/janam_kundali_rachna_evam_phal_vichar.json",
+        "bytes": 1688832,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "janma_kundali_by_shri_bharatiya_yogi_1982_bareli_samskruti_samsthan.json",
+        "path": "dataset/janma_kundali_by_shri_bharatiya_yogi_1982_bareli_samskruti_samsthan.json",
+        "bytes": 348887,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jataka_chandrika_b_suryanarayana_row_1900.json",
+        "path": "dataset/jataka_chandrika_b_suryanarayana_row_1900.json",
+        "bytes": 153966,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jataka_parijata_2.json",
+        "path": "dataset/jataka_parijata_2.json",
+        "bytes": 1423682,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jataka_parijata_by_daivagya_shri_vaidyanatha_prajnavarddhini_commentary_by_dr_satyendra_mishra_sanskrit_hindi.json",
+        "path": "dataset/jataka_parijata_by_daivagya_shri_vaidyanatha_prajnavarddhini_commentary_by_dr_satyendra_mishra_sanskrit_hindi.json",
+        "bytes": 2433200,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jataka_parijata_daivjna_vidyanatha_pt_kapileswar_shastri_chaukambha.json",
+        "path": "dataset/jataka_parijata_daivjna_vidyanatha_pt_kapileswar_shastri_chaukambha.json",
+        "bytes": 3393672,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jataka_parijata_with_explanation_of_pt_kapileshvara_shastri_and_vimala_hindi_tika_of_pt_shri_matri_prasad.json",
+        "path": "dataset/jataka_parijata_with_explanation_of_pt_kapileshvara_shastri_and_vimala_hindi_tika_of_pt_shri_matri_prasad.json",
+        "bytes": 3380148,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jataka_parijata_with_prajnavardhini_sanskrit_hindi_commentaries_by_daivagya_shri_vaidyanatha_commented_edited.json",
+        "path": "dataset/jataka_parijata_with_prajnavardhini_sanskrit_hindi_commentaries_by_daivagya_shri_vaidyanatha_commented_edited.json",
+        "bytes": 1903507,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jataka_parijata.json",
+        "path": "dataset/jataka_parijata.json",
+        "bytes": 1421155,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_anil_chawla_a_philosophy_of_astrology_kp_system.json",
+        "path": "dataset/jyotish_anil_chawla_a_philosophy_of_astrology_kp_system.json",
+        "bytes": 60513,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_applications_of_cuspal_interlinks_part_1_baskaran_banned.json",
+        "path": "dataset/jyotish_applications_of_cuspal_interlinks_part_1_baskaran_banned.json",
+        "bytes": 267309,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_applications_of_cuspal_interlinks_part_2_baskaran_banned.json",
+        "path": "dataset/jyotish_applications_of_cuspal_interlinks_part_2_baskaran_banned.json",
+        "bytes": 270192,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_astrologics_of_kaalchakra_baskaran.json",
+        "path": "dataset/jyotish_astrologics_of_kaalchakra_baskaran.json",
+        "bytes": 711147,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_houses_8_and_3_in_advanced_astrology_kp_horary_chatterjee.json",
+        "path": "dataset/jyotish_houses_8_and_3_in_advanced_astrology_kp_horary_chatterjee.json",
+        "bytes": 701906,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_how_k_p_pinpoint_events_prasna_k_hariharan.json",
+        "path": "dataset/jyotish_how_k_p_pinpoint_events_prasna_k_hariharan.json",
+        "bytes": 131921,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_k_p_astro_iq_easy_test.json",
+        "path": "dataset/jyotish_k_p_astro_iq_easy_test.json",
+        "bytes": 52927,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_k_p_basics_of_nakshatra_padhathi_mk_viswanath.json",
+        "path": "dataset/jyotish_k_p_basics_of_nakshatra_padhathi_mk_viswanath.json",
+        "bytes": 279471,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_k_p_dynamics_s_naik.json",
+        "path": "dataset/jyotish_k_p_dynamics_s_naik.json",
+        "bytes": 110178,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_k_p_how_to_judge_longevity_k_hariharan.json",
+        "path": "dataset/jyotish_k_p_how_to_judge_longevity_k_hariharan.json",
+        "bytes": 128899,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_key_to_learn_k_p_cuspal_system_s_p_khullar.json",
+        "path": "dataset/jyotish_key_to_learn_k_p_cuspal_system_s_p_khullar.json",
+        "bytes": 261533,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_books_magazines_contents.json",
+        "path": "dataset/jyotish_kp_books_magazines_contents.json",
+        "bytes": 6722,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_kalamsa_and_cuspal_interlinks_s_p_khullar.json",
+        "path": "dataset/jyotish_kp_kalamsa_and_cuspal_interlinks_s_p_khullar.json",
+        "bytes": 476739,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_new_dimensions_of_kp_astro_prabhakar.json",
+        "path": "dataset/jyotish_kp_new_dimensions_of_kp_astro_prabhakar.json",
+        "bytes": 187736,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_reader_5_transits_banned.json",
+        "path": "dataset/jyotish_kp_reader_5_transits_banned.json",
+        "bytes": 630303,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_sharad_joshi_krishnamurthy_padhdhati.json",
+        "path": "dataset/jyotish_kp_sharad_joshi_krishnamurthy_padhdhati.json",
+        "bytes": 126535,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing.json",
+        "path": "dataset/jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing.json",
+        "bytes": 48130,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_sharad_joshi_nakshatra_light.json",
+        "path": "dataset/jyotish_kp_sharad_joshi_nakshatra_light.json",
+        "bytes": 153784,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_the_times_horary_astrology_prabhakar.json",
+        "path": "dataset/jyotish_kp_the_times_horary_astrology_prabhakar.json",
+        "bytes": 198216,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_true_astrology_s_p_khullar.json",
+        "path": "dataset/jyotish_kp_true_astrology_s_p_khullar.json",
+        "bytes": 401033,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_kp_year_book_2010.json",
+        "path": "dataset/jyotish_kp_year_book_2010.json",
+        "bytes": 202251,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_krishnamurthy_paddhati_bansal.json",
+        "path": "dataset/jyotish_krishnamurthy_paddhati_bansal.json",
+        "bytes": 83684,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_prashna_kundali_vichar.json",
+        "path": "dataset/jyotish_prashna_kundali_vichar.json",
+        "bytes": 1867478,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "jyotish_your_true_horoscope_kp_rectification_s_p_khullar.json",
+        "path": "dataset/jyotish_your_true_horoscope_kp_rectification_s_p_khullar.json",
+        "bytes": 352922,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "kalachakra.json",
+        "path": "dataset/kalachakra.json",
+        "bytes": 4511,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "kali_tantra_shashtra_tantra_books.json",
+        "path": "dataset/kali_tantra_shashtra_tantra_books.json",
+        "bytes": 574521,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "kalyan_sankshipta_varaha_purana_ankha_editor_motilal_jalan_gorakhpur_1977_gita_press.json",
+        "path": "dataset/kalyan_sankshipta_varaha_purana_ankha_editor_motilal_jalan_gorakhpur_1977_gita_press.json",
+        "bytes": 3498458,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "karakamsha_rules.json",
+        "path": "dataset/karakamsha_rules.json",
+        "bytes": 4177,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "karana_details.json",
+        "path": "dataset/karana_details.json",
+        "bytes": 9088,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "karma_vipaka_samhita_tika_and_bhashya_vasti_ram_venkateswara_steam_press.json",
+        "path": "dataset/karma_vipaka_samhita_tika_and_bhashya_vasti_ram_venkateswara_steam_press.json",
+        "bytes": 1010579,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "karma_vipaka_samhita_trans_by_vastirama_2010_delhi_rashtriya_sanskrit_samsthan.json",
+        "path": "dataset/karma_vipaka_samhita_trans_by_vastirama_2010_delhi_rashtriya_sanskrit_samsthan.json",
+        "bytes": 1190524,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "kp_system.json",
+        "path": "dataset/kp_system.json",
+        "bytes": 5174,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ksu_h1308_saravali0000vsub.json",
+        "path": "dataset/ksu_h1308_saravali0000vsub.json",
+        "bytes": 896345,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "kurma_puranam_ed_by_mahesh_chandra_josh_1967_varansi_chowkhamba_krishnadas_academy.json",
+        "path": "dataset/kurma_puranam_ed_by_mahesh_chandra_josh_1967_varansi_chowkhamba_krishnadas_academy.json",
+        "bytes": 4438876,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lagna_predictions.json",
+        "path": "dataset/lagna_predictions.json",
+        "bytes": 31899,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "laksmi_tantra_a_pancharatra_agama_pandit_v_krishnamacharya.json",
+        "path": "dataset/laksmi_tantra_a_pancharatra_agama_pandit_v_krishnamacharya.json",
+        "bytes": 1880874,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lal_kitab_1939.json",
+        "path": "dataset/lal_kitab_1939.json",
+        "bytes": 908146,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lal_kitab_ke_adbhut_totke_evam_upay_grahon_ke_kuprabhav_se_bachne_ke_liye_by_dr_umesh_puri_gyaneshwar_hindi.json",
+        "path": "dataset/lal_kitab_ke_adbhut_totke_evam_upay_grahon_ke_kuprabhav_se_bachne_ke_liye_by_dr_umesh_puri_gyaneshwar_hindi.json",
+        "bytes": 600342,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lal_kitab_upay_sahit.json",
+        "path": "dataset/lal_kitab_upay_sahit.json",
+        "bytes": 530747,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lal-kitab-data.json",
+        "path": "dataset/lal-kitab-data.json",
+        "bytes": 43016,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lal-kitab-timing.json",
+        "path": "dataset/lal-kitab-timing.json",
+        "bytes": 3402,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lalkitab.json",
+        "path": "dataset/lalkitab.json",
+        "bytes": 1288,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "le_dharmasindhu_ou_ocean_des_rites_religieux_traduit_du_sanscrit_en_anglais_et_commente_par_m_a_bourquin.json",
+        "path": "dataset/le_dharmasindhu_ou_ocean_des_rites_religieux_traduit_du_sanscrit_en_anglais_et_commente_par_m_a_bourquin.json",
+        "bytes": 283436,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "lordshipQuality.json",
+        "path": "dataset/lordshipQuality.json",
+        "bytes": 355,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "magazines_jyotish_vedic_astrology.json",
+        "path": "dataset/magazines_jyotish_vedic_astrology.json",
+        "bytes": 5406,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "magazines_western_tropical_astrology.json",
+        "path": "dataset/magazines_western_tropical_astrology.json",
+        "bytes": 11137,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.json",
+        "path": "dataset/maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.json",
+        "bytes": 683,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "maha_shaktishali_tone_totke_and_upaya_of_tantrik_bahal_rajat_prakashan.json",
+        "path": "dataset/maha_shaktishali_tone_totke_and_upaya_of_tantrik_bahal_rajat_prakashan.json",
+        "bytes": 1012726,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "malaviya_dr_sudhakar_2007_ahirbudhnya_samhita_of_the_pancharatra_agama_with_the_sarala_hindi_translation.json",
+        "path": "dataset/malaviya_dr_sudhakar_2007_ahirbudhnya_samhita_of_the_pancharatra_agama_with_the_sarala_hindi_translation.json",
+        "bytes": 3043989,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "malaviya_dr_sudhakar_ed_trans_and_comm_2003_lakshmi_tantram_a_pancharatra_agama_with_sudha_hindi_commentary.json",
+        "path": "dataset/malaviya_dr_sudhakar_ed_trans_and_comm_2003_lakshmi_tantram_a_pancharatra_agama_with_sudha_hindi_commentary.json",
+        "bytes": 3218719,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_anushthan_paddhati.json",
+        "path": "dataset/mantra_anushthan_paddhati.json",
+        "bytes": 1353121,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_mahodadhi_sanskrit_hindi.json",
+        "path": "dataset/mantra_mahodadhi_sanskrit_hindi.json",
+        "bytes": 3987371,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_mahodadhi.json",
+        "path": "dataset/mantra_mahodadhi.json",
+        "bytes": 3734117,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_prayog.json",
+        "path": "dataset/mantra_prayog.json",
+        "bytes": 207697,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_sagar_by_rameshwar_jha_tantra_books.json",
+        "path": "dataset/mantra_sagar_by_rameshwar_jha_tantra_books.json",
+        "bytes": 1001457,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_shakti_ke_adbhut_chamatkar.json",
+        "path": "dataset/mantra_shakti_ke_adbhut_chamatkar.json",
+        "bytes": 611404,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_shakti.json",
+        "path": "dataset/mantra_shakti.json",
+        "bytes": 496303,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_shastra_sadhana_aur_sidhiyaan_acharya_bhaskaranada_lohani.json",
+        "path": "dataset/mantra_shastra_sadhana_aur_sidhiyaan_acharya_bhaskaranada_lohani.json",
+        "bytes": 1425556,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_shastra_sadhana_aur_sidhiyaan.json",
+        "path": "dataset/mantra_shastra_sadhana_aur_sidhiyaan.json",
+        "bytes": 1482912,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_tantra_yantra_vigyan_july_1981.json",
+        "path": "dataset/mantra_tantra_yantra_vigyan_july_1981.json",
+        "bytes": 257406,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_vidya.json",
+        "path": "dataset/mantra_vidya.json",
+        "bytes": 780232,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_vigyan_hindi_by_govinda_shastri_sadhana_pocket_books_delhi.json",
+        "path": "dataset/mantra_vigyan_hindi_by_govinda_shastri_sadhana_pocket_books_delhi.json",
+        "bytes": 900988,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mantra_yoga.json",
+        "path": "dataset/mantra_yoga.json",
+        "bytes": 1448206,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "Mantra-Tantra-Sadhana-Laxmi-Narayan-Sharma-1978-1993.json",
+        "path": "dataset/Mantra-Tantra-Sadhana-Laxmi-Narayan-Sharma-1978-1993.json",
+        "bytes": 30019,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "marriage_prediction_rules.json",
+        "path": "dataset/marriage_prediction_rules.json",
+        "bytes": 5150,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "master-requirements.json",
+        "path": "dataset/master-requirements.json",
+        "bytes": 5545,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "menu.json",
+        "path": "dataset/menu.json",
+        "bytes": 4438,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "mimamsa_sutras_by_jaimini_commentary_mimamsa_bhashya_by_shabara_svamin_sanskrit_mimamsa_missing_pages_jaimini.json",
+        "path": "dataset/mimamsa_sutras_by_jaimini_commentary_mimamsa_bhashya_by_shabara_svamin_sanskrit_mimamsa_missing_pages_jaimini.json",
+        "bytes": 2502851,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "nakshatra_basic_list.json",
+        "path": "dataset/nakshatra_basic_list.json",
+        "bytes": 15490,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "narad_purana_hindi.json",
+        "path": "dataset/narad_purana_hindi.json",
+        "bytes": 5182466,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "narad_purana_sankshipt_hindi_gita_press.json",
+        "path": "dataset/narad_purana_sankshipt_hindi_gita_press.json",
+        "bytes": 5408615,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "narada_samhita_hindi.json",
+        "path": "dataset/narada_samhita_hindi.json",
+        "bytes": 728259,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "navdurga_dashmaha_vidhya_rahasya_pt_rameshchandra_sharma_tantra_books.json",
+        "path": "dataset/navdurga_dashmaha_vidhya_rahasya_pt_rameshchandra_sharma_tantra_books.json",
+        "bytes": 5370156,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "neecha_bhanga.json",
+        "path": "dataset/neecha_bhanga.json",
+        "bytes": 1441,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_2.json",
+        "path": "dataset/nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_2.json",
+        "bytes": 3109363,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press.json",
+        "path": "dataset/nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press.json",
+        "bytes": 3109757,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "nirnaya_sindhu_chudamani_veni_madhav_dhakal_kamalakara_bhatta_sanskrit_and_nepali_dharmashastra_illustrated.json",
+        "path": "dataset/nirnaya_sindhu_chudamani_veni_madhav_dhakal_kamalakara_bhatta_sanskrit_and_nepali_dharmashastra_illustrated.json",
+        "bytes": 11119071,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "nirnaya_sindhu_samskrutham.json",
+        "path": "dataset/nirnaya_sindhu_samskrutham.json",
+        "bytes": 2725127,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "numerology-data.json",
+        "path": "dataset/numerology-data.json",
+        "bytes": 8788,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "nutation2000b.json",
+        "path": "dataset/nutation2000b.json",
+        "bytes": 9562,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "other_documents_not_books.json",
+        "path": "dataset/other_documents_not_books.json",
+        "bytes": 211220,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "outcome-schema.json",
+        "path": "dataset/outcome-schema.json",
+        "bytes": 673,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "p_s_sastri_uttarakaalaamruta_of_kaalidaasa_hindi.json",
+        "path": "dataset/p_s_sastri_uttarakaalaamruta_of_kaalidaasa_hindi.json",
+        "bytes": 1020186,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "palmistry_rules.json",
+        "path": "dataset/palmistry_rules.json",
+        "bytes": 20611,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "panchang_calculator_v15.json",
+        "path": "dataset/panchang_calculator_v15.json",
+        "bytes": 1171,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "phaladeepika_1950.json",
+        "path": "dataset/phaladeepika_1950.json",
+        "bytes": 613766,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "phaladeepika_1st_ed_by_v_subrahmanya_sastri.json",
+        "path": "dataset/phaladeepika_1st_ed_by_v_subrahmanya_sastri.json",
+        "bytes": 763730,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "phaladeepika_2.json",
+        "path": "dataset/phaladeepika_2.json",
+        "bytes": 613432,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "phaladeepika_2nd_ed_1950_by_v_subrahmanya_sastri.json",
+        "path": "dataset/phaladeepika_2nd_ed_1950_by_v_subrahmanya_sastri.json",
+        "bytes": 649239,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "phaladeepika_ojha.json",
+        "path": "dataset/phaladeepika_ojha.json",
+        "bytes": 1885352,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "phaladeepika.json",
+        "path": "dataset/phaladeepika.json",
+        "bytes": 764858,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "phaldipika.json",
+        "path": "dataset/phaldipika.json",
+        "bytes": 1908060,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "planetaryMasterTable.json",
+        "path": "dataset/planetaryMasterTable.json",
+        "bytes": 292,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "planetByPlanetReport.json",
+        "path": "dataset/planetByPlanetReport.json",
+        "bytes": 148,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "planetPositions.json",
+        "path": "dataset/planetPositions.json",
+        "bytes": 119,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "prasna_marga_1.json",
+        "path": "dataset/prasna_marga_1.json",
+        "bytes": 612761,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "prasna_marga_2.json",
+        "path": "dataset/prasna_marga_2.json",
+        "bytes": 556785,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "production-capability-registry.json",
+        "path": "dataset/production-capability-registry.json",
+        "bytes": 37514,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "puranic_encyolopaedia_vettem_mani.json",
+        "path": "dataset/puranic_encyolopaedia_vettem_mani.json",
+        "bytes": 5659965,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "raja_yoga.json",
+        "path": "dataset/raja_yoga.json",
+        "bytes": 45521,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "raman_how_to_judge_horoscope_1.json",
+        "path": "dataset/raman_how_to_judge_horoscope_1.json",
+        "bytes": 459380,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "raman_how_to_judge_horoscope_2.json",
+        "path": "dataset/raman_how_to_judge_horoscope_2.json",
+        "bytes": 651282,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "rasarnavakalpa.json",
+        "path": "dataset/rasarnavakalpa.json",
+        "bytes": 356174,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ravan_samhita_1.json",
+        "path": "dataset/ravan_samhita_1.json",
+        "bytes": 302317,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ravan_samhita_2.json",
+        "path": "dataset/ravan_samhita_2.json",
+        "bytes": 537360,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ravan_samhita_3.json",
+        "path": "dataset/ravan_samhita_3.json",
+        "bytes": 1099823,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ravan_samhita_4.json",
+        "path": "dataset/ravan_samhita_4.json",
+        "bytes": 479255,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "ravan_samhita_5.json",
+        "path": "dataset/ravan_samhita_5.json",
+        "bytes": 215845,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "remedies_bphs.json",
+        "path": "dataset/remedies_bphs.json",
+        "bytes": 146170,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "remedy-trace.json",
+        "path": "dataset/remedy-trace.json",
+        "bytes": 99,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "reporting-policy.json",
+        "path": "dataset/reporting-policy.json",
+        "bytes": 859,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "role_of_12_signs_in_vastu.json",
+        "path": "dataset/role_of_12_signs_in_vastu.json",
+        "bytes": 2864,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "rule-registry.json",
+        "path": "dataset/rule-registry.json",
+        "bytes": 2249,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "sade_sati_accurate.json",
+        "path": "dataset/sade_sati_accurate.json",
+        "bytes": 158,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "samarangana_sutradhara_by_sudhkar_malaviya_1981_benaras_chaukhamba.json",
+        "path": "dataset/samarangana_sutradhara_by_sudhkar_malaviya_1981_benaras_chaukhamba.json",
+        "bytes": 3322752,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "samarangana_sutradhara_vastushastra_vol_1_prof_pushpendra_kumar.json",
+        "path": "dataset/samarangana_sutradhara_vastushastra_vol_1_prof_pushpendra_kumar.json",
+        "bytes": 939279,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sankshipta_bhavishya_purana_geeta_press.json",
+        "path": "dataset/sankshipta_bhavishya_purana_geeta_press.json",
+        "bytes": 4635039,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "saravali_of_kalyana_varma_santhanam_r_astrology.json",
+        "path": "dataset/saravali_of_kalyana_varma_santhanam_r_astrology.json",
+        "bytes": 294082,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_2.json",
+        "path": "dataset/saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_2.json",
+        "bytes": 2384083,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.json",
+        "path": "dataset/saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.json",
+        "bytes": 510,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "saravali_subrahmanya_sastry_v_nirnaya_sagar_press_1907.json",
+        "path": "dataset/saravali_subrahmanya_sastry_v_nirnaya_sagar_press_1907.json",
+        "bytes": 898616,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "saravali.json",
+        "path": "dataset/saravali.json",
+        "bytes": 109274,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sarva_karma_anushthan_prakash_shabar_mantra.json",
+        "path": "dataset/sarva_karma_anushthan_prakash_shabar_mantra.json",
+        "bytes": 1925059,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sarvartha_chintamani_mahidhar_sharma.json",
+        "path": "dataset/sarvartha_chintamani_mahidhar_sharma.json",
+        "bytes": 1294570,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sarvartha_chintamani_panjab_uni.json",
+        "path": "dataset/sarvartha_chintamani_panjab_uni.json",
+        "bytes": 511083,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sarvartha_chintamani_with_english_translation_b_suryanarayana_row_1899.json",
+        "path": "dataset/sarvartha_chintamani_with_english_translation_b_suryanarayana_row_1899.json",
+        "bytes": 509015,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sarvatobhadra-layout.json",
+        "path": "dataset/sarvatobhadra-layout.json",
+        "bytes": 5039,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "scriptureLibrary.json",
+        "path": "dataset/scriptureLibrary.json",
+        "bytes": 91,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b.json",
+        "path": "dataset/sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b.json",
+        "bytes": 139861,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shabar_mantra_sagar_part_1.json",
+        "path": "dataset/shabar_mantra_sagar_part_1.json",
+        "bytes": 2919201,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shabar_mantra_sagar_part_2.json",
+        "path": "dataset/shabar_mantra_sagar_part_2.json",
+        "bytes": 2697139,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shadbala.json",
+        "path": "dataset/shadbala.json",
+        "bytes": 6071,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shani_ke_upaya_evam_totke.json",
+        "path": "dataset/shani_ke_upaya_evam_totke.json",
+        "bytes": 358707,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shatpanchasika_vibha_bhattotpala_and_dinanatha_jha_by_prithuyashas_dinanatha_jha_sanskrit_and_hindi_astrology.json",
+        "path": "dataset/shatpanchasika_vibha_bhattotpala_and_dinanatha_jha_by_prithuyashas_dinanatha_jha_sanskrit_and_hindi_astrology.json",
+        "bytes": 197969,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shiva_puja_stava_shiv_agama_sangha_devkottai_1935_jangamwadi_math_collection.json",
+        "path": "dataset/shiva_puja_stava_shiv_agama_sangha_devkottai_1935_jangamwadi_math_collection.json",
+        "bytes": 469358,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shree_varaha_purana_01.json",
+        "path": "dataset/shree_varaha_purana_01.json",
+        "bytes": 676250,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shree_varaha_purana_02.json",
+        "path": "dataset/shree_varaha_purana_02.json",
+        "bytes": 718711,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "shri_vayu_maha_puranam_part_1_trans_by_sudhakar_malaviya_2024_varanasi_chowkhamba_krishna_das_academy.json",
+        "path": "dataset/shri_vayu_maha_puranam_part_1_trans_by_sudhakar_malaviya_2024_varanasi_chowkhamba_krishna_das_academy.json",
+        "bytes": 3089209,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "siddha_shabar_mantra_ed_by_pramod_kumar_shastri_varanasi_rupesh_thakur_prasad_prakashan.json",
+        "path": "dataset/siddha_shabar_mantra_ed_by_pramod_kumar_shastri_varanasi_rupesh_thakur_prasad_prakashan.json",
+        "bytes": 806288,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "siddhanta_saravali_ed_vraj_vallabha_dwivedi.json",
+        "path": "dataset/siddhanta_saravali_ed_vraj_vallabha_dwivedi.json",
+        "bytes": 2479445,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "siddhanta_saravali_of_trilochana_shivacharya_ed_by_sri_vallabha_dvived_varansi_1998_shaiva_bharati_shodha.json",
+        "path": "dataset/siddhanta_saravali_of_trilochana_shivacharya_ed_by_sri_vallabha_dvived_varansi_1998_shaiva_bharati_shodha.json",
+        "bytes": 2521671,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sign_career_themes.json",
+        "path": "dataset/sign_career_themes.json",
+        "bytes": 1498,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sign_countries.json",
+        "path": "dataset/sign_countries.json",
+        "bytes": 1121,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "skanda_purana_kedara_khandam_with_hindi_trans_by_shivanand_nowtiyal_1994_prayag_hindi_sahitya_sammelan.json",
+        "path": "dataset/skanda_purana_kedara_khandam_with_hindi_trans_by_shivanand_nowtiyal_1994_prayag_hindi_sahitya_sammelan.json",
+        "bytes": 5767333,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "skandamahapuranam_part_2_chowkhamba_press.json",
+        "path": "dataset/skandamahapuranam_part_2_chowkhamba_press.json",
+        "bytes": 7597132,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "special_lagnas.json",
+        "path": "dataset/special_lagnas.json",
+        "bytes": 173,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "sri_tripurarahasyam_mahatmya_khandam_sanskrit_text_with_english_translation.json",
+        "path": "dataset/sri_tripurarahasyam_mahatmya_khandam_sanskrit_text_with_english_translation.json",
+        "bytes": 1319868,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr.json",
+        "path": "dataset/stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr.json",
+        "bytes": 140173,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "subscription-plans.json",
+        "path": "dataset/subscription-plans.json",
+        "bytes": 655,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "subscription-report-catalog.json",
+        "path": "dataset/subscription-report-catalog.json",
+        "bytes": 1339,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_2.json",
+        "path": "dataset/surya_siddhanta_2.json",
+        "bytes": 859122,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_3.json",
+        "path": "dataset/surya_siddhanta_3.json",
+        "bytes": 1213767,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_a_text_book_of_hindu_astronomy_with_tattvamrita_sanskrit_commentary_by_pt_sri_kapileswara.json",
+        "path": "dataset/surya_siddhanta_a_text_book_of_hindu_astronomy_with_tattvamrita_sanskrit_commentary_by_pt_sri_kapileswara.json",
+        "bytes": 1675494,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_and_siddhanta_siromani_bimala_prasad_sidhhnata_sarasvati_danvir_goswamy_iskon.json",
+        "path": "dataset/surya_siddhanta_and_siddhanta_siromani_bimala_prasad_sidhhnata_sarasvati_danvir_goswamy_iskon.json",
+        "bytes": 1505997,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_of_pt_shri_kapileshwar_shastri_144_kashi_sanskrit_series.json",
+        "path": "dataset/surya_siddhanta_of_pt_shri_kapileshwar_shastri_144_kashi_sanskrit_series.json",
+        "bytes": 1640844,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_part_1_with_vigyan_bhashya_mahavira_prasada_srivastava.json",
+        "path": "dataset/surya_siddhanta_part_1_with_vigyan_bhashya_mahavira_prasada_srivastava.json",
+        "bytes": 1497432,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_prof_ram_chandra_pandey.json",
+        "path": "dataset/surya_siddhanta_prof_ram_chandra_pandey.json",
+        "bytes": 1985155,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_vigyan_bhashya_khanda_2_by_mahavira_prasad_shrivastava_nagari_press_allahabad.json",
+        "path": "dataset/surya_siddhanta_vigyan_bhashya_khanda_2_by_mahavira_prasad_shrivastava_nagari_press_allahabad.json",
+        "bytes": 1339963,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_with_gudartha_prakash_and_hindi_tika_baldev_prasad_mishra_muradabadi.json",
+        "path": "dataset/surya_siddhanta_with_gudartha_prakash_and_hindi_tika_baldev_prasad_mishra_muradabadi.json",
+        "bytes": 1394490,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta_with_gudartha_prakashika_sanskrit_tika_and_prakashika_hindi_commentary_by_prof_rama_chandra.json",
+        "path": "dataset/surya_siddhanta_with_gudartha_prakashika_sanskrit_tika_and_prakashika_hindi_commentary_by_prof_rama_chandra.json",
+        "bytes": 2034991,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "surya_siddhanta.json",
+        "path": "dataset/surya_siddhanta.json",
+        "bytes": 1147731,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "system-rules.json",
+        "path": "dataset/system-rules.json",
+        "bytes": 5608,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "tajika_nilakanthi_jyotish_grantha_with_hindi_translation.json",
+        "path": "dataset/tajika_nilakanthi_jyotish_grantha_with_hindi_translation.json",
+        "bytes": 636362,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_agni_purana_part_1.json",
+        "path": "dataset/the_agni_purana_part_1.json",
+        "bytes": 636564,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_agni_purana_part_2.json",
+        "path": "dataset/the_agni_purana_part_2.json",
+        "bytes": 740270,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_agni_purana_part_3.json",
+        "path": "dataset/the_agni_purana_part_3.json",
+        "bytes": 421479,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_agni_purana_part_4.json",
+        "path": "dataset/the_agni_purana_part_4.json",
+        "bytes": 758250,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_astrological_self_instructor_b_suryanarain_rao_1893.json",
+        "path": "dataset/the_astrological_self_instructor_b_suryanarain_rao_1893.json",
+        "bytes": 344788,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_garuda_purana_vol_1.json",
+        "path": "dataset/the_garuda_purana_vol_1.json",
+        "bytes": 499049,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_garuda_purana_vol_2.json",
+        "path": "dataset/the_garuda_purana_vol_2.json",
+        "bytes": 562772,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_garuda_purana_vol_3.json",
+        "path": "dataset/the_garuda_purana_vol_3.json",
+        "bytes": 533444,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_mimasa_kaustubha_416p_jaimini_sutras_sanskrit_1933.json",
+        "path": "dataset/the_mimasa_kaustubha_416p_jaimini_sutras_sanskrit_1933.json",
+        "bytes": 1479313,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "the_vedic_experience_mantra_manjari_by_raimundo_panikkar_english_and_sanskrit_in_devanagari_script_vedas.json",
+        "path": "dataset/the_vedic_experience_mantra_manjari_by_raimundo_panikkar_english_and_sanskrit_in_devanagari_script_vedas.json",
+        "bytes": 496649,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "three_hundred_important_combinations.json",
+        "path": "dataset/three_hundred_important_combinations.json",
+        "bytes": 157076,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "tithi_details.json",
+        "path": "dataset/tithi_details.json",
+        "bytes": 16030,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "transits.json",
+        "path": "dataset/transits.json",
+        "bytes": 2252,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "unifiedEngine.json",
+        "path": "dataset/unifiedEngine.json",
+        "bytes": 51795,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "upagrahas.json",
+        "path": "dataset/upagrahas.json",
+        "bytes": 245,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "user-prediction-model.json",
+        "path": "dataset/user-prediction-model.json",
+        "bytes": 502,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "user-prediction-preferences.json",
+        "path": "dataset/user-prediction-preferences.json",
+        "bytes": 3740,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "uttara_kalamrita_kalidas.json",
+        "path": "dataset/uttara_kalamrita_kalidas.json",
+        "bytes": 255849,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "uttkalamrita_kalidas_ps_sastri.json",
+        "path": "dataset/uttkalamrita_kalidas_ps_sastri.json",
+        "bytes": 363067,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "v11_benchmark-manifest.json",
+        "path": "dataset/v11_benchmark-manifest.json",
+        "bytes": 492,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "v11_master-evidence-policy.json",
+        "path": "dataset/v11_master-evidence-policy.json",
+        "bytes": 347,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "v11_outcome-corpus.schema.json",
+        "path": "dataset/v11_outcome-corpus.schema.json",
+        "bytes": 662,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "varaha_purana.json",
+        "path": "dataset/varaha_purana.json",
+        "bytes": 6499799,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "varahamihira_brihat_jataka_marele_tratat_de_astrologie_natala.json",
+        "path": "dataset/varahamihira_brihat_jataka_marele_tratat_de_astrologie_natala.json",
+        "bytes": 307892,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "varahi_brihat_samhita_1933_lakshmi_venkateshwar_press.json",
+        "path": "dataset/varahi_brihat_samhita_1933_lakshmi_venkateshwar_press.json",
+        "bytes": 2117504,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "varga_interpretations.json",
+        "path": "dataset/varga_interpretations.json",
+        "bytes": 3129,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vargas.json",
+        "path": "dataset/vargas.json",
+        "bytes": 2565,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "varshaphal.json",
+        "path": "dataset/varshaphal.json",
+        "bytes": 150,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vastu_rules.json",
+        "path": "dataset/vastu_rules.json",
+        "bytes": 42633,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vimshottari.json",
+        "path": "dataset/vimshottari.json",
+        "bytes": 419,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vishwakarma_prakash_khemraj.json",
+        "path": "dataset/vishwakarma_prakash_khemraj.json",
+        "bytes": 808481,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vishwakarma_prakash.json",
+        "path": "dataset/vishwakarma_prakash.json",
+        "bytes": 1340364,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vivek_chudamani_gita_press_gorakhpur.json",
+        "path": "dataset/vivek_chudamani_gita_press_gorakhpur.json",
+        "bytes": 445966,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vratraj.json",
+        "path": "dataset/vratraj.json",
+        "bytes": 7591029,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "vsop87.json",
+        "path": "dataset/vsop87.json",
+        "bytes": 45,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "westernChart.json",
+        "path": "dataset/westernChart.json",
+        "bytes": 328,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yantra_chintamani_of_damodar_pandit_with_tika_by_baldev_prasad_khemaraj.json",
+        "path": "dataset/yantra_chintamani_of_damodar_pandit_with_tika_by_baldev_prasad_khemaraj.json",
+        "bytes": 435211,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yantra_chintamani.json",
+        "path": "dataset/yantra_chintamani.json",
+        "bytes": 408257,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yantra_geometrie_celesti_tantra_books.json",
+        "path": "dataset/yantra_geometrie_celesti_tantra_books.json",
+        "bytes": 109810,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yantra_sadhana_book_by_sri_yogeshwaranand_sumit_girdharwal.json",
+        "path": "dataset/yantra_sadhana_book_by_sri_yogeshwaranand_sumit_girdharwal.json",
+        "bytes": 46273,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yantra_shakti_rudra_dev_tripathi.json",
+        "path": "dataset/yantra_shakti_rudra_dev_tripathi.json",
+        "bytes": 475866,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yantra_siddhi_rahashya_hindi_by_govinda_shastri_new_sadhana_pocket_books_delhi.json",
+        "path": "dataset/yantra_siddhi_rahashya_hindi_by_govinda_shastri_new_sadhana_pocket_books_delhi.json",
+        "bytes": 536389,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yogaEnrichment.json",
+        "path": "dataset/yogaEnrichment.json",
+        "bytes": 9844,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yogas__raja_yoga.json",
+        "path": "dataset/yogas__raja_yoga.json",
+        "bytes": 45521,
+        "validJson": "Yes",
+        "topLevel": "array"
+      },
+      {
+        "name": "yogas_detailed_database.json",
+        "path": "dataset/yogas_detailed_database.json",
+        "bytes": 25465,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yogas-doshas.json",
+        "path": "dataset/yogas-doshas.json",
+        "bytes": 7228,
+        "validJson": "Yes",
+        "topLevel": "object"
+      },
+      {
+        "name": "yogas.json",
+        "path": "dataset/yogas.json",
+        "bytes": 75960,
+        "validJson": "Yes",
+        "topLevel": "array"
+      }
+    ]
+  }
+}

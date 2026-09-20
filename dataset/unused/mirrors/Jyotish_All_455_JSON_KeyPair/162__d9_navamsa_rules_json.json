@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "162__d9_navamsa_rules_json",
+    "name": "d9_navamsa_rules",
+    "original_file": "d9_navamsa_rules.json",
+    "dataset_number": "92 of 455",
+    "format": "json",
+    "source_readable_file": "d9_navamsa_rules.txt",
+    "source_sha256": "794bff81c2df1b84f9d7b414df6ab23e2d10e7a7e4e3de7bee66683d04c6effa",
+    "source_bytes": 4070
+  },
+  "metadata": {
+    "description": "D9 detailed interpretation rules for marriage, spouse, and partnership"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "name": "D9 Navamsa Interpretation Rules",
+      "description": "D9 detailed interpretation rules for marriage, spouse, and partnership",
+      "source": "Parashara Hora Shastra & classical texts",
+      "overview": "The 9th harmonic (D9) = divisions of 30° into 9 parts of 3°20'. Shows spouse quality, marriage timing, partnership dharma.",
+      "rules": {
+        "_items": [
+          {
+            "rule_id": 1,
+            "name": "Lagna in D9",
+            "interpretation": "Lagna lord in D9 = native's behavior/appearance in marriage",
+            "strong": "If exalted/own house = mature, responsible partner",
+            "weak": "If debilitated = immature, dependent on partner"
+          },
+          {
+            "rule_id": 2,
+            "name": "7th House in D9",
+            "interpretation": "Shows spouse's character, health, temperament",
+            "planets_in_7th": "Each planet describes spouse quality",
+            "strong_7th": "Moon/Venus = caring, devoted spouse",
+            "weak_7th": "Mars/Saturn = harsh, detached, challenging partnership"
+          },
+          {
+            "rule_id": 3,
+            "name": "Darakarka (DK)",
+            "interpretation": "Weakest planet in D9 = spouse indicators",
+            "dk_characteristics": "DK's sign, aspects, conjunctions = spouse temperament/quality",
+            "example": "DK in Cancer = emotional spouse; DK in Capricorn = strict, controlling"
+          },
+          {
+            "rule_id": 4,
+            "name": "Venus in D9",
+            "interpretation": "Love, romance, physical attraction",
+            "strong": "Exalted/own house Venus = beautiful, devoted spouse",
+            "weak": "Debilitated Venus = loveless marriage or spouse issues"
+          },
+          {
+            "rule_id": 5,
+            "name": "7th Lord in D9",
+            "interpretation": "Marriage prospects, spouse acquisition",
+            "strong_7l": "Exalted/own house = easy marriage, good spouse",
+            "weak_7l": "Retrograde/debilitated = marriage delays, spouse conflict"
+          },
+          {
+            "rule_id": 6,
+            "name": "D9 Upapada (UP)",
+            "interpretation": "Exact timing of marriage",
+            "calculation": "UP = 12th from D9 Lagna",
+            "up_lord_strength": "Strong UP lord = marriage happens in that dasha"
+          },
+          {
+            "rule_id": 7,
+            "name": "Multiple Marriages",
+            "indicators": {
+              "_items": [
+                {
+                  "_text": [
+                    "7th lord in 6/8/12th in D9"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Mars in 7th of D9"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Darakarka in malefic house without benefic aspect"
+                  ]
+                }
+              ]
+            },
+            "cancellation": "Benefic aspects on 7th; strong Jupiter; exalted 7th lord"
+          },
+          {
+            "rule_id": 8,
+            "name": "No Marriage Indicators",
+            "indicators": {
+              "_items": [
+                {
+                  "_text": [
+                    "8th lord in Lagna D9"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Saturn/Rahu in 7th D9 with Mars"
+                  ]
+                },
+                {
+                  "_text": [
+                    "All planets in 6/8/12th"
+                  ]
+                }
+              ]
+            },
+            "remedy": "Strong Venus; strong 7th lord benefic aspect"
+          }
+        ]
+      },
+      "sign_interpretations": {
+        "Aries_D9": "Spouse: active, passionate, independent; Challenges: aggression, impatience",
+        "Taurus_D9": "Spouse: stable, sensual, loyal; Challenges: stubborn, possessive",
+        "Gemini_D9": "Spouse: communicative, intellectual, restless; Challenges: detached, flirting",
+        "Cancer_D9": "Spouse: emotional, nurturing, home-loving; Challenges: moody, clingy",
+        "Leo_D9": "Spouse: proud, generous, leader; Challenges: ego, dominance",
+        "Virgo_D9": "Spouse: analytical, critical, service-oriented; Challenges: perfectionist, worrying",
+        "Libra_D9": "Spouse: diplomatic, artistic, balanced; Challenges: indecisive, superficial",
+        "Scorpio_D9": "Spouse: intense, secretive, magnetic; Challenges: jealous, controlling",
+        "Sagittarius_D9": "Spouse: philosophical, adventurous, optimistic; Challenges: irresponsible, wandering",
+        "Capricorn_D9": "Spouse: ambitious, disciplined, cold; Challenges: too serious, emotionally distant",
+        "Aquarius_D9": "Spouse: detached, innovative, unique; Challenges: aloof, eccentric",
+        "Pisces_D9": "Spouse: compassionate, imaginative, intuitive; Challenges: escapist, gullible"
+      }
+    }
+  }
+}

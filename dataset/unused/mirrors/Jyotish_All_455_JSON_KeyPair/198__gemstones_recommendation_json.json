@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "198__gemstones_recommendation_json",
+    "name": "Gemstones Recommendation as per Rashi and Lagna",
+    "original_file": "gemstones_recommendation.json",
+    "dataset_number": "128 of 455",
+    "format": "json",
+    "source_readable_file": "gemstones_recommendation.txt",
+    "source_sha256": "b24f4502b9ed1d5c9c15258d051e103fa82570dc7de8919a25308e3dd473ba28",
+    "source_bytes": 16707
+  },
+  "metadata": {
+    "title": "Gemstones Recommendation as per Rashi and Lagna",
+    "description": "Complete guide on which gemstones to wear, when to wear, metal to use, finger to wear, and which gemstones to avoid based on Vedic astrology."
+  },
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Moonga (Red Coral)",
+        "planet": "Mars",
+        "weight": "5 to 9 carats",
+        "metal": "Gold or Copper",
+        "finger": "Ring finger",
+        "day": "Tuesday",
+        "time": "Morning (Sunrise to 11 AM)",
+        "mantra": "Om Ang Angarkaya Namah",
+        "benefits": "Courage, energy, victory over enemies, blood purification, property gains."
+      },
+      {
+        "name": "Manik (Ruby)",
+        "planet": "Sun",
+        "weight": "3 to 6 carats",
+        "metal": "Gold or Copper",
+        "finger": "Ring finger",
+        "day": "Sunday",
+        "time": "Morning",
+        "mantra": "Om Ghrini Suryaya Namah",
+        "benefits": "Authority, fame, leadership, confidence, good health."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Heera (Diamond)",
+        "planet": "Venus",
+        "weight": "0.5 to 1.5 carats",
+        "metal": "Platinum or Silver",
+        "finger": "Middle finger or Little finger",
+        "day": "Friday",
+        "time": "Morning or Evening",
+        "mantra": "Om Shum Shukraya Namah",
+        "benefits": "Luxury, artistic success, marital bliss, beauty, wealth."
+      },
+      {
+        "name": "Panna (Emerald)",
+        "planet": "Mercury",
+        "weight": "4 to 6 carats",
+        "metal": "Gold or Silver",
+        "finger": "Little finger",
+        "day": "Wednesday",
+        "time": "Morning",
+        "mantra": "Om Bum Budhaya Namah",
+        "benefits": "Intelligence, business success, communication, financial gains."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Panna (Emerald)",
+        "planet": "Mercury",
+        "weight": "5 to 7 carats",
+        "metal": "Gold or Silver",
+        "finger": "Little finger",
+        "day": "Wednesday",
+        "time": "Morning (Sunrise to 10 AM)",
+        "mantra": "Om Bum Budhaya Namah",
+        "benefits": "Intelligence, memory, business success, communication skills."
+      },
+      {
+        "name": "Pukhraj (Yellow Sapphire)",
+        "planet": "Jupiter",
+        "weight": "4 to 6 carats",
+        "metal": "Gold",
+        "finger": "Index finger",
+        "day": "Thursday",
+        "time": "Morning",
+        "mantra": "Om Brim Brihaspataye Namah",
+        "benefits": "Wisdom, wealth, progeny, spiritual growth, marital harmony."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Moti (Pearl)",
+        "planet": "Moon",
+        "weight": "5 to 7 carats",
+        "metal": "Silver",
+        "finger": "Little finger",
+        "day": "Monday",
+        "time": "Evening (After Moonrise)",
+        "mantra": "Om Som Somaya Namah",
+        "benefits": "Mental peace, emotional stability, mother's blessings, prosperity."
+      },
+      {
+        "name": "Panna (Emerald)",
+        "planet": "Mercury",
+        "weight": "4 to 6 carats",
+        "metal": "Gold or Silver",
+        "finger": "Little finger",
+        "day": "Wednesday",
+        "time": "Morning",
+        "mantra": "Om Bum Budhaya Namah",
+        "benefits": "Intelligence, career growth, financial stability."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Manik (Ruby)",
+        "planet": "Sun",
+        "weight": "4 to 6 carats",
+        "metal": "Gold or Copper",
+        "finger": "Ring finger",
+        "day": "Sunday",
+        "time": "Morning (Sunrise)",
+        "mantra": "Om Ghrini Suryaya Namah",
+        "benefits": "Authority, fame, leadership, good health, father's blessings."
+      },
+      {
+        "name": "Moonga (Red Coral)",
+        "planet": "Mars",
+        "weight": "5 to 7 carats",
+        "metal": "Gold or Copper",
+        "finger": "Ring finger",
+        "day": "Tuesday",
+        "time": "Morning",
+        "mantra": "Om Ang Angarkaya Namah",
+        "benefits": "Courage, victory over enemies, property gains, physical strength."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Panna (Emerald)",
+        "planet": "Mercury",
+        "weight": "5 to 7 carats",
+        "metal": "Gold or Silver",
+        "finger": "Little finger",
+        "day": "Wednesday",
+        "time": "Morning",
+        "mantra": "Om Bum Budhaya Namah",
+        "benefits": "Intelligence, analytical skills, business success, wealth."
+      },
+      {
+        "name": "Heera (Diamond)",
+        "planet": "Venus",
+        "weight": "0.5 to 1 carat",
+        "metal": "Platinum or Silver",
+        "finger": "Middle finger",
+        "day": "Friday",
+        "time": "Morning",
+        "mantra": "Om Shum Shukraya Namah",
+        "benefits": "Luxury, artistic success, marital bliss, financial growth."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Heera (Diamond)",
+        "planet": "Venus",
+        "weight": "0.5 to 1.5 carats",
+        "metal": "Platinum or Silver",
+        "finger": "Middle finger",
+        "day": "Friday",
+        "time": "Morning or Evening",
+        "mantra": "Om Shum Shukraya Namah",
+        "benefits": "Luxury, beauty, artistic success, marital harmony, wealth."
+      },
+      {
+        "name": "Neelam (Blue Sapphire)",
+        "planet": "Saturn",
+        "weight": "3 to 5 carats",
+        "metal": "Silver or Panchdhatu",
+        "finger": "Middle finger",
+        "day": "Saturday",
+        "time": "Morning",
+        "mantra": "Om Sham Shanaishcharaya Namah",
+        "benefits": "Discipline, career growth, longevity, protection from enemies."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Moonga (Red Coral)",
+        "planet": "Mars",
+        "weight": "6 to 9 carats",
+        "metal": "Gold or Copper",
+        "finger": "Ring finger",
+        "day": "Tuesday",
+        "time": "Morning",
+        "mantra": "Om Ang Angarkaya Namah",
+        "benefits": "Courage, victory over enemies, property gains, physical strength."
+      },
+      {
+        "name": "Pukhraj (Yellow Sapphire)",
+        "planet": "Jupiter",
+        "weight": "4 to 6 carats",
+        "metal": "Gold",
+        "finger": "Index finger",
+        "day": "Thursday",
+        "time": "Morning",
+        "mantra": "Om Brim Brihaspataye Namah",
+        "benefits": "Wisdom, wealth, spiritual growth, marital harmony, progeny."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Pukhraj (Yellow Sapphire)",
+        "planet": "Jupiter",
+        "weight": "5 to 7 carats",
+        "metal": "Gold",
+        "finger": "Index finger",
+        "day": "Thursday",
+        "time": "Morning",
+        "mantra": "Om Brim Brihaspataye Namah",
+        "benefits": "Wisdom, wealth, spiritual growth, marital harmony, progeny, good fortune."
+      },
+      {
+        "name": "Manik (Ruby)",
+        "planet": "Sun",
+        "weight": "3 to 5 carats",
+        "metal": "Gold or Copper",
+        "finger": "Ring finger",
+        "day": "Sunday",
+        "time": "Morning",
+        "mantra": "Om Ghrini Suryaya Namah",
+        "benefits": "Authority, fame, leadership, good health."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Neelam (Blue Sapphire)",
+        "planet": "Saturn",
+        "weight": "3 to 5 carats",
+        "metal": "Silver, Panchdhatu, or Iron",
+        "finger": "Middle finger",
+        "day": "Saturday",
+        "time": "Morning or Evening",
+        "mantra": "Om Sham Shanaishcharaya Namah",
+        "benefits": "Discipline, career growth, longevity, protection from enemies, land gains."
+      },
+      {
+        "name": "Heera (Diamond)",
+        "planet": "Venus",
+        "weight": "0.5 to 1.5 carats",
+        "metal": "Platinum or Silver",
+        "finger": "Middle finger",
+        "day": "Friday",
+        "time": "Morning",
+        "mantra": "Om Shum Shukraya Namah",
+        "benefits": "Luxury, marital bliss, artistic success, financial growth."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Neelam (Blue Sapphire)",
+        "planet": "Saturn",
+        "weight": "3 to 5 carats",
+        "metal": "Silver, Panchdhatu, or Iron",
+        "finger": "Middle finger",
+        "day": "Saturday",
+        "time": "Morning or Evening",
+        "mantra": "Om Sham Shanaishcharaya Namah",
+        "benefits": "Discipline, career growth, longevity, protection from enemies."
+      },
+      {
+        "name": "Panna (Emerald)",
+        "planet": "Mercury",
+        "weight": "4 to 6 carats",
+        "metal": "Gold or Silver",
+        "finger": "Little finger",
+        "day": "Wednesday",
+        "time": "Morning",
+        "mantra": "Om Bum Budhaya Namah",
+        "benefits": "Intelligence, business success, communication, financial gains."
+      },
+      {
+        "name": "name",
+        "planet": "planet",
+        "weight": "weight",
+        "metal": "metal",
+        "finger": "finger",
+        "day": "day",
+        "time": "time",
+        "mantra": "mantra",
+        "benefits": "benefits"
+      },
+      {
+        "name": "Pukhraj (Yellow Sapphire)",
+        "planet": "Jupiter",
+        "weight": "5 to 7 carats",
+        "metal": "Gold",
+        "finger": "Index finger",
+        "day": "Thursday",
+        "time": "Morning",
+        "mantra": "Om Brim Brihaspataye Namah",
+        "benefits": "Wisdom, wealth, spiritual growth, marital harmony, progeny."
+      },
+      {
+        "name": "Moonga (Red Coral)",
+        "planet": "Mars",
+        "weight": "5 to 7 carats",
+        "metal": "Gold or Copper",
+        "finger": "Ring finger",
+        "day": "Tuesday",
+        "time": "Morning",
+        "mantra": "Om Ang Angarkaya Namah",
+        "benefits": "Courage, victory over enemies, property gains."
+      }
+    ]
+  }
+}

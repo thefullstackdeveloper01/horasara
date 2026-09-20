@@ -1,0 +1,61 @@
+READABLE DATASET
+================================================================================
+Original file: lalkitab.json
+Dataset number: 263 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,288 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• RIN_RULES:
+  1.
+    • name: Pitru Rin
+    • label: Ancestral/Father Debt
+    • triggerPlanets:
+      1.
+        Venus
+      2.
+        Mercury
+      3.
+        Rahu
+    • triggerHouses:
+      1.
+        2
+      2.
+        5
+      3.
+        9
+      4.
+        12
+    • indication: Loss of wealth, career blocks, friction with authority/father figures, hard work not paying off
+    • remedy: Collect money/food from relatives and donate to a temple, on the same day
+  2.
+    • name: Matru Rin
+    • label: Mother Debt
+    • triggerPlanets:
+      1.
+        Ketu
+    • triggerHouses:
+      1.
+        4
+    • indication: Mother's health issues, domestic instability, financial losses
+    • remedy: Offer silver coins or a silver item, collected from relatives, into a flowing river
+  3.
+    • name: Stri Rin
+    • label: Debt to Women/Wife
+    • triggerPlanets:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Rahu
+    • triggerHouses:
+      1.
+        2
+      2.
+        7
+    • indication: Marital turbulence, difficulty finding/keeping a partner, recurring conflict with women in the family
+    • remedy: Respect and serve the women in one's family; avoid disrespecting women; donate white items on Mondays

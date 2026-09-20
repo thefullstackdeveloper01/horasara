@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Tantra-List.json
+Dataset number: 208 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 357 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | name | category | deity | purpose | method_summary | source_text
+---------------------------------------------------------------------
+tantra_001 | Swarna Akarshana Bhairav Tantra | Akarshana (Attraction) | Lord Bhairava | Attracting wealth and prosperity. | Nyasa of the deity, chanting the root mantra 108 times on a Pushya Nakshatra night. | Tantra Raj

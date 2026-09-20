@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Fasting-Rules.json
+Dataset number: 171 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 365 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | day | planet | deity | fasting_rules | prohibited | benefits
+-----------------------------------------------------------------
+vrat_001 | Thursday | Jupiter | Lord Vishnu / Brihaspati | Eat only yellow food (Chana Dal, Turmeric) once before sunset. | Salt, Oil, Haircut, Washing clothes. | Pacifies malefic Jupiter, brings wisdom, wealth, and marital harmony.

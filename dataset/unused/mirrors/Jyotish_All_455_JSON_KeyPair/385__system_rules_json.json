@@ -1,0 +1,1673 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "385__system_rules_json",
+    "name": "system-rules",
+    "original_file": "system-rules.json",
+    "dataset_number": "385 of 455",
+    "format": "json",
+    "source_readable_file": "system-rules.txt",
+    "source_sha256": "fed207f305995a955d857422242187f7356d8e025e5c9730c94fd8e4d30783ed",
+    "source_bytes": 7101
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "prashna": {
+        "ASPECTS": {
+          "Mars": {
+            "_items": [
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          "Jupiter": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          "Saturn": {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          "Rahu": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          "Ketu": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          "Sun": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          "Moon": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          "Mercury": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          "Venus": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          }
+        },
+        "QUESTION_HOUSES": {
+          "marriage": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "partnership": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          "love": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "career": {
+            "_items": [
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          "job": {
+            "_items": [
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          "business": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          "finance": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          "wealth": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          "property": {
+            "_items": [
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "vehicle": {
+            "_items": [
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "education": {
+            "_items": [
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          "children": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pregnancy": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "travel": {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "foreign": {
+            "_items": [
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          "litigation": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "illness": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "recovery": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "spiritual": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "promotion": {
+            "_items": [
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          "loss": {
+            "_items": [
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              }
+            ]
+          }
+        },
+        "BENEFICS": {
+          "_items": [
+            {
+              "_text": [
+                "Jupiter"
+              ]
+            },
+            {
+              "_text": [
+                "Venus"
+              ]
+            },
+            {
+              "_text": [
+                "Mercury"
+              ]
+            },
+            {
+              "_text": [
+                "Moon"
+              ]
+            }
+          ]
+        },
+        "MALEFICS": {
+          "_items": [
+            {
+              "_text": [
+                "Sun"
+              ]
+            },
+            {
+              "_text": [
+                "Mars"
+              ]
+            },
+            {
+              "_text": [
+                "Saturn"
+              ]
+            },
+            {
+              "_text": [
+                "Rahu"
+              ]
+            },
+            {
+              "_text": [
+                "Ketu"
+              ]
+            }
+          ]
+        }
+      },
+      "synastry": {
+        "DEFINITIONS": {
+          "_items": [
+            {
+              "_items": [
+                {
+                  "_text": [
+                    "conjunction"
+                  ]
+                },
+                {
+                  "_text": [
+                    "0"
+                  ]
+                },
+                {
+                  "_text": [
+                    "6"
+                  ]
+                },
+                {
+                  "_text": [
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "_items": [
+                {
+                  "_text": [
+                    "opposition"
+                  ]
+                },
+                {
+                  "_text": [
+                    "180"
+                  ]
+                },
+                {
+                  "_text": [
+                    "6"
+                  ]
+                },
+                {
+                  "_text": [
+                    "-1"
+                  ]
+                }
+              ]
+            },
+            {
+              "_items": [
+                {
+                  "_text": [
+                    "trine"
+                  ]
+                },
+                {
+                  "_text": [
+                    "120"
+                  ]
+                },
+                {
+                  "_text": [
+                    "5"
+                  ]
+                },
+                {
+                  "_text": [
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "_items": [
+                {
+                  "_text": [
+                    "square"
+                  ]
+                },
+                {
+                  "_text": [
+                    "90"
+                  ]
+                },
+                {
+                  "_text": [
+                    "5"
+                  ]
+                },
+                {
+                  "_text": [
+                    "-1"
+                  ]
+                }
+              ]
+            },
+            {
+              "_items": [
+                {
+                  "_text": [
+                    "sextile"
+                  ]
+                },
+                {
+                  "_text": [
+                    "60"
+                  ]
+                },
+                {
+                  "_text": [
+                    "4"
+                  ]
+                },
+                {
+                  "_text": [
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "_items": [
+                {
+                  "_text": [
+                    "quincunx"
+                  ]
+                },
+                {
+                  "_text": [
+                    "150"
+                  ]
+                },
+                {
+                  "_text": [
+                    "3"
+                  ]
+                },
+                {
+                  "_text": [
+                    "-1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "SIGN_ELEMENT": {
+          "_items": [
+            {
+              "_text": [
+                "Fire"
+              ]
+            },
+            {
+              "_text": [
+                "Earth"
+              ]
+            },
+            {
+              "_text": [
+                "Air"
+              ]
+            },
+            {
+              "_text": [
+                "Water"
+              ]
+            },
+            {
+              "_text": [
+                "Fire"
+              ]
+            },
+            {
+              "_text": [
+                "Earth"
+              ]
+            },
+            {
+              "_text": [
+                "Air"
+              ]
+            },
+            {
+              "_text": [
+                "Water"
+              ]
+            },
+            {
+              "_text": [
+                "Fire"
+              ]
+            },
+            {
+              "_text": [
+                "Earth"
+              ]
+            },
+            {
+              "_text": [
+                "Air"
+              ]
+            },
+            {
+              "_text": [
+                "Water"
+              ]
+            }
+          ]
+        },
+        "HOUSE_KEYS": {
+          "marriage": {
+            "_items": [
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          "romance": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          "family": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          "career": {
+            "_items": [
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          "finance": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "intimacy": {
+            "_items": [
+              {
+                "_text": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          "spirituality": {
+            "_items": [
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "sarvatobhadra": {
+        "NAKSHATRAS_28": {
+          "_items": [
+            {
+              "_text": [
+                "Ashwini"
+              ]
+            },
+            {
+              "_text": [
+                "Bharani"
+              ]
+            },
+            {
+              "_text": [
+                "Krittika"
+              ]
+            },
+            {
+              "_text": [
+                "Rohini"
+              ]
+            },
+            {
+              "_text": [
+                "Mrigashira"
+              ]
+            },
+            {
+              "_text": [
+                "Ardra"
+              ]
+            },
+            {
+              "_text": [
+                "Punarvasu"
+              ]
+            },
+            {
+              "_text": [
+                "Pushya"
+              ]
+            },
+            {
+              "_text": [
+                "Ashlesha"
+              ]
+            },
+            {
+              "_text": [
+                "Magha"
+              ]
+            },
+            {
+              "_text": [
+                "Purva Phalguni"
+              ]
+            },
+            {
+              "_text": [
+                "Uttara Phalguni"
+              ]
+            },
+            {
+              "_text": [
+                "Hasta"
+              ]
+            },
+            {
+              "_text": [
+                "Chitra"
+              ]
+            },
+            {
+              "_text": [
+                "Swati"
+              ]
+            },
+            {
+              "_text": [
+                "Vishakha"
+              ]
+            },
+            {
+              "_text": [
+                "Anuradha"
+              ]
+            },
+            {
+              "_text": [
+                "Jyeshtha"
+              ]
+            },
+            {
+              "_text": [
+                "Mula"
+              ]
+            },
+            {
+              "_text": [
+                "Purva Ashadha"
+              ]
+            },
+            {
+              "_text": [
+                "Uttara Ashadha"
+              ]
+            },
+            {
+              "_text": [
+                "Abhijit"
+              ]
+            },
+            {
+              "_text": [
+                "Shravana"
+              ]
+            },
+            {
+              "_text": [
+                "Dhanishta"
+              ]
+            },
+            {
+              "_text": [
+                "Shatabhisha"
+              ]
+            },
+            {
+              "_text": [
+                "Purva Bhadrapada"
+              ]
+            },
+            {
+              "_text": [
+                "Uttara Bhadrapada"
+              ]
+            },
+            {
+              "_text": [
+                "Revati"
+              ]
+            }
+          ]
+        },
+        "SIGNS": {
+          "_items": [
+            {
+              "_text": [
+                "Aries"
+              ]
+            },
+            {
+              "_text": [
+                "Taurus"
+              ]
+            },
+            {
+              "_text": [
+                "Gemini"
+              ]
+            },
+            {
+              "_text": [
+                "Cancer"
+              ]
+            },
+            {
+              "_text": [
+                "Leo"
+              ]
+            },
+            {
+              "_text": [
+                "Virgo"
+              ]
+            },
+            {
+              "_text": [
+                "Libra"
+              ]
+            },
+            {
+              "_text": [
+                "Scorpio"
+              ]
+            },
+            {
+              "_text": [
+                "Sagittarius"
+              ]
+            },
+            {
+              "_text": [
+                "Capricorn"
+              ]
+            },
+            {
+              "_text": [
+                "Aquarius"
+              ]
+            },
+            {
+              "_text": [
+                "Pisces"
+              ]
+            }
+          ]
+        },
+        "WEEKDAYS": {
+          "_items": [
+            {
+              "_text": [
+                "Sunday"
+              ]
+            },
+            {
+              "_text": [
+                "Monday"
+              ]
+            },
+            {
+              "_text": [
+                "Tuesday"
+              ]
+            },
+            {
+              "_text": [
+                "Wednesday"
+              ]
+            },
+            {
+              "_text": [
+                "Thursday"
+              ]
+            },
+            {
+              "_text": [
+                "Friday"
+              ]
+            },
+            {
+              "_text": [
+                "Saturday"
+              ]
+            }
+          ]
+        },
+        "TITHI_GROUPS": {
+          "Nanda": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              },
+              {
+                "_text": [
+                  "16"
+                ]
+              },
+              {
+                "_text": [
+                  "21"
+                ]
+              },
+              {
+                "_text": [
+                  "26"
+                ]
+              }
+            ]
+          },
+          "Bhadra": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              },
+              {
+                "_text": [
+                  "17"
+                ]
+              },
+              {
+                "_text": [
+                  "22"
+                ]
+              },
+              {
+                "_text": [
+                  "27"
+                ]
+              }
+            ]
+          },
+          "Jaya": {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "13"
+                ]
+              },
+              {
+                "_text": [
+                  "18"
+                ]
+              },
+              {
+                "_text": [
+                  "23"
+                ]
+              },
+              {
+                "_text": [
+                  "28"
+                ]
+              }
+            ]
+          },
+          "Rikta": {
+            "_items": [
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "14"
+                ]
+              },
+              {
+                "_text": [
+                  "19"
+                ]
+              },
+              {
+                "_text": [
+                  "24"
+                ]
+              },
+              {
+                "_text": [
+                  "29"
+                ]
+              }
+            ]
+          },
+          "Poorna": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "15"
+                ]
+              },
+              {
+                "_text": [
+                  "20"
+                ]
+              },
+              {
+                "_text": [
+                  "25"
+                ]
+              },
+              {
+                "_text": [
+                  "30"
+                ]
+              }
+            ]
+          }
+        },
+        "VOWELS": {
+          "_items": [
+            {
+              "_text": [
+                "a"
+              ]
+            },
+            {
+              "_text": [
+                "ā"
+              ]
+            },
+            {
+              "_text": [
+                "i"
+              ]
+            },
+            {
+              "_text": [
+                "ī"
+              ]
+            },
+            {
+              "_text": [
+                "u"
+              ]
+            },
+            {
+              "_text": [
+                "ū"
+              ]
+            },
+            {
+              "_text": [
+                "ṛ"
+              ]
+            },
+            {
+              "_text": [
+                "ṝ"
+              ]
+            },
+            {
+              "_text": [
+                "ḷ"
+              ]
+            },
+            {
+              "_text": [
+                "e"
+              ]
+            },
+            {
+              "_text": [
+                "ai"
+              ]
+            },
+            {
+              "_text": [
+                "o"
+              ]
+            },
+            {
+              "_text": [
+                "au"
+              ]
+            },
+            {
+              "_text": [
+                "aṃ"
+              ]
+            },
+            {
+              "_text": [
+                "aḥ"
+              ]
+            },
+            {
+              "_text": [
+                "lṛ"
+              ]
+            }
+          ]
+        },
+        "CONSONANTS": {
+          "_items": [
+            {
+              "_text": [
+                "ka"
+              ]
+            },
+            {
+              "_text": [
+                "kha"
+              ]
+            },
+            {
+              "_text": [
+                "ga"
+              ]
+            },
+            {
+              "_text": [
+                "gha"
+              ]
+            },
+            {
+              "_text": [
+                "ṅa"
+              ]
+            },
+            {
+              "_text": [
+                "ca"
+              ]
+            },
+            {
+              "_text": [
+                "cha"
+              ]
+            },
+            {
+              "_text": [
+                "ja"
+              ]
+            },
+            {
+              "_text": [
+                "jha"
+              ]
+            },
+            {
+              "_text": [
+                "ña"
+              ]
+            },
+            {
+              "_text": [
+                "ṭa"
+              ]
+            },
+            {
+              "_text": [
+                "ṭha"
+              ]
+            },
+            {
+              "_text": [
+                "ḍa"
+              ]
+            },
+            {
+              "_text": [
+                "ḍha"
+              ]
+            },
+            {
+              "_text": [
+                "ṇa"
+              ]
+            },
+            {
+              "_text": [
+                "ta"
+              ]
+            },
+            {
+              "_text": [
+                "tha"
+              ]
+            },
+            {
+              "_text": [
+                "da"
+              ]
+            },
+            {
+              "_text": [
+                "dha"
+              ]
+            },
+            {
+              "_text": [
+                "na"
+              ]
+            }
+          ]
+        }
+      },
+      "complete-dasha": {
+        "_text": [
+          "(empty)"
+        ]
+      },
+      "audit": {
+        "RULE_IDS": {
+          "_items": [
+            {
+              "_text": [
+                "BPHS.DASHA.VIMSHOTTARI"
+              ]
+            },
+            {
+              "_text": [
+                "BPHS.DASHA.UDU-CONDITIONAL"
+              ]
+            },
+            {
+              "_text": [
+                "KP.CUSP-SUB-LORD"
+              ]
+            },
+            {
+              "_text": [
+                "JAIMINI.ARUDHA"
+              ]
+            },
+            {
+              "_text": [
+                "JAIMINI.KARAKAMSHA"
+              ]
+            },
+            {
+              "_text": [
+                "TAJIKA.VARSHAPHAL"
+              ]
+            },
+            {
+              "_text": [
+                "LAL.KITAB.35Y"
+              ]
+            },
+            {
+              "_text": [
+                "SBC.81GRID"
+              ]
+            },
+            {
+              "_text": [
+                "PRASHNA.HORARY"
+              ]
+            },
+            {
+              "_text": [
+                "MILAN.ASHTAKOOT"
+              ]
+            }
+          ]
+        }
+      },
+      "contradiction": {
+        "EVENTS": {
+          "_items": [
+            {
+              "_text": [
+                "marriage"
+              ]
+            },
+            {
+              "_text": [
+                "career"
+              ]
+            },
+            {
+              "_text": [
+                "job"
+              ]
+            },
+            {
+              "_text": [
+                "business"
+              ]
+            },
+            {
+              "_text": [
+                "wealth"
+              ]
+            },
+            {
+              "_text": [
+                "finance"
+              ]
+            },
+            {
+              "_text": [
+                "property"
+              ]
+            },
+            {
+              "_text": [
+                "children"
+              ]
+            },
+            {
+              "_text": [
+                "education"
+              ]
+            },
+            {
+              "_text": [
+                "health"
+              ]
+            },
+            {
+              "_text": [
+                "foreign"
+              ]
+            },
+            {
+              "_text": [
+                "litigation"
+              ]
+            },
+            {
+              "_text": [
+                "spirituality"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import { existsSync } from 'node:fs';
+import { readdir, readFile } from 'node:fs/promises';
+import { validateHistoricalChart, validatePredictionOutcome } from '../src/quality/v8/CorpusValidator.js';
+import { validateReferenceCase } from '../src/quality/v8/UniversalBenchmark.js';
+import { walkForwardEvaluate } from '../src/quality/v8/WalkForwardEvaluator.js';
+import { reconcileSystems } from '../src/quality/v8/CrossSystemReconciler.js';
+const required=['src/quality/v8/UniversalBenchmark.js','src/quality/v8/CorpusValidator.js','src/quality/v8/CrossSystemReconciler.js','src/quality/v8/WalkForwardEvaluator.js','src/quality/v8/ValidationContracts.js'];
+for(const p of required) assert.ok(existsSync(p),`missing ${p}`);
+const bad=validateHistoricalChart({id:'x',verification:{status:'unverified'}}); assert.equal(bad.valid,false);
+const leak=validatePredictionOutcome({id:'o',chartId:'c',cutoff:'2026-01-02',event:{type:'job',date:'2026-01-01'},source:{verificationStatus:'verified'}}); assert.equal(leak.valid,false);
+assert.equal(validateReferenceCase({id:'x',input:{},expected:{},source:{verificationStatus:'verified'}}).valid,true);
+const wf=walkForwardEvaluate([{id:'1',event:{date:'2026-01-01'},cutoff:'2025-01-01',outcome:{observed:true}},{id:'2',event:{date:'2026-02-01'},cutoff:'2026-01-01',outcome:{observed:false}}],()=>({predicted:false}));assert.equal(wf.cases,2);
+const rec=reconcileSystems({parashari:{claims:[{topic:'career',value:'yes'}]},kp:{claims:[{topic:'career',value:'yes'}]}});assert.equal(rec.topics[0].agreement,true);
+let json=0;async function walk(d){for(const e of await readdir(d,{withFileTypes:true})){const p=`${d}/${e.name}`;if(e.isDirectory())await walk(p);else if(e.name.endsWith('.json')){json++;JSON.parse(await readFile(p,'utf8'));}}}await walk('dataset/used');assert.ok(json>=355);
+console.log(`v8-master-release: PASS — ${required.length}/${required.length} core V8 modules present; ${json} JSON files parse; validation/leakage/reconciliation gates PASS.`);

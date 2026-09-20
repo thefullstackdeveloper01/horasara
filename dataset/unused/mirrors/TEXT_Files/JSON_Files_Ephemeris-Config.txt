@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Ephemeris-Config.json
+Dataset number: 170 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 213 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• engine: Swiss Ephemeris
+• ayanamsa_default: Lahiri (Chitrapaksha)
+• ayanamsa_value_2024: 24.14
+• planetary_calculation_mode: Geocentric / Topocentric
+• node_calculation: True Node

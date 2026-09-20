@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Chara-Dasha-List.json
+Dataset number: 163 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 241 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+sign | direction | years | logic
+--------------------------------
+Aries | Direct | 12 | Lord Mars gives results based on its placement.
+Taurus | Direct | 11 | Lord Venus gives results of wealth and comforts.

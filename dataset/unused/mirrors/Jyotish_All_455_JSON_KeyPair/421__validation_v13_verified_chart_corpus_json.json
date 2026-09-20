@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "421__validation_v13_verified_chart_corpus_json",
+    "name": "validation_v13_verified-chart-corpus",
+    "original_file": "validation/v13/verified-chart-corpus.json",
+    "dataset_number": "420 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v13_verified-chart-corpus.txt",
+    "source_sha256": "93791a6caef062928778bb880c9580694b2baae4f413a664c8d20c0317446cd1",
+    "source_bytes": 581
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "13.0.0",
+      "status": "VERIFIED_IMPORT_REQUIRED",
+      "records": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "policy": {
+        "no_fabrication": "Yes",
+        "source_provenance_required": "Yes",
+        "independent_verification_required": "Yes"
+      }
+    }
+  }
+}

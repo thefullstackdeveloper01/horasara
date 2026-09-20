@@ -1,0 +1,27 @@
+READABLE DATASET
+================================================================================
+Original file: v11_master-evidence-policy.json
+Dataset number: 407 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 347 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 11.0
+• rules:
+  1.
+    No fabricated historical persons or birth data
+  2.
+    No fabricated event outcomes
+  3.
+    No fabricated competitor results
+  4.
+    No unsupported accuracy claims
+  5.
+    Every benchmark case must preserve conventions and provenance
+  6.
+    Outcome cutoff must precede every evaluated event
+  7.
+    Third-party review must be independently documented

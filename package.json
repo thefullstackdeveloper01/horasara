@@ -1,0 +1,23 @@
+{
+  "name": "horasaar",
+  "version": "1.0.0-production",
+  "description": "HoraSaar production web application \u2014 secure dataset-driven Jyotish calculations, personalized forecasts, subscriptions, Razorpay payments, UPI-compatible checkout, email delivery, SEO and responsive UX.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "main": "server.js",
+  "scripts": {
+    "web": "node server.js",
+    "enterprise:cron": "node scheduler.js --once",
+    "enterprise:daemon": "node scheduler.js",
+    "subscriptions:daemon": "node scheduler.js",
+    "subscriptions:once": "node scheduler.js --once",
+    "start": "node server.js",
+    "health": "node -e \"fetch('http://127.0.0.1:'+String(process.env.PORT||8787)+'/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))\"",
+    "cli": "node cli.js",
+    "pdf": "node pdfgenerate.js",
+    "test:report-outline": "node test/master-report-outline.test.mjs"
+  }
+}

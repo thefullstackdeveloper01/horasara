@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "159__corrections_json",
+    "name": "corrections",
+    "original_file": "corrections.json",
+    "dataset_number": "89 of 455",
+    "format": "json",
+    "source_readable_file": "corrections.txt",
+    "source_sha256": "13a24b9ce614a43b896afe4f0077b3ee6aef9bcd4daf6c0551183fce3c15dace",
+    "source_bytes": 369
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "WGS84_A": 6378137
+    }
+  }
+}

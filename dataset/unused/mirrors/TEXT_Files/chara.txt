@@ -1,0 +1,12 @@
+READABLE DATASET
+================================================================================
+Original file: chara.json
+Dataset number: 82 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 30 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• SIDEREAL_YEAR: 365.25

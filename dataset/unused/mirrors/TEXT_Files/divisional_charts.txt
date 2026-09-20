@@ -1,0 +1,395 @@
+READABLE DATASET
+================================================================================
+Original file: divisional_charts.json
+Dataset number: 107 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 10,024 bytes
+Top-level records: 16
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • chart: D1
+  • name: Rashi
+  • division: 1
+  • purpose: Main birth chart — overall life, all matters
+  • sign_calculation: Direct rashi position
+  • planets_used: All 9 grahas
+  • key_ascendant: Lagna
+  • primary_domains:
+    1.
+      All life areas
+  • secondary_domains:
+    1.
+      Physical body
+    2.
+      General fate
+  • traditional_text: Brihat Parashara Hora Shastra Ch.6
+  • importance: Highest
+  • how_to_read: Primary chart; all other divisional charts are read relative to D1
+2.
+  • chart: D2
+  • name: Hora
+  • division: 2
+  • purpose: Wealth and financial prosperity
+  • sign_calculation: Odd signs: Sun hora (Leo); Even signs: Moon hora (Cancer)
+  • planets_used: Sun, Moon preferred
+  • key_ascendant: Hora Lagna
+  • primary_domains:
+    1.
+      Wealth
+    2.
+      Financial gains
+    3.
+      Income
+  • secondary_domains:
+    1.
+      Prosperity
+    2.
+      Financial karma
+  • traditional_text: BPHS Ch.6
+  • importance: High
+  • how_to_read: Count planets in Sun hora vs Moon hora; Sun = male/active wealth; Moon = female/passive wealth
+3.
+  • chart: D3
+  • name: Drekkana
+  • division: 3
+  • purpose: Siblings, courage, co-borns
+  • sign_calculation: First 10°: same sign; 10-20°: 5th sign; 20-30°: 9th sign
+  • planets_used: Mars, 3rd lord
+  • key_ascendant: Drekkana Lagna
+  • primary_domains:
+    1.
+      Siblings
+    2.
+      Younger siblings
+    3.
+      Courage
+    4.
+      Short journeys
+  • secondary_domains:
+    1.
+      Physical stamina
+    2.
+      Boldness
+  • traditional_text: BPHS Ch.6
+  • importance: Medium
+  • how_to_read: 3rd house from Drekkana = eldest sibling; 11th = younger
+4.
+  • chart: D4
+  • name: Chaturthamsa
+  • division: 4
+  • purpose: Fortune, property, fixed assets
+  • sign_calculation: Each 7.5° maps to Cardinal, Fixed, Mutable, Cardinal signs
+  • planets_used: Moon, 4th lord
+  • key_ascendant: Chaturthamsa Lagna
+  • primary_domains:
+    1.
+      Property
+    2.
+      Home
+    3.
+      Land
+    4.
+      Vehicles
+    5.
+      Fixed assets
+  • secondary_domains:
+    1.
+      Mother
+    2.
+      Education
+  • traditional_text: BPHS Ch.6
+  • importance: Medium
+  • how_to_read: 4th house from D4 = property; benefics indicate good property
+5.
+  • chart: D7
+  • name: Saptamsa
+  • division: 7
+  • purpose: Children, creativity, progeny
+  • sign_calculation: Odd sign: 1st to 7th harmonic; Even sign: 7th to 1st
+  • planets_used: Jupiter, 5th lord
+  • key_ascendant: Saptamsa Lagna
+  • primary_domains:
+    1.
+      Children
+    2.
+      Progeny
+    3.
+      Fertility
+    4.
+      Creativity
+  • secondary_domains:
+    1.
+      5th house matters
+  • traditional_text: BPHS Ch.6
+  • importance: High
+  • how_to_read: 5th house of D7 = children; Jupiter position key
+6.
+  • chart: D9
+  • name: Navamsa
+  • division: 9
+  • purpose: Marriage, dharma, higher purpose, strength of planets
+  • sign_calculation: Each sign divided into 9 parts of 3°20'; Fire signs start Aries; Earth start Capricorn; Air start Libra; Water start Cancer
+  • planets_used: All grahas
+  • key_ascendant: Navamsa Lagna (Atmakaraka important)
+  • primary_domains:
+    1.
+      Marriage
+    2.
+      Spouse
+    3.
+      Dharma
+    4.
+      Spiritual purpose
+  • secondary_domains:
+    1.
+      Planet strength
+    2.
+      Soul purpose
+    3.
+      After 30s life
+  • traditional_text: BPHS Ch.6, Jaimini Sutras
+  • importance: Highest — second only to D1
+  • how_to_read: Vargottama (same sign in D1 and D9) = very strong planet; 7th house = spouse nature
+7.
+  • chart: D10
+  • name: Dashamsa
+  • division: 10
+  • purpose: Career, profession, karma, authority
+  • sign_calculation: Odd signs: 1st through 10th harmonic; Even signs: 9th downward
+  • planets_used: Sun, 10th lord
+  • key_ascendant: Dashamsa Lagna
+  • primary_domains:
+    1.
+      Career
+    2.
+      Profession
+    3.
+      Status
+    4.
+      Authority
+    5.
+      Fame
+  • secondary_domains:
+    1.
+      Government
+    2.
+      Social status
+    3.
+      Life purpose
+  • traditional_text: BPHS Ch.6
+  • importance: High
+  • how_to_read: 10th house of D10 = peak career; Sun position = status; Exalted planets = career success
+8.
+  • chart: D12
+  • name: Dwadashamsa
+  • division: 12
+  • purpose: Parents, ancestral karma
+  • sign_calculation: Each sign divided into 12 parts of 2°30'
+  • planets_used: Sun (father), Moon (mother)
+  • key_ascendant: Dwadashamsa Lagna
+  • primary_domains:
+    1.
+      Father
+    2.
+      Mother
+    3.
+      Ancestors
+    4.
+      Ancestral karma
+  • secondary_domains:
+    1.
+      Lineage
+    2.
+      Heritage
+  • traditional_text: BPHS Ch.6
+  • importance: Medium
+  • how_to_read: 9th house = father; 4th house = mother; malefics = parental issues
+9.
+  • chart: D16
+  • name: Shodasamsa
+  • division: 16
+  • purpose: Vehicles, comforts, happiness
+  • sign_calculation: Each 1°52'30" = one division
+  • planets_used: Venus, 4th lord
+  • key_ascendant: Shodasamsa Lagna
+  • primary_domains:
+    1.
+      Vehicles
+    2.
+      Comforts
+    3.
+      Luxury items
+    4.
+      Happiness
+  • secondary_domains:
+    1.
+      Material enjoyment
+  • traditional_text: BPHS Ch.6
+  • importance: Low-Medium
+  • how_to_read: Venus well-placed = vehicles; 4th house = general comfort
+10.
+  • chart: D20
+  • name: Vimshamsa
+  • division: 20
+  • purpose: Spiritual advancement, religious activities
+  • sign_calculation: Each 1°30' = one division
+  • planets_used: Jupiter, Ketu
+  • key_ascendant: Vimshamsa Lagna
+  • primary_domains:
+    1.
+      Spirituality
+    2.
+      Meditation
+    3.
+      Worship
+    4.
+      Religious practice
+  • secondary_domains:
+    1.
+      Moksha
+    2.
+      Sadhana
+  • traditional_text: BPHS Ch.6
+  • importance: Medium
+  • how_to_read: 12th house = moksha; 9th = dharma; Jupiter position = spiritual growth
+11.
+  • chart: D24
+  • name: Chaturvimshamsa
+  • division: 24
+  • purpose: Education, learning, knowledge
+  • sign_calculation: Each 1°15' = one division
+  • planets_used: Mercury, Jupiter
+  • key_ascendant: Chaturvimshamsa Lagna
+  • primary_domains:
+    1.
+      Education
+    2.
+      Academic achievement
+    3.
+      Knowledge
+    4.
+      Learning
+  • secondary_domains:
+    1.
+      Degrees
+    2.
+      Certifications
+  • traditional_text: BPHS Ch.6
+  • importance: Medium
+  • how_to_read: 5th house = formal education; Mercury = analytical ability; Jupiter = wisdom
+12.
+  • chart: D27
+  • name: Saptavimshamsa (Bhamsa)
+  • division: 27
+  • purpose: Physical strength, vitality
+  • sign_calculation: Each nakshatra = one division (27 total)
+  • planets_used: Mars, Sun
+  • key_ascendant: Bhamsa Lagna
+  • primary_domains:
+    1.
+      Physical strength
+    2.
+      Vitality
+    3.
+      Athletic ability
+  • secondary_domains:
+    1.
+      Stamina
+    2.
+      Sports
+  • traditional_text: BPHS Ch.6
+  • importance: Low-Medium
+  • how_to_read: Mars strong = physical strength; Ascendant = overall constitution
+13.
+  • chart: D30
+  • name: Trimshamsa
+  • division: 30
+  • purpose: Misfortunes, evils, health issues
+  • sign_calculation: Odd signs: Mars (0-5°), Saturn (5-10°), Jupiter (10-18°), Mercury (18-25°), Venus (25-30°); Even signs reversed
+  • planets_used: Saturn, Mars
+  • key_ascendant: Trimshamsa Lagna
+  • primary_domains:
+    1.
+      Evils
+    2.
+      Misfortunes
+    3.
+      Chronic illness
+    4.
+      Sins
+  • secondary_domains:
+    1.
+      Karma
+    2.
+      Past life issues
+  • traditional_text: BPHS Ch.6
+  • importance: High for negative matters
+  • how_to_read: Malefics in Trimshamsa = area of life suffering; 6,8,12 houses = worst outcomes
+14.
+  • chart: D40
+  • name: Khavedamsa
+  • division: 40
+  • purpose: Auspicious and inauspicious events (maternal lineage)
+  • sign_calculation: Each 0°45' = one division
+  • planets_used: Moon
+  • key_ascendant: Khavedamsa Lagna
+  • primary_domains:
+    1.
+      Maternal ancestry
+    2.
+      Auspicious events
+    3.
+      Feminine influences
+  • secondary_domains:
+    1.
+      Heredity
+  • traditional_text: BPHS Ch.6
+  • importance: Low
+  • how_to_read: Read like D1 but for ancestral karma from mother's side
+15.
+  • chart: D45
+  • name: Akshavedamsa
+  • division: 45
+  • purpose: Paternal lineage, character, personality
+  • sign_calculation: Each 0°40' = one division
+  • planets_used: Sun
+  • key_ascendant: Akshavedamsa Lagna
+  • primary_domains:
+    1.
+      Paternal ancestry
+    2.
+      Character
+    3.
+      Ethics
+  • secondary_domains:
+    1.
+      Father's karma
+  • traditional_text: BPHS Ch.6
+  • importance: Low
+  • how_to_read: Read like D1 for father's ancestral matters
+16.
+  • chart: D60
+  • name: Shastiamsa
+  • division: 60
+  • purpose: Past life karma, overall destiny
+  • sign_calculation: Each 0°30' = one division; Each part has specific name and nature
+  • planets_used: All
+  • key_ascendant: Shastiamsa Lagna
+  • primary_domains:
+    1.
+      Past life karma
+    2.
+      Overall destiny
+    3.
+      Deep fate patterns
+  • secondary_domains:
+    1.
+      Soul karma
+    2.
+      Ultimate fate
+  • traditional_text: BPHS Ch.6
+  • importance: Very High — ultimate chart
+  • how_to_read: Most precise divisional; Lagna lord strong = favorable past karma; malefics in angles = difficult destiny

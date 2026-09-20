@@ -1,0 +1,8 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"HoraSaar V13 Verified Prediction Outcome Corpus",
+  "type":"object",
+  "required":["version","status","records"],
+  "properties":{"version":{"type":"string"},"status":{"type":"string"},"records":{"type":"array"}},
+  "additionalProperties":false
+}

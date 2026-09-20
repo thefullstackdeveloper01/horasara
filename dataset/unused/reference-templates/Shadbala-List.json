@@ -1,0 +1,16 @@
+[
+  {
+    "id": "shadbala_001",
+    "name": "Sthana Bala (Positional Strength)",
+    "description": "Strength derived from the planet's position in the zodiac (Exaltation, Mooltrikona, Own Sign).",
+    "max_points": 375,
+    "calculation_logic": "Planets in exaltation get maximum points; debilitation gets zero."
+  },
+  {
+    "id": "shadbala_002",
+    "name": "Dig Bala (Directional Strength)",
+    "description": "Strength based on the house the planet occupies.",
+    "max_points": 60,
+    "calculation_logic": "Jupiter/Mercury strong in 1st house. Sun/Mars strong in 10th. Moon/Venus strong in 4th. Saturn strong in 7th."
+  }
+]

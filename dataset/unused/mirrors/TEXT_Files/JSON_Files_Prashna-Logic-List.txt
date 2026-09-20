@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Prashna-Logic-List.json
+Dataset number: 197 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 467 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | question_topic | indicator_planet | indicator_house | ascendant_ruler_logic | negative_logic
+-------------------------------------------------------------------------------------------------
+prashna_001 | Will I recover my lost money? | Jupiter (Lord of wealth) | 11th House (Gains) | If the Moon is in the 11th house, and Jupiter aspects the 2nd house (wealth), the lost item/money will be recovered. | If Saturn is in the 11th house, recovery is delayed. If Rahu is in the 11th, it is lost forever.

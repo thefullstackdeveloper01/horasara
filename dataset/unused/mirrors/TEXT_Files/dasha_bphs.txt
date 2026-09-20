@@ -1,0 +1,4189 @@
+READABLE DATASET
+================================================================================
+Original file: dasha_bphs.json
+Dataset number: 96 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 279,688 bytes
+Top-level fields: 8
+
+CONTENT
+--------------------------------------------------------------------------------
+• 46:
+  • chapter: 46
+  • title: Dasha (Periods) of Planets
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: O omniscient sage, you are kind to the humble. How many kinds of Dasha (periods) are there? Please tell me, O best one.
+      • hindi: हे सर्वज्ञ महर्षे, आप दीनों पर कृपा करने वाले हैं। दशाएँ कितने प्रकार की होती हैं? हे सत्तम, कृपया मुझे बताइए।
+      • gujarati: હે સર્વજ્ઞ મહર્ષે, તમે દીનો પર કૃપા કરનારા છો. દશાઓ કેટલા પ્રકારની હોય છે? હે સત્તમ, કૃપા કરીને મને કહો.
+      • keywords:
+        1.
+          dasha
+        2.
+          periods
+        3.
+          question
+        4.
+          maitreya
+    2.
+      • shloka: 2
+      • text: Parashara said: O Brahmin, you have asked well for the benefit of the people. I shall now describe the various types of Dasha to you.
+      • hindi: पराशर बोले - हे विप्र, लोकों के उपकार के लिए तुमने अच्छा प्रश्न किया है। मैं तुम्हें दशाओं के अनेक भेद बताता हूँ।
+      • gujarati: પારાશર બોલ્યા - હે વિપ્ર, લોકોના ઉપકાર માટે તમે સારો પ્રશ્ન પૂછ્યો છે. હું તમને દશાઓના અનેક ભેદો કહું છું.
+      • keywords:
+        1.
+          parashara
+        2.
+          dasha types
+        3.
+          teaching
+    3.
+      • shloka: 3
+      • text: There are many kinds of Dasha, among which Vimshottari is considered the most important. Some say Astottari, others say Shodasottari.
+      • hindi: दशाएँ बहुविध हैं, उनमें विंशोत्तरी मुख्य मानी गई है। कुछ लोग अष्टोत्तरी कहते हैं, कुछ षोडशोत्तरी कहते हैं।
+      • gujarati: દશાઓ બહુવિધ છે, તેમાં વિંશોત્તરી મુખ્ય માનવામાં આવી છે. કેટલાક લોકો અષ્ટોત્તરી કહે છે, કેટલાક ષોડશોત્તરી કહે છે.
+      • keywords:
+        1.
+          vimshottari
+        2.
+          astottari
+        3.
+          shodasottari
+        4.
+          main dasha
+    4.
+      • shloka: 4
+      • text: There are also Dwadashabdotari, Panchottari, Shatabdika, and Chaturashiti-vatsara Dasha.
+      • hindi: द्वादशाब्दोत्तरी, पंचोत्तरी, शताब्दिका और चतुराशीति वत्सरा दशा भी हैं।
+      • gujarati: દ્વાદશાબ્દોત્તરી, પંચોત્તરી, શતાબ્દિકા અને ચતુરાશીતિ વત્સરા દશા પણ છે.
+      • keywords:
+        1.
+          dwadashabdotari
+        2.
+          panchottari
+        3.
+          shatabdika
+        4.
+          chaturashiti
+    5.
+      • shloka: 5
+      • text: There are also Dwisaptati-sama, Shastihayani, and Shatvimsa-sama Dasha. All these are based on Nakshatras, as stated by the ancient sages.
+      • hindi: द्विसप्तति समा, षष्टिहायनी और षड्विंशति समा दशाएँ भी हैं। ये सभी नक्षत्रों पर आधारित हैं, जैसा पूर्वाचार्यों ने कहा है।
+      • gujarati: દ્વિસપ્તતિ સમા, ષષ્ટિહાયની અને ષડ્વિંશતિ સમા દશાઓ પણ છે. આ બધી નક્ષત્રો પર આધારિત છે, જેમ પૂર્વાચાર્યોએ કહ્યું છે.
+      • keywords:
+        1.
+          dwisaptati
+        2.
+          shastihayani
+        3.
+          shatvimsa
+        4.
+          nakshatra based
+    6.
+      • shloka: 6
+      • text: Sages have also mentioned Kala Dasha and Chakra Dasha. The Kalachakra Dasha is the most respected among all Dasha systems.
+      • hindi: कालदशा और चक्रदशा भी मुनियों ने कही हैं। कालचक्रदशा सभी दशाओं में मान्य है।
+      • gujarati: કાલદશા અને ચક્રદશા પણ મુનિઓએ કહી છે. કાલચક્રદશા બધી દશાઓમાં માન્ય છે.
+      • keywords:
+        1.
+          kala dasha
+        2.
+          chakra dasha
+        3.
+          kalachakra
+        4.
+          supreme
+    7.
+      • shloka: 7
+      • text: O Brahmin, Chara Dasha, Sthira Dasha, Kendra Dasha, and Dasha arising from Karaka planets are also to be known.
+      • hindi: हे द्विज, चर दशा, स्थिर दशा, केन्द्रादि दशा और कारक ग्रहों से उत्पन्न दशा भी जानने योग्य हैं।
+      • gujarati: હે દ્વિજ, ચર દશા, સ્થિર દશા, કેન્દ્રાદિ દશા અને કારક ગ્રહોથી ઉત્પન્ન દશા પણ જાણવા યોગ્ય છે.
+      • keywords:
+        1.
+          chara dasha
+        2.
+          sthira dasha
+        3.
+          kendra dasha
+        4.
+          karaka dasha
+    8.
+      • shloka: 8
+      • text: Brahmagraha Dasha has been mentioned by some. There is also Mandooki Dasha and Shoola Dasha.
+      • hindi: ब्रह्मग्रहाश्रिता दशा किसी ने कही है। माण्डूकी नाम की दशा और शूल दशा भी कही गई है।
+      • gujarati: બ્રહ્મગ્રહાશ્રિતા દશા કોઈએ કહી છે. માણ્ડૂકી નામની દશા અને શૂળ દશા પણ કહેવામાં આવી છે.
+      • keywords:
+        1.
+          brahmagraha dasha
+        2.
+          mandooki dasha
+        3.
+          shoola dasha
+    9.
+      • shloka: 9
+      • text: Yogardha Dasha, Drig Dasha, Trikona Dasha, and Rashi Dasha are also known.
+      • hindi: योगार्धजा दशा, दृग्दशा, त्रिकोण दशा और राशि दशा भी कही गई हैं।
+      • gujarati: યોગાર્ધજા દશા, દૃગ્દશા, ત્રિકોણ દશા અને રાશિ દશા પણ કહેવામાં આવી છે.
+      • keywords:
+        1.
+          yogardha dasha
+        2.
+          drig dasha
+        3.
+          trikona dasha
+        4.
+          rashi dasha
+    10.
+      • shloka: 10
+      • text: Panchaswara Dasha, Yogini Dasha, Pinda Dasha, Amsha Dasha, and Naisargika Dasha are also to be known.
+      • hindi: पञ्चस्वरा दशा, योगिनी दशा, पिण्ड दशा, अंश दशा और नैसर्गिक दशा भी जानने योग्य हैं।
+      • gujarati: પંચસ્વરા દશા, યોગિની દશા, પિણ્ડ દશા, અંશ દશા અને નૈસર્ગિક દશા પણ જાણવા યોગ્ય છે.
+      • keywords:
+        1.
+          panchaswara dasha
+        2.
+          yogini dasha
+        3.
+          pinda dasha
+        4.
+          amsha dasha
+        5.
+          naisargika dasha
+    11.
+      • shloka: 11
+      • text: Ashtavarga Dasha, Sandhya Dasha, and Pachaka Dasha also exist. Other Dasha like Tara Dasha are not universally accepted.
+      • hindi: अष्टवर्ग दशा, सन्ध्या दशा और पाचक दशा भी हैं। तारा दशा आदि अन्य दशाएँ सबके द्वारा स्वीकार नहीं की गई हैं।
+      • gujarati: અષ્ટવર્ગ દશા, સંધ્યા દશા અને પાચક દશા પણ છે. તારા દશા આદિ અન્ય દશાઓ સૌના દ્વારા સ્વીકારવામાં આવી નથી.
+      • keywords:
+        1.
+          ashtavarga dasha
+        2.
+          sandhya dasha
+        3.
+          pachaka dasha
+        4.
+          tara dasha
+        5.
+          not universally accepted
+    12.
+      • shloka: 12
+      • text: Starting from Krittika, the lords of the 27 Nakshatras are, in order: the Sun, Moon, Mars, Rahu, Jupiter, Saturn, Mercury, Ketu, and Venus.
+      • hindi: कृत्तिका से आरंभ करके 27 नक्षत्रों के दशा स्वामी क्रमशः सूर्य, चंद्र, मंगल, राहु, गुरु, शनि, बुध, केतु और शुक्र हैं।
+      • gujarati: કૃત્તિકાથી આરંભ કરીને 27 નક્ષત્રોના દશા સ્વામી ક્રમશઃ સૂર્ય, ચંદ્ર, મંગળ, રાહુ, ગુરુ, શનિ, બુધ, કેતુ અને શુક્ર છે.
+      • keywords:
+        1.
+          nakshatra lords
+        2.
+          vimshottari
+        3.
+          order
+        4.
+          krittika
+    13.
+      • shloka: 13
+      • text: Count the Nakshatras from one's rashi to the Janma Nakshatra, divide by 9. The remainder indicates the Dasha lord. Start the Dasha from that planet.
+      • hindi: अपनी राशि से जन्म नक्षत्र तक जितने नक्षत्र हों, उन्हें 9 से भाग दें। शेषफल से दशा स्वामी जानें और उससे दशा आरंभ करें।
+      • gujarati: પોતાની રાશિથી જન્મ નક્ષત્ર સુધી જેટલા નક્ષત્રો હોય, તેમને 9 વડે ભાગ આપો. શેષફળથી દશા સ્વામી જાણો અને તેથી દશા આરંભ કરો.
+      • keywords:
+        1.
+          dasha calculation
+        2.
+          starting lord
+        3.
+          remainder method
+    14.
+      • shloka: 14
+      • text: Vimshottari has been described as covering a full lifespan of 120 years. Therefore, O best of Brahmins, Vimshottari is the main Dasha for Kali Yuga.
+      • hindi: विंशोत्तरी को पूर्ण आयु (120 वर्ष) के लिए कहा गया है। हे द्विजोत्तम, कलियुग में विंशोत्तरी ही मुख्य दशा है।
+      • gujarati: વિંશોત્તરીને પૂર્ણ આયુ (120 વર્ષ) માટે કહેવામાં આવી છે. હે દ્વિજોત્તમ, કલિયુગમાં વિંશોત્તરી જ મુખ્ય દશા છે.
+      • keywords:
+        1.
+          vimshottari
+        2.
+          120 years
+        3.
+          kali yuga
+        4.
+          primary dasha
+    15.
+      • shloka: 15
+      • text: The Dasha periods of these planets are, in order: Sun 6, Moon 10, Mars 7, Rahu 18, Jupiter 16, Saturn 19, Mercury 17, Ketu 7, and Venus 20 years.
+      • hindi: इन ग्रहों की दशा के वर्ष क्रमशः: सूर्य 6, चंद्र 10, मंगल 7, राहु 18, गुरु 16, शनि 19, बुध 17, केतु 7 और शुक्र 20 हैं।
+      • gujarati: આ ગ્રહોની દશાના વર્ષો ક્રમશઃ: સૂર્ય 6, ચંદ્ર 10, મંગળ 7, રાહુ 18, ગુરુ 16, શનિ 19, બુધ 17, કેતુ 7 અને શુક્ર 20 છે.
+      • keywords:
+        1.
+          dasha years
+        2.
+          sun 6
+        3.
+          moon 10
+        4.
+          mars 7
+        5.
+          rahu 18
+        6.
+          jupiter 16
+        7.
+          saturn 19
+        8.
+          mercury 17
+        9.
+          ketu 7
+        10.
+          venus 20
+    16.
+      • shloka: 16
+      • text: Multiply the Dasha years by the expired Ghatis (Bhayat) and divide by the total Ghatis (Bhabhog). The result is the expired portion. Subtract from total Dasha to get the remaining balance.
+      • hindi: दशा के वर्षों को भयात (बीते हुए घटी) से गुणा करके भभोग (कुल घटी) से भाग दें। इससे भुक्त वर्ष आएँगे, उन्हें कुल दशा से घटाकर भोग्य दशा जानें।
+      • gujarati: દશાના વર્ષોને ભયાત (વીતેલા ઘટી) વડે ગુણાકાર કરીને ભભોગ (કુલ ઘટી) વડે ભાગ આપો. આનાથી ભુક્ત વર્ષો આવશે, તેમને કુલ દશામાંથી બાદ કરીને ભોગ્ય દશા જાણો.
+      • keywords:
+        1.
+          dasha balance
+        2.
+          calculation
+        3.
+          bhayat
+        4.
+          bhabhog
+    17.
+      • shloka: 17
+      • text: When the lord of the Ascendant is in a Kendra or Trikona and Rahu is not in the Ascendant, the Astottari Dasha should be used.
+      • hindi: जब लग्नेश केन्द्र या कोण में हो और राहु लग्न में न हो, तब अष्टोत्तरी दशा का प्रयोग करना चाहिए।
+      • gujarati: જ્યારે લગ્નેશ કેન્દ્ર કે કોણમાં હોય અને રાહુ લગ્નમાં ન હોય, ત્યારે અષ્ટોત્તરી દશાનો ઉપયોગ કરવો જોઈએ.
+      • keywords:
+        1.
+          astottari dasha
+        2.
+          condition
+        3.
+          rahu not in lagna
+    18.
+      • shloka: 18
+      • text: Then count 4 Nakshatras, then 3, then 4, then 3 – in this order up to the Janma Nakshatra.
+      • hindi: उसके बाद चार नक्षत्र, फिर तीन नक्षत्र, फिर चार, फिर तीन - इस क्रम से जन्म नक्षत्र तक गणना करें।
+      • gujarati: ત્યાર બાદ ચાર નક્ષત્ર, પછી ત્રણ નક્ષત્ર, પછી ચાર, પછી ત્રણ - આ ક્રમથી જન્મ નક્ષત્ર સુધી ગણતરી કરો.
+      • keywords:
+        1.
+          astottari
+        2.
+          nakshatra counting
+        3.
+          4-3 pattern
+    19.
+      • shloka: 19
+      • text: The Sun, Moon, Mars, Mercury, Saturn, Jupiter, Rahu, and Venus – these eight planets are the lords of Astottari Dasha (excluding Ketu).
+      • hindi: सूर्य, चंद्र, मंगल, बुध, शनि, गुरु, राहु और शुक्र - ये आठ ग्रह अष्टोत्तरी दशा के स्वामी हैं (केतु को छोड़कर)।
+      • gujarati: સૂર્ય, ચંદ્ર, મંગળ, બુધ, શનિ, ગુરુ, રાહુ અને શુક્ર - આ આઠ ગ્રહો અષ્ટોત્તરી દશાના સ્વામી છે (કેતુને છોડીને).
+      • keywords:
+        1.
+          astottari dasha lords
+        2.
+          eight planets
+        3.
+          no ketu
+    20.
+      • shloka: 20
+      • text: In Astottari Dasha, the Dasha periods are: Sun 6, Moon 15, Mars 8, Mercury 17, Saturn 10, Jupiter 19, Rahu 12, and Venus 21 years.
+      • hindi: अष्टोत्तरी दशा में दशा के वर्ष: सूर्य 6, चंद्र 15, मंगल 8, बुध 17, शनि 10, गुरु 19, राहु 12 और शुक्र 21 हैं।
+      • gujarati: અષ્ટોત્તરી દશામાં દશાના વર્ષો: સૂર્ય 6, ચંદ્ર 15, મંગળ 8, બુધ 17, શનિ 10, ગુરુ 19, રાહુ 12 અને શુક્ર 21 છે.
+      • keywords:
+        1.
+          astottari dasha years
+        2.
+          sun 6
+        3.
+          moon 15
+        4.
+          mars 8
+        5.
+          mercury 17
+        6.
+          saturn 10
+        7.
+          jupiter 19
+        8.
+          rahu 12
+        9.
+          venus 21
+    21.
+      • shloka: 21
+      • text: O best of Brahmins, for malefic planets, one-fourth of the Dasha years, and for benefic planets, one-third of the Dasha years constitute the Dasha of one Nakshatra.
+      • hindi: हे द्विजसत्तम, पाप ग्रहों के लिए दशा के वर्षों का चौथाई भाग और शुभ ग्रहों के लिए तिहाई भाग एक नक्षत्र की दशा होती है।
+      • gujarati: હે દ્વિજસત્તમ, પાપ ગ્રહો માટે દશાના વર્ષોનો ચોથો ભાગ અને શુભ ગ્રહો માટે ત્રીજો ભાગ એક નક્ષત્રની દશા હોય છે.
+      • keywords:
+        1.
+          astottari
+        2.
+          nakshatra dasha
+        3.
+          malefic 1/4
+        4.
+          benefic 1/3
+    22.
+      • shloka: 22
+      • text: Calculate the expired and remaining Dasha using Bhayat and Bhabhog as in Vimshottari, and declare the results accordingly.
+      • hindi: उसके भयात और भभोग से भुक्त और भोग्य दशा का साधन विंशोत्तरी के समान ही करें और फल कहें।
+      • gujarati: તેના ભયાત અને ભભોગથી ભુક્ત અને ભોગ્ય દશાનું સાધન વિંશોત્તરીના સમાન જ કરો અને ફળ કહો.
+      • keywords:
+        1.
+          calculation method
+        2.
+          similar to vimshottari
+        3.
+          astottari
+    23.
+      • shloka: 23
+      • text: If birth occurs during the day in Krishna Paksha or at night in Shukla Paksha, then Astottari Dasha should be especially considered.
+      • hindi: कृष्ण पक्ष में दिन में जन्म हो या शुक्ल पक्ष में रात में जन्म हो, तब विशेष रूप से अष्टोत्तरी दशा का प्रयोग करना चाहिए।
+      • gujarati: કૃષ્ણ પક્ષમાં દિવસે જન્મ હોય કે શુક્લ પક્ષમાં રાત્રે જન્મ હોય, ત્યારે વિશેષ રૂપથી અષ્ટોત્તરી દશાનો ઉપયોગ કરવો જોઈએ.
+      • keywords:
+        1.
+          astottari
+        2.
+          applicable conditions
+        3.
+          krishna paksha day
+        4.
+          shukla paksha night
+    24.
+      • shloka: 24
+      • text: When the Ascendant is in Moon's Hora and it is Krishna Paksha, or in Sun's Hora and it is Shukla Paksha, then Shodasottari Dasha should be used.
+      • hindi: जब लग्न चन्द्र होरा में हो और कृष्ण पक्ष हो, या सूर्य होरा में हो और शुक्ल पक्ष हो, तब षोडशोत्तरी दशा का प्रयोग करना चाहिए।
+      • gujarati: જ્યારે લગ્ન ચંદ્ર હોરામાં હોય અને કૃષ્ણ પક્ષ હોય, કે સૂર્ય હોરામાં હોય અને શુક્લ પક્ષ હોય, ત્યારે ષોડશોત્તરી દશાનો ઉપયોગ કરવો જોઈએ.
+      • keywords:
+        1.
+          shodasottari dasha
+        2.
+          hora condition
+        3.
+          paksha condition
+    25.
+      • shloka: 25
+      • text: Count Nakshatras from Pushyami to Janma Nakshatra, divide by 8. The remainder indicates the Dasha lord in order: Sun, Mars, Jupiter, Saturn, Ketu, Moon, Mercury, Venus.
+      • hindi: पुष्य नक्षत्र से जन्म नक्षत्र तक जितने नक्षत्र हों, उन्हें 8 से भाग दें। शेष से सूर्य, मंगल, गुरु, शनि, केतु, चंद्र, बुध और शुक्र दशा स्वामी होंगे।
+      • gujarati: પુષ્ય નક્ષત્રથી જન્મ નક્ષત્ર સુધી જેટલા નક્ષત્રો હોય, તેમને 8 વડે ભાગ આપો. શેષથી સૂર્ય, મંગળ, ગુરુ, શનિ, કેતુ, ચંદ્ર, બુધ અને શુક્ર દશા સ્વામી થશે.
+      • keywords:
+        1.
+          shodasottari
+        2.
+          dasha lord calculation
+        3.
+          pushyami
+    26.
+      • shloka: 26
+      • text: In this order, these eight planets (excluding Rahu) are Dasha lords. The Dasha years are, in order: 11, 12, 13, 14, 15, 16, 17, 18.
+      • hindi: इस क्रम से राहु को छोड़कर ये आठ ग्रह दशा स्वामी हैं। दशा के वर्ष क्रमशः 11, 12, 13, 14, 15, 16, 17, 18 हैं।
+      • gujarati: આ ક્રમથી રાહુને છોડીને આ આઠ ગ્રહો દશા સ્વામી છે. દશાના વર્ષો ક્રમશઃ 11, 12, 13, 14, 15, 16, 17, 18 છે.
+      • keywords:
+        1.
+          shodasottari dasha years
+        2.
+          11 to 18 years
+    27.
+      • shloka: 27
+      • text: O Brahmin, when the Ascendant is in Venus's Navamsha, Dwadashottari Dasha should be used. Count Nakshatras from Janma Nakshatra to Revti, divide by 8.
+      • hindi: हे द्विज, जब लग्न शुक्र के नवांश में हो, तब द्वादशोत्तरी दशा का प्रयोग करें। जन्म नक्षत्र से रेवती तक के नक्षत्रों को 8 से भाग दें।
+      • gujarati: હે દ્વિજ, જ્યારે લગ્ન શુક્રના નવાંશમાં હોય, ત્યારે દ્વાદશોત્તરી દશાનો ઉપયોગ કરો. જન્મ નક્ષત્રથી રેવતી સુધીના નક્ષત્રોને 8 વડે ભાગ આપો.
+      • keywords:
+        1.
+          dwadashottari
+        2.
+          venus navamsha
+        3.
+          condition
+    28.
+      • shloka: 28
+      • text: According to the remainder, the Dasha lords are: Sun, Jupiter, Ketu, Mercury, Rahu, Mars, Saturn, Moon (excluding Venus). The Dasha years are 7, 9, 11, 13, 15, 17, 19, 21.
+      • hindi: शेषफल के अनुसार दशा स्वामी क्रमशः: सूर्य, गुरु, केतु, बुध, राहु, मंगल, शनि, चंद्र (शुक्र को छोड़कर) हैं। दशा के वर्ष 7, 9, 11, 13, 15, 17, 19, 21 हैं।
+      • gujarati: શેષફળ પ્રમાણે દશા સ્વામી ક્રમશઃ: સૂર્ય, ગુરુ, કેતુ, બુધ, રાહુ, મંગળ, શનિ, ચંદ્ર (શુક્રને છોડીને) છે. દશાના વર્ષો 7, 9, 11, 13, 15, 17, 19, 21 છે.
+      • keywords:
+        1.
+          dwadashottari dasha lords
+        2.
+          dasha years
+    29.
+      • shloka: 29
+      • text: When the Ascendant is in Cancer and in Cancer Navamsha, Panchottari Dasha is used. Count Nakshatras from Anuradha to Janma Nakshatra, divide by 7.
+      • hindi: जब लग्न कर्क (कर्कट) राशि और कर्क नवांश में हो, तब पंचोत्तरी दशा का प्रयोग करें। अनुराधा से जन्म नक्षत्र तक के नक्षत्रों को 7 से भाग दें।
+      • gujarati: જ્યારે લગ્ન કર્ક (કર્કટ) રાશિ અને કર્ક નવાંશમાં હોય, ત્યારે પંચોત્તરી દશાનો ઉપયોગ કરો. અનુરાધાથી જન્મ નક્ષત્ર સુધીના નક્ષત્રોને 7 વડે ભાગ આપો.
+      • keywords:
+        1.
+          panchottari dasha
+        2.
+          cancer lagna
+        3.
+          cancer navamsha
+    30.
+      • shloka: 30
+      • text: The Dasha lords in order are: Sun, Mercury, Saturn, Mars, Venus, Moon, and Jupiter.
+      • hindi: दशा स्वामी क्रमशः सूर्य, बुध, शनि, मंगल, शुक्र, चंद्र और गुरु हैं।
+      • gujarati: દશા સ્વામી ક્રમશઃ સૂર્ય, બુધ, શનિ, મંગળ, શુક્ર, ચંદ્ર અને ગુરુ છે.
+      • keywords:
+        1.
+          panchottari dasha lords
+        2.
+          sun
+        3.
+          mercury
+        4.
+          saturn
+        5.
+          mars
+        6.
+          venus
+        7.
+          moon
+        8.
+          jupiter
+    31.
+      • shloka: 31
+      • text: O Brahmin, excluding Rahu and Ketu, the Dasha years of the seven planets are, in order: 12, 13, 14, 15, 16, 17, 18.
+      • hindi: हे द्विज, राहु और केतु को छोड़कर सात ग्रहों की दशा के वर्ष क्रमशः 12, 13, 14, 15, 16, 17, 18 हैं।
+      • gujarati: હે દ્વિજ, રાહુ અને કેતુને છોડીને સાત ગ્રહોની દશાના વર્ષો ક્રમશઃ 12, 13, 14, 15, 16, 17, 18 છે.
+      • keywords:
+        1.
+          panchottari dasha years
+        2.
+          12 to 18 years
+    32.
+      • shloka: 32
+      • text: When the Ascendant is Vargottama (same sign in Rashi and Navamsha), Shatabdika Dasha is used. Count from Revti to Janma Nakshatra, divide by 7.
+      • hindi: जब लग्न वर्गोत्तम (राशि और नवांश एक समान) हो, तब शताब्दिका दशा का प्रयोग करें। रेवती से जन्म नक्षत्र तक गणना करके 7 से भाग दें।
+      • gujarati: જ્યારે લગ્ન વર્ગોત્તમ (રાશિ અને નવાંશ સમાન) હોય, ત્યારે શતાબ્દિકા દશાનો ઉપયોગ કરો. રેવતીથી જન્મ નક્ષત્ર સુધી ગણના કરીને 7 વડે ભાગ આપો.
+      • keywords:
+        1.
+          shatabdika dasha
+        2.
+          vargottama lagna
+        3.
+          condition
+    33.
+      • shloka: 33
+      • text: According to the remainder, the Dasha lords are: Sun, Moon, Venus, Mercury, Jupiter, Mars, and Saturn. This Dasha is called Shatabdika.
+      • hindi: शेषफल के अनुसार दशा स्वामी क्रमशः सूर्य, चंद्र, शुक्र, बुध, गुरु, मंगल और शनि हैं। यह दशा शताब्दिका कहलाती है।
+      • gujarati: શેષફળ પ્રમાણે દશા સ્વામી ક્રમશઃ સૂર્ય, ચંદ્ર, શુક્ર, બુધ, ગુરુ, મંગળ અને શનિ છે. આ દશા શતાબ્દિકા કહેવાય છે.
+      • keywords:
+        1.
+          shatabdika dasha lords
+        2.
+          sun
+        3.
+          moon
+        4.
+          venus
+        5.
+          mercury
+        6.
+          jupiter
+        7.
+          mars
+        8.
+          saturn
+    34.
+      • shloka: 34
+      • text: O best of Brahmins, their Dasha periods are, in order: 5, 5, 10, 10, 20, 20, 30 years.
+      • hindi: हे द्विजोत्तम, इनकी दशा के वर्ष क्रमशः 5, 5, 10, 10, 20, 20, 30 हैं।
+      • gujarati: હે દ્વિજોત્તમ, આની દશાના વર્ષો ક્રમશઃ 5, 5, 10, 10, 20, 20, 30 છે.
+      • keywords:
+        1.
+          shatabdika dasha years
+        2.
+          5 to 30 years
+    35.
+      • shloka: 35
+      • text: When the lord of the 10th house is in the 10th house, Chaturashitika Dasha is used. Count from Swati to Janma Nakshatra, divide by 7.
+      • hindi: जब कर्मेश (दशमेश) दशम भाव में हो, तब चतुराशीतिका दशा का प्रयोग करें। स्वाती से जन्म नक्षत्र तक गणना करके 7 से भाग दें।
+      • gujarati: જ્યારે કર્મેશ (દશમેશ) દશમ ભાવમાં હોય, ત્યારે ચતુરાશીતિકા દશાનો ઉપયોગ કરો. સ્વાતીથી જન્મ નક્ષત્ર સુધી ગણના કરીને 7 વડે ભાગ આપો.
+      • keywords:
+        1.
+          chaturashitika dasha
+        2.
+          10th lord in 10th
+        3.
+          condition
+    36.
+      • shloka: 36
+      • text: According to the remainder, the Dasha lords are: Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn. Each has a Dasha period of 12 years.
+      • hindi: शेषफल के अनुसार दशा स्वामी क्रमशः सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र और शनि हैं। इन सबकी दशा 12-12 वर्ष की है।
+      • gujarati: શેષફળ પ્રમાણે દશા સ્વામી ક્રમશઃ સૂર્ય, ચંદ્ર, મંગળ, બુધ, ગુરુ, શુક્ર અને શનિ છે. આ સૌની દશા 12-12 વર્ષની છે.
+      • keywords:
+        1.
+          chaturashitika dasha
+        2.
+          12 years each
+        3.
+          dasha lords
+    37.
+      • shloka: 37
+      • text: Count from Moola Nakshatra to Janma Nakshatra, divide by 8. The remainder indicates the Dasha lord in order: Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu.
+      • hindi: मूल नक्षत्र से जन्म नक्षत्र तक गणना करके 8 से भाग दें। शेष से दशा स्वामी क्रमशः सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि और राहु होंगे।
+      • gujarati: મૂળ નક્ષત્રથી જન્મ નક્ષત્ર સુધી ગણના કરીને 8 વડે ભાગ આપો. શેષથી દશા સ્વામી ક્રમશઃ સૂર્ય, ચંદ્ર, મંગળ, બુધ, ગુરુ, શુક્ર, શનિ અને રાહુ થશે.
+      • keywords:
+        1.
+          dwisaptati sama dasha
+        2.
+          moola to janma
+        3.
+          8 division
+    38.
+      • shloka: 38
+      • text: All these planets have a Dasha period of 9 years each. This Dasha should be used when the lord of the Ascendant is in the 7th house, or the lord of the 7th is in the Ascendant.
+      • hindi: इन सभी ग्रहों की दशा 9-9 वर्ष की है। जिस कुंडली में लग्नेश सप्तम भाव में हो या सप्तमेश लग्न में हो, वहाँ इस दशा का प्रयोग करें।
+      • gujarati: આ સૌ ગ્રહોની દશા 9-9 વર્ષની છે. જે કુંડળીમાં લગ્નેશ સપ્તમ ભાવમાં હોય કે સપ્તમેશ લગ્નમાં હોય, ત્યાં આ દશાનો ઉપયોગ કરો.
+      • keywords:
+        1.
+          dwisaptati sama dasha
+        2.
+          9 years each
+        3.
+          condition
+        4.
+          lagna lord in 7th
+        5.
+          7th lord in lagna
+    39.
+      • shloka: 39
+      • text: This is called Dwisaptati-sama Dasha. Calculate the expired and remaining portions as in Vimshottari.
+      • hindi: उसके लिए यह द्विसप्तति समा दशा कहलाती है। विंशोत्तरी के समान ही इसमें भुक्त और भोग्य दशा का साधन करें।
+      • gujarati: તેના માટે આ દ્વિસપ્તતિ સમા દશા કહેવાય છે. વિંશોત્તરીના સમાન જ આમાં ભુક્ત અને ભોગ્ય દશાનું સાધન કરો.
+      • keywords:
+        1.
+          dwisaptati sama
+        2.
+          calculation
+        3.
+          similar to vimshottari
+    40.
+      • shloka: 40
+      • text: When the Sun is in the Ascendant, Shastihayani Dasha is used. From Ashwini, form groups of 2, 4, 2, 4 Nakshatras repeatedly.
+      • hindi: जब सूर्य लग्न में हो, तब षष्टिहायनी दशा का प्रयोग करें। अश्विनी से क्रमशः 2, 4, 2, 4 नक्षत्रों के समूह बनाएँ।
+      • gujarati: જ્યારે સૂર્ય લગ્નમાં હોય, ત્યારે ષષ્ટિહાયની દશાનો ઉપયોગ કરો. અશ્વિનીથી ક્રમશઃ 2, 4, 2, 4 નક્ષત્રોના સમૂહ બનાવો.
+      • keywords:
+        1.
+          shastihayani dasha
+        2.
+          sun in lagna
+        3.
+          2-4 pattern
+    41.
+      • shloka: 41
+      • text: Jupiter, Sun, and Mars have Dasha periods of 10 years each. Moon, Mercury, Venus, Rahu, and Saturn have Dasha periods of 6 years each.
+      • hindi: गुरु, सूर्य और मंगल की दशा 10-10 वर्ष की है। चंद्र, बुध, शुक्र, राहु और शनि की दशा 6-6 वर्ष की है।
+      • gujarati: ગુરુ, સૂર્ય અને મંગળની દશા 10-10 વર્ષની છે. ચંદ્ર, બુધ, શુક્ર, રાહુ અને શનિની દશા 6-6 વર્ષની છે.
+      • keywords:
+        1.
+          shastihayani dasha
+        2.
+          10 years
+        3.
+          6 years
+    42.
+      • shloka: 42
+      • text: Count from Sravana to Janma Nakshatra, divide by 8. The remainder indicates the Dasha lord in order: Moon, Sun, Jupiter, Mars, Mercury, Saturn, Venus, Rahu.
+      • hindi: श्रवण से जन्म नक्षत्र तक गणना करके 8 से भाग दें। शेषफल से दशा स्वामी क्रमशः चंद्र, सूर्य, गुरु, मंगल, बुध, शनि, शुक्र और राहु होंगे।
+      • gujarati: શ્રવણથી જન્મ નક્ષત્ર સુધી ગણના કરીને 8 વડે ભાગ આપો. શેષફળથી દશા સ્વામી ક્રમશઃ ચંદ્ર, સૂર્ય, ગુરુ, મંગળ, બુધ, શનિ, શુક્ર અને રાહુ થશે.
+      • keywords:
+        1.
+          shat trimshat sama dasha
+        2.
+          sravana to janma
+        3.
+          8 division
+    43.
+      • shloka: 43
+      • text: Their Dasha periods are, in order: 1, 2, 3, 4, 5, 6, 7, 8 years. Use this Dasha for day birth with Sun's Hora Lagna, or night birth with Moon's Hora Lagna.
+      • hindi: इनकी दशा के वर्ष क्रमशः 1, 2, 3, 4, 5, 6, 7, 8 हैं। दिन में जन्म हो और लग्न सूर्य होरा में हो, या रात में जन्म हो और लग्न चन्द्र होरा में हो, तब इस दशा का प्रयोग करें।
+      • gujarati: આની દશાના વર્ષો ક્રમશઃ 1, 2, 3, 4, 5, 6, 7, 8 છે. દિવસે જન્મ હોય અને લગ્ન સૂર્ય હોરામાં હોય, કે રાત્રે જન્મ હોય અને લગ્ન ચંદ્ર હોરામાં હોય, ત્યારે આ દશાનો ઉપયોગ કરો.
+      • keywords:
+        1.
+          shat trimshat sama
+        2.
+          1 to 8 years
+        3.
+          hora condition
+    44.
+      • shloka: 44
+      • text: Five Ghatis before sunset and five after, and five before sunrise and five after – this is called Sandhya. Total twenty Ghatis.
+      • hindi: सूर्यास्त से पहले पाँच घड़ी और बाद में पाँच घड़ी, तथा सूर्योदय से पहले पाँच घड़ी और बाद में पाँच घड़ी – यह संध्या कहलाती है। कुल बीस घड़ी।
+      • gujarati: સૂર્યાસ્ત પહેલાં પાંચ ઘડી અને પછી પાંચ ઘડી, તથા સૂર્યોદય પહેલાં પાંચ ઘડી અને પછી પાંચ ઘડી – આ સંધ્યા કહેવાય છે. કુલ વીસ ઘડી.
+      • keywords:
+        1.
+          sandhya
+        2.
+          twilight
+        3.
+          5 ghatis
+        4.
+          sunrise
+        5.
+          sunset
+    45.
+      • shloka: 45
+      • text: Both Sandhyas together make twenty Ghatis. The twenty Ghatis of the night are called 'Poorna', and the twenty Ghatis of the day are called 'Mugdha'.
+      • hindi: दोनों संध्याएँ मिलकर बीस घड़ी होती हैं। रात्रि की बीस घड़ी 'पूर्ण' कहलाती है और दिन की बीस घड़ी 'मुग्ध' कहलाती है।
+      • gujarati: બંને સંધ્યાઓ મળીને વીસ ઘડી થાય છે. રાત્રિની વીસ ઘડી 'પૂર્ણ' કહેવાય છે અને દિવસની વીસ ઘડી 'મુગ્ધ' કહેવાય છે.
+      • keywords:
+        1.
+          poorna
+        2.
+          mugdha
+        3.
+          day night
+        4.
+          20 ghatis
+    46.
+      • shloka: 46
+      • text: The Sandhya at sunrise is called 'Khanda', and at sunset is called 'Sudha'. Both are of ten Ghatis each.
+      • hindi: सूर्योदय की संध्या 'खण्ड' कहलाती है और सूर्यास्त की संध्या 'सुधा' कहलाती है। दोनों दस-दस घड़ी की होती हैं।
+      • gujarati: સૂર્યોદયની સંધ્યા 'ખંડ' કહેવાય છે અને સૂર્યાસ્તની સંધ્યા 'સુધા' કહેવાય છે. બંને દસ-દસ ઘડીની હોય છે.
+      • keywords:
+        1.
+          khanda
+        2.
+          sudha
+        3.
+          sunrise sandhya
+        4.
+          sunset sandhya
+    47.
+      • shloka: 47
+      • text: For Poorna or Mugdha, multiply the expired Ghatis by 2 and divide by 15. For Khanda or Sudha, multiply by 4 and divide by 15.
+      • hindi: पूर्ण या मुग्ध में बीते घटी को 2 से गुणा करके 15 से भाग दें। खण्ड या सुधा में बीते घटी को 4 से गुणा करके 15 से भाग दें।
+      • gujarati: પૂર્ણ કે મુગ્ધમાં વીતેલા ઘટીને 2 વડે ગુણાકાર કરીને 15 વડે ભાગ આપો. ખંડ કે સુધામાં વીતેલા ઘટીને 4 વડે ગુણાકાર કરીને 15 વડે ભાગ આપો.
+      • keywords:
+        1.
+          kala dasha
+        2.
+          calculation
+        3.
+          ghati multiplication
+    48.
+      • shloka: 48
+      • text: Multiply the obtained value (in years) by the serial numbers 1 to 9 for the Sun to Ketu respectively. This gives the Kala Dasha periods of the nine planets.
+      • hindi: प्राप्त वर्षादि मान को सूर्य (1) से लेकर क्रमशः 1,2,3,4,5,6,7,8,9 से गुणा करें। इससे क्रमशः नौ ग्रहों की काल दशा के वर्ष आएँगे।
+      • gujarati: પ્રાપ્ત વર્ષાદિ માનને સૂર્ય (1) થી લઈને ક્રમશઃ 1,2,3,4,5,6,7,8,9 વડે ગુણાકાર કરો. આનાથી ક્રમશઃ નવ ગ્રહોની કાલ દશાના વર્ષો આવશે.
+      • keywords:
+        1.
+          kala dasha
+        2.
+          serial multiplication
+        3.
+          1 to 9
+    49.
+      • shloka: 49
+      • text: This Dasha of the nine planets (including Rahu and Ketu) is called Kala Dasha.
+      • hindi: राहु और केतु सहित इन नौ ग्रहों की यह काल दशा कहलाती है।
+      • gujarati: રાહુ અને કેતુ સહિત આ નવ ગ્રહોની આ કાલ દશા કહેવાય છે.
+      • keywords:
+        1.
+          kala dasha
+        2.
+          nine planets
+        3.
+          including rahu ketu
+    50.
+      • shloka: 50
+      • text: For night birth, start Chakra Dasha from the Ascendant sign. For day birth, from the sign of the Ascendant lord. For twilight birth, from the 3rd house. Thus say the wise.
+      • hindi: रात्रि में जन्म हो तो लग्न राशि से, दिन में जन्म हो तो लग्नेश की राशि से, और संध्या में जन्म हो तो तृतीय भाव से चक्र दशा प्रारंभ करें।
+      • gujarati: રાત્રિમાં જન્મ હોય તો લગ્ન રાશિથી, દિવસમાં જન્મ હોય તો લગ્નેશની રાશિથી, અને સંધ્યામાં જન્મ હોય તો તૃતીય ભાવથી ચક્ર દશા આરંભ કરો.
+      • keywords:
+        1.
+          chakra dasha
+        2.
+          starting point
+        3.
+          day
+        4.
+          night
+        5.
+          twilight
+    51.
+      • shloka: 51
+      • text: O best of Brahmins, each sign has a Dasha of 10 years. The Dasha of signs in the Chakra should be known in sequence.
+      • hindi: हे द्विजोत्तम, प्रत्येक राशि की दशा दस-दस वर्ष की होती है। चक्र में स्थित राशियों के क्रम से दशा जाननी चाहिए।
+      • gujarati: હે દ્વિજોત્તમ, પ્રત્યેક રાશિની દશા દસ-દસ વર્ષની હોય છે. ચક્રમાં સ્થિત રાશિઓના ક્રમથી દશા જાણવી જોઈએ.
+      • keywords:
+        1.
+          chakra dasha
+        2.
+          10 years per sign
+        3.
+          sign sequence
+    52.
+      • shloka: 52
+      • text: Now, saluting Lord Shiva, I shall describe the Kalachakra Dasha. This was previously narrated to Goddess Parvati.
+      • hindi: अब मैं शंकर भगवान को नमस्कार करके कालचक्र दशा बताता हूँ। यह दशा पूर्व में पार्वती जी को कही गई थी।
+      • gujarati: હવે હું શંકર ભગવાનને નમસ્કાર કરીને કાલચક્ર દશા કહું છું. આ દશા પૂર્વમાં પાર્વતી જીને કહેવામાં આવી હતી.
+      • keywords:
+        1.
+          kalachakra dasha
+        2.
+          shiva
+        3.
+          parvati
+        4.
+          divine origin
+    53.
+      • shloka: 53
+      • text: O beloved of Brahmins, extracting the essence of that, I narrate it to you so that the learned may understand the good and bad for humans.
+      • hindi: हे द्विजनन्दन, उसका सार लेकर मैं तुम्हें बता रहा हूँ, जिससे पंडित लोग मनुष्यों के शुभ-अशुभ को जान सकें।
+      • gujarati: હે દ્વિજનંદન, તેનો સાર લઈને હું તમને કહી રહ્યો છું, જેથી પંડિત લોકો મનુષ્યોના શુભ-અશુભને જાણી શકે.
+      • keywords:
+        1.
+          kalachakra dasha
+        2.
+          essence
+        3.
+          good and bad
+    54.
+      • shloka: 54
+      • text: O Brahmin, draw a Chakra of 12 compartments with horizontal and vertical lines. This Chakra is of two types: Savya (right-handed) and Apsavya (left-handed).
+      • hindi: हे द्विज, बारह कोष्ठों का एक चक्र बनाएँ, जिसमें तिरछी और सीधी रेखाएँ हों। यह चक्र सव्य (दाएँ) और अपसव्य (बाएँ) दो प्रकार का होता है।
+      • gujarati: હે દ્વિજ, બાર કોષ્ઠોનું એક ચક્ર બનાવો, જેમાં ત્રાંસી અને સીધી રેખાઓ હોય. આ ચક્ર સવ્ય (જમણે) અને અપસવ્ય (ડાબે) બે પ્રકારનું હોય છે.
+      • keywords:
+        1.
+          kalachakra
+        2.
+          12 compartments
+        3.
+          savya
+        4.
+          apsavya
+    55.
+      • shloka: 55
+      • text: Starting from the second compartment, write the signs from Aries onward. Thus is described the Kalachakra of twelve signs.
+      • hindi: दूसरे कोष्ठ से प्रारंभ करके मेष आदि राशियों को लिखें। इस प्रकार यह बारह राशियों वाला कालचक्र कहलाता है।
+      • gujarati: બીજા કોષ્ઠથી પ્રારંભ કરીને મેષ આદિ રાશિઓને લખો. આ રીતે આ બાર રાશિઓવાળું કાલચક્ર કહેવાય છે.
+      • keywords:
+        1.
+          kalachakra
+        2.
+          signs placement
+        3.
+          aries to pisces
+    56.
+      • shloka: 56
+      • text: In the Savya Chakra, place the first two Nakshatras (Ashwini, Bharani). In the Apsavya Chakra, place Rohini, Mrigasira.
+      • hindi: सव्य चक्र में अश्विनी आदि दो नक्षत्र लिखें। अपसव्य चक्र में रोहिणी आदि दो नक्षत्र लिखें।
+      • gujarati: સવ્ય ચક્રમાં અશ્વિની આદિ બે નક્ષત્રો લખો. અપસવ્ય ચક્રમાં રોહિણી આદિ બે નક્ષત્રો લખો.
+      • keywords:
+        1.
+          savya
+        2.
+          apsavya
+        3.
+          nakshatras
+        4.
+          ashwini
+        5.
+          rohini
+    57.
+      • shloka: 57
+      • text: Thus, making groups of three Nakshatras, complete the Chakra. Starting from Ashwini, place Hasta, Moola, and Proshthapada etc.
+      • hindi: इस प्रकार तीन-तीन नक्षत्रों के समूह बनाकर चक्र को पूरा करें। अश्विनी से आरंभ करके हस्त, मूल, प्रोष्ठपद आदि नक्षत्रों को रखें।
+      • gujarati: આ રીતે ત્રણ-ત્રણ નક્ષત્રોના સમૂહ બનાવીને ચક્રને પૂર્ણ કરો. અશ્વિનીથી આરંભ કરીને હસ્ત, મૂળ, પ્રોષ્ઠપદ આદિ નક્ષત્રોને રાખો.
+      • keywords:
+        1.
+          nakshatra groups
+        2.
+          ashwini
+        3.
+          hasta
+        4.
+          moola
+        5.
+          bhadra
+    58.
+      • shloka: 58
+      • text: The Savya Chakra has 33 Nakshatra quarters and the Apsavya has 30. Thus one should observe the quarters of Ashwini and other Nakshatras.
+      • hindi: सव्य चक्र में 33 और अपसव्य चक्र में 30 नक्षत्र चरण होते हैं। अश्विनी आदि नक्षत्रों के चरणों को इसी प्रकार देखना चाहिए।
+      • gujarati: સવ્ય ચક્રમાં 33 અને અપસવ્ય ચક્રમાં 30 નક્ષત્ર ચરણ હોય છે. અશ્વિની આદિ નક્ષત્રોના ચરણોને આ જ રીતે જોવા જોઈએ.
+      • keywords:
+        1.
+          nakshatra quarters
+        2.
+          33
+        3.
+          30
+        4.
+          savya
+        5.
+          apsavya
+    59.
+      • shloka: 59
+      • text: O Maitreya, I shall now explain how Deha (body) and Jeeva (life) are to be seen in the quarters of Nakshatras.
+      • hindi: हे मैत्रेय, अब मैं बताता हूँ कि नक्षत्रों के चरणों में देह और जीव कैसे देखे जाते हैं।
+      • gujarati: હે મૈત્રેય, હવે હું કહું છું કે નક્ષત્રોના ચરણોમાં દેહ અને જીવ કેવી રીતે જોવાય છે.
+      • keywords:
+        1.
+          deha
+        2.
+          jeeva
+        3.
+          nakshatra quarters
+        4.
+          introduction
+    60.
+      • shloka: 60
+      • text: In the first quarter of Ashwini, Deha is Aries and Jeeva is Sagittarius. The Dasha lords are the lords of the signs from Aries onward.
+      • hindi: अश्विनी के प्रथम चरण में देह मेष और जीव धनु है। मेष से लेकर क्रमशः राशियों के पादों के दशा स्वामी होते हैं।
+      • gujarati: અશ્વિનીના પ્રથમ ચરણમાં દેહ મેષ અને જીવ ધનુ છે. મેષથી લઈને ક્રમશઃ રાશિઓના પાદોના દશા સ્વામી હોય છે.
+      • keywords:
+        1.
+          ashwini
+        2.
+          first pada
+        3.
+          deha aries
+        4.
+          jeeva sagittarius
+    61.
+      • shloka: 61
+      • text: In the second quarter, Deha is Capricorn and Jeeva is Gemini. The Dasha lords are the lords of signs from Gemini onward.
+      • hindi: द्वितीय चरण में देह मकर और जीव मिथुन है। क्रम से मिथुन आदि राशियों के स्वामी दशा स्वामी होते हैं।
+      • gujarati: દ્વિતીય ચરણમાં દેહ મકર અને જીવ મિથુન છે. ક્રમથી મિથુન આદિ રાશિઓના સ્વામી દશા સ્વામી હોય છે.
+      • keywords:
+        1.
+          ashwini
+        2.
+          second pada
+        3.
+          deha capricorn
+        4.
+          jeeva gemini
+    62.
+      • shloka: 62
+      • text: O Brahmin, in the third quarter of the ten Nakshatras starting from Ashwini, Deha is Taurus and Jeeva is Gemini. The Dasha lords are the lords of the 2nd, 1st, 12th, 11th, 10th, 9th, 1st, 2nd, 3rd signs in order.
+      • hindi: हे द्विज, अश्विनी आदि दस नक्षत्रों के तृतीय चरण में देह वृष और जीव मिथुन है। दशा स्वामी क्रमशः 2,1,12,11,10,9,1,2,3 वें राशि स्वामी होंगे।
+      • gujarati: હે દ્વિજ, અશ્વિની આદિ દસ નક્ષત્રોના તૃતીય ચરણમાં દેહ વૃષ અને જીવ મિથુન છે. દશા સ્વામી ક્રમશઃ 2,1,12,11,10,9,1,2,3 મા રાશિ સ્વામી થશે.
+      • keywords:
+        1.
+          ashwini
+        2.
+          third pada
+        3.
+          deha taurus
+        4.
+          jeeva gemini
+    63.
+      • shloka: 63
+      • text: In the fourth quarter of the ten Nakshatras from Ashwini, Deha is Cancer and Jeeva is Pisces. The Dasha lords are the lords of the nine signs from Cancer onward.
+      • hindi: अश्विनी आदि दस नक्षत्रों के चतुर्थ चरण में देह कर्क और जीव मीन है। कर्क आदि नौ राशियों के स्वामी दशा स्वामी हैं।
+      • gujarati: અશ્વિની આદિ દસ નક્ષત્રોના ચતુર્થ ચરણમાં દેહ કર્ક અને જીવ મીન છે. કર્ક આદિ નવ રાશિઓના સ્વામી દશા સ્વામી છે.
+      • keywords:
+        1.
+          ashwini
+        2.
+          fourth pada
+        3.
+          deha cancer
+        4.
+          jeeva pisces
+    64.
+      • shloka: 64
+      • text: O best of Brahmins, these nine planets should be known as Dasha lords.
+      • hindi: हे द्विजसत्तम, ये नौ ग्रह दशा स्वामी जानने चाहिए।
+      • gujarati: હે દ્વિજસત્તમ, આ નવ ગ્રહો દશા સ્વામી જાણવા જોઈએ.
+      • keywords:
+        1.
+          nine dasha lords
+        2.
+          confirmation
+    65.
+      • shloka: 65
+      • text: For the four quarters of the five Nakshatras beginning with Bharani, the Deha, Jeeva, and Dasha lords are the same as for Bharani.
+      • hindi: भरणी आदि पाँच नक्षत्रों के चारों चरणों में देह-जीव और दशा स्वामी भरणी के समान ही जानें।
+      • gujarati: ભરણી આદિ પાંચ નક્ષત્રોના ચારેય ચરણોમાં દેહ-જીવ અને દશા સ્વામી ભરણીના સમાન જ જાણો.
+      • keywords:
+        1.
+          bharani
+        2.
+          pushyami
+        3.
+          chitta
+        4.
+          poorvashada
+        5.
+          uttarabhadra
+    66.
+      • shloka: 66
+      • text: In the first quarter of Bharani, Deha is Scorpio and Jeeva is Pisces. The Dasha lords are the lords of the 8th, 7th, 6th, 4th, 5th, 3rd, 2nd, 1st, 12th signs in order.
+      • hindi: भरणी के प्रथम चरण में देह वृश्चिक और जीव मीन है। दशा स्वामी क्रमशः 8,7,6,4,5,3,2,1,12 वें राशि स्वामी होंगे।
+      • gujarati: ભરણીના પ્રથમ ચરણમાં દેહ વૃશ્ચિક અને જીવ મીન છે. દશા સ્વામી ક્રમશઃ 8,7,6,4,5,3,2,1,12 મા રાશિ સ્વામી થશે.
+      • keywords:
+        1.
+          bharani
+        2.
+          first pada
+        3.
+          deha scorpio
+        4.
+          jeeva pisces
+    67.
+      • shloka: 67
+      • text: In the second quarter of Bharani, Deha is Aquarius and Jeeva is Virgo. The Dasha lords are the lords of Aquarius, Capricorn, Sagittarius, Aries, Taurus, Gemini, Cancer, Leo, Virgo in order.
+      • hindi: भरणी के द्वितीय चरण में देह कुम्भ और जीव कन्या है। दशा स्वामी क्रमशः कुम्भ, मकर, धनु, मेष, वृष, मिथुन, कर्क, सिंह, कन्या के स्वामी हैं।
+      • gujarati: ભરણીના દ્વિતીય ચરણમાં દેહ કુમ્ભ અને જીવ કન્યા છે. દશા સ્વામી ક્રમશઃ કુમ્ભ, મકર, ધનુ, મેષ, વૃષ, મિથુન, કર્ક, સિંહ, કન્યાના સ્વામી છે.
+      • keywords:
+        1.
+          bharani
+        2.
+          second pada
+        3.
+          deha aquarius
+        4.
+          jeeva virgo
+    68.
+      • shloka: 68
+      • text: In the third quarter of Bharani, Deha is Libra and Jeeva is Virgo. The Dasha lords are the lords of Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces, Scorpio, Libra, Virgo in order.
+      • hindi: भरणी के तृतीय चरण में देह तुला और जीव कन्या है। दशा स्वामी क्रमशः तुला, वृश्चिक, धनु, मकर, कुम्भ, मीन, वृश्चिक, तुला, कन्या के स्वामी हैं।
+      • gujarati: ભરણીના તૃતીય ચરણમાં દેહ તુલા અને જીવ કન્યા છે. દશા સ્વામી ક્રમશઃ તુલા, વૃશ્ચિક, ધનુ, મકર, કુમ્ભ, મીન, વૃશ્ચિક, તુલા, કન્યાના સ્વામી છે.
+      • keywords:
+        1.
+          bharani
+        2.
+          third pada
+        3.
+          deha libra
+        4.
+          jeeva virgo
+    69.
+      • shloka: 69
+      • text: O Brahmin, in the fourth quarter of Bharani, Deha is Cancer and Jeeva is Sagittarius. The Dasha lords are the lords of Cancer, Leo, Gemini, Taurus, Aries, Pisces, Aquarius, Capricorn, Sagittarius in order.
+      • hindi: हे द्विज, भरणी के चतुर्थ चरण में देह कर्क और जीव धनु है। दशा स्वामी कर्क, सिंह, मिथुन, वृष, मेष, मीन, कुम्भ, मकर, धनु के स्वामी हैं।
+      • gujarati: હે દ્વિજ, ભરણીના ચતુર્થ ચરણમાં દેહ કર્ક અને જીવ ધનુ છે. દશા સ્વામી કર્ક, સિંહ, મિથુન, વૃષ, મેષ, મીન, કુમ્ભ, મકર, ધનુના સ્વામી છે.
+      • keywords:
+        1.
+          bharani
+        2.
+          fourth pada
+        3.
+          deha cancer
+        4.
+          jeeva sagittarius
+    70.
+      • shloka: 70
+      • text: O best of Brahmins, now I shall describe the Apsavya Chakra. Draw a Chakra of 12 compartments as before.
+      • hindi: हे द्विजसत्तम, अब मैं अपसव्य चक्र का वर्णन करता हूँ। पूर्ववत् बारह कोष्ठों का चक्र बनाएँ।
+      • gujarati: હે દ્વિજસત્તમ, હવે હું અપસવ્ય ચક્રનું વર્ણન કરું છું. પૂર્વવત્ બાર કોષ્ઠોનું ચક્ર બનાવો.
+      • keywords:
+        1.
+          apsavya chakra
+        2.
+          12 compartments
+    71.
+      • shloka: 71
+      • text: Starting from the second compartment, write the signs in reverse order from Scorpio. Rohini, Makha, Hasta, and Visakha – these four Nakshatras are included here.
+      • hindi: दूसरे कोष्ठ से आरंभ करके वृश्चिक से लेकर उल्टे क्रम में राशियाँ लिखें। रोहिणी, मघा, हस्त और विशाखा – ये चार नक्षत्र यहाँ आते हैं।
+      • gujarati: બીજા કોષ્ઠથી આરંભ કરીને વૃશ્ચિકથી લઈને ઊલટા ક્રમમાં રાશિઓ લખો. રોહિણી, મઘા, હસ્ત અને વિશાખા – આ ચાર નક્ષત્રો અહીં આવે છે.
+      • keywords:
+        1.
+          apsavya
+        2.
+          reverse signs
+        3.
+          scorpio to libra
+    72.
+      • shloka: 72
+      • text: O best of Brahmins, the Apsavya Nakshatras have been described by ancient sages. Thus should one observe the quarters of Rohini and others.
+      • hindi: हे द्विजोत्तम, अपसव्य नक्षत्रों का वर्णन पूर्वाचार्यों ने किया है। रोहिणी आदि नक्षत्रों के चरणों को इसी प्रकार देखना चाहिए।
+      • gujarati: હે દ્વિજોત્તમ, અપસવ્ય નક્ષત્રોનું વર્ણન પૂર્વાચાર્યોએ કર્યું છે. રોહિણી આદિ નક્ષત્રોના ચરણોને આ જ રીતે જોવા જોઈએ.
+      • keywords:
+        1.
+          apsavya
+        2.
+          ancient sages
+        3.
+          rohini
+    73.
+      • shloka: 73
+      • text: In the first quarter of Rohini, Deha is Cancer and Jeeva is Sagittarius. The Dasha lords are the lords of Sagittarius, Capricorn, Aquarius, Pisces, Aries, Taurus, Gemini, Leo, Libra in order.
+      • hindi: रोहिणी के प्रथम चरण में देह कर्क और जीव धनु है। दशा स्वामी धनु, मकर, कुम्भ, मीन, मेष, वृष, मिथुन, सिंह, तुला के स्वामी हैं।
+      • gujarati: રોહિણીના પ્રથમ ચરણમાં દેહ કર્ક અને જીવ ધનુ છે. દશા સ્વામી ધનુ, મકર, કુમ્ભ, મીન, મેષ, વૃષ, મિથુન, સિંહ, તુલાના સ્વામી છે.
+      • keywords:
+        1.
+          rohini
+        2.
+          apsavya
+        3.
+          first pada
+        4.
+          deha cancer
+        5.
+          jeeva sagittarius
+    74.
+      • shloka: 74
+      • text: In the second quarter of Rohini, Deha is Libra and Jeeva is Virgo. The Dasha lords are the lords of Virgo, Libra, Scorpio, Pisces, Aquarius, Capricorn, Sagittarius, Scorpio, Scorpio in order.
+      • hindi: रोहिणी के द्वितीय चरण में देह तुला और जीव कन्या है। दशा स्वामी कन्या, तुला, वृश्चिक, मीन, कुम्भ, मकर, धनु, वृश्चिक, वृश्चिक के स्वामी हैं।
+      • gujarati: રોહિણીના દ્વિતીય ચરણમાં દેહ તુલા અને જીવ કન્યા છે. દશા સ્વામી કન્યા, તુલા, વૃશ્ચિક, મીન, કુમ્ભ, મકર, ધનુ, વૃશ્ચિક, વૃશ્ચિકના સ્વામી છે.
+      • keywords:
+        1.
+          rohini
+        2.
+          apsavya
+        3.
+          second pada
+        4.
+          deha libra
+        5.
+          jeeva virgo
+    75.
+      • shloka: 75
+      • text: O Brahma, in the third quarter, Deha is Aquarius and Jeeva is Virgo. The Dasha lords are the lords of Virgo, Leo, Cancer, Gemini, Taurus, Aries, Sagittarius, Capricorn, Aquarius in order.
+      • hindi: हे ब्रह्मन्, तृतीय चरण में देह कुम्भ और जीव कन्या है। दशा स्वामी कन्या, सिंह, कर्क, मिथुन, वृष, मेष, धनु, मकर, कुम्भ के स्वामी हैं।
+      • gujarati: હે બ્રહ્મન્, તૃતીય ચરણમાં દેહ કુમ્ભ અને જીવ કન્યા છે. દશા સ્વામી કન્યા, સિંહ, કર્ક, મિથુન, વૃષ, મેષ, ધનુ, મકર, કુમ્ભના સ્વામી છે.
+      • keywords:
+        1.
+          rohini
+        2.
+          apsavya
+        3.
+          third pada
+        4.
+          deha aquarius
+        5.
+          jeeva virgo
+    76.
+      • shloka: 76
+      • text: In the fourth quarter of Rohini, Deha is Scorpio and Jeeva is Pisces. The Dasha lords are the lords of Pisces, Aries, Taurus, Gemini, Leo, Cancer, Virgo, Libra, Scorpio in order.
+      • hindi: रोहिणी के चतुर्थ चरण में देह वृश्चिक और जीव मीन है। दशा स्वामी मीन, मेष, वृष, मिथुन, सिंह, कर्क, कन्या, तुला, वृश्चिक के स्वामी हैं।
+      • gujarati: રોહિણીના ચતુર્થ ચરણમાં દેહ વૃશ્ચિક અને જીવ મીન છે. દશા સ્વામી મીન, મેષ, વૃષ, મિથુન, સિંહ, કર્ક, કન્યા, તુલા, વૃશ્ચિકના સ્વામી છે.
+      • keywords:
+        1.
+          rohini
+        2.
+          apsavya
+        3.
+          fourth pada
+        4.
+          deha scorpio
+        5.
+          jeeva pisces
+    77.
+      • shloka: 77
+      • text: Thus should one know the order of the eight Nakshatras: Moon, Sun, Bhaga, Arkesha, Agni, Mitra, Indra, Varuna.
+      • hindi: चंद्र, सूर्य, भग, अर्केश, वह्नि, मित्र, इंद्र, वरुण – इस प्रकार आठ नक्षत्रों के क्रम को जानना चाहिए।
+      • gujarati: ચંદ્ર, સૂર્ય, ભગ, અર્કેશ, વહ્નિ, મિત્ર, ઇંદ્ર, વરુણ – આ રીતે આઠ નક્ષત્રોના ક્રમને જાણવો જોઈએ.
+      • keywords:
+        1.
+          apsavya
+        2.
+          eight nakshatras
+        3.
+          chandra
+        4.
+          surya
+        5.
+          bhaga
+        6.
+          mitra
+        7.
+          indra
+        8.
+          varuna
+    78.
+      • shloka: 78
+      • text: O Brahmin, in the first quarter of Mrigasira, Deha is Cancer and Jeeva is Taurus. The Dasha lords are the lords of signs from Pisces in reverse order.
+      • hindi: हे द्विज, मृगशिरा के प्रथम चरण में देह कर्क और जीव वृष है। मीन से लेकर उल्टे क्रम में राशियों के स्वामी दशा स्वामी हैं।
+      • gujarati: હે દ્વિજ, મૃગશિરાના પ્રથમ ચરણમાં દેહ કર્ક અને જીવ વૃષ છે. મીનથી લઈને ઊલટા ક્રમમાં રાશિઓના સ્વામી દશા સ્વામી છે.
+      • keywords:
+        1.
+          mrigasira
+        2.
+          apsavya
+        3.
+          first pada
+        4.
+          deha cancer
+        5.
+          jeeva taurus
+    79.
+      • shloka: 79
+      • text: In the second quarter of Mrigasira, Deha is Taurus and Jeeva is Gemini. The Dasha lords are the lords of Gemini, Taurus, Aries, Sagittarius, Capricorn, Aquarius, Pisces, Sagittarius, Capricorn, Aquarius, Pisces, Aries, Taurus in order.
+      • hindi: मृगशिरा के द्वितीय चरण में देह वृष और जीव मिथुन है। दशा स्वामी मिथुन, वृष, मेष, धनु, मकर, कुम्भ, मीन, धनु, मकर, कुम्भ, मीन, मेष, वृष के स्वामी हैं।
+      • gujarati: મૃગશિરાના દ્વિતીય ચરણમાં દેહ વૃષ અને જીવ મિથુન છે. દશા સ્વામી મિથુન, વૃષ, મેષ, ધનુ, મકર, કુમ્ભ, મીન, ધનુ, મકર, કુમ્ભ, મીન, મેષ, વૃષના સ્વામી છે.
+      • keywords:
+        1.
+          mrigasira
+        2.
+          apsavya
+        3.
+          second pada
+        4.
+          deha taurus
+        5.
+          jeeva gemini
+    80.
+      • shloka: 80
+      • text: In the third quarter of Mrigasira, Deha is Capricorn and Jeeva is Gemini. The Dasha lords are the lords of Gemini, Leo, Cancer, Virgo, Libra, Scorpio, Pisces, Aquarius, Capricorn in order.
+      • hindi: मृगशिरा के तृतीय चरण में देह मकर और जीव मिथुन है। दशा स्वामी मिथुन, सिंह, कर्क, कन्या, तुला, वृश्चिक, मीन, कुम्भ, मकर के स्वामी हैं।
+      • gujarati: મૃગશિરાના તૃતીય ચરણમાં દેહ મકર અને જીવ મિથુન છે. દશા સ્વામી મિથુન, સિંહ, કર્ક, કન્યા, તુલા, વૃશ્ચિક, મીન, કુમ્ભ, મકરના સ્વામી છે.
+      • keywords:
+        1.
+          mrigasira
+        2.
+          apsavya
+        3.
+          third pada
+        4.
+          deha capricorn
+        5.
+          jeeva gemini
+    81.
+      • shloka: 81
+      • text: In the fourth quarter of Mrigasira, Deha is Aries and Jeeva is Sagittarius. The Dasha lords are the lords of signs from Sagittarius to Aries in reverse order.
+      • hindi: मृगशिरा के चतुर्थ चरण में देह मेष और जीव धनु है। धनु से मेष तक उल्टे क्रम में राशियों के स्वामी दशा स्वामी हैं।
+      • gujarati: મૃગશિરાના ચતુર્થ ચરણમાં દેહ મેષ અને જીવ ધનુ છે. ધનુથી મેષ સુધી ઊલટા ક્રમમાં રાશિઓના સ્વામી દશા સ્વામી છે.
+      • keywords:
+        1.
+          mrigasira
+        2.
+          apsavya
+        3.
+          fourth pada
+        4.
+          deha aries
+        5.
+          jeeva sagittarius
+    82.
+      • shloka: 82
+      • text: Thus in the Apsavya Chakra, one should know the Deha, Jeeva, and Dasha. This was told by Lord Shiva to Parvati; the same I have narrated to you.
+      • hindi: अपसव्य चक्र में इसी प्रकार देह, जीव और दशा आदि जानना चाहिए। यही शम्भु ने पार्वती से कहा था, वही मैंने तुमसे कहा।
+      • gujarati: અપસવ્ય ચક્રમાં આ જ રીતે દેહ, જીવ અને દશા આદિ જાણવા જોઈએ. આ જ શમ્ભુએ પાર્વતીને કહ્યું હતું, તે જ મેં તમને કહ્યું.
+      • keywords:
+        1.
+          apsavya
+        2.
+          conclusion
+        3.
+          shiva
+        4.
+          parvati
+    83.
+      • shloka: 83
+      • text: O great sage, which planets have how many years of Dasha? Please describe in detail the expired and remaining portions of the Dasha.
+      • hindi: हे महामुने, किन ग्रहों की कितने वर्षों की दशा होती है? दशा के भुक्त और भोग्य भागों का विस्तार से वर्णन कीजिए।
+      • gujarati: હે મહામુને, કયા ગ્રહોની કેટલાં વર્ષોની દશા હોય છે? દશાના ભુક્ત અને ભોગ્ય ભાગોનું વિસ્તારથી વર્ણન કરો.
+      • keywords:
+        1.
+          dasha periods
+        2.
+          request
+        3.
+          details
+    84.
+      • shloka: 84
+      • text: O Brahmin, the Dasha years of the Sun and other planets are, in order: 5, 21, 7, 9, 10, 16, and 4. The Dasha of signs depends on their lords.
+      • hindi: हे विप्र, सूर्य आदि ग्रहों की दशा के वर्ष क्रमशः 5, 21, 7, 9, 10, 16 और 4 हैं। राशियों की दशा उनके स्वामी के अधीन होती है।
+      • gujarati: હે વિપ્ર, સૂર્ય આદિ ગ્રહોની દશાના વર્ષો ક્રમશઃ 5, 21, 7, 9, 10, 16 અને 4 છે. રાશિઓની દશા તેમના સ્વામીના અધીન હોય છે.
+      • keywords:
+        1.
+          kalachakra
+        2.
+          dasha years
+        3.
+          5 to 21
+    85.
+      • shloka: 85
+      • text: Starting from the quarter (pada) at the time of birth or query, the total years of the nine signs constitute the lifespan.
+      • hindi: जन्म काल या प्रश्न काल में जिस अंश (पाद) में जन्म हो, उससे आरंभ करके नौ राशियों के वर्षों को उसकी आयु कहते हैं।
+      • gujarati: જન્મ કાળ કે પ્રશ્ન કાળમાં જે અંશ (પાદ)માં જન્મ હોય, તેનાથી આરંભ કરીને નવ રાશિઓના વર્ષોને તેની આયુ કહે છે.
+      • keywords:
+        1.
+          lifespan
+        2.
+          kalachakra
+        3.
+          nine signs
+    86.
+      • shloka: 86
+      • text: The learned say that birth at the beginning of a pada gives full lifespan, in the middle gives medium lifespan, and at the end gives short lifespan.
+      • hindi: विद्वानों ने कहा है कि पाद के आरंभ में जन्म होने पर पूर्ण आयु, मध्य में मध्यम आयु और अंत में अल्प आयु होती है।
+      • gujarati: વિદ્વાનોએ કહ્યું છે કે પાદના આરંભમાં જન્મ થવા પર પૂર્ણ આયુ, મધ્યમાં મધ્યમ આયુ અને અંતમાં અલ્પ આયુ થાય છે.
+      • keywords:
+        1.
+          lifespan
+        2.
+          pada position
+        3.
+          full
+        4.
+          medium
+        5.
+          short
+    87.
+      • shloka: 87
+      • text: Knowing this principle, the learned should calculate the sign and degree. Now I shall describe the method by proportion.
+      • hindi: इस सिद्धांत को जानकर विद्वान् राशि और अंश की गणना करे। अब मैं अनुपात से इसका उपाय बताता हूँ।
+      • gujarati: આ સિદ્ધાંતને જાણીને વિદ્વાન્ રાશિ અને અંશની ગણના કરે. હવે હું પ્રમાણથી આનો ઉપાય કહું છું.
+      • keywords:
+        1.
+          calculation
+        2.
+          proportion
+        3.
+          method
+    88.
+      • shloka: 88
+      • text: Divide the past Nakshatras by 3. Multiply the remainder by 4. Add the current Nakshatra's pada number. The resulting number, starting from Aries, gives the Navamsha.
+      • hindi: बीते हुए नक्षत्रों को 3 से भाग दें। शेष को 4 से गुणा करें। उसमें वर्तमान नक्षत्र के चरण को जोड़ें। इससे प्राप्त संख्या मेष से आरंभ करके अंश (नवांश) होगी।
+      • gujarati: વીતેલા નક્ષત્રોને 3 વડે ભાગ આપો. શેષને 4 વડે ગુણાકાર કરો. તેમાં વર્તમાન નક્ષત્રના ચરણને ઉમેરો. આનાથી પ્રાપ્ત સંખ્યા મેષથી આરંભ કરીને અંશ (નવાંશ) થશે.
+      • keywords:
+        1.
+          navamsha
+        2.
+          calculation
+        3.
+          nakshatras
+        4.
+          pada
+    89.
+      • shloka: 89
+      • text: In Aries Navamsha, 100 years; Taurus, 85; Gemini, 83; Cancer, 86 years are the lifespans. The same applies to their trine signs (5th and 9th).
+      • hindi: मेष अंश में 100, वृष में 85, मिथुन में 83, कर्क में 86 वर्ष आयु कही गई है। यही आयु उनके त्रिकोण राशियों (पंचम और नवम) में भी जाननी चाहिए।
+      • gujarati: મેષ અંશમાં 100, વૃષમાં 85, મિથુનમાં 83, કર્કમાં 86 વર્ષ આયુ કહેવામાં આવી છે. આ જ આયુ તેમના ત્રિકોણ રાશિઓ (પંચમ અને નવમ)માં પણ જાણવી જોઈએ.
+      • keywords:
+        1.
+          lifespan
+        2.
+          navamsha
+        3.
+          100 years
+        4.
+          85 years
+        5.
+          83 years
+        6.
+          86 years
+    90.
+      • shloka: 90
+      • text: Multiply the Dasha years of that Navamsha by the expired Ghatis and Palas of the pada, then divide by 15.
+      • hindi: जिस अंश में जन्म हुआ हो, उसके बीते हुए नाड़ी-पल आदि से उस अंश के दशा वर्षों को गुणा करके 15 से भाग दें।
+      • gujarati: જે અંશમાં જન્મ થયો હોય, તેના વીતેલા નાડી-પળ આદિથી તે અંશના દશા વર્ષોને ગુણાકાર કરીને 15 વડે ભાગ આપો.
+      • keywords:
+        1.
+          expired dasha
+        2.
+          calculation
+        3.
+          ghatis
+    91.
+      • shloka: 91
+      • text: Thus is obtained the portion of the Mahadasha according to the Navamsha. Calculating in this manner, the total lifespan is known.
+      • hindi: इस प्रकार अंश के अनुसार महादशा का भाग प्राप्त होता है। इस प्रकार गणना करके अंत तक आयु जानी जाती है।
+      • gujarati: આ રીતે અંશ પ્રમાણે મહાદશાનો ભાગ પ્રાપ્ત થાય છે. આ રીતે ગણના કરીને અંત સુધી આયુ જાણવામાં આવે છે.
+      • keywords:
+        1.
+          lifespan
+        2.
+          mahadasha
+        3.
+          calculation
+    92.
+      • shloka: 92
+      • text: Multiply the Dasha years by the expired Ghatis of the pada, then divide by one-fourth of the Bhabhog (total Ghatis of the pada). The result is the expired portion. Subtract from total to get the remaining.
+      • hindi: पद के बीते हुए घटी आदि से दशा के वर्षों को गुणा करें, फिर भभोग (पद के कुल घटी) के चौथाई से भाग दें। इससे भुक्त दशा आएगी। कुल से घटाकर भोग्य दशा जानें।
+      • gujarati: પદના વીતેલા ઘટી આદિથી દશાના વર્ષોને ગુણાકાર કરો, પછી ભભોગ (પદના કુલ ઘટી)ના ચોથા ભાગથી ભાગ આપો. આનાથી ભુક્ત દશા આવશે. કુલમાંથી બાદ કરીને ભોગ્ય દશા જાણો.
+      • keywords:
+        1.
+          dasha balance
+        2.
+          alternate method
+        3.
+          ghatis
+    93.
+      • shloka: 93
+      • text: Multiply the degrees and minutes (kalas) of the Moon by the Dasha years, then divide by 200. This gives the expired years. The remaining Dasha should be known thus by the wise.
+      • hindi: चन्द्र के अंश-कला (लिप्ता) को दशा वर्षों से गुणा करके 200 से भाग दें। इससे भुक्त वर्ष आएँगे। भोग्य दशा विद्वानों को इस प्रकार जाननी चाहिए।
+      • gujarati: ચંદ્રના અંશ-કલા (લિપ્તા)ને દશા વર્ષોથી ગુણાકાર કરીને 200 વડે ભાગ આપો. આનાથી ભુક્ત વર્ષો આવશે. ભોગ્ય દશા વિદ્વાનોએ આ રીતે જાણવી જોઈએ.
+      • keywords:
+        1.
+          dasha balance
+        2.
+          moon longitude
+        3.
+          200 division
+    94.
+      • shloka: 94
+      • text: In the Savya Chakra, the first Navamsha is called Deha and the last is Jeeva. In the Apsavya Chakra, it is the reverse.
+      • hindi: सव्य चक्र में पहला अंश देह कहलाता है और अंतिम अंश जीव कहलाता है। अपसव्य चक्र में इसका उल्टा होता है।
+      • gujarati: સવ્ય ચક્રમાં પહેલો અંશ દેહ કહેવાય છે અને અંતિમ અંશ જીવ કહેવાય છે. અપસવ્ય ચક્રમાં આનો ઊલટો થાય છે.
+      • keywords:
+        1.
+          deha
+        2.
+          jeeva
+        3.
+          savya
+        4.
+          apsavya
+        5.
+          first
+        6.
+          last
+    95.
+      • shloka: 95
+      • text: In the Savya Chakra, count from Deha; in the Apsavya, from Jeeva. Thus knowing, the astrologer should declare the results.
+      • hindi: सव्य चक्र में देह से और अपसव्य चक्र में जीव से गणना प्रारंभ करें। इस प्रकार जानकर ज्योतिषी उसका फल कहे।
+      • gujarati: સવ્ય ચક્રમાં દેહથી અને અપસવ્ય ચક્રમાં જીવથી ગણના આરંભ કરો. આ રીતે જાણીને જ્યોતિષી તેનું ફળ કહે.
+      • keywords:
+        1.
+          counting start
+        2.
+          deha
+        3.
+          jeeva
+        4.
+          savya
+        5.
+          apsavya
+    96.
+      • shloka: 96
+      • text: The movement in Kalachakra is of three types: Mandooki (frog-like), Markati (monkey-like), and Simhavlokan (lion's gaze).
+      • hindi: कालचक्र की गति तीन प्रकार की कही गई है – मण्डूकी, मर्कटी और सिंहावलोकन।
+      • gujarati: કાલચક્રની ગતિ ત્રણ પ્રકારની કહેવામાં આવી છે – મંડૂકી, મર્કટી અને સિંહાવલોકન.
+      • keywords:
+        1.
+          mandooki
+        2.
+          markati
+        3.
+          simhavlokan
+        4.
+          movements
+    97.
+      • shloka: 97
+      • text: The third movement is called Simhavlokan. Jumping over one sign is called Mandooki (frog) movement.
+      • hindi: तीसरी गति सिंहावलोकन कहलाती है। उछलकर (एक राशि छोड़कर) जाना मण्डूकी गति कहलाता है।
+      • gujarati: ત્રીજી ગતિ સિંહાવલોકન કહેવાય છે. ઉછળીને (એક રાશિ છોડીને) જવું મંડૂકી ગતિ કહેવાય છે.
+      • keywords:
+        1.
+          mandooki
+        2.
+          jumping
+        3.
+          one sign skip
+    98.
+      • shloka: 98
+      • text: Moving backward is called Markati (monkey) movement. Movement from a sign to the 5th and 9th signs is called Simhavlokan (lion's gaze).
+      • hindi: पीछे की ओर जाना मर्कटी गति कहलाता है। स्थान से अंत तक की गति सिंहावलोकन कहलाती है।
+      • gujarati: પાછળની તરફ જવું મર્કટી ગતિ કહેવાય છે. સ્થાનથી અંત સુધીની ગતિ સિંહાવલોકન કહેવાય છે.
+      • keywords:
+        1.
+          markati
+        2.
+          backward
+        3.
+          simhavlokan
+        4.
+          5th and 9th
+    99.
+      • shloka: 99
+      • text: Movement from Virgo to Cancer and from Leo to Gemini is Mandooki. Movement from Leo to Cancer is Markati.
+      • hindi: कन्या से कर्क और सिंह से मिथुन की गति मण्डूकी कहलाती है। सिंह से कर्क की गति मर्कटी कहलाती है।
+      • gujarati: કન્યાથી કર્ક અને સિંહથી મિથુનની ગતિ મંડૂકી કહેવાય છે. સિંહથી કર્કની ગતિ મર્કટી કહેવાય છે.
+      • keywords:
+        1.
+          mandooki example
+        2.
+          markati example
+    100.
+      • shloka: 100
+      • text: Movement from Pisces to Scorpio and from Sagittarius to Aries is Simhavlokan. Thus considering, the results of Kalachakra Dasha should be known.
+      • hindi: मीन से वृश्चिक और धनु से मेष की गति सिंहावलोकन है। इस प्रकार विचार करके कालचक्र दशा का फल जानना चाहिए।
+      • gujarati: મીનથી વૃશ્ચિક અને ધનુથી મેષની ગતિ સિંહાવલોકન છે. આ રીતે વિચાર કરીને કાલચક્ર દશાનું ફળ જાણવું જોઈએ.
+      • keywords:
+        1.
+          simhavlokan example
+        2.
+          conclusion
+• 47:
+  • chapter: 47
+  • title: Effects of Dasha
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: O sage, you have described many types of Dasha. Kindly also tell about their effects.
+      • hindi: हे मुने, आपने दशाओं के अनेक भेद बताए हैं। कृपया उनके फलों के विषय में भी बताइए।
+      • gujarati: હે મુને, તમે દશાઓના અનેક ભેદો કહ્યા છે. કૃપા કરીને તેમના ફળો વિષે પણ કહો.
+      • keywords:
+        1.
+          dasha effects
+        2.
+          request
+    2.
+      • shloka: 2
+      • text: The effects of Dasha are of two types – general and specific. They should be known according to the nature of planets and their placements.
+      • hindi: दशाओं के दो प्रकार के फल होते हैं – साधारण और विशेष। ग्रहों के स्वभाव और उनकी स्थिति के अनुसार फल जानना चाहिए।
+      • gujarati: દશાઓના બે પ્રકારના ફળ હોય છે – સાધારણ અને વિશેષ. ગ્રહોના સ્વભાવ અને તેમની સ્થિતિ પ્રમાણે ફળ જાણવું જોઈએ.
+      • keywords:
+        1.
+          general effects
+        2.
+          specific effects
+        3.
+          planetary nature
+    3.
+      • shloka: 3
+      • text: The effects in Dasha should be known according to planetary strength. A planet in the first Drekkana gives results at the beginning of the Dasha.
+      • hindi: दशाओं में फल ग्रहों की शक्ति के अनुसार जानना चाहिए। जो ग्रह प्रथम द्रेष्काण में हो, वह दशा के आरंभ में फल देता है।
+      • gujarati: દશાઓમાં ફળ ગ્રહોની શક્તિ પ્રમાણે જાણવું જોઈએ. જે ગ્રહ પ્રથમ દ્રેષ્કાણમાં હોય, તે દશાના આરંભમાં ફળ આપે છે.
+      • keywords:
+        1.
+          drekkena
+        2.
+          timing
+        3.
+          planetary strength
+    4.
+      • shloka: 4
+      • text: A planet in the middle Drekkana gives results in the middle of the Dasha, and one in the third Drekkana gives at the end. For a retrograde planet, this order is reversed.
+      • hindi: मध्य द्रेष्काण में स्थित ग्रह दशा के मध्य में फल देता है, और तृतीय द्रेष्काण में स्थित ग्रह दशा के अंत में फल देता है। वक्री ग्रह में यह क्रम उल्टा हो जाता है।
+      • gujarati: મધ્ય દ્રેષ્કાણમાં સ્થિત ગ્રહ દશાના મધ્યમાં ફળ આપે છે, અને તૃતીય દ્રેષ્કાણમાં સ્થિત ગ્રહ દશાના અંતમાં ફળ આપે છે. વક્રી ગ્રહમાં આ ક્રમ ઊલટો થઈ જાય છે.
+      • keywords:
+        1.
+          drekkena
+        2.
+          middle
+        3.
+          end
+        4.
+          retrograde
+    5.
+      • shloka: 5
+      • text: If at the commencement of the Dasha, the Dasha lord is in the Ascendant, aspected by a benefic, or in exaltation, own sign, or friendly sign, then the Dasha results are auspicious.
+      • hindi: यदि दशा के आरंभ में दशा स्वामी लग्न में हो, शुभ ग्रह से दृष्ट हो, या अपने उच्च, स्वक्षेत्र या मित्र राशि में हो, तो दशा का फल शुभ होता है।
+      • gujarati: જો દશાના આરંભમાં દશા સ્વામી લગ્નમાં હોય, શુભ ગ્રહથી દૃષ્ટ હોય, કે પોતાના ઉચ્ચ, સ્વક્ષેત્ર કે મિત્ર રાશિમાં હોય, તો દશાનું ફળ શુભ થાય છે.
+      • keywords:
+        1.
+          auspicious dasha
+        2.
+          dasha lord
+        3.
+          exaltation
+        4.
+          own sign
+        5.
+          friend sign
+    6.
+      • shloka: 6
+      • text: If the Dasha lord is in the 6th, 8th, or 12th house, or in debilitation or enemy's sign, then the Dasha results are inauspicious.
+      • hindi: यदि दशा स्वामी षष्ठ, अष्टम या व्यय स्थान में हो, अथवा नीच या शत्रु राशि में हो, तो दशा का फल अशुभ होता है।
+      • gujarati: જો દશા સ્વામી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય, અથવા નીચ કે શત્રુ રાશિમાં હોય, તો દશાનું ફળ અશુભ થાય છે.
+      • keywords:
+        1.
+          inauspicious dasha
+        2.
+          6th house
+        3.
+          8th house
+        4.
+          12th house
+        5.
+          debilitation
+        6.
+          enemy sign
+    7.
+      • shloka: 7
+      • text: If the Sun is in Moola-Trikona, own sign, exaltation, or deep exaltation, in Kendra, Trikona, or the 11th house, and associated with the lords of the 9th and 10th, then his Dasha gives auspicious results.
+      • hindi: सूर्य यदि मूलत्रिकोण, स्वक्षेत्र, उच्च या परमोच्च में हो, केन्द्र, त्रिकोण या लाभ स्थान में हो, तथा भाग्य और कर्मेश से युक्त हो, तो उसकी दशा शुभ फल देती है।
+      • gujarati: સૂર્ય જો મૂળત્રિકોણ, સ્વક્ષેત્ર, ઉચ્ચ કે પરમોચ્ચમાં હોય, કેન્દ્ર, ત્રિકોણ કે લાભ સ્થાનમાં હોય, તથા ભાગ્ય અને કર્મેશથી યુક્ત હોય, તો તેની દશા શુભ ફળ આપે છે.
+      • keywords:
+        1.
+          sun dasha
+        2.
+          auspicious
+        3.
+          moola trikona
+        4.
+          exaltation
+        5.
+          kendra
+        6.
+          trikona
+    8.
+      • shloka: 8
+      • text: In that Dasha, great happiness, gain of wealth, royal honours, and comforts of horses and palanquins are obtained.
+      • hindi: उस दशा में महान सुख, धन-लाभ, राजसम्मान, घोड़ों और पालकी आदि का सुख प्राप्त होता है।
+      • gujarati: તે દશામાં મહાન સુખ, ધન-લાભ, રાજસન્માન, ઘોડાં અને પાલખી આદિનું સુખ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          sun dasha effects
+        2.
+          wealth
+        3.
+          royal honours
+        4.
+          conveyances
+    9.
+      • shloka: 9
+      • text: If the Sun is associated with the lord of the 5th, one obtains children; if associated with the lord of the 2nd, one acquires elephants, horses, and wealth.
+      • hindi: सूर्य यदि पुत्रेश से युक्त हो तो पुत्र प्राप्ति होती है, और धनेश से सम्बन्ध होने पर हाथी-घोड़े आदि का ऐश्वर्य प्राप्त होता है।
+      • gujarati: સૂર્ય જો પુત્રેશથી યુક્ત હોય તો પુત્ર પ્રાપ્તિ થાય છે, અને ધનેશ સાથે સંબંધ હોવા પર હાથી-ઘોડાં આદિનું ઐશ્વર્ય પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          children
+        2.
+          wealth
+        3.
+          elephants
+        4.
+          horses
+    10.
+      • shloka: 10
+      • text: If the Sun is associated with the lord of the 4th, one gains conveyances. The person becomes dear to the king, wealthy, an army chief, and happy.
+      • hindi: सूर्य यदि वाहनेश से सम्बन्ध रखता हो तो वाहनों का लाभ होता है। वह नर राजप्रिय, धनाढ्य, सेनापति और सुखी होता है।
+      • gujarati: સૂર્ય જો વાહનેશથી સંબંધ રાખતો હોય તો વાહનોનો લાભ થાય છે. તે નર રાજપ્રિય, ધનાઢ્ય, સેનાપતિ અને સુખી હોય છે.
+      • keywords:
+        1.
+          conveyances
+        2.
+          dear to king
+        3.
+          army chief
+        4.
+          happiness
+    11.
+      • shloka: 11
+      • text: By the grace of the king, one becomes wealthy, an army chief, happy, and gains conveyances and clothes. Thus are the results of a strong Sun's Dasha.
+      • hindi: राजप्रसाद से धनाढ्य, सेनापति, सुखी और वाहन-वस्त्र आदि का लाभ होता है। इस प्रकार बलवान् सूर्य की दशा में ये फल प्राप्त होते हैं।
+      • gujarati: રાજપ્રસાદથી ધનાઢ્ય, સેનાપતિ, સુખી અને વાહન-વસ્ત્ર આદિનો લાભ થાય છે. આ રીતે બળવાન્ સૂર્યની દશામાં આ ફળો પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          royal grace
+        2.
+          wealth
+        3.
+          army chief
+        4.
+          conveyances
+        5.
+          clothes
+    12.
+      • shloka: 12
+      • text: If the Sun is in debilitation, in the 6th, 8th, or enemy's sign, weak, associated with malefic, with Rahu-Ketu, or with the lords of evil houses, then his Dasha gives inauspicious results.
+      • hindi: यदि सूर्य नीच राशि में हो, षष्ठ, अष्टम या शत्रु राशि में हो, दुर्बल हो, पाप ग्रहों से युक्त हो, राहु-केतु से युक्त हो, अथवा दुःस्थान के स्वामी से युक्त हो, तो उसकी दशा में अशुभ फल मिलते हैं।
+      • gujarati: જો સૂર્ય નીચ રાશિમાં હોય, ષષ્ઠ, અષ્ટમ કે શત્રુ રાશિમાં હોય, દુર્બળ હોય, પાપ ગ્રહોથી યુક્ત હોય, રાહુ-કેતુથી યુક્ત હોય, અથવા દુઃસ્થાનના સ્વામીથી યુક્ત હોય, તો તેની દશામાં અશુભ ફળો મળે છે.
+      • keywords:
+        1.
+          sun dasha
+        2.
+          inauspicious
+        3.
+          debilitation
+        4.
+          malefic association
+    13.
+      • shloka: 13
+      • text: In that Dasha, great distress, loss of wealth and grains, royal displeasure, exile, punishment by the king, and loss of wealth occur.
+      • hindi: उस दशा में महान पीड़ा, धन-धान्य का नाश, राजकोप, प्रवास, राजदण्ड और धन की हानि होती है।
+      • gujarati: તે દશામાં મહાન પીડા, ધન-ધાન્યનો નાશ, રાજકોપ, પ્રવાસ, રાજદંડ અને ધનની હાનિ થાય છે.
+      • keywords:
+        1.
+          distress
+        2.
+          loss of wealth
+        3.
+          royal displeasure
+        4.
+          exile
+        5.
+          punishment
+    14.
+      • shloka: 14
+      • text: There is fever, loss of reputation, opposition from relatives, fear of father's death, and inauspicious events at home.
+      • hindi: ज्वर की पीड़ा, यश की हानि, बन्धुओं से विरोध, पिता की हानि का भय और घर में अशुभता होती है।
+      • gujarati: જ્વરની પીડા, યશની હાનિ, બંધુઓ સાથે વિરોધ, પિતાની હાનિનો ભય અને ઘરમાં અશુભતા થાય છે.
+      • keywords:
+        1.
+          fever
+        2.
+          loss of reputation
+        3.
+          family opposition
+        4.
+          father's death
+    15.
+      • shloka: 15
+      • text: If the Sun is aspected by a benefic, some happiness occurs in the middle of the Dasha. If aspected by a malefic, only evil results are obtained.
+      • hindi: यदि सूर्य शुभ ग्रहों से दृष्ट हो तो दशा के मध्य में कुछ सुख मिलता है। पाप ग्रह से दृष्ट होने पर पाप फल की ही प्राप्ति होती है।
+      • gujarati: જો સૂર્ય શુભ ગ્રહોથી દૃષ્ટ હોય તો દશાના મધ્યમાં કંઈક સુખ મળે છે. પાપ ગ્રહથી દૃષ્ટ હોવાથી પાપ ફળની જ પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          benefic aspect
+        2.
+          moderate happiness
+        3.
+          malefic aspect
+        4.
+          evil only
+    16.
+      • shloka: 16
+      • text: Thus the results of the Sun's Dasha have been described in brief. Now I shall describe the results of the Moon's Dasha according to Vimshottari.
+      • hindi: इस प्रकार सूर्य के फल संक्षेप में कहे गए। अब विंशोत्तरी के अनुसार चन्द्र दशा का फल बताता हूँ।
+      • gujarati: આ રીતે સૂર્યના ફળો સંક્ષિપ્તમાં કહેવાયા. હવે વિંશોત્તરી પ્રમાણે ચંદ્ર દશાનું ફળ કહું છું.
+      • keywords:
+        1.
+          moon dasha
+        2.
+          vimshottari
+        3.
+          transition
+    17.
+      • shloka: 17
+      • text: If the Moon is in exaltation, own sign, Kendra, 11th, or Trikona, associated with a benefic, full, and strong, then her Dasha gives auspicious results.
+      • hindi: यदि चन्द्रमा उच्च राशि में, स्वक्षेत्र में, केन्द्र, लाभ या त्रिकोण स्थान में हो, शुभ ग्रह से युक्त हो, पूर्ण हो और बलयुक्त हो, तो चन्द्र दशा शुभ फल देती है।
+      • gujarati: જો ચંદ્રમા ઉચ્ચ રાશિમાં, સ્વક્ષેત્રમાં, કેન્દ્ર, લાભ કે ત્રિકોણ સ્થાનમાં હોય, શુભ ગ્રહથી યુક્ત હોય, પૂર્ણ હોય અને બળયુક્ત હોય, તો ચંદ્ર દશા શુભ ફળ આપે છે.
+      • keywords:
+        1.
+          moon dasha
+        2.
+          auspicious
+        3.
+          exaltation
+        4.
+          own sign
+        5.
+          kendra
+        6.
+          trikona
+        7.
+          full moon
+    18.
+      • shloka: 18
+      • text: If the Moon is associated with the lords of the 10th and 9th, and also with the lord of the 4th, she bestows opulence, good fortune, wealth, and grains.
+      • hindi: चन्द्रमा यदि कर्मेश और भाग्येश से युक्त हो, तथा वाहनेश से भी युक्त हो, तो वह ऐश्वर्य, सौभाग्य, धन और धान्य आदि का लाभ कराता है।
+      • gujarati: ચંદ્રમા જો કર્મેશ અને ભાગ્યેશથી યુક્ત હોય, તથા વાહનેશથી પણ યુક્ત હોય, તો તે ઐશ્વર્ય, સૌભાગ્ય, ધન અને ધાન્ય આદિનો લાભ કરાવે છે.
+      • keywords:
+        1.
+          10th lord
+        2.
+          9th lord
+        3.
+          4th lord
+        4.
+          opulence
+        5.
+          good fortune
+    19.
+      • shloka: 19
+      • text: Auspicious functions at home, gain of conveyances, audience with the king, success in efforts, and the grace of Goddess Lakshmi are obtained.
+      • hindi: घर में शुभ कार्य, वाहन प्राप्ति, राजदर्शन, प्रयत्न के कार्यों की सिद्धि और घर में लक्ष्मी की कटाक्ष प्राप्ति होती है।
+      • gujarati: ઘરમાં શુભ કાર્ય, વાહન પ્રાપ્તિ, રાજદર્શન, પ્રયત્નના કાર્યોની સિદ્ધિ અને ઘરમાં લક્ષ્મીની કટાક્ષ પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          auspicious functions
+        2.
+          conveyances
+        3.
+          king's audience
+        4.
+          success
+        5.
+          lakshmi grace
+    20.
+      • shloka: 20
+      • text: Happiness in dealings, acquisition of kingdom (high position), great happiness, gain of horses and palanquins, and white clothes are obtained.
+      • hindi: व्यवहार में सुख, राज्यलाभ, महान सुख, घोड़ों और पालकी आदि का लाभ, और श्वेत वस्त्र आदि की प्राप्ति होती है।
+      • gujarati: વ્યવહારમાં સુખ, રાજ્યલાભ, મહાન સુખ, ઘોડાં અને પાલખી આદિનો લાભ, અને શ્વેત વસ્ત્ર આદિની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          happiness
+        2.
+          kingdom
+        3.
+          horses
+        4.
+          palanquins
+        5.
+          white clothes
+    21.
+      • shloka: 21
+      • text: One obtains sons and everything. The house becomes filled with cattle and wealth. Especially when the Moon is in the 2nd house, in exaltation, or own sign.
+      • hindi: पुत्र लाभ आदि सब कुछ प्राप्त होता है। घर गायों और धन से भर जाता है। विशेषकर जब चन्द्रमा धन स्थान में हो, उच्च या स्वक्षेत्र में हो।
+      • gujarati: પુત્ર લાભ આદિ સૌ કંઈ પ્રાપ્ત થાય છે. ઘર ગાયોથી અને ધનથી ભરાઈ જાય છે. વિશેષ કરીને જ્યારે ચંદ્રમા ધન સ્થાનમાં હોય, ઉચ્ચ કે સ્વક્ષેત્રમાં હોય.
+      • keywords:
+        1.
+          sons
+        2.
+          cattle
+        3.
+          wealth
+        4.
+          2nd house
+    22.
+      • shloka: 22
+      • text: Gain of many types of wealth, increase in fortune, great happiness, acquisition of treasure, royal honour, and gain of knowledge occur.
+      • hindi: अनेक प्रकार के धन का लाभ, भाग्य की वृद्धि, महान सुख, निक्षेप (खजाना) की प्राप्ति, राजसम्मान और विद्या का लाभ होता है।
+      • gujarati: અનેક પ્રકારના ધનનો લાભ, ભાગ્યની વૃદ્ધિ, મહાન સુખ, નિક્ષેપ (ખજાનો) ની પ્રાપ્તિ, રાજસમ્માન અને વિદ્યાનો લાભ થાય છે.
+      • keywords:
+        1.
+          wealth
+        2.
+          fortune
+        3.
+          treasure
+        4.
+          royal honour
+        5.
+          knowledge
+    23.
+      • shloka: 23
+      • text: If the Moon is in debilitation or waning, there is loss of wealth. If she is in a malefic house but strong, there is happiness sometimes and wealth sometimes.
+      • hindi: यदि चन्द्रमा नीच राशि में हो या क्षीण (कृष्णपक्षीय) हो, तो धन की हानि होती है। यदि दुःस्थान में हो पर बलयुक्त हो तो कहीं सुख और कहीं धन मिलता है।
+      • gujarati: જો ચંદ્રમા નીચ રાશિમાં હોય કે ક્ષીણ (કૃષ્ણપક્ષીય) હોય, તો ધનની હાનિ થાય છે. જો દુઃસ્થાનમાં હોય પરંતુ બળયુક્ત હોય તો ક્યાંક સુખ અને ક્યાંક ધન મળે છે.
+      • keywords:
+        1.
+          moon debilitation
+        2.
+          waning moon
+        3.
+          loss of wealth
+        4.
+          mixed results
+    24.
+      • shloka: 24
+      • text: If the Moon is weak and associated with malefic, there is physical lethargy, mental disease, trouble from servants, loss of learning, and distress from maternal relatives.
+      • hindi: दुर्बल चन्द्रमा पाप ग्रहों से युक्त हो तो शरीर की जड़ता, मानसिक रोग, सेवकों की पीड़ा, विद्या की हानि और मातृकुल के लोगों से पीड़ा होती है।
+      • gujarati: દુર્બળ ચંદ્રમા પાપ ગ્રહોથી યુક્ત હોય તો શરીરની જડતા, માનસિક રોગ, સેવકોની પીડા, વિદ્યાની હાનિ અને માતૃકુળના લોકોથી પીડા થાય છે.
+      • keywords:
+        1.
+          lethargy
+        2.
+          mental disease
+        3.
+          servant trouble
+        4.
+          loss of learning
+        5.
+          maternal distress
+    25.
+      • shloka: 25
+      • text: If the Moon is in the 6th, 8th, or 12th house, weak, and associated with malefic, there is royal disfavour, mental distress, and loss of wealth and grains.
+      • hindi: चन्द्रमा यदि षष्ठ, अष्टम या व्यय स्थान में हो, दुर्बल हो और पाप ग्रहों से युक्त हो, तो राजद्वेष, मानसिक दुःख, और धन-धान्य का नाश होता है।
+      • gujarati: ચંદ્રમા જો ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય, દુર્બળ હોય અને પાપ ગ્રહોથી યુક્ત હોય, તો રાજદ્વેષ, માનસિક દુઃખ, અને ધન-ધાન્યનો નાશ થાય છે.
+      • keywords:
+        1.
+          royal disfavour
+        2.
+          mental distress
+        3.
+          loss of wealth
+    26.
+      • shloka: 26
+      • text: Distress to mother, mental agony, physical lethargy, and mental disease occur. If the Moon is in a malefic house but strong, there is some happiness occasionally.
+      • hindi: माता को क्लेश, मानसिक ताप, शरीर की जड़ता और मानसिक रोग होते हैं। दुःस्थान में स्थित चन्द्रमा यदि बलयुक्त हो तो कहीं कुछ आभास और कहीं सुख मिलता है।
+      • gujarati: માતાને ક્લેશ, માનસિક તાપ, શરીરની જડતા અને માનસિક રોગ થાય છે. દુઃસ્થાનમાં સ્થિત ચંદ્રમા જો બળયુક્ત હોય તો ક્યાંક કંઈક આભાસ અને ક્યાંક સુખ મળે છે.
+      • keywords:
+        1.
+          mother distress
+        2.
+          mental agony
+        3.
+          physical lethargy
+        4.
+          mixed results
+    27.
+      • shloka: 27
+      • text: Similarly for Mars, auspicious results when in exaltation etc., and inauspicious when in debilitation or enemy's sign.
+      • hindi: इसी प्रकार मंगल के लिए उच्चादि स्थान में होने पर शुभ और नीच-शत्रु राशि में होने पर अशुभ फल जानना चाहिए।
+      • gujarati: આ જ રીતે મંગળ માટે ઉચ્ચાદિ સ્થાનમાં હોવા પર શુભ અને નીચ-શત્રુ રાશિમાં હોવા પર અશુભ ફળ જાણવું જોઈએ.
+      • keywords:
+        1.
+          mars dasha
+        2.
+          auspicious
+        3.
+          inauspicious
+        4.
+          exaltation
+        5.
+          debilitation
+• 51:
+  • chapter: 51
+  • title: Working out of Antardasa (sub periods) of planet in Vimshottari Dasha System
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: Multiply the Dasha years of two planets and divide by the total Dasha years (120) to get the Antardasa period. Similarly, Pratyantar Dasha etc. should be calculated.
+      • hindi: अपनी-अपनी दशा के वर्षों को आपस में गुणा करके कुल दशा वर्षों (120) से भाग देने से अन्तर्दशा के वर्ष आते हैं। इसी प्रकार प्रत्यन्तर्दशा आदि भी जाननी चाहिए।
+      • gujarati: પોતાના-પોતાના દશા વર્ષોને આપસમાં ગુણાકાર કરીને કુલ દશા વર્ષો (120) વડે ભાગ આપવાથી અંતર્દશાના વર્ષો આવે છે. આ જ રીતે પ્રત્યંતર્દશા આદિ પણ જાણવી જોઈએ.
+      • keywords:
+        1.
+          antardasa
+        2.
+          calculation
+        3.
+          formula
+        4.
+          multiplication
+        5.
+          division
+    2.
+      • shloka: 2
+      • text: In each Dasha, the first Antardasa is of the Dasha lord himself, followed by others in order. The same order applies to Pratyantar and Sookshma Dasha.
+      • hindi: प्रत्येक दशा में पहले दशा स्वामी की अन्तर्दशा होती है, फिर अन्य ग्रहों की क्रम से। इसी क्रम से प्रत्यन्तर्दशा और सूक्ष्म दशा भी जाननी चाहिए।
+      • gujarati: પ્રત્યેક દશામાં પહેલા દશા સ્વામીની અંતર્દશા થાય છે, પછી અન્ય ગ્રહોની ક્રમથી. આ જ ક્રમથી પ્રત્યંતર્દશા અને સૂક્ષ્મ દશા પણ જાણવી જોઈએ.
+      • keywords:
+        1.
+          antardasa order
+        2.
+          dasha lord first
+        3.
+          sequential order
+    3.
+      • shloka: 3
+      • text: In Chara and other Dasha systems, divide the Dasha years by 9 to get Antardasa. First is of the Dasha lord, then of planets in Kendras etc.
+      • hindi: चर आदि दशाओं में दशा वर्षों को 9 से भाग देने से अन्तर्दशा आती है। पहले दशा स्वामी की अन्तर्दशा होती है, फिर केन्द्र आदि में स्थित ग्रहों की।
+      • gujarati: ચર આદિ દશાઓમાં દશા વર્ષોને 9 વડે ભાગ આપવાથી અંતર્દશા આવે છે. પહેલા દશા સ્વામીની અંતર્દશા થાય છે, પછી કેન્દ્ર આદિમાં સ્થિત ગ્રહોની.
+      • keywords:
+        1.
+          chara dasha
+        2.
+          antardasa
+        3.
+          division by 9
+        4.
+          kendra planets
+    4.
+      • shloka: 4
+      • text: Thus, by the portions of the sub-period, Sookshma Dasha etc. are known. The results should be declared according to the order of strength, as previously described.
+      • hindi: इसी क्रम से भुक्ति के अंशों द्वारा सूक्ष्म दशा आदि का ज्ञान होता है। बल के क्रम से फल कहना चाहिए, जैसा पहले बताया गया है।
+      • gujarati: આ જ ક્રમથી ભુક્તિના અંશો દ્વારા સૂક્ષ્મ દશા આદિનું જ્ઞાન થાય છે. બળના ક્રમથી ફળ કહેવું જોઈએ, જેમ પહેલાં કહેવામાં આવ્યું છે.
+      • keywords:
+        1.
+          sookshma dasha
+        2.
+          strength order
+        3.
+          results
+    5.
+      • shloka: 5
+      • text: Divide the Rashi Dasha into 12 parts to get Antardasa. Similarly, Pratyantar Dasha etc. should be constructed and their results declared.
+      • hindi: राशि दशा को 12 भागों में बाँटकर अन्तर्दशा जानें। इसी प्रकार प्रत्यन्तर्दशा आदि भी बनाकर उनका फल कहना चाहिए।
+      • gujarati: રાશિ દશાને 12 ભાગોમાં વહેંચીને અંતર્દશા જાણો. આ જ રીતે પ્રત્યંતર્દશા આદિ પણ બનાવીને તેનું ફળ કહેવું જોઈએ.
+      • keywords:
+        1.
+          rashi dasha
+        2.
+          antardasa
+        3.
+          division by 12
+    6.
+      • shloka: 6
+      • text: Start Antardasa from the stronger of the first and seventh signs. If the Dasha sign is odd, count in direct order; if even, in reverse order.
+      • hindi: आरंभिक और सप्तम राशि में जो अधिक बलवान हो, उससे अन्तर्दशा प्रारंभ करें। यदि दशा राशि विषम हो तो सीधे क्रम में, और सम हो तो उल्टे क्रम में।
+      • gujarati: આરંભિક અને સપ્તમ રાશિમાં જે વધુ બળવાન હોય, તેનાથી અંતર્દશા આરંભ કરો. જો દશા રાશિ વિષમ હોય તો સીધા ક્રમમાં, અને સમ હોય તો ઊલટા ક્રમમાં.
+      • keywords:
+        1.
+          antardasa start
+        2.
+          stronger sign
+        3.
+          odd-even order
+    7.
+      • shloka: 7
+      • text: O Brahmin, there are special rules. For moveable signs, Antardasa occurs at every sixth sign.
+      • hindi: हे द्विज, इसके भी कुछ विशेष नियम हैं। चर राशि में छठे-छठे स्थान पर अन्तर्दशा होती है।
+      • gujarati: હે દ્વિજ, આના પણ કેટલાક વિશેષ નિયમો છે. ચર રાશિમાં છઠ્ઠા-છઠ્ઠા સ્થાને અંતર્દશા થાય છે.
+      • keywords:
+        1.
+          moveable signs
+        2.
+          every sixth sign
+        3.
+          special rule
+    8.
+      • shloka: 8
+      • text: For fixed signs, Antardasa is from the sign itself; for dual signs, from the 1st, 5th, and 9th. For odd signs, direct order; for even signs, reverse order.
+      • hindi: स्थिर राशियों में कण्टक (राशि) से, द्विस्वभाव राशियों में लग्न, पंचम और भाग्य से अन्तर्दशा जाननी चाहिए। विषम राशियों में आगे का क्रम और सम राशियों में पीछे का क्रम होता है।
+      • gujarati: સ્થિર રાશિઓમાં કણ્ટક (રાશિ)થી, દ્વિસ્વભાવ રાશિઓમાં લગ્ન, પંચમ અને ભાગ્યથી અંતર્દશા જાણવી જોઈએ. વિષમ રાશિઓમાં આગળનો ક્રમ અને સમ રાશિઓમાં પાછળનો ક્રમ થાય છે.
+      • keywords:
+        1.
+          fixed signs
+        2.
+          dual signs
+        3.
+          odd signs
+        4.
+          even signs
+        5.
+          direct order
+        6.
+          reverse order
+    9.
+      • shloka: 9
+      • text: The sign thus determined is called Paka Rashi. In the first cycle, it is also the Bhoga Rashi.
+      • hindi: इस प्रकार निर्धारित राशि को 'पाक राशि' कहते हैं। पहले चक्र में वही 'भोग राशि' भी होती है।
+      • gujarati: આ રીતે નિર્ધારિત રાશિને 'પાક રાશિ' કહે છે. પહેલા ચક્રમાં તે જ 'ભોગ રાશિ' પણ હોય છે.
+      • keywords:
+        1.
+          paka rashi
+        2.
+          bhoga rashi
+        3.
+          first cycle
+    10.
+      • shloka: 10
+      • text: The Bhoga Rashi in the next cycle is at the same numerical position as the Paka Rashi in the current cycle.
+      • hindi: जिस क्रमांक पर पाक राशि हो, उतने क्रमांक पर दूसरे चक्र में भोग राशि होती है।
+      • gujarati: જે ક્રમાંક પર પાક રાશિ હોય, તેટલા ક્રમાંક પર બીજા ચક્રમાં ભોગ રાશિ હોય છે.
+      • keywords:
+        1.
+          paka rashi
+        2.
+          bhoga rashi
+        3.
+          cycle relation
+    11.
+      • shloka: 11
+      • text: Thus should Paka and Bhoga be conceived in Chara, Sthira, and Trikona Dasha systems.
+      • hindi: चर, स्थिर और त्रिकोण दशाओं में पाक और भोग की यही कल्पना करनी चाहिए।
+      • gujarati: ચર, સ્થિર અને ત્રિકોણ દશાઓમાં પાક અને ભોગની આ જ કલ્પના કરવી જોઈએ.
+      • keywords:
+        1.
+          chara dasha
+        2.
+          sthira dasha
+        3.
+          trikona dasha
+        4.
+          paka bhoga
+    12.
+      • shloka: 12
+      • text: If Paka and Bhoga are associated with malefic, there is physical distress and mental agony. If associated with benefic, there is happiness and prosperity.
+      • hindi: यदि पाक और भोग राशि पाप ग्रहों से युक्त हों तो शरीर पीड़ा और मानसिक व्यथा होती है। शुभ ग्रहों से युक्त होने पर सुख और सम्पत्ति की प्राप्ति होती है।
+      • gujarati: જો પાક અને ભોગ રાશિ પાપ ગ્રહોથી યુક્ત હોય તો શરીર પીડા અને માનસિક વ્યથા થાય છે. શુભ ગ્રહોથી યુક્ત હોવાથી સુખ અને સમ્પત્તિની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          paka
+        2.
+          bhoga
+        3.
+          malefic
+        4.
+          benefic
+        5.
+          distress
+        6.
+          happiness
+    13.
+      • shloka: 13
+      • text: In Pinda and Trika Dasha, Antardasa is of three types: full, half, and quarter. The Dasha lord gets full, planets in trines get half, and planets in 4th/8th get quarter.
+      • hindi: पिण्ड और त्रिक दशाओं में अन्तर्दशा तीन प्रकार की होती है – पूर्ण, आधा और चौथाई। दशा स्वामी पूर्ण का, त्रिकोण में स्थित ग्रह आधे का, और चतुर्थ-अष्टम स्थान के ग्रह चौथाई का भाग पाते हैं।
+      • gujarati: પિણ્ડ અને ત્રિક દશાઓમાં અંતર્દશા ત્રણ પ્રકારની થાય છે – પૂર્ણ, અર્ધ અને ચોથા ભાગની. દશા સ્વામી પૂર્ણનો, ત્રિકોણમાં સ્થિત ગ્રહ અર્ધનો, અને ચતુર્થ-અષ્ટમ સ્થાનના ગ્રહ ચોથા ભાગનો ભાગ પામે છે.
+      • keywords:
+        1.
+          pinda dasha
+        2.
+          antardasa types
+        3.
+          full
+        4.
+          half
+        5.
+          quarter
+    14.
+      • shloka: 14
+      • text: Planets in trines get one-third, in 3rd/6th get one-fourth, and in 7th get one-seventh. If multiple planets occupy the same house, the strongest among them gets the Antardasa.
+      • hindi: त्रिकोण में स्थित ग्रह तिहाई भाग के, तृतीय-षष्ठ स्थान के ग्रह चौथाई भाग के, और सप्तम स्थान के ग्रह सातवें भाग के अधिकारी होते हैं। एक स्थान में अनेक ग्रह हों तो सबसे बलवान ग्रह ही अन्तर्दशा का अधिकारी होता है।
+      • gujarati: ત્રિકોણમાં સ્થિત ગ્રહ ત્રીજા ભાગના, તૃતીય-ષષ્ઠ સ્થાનના ગ્રહ ચોથા ભાગના, અને સપ્તમ સ્થાનના ગ્રહ સાતમા ભાગના અધિકારી હોય છે. એક સ્થાનમાં અનેક ગ્રહ હોય તો સૌથી બળવાન ગ્રહ જ અંતર્દશાનો અધિકારી હોય છે.
+      • keywords:
+        1.
+          trines 1/3
+        2.
+          3rd/6th 1/4
+        3.
+          7th 1/7
+        4.
+          strongest planet
+    15.
+      • shloka: 15
+      • text: Thus, all planets including the Ascendant become Pachakas (Antardasa lords) with their respective fractions. These fractions are reduced to a common denominator, and their sum equals the total Dasha.
+      • hindi: इस प्रकार लग्न सहित सभी ग्रह अपने-अपने भागों को पाचक (अन्तर्दशा के अधिकारी) होते हैं। सभी भागों को समान हर वाला करके उनका योग कुल दशा के बराबर होता है।
+      • gujarati: આ રીતે લગ્ન સહિત બધા ગ્રહો પોતાના-પોતાના ભાગોના પાચક (અંતર્દશાના અધિકારી) હોય છે. બધા ભાગોને સમાન છેદવાળા કરીને તેમનો સરવાળો કુલ દશા જેટલો થાય છે.
+      • keywords:
+        1.
+          pachaka
+        2.
+          common denominator
+        3.
+          total dasha
+    16.
+      • shloka: 16
+      • text: Multiply the Dasha years by each fraction separately and divide by the sum of all fractions. This gives the Antardasa periods. Similarly for Pratyantar Dasha etc.
+      • hindi: दशा के वर्षों को अलग-अलग अंशों से गुणा करके सब अंशों के योग से भाग देने से अन्तर्दशा आती है। इसी प्रकार प्रत्यन्तर्दशा आदि भी जाननी चाहिए।
+      • gujarati: દશાના વર્ષોને અલગ-અલગ અંશોથી ગુણાકાર કરીને બધા અંશોના સરવાળાથી ભાગ આપવાથી અંતર્દશા આવે છે. આ જ રીતે પ્રત્યંતર્દશા આદિ પણ જાણવી જોઈએ.
+      • keywords:
+        1.
+          antardasa
+        2.
+          fraction multiplication
+        3.
+          sum of fractions
+• 52:
+  • chapter: 52
+  • title: Effects of the Antardasa of Sun according to Vimshottari Dasha System
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: If the Sun in his own Dasha and his own Antardasa is in exaltation, own sign, 11th, Kendra, or Trikona, there is gain of wealth and grains.
+      • hindi: यदि सूर्य अपनी दशा में अपनी ही अन्तर्दशा में उच्च, स्वक्षेत्र, लाभ, केन्द्र या त्रिकोण स्थान में हो, तो धन-धान्य आदि का लाभ होता है।
+      • gujarati: જો સૂર્ય પોતાની દશામાં પોતાની જ અંતર્દશામાં ઉચ્ચ, સ્વક્ષેત્ર, લાભ, કેન્દ્ર કે ત્રિકોણ સ્થાનમાં હોય, તો ધન-ધાન્ય આદિનો લાભ થાય છે.
+      • keywords:
+        1.
+          sun-sun antardasa
+        2.
+          auspicious
+        3.
+          wealth
+        4.
+          grains
+    2.
+      • shloka: 2
+      • text: If the Sun is in debilitation or an inauspicious sign, opposite (inauspicious) results occur. If the Sun is the lord of the 2nd or 7th house, there is fear of untimely death.
+      • hindi: यदि सूर्य नीच या अशुभ राशि में हो तो विपरीत (अशुभ) फल होता है। यदि सूर्य द्वितीय या सप्तम भाव का स्वामी हो तो अपमृत्यु का भय रहता है।
+      • gujarati: જો સૂર્ય નીચ કે અશુભ રાશિમાં હોય તો વિપરીત (અશુભ) ફળ થાય છે. જો સૂર્ય દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય તો અપમૃત્યુનો ભય રહે છે.
+      • keywords:
+        1.
+          sun-sun antardasa
+        2.
+          inauspicious
+        3.
+          maraka
+        4.
+          untimely death
+    3.
+      • shloka: 3
+      • text: To remove these defects, Mrityunjaya Japa should be performed. To attain health, propitiation of the Sun should be done.
+      • hindi: इन दोषों को दूर करने के लिए मृत्युंजय जप करना चाहिए। आरोग्य की प्राप्ति के लिए सूर्य को प्रसन्न करने वाली शान्ति करनी चाहिए।
+      • gujarati: આ દોષોને દૂર કરવા માટે મૃત્યુંજય જપ કરવો જોઈએ. આરોગ્યની પ્રાપ્તિ માટે સૂર્યને પ્રસન્ન કરનારી શાંતિ કરવી જોઈએ.
+      • keywords:
+        1.
+          remedial measures
+        2.
+          mrityunjaya japa
+        3.
+          sun worship
+    4.
+      • shloka: 4
+      • text: In the Sun's Dasha, during the Moon's Antardasa, if the Moon is in Kendra or Trikona from the Ascendant, there is marriage, auspicious events, and increase in wealth and grains.
+      • hindi: सूर्य की दशा में चन्द्रमा की अन्तर्दशा में यदि चन्द्रमा लग्न से केन्द्र या त्रिकोण में हो, तो विवाह, शुभ कार्य, और धन-धान्य की वृद्धि होती है।
+      • gujarati: સૂર્યની દશામાં ચંદ્રમાની અંતર્દશામાં જો ચંદ્રમા લગ્નથી કેન્દ્ર કે ત્રિકોણમાં હોય, તો લગ્ન, શુભ કાર્ય, અને ધન-ધાન્યની વૃદ્ધિ થાય છે.
+      • keywords:
+        1.
+          sun-moon antardasa
+        2.
+          marriage
+        3.
+          auspicious events
+        4.
+          wealth
+    5.
+      • shloka: 5
+      • text: There is increase in house and land, gain of cattle and conveyances. If the Moon is in exaltation or own sign, one obtains children and wealth.
+      • hindi: घर और खेत की वृद्धि, पशु-वाहन की सम्पत्ति, उच्च या स्वक्षेत्र में चन्द्रमा होने पर पुत्र सुख और धन की प्राप्ति होती है।
+      • gujarati: ઘર અને ખેતની વૃદ્ધિ, પશુ-વાહનની સમ્પત્તિ, ઉચ્ચ કે સ્વક્ષેત્રમાં ચંદ્રમા હોવાથી પુત્ર સુખ અને ધનની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          house
+        2.
+          land
+        3.
+          cattle
+        4.
+          conveyances
+        5.
+          children
+    6.
+      • shloka: 6
+      • text: One obtains children, happiness, association with kings, and by the grace of the great king, fulfillment of desires and comforts.
+      • hindi: पुत्र-लाभ, सुख, राजाओं का साथ, महाराज के प्रसाद से इच्छित कार्यों की सिद्धि और सुख प्राप्त होता है।
+      • gujarati: પુત્ર-લાભ, સુખ, રાજાઓનો સાથ, મહારાજના પ્રસાદથી ઇચ્છિત કાર્યોની સિદ્ધિ અને સુખ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          children
+        2.
+          kings
+        3.
+          royal grace
+        4.
+          desire fulfillment
+    7.
+      • shloka: 7
+      • text: If the Moon is waning or associated with malefic, there is distress to children and wife, public opposition, and destruction of servants.
+      • hindi: यदि चन्द्रमा क्षीण (कृष्णपक्षीय) हो या पाप ग्रहों से युक्त हो, तो पुत्र और पत्नी की पीड़ा, जन-विरोध, सेवकों का नाश होता है।
+      • gujarati: જો ચંદ્રમા ક્ષીણ (કૃષ્ણપક્ષીય) હોય કે પાપ ગ્રહોથી યુક્ત હોય, તો પુત્ર અને પત્નીની પીડા, જન-વિરોધ, સેવકોનો નાશ થાય છે.
+      • keywords:
+        1.
+          sun-moon antardasa
+        2.
+          inauspicious
+        3.
+          distress
+        4.
+          opposition
+    8.
+      • shloka: 8
+      • text: There is opposition from kings, quarrels, loss of wealth, grains, and cattle. If the Moon is in the 6th, 8th, or 12th house, there is fear from water and mental disease.
+      • hindi: राजाओं से विरोध, कलह, धन-धान्य और पशु का नाश होता है। यदि चन्द्रमा षष्ठ, अष्टम या व्यय स्थान में हो तो जल से भय और मानसिक रोग होते हैं।
+      • gujarati: રાજાઓ સાથે વિરોધ, કલહ, ધન-ધાન્ય અને પશુનો નાશ થાય છે. જો ચંદ્રમા ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય તો જળથી ભય અને માનસિક રોગ થાય છે.
+      • keywords:
+        1.
+          royal opposition
+        2.
+          loss of wealth
+        3.
+          fear from water
+        4.
+          mental disease
+    9.
+      • shloka: 9
+      • text: There is imprisonment, disease affliction, loss of position, famine, and disputes with relatives.
+      • hindi: बन्धन, रोग की पीड़ा, स्थान-च्युति, दुर्भिक्ष, और दायादों (सगे-सम्बन्धियों) से विग्रह होता है।
+      • gujarati: બંધન, રોગની પીડા, સ્થાન-ચ્યુતિ, દુર્ભિક્ષ, અને દાયાદો (સગા-સંબંધીઓ) સાથે વિગ્રહ થાય છે.
+      • keywords:
+        1.
+          imprisonment
+        2.
+          disease
+        3.
+          loss of position
+        4.
+          disputes
+    10.
+      • shloka: 10
+      • text: There is bad food, affliction from thieves and kings, urinary disorders, and physical distress.
+      • hindi: कुत्सित अन्न, चोरों और राजाओं से पीड़ा, मूत्रकृच्छ्र आदि रोग, और शरीर की पीड़ा होती है।
+      • gujarati: કુત્સિત અન્ન, ચોરો અને રાજાઓથી પીડા, મૂત્રકૃચ્છ્ર આદિ રોગ, અને શરીરની પીડા થાય છે.
+      • keywords:
+        1.
+          bad food
+        2.
+          thieves
+        3.
+          royal affliction
+        4.
+          urinary disorders
+    11.
+      • shloka: 11
+      • text: If the Dasha lord (Sun) is in Kendra or Trikona associated with benefics, there is increase in enjoyments, fortune, children, and wife.
+      • hindi: यदि दशा स्वामी (सूर्य) केन्द्र या त्रिकोण में शुभ ग्रहों से युक्त हो, तो भोग-भाग्य, पुत्र-पत्नी आदि की वृद्धि होती है।
+      • gujarati: જો દશા સ્વામી (સૂર્ય) કેન્દ્ર કે ત્રિકોણમાં શુભ ગ્રહોથી યુક્ત હોય, તો ભોગ-ભાગ્ય, પુત્ર-પત્ની આદિની વૃદ્ધિ થાય છે.
+      • keywords:
+        1.
+          kendra
+        2.
+          trikona
+        3.
+          benefic association
+        4.
+          increase
+    12.
+      • shloka: 12
+      • text: There is attainment of kingdom (high position), great happiness, permanent position, marriage, initiation into sacrifices, and beautiful garlands, clothes, and ornaments.
+      • hindi: राज्य की प्राप्ति, महान सुख, स्थायी स्थान की प्राप्ति, विवाह, यज्ञ-दीक्षा, और सुन्दर माल्य-वस्त्र-आभूषणों की प्राप्ति होती है।
+      • gujarati: રાજ્યની પ્રાપ્તિ, મહાન સુખ, સ્થાયી સ્થાનની પ્રાપ્તિ, લગ્ન, યજ્ઞ-દીક્ષા, અને સુંદર માલ્ય-વસ્ત્ર-આભૂષણોની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          kingdom
+        2.
+          marriage
+        3.
+          yajna
+        4.
+          ornaments
+        5.
+          position
+    13.
+      • shloka: 13
+      • text: If a planet is weak in the 6th, 8th, or 12th from the Dasha lord, there is untimely eating and wandering from country to country.
+      • hindi: यदि दशा स्वामी (सूर्य) से षष्ठ, अष्टम या व्यय स्थान में कोई ग्रह बलरहित हो, तो अकाल में भोजन और देश-देशान्तर का भ्रमण होता है।
+      • gujarati: જો દશા સ્વામી (સૂર્ય)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં કોઈ ગ્રહ બળરહિત હોય, તો અકાળે ભોજન અને દેશ-દેશાંતરનું ભ્રમણ થાય છે.
+      • keywords:
+        1.
+          weak planet
+        2.
+          6th/8th/12th
+        3.
+          wandering
+        4.
+          untimely eating
+    14.
+      • shloka: 14
+      • text: If the planet is the lord of the 2nd or 7th house, untimely death may occur. For happiness, one should give a white cow and a female buffalo in charity.
+      • hindi: यदि द्वितीय या सप्तम भाव का स्वामी हो तो अपमृत्यु हो सकती है। सुख की प्राप्ति के लिए श्वेत गाय और भैंस का दान करना चाहिए।
+      • gujarati: જો દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય તો અપમૃત્યુ થઈ શકે છે. સુખની પ્રાપ્તિ માટે શ્વેત ગાય અને ભેંસનું દાન કરવું જોઈએ.
+      • keywords:
+        1.
+          maraka
+        2.
+          untimely death
+        3.
+          cow donation
+        4.
+          remedy
+    15.
+      • shloka: 15
+      • text: In the Sun's Dasha, during Mars's Antardasa, if Mars is in exaltation, own sign, 11th, Kendra, or Trikona from the Ascendant, auspicious events occur.
+      • hindi: सूर्य की दशा में मंगल की अन्तर्दशा में यदि मंगल उच्च, स्वक्षेत्र, लाभ स्थान, लग्न से केन्द्र या त्रिकोण में हो, तो शुभ कार्य होते हैं।
+      • gujarati: સૂર્યની દશામાં મંગળની અંતર્દશામાં જો મંગળ ઉચ્ચ, સ્વક્ષેત્ર, લાભ સ્થાન, લગ્નથી કેન્દ્ર કે ત્રિકોણમાં હોય, તો શુભ કાર્યો થાય છે.
+      • keywords:
+        1.
+          sun-mars antardasa
+        2.
+          auspicious
+        3.
+          exaltation
+        4.
+          kendra
+        5.
+          trikona
+    16.
+      • shloka: 16
+      • text: There is gain of land, profit in agriculture, increase in wealth and grains, gain of house and fields, and acquisition of red clothes.
+      • hindi: भूमि का लाभ, कृषि में लाभ, धन-धान्य की वृद्धि, घर-खेत आदि का लाभ, और लाल वस्त्र आदि की प्राप्ति होती है।
+      • gujarati: ભૂમિનો લાભ, કૃષિમાં લાભ, ધન-ધાન્યની વૃદ્ધિ, ઘર-ખેત આદિનો લાભ, અને લાલ વસ્ત્ર આદિની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          land
+        2.
+          agriculture
+        3.
+          red clothes
+        4.
+          wealth
+    17.
+      • shloka: 17
+      • text: If Mars is associated with the lord of the Ascendant, there is happiness and royal favor. If associated with lords of the 9th and 11th, there is gain.
+      • hindi: यदि मंगल लग्नेश से युक्त हो तो राजप्रिय सुख मिलता है। भाग्येश और लाभेश से युक्त होने पर लाभ की प्राप्ति होती है।
+      • gujarati: જો મંગળ લગ્નેશથી યુક્ત હોય તો રાજપ્રિય સુખ મળે છે. ભાગ્યેશ અને લાભેશથી યુક્ત હોવાથી લાભની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          lagna lord
+        2.
+          9th lord
+        3.
+          11th lord
+        4.
+          royal favor
+        5.
+          gain
+    18.
+      • shloka: 18
+      • text: There is leadership of many armies, destruction of enemies, mental strength, happiness from relatives and friends, and increase in brothers.
+      • hindi: बहु सेनाओं का अधिपत्य, शत्रुओं का नाश, मन की दृढ़ता, आत्मीय और बन्धुओं का सुख, तथा भाइयों की वृद्धि होती है।
+      • gujarati: બહુ સેનાઓનું અધિપત્ય, શત્રુઓનો નાશ, મનની દૃઢતા, આત્મીય અને બંધુઓનું સુખ, તથા ભાઈઓની વૃદ્ધિ થાય છે.
+      • keywords:
+        1.
+          army leadership
+        2.
+          enemy destruction
+        3.
+          mental strength
+        4.
+          brothers
+    19.
+      • shloka: 19
+      • text: If Mars is in the 12th or 8th from the Dasha lord, associated with or aspected by malefic, and weak, there is cruel mentality and mental disease.
+      • hindi: यदि दशा स्वामी (सूर्य) से व्यय या रन्ध्र स्थान में मंगल पाप ग्रहों से युक्त या दृष्ट हो, और बलहीन हो, तो क्रूर बुद्धि और मानसिक रोग होते हैं।
+      • gujarati: જો દશા સ્વામી (સૂર્ય)થી વ્યય કે રન્ધ્ર સ્થાનમાં મંગળ પાપ ગ્રહોથી યુક્ત કે દૃષ્ટ હોય, અને બળહીન હોય, તો ક્રૂર બુદ્ધિ અને માનસિક રોગ થાય છે.
+      • keywords:
+        1.
+          mars
+        2.
+          12th/8th from dasha lord
+        3.
+          cruel mentality
+        4.
+          mental disease
+    20.
+      • shloka: 20
+      • text: There is imprisonment, destruction of relatives, opposition from brothers, and loss of profession.
+      • hindi: कारागृह में प्रवेश, बन्धुओं का नाश, भाइयों से विरोध, और कर्म का नाश होता है।
+      • gujarati: કારાગૃહમાં પ્રવેશ, બંધુઓનો નાશ, ભાઈઓ સાથે વિરોધ, અને કર્મનો નાશ થાય છે.
+      • keywords:
+        1.
+          imprisonment
+        2.
+          loss of relatives
+        3.
+          brother opposition
+        4.
+          loss of profession
+    21.
+      • shloka: 21
+      • text: If Mars is in debilitation or weak, there is loss of wealth due to the king. If Mars is the lord of the 2nd or 7th house, there is physical lethargy and mental disease.
+      • hindi: यदि मंगल नीच राशि में या दुर्बल हो, तो राजा के कारण धन की हानि होती है। यदि मंगल द्वितीय या सप्तम भाव का स्वामी हो, तो शरीर में जड़ता और मानसिक रोग होते हैं।
+      • gujarati: જો મંગળ નીચ રાશિમાં કે દુર્બળ હોય, તો રાજાના કારણે ધનની હાનિ થાય છે. જો મંગળ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો શરીરમાં જડતા અને માનસિક રોગ થાય છે.
+      • keywords:
+        1.
+          mars debilitation
+        2.
+          loss of wealth
+        3.
+          maraka
+        4.
+          lethargy
+    22.
+      • shloka: 22
+      • text: One should perform Subrahmanya Japa and charity, and Vrishotsarga (release of a bull). For attaining long life and health, one should perform propitiation with effort.
+      • hindi: सुब्रह्मण्य जप और दान, तथा वृषोत्सर्ग करना चाहिए। दीर्घायु और आरोग्य की सिद्धि के लिए यत्नपूर्वक शान्ति करनी चाहिए।
+      • gujarati: સુબ્રહ્મણ્ય જપ અને દાન, તથા વૃષોત્સર્ગ કરવા જોઈએ. દીર્ઘાયુ અને આરોગ્યની સિદ્ધિ માટે યત્નપૂર્વક શાંતિ કરવી જોઈએ.
+      • keywords:
+        1.
+          subrahmanya japa
+        2.
+          vrishotsarga
+        3.
+          remedial measures
+        4.
+          long life
+    23.
+      • shloka: 23
+      • text: In the Sun's Dasha, during Rahu's Antardasa, if Rahu is in Kendra or Trikona from the Ascendant, there is loss of wealth and great fear for the first two months.
+      • hindi: सूर्य की दशा में राहु की अन्तर्दशा में यदि राहु लग्न से केन्द्र या त्रिकोण में हो, तो पहले दो मास तक धन का नाश और महान भय होता है।
+      • gujarati: સૂર્યની દશામાં રાહુની અંતર્દશામાં જો રાહુ લગ્નથી કેન્દ્ર કે ત્રિકોણમાં હોય, તો પહેલા બે માસ સુધી ધનનો નાશ અને મહાન ભય થાય છે.
+      • keywords:
+        1.
+          sun-rahu antardasa
+        2.
+          loss of wealth
+        3.
+          fear
+        4.
+          first two months
+    24.
+      • shloka: 24
+      • text: There is fear from thieves and wounds, and distress to children and wife. Thereafter, if Rahu is associated with benefics or in a benefic Navamsha, one attains happiness.
+      • hindi: चोरों और घावों का भय, तथा पुत्र-पत्नी आदि की पीड़ा होती है। उसके बाद यदि राहु शुभ ग्रहों से युक्त हो या शुभ अंश में हो, तो सुख की प्राप्ति होती है।
+      • gujarati: ચોરો અને ઘાવનો ભય, તથા પુત્ર-પત્ની આદિની પીડા થાય છે. તે પછી જો રાહુ શુભ ગ્રહોથી યુક્ત હોય કે શુભ અંશમાં હોય, તો સુખની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          fear from thieves
+        2.
+          wounds
+        3.
+          then happiness
+        4.
+          benefic association
+    25.
+      • shloka: 25
+      • text: If Rahu is in an Upachaya house (3rd, 6th, 10th, 11th) from the Ascendant and associated with a Yoga-karaka planet, there is physical health, mental satisfaction, royal favor, and happiness.
+      • hindi: यदि राहु लग्न से उपचय स्थान (तृतीय, षष्ठ, दशम, एकादश) में हो और योगकारक ग्रह से युक्त हो, तो शरीर का आरोग्य, मन की तुष्टि, राजप्रीति और सुख प्राप्त होता है।
+      • gujarati: જો રાહુ લગ્નથી ઉપચય સ્થાન (તૃતીય, ષષ્ઠ, દશમ, એકાદશ)માં હોય અને યોગકારક ગ્રહથી યુક્ત હોય, તો શરીરનું આરોગ્ય, મનની તુષ્ટિ, રાજપ્રીતિ અને સુખ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          upachaya houses
+        2.
+          yoga karaka
+        3.
+          health
+        4.
+          royal favor
+    26.
+      • shloka: 26
+      • text: If Rahu is in a benefic sign from the Dasha lord (Sun), there is royal honor, increase in fortune, and gain of fame, but distress to children and wife.
+      • hindi: यदि राहु दशा स्वामी (सूर्य) से शुभ राशि में हो, तो राजसम्मान, भाग्यवृद्धि और यश का लाभ होता है, किंतु पुत्र-पत्नी को कष्ट हो सकता है।
+      • gujarati: જો રાહુ દશા સ્વામી (સૂર્ય)થી શુભ રાશિમાં હોય, તો રાજસમ્માન, ભાગ્યવૃદ્ધિ અને યશનો લાભ થાય છે, પરંતુ પુત્ર-પત્નીને કષ્ટ થઈ શકે છે.
+      • keywords:
+        1.
+          royal honor
+        2.
+          fortune
+        3.
+          fame
+        4.
+          distress to family
+    27.
+      • shloka: 27
+      • text: If Rahu is in the 6th, 8th, or 12th from the Dasha lord and weak, there is imprisonment, loss of position, and incarceration.
+      • hindi: यदि राहु दशा स्वामी (सूर्य) से षष्ठ, अष्टम या व्यय स्थान में हो और बलरहित हो, तो बन्धन, स्थान-नाश, और कारागृह में निवास होता है।
+      • gujarati: જો રાહુ દશા સ્વામી (સૂર્ય)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય અને બળરહિત હોય, તો બંધન, સ્થાન-નાશ, અને કારાગૃહમાં નિવાસ થાય છે.
+      • keywords:
+        1.
+          imprisonment
+        2.
+          loss of position
+        3.
+          incarceration
+    28.
+      • shloka: 28
+      • text: There is fear from thieves and wounds, increase in children and wife, destruction of cattle, and loss of house and fields.
+      • hindi: चोरों और घावों का भय, पुत्र-पत्नी की वृद्धि, चौपायों का नाश, और घर-खेत का नाश होता है।
+      • gujarati: ચોરો અને ઘાવનો ભય, પુત્ર-પત્નીની વૃદ્ધિ, ચૌપાયોનો નાશ, અને ઘર-ખેતનો નાશ થાય છે.
+      • keywords:
+        1.
+          fear from thieves
+        2.
+          cattle destruction
+        3.
+          house loss
+    29.
+      • shloka: 29
+      • text: There are diseases like Gulma (spleen enlargement), consumption (TB), and dysentery.
+      • hindi: गुल्म (प्लीहा), क्षय (टी.बी.) आदि रोग, और अतिसार (दस्त) आदि की पीड़ा होती है।
+      • gujarati: ગુલ્મ (પ્લીહા), ક્ષય (ટી.બી.) આદિ રોગ, અને અતિસાર (દસ્ત) આદિની પીડા થાય છે.
+      • keywords:
+        1.
+          gulma
+        2.
+          consumption
+        3.
+          dysentery
+        4.
+          diseases
+    30.
+      • shloka: 30
+      • text: If Rahu is in the 2nd or 7th house, and associated with the lord of the 6th or 8th, there is fear of untimely death and fear from serpents.
+      • hindi: यदि राहु द्वितीय या सप्तम स्थान में हो, तथा षष्ठेश या अष्टमेश से युक्त हो, तो अपमृत्यु का भय और सर्प का भय होता है।
+      • gujarati: જો રાહુ દ્વિતીય કે સપ્તમ સ્થાનમાં હોય, તથા ષષ્ઠેશ કે અષ્ટમેશથી યુક્ત હોય, તો અપમૃત્યુનો ભય અને સર્પનો ભય થાય છે.
+      • keywords:
+        1.
+          rahu maraka
+        2.
+          untimely death
+        3.
+          serpent fear
+    31.
+      • shloka: 31
+      • text: One should perform Durga Japa and give a goat in charity. Giving a black cow and a female buffalo undoubtedly brings peace.
+      • hindi: दुर्गा का जप करना चाहिए, बकरी का दान करना चाहिए। कृष्ण गाय और भैंस का दान करने से निस्संदेह शान्ति प्राप्त होती है।
+      • gujarati: દુર્ગાનો જપ કરવો જોઈએ, બકરીનું દાન કરવું જોઈએ. કૃષ્ણ ગાય અને ભેંસનું દાન કરવાથી નિસ્સંદેહ શાંતિ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          durga japa
+        2.
+          goat donation
+        3.
+          black cow
+        4.
+          female buffalo
+        5.
+          remedy
+    32.
+      • shloka: 32
+      • text: In the Sun's Dasha, during Jupiter's Antardasa, if Jupiter is in Kendra or Trikona from the Ascendant, in exaltation or friendly sign, there is marriage and audience with the king.
+      • hindi: सूर्य की दशा में गुरु की अन्तर्दशा में यदि गुरु लग्न से केन्द्र या त्रिकोण में हो, उच्च या मित्र राशि में हो, तो विवाह और राजदर्शन होता है।
+      • gujarati: સૂર્યની દશામાં ગુરુની અંતર્દશામાં જો ગુરુ લગ્નથી કેન્દ્ર કે ત્રિકોણમાં હોય, ઉચ્ચ કે મિત્ર રાશિમાં હોય, તો લગ્ન અને રાજદર્શન થાય છે.
+      • keywords:
+        1.
+          sun-jupiter antardasa
+        2.
+          marriage
+        3.
+          royal audience
+    33.
+      • shloka: 33
+      • text: There is gain of wealth and grains, gain of children, great happiness, and by the grace of the great king, fulfillment of desired works.
+      • hindi: धन-धान्य का लाभ, पुत्र-लाभ, महान सुख, और महाराज के प्रसाद से इच्छित कार्यों की सिद्धि होती है।
+      • gujarati: ધન-ધાન્યનો લાભ, પુત્ર-લાભ, મહાન સુખ, અને મહારાજના પ્રસાદથી ઇચ્છિત કાર્યોની સિદ્ધિ થાય છે.
+      • keywords:
+        1.
+          wealth
+        2.
+          children
+        3.
+          great happiness
+        4.
+          royal grace
+    34.
+      • shloka: 34
+      • text: O Brahmin, there is favor and honor from Brahmins, gain of desired clothes, and if Jupiter is the lord of the 9th or 10th, there is gain of kingdom.
+      • hindi: हे द्विज, ब्राह्मणों का प्रिय और सन्मान, प्रिय वस्त्रों का लाभ, और यदि गुरु भाग्येश या कर्मेश हो तो राज्य का लाभ होता है।
+      • gujarati: હે દ્વિજ, બ્રાહ્મણોનું પ્રિય અને સન્માન, પ્રિય વસ્ત્રોનો લાભ, અને જો ગુરુ ભાગ્યેશ કે કર્મેશ હોય તો રાજ્યનો લાભ થાય છે.
+      • keywords:
+        1.
+          brahmin honor
+        2.
+          clothes
+        3.
+          9th lord
+        4.
+          10th lord
+        5.
+          kingdom
+    35.
+      • shloka: 35
+      • text: If Jupiter is in a benefic sign from the Dasha lord (Sun), there is increase in fortune, happiness, interest in charity, dharma, and wealth, and worship of deities and Brahmins.
+      • hindi: यदि गुरु दशा स्वामी (सूर्य) से शुभ राशि में हो, तो भाग्यवृद्धि, सुख, दीन-धर्म-अर्थ में रुचि, और देव-ब्राह्मणों की पूजा होती है।
+      • gujarati: જો ગુરુ દશા સ્વામી (સૂર્ય)થી શુભ રાશિમાં હોય, તો ભાગ્યવૃદ્ધિ, સુખ, દીન-ધર્મ-અર્થમાં રુચિ, અને દેવ-બ્રાહ્મણોની પૂજા થાય છે.
+      • keywords:
+        1.
+          fortune
+        2.
+          charity
+        3.
+          dharma
+        4.
+          worship
+    36.
+      • shloka: 36
+      • text: There is devotion to the guru and accumulation of meritorious deeds.
+      • hindi: गुरु की भक्ति में तत्परता और पुण्य कर्मों का संग्रह होता है।
+      • gujarati: ગુરુની ભક્તિમાં તત્પરતા અને પુણ્ય કર્મોનો સંગ્રહ થાય છે.
+      • keywords:
+        1.
+          guru devotion
+        2.
+          meritorious deeds
+    37.
+      • shloka: 37
+      • text: If Jupiter is in the 6th, 8th, or 12th from the Dasha lord, in debilitation, or associated with malefic, there is distress to children and wife, physical distress, and great fear.
+      • hindi: यदि गुरु दशा स्वामी (सूर्य) से षष्ठ, अष्टम या व्यय स्थान में हो, नीच राशि में हो, या पाप ग्रहों से युक्त हो, तो पुत्र-पत्नी की पीड़ा, शरीर की पीड़ा और महान भय होता है।
+      • gujarati: જો ગુરુ દશા સ્વામી (સૂર્ય)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય, નીચ રાશિમાં હોય, કે પાપ ગ્રહોથી યુક્ત હોય, તો પુત્ર-પત્નીની પીડા, શરીરની પીડા અને મહાન ભય થાય છે.
+      • keywords:
+        1.
+          sun-jupiter antardasa
+        2.
+          inauspicious
+        3.
+          distress
+        4.
+          fear
+    38.
+      • shloka: 38
+      • text: There is royal displeasure, destruction of desired wealth, loss of wealth due to sin, physical decline, and mental disease.
+      • hindi: राजा का कोप, इच्छित अर्थ का नाश, पाप के कारण धन का नाश, शरीर का पतन, और मानसिक रोग होते हैं।
+      • gujarati: રાજાનો કોપ, ઇચ્છિત અર્થનો નાશ, પાપના કારણે ધનનો નાશ, શરીરનો પતન, અને માનસિક રોગ થાય છે.
+      • keywords:
+        1.
+          royal displeasure
+        2.
+          loss of wealth
+        3.
+          physical decline
+        4.
+          mental disease
+    39.
+      • shloka: 39
+      • text: One should give gold in charity and have chanting of Ishta deity performed. Giving Kapila cows in charity brings health.
+      • hindi: स्वर्ण का दान करना चाहिए, इष्ट देव का जाप्य कराना चाहिए। कपिला गायों के दान से आरोग्य की प्राप्ति होती है।
+      • gujarati: સ્વર્ણનું દાન કરવું જોઈએ, ઇષ્ટ દેવનું જાપ્ય કરાવવું જોઈએ. કપિલા ગાયોના દાનથી આરોગ્યની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          gold donation
+        2.
+          ishta japa
+        3.
+          kapila cow
+        4.
+          remedy
+    40.
+      • shloka: 40
+      • text: In the Sun's Dasha, during Saturn's Antardasa, if Saturn is in Kendra or Trikona from the Ascendant, there is destruction of enemies, great happiness, and moderate gain of wealth and grains.
+      • hindi: सूर्य की दशा में शनि की अन्तर्दशा में यदि शनि लग्न से केन्द्र या त्रिकोण में हो, तो शत्रुओं का नाश, महान सुख, और थोड़ा धन-धान्य का लाभ होता है।
+      • gujarati: સૂર્યની દશામાં શનિની અંતર્દશામાં જો શનિ લગ્નથી કેન્દ્ર કે ત્રિકોણમાં હોય, તો શત્રુઓનો નાશ, મહાન સુખ, અને થોડું ધન-ધાન્યનો લાભ થાય છે.
+      • keywords:
+        1.
+          sun-saturn antardasa
+        2.
+          enemy destruction
+        3.
+          happiness
+        4.
+          moderate wealth
+    41.
+      • shloka: 41
+      • text: Auspicious events like marriage occur. If Saturn is in exaltation or own sign, and associated with friendly planets, there are auspicious events at home.
+      • hindi: विवाह आदि शुभ कार्य होते हैं। यदि शनि उच्च या स्वक्षेत्र में हो, और मित्र ग्रहों से युक्त हो, तो घर में शुभ कार्य होते हैं।
+      • gujarati: લગ્ન આદિ શુભ કાર્યો થાય છે. જો શનિ ઉચ્ચ કે સ્વક્ષેત્રમાં હોય, અને મિત્ર ગ્રહોથી યુક્ત હોય, તો ઘરમાં શુભ કાર્યો થાય છે.
+      • keywords:
+        1.
+          marriage
+        2.
+          auspicious events
+        3.
+          exaltation
+        4.
+          friendly planets
+    42.
+      • shloka: 42
+      • text: There is prosperity and well-being at home, royal honor and fame, acquisition of various types of wealth, gain of knowledge, and great happiness.
+      • hindi: घर में कल्याण की सम्पत्ति, राजसन्मान और कीर्ति, अनेक प्रकार के धन का आगम, विद्या का लाभ और महान सुख प्राप्त होता है।
+      • gujarati: ઘરમાં કલ્યાણની સમ્પત્તિ, રાજસન્માન અને કીર્તિ, અનેક પ્રકારના ધનનો આગમ, વિદ્યાનો લાભ અને મહાન સુખ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          prosperity
+        2.
+          royal honor
+        3.
+          fame
+        4.
+          wealth
+        5.
+          knowledge
+    43.
+      • shloka: 43
+      • text: If Saturn is in the 8th or 12th from the Dasha lord and associated with malefic, there is rheumatism, severe disease, fever, and dysentery.
+      • hindi: यदि शनि दशा स्वामी (सूर्य) से अष्टम या व्यय स्थान में हो, और पाप ग्रहों से युक्त हो, तो वातशूल, महाव्याधि, ज्वर और अतिसार की पीड़ा होती है।
+      • gujarati: જો શનિ દશા સ્વામી (સૂર્ય)થી અષ્ટમ કે વ્યય સ્થાનમાં હોય, અને પાપ ગ્રહોથી યુક્ત હોય, તો વાતશૂળ, મહાવ્યાધિ, જ્વર અને અતિસારની પીડા થાય છે.
+      • keywords:
+        1.
+          rheumatism
+        2.
+          severe disease
+        3.
+          fever
+        4.
+          dysentery
+    44.
+      • shloka: 44
+      • text: There is imprisonment, loss of work, destruction of learning, great fear, sudden quarrels, and disputes with relatives.
+      • hindi: बन्धन, कार्यों की हानि, विद्या का नाश, महान भय, अकस्मात् कलह, और दायादों से विग्रह होता है।
+      • gujarati: બંધન, કાર્યોની હાનિ, વિદ્યાનો નાશ, મહાન ભય, અકસ્માત્ કલહ, અને દાયાદો સાથે વિગ્રહ થાય છે.
+      • keywords:
+        1.
+          imprisonment
+        2.
+          loss of work
+        3.
+          loss of learning
+        4.
+          quarrels
+    45.
+      • shloka: 45
+      • text: At the beginning of the Antardasa, there is loss of learning; in the middle, some happiness; and at the end, distress. Similar results occur if Saturn is in debilitation.
+      • hindi: अन्तर्दशा के आरम्भ में विद्या की हानि, मध्य में कुछ सुख, और अन्त में क्लेश होता है। नीच राशि में शनि होने पर ऐसा ही फल होता है।
+      • gujarati: અંતર્દશાના આરંભમાં વિદ્યાની હાનિ, મધ્યમાં કંઈક સુખ, અને અંતમાં ક્લેશ થાય છે. નીચ રાશિમાં શનિ હોવાથી આવું જ ફળ થાય છે.
+      • keywords:
+        1.
+          phased results
+        2.
+          loss of learning
+        3.
+          some happiness
+        4.
+          distress
+    46.
+      • shloka: 46
+      • text: There is separation from parents and travel. If Saturn is the lord of the 2nd or 7th house, there is fear of untimely death.
+      • hindi: पिता-माता से वियोग, और आना-जाना (प्रवास) होता है। यदि शनि द्वितीय या सप्तम भाव का स्वामी हो, तो अपमृत्यु का भय रहता है।
+      • gujarati: પિતા-માતાથી વિયોગ, અને આવા-જાવા (પ્રવાસ) થાય છે. જો શનિ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો અપમૃત્યુનો ભય રહે છે.
+      • keywords:
+        1.
+          separation from parents
+        2.
+          travel
+        3.
+          maraka
+        4.
+          untimely death
+    47.
+      • shloka: 47
+      • text: One should give a black cow and a female buffalo in charity, and perform Mrityunjaya Japa. Giving a goat in charity bestows all prosperity.
+      • hindi: कृष्ण गाय और भैंस का दान करना चाहिए, मृत्युंजय जप करना चाहिए। बकरी का दान सर्वसम्पत्ति देने वाला है।
+      • gujarati: કૃષ્ણ ગાય અને ભેંસનું દાન કરવું જોઈએ, મૃત્યુંજય જપ કરવો જોઈએ. બકરીનું દાન સર્વસમ્પત્તિ આપનાર છે.
+      • keywords:
+        1.
+          black cow
+        2.
+          female buffalo
+        3.
+          mrityunjaya japa
+        4.
+          goat donation
+        5.
+          remedy
+    48.
+      • shloka: 48
+      • text: In the Sun's Dasha, during Mercury's Antardasa, if Mercury is in exaltation, own sign, Kendra, Trikona, or 11th house, and endowed with Varga strength, there are auspicious results.
+      • hindi: सूर्य की दशा में बुध की अन्तर्दशा में यदि बुध उच्च, स्वक्षेत्र, केन्द्र, त्रिकोण या लाभ स्थान में हो और वर्ग बल से युक्त हो, तो शुभ फल मिलते हैं।
+      • gujarati: સૂર્યની દશામાં બુધની અંતર્દશામાં જો બુધ ઉચ્ચ, સ્વક્ષેત્ર, કેન્દ્ર, ત્રિકોણ કે લાભ સ્થાનમાં હોય અને વર્ગ બળથી યુક્ત હોય, તો શુભ ફળો મળે છે.
+      • keywords:
+        1.
+          sun-mercury antardasa
+        2.
+          auspicious
+        3.
+          exaltation
+        4.
+          kendra
+        5.
+          trikona
+    49.
+      • shloka: 49
+      • text: There is attainment of kingdom (high position), great enthusiasm, happiness from children and wife, and by the grace of the great king, conveyances, clothes, and ornaments.
+      • hindi: राज्य का लाभ, महान उत्साह, पुत्र-पत्नी आदि का सुख, महाराज के प्रसाद से वाहन, वस्त्र और आभूषण प्राप्त होते हैं।
+      • gujarati: રાજ્યનો લાભ, મહાન ઉત્સાહ, પુત્ર-પત્ની આદિનું સુખ, મહારાજના પ્રસાદથી વાહન, વસ્ત્ર અને આભૂષણ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          kingdom
+        2.
+          enthusiasm
+        3.
+          conveyances
+        4.
+          clothes
+        5.
+          ornaments
+    50.
+      • shloka: 50
+      • text: If Mercury is associated with the lords of the 9th and 11th, there is increase in gains. If Mercury is in the 9th, 5th, or 10th house, there is definitely honor.
+      • hindi: यदि बुध भाग्येश और लाभेश से युक्त हो तो लाभ की वृद्धि होती है। यदि बुध भाग्य, पंचम या कर्म स्थान में हो तो निश्चय ही सन्मान मिलता है।
+      • gujarati: જો બુધ ભાગ્યેશ અને લાભેશથી યુક્ત હોય તો લાભની વૃદ્ધિ થાય છે. જો બુધ ભાગ્ય, પંચમ કે કર્મ સ્થાનમાં હોય તો નિશ્ચય જ સન્માન મળે છે.
+      • keywords:
+        1.
+          9th lord
+        2.
+          11th lord
+        3.
+          5th house
+        4.
+          10th house
+        5.
+          honor
+    51.
+      • shloka: 51
+      • text: There is good deeds, dharma, and intelligence; worship of guru, deities, and Brahmins; abundance of wealth and grains; marriage; and birth of a son.
+      • hindi: सुकर्म, धर्म और बुद्धि की प्राप्ति, गुरु-देव-द्विजों की पूजा, धन-धान्य से युक्तता, विवाह और पुत्र की उत्पत्ति होती है।
+      • gujarati: સુકર્મ, ધર્મ અને બુદ્ધિની પ્રાપ્તિ, ગુરુ-દેવ-દ્વિજોની પૂજા, ધન-ધાન્યથી યુક્તતા, લગ્ન અને પુત્રની ઉત્પત્તિ થાય છે.
+      • keywords:
+        1.
+          good deeds
+        2.
+          dharma
+        3.
+          intelligence
+        4.
+          worship
+        5.
+          marriage
+        6.
+          son
+    52.
+      • shloka: 52
+      • text: If Mercury is in a benefic sign from the Dasha lord and associated with benefics, there is great happiness, marriage, sacrificial rites, charity, dharma, and chanting.
+      • hindi: यदि बुध दशा स्वामी (सूर्य) से शुभ राशि में हो और शुभ ग्रहों से युक्त हो, तो महान सुख, विवाह, यज्ञ-कर्म, दान-धर्म और जप आदि होते हैं।
+      • gujarati: જો બુધ દશા સ્વામી (સૂર્ય)થી શુભ રાશિમાં હોય અને શુભ ગ્રહોથી યુક્ત હોય, તો મહાન સુખ, લગ્ન, યજ્ઞ-કર્મ, દાન-ધર્મ અને જપ આદિ થાય છે.
+      • keywords:
+        1.
+          great happiness
+        2.
+          marriage
+        3.
+          yajna
+        4.
+          charity
+        5.
+          japa
+    53.
+      • shloka: 53
+      • text: There are poems inscribed with one's name, two names, and gain of food, clothes, and ornaments. The person becomes a lord of wealth.
+      • hindi: अपने नाम से अंकित पद्य, दो नाम, भोजन-वस्त्र-आभूषण आदि की प्राप्ति होती है। मनुष्य धन का स्वामी बनता है।
+      • gujarati: પોતાના નામથી અંકિત પદ્ય, બે નામ, ભોજન-વસ્ત્ર-આભૂષણ આદિની પ્રાપ્તિ થાય છે. મનુષ્ય ધનનો સ્વામી બને છે.
+      • keywords:
+        1.
+          fame
+        2.
+          two names
+        3.
+          wealth
+        4.
+          lord of wealth
+    54.
+      • shloka: 54
+      • text: If Mercury is in the 6th, 8th, or 12th from the Dasha lord, or in debilitation, there is physical distress, mental agony, and distress to children and wife.
+      • hindi: यदि बुध दशा स्वामी (सूर्य) से षष्ठ, अष्टम या व्यय स्थान में हो, या नीच राशि में हो, तो शरीर की पीड़ा, मन का ताप, और पुत्र-पत्नी की पीड़ा होती है।
+      • gujarati: જો બુધ દશા સ્વામી (સૂર્ય)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય, કે નીચ રાશિમાં હોય, તો શરીરની પીડા, મનનો તાપ, અને પુત્ર-પત્નીની પીડા થાય છે.
+      • keywords:
+        1.
+          physical distress
+        2.
+          mental agony
+        3.
+          distress to family
+    55.
+      • shloka: 55
+      • text: At the beginning of the Antardasa, there is sorrow; in the middle, some happiness; and at the end, fear of the king and travel.
+      • hindi: अन्तर्दशा के आरम्भ में दुःख, मध्य में कुछ सुख, और अन्त में राजभीति तथा आना-जाना (प्रवास) होता है।
+      • gujarati: અંતર્દશાના આરંભમાં દુઃખ, મધ્યમાં કંઈક સુખ, અને અંતમાં રાજભીતિ તથા આવા-જાવા (પ્રવાસ) થાય છે.
+      • keywords:
+        1.
+          phased results
+        2.
+          sorrow
+        3.
+          some happiness
+        4.
+          fear of king
+        5.
+          travel
+    56.
+      • shloka: 56
+      • text: If Mercury is the lord of the 2nd or 7th house, there is physical lethargy and fever. One should chant Vishnu Sahasranama and give food in charity.
+      • hindi: यदि बुध द्वितीय या सप्तम भाव का स्वामी हो, तो शरीर की जड़ता और ज्वर आदि होते हैं। विष्णु सहस्रनाम का जाप और अन्नदान कराना चाहिए।
+      • gujarati: જો બુધ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો શરીરની જડતા અને જ્વર આદિ થાય છે. વિષ્ણુ સહસ્રનામનો જાપ અને અન્નદાન કરાવવું જોઈએ.
+      • keywords:
+        1.
+          maraka
+        2.
+          lethargy
+        3.
+          fever
+        4.
+          vishnu sahasranama
+        5.
+          food donation
+    57.
+      • shloka: 57
+      • text: For attaining health, one should give a silver idol in charity.
+      • hindi: आरोग्य की सिद्धि के लिए रजत (चाँदी) की प्रतिमा का दान करना चाहिए।
+      • gujarati: આરોગ્યની સિદ્ધિ માટે રજત (ચાંદી)ની પ્રતિમાનું દાન કરવું જોઈએ.
+      • keywords:
+        1.
+          silver idol
+        2.
+          donation
+        3.
+          health remedy
+    58.
+      • shloka: 58
+      • text: In the Sun's Dasha, during Ketu's Antardasa, there is physical distress, mental agony, loss of wealth, royal displeasure, and affliction from relatives.
+      • hindi: सूर्य की दशा में केतु की अन्तर्दशा में शरीर की पीड़ा, मन की व्यथा, अर्थ का व्यय, राजा का कोप, और स्वजनों से उपद्रव होता है।
+      • gujarati: સૂર્યની દશામાં કેતુની અંતર્દશામાં શરીરની પીડા, મનની વ્યથા, અર્થનો વ્યય, રાજાનો કોપ, અને સ્વજનોથી ઉપદ્રવ થાય છે.
+      • keywords:
+        1.
+          sun-ketu antardasa
+        2.
+          physical distress
+        3.
+          mental agony
+        4.
+          loss of wealth
+        5.
+          royal displeasure
+    59.
+      • shloka: 59
+      • text: If Ketu is associated with the lord of the Ascendant, there is happiness and gain of wealth at the beginning. In the middle, there is distress and news of death.
+      • hindi: यदि केतु लग्नेश से युक्त हो, तो आरम्भ में सुख और धन का आगम होता है। मध्य में क्लेश और मृत्यु की वार्ता (समाचार) प्राप्त होती है।
+      • gujarati: જો કેતુ લગ્નેશથી યુક્ત હોય, તો આરંભમાં સુખ અને ધનનો આગમ થાય છે. મધ્યમાં ક્લેશ અને મૃત્યુની વાર્તા (સમાચાર) પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          ketu with lagna lord
+        2.
+          happiness
+        3.
+          wealth
+        4.
+          distress
+        5.
+          death news
+    60.
+      • shloka: 60
+      • text: If Ketu is in the 8th or 12th from the Dasha lord and associated with malefic, there are diseases of the cheeks and teeth, and urinary disorders.
+      • hindi: यदि केतु दशा स्वामी (सूर्य) से अष्टम या व्यय स्थान में हो और पाप ग्रहों से युक्त हो, तो कपोल और दन्त के रोग, तथा मूत्रकृच्छ्र (मूत्र संबंधी कष्ट) होते हैं।
+      • gujarati: જો કેતુ દશા સ્વામી (સૂર્ય)થી અષ્ટમ કે વ્યય સ્થાનમાં હોય અને પાપ ગ્રહોથી યુક્ત હોય, તો કપોલ અને દંતના રોગ, તથા મૂત્રકૃચ્છ્ર (મૂત્ર સંબંધી કષ્ટ) થાય છે.
+      • keywords:
+        1.
+          cheek disease
+        2.
+          teeth disease
+        3.
+          urinary disorders
+    61.
+      • shloka: 61
+      • text: There is loss of position, loss of learning, destruction of friends, travel to foreign lands, affliction from enemies, and great fear.
+      • hindi: स्थान-च्युति, विद्या की हानि, सुहृदों का वध, देशान्तर में गमन, शत्रुओं से पीड़ा और महान भय होता है।
+      • gujarati: સ્થાન-ચ્યુતિ, વિદ્યાની હાનિ, સુહૃદોનો વધ, દેશાન્તરમાં ગમન, શત્રુઓથી પીડા અને મહાન ભય થાય છે.
+      • keywords:
+        1.
+          loss of position
+        2.
+          loss of learning
+        3.
+          foreign travel
+        4.
+          enemy affliction
+    62.
+      • shloka: 62
+      • text: If Ketu is in an Upachaya house from the Ascendant, associated with a Yoga-karaka, in a benefic Navamsha or benefic sign, there is rise of results of good deeds.
+      • hindi: यदि केतु लग्न से उपचय स्थान (तृतीय, षष्ठ, दशम, एकादश) में हो, योगकारक से युक्त हो, शुभ अंश या शुभ राशि में हो, तो शुभ कर्मों के फल का उदय होता है।
+      • gujarati: જો કેતુ લગ્નથી ઉપચય સ્થાન (તૃતીય, ષષ્ઠ, દશમ, એકાદશ)માં હોય, યોગકારકથી યુક્ત હોય, શુભ અંશ કે શુભ રાશિમાં હોય, તો શુભ કર્મોના ફળનો ઉદય થાય છે.
+      • keywords:
+        1.
+          upachaya houses
+        2.
+          yoga karaka
+        3.
+          benefic navamsha
+        4.
+          good deeds
+    63.
+      • shloka: 63
+      • text: There is happiness from children and wife, satisfaction, increase of desired things, gain of various clothes, increase of fame, and attainment of happiness.
+      • hindi: पुत्र-पत्नी आदि का सुख, सन्तोष, प्रिय वस्तुओं की वृद्धि, विचित्र वस्त्रों का लाभ, यश की वृद्धि और सुख की प्राप्ति होती है।
+      • gujarati: પુત્ર-પત્ની આદિનું સુખ, સંતોષ, પ્રિય વસ્તુઓની વૃદ્ધિ, વિચિત્ર વસ્ત્રોનો લાભ, યશની વૃદ્ધિ અને સુખની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          children
+        2.
+          wife
+        3.
+          satisfaction
+        4.
+          fame
+        5.
+          happiness
+    64.
+      • shloka: 64
+      • text: If Ketu is the lord of the 2nd or 7th house, there is fear of untimely death. For happiness, one should perform Durga Japa and give a goat in charity.
+      • hindi: यदि केतु द्वितीय या सप्तम भाव का स्वामी हो, तो अपमृत्यु का भय रहता है। सुख की प्राप्ति के लिए दुर्गा जप और बकरी का दान करना चाहिए।
+      • gujarati: જો કેતુ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો અપમૃત્યુનો ભય રહે છે. સુખની પ્રાપ્તિ માટે દુર્ગા જપ અને બકરીનું દાન કરવું જોઈએ.
+      • keywords:
+        1.
+          ketu maraka
+        2.
+          untimely death
+        3.
+          durga japa
+        4.
+          goat donation
+        5.
+          remedy
+    65.
+      • shloka: 65
+      • text: In the Sun's Dasha, during Venus's Antardasa, if Venus is in Trikona, Kendra, exaltation, or friendly sign, there is attainment of desired strength and wealth.
+      • hindi: सूर्य की दशा में शुक्र की अन्तर्दशा में यदि शुक्र त्रिकोण, केन्द्र, उच्च या मित्र राशि में हो, तो इच्छित वीर्य और सम्पदा की प्राप्ति होती है।
+      • gujarati: સૂર્યની દશામાં શુક્રની અંતર્દશામાં જો શુક્ર ત્રિકોણ, કેન્દ્ર, ઉચ્ચ કે મિત્ર રાશિમાં હોય, તો ઇચ્છિત વીર્ય અને સમ્પદાની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          sun-venus antardasa
+        2.
+          auspicious
+        3.
+          trikona
+        4.
+          kendra
+        5.
+          exaltation
+    66.
+      • shloka: 66
+      • text: There is headship of a village, travel, audience with Brahmins and kings, gain of kingdom, great enthusiasm, and the glory of umbrella and chamara (royal insignia).
+      • hindi: ग्राम का अधिपत्य, यात्रा, ब्राह्मणों और राजाओं का दर्शन, राज्य का लाभ, महान उत्साह, और छत्र-चामर का वैभव प्राप्त होता है।
+      • gujarati: ગ્રામનું અધિપત્ય, યાત્રા, બ્રાહ્મણો અને રાજાઓનું દર્શન, રાજ્યનો લાભ, મહાન ઉત્સાહ, અને છત્ર-ચામરનો વૈભવ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          village headship
+        2.
+          travel
+        3.
+          kingdom
+        4.
+          royal insignia
+    67.
+      • shloka: 67
+      • text: There is prosperity at home, daily sweet food, gain of trees, gardens, and ponds, and abundant grains.
+      • hindi: घर में कल्याण की सम्पत्ति, नित्य मिष्टान्न का भोजन, वृक्ष-उद्यान-तड़ाग का लाभ, और बहुत अधिक धान्य की प्राप्ति होती है।
+      • gujarati: ઘરમાં કલ્યાણની સમ્પત્તિ, નિત્ય મિષ્ટાન્નનું ભોજન, વૃક્ષ-ઉદ્યાન-તડાગનો લાભ, અને ઘણું ધાન્ય પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          sweet food
+        2.
+          gardens
+        3.
+          ponds
+        4.
+          abundant grains
+    68.
+      • shloka: 68
+      • text: There is gain of cattle, abundant wealth and grains, enthusiasm, fame, and new conveyances.
+      • hindi: चौपायों का लाभ, बहुत अधिक धन-धान्य, उत्साह, कीर्ति की सम्पत्ति, और नए वाहनों की प्राप्ति होती है।
+      • gujarati: ચૌપાયોનો લાભ, ઘણું ધન-ધાન્ય, ઉત્સાહ, કીર્તિની સમ્પત્તિ, અને નવા વાહનોની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          cattle
+        2.
+          abundant wealth
+        3.
+          fame
+        4.
+          new conveyances
+    69.
+      • shloka: 69
+      • text: If Venus is in the 6th, 8th, or 12th from the Dasha lord and weak, there is royal displeasure, mental distress, and loss of children, wife, and wealth.
+      • hindi: यदि शुक्र दशा स्वामी (सूर्य) से षष्ठ, अष्टम या व्यय स्थान में हो और बलरहित हो, तो राजकोप, मनःक्लेश, और पुत्र-पत्नी-धन का क्षय होता है।
+      • gujarati: જો શુક્ર દશા સ્વામી (સૂર્ય)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય અને બળરહિત હોય, તો રાજકોપ, મનઃક્લેશ, અને પુત્ર-પત્ની-ધનનો ક્ષય થાય છે.
+      • keywords:
+        1.
+          royal displeasure
+        2.
+          mental distress
+        3.
+          loss of children
+        4.
+          loss of wealth
+    70.
+      • shloka: 70
+      • text: At the beginning of the Antardasa, moderate results; in the middle, gain and auspiciousness; and at the end, loss of fame or loss of position.
+      • hindi: अन्तर्दशा के आरम्भ में मध्यम फल, मध्य में लाभ और शुभ, और अन्त में यश का नाश या स्थानभ्रंश होता है।
+      • gujarati: અંતર્દશાના આરંભમાં મધ્યમ ફળ, મધ્યમાં લાભ અને શુભ, અને અંતમાં યશનો નાશ કે સ્થાનભ્રંશ થાય છે.
+      • keywords:
+        1.
+          phased results
+        2.
+          moderate
+        3.
+          gain
+        4.
+          loss of fame
+        5.
+          loss of position
+    71.
+      • shloka: 71
+      • text: There is hatred from relatives, loss of enjoyments from one's own family, and if Venus is the lord of the 2nd or 7th house, there is physical lethargy and fear of diseases.
+      • hindi: बन्धुओं का द्वेष, अपने कुल से भोग का नाश, और यदि शुक्र भाग्य से द्वितीय या सप्तम भाव का स्वामी हो, तो शरीर में जड़ता और रोगों का भय रहता है।
+      • gujarati: બંધુઓનો દ્વેષ, પોતાના કુળથી ભોગનો નાશ, અને જો શુક્ર ભાગ્યથી દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો શરીરમાં જડતા અને રોગોનો ભય રહે છે.
+      • keywords:
+        1.
+          hatred from relatives
+        2.
+          loss of enjoyments
+        3.
+          maraka
+        4.
+          lethargy
+        5.
+          diseases
+    72.
+      • shloka: 72
+      • text: If Venus is in the 8th or 12th house, untimely death may occur. To remove this defect, one should perform Mrityunjaya Japa.
+      • hindi: यदि शुक्र रन्ध्र या रिष्फ (अष्टम या व्यय) स्थान में हो, तो अपमृत्यु हो सकती है। इस दोष के निवारण के लिए मृत्युंजय जप करना चाहिए।
+      • gujarati: જો શુક્ર રન્ધ્ર કે રિષ્ફ (અષ્ટમ કે વ્યય) સ્થાનમાં હોય, તો અપમૃત્યુ થઈ શકે છે. આ દોષના નિવારણ માટે મૃત્યુંજય જપ કરવો જોઈએ.
+      • keywords:
+        1.
+          venus maraka
+        2.
+          untimely death
+        3.
+          mrityunjaya japa
+        4.
+          remedy
+    73.
+      • shloka: 73
+      • text: One should give a white cow and a female buffalo in charity, and have Rudra Japa performed. Then, by the grace of Lord Shiva, peace is attained.
+      • hindi: श्वेत गाय और भैंस का दान करना चाहिए, रुद्र जाप्य कराना चाहिए। तब शंकर के प्रसाद से शान्ति प्राप्त होती है।
+      • gujarati: શ્વેત ગાય અને ભેંસનું દાન કરવું જોઈએ, રુદ્ર જાપ્ય કરાવવું જોઈએ. ત્યારે શંકરના પ્રસાદથી શાંતિ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          white cow
+        2.
+          female buffalo
+        3.
+          rudra japa
+        4.
+          shiva grace
+        5.
+          peace
+• 53:
+  • chapter: 53
+  • title: Effects of the Antardasa of the Moon
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: In the Moon's Dasha, during her own Antardasa, if the Moon is in exaltation, own sign, Trikona, or 11th house, and associated with lords of 9th and 10th, one acquires elephants, horses, and clothes.
+      • hindi: चन्द्रमा की दशा में उसकी ही अन्तर्दशा में यदि चन्द्रमा उच्च, स्वक्षेत्र, त्रिकोण, लाभ स्थान में हो, और भाग्येश-कर्मेश से युक्त हो, तो हाथी-घोड़े और वस्त्रों का समूह प्राप्त होता है।
+      • gujarati: ચંદ્રમાની દશામાં તેની જ અંતર્દશામાં જો ચંદ્રમા ઉચ્ચ, સ્વક્ષેત્ર, ત્રિકોણ, લાભ સ્થાનમાં હોય, અને ભાગ્યેશ-કર્મેશથી યુક્ત હોય, તો હાથી-ઘોડા અને વસ્ત્રોનો સમૂહ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          moon-moon antardasa
+        2.
+          auspicious
+        3.
+          elephants
+        4.
+          horses
+        5.
+          clothes
+    2.
+      • shloka: 2
+      • text: There is devotion to deities and guru, chanting of sacred verses, gain of kingdom, great happiness, increase of fame, and attainment of comfort.
+      • hindi: देवता और गुरु की भक्ति, पुण्यश्लोकादि का कीर्तन, राज्य का लाभ, महान सुख, यश की वृद्धि और सुख की प्राप्ति होती है।
+      • gujarati: દેવતા અને ગુરુની ભક્તિ, પુણ્યશ્લોકાદિનું કીર્તન, રાજ્યનો લાભ, મહાન સુખ, યશની વૃદ્ધિ અને સુખની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          devotion
+        2.
+          chanting
+        3.
+          kingdom
+        4.
+          fame
+        5.
+          happiness
+    3.
+      • shloka: 3
+      • text: If the Moon is associated with malefic, in debilitation, or in the 6th or 12th house, there is untimely loss of wealth and loss of position.
+      • hindi: यदि चन्द्रमा पाप ग्रहों से युक्त हो, नीच राशि में हो, या षष्ठ-व्यय स्थान में हो, तो अकाल में धन का नाश और स्थान-च्युति होती है।
+      • gujarati: જો ચંદ્રમા પાપ ગ્રહોથી યુક્ત હોય, નીચ રાશિમાં હોય, કે ષષ્ઠ-વ્યય સ્થાનમાં હોય, તો અકાળે ધનનો નાશ અને સ્થાન-ચ્યુતિ થાય છે.
+      • keywords:
+        1.
+          moon-moon antardasa
+        2.
+          inauspicious
+        3.
+          loss of wealth
+        4.
+          loss of position
+    4.
+      • shloka: 4
+      • text: There is physical lethargy, mental agony, opposition from king and ministers, distress to mother, mental sorrow, imprisonment, and destruction of relatives.
+      • hindi: शरीर की आलस्य, मन का ताप, राजा और मंत्रियों से विरोध, माता को क्लेश, मानसिक दुःख, निगड (बेड़ी) और बन्धुओं का नाश होता है।
+      • gujarati: શરીરની આલસ્ય, મનનો તાપ, રાજા અને મંત્રીઓ સાથે વિરોધ, માતાને ક્લેશ, માનસિક દુઃખ, નિગડ (બેડી) અને બંધુઓનો નાશ થાય છે.
+      • keywords:
+        1.
+          lethargy
+        2.
+          mental agony
+        3.
+          royal opposition
+        4.
+          mother distress
+        5.
+          imprisonment
+    5.
+      • shloka: 5
+      • text: If the Moon is the lord of the 2nd or 7th house, and associated with the lord of the 8th or 12th, there is physical lethargy, great fall, and fear of untimely death.
+      • hindi: यदि चन्द्रमा द्वितीय या सप्तम भाव का स्वामी हो, और अष्टमेश या व्ययेश से युक्त हो, तो शरीर की जड़ता, महान पतन, और अपमृत्यु का भय होता है।
+      • gujarati: જો ચંદ્રમા દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, અને અષ્ટમેશ કે વ્યયેશથી યુક્ત હોય, તો શરીરની જડતા, મહાન પતન, અને અપમૃત્યુનો ભય થાય છે.
+      • keywords:
+        1.
+          moon maraka
+        2.
+          lethargy
+        3.
+          great fall
+        4.
+          untimely death
+    6.
+      • shloka: 6
+      • text: During the Moon's Antardasa in her own Dasha, one should give a white cow and a female buffalo in charity.
+      • hindi: अपनी दशा में चन्द्रमा की अन्तर्दशा में श्वेत गाय और भैंस का दान करना चाहिए।
+      • gujarati: પોતાની દશામાં ચંદ્રમાની અંતર્દશામાં શ્વેત ગાય અને ભેંસનું દાન કરવું જોઈએ.
+      • keywords:
+        1.
+          white cow
+        2.
+          female buffalo
+        3.
+          remedy
+        4.
+          moon
+• 54:
+  • chapter: 54
+  • title: Effects of Antardasa in the Dasha of Mars
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: O Brahmin, in Mars's Dasha during his own Antardasa, if Mars is in Kendra, Trikona, or 11th from the Ascendant, associated with benefics, or in 3rd, 6th, or 11th with wealth, there are auspicious results.
+      • hindi: हे विप्र, मंगल की दशा में उसकी ही अन्तर्दशा में यदि मंगल लग्न से केन्द्र, त्रिकोण या लाभ स्थान में हो, शुभ ग्रहों से युक्त हो, या दुष्ट-त्रिक (तृतीय, षष्ठ, एकादश) में हो और धन से युक्त हो, तो शुभ फल मिलते हैं।
+      • gujarati: હે વિપ્ર, મંગળની દશામાં તેની જ અંતર્દશામાં જો મંગળ લગ્નથી કેન્દ્ર, ત્રિકોણ કે લાભ સ્થાનમાં હોય, શુભ ગ્રહોથી યુક્ત હોય, કે દુષ્ટ-ત્રિક (તૃતીય, ષષ્ઠ, એકાદશ)માં હોય અને ધનથી યુક્ત હોય, તો શુભ ફળો મળે છે.
+      • keywords:
+        1.
+          mars-mars antardasa
+        2.
+          auspicious
+        3.
+          kendra
+        4.
+          trikona
+        5.
+          upachaya
+    2.
+      • shloka: 2
+      • text: If Mars is associated with the lord of the Ascendant, there is royal favor and glory, the grace of Goddess Lakshmi, honor, and recovery of lost kingdom and wealth.
+      • hindi: यदि मंगल लग्नेश से युक्त हो, तो राजा का अनुग्रह और वैभव, लक्ष्मी की कटाक्ष, सत्कार, और खोए हुए राज्य-अर्थ का लाभ होता है।
+      • gujarati: જો મંગળ લગ્નેશથી યુક્ત હોય, તો રાજાનો અનુગ્રહ અને વૈભવ, લક્ષ્મીની કટાક્ષ, સત્કાર, અને ખોવાયેલા રાજ્ય-અર્થનો લાભ થાય છે.
+      • keywords:
+        1.
+          royal favor
+        2.
+          lakshmi grace
+        3.
+          honor
+        4.
+          recovery of lost wealth
+    3.
+      • shloka: 3
+      • text: There are celebrations at home and abundance of cow's milk. If Mars is in exaltation, own sign, or own Navamsha, and strong, these results are obtained.
+      • hindi: घर में उत्सव, गाय के दूध से भरापूरा। यदि मंगल उच्च, स्वक्षेत्र या स्वांश में हो और बलयुक्त हो, तो ये सब फल प्राप्त होते हैं।
+      • gujarati: ઘરમાં ઉત્સવ, ગાયના દૂધથી ભરપૂર. જો મંગળ ઉચ્ચ, સ્વક્ષેત્ર કે સ્વાંશમાં હોય અને બળયુક્ત હોય, તો આ બધાં ફળો પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          celebrations
+        2.
+          cow's milk
+        3.
+          exaltation
+        4.
+          own sign
+        5.
+          strength
+    4.
+      • shloka: 4
+      • text: By the grace of the great king, there is fulfillment of desires and attainment of happiness.
+      • hindi: महाराज के प्रसाद से इच्छित कार्यों की सिद्धि और सुख की प्राप्ति होती है।
+      • gujarati: મહારાજના પ્રસાદથી ઇચ્છિત કાર્યોની સિદ્ધિ અને સુખની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          royal grace
+        2.
+          desire fulfillment
+        3.
+          happiness
+    5.
+      • shloka: 5
+      • text: If Mars is in the 8th or 12th house, aspected by or associated with malefic, there are urinary disorders, excessive distress, and fear from wounds.
+      • hindi: यदि मंगल अष्टम या व्यय स्थान में हो, पाप ग्रहों से दृष्ट या युक्त हो, तो मूत्रकृच्छ्र आदि रोग, कष्ट की अधिकता, और घावों से भय होता है।
+      • gujarati: જો મંગળ અષ્ટમ કે વ્યય સ્થાનમાં હોય, પાપ ગ્રહોથી દૃષ્ટ કે યુક્ત હોય, તો મૂત્રકૃચ્છ્ર આદિ રોગ, કષ્ટની અધિકતા, અને ઘાવોથી ભય થાય છે.
+      • keywords:
+        1.
+          mars-mars antardasa
+        2.
+          inauspicious
+        3.
+          urinary disorders
+        4.
+          wounds
+    6.
+      • shloka: 6
+      • text: There is affliction from thieves and kings, loss of wealth and grains. If Mars is the lord of the 2nd or 7th house, there is physical lethargy and mental distress.
+      • hindi: चोरों और राजाओं से पीड़ा, धन-धान्य का क्षय होता है। यदि मंगल द्वितीय या सप्तम भाव का स्वामी हो, तो शरीर की जड़ता और मन की व्यथा होती है।
+      • gujarati: ચોરો અને રાજાઓથી પીડા, ધન-ધાન્યનો ક્ષય થાય છે. જો મંગળ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો શરીરની જડતા અને મનની વ્યથા થાય છે.
+      • keywords:
+        1.
+          thieves
+        2.
+          royal affliction
+        3.
+          loss of wealth
+        4.
+          maraka
+        5.
+          lethargy
+    7.
+      • shloka: 7
+      • text: To remove these defects, one should have Rudra Japa performed, and give a bull in charity for the pacification of Mars.
+      • hindi: इन दोषों के निवारण के लिए रुद्र जाप्य कराना चाहिए, और मंगल के दोषों की निवृत्ति के लिए बैल (अनड्वाह) का दान करना चाहिए।
+      • gujarati: આ દોષોના નિવારણ માટે રુદ્ર જાપ્ય કરાવવું જોઈએ, અને મંગળના દોષોની નિવૃત્તિ માટે બળદ (અનડ્વાહ)નું દાન કરવું જોઈએ.
+      • keywords:
+        1.
+          rudra japa
+        2.
+          bull donation
+        3.
+          remedy
+        4.
+          mars
+    8.
+      • shloka: 8
+      • text: Thus Mars becomes pleased, and by the grace of Lord Shiva, bestows health and all prosperity upon him.
+      • hindi: उससे मंगल तुष्ट होता है, और शंकर के प्रसाद से उसके लिए आरोग्य और सर्वसम्पत्ति देने वाला होता है।
+      • gujarati: તેથી મંગળ તુષ્ટ થાય છે, અને શંકરના પ્રસાદથી તેના માટે આરોગ્ય અને સર્વસમ્પત્તિ આપનાર થાય છે.
+      • keywords:
+        1.
+          mars pleased
+        2.
+          shiva grace
+        3.
+          health
+        4.
+          prosperity
+• 55:
+  • chapter: 55
+  • title: Effects of Antardasa in the Dasha of Rahu
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: In Rahu's Dasha during his own Antardasa, if Rahu is in Cancer, Scorpio, Virgo, or Sagittarius, there is royal honor, clothes, conveyances, and ornaments.
+      • hindi: राहु की दशा में उसकी ही अन्तर्दशा में यदि राहु कर्क, वृश्चिक, कन्या या धनु राशि में हो, तो राजसम्मान, वस्त्र, वाहन और आभूषण की प्राप्ति होती है।
+      • gujarati: રાહુની દશામાં તેની જ અંતર્દશામાં જો રાહુ કર્ક, વૃશ્ચિક, કન્યા કે ધનુ રાશિમાં હોય, તો રાજસમ્માન, વસ્ત્ર, વાહન અને આભૂષણની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          rahu-rahu antardasa
+        2.
+          auspicious
+        3.
+          cancer
+        4.
+          scorpio
+        5.
+          virgo
+        6.
+          sagittarius
+    2.
+      • shloka: 2
+      • text: There is extraordinary profit in business, gain of cattle, travel to the West, and gain of conveyances and clothes.
+      • hindi: व्यवसाय में अधिक फल, चौपायों का लाभ, पश्चिम दिशा में यात्रा, और वाहन-वस्त्र का लाभ होता है।
+      • gujarati: વ્યવસાયમાં વધુ ફળ, ચૌપાયોનો લાભ, પશ્ચિમ દિશામાં યાત્રા, અને વાહન-વસ્ત્રનો લાભ થાય છે.
+      • keywords:
+        1.
+          business profit
+        2.
+          cattle
+        3.
+          west travel
+        4.
+          conveyances
+        5.
+          clothes
+    3.
+      • shloka: 3
+      • text: If Rahu is in an Upachaya house from the Ascendant, associated with or aspected by benefics, in friendly or exalted Navamsha, and associated with a Yoga-karaka, there are auspicious results.
+      • hindi: यदि राहु लग्न से उपचय स्थान (तृतीय, षष्ठ, दशम, एकादश) में हो, शुभ ग्रहों से युक्त या दृष्ट हो, मित्र अंश या उच्च अंश में हो, और योगकारक से युक्त हो, तो शुभ फल मिलते हैं।
+      • gujarati: જો રાહુ લગ્નથી ઉપચય સ્થાન (તૃતીય, ષષ્ઠ, દશમ, એકાદશ)માં હોય, શુભ ગ્રહોથી યુક્ત કે દૃષ્ટ હોય, મિત્ર અંશ કે ઉચ્ચ અંશમાં હોય, અને યોગકારકથી યુક્ત હોય, તો શુભ ફળો મળે છે.
+      • keywords:
+        1.
+          upachaya houses
+        2.
+          benefic association
+        3.
+          friendly navamsha
+        4.
+          yoga karaka
+    4.
+      • shloka: 4
+      • text: There is gain of kingdom, great enthusiasm, royal favor, auspicious events, happiness and prosperity, and increase in children and wife.
+      • hindi: राज्य का लाभ, महान उत्साह, राजा की प्रीति, शुभ कार्य, सुख और सम्पत्ति, तथा पुत्र-पत्नी आदि की वृद्धि होती है।
+      • gujarati: રાજ્યનો લાભ, મહાન ઉત્સાહ, રાજાની પ્રીતિ, શુભ કાર્ય, સુખ અને સમ્પત્તિ, તથા પુત્ર-પત્ની આદિની વૃદ્ધિ થાય છે.
+      • keywords:
+        1.
+          kingdom
+        2.
+          enthusiasm
+        3.
+          royal favor
+        4.
+          prosperity
+        5.
+          children
+    5.
+      • shloka: 5
+      • text: O Brahmin, if Rahu is in the 8th or 12th from the Ascendant, associated with or aspected by malefic, there is affliction from thieves and wounds.
+      • hindi: हे द्विज, यदि राहु लग्न से अष्टम या व्यय स्थान में हो, पाप ग्रहों से युक्त या दृष्ट हो, तो चोरों और घावों से पीड़ा होती है।
+      • gujarati: હે દ્વિજ, જો રાહુ લગ્નથી અષ્ટમ કે વ્યય સ્થાનમાં હોય, પાપ ગ્રહોથી યુક્ત કે દૃષ્ટ હોય, તો ચોરો અને ઘાવોથી પીડા થાય છે.
+      • keywords:
+        1.
+          rahu-rahu antardasa
+        2.
+          inauspicious
+        3.
+          8th house
+        4.
+          12th house
+        5.
+          thieves
+        6.
+          wounds
+    6.
+      • shloka: 6
+      • text: There is hatred from people at the royal court, destruction of dear relatives, and distress to children and wife without doubt.
+      • hindi: राजद्वार पर लोगों का द्वेष, इष्ट बन्धुओं का नाश, और पुत्र-पत्नी आदि की पीड़ा निश्चित रूप से होती है।
+      • gujarati: રાજદ્વાર પર લોકોનો દ્વેષ, ઇષ્ટ બંધુઓનો નાશ, અને પુત્ર-પત્ની આદિની પીડા નિશ્ચિત રૂપથી થાય છે.
+      • keywords:
+        1.
+          royal court hatred
+        2.
+          loss of relatives
+        3.
+          distress to family
+    7.
+      • shloka: 7
+      • text: If Rahu is in the 2nd or 7th house, there is constant disease and great distress. Propitiation should be performed according to the prescribed method.
+      • hindi: यदि राहु द्वितीय या सप्तम स्थान में हो, तो सदा रोग और महान कष्ट रहता है। विधि के अनुसार शान्ति करनी चाहिए।
+      • gujarati: જો રાહુ દ્વિતીય કે સપ્તમ સ્થાનમાં હોય, તો સદા રોગ અને મહાન કષ્ટ રહે છે. વિધિ મુજબ શાંતિ કરવી જોઈએ.
+      • keywords:
+        1.
+          rahu maraka
+        2.
+          constant disease
+        3.
+          great distress
+        4.
+          remedy
+• 56:
+  • chapter: 56
+  • title: Effects of the Antardasa in the Dasha of Jupiter
+  • shlokas:
+    1.
+      • shloka: 1
+      • text: In Jupiter's Dasha during his own Antardasa, if Jupiter is in exaltation, own sign, Kendra or Trikona from the Ascendant, the native becomes the lord of many kings or is honored by kings.
+      • hindi: गुरु की दशा में उसकी ही अन्तर्दशा में यदि गुरु उच्च, स्वक्षेत्र, लग्न से केन्द्र या त्रिकोण में हो, तो वह अनेक राजाओं का अधीश या राजाओं द्वारा पूजित होता है।
+      • gujarati: ગુરુની દશામાં તેની જ અંતર્દશામાં જો ગુરુ ઉચ્ચ, સ્વક્ષેત્ર, લગ્નથી કેન્દ્ર કે ત્રિકોણમાં હોય, તો તે અનેક રાજાઓનો અધીશ કે રાજાઓ દ્વારા પૂજિત થાય છે.
+      • keywords:
+        1.
+          jupiter-jupiter antardasa
+        2.
+          auspicious
+        3.
+          exaltation
+        4.
+          kendra
+        5.
+          trikona
+        6.
+          honored by kings
+    2.
+      • shloka: 2
+      • text: There is gain of cows and buffaloes, clothes, conveyances and ornaments, construction of a new place, and a building with mansions and walls.
+      • hindi: गाय, भैंस आदि का लाभ, वस्त्र, वाहन और आभूषणों की प्राप्ति, नए स्थान का निर्माण, और हर्म्य-प्राकारों से युक्त भवन प्राप्त होता है।
+      • gujarati: ગાય, ભેંસ આદિનો લાભ, વસ્ત્ર, વાહન અને આભૂષણોની પ્રાપ્તિ, નવા સ્થાનનું નિર્માણ, અને હર્મ્ય-પ્રાકારોથી યુક્ત ભવન પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          cows
+        2.
+          buffaloes
+        3.
+          conveyances
+        4.
+          construction
+        5.
+          mansions
+    3.
+      • shloka: 3
+      • text: There is wealth of elephants and horses, rise of fortune and deeds, honor from Brahmins and kings, and audience with equals.
+      • hindi: हाथी-घोड़ों का ऐश्वर्य, भाग्य और कर्म के फलों का उदय, ब्राह्मणों और राजाओं का सम्मान, और समानों का दर्शन होता है।
+      • gujarati: હાથી-ઘોડાંનું ઐશ્વર્ય, ભાગ્ય અને કર્મના ફળોનો ઉદય, બ્રાહ્મણો અને રાજાઓનું સમ્માન, અને સમાનોનું દર્શન થાય છે.
+      • keywords:
+        1.
+          elephants
+        2.
+          horses
+        3.
+          fortune
+        4.
+          brahmin honor
+        5.
+          royal audience
+    4.
+      • shloka: 4
+      • text: There is more result from one's master, and gain of children and wife. If Jupiter is in debilitated Navamsha, debilitated sign, or in 6th, 8th, or 12th houses, inauspicious results occur.
+      • hindi: अपने स्वामी से अधिक फल, पुत्र-पत्नी आदि का लाभ। यदि गुरु नीच अंश में, नीच राशि में, या षष्ठ, अष्टम, व्यय राशि में हो, तो अशुभ फल मिलते हैं।
+      • gujarati: પોતાના સ્વામીથી વધુ ફળ, પુત્ર-પત્ની આદિનો લાભ. જો ગુરુ નીચ અંશમાં, નીચ રાશિમાં, કે ષષ્ઠ, અષ્ટમ, વ્યય રાશિમાં હોય, તો અશુભ ફળો મળે છે.
+      • keywords:
+        1.
+          jupiter-jupiter antardasa
+        2.
+          inauspicious
+        3.
+          debilitation
+        4.
+          6th house
+        5.
+          8th house
+        6.
+          12th house
+    5.
+      • shloka: 5
+      • text: There is association with the lowly, great sorrow, disputes with relatives, quarrels, and untimely death at the place of one's masters.
+      • hindi: नीचों का संग, महान दुःख, दायादों से विग्रह, कलह, और अपने स्वामियों के यहाँ अपमृत्यु होती है।
+      • gujarati: નીચોનો સંગ, મહાન દુઃખ, દાયાદો સાથે વિગ્રહ, કલહ, અને પોતાના સ્વામીઓ ત્યાં અપમૃત્યુ થાય છે.
+      • keywords:
+        1.
+          lowly association
+        2.
+          sorrow
+        3.
+          disputes
+        4.
+          quarrels
+        5.
+          untimely death
+    6.
+      • shloka: 6
+      • text: There is separation from children and wife, loss of wealth, grains, and money. Due to the defect of the lord of the 7th house, there is physical affliction.
+      • hindi: पुत्र-पत्नी से वियोग, धन-धान्य-अर्थ की हानि होती है। सप्तम भाव के स्वामी के दोष से शरीर की बाधा होती है।
+      • gujarati: પુત્ર-પત્નીથી વિયોગ, ધન-ધાન્ય-અર્થની હાનિ થાય છે. સપ્તમ ભાવના સ્વામીના દોષથી શરીરની બાધા થાય છે.
+      • keywords:
+        1.
+          separation
+        2.
+          loss of wealth
+        3.
+          7th lord
+        4.
+          physical affliction
+    7.
+      • shloka: 7
+      • text: To remove these defects, one should chant Shiva Sahasranama, perform Rudra Japa, and give a cow in charity. Thus desired results are obtained.
+      • hindi: इन दोषों के निवारण के लिए शिव सहस्रनाम का जप करना चाहिए, रुद्र जाप्य और गोदान करना चाहिए। इससे इच्छित फल की प्राप्ति होती है।
+      • gujarati: આ દોષોના નિવારણ માટે શિવ સહસ્રનામનો જપ કરવો જોઈએ, રુદ્ર જાપ્ય અને ગોદાન કરવું જોઈએ. આનાથી ઇચ્છિત ફળની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          shiva sahasranama
+        2.
+          rudra japa
+        3.
+          cow donation
+        4.
+          remedy
+        5.
+          jupiter
+    8.
+      • shloka: 8
+      • text: In Jupiter's Dasha during Saturn's Antardasa, if Saturn is in exaltation, own sign, or friendly sign, in Kendra, Trikona, or 11th from the Ascendant, and strong, there are auspicious results.
+      • hindi: गुरु की दशा में शनि की अन्तर्दशा में यदि शनि उच्च, स्वक्षेत्र, मित्र राशि में हो, लग्न से केन्द्र, त्रिकोण या लाभ स्थान में हो और बलयुक्त हो, तो शुभ फल मिलते हैं।
+      • gujarati: ગુરુની દશામાં શનિની અંતર્દશામાં જો શનિ ઉચ્ચ, સ્વક્ષેત્ર, મિત્ર રાશિમાં હોય, લગ્નથી કેન્દ્ર, ત્રિકોણ કે લાભ સ્થાનમાં હોય અને બળયુક્ત હોય, તો શુભ ફળો મળે છે.
+      • keywords:
+        1.
+          jupiter-saturn antardasa
+        2.
+          auspicious
+        3.
+          exaltation
+        4.
+          kendra
+        5.
+          trikona
+        6.
+          strong
+    9.
+      • shloka: 9
+      • text: There is gain of kingdom, great happiness, clothes and ornaments, gain of wealth and grains, gain of position, and much happiness.
+      • hindi: राज्य का लाभ, महान सुख, वस्त्र और आभूषणों की प्राप्ति, धन-धान्य का लाभ, स्थान की प्राप्ति और बहुत सुख होता है।
+      • gujarati: રાજ્યનો લાભ, મહાન સુખ, વસ્ત્ર અને આભૂષણોની પ્રાપ્તિ, ધન-ધાન્યનો લાભ, સ્થાનની પ્રાપ્તિ અને ઘણું સુખ થાય છે.
+      • keywords:
+        1.
+          kingdom
+        2.
+          happiness
+        3.
+          clothes
+        4.
+          ornaments
+        5.
+          wealth
+        6.
+          position
+    10.
+      • shloka: 10
+      • text: There is gain of conveyances, clothes, cattle, and land, gain of position, happiness from children and wife, and daily sweet food.
+      • hindi: वाहन, वस्त्र, पशु आदि का लाभ, भूमि का लाभ, स्थान की प्राप्ति, पुत्र-पत्नी का सुख, और नित्य मिष्टान्न भोजन प्राप्त होता है।
+      • gujarati: વાહન, વસ્ત્ર, પશુ આદિનો લાભ, ભૂમિનો લાભ, સ્થાનની પ્રાપ્તિ, પુત્ર-પત્નીનું સુખ, અને નિત્ય મિષ્ટાન્ન ભોજન પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          conveyances
+        2.
+          cattle
+        3.
+          land
+        4.
+          children
+        5.
+          sweet food
+    11.
+      • shloka: 11
+      • text: There is travel to the West, audience with the king, and gain of many conveyances – these occur during Saturn's Antardasa.
+      • hindi: पश्चिम दिशा में यात्रा, राजदर्शन, अनेक वाहनों का लाभ – ये सब शनि की अन्तर्दशा में होते हैं।
+      • gujarati: પશ્ચિમ દિશામાં યાત્રા, રાજદર્શન, અનેક વાહનોનો લાભ – આ સૌ શનિની અંતર્દશામાં થાય છે.
+      • keywords:
+        1.
+          west travel
+        2.
+          royal audience
+        3.
+          many conveyances
+        4.
+          saturn antardasa
+    12.
+      • shloka: 12
+      • text: If Saturn is in the 6th, 8th, or 12th from the Ascendant, in debilitation, or combust, there is loss of wealth and grains, fever, and mental disease.
+      • hindi: यदि शनि लग्न से षष्ठ, अष्टम, व्यय स्थान में हो, नीच राशि में हो, या अस्त (अस्तंगत) हो, तो धन-धान्य का नाश, ज्वर की पीड़ा और मानसिक रोग होते हैं।
+      • gujarati: જો શનિ લગ્નથી ષષ્ઠ, અષ્ટમ, વ્યય સ્થાનમાં હોય, નીચ રાશિમાં હોય, કે અસ્ત (અસ્તંગત) હોય, તો ધન-ધાન્યનો નાશ, જ્વરની પીડા અને માનસિક રોગ થાય છે.
+      • keywords:
+        1.
+          jupiter-saturn antardasa
+        2.
+          inauspicious
+        3.
+          6th/8th/12th
+        4.
+          debilitation
+        5.
+          combust
+        6.
+          fever
+    13.
+      • shloka: 13
+      • text: There are inauspicious events at home, affliction from servants, loss of cows and buffaloes, and hatred from relatives.
+      • hindi: घर में अशुभ कार्य, सेवकों से पीड़ा, गाय-भैंस आदि की हानि, और बन्धुओं से द्वेष होता है।
+      • gujarati: ઘરમાં અશુભ કાર્ય, સેવકોથી પીડા, ગાય-ભેંસ આદિની હાનિ, અને બંધુઓ સાથે દ્વેષ થાય છે.
+      • keywords:
+        1.
+          inauspicious events
+        2.
+          servant affliction
+        3.
+          loss of cattle
+        4.
+          relative hatred
+    14.
+      • shloka: 14
+      • text: If Saturn is in Kendra, Trikona, 11th, or 2nd from the Dasha lord (Jupiter), there is gain of land, children, and wealth, and happiness from children.
+      • hindi: यदि शनि दशा स्वामी (गुरु) से केन्द्र, त्रिकोण, लाभ या धन स्थान में हो, तो भूमि-पुत्र-अर्थ का लाभ और पुत्र-लाभ का सुख होता है।
+      • gujarati: જો શનિ દશા સ્વામી (ગુરુ)થી કેન્દ્ર, ત્રિકોણ, લાભ કે ધન સ્થાનમાં હોય, તો ભૂમિ-પુત્ર-અર્થનો લાભ અને પુત્ર-લાભનું સુખ થાય છે.
+      • keywords:
+        1.
+          kendra
+        2.
+          trikona
+        3.
+          11th house
+        4.
+          2nd house
+        5.
+          land
+        6.
+          children
+    15.
+      • shloka: 15
+      • text: There is gain of cows and buffaloes, and wealth from Sudras (working class).
+      • hindi: गाय-भैंस आदि का लाभ, और शूद्रों के मूल से धन की प्राप्ति होती है।
+      • gujarati: ગાય-ભેંસ આદિનો લાભ, અને શૂદ્રોના મૂળથી ધનની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          cows
+        2.
+          buffaloes
+        3.
+          wealth from sudras
+    16.
+      • shloka: 16
+      • text: If Saturn is in the 6th, 8th, or 12th from the Dasha lord and associated with malefic, there is loss of wealth and grains, and opposition from relatives.
+      • hindi: यदि शनि दशा स्वामी (गुरु) से षष्ठ, अष्टम या व्यय स्थान में हो और पाप ग्रहों से युक्त हो, तो धन-धान्य का नाश और बन्धुओं से विरोध होता है।
+      • gujarati: જો શનિ દશા સ્વામી (ગુરુ)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય અને પાપ ગ્રહોથી યુક્ત હોય, તો ધન-ધાન્યનો નાશ અને બંધુઓ સાથે વિરોધ થાય છે.
+      • keywords:
+        1.
+          6th/8th/12th from dasha lord
+        2.
+          loss of wealth
+        3.
+          opposition from relatives
+    17.
+      • shloka: 17
+      • text: There is destruction of enterprise, physical distress, and great fear from one's own people.
+      • hindi: उद्योग का भंग, शरीर का क्लेश, और अपने जनों से महान भय होता है।
+      • gujarati: ઉદ્યોગનો ભંગ, શરીરનો ક્લેશ, અને પોતાના જનોથી મહાન ભય થાય છે.
+      • keywords:
+        1.
+          destruction of enterprise
+        2.
+          physical distress
+        3.
+          fear from relatives
+    18.
+      • shloka: 18
+      • text: If Saturn is the lord of the 2nd or 7th house, untimely death may occur. To remove this defect, one should chant Vishnu Sahasranama.
+      • hindi: यदि शनि द्वितीय या सप्तम भाव का स्वामी हो, तो अपमृत्यु हो सकती है। इस दोष के निवारण के लिए विष्णु सहस्रनाम का जप करना चाहिए।
+      • gujarati: જો શનિ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો અપમૃત્યુ થઈ શકે છે. આ દોષના નિવારણ માટે વિષ્ણુ સહસ્રનામનો જપ કરવો જોઈએ.
+      • keywords:
+        1.
+          saturn maraka
+        2.
+          untimely death
+        3.
+          vishnu sahasranama
+        4.
+          remedy
+    19.
+      • shloka: 19
+      • text: O best of Brahmins, one should give a black cow and a female buffalo in charity. Thus health is attained. This is true by the grace of Saturn.
+      • hindi: हे द्विजोत्तम, कृष्ण गाय और भैंस का दान करना चाहिए, इससे आरोग्य की प्राप्ति होती है। शनि ग्रह के प्रसाद से यह सत्य है।
+      • gujarati: હે દ્વિજોત્તમ, કૃષ્ણ ગાય અને ભેંસનું દાન કરવું જોઈએ, આનાથી આરોગ્યની પ્રાપ્તિ થાય છે. શનિ ગ્રહના પ્રસાદથી આ સત્ય છે.
+      • keywords:
+        1.
+          black cow
+        2.
+          female buffalo
+        3.
+          health
+        4.
+          saturn grace
+        5.
+          remedy
+    20.
+      • shloka: 20
+      • text: In Jupiter's Dasha during Mercury's Antardasa, if Mercury is in Kendra, 11th, or Trikona, in exaltation or own sign, or associated with the Dasha lord (Jupiter), there are auspicious results.
+      • hindi: गुरु की दशा में बुध की अन्तर्दशा में यदि बुध केन्द्र, लाभ या त्रिकोण स्थान में हो, उच्च या स्वक्षेत्र में हो, या दशा स्वामी (गुरु) से युक्त हो, तो शुभ फल मिलते हैं।
+      • gujarati: ગુરુની દશામાં બુધની અંતર્દશામાં જો બુધ કેન્દ્ર, લાભ કે ત્રિકોણ સ્થાનમાં હોય, ઉચ્ચ કે સ્વક્ષેત્રમાં હોય, કે દશા સ્વામી (ગુરુ)થી યુક્ત હોય, તો શુભ ફળો મળે છે.
+      • keywords:
+        1.
+          jupiter-mercury antardasa
+        2.
+          auspicious
+        3.
+          kendra
+        4.
+          trikona
+        5.
+          exaltation
+        6.
+          own sign
+    21.
+      • shloka: 21
+      • text: There is gain of wealth, physical happiness, gain of kingdom, great happiness, and by the grace of the great king, fulfillment of desires and attainment of comfort.
+      • hindi: अर्थ का लाभ, शरीर का सुख, राज्य का लाभ, महान सुख, महाराज के प्रसाद से इच्छित कार्यों की सिद्धि और सुख की प्राप्ति होती है।
+      • gujarati: અર્થનો લાભ, શરીરનું સુખ, રાજ્યનો લાભ, મહાન સુખ, મહારાજના પ્રસાદથી ઇચ્છિત કાર્યોની સિદ્ધિ અને સુખની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          wealth
+        2.
+          physical happiness
+        3.
+          kingdom
+        4.
+          royal grace
+        5.
+          desire fulfillment
+    22.
+      • shloka: 22
+      • text: The house is filled with conveyances, clothes, cattle, and cows. If Mercury is aspected by Mars, there is increase of enemies and loss of happiness.
+      • hindi: घर वाहन, वस्त्र, पशु और गोधन से भरा होता है। यदि बुध मंगल से दृष्ट हो, तो शत्रुओं की वृद्धि और सुख का क्षय होता है।
+      • gujarati: ઘર વાહન, વસ્ત્ર, પશુ અને ગોધનથી ભરેલું હોય છે. જો બુધ મંગળથી દૃષ્ટ હોય, તો શત્રુઓની વૃદ્ધિ અને સુખનો ક્ષય થાય છે.
+      • keywords:
+        1.
+          conveyances
+        2.
+          cattle
+        3.
+          mars aspect
+        4.
+          enemy increase
+        5.
+          loss of happiness
+    23.
+      • shloka: 23
+      • text: If Mercury is in the 9th, Trikona, or Kendra from the Dasha lord (Jupiter), or in exaltation, there is gain of wealth in one's own country and happiness from parents.
+      • hindi: यदि बुध दशा स्वामी (गुरु) से भाग्य, त्रिकोण, केन्द्र स्थान में हो, या उच्च राशि में हो, तो स्वदेश में धन का लाभ, और पिता-माता का सुख प्राप्त होता है।
+      • gujarati: જો બુધ દશા સ્વામી (ગુરુ)થી ભાગ્ય, ત્રિકોણ, કેન્દ્ર સ્થાનમાં હોય, કે ઉચ્ચ રાશિમાં હોય, તો સ્વદેશમાં ધનનો લાભ, અને પિતા-માતાનું સુખ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          9th house
+        2.
+          trikona
+        3.
+          kendra
+        4.
+          exaltation
+        5.
+          wealth in own country
+        6.
+          parental happiness
+    24.
+      • shloka: 24
+      • text: One is endowed with elephants and conveyances, and enjoys the glory of royal favor.
+      • hindi: हाथी और वाहनों से युक्त, राजा के प्रसाद का वैभव प्राप्त होता है।
+      • gujarati: હાથી અને વાહનોથી યુક્ત, રાજાના પ્રસાદનો વૈભવ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          elephants
+        2.
+          conveyances
+        3.
+          royal favor
+        4.
+          glory
+    25.
+      • shloka: 25
+      • text: If Mercury is in the 6th, 8th, or 12th from the Dasha lord, associated with malefic, and devoid of benefic aspect, there is loss of wealth and grains.
+      • hindi: यदि बुध दशा स्वामी (गुरु) से षष्ठ, अष्टम या व्यय स्थान में हो, पाप ग्रहों से युक्त हो, और शुभ दृष्टि से रहित हो, तो धन-धान्य की हानि होती है।
+      • gujarati: જો બુધ દશા સ્વામી (ગુરુ)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય, પાપ ગ્રહોથી યુક્ત હોય, અને શુભ દૃષ્ટિથી રહિત હોય, તો ધન-ધાન્યની હાનિ થાય છે.
+      • keywords:
+        1.
+          jupiter-mercury antardasa
+        2.
+          inauspicious
+        3.
+          6th/8th/12th
+        4.
+          malefic association
+        5.
+          loss of wealth
+    26.
+      • shloka: 26
+      • text: There is travel to foreign lands, fear of thieves on the way, wounds, burning sensations, eye diseases, and wandering in many countries.
+      • hindi: देशान्तर में गमन, मार्ग में चोरों का भय, घाव, दाह, नेत्र रोग, और अनेक देशों में भ्रमण होता है।
+      • gujarati: દેશાન્તરમાં ગમન, માર્ગમાં ચોરોનો ભય, ઘાવ, દાહ, નેત્ર રોગ, અને અનેક દેશોમાં ભ્રમણ થાય છે.
+      • keywords:
+        1.
+          foreign travel
+        2.
+          thief fear
+        3.
+          wounds
+        4.
+          eye diseases
+        5.
+          wandering
+    27.
+      • shloka: 27
+      • text: If Mercury is in the 6th, 8th, or 12th from the Ascendant and associated with malefic, there is sudden quarrel and tamasic (dark) tendencies at home.
+      • hindi: यदि बुध लग्न से षष्ठ, अष्टम या व्यय स्थान में हो और पाप ग्रहों से युक्त हो, तो अकस्मात् कलह और घर में तामसिकता आती है।
+      • gujarati: જો બુધ લગ્નથી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય અને પાપ ગ્રહોથી યુક્ત હોય, તો અકસ્માત્ કલહ અને ઘરમાં તામસિકતા આવે છે.
+      • keywords:
+        1.
+          6th/8th/12th from lagna
+        2.
+          sudden quarrel
+        3.
+          tamasic tendencies
+    28.
+      • shloka: 28
+      • text: There is loss of cattle, loss in dealings, fear of untimely death, and quarrels with enemies.
+      • hindi: चौपायों की हानि, व्यवहार में हानि, अपमृत्यु का भय, और शत्रुओं से कलह होता है।
+      • gujarati: ચૌપાયોની હાનિ, વ્યવહારમાં હાનિ, અપમૃત્યુનો ભય, અને શત્રુઓ સાથે કલહ થાય છે.
+      • keywords:
+        1.
+          loss of cattle
+        2.
+          loss in dealings
+        3.
+          untimely death
+        4.
+          enemy quarrels
+    29.
+      • shloka: 29
+      • text: If Mercury is aspected by or associated with benefics, at the beginning of the Antardasa there is happiness, physical comfort, and gain of conveyances and clothes.
+      • hindi: यदि बुध शुभ ग्रहों से दृष्ट या युक्त हो, तो अन्तर्दशा के आरम्भ में सुख, शरीर का सुख, और वाहन-वस्त्र का लाभ होता है।
+      • gujarati: જો બુધ શુભ ગ્રહોથી દૃષ્ટ કે યુક્ત હોય, તો અંતર્દશાના આરંભમાં સુખ, શરીરનું સુખ, અને વાહન-વસ્ત્રનો લાભ થાય છે.
+      • keywords:
+        1.
+          benefic aspect
+        2.
+          physical comfort
+        3.
+          conveyances
+        4.
+          clothes
+        5.
+          auspicious beginning
+    30.
+      • shloka: 30
+      • text: At the end of the Antardasa, there is loss of wealth and no self-happiness. If Mercury is the lord of the 2nd or 7th house, untimely death may occur.
+      • hindi: अन्तर्दशा के अन्त में धन की हानि होती है और आत्म-सुख नहीं मिलता। यदि बुध द्वितीय या सप्तम भाव का स्वामी हो, तो अपमृत्यु हो सकती है।
+      • gujarati: અંતર્દશાના અંતમાં ધનની હાનિ થાય છે અને આત્મ-સુખ મળતું નથી. જો બુધ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો અપમૃત્યુ થઈ શકે છે.
+      • keywords:
+        1.
+          loss of wealth at end
+        2.
+          no self-happiness
+        3.
+          maraka
+        4.
+          untimely death
+    31.
+      • shloka: 31
+      • text: To remove these defects, one should chant Vishnu Sahasranama. This increases longevity and bestows all good fortune.
+      • hindi: इन दोषों के निवारण के लिए विष्णु सहस्रनाम का जप करना चाहिए। यह आयु की वृद्धि करने वाला और सर्वसौभाग्य देने वाला है।
+      • gujarati: આ દોષોના નિવારણ માટે વિષ્ણુ સહસ્રનામનો જપ કરવો જોઈએ. આ આયુની વૃદ્ધિ કરનાર અને સર્વસૌભાગ્ય આપનાર છે.
+      • keywords:
+        1.
+          vishnu sahasranama
+        2.
+          longevity increase
+        3.
+          good fortune
+        4.
+          remedy
+    32.
+      • shloka: 32
+      • text: In Jupiter's Dasha during Ketu's Antardasa, if Ketu is associated with benefics, there is little happiness, little wealth, and eating of coarse food.
+      • hindi: गुरु की दशा में केतु की अन्तर्दशा में यदि केतु शुभ ग्रहों से युक्त हो, तो अल्प सुख, अल्प धन, और कुत्सित अन्न का भोजन होता है।
+      • gujarati: ગુરુની દશામાં કેતુની અંતર્દશામાં જો કેતુ શુભ ગ્રહોથી યુક્ત હોય, તો અલ્પ સુખ, અલ્પ ધન, અને કુત્સિત અન્નનું ભોજન થાય છે.
+      • keywords:
+        1.
+          jupiter-ketu antardasa
+        2.
+          moderate
+        3.
+          little happiness
+        4.
+          little wealth
+        5.
+          coarse food
+    33.
+      • shloka: 33
+      • text: There is food from others, food from the elderly, and loss of wealth due to sin. If Ketu is in the 6th, 8th, or 12th from the Dasha lord and associated with malefic, these results occur.
+      • hindi: पराया अन्न, वृद्धों का अन्न, और पाप के कारण धन की हानि होती है। यदि केतु दशा स्वामी (गुरु) से षष्ठ, अष्टम या व्यय स्थान में हो और पाप ग्रहों से युक्त हो, तो ये फल मिलते हैं।
+      • gujarati: પરાયા અન્ન, વૃદ્ધોનું અન્ન, અને પાપના કારણે ધનની હાનિ થાય છે. જો કેતુ દશા સ્વામી (ગુરુ)થી ષષ્ઠ, અષ્ટમ કે વ્યય સ્થાનમાં હોય અને પાપ ગ્રહોથી યુક્ત હોય, તો આ ફળો મળે છે.
+      • keywords:
+        1.
+          jupiter-ketu antardasa
+        2.
+          inauspicious
+        3.
+          food from others
+        4.
+          loss of wealth
+    34.
+      • shloka: 34
+      • text: There is royal displeasure, fines, imprisonment, disease affliction, loss of strength, hatred from father, hatred from brothers, and mental disease.
+      • hindi: राजा का कोप, धन का छेदन (जुर्माना), बन्धन, रोग की पीड़ा, बल की हानि, पिता से द्वेष, भाइयों से द्वेष, और मानसिक रोग होते हैं।
+      • gujarati: રાજાનો કોપ, ધનનું છેદન (જુર્માનો), બંધન, રોગની પીડા, બળની હાનિ, પિતા સાથે દ્વેષ, ભાઈઓ સાથે દ્વેષ, અને માનસિક રોગ થાય છે.
+      • keywords:
+        1.
+          royal displeasure
+        2.
+          fines
+        3.
+          imprisonment
+        4.
+          disease
+        5.
+          loss of strength
+        6.
+          family hatred
+    35.
+      • shloka: 35
+      • text: If Ketu is in the 5th, 9th, 4th, or 10th from the Dasha lord (Jupiter), there is regular gain of conveyances and abundance of elephants, horses, and clothes.
+      • hindi: यदि केतु दशा स्वामी (गुरु) से पुत्र, भाग्य, वाहन या कर्म स्थान में हो, तो नित्य वाहनों की प्राप्ति और हाथी-घोड़े-वस्त्रों का समूह प्राप्त होता है।
+      • gujarati: જો કેતુ દશા સ્વામી (ગુરુ)થી પુત્ર, ભાગ્ય, વાહન કે કર્મ સ્થાનમાં હોય, તો નિત્ય વાહનોની પ્રાપ્તિ અને હાથી-ઘોડા-વસ્ત્રોનો સમૂહ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          5th house
+        2.
+          9th house
+        3.
+          4th house
+        4.
+          10th house
+        5.
+          conveyances
+        6.
+          elephants
+        7.
+          horses
+    36.
+      • shloka: 36
+      • text: By the grace of the great king, there is fulfillment of desired works, extraordinary profit in business, and gain of cows and buffaloes.
+      • hindi: महाराज के प्रसाद से इच्छित कार्यों की सिद्धि, व्यवसाय में अधिक लाभ, और गाय-भैंस आदि का लाभ होता है।
+      • gujarati: મહારાજના પ્રસાદથી ઇચ્છિત કાર્યોની સિદ્ધિ, વ્યવસાયમાં વધુ લાભ, અને ગાય-ભેંસ આદિનો લાભ થાય છે.
+      • keywords:
+        1.
+          royal grace
+        2.
+          desire fulfillment
+        3.
+          business profit
+        4.
+          cows
+        5.
+          buffaloes
+    37.
+      • shloka: 37
+      • text: There is gain of wealth and clothes from a Yavana (foreign) king.
+      • hindi: यवन राजा (विदेशी शासक) के मूल से धन और वस्त्र आदि का लाभ होता है।
+      • gujarati: યવન રાજા (વિદેશી શાસક)ના મૂળથી ધન અને વસ્ત્ર આદિનો લાભ થાય છે.
+      • keywords:
+        1.
+          foreign king
+        2.
+          wealth
+        3.
+          clothes
+        4.
+          foreign source
+    38.
+      • shloka: 38
+      • text: If Ketu is the lord of the 2nd or 7th house, there is physical affliction. One should give a goat in charity and perform Mrityunjaya Japa.
+      • hindi: यदि केतु द्वितीय या सप्तम भाव का स्वामी हो, तो शरीर की बाधा होती है। बकरी का दान करना चाहिए और मृत्युंजय जप करना चाहिए।
+      • gujarati: જો કેતુ દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો શરીરની બાધા થાય છે. બકરીનું દાન કરવું જોઈએ અને મૃત્યુંજય જ� કરવો જોઈએ.
+      • keywords:
+        1.
+          ketu maraka
+        2.
+          physical affliction
+        3.
+          goat donation
+        4.
+          mrityunjaya japa
+        5.
+          remedy
+    39.
+      • shloka: 39
+      • text: In Jupiter's Dasha during Venus's Antardasa, if Venus is associated with lords of 9th and 1st/4th/7th/10th, in 11th or 5th house, in own sign, and associated with benefics, there are auspicious results.
+      • hindi: गुरु की दशा में शुक्र की अन्तर्दशा में यदि शुक्र भाग्येश और केन्द्रेश से युक्त हो, लाभ या पुत्र स्थान में हो, स्वक्षेत्र में हो और शुभ ग्रहों से युक्त हो, तो शुभ फल मिलते हैं।
+      • gujarati: ગુરુની દશામાં શુક્રની અંતર્દશામાં જો શુક્ર ભાગ્યેશ અને કેન્દ્રેશથી યુક્ત હોય, લાભ કે પુત્ર સ્થાનમાં હોય, સ્વક્ષેત્રમાં હોય અને શુભ ગ્રહોથી યુક્ત હોય, તો શુભ ફળો મળે છે.
+      • keywords:
+        1.
+          jupiter-venus antardasa
+        2.
+          auspicious
+        3.
+          9th lord
+        4.
+          kendra lord
+        5.
+          11th house
+        6.
+          5th house
+        7.
+          own sign
+    40.
+      • shloka: 40
+      • text: There is regular gain of conveyances, abundance of elephants, horses, and clothes, and by the grace of the great king, extraordinary gain and great happiness.
+      • hindi: नित्य वाहनों की प्राप्ति, हाथी-घोड़े-वस्त्रों से युक्तता, महाराज के प्रसाद से अधिक लाभ और महान सुख प्राप्त होता है।
+      • gujarati: નિત્ય વાહનોની પ્રાપ્તિ, હાથી-ઘોડા-વસ્ત્રોથી યુક્તતા, મહારાજના પ્રસાદથી વધુ લાભ અને મહાન સુખ પ્રાપ્ત થાય છે.
+      • keywords:
+        1.
+          conveyances
+        2.
+          elephants
+        3.
+          horses
+        4.
+          clothes
+        5.
+          royal grace
+        6.
+          great happiness
+    41.
+      • shloka: 41
+      • text: There is gain of blue and red clothes. Traveling to the East yields discovery of treasure.
+      • hindi: नीले और लाल वस्त्रों का लाभ होता है। पूर्व दिशा में यात्रा करने से निधि (खजाना) की प्राप्ति होती है।
+      • gujarati: વાદળી અને લાલ વસ્ત્રોનો લાભ થાય છે. પૂર્વ દિશામાં યાત્રા કરવાથી નિધિ (ખજાનો)ની પ્રાપ્તિ થાય છે.
+      • keywords:
+        1.
+          blue clothes
+        2.
+          red clothes
+        3.
+          east travel
+        4.
+          treasure
+    42.
+      • shloka: 42
+      • text: There is well-being, great affection, happiness from parents, devotion to deities and guru, and great charity of food.
+      • hindi: कल्याण, महान प्रीति, पिता-माता का सुख, देवता और गुरु की भक्ति, और महान अन्नदान होता है।
+      • gujarati: કલ્યાણ, મહાન પ્રીતિ, પિતા-માતાનું સુખ, દેવતા અને ગુરુની ભક્તિ, અને મહાન અન્નદાન થાય છે.
+      • keywords:
+        1.
+          well-being
+        2.
+          affection
+        3.
+          parental happiness
+        4.
+          devotion
+        5.
+          food charity
+    43.
+      • shloka: 43
+      • text: One performs many pious deeds like constructing ponds and gateways. If Venus is in the 6th, 8th, or 12th from the Dasha lord or in debilitation, inauspicious results occur.
+      • hindi: तालाब, गोपुर आदि अनेक पुण्य कार्य करता है। यदि शुक्र दशा स्वामी (गुरु) से षष्ठ, अष्टम, व्यय स्थान में हो या नीच राशि में हो, तो अशुभ फल मिलते हैं।
+      • gujarati: તળાબ, ગોપુર આદિ અનેક પુણ્ય કાર્ય કરે છે. જો શુક્ર દશા સ્વામી (ગુરુ)થી ષષ્ઠ, અષ્ટમ, વ્યય સ્થાનમાં હોય કે નીચ રાશિમાં હોય, તો અશુભ ફળો મળે છે.
+      • keywords:
+        1.
+          jupiter-venus antardasa
+        2.
+          inauspicious
+        3.
+          6th/8th/12th
+        4.
+          debilitation
+        5.
+          pious deeds
+    44.
+      • shloka: 44
+      • text: There are quarrels, enmity with relatives, distress to children and wife. If Venus is associated with Mars, Saturn, or Rahu, there are quarrels and fear from the king.
+      • hindi: कलह, बन्धुओं से वैर, पुत्र-पत्नी की पीड़ा होती है। यदि शुक्र मंगल, शनि या राहु से युक्त हो, तो कलह और राजा से भय होता है।
+      • gujarati: કલહ, બંધુઓ સાથે વૈર, પુત્ર-પત્નીની પીડા થાય છે. જો શુક્ર મંગળ, શનિ કે રાહુથી યુક્ત હોય, તો કલહ અને રાજાથી ભય થાય છે.
+      • keywords:
+        1.
+          quarrels
+        2.
+          enmity with relatives
+        3.
+          distress to family
+        4.
+          fear from king
+    45.
+      • shloka: 45
+      • text: There are quarrels with in-laws and opposition from brothers, and loss of wealth and grains.
+      • hindi: ससुर (ससुराल वालों) से कलह और सोदर्य (सगे भाइयों) से विरोध होता है, और धन-धान्य की हानि होती है।
+      • gujarati: સસુર (સસરાવાળા) સાથે કલહ અને સોદર્ય (સગા ભાઈઓ) સાથે વિરોધ થાય છે, અને ધન-ધાન્યની હાનિ થાય છે.
+      • keywords:
+        1.
+          in-law quarrels
+        2.
+          brother opposition
+        3.
+          loss of wealth
+    46.
+      • shloka: 46
+      • text: If Venus is in Kendra, 2nd, or 9th from the Dasha lord (Jupiter), there is gain of wealth and grains, gain of a woman (marriage), and audience with the king.
+      • hindi: यदि शुक्र दशा स्वामी (गुरु) से केन्द्र, धन या भाग्य स्थान में हो, तो धन-धान्य का लाभ, स्त्री का लाभ (विवाह), और राजदर्शन होता है।
+      • gujarati: જો શુક્ર દશા સ્વામી (ગુરુ)થી કેન્દ્ર, ધન કે ભાગ્ય સ્થાનમાં હોય, તો ધન-ધાન્યનો લાભ, સ્ત્રીનો લાભ (લગ્ન), અને રાજદર્શન થાય છે.
+      • keywords:
+        1.
+          kendra
+        2.
+          2nd house
+        3.
+          9th house
+        4.
+          wealth
+        5.
+          marriage
+        6.
+          royal audience
+    47.
+      • shloka: 47
+      • text: There is gain of conveyances, gain of children, increase in cattle, great happiness, interest in music and instruments, and association with the learned.
+      • hindi: वाहन की प्राप्ति, पुत्र-लाभ, पशुओं की वृद्धि, महान सुख, गीत-वाद्य में रुचि, और विद्वानों का समागम होता है।
+      • gujarati: વાહનની પ્રાપ્તિ, પુત્ર-લાભ, પશુઓની વૃદ્ધિ, મહાન સુખ, ગીત-વાદ્યમાં રુચિ, અને વિદ્વાનોનો સમાગમ થાય છે.
+      • keywords:
+        1.
+          conveyances
+        2.
+          children
+        3.
+          cattle
+        4.
+          music
+        5.
+          learned association
+    48.
+      • shloka: 48
+      • text: There is eating of divine food, happiness, and nourishment of one's relatives.
+      • hindi: दिव्य अन्न का भोजन, सुख, और अपने बन्धु-जनों का पोषण होता है।
+      • gujarati: દિવ્ય અન્નનું ભોજન, સુખ, અને પોતાના બંધુ-જનોનું પોષણ થાય છે.
+      • keywords:
+        1.
+          divine food
+        2.
+          happiness
+        3.
+          nourishment of relatives
+    49.
+      • shloka: 49
+      • text: If Venus is the lord of the 2nd or 7th house, in his Dasha there is loss of wealth, fear of untimely death, and affliction through women or medicines.
+      • hindi: यदि शुक्र द्वितीय या सप्तम भाव का स्वामी हो, तो उसकी दशा में धन की हानि, अपमृत्यु का भय, और स्त्री के कारण या औषधि से कष्ट होता है।
+      • gujarati: જો શુક્ર દ્વિતીય કે સપ્તમ ભાવનો સ્વામી હોય, તો તેની દશામાં ધનની હાનિ, અપમૃત્યુનો ભય, અને સ્ત્રીના કારણે કે ઔષધિથી કષ્ટ થાય છે.
+      • keywords:
+        1.
+          venus maraka
+        2.
+          loss of wealth
+        3.
+          untimely death
+        4.
+          affliction through women
+    50.
+      • shloka: 50
+      • text: For pacification of that disease, one should perform propitiatory rites. For increase of longevity and health, one should give a white cow and a female buffalo in charity.
+      • hindi: उस रोग की शान्ति के लिए शान्तिकर्म करना चाहिए। आयु और आरोग्य की वृद्धि के लिए श्वेत गाय और भैंस का दान करना चाहिए।
+      • gujarati: તે રોગની શાંતિ માટે શાંતિકર્મ કરવું જોઈએ. આયુ અને આરોગ્યની વૃદ્ધિ માટે શ્વેત ગાય અને ભેંસનું દાન કરવું જોઈએ.
+      • keywords:
+        1.
+          white cow
+        2.
+          female buffalo
+        3.
+          longevity
+        4.
+          health
+        5.
+          remedy

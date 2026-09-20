@@ -1,0 +1,2302 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "105__books_index_json",
+    "name": "books_index",
+    "original_file": "books_index.json",
+    "dataset_number": "35 of 455",
+    "format": "json",
+    "source_readable_file": "books_index.txt",
+    "source_sha256": "3fbc09c9bb831e52f31bd9a48516e6e0fc79ddbc4859893169544e8b4853fd41",
+    "source_bytes": 63495
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "file": "03_mar_1996.json",
+          "title": "03. Mar 1996",
+          "creator": "Dr Narayan Dutt Shrimali",
+          "date": "1996-03",
+          "total_pages": 81,
+          "total_words": 31269,
+          "has_text": "Yes"
+        },
+        {
+          "file": "100_nadi_sutras.json",
+          "title": "100 Nadi Sutras",
+          "creator": "Jitender Kumar",
+          "date": "2018-01-03",
+          "total_pages": 74,
+          "total_words": 16660,
+          "has_text": "Yes"
+        },
+        {
+          "file": "71_tantra_sharada_tilaka_tantram_i_sudhakar_malaviya.json",
+          "title": "71. Tantra Sharada Tilaka Tantram I Sudhakar Malaviya",
+          "creator": null,
+          "date": null,
+          "total_pages": 613,
+          "total_words": 150323,
+          "has_text": "Yes"
+        },
+        {
+          "file": "72_tantra_sharada_tilaka_tantram_ii_sudhakar_malaviya.json",
+          "title": "72. Tantra Sharada Tilaka Tantram II Sudhakar Malaviya",
+          "creator": null,
+          "date": null,
+          "total_pages": 653,
+          "total_words": 152190,
+          "has_text": "Yes"
+        },
+        {
+          "file": "adhikarana_saravali_sanskrit_with_chintamani_commentary_by_kumara_vedanta_acharya_pages_partly_damaged_1940.json",
+          "title": "Adhikarana Saravali (Sanskrit) With Chintamani Commentary By Kumara Vedanta Acharya, (Pages Partly Damaged) 1940 - Kabeer Printing Works, Madras",
+          "creator": null,
+          "date": null,
+          "total_pages": 904,
+          "total_words": 176851,
+          "has_text": "Yes"
+        },
+        {
+          "file": "adhikarana_saravali_vedanta_desika_the_philosophy_of_visistadvaita_srinivasa_chari_2008_ocr.json",
+          "title": "Adhikarana-Saravali-Vedanta-Desika-The-Philosophy-of-VisistAdvaita-Srinivasa-Chari-2008-OCR",
+          "creator": null,
+          "date": null,
+          "total_pages": 427,
+          "total_words": 132458,
+          "has_text": "Yes"
+        },
+        {
+          "file": "agastya_samhita.json",
+          "title": "Agastya Samhita",
+          "creator": "Agastya Muni",
+          "date": null,
+          "total_pages": 175,
+          "total_words": 18030,
+          "has_text": "Yes"
+        },
+        {
+          "file": "agni_purana.json",
+          "title": "Agni Purana",
+          "creator": "Apate, Harinarayan",
+          "date": 1967,
+          "total_pages": 570,
+          "total_words": 180495,
+          "has_text": "Yes"
+        },
+        {
+          "file": "agni_purana_nag_publishers.json",
+          "title": "Agni Purana Nag Publishers",
+          "creator": "Nag Publishers",
+          "date": null,
+          "total_pages": 687,
+          "total_words": 212022,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ashtakavarga_bhagya_bindu_by_vinay_aditya_hindi_astrology_illustrated_bengaluru_2023_indian_council_of.json",
+          "title": "Ashtakavarga Bhagya Bindu By Vinay Aditya Hindi Astrology Illustrated Bengaluru 2023 Indian Council Of Astrological Sciences",
+          "creator": "Indian Council Of Astrological Sciences",
+          "date": null,
+          "total_pages": 220,
+          "total_words": 53330,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ashtakavarga_phalit_ki_adhunik_vidhiyan_by_m_s_mehta_and_rajesh_chandra_dadwal_pawan_ballabh_thapaliyal_hindi.json",
+          "title": "Ashtakavarga Phalit Ki Adhunik Vidhiyan By M S Mehta And Rajesh Chandra Dadwal Pawan Ballabh Thapaliyal Hindi Astrology Illustrated New Delhi 2017 Sagar Publications",
+          "creator": "Sagar Publications",
+          "date": null,
+          "total_pages": 212,
+          "total_words": 48204,
+          "has_text": "Yes"
+        },
+        {
+          "file": "asli_prachin_lal_kitab_girdhari_lal_sharma.json",
+          "title": "Asli Prachin Lal Kitab Girdhari Lal Sharma",
+          "creator": "Raju Srivastava",
+          "date": null,
+          "total_pages": 300,
+          "total_words": 94423,
+          "has_text": "Yes"
+        },
+        {
+          "file": "astrology_and_astronomy_software_collection_with_serials_or_crack_contents.json",
+          "title": "Astrology & astronomy software collection_with serials or crack_contents",
+          "creator": null,
+          "date": null,
+          "total_pages": 4,
+          "total_words": 400,
+          "has_text": "Yes"
+        },
+        {
+          "file": "astrology_tuitions_audio_video_contents.json",
+          "title": "Astrology tuitions_audio_video_contents",
+          "creator": null,
+          "date": null,
+          "total_pages": 69,
+          "total_words": 8111,
+          "has_text": "Yes"
+        },
+        {
+          "file": "astronomy_time_history_ayanamsa_contents.json",
+          "title": "Astronomy_time_history_ayanamsa_contents",
+          "creator": null,
+          "date": null,
+          "total_pages": 29,
+          "total_words": 5829,
+          "has_text": "Yes"
+        },
+        {
+          "file": "atharvaveda_samhita.json",
+          "title": "अथर्ववेद",
+          "creator": "अथर्ववेद. Atharvaveda hindi e book",
+          "date": null,
+          "total_pages": 1064,
+          "total_words": 319484,
+          "has_text": "Yes"
+        },
+        {
+          "file": "atharvaveda_samhita_with_the_commentary_of_sayanacharya_vol_ii.json",
+          "title": "Atharvaveda Samhita With The Commentary Of Sayanacharya Vol-ii",
+          "creator": "Pandit,shankar Pandurang",
+          "date": 1895,
+          "total_pages": 837,
+          "total_words": 202735,
+          "has_text": "Yes"
+        },
+        {
+          "file": "b9_5f_hora_sara_ashtavarga_jatak_manuscripts_by_i_am_visionary_tunes.json",
+          "title": "B9-5(F)_Hora Sara Ashtavarga Jatak- Manuscripts by I_AM_VISIONARY_TUNES",
+          "creator": null,
+          "date": null,
+          "total_pages": 36,
+          "total_words": 3836,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas.json",
+          "title": "Bhargava Tantra ( Pancharatra Agama Grantha, With Hindi Commentary) By Kapila Deva Narayan Chowkhamba Krishnadas Academy, Varanasi",
+          "creator": "Chowkhamba Krishnadas Academy, Varanasi",
+          "date": null,
+          "total_pages": null,
+          "total_words": null,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bhavishya_purana_acharya_sriram_sharma.json",
+          "title": "Bhavishya Purana Acharya Sriram Sharma",
+          "creator": "Acharya Sriram Sharma",
+          "date": null,
+          "total_pages": 512,
+          "total_words": 126561,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bhavishya_purana_vol_1_acharya_sriram_sharma.json",
+          "title": "Bhavishya Purana Vol 1 Acharya Sriram Sharma",
+          "creator": "Acharya Sriram Sharma",
+          "date": null,
+          "total_pages": 508,
+          "total_words": 127040,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bhrigu_samhita_concise_version_by_maharishi_bhrigu_and_t_m_rao_astrology_illustrated_delhi_2008_pustak_mahal.json",
+          "title": "Bhrigu Samhita Concise Version By Maharishi Bhrigu And T M Rao Astrology Illustrated Delhi 2008 Pustak Mahal",
+          "creator": "Pustak Mahal",
+          "date": null,
+          "total_pages": 162,
+          "total_words": 67565,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bhrigu_samhita_falita_sarvanga_darshana_by_shri_bhagavana_dasa_mittal_thakura_prasad_and_sons_varanasi.json",
+          "title": "Bhrigu Samhita Falita Sarvanga Darshana By Shri Bhagavana Dasa Mittal Thakura Prasad And Sons Varanasi",
+          "creator": "Thakura Prasad and Sons Varanasi",
+          "date": null,
+          "total_pages": 896,
+          "total_words": 234319,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bhrigu_samhita_phalita_sarvanga_darshana_by_bhagavan_das_mittal_rupesh_takur_prasad_prakashana_varanasi.json",
+          "title": "Bhrigu Samhita Phalita Sarvanga Darshana By Bhagavan Das Mittal Rupesh Takur Prasad Prakashana, Varanasi",
+          "creator": "Rupesh Takur Prasad Prakashana, Varanasi",
+          "date": null,
+          "total_pages": 944,
+          "total_words": 332279,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bhrigu_sutra_siddha_nath_sharma.json",
+          "title": "Bhrigu Sutra - Siddha Nath Sharma",
+          "creator": null,
+          "date": null,
+          "total_pages": 78,
+          "total_words": 13214,
+          "has_text": "Yes"
+        },
+        {
+          "file": "book_1969_liewellyn_a_to_z_horoscope_maker_and_delineator_kp_red_it.json",
+          "title": "Book_1969_Liewellyn_A To Z Horoscope Maker And Delineator_KP red it",
+          "creator": null,
+          "date": null,
+          "total_pages": 798,
+          "total_words": 230343,
+          "has_text": "Yes"
+        },
+        {
+          "file": "books_jyotish_nadi_using_siderial_zodiac_contents.json",
+          "title": "Books_Jyotish + nadi_using siderial zodiac_contents",
+          "creator": null,
+          "date": null,
+          "total_pages": 28,
+          "total_words": 8850,
+          "has_text": "Yes"
+        },
+        {
+          "file": "books_using_tropical_zodiac_contents.json",
+          "title": "Books_using tropical zodiac_contents",
+          "creator": null,
+          "date": null,
+          "total_pages": 59,
+          "total_words": 19979,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bphs_1_rsanthanam.json",
+          "title": "BPHS - 1 RSanthanam",
+          "creator": null,
+          "date": null,
+          "total_pages": 482,
+          "total_words": 128413,
+          "has_text": "Yes"
+        },
+        {
+          "file": "bphs_2_rsanthanam.json",
+          "title": "BPHS - 2 RSanthanam",
+          "creator": null,
+          "date": null,
+          "total_pages": 552,
+          "total_words": 129441,
+          "has_text": "Yes"
+        },
+        {
+          "file": "braj_vilas_saravali_kanpur_1898_naval_kishore_press.json",
+          "title": "Braj Vilas Saravali Kanpur 1898 - Naval Kishore Press",
+          "creator": null,
+          "date": null,
+          "total_pages": 115,
+          "total_words": 3939,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_jataka_bharatiya_phalit_shastra_umesh_puri_gyaneshwar.json",
+          "title": "Brihat Jataka Bharatiya Phalit Shastra - Umesh Puri Gyaneshwar",
+          "creator": null,
+          "date": null,
+          "total_pages": 292,
+          "total_words": 74578,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_jataka_english_translation_b_suryanarain_row_1919_lr.json",
+          "title": "Brihat Jataka English Translation- B Suryanarain Row 1919 LR",
+          "creator": null,
+          "date": null,
+          "total_pages": 274,
+          "total_words": 25211,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_jataka_english_translation_usha_and_sashi.json",
+          "title": "Brihat Jataka English Translation Usha & Sashi",
+          "creator": null,
+          "date": null,
+          "total_pages": 335,
+          "total_words": 91122,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_jataka_of_varaha_mihira_ed_by_venkata_raman_trans_by_surya_narain_rao_1957_bangalore_raman_publications.json",
+          "title": "Brihat Jataka Of Varaha Mihira Ed By Venkata Raman Trans By Surya Narain Rao 1957 Bangalore - Raman Publications",
+          "creator": null,
+          "date": null,
+          "total_pages": 648,
+          "total_words": 163227,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_jataka_of_varahamihira_swami_vijnanananda_mrml.json",
+          "title": "Brihat Jataka of Varahamihira Swami Vijnanananda MRML",
+          "creator": null,
+          "date": null,
+          "total_pages": 423,
+          "total_words": 161804,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_jataka_of_varahamihira_vivrutti_of_bhattolpala_sitaram_jha.json",
+          "title": "Brihat Jataka Of Varahamihira Vivrutti Of Bhattolpala Sitaram Jha",
+          "creator": "Zaqaria Sunder",
+          "date": null,
+          "total_pages": 485,
+          "total_words": 126644,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection.json",
+          "title": "Brihat Jataka Tika By Bhattotpal (Sanskrit MSS, Subject - Jyotish, MSS No. 76) - Gurukul Kangri Collection",
+          "creator": null,
+          "date": null,
+          "total_pages": 9,
+          "total_words": 699,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashar_hora_shastra_ganesh_datt_pathak.json",
+          "title": "Brihat Parashar Hora Shastra - Ganesh Datt Pathak",
+          "creator": null,
+          "date": null,
+          "total_pages": 810,
+          "total_words": 181700,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashar_hora_shastra_of_parashar_muni.json",
+          "title": "Brihat Parashar Hora Shastra of Parashar Muni",
+          "creator": null,
+          "date": null,
+          "total_pages": 710,
+          "total_words": 205944,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashar_hora_shastra_parashar.json",
+          "title": "#U092a#U0930#U093e#U0936#U0930#U0939#U094b#U0930#U093e#U0936#U093e#U0938#U094d#U0924#U094d#U0930 Brihat Parashar Hora Shastra",
+          "creator": null,
+          "date": null,
+          "total_pages": 800,
+          "total_words": 180006,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashar_hora_shastra_suresh_chandra_mishra.json",
+          "title": "Brihat Parashar Hora Shastra Suresh Chandra Mishra",
+          "creator": "Suresh Chandra Mishra",
+          "date": null,
+          "total_pages": 448,
+          "total_words": 109763,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashar_hora_shastra_vol_1.json",
+          "title": "Brihat Parashar Hora Shastra Vol 1",
+          "creator": null,
+          "date": null,
+          "total_pages": 448,
+          "total_words": 106851,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashar_hora_shastra_vol_2.json",
+          "title": "Brihat Parashar Hora Shastra Vol 2",
+          "creator": null,
+          "date": null,
+          "total_pages": 522,
+          "total_words": 154437,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashar_hora_shastram.json",
+          "title": "Brihat Parashar Hora Shastram",
+          "creator": null,
+          "date": null,
+          "total_pages": 716,
+          "total_words": 187909,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_parashara_hora_shastram_of_parashar_muni_with_hindi_commentary_by_pt_shri_ganesh_datta_jyotish.json",
+          "title": "Brihat Parashara Hora Shastram of Parashar Muni With Hindi Commentary By Pt. Shri Ganesh Datta - Jyotish Prakashan, Varanasi",
+          "creator": null,
+          "date": null,
+          "total_pages": 728,
+          "total_words": 188524,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_b_p_mishra.json",
+          "title": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924#U093e Brihat Samhita B.P Mishra",
+          "creator": null,
+          "date": null,
+          "total_pages": 510,
+          "total_words": 137725,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_dr_surkant_jha.json",
+          "title": "Brihat Samhita - Dr-Surkant-Jha",
+          "creator": null,
+          "date": null,
+          "total_pages": 770,
+          "total_words": 189468,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_dr_surkant_jha_2.json",
+          "title": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924#U093e_Brihat_Samhita_Dr._Surkant_Jha",
+          "creator": null,
+          "date": null,
+          "total_pages": 763,
+          "total_words": 189902,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_edited_by_mohan_chatopadhyay_missing_pages_jangamwadi_math.json",
+          "title": "Brihat Samhita Edited By Mohan Chatopadhyay Missing Pages  Jangamwadi Math",
+          "creator": null,
+          "date": null,
+          "total_pages": 252,
+          "total_words": 137130,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_edition_1.json",
+          "title": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924 Brihat Samhita -1",
+          "creator": null,
+          "date": null,
+          "total_pages": 416,
+          "total_words": 97119,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_edition_2.json",
+          "title": "#U092c#U0943#U0939#U0924#U094d#U0938#U0902#U0939#U093f#U0924#U093e Brihat Samhita -2",
+          "creator": null,
+          "date": null,
+          "total_pages": 300,
+          "total_words": 66775,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_edition_3.json",
+          "title": "#U092c#U0943#U0939#U0924#U094d#U0938#U0939#U093f#U0924#U093e Brihat samhita#U00a0_3",
+          "creator": null,
+          "date": null,
+          "total_pages": 318,
+          "total_words": 72339,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_edition_4.json",
+          "title": "#U092c#U0943#U0939#U0924#U094d#U0938#U0939#U093f#U0924#U093e Brihat Samhita -4",
+          "creator": null,
+          "date": null,
+          "total_pages": 433,
+          "total_words": 96969,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_of_sri_varaha_mihira_part_2_with_bhattotpala_commentary_edited_by_dr_krishna_chandra_dvivedi.json",
+          "title": "Brihat Samhita Of Sri Varaha Mihira Part 2 With Bhattotpala Commentary Edited By Dr. Krishna Chandra Dvivedi - Sampurnanand Sanskrit University Varanasi",
+          "creator": null,
+          "date": null,
+          "total_pages": 664,
+          "total_words": 117032,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_of_varaha_mihir_part_1_edited_by_m_ramakrishna_bhat_motilal_banarasidas_delhi.json",
+          "title": "Brihat Samhita Of Varaha Mihir Part 1 Edited By M Ramakrishna Bhat - Motilal Banarasidas, Delhi",
+          "creator": null,
+          "date": null,
+          "total_pages": 625,
+          "total_words": 173441,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_samhita_of_varaha_mihira_by_avadha_vihari_tripathi_varanaseya_sanskrit_vishwavidyalaya.json",
+          "title": "Brihat Samhita of Varaha Mihira by Avadha Vihari Tripathi - Varanaseya Sanskrit Vishwavidyalaya",
+          "creator": null,
+          "date": null,
+          "total_pages": 644,
+          "total_words": 139504,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_stotra_ratnakar_1932_pandurang_javji_mumbai.json",
+          "title": "Brihat Stotra Ratnakar, 1932 Pandurang Javji, Mumbai",
+          "creator": "Pandurang Javji, Mumbai",
+          "date": null,
+          "total_pages": 411,
+          "total_words": 58429,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_stotra_ratnakar_acharya_pandit_shivdutta_shastri.json",
+          "title": "Brihat Stotra Ratnakar Acharya Pandit Shivdutta Shastri",
+          "creator": "eGangotri",
+          "date": null,
+          "total_pages": 490,
+          "total_words": 81034,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_stotra_ratnakar_by_shiva_datt_kavi_khemraj.json",
+          "title": "Brihat Stotra Ratnakar By Shiva Datt Kavi Khemraj",
+          "creator": "Khemraj",
+          "date": null,
+          "total_pages": 427,
+          "total_words": 82966,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_stotra_ratnakar_ed_chaman_lal_gautam_sanskriti_sansthan_bareli.json",
+          "title": "Brihat Stotra Ratnakar Ed Chaman Lal Gautam Sanskriti Sansthan Bareli",
+          "creator": "Sanskriti Sansthan Bareli",
+          "date": null,
+          "total_pages": 472,
+          "total_words": 64581,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_stotra_ratnakar_illustrated_khemraj.json",
+          "title": "Brihat Stotra Ratnakar ( Illustrated) Khemraj",
+          "creator": "Khemraj",
+          "date": null,
+          "total_pages": 510,
+          "total_words": 60652,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_stotra_ratnakar_part_i_1906_khemraj.json",
+          "title": "Brihat Stotra Ratnakar Part I 1906 Khemraj",
+          "creator": "eGangotri",
+          "date": null,
+          "total_pages": 468,
+          "total_words": 45029,
+          "has_text": "Yes"
+        },
+        {
+          "file": "brihat_stotra_ratnakar_partial_garbled.json",
+          "title": "Brihat Stotra Ratnakar Partial Garbled",
+          "creator": "Partial Garbled",
+          "date": null,
+          "total_pages": 338,
+          "total_words": 39869,
+          "has_text": "Yes"
+        },
+        {
+          "file": "chamatkar_chintamani_jatak_granth_pt_mahidhar_sharma.json",
+          "title": "Chamatkar Chintamani Jatak Granth - Pt. Mahidhar Sharma",
+          "creator": null,
+          "date": null,
+          "total_pages": 88,
+          "total_words": 10229,
+          "has_text": "Yes"
+        },
+        {
+          "file": "chamatkari_mantra_aur_siddhiyaan_srivastava.json",
+          "title": "Chamatkari Mantra Aur Siddhiyaan - Srivastava",
+          "creator": null,
+          "date": null,
+          "total_pages": 195,
+          "total_words": 35682,
+          "has_text": "Yes"
+        },
+        {
+          "file": "chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.json",
+          "title": "Chandra Gyana Agama English Translation By Rama Ghose Sanskrit Text Edited By Vrajavallabha Dwivedi Shiva Bharati Shodha Pratishtanam, Varanasi",
+          "creator": "eGangotri",
+          "date": null,
+          "total_pages": null,
+          "total_words": null,
+          "has_text": "Yes"
+        },
+        {
+          "file": "chandrakala_nadi_1.json",
+          "title": "Chandrakala Nadi 1",
+          "creator": null,
+          "date": null,
+          "total_pages": 268,
+          "total_words": 142419,
+          "has_text": "Yes"
+        },
+        {
+          "file": "chandrakala_nadi_2.json",
+          "title": "Chandrakala Nadi 2",
+          "creator": null,
+          "date": null,
+          "total_pages": 296,
+          "total_words": 160657,
+          "has_text": "Yes"
+        },
+        {
+          "file": "chappanna_or_prasana_sastra_b_suryanarain_rao_1946.json",
+          "title": "Chappanna or Prasana Sastra - B Suryanarain Rao 1946",
+          "creator": null,
+          "date": null,
+          "total_pages": 91,
+          "total_words": 25731,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ckn_3.json",
+          "title": "CKN 3",
+          "creator": null,
+          "date": null,
+          "total_pages": 322,
+          "total_words": 191692,
+          "has_text": "Yes"
+        },
+        {
+          "file": "classified_by_topics_contents.json",
+          "title": "classified by topics_contents",
+          "creator": null,
+          "date": null,
+          "total_pages": 340,
+          "total_words": 62020,
+          "has_text": "Yes"
+        },
+        {
+          "file": "damara_tantra_manu_01_04_125_lal_bahadur_shastri_sanskrit_university.json",
+          "title": "Damara Tantra Manu 01 04 # 125 Lal Bahadur Shastri Sanskrit University",
+          "creator": "Lal Bahadur Shastri Sanskrit University",
+          "date": null,
+          "total_pages": 31,
+          "total_words": 3966,
+          "has_text": "Yes"
+        },
+        {
+          "file": "damara_tantra_ram_kumar_rai.json",
+          "title": "266109451 Damara Tantra Ram Kumar Rai",
+          "creator": null,
+          "date": null,
+          "total_pages": 142,
+          "total_words": 29077,
+          "has_text": "Yes"
+        },
+        {
+          "file": "deva_keralam.json",
+          "title": "Deva Keralam",
+          "creator": "R. Santhanam",
+          "date": 1992,
+          "total_pages": 863,
+          "total_words": 506813,
+          "has_text": "Yes"
+        },
+        {
+          "file": "deva_keralam_1_chandrakala_nadi.json",
+          "title": "Deva Keralam 1 Chandrakala Nadi",
+          "creator": null,
+          "date": null,
+          "total_pages": 260,
+          "total_words": 136161,
+          "has_text": "Yes"
+        },
+        {
+          "file": "deva_keralam_2_chandrakala_nadi.json",
+          "title": "Deva Keralam 2 Chandrakala Nadi",
+          "creator": null,
+          "date": null,
+          "total_pages": 296,
+          "total_words": 155948,
+          "has_text": "Yes"
+        },
+        {
+          "file": "dharma_sindhu_by_kashinath_upadhyaya_1904_nirnaya_sagar_press_jangamawadi_math_collection.json",
+          "title": "Dharma Sindhu By Kashinath Upadhyaya 1904 Nirnaya Sagar Press Jangamawadi Math Collection",
+          "creator": "Jangamawadi Math Collection",
+          "date": null,
+          "total_pages": 420,
+          "total_words": 72047,
+          "has_text": "Yes"
+        },
+        {
+          "file": "dharmasindhu.json",
+          "title": "Dharmasindhu",
+          "creator": null,
+          "date": null,
+          "total_pages": 424,
+          "total_words": 105662,
+          "has_text": "Yes"
+        },
+        {
+          "file": "dharmasindhu_srikashinaththopadhyavicharit.json",
+          "title": "Dharmasindhu Srikashinaththopadhyavicharit",
+          "creator": "Digital Library, Mulund",
+          "date": "2007/02/10",
+          "total_pages": 812,
+          "total_words": 212047,
+          "has_text": "Yes"
+        },
+        {
+          "file": "durga_saptashati_tantra_books.json",
+          "title": "Durga_Saptashati - Tantra Books",
+          "creator": null,
+          "date": null,
+          "total_pages": 240,
+          "total_words": 44238,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ekaksharaganapatikavacha_rudrayamalatantra_cgv_pss_0948_1006.json",
+          "title": "ekaksharaganapatikavacha_rudrayamalatantra_-CGV-PSS-0948-1006",
+          "creator": "Chunilal Gandhi Vidyabhavan Surat",
+          "date": null,
+          "total_pages": 6,
+          "total_words": 1833,
+          "has_text": "Yes"
+        },
+        {
+          "file": "encyclopaedia_of_hinduism.json",
+          "title": "Encyclopaedia of Hinduism",
+          "creator": null,
+          "date": 1999,
+          "total_pages": 284,
+          "total_words": 95612,
+          "has_text": "Yes"
+        },
+        {
+          "file": "garuda_mahapurana.json",
+          "title": "Garuda Mahapurana",
+          "creator": "Radhikaramana (Chaukhamba)",
+          "date": "2024-07-15",
+          "total_pages": 1057,
+          "total_words": 329156,
+          "has_text": "Yes"
+        },
+        {
+          "file": "garuda_purana.json",
+          "title": "Garuda Purana",
+          "creator": null,
+          "date": null,
+          "total_pages": 638,
+          "total_words": 233996,
+          "has_text": "Yes"
+        },
+        {
+          "file": "garuda_purana_sankshipt_gita_press.json",
+          "title": "संक्षिप्त गरुडपुराण - Garuda Purana (Sankshipt) Gita Press Gorakhpur",
+          "creator": "Gita Press",
+          "date": null,
+          "total_pages": 634,
+          "total_words": 279310,
+          "has_text": "Yes"
+        },
+        {
+          "file": "gayatri_maha_mantra_swami_kashikananda_giri.json",
+          "title": "Gayatri Maha Mantra - Swami Kashikananda Giri",
+          "creator": null,
+          "date": null,
+          "total_pages": 284,
+          "total_words": 60578,
+          "has_text": "Yes"
+        },
+        {
+          "file": "hora_sara_of_prithuyasas_prof_r_santhanam.json",
+          "title": "Hora Sara of Prithuyasas - Prof R Santhanam",
+          "creator": null,
+          "date": null,
+          "total_pages": 339,
+          "total_words": 86961,
+          "has_text": "Yes"
+        },
+        {
+          "file": "iti_brihat_jataka_by_bhattotpala_ashtaka_varga_adhyaya_and_muhurta_darpana_sanskrit_subject_jyotish_gurukul.json",
+          "title": "Iti Brihat Jataka By Bhattotpala Ashtaka Varga Adhyaya And Muhurta Darpana (Sanskrit, Subject - Jyotish) - Gurukul Kangri Collection",
+          "creator": null,
+          "date": null,
+          "total_pages": 56,
+          "total_words": 2986,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jaimini_sutras.json",
+          "title": "2015.486584.Jaimini-Sutras",
+          "creator": null,
+          "date": null,
+          "total_pages": 219,
+          "total_words": 51840,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jaimini_sutras_2.json",
+          "title": "JAIMINI SUTRAS",
+          "creator": null,
+          "date": null,
+          "total_pages": 99,
+          "total_words": 39307,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jaimini_sutras_b_suryanarain_rao_1949.json",
+          "title": "Jaimini Sutras - B Suryanarain Rao 1949",
+          "creator": null,
+          "date": null,
+          "total_pages": 219,
+          "total_words": 47033,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jaimini_sutras_b_suryanarain_rao_1955.json",
+          "title": "Jaimini Sutras - B Suryanarain Rao 1955",
+          "creator": null,
+          "date": null,
+          "total_pages": 225,
+          "total_words": 46999,
+          "has_text": "Yes"
+        },
+        {
+          "file": "janam_kundali_rachna_evam_phal_vichar.json",
+          "title": "Janam Kundali Rachna Evam Phal Vichar",
+          "creator": null,
+          "date": null,
+          "total_pages": 458,
+          "total_words": 132662,
+          "has_text": "Yes"
+        },
+        {
+          "file": "janma_kundali_by_shri_bharatiya_yogi_1982_bareli_samskruti_samsthan.json",
+          "title": "Janma Kundali by Shri Bharatiya Yogi 1982 Bareli - Samskruti Samsthan",
+          "creator": null,
+          "date": null,
+          "total_pages": 134,
+          "total_words": 30602,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jataka_chandrika_b_suryanarayana_row_1900.json",
+          "title": "Jataka Chandrika - B Suryanarayana Row 1900",
+          "creator": null,
+          "date": null,
+          "total_pages": 88,
+          "total_words": 27219,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jataka_parijata.json",
+          "title": "2015.312156.Jataka-Parijata",
+          "creator": null,
+          "date": null,
+          "total_pages": 682,
+          "total_words": 152953,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jataka_parijata_2.json",
+          "title": "2015.405738.Jataka-Parijata",
+          "creator": null,
+          "date": null,
+          "total_pages": 684,
+          "total_words": 153307,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jataka_parijata_by_daivagya_shri_vaidyanatha_prajnavarddhini_commentary_by_dr_satyendra_mishra_sanskrit_hindi.json",
+          "title": "Jataka Parijata By Daivagya Shri Vaidyanatha Prajnavarddhini Commentary By Dr Satyendra Mishra Sanskrit Hindi Varanasi 2018 - Chowkhamba Sanskrit Series",
+          "creator": null,
+          "date": null,
+          "total_pages": 564,
+          "total_words": 139797,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jataka_parijata_daivjna_vidyanatha_pt_kapileswar_shastri_chaukambha.json",
+          "title": "Jataka Parijata Daivjna Vidyanatha Pt. Kapileswar Shastri Chaukambha",
+          "creator": null,
+          "date": null,
+          "total_pages": 580,
+          "total_words": 196026,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jataka_parijata_with_explanation_of_pt_kapileshvara_shastri_and_vimala_hindi_tika_of_pt_shri_matri_prasad.json",
+          "title": "Jataka Parijata with explanation of Pt. Kapileshvara Shastri and Vimala Hindi Tika of Pt. Shri Matri Prasad Shastri Series No. 10 - Kashi Sanskrit Series",
+          "creator": null,
+          "date": null,
+          "total_pages": 588,
+          "total_words": 202708,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jataka_parijata_with_prajnavardhini_sanskrit_hindi_commentaries_by_daivagya_shri_vaidyanatha_commented_edited.json",
+          "title": "Jataka Parijata With Prajnavardhini Sanskrit Hindi Commentaries By Daivagya Shri Vaidyanatha Commented Edited Translated by Dr Satyendra Mishra Sanskrit Hindi Jyotisha Va",
+          "creator": null,
+          "date": null,
+          "total_pages": 506,
+          "total_words": 108584,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_anil_chawla_a_philosophy_of_astrology_kp_system.json",
+          "title": "Jyotish_Anil Chawla_A Philosophy of astrology_KP system",
+          "creator": null,
+          "date": null,
+          "total_pages": 32,
+          "total_words": 10138,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_applications_of_cuspal_interlinks_part_1_baskaran_banned.json",
+          "title": "Jyotish_Applications of cuspal interlinks part 1_Baskaran_banned",
+          "creator": null,
+          "date": null,
+          "total_pages": 287,
+          "total_words": 45113,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_applications_of_cuspal_interlinks_part_2_baskaran_banned.json",
+          "title": "Jyotish_Applications of cuspal interlinks part 2_Baskaran_banned",
+          "creator": null,
+          "date": null,
+          "total_pages": 299,
+          "total_words": 45628,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_astrologics_of_kaalchakra_baskaran.json",
+          "title": "Jyotish_Astrologics of kaalchakra_Baskaran",
+          "creator": null,
+          "date": null,
+          "total_pages": 427,
+          "total_words": 113127,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_houses_8_and_3_in_advanced_astrology_kp_horary_chatterjee.json",
+          "title": "Jyotish_Houses 8 and 3 in advanced astrology_KP Horary_Chatterjee",
+          "creator": null,
+          "date": null,
+          "total_pages": 404,
+          "total_words": 120955,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_how_k_p_pinpoint_events_prasna_k_hariharan.json",
+          "title": "Jyotish_How K.P. pinpoint events_prasna_K. HARIHARAN",
+          "creator": null,
+          "date": null,
+          "total_pages": 116,
+          "total_words": 23569,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_k_p_astro_iq_easy_test.json",
+          "title": "Jyotish_K.P._Astro IQ_easy test",
+          "creator": null,
+          "date": null,
+          "total_pages": 150,
+          "total_words": 9410,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_k_p_basics_of_nakshatra_padhathi_mk_viswanath.json",
+          "title": "Jyotish_K.P._Basics of nakshatra padhathi_MK Viswanath",
+          "creator": null,
+          "date": null,
+          "total_pages": 294,
+          "total_words": 50609,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_k_p_dynamics_s_naik.json",
+          "title": "Jyotish_K.P. dynamics_S. NAIK",
+          "creator": null,
+          "date": null,
+          "total_pages": 125,
+          "total_words": 17977,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_k_p_how_to_judge_longevity_k_hariharan.json",
+          "title": "Jyotish_K.P._How to judge longevity_K. HARIHARAN",
+          "creator": null,
+          "date": null,
+          "total_pages": 105,
+          "total_words": 22906,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_key_to_learn_k_p_cuspal_system_s_p_khullar.json",
+          "title": "Jyotish_Key to Learn_K.P. cuspal system_S.P. Khullar",
+          "creator": null,
+          "date": null,
+          "total_pages": 315,
+          "total_words": 48494,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_books_magazines_contents.json",
+          "title": "Jyotish_KP books-magazines_contents",
+          "creator": null,
+          "date": null,
+          "total_pages": 6,
+          "total_words": 959,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_kalamsa_and_cuspal_interlinks_s_p_khullar.json",
+          "title": "Jyotish_KP_Kalamsa and cuspal interlinks _S.P. Khullar",
+          "creator": null,
+          "date": null,
+          "total_pages": 415,
+          "total_words": 83949,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_new_dimensions_of_kp_astro_prabhakar.json",
+          "title": "Jyotish_KP_new dimensions of KP astro_Prabhakar",
+          "creator": null,
+          "date": null,
+          "total_pages": 233,
+          "total_words": 33107,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_reader_5_transits_banned.json",
+          "title": "Jyotish_KP.reader 5_transits banned",
+          "creator": null,
+          "date": null,
+          "total_pages": 364,
+          "total_words": 106232,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_sharad_joshi_krishnamurthy_padhdhati.json",
+          "title": "Jyotish_KP_Sharad Joshi_Krishnamurthy padhdhati",
+          "creator": null,
+          "date": null,
+          "total_pages": 95,
+          "total_words": 22621,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing.json",
+          "title": "Jyotish_KP_Sharad Joshi_Nakshatra chintan_part 1_pages missing",
+          "creator": null,
+          "date": null,
+          "total_pages": 51,
+          "total_words": 8841,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_sharad_joshi_nakshatra_light.json",
+          "title": "Jyotish_KP_Sharad Joshi_Nakshatra light",
+          "creator": null,
+          "date": null,
+          "total_pages": 123,
+          "total_words": 28564,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_the_times_horary_astrology_prabhakar.json",
+          "title": "Jyotish_KP_The times_Horary Astrology_Prabhakar",
+          "creator": null,
+          "date": null,
+          "total_pages": 186,
+          "total_words": 35127,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_true_astrology_s_p_khullar.json",
+          "title": "Jyotish_KP_True astrology _S.P. Khullar",
+          "creator": null,
+          "date": null,
+          "total_pages": 310,
+          "total_words": 64649,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_kp_year_book_2010.json",
+          "title": "Jyotish_KP year book 2010",
+          "creator": null,
+          "date": null,
+          "total_pages": 159,
+          "total_words": 37527,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_krishnamurthy_paddhati_bansal.json",
+          "title": "Jyotish_Krishnamurthy paddhati_Bansal",
+          "creator": null,
+          "date": null,
+          "total_pages": 61,
+          "total_words": 14263,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_prashna_kundali_vichar.json",
+          "title": "Jyotish Prashna Kundali Vichar",
+          "creator": null,
+          "date": null,
+          "total_pages": 471,
+          "total_words": 143707,
+          "has_text": "Yes"
+        },
+        {
+          "file": "jyotish_your_true_horoscope_kp_rectification_s_p_khullar.json",
+          "title": "Jyotish_your true horoscope_KP rectification_S.P. Khullar",
+          "creator": null,
+          "date": null,
+          "total_pages": 418,
+          "total_words": 63749,
+          "has_text": "Yes"
+        },
+        {
+          "file": "kali_tantra_shashtra_tantra_books.json",
+          "title": "255457734 - Kali - Tantra - Shashtra - Tantra Books",
+          "creator": null,
+          "date": null,
+          "total_pages": 198,
+          "total_words": 37128,
+          "has_text": "Yes"
+        },
+        {
+          "file": "kalyan_sankshipta_varaha_purana_ankha_editor_motilal_jalan_gorakhpur_1977_gita_press.json",
+          "title": "Kalyan Sankshipta Varaha Purana Ankha Editor Motilal Jalan Gorakhpur 1977 Gita Press",
+          "creator": "Gita Press",
+          "date": null,
+          "total_pages": 518,
+          "total_words": 251064,
+          "has_text": "Yes"
+        },
+        {
+          "file": "karma_vipaka_samhita_tika_and_bhashya_vasti_ram_venkateswara_steam_press.json",
+          "title": "Karma Vipaka Samhita Tika & Bhashya Vasti Ram Venkateswara Steam Press",
+          "creator": "Shakti Bhasin",
+          "date": null,
+          "total_pages": 361,
+          "total_words": 67735,
+          "has_text": "Yes"
+        },
+        {
+          "file": "karma_vipaka_samhita_trans_by_vastirama_2010_delhi_rashtriya_sanskrit_samsthan.json",
+          "title": "Karma Vipaka Samhita Trans By Vastirama 2010 Delhi Rashtriya Sanskrit Samsthan",
+          "creator": "Rashtriya Sanskrit Samsthan",
+          "date": null,
+          "total_pages": 389,
+          "total_words": 78405,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ksu_h1308_saravali0000vsub.json",
+          "title": "ksu.h1308.saravali0000vsub",
+          "creator": null,
+          "date": null,
+          "total_pages": 268,
+          "total_words": 46480,
+          "has_text": "Yes"
+        },
+        {
+          "file": "kurma_puranam_ed_by_mahesh_chandra_josh_1967_varansi_chowkhamba_krishnadas_academy.json",
+          "title": "Kurma Puranam Ed By Mahesh Chandra Josh 1967 Varansi Chowkhamba Krishnadas Academy",
+          "creator": "Chowkhamba krishnadas Academy",
+          "date": null,
+          "total_pages": 832,
+          "total_words": 267857,
+          "has_text": "Yes"
+        },
+        {
+          "file": "laksmi_tantra_a_pancharatra_agama_pandit_v_krishnamacharya.json",
+          "title": "Laksmi Tantra A Pancharatra Agama Pandit V. Krishnamacharya",
+          "creator": "Yogendra Sharma",
+          "date": null,
+          "total_pages": 396,
+          "total_words": 117066,
+          "has_text": "Yes"
+        },
+        {
+          "file": "lal_kitab_1939.json",
+          "title": "लाल किताब १९३९",
+          "creator": "Vidyarthi Lalkitab (Haresh Pancholi)",
+          "date": "2015-01-18",
+          "total_pages": 402,
+          "total_words": 78563,
+          "has_text": "Yes"
+        },
+        {
+          "file": "lal_kitab_ke_adbhut_totke_evam_upay_grahon_ke_kuprabhav_se_bachne_ke_liye_by_dr_umesh_puri_gyaneshwar_hindi.json",
+          "title": "Lal Kitab Ke Adbhut Totke Evam Upay Grahon Ke Kuprabhav Se Bachne Ke Liye By Dr Umesh Puri Gyaneshwar Hindi Astrology Illustrated Haridwar 2002 - Randhir Prakashan",
+          "creator": null,
+          "date": null,
+          "total_pages": 204,
+          "total_words": 50620,
+          "has_text": "Yes"
+        },
+        {
+          "file": "lal_kitab_upay_sahit.json",
+          "title": "LAL KITAB UPAY SAHIT",
+          "creator": null,
+          "date": null,
+          "total_pages": 103,
+          "total_words": 45180,
+          "has_text": "Yes"
+        },
+        {
+          "file": "le_dharmasindhu_ou_ocean_des_rites_religieux_traduit_du_sanscrit_en_anglais_et_commente_par_m_a_bourquin.json",
+          "title": "Le Dharmasindhu; ou, Océan des rites religieux :  traduit du sanscrit en anglais et commente par M.A. Bourquin ; première partie / traduit de l'anglais par L. de Millouè.",
+          "creator": {
+            "_items": [
+              {
+                "_text": [
+                  "Kāshinātha Upādhyāya"
+                ]
+              },
+              {
+                "_text": [
+                  "Bourquin, A"
+                ]
+              }
+            ]
+          },
+          "date": 1884,
+          "total_pages": 132,
+          "total_words": 46469,
+          "has_text": "Yes"
+        },
+        {
+          "file": "magazines_jyotish_vedic_astrology.json",
+          "title": "Magazines_Jyotish-Vedic astrology_",
+          "creator": null,
+          "date": null,
+          "total_pages": 5,
+          "total_words": 676,
+          "has_text": "Yes"
+        },
+        {
+          "file": "magazines_western_tropical_astrology.json",
+          "title": "Magazines_Western-tropical astrology_",
+          "creator": null,
+          "date": null,
+          "total_pages": 7,
+          "total_words": 1415,
+          "has_text": "Yes"
+        },
+        {
+          "file": "maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.json",
+          "title": "Maha Lakshmi Vrata Katha Of Sri Bhavishya Purana Sankshipta Anuvada Ed. By Divine Life Society Rainawari Srinagar Divine Life Society",
+          "creator": "Divine Life Society",
+          "date": null,
+          "total_pages": null,
+          "total_words": null,
+          "has_text": "Yes"
+        },
+        {
+          "file": "maha_shaktishali_tone_totke_and_upaya_of_tantrik_bahal_rajat_prakashan.json",
+          "title": "Maha Shaktishali Tone Totke and Upaya of Tantrik Bahal - Rajat Prakashan",
+          "creator": null,
+          "date": null,
+          "total_pages": 244,
+          "total_words": 86716,
+          "has_text": "Yes"
+        },
+        {
+          "file": "malaviya_dr_sudhakar_2007_ahirbudhnya_samhita_of_the_pancharatra_agama_with_the_sarala_hindi_translation.json",
+          "title": "Malaviya, Dr. Sudhakar ( 2007). ' Ahirbudhnya Samhita Of The Pancharatra Agama With The Sarala Hindi Translation'",
+          "creator": null,
+          "date": null,
+          "total_pages": 705,
+          "total_words": 189701,
+          "has_text": "Yes"
+        },
+        {
+          "file": "malaviya_dr_sudhakar_ed_trans_and_comm_2003_lakshmi_tantram_a_pancharatra_agama_with_sudha_hindi_commentary.json",
+          "title": "Malaviya, Dr. Sudhakar (ed., trans. & comm.) (2003). 'Lakshmi Tantram - A Pancharatra Agama - With Sudha Hindi Commentary'",
+          "creator": "Malaviya, Dr. Sudhakar (ed., trans. & comm.)",
+          "date": 2003,
+          "total_pages": 858,
+          "total_words": 199618,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_anushthan_paddhati.json",
+          "title": "Mantra Anushthan Paddhati",
+          "creator": null,
+          "date": null,
+          "total_pages": 440,
+          "total_words": 80501,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_mahodadhi.json",
+          "title": "Mantra-Mahodadhi",
+          "creator": null,
+          "date": null,
+          "total_pages": 883,
+          "total_words": 232780,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_mahodadhi_sanskrit_hindi.json",
+          "title": "Mantra Mahodadhi, Sanskrit-hindi",
+          "creator": "Swami Brahmavidyananda",
+          "date": "2021-01-01",
+          "total_pages": 905,
+          "total_words": 255117,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_prayog.json",
+          "title": "Mantra Prayog",
+          "creator": null,
+          "date": null,
+          "total_pages": 136,
+          "total_words": 15429,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_sagar_by_rameshwar_jha_tantra_books.json",
+          "title": "296781074 - Mantra - Sagar - by - Rameshwar - Jha - Tantra Books",
+          "creator": null,
+          "date": null,
+          "total_pages": 356,
+          "total_words": 73417,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_shakti.json",
+          "title": "Mantra-Shakti",
+          "creator": null,
+          "date": null,
+          "total_pages": 165,
+          "total_words": 35825,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_shakti_ke_adbhut_chamatkar.json",
+          "title": "Mantra Shakti Ke Adbhut Chamatkar",
+          "creator": null,
+          "date": null,
+          "total_pages": 184,
+          "total_words": 48585,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_shastra_sadhana_aur_sidhiyaan.json",
+          "title": "Mantra Shastra Sadhana Aur Sidhiyaan",
+          "creator": null,
+          "date": null,
+          "total_pages": 448,
+          "total_words": 108713,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_shastra_sadhana_aur_sidhiyaan_acharya_bhaskaranada_lohani.json",
+          "title": "Mantra Shastra Sadhana Aur Sidhiyaan - Acharya Bhaskaranada Lohani",
+          "creator": null,
+          "date": null,
+          "total_pages": 448,
+          "total_words": 98429,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_tantra_yantra_vigyan_july_1981.json",
+          "title": "Mantra Tantra Yantra Vigyan July 1981",
+          "creator": null,
+          "date": null,
+          "total_pages": 47,
+          "total_words": 20112,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_vidya.json",
+          "title": "Mantra-Vidya",
+          "creator": null,
+          "date": null,
+          "total_pages": 239,
+          "total_words": 62348,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_vigyan_hindi_by_govinda_shastri_sadhana_pocket_books_delhi.json",
+          "title": "Mantra Vigyan (Hindi) By Govinda Shastri - Sadhana Pocket Books, Delhi",
+          "creator": null,
+          "date": null,
+          "total_pages": 220,
+          "total_words": 66369,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mantra_yoga.json",
+          "title": "Mantra Yoga",
+          "creator": null,
+          "date": null,
+          "total_pages": 397,
+          "total_words": 113827,
+          "has_text": "Yes"
+        },
+        {
+          "file": "mimamsa_sutras_by_jaimini_commentary_mimamsa_bhashya_by_shabara_svamin_sanskrit_mimamsa_missing_pages_jaimini.json",
+          "title": "Mimamsa Sutras by Jaimini Commentary Mimamsa Bhashya by Shabara Svamin Sanskrit Mimamsa Missing Pages - Jaimini",
+          "creator": null,
+          "date": null,
+          "total_pages": 815,
+          "total_words": 134270,
+          "has_text": "Yes"
+        },
+        {
+          "file": "narad_purana_hindi.json",
+          "title": "Narad Puran - नारद पुराण - हिंदी",
+          "creator": "Sanatan",
+          "date": null,
+          "total_pages": 751,
+          "total_words": 318078,
+          "has_text": "Yes"
+        },
+        {
+          "file": "narad_purana_sankshipt_hindi_gita_press.json",
+          "title": "संक्षिप्त नारद पुराण, केवल हिन्दी - गीताप्रेस",
+          "creator": "Gita Press",
+          "date": null,
+          "total_pages": 770,
+          "total_words": 333901,
+          "has_text": "Yes"
+        },
+        {
+          "file": "narada_samhita_hindi.json",
+          "title": "narada_samhita_hindi",
+          "creator": null,
+          "date": null,
+          "total_pages": 309,
+          "total_words": 48109,
+          "has_text": "Yes"
+        },
+        {
+          "file": "navdurga_dashmaha_vidhya_rahasya_pt_rameshchandra_sharma_tantra_books.json",
+          "title": "Navdurga dashmaha vidhya rahasya  -   - Pt. Rameshchandra Sharma - Tantra Books",
+          "creator": null,
+          "date": null,
+          "total_pages": 859,
+          "total_words": 309350,
+          "has_text": "Yes"
+        },
+        {
+          "file": "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press.json",
+          "title": "Nirnaya Sindhu By Shri Kamalakara Bhatta Mumbai 1901 Nirnaya Sagara Press",
+          "creator": "Nirnaya Sagara Press",
+          "date": null,
+          "total_pages": 508,
+          "total_words": 160014,
+          "has_text": "Yes"
+        },
+        {
+          "file": "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_2.json",
+          "title": "Nirnaya Sindhu By Shri Kamalakara Bhatta Mumbai 1901 Nirnaya Sagara Press",
+          "creator": "Nirnaya Sagara Press",
+          "date": null,
+          "total_pages": 508,
+          "total_words": 160037,
+          "has_text": "Yes"
+        },
+        {
+          "file": "nirnaya_sindhu_chudamani_veni_madhav_dhakal_kamalakara_bhatta_sanskrit_and_nepali_dharmashastra_illustrated.json",
+          "title": "Nirnaya Sindhu Chudamani Veni Madhav Dhakal Kamalakara Bhatta Sanskrit and Nepali Dharmashastra Illustrated Kathmandu 2071 - Vidyarthi Pustak Bhandar",
+          "creator": null,
+          "date": null,
+          "total_pages": 1624,
+          "total_words": 590812,
+          "has_text": "Yes"
+        },
+        {
+          "file": "nirnaya_sindhu_samskrutham.json",
+          "title": "NIRNAYA SINDHU SAMSKRUTHAM",
+          "creator": "वि. रामलिंगेश्वर सुब्रह्मण्य शर्मा",
+          "date": null,
+          "total_pages": 498,
+          "total_words": 136551,
+          "has_text": "Yes"
+        },
+        {
+          "file": "other_documents_not_books.json",
+          "title": "other documents (not books)",
+          "creator": null,
+          "date": null,
+          "total_pages": 120,
+          "total_words": 33129,
+          "has_text": "Yes"
+        },
+        {
+          "file": "p_s_sastri_uttarakaalaamruta_of_kaalidaasa_hindi.json",
+          "title": "[P. S. Sastri] Uttarakaalaamruta of Kaalidaasa - Hindi",
+          "creator": null,
+          "date": null,
+          "total_pages": 266,
+          "total_words": 71481,
+          "has_text": "Yes"
+        },
+        {
+          "file": "phaladeepika.json",
+          "title": "2015.406048.Phaladeepika",
+          "creator": null,
+          "date": null,
+          "total_pages": 438,
+          "total_words": 118412,
+          "has_text": "Yes"
+        },
+        {
+          "file": "phaladeepika_1950.json",
+          "title": "507316-Phaladeepika (1950)",
+          "creator": null,
+          "date": null,
+          "total_pages": 472,
+          "total_words": 109769,
+          "has_text": "Yes"
+        },
+        {
+          "file": "phaladeepika_1st_ed_by_v_subrahmanya_sastri.json",
+          "title": "Phaladeepika 1st Ed. by V Subrahmanya Sastri",
+          "creator": null,
+          "date": null,
+          "total_pages": 436,
+          "total_words": 117702,
+          "has_text": "Yes"
+        },
+        {
+          "file": "phaladeepika_2.json",
+          "title": "Phaladeepika",
+          "creator": "Sastri, V.Subrahmanya",
+          "date": 1950,
+          "total_pages": 473,
+          "total_words": 108946,
+          "has_text": "Yes"
+        },
+        {
+          "file": "phaladeepika_2nd_ed_1950_by_v_subrahmanya_sastri.json",
+          "title": "Phaladeepika 2nd Ed. 1950 by V Subrahmanya Sastri",
+          "creator": null,
+          "date": null,
+          "total_pages": 473,
+          "total_words": 121162,
+          "has_text": "Yes"
+        },
+        {
+          "file": "phaladeepika_ojha.json",
+          "title": "Phaladeepika-Ojha",
+          "creator": null,
+          "date": null,
+          "total_pages": 678,
+          "total_words": 147462,
+          "has_text": "Yes"
+        },
+        {
+          "file": "phaldipika.json",
+          "title": "Phaldipika",
+          "creator": "Ojha, Pandit Gopesh Kumar",
+          "date": 1946,
+          "total_pages": 684,
+          "total_words": 149578,
+          "has_text": "Yes"
+        },
+        {
+          "file": "prasna_marga_1.json",
+          "title": "Prasna Marga 1",
+          "creator": null,
+          "date": null,
+          "total_pages": 278,
+          "total_words": 107270,
+          "has_text": "Yes"
+        },
+        {
+          "file": "prasna_marga_2.json",
+          "title": "Prasna Marga 2",
+          "creator": null,
+          "date": null,
+          "total_pages": 242,
+          "total_words": 97899,
+          "has_text": "Yes"
+        },
+        {
+          "file": "puranic_encyolopaedia_vettem_mani.json",
+          "title": "Puranic Encyolopaedia Vettem Mani",
+          "creator": "Vettem Mani",
+          "date": null,
+          "total_pages": 942,
+          "total_words": 971580,
+          "has_text": "Yes"
+        },
+        {
+          "file": "raman_how_to_judge_horoscope_1.json",
+          "title": "raman-how-to-judge-horoscope-1",
+          "creator": null,
+          "date": null,
+          "total_pages": 311,
+          "total_words": 78188,
+          "has_text": "Yes"
+        },
+        {
+          "file": "raman_how_to_judge_horoscope_2.json",
+          "title": "raman-how-to-judge-horoscope-2",
+          "creator": null,
+          "date": null,
+          "total_pages": 483,
+          "total_words": 117245,
+          "has_text": "Yes"
+        },
+        {
+          "file": "rasarnavakalpa.json",
+          "title": "रसार्णवकल्पः",
+          "creator": "Dr. Nilesh Joshi",
+          "date": "2019-10-25",
+          "total_pages": 156,
+          "total_words": 21659,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ravan_samhita_1.json",
+          "title": "Ravan Samhita-1",
+          "creator": null,
+          "date": null,
+          "total_pages": 63,
+          "total_words": 22937,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ravan_samhita_2.json",
+          "title": "Ravan Samhita 2",
+          "creator": null,
+          "date": null,
+          "total_pages": 124,
+          "total_words": 39335,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ravan_samhita_3.json",
+          "title": "Ravan Samhita 3",
+          "creator": null,
+          "date": null,
+          "total_pages": 245,
+          "total_words": 80919,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ravan_samhita_4.json",
+          "title": "Ravan Samhita 4",
+          "creator": null,
+          "date": null,
+          "total_pages": 115,
+          "total_words": 37329,
+          "has_text": "Yes"
+        },
+        {
+          "file": "ravan_samhita_5.json",
+          "title": "Ravan Samhita 5",
+          "creator": null,
+          "date": null,
+          "total_pages": 48,
+          "total_words": 15340,
+          "has_text": "Yes"
+        },
+        {
+          "file": "role_of_12_signs_in_vastu.json",
+          "title": "Role of 12 Signs in Vastu",
+          "creator": null,
+          "date": null,
+          "total_pages": 2,
+          "total_words": 397,
+          "has_text": "Yes"
+        },
+        {
+          "file": "samarangana_sutradhara_by_sudhkar_malaviya_1981_benaras_chaukhamba.json",
+          "title": "Samarangana Sutradhara By Sudhkar Malaviya 1981 Benaras Chaukhamba",
+          "creator": "Chaukhamba",
+          "date": null,
+          "total_pages": 860,
+          "total_words": 222185,
+          "has_text": "Yes"
+        },
+        {
+          "file": "samarangana_sutradhara_vastushastra_vol_1_prof_pushpendra_kumar.json",
+          "title": "Samarangana Sutradhara Vastushastra Vol. 1 Prof. Pushpendra Kumar",
+          "creator": "Arup Kaul",
+          "date": null,
+          "total_pages": 430,
+          "total_words": 80109,
+          "has_text": "Yes"
+        },
+        {
+          "file": "sankshipta_bhavishya_purana_geeta_press.json",
+          "title": "Sankshipta Bhavishya Purana Geeta Press",
+          "creator": "Geeta press",
+          "date": 1992,
+          "total_pages": 654,
+          "total_words": 280989,
+          "has_text": "Yes"
+        },
+        {
+          "file": "saravali.json",
+          "title": "Saravali",
+          "creator": "Kalyanavarman",
+          "date": 1928,
+          "total_pages": 258,
+          "total_words": 24982,
+          "has_text": "Yes"
+        },
+        {
+          "file": "saravali_of_kalyana_varma_santhanam_r_astrology.json",
+          "title": "Saravali of Kalyana Varma Santhanam R. (Astrology)",
+          "creator": null,
+          "date": null,
+          "total_pages": 352,
+          "total_words": 104827,
+          "has_text": "Yes"
+        },
+        {
+          "file": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.json",
+          "title": "Saravali Of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi Motilal Banarasi Das, Delhi",
+          "creator": null,
+          "date": null,
+          "total_pages": null,
+          "total_words": null,
+          "has_text": "Yes"
+        },
+        {
+          "file": "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_2.json",
+          "title": "Saravali of Shri Kalyana Varma With Kanti Mati Hindi Commentary By Dr. Muralidhar Chaturvedi - Motilal Banarasi Das, Delhi",
+          "creator": null,
+          "date": null,
+          "total_pages": 526,
+          "total_words": 162614,
+          "has_text": "Yes"
+        },
+        {
+          "file": "saravali_subrahmanya_sastry_v_nirnaya_sagar_press_1907.json",
+          "title": "Saravali Subrahmanya Sastry V. Nirnaya Sagar Press 1907",
+          "creator": null,
+          "date": null,
+          "total_pages": 270,
+          "total_words": 46735,
+          "has_text": "Yes"
+        },
+        {
+          "file": "sarva_karma_anushthan_prakash_shabar_mantra.json",
+          "title": "Sarva Karma Anushthan Prakash Shabar Mantra",
+          "creator": null,
+          "date": null,
+          "total_pages": 436,
+          "total_words": 149869,
+          "has_text": "Yes"
+        },
+        {
+          "file": "sarvartha_chintamani_mahidhar_sharma.json",
+          "title": "Sarvartha Chintamani - Mahidhar Sharma",
+          "creator": null,
+          "date": null,
+          "total_pages": 310,
+          "total_words": 78810,
+          "has_text": "Yes"
+        },
+        {
+          "file": "sarvartha_chintamani_panjab_uni.json",
+          "title": "Sarvartha Chintamani - Panjab Uni",
+          "creator": null,
+          "date": null,
+          "total_pages": 188,
+          "total_words": 43050,
+          "has_text": "Yes"
+        },
+        {
+          "file": "sarvartha_chintamani_with_english_translation_b_suryanarayana_row_1899.json",
+          "title": "Sarvartha Chintamani with English Translation - B Suryanarayana Row 1899",
+          "creator": null,
+          "date": null,
+          "total_pages": 293,
+          "total_words": 89925,
+          "has_text": "Yes"
+        },
+        {
+          "file": "sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b.json",
+          "title": "SesvaraMimamsaVedantacharyaCommentaryOnJaiminiSutrasEd.AnantacharyaA.b.",
+          "creator": null,
+          "date": null,
+          "total_pages": 77,
+          "total_words": 24902,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shabar_mantra_sagar_part_1.json",
+          "title": "Shabar Mantra Sagar Part 1",
+          "creator": null,
+          "date": null,
+          "total_pages": 643,
+          "total_words": 217916,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shabar_mantra_sagar_part_2.json",
+          "title": "Shabar Mantra Sagar Part 2",
+          "creator": null,
+          "date": null,
+          "total_pages": 647,
+          "total_words": 210050,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shani_ke_upaya_evam_totke.json",
+          "title": "Shani Ke Upaya Evam Totke",
+          "creator": null,
+          "date": null,
+          "total_pages": 116,
+          "total_words": 28213,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shatpanchasika_vibha_bhattotpala_and_dinanatha_jha_by_prithuyashas_dinanatha_jha_sanskrit_and_hindi_astrology.json",
+          "title": "Shatpanchasika Vibha Bhattotpala And Dinanatha Jha By Prithuyashas Dinanatha Jha Sanskrit And Hindi Astrology Varanasi 1973 Chowkhamba Sanskrit Series Office",
+          "creator": "Chowkhamba Sanskrit Series Office",
+          "date": null,
+          "total_pages": 52,
+          "total_words": 11843,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shiva_puja_stava_shiv_agama_sangha_devkottai_1935_jangamwadi_math_collection.json",
+          "title": "Shiva Puja Stava Shiv Agama Sangha Devkottai 1935 Jangamwadi Math Collection",
+          "creator": "Jangamwadi Math Collection",
+          "date": null,
+          "total_pages": 148,
+          "total_words": 23664,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shree_varaha_purana_01.json",
+          "title": "Shree Varaha Purana 01",
+          "creator": "Purana_01",
+          "date": null,
+          "total_pages": 380,
+          "total_words": 119739,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shree_varaha_purana_02.json",
+          "title": "Shree Varaha Purana 02",
+          "creator": "Purana_02",
+          "date": null,
+          "total_pages": 397,
+          "total_words": 129858,
+          "has_text": "Yes"
+        },
+        {
+          "file": "shri_vayu_maha_puranam_part_1_trans_by_sudhakar_malaviya_2024_varanasi_chowkhamba_krishna_das_academy.json",
+          "title": "Shri Vayu Maha Puranam Part 1 Trans By Sudhakar Malaviya 2024 Varanasi Chowkhamba Krishna Das Academy",
+          "creator": null,
+          "date": null,
+          "total_pages": 492,
+          "total_words": 200664,
+          "has_text": "Yes"
+        },
+        {
+          "file": "siddha_shabar_mantra_ed_by_pramod_kumar_shastri_varanasi_rupesh_thakur_prasad_prakashan.json",
+          "title": "Siddha Shabar Mantra Ed. By Pramod Kumar Shastri Varanasi Rupesh Thakur Prasad Prakashan",
+          "creator": "Rupesh Thakur Prasad Prakashan",
+          "date": null,
+          "total_pages": 310,
+          "total_words": 64270,
+          "has_text": "Yes"
+        },
+        {
+          "file": "siddhanta_saravali_ed_vraj_vallabha_dwivedi.json",
+          "title": "Siddhanta-Saravali-Ed-Vraj-Vallabha-Dwivedi",
+          "creator": null,
+          "date": null,
+          "total_pages": 563,
+          "total_words": 164967,
+          "has_text": "Yes"
+        },
+        {
+          "file": "siddhanta_saravali_of_trilochana_shivacharya_ed_by_sri_vallabha_dvived_varansi_1998_shaiva_bharati_shodha.json",
+          "title": "Siddhanta Saravali of Trilochana Shivacharya Ed. by Sri Vallabha Dvived Varansi 1998 - Shaiva Bharati Shodha Pratishthanam",
+          "creator": null,
+          "date": null,
+          "total_pages": 570,
+          "total_words": 168054,
+          "has_text": "Yes"
+        },
+        {
+          "file": "skanda_purana_kedara_khandam_with_hindi_trans_by_shivanand_nowtiyal_1994_prayag_hindi_sahitya_sammelan.json",
+          "title": "Skanda Purana Kedara Khandam With Hindi Trans By Shivanand Nowtiyal 1994 Prayag Hindi Sahitya Sammelan",
+          "creator": "Hindi Sahitya Sammelan",
+          "date": null,
+          "total_pages": 889,
+          "total_words": 373027,
+          "has_text": "Yes"
+        },
+        {
+          "file": "skandamahapuranam_part_2_chowkhamba_press.json",
+          "title": "Skandamahapuranam. Part 2 ( Chowkhamba Press)",
+          "creator": "Vyasa",
+          "date": null,
+          "total_pages": 1207,
+          "total_words": 400426,
+          "has_text": "Yes"
+        },
+        {
+          "file": "sri_tripurarahasyam_mahatmya_khandam_sanskrit_text_with_english_translation.json",
+          "title": "Śrī Tripurārahasyam (Māhātmya Khaṇḍam) - Sanskrit Text With English Translation",
+          "creator": "T.B. Lakshmana Rao",
+          "date": 2017,
+          "total_pages": 807,
+          "total_words": 225336,
+          "has_text": "Yes"
+        },
+        {
+          "file": "stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr.json",
+          "title": "Stri Jataka or Female Horoscopy - B Suryanarain Rao 1931 LR",
+          "creator": null,
+          "date": null,
+          "total_pages": 90,
+          "total_words": 23895,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta.json",
+          "title": "Surya-Siddhanta",
+          "creator": "Ebenezer Burgess",
+          "date": 1935,
+          "total_pages": 476,
+          "total_words": 213863,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_2.json",
+          "title": "Surya-siddhanta",
+          "creator": null,
+          "date": null,
+          "total_pages": 838,
+          "total_words": 205434,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_3.json",
+          "title": "surya_siddhanta",
+          "creator": null,
+          "date": null,
+          "total_pages": 346,
+          "total_words": 47984,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_a_text_book_of_hindu_astronomy_with_tattvamrita_sanskrit_commentary_by_pt_sri_kapileswara.json",
+          "title": "Surya Siddhanta (A Text Book of Hindu Astronomy) With Tattvamrita Sanskrit Commentary by Pt. Sri Kapileswara Chaudhary, Kashi Sanskrit Series 144, 1946, Banaras - Chaukhamba Sanskrit Series Office, Banaras",
+          "creator": null,
+          "date": null,
+          "total_pages": 312,
+          "total_words": 81866,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_and_siddhanta_siromani_bimala_prasad_sidhhnata_sarasvati_danvir_goswamy_iskon.json",
+          "title": "Surya Siddhanta and Siddhanta Siromani (Bimala Prasad Sidhhnata Sarasvati) Danvir Goswamy ISKON",
+          "creator": null,
+          "date": null,
+          "total_pages": 813,
+          "total_words": 183261,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_of_pt_shri_kapileshwar_shastri_144_kashi_sanskrit_series.json",
+          "title": "Surya Siddhanta of Pt. Shri Kapileshwar Shastri # 144 - Kashi Sanskrit Series",
+          "creator": null,
+          "date": null,
+          "total_pages": 320,
+          "total_words": 82808,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_part_1_with_vigyan_bhashya_mahavira_prasada_srivastava.json",
+          "title": "Surya Siddhanta Part 1 With Vigyan Bhashya Mahavira Prasada Srivastava",
+          "creator": "Mahavira Prasada Srivastava",
+          "date": null,
+          "total_pages": 472,
+          "total_words": 124375,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_prof_ram_chandra_pandey.json",
+          "title": "Surya Siddhanta Prof. Ram Chandra Pandey",
+          "creator": "Arup Kaul",
+          "date": null,
+          "total_pages": 394,
+          "total_words": 99345,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_vigyan_bhashya_khanda_2_by_mahavira_prasad_shrivastava_nagari_press_allahabad.json",
+          "title": "Surya Siddhanta Vigyan Bhashya Khanda 2 by Mahavira Prasad Shrivastava - Nagari Press Allahabad",
+          "creator": null,
+          "date": null,
+          "total_pages": 392,
+          "total_words": 108859,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_with_gudartha_prakash_and_hindi_tika_baldev_prasad_mishra_muradabadi.json",
+          "title": "Surya Siddhanta With Gudartha Prakash And Hindi Tika Baldev Prasad Mishra Muradabadi",
+          "creator": "Baldev Prasad Mishra Muradabadi",
+          "date": null,
+          "total_pages": 270,
+          "total_words": 39601,
+          "has_text": "Yes"
+        },
+        {
+          "file": "surya_siddhanta_with_gudartha_prakashika_sanskrit_tika_and_prakashika_hindi_commentary_by_prof_rama_chandra.json",
+          "title": "Surya Siddhanta With Gudartha Prakashika Sanskrit Tika And Prakashika Hindi Commentary By Prof. Rama Chandra Pandey - Chaukhamba Surabharati Prakashan, Varanasi",
+          "creator": null,
+          "date": null,
+          "total_pages": 412,
+          "total_words": 104911,
+          "has_text": "Yes"
+        },
+        {
+          "file": "tajika_nilakanthi_jyotish_grantha_with_hindi_translation.json",
+          "title": "Tajika-nilakanthi (Jyotish Grantha) with Hindi Translation",
+          "creator": null,
+          "date": "2017-03-18",
+          "total_pages": 288,
+          "total_words": 45138,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_agni_purana_part_1.json",
+          "title": "The Agni Purana, Part 1",
+          "creator": "N. Gangadharan (Translator)",
+          "date": 1954,
+          "total_pages": 322,
+          "total_words": 108460,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_agni_purana_part_2.json",
+          "title": "The Agni Purana, Part 2",
+          "creator": "N. Gangadharan (Translator)",
+          "date": 1954,
+          "total_pages": 362,
+          "total_words": 126689,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_agni_purana_part_3.json",
+          "title": "The Agni Purana, Part 3",
+          "creator": "N. Gangadharan (Translator)",
+          "date": 1954,
+          "total_pages": 226,
+          "total_words": 72588,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_agni_purana_part_4.json",
+          "title": "The Agni Purana, Part 4",
+          "creator": "N. Gangadharan (Translator)",
+          "date": 1955,
+          "total_pages": 338,
+          "total_words": 127308,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_astrological_self_instructor_b_suryanarain_rao_1893.json",
+          "title": "The Astrological Self Instructor - B Suryanarain Rao 1893",
+          "creator": null,
+          "date": null,
+          "total_pages": 224,
+          "total_words": 63288,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_garuda_purana_vol_1.json",
+          "title": "The Garuda Purana  Vol. 1",
+          "creator": "Dutt, M. N.",
+          "date": 1908,
+          "total_pages": 284,
+          "total_words": 83891,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_garuda_purana_vol_2.json",
+          "title": "The Garuda Purana  Vol. 2",
+          "creator": "Dutt, M. N.",
+          "date": 1908,
+          "total_pages": 302,
+          "total_words": 94773,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_garuda_purana_vol_3.json",
+          "title": "The Garuda Purana  Vol. 3",
+          "creator": "Dutt, M. N.",
+          "date": 1908,
+          "total_pages": 284,
+          "total_words": 86544,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_mimasa_kaustubha_416p_jaimini_sutras_sanskrit_1933.json",
+          "title": "5010010008055 - The Mimasa Kaustubha, 416p, Jaimini Sutras, sanskrit (1933)",
+          "creator": null,
+          "date": null,
+          "total_pages": 417,
+          "total_words": 58580,
+          "has_text": "Yes"
+        },
+        {
+          "file": "the_vedic_experience_mantra_manjari_by_raimundo_panikkar_english_and_sanskrit_in_devanagari_script_vedas.json",
+          "title": "The Vedic Experience Mantra Manjari By Raimundo Panikkar English and Sanskrit in Devanagari Script Vedas Illustrated Pondicherry 1983 - All India Books",
+          "creator": null,
+          "date": null,
+          "total_pages": 435,
+          "total_words": 107328,
+          "has_text": "Yes"
+        },
+        {
+          "file": "three_hundred_important_combinations.json",
+          "title": "2015.83552.Three-Hundred-Important-Combinations",
+          "creator": null,
+          "date": null,
+          "total_pages": 154,
+          "total_words": 28178,
+          "has_text": "Yes"
+        },
+        {
+          "file": "uttara_kalamrita_kalidas.json",
+          "title": "uttara-kalamrita-kalidas",
+          "creator": null,
+          "date": null,
+          "total_pages": 166,
+          "total_words": 45118,
+          "has_text": "Yes"
+        },
+        {
+          "file": "uttkalamrita_kalidas_ps_sastri.json",
+          "title": "Uttkalamrita-kalidas-ps-sastri",
+          "creator": null,
+          "date": null,
+          "total_pages": 256,
+          "total_words": 66153,
+          "has_text": "Yes"
+        },
+        {
+          "file": "varaha_purana.json",
+          "title": "Varaha Purana",
+          "creator": "Chaukhamba Prakashan",
+          "date": "2025-05-19",
+          "total_pages": 1152,
+          "total_words": 419619,
+          "has_text": "Yes"
+        },
+        {
+          "file": "varahamihira_brihat_jataka_marele_tratat_de_astrologie_natala.json",
+          "title": "Varahamihira Brihat Jataka ( Marele Tratat De Astrologie Natala)",
+          "creator": null,
+          "date": "1983-12-13",
+          "total_pages": 244,
+          "total_words": 47004,
+          "has_text": "Yes"
+        },
+        {
+          "file": "varahi_brihat_samhita_1933_lakshmi_venkateshwar_press.json",
+          "title": "Varahi Brihat Samhita 1933 - Lakshmi Venkateshwar Press",
+          "creator": null,
+          "date": null,
+          "total_pages": 468,
+          "total_words": 146115,
+          "has_text": "Yes"
+        },
+        {
+          "file": "vishwakarma_prakash.json",
+          "title": "विश्वकर्म प्रकाश Vishwakarma Prakash",
+          "creator": "Abhay Katyayana",
+          "date": null,
+          "total_pages": 168,
+          "total_words": 90233,
+          "has_text": "Yes"
+        },
+        {
+          "file": "vishwakarma_prakash_khemraj.json",
+          "title": "Vishwakarma Prakash Khemraj",
+          "creator": "Khemraj",
+          "date": null,
+          "total_pages": 108,
+          "total_words": 56742,
+          "has_text": "Yes"
+        },
+        {
+          "file": "vivek_chudamani_gita_press_gorakhpur.json",
+          "title": "Vivek Chudamani Gita Press Gorakhpur",
+          "creator": "Gita Press Gorakhpur",
+          "date": null,
+          "total_pages": 188,
+          "total_words": 26085,
+          "has_text": "Yes"
+        },
+        {
+          "file": "vratraj.json",
+          "title": "Vratraj.",
+          "creator": "J.b.lippincott Company New York",
+          "date": 1939,
+          "total_pages": 712,
+          "total_words": 478726,
+          "has_text": "Yes"
+        },
+        {
+          "file": "yantra_chintamani.json",
+          "title": "Yantra Chintamani",
+          "creator": "Baldev Prasad Misra",
+          "date": 1856,
+          "total_pages": 121,
+          "total_words": 24993,
+          "has_text": "Yes"
+        },
+        {
+          "file": "yantra_chintamani_of_damodar_pandit_with_tika_by_baldev_prasad_khemaraj.json",
+          "title": "Yantra Chintamani Of Damodar Pandit With Tika By Baldev Prasad Khemaraj",
+          "creator": "Khemaraj",
+          "date": null,
+          "total_pages": 148,
+          "total_words": 25990,
+          "has_text": "Yes"
+        },
+        {
+          "file": "yantra_geometrie_celesti_tantra_books.json",
+          "title": "yantra - geometrie - celesti - Tantra Books",
+          "creator": null,
+          "date": null,
+          "total_pages": 244,
+          "total_words": 16610,
+          "has_text": "Yes"
+        },
+        {
+          "file": "yantra_sadhana_book_by_sri_yogeshwaranand_sumit_girdharwal.json",
+          "title": "yantra-sadhana-book-by-sri-yogeshwaranand-sumit-girdharwal",
+          "creator": "sumit girdharwal",
+          "date": null,
+          "total_pages": 15,
+          "total_words": 3325,
+          "has_text": "Yes"
+        },
+        {
+          "file": "yantra_shakti_rudra_dev_tripathi.json",
+          "title": "Yantra Shakti - Rudra Dev Tripathi",
+          "creator": null,
+          "date": null,
+          "total_pages": 178,
+          "total_words": 32631,
+          "has_text": "Yes"
+        },
+        {
+          "file": "yantra_siddhi_rahashya_hindi_by_govinda_shastri_new_sadhana_pocket_books_delhi.json",
+          "title": "Yantra Siddhi Rahashya (Hindi) By Govinda Shastri - New Sadhana Pocket Books, Delhi",
+          "creator": null,
+          "date": null,
+          "total_pages": 136,
+          "total_words": 40821,
+          "has_text": "Yes"
+        }
+      ]
+    }
+  }
+}

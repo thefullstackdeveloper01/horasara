@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "074__mantra_tantra_sadhana_laxmi_narayan_sharma_1978_1993_json",
+    "name": "मंत्र-तंत्र साधना",
+    "original_file": "Mantra-Tantra-Sadhana-Laxmi-Narayan-Sharma-1978-1993.json",
+    "dataset_number": "272 of 455",
+    "format": "json",
+    "source_readable_file": "Mantra-Tantra-Sadhana-Laxmi-Narayan-Sharma-1978-1993.txt",
+    "source_sha256": "6274d05c89da7ac6fa363998aead56b47730a80bd269a9b1b1e7217f747a934f",
+    "source_bytes": 30384
+  },
+  "metadata": {
+    "title": "मंत्र-तंत्र साधना"
+  },
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "year": 1978,
+        "type": "प्रथम संस्करण"
+      },
+      {
+        "year": 1982,
+        "type": "द्वितीय संस्करण"
+      },
+      {
+        "year": 1987,
+        "type": "तृतीय पूर्णतः संशोधित संस्करण"
+      },
+      {
+        "year": 1993,
+        "type": "तीव्र पर बढ़ित पर कम्पोजु संस्करण"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+READABLE DATASET
+================================================================================
+Original file: lordshipQuality.json
+Dataset number: 265 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 355 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• KENDRA:
+  1.
+    1
+  2.
+    4
+  3.
+    7
+  4.
+    10
+• TRIKONA:
+  1.
+    1
+  2.
+    5
+  3.
+    9
+• DUSTHANA:
+  1.
+    6
+  2.
+    8
+  3.
+    12
+• ORDINAL_LORD_KEY:
+  1.
+    1st_lord
+  2.
+    2nd_lord
+  3.
+    3rd_lord
+  4.
+    4th_lord
+  5.
+    5th_lord
+  6.
+    6th_lord
+  7.
+    7th_lord
+  8.
+    8th_lord
+  9.
+    9th_lord
+  10.
+    10th_lord
+  11.
+    11th_lord
+  12.
+    12th_lord

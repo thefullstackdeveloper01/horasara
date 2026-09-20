@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "444__westernchart_json",
+    "name": "westernChart",
+    "original_file": "westernChart.json",
+    "dataset_number": "444 of 455",
+    "format": "json",
+    "source_readable_file": "westernChart.txt",
+    "source_sha256": "1eea784dd446babe8d2cec99a69101f041b8042744f779d4f08e64a2db6366cd",
+    "source_bytes": 634
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "WESTERN_SIGN_RULERS_MODERN": {
+        "Aries": "Mars",
+        "Taurus": "Venus",
+        "Gemini": "Mercury",
+        "Cancer": "Moon",
+        "Leo": "Sun",
+        "Virgo": "Mercury",
+        "Libra": "Venus",
+        "Scorpio": "Pluto",
+        "Sagittarius": "Jupiter",
+        "Capricorn": "Saturn",
+        "Aquarius": "Uranus",
+        "Pisces": "Neptune"
+      }
+    }
+  }
+}

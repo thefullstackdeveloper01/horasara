@@ -1,0 +1,3747 @@
+READABLE DATASET
+================================================================================
+Original file: books_using_tropical_zodiac_contents.json
+Dataset number: 37 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 152,313 bytes
+Top-level fields: 11
+Title: Books_using tropical zodiac_contents
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Books_using tropical zodiac_contents
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: classifiedbytopicscontents
+  • total_pages: 59
+  • total_words: 19979
+  • text_quality:
+    • ocr_word_validity_score: —
+    • quality_tier: not_a_book_index_list
+    • note: This file does not contain scripture/book text. It is a personal cloud-drive folder listing (PDF filenames and pcloud.com links) that was mistakenly catalogued as a book. Recommend excluding from the book library or re-filing under a different content type.
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Books_using tropical zodiac link for all books;
+https://my.pcloud.com/publink/show?code=kZNYvLkZUU3wOfbewY7A4CKX55XpLjyipnkV
+root forder; https://my.pcloud.com/publink/show?code=kZ3NcW7Z9Np4EUHYYR8KAibwo1 NqcSmJjODV
+T
+T
+T\
+Ti
+Ti
+Ti
+T
+Ti
+"B
+T
+T
+T
+"B
+T
+■B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A-Z guide Book_Michael Gienger_Healing Crystals.pdf
+A-Z _Book_Michael Gienger_Gem Water_Pre... and Use Crystal Waters for Therapy.pdf
+Astrolabe_Book_Announcement_201 3_July_1 0.pdf
+Book_-300 BC_Aristole_The book of the tr...exander_Hermetic Alchemy & Astrology.pdf
+Book_-320 BC_ Works of Aristotle_cosmology same as vedic.pdf
+Book_-350 BC_Aristotle_On The Heavens.pdf
+Book_1029_AI Biruni_extract_arabic parts.rtfd
+Book_1029_AI Biruni_The Book of lnstructio...n the Elements of the Art of Astrology.pdf
+Book_1 048_AI-Biruni on TRANSITS.pdf
+Book_1100_Abraham Ibn Ezra_The Book of Reasons_medieval Judaism.pdf
+Book_1140_Abraham Ibn Ezra_120 AphorismsforAstrologers.pdf
+Book_1140_Abraham Ibn ezra_Astronomy and Astrology (other volumes missing). pdf
+Book_1140_Abraham Ibn Ezra_The beginning of wisdom.pdf
+Book_1140_Abraham Ibn Ezra_The beginning of wisdom_ebook.pdf
+Book_1140_Abraham Ibn Ezra_Vol3_on Ele...nd Medical Astrology_Arabic_Hebrew.pdf
+Book_1140_Abraham Ibn Ezra_Vol4_on Nativities and Continuous Horoscopy.pdf
+Book_1140_Abraham Ibn Ezra_Vol5_introductions to astrology.pdf
+Book_1 200_The Book of Secrets of Albertu... Stones and Certain Beasts_bad fonts.pdf
+Book_1244_1994_Ramon Lull_Treatise on Astronomy_Book 1.pdf
+Book_1244_1994_Ramon Lull_Treatise on Astronomy_Book 2 to 5.pdf
+Book_1256_Christopher Warnock_Picatrix Liber Atratus Books 1 and 2.pdf
+Book_1256_Christopher Warnock_Picatrix Liber Atratus Books 1 and 2_2009 transl.pdf
+Book_1256_Christopher Warnock_Picatrix Liber Atratus_ Books 3 and 4.pdf
+Book_1256_Picatrix_the goal of the wise_Hashem Atallah transl. from arabic_voL1.pdf
+Book_1 256_Picatrix_the goal of the wise_Hashem Atallah transl. from arabic_voL2.pdf
+Book_1277_1471_Liber Astronomiae_Part 1_Guido Bonatti.pdf
+Book_1277_1471_Liber Astronomiae_Part 2_Guido Bonatti.pdf
+Book_1 300_al-Sufrs Treatise on the Fixed Stars.pdf
+Book_1491_Bonatti on Elections_Treatise 7_Transl. B. N. Dykes.pdf
+Book_1491_Bonatti on lots_Parts_Treatise 8.2_Transl. B. N. Dykes.pdf
+Book_1491_Bonatti on Nativities_Houses_Treatise 9_Transl. B. N. Dykes.pdf
+Book_1491_Bonatti's 146 Considerations_Treatise 5_Transl. B. N. Dykes.pdf
+Book_1494_Angelus-Astrological optics_360 types of ascendants_must read.pdf
+Book_1501_De I'influence medicale des astres sur le corps humain.pdf
+Book_1520_Agrippa_occult philosophy_book 4_Astronomical geomancy.pdf
+Book_1520_Paul Choisnard_The Proofs Of Astral Influence On Man. pdf
+Book_1530_Here begin the compost of Ptolemy.pdf
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 2
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_1 543-1 908_Foster Watson_The zodiacu...e of Marcellus Palingenius Stellatus.pdf
+Book_1545_1953-Michael Servetus_translati...cal_medical and astrological writings.pdf
+Book_1545_Johannes Schoener_On the judg...of nativities_book 1 of 3_Must read.pdf
+Book_1 555-201 4_The Prophecies of Nostradamus_big nest editor.pdf
+Book_1 564_John Dee_The Hieroglyphic Monad.pdf
+Book_1572_Tycho Brahe_the astronomer.pdf
+Book_1581_John Maplet_The diall of destiny.pdf
+Book_1 593_Oger Ferrier_the judgment of nativities_arabic parts.pdf
+Book_1598_Claude Dariot_A Brief and Most Easy Introduction to the Stars.pdf
+Book_1598_Claude Dariot_A Brief and Most ... Introduction to the Stars_Better ed..pdf
+Book_1598_Claude Dariot_Easy Introduction to the Stars.pdf
+Book_1602_Johannes Kepler_Concerning the.. .re certain fundamentals of astrology.pdf
+Book_1602_Kepler_Fundamentals of Astrology.pdf
+Book_1605_Thomas or Leonard Digges_A Pro.. .ion Everlasting of Right Good Effect.pdf
+Book_1605_Thomas or Leonard Digges_A Pr...asting of Right Good Effect_retyped.pdf
+Book_1608_The Geomancy of Christopher Cattan.pdf
+Book_1620_D. Henrion_explication de I'usage de I'astrolabe.pdf
+Book_1633_Paracelsus_Secrets of physick.pdf
+Book_1634_French_Salomon_abrege de I'Astrologie des anciens Rabins_must read.pdf
+Book_1634_Marin Mersenne_Les Preludes de I'harmonie universelle.pdf
+Book_1636_Marin Mersenne_Harmonie universelle.pdf
+Book_1641_John Gadbury_Nauticum Astrologicum_elections for ships-travel.pdf
+Book_1644_Lilly_Supernaturall sights and apparitions.pdf
+Book_1644_William Lilly_A prophecy of the white king.pdf
+Book_1645_Lilly_The starry messenger_eclipses.pdf
+Book_1645_William Lilly_collection of prophecies.pdf
+Book_1647_ Lilly_ grammar of astrology.pdf
+Book_1647_ Lilly_ Horary_Querries.pdf
+Book_1647_ Lilly_ Horary_Querries_comments.pdf
+Book_1647_ Lilly_ Horary_Querries_ebook edition.pdf
+Book_1647_John Partridge_Defectio Geniturarum.pdf
+Book_1647_John Partridge_Defectio Geniturarum_retyped.pdf
+Book_1647_Lilly_ An introduction to Astrology digested.pdf
+Book_1647_Lilly_ An introduction to Astrologyy excerpt.pdf
+Book_1647_Lilly_An Introduction to Astrology_David De Angelis transL.pdf
+Book_1647_Lilly_An introduction to Astrology_full 3 vol-retyped in 1852.pdf
+Book_1647_Lilly_An introduction to Astrology_full 3 voL._original.pdf
+Size
+1.7MB
+
+Page 3
+JR
+Ti
+T
+T
+T
+T
+"B
+T\
+*B
+"B
+Books_using tropical zodiac
+Name Size
+Book_1647_Lilly_An introduction to Astrology_retyped.pdf 1.1 MB
+Book_1647_William Lilly_Christian Astrology_ vol. 1_ partial_retyped.pdf 6.1 MB
+Book_1647_William Lilly_Christian Astrology_appendix.pdf 110 KB
+Book_1647_William Lilly_Christian Astrology_full 3 vol._original.pdf 21.3 MB
+Book_1647_William Lilly_Christian Astrology_full 3 vol._retyped.pdf 12.3 MB
+Book_1647_William Lilly_Worlds catastrophe.pdf 8.9 MB
+Book_1649_V. Weigelius_Astrology Theologised_original.pdf 2.6 MB
+Book_1649_V. Weigelius_Astrology Theologised_retyped.pdf 278 KB
+Book_1650_Christopher Heydon_An astrologi... proving the influenceoftheplanets.pdf 2.1 MB
+Book_1650_Christopher Heydon_An astrolog...he influence of the planets_retyped.pdf 300 KB
+Book_1650_Gaffarel_Talismans_Persia_Jews.pdf 10.9 MB
+Book_1650_in French_Jean-Baptiste Morin. ,.send_physique astronomie astrologie.pdf 3.4 MB
+Book_1650_John Russel_ Predictions on Commonwealth.pdf 1.3 MB
+Book_1650_Placidus de Titis_A Collection of 30 nativities.pdf 3.7 MB
+Book_1651_Agrippa_occult philosophy_in 4 books.pdf 11.9 MB
+Book_1651_Agrippa_occult philosophy_in 4 books_retyped.pdf 1.2 MB
+Book_1651_Culpepers_Semeiotica Uranica_medical astrology.pdf 4.5 MB
+Book_1651_Lilly_Observations on life and ...f Charles 1st_King of England_retyped.pdf 324 KB
+Book_1652_Culpepers_Herbal Dictionary_retyped.pdf 3.7 MB
+Book_1652_Joshua childreyjndago Astrologica.pdf 259 KB
+Book_1652_JoshuaChildrey_lndagoastrologica_retyped.pdf 151 KB
+Book_1652_Lilly_ Easy method of judging eclipses.pdf 976 KB
+Book_1652_Lilly_Annus Tenebrosis_Dark year_eclipses.pdf 2.0 MB
+Book_1 652_Nicholas Culpepper_The fall of monarchy_predicted_Sun eclipse 1 652.pdf 1.8 MB
+Book_1652_The Mag-astro-Mancer or the Magical Astrological diviner.pdf 13.7 MB
+Book_1652_William Lilly_The dangerous conditions of the united provinces.pdf 220 KB
+Book_1652_William Ramesey_The voice of the Starres.pdf 2.7 MB
+Book_1653 edition_William Ramesey_Astrology Restored_full retyped.pdf 7.6 MB
+Book_1653 edition_William Ramesey_Astrology Restored_full.pdf 18.2 MB
+Book_1653 _William Ramesey_Astrology Restored_book 4 only.pdf 3.2 MB
+Book_1 653-1 801_Nicholas Culpepper_The English Physician_herbs.pdf 12.4 MB
+Book_1 653-1 81 4_Nicholas Culpepper_The English Physician_herbs.pdf 10.5 MB
+Book_1653_Culpepers_complete herbal_ retyped.pdf 1.0 MB
+Book_1653_Culpepers_complete herbal_ retyped_2nd version.pdf 1.3 MB
+Book_1 653_Culpepers_complete herbal_vol.1 .pdf 11.4 MB
+Book_1653_Culpepers_complete herbal_voL2.pdf 23.7 MB
+Book_1653_Nicholas Culpeper- The English Physician and Family Dispensatory.pdf 115 KB
+
+Books using tropical zodiac
+Name
+Size
+Ti
+T
+T
+T
+T
+Book_1653_Terry Breverton_Breverton's Complete Herbal.pdf
+Book_1654 edition_William Ramesey_Astrology Restored_full.pdf
+Book_1654_John Gadbury_Horned beast.pdf
+Book_1654_medieval electional _horary.pdf
+Book_1654_Nicholas Culpepper_Opus Astrologicum.pdf
+Book_1654_Nicholas Culpepper_Opus Astrologicum_retyped.pdf
+Book_1654_Nicholas Culpepper_Opus Astrologicum_retyped2.pdf
+Book_1655_Nicholas Culpepper_Astrological Judgment of diseases.pdf
+Book_1655_Paracelsus_supreme mysterie_mystic seals remedies.pdf
+Book_1656_Nicholas Culpepper_Treatise of Aurum portabile_4 elements_planets.pdf
+Book_1656_Samuel Boulton_Medicina magica.pdf
+Book_1656_The Astrological Physician_William Andrews.pdf
+Book_1656_The Astrological Physician_William Andrews_retyped.pdf
+Book_1657_Nicholas Culpepper_Galen's art of Physick.pdf
+Book_1658_John Gadbury_Doctrine of Horary Questions.pdf
+Book_1658_John Gadbury_Doctrine of Horary Questions_retyped.pdf
+Book_1658_John Gadbury_Doctrine of Nativities and horary.pdf
+Book_1658_Nicholas Culpeper_astrologo_medical.pdf
+Book_1658_Nicholas Culpepper_School of physics.pdf
+Book_1 658_Robert Turner_Astrological institutions.pdf
+Book_1659_John Gadbury_Nativity of King Charles.pdf
+Book_1660_Lilly_Monarchy of the nations.pdf
+Book_1661_Jean Baptiste Morin_Astrosynth...l system of horoscope interpretation.pdf
+Book_1661_John Gadbury_Britains royal star.pdf
+Book_1662_John Gadbury_collection of nativities in 60 genitures.pdf
+Book_1663_Jack Adams_Perpetual Almanack.pdf
+Book_1664_Alexander Rosse_The earth not a wandering star.pdf
+Book_1664_Alexander Rosse_The earth not a wandering star_retyped2.pdf
+Book_1664_John Heydon_Theomagia_The temple of wisdom_2/3rd is horary.pdf
+Book_1665_Anthony Griffin_An Astrological Judgement Touching Theft_retyped.pdf
+Book_1665_Anthony Griffin_An Astrologica...ment Touching Theft_retyped_original.pdf
+Book_1665_William Drage_nosonomy_classification of diseases.pdf
+Book_1 665_Wilsford_Natures secrets_stars_calamities.pdf
+Book_1667_John Gadbury_Vox Solis_sun eclipse of june 1666.pdf
+Book_1669_lntroduction to Astrology_John Blagrave.pdf
+Book_1670_William Cock_meteorologiae.pdf
+Book_1671_William Salmon_Synopsis medicinae.pdf
+1.7MB
+File Listing
+Page 4
+
+Books using tropical zodiac
+File Listing
+Page 5
+T
+T
+T
+T
+T
+s
+Name
+Book_1671_William Thrasher_Jubar Astrologicum.pdf
+Book_1673_John Archer_A Compendious Herbal_medical astrology.pdf
+Book_1674_John Gadbury_Astrological Treasury_medical.pdf
+Book_1675 Girolamo Cardano_7 segments of Cardan_full retyped.pdf
+Book_1675 Girolamo Cardano_7 segments of Cardan_full translation.pdf
+Book_1675 Girolamo Cardano_7 segments of Cardan_Lilly_Choice Aphorisms.pdf
+Book_1676_ William L
+Book_1676_ William L
+Book_1676_ William L
+Book_1676_ William L
+Book_1676_ William L
+Book_1676_ William L
+Book_1676_ William L
+lly_Guido Bonatus + Cardan aphorism_retyped_keep it.pdf
+lly_Guido Bonatus +...horism_retyped_with few OCR defects .pdf
+lly_Guido Bonatus _best retyped edition.pdf
+lly_Guido Bonatus _retyped 2nd edition.pdf
+lly_Guido Bonatus.pdf
+lly_Guido Bonatus_original.pdf
+lly_Guido Bonatus_retyped.pdf
+Book_1676_Henry Coley _Clavis Astrologiae Elimata_questions
+Book_1676_Henry Coley_Clavis Astrologiae Elimata_original.pdf
+Book_1676_Henry Coley_Clavis Astrologia...ata_retyped_differentfrom original.pdf
+a Clavis Astrologiae Elimata_ch.20.rtfd
+Book_1676_Henry Coley_Clavis Astrologiae_Planetary Hours extract.pdf
+Book_1676_Lilly_Anima Astrologiae_and aphorism of Cardan 7 segments_original.pdf
+Book_1676_Lilly_Anima_Astrologiae.pdf
+Book_1676_Lilly_Anima_Astrologiae_retyped.pdf
+Book_1676_William Lilly_Anima astrologiae_ebook.pdf
+Book_1676_William Lilly_astrologer's guide.pdf
+Book_1677_Richard Saunders_Astrological Judgment and Practice of Physick.pdf
+Book_1677_William Lilly_Strange news from the east_comets.pdf
+Book_1 679_1 692_John Partridge_Mikropanastron_Questions_elections.pdf
+Book_1679_John Middleton_Practical astrology.pdf
+Book_1679_William Salmon_Horae mathematicae_The soul of astrology.pdf
+Book_1680_Bernard Francis_Nativities and Decumbitures_manuscript.pdf
+Book_1680_John Buttler_Astrology_A Sacred Science.pdf
+Book_1680_Joseph Blagrave_Astrological practice of physick.pdf
+Book_1680_Joseph Blagrave_Astrological practice of physick_retyped.pdf
+Book_1681_John Butler_Tetractys_Anti-astrologica_Judiciary astrology.pdf
+Book_1681_William Lilly_Autobiography.pdf
+Book_1681_William Lilly_Autobiography_original.pdf
+Book_1682_John Gadbury_Works of Wharton_philosopher and astronomer.pdf
+Book_1682_John Gadbury_Works of Wharton_philosopher and astronomer_retyped.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 6
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name Size
+Book_1682_John Holwel_Catastrophe mundi.pdf 2.6 MB
+Book_1 683_John Holwel_Othoman family_nativities.pdf 1.4 MB
+Book_1684_John Gadbury_Cardines coeli_4 most important equinoxes and soltices.pdf 2.2 MB
+Book_1684_John Merrifield_Turks lies and defeat_Sultan Mahomed_Louis XIV_.pdf 1.4 MB
+Book_1684_Richard Kirby_A Diurnal Speculum_Britain chart for 1684 .pdf 1.1 MB
+Book_1684_S. Trigg_Strange and terrible predictions_1684 sun eclipse.pdf 418 KB
+Book_1685_The true prophecies or prognostications of Michel Nostradamus.pdf 26.3 MB
+Book_1686_J. Goad_Astrometeorologica.pdf 19.6 MB
+Book_1687_Richard Kirby_The Marrow of Astrology.pdf 11.2 MB
+Book_1690_AnEnglishherbal.pdf 2.1 MB
+Book_1692_John Partridge_art of astrology.pdf 12.8 MB
+Book_1692_William Salmon_practical Physick.pdf 4.2 MB
+Book_1693_John Axford_Philosophical & Astrological Rare Secrets.pdf 665 KB
+Book_1693_John Partridge_Opus Reformatum.pdf 6.8 MB
+Book_1694_John Wilkins_Mercury or The secret and swift messenger.pdf 1.6 MB
+Book_1 694_William Eland_A Tutor to Astrology.pdf 5.4 MB
+Book_1696_William Hunt_Demonstration of astrology.pdf 1.2 MB
+Book_1697_Richard Ball_ an astro physical compendium_horary_must read copy.pdf 4.0 MB
+Book_1697_Richard Ball_ an astro physical compendium_horary_must read.pdf 4.0 MB
+Book_1697_the 5 Books Of M. Manilius_full_original.pdf 6.9 MB
+Book_1698_lsrael Hibner_Mysterium sigillo... Herbs, Roots and Trees of the Planets.pdf 4.1 MB
+Book_1698_lsrael Hibner_Mysterium sigillo.. .oots and Trees of the Planets_retyped.pdf 515 KB
+Book_1698_lsrael Hibner_Mysterium Sigillorum_planetary herbs.pdf 4.3 MB
+Book_1 700_The Five books of Manilius_con...ient astronomy and astrology_retyped.pdf 683 KB
+Book_1 704_William Eland_A Tutor to Astrology.pdf 1 0.6 MB
+Book_1 71 0_John Gadbury_Nauticum Astrologicum_questions for ships.pdf 1 0.5 MB
+Book_1 71 7_Comte Henry de Boulainviller_Traite d’astrologie.pdf 300 KB
+Book_1 721_William Lilly_Autobiography_King Charles_King James.pdf 9.6 MB
+Book_1 723_Richard Ball_Astrology lmproved.pdf 7.8 MB
+Book_1 732_lsrael Regardie_The Tree of Life_A Study In Magic.pdf 1 .8 MB
+Book_1 739_Reverend P.Dom_extract_Astrologie judiciaire_Egyptian and Arabic.pdf 764 KB
+Book_1 750-201 3_Eli Maor_Trigonometric Delights.pdf 6.3 MB
+Book_1 751_Samuel Croxall_The Secret History of Pythagoras.pdf 81 5 KB
+Book_1 785_Mensforth George_The Young Student's Guide in Astrology.pdf 3.6 MB
+Book_1 786_C. Heydon_The New Astrology_foretelling with aspects.pdf 3.3 MB
+Book_1 789_Placidus de Titus_30 remarkable Nativities_John Cooper.pdf 11.1 MB
+Book_1 789_Placidus de Titus_Supplement.pdf 5.1 MB
+
+Books using tropical zodiac
+File Listing
+Page 7
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+"B
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+T
+Ti
+Ti
+Ti
+T
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Size
+Book_1 789_Sibly_Astronomy_Placidus de Titus.pdf
+Book_1 792_Astrology_The wisdom of Salomon.pdf
+Book_1 792_Heydon_The Wisdom of Solomon_nativities_predictions.pdf
+Book_1 794_Richard Ball_An astro-physical compendium_electional & Prasna.pdf
+Book_1 795_Sibly_Key to Physic and the Occult Sciences_astro after p. 380.pdf
+Book_1 798_John Worsdale_Genethliacal astrology_rectification.pdf
+Book_1800_John Barrett_ An Enquiry into the Origin of the Constellations_Zodiacal.pdf
+Book_1801_Francis Barrett_The magus or celestial intelligence.pdf
+Book_1802_The mathematical and philosophi... of the Right Rev. John Wilkins_VoL1.pdf
+Book_1803_Bartholomew Prescot_Defence of...epresents the earth as being at rest.pdf
+Book_1806_Erra Pater_Prognostication of some diseases.pdf
+Book_1806_Erra Pater_The book of knowled...f the wisdom of the ancients_4 parts.pdf
+Book_1811_Thomas White_Celestial intelligencer.pdf
+Book_1812_P. Swift_Destiny of Europe_Napoleon chart.pdf
+Book_1814_G. Beaumont_Fixed stars_or An analyzation and refutation of astrology.pdf
+Book_1817_freemasons_Celestial Science of Astrology.pdf
+Book_1818_Maya religion and mythology.pdf
+Book_1818_The refutation of all heresies_Hyppolitus_MountAthos_Greece.pdf
+Book_1819_J. Wilson_Dictionary of Astrology_directions_progressions_questions.pdf
+Book_1819_J. Worsdale_Astronomy and Ele...Philosophy_ex. Of Charlotte Augusta.pdf
+Book_1819_James Wilson_A complete dictionnary of Astrology.pdf
+Book_1820_J. Wilson_Setof Astrological ...ination_ascenscion_crepuscule_houses.pdf
+Book_1821_lamblichus_Mysteries of the Egyptians_Chaldeans and Assyrians.pdf
+Book_1823_Lenain_La science cabalistique ou I’artde connaitre les bons genies.pdf
+Book_1824-25_London astrological society_the Spirit of Partridge_charts examples.pdf
+Book_1824_S. Mackey_Mythological Astronomy of the Ancients Demonstrated.pdf
+Book_1825. Merlinus Anglicus_Astrologer of the nineteenth Century.pdf
+Book_1825_Astrologer of the 19th century_geomancy_occult.pdf
+Book_1826_Sibly_part 1_the celestial science of astrology.pdf
+Book_1 826_Sibly_part 2a_Nativities_Horary.pdf
+Book_1826_Sibly_part 2b_Foretelling events_circumstances.pdf
+Book_1826_Sibly_part 3_Astro-Meteorology.pdf
+Book_1826_Sibly_part4_Astrology vs withcraft.pdf
+Book_1826_Sibly_part 4_Astrology vs withcraft_retyped.pdf
+Book_1826_Symmes theory of concentric spheres.pdf
+Book_1828_John Worsdale_Genethliacal astronomy_must read.pdf
+Book_1828_Raphael_Manual of astrology or The Book of the Stars.pdf
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 8
+T
+T
+Ti
+T
+Ti
+T
+Ti
+Ti
+T
+T
+T
+T
+Ti
+Ti
+T
+Name
+Book_1830_T. Oxley_Celestial Planispheres.pdf
+Book_1832_Rupertus Stella_Astrologian's Guide in Horary Astrology.pdf
+Book_1832_W. Mure_Calendar and zodiac o..._use of the zodiac among the Greeks.pdf
+Book_1833-48_Zadkiel_Grammar of Astrology
+Book_1839_Ebn Shemaya_The Star_complete system of astrology.pdf
+Book_Zadkiel_Grammar of Astrology_1 833 ed.pdf
+Book_Zadkiel_Grammar of Astrology_1 849 ed.pdf
+Book_1833_Proctor_the Great pyramid_origin of week-days.pdf
+Book_1834_Raphaels Sanctuary of the astral art_Prasna copy.pdf
+Book_1834_Raphaels Sanctuary of the astral art_Prasna.pdf
+Book_1834_Zadkiel_Tables to be Used in Calculating Nativities.pdf
+Book_1835- kelvin McKready_A Beginners Guide To The Stars.pdf
+Book_1835_M. Hemann_L'astronomie et la meteorologie recreatives.pdf
+Book_1835_Raphael_The familiar astrologer.pdf
+Book_1835_Zuriel_Series of Lectures on the Science of Celestial Philosophy_part 1.pdf
+Book_1836_J. T. Hacket_The student's ass...n astronomy and astrology_phrenology.pdf
+Book_1837_Raphael_A The Manual Of Astrology_book of the stars.pdf
+Book_1838_ Moody T.H._A complete refutation of astrology.pdf
+Book_1838_Julia Seton_Psychology of the Solar Plexus & Subconcious Mind.pdf
+Book_1839_J. D. Parkes_The star_being a co...of theoretical and practical astrology.pdf
+Book_1840_B. Pierce_An Elementary Treatise on Plane Spherical Trigonometry.pdf
+Book_1841_Robert Morey_Horoscopes and the Christian.pdf
+Book_1842_Zadkiel's Legacy _Saturn-Jupiter conjunction of 1842_& Hindu astrology.pdf
+Book_1844_W.J. Simmonite_The Meteorologi... Mundi_Sat.-Jup. conj. for 200 Years.pdf
+Book_1845-51_Simmonite_Prognostications on Revolutions
+Book_Simmonite_Prognostications on Revolutions_1845 ed._better.pdf
+Book_Simmonite_Prognostications on Revolutions_1851 ed.pdf
+Book_Simmonite_Prognostications on Revolutions_1891 ed.pdf
+Book_1845_Carey, George Washington_God-man_the word made flesh_CHAKRAS.pdf
+Book_1847_H. Mattison_elementary astronomy.pdf
+Book_1847_Simmonite_Celestial Philosopher_nativities_vol.1 & 2.pdf
+Book_1847_Simmonite_Mathematical and Astronomical Tables.pdf
+Book_1848_Simmonite_Astro-Philosopher and Meteorologist.pdf
+Book_1848_T. Oxley _Gem of the Astral Sciences.pdf
+Book_1849_Zadkiel_Astrology and the Popish Priestcraft.pdf
+Book_1850_Bowron_Observations on Planet.. .nces in the Production of Epidemics.pdf
+Book_1850_John Bowron_Planetary influences in epidemics and diseases.pdf
+
+Books using tropical zodiac
+File Listing
+Page 9
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_1851-1896_Simmonite_John Story_Horary Astrology_6th ed.pdf
+Book_1851_Hermes_The Astrologer's Vade-Mecum.pdf
+Book_1851_O.M. Mitchell_the orbs of Heaven.pdf
+Book_1851_Simmonite_Horary astrology.pdf
+Book_1854_C.W. Roback_The mysteries of astrology.pdf
+Book_1854_Cooke_A Plea for Urania_A popular sketch of celestial philosophy.pdf
+Book_1855_W.P. Strickland_The astrologer of Chaldea.pdf
+Book_1856_Zadkiel_Astrology as it ls_Not as it Has Been Represented.pdf
+Book_1857_ Egelmann_ Charles F._The USA farmers almanac.pdf
+Book_1860_Max Heindel_Astro-Diagnosis_A Guide To Healing.pdf
+Book_1860_Max Heindel_The Message of Th...tars_Medical Astrology_1 91 3 version.pdf
+Book_1860_Max Heindel_The Message of The Stars_Medical Astrology_original.pdf
+Book_1860_Max Heindel_The Message of Th...dical Astrology_retyped 2nd version.pdf
+Book_1860_Max Heindel_The Message of Th...edical Astrology_retyped with index.pdf
+Book_1860_O.M. Mitchell_Popular astronomy.pdf
+Book_1861_Morris Jastrow_Babylonian-Assyrian Birth-Omens.pdf
+Book_1861_Zadkiel_The handbook of astrology_Vol.1_Questions.pdf
+Book_1862_Christopher Cooke_astrology in a nutshell.pdf
+Book_1862_Frances Rolleston_Mazzaroth_or the Constellations_original.pdf
+Book_1862_Frances Rolleston_Mazzaroth_or the Constellations_retyped.pdf
+Book_1862_Lewis_An Historical Survey of the Astronomy of the Ancients.pdf
+Book_1863-78_C. Cooke_Curiosities of Occult Literature.pdf
+Book_1863_Zadkiel_The handbook of astrology_vol.2_Nativities.pdf
+Book_1865_Earth Not a Globe (Samuel Rowbothan).pdf
+Book_1866 Drummond_CEdipus Judaicus_Siderial-Tropical zodiac.pdf
+Book_1869_R.Shortrede_Azimuth and Hour Angle for Latitude and Declination.pdf
+Book_1870_Broughton_ Luke Dennis_The elements of astrology.pdf
+Book_1871_Elias Colbert_Star studies_What...now of the universe outside the earth.pdf
+Book_1872_Dupuis_Origin of All Religious Worship.pdf
+Book_1872_Heinrich Daath_Medical Astrology.pdf
+Book_1873_C.A. Grimmer_The Voice of stars or the effects.pdf
+Book_1874_Society of biblical archeology_Babylonian astrology.pdf
+Book_1875_Casael_Your Future Foretold.pdf
+Book_1 875_J. Rambosson_Astronomy.pdf
+Book_1875_John H. Tice_Elements of Meteorology_Part2.pdf
+Book_1876_ Proctor_ Richard Anthony_Our place among infinities_essays.pdf
+Book_1876_John Gadbury_Ephemerides of t... Aspects, Eclipses of the Luminaries.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 10
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name Size
+Book_1 877_Anna Johnsonjconoclasm or Astrology of the Bible.pdf 1.2 MB
+Book_1877_Astronomical myths_based on Flammarion's_History of the heavens.pdf 10.2 MB
+Book_1877_J. N.Lockyer_Astronomy.pdf 6.4 MB
+Book_1877_M.S.S. Singh_History Of Nepal.pdf 10.3 MB
+Book_1877_Woolley_Science of the Bible_Hebrew mythology.pdf 10.7 MB
+Book_1 878-201 4_Adrien Peladan_Dernier motdes propheties.pdf 2.6 MB
+Book_1878_R. A. Proctor_The moon_her motions_aspect.pdf 7.9 MB
+Book_1878_R.Ball_Astronomy.pdf 5.6 MB
+Book_1878_Woodwell Hunt_The new idea of astronomy and the sight of the eye.pdf 464 KB
+Book_1879 ed._Raphael_The Guide to Astrology_Vol.2_Genethliacal Astrology.pdf 1.4 MB
+Book_1879_Raphael_A Description of the ...d Degrees of the Zodiac_Raphael_D30.pdf 258 KB
+Book_1880_A.J. Pearce_The Textbook of A...ogy_Vol.2_Book 3_weather guide book.pdf 2.5 MB
+Book_1880_Geoffrey Chaucer_A Treatise on the Astrolabe.pdf 3.8 MB
+Book_1880_Geoffrey Chaucer_The Astrololabes of Samuel Champlain.pdf 316 KB
+Book_1880_Raphael_Artof Talismanic Magic_manuscript.pdf 2.8 MB
+Book_1881_A.J. Pearce_Science of the Stars.pdf 3.0 MB
+Book_1881_Astrology and Health.pdf 5.6 MB
+Book_1881_C.A. Grimmer_The Coming Catastrophe.pdf 5.7 MB
+Book_1881_Cheiro_When Were You Born.pdf 1.2 MB
+Book_1881_G. H.Chambers_A Cycle Of Celestial Objects.pdf 15.8 MB
+Book_1881_Rev.J.H. Broome_Astral origin of the emblems.pdf 432 KB
+Book_1881_Sandford Fleming_The adoption of a prime meridian.pdf 4.1 MB
+Book_1881_Simon Newcomb_Astronomy for High Schools and Colleges.pdf 26.5 MB
+Book_1882_Daniel G. Brinton_The Books of Chilan Balam_Mayan prophecies.pdf 3.8 MB
+Book_1882_J.A. Seiss_Gospel in the Stars or primeval astronomy.pdf 4.0 MB
+Book_1882_John Jasper_The Sun do move_Th... the sun's rotation around the earth.pdf 262 KB
+Book_1882_The Gospel in the Stars_Joseph A Seiss_retyped.pdf 3.5 MB
+Book_1882_W. H. Higgins_the names of the ...stellations_in Latin, Arabic & Hebrew.pdf 2.1 MB
+Book_1883_Charles P. McKeague_lntermediate Algebra with Trigonometry.pdf 7.9 MB
+Book_1883_Raphael's HoraryAstrology_Questionsforfuture.pdf 1.6 MB
+Book_1884_ The Crisis in Egypt & How it Was Foretold.pdf 133 KB
+Book_1885_ August Fischner_The fixed idea of astronomical theory.pdf 584 KB
+Book_1885_ Graves_ P. A._The stellar laws...ng the reproduction of the human race.pdf 468 KB
+Book_1885_Aratos_the Phainomena or heavenly display_constellations in antiquity.pdf 2.9 MB
+Book_1885_Gilman Joslin_Joslin's terrestri...nd celestial globes_solve calculations.pdf 568 KB
+Book_1885_Timothy Harley_Moon Lore_in cultural beliefs.pdf 3.1 MB
+Book_1886_Astrology theologized_Weigel.pdf 3.4 MB
+
+Books using tropical zodiac
+File Listing
+Page 1 1
+Ti
+T
+T
+T
+T
+Name Size
+Book_1886_Collingwood_Astrology in the Apocalypse_Biblical allusions.pdf 1.8 MB
+Book_1886_Henry Thomas_Copernicus.pdf 2.4 MB
+Book_1886_Lilly_Serjeant_Anima astrologiae_The Astrologer's Guide.pdf 1.9 MB
+Book_1886_Z.N.Ragozin_The Story of Chaldea_Mesopotamia_Babylon.pdf 7.4 MB
+Book_1887_ Ptolemaic astro.pdf 3.2 MB
+Book_1887_Broughton_Why I Am An Astrologer.pdf 973 KB
+Book_1887_Hiram E. Butler_Solar Biology.pdf 2.4 MB
+Book_1887_Hiram E. Butler_Solar Biology_original.pdf 8.4 MB
+Book_1887_Hiram E. Butler_Solar Biology_retyped.pdf 1.4 MB
+Book_1887_P. Powley_The Astrologer_Vol.1_Medical remedies_plants.pdf 5.5 MB
+Book_1887_Raphael_The Guide to Astrology_Vol.1_Genethliacal Astrology.pdf 1.2 MB
+Book_1887_Raphael_The Guide to Astrology_Vol.2_Genethliacal Astrology.pdf 1.4 MB
+Book_1887_William Peck_The Constellations and How to Find Them.pdf 2.6 MB
+Book_1888_Lockyer Norman_Elements of Astronomy.pdf 25.5 MB
+Book_1888_P. Powley_TheAstrologer_Vol.2_Medical_birthdays_geomancy.pdf 6.1 MB
+Book_1888_R. A. Proctor_Old and new astronomy.pdf 42.0 MB
+Book_1889_Charles A. Young_A text-book of general astronomy.pdf 1 7.4 MB
+Book_1889_Graves_Evolution and Reprodu... of the human race_progeny_medical.pdf 1.2 MB
+Book_1 889_Hartmann_Principles of Astrological Geomancy.pdf 1.4 MB
+Book_1889_Henry Roberts_The complete prophecies of Nostradamus.pdf 5.9 MB
+Book_1889_P. Powley_The Astrologer_Vol.3.pdf 5.2 MB
+Book_1889_Rosa Baughan_The Influence of the Stars.pdf 7.6 MB
+Book_1889_Rosa Baughan_The Influence of.. .original + chiromangy & Physiognomy.pdf 2.6 MB
+Book_1889_Thomas Burgoyne_The light of Egypt_science of the soul and the stars.pdf 3.0 MB
+Book_1889_Thomas Burgoyne_The light of E...the soul and the stars_vol.1_Medical.pdf 7.2 MB
+Book_1889_Thomas Burgoyne_The light of E...the soul and the stars_vol.2_retyped.pdf 710 KB
+Book_1890_Chaney_PrimerofAstrology.pdf 10.1 MB
+Book_1890_J.L.E. Dreyer_Tycho Brahejife and work.pdf 7.0 MB
+Book_1890_W. J. Simmonite_complete arcana or astral phylosophy.pdf 12.0 MB
+Book_1891_Chas. A. Ward_Oracles of Nostradamus.pdf 5.5 MB
+Book_1891_Raphael's Key to Astrology.pdf 2.0 MB
+Book_1891 Charles A. Ward_Oracles of Nostradamus.pdf 5.1 MB
+Book_1892_ Wolf_ George S_Heavenly planets and the future revealed.pdf 294 KB
+Book_1892_C.W.C Barlow_Elementary Mathe...tical Astronomy_vol.2_good graphics.pdf 18.9 MB
+Book_1892_George Frederick Kunz_Natal Stones_Sentiments and Superstitions.pdf 228 KB
+Book_1892_George Wolf_Heavenly planets and the future revealed.pdf 350 KB
+Book_1892_lsaac Sharpless_Astronomy for...eneral Readers_pictures incomplete .pdf 8.2 MB
+
+Books using tropical zodiac
+File Listing
+Page 1 2
+Ti
+T
+T
+T
+T
+Name
+Book_1892_Karl Anderson_Astrology of the Old Testament.pdf
+Book_1893 Joseph G. Dalton_Spherical basis of Astrology_tables of houses.pdf
+Book_1893_ Parsons_New Light form the Great Pyramid.pdf
+Book_1893_Bullinger_Witness of the Stars.pdf
+Book_1893_Burgess_Notes on Hindu astronomy_extracts.pdf
+Book_1893_Franz Hartmann_Occult Science In Medicine.pdf
+Book_1893_Ormsby_The Law and the Prophe... relation between planets and bodies.pdf
+Book_1893_Pelanca Tita_Solar Horoscopes_features of 12 birth solar signs.pdf
+Book_1894_Camille Flamarion_Popular astronomy.pdf
+Book_1894_Charles Young_A list of books in the Public library on astronomy.pdf
+Book_1894_Eleanor Kirkjnfluence of the Zodiac Upon Human Life.pdf
+Book_1894_Harry Ezekiel Wedeck_Dictionary of astrology.pdf
+Book_1894_J.N. Lockyer_The Dawn of Astronomy_Egyptian study.pdf
+Book_1894_Raphael_Pythoness Of The East_prasna copy.pdf
+Book_1894_Raphael_Pythoness Of The East_prasna.pdf
+Book_1895-2005_Ernst & Johanna Lehner_As...ctorial archive of signs and symbols.pdf
+Book_1 895_Astral Worship_J.H. Hill.pdf
+Book_1895_Dane Rudhyar_The astrological ...he spectrum of individual experience.pdf
+Book_1895_Great Astronomers_retyped.pdf
+Book_1895_the House Of The Hidden Places_EARLY EGYPT.pdf
+Book_1896_The Life of Philippus Theophr...s Bombast_Paracelsus_Franz Hartmann.pdf
+Book_1896_W.Upton_Star Atlas Containing Stars Visible to the Naked Eye.pdf
+Book_1897_ Judkins_ Benjamin_Facts of science_ new and ancient knowledge.pdf
+Book_1897_Benjamin Judkins_Facts of science, new and ancient knowledge.pdf
+Book_1897_Ellen Bennett_Astrology_Science of Knowledge and Reason.pdf
+Book_1897_Guide pour rendre propice l'e...que homme_from Corean_chinese astro.pdf
+Book_1897_Thomas Burgoyne_The language of the stars_A primary course.pdf
+Book_1898_ Vale_Lessons in astrology.pdf
+Book_1898_J.Mac Donald_How to Succeed.pdf
+Book_1898_Margaret Mayo_Our fate-the zodiac.pdf
+Book_1898_R. Sewell_Eclipses Of The Moon In lndia_300 AD to 1900.pdf
+Book_1899_ Graves P. A_Stellar dust.pdf
+Book_1899_ Merton_ Holmes Whittier_Heliocentric astrology_banned.pdf
+Book_1899_Bernadette Brady_Brady's Book of Fixed Stars.pdf
+Book_1899_Bouche LeclercqJ'astrologie Grecque.pdf
+Book_1899_Hingston James_Gospel of the stars.pdf
+Book_1899_Occultism Simplified - W Whitehead.pdf
+Size
+1.6MB
+1.6MB
+
+Books using tropical zodiac
+T
+Ti
+T
+T
+Ti
+T
+T
+T
+Ti
+Name
+Book_1899_R.Brown_Researches Into the Ori...of the Primitive Constellations vol. 1.pdf
+Book_1899_R.Brown_Researches Into the Ori...of the Primitive Constellations voL2.pdf
+Book_1899_Richard Hinckley Allen_Star Names and Their Meanings.pdf
+Book_1899_White Frank & Hollingsworth_A Treatise on medical astrology.pdf
+Book_1 900-201 0_Samael Aun Weor_Practical Astrology.pdf
+Book_1900_ Brief History of Astrology.pdf
+Book_1900_ Hippocrates Junior_ pseud_The Predicted Plague.pdf
+Book_1900_ Howard Sasportas_The twelwe Houses.pdf
+Book_1900_Alexander del mar_The worship of Augustus Caesar.pdf
+Book_1900_Alice Bailey & Djwhal Khul_Esoteric Astrology.pdf
+Book_1900_C.O. Carter_Some Principles Of Horoscopic Delineation.pdf
+Book_1900_John Watts_Algol_Mizar stars_Tychonic System.pdf
+Book_1900_Magicians and astrologers of Nineveh and Babylon vol.2_omens.pdf
+Book_1900_Samael Aun Weor_Esoteric Treatise of Hermetic Astrology_12 signs.pdf
+Book_1900_The esoteric ephemeris for sol...lculated for mean noon at Washington.pdf
+Book_1900_Weber_A study of the heavens_by aid of the Hymalaya wonder wheel.pdf
+Book_1901 Joseph G. Dalton_The sixteen principal stars_ & positions_1824_1948.pdf
+Book_1901_ Walker_ Charlotte Abell_Under a lucky star.pdf
+Book_1901_Albert Raphael_Earthology.pdf
+Book_1901_Francis williams_The wise men. ..were and how they came to Jerusalem.pdf
+Book_1901_George Wilde_Chaldean astrology.pdf
+Book_1901_lrene Smith_The science of Palm...y and its relations to astrology_MUST.pdf
+Book_1901_J. F. Hewitt_History and chronology of the myth-making age.pdf
+Book_1901_Jermain G. Porter_The Stars in Song and Legend.pdf
+Book_1901_Sepharial_Prognostic astronomy.pdf
+Book_1902_ Webber_Astrology in a Nutshell.pdf
+Book_1902_Bhakti Seva_The Hindu Book of Astrology_Western signs_original.pdf
+Book_1902_Bhakti Seva_The Hindu Book of Astrology_Western signs_retyped.pdf
+Book_1902_lrene M. Smith_The science of p... relations to astrology and phrenology.pdf
+Book_1902_Webber_Astrology in a Nutshell_ebook ed.pdf
+Book_1903-Boer_History Of Philosophy Of lslam.pdf
+Book_1903_A. H. Sayce_The Religions of Ancient Egypt and Babylonia.pdf
+Book_1903_Alvidas_Science And Key Of Life_Vol.1 of 7_proof of yuga cycles.pdf
+Book_1903_Alvidas_Science And Key Of Life_Vol.2 of 7.pdf
+Book_1903_Alvidas_Science And Key Of Life_Vol.3 of 7.pdf
+Book_1903_Alvidas_Science And Key Of Life_Vol.4 of 7.pdf
+Book_1903_Alvidas_Science And Key Of Life_Vol.5 of 7.pdf
+Size
+1.6MB
+File Listing
+Page 13
+
+Books using tropical zodiac
+File Listing
+Page 14
+Name
+Size
+Ti
+T
+T
+T
+T
+Book_1903_Alvidas_Science And Key Of Life_Vol.6 of 7.pdf
+Book_1903_Alvidas_Science And Key Of Life_Vol.7 of 7.pdf
+Book_1903_Emmeline M. Plunket_Ancient Calendars and Constellations.pdf
+Book_1903_George Comstock_A Text-book of Astronomy.pdf
+Book_1903_H.S. Green_Theoretical astrology.pdf
+Book_1903_I.Thodhunter_Spherical Trigonometry_For College And Schools.pdf
+Book_1903_Richard A Proctor_Myths and Marvels of Astronomy.pdf
+Book_1903_Simon Newcomb_The Reminiscences of an Astronomer.pdf
+Book_1904_E. Walter Maunder_Astronomy Without a Telescope.pdf
+Book_1904_Fredrick White_A Guide to Astrology.pdf
+Book_1904_Your future_the zodiac's guide to success in life_Lela Omar.pdf
+Book_1905_ M.M.Macgregor_Astrology_the influence of the stars.pdf
+Book_1905_Benjamin Loomis_Science and Religion_medical astro.pdf
+Book_1905_Oliver Lodge_Pioneers of science_astronomy.pdf
+Book_1905_Raphael_The Guide to Astrology full edition_Genethliacal.pdf
+Book_1905_Turnbull_Coulson_The divine language of celestial correspondences.pdf
+Book_1906_Alan Leo_The horoscope in detail.pdf
+Book_1906_The Progressed Horoscope_Alan Leo. pdf
+Book_1906_The Progressed Horoscope_Ala...2_extracts_primary directions-done.pdf
+Book_1907_A field book of the stars_astronomy.pdf
+Book_1907_G. E. Mitton_The Children's Book Of Stars.pdf
+Book_1907_Martha Evans Martin_The Friendly Stars.pdf
+Book_1907_Martha Evans Martin_The Friendly Stars_retyped.pdf
+Book_1907_Robert Fludd_Traite d'Astrologie Generale.pdf
+Book_1907_Tyler Olcott_A Field book of the Stars.pdf
+Book_1908_ Astrology the key to roulette_game with planetary hours.pdf
+Book_1908_ Magnus_Superstition in Medicine.pdf
+Book_1908_E.M. Plunket_The Judgment of Paris_GreekGods.pdf
+Book_1908_E. Walter Maunder_The astronomy of the Bible_original.pdf
+Book_1908_E. Walter Maunder_The astronomy of the Bible_retyped.pdf
+Book_1908_Garret P. Serviss_Astronomy with the naked eyes.pdf
+Book_1908_Geoge F. Chambers_The Story of the Stars.pdf
+Book_1908_J.R. Phelps_Our astrological birthday book_character readings.pdf
+Book_1909_Alan Leo_Astrological manuals No. 7_Horaryastrology.pdf
+Book_1909_Gladys Dickson_A Jerusalem Christian treatease on astrology.pdf
+Book_1909_Marriage Ceremonies_ In India and orient.pdf
+Book_1 91 0-201 3_Anthony Louis_The Annot...hael's Mundane Astrology_must read.pdf
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 1 5
+Ti
+T
+T
+T
+T
+Name Size
+Book_1910_A. Anthiaume_L'Astrolabe-quadrant.pdf 4.3 MB
+Book_1910_Alan Leo_Astrology for AIM 910 ed._full.pdf 15.2 MB
+Book_1910_Alan Leo_Astrology for AILpartial but elaborate version.pdf 3.0 MB
+Book_1910_H.S. Green/ Alan Leo_Astrologic...als No. 7_The reason why in astrology.pdf 7.3 MB
+Book_1910_James Donnel Keifer_The true system of marriage.pdf 367 KB
+Book_1910_Rev. George V. Leahy_Astronomical essays_from Bible viewpoint.pdf 3.2 MB
+Book_1911_A.R. Parsons_The Road map of the stars.pdf 1.9 MB
+Book_1911_Alain Leo_Mundane or National Astrology.pdf 2.5 MB
+Book_1911_Cumont_Astology & Religion Among the Greeks and Romans.pdf 4.8 MB
+Book_1911_Maria King_The new astronomy and laws of nature.pdf 2.6 MB
+Book_1911_Max Heindel_The Rosicrucian Cosmo-Conception.pdf 7.6 MB
+Book_1911_William Tyler Olcott_Star Lore of All Ages.pdf 22.1 MB
+Book_1 91 2-201 6_Martha Evans Martin_The Ways of the Planets.pdf 1.2 MB
+Book_1912_Astrological gleanings_George Llewellyn.pdf 2.3 MB
+Book_1912_French_Abbe Fernand Cabrol-La Reforme du Breviaire etdu calendrier.pdf 1.4 MB
+Book_1 91 2_Sepharial_Cosmic Symbolism.pdf 1.8 MB
+Book_1912_Sepharial_Kabalistic Astrology.pdf 3.3 MB
+Book_1912_Thurston_Omens and superstition in Southern lndia.pdf 3.6 MB
+Book_1913_Alan Leo_Esoteric Astrology.pdf 6.9 MB
+Book_1913_C.A.Mercier_Astrology in Medicine_Fitzpatrick Lectures.pdf 930 KB
+Book_1913_Harold Jacoby_Astronomy.pdf 17.2 MB
+Book_1913_J.F. Leroy_Social science in the light of the solar system.pdf 3.0 MB
+Book_1 91 3_The Stars and Their Stories.pdf 9.9 MB
+Book_1913_Wallis Budge_Syrian anatomy pathology and therapeutics_voL2.pdf 10.4 MB
+Book_1914_ Phillips_ Karen M_planets influe.. .ildren at birth_planetary hour at birth.pdf 216 KB
+Book_1914_A day in the moon_Abbe Th. Moreux.pdf 2.8 MB
+Book_1914_Mathematical recreations and essays.pdf 20.0 MB
+Book_1914_Sepharial_A manual of occultism.pdf 3.9 MB
+Book_1914_Sepharial_A manual of occultism_retyped.pdf 617 KB
+Book_1914_Sepharial_The great devastation_prophecy for Europe.pdf 292 KB
+Book_1914_Stellar movements and the structure of the Universe_A. S. Eddington.pdf 6.1 MB
+Book_1915_ Bernart_ Leo_Ogilvie's astrological birthday book.pdf 845 KB
+Book_1915_Alan Leo_Mars the War Lord.pdf 2.0 MB
+Book_1915_David Nutt_An Irish Corpus Atronomiae.pdf 3.6 MB
+Book_1915_E. W. Hopkins_Epic Mythologyjndian Gods.pdf 9.4 MB
+Book_1915_Fifty Reasons_Copernicus or the Bible.pdf 427 KB
+Book_1915_Prophecies Of Paracelsus.pdf 864 KB
+
+Books using tropical zodiac
+File Listing
+Page 16
+Name
+Size
+Ti
+T
+T
+T
+T
+Book_1915_Ptolemy's catalogue of stars_form Almagest.pdf
+Book_1 91 5_Sepharial_Directional Astrology_maths.pdf
+Book_1915_Sepharial_Eclipses_Astronomically and Astrologically.pdf
+Book_1916_Alan Leo_Saturn the reaper.pdf
+Book_1917_Alan Leo_1001 Notable Nativities.pdf
+Book_1917_Alan Leo_Jupiter_the preserver.pdf
+Book_1917_Astrology_lts Technics and Ethics.pdf
+Book_1917_George W. Carey_The tree of life.pdf
+Book_191 7_Jane Evans_Twelve doors to the soul_astrology of the inner self.pdf
+Book_1917_John Hazelrigg_Astrosophic pr...cope of Declaration of independence.pdf
+Book_1917_Primary Directions in Astrology Made Easy_Sepharial.pdf
+Book_1917_Primary Directions in Astrology Made Easy_Sepharial_retyped.pdf
+Book_1917_S. Randall_An abc of the Old Science of Astrology.pdf
+Book_1917_Tereze Zalinski_Noted prophecies_predictions omens and legends.pdf
+Book_1918_G.R. Kaye_The Astronomical Observations Of Jai Singh.pdf
+Book_1919_ Heindel_Simplified scientific tables of houses.pdf
+Book_1919_Bessie Leo_The Life and Work of Alan Leo Theosophist.pdf
+Book_1919_Florence Marie Grimm_Astronomical Lore in Chaucer.pdf
+Book_1919_Frank C. Higgins_The cross of the magi_sarvatobhadra.pdf
+Book_1919_H. Macpherson_Practical Astronomy With The Unaided Eye.pdf
+Book_1919_L.W. King_A History Of Babylon.pdf
+Book_1919_Ludwig B. Larsen_key to the Bible and Heaven.pdf
+Book_1919_Ludwig B. Larsen_key to the Bible and Heaven_original.pdf
+Book_1919_Max Heindel_Astrology and the Ductless Glands.pdf
+Book_1919_Max Heindel_Simplified Scientific Astrology.pdf
+Book_1919_Max Heindel_Simplified Scientific Astrology_original.pdf
+Book_1919_Neville Spearman_Everyman's Astrology.pdf
+Book_1919_Ormsby_The sages key to character at sight.pdf
+Book_1919_Willis I MihamJHowTo Identify The Stars.pdf
+Book_1920_A.F.Seward_Planting_Harvesting and Surgical Operations_with Moon.pdf
+Book_1920_Alan Leo_The Key To Your Own Nativity.pdf
+Book_1920_God-man_the word made flesh.pdf
+Book_1920_Martin P. Nilson_Primitive time reckoning.pdf
+Book_1920_Theodore Wedel_The Mediaeval Attitude toward Astrology.pdf
+Book_1921_CHAHAR MAQALA_some arabic astrology.pdf
+Book_1921_D.N. Mallik_The Elements of astronomy.pdf
+Book_1921_Edward Luther Stevenson_Terrestrial and Celestial Globes_VoL2.pdf
+1.0MB
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 1 7
+Ti
+T
+T
+T
+T
+Name
+Book_1921_J.C. Crowther_Six GreatAstronomers.pdf
+Book_1922_ Devos Trix_Stars of destiny_ the ancient science of astrology.pdf
+Book_1922_ George Llewellyn_The astrologer's searchlight.pdf
+Book_1922_lsabel Martin Lewis_Astronomy for Young Folks.pdf
+Book_1922_lsodore Kozminsky_The magic a...ence of jewels and stones_good book.pdf
+Book_1922_Joan Evans_Magical jewels of the middle ages.pdf
+Book_1922_Magnus Jensen_Everybodys Astrology.pdf
+Book_1922_W. Thomas_Kate Pavitt_Book of Talismans_Amulets and Zodiacal Gems.pdf
+Book_1923_Belle Bart_Thru the stars to success.pdf
+Book_1923_Charles Carter_Encyclopaedia Of Psychological Astrology.pdf
+Book_1923_Colson Turnbull_The solar logos_or Studies in arcane mysticism.pdf
+Book_1923_Eugene L. Richards_Elementary...n Navigation and Nautical Astronomy.pdf
+Book_1923_l. Edward Clark_The Royal Secret.pdf
+Book_1923_Reginald C. Couzens_The stories of the months and days.pdf
+Book_1923_Vivian Robson_The Fixed Stars And Constellations_MUST read.pdf
+Book_1924_Hora_A.E. Partrige_Fortunate Hours.pdf
+Book_1924_Hora_Gregorius_The Master Key Of Destiny_ancient Hora.pdf
+Book_1924_R. Sewell_The siddhantas and the Indian calendar.pdf
+Book_1924_Sepharial_The law of values_stock and share fluctuations.pdf
+Book_1925_Carter, Charles E. 0._The principles of astrology.pdf
+Book_1925_Sepharial_The Solar Epoch_twins birth.pdf
+Book_1926_Chaucer and the mediaeval sciences_Walter Clyde Curry.pdf
+Book_1927_Rose Murray _When will you marr...stiny through astrology_arabic parts.pdf
+Book_1927_W. Frankland_Astrological lnvestigations.pdf
+Book_1928_A Guide To The Constellations.pdf
+Book_1928_Garret P. Serviss_Round the year with the stars.pdf
+Book_1928_James L. Hicks_The Aquarian age_astronomy and astrology.pdf
+Book_1928_L. Edward Johndro_The Stars_How And Where They lnfluence.pdf
+Book_1928_Manly P.Hall_The Secret Teaching of All Ages.pdf
+Book_1928_Manly P.Hall_The Secret Teaching of All Ages_2nd.Part.pdf
+Book_1928_Transits_What days favor You_Reinhold Ebertin.pdf
+Book_1928_W. Frankland_New Measures In ...logy_A Symbolic Basis in Directions.pdf
+Book_1928_W.Frankland_New Measures In Astrology.pdf
+Book_1929_Bailey_Astrology and birth control.pdf
+Book_1929_C.S.J. Thompson_The mystery and romance of astrology.pdf
+Book_1929_E. H. Bailey_astrological birth control.pdf
+Book_1929_L .Edward Johndro_The Earth In The Heavens_Ruling Degrees of Cities.pdf
+Size
+1.0MB
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 18
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_1930_Albertus Magnus_Medical_Egypt...ite and Black Art for Man and Beast.pdf
+Book_1930_Astronomicon_vol.2_M.Manilli.pdf
+Book_1930_Astronomicon_vol.3_M.Manilli.pdf
+Book_1930_Astronomicon_vol.4_M.Manilli.pdf
+Book_1930_Astronomicon_vol.5_M.Manilli.pdf
+Book_1930_Evangeline Adams_Your Place Among the Stars.pdf
+Book_1930_How planets affect you_George Llewellyn.pdf
+Book_1930_O.H.W. Owen_The Primary Progressed Horoscope.pdf
+Book_1930_Robert de Luce_Rectification Of The Horoscope.pdf
+Book_1930_Vivian E Robson_Radix System.pdf
+Book_1931_Cheiro's World predictions.pdf
+Book_1931_Vasant G.Rele_The Mysterious Kundalini.pdf
+Book_1931_W.M. Smart_Text-book on spherical astronomy.pdf
+Book_1932_A.C. Mukerji_Ancient Indian fasts and feasts.pdf
+Book_1932_Harold W. Percival_Thinking and Destiny_Chakras.pdf
+Book_1932_Prophetic time Of The Ages.pdf
+Book_1932_Raphael's Medical Astrology.pdf
+Book_1932_Raphaels Mundane Astrology_in 3 parts.pdf
+Book_1932_Robert DeLuce_Horary astrology.pdf
+Book_1932_The Zodiac and the salts of salvation_Part 1_Dr. G. Washington Carey.pdf
+Book_1932_The Zodiac and the salts of sa...Part 1_Dr. G. Washington Carey_ebook.pdf
+Book_1934_Chu Wen-kuang_The astrology of I Ching.pdf
+Book_1934_D. Anrias_Adepts of the five Elements.pdf
+Book_1936_Daniel Logan_Your Eastern star ...trology, reincarnation and the future.pdf
+Book_1936_Langham J.M_Planetary Effects on Stock Markets.pdf
+Book_1937_Francis Johnson_Astronomical Thought in Renaissance England.pdf
+Book_1937_Pupert Gleadow_Astrology In Everyday Life.pdf
+Book_1937_Vivian E Robson_Electional Astrology_must read copy.pdf
+Book_1937_Vivian E Robson_Electional Astrology_must read.pdf
+Book_1938_Edward Lyndoe_Complete Practical Astrology.pdf
+Book_1938_Louise McWhirterW_Astrology and Stock Market Forecasting_.pdf
+Book_1938_Mark Mellen_how to play the races and win. pdf
+Book_1 939-1 959_Edward Rosen_Three Trea...ernican Theory_Nicolaus Copernicus.pdf
+Book_1939_Peter Shen_The traditional art of Chinese fortune reading.pdf
+Book_1939_Peter West_Astrology and childhood.pdf
+Book_1940_Grant Lewi_Astrology For The Millions.pdf
+Book_1940_J. H. Brennan_Nostradamus_visions of thefuture.pdf
+Size
+1.0MB
+
+Books using tropical zodiac
+Page 19
+Ti
+T
+T
+T
+T
+Name
+Book_1940_Paul Councel_Your Stars And Destiny.pdf
+Book_1941_Marc Edmund Jones_The guide to horoscope interpretation_patterns.pdf
+Book_1941_W.J. Colville_significance of birthdays.pdf
+Book_1942_Astrology_its history and influence in the western world_Ellen McCaffer.pdf
+Book_1942_David Berlinski_The secrets of the vaulted sky.pdf
+Book_1942_Elbert Benjamine_Progressed Aspects of Standard Astrology.pdf
+Book_1942_Elbert Benjamine_When and what events will happen.pdf
+Book_1942_Georgia Stathis_Business Astrology.pdf
+Book_1942_J. E. Thompson_Elements Of Spherical Trigonometry.pdf
+Book_1943_E. Benjamine_Beginners Horoscope Maker And Reader.pdf
+Book_1943_H.L.C. Leighton_Solid Geometry and spherical trigonometry.pdf
+Book_1945_Elbert Benjamine_Body disease and its stellar treatment.pdf
+Book_1945_The Soochow astronomical chart_chinese astronomy.pdf
+Book_1946-Ernest Agar Beet_A Text Book of Elementary Astronomy.pdf
+Book_1946_C.E.O. Carter_Essays on The Foundations Of Astrology.pdf
+Book_1946_Robert Eisler_The Royal Art Of Astrology.pdf
+Book_1947_Charles Carter_Symbolic Directions In Modern Astrology.pdf
+Book_1947_Eva Shaw_Divining the future_p...stication from astrology to zoomancy.pdf
+Book_1948_John Hazelrigg_Astrosophia_being metaphysical astrology.pdf
+Book_1948_Rihard M. Pearl_Populargemology.pdf
+Book_1949_De Lacy 0'Leary_How Greek Science Passed To The Arabs.pdf
+Book_1949_E.S. Drower_The Book of the Zodiac.pdf
+Book_1949_Ernest Busenbark_Symbols Sex and the Stars in Popular Beliefs.pdf
+Book_1949_Jodie & Steven Forrest_Skymates.pdf
+Book_1949_R.J. Stewart_The Miracle Tree_Demystifying the Qaballah.pdf
+Book_1950_Max Heindel_The Rosicrucian mysteries.pdf
+Book_1950_Tracy Marks_The Art of Chart lnterpretation.pdf
+Book_1950_Tracy Marks_The Art of Chart lnterpretation_ebook.pdf
+Book_1950_Tracy Marks_Your secret self_ill...ing the mysteries of the twelfth house.pdf
+Book_1951_Alice Bailey & Djwhal Khul_Esoteric Astrology voL3.pdf
+Book_1954_catalogue of the persian_turki...ustani and pushtu manuscripts_part3.pdf
+Book_1954_Giorgio Abetti_The History Of Astronomy.pdf
+Book_1954_P. Moore_Suns Myths & Men. pdf
+Book_1955_R. C. Davidson_The technique o...mplete system of secondary directing.pdf
+Book_1956_Carmody F._Arabic astronomical ...astrological sciences_Fr. Latin trans.pdf
+Book_1956_Doris Chase Doane_Astrology _30 years research.pdf
+Book_1957_ErnstZinner_The Stars Above Us.pdf
+Size
+1.6MB
+1.6MB
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 20
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_1958_The Technique of solar returns_W. Alexandre Volguine.pdf
+Book_1959_Ada Muir_The Healing Herbs of the Zodiac.pdf
+Book_1959_Shelly Wu_Chinese Astrology Exploring The Eastern Zodiac.pdf
+Book_1960_Edward Lyndoe_Astrology for everyone.pdf
+Book_1960_M.L. Khanna_Spherical Astronomy.pdf
+Book_1962_Sepharial_Manual Of Astrology_Part 1 of 4.pdf
+Book_1962_Sepharial_Manual Of Astrology_Part 2 of 4.pdf
+Book_1962_Sepharial_Manual Of Astrology_Part 3 of 4.pdf
+Book_1962_Sepharial_Manual Of Astrology_Part 4 of 4.pdf
+Book_1962_Zolar_lts all in the stars_a tre...th in signs-decanates and degrees-days.pdf
+Book_1963_Alan Leo_the art of synthesis.pdf
+Book_1963_Richard Hinckley Allen_Star Names Their Lore And Meaning.pdf
+Book_1964_ Frances A. Yates_Giordano Bruno and the Hermetic Tradition.pdf
+Book_1964_ Louis MacNeice_Astrology.pdf
+Book_1964_Jeff Mayo_Teach yourself astrology.pdf
+Book_1964_Ronald C. Davison_Astrology.pdf
+Book_1965_Gorak Prasad_Text-book on spherical astronomy.pdf
+Book_1965_K. F. Ogorodnikov_Dynamics of Stellar Systems.pdf
+Book_1965_Sydney Omar_My world of astrology.pdf
+Book_1966_Physics of the solar system, voL3.pdf
+Book_1967_Albertus Magnus_The Book of Minerals.pdf
+Book_1967_Caroll Righter_Your astrological guide to health and diet.pdf
+Book_1967_Dane Rudhyar_The lunation cycl... to the understanding of personality.pdf
+Book_1967_Jenkyn Richard A_Astrology And Diet.pdf
+Book_1967_Jerryl Keane_Practical astrology_how to make it work for you. pdf
+Book_1967_Kathleen Johnson_Celestial bodies_an astrological path to total health.pdf
+Book_1967_Michel Gauquelin_The cosmic cl...s_from astrology to a modern science.pdf
+Book_1968_Joseph Goodavage_Write your own horoscope.pdf
+Book_1968_Linda Goodman_Sun Signs.pdf
+Book_1 968_Neathe Aahmes_Your five-year diet & health horoscope.pdf
+Book_1969_Dal Lee_Dictionary of astrology.pdf
+Book_1969_Dane Rudhyar_The practice of astrology.pdf
+Book_1969_Edith Niles & Hal L. Cohen_Ast...our destiny_houses for any ascendant.pdf
+Book_1969_George Bayer_Turning 400 Years of Astrology.pdf
+Book_1969_Louise Bachelier_Look to your s... thoughts for each sign of the zodiac.pdf
+Book_1970_Barbara Shook Hazen_You and yo...odiac guide to dating, compatibility.pdf
+Book_1970_Catherine De Jersey_Destiny ti...ix_an astrologer's casebook_examples.pdf
+Size
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 21
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Name
+Book_1970_Dane Rudhyar_The astrology of personality_Sabian Symbols.pdf
+Book_1970_Grant Lewi_Heaven knows what.pdf
+Book_1970_Jeff Mayo, faculty of astrological studies_How to cast a natal chart.pdf
+Book_1970_John Anthony West & Jan Gerhard Toonder_The case for astrology.pdf
+Book_1970_Joseph Bayly_What About Horoscopes.pdf
+Book_1970_Justine Glass_They foresaw the future_the story of fulfilled prophecy.pdf
+Book_1971_Cyril Fagan_Primer Of Sideral Astrology.pdf
+Book_1971_Dane Rudhyar_Person Centered Astrology.pdf
+Book_1971_E. S. Kennedy & David Pingree_the Astrological History of Masha'allah.pdf
+Book_1971_Herbs of the zodiac_their mystic power.pdf
+Book_1971_Jesss Stearn_A time for astrology.pdf
+Book_1971_Lloyd Cope_Your stars are numbered & numerology.pdf
+Book_1971_Owen S. Rachleff_The occult con. ..look at astrology_witchcraft & sorcer.pdf
+Book_1971_Preston Crowmarsh_First steps to astrology.pdf
+Book_1971_R.C. Majumdar_History Of Ancient Bengal.pdf
+Book_1972_C.Mabel Duff_The Chronology Of Indian History.pdf
+Book_1972_Esther Leinbach_Planets & Asteroids_Relationships in Conjunction.pdf
+Book_1972_Esther V. Leinbach_Sun_Ascend...ps_Their Influence in the Horoscope.pdf
+Book_1972_Fred Gettings_The book of the z..._an historical anthology of astrology.pdf
+Book_1972_Henry StilLOf time, tides, and i...dvantage of the natural rhythms of life.pdf
+Book_1972_lsabel Hickey_Astrology a Cosmic Science3.pdf
+Book_1972_Jess Stearn_Time for Astrology.pdf
+Book_1 972_Jones, Marc Edmund_Astrology - how and why it works.pdf
+Book_1972_Morris Goodman_Astrology & sexual analysis.pdf
+Book_1972_Shankaranarayanan_The Ten Great Cosmic Powers_chakras.pdf
+Book_1973_Barbara Watters_Horary Astrology.pdf
+Book_1973_C.S.J. Thompson_The mystery and romance of astrology.pdf
+Book_1973_Frances Sakoian_The Astrologer's Handbook.pdf
+Book_1973_Larry Kettelkamp_Astrology - wisdom of the stars.pdf
+Book_1973_Paula Desol_Chinese horoscopes.pdf
+Book_1973_Thomas G. Aylesworth_Astrol...mancy_domino_teacups_useless book.pdf
+Book_1973_Wilhelm Wulff_Zodiac & Swasti...How Astrology Guided Hitler Germany.pdf
+Book_1973_Wilhelm Wulff_Zodiac and Swastika.pdf
+Book_1974_A.Volguine_Lunar Astrology.pdf
+Book_1974_A.Wittes_Rules for Planetary Pictures_combination of 2/3 planets.pdf
+Book_1974_Alfred Lesliw_Sex and society ...ares age_Simon Forman the astrologer.pdf
+Book_1974_lma Roberts_Transits in plain English.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 22
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_1974_Joanne Wickenburg_The Digested Astrologer.pdf
+Book_1974_Michael R Meyer_A Handbook for the Humanistic Astrologer.pdf
+Book_1974_Noel TyLAstrology and personal. ..trological and psychological theories.pdf
+Book_1974_R. Pelletier_Planets in Aspect_Understanding Your Inner Dynamics.pdf
+Book_1974_Robert Pelletier_Planets in Aspect.pdf
+Book_1974_Roya Gallant_Astrology_sense or nonsense.pdf
+Book_1974_Ruth Q. Sun_The Asian animal zodiac_60 year Cycle.pdf
+Book_1974_Saul P. Lamer_Astrological assistance_MUST READ.pdf
+Book_1974_Woodroffe_Arthur Avalon_The Se... Secrets of Tantric and Shaktic Yoga.pdf
+Book_1975_Dane Rudhyar_From humanistic to transpersonal astrology.pdf
+Book_1975_Landis Knight_ Green_The astral...- modern insights into an ancientart.pdf
+Book_1975_Martin Schulman_Karmic Astrology_voL1.pdf
+Book_1975_Martin Schulman_Karmic Astrology_voL3.pdf
+Book_1975_Maxine Taylor_Now That I've Cast lt_What Do I Do With lt.pdf
+Book_1975_Michael R. Meyer_The astrology ...ology and its humanistic applications.pdf
+Book_1975_Stephen Arroyo_Astrology_ Psychology And The Four Elements.pdf
+Book_1976_Aleister Crowley_The Complete Astrological Writtings.pdf
+Book_1976_American AstroAnalysts lnstitute_AstroAnalysis.pdf
+Book_1976_American AstroAnalysts lnstitu...y for Aries birth_MARCH 21 -APRIL 20.pdf
+Book_1976_Clara Darr_Nodes in Transit with Aspects.pdf
+Book_1976_E. Raymond Capt_The glory of the stars.pdf
+Book_1976_Francis King_The cosmic influence.pdf
+Book_1976_Jeane Dixon_Yesterday, today, and forever_12 Bible signs.pdf
+Book_1976_Liz Greene_Saturn_a new look at an old devil.pdf
+Book_1976_Marc Robertson_The Transit of Saturn_Critical Ages in Adult Life.pdf
+Book_1976_Marion_The Only Way to Learn Astrology_voL1.pdf
+Book_1976_Marion_The Only Way to Learn Astrology_vol.3_1981.pdf
+Book_1976_Ned Ballantyne & Stella Coeli_Y... your dreams - 25,000 interpretations.pdf
+Book_1976_Nicholas deVore_ Encyclopedia of Astrology.pdf
+Book_1976_Nicholas deVore_ Encyclopedia of Astrology_ORIGINAL.pdf
+Book_1976_Robert Hand_Planets in transitjife cycles for living.pdf
+Book_1976_Ted Georges_The Lives You Live As Revealed In the Heavens.pdf
+Book_1976_Ursula Lewis_Chart your own ...ginner and professional_CONCEPTION.pdf
+Book_1977_Alan Bain_The Keys to Kabbalah.pdf
+Book_1977_Dane Rudhyar_An Astrological Study of Psychological Complexes.pdf
+Book_1977_Joseph Polansky_Sun sign succe...strological pathway to better living.pdf
+Book_1977_M.A.Jagendorf_Stories and lore of the zodiac.pdf
+Size
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 23
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_1977_Marc Edmund Jones_How to learn astrology.pdf
+Book_1977_Michelle Adler_ Astrology and Your Future.pdf
+Book_1977_Samuel Weiser_A guide to qabalistic astrology_ADVANCED STUDENTS.pdf
+Book_1977_Seymour Simon_Look to the night sky_an introduction to star watching.pdf
+Book_1978_A.N. Chandra_The Date Of Kurukshetra War.pdf
+Book_1978_Donna Cunningham_Astrological Guide to Self Awereness.pdf
+Book_1978_Gann_Astro Cycles And Speculative methods.pdf
+Book_1978_Guy Playfair_The cycles of heaven.pdf
+Book_1978_Jean-Louis TassouLTheory of Rotating Stars_VoL1.pdf
+Book_1978_Leonora Luxton_Astrology_key ...nderstanding_ reincarnation & karma.pdf
+Book_1978_Liz Greene_Relating_an astrologi...o living with others on a small planet.pdf
+Book_1978_Lois Rodden_Modern transits.pdf
+Book_1978_Seyyed Hossein Nasr_An lntrod...n to Islamic Cosmological Doctrines.pdf
+Book_1978_Sydney Omar_astrology and the man_electional in 2nd half.pdf
+Book_1979-Stephen Arroyo_Relationships ...cles_modern dimensions of astrology.pdf
+Book_1979_2011_Practical Astronomy with your Calculator or Spreadsheet.pdf
+Book_1979_Carolyn R. Dodson_Rising signs.pdf
+Book_1979_Emma Belle Donath_Asteroids in the Birth Chart.pdf
+Book_1979_Francis Wylie_Tides and the pull of the moon.pdf
+Book_1979_Helen Adams Garrettjnterpret Horoscopes in 24 Steps.pdf
+Book_1979_Michal R. Meyer_The astrology of relationship_synastry.pdf
+Book_1979_Ralph Metzner_Know your type_maps of identity.pdf
+Book_1979_William Lonsdale_Dane Rudhya...ythms_about progressions & aspects.pdf
+Book_1979_Zipporah Pottenger Dobyns_The node book.pdf
+Book_1 980_Bernice Grebner_Decanates.pdf
+Book_1980_Betty Lundsted_Astrological ins...sonality_aspects & conj. of 2 planets.pdf
+Book_1980_Bil Tierney_dynamics of aspect analysis.pdf
+Book_1980_Bill Tierney_Perceptions in Astrology_aspects and patterns.pdf
+Book_1980_Clara Weiss_Astrological keys to self-actualization & self-realization.pdf
+Book_1980_Sheila Geddes_Astrology.pdf
+Book_1980_Sun Bear & Wabun Wind_The Medicine Wheel.pdf
+Book_1981_D. Pingree_Jyotihsastra_Astral and mathematical literature.pdf
+Book_1981_Martin Seymour-Smith_The new astrologer_interpretation_MUST READ.pdf
+Book_1981_Mellie Uyldert_The Magic Of Precious Stones.pdf
+Book_1981_Robert Hand_Planets in composite_analyzing human relationships.pdf
+Book_1981_Rosanna Zerilli_The book of practical astrology.pdf
+Book_1981_Were You Born Under a Lucky Star_A. Alpheus.pdf
+
+vj vP vP vP vf VP vP vP vP vP vP vP vf vP vP >J |fl vP vP vP vP vP >P vP vP vP >p >f vP vP vP vP vP vP vP
+Books using tropical zodiac
+File Listing
+Page 24
+Name
+Size
+Book_1982_Bruve Nevin_Astrology inside out.pdf
+Book_1982_David Williams_FINANCIAL AST...ast Business, and The Stock Market.pdf
+Book_1982_J.M. Wllfolk_The Only Astrology Book You will Ever Need.pdf
+Book_1982_Jean Louis Brau_Larousse encyclopedia of astrology_A must.pdf
+Book_1982_Maxine Taylor_Hidden messages_houses interesting.pdf
+Book_1982_Rhoda Urman_The astrological ...t diary of treasured dates_examples.pdf
+Book_1982_Teri Klng_Your child and the zodiac.pdf
+Book_1983_Alexander Roy_The astrology of choice_a counseling approach.pdf
+Book_1983_Eileen Nauman_Medical Astrology.pdf
+Book_1983_Liz Greene_The outer planets & ...ycles_the astrology of the collective.pdf
+Book_1983_Michel Gauquelin_Birthtimes - a ...estigation of the secrets of astrology.pdf
+Book_1983_Peter West & Jo Logan_The prediction book of astrology.pdf
+Book_1983_Robin Macnaughton_R Macnaughton's Sun_Sun sign personnality guide.pdf
+Book_1983_Zodiac press_Astrology - your guide to the stars.pdf
+Book_1983_Zodiac Press_Horoscopes_your daily fate and fortune.pdf
+Book_1984_ Liz Greene_The Astrology of Fate.pdf
+Book_1984_David Williams_Financial Astrology.pdf
+Book_1984_Deanna Rose_Easy Predictions with Solar Returns.pdf
+Book_1984_Doris Chase Doane_Accurate World Horoscopes
+Booklet_1968_Parallels to midheaven & a...ing Keyes_use with world horoscopes.pdf
+Book_1984_Doris Chase Doane_Accurate World Horoscopes.pdf
+Book_1984_Edward Grantjn Defense Of The Earth's Centrality and lmmobility.pdf
+Book_1984_J.L. Shastri_vol.26_Ancient Indian Trradition and Mythology.pdf
+Book_1984_John Filbey_Natal charting_how...chniques of birth chartconstruction.pdf
+Book_1984_Michael Mayer_The mystery of personal identity.pdf
+Book_1984_Rose Lineman & Jan Popelka_Book_Compendium of astrology.pdf
+Book_1984_Stephen Arroyo_Relationships a...ical Patterns of Personal Experience.pdf
+Book_1984_Stephen Arroyo_The practice an. ..our lost connections with the cosmos.pdf
+Book_1984_Teri King_Marriage, divorce & astrology.pdf
+Book_1985_Christa Faye Burka_Clearing crystal consciousness.pdf
+Book_1985_Derek Appleby_Horary Astrolog...logy of Time_about Prasna-Must read.pdf
+Book_1985_Derek Appleby JHorary Astrolog...f Time_about Prasna-Must read.pdf alias
+Book_1985_Doris Doane_Contest Charts_horary for sport games, political election.pdf
+Book_1985_Fred Gettings_Dictionary Of Astrology.pdf
+Book_1985_History Of astronomy in lndia.pdf
+Book_1985_Howard Sasportas & Liz Greene_The Twelve Houses.pdf
+Book_1985_J.W. Dauben_The History of Mathematics from Antiquity to the Present.pdf
+1 KB
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 25
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Size
+Book_1985_Manly P. Hall_Planetary Influence and the Human Soul.pdf
+Book_1985_Sylvia Delong_Guideposts to m... mundane interpretations_52 examples.pdf
+Book_1985_text only_Robert Leichtman_Fo...f the Zodiac_Companions of the Soul.pdf
+Book_1986_Charles J. Caes_Cosmology_the search for the order of the universe.pdf
+Book_1986_Donna Cunningham_Healing Pluto Problems.pdf
+Book_1986_Stan Barker_The signs of the ti... Neptune factor and America's destiny.pdf
+Book_1986_Steve Cozzi_Planets In Locality.pdf
+Book_1986_Tim Lyons_Astrology beyond ego.pdf
+Book_1987_Anodea Judith_Wheels of life_A user's guide to the chakra system.pdf
+Book_1987_Dennis Elwell_Cosmic loom.pdf
+Book_1987_Linda Goodmans star signs.pdf
+Book_1987_Liz Greene & Howard Sasportas_The development of the personality.pdf
+Book_1987_Tracy Marks_Planetary Aspects.pdf
+Book_1988_Abu Ali Al Khayyat_The Judgments of Nativities.pdf
+Book_1988_Donna Van Toen_The Mars book_...your personal energy and motivation.pdf
+Book_1988_Donna Van Toen_The Mars book...rsonal energy and motivation_ebook.pdf
+Book_1988_J.V. Field_Kepler's Geometrical Cosmology.pdf
+Book_1988_Martin Schulman_The ascendant_Your karmic doorway.pdf
+Book_1988_Theodora Lau_The handbook of Chinese horoscopes.pdf
+Book_1988_Time-Life Books_Cosmic connections.pdf
+Book_1989_Denning Phillips_Planetary Magick.pdf
+Book_1989_Francesca Naish_The lunar cycle_astrological fertility control.pdf
+Book_1989_Jacqueline Stallone_Star pow...uide to supersuccess_SUN IN DECANS.pdf
+Book_1989_John Ankerberg_do the heavens rule our destiny.pdf
+Book_1989_L. River & S. Gillespie_The kno...e_astrology and the female experience.pdf
+Book_1989_Lindsay River & Sally Gillespie.. .e_astrology and the female experience.pdf
+Book_1989_Patrick Moore_Astronomy for the beginner.pdf
+Book_1989_Warren Kenton_Astrology The Celestial Mirror.pdf
+Book_1990_C.L. Zalewski_Herbs in Magic and Alchemy.pdf
+Book_1990_David Christie-Murray_The pract...eed to know to construct birth charts.pdf
+Book_1990_E. A. Crawford & Teresa Kennedy_Chinese elemental astrology.pdf
+Book_1990_F.P. Frater_The Zodiacal Rituals.pdf
+Book_1990_James Randi_The mask of Nostradamus.pdf
+Book_1990_Joan Quigley_What does Joan s...trologer to Nancy and Ronald Reagan.pdf
+Book_1990_Karen Hamaker-Zondag_Aspects and personality _outer planets also.pdf
+Book_1990_M. Munkasey_Midpoints_Unleashing the Power of the planets.pdf
+Book_1990_Peter Roberts_The message of astrology.pdf
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 26
+T
+T
+T
+T
+T
+T
+T
+Name
+Book_1990_Peter Roberts_The message of a. ..ism and what it means for ourfuture.pdf
+Book_1990_Vishva Nath Drabu_Saivagamas_A...ic Ideas and Institutions of Kashmir.pdf
+Book_1990_Vivian B. Martin_Astrocycles_ho...e major planetary cycles work for you. pdf
+Book_1991_Adrian G. Gilbert_The Cosmic Wisdom Beyond Astrology.pdf
+Book_1991_Charles A. Schweighauser_Astro...onary of celestial objects and ideas.pdf
+Book_1991_Doe Donovan_Do you speak astrology + rectification.pdf
+Book_1991_Erin Sullivan_Saturn in Transit Boundaries of Mind, Body, and Soul.pdf
+Book_1991_Mary-Paige Royer_Astrology-Opposing Viewpoints.pdf
+Book_1991_Michael Lutin_Childhood rising_... of your mother, your father, and you. pdf
+Book_1991_Reinhold Ebertin_Transits_What Days FavorYou.pdf
+Book_1991_Ronald Davison_Synastry_Unde... Human Relations Through Astrology.pdf
+Book_1991_S. Arroyo & Liz Greene_New insights in modern astrology_must read.pdf
+Book_1992_Armand Eisen_Astrology_a guide to the signs.pdf
+Book_1992_D.H. Maling_Coordinate Systems and Map Projections.pdf
+Book_1992_Liz Greene & Howard Sasportas_The Luminaries.pdf
+Book_1992_Percy Seymour_The scientific basis of astrology.pdf
+Book_1992_Samantha A. Davis_Understanding children through astrology.pdf
+Book_1993_AI Kindi_Stellar Rays_.pdf
+Book_1993_Antiochus of Athens_The Thesaurus.pdf
+Book_1993_Joy Michaud_The Saturn Pluto phenomenon.pdf
+Book_1993_Judith Hayes_The Sabian Symbols Visually.pdf
+Book_1993_Liz Greene_The Inner Planets B...s of Personal Reality_Vol.4 Seminars.pdf
+Book_1993_Mc Mullin_Astrology as a New Model of Reality.pdf
+Book_1993_Steven Forrest_The Night Speak. ..ation on the Astrological World View.pdf
+Book_1994_B. F. Hammerslough_Forecasting backward andforward_rectification.pdf
+Book_1994_Carole Golder's Star signs.pdf
+Book_1994_Charles Harvey_Sun Sign, Moon...ts of the 144 sun-moon combinations.pdf
+Book_1994_Daniel Giamario_Shamanic Astrology Handbook.pdf
+Book_1994_Gary & Aron Goldschneider_The s...ogy profiles for each day of the year.pdf
+Book_1994_Helena Paterson_The handbook ...logy_moon zodiac & planets in stars.pdf
+Book_1994_Henry Weigarten_lnvesting by the Stars.pdf
+Book_1994_James R. Lewis_The astrology encyclopedia.pdf
+Book_1994_James R. Lewis_The astrology encyclopedia_bettercopy.pdf
+Book_1994_Julia Lupton Skalka_The instant horoscope reader.pdf
+Book_1994_Kwok Man-Ho_Chinese Horoscope library_Dog.pdf
+Book_1994_Kwok Man-Ho_Ox.pdf
+Book_1994_Kwok Man-Ho_Pig.pdf
+Size
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 27
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_1994_Kwok Man-Ho_Rabbit.pdf
+Book_1994_Kwok Man-Ho_Ram.pdf
+Book_1994_Kwok Man-Ho_Snake.pdf
+Book_1994_Michael J. B. Allen_Nuptial Arithmetic.pdf
+Book_1994_Sophia Mason_Forecasting with New Full and Quarter Moons.pdf
+Book_1994_Spencer Grendahl_Astrology and the games people play_relationships.pdf
+Book_1994_William Hartmann_Astronomy_the cosmicjourney.pdf
+Book_1995_A Handbook Of Chinese Healing Herbs_Daniel Reid.pdf
+Book_1995_Antonius de Montulmo_On the Jud...Nativities_2 parts full_rectification.pdf
+Book_1995_Julia Parker_The astrologer's handbook.pdf
+Book_1995_Robert Hand_Night and Day_must read.pdf
+Book_1995_Timothy Curley_How to read your own horoscope.pdf
+Book_1995_Ulla Koch-Westenholz_Mesopotamian Astrology.pdf
+Book_1996_Adrian Gilbert_The Mayan prophecies.pdf
+Book_1996_Carole Golder_Success through the stars.pdf
+Book_1996_Diane & Rudy Flack_British Roy..._horoscopes form 500-800 AD till now.pdf
+Book_1996_Diane Cramer_Howto Give an Astrological Health Reading.pdf
+Book_1996_G. Cornelius & P. Devereux_The ...ret language of the stars and planets.pdf
+Book_1996_Hajo Banzhaf & Anna Haebler_Key Words for Astrology.pdf
+Book_1996_Helge Kragh_Cosmology and Controversy_Princeton University.pdf
+Book_1996_J. L. Berggren_Euclid's Phaenomena_Hellenistic Spherical Astronomy.pdf
+Book_1996_Jane Bowles_Astrology, money & you. pdf
+Book_1996_Joseph Goodavage_Astrology_the space-age science.pdf
+Book_1996_Liz Greene_The astrological Neptune and the quest for redemption.pdf
+Book_1996_Liz Green_Barriers and Boundar...ces of the Personality_Saturn-Chiron.pdf
+Book_1996_Michael Toscano_The Astral Her...trologer's Guide To Medicinal Plants.pdf
+Book_1996_Noel TyLPredictions for a new millennium.pdf
+Book_1996_Papus_Astrology and the authentic self.pdf
+Book_1996_Papus_Astrology for lnitiates.pdf
+Book_1996_Principia of Polyzodiacal Astrology_Thesis.pdf
+Book_1996_Richard ldemon_The magic thread.pdf
+Book_1996_Scott Cunningham_Encyclopedia of crystal, gem and metal magic.pdf
+Book_1997_Akira Sadakata_Buddhist Cosmology_ Philosophy and Origins.pdf
+Book_1997_Chung Li_Chinese astrology.pdf
+Book_1997_David Frawley_Ayurveda and the mind.pdf
+Book_1997_David Pingree_From Astral Ome... Astrology, From Babylon to Bikaner.pdf
+Book_1997_E. Alan MeeceJHoroscope for the New Millennium.pdf
+Size
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 28
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Name
+Book_1997_Horus_A guide to qabalistic astrology.pdf
+Book_1997_John Brody_Extraterrestrial Astrology.pdf
+Book_1997_Kushyar-lbn-Labban_introduction to astrology.pdf
+Book_1997_Larry Pesavento_Planetary Harmonics of Speculative Markets.pdf
+Book_1997_Linda Reid_Crossing the threshold_the astrology of dreaming.pdf
+Book_1997_Magi Astrologyjove and money.pdf
+Book_1997_Morabito Yvonne_Dollar signs an astrological guide to personal finance.pdf
+Book_1997_Moustafa Gadalla_Egyptian Cosmology_The Animated Universe.pdf
+Book_1997_Peter Malsin_The eyes of the sun_astrology in light of psychology.pdf
+Book_1997_Rav Berg_Kabbalistic Astrology_And The Meaning of Our Lives.pdf
+Book_1997_Robert Hand_Omar of Tiberias_Three Books on Nativities.pdf
+Book_1997_Robert Wilson_Astronomy Through the Ages.pdf
+Book_1997_S.Carboni_Following the Starsjmages of the Zodiac in Islamic Art.pdf
+Book_1997_Zipporah Dobyns_The book of Saturn.pdf
+Book_1998_ Jacqueline Stallone_Star power-an astrological guide to supersuccess.pdf
+Book_1998_Ana Ruiz_Prediction Techniques Regarding Romance.pdf
+Book_1998_Arthur Upgren_Night has a thousand eyes.pdf
+Book_1998_Brady Bernadette_The Eagle and the Lark.pdf
+Book_1998_Cunningham & many authors_Ll...k and gardening almanac_electional.pdf
+Book_1998_Darby Costello_The Astrological Elements Book 1_Water and Fire.pdf
+Book_1998_Douglas M. Baker_Medical astrology.pdf
+Book_1998_Francesca Rochberg_Babylonian horoscopes.pdf
+Book_1998_Francesca Rochberg_Babylonian horoscopes_retyped.pdf
+Book_1998_Judy Hall_The Hades Moon.pdf
+Book_1998_Linda Brady & Evan St. Lifer_Dis... astrology to create the life you want.pdf
+Book_1998_Maritha Pottenger & Zipporah D... your future - progressions made easy.pdf
+Book_1998_Mitchell E. Gibson_Signs of mental illness_using parallels.pdf
+Book_1998_Noel TyLAstrological timing of critical illness.pdf
+Book_1998_Pamela Bell & Jordan simon_A...mpowerment using stars and numbers.pdf
+Book_1998_Paul Haydn_The Astrological Moon.pdf
+Book_1998_Robert Hand_Chronology of the ...e Middle East and the West by Period.pdf
+Book_1998_Shirley Soffer_The astrology sourcebook_planets.pdf
+Book_1998_Sophia Mason_You and Your Ascendant.pdf
+Book_1998_Wayne Horowitz_Mesopotamian Cosmic Geography.pdf
+Book_1999_Trish MacGregor_The everything astrology book.pdf
+Book_1999_A geocentricity primer_lntrod...al Cosmology_Gerardus D. Bouw, Ph.D.pdf
+Book_1999_Anistatia R. Miller_The comple...st century _Western & Eastern systems.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 29
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_1999_Basil Fearrington_The new way ... astrology_Noel Tyl Method_Must read.pdf
+Book_1999_Bil Tierney_Alive and well with Pluto.pdf
+Book_1999_Bil Tierney_Alive and well with Uranus_transits of self-awakening.pdf
+Book_1999_Celeste Teal_Predicting Events With Astrology_Must read.pdf
+Book_1999_Damon Wilson_The mammoth book of Nostradamus and other prophets.pdf
+Book_1999_Donna Cunningham_How to Read Your Astrology Chart_must read.pdf
+Book_1999_Geddes & Grosset_Astrology & horoscopes.pdf
+Book_1999_H. Hunger & D. Pingree_Astral sciences in Mesopotamia.pdf
+Book_1999_Jean Clement Stephanie_Chartin... horoscope reveals your life purpose.pdf
+Book_1999_Judy Hall_The illustrated guide to astrology.pdf
+Book_1999_Liz Greene_Relationships and How to Survive Them.pdf
+Book_1999_Magi astrology_minibook.pdf
+Book_1999_Michael Hoskin_The Cambridge Concise History of Astronomy.pdf
+Book_1999_Rose Murray _When planets prom... romantic destiny through astrology.pdf
+Book_1999_Sydney Omar_Astrological revelations aboutyou.pdf
+Book_1999_the Babylonian theory of the planets.pdf
+Book_1999_The PATTERNS of GANN_Granville Cooley.pdf
+Book_1999_William W. Hewitt_Astrology for beginners.pdf
+Book_20006_Ana Ruiz_lnterpreting Empty Houses.pdf
+Book_2000James green_The Herbal Medicine-Maker's Handbook_A Home Manual.pdf
+Book_2000_Alen Oken_Rulers of the horoscope_must read.pdf
+Book_2000_Alice Bailey_The Labours of Hercules_An Astrological lnterpretation.pdf
+Book_2000_Carole Devine_Solar Arc Directions_How to Read Life's Roadmap.pdf
+Book_2000_Celeste Tealjdentifying planet.. .echniques for prediction4_A must read.pdf
+Book_2000_Charles Carter_The Astrological Aspects.pdf
+Book_2000_David Brown_Mesopotamian Pl...my-Astrology_Cuneiform Monographs.pdf
+Book_2000_David Brown_Mesopotamian planetary astronomy_astrology.pdf
+Book_2000_Does house division make sense.pdf
+Book_2000_Edgar Leoni_Nostradamus & His prophecies.pdf
+Book_2000_Erin Sullivan_Retrograde planets_Traversing the inner landscape.pdf
+Book_2000_Gloria Star_Astrology & your child.pdf
+Book_2000_Helaine Selin_Astronomy across cultures.pdf
+Book_2000_Jill Phillips_Your luck is in the stars_signs characteristics only.pdf
+Book_2000_Late Classical Astrology_Paulus Alexandrinus and Olympiodorus.pdf
+Book_2000_Louis TuriJ Know All about You_The True Power of Astropsychology.pdf
+Book_2000_Michael Meyer_A handbook for the humanistic astrologer.pdf
+Book_2000_Noel Tyl_The creative astrologer_effective single session counseling.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 30
+Ti
+T
+T
+T
+T
+Name
+Book_2000_R. Clark_The Sacred Tradition in Ancient Egypt.pdf
+Book_2000_Rae Orion_Astrology For Dummies.pdf
+Book_2000_Robert Hand_Horary Astrology_Whole Sign Houses.pdf
+Book_2000_Rocky Sung's guide to Chinese a... feng shui_the year of the snake 2001 .pdf
+Book_2000_Sabrina Liao_Chinese Astrology_Ancient Secrets for Modern Life.pdf
+Book_2000_Sacred Language of Astrology_Kelly Lee Phipps.pdf
+Book_2000_Susan Miller_Planets and possibilities.pdf
+Book_2000_Sylvia Browne_Astrology through a psychic's eyes.pdf
+Book_2000_Tim Bost_Basic stock market astrology_course manual.pdf
+Book_2000_Violet Starre_The Diamond Light.. .ster Djwhal Khul for the 21st Century.pdf
+Book_2001 -Christine Shaw_Predictive Astrology_progressions_MUST READ.pdf
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Book_2001
+Jennifer Freed & Debra Birnbau...de_Ayurvedic, Chinese, palmistry etc..pdf
+Alyce Renee_Astrology anyone.pdf
+Amanda Owen_Lucky stars_use as.. .he scoop on life love and friendship.pdf
+Barbara Howard Traiste_The N...I Physician of London_Simon Forman.pdf
+Bil Tierney_AII Around The Zodiac.pdf
+Debbi Kempton Smith_Secrets from a Stargazer's Notebook.pdf
+Erin Sullivan_The Astrology of Family Dynamics.pdf
+Geddes, David_Guide to astronomy.pdf
+J.T Ford_Zodiac Manager_choosing the right people.pdf
+Jane StruthersJJnderstanding a. ..lock the secrets of your personality.pdf
+John Henri_Moving heaven and earth_Copernicus and the solar system.pdf
+John Willner_The Perfect Horoscope_Edgar Cayce 1 house system.pdf
+Judith Turner_The hidden world of relationships.pdf
+Kevin Burk_Astrology_ Understanding the Birth Chart.pdf
+Liz Greene_Apollo's Chariot_ The Meaning of the Astro.pdf
+Marilyn Muir_Astrology_The S...guage_Your Cosmic Apprentice Guide.pdf
+Oskar Adler_A Complete Man. pdf
+Oskar Adler_The Testament of A... to Astrology as an Esoteric Science.pdf
+Oskar Adler_The Testament of ...nce_General Foundation of Astrology.pdf
+Oskar Adler_The Testament of Astrology_2_The Zodiac and Man. pdf
+Oskar Adler_The Testament of Astrology_4_Man and Earth.pdf
+Paul Joseph Rovelli_The Whole Astrology Workbook.pdf
+Ricki Reeves_The quindecile_the astrology & psychology of obsession.pdf
+Ricky Reeves_The quindecile_the astrology & psychology of obsession.pdf
+Ronald Brashear_Star struck_on... of the art and science of astronomy.pdf
+Stephanie Jean Clement_Charting Your Spiritual Path With Astrology.pdf
+Size
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 31
+T
+T
+T
+T
+t
+T
+T
+Ti
+T
+Ti
+T
+T
+T
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_2001_Titus Burckhardt_Mystical Astrology According to Ibn Arabi.pdf
+Book_2001_William R. Newman and Anthony... and Alchemy in Early Modern Europe.pdf
+Book_2002_Adele Lang & Susi RajaJHow to spot a bastard by his star sign.pdf
+Book_2002_Adrian Ross Duncan_Astrology_Transformation & Empowerment.pdf
+Book_2002_Aleister Crowley_Evangeline Ad..._The general principles of astrology.pdf
+Book_2002_Anne Christie_Your secret moon...s, nodes, eclipses, and occultations.pdf
+Book_2002_BEST_Philip's Astronomy Encyclopedia.pdf
+Book_2002_Carol Rushman_The art of predic...strology_forecasting your life events.pdf
+Book_2002_David Ovason_The secrets of No...pretation of the master's prophecies.pdf
+Book_2002_David Pond_Astrology & relationships.pdf
+Book_2002_Gary Goldschneider_Charting the times of your life.pdf
+Book_2002_George H A Cole_Planetary scie..._the science of planets around stars.pdf
+Book_2002_J. T. Ford_Zodiac Manager_ An A...ical Expose of Everyone in the Office.pdf
+Book_2002_James A. Duke_Handbook of Medicinal Herbs.pdf
+Book_2002_James A. Duke_Handbook of Medicinal Herbs_2nd ed.pdf
+Book_2002_John Frawley_The real astrology.. .ings from the Astrologer's apprentice.pdf
+Book_2002_K. R. Williams_Vedic Mathematics Teachers Manual_Elementary Level.pdf
+Book_2002_Michael Munkasey_The Astrolo...al Thesaurus_Book 1_House Keywords.pdf
+Book_2002_0ve Von Spaeth_star Knowledge from Ancient Egypt.pdf
+Book_2002_Philip Plait_Bad Astronomy_M...es Revealed2_cropped new_unlocked2.pdf
+Book_2002_Stephanie Roberts_A Quick Guide to the Five Elements.pdf
+Book_2002_William W. Hewitt_Llewellyn's Truth About Your Birth Chart.pdf
+Book_2003_Caitlin Johnstone & Simon Hobbs_The complete book of astrology.pdf
+Book_2003_Carol A. Tebbs_Beyond Basics_Moving the Chart in Time.pdf
+Book_2003_Carol A. Tebbs_Beyond basics_Tools for the Consulting Astrologer.pdf
+Book_2003_Donna Henson_Vertex_The Third Angle.pdf
+Book_2003_Ena Stanley_Astrology’s Basics_Examining the Chart’s Structure.pdf
+Book_2003_Gordon Bane_Geocentric Bible.pdf
+Book_2003_Jhampa Shaneman_Buddhist astr...etation from a Buddhist perspective.pdf
+Book_2003_John Hammelton_THE PHILOSOPHY OF ASTROLOGY.pdf
+Book_2003_Kevin Burk_The Complete Node ...k_Understanding Your Life's Purpose.pdf
+Book_2003_Lisa Lenard_Complete Idiot's Guide to Astrology.pdf
+Book_2003_Madalyn Aslan's Jupiter signs_results of jupiter in signs.pdf
+Book_2003_Practical Astrology the Easy Way_sun signs & rising signs results.pdf
+Book_2003_Rusty Withers_Be A Winner ...Against All Odds.pdf
+Book_2003_Simon Newcomb_side Lights on Astronomy.pdf
+Book_2003_Stephanie Jean Clement_Mappin...nderstanding your needs & potential.pdf
+Size
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 32
+Ti
+T
+T
+T
+T
+Ti
+T
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_2004_ Diagram Group_The book of the zodiac.pdf
+Book_2004_A. T. Mann_Astrology and the Art of Healing.pdf
+Book_2004_A. T. Mann_The Future of Astrology.pdf
+Book_2004_Cass & Janie Jackson_Astrology... the Most of Your Sun Sign Potential.pdf
+Book_2004_Christeen Skinner_The Financia...ments Using Astrological Forecasting.pdf
+Book_2004_David Pond_Mapping your roman. ..nships_discover your love potential.pdf
+Book_2004_Donna Cunningham_The Outer Planets and Inner Life_ Vol.1 .pdf
+Book_2004_Evan Bortnick_The Art of Synthesis.pdf
+Book_2004_Gerardus D. Bouw,_A geocentricity primer from Bible.pdf
+Book_2004_Jacqueline Mitton_Zodiac - celestial circle of the sun_Useless.pdf
+Book_2004_Jean-Louis TassouLA Concise History of Solar and Stellar Physics.pdf
+Book_2004_Jeanne Avery _Astrology and Your Health.pdf
+Book_2004_Jeanne Avery_Astrology and Your Past Lives.pdf
+Book_2004_Lynda Hill_360 Degrees Of Wisdom_The Sabian Oracle.pdf
+Book_2004_Min's Judicial Horoscopes of famous persons.pdf
+Book_2004_Mysteries of egyptian zodiacs.pdf
+Book_2004_Pythia Peay_Mercury retrogade_its myth and meaning.pdf
+Book_2004_Wolfgang Smith_The Wisdom of A...porary Science in Light of Tradition.pdf
+Book_2005-Bradford Gearhart_The Art of Astrology.pdf
+Book_2005_3 books by H.S. Green_Raphael...Carter_Mundane Astrology_of Nations.pdf
+Book_2005_Benjamin N. DykesJJsing medieval astrology_part 1_get other parts.pdf
+Book_2005_Benson Bobrick_The Fated Sky_Astrology in History.pdf
+Book_2005_C. Ruggles_Ancient Astronomy.. .cyclopedia of Cosmologies and Myth.pdf
+Book_2005_Cass Jackson_Astrology Plain & Simple.pdf
+Book_2005_Colleen Simmons_Crystal vibrations astrological starsigns.pdf
+Book_2005_Damian Sharp_Learning Astrology_for beginners.pdf
+Book_2005_David Ben Yom Tov_Hebrew Medical Astrology.pdf
+Book_2005_Donna Cunningham_Selected Topics in Chart lnterpretation.pdf
+Book_2005_Dorian Gieseler Greenbaum_Temperament Astrology's Forgotten Key.pdf
+Book_2005_Dorian Gieseler Greenbaum_Temperament astrologys forgotten key.pdf
+Book_2005_Dov Schartz_Astral Magic in Medieval Jewish Thought.pdf
+Book_2005_Dov Schwartz_Astral Magic in Medieval Jewish Thought.pdf
+Book_2005_Encyclopedic Survey of Archaeoastronomy.pdf
+Book_2005_Heather Hasan_Kepler and the laws of planetary motion.pdf
+Book_2005_Horoscopes and Public Spheres_Gunther Oestmann.pdf
+Book_2005_Jackson & Janie Cass_Simply astrology.pdf
+Book_2005_Joann Hampar_Electional Astrology_the art of timing.pdf
+Size
+1.6MB
+1.6MB
+1.7MB
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 33
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_2005_Joann Hampar_Electional Astrology_the art of timing2.pdf
+Book_2005_Kerry Magruder_Stars over Ancient Babylon.pdf
+Book_2005_L. Kassel_Simon Forman_Medicine and Magic in Elizabethan London.pdf
+Book_2005_Michael Huber_Aspect Pattern Astrology.pdf
+Book_2005_Swami Sada Shiva Tirtha_The Ayurveda Encyclopedia.pdf
+Book_2006_ Michael Newton_The encyclopedi... serial killers_can useforastrology.pdf
+Book_2006_A Brief History of Ancient Astrology_Roger beck.pdf
+Book_2006_A.T. Mann_The Divine Life_Astrology and Reincarnation.pdf
+Book_2006_Alan Leo_Practical Astrology.pdf
+Book_2006_Alan Oken_Complete Astrology.pdf
+Book_2006_Crystal healing_therapeutic power.pdf
+Book_2006_Demetra George_Astrology for Y...d And Interpret Your Own Birth Chart.pdf
+Book_2006_Diane Cramer_Managing Your Health & Wellness_Cosmic Patterns.pdf
+Book_2006_Elise Marie Collins_Chakra Tonics.pdf
+Book_2006_Evan Bortnick_Embracing the Dr... elective class completejunar nodes.pdf
+Book_2006_James Wilberding_Plotinus Cosmology.pdf
+Book_2006_Jennifer Kosarin_He’s just not in the stars.pdf
+Book_2006_Judy Hall _Past Life Astrology.pdf
+Book_2006_Kaye Shinker_The textbook for Financial Astrology.pdf
+Book_2006_L. Glass_Revolutionaries of the Cosmos_The Astro-Physicists.pdf
+Book_2006_Michael Erlewine_How to Learn Astrology.pdf
+Book_2006_Michael Erlewine_lnterpret Astrology The House Combinations.pdf
+Book_2006_Myrna Lamb_The Astrology of Great Sex. pdf
+Book_2006_Ray Douglas_Astrology and the Inner Self.pdf
+Book_2006_William R. Newman and A. Graf... and Alchemy in Early Modern Europe.pdf
+Book_2007_Alessandra Celletti_Celestial Mechanics_The Waltz of the Planets.pdf
+Book_2007_Baris llhan_The Astrology of the Ottoman Empire.pdf
+Book_2007_Camille Flammarion_La precession des equinoxes.pdf
+Book_2007_Chrissie Blaze_How to Read Your Horoscope in 5 Easy Steps_must read.pdf
+Book_2007_Constance Stellas_The Everything Sex Signs Book.pdf
+Book_2007_Daniel Vandinja_RAEL The Masonic Messiah.pdf
+Book_2007_Daniel Vandinja_Rael_The Masonic Messiah.pdf
+Book_2007_Dava Sobel _Longitude.pdf
+Book_2007_Don Mcbroom_Midpoints.pdf
+Book_2007_Dr.Henning Hai Lee Yang_Chinese astrology.pdf
+Book_2007_Florian Ebeling_The Secret History of Hermes Trismegistus.pdf
+Book_2007_Geoffrey Keyte_Crystal Dreams.pdf
+
+Books using tropical zodiac
+File Listing
+Page 34
+Name
+Size
+Ti
+T
+T
+T
+T
+Book_2007_Jackie Sovas_Astrology Workboo...strology Reports- The Spirit of Love.pdf
+Book_2007_Joey Yap_Bazi_The Destiny Code_Book 1_Chinese astrology.pdf
+Book_2007_John Frawley_Sports Astrology_Horary.pdf
+Book_2007_Joseph Crane_Astrological Roots_The Hellenistic Legacy.pdf
+Book_2007_Joseph Crane_Pratical Guide to traditional Astrology_Hellenistic.pdf
+Book_2007_Julia & Derek Parker_Astrology_history_Eyewitness Companion.pdf
+Book_2007_Kris Brandt Riske_Llewellyn's Complete Book of predictive Astrology.pdf
+Book_2007_Matt Doeden_Nostradamus_short book.pdf
+Book_2007_Michael Erlewine_Tibetan Earth Lords.pdf
+Book_2007_Mladen Popovic_Reading the Hu...d Astrology in the Dead Sea Scrolls.pdf
+Book_2007_revolution in astronomy_Braham Kitiarai_must read.pdf
+Book_2007_Robert A. Sungenis_Gallileo was wrong_Evidence for Geocentrism.pdf
+Book_2007_Sorita d'Este_Practical Planet.. .ts_animals_stones_Yantras of planets.pdf
+Book_2007_Steven Forrest_The Inner Sky.pdf
+Book_2007_Steven Mark Weiss_Signs of Success_business astrology.pdf
+Book_2007_The little giant encyclopedia of the zodiac_western & chinese.pdf
+Book_2008_Carol Tebbs_the Complete Book Of Chart Rectification.pdf
+Book_2008_Celeste Teal_Lunar Nodes- Discover Your Soul's Karmic Mission.pdf
+Book_2008_Charles P. McKeague_Trigonometry.pdf
+Book_2008_Demetra George_Astrology and the Authentic Self.pdf
+Book_2008_Essay_division of the year by the Babylonians.pdf
+Book_2008_Gina Lake_Astrology and Awakening.pdf
+Book_2008_Hazel Dixon-Cooper_Friends on ...tten Day_the astrology of friendship.pdf
+Book_2008_Mary Shea_Making Choices with the Outer PlanetTransits.pdf
+Book_2008_Michael Erlewine_The Planetary Combinations _of 2 planets.pdf
+Book_2008_Michael Erlewine_360_3 way Combinations.pdf
+Book_2008_Michael Erlewine_Astrology Interface Planetary Nodes.pdf
+Book_2008_Michael Erlewine_Astrology of the Heart_Shamanism.pdf
+Book_2008_Michael Erlewine_Burn Rates Retrogrades in Astrology.pdf
+Book_2008_Michael Erlewine_Eclipse Charts from 1750 to 2200.pdf
+Book_2008_Michael Erlewine_Full Phases Aspects.pdf
+Book_2008_Michael Erlewine_How To Use Astrology Part 1 .pdf
+Book_2008_Michael Erlewine_How To Use Astrology Part 2.pdf
+Book_2008_Michael Erlewine_Local Space Relocation Astrology.pdf
+Book_2008_Michael Erlewine_Mother Moon_Astrology of The Lights/ Luminaries.pdf
+Book_2008_Michael Erlewine_StarTypes_Life path Partners.pdf
+Book_2008_Michael Erlewine_The Astrology of Space_must read.pdf
+
+Books using tropical zodiac
+File Listing
+Page 35
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_2008_Michele Finey_Secrets of the Zodiac.pdf
+Book_2008_Norman J. W. Thrower_Maps and Civilization.pdf
+Book_2008_Priscilla Costello_Practical astrology.pdf
+Book_2008_Priscilla Costello_The Weiser Concise Guide to Practical Astrology.pdf
+Book_2008_Sasson Gahl_Cosmic navigator_... Destiny with Astrology and Kabbalah.pdf
+Book_2008_Shea Mary_Solar Returns_A Study.pdf
+Book_2008_Wanda Sellar_An Introduction to Medical Astrology.pdf
+Book_2009_ Deborah Smith Parker_Humanus Astrologicus_planets in signs.pdf
+Book_2009_ Stefan Stenudd_Your Health in ...opejntroduction to Medical Astrology.pdf
+Book_2009_Alan Gripton_Malvern zodiac.pdf
+Book_2009_Anne Whitaker_Jupiter Meets Ur.. .Feb. 1997 Jupiter Uranus conjunction.pdf
+Book_2009_Ciro Discepolo_Aimed Solar and Lunar Returns.pdf
+Book_2009_Elizabeth Clare Prophet_Saint ...ain's Prophecy for the New Millenium.pdf
+Book_2009_Frances Sakoian_The Transiting Planets.pdf
+Book_2009_Gary Goldschneider_The Astrology of You and Me.pdf
+Book_2009_James Holden trans._Astrologi...ompendium of Rhetorius the Egyptian.pdf
+Book_2009_James Jeans_Astronomy and Cosmogony_Cambridge University.pdf
+Book_2009_Jan Spiller_Astrology for the Soul_Bantam Classics.pdf
+Book_2009_Phyllis Vega_Erotic Astrology_...x Secrets of Your Horoscope Revealed.pdf
+Book_2009_Pino Longchild_A Magickal Herball Compleat.pdf
+Book_2009_Ronald L. Numbers_Galileo goes tojail.pdf
+Book_2009_Stephanie Gailing_Planetary Apothecary_by sun signs.pdf
+Book_2009_Stephen Winters_The Astrology of Love.pdf
+Book_2009_Victor Ledeboer_The Master of Time.pdf
+Book_200AD_Parapegmata_astrometeorology in the ancient world_greek.pdf
+Book_201 0_ Molly Hall _Knack astrology_conception.pdf
+Book_2010_Abd al-Rahman al-Sufi_the Fixed Stars_thesis.pdf
+Book_201 0_Amy Herring_Astrology of the Moon.pdf
+Book_2010_Ann Moura_Mansions of the Moo...naksatras results for males-females.pdf
+Book_2010_B. N. Dykes_Persian Nativities III- On Solar Revolutions.pdf
+Book_2010_David Cammegh_The Astrology of God. pdf
+Book_2010_Diane Cramer_Medical Astrology.pdf
+Book_2010_Divination and interpretation of signs in the ancientworld.pdf
+Book_2010_Edwin Rose_Generational Patterns Using Astrology.pdf
+Book_2010_Francesca Rochbergjn the Path ...n Celestial Divination and Its Legacy.pdf
+Book_2010_lnga Elmqvist Soderlund_Takin...ession of astronomy_in 17th century.pdf
+Book_2010_Jan Spiller_Spiritual Astrology_Path to Self-Fulfillment.pdf
+Size
+1.7MB
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 36
+Name
+Book_2010_John A. Bridge_The heavens declare_Zodiac and Bible.pdf
+Book_2010_Lyman E. Stowe_Stowes Bible Astrology.pdf
+Book_2010_Markham J. Geller_Ancient Babylonian Medicine.pdf
+Book_2010_Michael Ledo_The Bible Astrology handbook.pdf
+Book_2010_Raven Kaldera_Moon Phase Astrology_The Lunar Key to Your Destiny.pdf
+Book_2010_Richard Palmer_Modern Spiritual Astrology.pdf
+Book_201 0_Thai astrology_Know Your Future.pdf
+Book_2010_Vivian Robson_A Student's Textbook of Astrology.pdf
+Book_2010_Wu Zhongxian_The 12 Chinese animals.pdf
+Book_2010 _ Christians And Astrology.pdf
+Book_2011-Dava Sobel_the planets.pdf
+Book_2011_Aletheia_Astrology in the New Aeon for Thelemites_cakras.pdf
+Book_2011_Astronomy among Jews in the Middle Ages_Bernard R. Goldstein.pdf
+Book_2011_B. N. Dykes_The Search of the Heart.pdf
+Book_2011_Barbara Hand Clow_Awakening the Planetary Mind.pdf
+Book_2011_Bernice Grebner_Lunar Phases in the Birth Chart.pdf
+Book_2011_Brian Harris_Early Babylonian astronomy,. pdf
+Book_2011_Charles Jayne_Preface to Prenatal Charts.pdf
+Book_2011_Chris Stubbs_When Scorpio Ruled the World.pdf
+Book_2011_Ciro Discepolo_Astro & Geography.pdf
+Book_2011_Cornelius_Aletheia_Astrology in the New Aeon forThelemites.pdf
+Book_2011_David H. Kelley_Exploring AncientSkies_AncientAstronomy.pdf
+Book_2011_David Wilcock_The Source Field. ..idden Science and LostCivilizations.pdf
+Book_2011_Diane Ronngren_Mercury Retrograde.pdf
+Book_2011_E. Rose_General patterns using astrology_planets results in signs.pdf
+Book_2011_Gina Lake_Astrology_Symbols of the Soul_5 pages missing.pdf
+Book_2011_Janet Boyer_The Midheaven_As... Medium Coeli_Through the 12 Signs.pdf
+Book_2011_John Freely_Lightfrom the East.pdf
+Book_2011_Jordan Maxwell_Stellar Theology and Masonic Astronomy.pdf
+Book_2011_Juan Estadella_Predictive Astro.. .turns_transits_rectification_prenatal.pdf
+Book_2011_Karen Harrison_The Herbal Alchemist's Handbook.pdf
+Book_2011_Keiron Le Grice_The Archetypa...overing the Gods_planets psychology.pdf
+Book_2011_Kenneth Johnson_Mayan calend...strology_mapping your innercosmos.pdf
+Book_2011_Laura Walker_The Astrology of ...n_A Guide to Healing the Shadow Side.pdf
+Book_2011_Lauren Delsack_Study Guides.. .mprovement and CareerAdvancement.pdf
+Book_2011_Lauren Delsack_Study guides_Horoscope preparation.pdf
+Book_2011_Lauren Delsack_Study Guides_Transits-Timing and Events.pdf
+Size
+1.0MB
+1.0MB
+
+Books using tropical zodiac
+File Listing
+Page 37
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_2011_Michael Ryan_A kingdom of star..._astrology in Aragon in 16th century.pdf
+Book_2011_Michael Ryan_A Kingdom of Star...strology in Spain_Aragon_lnquisition.pdf
+Book_2011_Michelle Falis_Planet Combinati...ogical Brainstorms_can be interesting.pdf
+Book_2011_Michelle Falis_Rulers of Houses in Houses_mustread.pdf
+Book_2011_Michelle Falis_Signs Through The Houses.pdf
+Book_2011_Morag Campbell_Quinta-essentia_The Five Elements.pdf
+Book_2011_Philip Brown_On the Cusp_Astrol...shold_transition line signs or houses.pdf
+Book_2011_Raven Kaldera_Moon phase astrology.pdf
+Book_2011_Robert S. Westman_The Copernic...ion, Skepticism, and Celestial Order.pdf
+Book_2011_Sandra Walker_Relationship Astrology_The Art of Chart Comparison.pdf
+Book_2011_Sara Kuehn_The Dragon in Medieval east Christian and islamic art.pdf
+Book_2011_Sara Kuehn_The Dragon in Medie...nd its Indian and Iranian lnfluences.pdf
+Book_201 1_Serina Cappucci_Basic Astrology Direct and to the Point.pdf
+Book_2011_The story of astronomy_Peter Aughton.pdf
+Book_2011_Torkom Saraydarian_Wisdom of ...Zodiac Book 1_Aries, Taurus, Gemini.pdf
+Book_2011_Torkom Saraydarian_Wisdom of the Zodiac Book 2_Cancer, Leo, Virgo.pdf
+Book_2011_Torkom Saraydarian_Wisdom of t...c Book 3_Libra, Scorpio, Sagittarius.pdf
+Book_2011_Torkom Saraydarian_Wisdom of ... Book 4_Capricorn, Aquarius, Pisces.pdf
+Book_2012_Agneta Borstein_The Moon's No.. .standing the Dynamic Ties that Bind.pdf
+Book_2012_Allan Demian_The Astrological Dynamics of the Universe.pdf
+Book_2012_Ancient Astronomy of India, Egypt, China, Maya, etc.pdf
+Book_2012_Astrogeographia Appendix-1_David Bowden.pdf
+Book_201 2_Astrogeographia_Robert Powell.pdf
+Book_2012_Au Yong Chee Tuck_Money Po...e in Astrology_CHINESE ASTROLOGY.pdf
+Book_201 2_Azazel’s Astrology For Satanists.pdf
+Book_2012_B. N. Dykes_Works of Sahl & Masha'allah_.pdf
+Book_2012_B.D. salermo_Forensics by the Stars_Astrology lnvestigates.pdf
+Book_2012_Barbara Dunn_Horary Astrology Re-Examined copy.pdf
+Book_2012_Barbara Dunn_Horary Astrology Re-Examined.pdf
+Book_2012_Chris Stubbs_Heaven's Message_p... relationship and political astrology.pdf
+Book_2012_Corrine Kenner_Tarot and Astrology.pdf
+Book_201 2_Daryn Lehoux_Parapegmata_astrometeorology in the ancientworld.pdf
+Book_2012_Daryn Lehoux_Observation And Prediction In AncientAstrology.pdf
+Book_2012_David Todd_Astronomy_The Science of the Heavenly Bodies.pdf
+Book_2012_Diane Cramer_The Uranus Squar...ical Astrology to Soften the lmpact.pdf
+Book_201 2_Diane Ronngren_Eclipse.pdf
+Book_2012_Diane Ronngren_Lunar Nodes_Keys To Emotions and Life Experience.pdf
+Size
+1.7MB
+1.6MB
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 38
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_2012_Diane Ronngren_Progressed Moon_Mirror of Our Reality.pdf
+Book_2012_Diane Ronngren_Transiting Lunar Nodes.pdf
+Book_2012_Diane Ronngren_Venus- Past, Present, Future.pdf
+Book_2012_Eric Meyers_The Astrology of Awakening_Vol 1_Eclipse of the Ego.pdf
+Book_2012_Esther Leinbach_Degrees Of The Zodiac.pdf
+Book_2012_Galileo Was Wrong_The Church ...ght- RA Sungenis & RJ Bennett_VoL1.pdf
+Book_2012_Galileo Was Wrong_The Church ...ght- RA Sungenis & RJ Bennett_VoL2.pdf
+Book_2012_Gann Trading Methodologies_Hima Reddy.pdf
+Book_2012_Gee Teri_Strategies of Defending Astrology_thesis.pdf
+Book_2012_God's Voice in the Stars Zodiac Signs and Bible Truth_decans.pdf
+Book_2012_H.W. Warren_Recreations in Astronomy.pdf
+Book_2012_Janie Emaus_Mercury in Retro Love.pdf
+Book_2012_John Sandbach_The Circular Temple_360 degrees of the zodiac.pdf
+Book_201 2_Kathy Allan_When Worlds Collide- Another Look at the Lunar Nodes.pdf
+Book_2012_Lauren Delsack_Study Guides_ Interpreting Solar Arcs.pdf
+Book_2012_Lynne Conant_Spiritual Development Through Astrology.pdf
+Book_2012_Max Caspar_Kepler.pdf
+Book_2012_Michael Tsarion_Astro-Theology and Sidereal Mythology.pdf
+Book_2012_Miriam Maron_Ancient Moon Wisdom.pdf
+Book_2012_Robert Lee_timing solutions for swing traders.pdf
+Book_2012_Sally Cragin_Astrology on the Cusp.pdf
+Book_2012_Sasha Fenton_Everyday Astrology for a Better Life.pdf
+Book_2012_Sir Thomas L. Heath_GreekAstronomy.pdf
+Book_2012_Stephane Gerson_Nostradamus... became the modern prophet of doom.pdf
+Book_201 2_The First 32 Harmonics_David Cochrane.pdf
+Book_201 2_Wendy Stacey_Uranus Square Pluto.pdf
+Book_201 3-ASTROLOGICAL LATTE_Roberta Chapin.pdf
+Book_2013-James A. Eshelman_Sidereal Mundane Astrology_global events.pdf
+Book_2013_Alan W. Hirshfeld_Parallax.pdf
+Book_2013_Alexander Kolesnikov_Moon Sign discover your true self.pdf
+Book_201 3_Amy Shapiro_Forces At Work_Astrology And Career.pdf
+Book_201 3_Anthony Louis_Power Secrets o...strology_How to Use Planetary Hours.pdf
+Book_201 3_Anthony Louis_Primary Directions in Astrology.pdf
+Book_2013_B. N. Dykesjntroductions to Traditional Astrology.pdf
+Book_2013_B. N. Dykes_Traditional Astrology for Today_An lntroduction.pdf
+Book_2013_Barbara Hand Clow_Astrology and the Rising of Kundalini.pdf
+Book_2013_C. C. Zain_Brotherhood of Light_7 courses.pdf
+Size
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 39
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_2013_D. M. Hoover_The Aries Woman Rams of Fortitude.pdf
+Book_2013_D.M. Hoover_Astrology of lnvention_The Men. pdf
+Book_2013_D.M. Hoover_Beyond The Planets.. ._Algol's Use In Fixed StarAstrology.pdf
+Book_2013_D.M. Hoover_Beyond the Planets_Book 2_Regulus and the Generals.pdf
+Book_2013_Dana Gerhardt_Lessons in Astrology as Magic.pdf
+Book_2013_Daruwala and Bejan_Star Sign...des Numerology & Chinese Astrology.pdf
+Book_2013_Diane Davis_Astrology_A Key to Higher Consciousness.pdf
+Book_2013_Donna Cunningham_SolarFire_the Stellium Handbook_Part1.pdf
+Book_2013_Donna Cunningham_SolarFire_the Stellium Handbook_Part2.pdf
+Book_2013_Esme Morgan_How To Do Your Own Astrological Chart_beginners.pdf
+Book_2013_Eve Roissy_The Naked Horoscope Physical Astrology and You. pdf
+Book_2013_Gloria Star_Llewellyn's Truth About Astrology.pdf
+Book_2013_Jason Miller_Advanced Planetary Magic.pdf
+Book_2013_Joanne Wickenburg_Reframing Transits.pdf
+Book_2013_Joanne Wickenburg_Twisted lnnocence_43 serial killers.pdf
+Book_2013_Karen Curry_Understanding Human Design.pdf
+Book_2013_Kelli Fox_The Big Book of Astrology.pdf
+Book_201 3_Larry Jacobs_Gann Trade Real Time.pdf
+Book_2013_Lisa Mendes, Harold Wiggleswo...e New Astrology of Towns and Cities.pdf
+Book_2013_M. G. Bucholtz_The Bull The Be.. .he Financial Markets Using Astrology.pdf
+Book_2013_Monica Azzolini_The Duke and t...gy and Politics in Renaissance Milan.pdf
+Book_2013_Nadiya Shah_Astrology Realize.. .derstanding Astrology_many examples.pdf
+Book_2013_Nicholas Kollerstrom_lnterface_astronomical essays for astrologers.pdf
+Book_2013_Paolo Attivissimo_moon hoax debunked.pdf
+Book_201 3_Pat Holliday_Astrology_stairway to heaven.pdf
+Book_2013_Pauline Edward_Astrological Cr...he Cardinal, Fixed and Mutable Modes.pdf
+Book_2013_R. S. Westman_Copernicus and the Astrologers.pdf
+Book_2013_R. S. Westman_Copernicus and the Astrologers_book review.pdf
+Book_2013_Richard Smith_Mapping China a..._Culture, cartography and cosmology.pdf
+Book_2013_Robin Calver_Doctor Who_Many Happy Solar Returns.pdf
+Book_2013_Robin Duff_Quick character an...ombined Western & Chinese Astrology.pdf
+Book_2013_Rumen K. Kolev_The Babylonian Astrolable.pdf
+Book_2013_Stephen Arroyo_Experiments & Experience with Astrology.pdf
+Book_201 3_Tom Lescher_Astrology 101_A J.. .rough the Signs, Planets and Houses.pdf
+Book_2014_Amy Zerner_Sun Sign Secrets.pdf
+Book_2014_Anthony Louis_Horary Astrology_Plain And Simple.pdf
+Book_2014_Anthoula Lioni_Planetary Transi...elationships- Psychological Astrology.pdf
+Size
+I. 1 MB
+II. 2 MB
+1.0MB
+
+Books using tropical zodiac
+File Listing
+Page 40
+T
+TB
+T
+T
+T
+B
+Name
+Book_2014_Art Ashton_The Art of Astrology.pdf
+Book_2014_Baulsom MNFSH, Brian T_The Cy... stages in the process of Evolution.pdf
+Book_2014_Bennett Judith_Sex Signs.pdf
+Book_2014_Brigitte Mars_The Desktop Guide to Herbal Medicine.pdf
+Book_2014_C.B. Ezekwe_Dates and Times o... lngresses_Void of Course 2014-2025.pdf
+Book_2014_C.B. Ezekwe_Planetary Hours, ... Moons, Via Combusta and the Zodiac.pdf
+Book_2014_Cynthia Bohannon_Your Solar R...hrough the Annual Solar Revolutions.pdf
+Book_2014_D.M. Hoover_Edgar Cayce On Biblical Reincarnations and the Essenes.pdf
+Book_2014_D.M. Hoover_Expanding on the Astrology of Edgar Cayce.pdf
+Book_2014_D.W Sutton_The Astrology Revolution.pdf
+Book_2014_David Wilcock_The Synchronicity Key_precession of equinoxes.pdf
+Book_2014_Diane Cramer_Dictionary of Medical Astrology.pdf
+Book_2014_Diane Eddington_Star Synastry-...ower of the Astrological Conjunction.pdf
+Book_2014_Dunn & Rebekah Higgitt_Finding...s helped solve the longitude problem.pdf
+Book_2014_Edward Snow_Astrology Considered_A Thinking Person's Guide.pdf
+Book_2014_Essentials of Medical Astrology - Harry Darling.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 10_Naked Capricorn.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 11_Naked Aquarius.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 12_Naked Pisces.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 1_Naked Aries.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 2_Naked Taurus.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 3_Naked Gemini.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 4_Naked Cancer.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 5_Naked Leo.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 6_Naked Virgo.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 7_Naked Libra.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 8_Naked Scorpio.pdf
+Book_2014_Eve Roissy_The Naked Horoscope # 9_Naked Sagittarius.pdf
+Book_2014_Evelyn Nagle_Winning with Astrology.pdf
+Book_2014_Gargatholil_Depth Astrology_Vol.1_lntroduction.pdf
+Book_2014_Gargatholil_Depth Astrology_Vol.2_Planets in Signs.pdf
+Book_2014_Gargatholil_Depth Astrology_Vol.3_Planets in Houses.pdf
+Book_2014_Gargatholil_Depth Astrology_Vol.4_Planets in Aspect.pdf
+Book_2014_Gargatholil_Depth Astrology_Vol.4_Planets in Aspect.pdf alias
+Book_2014_Helen Garrett_Health in the Horoscope.pdf
+Book_2014_Helen Garrett_Karma in the Horoscope.pdf
+Book_2014_Jack Moore_The Art of Astrology_A Look At Principles and Practices.pdf
+Size
+1.0MB
+1 KB
+
+Books using tropical zodiac
+File Listing
+Page 41
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+T
+Ti
+T
+Ti
+T
+Name
+Book_2014_Jessica Shepherd_Karmic Dates ...tes_The Astrology of the Fifth House.pdf
+Book_2014_Joelle Steele_The Astrological ...rthquakes and Seismic Data Collection.pdf
+Book_2014_John Freely_Celestial Revolutionary.pdf
+Book_2014_John Philip Hunter_Astrology and Astronomy_ Cosmic Cousins.pdf
+Book_2014_John Willner_The Powerful Declinations.pdf
+Book_2014_John Willner_The Twelve Houses.pdf
+Book_2014_Jose Chabas_Essays on Medieval Computational Astronomy.pdf
+Book_2014_Kara Janssen_What Your Birth Chart Reveals AboutYou.pdf
+Book_2014_Ken Johnson _The Pre-Flood Origins of Astrology.pdf
+Book_2014_Kieran Brannan_Shadow Astrology_about signs.pdf
+Book_2014_Kris Brandt Riske_Predicting Weather Events with Astrology.pdf
+Book_2014_L. Steven Cheairs_Twelve_ The 0...r Zodiacs from the Bible's view point.pdf
+Book_2014_Malvin Artle_The Full Moons- Topical Letters In Esoteric Astrology.pdf
+Book_2014_Mark Geller & Klaus Geus_Esoteric Knowledge in Antiquity.pdf
+Book_2014_Michael Bergen_the Astrology C...istical Evidence of Universal Design.pdf
+Book_2014_Military Astrology in Late Medieval ltaly.pdf
+Book_2014_Min's Judicial Horoscopes_59 examples.pdf
+Book_2014_Monte Farber and Amy Zerner_Sun Sign Secrets.pdf
+Book_2014_Myrna Lofthus_A Spiritual Approach to Astrology.pdf
+Book_2014_Naomi Bennett_Foundations of Astrology.pdf
+Book_2014_Phoebe Wyss_lnside the Cosmic Mind.pdf
+Book_2014_Robert Bauval_The Vatican Heresy.pdf
+Book_2014_Rufus Opus_Seven spheres.pdf
+Book_2014_Sandra Walker_The Chiron book.pdf
+Book_2014_Sasha Fenton's Planets in Astrology.pdf
+Book_2014_Susan Eckersley_The Art of A...gy_How to Make and Read Horoscopes.pdf
+Book_2015-Thomas Chaote - Book of Stars.pdf
+Book_2015_ Vivian Robson_Astrology and Sex. pdf
+Book_201 5_Alex Kay_Void-of-Course Moon Guide_The Foundation.pdf
+Book_201 5_Alex Wise_The Houses of the Zodiac.pdf
+Book_2015_Angelo Distefano_The 12 Earth Houses.pdf
+Book_2015_Anne Whitaker_The Moons Nodes in action.pdf
+Book_2015_April Elliott Kent_Astrological Transits_The Beginner's Guide.pdf
+Book_2015_April Elliott Kent_The Essential Guide to Practical Astrology_must read.pdf
+Book_201 5_Art Robertson_The Houses of A...ce of Moon Signs and Planets_book 2.pdf
+Book_2015_D. Block & D. George _Astrology for Yourself.pdf
+Book_2015_D.M. Hoover_Edgar Cayce on Gemstones.pdf
+Size
+I. 5 MB
+II. 8 MB
+1.7MB
+1.0MB
+
+Books using tropical zodiac
+File Listing
+Page 42
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+T
+Ti
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_2015_D.M. Hoover_Prophecy and End Times From Edgar Cayce to Fatima.pdf
+Book_2015_D.W Sutton_Planet Prominence Rule.pdf
+Book_2015_Dan Furst_Finding Your Best P...es_Using Astrocartography_must read.pdf
+Book_2015_Diane Eddington_Top 10 Best Synastry Aspect.pdf
+Book_2015_Duane Huff_Musician's Horoscopes.pdf
+Book_2015_Emily Faugno_Your Fertile Hours.pdf
+Book_2015_Erica Green_Astrology Secrets ...ips About Astrology and Relationship.pdf
+Book_2015_Franklin Gillette_Compatibility_Code of Harmony for Love and Unity.pdf
+Book_2015_James J Kolata_Elementary Cos.. .Universe to the Big Bang and Beyond.pdf
+Book_2015_Jen Solis_Kundalini_The Kundalini Awakening Guide for Healing.pdf
+Book_2015_Joanna Watters_Be Your Own Astrologer_A step-by-step guide.pdf
+Book_2015_John lndagine_Palmistry, Physiognomy & Natural Astrology.pdf
+Book_2015_John Sandbach_Midpoints_A Kab... Meanings for Astrological Midpoints.pdf
+Book_2015_John Savarese_Western Sidereal Astrology for Beginners.pdf
+Book_2015_John Sirois_6 Important Things You Must Know About Daily Horoscopes.pdf
+Book_2015_Julie Wilson_Astrology_12 Best ...mpatibility, Career and Relationships.pdf
+Book_201 5_Leon Martin_Astrology & Self Development.pdf
+Book_201 5_Leon Martin_Norse Mythology_Gods & Myths Revealed_Bhumandala.pdf
+Book_201 5_Leon Martin_the astrology coo...derstanding Astrology_For Beginners.pdf
+Book_201 5_Leon Martin_The Tao Of Astrolo..._Jupiter Transits Through The Houses.pdf
+Book_201 5_Leon Martin_The Tao Of Astrology_Saturn Transits Through The Houses.pdf
+Book_201 5_Leon Martin_The Tao Of Astrology_Sun Transits Through The Houses.pdf
+Book_201 5_Leon Martin_Vocational Astrolo... Your Perfect Job Through Your Chart.pdf
+Book_2015_Mandi Konesni_Mandi's Metaphysical Gems.pdf
+Book_2015_Mary Solomon_CRYSTALS_Healing Energy_Gemstones.pdf
+Book_2015_Michael Baigent_Astrology in Ancient Mesopotamia.pdf
+Book_2015_Michael Erlewine_vision of the eclipse_lunations.pdf
+Book_2015_Nick Anthony Fiorenza_An lntr...to Astronomical Astrology_MUST READ.pdf
+Book_2015_Oner Doser_Astrological Predi...on_A Handbook of Techniques_extract.pdf
+Book_201 5_Patsy Bennett_Astrology Secrets of the Moon.pdf
+Book_2015_Paul Colilli_Agamben and the Signature of Astrology.pdf
+Book_2015_R. Grossinger_Pluto New Horizo... Astronomy, Astrology, and Mythology.pdf
+Book_2015_Rav Sha'ul_Creation cries out_The book of the Mazzaroth.pdf
+Book_2015_Richard Grossinger_Pluto_New Horizons for a Lost Horizon_Astronomy.pdf
+Book_2015_Robert Reis_Addiction As Seen Through Astrology_Book 1_The Planets.pdf
+Book_2015_Robert Reis_Addiction As See...ogy_Book 2_The signs_many examples.pdf
+Book_2015_Robert Reis_Addiction As See...gy_Book 3_The houses_many examples.pdf
+Size
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 43
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_2015_Roland Legrand_Horary Astrology_A new pratcial approach.pdf
+Book_2015_Sasha Fenton_Understanding the Astrological Vertex.pdf
+Book_2015_Schneider & Tatiana Galperina_Medical Astrology_Galactic Code.pdf
+Book_2015_Sharon Fitzgerald_Zodiac Secr...odiac Signs, Astrology & Horoscopes.pdf
+Book_2015_Susannah Taylor_The Beginner’s Guide.pdf
+Book_2015_Wilma Reyes_Astrology Aspects For Beginners.pdf
+Book_2016-Frank Clifford_The Astrology Q..._The midheaven, spotlight on success.pdf
+Book_2016-Frank Clifford_The Astrology Qua. ..he astrology of love, sex & attraction.pdf
+Book_2016-Frank Clifford_The Astrology Quartet_part 4 of 4_Solar arc directions.pdf
+Book_2016-Wendy Stacey_Consulting with Astrology.pdf
+Book_2016_Adams Media_The Beginner's G..., Numerology, Tarot & Palm Reading.pdf
+Book_2016_Adriano Carelli_The 360 Degrees of the Zodiac.pdf
+Book_2016_Alison Price_Your Oriental Plan. ..insights into perception and vocation.pdf
+Book_201 6_Amy Herring_Essential Astrolog...o Know to Interpret Your Natal Chart.pdf
+Book_201 6_Antares Stanislas_Horary Astrology_Must read copy.pdf
+Book_201 6_Antares Stanislas_Horary Astrology_Must read.pdf
+Book_201 6_Antares Stanislasjnvestigati... Astrology_Mundane events_mustread.pdf
+Book_201 6_Antares Stanislas_Predictive As.. .new discovery in the transits reading.pdf
+Book_2016_B. D. Salerno_Exploring Forensic Astrology.pdf
+Book_2016_Bernie Ashman_How to Survive ...ry Retrograde_other planets as well.pdf
+Book_2016_Brian Clark_The Family Legacy.pdf
+Book_201 6_Brian Clark_Vocation.pdf
+Book_201 6_Chancey King_Know Your Ascendant_physiognomy.pdf
+Book_2016_Christeen H. Skinner_Exploring the Financial Universe.pdf
+Book_2016_D.M. Hoover_Astrology of the Boxers.pdf
+Book_2016_D.M. Hoover_Edgar Cayce On Past Lives.pdf
+Book_2016_Dan Furst_Maps of Power_The As...reat, the Beautiful and the Terrible.pdf
+Book_2016_Delton Moore_Winds of Astrology.pdf
+Book_2016_Dieter Koch_The Star of Bethlehem.pdf
+Book_2016_Dorian Gieseler Greenbaum_The ...stic Astrology_Origins and lnfluence.pdf
+Book_2016_Eric Meyers_The Astrology of A...Vol 2_Chart Application & Counseling.pdf
+Book_2016_Frank Clifford & Mark Jones_Di...ues_Tools for the Working Astrologer.pdf
+Book_2016_Frank Clifford_Horoscope Snapshots.pdf
+Book_2016_Frank Clifford_The Astrology Q...e horoscope, the astrology of comedy.pdf
+Book_2016_Hansjorg Geiges_The Geometry of Celestial Mechanics.pdf
+Book_2016_lvo Dominguez_Practical Astrology for Witches and Pagans.pdf
+Book_2016_Janet Ritchie_The Comprehens... Using Zodiac Signs and Horoscopes.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 44
+Ti
+T
+T
+Ti
+T
+Tl
+Ti
+"B
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+T
+T
+Ti
+Ti
+Ti
+T
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_201 6_Jeffrey Green_Uranus Freedom from the Known.pdf
+Book_2016_Joanne Wickenburg_The Solar Return Chart- Your Year Ahead.pdf
+Book_201 6_Kathy Lee_Astrology_Unravel the Secrets of Stars, Planets, and Signs.pdf
+Book_2016_Kim Farley & Jane Struthers_A...Mind Maps & 101 Astrology Questions.pdf
+Book_2016_Luna Sidana_Astrology_The 12 Zodiac Signs.pdf
+Book_2016_Magus Medicus-Jason Bowen_K...DICINE_Medical Astrology Handbook.pdf
+Book_2016_Michael Douglas Neely_Life Cycles.pdf
+Book_2016_Michelle Falis_Angles_Ascendan... with the 10 Major Planets_must read.pdf
+Book_2016_Michelle Falis_The Nodes by Sign and House.pdf
+Book_2016_Noel Eastwood_Astrology of He...d Progressed Chart_many ex. chart.o.pdf
+Book_2016_Oscar Black_Astrology_ Ultimat...diac Signs, Love, Wisdom and Destiny.pdf
+Book_2016_Ron Watson_The Cosmic Key to A. ..logical Predictionjt's dead serious.pdf
+Book_201 6_Scott Reeves_Geocentricity_The Debates.pdf
+Book_2016_Stephanie Marango & Rebecca Gordon_Your Body and the Stars.pdf
+Book_201 6_Steve Andrews_Pagan Portals - Herbs of the Sun, Moon and Planets.pdf
+Book_201 6_Valerie W. Holt_Astrology_Char...nd the Nature of the 12 Zodiac Signs.pdf
+Book_2016_Valerie W. Holt_Relationship Compatibility guide.pdf
+Book_2016_Various authors_A Guide to Birthstones.pdf
+Book_2016_Yasmin Boland_Astrology A Guide to Understanding Your Birth Chart.pdf
+Book_2017_Ajani Abdul-Khaliq_Hayden’s Book of Synastry.pdf
+Book_201 7_Alison Price_Children's Charts_Astrology for Little Darlings.pdf
+Book_2017_Astrology_Julie Wilson_12 Best ...mpatibility, Career and Relationships.pdf
+Book_2017_B. A. Vorontsov-Vel'Yaminov_Astronomical Problems.pdf
+Book_201 7_Barbara Rydenjntroduction to Cosmology_astronomy.pdf
+Book_201 7_Ben Fitch_Science of Astrology.pdf
+Book_201 7_Bianca Stratford_The Astrology of Elliot Rodger.pdf
+Book_201 7_Christeen H. Skinner_The Beginners Guide to the Financial Universe.pdf
+Book_2017_D. M. Hoover_Exploring Critical Degrees & the Fixed Stars.pdf
+Book_2017_D.M. Hoover_Fallen Angels_Astrology of Child Victims.pdf
+Book_2017_D.M. Hoover_Rigel and Spica Stars of Fortune.pdf
+Book_2017_D.M. Hoover_The Effect of Royal Stars In Practical Astrology.pdf
+Book_201 7_David Bolton_The Zenith Chart_... you in the Center of your Horoscope.pdf
+Book_201 7_Diane Eddington_Top 1 0 Worst Synastry Aspects.pdf
+Book_201 7_Dr. Bobbi Anne White_Axis Of In. ..Clinical Studies Of Medical Astrology.pdf
+Book_2017_Jennifer T. Gehl & Marc S. Mico...e of Planetary Signatures in Medicine.pdf
+Book_201 7_John Clement_The intellectual ...Ichemy and astrology_circa 1650-1720.pdf
+Book_201 7_Joseph Polansky_A Spiritual Look at the 12 Signs.pdf
+Size
+1.7MB
+1.6MB
+1.0MB
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 45
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_201 7_Laura Walker_The Sabian Symbols.pdf
+Book_2017_M A Katzenberg_The Mars-Venus...nection_the Astrology of Attraction.pdf
+Book_2017_Marion Williamson_Little Book of Astrology.pdf
+Book_2017_Micheal Parra Callas_Astrology...tthe most from an Astrology Reading.pdf
+Book_2017_N.Rombis_Modern Astrology_Ruling Planets.pdf
+Book_201 7_Rev. Rhonda_Sister Sage's Astrological Journeys_As above, So below.pdf
+Book_201 7_Sasha Fenton_Chakras_Plain & Simple.pdf
+Book_201 7_Sondeep Patr_2300 AD Buddha’s Prophesy.pdf
+Book_201 7_Stephen Udovich_The Psychology.. .ntific & Christian View of Astrology.pdf
+Book_201 7_Sudhir and Jinesh Wilmot_Astro...e Who Won’t Admit They’re lnterested.pdf
+Book_2017_Vedran Oxus_Evoking the Planets_Astrological Magic.pdf
+Book_2018-Chrissie Blaze_Earth_Astrology's Missing Planet_mustread.pdf
+Book_2018-Priscilla Costello_Romeo and Juliet_Shakespeare and the Stars.pdf
+Book_201 8-Roland Legrand_Les Astres dans...ement au cours complet d'astrologie.pdf
+Book_201 8_Areti Georgakopoulou_Healing through Astrology and Greek Mythology.pdf
+Book_2018_Carole Taylor_Astrology Using t...om of the Stars in Vour Everyday Life.pdf
+Book_2018_D.M. Hoover_The Astrology of Economic Depression Then and Now.pdf
+Book_2018_Dana Davies_Transits and events.pdf
+Book_2018_Danielle Blackwood_The Twelve Faces of the Goddess.pdf
+Book_2018_Derek Ellison_The advantages ...isadvantages of astrology_must read.pdf
+Book_2018_G R Narasimhan_A simple guide to pancha pakshi Sastra.pdf
+Book_2018_Hermes Trismegistus_The Corpus Hermeticus.pdf
+Book_2018_Hermes Trismegistus_The Corp..._Juan and Maria Balboa_translators.pdf
+Book_2018_Jacqueline Feke_Ptolemy's Philosophy Mathematics As a Way of Life.pdf
+Book_2018_Jen Howk_True north_discoveri...ur purpose through karmic astrology.pdf
+Book_2018_Juliana McCarthy_The Stars Within You. pdf
+Book_201 8_Kirsty L Mclntosh_Criminal Ast...gy Vol.1_ Understanding Crime Charts.pdf
+Book_201 8_Matthew Keller_Transits and Progressions_Taking your baby steps.pdf
+Book_2018_Nicholas Kollerstrom_Venus the Path of Beauty.pdf
+Book_2018_Priscilla Costello_Macbeth_The...gical Keys_Shakespeare and the Stars.pdf
+Book_2018_Sasha Fenton_Secrets of Chinese Divination.pdf
+Book_2102_Sandra Walkerjntroduction to Mundane Astrology_charts of countries.pdf
+Book_234AD_Porphyry of Tyre_An Introduct... the Tetrabiblos_James Holden Transl.pdf
+Book_250 AD_Origen_Hippolitus_extracted ...n of all heresies_Chaldean astrology.pdf
+Book_334_Firmicus Maternus_Matheseos Lib...ncient astrology theory and practice.pdf
+Book_415_Hephaistios of Thebes_Apotelesmatics_Book l.pdf
+Book_41 5_Hephaistios of Thebes_Apotelesmatics_Book ll.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 46
+Ti
+T
+T
+T|
+TB
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+Name Size
+Book_41 5_Hephaistios of Thebes_Apotelesmatics_Book ll_another version.pdf 626 KB
+Book_415_Hephaistios_Apotelesmatics Principle.pdf 283 KB
+Book_75AD_Carmen Astrologicum_Full.pdf 805 KB
+Book_770_835 A.C. Abu Ali Khayat_The Judgments of Nativities.pdf 3.3 MB
+Book_770_835 A.C.Abu Ali Khayat_The Judgments of Nativities_retyped.pdf 1 .2 MB
+Book_787-886_Abu Masar_The abbreviation of the introduction to astrology.pdf 3.9 MB
+Book_950_1874_Abd-al-Rahman Sufi_Description des etoiles fixes.pdf 9.1 MB
+Book_A.J. Pearce_The Textbook of Astrology_Book 1_in 5 sections_1978 ed-.pdf 4.6 MB
+Book_A.J. Pearce_The Textbook of Astrology_Book 1_in 5 sections_1980 ed-.pdf 3.8 MB
+Book_A.J. Pearce_The Textbook of Astrology_Book 2_1880_Mundane.pdf 3.1 MB
+Book_Anonymous_The book of 24 stones_gemology.pdf 888 KB
+Book_Anyara Dwads.pdf 267 KB
+Book_Aoife Casey_in 2 books_Understand zodiac signs & Better relationships.pdf 1.7 MB
+Book_Ars Notoria_The Notory Arts of Salomon_Transl. Robert Turner 1657.pdf 431 KB
+Book_Astrology tuition forTRS-80Rsoftware.pdf 650 KB
+Book_Astrology Webcourse.pdf 1 .4 MB
+Book_Atlas of Messier Objects.pdf 30.0 MB
+Book_Atlas of the Universe.pdf 35.3 MB
+Book_B. N. Dykes_2011_Abu Yusuf Al-Kindi_... of al-Kindi_electional & Prasna copy.pdf 6.1 MB
+Book_B. N. Dykes_2011_Abu Yusuf Al-Kindi_...pters of al-Kindi_electional & Prasna.pdf 6.1 MB
+Book_B. N. Dykes_2012_Choices and lncepti...tional Astrology_in Chinese also copy.pdf 7.3 MB
+Book_B. N. Dykes_201 2_Choices and Incepti... Electional Astrology_in Chinese also.pdf 7.3 MB
+Book_B. N. Dykes_415_Apotelesmatics_Boo... Inceptions by Hephaistion of Thebes.pdf 3.3 MB
+Book_B. N. Dykes_415_Apotelesmatics_Book...tions by Hephaistion of Thebes.pdf alias 1 KB
+Book_Barbara Goldsmith_Where is Your Part of Fortune.pdf 1 76 KB
+Book_Ben Evans_Space Shuttle Columbia.pdf 6.0 MB
+Book_Best_1938_George Frederick Kunz_The Curious Lore Of Precious Stones.pdf 16.0 MB
+Book_BEST_Pocket Sky Atlas.pdf 14.2 MB
+Book_Bill Darlison_The Gospel and the Zodiac_The Secret Truth AboutJesus.pdf 11.8 MB
+Book_Blair Gorman (a scammer)_Practical Astrology.pdf 553 KB
+Book_C. C. Zain_10-1 Delineating the Horoscope.pdf 2.0 MB
+Book_C. C. Zain_10-2 Progressing the Horosocope.pdf 1.7 MB
+Book_C. C. Zain_11_Divination and Charac... Reading eBook optimized and indexed.pdf 1.5 MB
+Book_C. C. Zain_13_Mundane Astrology.pdf 3.4 MB
+Book_C. C. Zain_14_Occultism Applied to Daily Life.pdf 2.3 MB
+Book_C. C. Zain_15_Weather Predicting.pdf 2.4 MB
+Book_C. C. Zain_16_Stellar Healing_predisposition.pdf 4.6 MB
+
+Books using tropical zodiac
+File Listing
+Page 47
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+T\
+T
+T
+J)
+Ti
+T
+T
+Ti
+T
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Name
+Book_C. C. Zain_17_Cosmic Alchemy.pdf
+Book_C. C. Zain_19_Organic Alchemy.pdf
+Book_C. C. Zain_1_Laws of Occultism.pdf
+Book_C. C. Zain_20_The Next Life.pdf
+Book_C. C. Zain_21_Personal Alchemy.pdf
+Book_C. C. Zain_2_Astrological Signatures.pdf
+Book_C. C. Zain_3_Mundane Astrology for cities_nations_groups.pdf
+Book_C. C. Zain_3_Mundane Astrology for cities_nations_groups_from kindle.pdf
+Book_C. C. Zain_4_Ancient Masonry.pdf
+Book_C. C. Zain_6_The Sacred Tarot.pdf
+Book_C. C. Zain_7_Spiritual Astrology .pdf
+Book_C. C. Zain_8_HoraryAstrology.pdf
+Book_C. C. Zain_Brotherhood of Light Hermetic Astrology.pdf
+Book_Caleb Scharf_The Copernicus Complex.pdf
+Book_Calletta_Star Signs Operating Manual_relationships.pdf
+Book_Caroline Luley_Forensic Astrology for Everyone_find lostobjects.pdf
+book_Chakras_energy vortexes_book 1.pdf
+Book_Chloe Miller_Astrology_A Deep Look Into Each Zodiac Sign.pdf
+Book_Chloe Miller_Chakra Energy_A Healing And Balancing Guide.pdf
+Book_Chloe Miller_The Crystal Astrology ..._How To Use Crystals, Sabian Symbols.pdf
+Book_Chloe Miller_The Energy And Vibratio...ystals_A Guide to Heal and Rejuvenate.pdf
+Book_Ciro Discepolo_Arts & Stars_examples.pdf
+Book_Ciro Discepolo_The Great Treatise of Astrology Vol. 1.pdf
+Book_Ciro Discepolo_The Great Treatise o...gy Vol.2_Ryan Kurczak & Richard Fish.pdf
+Book_Ciro Discepolo_The Protocol for Correction of Birth Time.pdf
+Book_Claudio Vita_Finzi_The Sun_A User's Manual.pdf
+Book_Color Encyclopedia of Gemstones.pdf
+Book_Companion to the Greek Track.pdf
+Book_compare Chinese Indian and Western astrology.pdf
+Book_Cosmology Religion and Philosophy_Steiner Rudolf.pdf
+Book_Cynthia Bohannon_North and South Nodes_Guideposts of the Spiritpdf
+Book_D. A. Mackenzie_Myths Of Babylonia and Assyria_ch.13 astrology.pdf
+Book_Dana Davie_Electional Astrology_Gene... algorithms_to set up a business etc.. pdf
+Book_Dane Rudhyar_The Significance of D...ms_The Four States of Consciousness.pdf
+Book_Daniel FLeisch_A Student's Guide to the Mathematics of Astronomy.pdf
+Book_Daniel Hall_Zodiac Signs Book_The Encyclopedia of Zodiac Signs.pdf
+Book_Daniel Sijakovic_2018_The Sun in the 8th house of horoscope.pdf
+Size
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 48
+a
+Name Size
+7-| Book_Daniel Sijakovic_Astrology and karma.pdf 2.0 MB
+Book_Dave Prochnow_1 01 Outer Space Projects for the Evil Genius.pdf 21 .7 MB
+Book_David Arditti_Setting up a Small Observatory.pdf 4.1 MB
+Book_David Bolton_Technical Astrology Simplified_Understanding astrology.pdf 400 KB
+Book_David Brodie_lce Rock and Beauty.pdf 14.1 MB
+Book_David Frawley,_Ayurveda and Marma Therapy- Energy Points in Yogic Healing.pdf 5.7 MB
+Book_David Frawley_Ayurvedic healing_A Comprehensive Guide.pdf 2.8 MB
+Book_David Lane_The World's Oldest Astrological Book- The Bhrigu Samhita.pdf 206 KB
+Book_David W. Pankenier_Astrology and Cosmology in Early China.pdf 26.4 MB
+Book_David Wilcock_Shift Of The Ages.pdf 3.6 MB
+Book_David Woods_How Apollo Flew to the Moon.pdf 4.5 MB
+Book_Dean Dominic De Lucia_Astro Vedica Series_ Stellar Horoscopes.pdf 1 .9 MB
+Book_Debbie Nagiof_Familiar strangers_Sou... lames and their Astrological Synastry.pdf 2.7 MB
+Book_Demetruis Jones_The Astrology of The Chakras.pdf 393 KB
+Book_Deunov Peter_Le Testament des couleurs_chakras.pdf 697 KB
+Book_Devakeralam_Chandrakala Nadi 59.6 MB
+Jyotish_Deva Keralam- Chandra Kala Nadi Vol.1_Santhanam_original.pdf 9.9 MB
+Jyotish_Deva Keralam- Chandra Kala Nadi Vol.2_Santhanam_original.pdf 14.5 MB
+Jyotish_Deva Keralam- Chandra Kala Nadi Vol.3_Santhanam_original.pdf 17.9 MB
+Jyotish_Deva Keralam- Chandra Kala Nadi _no sanskrit_Vol.1_Santhanam.pdf 4.8 MB
+Jyotish_Deva Keralam- Chandra Kala Nadi _no sanskrit_Vol.2_Santhanam.pdf 5.6 MB
+Jyotish_Deva Keralam- Chandra Kala Nadi _no sanskrit_Vol.3_Santhanam.pdf 7.1 MB
+7-] Book_DianneRobbins-MessagesfromHollowEarth.pdf 1.6 MB
+Book_Dianne Robbins - Telos - The Call Go...e Hollow Earth and Underground Cities.pdf 909 KB
+Book_Dirk L. Couprie_When the Earth Was.. .Ancient Greek and Chinese Cosmology.pdf 4.6 MB
+Book_Don Mc.broom_ Midpoints.pdf 4.6 MB
+Book_Dr.A.K Nagar_Gnostic Astrology.pdf 1 .6 MB
+Book_E. Sibly_illustration of the celestial science of astrology_1 788 ed.part 1 .pdf 1 2.0 MB
+Book_E. Sibly_illustration of the celestial science of astrology_1 788 ed.part 2.pdf 28.3 MB
+Book_E. Sibly_illustration of the celestial science of astrology_1 788 ed.part 3 & 4.pdf 11.8 MB
+Book_E. Sibly_illustration of the celestial science of astrology_1826 ed._all 4 parts.pdf 34.2 MB
+Book_E. Tibetan Astrology_Michael Erlewine.pdf 5.1 MB
+Book_E. Tibetan Astrology_Philippe Cornu_bad scan.pdf 14.8 MB
+Book_E. Tibetan Elemental Astrology.pdf 2.5 MB
+7-1 Book_Eclipse_Duncan Steel.pdf 5.2 MB
+Book_Ed Augusts_Planetary Combinations in Astrology charts_aspects.pdf 2.3 MB
+M Book_EgyptianZodiacs.pdf 18.0 MB
+
+Books using tropical zodiac
+File Listing
+Page 49
+Name
+Size
+T
+B
+T|
+T
+T
+T
+TB
+T
+T
+T
+T
+T
+Book_Elizabeth Rose Howard_The Astrology ...I. 2 Part 1_The Moon, Lilith, Priapus.pdf
+Book_Elizabeth Rose Howard_The Astrology... ation Vol. 2 Part 2_The Lunar Nodes.pdf
+Book_Elizabeth Rose Howard_The Astrology of Reincarnation Vol.1_The aspects.pdf
+Book_Emma Belle Donath_Asteroids in Synastry.pdf
+Book_Eric Dubay_Atlantean Conspiracy.pdf
+Book_Erica Reiner_Astral Magic in Babylonia.pdf
+book_Essence Of & Research On Nadi Astrology
+Jyotish_Essence Of or Research On Nadi Astrology vol.1 .pdf
+Jyotish_Essence Of or Research On Nadi Astrology voL2.pdf
+Jyotish_Essence Of or Research On Nadi Astrology voL3.pdf
+~A-| Jyotish_Essence Of or Research On Nadi Astrology voL4.pdf
+Book_Exploration of the Solar System by Infrared Remote Sensing.pdf
+Book_EXTRASOLAR PLANETS.pdf
+Book_Finding the Big Bang.pdf
+Book_French_1865_R. A. Proctor_Saturn and its system.pdf
+Book_french_201 5_Roland Legrand_Les Transi...etaires en astrologie previsionnelle.pdf
+Book_french_201 6_Roland Legrand_Cours...LAS_Tome 2_Les Maisons_supplement.pdf
+Book_french_Roland Legrand_L'astrologie ... complet methode ABLAS_Tomes 1 a 4.pdf
+Book_french_Roland Legrand_La Revolution Solaire_Guide pratique d'interpretation.pdf
+Book_french_Roland Legrand_Le voyage astr...ste par l'astrologie_Manuel pratique.pdf
+Book_french_Roland Legrand_Les Synastries.pdf
+Book_french_Roland Legrand_Les Transits_Textes d'interpretation.pdf
+Book_Gadbury Vs Lilly_criticism_1675.pdf
+Book_Gadbury Vs Lilly_criticism_1675b_answer to Gadbury.pdf
+Book_Gadbury Vs Lilly_criticism_1676_answer to Gadbury_continued.pdf
+Book_Gadbury Vs Lilly_criticism_1677.pdf
+Book_Gadbury Vs Lilly_criticism_Gadbury to Lilly.pdf
+Book_Gann_201 0_Commodities Course_Compiled_watermaks.pdf
+Book_Gann_2010_Master Stock Market Course_watermarks.pdf
+Book_Gann_master-stock-market-course.pdf
+Book_Gann_The basis of my forecasting method_voL2.pdf
+Book_Gann_The basis of my forecasting method_voL3.pdf
+Book_Gann_Trading the Square of Nine.pdf
+Book_Gary Lorentzen_Reading a Chart.pdf
+Book_Gems_Michael O’Donoghue.pdf
+Book_George Bayer_complete course of astrology_most easy rectification.pdf
+Book_George Curtis_Ancient Knowledge.pdf
+
+Books using tropical zodiac
+File Listing
+Page 50
+Name
+Size
+Ti
+T
+T
+T
+T
+Book_Gerald O. Dobek_Ancient Egyptian Astronomy.pdf
+Book_Gerard Cremonensis_Astronomical Geomancy.pdf
+Book_Girolamo Cardano_7 segments.pdf
+Book_Girolamo Cardano_7 segments_ sample.pdf
+Book_Girolamo Cardano_7 segments_extracts.pdf
+Book_Gloria Star_astrology 101 for beginners.pdf
+Book_Graham SwinerdHow Spacecraft Fly.pdf
+Book_greek astronomy dictionary.pdf
+Book_Greek track_1_lntroductory Matters.pdf
+Book_Greg Bogart_Planets in Therapy- Pre... Technique and the Art of Counseling.pdf
+Book_Guido Bonatti_Bonatti on Basic Astrology.pdf
+Book_Guido Bonatti_Bonatti on Mundane Astrology.pdf
+Book_Guido Bonatti_Book of astronomy_Dykes transl.pdf
+Book_Gurmeet Singh_Relationship Compatibility Astrology.pdf
+Book_Handbook of Space Astronomy and Astrophysics 3rd Ed. pdf
+BookJHanne Klein_Jupiter The Planet Of Luck.pdf
+Book_Helen Garrett_Astrology and Metaphysics in the Bible.pdf
+Book_Hellenistic_Astrology.pdf
+BookJHenrik Gullfoss_The Complete Book of Spiritual Astrology.pdf
+Book_Hermes Trismegistus_Liber Hermetis part 1 .pdf
+BookJHermes Trismegistus_Liber Hermetis part 2.pdf
+Book_Hilarion_Astrology Plus the signs and houses.pdf
+Book_History_Hellenistic Astrology.pdf
+BookJHo Peng Yoke_Chinese Mathematical Astrology.pdf
+BookJHow to Photograph the Moon and Planets with Your Digital Camera.pdf
+Bookjmpact- The Threat of Comets and Asteroids.pdf
+Bookjntroduction to Astronomy and Cosmology.pdf
+Bookjrene Andrieu_L’astrologie Soli-lunaire_partiel.pdf
+Bookjsabella Alston_Chinese Zodiac.pdf
+Book_J.holden_five medieval astrologers.pdf
+Book_James R Lewis_Encyclopedia of Heavenly lnfluences.pdf
+Book_Jamey L. Jenkins_The Sun And How To Observe lt.pdf
+Book_Jan Rose_How Astrology Can Help you Conceive.pdf
+Book_Jan Spiller_New Moon Astrology.pdf
+Book_Jan Spiller_The Astrology of Success- A Guide to Illuminate Your Inborn Gifts.pdf
+Book_Jayant Narlikar_A Journey Through The Universe.pdf
+Book_Jean Meeus_1997_Mathematical Astronomy Morsels.pdf
+1.7MB
+1.6MB
+1.6MB
+
+Books using tropical zodiac
+File Listing
+Page 51
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_Jean Meeus_2002_More Mathematical Astronomy Morsels.pdf
+Book_Jeanne Avery_Astrological Aspects_Your Inner Dialogue.pdf
+Book_Jerome Cardan biography.pdf
+Book_Johannes Schoener_Opusculum Astrologicum_Project Hindsight.pdf
+Book_John Addey_Harmonics in Astrology.pdf
+Book_John Frawley_best horary astrologer_the Horary Textbook.pdf
+Book_John Frawley_best horary astrologer_The real astrology applied.pdf
+Book_John Frawley_the Horary Textbook_best horary astrologer copy.pdf
+Book_John Frawley_the Horary Textbook_best horary astrologer.pdf
+Book_John Gadbury_Collection of Nativities.pdf
+Book_John Gadbury_Nativity of Lewis XIV_French king.pdf
+Book_John Gadbury_The Doctrine of Horarie Questions.pdf
+Book_John W. McAnally_Jupiter & how to observe it.pdf
+Book_Jon Erickson_Asteroids_Comets and Meteorites.pdf
+Book_Joy Michaud_The Uranus Neptune lnfluence.pdf
+Book_Junior Astrology Course 1 to 26.pdf
+Book_Karen Bartlett_Salts of life_medical.pdf
+Book_Kathleen Perham_Self Development with Astrology.pdf
+Book_Kepler and the Jesuits.pdf
+Book_KG Stiles_CHAKRA ASTROLOGY.pdf
+Book_Komilla Sutton_The Nakshatras_The Stars Beyond the Zodiac.pdf
+Book_Kundalini and the Chakras - A Practical Manual.pdf
+Book_Larry Pasavento_A Traders Guide to Financial Astrology.pdf
+Book_Larry Pesavento._Astro Cycles_The Trader's Viewpoint.pdf
+Book_Lauren Delsack_Study Guides _Birth Time Rectification.pdf
+Book_Lauren Delsack_Study Guides_ Event Planning.pdf
+Book_Lauren Delsack_Study Guides_ Relationship.pdf
+Book_Lauren Delsack_Study Guides_The Lunation Cyle.pdf
+Book_Lauren Delsack_Study Guides_ When Outer Planets Change Signs.pdf
+Book_Lauren Delsack_Study Guides_The Saturn Cycle and the Saturn Return.pdf
+Book_Lauren Luquin_Astrology of Herbs and Tarot_Correspondences for Healing.pdf
+Book_Le bestiaire du desert dans le ciel arabe.pdf
+Book_Leon Martin_Astrology_Complete Gui...derstanding All Twelve Zodiac Signs.pdf
+Book_Leticia Parmer_An astrological guide to your child.pdf
+Book_Liber Astronomiae_1980_Robert Zoller_Bonatti on the arabic parts.pdf
+Book_Liber Gaias_A handbook of geomancy.pdf
+BookJJber XCVI GAIAS-A Handbook of Geomancy_ Aleister Crowley.pdf
+Size
+I. 9 MB
+II. 1 MB
+
+Books using tropical zodiac
+File Listing
+Page 52
+Name
+Size
+T
+T
+T|
+T
+TB
+Q
+Bookjife of Kepler.pdf
+Bookjight of egypt_vol.1 .pdf
+Bookjight of egypt_voL2.pdf
+Book_Linda Goodman_The Love Signs.pdf
+Book_Liz Greene_The Horoscope in Manifestation- Psychology and Prediction.pdf
+BookJJz Greene_The Horoscope in Manifestation_Psychology and Prediction.pdf
+Book_Lucia Bellizia_The Paranatellonta in ancient Greek astrological literature.pdf
+Book_Lyn Birkbeck_The Sabian Symbols_The Astrological Oracle.pdf
+Book_M. G. Bucholtz_Financial Astrology Almanac 2017.pdf
+Book_M. Lawrence_Hellenistic Astrology.pdf
+Book_M. Sarkar & B.B. Dutta_Astronomy-4th Ed. pdf
+Book_M.M.Woolfson_Small Bodies in Planetary Systems.pdf
+Book_M.M.Woolfson_The Origin and Evolution of the Solar System.pdf
+Book_Magi Astrology_Success in Love and Money.pdf
+Book_Mantak Chiajnner Alchemy Astrology_Taoism.pdf
+Book_Mantak Chia_Taoist Astral Healing.pdf
+Book_Marcia Moore - Mark Douglas_Astrology the divine science.pdf
+Book_Marina Costelloe_Crystal Astrology.pdf
+Book_Mark Jones_Healing the Soul_Pluto, Uranus and the nodes.pdf
+Book_Mark Moldwin_An Introduction to Space Weather.pdf
+Book_Mark Riley_Theoretical and practical astrology_Ptolemy and his colleagues.pdf
+Book_Mary Shea_Planets in Solar Returns_... Cycles of Transformation and Growth.pdf
+Book_Matityahu Glazerson_Above the Zodiac_Astrology in Jewish thought.pdf
+Book_Maurice Wemyss_The Wheel Of Life Or Scientific Astrology_Part 1 of 5.pdf
+Book_Maurice Wemyss_The Wheel Of Life Or Scientific Astrology_Part 2 of 5.pdf
+Book_Maurice Wemyss_The Wheel Of Life Or Scientific Astrology_Part 3 of 5.pdf
+Book_Maurice Wemyss_The Wheel Of Life Or... Astrology_Part 4 of 5_medical astro.pdf
+Book_Maurice Wemyss_The Wheel Of Life Or... Astrology_Part 5 of 5_medical astro.pdf
+Book_ME Brines_Babylonian and Egyptian Astrology.pdf
+book_Meena nadi_dashas
+Jyotish_Meena Nadi_part 1_Gopalakrishna Row_1939.pdf
+Jyotish_Meena Nadi_part 2_Gopalakrishna Row_1939.pdf
+Jyotish_Meena Nadi_part 3_Gopalakrishna Row_1939.pdf
+Book_Merlin the Wizard_Tishya_ Lunar Mansions in Vedic Astrology.pdf
+Book_Michael H. Carr _The Surface of Mars.pdf
+Book_Michael Gienger_Purifying Crystals.pdf
+Book_Michael Hamilton_Taoist astrology.pdf
+1.0MB
+1.7MB
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 53
+Name
+Size
+Ti
+T
+T
+T
+T
+Book_Michael K. Gainer_Real Astronomy with Small Telescopes.pdf
+Book_Michael Mc.Mullen_Astrology as a New Model of Reality.pdf
+Book_Michael O Donoghue_Gems-Their Sources Descriptions and ldentification.pdf
+Book_Michael Santangelo_27 Stars_ Discovering Your True Self.pdf
+Book_Moon Sign House Aspect_examples.pdf
+Book_Mundane Astrology_countries.pdf
+Book_Mystery of the Tunguska Fireball.pdf
+Book_Myths of Babylonia and Assyria.pdf
+Book_Nadine Barlow_mars_an lntroduction.pdf
+Book_Natal astrology_lessons.pdf
+Book_Neugebauer_Greek Horoscopes.pdf
+Book_Nicholas Culpepper_Directory for Midwives.pdf
+Book_Night Day_Planetary Sect in Astrology.pdf
+Book_Noel Eastwood_Psychological Astrology And The Twelve Houses.pdf
+Book_Noel Tyl_Vocations_ The New Midheaven Extension Process.pdf
+Book_North Node Astrology_Elizabeth Spring.pdf
+Book_Oxford Dictionary of Astronomy.pdf
+Book_Paleomagnetism_Continents and Oceans.pdf
+Book_Paul Carus_Chinese Occultism.pdf
+Book_Paul Vandemeer_The Missing Link in Astrology_a MUST.pdf
+Book_Paulus Alexandrinus and Olympiodorus_classic.pdf
+Book_Paulus Alexandrinusjntroductory Matters.pdf
+Book_Phases of the Fixed Stars_Ptolemy.pdf
+Book_Philip Pugh_The Science and Art of Using Telescopes_2009.pdf
+Book_planets in signs & houses.pdf
+Book_Polar Lakes and Rivers.pdf
+Book_Porphyry of Tyre_An Introduction to the Tetrabiblos.pdf
+Book_Predictions for 1644_England_William Lilly.pdf
+Book_Predictions for 1644_William Lilly_Anglicus.pdf
+Book_Predictions for 1645_William Lilly_Anglicus.pdf
+Book_Predictions for 1646_William Lilly_Anglicus.pdf
+Book_Predictions for 1647_William Lilly_Anglicus.pdf
+Book_Predictions for 1648 to 1850_William Lilly.pdf
+Book_Predictions for 1648_William Lilly.pdf
+Book_Predictions for 1649_William Lilly.pdf
+Book_Predictions for 1649_William Lilly_death of king.pdf
+Book_Predictions for 1650_William Lilly.pdf
+
+Books using tropical zodiac
+File Listing
+Page 54
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name Size
+Book_Predictions for 1 651_William Lilly_Anglicus.pdf 2.5 MB
+Book_Predictions for 1 652_William Lilly_Anglicus.pdf 2.3 MB
+Book_Predictions for 1 653_William Lilly_Anglicus.pdf 2.3 MB
+Book_Predictions for 1 655_William Lilly_Anglicus.pdf 2.6 MB
+Book_Predictions for 1 656_William Lilly_Anglicus.pdf 2.5 MB
+Book_Predictions for 1 657_William Lilly_Anglicus.pdf 2.6 MB
+Book_Predictions for 1 658_William Lilly_Anglicus.pdf 2.4 MB
+Book_Predictions for 1 659_William Lilly_Anglicus.pdf 2.8 MB
+Book_Predictions for 1 660_William Lilly_Anglicus.pdf 2.9 MB
+Book_Predictions for 1 661_William Lilly_Anglicus.pdf 2.7 MB
+Book_Predictions for 1 662_William Lilly_Anglicus.pdf 2.4 MB
+Book_Predictions for 1663_William Lilly_Anglicus.pdf 2.1 MB
+Book_Predictions for 1 664_William Lilly_Anglicus.pdf 2.4 MB
+Book_Predictions for 1665_William Lilly_Anglicus.pdf 2.1 MB
+Book_Predictions for 1 666_William Lilly. pdf 2.4 MB
+Book_Predictions for 1667 observations_William Lilly.pdf 278 KB
+Book_Predictions for 1667_William Lilly_Anglicus.pdf 2.1 MB
+Book_Predictions for 1 668_William Lilly.pdf 2.2 MB
+Book_Predictions for 1 673_William Lilly_Anglicus.pdf 2.2 MB
+Book_Predictions for 1 676_England fires_William Lilly.pdf 207 KB
+Book_Predictions for 1 676_William Lilly_Anglicus.pdf 6.5 MB
+Book_Predictions for 1 677_William Lilly_Anglicus.pdf 7.3 MB
+Book_Predictions for 1 678_William Lilly_Anglicus.pdf 6.9 MB
+Book_Predictions for 1 680_William Lilly_Anglicus.pdf 2.4 MB
+Book_Predictions for 1681_William Lilly.pdf 2.1 MB
+Book_Predictions for 1 682_William Lilly_Anglicus.pdf 7.0 MB
+Book_predictions for 1 683_Catastrophe Mundi_William Lilly.pdf 11.8 MB
+Book_Predictions for 1 683_William Lilly.pdf 2.2 MB
+Book_Predictions for 1 684_William Lilly.pdf 2.2 MB
+Book_Predictions for 1 685_William Lilly_Anglicus.pdf 2.4 MB
+Book_Primary directions_House systems.pdf 5.6 MB
+Book_Progressionsappliqueesenjyotish_RobertKoch.pdf 711 KB
+Book_Project Hindsight_The Treatise on the Bright Fixed Stars.pdf 672 KB
+Book_Ptolemys_TetraBiblos_ 4 books.pdf 2.3 MB
+Book_Ptolemys_TetraBiblos_ 4 books_1 822_2nd version_retyped.pdf 525 KB
+Book_Ptolemys_TetraBiblos_ 4 books_1 822_original.pdf 7.9 MB
+Book_Ptolemys_TetraBiblos_4 books_1822_original2_better Quality.pdf 6.2 MB
+
+Books using tropical zodiac
+File Listing
+Page 55
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_Ptolemys_TetraBiblos_4 books_3rd version.pdf
+Book_Ptolemys_TetraBiblos_4 books_4th version_Ashmand transL.pdf
+Book_Ptolemys_TetraBiblos_4 books_4th version_Ashmand transl._retyped.pdf
+Book_Ptolemys_TetraBiblos_4 books_4th version_Ashmand transl._retyped2.pdf
+Book_Ptolemys_TetraBiblos_J. M. Ashmand_Traditional Astrology_1789-2015_.pdf
+Book_rain Clark_The Houses of Relationships.pdf
+Book_Raymond Merriman_Technical Analysis and Price Objective.pdf
+Book_Rectangle_1899_Zetetic Cosmogony_geocentric flat earth.pdf
+Book_Regiomontanus_Tables Of House.pdf
+Book_religion and science in Abraham Ibn ezra's.pdf
+Book_rev. Dr. Caldwell_The relation of Christianity to Hinduism.pdf
+Book_Robert Jansky_lnterpreting the Aspects.pdf
+Book_Robert Powell_Christian Hermetic Astrology_The Star of Christ.pdf
+Book_RobertZoller_Tools and Techniques of the Medieval Astrologer_Part 1.pdf
+Book_Rod Suskin_Synastry_Understanding the Astrology of Relationships.pdf
+Book_Rodney Collin_The Theory of Celestial lnfluence.pdf
+Book_Rodney Lingham_Ayurvedic astrology_history.pdf
+Book_Ruben Kier_The 100 BestTargetsforAstrophotography_2009.pdf
+Book_Rudhyar_Readings_Astrology.pdf
+Book_Rules For Planetary Pictures_ conjunctions.pdf
+Book_Ruth Aharoni_The Magical Combination of Tarot and Astrology.pdf
+Book_S Rob_Prayers to the Planets.pdf
+Book_Samael Aun Weor_Zodiacal Course_must read.pdf
+Book_Samantha Kennedy_2015_ASTROLOGY... Ancient Language_BOOK 1_Origins.pdf
+Book_Samantha Kennedy_2015_ASTROLOG...n Ancient Language_BOOK 2_Clues.pdf
+Book_Samantha Kennedy_2015_ASTROLOGY... Ancient Language_BOOK 3_Destiny.pdf
+Book_Samantha Kennedy_2016_ASTROLOGY...nt Language_BOOK 4_Relationships.pdf
+Book_Samantha Kennedy_2017_Ancient Aliens & Astrology.pdf
+Book_Sarah H. Parcak_Satellite remote sensing archaeology.pdf
+Book_Saxby_1862_Foretelling weather_Lunar weather system.pdf
+Book_Saxby_1864_Saxby's Weather System_Lunar influence on weather.pdf
+Book_Senior Astrology Course 1 to 12 + extended 1-13.pdf
+Book_Sepharials Astrology_1913_How to M...Read Your Own Horoscope_Part 1 of 2.pdf
+Book_Sepharials Astrology_1913_How to M...Read Your Own Horoscope_Part 2 of 2.pdf
+Book_Sepharials Hebrew Astrology_The Key to the Study of Prophecy.pdf
+Book_Sepharial_2004_The Earliest Financial Astrology Manuscripts.pdf
+Book_Sepharial_Astrology and Marriage.pdf
+Size
+
+Books using tropical zodiac
+File Listing
+Page 56
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_Sepharial_New Dictionary of Astrology.pdf
+Book_Sepharial_The Astrological Ready Reckoner_Part 1 of 2.pdf
+Book_Sepharial_The Astrological Ready Reckoner_Part 2 of 2.pdf
+Book_Sepharial_The Daily Guide_Astrology Lucidly Explained.pdf
+Book_Sepharial_The Science of Foreknowledge.pdf
+Book_Sepharial_The Silver Key.pdf
+Book_Sephariel on Markets.pdf
+Book_Serge Augier_Ba Zi_The Four Pillars of Destiny_Chinese Astrology.pdf
+Book_Shaman Pedro_What is Your Spirit Animal_Ancient Mayan Astrology.pdf
+Book_Sharp, Michael_The Book of Life.pdf
+Book_Shelly Wu_Chinese sexual Astrology.pdf
+Book_Shelly Wu_The Definitive Book of Chinese Astrology.pdf
+Book_Sifa Avcin_Astrological Secrets of the Decans.pdf
+Book_Sophia Mason_Aspects Between Signs.pdf
+Book_Sophia Mason_Delineation of Progressions.pdf
+Book_Sophia Mason_The Art of Forecasting Using Diurnal Charts.pdf
+Book_Sophia Mason_Understanding Planeta...ements_results of planetary aspects.pdf
+Book_Sri Yukteswar_The Holy Science_ebook.pdf
+Book_Sri Yukteswar_The Holy Science_original.pdf
+Book_Stephanie Johnson _Third House.pdf
+Book_Stephen Arroyo_Astrology, Karma & T... Inner Dimensions of the Birth Chart.pdf
+Book_Stephen Byers_Finding Paradise_Astrocartography relocation.pdf
+Book_Stephen Hawking - A Brief History Of Time.pdf
+Book_Stephen Pugh_The 72 Faces of Man_decanates.pdf
+Book_Stephen Skinner_Terrestrial Astrology_Divination by Geomancy.pdf
+Book_Steven Forrest_The Book of Pluto.pdf
+Book_Steven Forrest_The Changing Sky._transits and progressions.pdf
+Book_Sue A Bentley & Julia Thiel_Natural ...s of Stones, Colors, Aromas and Herbs.pdf
+Book_Sue A. Bentley_Not Your Normal Astro.. .astern Astrology using Stones, Colors.pdf
+Book_Sue Tompkins_Aspects In Astrology- ...omprehensive guide to lnterpretation.pdf
+Book_Sue Tompkins_The Contemporary Astrologer's Handbook.pdf
+Book_Susan Levitt_Taoist Astrology- A Han. ..ok of the Authentic Chinese Tradition.pdf
+Book_Suzanne White _The New Astrology.pdf
+Book_Suzanne White_Pocket guide_western sun signs and Chinese years.pdf
+Book_Suzanne White_The new astrology pocket guide.pdf
+Book_Suzanne White_The Real Chinese Astrology.pdf
+Book_Sylvia Friedman_The Stars in Your Family.pdf
+Size
+1.6MB
+1.7MB
+
+Books using tropical zodiac
+File Listing
+Page 57
+Ti
+T
+T
+Ti
+T
+T
+Ti
+T
+Ti
+"B
+T
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+Ti
+T
+T
+Ti
+Ti
+Ti
+T
+T
+Ti
+Ti
+T
+Ti
+Ti
+Ti
+Name
+Book_Tamsyn Barton_ANCIENT ASTROLOGY_Sciences of Antiquity.pdf
+Book_Teachings on Transits.pdf
+Book_Ted twietmeyer_What Nasa Isnt Telling You About Mars.pdf
+Book_Tencia Revona_Astrology_The Ultimate Guide_signs elements.pdf
+Book_The art of astrology.pdf
+Book_the astrological works of Abraham Ibn Ezra.pdf
+Book_The Astrology of Sex_Find author and date.pdf
+Book_The Book of ChangesJ CHING_Taoist system.pdf
+Book_The Comparative Handbook of Western, l..._Ninoslav Safaric & Lidija Zafirovic.pdf
+Book_the gematria notebooks of Paul Fost...k, and Latin sources_Demon Decanates.pdf
+Book_The Handy Astronomy Answer Book2AAA.pdf
+Book_The Heart of the Matter -De Labore Solis.pdf
+Book_The Liquid Light of Sex_Chakras.pdf
+Book_The Lost Science_Esoteric Math and ...gy Techniques for the Market Trader .pdf
+Book_The Proofs Of Astral Influence On Man. pdf
+Book_Therese Encrenaz_Searching for Water in the Universe.pdf
+Book_Tofigh Heidarzadeh_A History of Phy... of Comets_From Aristotle to Whipple.pdf
+Book_Tom Zoellner_uranium.pdf
+Book_Treatise on Elections.pdf
+Book_Treatise on the Fixed Stars.pdf
+Book_Tsering Dolma Drungtso_Tibetan Elemental Astrology.pdf
+Book_Tung Jen's Chinese Astrology.pdf
+Book_V. Y. Sony_Astrology_Easy and complete guide.pdf
+Book_Van K. Golay_POLITICAL ASTROLOGY_...y of Western lmperialism_countries.pdf
+Book_Vasant Lad_Ayurveda_The Science of Self Healing.pdf
+Book_Vettius Valens_The Anthology_Book 1 to 9_full.pdf
+Book_Vettius Valens_The Anthology_Book 1.pdf
+Book_Vettius Valens_The Anthology_Book 2 and 3.pdf
+Book_Vettius Valens_The Anthology_Book 4.pdf
+Book_Vitaly Adushkin_Catastrophic Events Caused by Cosmic Objects.pdf
+Book_Viv Rosser_The Chakras_Book 3_Chakra Elements and Astrology.pdf
+Book_Vivian E. Robson_Beginners Guide to practical astrology.pdf
+Book_Vladimir Petrov Kostov_History and Planetary lnfluences.pdf
+Book_Vladimir Rubtsov_Tunguska Mystery.pdf
+Book_Weslynn McCallister_Timing is Ever...ology is the Key_Book 2_+ GOOD QUIZ.pdf
+Book_western astro_beginners.pdf
+Book_Yildiz Sethi_Stardust on the Spiritu...urney_Karma_Relationships, and Family.pdf
+Size
+1.7MB
+1.7MB
+1.7MB
+1.0MB
+
+Books using tropical zodiac
+a
+T
+T
+T
+T
+T
+T
+Tl
+T
+Tl
+T
+T
+T
+T
+T
+T
+Tl
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+Name
+Book_Z'ev ben Shimon Halevi_Tree of Life_An Introduction to the Cabala.pdf
+Book_Zackary Davis_Third Eye Awakening_S... Steps to Activating the Pineal Gland.pdf
+French_Book_1549_Jean de Hayn_Chiromance et physiognomie_sun in decanates.pdf
+French_Book_1563_Dr. Arcandam_Predictions sur la naissance fatale.pdf
+French_Book_1570_Pontus de Tyard_Mantice o... verite de divination par astrologie.pdf
+French_Book_1 592_W. S. Girault_Globe du monde contenant un bref traite du ciel.pdf
+French_Book_1611_Nostradamus propheties_full_in old french.pdf
+French_Book_1621_Jean Belot_Centuries prophetiques.pdf
+French_Book_1637_James Hume_La theorie des planetes.pdf
+French_Book_1645_Jean Bonneau_Abrege de...tronomie inferieure des sept metaux.pdf
+French_Book_1657_Blaise Francois_La theorie des planetes du Comte de Pagan.pdf
+French_Book_1659_Blaise Francois_L'astrologie naturelle du Comte de Pagan.pdf
+French_Book_1663_David Derodon_Discours contre rastrologiejudiciaire.pdf
+French_Book_1668_Jean-Baptiste Denis_Disc...ogie judiciaire etsur les horoscopes.pdf
+French_Book_1675_C. Gadroys_Le systeme du monde.pdf
+French_Book_1 781-1802_Jerome de La Lande_Bibliographie astronomique.pdf
+French_Book_1781_J.S. Bailly_Histoire de ...ancienne depuis son origine_see p.421.pdf
+French_Book_1806_C.F. DupuisJVIemoire e...iaque chronologique et mythologique.pdf
+French_Book_1821_Svante Arrhenius_Le destin des etoiles.pdf
+French_Book_1 834_Herschel_Traite d'astronomie.pdf
+French_Book_1856_Fran^ois Arago_Astronomie populaire_tome 1.pdf
+French_Book_1856_Fran^ois Arago_Astronomie populaire_tome 2.pdf
+French_Book_1856_Frangois Arago_Astronomie populaire_tome 3.pdf
+French_Book_1856_Frangois Arago_Astronomie populaire_tome 4.pdf
+French_Book_1 859_J. B. Biot_Etudes sur L'astronomie lndienne_Chinese Naksatras.pdf
+French_Book_1862_J. B. Biot_Etudes sur L'astronomie Indienne etChinoise.pdf
+French_Book_1864_Alexis Boillot_L'Astronomie au XIXe siecle_2nd. ed.pdf
+French_Book_1865_Joseph Bertrand_Les fondateurs de l'astronomie moderne.pdf
+French_Book_1867_M. Ponsard_Le Galilee d...nsard ou le Polyeucte de I'astronomie.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 1.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 2.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 3.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 4.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 5.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 6.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 7.pdf
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 8.pdf
+Size
+File Listing
+Page 58
+
+Books using tropical zodiac
+ti
+ti
+Tl
+Name
+French_Book_1873-77_Camille Flamarion_Et...s et lectures sur l'astronomie_Tome 9.pdf
+French_Book_1875_C. Jourdain_Nicolas Ore... astrologues de la cour de Charles V.pdf
+French_Book_1875_Camille Flamarion_Les merveilles celestes.pdf
+French_Book_1876_R. A. Proctor_The sun_ruler_fire_light.pdf
+French_Book_1878_Camille Flamarion_Astron...erale_catalogue des etoiles doubles.pdf
+French_Book_1 879_P. A. Secchi_Les etoiles_essai d'astronomie siderale.pdf
+French_Book_1881_Camille Flamarion_Astronomie populaire.pdf
+French_Book_1892_Camille Flamarion_Qu'est-ce que le ciel.pdf
+French_Book_1894_Camille Flamarion_Les terres du ciel.pdf
+French_Book_1897_Bouche-Leclercq_Les precurseurs de I'astrologie grecque.pdf
+French_Book_1899_Ernest Lebon_Histoire abregee de I'astronomie.pdf
+French_Book_1899_Gabriel Dallet_Astronomie pratiqueje soleiljes etoiles.pdf
+French_Book_1906_Luc Orion_L'astrologie devoilee.pdf
+French_Book_1908_A. de Thyane_Petit manuel pratique d'astrologie.pdf
+French_Book_1908_Camille Flamarion_lnitiation astronomique.pdf
+French_Book_1909_Camille Flamarion_La Pla...ars etses conditions d'habitabilite.pdf
+French_Book_1910_Felix Faraud_Astronomie cambodgienne.pdf
+French_Book_1910_Maurice RolletJVIedecins astrologues_doctorat en medecine.pdf
+French_Book_1919_ Leopold de Saussure_Le systeme astronomique des Chinois.pdf
+French_Book_1919_ Leopold de Saussure_Les origines de I'astronomie chinoise.pdf
+French_Book_1921_F. Cumont_Le Jupiter heliopolitain et les divinites des planetes.pdf
+French_Book_1923_J. B. Biot_Recherches su...rs points de I'astronomie egyptienne.pdf
+French_Book_1935_Franz Cumont_Les noms de...etes et I’astrolatrie chez les grecs.pdf
+French_Book_1937_Pierre Saint Yves_L'astrologie populaire_La Lune.pdf
+French_Book_1969_A. Blanchard_Etudes sur L'astronomie Indienne etChinoise.pdf
+French_Book_1973_Nicolas Copernic ou la Revolution astronomique.pdf
+French_Book_2009_Amar Annus_Divination a...tation of signs in the ancientworld.pdf
+French_Book_400 AD_Theon d'Alexandrie_Co...le premier livre de Ptolemee_tome 1.pdf
+John F.Kennedy Death And Red Book_Vedic Astrologers.pdf
+John F.Kennedy Death And Red Book_Western Astrologers.pdf
+Kalachakra_Dasa Calculations_Telugu Book_English Translation.pdf
+Launch Your Book_astrology is a science.pdf
+the mystic red book_Lal Kitab.pdf
+Size
+File Listing
+Page 59

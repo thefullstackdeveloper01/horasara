@@ -1,0 +1,1393 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "403__user_prediction_preferences_json",
+    "name": "user-prediction-preferences",
+    "original_file": "user-prediction-preferences.json",
+    "dataset_number": "403 of 455",
+    "format": "json",
+    "source_readable_file": "user-prediction-preferences.txt",
+    "source_sha256": "f41fc22260ab01eb9867788c1c8593fb4aa7b3267c065c6f19d5d98623870d69",
+    "source_bytes": 7862
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "labels": {
+        "general": "Overall",
+        "career": "Career",
+        "business": "Business",
+        "finance": "Money",
+        "love": "Love",
+        "marriage": "Marriage",
+        "health": "Health",
+        "family": "Family",
+        "education": "Education",
+        "travel": "Travel",
+        "property": "Property",
+        "spirituality": "Spiritual Growth"
+      },
+      "descriptions": {
+        "general": "Your overall direction and daily balance.",
+        "career": "Work, responsibility, progress and professional decisions.",
+        "business": "Business activity, clients, partnerships and practical decisions.",
+        "finance": "Money flow, financial choices, saving and opportunity timing.",
+        "love": "Connection, communication and emotional relationship timing.",
+        "marriage": "Partnership, commitment and relationship decisions.",
+        "health": "Energy, routine and wellbeing-focused timing; not medical advice.",
+        "family": "Home life, family communication and shared responsibilities.",
+        "education": "Study, learning, exams, skills and concentration.",
+        "travel": "Travel, movement, planning and change of environment.",
+        "property": "Home, property decisions, repairs and major domestic matters.",
+        "spirituality": "Reflection, devotion, inner practice and spiritual growth."
+      },
+      "rules": {
+        "general": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          }
+        },
+        "career": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              },
+              {
+                "_text": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          }
+        },
+        "business": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          }
+        },
+        "finance": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          }
+        },
+        "love": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          }
+        },
+        "marriage": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          }
+        },
+        "health": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              }
+            ]
+          }
+        },
+        "family": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "7"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          }
+        },
+        "education": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          }
+        },
+        "travel": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              }
+            ]
+          }
+        },
+        "property": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "4"
+                ]
+              },
+              {
+                "_text": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          }
+        },
+        "spirituality": {
+          "positiveHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "5"
+                ]
+              },
+              {
+                "_text": [
+                  "8"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              },
+              {
+                "_text": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          "pressureHouses": {
+            "_items": [
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "6"
+                ]
+              },
+              {
+                "_text": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          "relevantPlanets": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "supportingDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "neutralDasha": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

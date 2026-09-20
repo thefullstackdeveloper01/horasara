@@ -1,0 +1,415 @@
+READABLE DATASET
+================================================================================
+Original file: public-navigation.json
+Dataset number: 320 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 15,647 bytes
+Top-level fields: 9
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 2.1
+• signs:
+  TABLE (12 rows)
+  name | english
+  --------------------
+  Meṣa | Aries
+  Vṛṣabha | Taurus
+  Mithuna | Gemini
+  Karkaṭa | Cancer
+  Siṃha | Leo
+  Kanyā | Virgo
+  Tulā | Libra
+  Vṛścika | Scorpio
+  Dhanus | Sagittarius
+  Makara | Capricorn
+  Kumbha | Aquarius
+  Mīna | Pisces
+• nakshatras:
+  TABLE (28 rows)
+  name | daily | weekly | monthly | yearly
+  ----------------------------------------
+  Ashvinī | Fast starts, movement and initiative are emphasized in traditional readings. | Review speed versus patience; keep commitments clear. | Use the month to develop disciplined momentum rather than rushing every decision. | A traditional theme of initiative, recovery and forward movement.
+  Bharanī | Responsibility, boundaries and completion are emphasized. | Balance obligations with rest and clear communication. | Themes of responsibility and transformation may recur in traditional interpretations. | A traditional theme of endurance, responsibility and renewal.
+  Kṛttikā | Clarity, discernment and decisive action are traditional themes. | Separate useful priorities from distractions. | Refinement and disciplined choices are emphasized. | A traditional theme of purification, focus and leadership.
+  Rohinī | Growth, creativity and material cultivation are traditional themes. | Build steadily and protect what is valuable. | Creative and resource-building themes can be developed patiently. | A traditional theme of cultivation, beauty and stability.
+  Mrigashīrsha | Curiosity, searching and learning are emphasized. | Investigate before committing. | Learning and exploration may open useful perspectives. | A traditional theme of inquiry, movement and discovery.
+  Ardra | Change, analysis and emotional processing are traditional themes. | Use clarity and patience during unsettled situations. | Transformative learning can be constructive when handled deliberately. | A traditional theme of renewal through change.
+  Punarvasu | Recovery, return and renewal are emphasized. | Revisit what still has value before starting something new. | Restoration and second chances are traditional themes. | A traditional theme of renewal, generosity and return.
+  Pushya | Learning, nourishment and disciplined support are emphasized. | Strengthen foundations and routines. | Mentorship and steady growth are traditional themes. | A traditional theme of nourishment, duty and constructive growth.
+  Āshleshā | Strategy, perception and careful communication are emphasized. | Read situations carefully and avoid unnecessary entanglement. | Psychological insight and boundaries may become important themes. | A traditional theme of depth, strategy and transformation.
+  Maghā | Heritage, authority and responsibility are emphasized. | Respect experience while keeping decisions practical. | Leadership and family legacy themes may recur. | A traditional theme of ancestry, dignity and stewardship.
+  Pūrva Phalgunī | Creativity, enjoyment and relationship themes are emphasized. | Make room for both pleasure and responsibility. | Creative expression and social connection are traditional themes. | A traditional theme of creativity, comfort and connection.
+  Uttara Phalgunī | Agreements, service and dependable partnership are emphasized. | Put commitments in clear terms. | Stable alliances and practical cooperation are traditional themes. | A traditional theme of lasting agreements and responsibility.
+  Hasta | Skill, organization and practical execution are emphasized. | Use craftsmanship and attention to detail. | Hands-on learning and useful systems are traditional themes. | A traditional theme of skill, order and constructive action.
+  Chitrā | Design, refinement and independent expression are emphasized. | Improve the structure before polishing the appearance. | Creative construction and presentation are traditional themes. | A traditional theme of artistry, design and refinement.
+  Svātī | Independence, flexibility and self-direction are emphasized. | Adapt without losing your core direction. | Independent learning and movement are traditional themes. | A traditional theme of autonomy, flexibility and growth.
+  Vishākhā | Goal focus, persistence and branching choices are emphasized. | Choose one clear priority and follow through. | Ambition and strategic direction are traditional themes. | A traditional theme of determination and purposeful achievement.
+  Anurādhā | Cooperation, friendship and disciplined devotion are emphasized. | Strong alliances benefit from consistency. | Partnership and shared purpose are traditional themes. | A traditional theme of loyalty, friendship and disciplined devotion.
+  Jyēṣṭha | Protection, responsibility and seniority are emphasized. | Carry authority carefully and avoid needless control. | Leadership under pressure is a traditional theme. | A traditional theme of protection, responsibility and resilience.
+  Mūla | Root-cause analysis, release and rebuilding are emphasized. | Fix foundations before expanding. | Deep investigation and simplification are traditional themes. | A traditional theme of roots, truth-seeking and renewal.
+  Pūrva Ashādhā | Confidence, persuasion and renewal are emphasized. | Communicate clearly without overextending. | Courage and self-renewal are traditional themes. | A traditional theme of invigoration and conviction.
+  Uttara Ashādhā | Persistence, ethics and durable achievement are emphasized. | Prefer dependable progress over quick recognition. | Long-term responsibility is a traditional theme. | A traditional theme of lasting victory through discipline.
+  Shravana | Listening, learning and information flow are emphasized. | Observe carefully before responding. | Education and communication are traditional themes. | A traditional theme of learning, listening and transmission.
+  Dhanishta | Rhythm, resources and collective activity are emphasized. | Coordinate people and timing carefully. | Resource management and group activity are traditional themes. | A traditional theme of rhythm, prosperity and community.
+  Shatabhisha | Analysis, independence and healing-oriented reflection are emphasized. | Create space for research and recovery. | Innovation and introspection are traditional themes. | A traditional theme of inquiry, independence and restoration.
+  Pūrva Bhādrapadā | Idealism, intensity and principled choices are emphasized. | Keep ideals connected to practical steps. | Deep conviction and transformation are traditional themes. | A traditional theme of idealism, austerity and transformation.
+  Uttara Bhādrapadā | Stability, patience and deep reflection are emphasized. | Build quietly and consistently. | Long-term consolidation is a traditional theme. | A traditional theme of depth, patience and stability.
+  Revatī | Completion, guidance and safe journeys are emphasized. | Close open loops and support transitions. | Completion and movement are traditional themes. | A traditional theme of guidance, completion and safe passage.
+  Abhijit | Traditionally treated as an auspicious intercalary nakshatra in selected muhurta traditions. | Use only where the chosen Panchang tradition explicitly includes Abhijit. | Its use is methodology-dependent rather than universal. | Reference only; not part of the standard 27-nakshatra sequence.
+• planets:
+  1.
+    Surya
+  2.
+    Chandra
+  3.
+    Mangala
+  4.
+    Budha
+  5.
+    Brihaspati
+  6.
+    Shukra
+  7.
+    Shani
+  8.
+    Rahu
+  9.
+    Ketu
+• lists:
+  • Nakshatras:
+    1.
+      Ashvinī
+    2.
+      Bharanī
+    3.
+      Kṛttikā
+    4.
+      Rohinī
+    5.
+      Mrigashīrsha
+    6.
+      Ardra
+    7.
+      Punarvasu
+    8.
+      Pushya
+    9.
+      Āshleshā
+    10.
+      Maghā
+    11.
+      Pūrva Phalgunī
+    12.
+      Uttara Phalgunī
+    13.
+      Hasta
+    14.
+      Chitrā
+    15.
+      Svātī
+    16.
+      Vishākhā
+    17.
+      Anurādhā
+    18.
+      Jyēṣṭha
+    19.
+      Mūla
+    20.
+      Pūrva Ashādhā
+    21.
+      Uttara Ashādhā
+    22.
+      Shravana
+    23.
+      Dhanishta
+    24.
+      Shatabhisha
+    25.
+      Pūrva Bhādrapadā
+    26.
+      Uttara Bhādrapadā
+    27.
+      Revatī
+    28.
+      Abhijit
+  • Rāśi:
+    1.
+      Meṣa
+    2.
+      Vṛṣabha
+    3.
+      Mithuna
+    4.
+      Karkaṭa
+    5.
+      Siṃha
+    6.
+      Kanyā
+    7.
+      Tulā
+    8.
+      Vṛścika
+    9.
+      Dhanus
+    10.
+      Makara
+    11.
+      Kumbha
+    12.
+      Mīna
+  • Solar Months:
+    1.
+      Mesa
+    2.
+      Vrsabha
+    3.
+      Mithuna
+    4.
+      Karkata
+    5.
+      Simha
+    6.
+      Kanya
+    7.
+      Tula
+    8.
+      Vrscika
+    9.
+      Dhanu
+    10.
+      Makara
+    11.
+      Kumbha
+    12.
+      Mina
+  • Lunar Months:
+    1.
+      Chaitra
+    2.
+      Vaishakha
+    3.
+      Jyeshtha
+    4.
+      Ashadha
+    5.
+      Shravana
+    6.
+      Bhadrapada
+    7.
+      Ashvin
+    8.
+      Kartika
+    9.
+      Margashirsha
+    10.
+      Pausha
+    11.
+      Magha
+    12.
+      Phalguna
+    13.
+      Adhika-masa
+  • Navagraha:
+    1.
+      Surya
+    2.
+      Chandra
+    3.
+      Mangala
+    4.
+      Budha
+    5.
+      Brihaspati
+    6.
+      Shukra
+    7.
+      Shani
+    8.
+      Rahu
+    9.
+      Ketu
+  • Other concepts:
+    1.
+      Astrological aspects
+    2.
+      Avastha
+    3.
+      Atmakaraka
+    4.
+      Ayanamsa
+    5.
+      Bhāva
+    6.
+      Choghadiya
+    7.
+      Daśās
+    8.
+      Drekkana
+    9.
+      Karmasthana
+    10.
+      Kuṇḍali
+    11.
+      Lagna
+    12.
+      Maraka
+    13.
+      Nadi astrology
+    14.
+      Panchangam
+    15.
+      Panjika
+    16.
+      Planetary dispositors
+    17.
+      Rashmi
+    18.
+      Science and Astrology
+    19.
+      Sarvatobhadra Chakra
+    20.
+      Trikonasthanas
+    21.
+      Upachayasthanas
+    22.
+      Vyatipāta
+    23.
+      Yoga-karakas
+    24.
+      Vakri grahas
+  • Yogas:
+    1.
+      Adhi yoga
+    2.
+      Akhanda Samrajya yoga
+    3.
+      Balarishta
+    4.
+      Chamara yoga
+    5.
+      Dainya yoga
+    6.
+      Dhana yoga
+    7.
+      Kahala yoga
+    8.
+      Nabhasa yoga
+    9.
+      Neechabhanga Raja yoga
+    10.
+      Panch Mahapurusha yoga
+    11.
+      Parajata yoga
+    12.
+      Preshya yoga
+    13.
+      Raja yoga
+    14.
+      Sanyasa yoga
+    15.
+      Viparita Raja yoga
+    16.
+      Yoga
+  • Scriptures:
+    1.
+      Brihat Jataka
+    2.
+      Bhavartha Ratnakara
+    3.
+      Dasadhyayi
+    4.
+      Garga Hora
+    5.
+      Hora Ratna
+    6.
+      Hora Sara
+    7.
+      Jataka Parijata
+    8.
+      Jatakalankara
+    9.
+      Jataka Tattva
+    10.
+      Laghu Parashari
+    11.
+      Mansagari
+    12.
+      Prashna Tantra
+    13.
+      Prasna Marga
+    14.
+      Phaladeepika
+    15.
+      Sarvartha Chintamani
+    16.
+      Tajika Neelakanthi
+  • Rishis / Astrologers:
+    1.
+      Bhrigu
+    2.
+      Jaimini
+    3.
+      Mantreswara
+    4.
+      Nilakantha Daivajna
+    5.
+      Parasara
+    6.
+      Vaidyanatha Dikshita
+    7.
+      Varahamihira
+• knowledge:
+  TABLE (10 rows)
+  title | category | description | href
+  -------------------------------------
+  Festivals & Hindu Calendar | Calendar | Year-wise festival framework with Panchang-based observance context. | /calendar
+  God & Lord Details | Deities / Grahas | Reference entry point for deity, graha and lordship material in the bundled datasets. | /knowledge
+  Mantra Details | Mantra | Dataset-backed mantra references and source catalogues. | /knowledge
+  Tantra Details | Tantra | Dataset-backed tantra references; source and tradition are kept visible. | /knowledge
+  Yantra Details | Yantra | Yantra references and source catalogues. | /knowledge
+  Gemstone Details | Gemstones | Gemstone recommendation rules and supporting dataset reference. | /knowledge
+  Chalisa & Aarti Details | Devotional | Reference entry point for devotional text datasets. | /knowledge
+  Names Details | Names / Numerology | Naming and numerology tools using the available numerology datasets. | /calculators
+  Scriptures Library | Classical texts | Indexed classical Jyotish and related reference sources bundled with the application. | /knowledge
+  Rishis & Astrologers | Lineage | Classical authors and astrologers represented in the source catalog. | /lists
+• milan:
+  TABLE (4 rows)
+  title | text | href
+  --------------------
+  Ashtakoot / Guna Milan | Eight classical kootas with a 36-point framework. | /calculator/friendship
+  Supplementary Kootas | Mahendra, Stree Deergha, Rajju and Vedha where supported by the engine. | /calculator/friendship
+  Mangal Dosha | Chart-based Manglik assessment is part of the Milan engine. | /calculator/mangal-dosha
+  Papa Samyam | Additional chart comparison used by the Milan engine. | /calculator/friendship
+• home:
+  TABLE (7 rows)
+  title | text | href
+  --------------------
+  Rāśi Based Bhavishya | Daily, weekly, monthly and yearly sign forecasts. | /rashi-bhavishya
+  Planet Based Bhavishya | Planet-wise movement and traditional interpretation. | /planet-bhavishya
+  Nakshatra Based Bhavishya | Daily, weekly, monthly and yearly nakshatra themes. | /nakshatra-bhavishya
+  Astronomy | Planet positions, conjunctions and clearly labelled traditional interpretations. | /astronomy
+  Panchang & Muhurta | Tithi, Vara, Nakshatra, Yoga, Karana and time windows. | /panchang
+  Kundali Milan | Full compatibility workflow built on the existing Milan engine. | /kundali-milan
+  Knowledge | Festivals, gods, mantras, tantra, yantra, gemstones, scriptures and more. | /knowledge
+• festivals:
+  TABLE (15 rows)
+  name | monthRule | observance
+  -----------------------------
+  Ugadi / Gudi Padwa | Chaitra Shukla Pratipada | Lunar-tithi based
+  Rama Navami | Chaitra Shukla Navami | Lunar-tithi based
+  Akshaya Tritiya | Vaishakha Shukla Tritiya | Lunar-tithi based
+  Guru Purnima | Ashadha Purnima | Lunar-tithi based
+  Raksha Bandhan | Shravana Purnima | Lunar-tithi based
+  Janmashtami | Shravana / Bhadrapada Krishna Ashtami (tradition-dependent) | Lunar-tithi based
+  Ganesh Chaturthi | Bhadrapada Shukla Chaturthi | Lunar-tithi based
+  Navratri | Ashvin Shukla Pratipada onward | Lunar-tithi based
+  Dussehra / Vijayadashami | Ashvin Shukla Dashami | Lunar-tithi based
+  Dhanteras | Kartika Krishna Trayodashi | Lunar-tithi based
+  Diwali / Deepavali | Kartika Amavasya | Lunar-tithi based
+  Govardhan Puja | Kartika Shukla Pratipada | Lunar-tithi based
+  Bhai Dooj | Kartika Shukla Dwitiya | Lunar-tithi based
+  Maha Shivaratri | Magha / Phalguna Krishna Chaturdashi (tradition-dependent) | Lunar-tithi based
+  Holi | Phalguna Purnima | Lunar-tithi based

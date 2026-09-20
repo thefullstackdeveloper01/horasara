@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tree_001",
+    "name": "Peepal Tree",
+    "scientific_name": "Ficus religiosa",
+    "associated_planet": "Jupiter (Guru)",
+    "associated_deity": "Lord Vishnu / Lord Ganesha",
+    "astrological_use": "Watering the Peepal tree on Thursday remedies malefic Jupiter. Worshipping it brings wealth and progeny.",
+    "parts_used": "Bark, Leaves, Roots",
+    "source_text": "Lal Kitab / Atharva Veda"
+  },
+  {
+    "id": "tree_002",
+    "name": "Shami Tree",
+    "scientific_name": "Prosopis cineraria",
+    "associated_planet": "Saturn (Shani)",
+    "associated_deity": "Lord Shani / Lord Rama",
+    "astrological_use": "Lighting a lamp under the Shami tree on Saturday reduces Shani dosha. Leaves are offered to Lord Shiva.",
+    "parts_used": "Leaves, Bark",
+    "source_text": "Brihat Parashara Hora Shastra"
+  }
+]

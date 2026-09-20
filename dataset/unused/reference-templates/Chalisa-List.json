@@ -1,0 +1,12 @@
+[
+  {
+    "id": "chalisa_001",
+    "name": "Hanuman Chalisa",
+    "deity": "Lord Hanuman",
+    "poet": "Tulsidas",
+    "purpose": "Protection from evil spirits, strength, and removing obstacles.",
+    "preview_text": "Shri Guru Charan Saroj Raj, Nij Man Mukar Sudhari...",
+    "full_text_url": "your_local_path/hanuman_chalisa.txt",
+    "recommended_day": "Tuesday & Saturday"
+  }
+]

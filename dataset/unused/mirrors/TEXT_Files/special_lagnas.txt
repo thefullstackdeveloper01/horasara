@@ -1,0 +1,21 @@
+READABLE DATASET
+================================================================================
+Original file: special_lagnas.json
+Dataset number: 369 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 173 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• INDU_VALUES:
+  • Sun: 30
+  • Moon: 16
+  • Mars: 6
+  • Mercury: 8
+  • Jupiter: 10
+  • Venus: 12
+  • Saturn: 1
+  • Rahu: 0
+  • Ketu: 0

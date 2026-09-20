@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "024__json_files_festival_list_json",
+    "name": "JSON_Files_Festival-List",
+    "original_file": "JSON_Files/Festival-List.json",
+    "dataset_number": "172 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Festival-List.txt",
+    "source_sha256": "2184e01fe0546819ce072f86151471a07434159a019c0fe4e24c377bc0a0ab17",
+    "source_bytes": 770
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "fest_001",
+          "name": "Diwali",
+          "type": "Major Festival",
+          "deity": "Goddess Lakshmi & Lord Ganesha",
+          "tithi": "Amavasya of Kartik month",
+          "significance": "Return of Lord Rama to Ayodhya, victory of light over darkness.",
+          "rituals": {
+            "_items": [
+              {
+                "_text": [
+                  "Lighting diyas"
+                ]
+              },
+              {
+                "_text": [
+                  "Lakshmi Puja"
+                ]
+              },
+              {
+                "_text": [
+                  "Rangoli making"
+                ]
+              }
+            ]
+          },
+          "astrological_significance": "Sun is in Libra (debilitated), Moon in Scorpio."
+        }
+      ]
+    }
+  }
+}

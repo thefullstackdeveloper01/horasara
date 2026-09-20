@@ -1,0 +1,3 @@
+export function validateResearchCase(r){const e=[];if(!r?.id)e.push('missing id');if(!r?.subject?.label)e.push('missing subject.label');if(!r?.chartId)e.push('missing chartId');if(!Array.isArray(r?.events))e.push('events must be array');if(r?.verification?.status!=='verified')e.push('case not verified');if(!r?.source?.citation)e.push('missing source citation');return {valid:e.length===0,errors:e};}
+export function eventCutoffSafe(event,cutoff){return new Date(event.date)>new Date(cutoff)}
+export function buildResearchIndex(cases=[]){return cases.reduce((m,c)=>{m.set(c.id,{id:c.id,chartId:c.chartId,eventCount:c.events?.length||0,verified:c.verification?.status==='verified'});return m},new Map())}

@@ -1,0 +1,7 @@
+{
+  "version":"8.0.0",
+  "status":"READY_FOR_REFERENCE_IMPORT",
+  "cases":[],
+  "tolerances":{"longitudeDegrees":0.1,"timeSeconds":1},
+  "policy":"Reference values must carry independent source provenance."
+}

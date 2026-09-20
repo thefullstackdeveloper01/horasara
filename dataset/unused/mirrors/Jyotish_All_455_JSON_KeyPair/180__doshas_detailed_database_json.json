@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "180__doshas_detailed_database_json",
+    "name": "doshas_detailed_database",
+    "original_file": "doshas_detailed_database.json",
+    "dataset_number": "110 of 455",
+    "format": "json",
+    "source_readable_file": "doshas_detailed_database.txt",
+    "source_sha256": "792ef297119f0f05c231b05786d7c31cdb77c0fd2c9c83fa32340ac5f1f49fb4",
+    "source_bytes": 13641
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "condition": "Mars in own house (Mesha or Vrischika)",
+        "effect": "Dosha cancelled"
+      },
+      {
+        "condition": "Mars in exaltation (Makara)",
+        "effect": "Dosha reduced by 50%"
+      },
+      {
+        "condition": "Mars aspected by Jupiter",
+        "effect": "Dosha significantly reduced"
+      },
+      {
+        "condition": "Mars in 2nd house for Mesha Lagna",
+        "effect": "Dosha not applicable"
+      },
+      {
+        "condition": "Mars in 4th house for Karka Lagna",
+        "effect": "Dosha not applicable"
+      },
+      {
+        "condition": "Mars in 7th house for Makara Lagna",
+        "effect": "Dosha not applicable"
+      },
+      {
+        "condition": "Mars in 8th house for Dhanu or Meena Lagna",
+        "effect": "Dosha cancelled"
+      },
+      {
+        "condition": "Mars in 12th house for Vrishabha or Tula Lagna",
+        "effect": "Dosha cancelled"
+      },
+      {
+        "condition": "activity",
+        "effect": "benefit"
+      },
+      {
+        "condition": "Fasting on Tuesdays",
+        "effect": "Strengthens positive Mars energy"
+      },
+      {
+        "condition": "Serve red-colored foods to young girls",
+        "effect": "Reduces Manglik Dosha effects"
+      },
+      {
+        "condition": "condition",
+        "effect": "effect"
+      },
+      {
+        "condition": "All planets not strictly between Rahu-Ketu",
+        "effect": "Dosha not applicable"
+      },
+      {
+        "condition": "Any planet outside Rahu-Ketu axis",
+        "effect": "Dosha breaks"
+      },
+      {
+        "condition": "Rahu or Ketu in own/exalted sign",
+        "effect": "Dosha effects reduced"
+      },
+      {
+        "condition": "Jupiter aspecting Rahu or Ketu",
+        "effect": "Dosha significantly weakened"
+      },
+      {
+        "condition": "condition",
+        "effect": "effect"
+      },
+      {
+        "condition": "Sun with Rahu or Ketu",
+        "effect": "Strong Pitru Dosha formation"
+      },
+      {
+        "condition": "Sun and Saturn conjunction",
+        "effect": "Ancestral curse indicator"
+      },
+      {
+        "condition": "Rahu in 9th house",
+        "effect": "Pitru Dosha (father-related karma)"
+      },
+      {
+        "condition": "Sun debilitated in 9th house",
+        "effect": "Displeased ancestors"
+      },
+      {
+        "condition": "Jupiter in 9th house with Rahu",
+        "effect": "Pitru Dosha with guru-related karma"
+      },
+      {
+        "condition": "Malefic planets in 5th house",
+        "effect": "Pitru Dosha affecting progeny"
+      },
+      {
+        "condition": "9th lord in 6th, 8th, or 12th house",
+        "effect": "Ancestral karma issues"
+      },
+      {
+        "condition": "Moon in 9th house with malefic aspect",
+        "effect": "Mother's side ancestral issues"
+      }
+    ]
+  }
+}

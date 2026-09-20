@@ -1,0 +1,55 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Profession-List.json
+Dataset number: 198 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 593 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: prof_001
+  • planet: Sun
+  • houses:
+    1.
+      1
+    2.
+      10
+  • professions:
+    1.
+      Government Service
+    2.
+      Politician
+    3.
+      Doctor
+    4.
+      Administrator
+    5.
+      Goldsmith
+  • interpretation_logic: If Sun is strongly placed in 10th, native will be in a position of authority.
+2.
+  • id: prof_002
+  • planet: Mercury
+  • houses:
+    1.
+      2
+    2.
+      6
+    3.
+      10
+  • professions:
+    1.
+      IT Professional
+    2.
+      CA
+    3.
+      Businessman
+    4.
+      Writer
+    5.
+      Mathematician
+    6.
+      Astrologer
+  • interpretation_logic: If Mercury is strong, native excels in analytical and communication-driven roles.

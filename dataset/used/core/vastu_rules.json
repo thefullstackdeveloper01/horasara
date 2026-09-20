@@ -1,0 +1,946 @@
+{
+  "vastu_rules": {
+    "title": "Complete Vastu Shastra Rules",
+    "description": "Comprehensive guide to Vastu zones, deities, directions, and remedies based on classical Vastu Purusha Mandala",
+    "vastu_purusha_mandala": {
+      "description": "The cosmic man lying with head in northeast and feet in southwest",
+      "total_zones": 16,
+      "total_deities": 45,
+      "grid_size": "9x9 = 81 padas"
+    },
+    
+    "directions": {
+      "cardinal": [
+        {
+          "direction": "North",
+          "hindi_name": "उत्तर (Uttar)",
+          "sanskrit_name": "उत्तरा",
+          "ruling_deity": "Kubera (Lord of Wealth)",
+          "element": "Water",
+          "planet": "Mercury (Budh)",
+          "significance": "Wealth, prosperity, career growth, opportunities",
+          "positive_activities": ["Treasury", "Main entrance", "Living room", "Office", "Children's study"],
+          "negative_activities": ["Toilet", "Kitchen", "Store room for heavy items", "Bedroom for elders"],
+          "remedies": [
+            "Keep north direction clean and clutter-free",
+            "Place money plant or lucky bamboo",
+            "Use blue or green colors",
+            "Install Kuber Yantra",
+            "Keep water features like fountain or aquarium"
+          ]
+        },
+        {
+          "direction": "South",
+          "hindi_name": "दक्षिण (Dakshin)",
+          "sanskrit_name": "दक्षिणा",
+          "ruling_deity": "Yama (Lord of Death & Dharma)",
+          "element": "Earth",
+          "planet": "Mars (Mangal)",
+          "significance": "Stability, strength, protection, fame",
+          "positive_activities": ["Master bedroom", "Heavy storage", "Staircase", "Generator/Electrical equipment", "Weapons/security"],
+          "negative_activities": ["Main entrance", "Living room", "Pooja room", "Kitchen", "Bathroom"],
+          "remedies": [
+            "Keep heavy furniture in south",
+            "Use red or maroon colors sparingly",
+            "Place pyramid or crystal",
+            "Ensure south wall is higher than north",
+            "Use earthy tones"
+          ]
+        },
+        {
+          "direction": "East",
+          "hindi_name": "पूर्व (Purva)",
+          "sanskrit_name": "पूर्वा",
+          "ruling_deity": "Surya (Sun God)",
+          "element": "Light/Fire",
+          "planet": "Sun (Surya)",
+          "significance": "Health, vitality, enlightenment, knowledge",
+          "positive_activities": ["Main entrance", "Pooja room", "Bathroom (morning sunlight)", "Study room", "Verandah/Balcony"],
+          "negative_activities": ["Toilet", "Store room", "Heavy furniture", "Bedroom with dark colors"],
+          "remedies": [
+            "Keep east direction open and bright",
+            "Use light colors like white, cream, yellow",
+            "Place Surya Yantra",
+            "Keep windows in east for morning sunlight",
+            "Avoid water elements"
+          ]
+        },
+        {
+          "direction": "West",
+          "hindi_name": "पश्चिम (Paschim)",
+          "sanskrit_name": "पश्चिमा",
+          "ruling_deity": "Varuna (Lord of Water & Cosmic Order)",
+          "element": "Air",
+          "planet": "Saturn (Shani)",
+          "significance": "Gains, profits, stability, children",
+          "positive_activities": ["Dining room", "Study room", "Children's bedroom", "Toilet/Bathroom (partial)", "Store for grains"],
+          "negative_activities": ["Main entrance", "Living room", "Pooja room", "Master bedroom"],
+          "remedies": [
+            "Use white, grey or silver colors",
+            "Place wind chimes",
+            "Keep west window small",
+            "Use metal elements",
+            "Avoid water storage"
+          ]
+        }
+      ],
+      
+      "diagonal_sub_directions": [
+        {
+          "direction": "North-East (Ishanya)",
+          "hindi_name": "ईशान कोण",
+          "sanskrit_name": "ईशान्य",
+          "ruling_deity": "Ishana (Supreme Lord Shiva)",
+          "element": "Water",
+          "planet": "Jupiter (Brihaspati)",
+          "significance": "Spirituality, divine blessings, wisdom, mental peace",
+          "positive_activities": ["Pooja room", "Meditation area", "Tulsi plant", "Water source", "Open courtyard"],
+          "negative_activities": ["Toilet", "Kitchen", "Bedroom", "Heavy storage", "Staircase"],
+          "remedies": [
+            "Keep northeast extremely clean",
+            "Place sacred items and idols",
+            "Use white or light blue colors",
+            "Keep water elements",
+            "Install Om or Swastik symbol"
+          ]
+        },
+        {
+          "direction": "North-West (Vayavya)",
+          "hindi_name": "वायव्य कोण",
+          "sanskrit_name": "वायव्य",
+          "ruling_deity": "Vayu (Lord of Wind)",
+          "element": "Air",
+          "planet": "Moon (Chandra)",
+          "significance": "Relationships, friendships, communication, movement",
+          "positive_activities": ["Guest room", "Bathroom", "Garage", "Store for finished goods", "Unmarried daughter's room"],
+          "negative_activities": ["Master bedroom", "Kitchen", "Pooja room", "Main entrance"],
+          "remedies": [
+            "Use wind chimes",
+            "Keep light furniture",
+            "Use white or grey colors",
+            "Ensure proper ventilation",
+            "Place Vayu Yantra"
+          ]
+        },
+        {
+          "direction": "South-East (Agneya)",
+          "hindi_name": "आग्नेय कोण",
+          "sanskrit_name": "आग्नेय",
+          "ruling_deity": "Agni (Lord of Fire)",
+          "element": "Fire",
+          "planet": "Venus (Shukra)",
+          "significance": "Energy, transformation, cooking, power",
+          "positive_activities": ["Kitchen", "Electrical equipment", "Generator", "Boiler room", "Fire-related activities"],
+          "negative_activities": ["Toilet", "Pooja room", "Water tank", "Bedroom", "Main entrance"],
+          "remedies": [
+            "Use red, orange or yellow colors",
+            "Keep fire elements in southeast",
+            "Place Agni Yantra",
+            "Ensure proper ventilation for kitchen",
+            "Avoid water elements"
+          ]
+        },
+        {
+          "direction": "South-West (Nairutya)",
+          "hindi_name": "नैऋत्य कोण",
+          "sanskrit_name": "नैऋत्य",
+          "ruling_deity": "Nirriti (Goddess of Protection)",
+          "element": "Earth",
+          "planet": "Rahu",
+          "significance": "Stability, protection, roots, ancestors",
+          "positive_activities": ["Master bedroom", "Heavy storage", "Wardrobe", "Safe/Locker", "Ancestral items"],
+          "negative_activities": ["Main entrance", "Kitchen", "Pooja room", "Bathroom", "Living room"],
+          "remedies": [
+            "Keep heaviest items in southwest",
+            "Use earthy colors like brown, beige",
+            "Place protective symbols",
+            "Ensure southwest wall is thick",
+            "Use heavy curtains"
+          ]
+        }
+      ],
+      
+      "extended_directions": [
+        {
+          "direction": "North-North-East (NNE)",
+          "ruling_deity": "Bhudhar (Earth)",
+          "significance": "Health, immunity, vitality",
+          "positive_activities": ["Well/Tube well", "Water tank", "Open space", "Garden"],
+          "negative_activities": ["Bedroom", "Toilet", "Kitchen"],
+          "remedies": ["Keep clean", "Place medicinal plants", "Use green color"]
+        },
+        {
+          "direction": "East-North-East (ENE)",
+          "ruling_deity": "Aditi (Mother of Gods)",
+          "significance": "Social connections, networking, community",
+          "positive_activities": ["Living room", "Guest area", "Community space"],
+          "negative_activities": ["Store room", "Toilet"],
+          "remedies": ["Place family photos", "Keep welcoming atmosphere", "Use warm colors"]
+        },
+        {
+          "direction": "East-South-East (ESE)",
+          "ruling_deity": "Vitatha",
+          "significance": "Analysis, research, detailed work",
+          "positive_activities": ["Study room", "Office", "Library"],
+          "negative_activities": ["Bedroom", "Kitchen"],
+          "remedies": ["Place books", "Use yellow colors", "Good lighting"]
+        },
+        {
+          "direction": "South-South-East (SSE)",
+          "ruling_deity": "Bhringraj",
+          "significance": "Physical energy, action, implementation",
+          "positive_activities": ["Gym", "Workshop", "Kitchen extension"],
+          "negative_activities": ["Bedroom", "Pooja room"],
+          "remedies": ["Place exercise equipment", "Use red/orange accents"]
+        },
+        {
+          "direction": "South-South-West (SSW)",
+          "ruling_deity": "Gandharva",
+          "significance": "Creativity, arts, music, entertainment",
+          "positive_activities": ["Music room", "Art studio", "Entertainment area"],
+          "negative_activities": ["Toilet", "Store room"],
+          "remedies": ["Place musical instruments", "Use creative artwork", "Vibrant colors"]
+        },
+        {
+          "direction": "West-South-West (WSW)",
+          "ruling_deity": "Pushan",
+          "significance": "Nourishment, support, caretaking",
+          "positive_activities": ["Dining area", "Pantry", "Guest bedroom"],
+          "negative_activities": ["Toilet", "Main entrance"],
+          "remedies": ["Place dining table", "Keep food storage", "Warm lighting"]
+        },
+        {
+          "direction": "West-North-West (WNW)",
+          "ruling_deity": "Rog",
+          "significance": "Disease, challenges, obstacles",
+          "positive_activities": ["Bathroom", "Toilet", "Laundry", "Storage"],
+          "negative_activities": ["Bedroom", "Kitchen", "Pooja room"],
+          "remedies": ["Keep doors closed", "Use air fresheners", "Regular cleaning", "Place salt lamps"]
+        },
+        {
+          "direction": "North-North-West (NNW)",
+          "ruling_deity": "Nag",
+          "significance": "Hidden treasures, intuition, wisdom",
+          "positive_activities": ["Safe/Locker", "Jewelry storage", "Important documents"],
+          "negative_activities": ["Toilet", "Kitchen"],
+          "remedies": ["Place safe facing north", "Keep valuables organized", "Use metal elements"]
+        }
+      ]
+    },
+    
+    "all_deities": [
+      {"name": "Brahma", "location": "Center (Brahmasthan)", "role": "Creator of Universe", "element": "Space/Ether", "mantra": "ॐ ब्रह्मणे नमः"},
+      {"name": "Ishana", "location": "North-East", "role": "Supreme Lord, Wisdom", "element": "Water", "mantra": "ॐ ईशानाय नमः"},
+      {"name": "Parjanya", "location": "North-East-East", "role": "Rain God", "element": "Water", "mantra": "ॐ पर्जन्याय नमः"},
+      {"name": "Jayanta", "location": "North-East-North", "role": "Victory", "element": "Water", "mantra": "ॐ जयन्ताय नमः"},
+      {"name": "Kubera", "location": "North", "role": "Wealth", "element": "Water", "mantra": "ॐ कुबेराय नमः"},
+      {"name": "Soma", "location": "North-North-West", "role": "Moon God", "element": "Water", "mantra": "ॐ सोमाय नमः"},
+      {"name": "Mukhya", "location": "North-West-North", "role": "Main Deity", "element": "Air", "mantra": "ॐ मुख्याय नमः"},
+      {"name": "Vayu", "location": "North-West", "role": "Wind God", "element": "Air", "mantra": "ॐ वायवे नमः"},
+      {"name": "Rog", "location": "West-North-West", "role": "Disease", "element": "Air", "mantra": "ॐ रोगाय नमः"},
+      {"name": "Nag", "location": "North-North-West", "role": "Serpent God", "element": "Air", "mantra": "ॐ नागाय नमः"},
+      {"name": "Varuna", "location": "West", "role": "Water God", "element": "Air", "mantra": "ॐ वरुणाय नमः"},
+      {"name": "Pushan", "location": "West-South-West", "role": "Nourisher", "element": "Air", "mantra": "ॐ पूष्णे नमः"},
+      {"name": "Gandharva", "location": "South-South-West", "role": "Celestial Musician", "element": "Earth", "mantra": "ॐ गन्धर्वाय नमः"},
+      {"name": "Nirriti", "location": "South-West", "role": "Protection", "element": "Earth", "mantra": "ॐ निरृत्यै नमः"},
+      {"name": "Bhringraj", "location": "South-South-East", "role": "Lord of Bees", "element": "Earth", "mantra": "ॐ भृङ्गराजाय नमः"},
+      {"name": "Yama", "location": "South", "role": "Death & Dharma", "element": "Earth", "mantra": "ॐ यमाय नमः"},
+      {"name": "Vitatha", "location": "East-South-East", "role": "Analysis", "element": "Fire", "mantra": "ॐ वितथाय नमः"},
+      {"name": "Agni", "location": "South-East", "role": "Fire God", "element": "Fire", "mantra": "ॐ अग्नये नमः"},
+      {"name": "Aditi", "location": "East-North-East", "role": "Mother of Gods", "element": "Fire", "mantra": "ॐ अदित्यै नमः"},
+      {"name": "Surya", "location": "East", "role": "Sun God", "element": "Light", "mantra": "ॐ सूर्याय नमः"},
+      {"name": "Bhudhar", "location": "North-North-East", "role": "Earth", "element": "Water", "mantra": "ॐ भूधराय नमः"},
+      {"name": "Aryama", "location": "East-South", "role": "Ancestor", "element": "Fire", "mantra": "ॐ अर्यम्णे नमः"},
+      {"name": "Savita", "location": "South-East-East", "role": "Solar Deity", "element": "Fire", "mantra": "ॐ सवित्रे नमः"},
+      {"name": "Indra", "location": "East", "role": "King of Gods", "element": "Light", "mantra": "ॐ इन्द्राय नमः"},
+      {"name": "Mitra", "location": "East-West", "role": "Friendship", "element": "Light", "mantra": "ॐ मित्राय नमः"},
+      {"name": "Rudra", "location": "South-East-South", "role": "Storm God", "element": "Fire", "mantra": "ॐ रुद्राय नमः"},
+      {"name": "Prithvidhara", "location": "South-South-West", "role": "Earth Holder", "element": "Earth", "mantra": "ॐ पृथ्वीधराय नमः"},
+      {"name": "Apah", "location": "West", "role": "Water", "element": "Water", "mantra": "ॐ अपां नमः"},
+      {"name": "Apavatsa", "location": "West-North", "role": "Water Spirit", "element": "Water", "mantra": "ॐ अपवत्साय नमः"},
+      {"name": "Brahma (Center)", "location": "Center", "role": "Cosmic Creator", "element": "Space", "mantra": "ॐ ब्रह्मणे नमः"},
+      {"name": "Diti", "location": "North-West-West", "role": "Mother of Demons", "element": "Air", "mantra": "ॐ दित्यै नमः"},
+      {"name": "Shikhi", "location": "South-East", "role": "Fire Peacock", "element": "Fire", "mantra": "ॐ शिखिने नमः"},
+      {"name": "Charaki", "location": "South-South-West", "role": "Witch Deity", "element": "Earth", "mantra": "ॐ चरक्यै नमः"},
+      {"name": "Vidarika", "location": "South-East-East", "role": "Tearing Deity", "element": "Fire", "mantra": "ॐ विदारिकायै नमः"},
+      {"name": "Prajapati", "location": "Center-East", "role": "Lord of Creatures", "element": "Space", "mantra": "ॐ प्रजापतये नमः"},
+      {"name": "Bhrish", "location": "South-West-South", "role": "Apostle", "element": "Earth", "mantra": "ॐ भृशाय नमः"},
+      {"name": "Indrajaya", "location": "East-North", "role": "Victory of Indra", "element": "Light", "mantra": "ॐ इन्द्रजयाय नमः"},
+      {"name": "Rudraja", "location": "South-South-East", "role": "Born of Rudra", "element": "Earth", "mantra": "ॐ रुद्रजाय नमः"},
+      {"name": "Mriga", "location": "South-West-West", "role": "Deer", "element": "Earth", "mantra": "ॐ मृगाय नमः"},
+      {"name": "Pitara", "location": "West-South-West", "role": "Ancestors", "element": "Air", "mantra": "ॐ पितृभ्यः नमः"},
+      {"name": "Dauvarika", "location": "South-West", "role": "Gatekeeper", "element": "Earth", "mantra": "ॐ दौवारिकाय नमः"},
+      {"name": "Sugriva", "location": "South-South-West", "role": "Monkey King", "element": "Earth", "mantra": "ॐ सुग्रीवाय नमः"},
+      {"name": "Kusumadanta", "location": "West-North-West", "role": "Flower Toothed", "element": "Air", "mantra": "ॐ कुसुमदन्ताय नमः"},
+      {"name": "Jaya", "location": "North-East", "role": "Victory", "element": "Water", "mantra": "ॐ जयाय नमः"}
+    ],
+    
+    "zones": [
+      {
+        "zone_id": 1,
+        "zone_name": "Brahmasthan (Center)",
+        "location": "Center of the house/building",
+        "ruling_deity": "Brahma",
+        "element": "Space/Ether",
+        "significance": "Most sacred zone, represents cosmic energy, balance",
+        "ideal_usage": ["Open courtyard", "Pooja room", "Living area", "Open to sky"],
+        "prohibited_usage": ["Toilet", "Kitchen", "Bedroom", "Staircase", "Heavy storage", "Beam", "Pillar"],
+        "remedies": [
+          "Keep Brahmasthan completely open and clean",
+          "Install skylight for natural light",
+          "Use white or light colors",
+          "Place sacred geometry or yantra",
+          "Avoid any heavy construction",
+          "Keep plants in pots (not directly on floor)"
+        ]
+      },
+      {
+        "zone_id": 2,
+        "zone_name": "Ishanya (North-East)",
+        "location": "North-East corner",
+        "ruling_deity": "Ishana",
+        "element": "Water",
+        "significance": "Divine blessings, spiritual growth, mental peace",
+        "ideal_usage": ["Pooja room", "Meditation space", "Tulsi plant", "Well", "Water storage", "Underground water tank", "Open space"],
+        "prohibited_usage": ["Toilet", "Kitchen", "Bedroom", "Staircase", "Heavy storage", "Overhead tank"],
+        "remedies": [
+          "Keep extremely clean and pure",
+          "Place idols and sacred items",
+          "Use white, light blue or silver colors",
+          "Keep water elements",
+          "Install sacred symbols (Om, Swastik)",
+          "Light incense daily",
+          "Keep Tulsi plant"
+        ]
+      },
+      {
+        "zone_id": 3,
+        "zone_name": "Agneya (South-East)",
+        "location": "South-East corner",
+        "ruling_deity": "Agni",
+        "element": "Fire",
+        "significance": "Energy, transformation, power, cooking",
+        "ideal_usage": ["Kitchen", "Electrical room", "Generator", "Boiler", "Fireplace", "Electrical appliances"],
+        "prohibited_usage": ["Toilet", "Pooja room", "Water storage", "Bedroom", "Main entrance"],
+        "remedies": [
+          "Place kitchen in southeast",
+          "Use red, orange, yellow colors",
+          "Ensure proper ventilation",
+          "Install Agni Yantra",
+          "Keep fire elements (gas stove) in southeast corner of kitchen",
+          "Avoid water elements",
+          "Face east while cooking"
+        ]
+      },
+      {
+        "zone_id": 4,
+        "zone_name": "Nairutya (South-West)",
+        "location": "South-West corner",
+        "ruling_deity": "Nirriti",
+        "element": "Earth",
+        "significance": "Stability, protection, roots, ancestral energy",
+        "ideal_usage": ["Master bedroom", "Heavy storage", "Wardrobe", "Safe/Locker", "Ancestral photos", "Landlord's room"],
+        "prohibited_usage": ["Main entrance", "Kitchen", "Pooja room", "Bathroom", "Living room", "Children's room"],
+        "remedies": [
+          "Keep heaviest items in southwest",
+          "Use earthy colors (brown, beige, tan)",
+          "Place safe/locker facing north",
+          "Ensure southwest wall is thick and high",
+          "Use heavy curtains",
+          "Place protective yantra",
+          "Avoid water elements"
+        ]
+      },
+      {
+        "zone_id": 5,
+        "zone_name": "Vayavya (North-West)",
+        "location": "North-West corner",
+        "ruling_deity": "Vayu",
+        "element": "Air",
+        "significance": "Movement, communication, relationships, business",
+        "ideal_usage": ["Guest room", "Bathroom", "Garage", "Store for finished goods", "Unmarried daughter's room", "Toilet"],
+        "prohibited_usage": ["Master bedroom", "Kitchen", "Pooja room", "Main entrance", "Heavy storage"],
+        "remedies": [
+          "Keep light furniture",
+          "Use white, grey, silver colors",
+          "Place wind chimes",
+          "Ensure good ventilation",
+          "Install Vayu Yantra",
+          "Keep air purifying plants",
+          "Use metal elements"
+        ]
+      },
+      {
+        "zone_id": 6,
+        "zone_name": "North Zone",
+        "location": "North direction",
+        "ruling_deity": "Kubera",
+        "element": "Water",
+        "significance": "Wealth, career, opportunities, prosperity",
+        "ideal_usage": ["Main entrance", "Living room", "Treasury", "Office", "Children's study", "Cash counter"],
+        "prohibited_usage": ["Toilet", "Kitchen", "Heavy storage", "Master bedroom"],
+        "remedies": [
+          "Keep north clean and clutter-free",
+          "Place money plant or lucky bamboo",
+          "Use blue, green or black colors",
+          "Install Kuber Yantra",
+          "Keep water feature (fountain, aquarium)",
+          "Face north while working",
+          "Place mirror in north"
+        ]
+      },
+      {
+        "zone_id": 7,
+        "zone_name": "South Zone",
+        "location": "South direction",
+        "ruling_deity": "Yama",
+        "element": "Earth",
+        "significance": "Strength, stability, protection, fame",
+        "ideal_usage": ["Master bedroom", "Heavy storage", "Staircase", "Generator", "Electrical equipment"],
+        "prohibited_usage": ["Main entrance", "Living room", "Pooja room", "Kitchen", "Bathroom"],
+        "remedies": [
+          "Keep heavy furniture in south",
+          "Use red, maroon, earthy colors",
+          "Place pyramid or crystal",
+          "Ensure south wall is higher than north",
+          "Use heavy curtains",
+          "Avoid water elements",
+          "Place protective symbols"
+        ]
+      },
+      {
+        "zone_id": 8,
+        "zone_name": "East Zone",
+        "location": "East direction",
+        "ruling_deity": "Surya",
+        "element": "Light/Fire",
+        "significance": "Health, vitality, knowledge, enlightenment",
+        "ideal_usage": ["Main entrance", "Pooja room", "Bathroom", "Study room", "Verandah", "Morning sunlight"],
+        "prohibited_usage": ["Toilet", "Store room", "Heavy furniture", "Dark bedroom"],
+        "remedies": [
+          "Keep east open and bright",
+          "Use white, cream, yellow colors",
+          "Install Surya Yantra",
+          "Keep windows for morning sunlight",
+          "Avoid water elements",
+          "Place sun symbols",
+          "Keep plants that need sunlight"
+        ]
+      },
+      {
+        "zone_id": 9,
+        "zone_name": "West Zone",
+        "location": "West direction",
+        "ruling_deity": "Varuna",
+        "element": "Air",
+        "significance": "Gains, profits, children, stability",
+        "ideal_usage": ["Dining room", "Study room", "Children's bedroom", "Store for grains", "Bathroom (partial)"],
+        "prohibited_usage": ["Main entrance", "Living room", "Pooja room", "Master bedroom"],
+        "remedies": [
+          "Use white, grey, silver colors",
+          "Place wind chimes",
+          "Keep west windows small",
+          "Use metal elements",
+          "Avoid water storage",
+          "Place Varun Yantra",
+          "Keep light furniture"
+        ]
+      }
+    ],
+    
+    "room_specific_rules": [
+      {
+        "room": "Main Entrance",
+        "ideal_directions": ["North", "East", "North-East"],
+        "avoid_directions": ["South", "South-West", "South-East"],
+        "rules": [
+          "Main door should be larger than other doors",
+          "Door should open inward (clockwise)",
+          "Threshold should not have cracks",
+          "No obstruction in front of entrance",
+          "Entrance should be well-lit",
+          "Place auspicious symbols (Om, Swastik, Ganesha)",
+          "Avoid mirrors facing entrance",
+          "Keep entrance clean and clutter-free",
+          "Use wooden door for positive energy",
+          "Door should not creak"
+        ],
+        "remedies": [
+          "Place Ganesha idol at entrance",
+          "Install threshold (dwar vedh)",
+          "Use auspicious colors (red, yellow, orange)",
+          "Place toran or bandhanwar",
+          "Keep plants on both sides",
+          "Use bright lighting"
+        ]
+      },
+      {
+        "room": "Kitchen",
+        "ideal_directions": ["South-East", "North-West (secondary)"],
+        "avoid_directions": ["North-East", "South-West", "Center"],
+        "rules": [
+          "Cooking should face east",
+          "Gas stove in southeast corner of kitchen",
+          "Sink should be away from stove",
+          "Water and fire elements should be separated",
+          "Kitchen should not be directly in front of main entrance",
+          "Avoid kitchen above or below pooja room",
+          "Use proper ventilation and chimney",
+          "Store grains in south or west",
+          "Avoid kitchen in northeast (causes health issues)"
+        ],
+        "remedies": [
+          "Install Agni Yantra in southeast",
+          "Use red, orange, yellow colors",
+          "Keep fire extinguisher",
+          "Ensure proper ventilation",
+          "Use exhaust fan",
+          "Place salt in corners",
+          "Keep kitchen clean after cooking"
+        ]
+      },
+      {
+        "room": "Master Bedroom",
+        "ideal_directions": ["South-West", "South", "West"],
+        "avoid_directions": ["North-East", "North", "East", "South-East"],
+        "rules": [
+          "Head should face south or east while sleeping",
+          "Avoid sleeping with head facing north",
+          "Bed should not be under beam",
+          "Avoid mirror facing bed",
+          "Use heavy furniture in southwest",
+          "Keep bedroom clutter-free",
+          "Avoid electronic devices near bed",
+          "Use soothing colors",
+          "Bed should not face door directly",
+          "Keep safe/locker in southwest corner"
+        ],
+        "remedies": [
+          "Use earthy colors (brown, beige)",
+          "Place heavy wardrobe in southwest",
+          "Use dark curtains",
+          "Place rose quartz for relationships",
+          "Avoid water elements in bedroom",
+          "Keep bedroom door closed at night",
+          "Use dim lighting"
+        ]
+      },
+      {
+        "room": "Pooja Room",
+        "ideal_directions": ["North-East", "East", "North"],
+        "avoid_directions": ["South-West", "South", "South-East"],
+        "rules": [
+          "Idols should face west or east",
+          "Worshipper should face east or north",
+          "Pooja room should not be under staircase",
+          "Avoid pooja room near toilet or kitchen",
+          "Use marble or wood for platform",
+          "Keep pooja room clean and pure",
+          "Light diya/incense daily",
+          "Place idols at proper height",
+          "Avoid pooja room in bedroom",
+          "Keep sacred texts properly"
+        ],
+        "remedies": [
+          "Use white, yellow, light blue colors",
+          "Install Om or Swastik symbol",
+          "Place Tulsi plant nearby",
+          "Keep copper or brass items",
+          "Use sandalwood incense",
+          "Place water in copper vessel",
+          "Keep bell for positive vibrations"
+        ]
+      },
+      {
+        "room": "Bathroom/Toilet",
+        "ideal_directions": ["North-West", "West", "South", "South-East (partial)"],
+        "avoid_directions": ["North-East", "Center", "East"],
+        "rules": [
+          "Toilet seat should face north or south",
+          "Bathroom door should always be closed",
+          "Use exhaust fan for ventilation",
+          "Avoid bathroom in northeast (major dosha)",
+          "Avoid bathroom above or below pooja room",
+          "Use light colors",
+          "Keep bathroom clean and dry",
+          "Repair any leakage immediately",
+          "Use air freshener",
+          "Avoid mirror facing toilet"
+        ],
+        "remedies": [
+          "Keep door closed always",
+          "Use sea salt in corners",
+          "Place air purifying plants",
+          "Use white or light colors",
+          "Install exhaust fan",
+          "Keep bathroom dry",
+          "Use camphor regularly",
+          "Place small pyramid"
+        ]
+      },
+      {
+        "room": "Study Room",
+        "ideal_directions": ["East", "North-East", "North", "West"],
+        "avoid_directions": ["South-West", "South"],
+        "rules": [
+          "Study table should face east or north",
+          "Use proper lighting",
+          "Keep books organized",
+          "Avoid clutter on study table",
+          "Place Saraswati Yantra",
+          "Use yellow or white colors",
+          "Keep fresh air circulation",
+          "Avoid studying under beam",
+          "Keep study room away from bedroom if possible",
+          "Use comfortable chair"
+        ],
+        "remedies": [
+          "Place Saraswati idol or photo",
+          "Use yellow color (wisdom)",
+          "Keep crystal or pyramid",
+          "Ensure natural light",
+          "Place green plants",
+          "Keep water in glass on table",
+          "Use positive affirmations on wall"
+        ]
+      },
+      {
+        "room": "Living Room",
+        "ideal_directions": ["North", "East", "North-East"],
+        "avoid_directions": ["South-West"],
+        "rules": [
+          "Furniture should be in south or west",
+          "Avoid clutter",
+          "Use comfortable seating",
+          "Keep center open",
+          "Use warm colors",
+          "Place family photos on east or north wall",
+          "Avoid TV in northeast",
+          "Use proper lighting",
+          "Keep fresh flowers",
+          "Use air purifying plants"
+        ],
+        "remedies": [
+          "Place money plant in north",
+          "Use warm lighting",
+          "Keep wind chimes in northwest",
+          "Place aquarium in north or east",
+          "Use round or oval furniture",
+          "Keep positive artwork",
+          "Use pleasant fragrance"
+        ]
+      },
+      {
+        "room": "Dining Room",
+        "ideal_directions": ["West", "East", "North"],
+        "avoid_directions": ["South-West", "South-East"],
+        "rules": [
+          "Dining table should be in west or east",
+          "Face east or north while eating",
+          "Use proper lighting",
+          "Keep dining area clean",
+          "Avoid dining under beam",
+          "Use comfortable chairs",
+          "Keep water jug on table",
+          "Avoid TV during meals",
+          "Use pleasant colors",
+          "Keep dining room near kitchen"
+        ],
+        "remedies": [
+          "Use warm colors",
+          "Place fruit bowl on table",
+          "Keep family photos",
+          "Use pleasant lighting",
+          "Place green plants",
+          "Use positive artwork",
+          "Keep salt and pepper on table"
+        ]
+      }
+    ],
+    
+    "vastu_doshas_and_remedies": [
+      {
+        "dosha": "North-East Dosha (Toilet/Kitchen in NE)",
+        "severity": "Severe",
+        "effects": ["Mental stress", "Financial losses", "Health issues", "Family conflicts"],
+        "remedies": [
+          "Place Panchmukhi Hanuman facing northeast",
+          "Install Vastu Purush Yantra",
+          "Use white or silver colors",
+          "Keep sea salt in corners",
+          "Place crystal pyramid",
+          "Chant Om Namah Shivaya daily",
+          "Keep copper vessel with water",
+          "Regularly light camphor"
+        ]
+      },
+      {
+        "dosha": "South-West Dosha (Entrance in SW)",
+        "severity": "Severe",
+        "effects": ["Loss of stability", "Financial instability", "Health problems", "Relationship issues"],
+        "remedies": [
+          "Install Vastu Yantra at entrance",
+          "Place Ganesha idol",
+          "Use red or maroon colors",
+          "Keep heavy object in southwest",
+          "Place protective symbols",
+          "Chant Om Namo Narayanaya",
+          "Use copper pyramid",
+          "Keep door closed when not in use"
+        ]
+      },
+      {
+        "dosha": "Brahmasthan Dosha (Construction in Center)",
+        "severity": "Very Severe",
+        "effects": ["Major health issues", "Family conflicts", "Financial disaster", "Mental instability"],
+        "remedies": [
+          "Remove any construction from center",
+          "Install Brahma Yantra",
+          "Use white or light colors",
+          "Keep center completely open",
+          "Place crystal in center",
+          "Chant Om Brahmaya Namah",
+          "Use skylight for natural light",
+          "Keep center extremely clean"
+        ]
+      },
+      {
+        "dosha": "Kitchen in North-East",
+        "severity": "Severe",
+        "effects": ["Digestive issues", "Mental stress", "Financial problems", "Family conflicts"],
+        "remedies": [
+          "Install Agni Yantra",
+          "Use red or orange colors",
+          "Keep fire extinguisher nearby",
+          "Place salt in corners",
+          "Chant Om Agnaye Namah",
+          "Use copper items",
+          "Keep kitchen clean",
+          "Install exhaust fan"
+        ]
+      },
+      {
+        "dosha": "Bedroom in North-East",
+        "severity": "Moderate",
+        "effects": ["Sleep disturbances", "Mental unrest", "Health issues", "Lack of peace"],
+        "remedies": [
+          "Use light colors",
+          "Place crystal in northeast",
+          "Keep room clean",
+          "Use soothing fragrance",
+          "Chant Om Shanti Shanti Shanti",
+          "Place white flowers",
+          "Avoid heavy furniture",
+          "Keep window open for fresh air"
+        ]
+      },
+      {
+        "dosha": "Staircase in North-East",
+        "severity": "Severe",
+        "effects": ["Financial losses", "Health issues", "Mental stress", "Career obstacles"],
+        "remedies": [
+          "Install Vastu Yantra under staircase",
+          "Use white or light colors on staircase",
+          "Keep area well-lit",
+          "Place crystal at base",
+          "Chant Om Namah Shivaya",
+          "Keep staircase clean",
+          "Use copper wire around railing",
+          "Place plants nearby"
+        ]
+      }
+    ],
+    
+    "vastu_yantras": [
+      {
+        "yantra": "Vastu Purush Yantra",
+        "purpose": "Overall Vastu correction",
+        "placement": "Center of house or northeast",
+        "benefits": ["Removes all Vastu doshas", "Brings peace", "Prosperity", "Harmony"],
+        "activation": "Chant Om Vastu Purushaya Namah 108 times"
+      },
+      {
+        "yantra": "Kuber Yantra",
+        "purpose": "Wealth and prosperity",
+        "placement": "North direction",
+        "benefits": ["Financial growth", "Wealth accumulation", "Business success"],
+        "activation": "Chant Om Kuberaya Namah 108 times"
+      },
+      {
+        "yantra": "Agni Yantra",
+        "purpose": "Fire element balance",
+        "placement": "South-East",
+        "benefits": ["Energy", "Transformation", "Digestive health"],
+        "activation": "Chant Om Agnaye Namah 108 times"
+      },
+      {
+        "yantra": "Varuna Yantra",
+        "purpose": "Water element balance",
+        "placement": "West or North",
+        "benefits": ["Emotional balance", "Creativity", "Flow"],
+        "activation": "Chant Om Varunaya Namah 108 times"
+      },
+      {
+        "yantra": "Vayu Yantra",
+        "purpose": "Air element balance",
+        "placement": "North-West",
+        "benefits": ["Communication", "Movement", "Relationships"],
+        "activation": "Chant Om Vayave Namah 108 times"
+      },
+      {
+        "yantra": "Prithvi Yantra",
+        "purpose": "Earth element balance",
+        "placement": "South-West",
+        "benefits": ["Stability", "Grounding", "Protection"],
+        "activation": "Chant Om Prithviye Namah 108 times"
+      },
+      {
+        "yantra": "Surya Yantra",
+        "purpose": "Solar energy",
+        "placement": "East",
+        "benefits": ["Health", "Vitality", "Success"],
+        "activation": "Chant Om Suryaya Namah 108 times"
+      },
+      {
+        "yantra": "Brahma Yantra",
+        "purpose": "Cosmic energy",
+        "placement": "Center",
+        "benefits": ["Universal harmony", "Balance", "Creation"],
+        "activation": "Chant Om Brahmaya Namah 108 times"
+      }
+    ],
+    
+    "vastu_colors": [
+      {"direction": "North", "lucky_colors": ["Blue", "Green", "Black", "White"], "avoid_colors": ["Red", "Orange", "Brown"]},
+      {"direction": "South", "lucky_colors": ["Red", "Maroon", "Brown", "Orange"], "avoid_colors": ["Blue", "Black", "Grey"]},
+      {"direction": "East", "lucky_colors": ["White", "Cream", "Yellow", "Light Blue"], "avoid_colors": ["Dark Grey", "Black"]},
+      {"direction": "West", "lucky_colors": ["White", "Grey", "Silver", "Blue"], "avoid_colors": ["Red", "Orange", "Dark Brown"]},
+      {"direction": "North-East", "lucky_colors": ["White", "Light Blue", "Silver", "Cream"], "avoid_colors": ["Red", "Black", "Dark Colors"]},
+      {"direction": "North-West", "lucky_colors": ["White", "Grey", "Silver", "Light Blue"], "avoid_colors": ["Red", "Dark Yellow"]},
+      {"direction": "South-East", "lucky_colors": ["Red", "Orange", "Yellow", "Pink"], "avoid_colors": ["Black", "Blue", "Dark Grey"]},
+      {"direction": "South-West", "lucky_colors": ["Brown", "Beige", "Tan", "Maroon"], "avoid_colors": ["Blue", "White", "Light Colors"]},
+      {"direction": "Center", "lucky_colors": ["White", "Light Yellow", "Cream"], "avoid_colors": ["Black", "Dark Colors", "Too Bright Colors"]}
+    ],
+    
+    "vastu_elements_balance": [
+      {
+        "element": "Earth (Prithvi)",
+        "direction": "South-West",
+        "color": "Brown, Yellow",
+        "shape": "Square",
+        "remedy_to_strengthen": "Use heavy furniture, earthen pots, crystals",
+        "remedy_to_weaken": "Use light furniture, avoid clutter"
+      },
+      {
+        "element": "Water (Jal)",
+        "direction": "North-East",
+        "color": "Blue, Black",
+        "shape": "Wavy",
+        "remedy_to_strengthen": "Use water features, blue colors, mirrors",
+        "remedy_to_weaken": "Avoid water, use fire elements"
+      },
+      {
+        "element": "Fire (Agni)",
+        "direction": "South-East",
+        "color": "Red, Orange",
+        "shape": "Triangle",
+        "remedy_to_strengthen": "Use lighting, red colors, electrical items",
+        "remedy_to_weaken": "Use water elements, avoid heat"
+      },
+      {
+        "element": "Air (Vayu)",
+        "direction": "North-West",
+        "color": "White, Grey",
+        "shape": "Circle",
+        "remedy_to_strengthen": "Use wind chimes, open windows, light colors",
+        "remedy_to_weaken": "Use heavy furniture, close windows"
+      },
+      {
+        "element": "Space (Akash)",
+        "direction": "Center",
+        "color": "White, Transparent",
+        "shape": "All shapes",
+        "remedy_to_strengthen": "Keep open, use skylight, light colors",
+        "remedy_to_weaken": "Heavy construction, clutter, dark colors"
+      }
+    ],
+    
+    "daily_vastu_practices": [
+      "Open all windows in morning for fresh air",
+      "Light diya or incense in pooja room",
+      "Keep north-east clean and clutter-free",
+      "Water Tulsi plant daily",
+      "Keep kitchen clean after every meal",
+      "Close bathroom doors when not in use",
+      "Repair any leaks immediately",
+      "Keep main entrance clean",
+      "Avoid clutter in any direction",
+      "Use salt water for mopping weekly",
+      "Place fresh flowers in living room",
+      "Keep money plant in north",
+      "Avoid sleeping with head facing north",
+      "Keep center of house open",
+      "Use pleasant fragrance in home"
+    ],
+    
+    "seasonal_vastu_adjustments": [
+      {
+        "season": "Summer (Grishma)",
+        "adjustments": [
+          "Use light colors in living areas",
+          "Keep water elements in northeast",
+          "Ensure proper ventilation",
+          "Use cotton fabrics",
+          "Keep cool colors in bedroom"
+        ]
+      },
+      {
+        "season": "Monsoon (Varsha)",
+        "adjustments": [
+          "Check for leaks",
+          "Keep home dry",
+          "Use dehumidifier",
+          "Ensure proper drainage",
+          "Use bright colors to counter gloom"
+        ]
+      },
+      {
+        "season": "Winter (Shishir)",
+        "adjustments": [
+          "Use warm colors",
+          "Keep south-facing windows open for sun",
+          "Use warm lighting",
+          "Place heaters in southeast",
+          "Use heavy curtains"
+        ]
+      },
+      {
+        "season": "Spring (Vasant)",
+        "adjustments": [
+          "Open all windows for fresh air",
+          "Deep clean entire house",
+          "Place fresh flowers",
+          "Use light colors",
+          "Rearrange furniture for positive energy"
+        ]
+      }
+    ],
+    
+    "conclusion": {
+      "summary": "Vastu Shastra is an ancient Indian science of architecture that harmonizes the five elements (Earth, Water, Fire, Air, Space) with cosmic energies. Proper Vastu alignment ensures health, wealth, happiness, and spiritual growth.",
+      "key_principles": [
+        "North-East is the most sacred zone (water element)",
+        "South-West is the most stable zone (earth element)",
+        "South-East is for fire activities (kitchen)",
+        "North-West is for air and movement",
+        "Center (Brahmasthan) should always be open",
+        "Main entrance should be in positive directions",
+        "Heavy items should be in south and west",
+        "Light items should be in north and east",
+        "Cleanliness is essential for positive energy",
+        "Regular remedies enhance Vastu benefits"
+      ],
+      "disclaimer": "This guide is based on traditional Vastu Shastra principles. Modern practical considerations should also be taken into account. For severe Vastu doshas, consult an experienced Vastu expert."
+    }
+  }
+}

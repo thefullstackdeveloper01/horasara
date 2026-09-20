@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "035__json_files_karana_list_json",
+    "name": "JSON_Files_Karana-List",
+    "original_file": "JSON_Files/Karana-List.json",
+    "dataset_number": "181 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Karana-List.txt",
+    "source_sha256": "155656628b289c4ed0e83012551ff09d2fe75c2876e2153514b34ea022d0bb0e",
+    "source_bytes": 704
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "kar_001",
+        "name": "Bava",
+        "type": "Movable (Chara)",
+        "ruler": "Sun",
+        "interpretation": "Good for medicine, fire-related works, and government tasks."
+      },
+      {
+        "id": "kar_002",
+        "name": "Vishti",
+        "type": "Movable (Chara)",
+        "ruler": "Saturn",
+        "interpretation": "Vishti (Bhadra) is considered highly inauspicious. All good work must be avoided during this Karana."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tara_001",
+    "concept": "Tarabalam",
+    "calculation": "Count from birth Nakshatra to the Nakshatra of the day.",
+    "rules": {
+      "remainder_1_3_5_7": "Good for auspicious work",
+      "remainder_2_4_6_8": "Inauspicious, avoid important work",
+      "remainder_9": "Medium results"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "VIMSHOPAKA_WEIGHTS": {
+    "D1": 3.5,
+    "D2": 0.5,
+    "D3": 1,
+    "D7": 0.5,
+    "D9": 3,
+    "D10": 1.5,
+    "D12": 0.5,
+    "D16": 1.5,
+    "D20": 0.5,
+    "D24": 0.5,
+    "D27": 0.5,
+    "D30": 1.5,
+    "D40": 0.5,
+    "D45": 0.5,
+    "D60": 4
+  },
+  "VIMSHOPAKA_DIGNITY": {
+    "Exalted": 20,
+    "Moolatrikona": 18,
+    "Own": 15,
+    "GreatFriend": 12,
+    "Friend": 10,
+    "Neutral": 7,
+    "Enemy": 4,
+    "GreatEnemy": 2,
+    "Debilitated": 0
+  },
+  "BALADI_AVASTHA": [
+    {
+      "name": "Bala (Infant)",
+      "from": 0,
+      "to": 6,
+      "delivery": 25
+    },
+    {
+      "name": "Kumara (Youth)",
+      "from": 6,
+      "to": 12,
+      "delivery": 50
+    },
+    {
+      "name": "Yuva (Adult)",
+      "from": 12,
+      "to": 18,
+      "delivery": 100
+    },
+    {
+      "name": "Vriddha (Old)",
+      "from": 18,
+      "to": 24,
+      "delivery": 50
+    },
+    {
+      "name": "Mrita (Dead)",
+      "from": 24,
+      "to": 30,
+      "delivery": 0
+    }
+  ],
+  "JAGRADADI_AVASTHA": {
+    "Jagrat": {
+      "delivery": 100,
+      "desc": "Fully alert, maximum delivery"
+    },
+    "Swapna": {
+      "delivery": 50,
+      "desc": "Dreaming, partial delivery"
+    },
+    "Sushupti": {
+      "delivery": 25,
+      "desc": "Deep sleep, minimal delivery"
+    }
+  }
+}

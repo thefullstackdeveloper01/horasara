@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "178__dosha_yoga_remedies_json",
+    "name": "dosha_yoga_remedies",
+    "original_file": "dosha_yoga_remedies.json",
+    "dataset_number": "108 of 455",
+    "format": "json",
+    "source_readable_file": "dosha_yoga_remedies.txt",
+    "source_sha256": "ef480691cdb4420b067ef9a872607560e01a46161f549189cd3e4ed05bb211c3",
+    "source_bytes": 606
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "SHOW_SOURCE_CITATION": "No",
+      "GRAHA_GEMSTONE": {
+        "Sun": "Ruby",
+        "Moon": "Pearl",
+        "Mars": "Coral",
+        "Mercury": "Emerald",
+        "Jupiter": "Yellow Sapphire",
+        "Venus": "Diamond",
+        "Saturn": "Blue Sapphire",
+        "Rahu": "Hessonite",
+        "Ketu": "Cat's Eye"
+      }
+    }
+  }
+}

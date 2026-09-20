@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "408__v11_outcome_corpus_schema_json",
+    "name": "HoraSaar V11 Verified Outcome Case",
+    "original_file": "v11_outcome-corpus.schema.json",
+    "dataset_number": "408 of 455",
+    "format": "json",
+    "source_readable_file": "v11_outcome-corpus.schema.txt",
+    "source_sha256": "67698d7bc7bacba609390a4e2adca5a8ee12f3f92fe63797467634316aa500c2",
+    "source_bytes": 1392
+  },
+  "metadata": {
+    "title": "HoraSaar V11 Verified Outcome Case"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "HoraSaar V11 Verified Outcome Case",
+      "type": "object",
+      "required": {
+        "_items": [
+          {
+            "_text": [
+              "id"
+            ]
+          },
+          {
+            "_text": [
+              "chartId"
+            ]
+          },
+          {
+            "_text": [
+              "cutoff"
+            ]
+          },
+          {
+            "_text": [
+              "events"
+            ]
+          },
+          {
+            "_text": [
+              "verification"
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "chartId": {
+          "type": "string"
+        },
+        "cutoff": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "events": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": {
+              "_items": [
+                {
+                  "_text": [
+                    "type"
+                  ]
+                },
+                {
+                  "_text": [
+                    "date"
+                  ]
+                },
+                {
+                  "_text": [
+                    "source"
+                  ]
+                }
+              ]
+            },
+            "properties": {
+              "type": {
+                "type": "string"
+              },
+              "date": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "source": {
+                "type": "object",
+                "required": {
+                  "_items": [
+                    {
+                      "_text": [
+                        "citation"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "verification": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "status"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "status": {
+              "const": "verified"
+            }
+          }
+        }
+      },
+      "additionalProperties": "Yes"
+    }
+  }
+}

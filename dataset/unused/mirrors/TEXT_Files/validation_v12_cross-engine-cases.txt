@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v12/cross-engine-cases.json
+Dataset number: 412 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 172 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 12.0.0
+• status: READY_FOR_REFERENCE_IMPORTS
+• cases:
+  (empty list)
+• note: Empty by design. Actual competitor outputs must be imported from independently run engines.

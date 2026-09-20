@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import { buildUniversalPrediction, listMethodologies, julianDay, normalizeDegrees, rectifyBirthTime, runEngineeringSelfAudit } from '../src/index.js';
+assert.equal(normalizeDegrees(-10),350);
+assert.equal(julianDay(2000,1,1,12),2451545);
+assert.ok(listMethodologies().length>=6);
+const p=buildUniversalPrediction({event:'Career',method:'PARASHARI',planets:[{planet:'Saturn',sign:'Capricorn',house:10,longitude:280}],ruleMatches:[{confidence:82,evidence:{classicalRuleScore:82},planet:'Saturn',supported:true,cause:'Saturn activates the configured career factor.',effect:'Career responsibility may increase.',solution:'Use only remedies present in the supplied remedy dataset.'}],windows:[{startJD:2450000,endJD:2450100,start:'2030-01-01',end:'2030-04-11',exactTriggers:['Saturn']}],dashaTimeline:[{mahadasha:'Saturn',startJD:2449000,endJD:2451000}],supportingDasha:['Saturn'],currentJD:2450050,provenance:{source:'test'}});
+assert.equal(p.event,'Career'); assert.ok(p.userView.why.length); assert.equal(p.probability,null);
+const r=rectifyBirthTime({centerJD:2451545,events:[{id:1},{id:2},{id:3}],evaluator:(jd,e)=>-((jd-2451545)**2)});
+assert.equal(r.status,'CANDIDATE_SELECTED'); assert.equal(r.best.jd,2451545);
+const audit=runEngineeringSelfAudit(); assert.ok(audit.score>=99); assert.equal(audit.capabilityGap.total,100);
+console.log('v19 competitive foundation: PASS');

@@ -1,0 +1,18 @@
+{
+  "labels":{"general":"Overall","career":"Career","business":"Business","finance":"Money","love":"Love","marriage":"Marriage","health":"Health","family":"Family","education":"Education","travel":"Travel","property":"Property","spirituality":"Spiritual Growth"},
+  "descriptions":{"general":"Your overall direction and daily balance.","career":"Work, responsibility, progress and professional decisions.","business":"Business activity, clients, partnerships and practical decisions.","finance":"Money flow, financial choices, saving and opportunity timing.","love":"Connection, communication and emotional relationship timing.","marriage":"Partnership, commitment and relationship decisions.","health":"Energy, routine and wellbeing-focused timing; not medical advice.","family":"Home life, family communication and shared responsibilities.","education":"Study, learning, exams, skills and concentration.","travel":"Travel, movement, planning and change of environment.","property":"Home, property decisions, repairs and major domestic matters.","spirituality":"Reflection, devotion, inner practice and spiritual growth."},
+  "rules":{
+    "general":{"positiveHouses":[1,2,3,5,9,10,11],"pressureHouses":[6,8,12],"relevantPlanets":["Sun","Moon","Jupiter","Venus","Mercury"],"supportingDasha":["Jupiter","Venus","Moon","Sun","Mercury"],"neutralDasha":["Saturn","Mars"]},
+    "career":{"positiveHouses":[2,6,10,11],"pressureHouses":[8,12,4],"relevantPlanets":["Sun","Mercury","Jupiter","Saturn","Rahu"],"supportingDasha":["Sun","Saturn","Mercury","Jupiter","Rahu"],"neutralDasha":["Venus","Mars"]},
+    "business":{"positiveHouses":[2,3,7,10,11],"pressureHouses":[6,8,12],"relevantPlanets":["Mercury","Jupiter","Venus","Saturn","Rahu"],"supportingDasha":["Mercury","Jupiter","Venus","Saturn","Rahu"],"neutralDasha":["Moon","Sun"]},
+    "finance":{"positiveHouses":[2,5,9,11],"pressureHouses":[6,8,12],"relevantPlanets":["Jupiter","Venus","Mercury","Moon"],"supportingDasha":["Jupiter","Venus","Mercury","Moon"],"neutralDasha":["Sun","Saturn"]},
+    "love":{"positiveHouses":[1,5,7,11],"pressureHouses":[6,8,12],"relevantPlanets":["Venus","Moon","Jupiter","Mars"],"supportingDasha":["Venus","Jupiter","Moon","Rahu"],"neutralDasha":["Mercury","Sun"]},
+    "marriage":{"positiveHouses":[2,5,7,11],"pressureHouses":[6,8,12],"relevantPlanets":["Venus","Jupiter","Moon","Saturn"],"supportingDasha":["Venus","Jupiter","Moon","Rahu"],"neutralDasha":["Mercury","Saturn"]},
+    "health":{"positiveHouses":[1,3,6,10,11],"pressureHouses":[1,6,8,12],"relevantPlanets":["Sun","Mars","Saturn","Moon"],"supportingDasha":["Sun","Mars","Saturn","Jupiter"],"neutralDasha":["Moon","Venus"]},
+    "family":{"positiveHouses":[2,4,5,7,11],"pressureHouses":[6,8,12],"relevantPlanets":["Moon","Venus","Jupiter","Saturn"],"supportingDasha":["Moon","Venus","Jupiter"],"neutralDasha":["Mercury","Sun"]},
+    "education":{"positiveHouses":[2,4,5,9,11],"pressureHouses":[6,8,12],"relevantPlanets":["Mercury","Jupiter","Moon","Sun"],"supportingDasha":["Mercury","Jupiter","Moon","Sun"],"neutralDasha":["Venus","Saturn"]},
+    "travel":{"positiveHouses":[3,9,12],"pressureHouses":[6,8],"relevantPlanets":["Jupiter","Rahu","Mercury","Moon","Saturn"],"supportingDasha":["Rahu","Saturn","Mercury","Jupiter"],"neutralDasha":["Moon","Venus"]},
+    "property":{"positiveHouses":[2,4,11],"pressureHouses":[6,8,12],"relevantPlanets":["Mars","Moon","Venus","Jupiter","Saturn"],"supportingDasha":["Mars","Moon","Venus","Jupiter","Saturn"],"neutralDasha":["Mercury","Sun"]},
+    "spirituality":{"positiveHouses":[5,8,9,12],"pressureHouses":[2,6,10],"relevantPlanets":["Jupiter","Ketu","Saturn","Moon"],"supportingDasha":["Ketu","Jupiter","Saturn"],"neutralDasha":["Moon","Sun"]}
+  }
+}

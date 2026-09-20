@@ -1,0 +1,36 @@
+READABLE DATASET
+================================================================================
+Original file: decade_forecast.json
+Dataset number: 100 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 226 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• ORDINAL_LORD_KEY:
+  1.
+    1st_lord
+  2.
+    2nd_lord
+  3.
+    3rd_lord
+  4.
+    4th_lord
+  5.
+    5th_lord
+  6.
+    6th_lord
+  7.
+    7th_lord
+  8.
+    8th_lord
+  9.
+    9th_lord
+  10.
+    10th_lord
+  11.
+    11th_lord
+  12.
+    12th_lord

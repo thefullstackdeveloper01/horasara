@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Manglik-Rules.json
+Dataset number: 185 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 193 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+house | manglik_rule | intensity
+--------------------------------
+1 | Mars in 1st affects 7th by aspect. | High
+7 | Mars in 7th causes spouse health issues. | High

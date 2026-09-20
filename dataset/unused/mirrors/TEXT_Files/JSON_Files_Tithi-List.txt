@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Tithi-List.json
+Dataset number: 211 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 245 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+id | name | paksha | ruler | nature
+-----------------------------------
+1 | Shukla Pratipada | Shukla | Sun | Good for starting new work.
+16 | Krishna Pratipada | Krishna | Sun | Good for removing obstacles.

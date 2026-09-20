@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "438__vimshottari_json",
+    "name": "vimshottari",
+    "original_file": "vimshottari.json",
+    "dataset_number": "438 of 455",
+    "format": "json",
+    "source_readable_file": "vimshottari.txt",
+    "source_sha256": "9755a723445bf9b098f234dca438c218c822744a08383ca8ad95d43f20939778",
+    "source_bytes": 830
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "NAK_LORDS": {
+        "_items": [
+          {
+            "_text": [
+              "Ketu"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          }
+        ]
+      },
+      "TOTAL_YEARS": 120,
+      "JULIAN_YEAR": 365.25
+    }
+  }
+}

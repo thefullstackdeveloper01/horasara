@@ -1,0 +1,24 @@
+{
+  "planets": ["Sun","Moon","Mercury","Venus","Mars","Jupiter","Saturn","Rahu","Ketu"],
+  "rules": {
+    "Sun|Moon":["mixed","Visibility, vitality and public/emotional themes are traditionally emphasized; avoid treating this as a causal world-event forecast."],
+    "Sun|Mercury":["supportive","Traditionally associated with communication, trade, learning and administration."],
+    "Sun|Venus":["supportive","Traditionally associated with arts, diplomacy, relationships and material refinement."],
+    "Sun|Mars":["challenging","Traditionally associated with heightened initiative and conflict potential; practical caution is emphasized."],
+    "Sun|Jupiter":["supportive","Traditionally associated with leadership, learning, institutions and expansion."],
+    "Sun|Saturn":["challenging","Traditionally associated with pressure, regulation, delay and restructuring."],
+    "Moon|Mars":["challenging","Traditionally associated with emotional intensity, urgency and reactive decisions."],
+    "Moon|Jupiter":["supportive","Traditionally associated with public optimism, learning and supportive growth."],
+    "Moon|Saturn":["challenging","Traditionally associated with restraint, responsibility and heavier collective moods."],
+    "Mercury|Venus":["supportive","Traditionally associated with arts, negotiation, commerce and social communication."],
+    "Mercury|Mars":["challenging","Traditionally associated with fast decisions, debate and communication friction."],
+    "Mercury|Jupiter":["supportive","Traditionally associated with study, teaching, planning and broad communication."],
+    "Mercury|Saturn":["mixed","Traditionally associated with serious analysis, rules and slower communication."],
+    "Venus|Mars":["mixed","Traditionally associated with attraction, creativity and stronger passions."],
+    "Venus|Jupiter":["supportive","Traditionally associated with abundance, culture, generosity and social harmony."],
+    "Venus|Saturn":["mixed","Traditionally associated with commitment, restraint and restructuring of relationships/resources."],
+    "Mars|Jupiter":["mixed","Traditionally associated with ambitious expansion and the need to moderate excess."],
+    "Mars|Saturn":["challenging","Traditionally associated with friction between urgency and delay; disciplined execution is emphasized."],
+    "Jupiter|Saturn":["mixed","Traditionally associated with expansion meeting limits, institutions and long-term restructuring."]
+  }
+}

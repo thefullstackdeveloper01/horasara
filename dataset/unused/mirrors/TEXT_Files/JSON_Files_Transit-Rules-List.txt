@@ -1,0 +1,32 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Transit-Rules-List.json
+Dataset number: 214 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 787 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: transit_001
+  • name: Sade Sati
+  • transiting_planet: Saturn
+  • duration: 7.5 years
+  • trigger: When Saturn transits the 12th, 1st, and 2nd house from the Moon sign.
+  • phases:
+    1.
+      Rise (12th)
+    2.
+      Peak (1st)
+    3.
+      Setting (2nd)
+  • interpretation: Period of intense struggle, financial loss, and health issues to mother. Requires immense patience and Hanuman worship.
+2.
+  • id: transit_002
+  • name: Kantaka Shani
+  • transiting_planet: Saturn
+  • duration: 2.5 years
+  • trigger: When Saturn transits the 4th, 8th, or 10th house from the Moon sign.
+  • interpretation: A thorn in the leg. Causes domestic unhappiness (4th), chronic health issues (8th), and career setbacks (10th).

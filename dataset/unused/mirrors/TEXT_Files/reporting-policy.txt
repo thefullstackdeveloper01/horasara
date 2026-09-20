@@ -1,0 +1,123 @@
+READABLE DATASET
+================================================================================
+Original file: reporting-policy.json
+Dataset number: 333 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 859 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• planets:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+  8.
+    Rahu
+  9.
+    Ketu
+  10.
+    Uranus
+  11.
+    Neptune
+  12.
+    Pluto
+• lifeAreas:
+  1.
+    1.
+      career
+    2.
+      Career & Profession
+  2.
+    1.
+      wealth
+    2.
+      Wealth & Finance
+  3.
+    1.
+      marriage
+    2.
+      Marriage & Partnership
+  4.
+    1.
+      health
+    2.
+      Health Symbolism
+  5.
+    1.
+      children
+    2.
+      Children & Progeny
+  6.
+    1.
+      spirituality
+    2.
+      Spirituality
+  7.
+    1.
+      property
+    2.
+      Property & Assets
+  8.
+    1.
+      foreign
+    2.
+      Foreign Travel / Settlement
+• forbiddenCertaintyPatterns:
+  1.
+    100\s*%\s*(accurate|certain)
+  2.
+    scientifically\s+(proven|proved|validated)\s+astrology
+  3.
+    guaranteed\s+(result|outcome|prediction)
+  4.
+    will\s+definitely\b
+  5.
+    certainly\s+(will|happen)
+• requiredSectionIds:
+  1.
+    executive
+  2.
+    calculation-audit
+  3.
+    basic-details
+  4.
+    planetary-position
+  5.
+    charts
+  6.
+    houses
+  7.
+    vargas
+  8.
+    strength
+  9.
+    dasha
+  10.
+    transits
+  11.
+    prediction
+  12.
+    timing
+  13.
+    evidence
+  14.
+    remedies
+  15.
+    provenance
+  16.
+    validation
+  17.
+    qa

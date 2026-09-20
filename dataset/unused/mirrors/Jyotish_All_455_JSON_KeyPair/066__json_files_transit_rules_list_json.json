@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "066__json_files_transit_rules_list_json",
+    "name": "JSON_Files_Transit-Rules-List",
+    "original_file": "JSON_Files/Transit-Rules-List.json",
+    "dataset_number": "214 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Transit-Rules-List.txt",
+    "source_sha256": "151eb4ddf6bed543188d644419630d2bf41bff47556d1bdbeed4bc2dc7a107dd",
+    "source_bytes": 1112
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "transit_001",
+          "name": "Sade Sati",
+          "transiting_planet": "Saturn",
+          "duration": "7.5 years",
+          "trigger": "When Saturn transits the 12th, 1st, and 2nd house from the Moon sign.",
+          "phases": {
+            "_items": [
+              {
+                "_text": [
+                  "Rise (12th)"
+                ]
+              },
+              {
+                "_text": [
+                  "Peak (1st)"
+                ]
+              },
+              {
+                "_text": [
+                  "Setting (2nd)"
+                ]
+              }
+            ]
+          },
+          "interpretation": "Period of intense struggle, financial loss, and health issues to mother. Requires immense patience and Hanuman worship."
+        },
+        {
+          "id": "transit_002",
+          "name": "Kantaka Shani",
+          "transiting_planet": "Saturn",
+          "duration": "2.5 years",
+          "trigger": "When Saturn transits the 4th, 8th, or 10th house from the Moon sign.",
+          "interpretation": "A thorn in the leg. Causes domestic unhappiness (4th), chronic health issues (8th), and career setbacks (10th)."
+        }
+      ]
+    }
+  }
+}

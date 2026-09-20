@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "043__json_files_numerology_list_json",
+    "name": "JSON_Files_Numerology-List",
+    "original_file": "JSON_Files/Numerology-List.json",
+    "dataset_number": "191 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Numerology-List.txt",
+    "source_sha256": "d8ac6815c388656d61096ccdd317ec437c1637d7a46ca996a3b83e16bd0e3cd6",
+    "source_bytes": 536
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "number": 1,
+          "ruling_planet": "Sun",
+          "traits": "Leader, independent, aggressive",
+          "compatible_numbers": {
+            "_items": [
+              {
+                "_text": [
+                  "1"
+                ]
+              },
+              {
+                "_text": [
+                  "2"
+                ]
+              },
+              {
+                "_text": [
+                  "3"
+                ]
+              },
+              {
+                "_text": [
+                  "9"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

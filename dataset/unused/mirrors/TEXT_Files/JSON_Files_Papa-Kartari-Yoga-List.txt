@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Papa-Kartari-Yoga-List.json
+Dataset number: 193 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 206 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+name | formed_by | effects
+--------------------------
+Papa Kartari | A planet hemmed between two malefics (e.g., Sun-Mars on one side, Saturn-Rahu on other) | Suffocation in the significations of that planet/house.

@@ -1,0 +1,3434 @@
+READABLE DATASET
+================================================================================
+Original file: sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b.json
+Dataset number: 352 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 139,861 bytes
+Top-level fields: 11
+Title: SesvaraMimamsaVedantacharyaCommentaryOnJaiminiSutrasEd.AnantacharyaA.b.
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: SesvaraMimamsaVedantacharyaCommentaryOnJaiminiSutrasEd.AnantacharyaA.b.
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: JAIMINI SUTRAS - XML
+  • total_pages: 77
+  • total_words: 24902
+  • text_quality:
+    • ocr_word_validity_score: 0.432
+    • quality_tier: poor
+    • note: Source OCR scan quality was poor; text may contain garbled words. Cleanup removed formatting noise but could not restore misrecognized characters.
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Sree Chamarajendra Sanskrit College
+FORT, BANGALORE 6ITV.
+LIBRARY RULES.
+I. Any one who shall lose, deface by writing
+or otherwise injure any book, shall pay the
+full cost of the book, or entire work, if there
+be more than one volume.
+II. No student shall have more than one volume
+out of the Library at a time.
+III. Students must net pass books from one to
+another, but must return them to the
+Librarian..
+IV. Library books must not be used as class
+books.
+V. Books must not be retained longer than
+3 days or one we eh They may be borrowed
+again, if not wanted by others.
+VI. Text-books and books of reference shall not
+be taken home. ^ ^ ^
+Accession No
+<ny—'
+Date of addition to Library
+Cost Rs / As &
+r
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+Sasthra muktha vali-16.
+m
+n)
+Digitised by Ajit Gargeshwari For Kar nataka Samskrita University
+SESHWARA- MIMAMSA
+A Commentary on Jaimini Sutra.
+( 1 st & 2 nd Padas, in 1 st Adhyaya, )
+BY
+SRI- VEDANTA CHARY A.
+Kavi tarhika-simha & Sarva tantra-sivatantra
+EDITED BY
+P. B. ANANTHA CHARIAR,
+Sanskrit Pandit.
+Printed at the
+Sri Sudarsana Press;
+CONJEEVERAM.
+Price Re. 1-8-0
+{Copy Right Registered
+
+m;%<n
+^iflfeRir^wS torn
+afh$33*n3*
+iq*ta i
+sir rIrtstt «iP5«rrc ^qi
+( qqqi^iq gqq iMqqilr )
+eftqtMr qraqife Rqqii
+^?r?cT(^TqqT
+qfctnfqcn ,
+wrem i
+\\ sfi^Rr II
+dlqi fla^qg; - \ - 1 - o
+Digitised by Ajit Gargeshwari F Dr Karnataka Samskrita University
+
+;> fn
+n iMtafar m ii
+3WRi';qra n«w?rc;*«T sraifa l
+■ttlste '
+) arfewir- )
+m
+} mifa | ^
+Ifcngsrcusqr j
+■ 29fai:
+ararat vwrer^rert i
+II ^ II
+*t!^TT 55^rwi *ro: I
+IM
+<tsu RW?t qfnt: 1
+^r?5r«rqiir s^R?Ri%qroiftTrJTfg^RIRW^-
+rewRPTSRWTRncC. i \
+aJfrqRr^a srrtowsq gTRgq^^fi «n%ci**jrc5q®5^ vnrai'i ^i^tq^qrtra^&ircU
+V S
+aiwwra i
+^parc 5 * srbrqsjiij; 1
+H®
+n
+H%«j i
+H®
+n
+*wg *r* ^N*j; i
+vs
+u
+sr<r:q*:«;?3ra RqqRi»TrRT3 I
+MV
+JTqFT^<R-ft 1
+MV
+Digitised by Ajit Gargeshwari Fc r
+Karnataka
+Samskrita University
+
+3Tir%?^r^efr»T»i^r*^ i
+X°
+U
+«Wfl T%q*t 1
+x\
+X*
+<w«f??rrc v i
+x\
+n
+^rqqqm’arq; i
+X*
+qteqrwqiq i
+xh
+t^V9
+\x
+arqq^nqiq; i
+x\
+q^qwiqj^qiq*q i
+f®*T^Nisr i
+V*
+stqqNraqranwf *q*qicrf^WTftqra; i x
+M
+q^qtqir%qiqq^m*qrqrq*qfn^Wrlfqi^. »
+®i%graqmqiWTOrasE$«*qra; i
+q^r^qqqrftqrtqq. II <r II
+q?i«*% g,^qi^qi i
+srftrq^fFnv i
+*v
+3tK;<t ^TSf'jqfqq; 1
+VSo
+aTFSqiqqqqtq 1
+n
+qc?5 §[Rrer?*?i?qjTiq^: i
+v sy
+f;qqnqrqqR^qitqr«ai^R?qiq. i
+vs<^
+f i
+II srcqpqro fecftqqi^ qqifa ||
+3Tqqi^mT°q{NWi*i. || » |
+h t%
+3Tirqrq^qi%qiqfqr ^qsfoqRcT^qRT cT^m ^l%q g^qq 1
+srrerss i
+qqi q:55i Riqrq^ i
+wqiqsqq qiq 1
+tc
+M
+swnqqiqqqiq i
+H
+3 T^fq^qim?f !
+%o
+iqiqqpq^qiqqfqi f*g?q«jqfqqRfll: l
+vs
+^x
+gsq*q snwr^irqqiq; i
+V*
+3 TqfHpqigqqf%: qqiinV
+fq^iq^qi ^?[q^fqqq|q-
+^q *qw fqqaq i
+A*
+X°
+x°
+<^vs
+^qifqiqtq 1
+X°X
+^^q^qiq i
+x\
+X°X
+x\
+^qq^Tqicqrg^ 33 1
+x\
+SHqJltwsri 1
+*A
+fqqwq^i i
+XA
+X\
+srq?q JTTiqqqrcqrq; I
+x\
+'K®^q^mq«qq sqqi ssiqrq-
+?qRqi«nq: wfg^rq^qiq i
+^vs
+X*
+srqqqj qq*Trf>^ I
+X*
+X°H
+fqiqq!%qdtiiqqT^i^ || ^ ||
+fqrqqreqr sf^qtqi gl^RTq-
+?rqq^H 1
+X©vs
+®rqjqi%q%q iqrqrq i
+\x
+q? sqrRR^qi^: I
+qq>;q qiqq^rqfqq; i
+XXo
+Rfqsrrqq^: q»r%q*RR*qiq:-
+qmqqafqrnn;qirqq?:gqqi?qq;
+*v
+Rqrc<Spq ^qqqqqrqf Rqr^qq ffinffiflipf T5 q RI% 1
+*L
+xx\
+Rqiq qiqqq^^qrq i
+vs
+xx\
+II ^ II
+%fq«qi^qqTqrqqf%¥qT i
+Digitised by Ajit Gargeshwari Fo Karnataka Samskrita University
+
+sgRSg^in^r^t^Rsq i
+m
+sq^ TWRTRRqR%
+Rrefrq?qisrore5r% i
+m
+^T?** SgT*mSRr R^TR 1
+^RTRIRIcTO ^oqqTqiRvfRTwri
+H
+u«
+*F5«firaFC®Pi || » n
+?r?&En^rR i
+snqqRqqra i
+m
+m
+arrroqR^roqR |
+Ho
+3H
+3T%?Rqq;vRR i
+H
+TqPRRq^SRRR 1
+m
+3vs
+3TR%qR 1
+m
+wfqRSNpTR |
+arfqi%ST3 qrqqiq: i
+HV
+»o
+?TOI*R S^5R: 1
+\o
+WH
+n
+qR^qi 1
+H3
+WRlflR 1
+m
+n
+w
+W%?i <TTJ* 1
+’Swr qrwR^igq©^:-
+w
+H*q7TTRR l
+vh
+wIwrSrr: 1
+V\
+w<z
+^qRRRRq^qj^ j
+\s
+y\s
+R*nq=fR*roqRR i
+m
+€r: <TTin%Rq; i
+K
+m
+3tF^T RRSRR: I
+U
+n\
+H®
+r$*ft<R3TO 5R«R^ 1
+\o
+m
+M
+H3
+RR?t5?ra i
+n*
+c\
+il ii
+II II
+fifcraTOt^ *n jrorogm *Trn<7qR cTtir ***«-
+^iVsr ^r; i Rro^Rwro ro^g *mqroR ot
+gfa RTf.ro «n%FO?m^T%'hT: II
+TT ^R llWR TTSjT 3RR gq: ^TST^TWR I
+jTrcpronmrcif srcfer qt qi^rcoi:*mR; «
+R«fTTTr RJIJRR^I^ro q^f^RTO^PTR TTlfl€lIT I
+3TTTIT^«T STH^RTTRI II
+“ ararara£f3t9rcn ” f^nrvq “ srj fR^?R;rr ? fptt
+;^r” ?R^qR rroR^ro «fmron?q ivr. srrar i ’snk
+ifiFri^i 5r^gr^nyi%^iTT*R[3Fi m^vRorerc! crinroinreJjCfcT RIRPTOS^FR %?T^C^TTI5qRRqcaRR^I TTJRf
+srw rsr i^rai^wiVa^qu4^R i qwspsroR.sR
+R?RR?R1W <P^R|T *TRT RRTi^Rq^RIMR.R|:
+TTfRIRR RqqtfqfJRqiRq^TTR^R R^TRffTT^rW ^ q^TOT^RRmR "TRJRTO: I qRRtJTFJR
+ITfrrRTRTITIR^TTq sqqf^RTt^T^. , HcRH N
+stR I 5RR , q«^Tf?*RRRT^ I ^R^TIOR
+TtRNW ^q^qfT^TRRFT I tRTSFFRf TRRR%q Rl%
+^^rrRiHicf VR3RT Mr^^ft^muq i ?ro i%^w^r
+Digitised by Ajit Gargeshwari Fc r Karnataka Samskrita University
+
+, %qn%gnqj 3rrfcOT”ra*srare: i “ ^
+%?TWrR5WTR^ liwrn qisw^qqiq strI^^t%%:” fR
+fI%Rjaj «Tqq^mq 3 TqqJTq: I 3mmm^ q^tq: , 3II?q
+qqfcnqmT^ I 3q q % nq q M i m «q -
+u q*rqqr snirq: qrim: qwfiqyqrer: ”
+1 q^ro^qfiq -
+“ amqqqiRRT *n^RT 3qqiftqR$t s
+iqqigrifrqi:, qwnq qmfarcs’reqiq]*;?! ^igfr^3TT^rwra q^iqi?5rgRq: ” ?fq i
+jr^^^fiq^q^ qnrriq^q , qqqq*qH
+qqrqRqT, q^qnreq iqq^qre: i ar^qfqRqqjq^ig'-iqq
+Rqfqoqjr |
+aRqsqfcq] o^nfif^iT^H [qiq] q^qirfq rrnrg: |
+qfl^q ^TTT^TFrl II
+NO
+?TIT JTTTI^TT^f ?^TTIT JRqqiqrRq qiiqqqq^TqjJTgqq I
+^w*Traw<i^i®n o^TT^r^ qRf^psf ^Rq^qqt&j %-
+fqqrgfq^qm: i
+q*V4ltW qqqiq ^T^TT^’jfl ^m^TTT qfTqqgiTTv^qTTH u w^v^m^- Srmfq: i ” “ ^q%m% 3fafq-
+??T»4ff5 q^rqrq” “ qvqTf^q^qqr^qfqqrit qmfq: ” “ar-
+'^rr<73 qiqrq ; iraTo^rn^TT^T«n qfqqq ii%” “qq ^rfiTR gqqrqTq ” “sn^JT Swrv qq;qremqvq:” f?qti?q i
+^ TO , TO” “ STq?qT r<jqqTqqT^T qqqqFqfq qjqiq: ”
+??^Tf^3 fq#fTqrgqT^q?q^TTT%q55q:J^qTq qTfTii
+?q4: I arqqr qqqifoq^rroiTq TrqqTarqq iqq^qjq^Ti^ftnT
+^ffrT'^’T^Tfr qwqqfqTTq: I qr^HTRJ q 5TI^f W^IFT 1
+wtftatar t \
+qqq^w q i *nw$5iN>s^ata qa ft& Bife 55 'iqrf%s??qi3 i qT^r^mrfqr tjqfTqqqqqqT qqqq qrcajnqqq^qr^qi q-fr^qq#^ | aRT iqqRqiqTqRTqSiqRqgffrn q^q^RHSTTTiq f^qqT^qqi Rq^qqqq r%-
+i sqq^ra q^qq sqqftf i qqfrqrfqrq
+^jTihw?; q^r nrara%qra i qq^qrqrq«nqTfq qjqq
+qrq: I qfqmpjqqR^'q If tq=qR *Rqifq q%Rqqitq JTOTOT5,^5hT smtq q^qq I qq^r qRfqqiqqqi qiqi q^rqf 3rqrqqrq »qqrqrqqn:fq qrc^qqiqzqiqq gisqqrqrgqniq; ,
+STqnj^q^ffqqqsmqqrqnq^qT^^iITf , arqyqre req^ qrqqqRqrq*irqqqr Tq^rqrq , qrqqTq<nqTqq?q qsqrqqiqi “ar-
+” ?fq -qrqrq , qqTqqrqqrqqiq qqrqrqrqiRqqrqiqTqsj, qiqRq iqqrqqqqi'qrqTrqiq qrqrqqrc: qqqnfr i qq qqmqgRii qjqqrqrq: *qmnqrfq^qr f^rqi%
+^qq^g^qivq ^ q^igRTmaj ff^.lrrt^ra^q ^JTT%
+qi;qrqq:i^: i qft^f^nrtqqqqTf RqrqR^nrR3I%qqq I 3TO3 Rq^qRRRpq ^TqfqqiRqirq q^qq
+fqqTRFqq |
+Rr^jRTTTqqrnqRqr jiwt^riT^ i%rw: i
+fqwi^^mvr q^q- q^q n
+t%q qrq qrqq qqrjjqR ^rrq f% qqq^qrqiRqq,
+smq, qqr qr^qqifq *wqq: ^qrqa^qrqnrqqmq
+R^R^qrrq qrqrq fqi%qTi:rqqr fqrqr i qiq^nqiq^T%%R^
+qg fq«qf^f; ^ritornqq ?r ii
+fq^fq^^rRTq^qqm q^mfqqR R^qqrqRqRtrq
+3Tqrqi qqf^trmf it \-\-\ II
+am 3T?frqrq qrq;qqr»4 qq, qiR^qqrq^qRqqrriqTq I
+Digitised by Ajit Gargeshwari F( r Karnataka Samskrita University
+
+yarrow sFfrqi?fqtsqR i q-qtq
+^ 1^ ?T I%f^R Rf^S, rr«IT'^T?T:q^I'TT^|ir^ *qr^R WIfff
+'W %Hm?lr *q*q ^i^rtrmprq ^refqsqisjrrtrrqrsqr rr^%rr?FTT fifTT^irm^iT^r ^rqq?T^qqq?r<T qqR^RritfsT: i ?ri% q^isqqqt fj# mqqqt^T-
+?*X*t %TT«iR^tt ^TfT%^lVqT5?% I
+3Td ’ {"-I I ifTcpyiaTn •« 'Jd+-M %<TVfTqiq irq | v^q^f^gii-
+,?r twrr q£r, *=r«r;;rerro r ;qq£j tnfj^
+^ ' *& T>|TTf7I HW'4 cr:
+ry^^crf^i, “ ifa ” riar fq£q \wmRm ,
+n^-kr’TT , ^^^^i%cra^T3VTjr5cngrcT , a?;qqqH
+?r% reqq.TqTqRrj^qiqqrnR, 3<T3qTqqrfqq^TRTfqrqi^*rq_
+f 3H* qRq^fqqrqq#^qr^Rqqsq f^rnrqipri
+f f^rf. ^fqq**s?n ^ r
+^n%r faqq ^rnf^fer, rrqtfq qf^R^q ■ £;,
+btRi 1 9i% r 4Fi qrrrf frq sttstr 5crerq4sq
+^wti^«reqRFT ^<JTi>4?%xr fqqiqar i ^rrr% RRiq, jt^prt hi
+jtict s‘^fft'1 f^tJW^onrT wq^fiTT^fanj; i Irq qqqgnirer: i
+Swtfmftn I ^
+V T^TrF(^\^?Ft;?TqifJF qqq>|Rq ^rJTmqq^qm , OTOTFn
+fqrjfqqqt R^n%%*lf?T ‘ q^JJR ^qq% ’ fcqq STTd’qT?!^
+*qar ” ?rt i
+*3 “ T^qq?qqq: ” “ sjqRm ” ^Rfjqivqi qi^R
+q*qq iqqqhqqcqq^ireR gqi^rq, “ q^tHRT?nR ”
+%m ^rinqqqqf : q “ »j ^3 qr^TTq<nr %H3qq%=riT<i”
+rfajq: qqrqqq*qq qi^q^q qqqqqqT *qfq?rq \ <SW»TO-
+■jqq^ cT=r W***t I 3T?r: “ *WtVt?TT% ” fcf TO
+qr=?q mgri^P3m'«ii^Jn sr<iT«'^T%f^r
+i%qr%ar? 3 Wiq^ 1 «q , qq?nq s?rwc 5rsr?r^inw$q*TO
+*^tNt ^fsT?T I ?q*j ^jqq^iqfqqirqfqyn, WfW ‘ 3 R’ ?rar
+%rqq;qqR I Jtt? V^^5Tmf%?tT^mf f^q^rvqqq %?pTqrqTfTq'rr 1 J^psrsmqqq jr , ^rr^RrTTT^q^qT^qrq^qqq?q fqftWRR I STcTqq SreWPRRrTC ?R 'T$Tf
+fq fecT 1 Rm “ '4« m qq ” ^qqqrqtrfastTq: - ^ilf^qircT: ^TRt^^iSrPRR qgqqq^cfi ^?UWT ? -m H^^nf^rTIT I
+q qm qrqqmoqqqTqq qi$rq^qf*qJt: , £f% q?RT%'
+5IRTrcfT qnqTqrqf *qqqq q;^q^fq^^T!cT ,
+qVfq qm^IRT ^I^TIrqr^^iqqfqiVTiqfq STO^
+?q qrjq^qi qi^^nqqfqgqq^q , qqTRTRT q^rT^qn^OT f
+fqiR^ii# ^qqrw^q ^cfsq^qr qmraw^w rr^fqm 3 -
+qq?qT S'jq^KSrq qR^nTiqq?q qqqqqfq , cr^Tiqqfflf^rq
+rqrqi^qT^q^ , st^t r TTrerqiqpqfird«m 1
+iimifa 3^3 wnqr^ qT^qiq^r *?r 5 *w??:
+-df Vqqfqq^^T I 3T?TI qfirdq^Rf I 3?q qqg%-
+R T=miT^ fqfqqiTqiq! i%qTq-7TaTqH I q^T^f %q3r
+qq5T®trq =qr?qr^qoT ^qFq-Tqi^f , ^qr^f^qi/ciscj
+qqrqqivqqFT^rfq %[»if ^q<f I 3TrT Rm m&RTRl
+qtq^rrrq RtR?.- 1 qrrtTqiFqqiqrqTPq vjqfq ^q^T^rqqiRjqrr
+Trqr^FT^qiR-qTfTqr 1 qfT^qnrfri^r^rq^isT i^ri%i%: 1 swtt^t TTrnqqrT?! qq^q ^iqtqcqir^TRir vn'qqfit::- “ g-qj^
+qrqqqTjqiPTfiq^^rqq ‘ q^fqTi^TfqqT; ’ ftrqi??m ar^
+jrrm’wqq ?fq 5rpTC<T a%%qarRf ^:?m^rw?r ^rfq%q?qqqRqjTfq^qqiq^TT^q 3qRfT: , q5JciqTcrqT^ri''aTQmqviiqq5Er
+qn T(qq,fqcTqq %?■: ” ?fq I qqt qqq- “ qrqqqqq mm
+Digitised by Ajit Gargeshwari F
+r Karnataka Samskrita University
+
+$ ^g^afr i
+Jri %qiRRq|qq qRTRqTq , q?£qT?qq;R[ 31131i qq*i ?TRqr qRyrnr qqm: , fij-^y
+S qRRR , <raT qrRRTR , qq: qr a ?qqSRnq>jqn%%
+qrqiTqqqq qqqtqRqR: i
+*nifa s^qvMqtqRqiR- )%^JTgRrR qrqRqq^r sqqqfqRR , qqpRqqr fqfa*qqiRqnFqfRq q^qsq
+qfq’qrqpqiihqTrq qprqRRR^qr qiRiqr: - “qq»jq g^r qr
+«r qiRq *Rq$nqf “ srstf^RiRq* * “ 3q?qRqq <^3
+'TT^RT ” ?R q^RTR^Tif WRq STSRRgqRqqT Tqsjyqer I
+33T ^#IWR9[RT qTf qq RRRT^R fTTRT 3 H^R
+<WTrT 5 <ii^R qqqq” fur 1 sr: wftroippft *giq qrqsq-
+*R ^ir®^ urir, lisrac^qq qqqime^RR ^RqRTgfqsn*^
+3RR 3%qrq5S$rq R^RFStK: I ^qqRTR <q
+sw?R i%£ qiRi ^Taraigom^r sfqqqq #?r: , =qiRq-
+*.qR 'wqreqrcqRTRsiqR ' qqqf*R$«ns q^srqiq qsgRr
+tR -‘‘RR RJ^ ^n«n5IRJT^?« I T%:^RRTRqRqqT qjqSJRi^Rt ” ?rtr i qqqfa R^n%^R4^cr^: 1 q^r ^niq
+R^RR^TT fHWfllH T%tR«RfRm ^TRIRJTR^R q«fr%-
+=Sr*T I <Rg?JR*J - “ 3TqRq^RT? q?RR ^JTR
+qRqrqqrqr s^\m ^irr: q«Ri srr ?r«irt vtorri
+% <3^** ' q^RR^Tq^qrni qqRqrrq^qg^qw
+^TVRcTIR^q: “ qgRRIIRR ” ITO ^qq^jfqq «jRq<q
+!FT” |R I rfr'RiTR^ ^qR^RRWRRRqRtq ^r%cT: -
+“ 3nftl%cT^ 5RRR*3 %?RRRTR^^rRT ” 1%% I qqmy
+RR “ RRqqgfRR ” RR*3 “ ^^RqRRT^flR%m-
+^ S vfRt^: ^q SSqqiRqqqq ” fR I qufq fTI^R^T -
+> S1RTNR quqqRRT s? Rq RtRT , qq%RqTR
+^R qqq: qvjRRR RRRTTnq 3 R q?q fqqqq I
+Digitised by Ajit Gargeshwari For
+q^qmRT
+RRR^qR TRqiHR sTmiq ^qin: I ^RRqqqi ^RI
+crvjrw Riq^^rlt^RFII R?r ^fllRTHRm *®R*R 3TUPR
+qiqTRRSrRR qqq$Rqq mm urn# qqi^qqt s RqqR;qt
+qqqq 5 #r 1 ?T«fRRR: qRRqqRtfqq: I 3R mR^I^n^R
+fqqq; i crr%RWPifR 3 qRR*q«fiqfqfq *=Riq:, qqq RRiqq,
+RRimW^ft ST% q%R I 3^1 RtRcT cT^T qR*q»»fR3 I q5?rf*q q^R*q*fiqtqi'q i
+3Rt qRq^r: - aratrr^riiTt^^^ »TRT^n^g:R?R ^ zm
+T* i aR^ ^ i q^Tw- “ sfvTir ^rpn ” f#
+s»
+W5TR«T^nvnRT^RT: I
+jtr “ i^tori
+TtCRR g-Rq^, BqqqiqqriT^rq ^qRRRH^RqRIRTqRT31 urf«r>a^ sqq«rrq ?3 * shtrstor jt^^trir i q^m^rr
+RqfRq*R«R%S jflRRI^n# 3 Rq«Jtfq ^R^iq fR 3
+tTR[ , RR^T^RR^RT 3TR 355IR^ R^rft ?T^qiqR I 3TR^crmfq JTR^r«t?qq 3 ^qR qri ?TRi: 5(TR: I
+sa
+rrqiRTR^rR ^RRH - “ 3TiRfqf gTR^T^ffR q^TR^R 3 -
+Th qrqrR^K'qfmRqriR Rq t% RTRiqq>fr
+qRr vtffifoRR^qicfr ” RTR I qRrqqgqR:, 3TRH: I qiHI
+qrq Rqq:q 355qRfer%: i ^ ^^RqrgqR:, qqfiRT
+qRR 1 qq^q^qR ^RqrvqrqRR i q=q Rrq ?qni|w 3
+fa^RTRiqgqR , qqqR^q Rtq^T q qqqrflR q^qq;,
+qf^tlRR q=qqRqRTRr%: I qi%TRT RR WfiqqqRwqR , q?r qt^iq Ri^q qtqiqfq^n, q-^q^Rq, ^r?rwTqimqqR:, qiqqifq qqi^qqRR q*qq CiqraRRR: 1
+qqqqnqqqr qriqq%RRra 1 qRRqi s^qRRi qqr^q-
+!> qj-.qq , 3Tqqrqfq q^qi^ I cRq^TjjqRq ^qqTRI%-
+Karnataka Samskrita University
+
+sireRfcrao# I
+<r
+sg^ii grig^r gR jRTRggRffRT rrrfr; i ?rcrtR4irRtri^r^r warmer %vr, 3RTRm*gw? t^Tif^nq 3
+w*M^trr 1 i^wjrafq cnwr ^r: snifrprcn, strcttr^ritr ri^g' gr^ggi, ttfr ^TTRgfaRRR 1 r^rt
+5Tflr^mi% %3, 3TRcflI% <TRR, tRRTRgRg W^R^SR
+«#jRi*rr3R*3 1 jtrt^ws<»tf? ®TRv%sw?nsn|r st^ti%-
+% sri^N *grgTTRTvnR*RCT ^grrcqrsRnr gi-g^r i srgfTR^gtfa «5?r%% SR=IRI?R5?Ti%% gRT^RHRg *HTVTTT
+ggtRSRR; 1 anri^Rm^rFr FRgRSRgrg ^iftra^-
+arRTRRH ggg 1 1 <TtR? f^H^mrar %g; •, 3T?g?f fa ggg 1 sr
+HT«WTr 4 ^^f'ngtffrTRT 5T rR'RfRR 4 totqtCr: I
+sr^nsnuT^r®^ g vawroar ^^ivqr^^r»^?r=g wrmifa 3 -
+ITff, *R RRRW**R: I
+“ ggrsgq srr^i'ngq^gfg grrRiqg ” fafa g^n%gRgrfqRT g#i “ strati nm^rr gr ggifiR wnrm 1 3
+qra^ffwftfRr 11 ar<r g^R«j^Tr%-
+R*R q%g 1 g^RifarR ?=RTrfa f^qs^g %qsir ” rt
+faster sRgrT'qrfagg jtrrtrt: smg: i
+stct: ^qftgrciRggfafgRcqgr “^ir^RRsr^r ^rt^r
+R^RQ^ fR g^R^i^gfagfaR gmggHRtrqggciw =gr4ran:<JTR^?t<JT ^qrRg^RRr 4 ;?r fiRjR^rwfam^ofjtr qggRgi’R growra g ggr n'mi^rr 1
+- *R?%g '^3 tfRren^wt:, ggi=g vrggRir qTmrjr^rr Rm%qgrg<nt - “^igg^rfag ^giq^gm^mgrJRTRR gg=r«?g%=^T R§' «ngT?g<gRT 5r4'nCRRRT R3*
+isRRrTT g^RqRTtRT gR’frgg r%33SRfF3R?l*T 3R3
+4, gRT^IRg ” RR I
+Digitised by Ajit Gargeshwari
+%»9tftofarr I
+<?5T, TI^TIf <R HR^RI W SRgRcT *W, ^RTrq^Ff
+S3
+qpfrsjtMq R^RTigitg- faRT^gRR^-^^rrcRi 333 ^
+g i srcrtsaprata CTrersrqraTft g4faig;gfq ^cq^ggifa-
+*trr iggRRwgr rrr ^ttitT^ i
+*=* “ 3«TRTfR?T 31=4 3*1 JIRT^RR^ I <TTp?Tg$
+4r qf|qR?rqRR 11 ” sr gisrcpj rittoir^ricT
+g^faRrremRi wfagRR g;/fa ^gfa rr r^ir sfa
+JT’RfRBKiT ^RiTRRR ^RRfvKgR^? ^RTcT ?RT gFRJJ
+33 fg4 *«r<jtr , ^RRgcRriq *n>Rgifag*?*‘*T373: 1 g;rrr ^r<T£qRRgRr%ir : 1 ggigrronfagR RRgRgggr
+grfgRr^irir^RT^rT fggg, srsrr i q^fafa ctrt jf3% r't
+^ r^R^iar 4 rr i “sr.
+>frR%Ti^ ^3 iiT’^^^iR^TTsq^Tg- 1 ^Kgragfe^v^-
+^^grRgrggR u ” ^Rir^RRi^vr^R 1 jt^rr^rr^trJ^TTR, W^T^r r€t4 ^ RI3RR3cIITR 1
+3?<n ^TT'Rg-gT ri4 ngRgrrTR , qszr
+RST^giRRRt’RtRR rTrTI q^JTR FTrT^^^R^R , ^4-
+?R3^R?rgf, ^TRRgR3rtnqi%rTfrRRr , RHrersiRrR^^-
+floPigRR ii * ii
+- 3TRmi%ars4?TR(i 3
+j TR74r^[%%: , cR3jg^nq ^RqTHRRWT, fRTR g-
+^^r^g-RR^Rgjr^gqRT ^itc^rtd , TTRR 4tm^WT3TR^R^l>^RTg:T^IRrT
+^^^iprnran^^^rernt 1 RRi^wfqmnT^qi^Rit-
+• 1 w r f RsnmRTRg^RR ^ig^Rr , cr5[3TRs4fiRT%^?r
+RT^Tg^Rr^iRTci 1 11 # 11 g^nigg^ 1
+Karnataka Samskrita University
+
+\ o • ^n^rgrTTFfosi i
+TRrR*3RIRTrtfT RTRT*RTR^RR?: II RRrgjRTRR: RIRfi jrirr rr<:?rir ^g?f^RRRR5s: 11 * n
+srercrRRR^RRR <iRi%3rT 3^55t^rtr vrtrtr 1 RcTRRRT?RrR?RqR®[T% rstr: 1 rsttr-
+’#RreRTRSCgRRR , cmTPT RR^RSRRR srS^c^KT’TiTil^TI STvq^f^^ ^ TT Ugqr rtng^RRRR 57T^i^^mfii7rFn^^^TJT^Tv?ij%T fr^rr
+rtrr:?r RRmrRTRrR; 1 ^?^r^ ; *mTR^pnq ccrn^^ivn
+R ?jn: nfT§qq%«j 1 crg^ WRRTrR rto:5»to? i
+R^TRSRTRF cnTRR RKf^nRRRTRRR^F JRrgrT^RR; , 3T
+i)I5»T^FIt %Rn%%R®T?Rl%^FRRTR I f^WRTRRWT
+rtrpr RiRgrRRiRi^TrcsT ,
+srRw^r%3r^«in ^mRiTRRrTRR RrRTR 5 RTCR=RRR7Rfr 1 rf* ^rhertr: <trrr f^nferawr gwRRTRf:?RR
+“ ^RfFRT^TR ” ScRnTTRRR: I RRT ^^TRRRFrRTfc
+% RTR IRRRt, RS^RTIR I RgT R^TTTRRV%RrRRTRRrgm-
+*<R RRrRTRRTrcRRrR'RTfR RRRRTW5TR?TRRfTR : I f%^n?^T~
+RRTTRRTR 5 R^^RTRTTRfTRRvT ; ST^CtRRFRT^ ^RTRRTTFift;
+RtRli^WR RRT^RTTRRRTRRRRTR RTT^RRRWRrRTR I ‘ R3TjTFTRRR^nTT ’ ScRIH? RTO13T I ^TRRR 3TITR% “ SfR»RT
+srrrtr frtrrir 1 ar^nwRisg^Riq r rtri^irh:
+FR* ; RR'CrRTTgRTR^ R^RTRS^R STgRf JcRTfRHIR Rc|xTRtI^TR*re R*JI7TR IRRlflTTR: , RIRfa^TTgRFRFRTOT-
+^ r RRR i R15 s^FRrre'R frirr^r , c<rr ^wy^rnr-
+^TRR 5 3TFR*R$JRl^RR’RTR*RT: , RT^RSRSfRaTtirqivq: | ^~
+tRr srenwrresmqtf fR^Rfom^r ? srff
+R^fflfRT | \ \
+A: flSSiKRTRRRT RR^T^RfR^RRIR^TC ^rRRRrfafg
+*tr: 1 otr^ttrrrt^Rsj: rttrftr , ^rcTrtrfr , *<*- 51 *.-
+FR , 3TTT5cTR« RRIRfR RR^TFRRT^R'jflRT RTRI%fR I
+^RRR^TRIR TR ! Rm5«IRRTR3 I
+RR’SRfS'RFR: RIHIR^^IRR: II
+TRRKTcRRRRTR RTRRVRRR fovj: I
+RRTSRRRTR^R TRRIT 2 RTFRRTT>IR: I
+RTRITRRrTR^T’JRT RRVj: f%R®Tl%R>: II
+3TRT^3«ERT%RIRT RRTT%R RT%*RR II
+RJR^Ff : ‘ ^RT^RTRt^RRSR ’ ?iR TRRFF^RTRR RT^TR^
+RIcT , RTrRir-J^irRR RITRSfSrR'R RTFRTR HJ?<SSRrR>RFRT
+RI RSRRTR*RT*RRRFR TRSRSRR^RT RTRRRT RIBRRRIRRTRRRR ^RP^RIRIR RTRRi*R RI^RfR TR^RTRRRRRHRT Tg-
+’RTRRRTRR *RRRT RT»R RR^j'R 7T5TRTRRTRT: ^gfcT^RT
+RRrTTRRRTRRT rRRR^TRII^RRrrRgJTTRR RfRTSRRRTRRIRf
+RRTRF5TTR FJTRgTFRT ^rRRrTFR R^HRTgTR Rr^RTRRl^^'RT
+«rrrI<jfr FRi^TRFRIRRTrRI^rFVTRR TRRRRRT5TR1RTRT gRT
+\ TVR TTRRiRfR TRq^T fwn, *g?RRTRTTRi:rRR RSRRRRrRR
+<T RTRRTRFR FRPRIRFRR RISRffTRRR RRsTR ^^FTVRRrR
+^RqrsqRrRRTFTFR tKrRRRR-SiTRTRqRRT TRMRRiRIRTRra -
+FRrsRTR^RrRR^R ^I%?TRrfR fqqRtTRTRRWglRRKiRtJt'lR .
+frnsnRHf 1
+RFR RTR 5TR:, RR 'R^RIRRIRTF'RT^RRRPi ^fRI^RTR:
+Os
+RR-RTRRfRRr TRRRTRIRRI ?RfR I R^RR TRIRRRR RR5T/%rqf^, 3T7RRT ^fJRFRTH R^FRIRfTIR^RtRRRR ^vTI-R
+<f»T R^I.J TRIR^RR^R ^RRRR^RT T%^i RTR'Rf% I I%=RDigitised by Ajit Gargeshwari F
+r Karnataka Samskrita University
+
+\\ WWgiKHoSI I
+gq tjgw rg^gggfgfg (ggi^rerm gRgsi%gfogiggr 1 g
+qgq: - sggggrgi'igrg , g?Tg?rqg f^Rgriq Tgg%gig?g
+I gift f^grg: qr^VfRgRR'qrvgg >%?gfg^Vg %1
+^WT#g I IT3 T5 , TT%»ir^niJTT^: - a^ggiggigg%ms?Vg f^FTTH Tgg%gig?gqRg:, arfggi%gTg
+?g TgsqgqrgTgT^g gagSCTTC ^TT%f%TTT?r, gg, STgRigiggf? q;^rgg=gsgg;T g*g?n#g rnggogg- i OT^rggrcTTqg-
+* 7lfTf% 3Rfg ;t qqrRTgrTgsnfg I ggig g?*g - “ gsgggij
+#TcT^ f3IHrg*g JR-^RcT'T^ JT^fl ggggqigq/rg?gT5rgrg ”
+# i BTRai gR^gRR^gregT sgTgTgsgT^qggaj i giggir
+jjqPTSggift UITTir:, 3TjffJTiRrrT?TT!55R^T g*ggrg , gf-
+** mqigT'TSTTqrg ggqRfv; T^TgRTgiRR ■, §g - anqigrr-
+?ft?qgj;ggmg*g *$2g*qi-fig: gq gmiRigq^Tf^fg l
+qir f%*ffn^a?mm«7tnT qvStggrqigig fggi%gwg -
+RtOrg^ , g^g>;gggTgg T^i;g$'nqggRitq<g *grqgg ftT^cTJf I
+gg “ Fgrvgrg^gjg qTqggigrg g^: ggq: srgiggg^gt
+•T'iti4?g g#rrgr%ggTg sgqgg srgg gggg fig a?g*req
+rrH"TR ” rfg gggq; , ggrq gigging qqq^Tfgqrqg ,
+?rf?5 argg^g rtst f>?gi srg’JRq qgq$g%;g;Tig ^iwqPi f4 RT;q^R|rTqgqi:Tj t qfgg TRrgrggg^rqfqgsnvgT -
+hrrtr grgg, ggiN rggT^T^gf'nggg^rirgggi sgiggstf
+qgq^r sutr fgi%grqsrgT ^Tgggm’Ctg t%^rrTragi* i ggg ?|ggggf t ^gfgg i aTHgigiggR^rgHgTqg fgigiTSTgrgggT^gRg^^ggT sgpRrrc-qrg g^graig: -
+cgqf%g:, ggr-qngigR^r^'T^g gggRTqg i ggtff - sr
+^gg srT^'qgqgm gg^gm” “ ^Rsrf^ srarem qr
+sww?wftn I \\
+*rg ” Pgg, gggTgigggRT^jgqigpRNgr ^Tggpgqgtgvjiirg gi-qgig i g=g gngqgwqgTgT f^w, ‘ mT^gqig -
+grag ’ %gg g^gjgfr ggg qrggg grmng i ggrqgqr grenT gqgTgrgrgrg , fig fggigg i gqggg=g
+“ rnsm ” fmgTsrg'rgT^gr gTgggre^R^sgqg^rgg i
+arg yg^q^g ^qgqg gigtqranr gjgrgggigfgfg gggg 1
+“ gqgrgg gi%«g ggg^rqgt^g: 1
+srg;<?q TSRfsqg ggrgig g=g^g 11 ”
+^Mrggr^TgiMgqig^Tggg 1 arggT^g^qggr ^ijfgggggrg
+fg^iggggr^ggT ggtgw ^TgggfeggTgigigtg 1
+f%g 11 # 11 ggigcgig^ggr^g , ggggrqgiggT 1
+s»
+ggnggitgvng: *g? ^igN^gr 11 # 11
+gfe ggiajfgtgfntgig , fsgreT^fgsg gng
+g^yg^ggg grar mgiR Rr^nggifgggTfg 1 f?gtgr
+wfgg ^g^ wgqgi, ‘ g Rig^gf^rg ’ f«fg ^grgfg jn
+S> 'O
+Rrg 1 gg ggjgrifijTgT'g^gT^ qg ^gvggfg , ^gigg:
+rg grgigpg gsg?Tg;gfgg igrtgegig 1 ggnggig igtig
+gq^ grgftgigig, g-tiqgqg^qggggi ^giggig ^grg 1 argr
+gfggnwg “ R^grgg ” ?rtr ^i>g ^rg^iTgggg 1 qggisgg grgiggrg?g grggg'K^isgg: fgqgfg^ggg, ■g«?:ggi*
+T(ffg , arg: gtgggrgRg gT^iigggfgggrgggg^gTqggggrg
+giggfjqggg ^qgggg^gngigimg 1 “ aggRiggrt ”
+;-gi?r “ ?gftg ” tqH^^r%%g*qrgigqg grgg^
+girgi;ggT^gg g^g RggiggigRTg 1 %ggfgr wi?g
+qfgfTgqr fgggffg%gg “ s^ggif’grg ” grggDigitised by Ajit Gargeshwari F< r Karnataka Samskrita University
+
+WWflffiRoSi I
+qwjftnfen i
+** vrsttortk - rrtW arf^R ^R^r^i^rr
+RRmrera^ , q%R*Rr Rrranqwpn qraR^qqnsRT
+R; , 3^r%§ cNotc: , |reR«jrertRR
+3Tjf*R«RR WW^4w*R?RR ', <T^RgR - “ 8?VRT^*ft
+% ” ?*r gruRn^Rf ^tr^r^r*^ R^n^in%iTrr?%-
+* “ *gf<R ” Rn^^TR^q^Rra; i stctt ^flfrirs^
+^iscrt ^ *r ^wunl <r ^rrrr^ , qf*RRfrfihR ^RRSRR^R I 3%TR JTOR<K$R f^>nm
+R SJRWRRR , ffRRT^nfRR ^W^WrRRWRT ^JR
+*T ww? Rq<R<W ; srwrRsmif g^R^RJRq^-
+RRrR*Rq«5R ST^RER RqTR ^TTSRtq , fR^TT^ il
+JR§^rRrRRRW«R:, cRIRT^SPRR r«rrr r
+VKTxn JRTRRR *P?*R , ST^tERR* * 3RT%TRqRR |
+3RiRff^Rq[R^i^R^?gr^arjriin<RR ^w*TRnq i
+*rt <rjtr sn%%
+^^Rr^mr^R^i^Trr Ri%rr s 3 *ttr RctRrt^rqtk
+^rtrt^r RTi^ir'mrmRi^iRq; i
+t%r 3 tr^jtrjtt 4 t%r*t: , srrrrf»q \ SIHi: 3R^T^^^ieF*RR I 4R RRT«:^<!J^I^?rr
+TOS^RRT^-, cRT - RTWRRRsrTR^^RR rTT^RURI
+^VRR I RtF$rWTRRi %RRTg?RI I RRJTR
+RriT^RtfiN srroraraftir i ^rpr^rr^rt s Rtimi q
+q^RPRJTRRT
+I HTlTT^cTR:- 3TR*RRTRPjarR
+R^rvgqwq i arosrRT^JT tz
+*RT£TR
+*TOrosfraF?%:,
+Rfafn^R I
+RWi%crm^i 51 %: <trt qr^qyiq^H 1
+3 rr=rri^tr cfanreR^fifeaq; 11
+RRRUTRimWR ^TIWPRR I
+^w'<.%^tn?: wr IrsraiRR? 11
+RiRWTRR% T%?RR f^RRIcI I
+JinsRr vRT%Rf«r 11
+^TRjqTRR %R9T Rt^RHR^ 55T: I
+RiqCim fi^ ^rjtihc^^Rcj; 11
+II X II II \ — \ — X II
+RmRTJTTWRTtvmi^ Rrfqciq I ,
+^RprrerHRR: srrsr ^Rr^n^rsraRi«i r5R«r^t^t-
+*rq 1 htiri iRsriRcnn jtr?rf vr: , r%*? <R iri«jfr
+r sTFR^qjmF’RF fRPRRi RC.RtfTiTCR arfR^ifr-
+?rrf jnjrTRR wrsffrf h^rtw?-: qnRq 1 WRTRRiq
+*W<RSfR*R^ , ^rTTRmRR Rt^: I TT^RSTR'nRFRT 3TRT- “im: q^T RFRR”
+fR I SRmsfFrT^RJ - “ RF^FF^STW *rf ,
+srtfaj w str 4 s ” ?r ^pr^^ishr , qnm?nn s Rm
+s^jrt4r<rr qqR r?f4f*r str^ritcifr w . 2 ^r?fr3TF
+RRJR^FRR f^TIRR^RI^ST ^F? “ 3F«RF'<FR ^cT^R
+vj^RRrWT^Rq^R I ” fR II RT^R RRim-
+>iI[R^r >WRI iVq^ST^JpR 1 ^?fl > 4TRR:qrT^I JT’JRR
+^R?:q ^qRTqiTq4m^RR!7RRRar¥rR RR^S^-
+?r I ?T«FTR ^^gfRRncrirq - “BTTRRRir^T: ^trtrhj-
+?R I 3TRR qiRT^T - “ WR^qR^q^TT5T ” R I rfR^T *TTRq - “ ^RR ”
+f^T I STTcRn^TRWR 3FTTRR^f>T^^FR : - “3T1STR ^FRRrTRR
+fqvR TJRniR^TRrf^R^rig^ri^BTRTT qi^^qHTqTR
+r^f?r: 1 ftrrr ^>R?r^n%5^tTwitq ; cnT^^n^crRf.r^R^t«TRr^ft RRRTTTFrr ^rTeT*. ” IfR I 3Tvf PTT^R^rDigitised by Ajit Gargeshwari F or Karnataka Samskrita University
+
+■ VK ^i^Rtki'Ts'i i
+Ra*R: , a^iaaRta ^raRT<T aaRnaa, Rea «JRT£-
+^aaw Rgffra R?anq «Tta*a^T?TT i ^aara^rcq-
+<t^tt niaRdq jt^rt: i 5Raa aniaa aa a^ony , swra
+wqsj: I ^RaTCRRPRa R RRaiRSRT: aiTRRSraiRa::
+aaaqfq =aRaaa ara°aaaT apaa I 3Ta?R'n aa4iaaaasaa~
+=R5ai4jT i aa«r a^^aaijfapar #aiR=aa^?R: i
+a=afq-#aRanq RiRarea , aaqaiaRTaanaj, aaifq
+?Fr%Rqa JTS^JTT?TRf flat a^aiaacgaaRaRnTraar I
+*M RTf : - TM RRa *ai a4?a f»Ta • R[V
+RaRtfrRTaaa , a?i%t: * aaiaaanq^RRifaaa: , srTaRaraa^aRTa. I RT^aTqTRaTfJTRam:
+“ aTfJRRTaRR 5T5^ ’’ ^R ytKK% qRfR'aa ! a=a
+#aiR*^qiaqa:, ^aaiRairanaRwaRTa; i ^iwgRwaaT aampaa «rfww: , arfaRRinasa raraRfarotara; ,
+“ asRjawaRqaa » ^Rif a^aRR ana rrjr , *r
+aRR^iaTaRtfra qaaRR 5TT^n4*^Rq , aa I a^ RaiR
+TwaR^TSTTq: , »aaarwa*?a srafa arq^aa arafarra i
+a=a qraRKifaqa: , qi^Ra RqaRa&anr *a^;q*a faflja
+aai aaRia; i srt s 4st;rt a#arR5aa^?RT4: -, arfqa
+RiqRR^nRsaa^dat4: i rr^crt afRarasranan^aa,
+RaaaRaat aaRraaRa^Rraeara i aff famamaRJT
+aa^raraaRT'a faaa=aTaar aaaa , aa »aarR*afq w.<x
+ara saaR^a i a=a a^aRa^ma^a^a ar^^rarapR-
+#r T^aiafiaTiaapEa^ , spaai a^faa sa^araa ?%a
+^aa: afasaai =a i rri raaiaaaaaRiaia i >aaiRaia q?;
+RRrai araaia^iaaia i s^TafearRaiin; i arnrerTr^saafRi aaaaiaiTa?arT t% aRipa^aa a?4a;
+Surofafen i \ v
+Taq^aiR i ^a»aan% an^^taitRRTq a;^a: a>jaR4 aaaRiai ^anearqaR: i 33^ aiag s^aia^raiaiafa qraRifaai ®?T%a:ria2q^arTaaRna%qR*wa, aaiaa ar-
+«a “ giaiafnaa a :4 s^aaia^a, a^^raiRia ladiaraai fasa^aar aaRR aia^Rnaaafa ” ?ra 1 ’jfa:- ana:,
+afRiaa rasmaa, aa ??a 4 : 1 aajfaa^a:, an^ara# aa
+fRiaa ^f?aia 1 aaiasaa?a 4 aa 1% 3Rn3 =aRara»-
+sroRa Raia^a aa?aiaia 1 ?^aiai sgRaraRmtfa ^m%a
+aa =aRaa aara aai»naa airaata aia^Raa;a 4 a 1 ?ifa arr*»*a a^aata raaaaR^aaiagRa a^q^aa^^
+qaaRRta 1 aa =aRaai% aiasri ara^T^a ^ra 4 fa'aa 1
+aaRaaia ?aitqfa^3ar^ 1 aara arattaia aia^rar s 4 -
+aRRRFafa saa^a^^aiRta ^ma^a^i aai =aRariaaai
+a-^aapa aa aiaRa^a a^aamfaia i ^aiaaR'a^a ar-
+^asTia'iaiaaaaar aRara Raia;sa<a aa aarnif^aai a-
+?a^rffaiaa saa^ia 1 ar% ^a^aaia rasai ?^aa a-
+^raia^'aR =aa^^;, 3 nqa aa^a^a <pqna*sa 1 aa?^a
+aia^naiaqt ^a%, aa aR, ?aRiaa;aaifa% an# ^raa
+NO
+aRaiaaaia*aia>n ^aa'rafara 1 aa anaaia safqja^aaa
+^T^a ana^ar aara^fa 3aaiaai4ai|:, aana Rai^r?:aaR, asaiR^ 1 iaRW'-aRrar aa aifqaa^aaa la^q^anq
+nwar a?i4fa^a ^irr# ^fa4r4«aaia?ara 1
+aTa^aia faaR: 1 argi ^r^aa^Tafgaiar fa^aaarfnviaa:, a?aa aiata u^aa laiaajamqai: gjaiaaR q-
+* liTt’Ra, asrm fa^fRiRafafaaR^CTanaiaqa:, aarw^fRm^yr a Rna 1 afaaaa a;aa?aaaa
+Digitised by Ajit Gargeshwari F
+)r Karnataka Samskrita University
+
+qwwsqRf i am 3TR:a^if%fmga ersar: i ?s*
+aiT%aaraRR ^PTcTi: I S’Rtf 3£ei$?ait<n 5 , aRRai aia*
+»#5TTrs[qNTi% at I iai%r%ai mw s?pifa4ra ?w V
+^j%gn: i aasrsfsi araa^ataiafa aaremiae: ag^res: i
+3i5r 5emi?aa awagrraiai sn%Rrai area awTaflpsaa
+^ a 1%^: I 3J«tT saaaRtFC rTcT <?a %3T aR5at%
+snama s aWneretetfrewr xaaia?a wrfaamfa a** #?
+5RT, aasrsfia Hi%a era afR^a^are:, aa=a aiir-
+'araffa^a^ 0 ^ i aafaaana ai?^ aatngjj; i
+<ra$s w esma sarpmar aa?a ?raaa aara wa: J
+?r^j fmaraa, aa?i®^a fa5a?ai efai ^aai aT fartaaig5FRaia aai% ! T% RTH? a ’, aatf? - a%
+tjraeraa aa sg^aa, afi eitarariaf sniaeTaaiafafa a4?a ena ; aaiaigrara rcaasn^Fa i araiaaaaaetai aarJraJRRT W*%1. avT, SFRI^mmN^f aTRiaia , SRRTf :
+sgeaar 'gaataTORisj i qgraww#!:, araasa ra«r-
+^RaR I 3T«I =sfrf*TI^^^r4^TR gR^Tiaa a« fR eif
+Tiafm 5 aa , ef= rrtr ^ortr i RaiR*aai -
+5TOK RgaaaR 53x1 ft%5[F3 RRiaf^ I 5*S?ai -.
+aroiTHwaseraa MT^fOTWPps^Tnwmi^ 'asaraa* i
+aa RRrcRiTfR Rifar^fiaatfar i a# “ aftfilraiaasi55 ar%r ” m?anf a^Taatfam a afca e~
+^prf I%f%Wrnu: I 3T3I aR5R e^FIRTWRI gr SRTfaRalRRR I
+aaf ga*?!. - ‘aifara^nai smaa’ ?ia i araawiHa:--
+arfaraa'Rfa R^RaaaiaaiaaR aae^mxj; , alaa aa3i®f5R efe i aaFaa ailh Rain era eff r?rt, at%
+srawffarcrr l ^
+wa^sjaaitfa tsrcnf^rs?: agar fR eaaifir a*a ef?*
+la?;aa i 3T4^i4rs^^m^er^fr%^e^R i ^Rtffqr;g a^a^ataa aaaamwR aaire *to[RT55$p»r?a eraiarRHa: ( aga#** ttopib w^itoi:, a?Ra?aSD
+«rri ar^arasnaiaa i ^wir; °*tm: - “ ffiafiara-
+**i =5#f eRfRcTiT i ek-^nTfRi^fl' <r i «ncwg^i5f«rJi >
+ffifcrafrTST i m*im*.*3
+T?r^r ii JTRPigr i ” fR i ?r«n“
+<TR2 Tra4 sr?r4crfgf «a^ ” wf? i am - “ mprRTPEm
+ij^^aTRfiaa ” irr i i%=ar “ 4ai%Rgar%R hr^-
+IRRr^^ I JJ'RRT efR^Rmq; 5r?45T?4R<JIRg ” fR
+RI»-?^IRfa7Wr5nRT^'»I RR5l^5IT?a R*TRRTR RRHR I
+<T«JIR “ 3T55TR afRRIwri RRTRI^aRWT ” fR 5^R: S?RJJVO
+£anai<T*TRoRT, aa^a =a ^rtPt afraqa Rirea: i a?
+wqmlanaia , r«ii - “ aan%i Raaf?i; fft: i RaaiaeRRr rst?c ef%^'rmjT§^ ” fR u «Fra^v5NO
+fiff ffr RRi'n ” §rr i 3TraRi;a^aauka
+VO
+a aar^fa ^a?a, a a?e5rir?a^;, aifq af RmiTia
+' i ei^Riffv^iiR Ra i arar aTsaira: i
+a^a aara ww *artfanaha
+ffifa i "[agarfara vjar-a e^iaaaaa fa^arawarPa 55^4 ^laa aafa, araafra saa^aaar a?aaia: w>-
+iaea?! aaaeiaa aaa f?aaa aaia i
+ii * n ^faaairfar:, ai^^ifanf^a'aia I
+afmaiaafa aaiaai arf^aa: ii
+RRm55^aa apairaa ^raaq: i
+RTraarsaifia 55^4a afaa: n
+Digitised by Ajit Gargeshwari Fi
+Karnataka Samskrita University
+
+^ e orcrgtiroiaft I
+ara^nqqqqw qrsqqqraqiqqq; i
+^Shrar qsrqqq ii
+sggqjT igg§«ii?^Ts^fH; i
+*£Krararc?r®^ 5 T ni^rr qimq^qfq; 11 * n
+II \ II ^ faf*RR(tfe: I \ - \ • \ II
+qsgqqi «^T«*nwRt qqr®m?|qqi rt^q- ,
+mf nwmrw^nR i w q^qrow *q*qiqq
+cTrr^«TRm qt%rt fifrrit, q^smq aqqqt q^qfsreq ^n?i- S
+I^t % q>q?T qfiqq I rf^ ~ WW, RWxT - qJTm, cTfSmrRRrTRT T^WtT Tqmqqqg •, ff&fo
+rmro* i qfiis: - qqq«TT 1 ‘ ?q ’ ircnftronratrat: ‘ rrc- 1
+ftcspfa’ ?R 51% ‘ q^qi’sm qfciqr q*qiqi%;q-
+=€1 fqq^qisgi%m 1 qq qf%qqqaiiq ^q, writo
+ftm 1 vroqui'JRq qw<q qi?q ?r«nq spqsq mm: 1
+?^«iq q%g??r qmqiq*, stn^ qqR^qi qCrst<>TrqRr
+^q^mm%qmn 1 qqff? - f% w tom wru , q*
+<r ^g^qqqrq ^rq:, qqq nNr?q% - 1% q;q
+*?q sm^srqm^qoT q^qq q%R 1 qq q?qq?fq qtqj* 1 ^r% crm mmsm^ sr^rsim^qor qm«r qg*i*cy
+i%?r iws ^frcfmiff mm qqqjq ^Riqi^mn? sqqfrci: q^TT to i q^ Rfirq ^mreTvqisrsrfm&qif^fq q^mimvrrgii^ m^qaig%q *w*q$qqqi g-
+*o
+stqiq* m^qofran , f% ?r^q qqmfi^Smm 1
+qq qmqm ‘q*q fmqqqtffe’ rciq 1 q^qq^q^iiq |mwqtq: i q*q - *m*q 1 srar’rtffem wto, , aran%*iqwifawr I M
+q?qiq*q 1 qtl q^msTR fq*n*ra mtremmT^
+aim qra^u €iqqiqi qmpq mcrcqi^rnmnmn qiqqrrcqqg% , q qra^mq^itiqi^R 5m 1 qqmqiqqTq^qqqq, arm^q^ qg ?qqi qmfc 1 >amqmr
+<mqgqiq qsq^qq *m?q mfiqg^rTg gj[^q?g^rcT*qn%%-
+grqqmq fig fq^rfqss^mqt TsqrqT'qrqqrc^q qmqt q^mfqqi?m qrq^qamfiq^qi^i^Tw^ > a?«gq qqi’qqq
+fq^q<mqqqi *qiqq*gqm q^m^^qq qqq qqqq »
+qqq ['q] qfqfi^mm: i ^ranqg qqq-qq q f%i%qqro
+q^cfim , Q?gfq ^mqm^iqqqig^q^q^m^qrosiqq
+Rqr^qimqmtmqeiqiR' qqq sqiqttB^^q qi^q=q i%-
+=qifqis;q#i%^r5^qi sRq.qqm, ar^rs^qm ?rqrq^K^iq%-
+Trqqi^ri%qnqq ^T®q%qqi qqm%qijq^tfqqqT f%=ai^qi S?q5i% ReRcqll^q qqm, aTiq^qiq ^IT*
+qqifqqqq fq> mq^nf^^qq qqqiqqqrq 1
+q^q mqqmqr^q^q^qmqTq^iqq qm^r^a qiqqraqfimqfitqt qqqmpqiq^T f^H^q iqq^q %r^qq^iqqqmf qfq^rq: , wicqiqqr^TTqqigqiqqiTq ^[qqrqrqrjq^r-
+«qqigqqiq®iqq^7: nfni^w • fqqraRqqqiqqr^q q^qiqqiqiqi fttjq^PR qiq[^qqq:iTqqqq: I ^Tqqi^qiH
+wjKmmrqrcqtq qmmqqf^ qqaqqiw^gq ^^i^respq^ivimqfrqqiqqir , qmqqqi? ^^iiqqmqqiqi qmqqqqqfiqmi fi^rqgqqoip^q =qi§qi TiRiqqi'nq rqmq «rsfpn^-
+v rqqRtqiq^rmi^q^q m^qqiq^fj^ns^gqqnT’Rjq^cr , ?iq
+ff^qi^qiqq qq qqi’qqq qfi^qq 1
+Digitised by Ajit Gargeshwari Fo Karnataka Samskrita University
+
+rr r^rfr?rir 5 Rr^3 % r rrrf^rrrrf'r m?3'Ti^§-
+r^r?rr rr*r ir^rot r^rfr i rrtrr rri-
+«f RWRTRTRIR TSRRJ*; I
+RRJRR^fR* - RSR TRTRRRfFFl R RFRSRFR R5TR«Tr-
+$FRFrRR^RF§^TR SRFSRrRJT , R^'RRR FR^TFRJ* , TRTR- '
+tfrwtrir r?rrir?r ^rtr^ra; i R^TRCrsmiRfR rrt-
+°h-r rt%5?r rsjtr ^RFRRRRiRnRfR r^rfrr
+H^Rf? I 3TRT RSIfR RRI<R*R SRRRRFRRRIRSRIRRFRrR^R,
+RRt'RRRF^RqrF RR^OTR RTF^arftRRTRRIRcRR RRRi
+RTRSRfFR gRJR*R RWRTRcRRR I
+RR RRmWIRT RRRFjRFRRRRJi; - RRIR r€f$RRFR
+RfRR R^RR, R^R RRF^RRFR I cT^FR R5^, SrF^RIRRR
+RWFRf%:, RRdR^R RT Hf^RRRFRVRRRRrR. I 3TT5RTTR[
+3J SRIRFRTRTRRFrRT 3JFR^F SRRTRR =R RSTRSfR: I ^RR^R-
+^ *s rs .<N A rs V f/*N
+RI?^RI RJFSRFai RRI'nT^F FRSFRTR I RRFR RRR RRFR
+R’RRR I 9T?RRT RHTRF^RFFR RRF?RT Ff RFRRFRRva
+*RT JJ^cR RR *RFFWR 5RJ TR^rF^TRRTRF^R «T?RR^-
+RlR^ RRRR RWflFR RR%RR SRfI RTSR R^rTF^: I 3RT
+RRRTRtRRRRFS rCf^TRTRR RRR3T RRT^Ff I RRRF =RF?-
+RTRFRF<JR RRFraTR^fR R#RT F'^’ 5 R%3rRFR RrR^TRfRFRF-
+?HR RI%fir ^TR ^cr^oiTF^RFRIR SRTRRTOR R?RIR% I
+3T?RRT R>R RRW’RFRrRRFR %RF%rRRF«RR ^TRRRR ? R?RF
+'RRfr^RrRFR RRF’RFR^IR^TRF RR*RTR<RRFR I 3FR RF^ RW^RR *RRTFRRT?RT<RT RR*RF RrRFRRrSFFR, R^F RRF*RRRI^OT 'RRFRRFR^ RRI’R RFRR RIRFFR RFRRR: RRF^fRF^RR
+!RR?RFRI«RTRITRRRT R?[%R 5TRTFR R>3I^TR [l%] I RHf R*R
+Rf RTIRirFRrRr IRFR^FF, R^FRfe^R^RTFR RF%^[?RRTFR^TFRr ?RF*
+R^rR a«RIT I FRTR rIr RF%^;?RI ?RTI%RFR<RRRIR TRRr%R
+Digitised by Ajit Gargeshwari Fi
+r^Mrf i
+R^F ?T3^FRcRrR R^FRRRRrRT RRF^HRFRFFf RFRRF^RTRF f RRTR RJRFRRT **RFR I RRF SRCf^T'RFRtR R%RTFR RFR'^RFfRWRRR F%RR fTR R^RFRRRF RTfTTFF^^FRIRTRI ^RIRFRIRRRRFt^RI ^IRRFRrRF^ RRR RR»RFR ?FR I
+II # II STR «RF ?RRF*F RRFRFFRR I
+3TR: RRi^lRFR RFTT%?RR RRRR II
+RRRRF<RI%RFR «IRFRRF TRRTRR: I
+RRTRRT^*|?RI^ T%?RI 'R?R RFRRfR II
+RRVTRF^RPSR RRRFR^R f%RR I
+f^q^rRRHTR?R FRRF 'RRRRRF5 H
+R5 ?r^:rfr«i;r rirrfrrr %rfrr i
+RRRRFRRF RRF FR5 R f RF f?FRRR*j; II
+RR R^’IRRFR’FR IR^F^riRRIRF F^5 I
+^fFERR^RRF'RfR RR%H°R RTF^R: II
+3TRI rRrrf^r RRc^FRT^RIRR: I
+RTRFR RPRFRRFR HTRTRFRTRRT I%RT IF
+^R^RRF5FR«FFFR RRRF ?n€lC% R^ I
+R^SRRRIR HR RTRFJR ^FRFRRR II
+RFRRT IRFRftRR ?R^RF RrR^fRR: I
+RrRR RF'RR RHT RJ RFR?RHFRR?T II * II
+II \ II ^ ’T^ r 7^P?Rl IJ Ti Rlt^TR RcRtR^
+RIRf^Tf l%RIRiqR*RRc£II^ \\ \ - \ - 8 ||
+3FRRI<Rgj?RI RRRF<R^fRTr^l^R RRRRR<RFRT RRFIRTRT
+=RF^RF^^oiR?;HHRIH gFR^Rfe^'FRRFT'R^RRFRFJ^rF’C'R RR*
+R IR^nRRRTRRFrR TR^^RR I R'<?R f% RR RRTH ^RRFR
+RFR FRRFT: I ft §RR, ^RRRFFR I RRlfe - ?? RTR
+^R^FS^TIR^RF ^SRI%RI?5<JTF^R: RrR^TF%^F fTR ?FR^RR 8
+RRF SFR ?5FIRR?R7R R^ 'RfRfFfrRt RRTF'R
+5CRRfRIRR Rr#F5R?FTF^RT ^SRTORRRSr^'RR R?R%°I
+gR5?T I RFrRF3^RrilRRFR^HRifTF%R RIRRFHRFR RR RI
+Karnataka Samskrita University
+
+■\'i ^TI^2 tKT^o 5T |
+q?q$ji Qq 5 r?qi^fajjn« 5 q; i q:Tqfr®qrjp*n% %i%q
+qqRqitq«i ^qar i qiTqsqqqiq qrormiw ^q®sqi i
+qq:q, qqRqrepq sKlR f^STIR, qH^q^qR 'THCITIcT-Trcq*qq R?qq qqn%q‘qi, qqT 5 ?rqq:qqTTq*qmfq srrqrfqqqr, qqfaqoq^ i qq i?qq qfi^qsq ^qiqqqqi qR*<JT!-
+gqqq TSTIT^q »=iq qTSqfq %^R^Wfcr l%^RT I qfR
+fq^qqqr q^qr gqij qrsqq; i wnp»: Ri%qjji^rr:, qqq<qm, qrcq®qRfq, q*qrqqqt JTi%rar
+jfrqiqqjRT q?q$T?qT I q^qfari
+qriqqrer smqiqq^q *<m ncftft i
+“ ?Tf^rq qqqnfq qqiq ?q*qqsqqf ” f^nr% i arq: qiq^T
+sn^jr vprcq qqq, qq qrqqifqqi?qqR i ^qi^qqqn??;®
+ItqtqqR qiqtqqnqr q*?R«l q^q i qqq srfq-
+$n«qRq*q qq qq s q^n^qq^Rq fqiqqq.qqTR l%] ^r-
+*qq?qq I aWT qilW STUM atiqqiq qq qqqqif qwr-
+*qq, qqi q^iqi^qi^qf^qR^qJ* , qi^q%?qq*jflqiTqqqfqaj I arq qi^qi^qq: qq% qqiqq^m:, q^T =qRqqfq qfq?r q?qiq i qR 2 * *«iqqraqq trig*? qq
+qn«rq, q^Tfq qsrrqr ^i^qi qqmqq?qqqrc^rqq^RRfq
+tgrqqi “ =qiqqi^^rqr qq ” ??qqq a qqmtq i
+qf q ?qfts*ter I srcsrqqiq fcqrRqr I arqjq q;qqq;q: i
+vm qfq^T qRtqq, ^q: “ Tq^qRR^VRcqiq ” qqqRTqqii^qifqfqq: i qq^fr qrq ftqiqrisriqi g^qq i q?iqflqnq'qi'qi TOR: I q^qqq?q^ qq: q>q qq qifq Riqqq; I
+(q^iqf? qq: T%qqi , q: frqa* qiq to®, qq sqqq®qq
+sqq^ qqq I qq, qR qiq qq ^Z fiqq qq qq
+s^qfiq^qq:q qqqqT vr^ qsqq i qqq qfq^s^nqqqqT
+qyqr Riqq xqqqR^qq qsqRqfq qiq fqqqqt q®qqi%,
+qqi >jqi qqiqg’^^qq sra^qq {qqTqRT Riq-fq: l
+Digitised by Ajit Gargeshwari
+w
+fqnrq: <q®sq q?i?q?:qtiqqq qnfi qq®wnqiiqrqr q qWiqqfqiq JjCtg qiqqq; I qq qiqTO®Rqq T%qi rq8>
+fq i reiqrerTsq q^q RqvrR qreqqnqqfq^, qi% qqqrgqqirq^jj: i qi? q^rnwiq: q^q q?q^qnqqiq i arq:
+qi^qqiiqi qrqofi 5 qiqiq; qjqqqnqi ^^qiqrqT fqqfq*
+q^q ^l^q^iqqqiq ^q;q^qi^qnq ^qlgq^iqqrqfci; ,
+q?q$r$q q«qn%qiqiq iq^qiqiq®fqq?q 55 Pciq ^rorq: i
+qqq - ^qq?qqsi?qiR iq^q:, qR ^rqqr^qntijqTq
+?qq?q ?rqrq =qgqr ^q I q'HTiqqqrqR qq ^ri5»qiq?:
+?^q qf%qq:qqi q*n Brq'q R^qoiq «q»rqrq fiq gqqq; n
+qq - qiqqiq^qqq qrq^rqqfiq I qq^q,qiqqiq*
+qqj qfq^T ^fqq, aqqq ^fqqqr^rqiq qq I #^Kiqqqt
+fq ^qqiqq qisqqi^qiq i ^iqi^wraqi ^r^^rqiR'qfq
+q ^qiqivqfqq: I%I%fqqi:T5iq > q^ - “ 1% q qjqiw qRf^qifqqFq^ i jjfiqqqq =cm qi^T^^qfqqiR
+qjq ii ” ffqiR'qfq^ qq>I?rq , q^q^q^T qqiqri q q?q
+^t, arfqq qqmiq: l
+qq - ^qqqreqrcqtti!^ RqirR^iqqq i q qqrq
+•o
+qr^qr^qsEq ^qiqqqqi i%«nq, i%;q qRi%qqi5rqiq'iqflr
+qfq qfRrqjqqgqiqqqrq I qi5 ®I% q^qqiqiqi%q
+qRq fqi%qt;qTiqqqq qiqqifq qqqqR z£, ^qfqqq qr
+>iq qR'qiqqi i ar^n%^s^qq q^qqr?q m?qqqq: i q^ qqq
+jqiRqiqqifiqiqi^q^rq^nqqjq^fq qiqgpmiqq fq^^qq; I
+«i;qqT - qqRqi ^qi^qa* ^qiqfsn^fqi^ri: , qqqRTq ,
+q;qqi%qR f% q^n«rq iqqqfq^qiqqqqqi q^raR'
+r Karnataka Samskrita University
+
+^ sngrgwraaa l
+*wjRrt t srrJTi^tfq g>R?ar3t%r-
+<ir wegw ?rt%5T; - strittcrr i s^isrph^ i
+- vmfiqsr^cr gqrof ’ftf’nrte aw$r ?n^nr^T %•
+wqjRf, cr vRtqi ggsurran, armT^RrnssFrar^cgrg’ ,
+arnwiKRr^ ^nr%?q#^?;oira i jtt^^tCri fl^arrogt ,
+•rcsRq^ i s^q^sraqr ?towur*
+RI^^cRT WHOII VTRgm^tT
+*?q$T*5«jRqiW% arrcgg; *w stourr* HRq^jq^ , ?rg
+str^i^tr i mrvi^R^tqsiFi^^ qa-rcresriir pqra#r
+5T*j^$?*W3rr, toiT? w?an^r%i%tr^ rwsrt
+m^r ?r^S5^<Ktq?%re*;<7fa gR*:^ Qrcaifcrcr gRiwntraronv* t%qqiR i mRarar *m
+m <r«j fra; tflra^gTar^m^wr cT^tKwR
+%5WnOTR JTRRrq: I
+*n?w *r*rtrw 'Was w^srTvrcsfcm «Rrrcr?r
+s^ri ^qsin%'^rai^nT3RRHPi *w i%gnr i
+*nr qnsiR^rVr
+^^jtrr i tRiq*. 53 rr**i aret«i*Rri^R*?T ss^lar
+*3 «r;t Rma^^qs^R i g-TOi^cr^r gr^q^ rrtt%
+foroM^fcar gar R%gni%% Tagrr
+SRwqajnftRR. i cRts? %Rq:ir5*TcrraR wii*£gftr grarc^reorg; i
+*RRg - JRq^TT^mqqi ^RwnRRri#* arg^n%-
+aRnnreqifq WJiJWioicrn%%: i 3qnRi«riqi%^«^iR5
+JWmgRTfa iTSR<R, Wq«j f^RRgRIRR ?qmR^5f
+aRg^an^iq 5 * srcfifor nawra: ! ^R*ii%fq g^qni-
+*gfqq*TRT*R *r i
+Digitised by Ajit Gargeshwar
+frrctftotar I
+sr^sg ^ansqrnn:^: snrrSr: &f»Rfq ms^frsriRa^rer aKsgresgRrri jR^n siRafa*
+fqg^Kur gqq^RR I
+arpNaHftrtqar pww faa^g i
+cnsopifrniTTOi n^n^tR wf^rarg ii
+sr^wu^ifiai q^TiRiwtrar <-arar: i
+ar vnntRr^crt aroq *rn*i %?# rRf r^Far^f: n
+garcrer iRqmrm a^rr *^RqfT<isrra[ i
+^rerana^ arifuT wcff^irr: » i
+sil^RR ami gq^svns^TOjap i
+g *?&■ maaRsa ganaqtR fa=*g n
+ctarfifti£NF araa sraRi ama^ar :
+sr-5ns?*ra#H?Rn ^wircaagqwr ga; u
+areiar smafitrer gRiaargqarvqTar i
+a=a qiro*5 11
+srronsqi aqanreFar w^mm **T?«jarg i
+uwrarg^pnfif R^rgqqiaar: u
+5^r%RfcTI HiasJIT?aT ^*1^1^11% i
+g^q?qfar bw aRai tM gfearg h
+«ii%m sqRrcqaraa nar«w ^ HRfig i
+ar^fwR^ arq»^: *mi$ n
+1^ ^rfitjrsrr; i
+3T-JTR: HT%ar?V3tTrn q^rf: 55* 3Tv?<T: H
+grqr4nRtq^Rfq * <ris^T i
+•4[PfI7?r^lTyr^iqi| tWr ii
+ar?n?vqr wfe(Rq qT^fqfr^n^q: i
+Mth: ^iq% v qg qqnqptvq ^T*nT h
+or
+Karnataka
+Samskrita
+University
+
+m s qiqqfq $r^r§nqCiRqi* »
+anqqrrftqr jurr qRiqq jqqtfiha^ii
+*qqqRTR qrqqfq qfrrR%rq?r jq: i
+q?q$jqR^5?q qrc?n wsrerq** it
+qrc®r%qRi qiq m?; frig- ^q%qif i
+oi€n%s- rcfqR rrr hrtow; ii
+SR^SS^fRI^ HTfisq ?Rjq RScR |
+ffcRq^qcn *rrt qr^qfqqpra: u
+3R^TRRRtT% 3«piRrf?£ qqi i
+?R<TR; g<?rc*5r f^qq^Rq srui^ !i
+( <\ ) v - arfan%5fft0[ srasqrsfq ^frrrr f Rgq^;
+HcHRM ^I^iqoRqFR^Ri II
+wwiwt smi'qqrR fq^qq , arm r^tortr wtr^R
+R*En%q% RI^^RPT I rRIRRSTRRROT Rr^qRRqRJflq
+5RTPI RfR I ?Rir r=rr:i
+I%R^qRT SR RlRlTjq *J**RR ?RR ? <RSJ R 1% crrei
+Rmr^R rrurtrc rfr^t h%rt ? Riq$TR q^nqsqreRRR
+m«FR I Rfq^TR rR^R^qi fq>JRR>*RR qRFuqRR I
+aqq ^tq^fr q?qir-q% qu^Rrum *m ^rcfioj ^
+5?: SRIR qRRR , Rif Rqqq *qqimoq STOPqRTCRR
+^n, cT«IT ^^RI^ I 3TR«JI qiRRTqi qf^IIfqifqRRR
+qRiqqqRqi^ | RRMIlff^tq^rRivgqiTR rRqRSRRjRfrSR H^SpR RRIURj^ | R^^TcRIVgRiTR^ff HBSqilH r*Iqi?TO: i 3T^f w Rt^qRi ririor q RsqqqiR i
+Digitised by Ajit Gargeshwa
+Swfafcn | ^
+artjTJ^qi ^r?% r'tvrt ^qraRq: l
+q^RfacfRRRRr ^RIRFJR ajqqcR II
+^TRlf^ - RI^qRT RRnr.UR q^q: RRI^IIRTF^RR <RT-
+•ri q^RW Rfqiqiqiqr tr> qisRRiJrcqiiq qR?if??qroqfr^ , qq Riwqq sckrs’rr qjpriq Riqqqiqqr R?qqr
+qsTTqqffq, srrarfq qnRcr^R, arqifqquqqt R^qq: fjq,
+RTqRrqqr RiRTjqff^tr # ? qq itoj? qqq% i ( anrqfqqref 5i»f*qwq rjr;*! ^r ) arc m: - q^*q s^rt-
+^qq Rf qi^qqrqqrRR^q: , afhqiRR: - rr: i 3?qR: -
+ie-tor:, afifqM^: - *qrqnqq>: i sr: q^qqiqqr cjrr*
+qpqqr r Rrsr^q q ^rrirrtri HRsqjqiR^fircfart rjrr
+fefqsnq: i q^i - qr^iqqr ^qr%^TT%5T ^Vraa:
+sreRJR:, qfrRTqRqfqqqT fq^TRi: q^RFR^iRiR; ^qijRERqfqq fR 5T5^imq7T0t 1
+^qrq ^rrr i ( to ^tr )
+RR^n^jjfrRT^q i qq^^rF-ilqi^qjnmqR^Ri qRRqq
+w^qiRi rr: q^RifRiq^^Tiq: i hr - Hiq% s qqR ^RtR?
+HR^^q raw I sqiRSRiRHRqqR JTRqnqR f^q^qT,
+ar;qqr jir^ii^rr vupssn RRqxqqgqq^q ?r i
+tJHR fqqR ( 3TRRTaK«[R ) qRanR^-
+°q^qi q^q, sqm^^, qir^q i sqR>^iR?q, q?ftqqRRtqntr ^fqq^rasrqiRq r^^iqFKiR^qinTR rr*j: i
+q^T 3T5qfcRqr ^?qq^T R^IRH I oRR^: ^RRI*
+q;qq:, qRrqpswqpr fqqqcq, q^r%?Rq: i
+For Karnataka Samskrita University
+
+* strst qR^fRewrCRt
+^n^*q?^re?r?q qissffR q RRqtsfqrar, 8Rfn%% -
+^rpsq’eroqqR s^qq^qRsisj'qRtRsnRRR i qiRgqRt
+hir>ji ^i^rasmifRT- «q*srreq?q strtor? w
+jgjfT?i ?Wre*3t*R RRTRR; *TIRI%qFSR» |R ', R5TRq VW, f^TIRR sn^Tnim^RIT^ , SR^I - RTs[qrqiw»q sn%qv* 5 rc«r ? w - fir*ftar q qqpr, irr^ni*
+qqqRqifqRR , ? anHwffR# ppirr ,
+qtsqq, T^Riff i <re airorfriafrin^taf f%
+®n%q»«*fttq$RT ^fRt^RRR^ar* 3I$T%^NSRRT, S-ifJTTs*rrt ? qrsr., f^srraqRia; i q fsRtq:, w?&ir;9»«r*
+fere^f%%S*n ^^VRRRq^RI3RqRR f q (J^R:,
+i qsr ft^nwi^iiw <?Rq*l i q^fqq,
+atVIRR^r? S^q^^St? 0 ! *sfaTO>CTf%5?PI*I5^ VT SRq,
+?T55°v^ jw5xr<iri q^qRiSRafwsrsRtR s^irnsn^-
+nUPRIVj: I ?T<T*J ^Tl^TR *WR I(4M qiRRIR*£RRR
+crraiftroare i
+- f?^N%«TR$*RT qURR^R-*.
+an®wR9R4nE f§SFRi: jRgrqgrrcqRj ^r^r, RqqRifq?3 JTRSRsrisRR , srqr iNm^ri ij^qsq
+<*m nR^qi%, sEqrarqgrrcRR i hr jtr^rI^ rrrtgqqfq:, T^q^rsq ^qsrtf ftq q^jqfpraRqqqi R*3qq%: l
+q^fwraR: - “ sqsq tortot*
+$?: I ” # I RR^R HRqRiqqRTR I q^SR , STTg# q:%q f% q^arwR Rqm^mRf^ j rara*
+ygRiRrqq q»5Rq *R%3 l fqq^sren \%
+Digitised by Ajit Gargeshwar
+*Nflto*RT I
+M
+q^qar 1 araqfJWRqiq ^’sHRqqt raw €r?t
+fR %c<? f.^TRqqt RH^lfq I 3RJ R*
+giifviIRqqR qsn«R q<JR<?q RW iRR ! q^R«RR*
+r 5%i%?^^^i5qiRqqRRRH w§Rfi|^^Ri*EiRRT 5 r,
+a^qpriftft ' “ affect ^jmRRq ifwwj ” $r ?R;r-
+=qigT I 3Rf qUR oqR^f^ 1
+«R®iRqRqvjRRR RWfiqqqRR qqqRqrqr
+^iHR®tR^!f qRi^R • «r^fq ^R’q^rq^qjqn'yRT f^qsqq’ 1
+5TR qjqq ^ttortorr: fRm ^r~
+irm ^r, R«RRt 1 q=3R sn^tq ?r ?rfr i
+87cr r^^TFqgqKpqa^Ri RqqR fTR^q^qw^in^q
+sir nt^» ^3 % qwsrra:, 3 tr«ji qR^ifq
+qRq^fR i
+SRR^, creijfq qRI ^KUI^R^n'Vm qvqqjrsqlr, q^qfq
+qqRI'jq l%^?TmR%3 ? cRFR, qi^RT^qaT
+?^?q^q ^ivRr^qT>qmR?q^ fcq^qRR ) qermii^q?qqr
+R^T 5 T«rq:, q?qqRR , f3Rlf^qrqqHR , fRtfRi ^^=qqRpl^WT^gri'R ^RTR^TR QTRR'F^R ^I^RR^Rq^TRfqw«5RI^ I ?R?T ^R?FVI^^5 t rTqrqR nq^RRST I RRR^at' q?q^tR qinq^q^ snurr: qmi^qfe^ ftCi ?rwf >
+^5!R«sTTfq q =qi^qiqi ?Tvj:, qi^tgmqRT ^qqRPCjnrrn ^qq^^fqi'nt ^i^qiiq: ^qRg q?iq%: 1 =qt^qi
+c t
+j£jSRT*J i?RmiqqRT q^liPRR I R^i?T R ^q^RI «t?T
+qq qRR I ^qinsRI*^ qjRRqqR qfqra!Rqi4 [ ^p-
+?^Fqq?q ] fir^^qiq 1 qRRqqqt*q qi?qqq^q rqqifftt 1 q-^qiqRq^ ^^ 513 ^ ^Rq^qirt ^qqt
+Karnataka Samskrita University
+
+STfrgaircaft
+3 1 srqmrcrc *3 ?|sq?qiqqqT q qtsp I ar*q|=-
+*2 TTcT^CT 1 3%q HS^m^ f«rar: I
+=ara4 ^qqR ( amgq^rn qRqpqfqiq ) irqj-qtqq
+cRI J??q^lT^W: iriSfcTRRJn aq^sq, am - qq ) -
+qwws^iqqrc'q q<i;qq» r^ : i fnqjqsfRi^s ^n^T
+q*P£>qq | ?R IRM! J^Irfra^^mR q^q
+qnRiRmmq: “ m s gqsssq ” ??qqR%qqT qfqqrecrc: i
+q^si qqqR ( aRq^rmiRiq ) arqqwRiq: - sgfqrqrf? SIS^RT 3J?R I JRT iromRcrTSSRWT qR*
+vri sjRRreapjt, qq q^wi *qra i qq - qqmiqrcqqsiRqRrqi: i arqqim^’C'q^q RW i T%^f
+qqiqtimqrcaT «rmpqm arraftararo Rrai mqqiqqi
+qRtqiqwitqq wia qRsqq «
+amq - qqmRRRq^R qmi^qmiRr^f i qi% ®i%
+qrn;<q? 5 , maq qiqq, ^qRq:re«i qqnqi % qi gR ^ ?rqq i
+arsr 3 nr%pH$r: qttqR qmrnqq; i rrh q^^^garcqr
+gsfe: i rorai^GPfcrcfll fqqqqqi =q a i qq -
+q>rarercvrTrq *qqi%nqq 'qq{%qTirRq: i qq qn€r
+qtR ^IRqiqra:, q*qfq q^RqRTqSRR I 3R1TO3CT'
+SR qjpjqT fq:^Tiq^^T3rqi%RR %q ? ^[ 3TRIR <R<S5TfqRiq?=^qr stt q^iq?qi?f q^qr^R i f%q - fqrarcfhn
+qqifq *giqqRRiq q^qil^qm^pR rSRqRTqq q q-
+*nRqj 'Roj q»qiq: i qq fqqnfqra? qn^Rptfq qmqqrn=r gRqn , ®iqr !%qrR^qi qq^RIRR Rqqq^Riq I
+qifq ^iq^qiRq qrciR?qqiqi?qif^rcT atraRR -
+Digitised by Ajit Gargeshwari
+gqtHiqtqt I
+wR^tfifqqi-q. www wrerwnqq wwqn^ qqgq^-
+»» qmiq i qqifRiq awssnqi q^Riqq Hwnfqaiqi ^TVRRq
+.iiRqi fiiRRq sTU^iq qqqnftRiq qpiRh
+*Ri*q<n q>rc«m*uqi t^q^q^q ^iqqqqi qn%q ’aq^R ? R
+Rqiqq i qR atrasRaft qqiRqra? gnqq, qq snqq^iR ^q:Rq
+•r?qq qrq {qqiRqfT^qrq qsqq^qq • wqi irsqrsriq qrsjRRf R
+qtqqi^qiq ?jqq iqq?q<§s iqqn^qq it^qi
+fq^qtqi ^qmrqqr, afag “ ^rqq q^i^qt qqqrqi^
+ora# ®iq;qmi ” miqqqrq qqi^tqqqi fqq^iq i%qqt
+q^vqq i “ nqq qqi^Ji qqqR ” ?r q^S'* ^qtfq
+qpci^qq ^T^qq > qRIRI I q^ qq R’irqiq qiR'S’qR* qjrq
+NS
+tRiT.qBqtan% ftqq: qrfe^iRi ^gqi^qq i q^n qqqR^r®^
+£qqqq;cn, qq^qq “ ^rqqr R?q#q ” ffqi^nqq q
+?qq;q?qf ^qwi-s€ttqiq qqq: I quqiRR q?I3qqqrq: I*
+*=* - qrRnqfqqiq liq^R, ^RqRT ZVWW I
+qf? qmiqi%tq ^qiRRq qiqqqq ^^q^qqR i yq^qrq
+qqiq qqrsR^i® 5 ?* ' pkww ' qR
+qrut qqiqt qqn q^?q^R : > qq q^RRiq^qrq, qiq
+^gr fl^n^ri^iq ^qfqiq i qf*qqr<q i srqR^q^f
+*qi^qRT ^RRtqiqqR, qiRR l^q^IcTiq^wig
+Rgqiqqq?q ql^qqiqT i^qiR'qrqqiqiq qRpq g^qmiqqqi
+^qqWtf^qr q^qmq Ri^qi^q 'qqi^fq: i w. mumraq*
+?qqr §TRiq SRR'nrqiqi ^qfrq^qM qq q^qi- qqm^qqj
+fttq i sRi'^qt ( arq%RF%R )qiq^qiRiq^tqRqm^ri i
+?? aiqRiqr^q qqtqi^q %?5qq ^qq^iqqfqqu. i qqq
+q^q^tq qfiiq^i^qF i srqiMiqq *qq ; > qiqi°q q^q
+H
+Karnataka Samskrita University
+
+M WWJfKRrafl |
+l ?ri^qqq<»T jfmRrqrisR rrk: q^fj i 93}^ W
+fT^lcT q^^cTReRTIVRR, R’CRTcJ^ * RT|£ R*}3C?JRq qqRq
+*?WR*sqf^ i ci«jt^rfyr intrarsiiTrafiwiift r^r i
+SIflfCTrJTITIoi 3qq&R qqR , cRr q; ? qf fq^Rsq
+™ Simiiq, TWJ %<R^R IR^?, tTR^qRoqiift^qj
+fww^lTO I
+T^ I 3TRsqi%qR cRR%q ? tflRRsq^q^a^
+^ri^T i 3T^rer t^r fqrr^qq^rcTr i sma^^nqqiori^ *sri-
+*** *S2RR=ta;? «=RRT5S?JR: ^1 annrfircnr
+^ wsmmmnifcfr*, «*,«,?*
+??T5TR , stRTsqqrqqRR; , ar?qqr ^qq^RcraiR j^rqq
+, swraqi %qrr% fsqTqsqnqqrqnqf %gq^i ?qajr?iq
+^Trlr g'qftrqqrqqq: | ^ri^qqqrRqrim^m qr^fqnqqr^T
+mw«nfaq*0mf3 r?WW R*RK<q?r I 3T^ q^qqq^:
+5'iRiq qn^Jjar^fq^q sqRtqiRTqqR i-^RR ; qqj^
+JTq"R: - iqq'RT *w ^RfRRRqrq ^q^oy q^ayy ^
+n^FcTST^qiSrrcqq, qyqyqgR PI?5TqfqR , STqqyqq, qi%
+URqrR^lVq JRRqR aTqRyfq q«q *RRT% I fR'qiqq,
+^iqR ?R ti^rqur qfsyyqq^^yqsq RRrrqnvqqqcrq; I
+cTRRPTfR%, 3T?qq[ qRqqpyyR cTRqsqyq I g^qr^cT
+RfIRRTRfqiRR %c( ? cTR ?J<qqYq7rc<q Jrq^Ryvyyqy ?qqr<q
+5TPRRR I 3RqqR?q[q - ‘ q^qTRTyqy% qq^RIR^fiqR’
+KRRPR R**qqiq?q q^q fR ? &/553fpR qttJR
+qn%RVIRWR I y% fq$wnt srrq;qcT**q*nq qR5R
+«TW I ^RSfTSqr.rRq R?q$q qqr^q T%%RR ?
+w^rrc fRq^qmrfq#: wifq i *r«r£ 2TR Rcrereqfq *
+rir ?qmiRTir»qTqqr i aRTORRsqreRsa^rg: I qqq srqy
+*r»q^T»«qRqra ^TIWR q.ROTTRRqq sjrqr, qnqRyq, treq
+f?fer qs=3RiP* urhrir I %*g**q ^qjRTq$frq>rcor qqiir
+Rinil%%: i fqnlqfqq R$q$RR«JRRR f qptRR I qq l^TO-
+*qtfq gqqqrqMtarc qf^qrRqi^qq fRRR?R: i iqq^RTvyqr
+^RsrSCRivqi r^r: i
+qq - crra ?«;qyqRFqy*yyq sqyqq griRRi ^qrqpqsqq
+N3
+fR^qq fqqnq RTRTR, RRR qqRRrrfcK «J$Rq R^THIRT
+^jR^R^qiqTiq mRTRR i qq-RmqiRTiR^RiTi^sqiq; I striRiOq RRRRR? RRRRRRRR^j-qJiqfRT: ?R RR^qqiiqi
+far»t f gqqisq^qrsRq^fRR i sqfqqRr^siVrq^riRivqqq^fq
+^IfRI^Rqq^^R'qqRIWRrRar qqiR?q cjr*cq*RR I qrR
+q^TTR^q^ RfRIBRq ^fuqqim^iq ^rtq:, qiqiRRHq RT^lRt
+qqcr:, sTmqRRI^RRTR^Rfq RdfqRrqrRTRRfq ^q'rqri
+? <q?q, qqtfq qnT'n^rqiRRfq
+khzvvi **$wwraY«rar:i sFronwra^Emi ww^ww
+qir«n»jai^qiRRRT ?jai5qRRR» Riqirq^TtRr, Rjq: qTRR^T
+qiRl I sr^R ^qfqfqqmqiRR i RRlq:i^: RfRqqRqiRT
+RRRcI ? RR, fqq% qtqqrrqiqjRfqqf I
+T%?q Rqfq^q^qiRRf qiR^qRRi rqrqqim^ rir^
+zt ^lui^q-fqiqqiTg^R ?qqrrW(^q;Rm q Ri^inq
+rr: ^ TRtoqRimq , “ qiR^qqqR[% qqqr ”
+?r q^qi qiRq^^^K'qifq rrtr, rrr^wri^, Rq^:
+Rqi^qq ^qR^tsRsjCfq^ra i RRi'n^wr ci^TDigitised by Ajit Gargeshwari Foe Karnataka Samskrita University
+
+XK
+tawa-m a^niRfa i aa w>\\
+tqrfiawastfaar amiaamfa aaaraaia iu i aft saTaa-'
+a^ara^r a;qfma%5r, - 34ara*f^»ma<aia. i aana?q s&R'nr
+*narCnia*H3r: , aw 5:twp!^!?wiq afircn=raa, argi
+a*a <fiai*ua*aa sramRStsratwsi:. 3T?aaiRF5>sBta«ar
+i sra^a a taqRaaa^a www i
+ag saaatair? ^tsa^Taavnasroi aia?ar stsarsta ,
+srasaa giawraRvaa gwq^rfa^fr,- araaga^aa aagft
+aRf%;, a^iaR^^ g < nw*Tarc'*fia*a ^lasara? ^saaia i
+sraagauwaa a^aanmtara i t'sasaa aftarautfq Rrsfita
+*aa«r ^aiaqa x*nm^ , aa ?ai«Ht^iaasrra a^iaa
+Rqa, ^arqfaqaar srwwqrrna wna, ^aa a^tW»3
+saivuia%a ^aiaaaaaifaaiaiasa ^saqiaagia wna«w I
+aTairqfJi m^pawafataiai gaiai a ammafa aiR^a i
+aw qiarmaalaf* .Jc^qicqaiaiaasqmK^aaraaaa^q^i^f
+3'Rimtairf.wfa i
+vrag wagaTwa aam i a\g a^na i aw Ct^’C
+aia anwamiw watvasq a arrcnropuasn. aa a^fq
+vaaiV-r aa^swaa^reaTa. i aiaaa aag^iataga ftRaar
+f^aa anaifta^tjtt^a^qaa cgqrasaai^r i aaiiq ’ftaiat
+awnaaia nniwar aiainqfefgqifa %a ? :%aa:, atrasa
+ai g^aiaiaiqasaia i maRaiM^iw faat^: t aqfaraifa
+aiqq;wmf?fa fwaarnsqaa^aia i w\Sfafa aoifaiawama
+Heaaiai^aiaa»?anqfaRfa i
+Digitised by Ajit Gargeshwari
+$»wfitatan 1 X*
+araaarotam saa*fa a^ifa fawn i sra^^ai^iaT
+aa a^Hi^iaia saiw(a*3aaf«fa%W” 3ta*3<af«ta i%a
+atafa awaa, aa**sw ? aiw, wa% «aft ! ama i st|
+a^iaaua^a^r a%at% aftsR'aawcaig t a^fia:, stRs^; i
+a^raiapaaanmg^, afq» mat*a i aiaewa ataaaft a
+*aaa a?a i maaiiw'aaa*? aaaqrctTwa » a^t
+5 ?qaa $iHraaaratai%a ^aaia laqaaragraaiast *aatt|
+aiaq Rnaiwaai% i aa faqaa?a [ a ] a*n, sraaiana:!
+$i{a<daa?aro$a i aa aataraaasratwar faqaata, aarfija
+afaaiamiaia , aa*iaw* qaafaiaqaa?at aiatir i srai
+Taqaafa^^ra^aar aiVaat taenwa ?aaifq aaaasiaa,
+waRqisasrwfawasa a^Vai^a fa^affa i o*n\(H«i«'
+?af«r aiaiatia:, “ a^afiiagq^” *rairci> t f%a «iaM
+*ai?ara:rc ^amitaar *«m?a ataivgqwaa, ais a ataqta
+^r^aiiais^aaii^ ^R<na5ia ar?aa atia’n aiqi^rafiaaaa I
+Jiaaainan^anat ^atr«aiaiai^r ^^lareraTaisiiaR'aa i
+^aa?a^a?aa3 , ai au , a%RM s a5tj~ ^a^qnaKrRaouavjaa
+itta i wk^?w aRTtwwiafaia • aa;^ aiiRa - “ 313
+a&a^aia ^vna^afaaa^: i aaTaiawa?an 3^r?a^q^rqi
+aa ” i ®raisaTaiqa ^aa^RraaTvgqnJH t ara^
+q^rFa^t^aaitqtwaaqiaiqa ^aa^fafestafa i
+f^.'a a^a a artaiR: a^^aatq^aa Ra^a^aaia:, a^a
+afs;^*. a>i^a:^rfa(aiiaa.ffa R:a^iT^ar:q^: i aar argt
+au3*qi^« a?i^!it^% 5 faaia : i iai^a»^r^ra la^iai^qnaai^
+^laitt^Rta i ^aia^na ?iatais[^t aaita^aaiatj ^a^c
+MDr Karnataka Samskrita University
+
+<f I
+T3f3Tft37ftf%;p3 I 31^3 3 JTSqTf^^IJTJTT^^MHIJn^i^T
+mm«q^33ftnf i R^sisngrmwwr** 3<$nft^q% i
+67vT. mm<»q*q q:i*3PT nrqq^eqi 5[3Rqq %? mn5!33iq
+mFqjjmq^r immf?rfers[q; i
+33 m 3 n*q?m ^qr^Tsrwft i 3 ^ 33 , 33 ift - mm*
+jjqftsjq f% e^ivri^Tcf, 33 i 3 q 5 r 3 Tr 33 iT 3 . ?
+jng:, < 33*3313 i qft JWTNqftsiq «3T3*3 T=ri3wm3 ,
+*iq$T3T 33*3i3na i 33 - 'rctqt&3iTCT’*rcr:« ^litfseT**!-
+HWiqiftqJisrmTf mm j 3i*rq<§r3T3 i m^mqTqq^ 3§?c
+313313 mqmqRT 3;£r3T i*wwn^w g«rm3T<u
+ft?*33TfT3!»;fi3, f3^cTi3Rm3<m 3mNq*T37i3337itr3 33 it
+qraRmWf f% *s$r f3i%3 vqwqq; 1 mrarwimw
+g^q 33<sfi3i^r*33 333 : 1 awfaRqrq 3 wirar, wamii
+ft%f'7 , *33i3* c ftq ’ar 33(33 'g^’Tsr^r^mmT 37 j r55i3isf7’7r
+vn^ici ; 37>4f%7i3iar^ m 3f qmqft a* qt m4 1 % % 191 mm *t
+q^n i*jiqt'l 1 37 f% t* 33 : qqrGTfq *rq 3 i i: 3 'T , T 735 qr 3 i 3 1
+ww^irnniwR 3( s frnaftraft 3#m «$i*mssnmq33i3srivirermwm 133319 : 5 : 1
+?r?r 33 mfa 15313 :, ^R'nf.^m^mar^TwrmRR'fli
+mqi«q%*(q7*wr a'^qrfq^rqqq^icx 1
+33 v(33T ^Tqmrft ?ft "^rer
+Digitised by Ajit Gargeshwa
+3^=3 ^rTOTOT3*m*cr?arra; 1 mnmqrmqqsm m 3 : snrnwr
+mr, ^fTuinq 3q:T*(?3*T*3?qm3i3 , 3?f?r s »wmRti37*<nT3 mqiq*T«i «raioqi%533 wm/q^mr mrmft
+$3? qrm, 33(fq qirc^rqqiqq? mqqimmiairoi *ftr^i
+ft% mqftra imqaram *33 33 : 1
+Ov
+*3T3<35T37I 3R3, 913 3>RWlfr<n?mi3qCTW$H ft*n%733,
+RcTrqmqft muraq 3:*qi% 59103 ^ 3713 ! 3rrc ( 3fi3Rim33
+9,%*i9 ^3331333 nmioq mats* mn% i
+3g-3:3? *33: srrawmflRp , 3?rq VZ 31
+ftfqfq aabft, fftr %5r, - sjrft ft * 33 : q*3i 31 33 : 131*113
+3f33I3fti53 «H33, 33rtri33r3?I3r'JT3f*iqi 33 I37II%33
+?ft f ?33 - s 3 i^ 3 i 3 fft 3 erft^fq ^qfRi^qiqq^r^iirft^T 3 i*
+3 g - qmq 3 :r*'n?i'n! , a 3 M^n, q^ift 3 ^ 3 rR<n=fi 3 T 3
+3?3 37f5ri;3*fq i
+For Karnataka Samskrita University
+
+fasftnfcnr |
+3r3Tt®fa 3rW?3I33% TIS5R3;533 33lotI3l3T3;,
+f%3 - f%3i 313 33ioT3i3*m3?33:i Rri, f%3 wnxVJ1333 ^rmR^^lffRWTT Rl3? I ^miHi^ iRH®! =31153131
+Digitised by Ajit Gargeshwa
+#T3**?3t*3i* Rl33153 ’TTTTCT^f 33 3f33Tf33 R*T315 RJfTR
+i Foe Karnataka Samskrita University
+
+S3
+?Itt vr mnot qR^fst %tri%rt 3 ttrir gRcr ?rr
+5i tr;^ srrr qrqq rr i arq r% irf5«3itn%'nn«i g5RR? *JH SR^URRH q^qmqqRT SH^R SRq: I
+crmff - ar?q^r cngq qtiT^qgg: m<nqivqi 5 qqg smmiRR
+gqregqR i qren qR%q Rrsq^qg ^r g ?tr \w- »
+sRqi^g??RRq>5qigqq%: i surer qtmi??T^ : vw* «5
+JR: , qit5r X.% qRR fuRlR ^TRRIiqqTORR^: I qi^ R
+g^gi I%I% R RR sqRCqRRq^TfqM I RTR ^5
+3 nr. , aif gq*q %gg?gi ?qnRiF^gqR*q qrcrc^q qigR^RqRiqRR i gr% st?qqr *rr %R;q*q ^g^R ^r«re:,
+aggif^q^gt sggsrgqR R#gR i h^r^rt: g<
+R% %gq;%, URSB H? *I^qR*qifaRR I 3TR^%HHIqqRvuRRR, • qqreqg^qi«rera:raf%?req g^n^gRSmisTRC i TOqsStarewftinRi q^dqgircqqsi^qR; i
+q$qngqg%? ^^jjswfiNnawngvi^s i gsn^W?
+^ 3 f I RIN qi^qRRR:, STR^R^qi 5 tR ^sfRRRttti^ i g=g ^r^nr g^RRqrergTRiq:, mg qiegqT *wfq
+afR^^TR. I H=ar JtR% [*»] 5 =R tOTTTOOTI SR^R*
+iajgq: , argqm^gRTgqgjfqR i g^rqfRqqr ^gqgifuR
+Girt, sqRqnRqrqg qqqq^qRTRKqgiqqRsr*vR*qrc*qOTlRqrw q^qqfOTRR I g?* 3 JRq tqqqqqgrafrq*T<q
+H 5 cR<JlT qqqRRR^rq^T'JURTqqRI^ I q^R i%r;qR:,
+gqifq JTRqiRqqqgtqT foTCKrffen^faf finaqqoTTqRq T%-
+qiSTWERI^ I RRI^RT f%q*q TOlRrctal&ft 5RR*
+g'jjRTR^iRi ^rggRRRre; i ?? ^iqqgg ggiRvjRqjq
+g'ni^ggra i
+5 T=q SRqr
+fRRKR qRqg, 'S'tfcftptit: m%J
+wvwifq ^gqqri rarora qiqrg*Rr?qq: i %% = 3 Rqq
+icf jqi Sr«R*qRgRR I STrTI qgqg fcRnqg - “ ijrr
+fflTRRq ^tTr^IR, qvq «R?q t%RJI^vqt gq^lfgRR ” R |
+<RR i% 9 W[f^vqnq gRgqq qK^nufir^^^f ^
+i gq^qR'TRiRrir Rqntcrrcg*qm%3j i srrt-
+^ qR%qqsR?gw>-qg nqqrRi <thrr «r?siqRig
+^ < >t: i qgftqsr qqr? gg'qt? fi?rtiRcqrfq qsqmqsnvrg
+qi€7 *q?qq: ^qrg^f*gjf?»;rqq ftqfgn , *3^nTM Jjg’Rj
+%? qRiR^RRTTqaT ^RiNiqqq: I
+RrRq>qr?qR oqrarR^q wR^qR I qqqR;?i^tfR?^«qqt
+'JTRRtqrvR ffR^fifeqqror qiRriq^^fWq
+?q qrfqr^^wq R'^ar i g^rRrRq wg %?h%r squRgRR
+q: fW8JW5i I JRier ggrtgRq^ ^qRqq:, siFfq^is^q
+gq ^q^qqqJqRR , q 5 ^r®^^q g^gr^R i Rr^rgqqr^q qrCf^RR qf^qict. , qR qR 55 T^ q ?qr?r ; f % 5 ga^iq’
+igqq qfq;cT<- ^lirqg 1 qq gfq^i^rqmn' ^iRqRf^
+^ q^^qqrq 3TT?rrr R^qru^Toirqfq q?q^?q:^rggi q^rgi
+jqg^nqjq: I tRjqr ^g^igiRR ^rgg^qn: qRq^jR 1 gg
+rqqr 'qRitqgarirgr, q?q^T srrtrr vnfgtgqqi ggjg: i
+^ri'n?p^rqg-;q?qi?gcqq^TFq frR^qiRRfcr fg^qiRRq
+qf'? ig^fqn^Rqm^gi^ i qqqqr? gqr?ggj?qT qiRjgqR^TT
+j^re^q ^qf;q?gR i g^m^^gmarrq ^jrqqmfqvqR^i^.
+^qRqgwq “ g^q^qi%qroif qi%5T;« ” fjj |
+qq qR%®u^qi?gqt qfirar^Ri^, ^ggrH^q^rrgq 15
+qrgqqgqq fqq^r qrqqqi^:, are^gq^qirqq;^ sqr%
+Digitised by Ajit Gargeshwlri For Karnataka Samskrita University
+
+3 2 STI^RrFr^ai ]
+sgsrnar: i r«it srCrt ?t #?r, »prrai^ , » <srraroro. i rtR *r: mc^Rii^im, 3rt«raTct, i ^ ;ii%:> (araiRici; i ww l«w] *W 1
+^Rqtfq ^RiCiem*
+-“ Rnaufiigq^Rr ^RsRR; I
+g^qilicT Wf^R! ?&35qri4jT|%«I » ” # I
+^r5ci*7 st^trt siwri rrrfc i
+?R<j T%=RT^I*tRT, ?em^^TT<JIip»Tf«T *rt%R4F,
+^rrt t?r: mn rwr wquRafaR i
+it^h^ ^%<tt **sqm%iqm *rrc: i
+are *4terreq siwwnlw wwn^wrt ?nqRh ^nwiumR %wm ( qRmiRqR ) R&<r*Rrert
+3S3W qroiftr^RR, i
+sqfeiipqR. ^r^nj^iw'sr RwtenreRRR sn^rc^^BPiFet 5 *
+^RfRsnqsR^R^*^^^ >i5TW?nif rw^r i
+“ gJTR ItTRR R54 SJ^R *RRRR3TR 1
+JT^ RRTRf R*?» »WW 11
+g^i R«nqqmrer K?iwtv qRRiR i
+fzfem *%: rtor-r swSffim* « 11
+^qiRjri 5 *rr wifan%«RW qfe^R «
+“ £iq R^l^TUR* RT^R«I *R3RR i
+q^rew TOtroft q^RHR n ”
+?R Ri^tiwR RI3^5^R 1 RT^iq°T*R j
+^rfiT^ qr%*rrr i a’^R ^fRt^RTR^tRRRi <R5i3fRR*Ri , f
+Digitised by Ajit Gargesh
+^roftafert l v\
+^KmR RT^RI 5t^nT®t*raR^ *4 ^mRR^qqRtJTRR:
+JT^rfi: I
+RWIJRJnRR^T RJTRTR qfalRHT TR^I%^P»U *RRTRT
+, «rcRrcsr*TR!R RRrc<q sqi^qjRR >?jfi R^img: i ?rtr -
+^WT?- “ HllfT Rcr^3RR^ ^rRRWT qt^T^R^R
+RTPifoiR T%% ” ftier I
+q?g;m§: “ ^iRtorafttg ??§ rirtrtRsrm'm srwj%at «rir imMRrRTRR i 3rm R<fr rri 4 s <ii rrir ri;rR” fit i rirs RRR^qiR ^q/qg hrqqqmt, rtrrtrrwt wm-RWiqRiR, arTRiiRR^R gq
+sq?q% RTCI3>ft«RRI«nRlR I 3Tfiqq qwrRT*I%T»iiTmM
+q*T5Rnj?r q^Rq^r ffmn>RR®R*Ri tiRRRiKifit j
+“ srgRfifiRWRR RrRjqq Rf i
+sq'4 r^stoiStr rr: wwiqq^nvjR^ ii
+R qqqR wg^Rf^^riviH' i
+ST^JjRfcU f% (I
+^rai5*jj% rih% TTrT^q Rqqi j?R: i
+<o
+qvrm g «% f^rgr ?ri t%r 4 R**qir n
+^4r i%%«vfi «mi ^jqi qR i
+?r4rq^4R <^r* rr^^rii ii
+f5^iwq®®4 W RIRRq q3[^qg I
+a^r^%Rqq rwi^t ^rRRri: ii
+aran%q4 rwrv R3TR?3r i
+5iRK%g r%s;r4 R^q RRcn Prem »
+l^sfrtrmTN^T’JTH ii h II
+■ — JU O C O OCO C W t - 1 1 * J
+For Karnataka Samskrita University
+
+H \ II 9 - qifi% cm zim n t M - VU ( \ - \ )
+*qj 3if5i9sqi$H2 i ?rg^ q 97i%tg995: i
+*q;q$q 5liq7f597199 ^i%RT?F7TST ‘ 95**T
+*99iq*7ravTi993*Tiq • 99i%w?3i9*:k9q*7T r riq , 31959
+Iteiiftnreffl «»■
+915 I 9 919 jflKrq 5T®5f^I^ *T97I^9JKI9^qr9I9iraKTE
+9k9I5f9lk^k 2TOra(9K95 9k95II55;?9qk^q595*ir5 1 .
+Digitised by Ajit Gargesh
+/vari For Karnataka Samskrita University
+
+g^qtgrRrfJ HWm 3139?% '3¥99I1%,
+3 **tf*T%i%3:i wfwfl 9=9W9i9*raratt9
+? 999 i%i 3 3 OTrsreq; •
+whww»^hwKW^ ftww ******* ^ 5ira 1
+am: 91*91919 ** *w*mftw**3 ifcsrhnfcwwi
+irireqwiswrawM 9 ** *n^*i 9 wsraW ^ 1
+™ «*<<<ra jwfWT 1 «im «fc-ft«r»TO: w «*-
+Ri , WI q tf:, w-**% i i wiwtocti wi
+,„ „ni towto i to - “ towth-w m «s •R"wt
+f 5 TOWTOB«&” fniwW^ ,,w: 1
+# wtriiw nwmft, ww»- «* 1 ^ **
+^r$f ^iR 3 i mr^rm^r mi% 3 R 5 i arR =3 “ ^ 3 ii 5 t 3:31m
+vs
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+^ , BTOSWrart I
+cs:: I ram raws sfta®» ***» 1 wraI aSi® R ®< 5 ''
+ts: sssraraitrasws'rasM sn<ts®*i« 1 * m ‘
+•• si*d s^fitwwtt siratm is®** ” <*"«** ; *’ wwl
+*ssn«i stsfim* ,ft«ss^ ' ”S' - **&*& !cra "
+isj* stsifil si smflfe, sssSrcss fisMi 5"’ ,
+i fist *s«» astral stain Hfirnw ssusttsstJ”:-
+WP, sratvifiwCTI 3 afist nsfis- ci «3 W |
+sjs st ss ss si ramstg saint 3S® : 1 sstsss ststssts \
+nittnaia msafi assist 1 mnrangsniS’S in twi i
+?RS*~
+u \\ r - srcfaftfciqta ii \ - \ - \ ° » v X ' ' }
+'Grow «»w v**fa**\*a I
+TOfisrcni wwni W **™*&te™*-
+i tow TOfrfTOiu^
+srfiratR^RT £qrcrr «nrora « «fas*wrf*
+i% niRi% nfRR, rruir R*RR iw arrows j
+^ sNsroisfrat ai^nl^nron ww 5“
+HRlRvR Ip 5 ^ 1
+^RST5 j%g?j Vpq^RWWSnro ^$ 3 , 8 lpT [
+Digitised by Ajit Gargeshv
+aw*!
+» 7 rsf retort* aqsssvj: i aasi Bqjqrcoft qfcarq ssrigq
+i%at fesrfrar am £t a 3ii%%gan;T, RisauRaRnstqjn
+tot cqqq%; i aavraiqaaTaTfq a *awi/tf: i
+qoaii SRRIR RI^p*: RRSKRTS I
+qs?r?a sqifTqa: i “ aa ” - i
+a^amTRcrta areata R?fa, aa - qnTnraf»t *araimar rjr;*i ^^fa’-foRR 1 ais fi?$qi^iqsraT*
+«ata>qi??rc ^gnftia*:q$Tr a;qa ?i3??iHc7 JTKt^«ni% 1
+r«it wifiTrq^q wftiT&fafq qrgiqR^ri%
+wis ?r$5ii«r 1 aR r^?rsst?r: i
+R tiqif?T% faqnra 1 sra qa sTraffe^ii^Riqig; ai^iiaqfa
+ftia fasafT *
+Rf^R^fa - ?Tsara €[er;v 7?7 sERTRiriarra ^fq%: fa
+mq wi«rar?a r^r ?kt i a^a, ^a^ia^q g5a.iKTgia; 1
+ar;qqi ^ri^RrR^afq ?^%Rstiri ffg^ata
+rrrr 1 ai;gq «q(a<anvqt r giR^q ^r?^ift?a riStririr
+r^r gaa 1 ?pir^ir;r:, araaiasnRFqKaq saiRi^Ttgra
+%R ? Rt«qafa^«TRqa *q«i;R:, RTftiR^q ^sanftfa 5 a t -q;%
+qqffgTRRqr !%•■? 1 jrt sa?qrR: Rriqla i%3Tiqqf 1 rrr rir 531
+qRiR^rsf^qr a HatqqmarfasriRT ?qRR«l ta^TqqtnrR R
+Rraa, Rra^a ririr qajr^qaTiriaRigr am arsais^RTRW
+rirr: ^aa^q'q a^giR ^?errr 3qfq?f?a q^qaaar r?rf
+agarsfi RS'qqarraRTqR, fi;^q t^rrirr sstwrir^
+i%f%5rf»qa, arai rtrrrr w?rrr afRftRrqfqar
+ari For Karnataka Samskrita University
+
+wurjjanaaft |
+a*rc4rqrai i
+1 OT%fa%*a ’aian'a^a^T $15^2
+8T?^T ?[T®^ai a fla ?T?t *afai^ai5? *03 »T
+I%a%, sH^aa ai, STfa ?aa 3T®^T W aiaa> fW ®aai^~
+i ar?q«n ^a^tjai sjarcrar^ ^a*a ^is^a ^raa
+SrqfJTST^T 1 !!^ I ?Fa ^ ®14> MaiaRPRaRt, I a^ai =a W
+q%j tSiai^a a^ , WaRt!aT*fl5?aaij*TT'^ I 5W - 3Ta
+JTntlS^ai^a a^ ; ci: ^a JTH%»T ^aricTcT STqi’T a
+^I??T> cfaiT%a?a a!^aTa?ara»?natJ?aWI53[: ' ^
+fiTn^ i sri%ra%'afa «W5I5?2 ^aarninaaa s^rani
+g%cr:, fl^TVT H^OTIN ^rTd^W 5^t?q?^I
+aaaaria^TaT 3ia*R!^T I <!*?'* **H?[*ri TgrTr^T ^
+aarssraars? aiaarcaas’aaa ar®^*a ww?^ ^rsanCr
+i% farafiaa ?rt era: *a wrcamlr: a^ar ^aafr
+aqaaa i
+arga ^a^rai *ri%Taa:?asrTaa again; ana: sr?2
+^F'n ^%a maafa, aa mama, a^r ^rawatargr m-
+^tRt ?%ai% ciaa'a ^%a: ^a ?fa i am:, smaacara i
+^aarc<nia3i5ganiu*arrq ^%afq^Faia i sra t*a a
+T 5 ?na:, manat ai^^^nvii^taaaa^ni'Ear i aria gma:,
+srirgug^ia arasngataai mia: i ^ri^ra ?ar^r^f
+aa aa 3 T®?ias*a;aRin?ca*anq ra^ - : i a?aa ma *%-
+j E 55 ii^aiar^ aa arar, aif aaifq ma^msmTiaaRif^r**-
+a:, era ^amarangfa ^a^iaaaarra arasraa faia =aar, -
+^rawaRiigra s migssa ^rig aiara, nXa*a ar atena
+I^iT^aiaiaasai i%^: i a?rraaTaair^aiafaa?aair^ *:ii^
+aaiar, a?aa?a ai^ikamaa^rsaa saarargfin fiaa?:aiaf.
+0 Vi
+aj%ar a i a%? aafa as?aa i
+,f
+f r ™'* m iSt
+R I 5TTO5T iff-,, Vrt s,^ R; , 5,,,, ^
+mm i tram tmattfimmm wmr i Jrjj a*™ ,
+"■ , ; is " i ™wwi wtPriSmfir „„„» , ?j; , , r ,
+«wrmai sr, vsvkv ^ ^ ^
+Mfsai^TO®, n «nasaR ^r woti 5 „ m; ,
+■(WIRT Htya aama w.-arai aa^ra.imuiai wramiwaa: ,
+w ftgafft a* fi, & , ia
+^a, raai , iSfgri%mara , „i^, sa5 , W5ji , ,
+<" i .aiiret^.iftfta n? «r* ^ ,^.
+^ ^sft? WWW
+ersafa a«ya^jari3t a anarfa-iR g.Saro'iawfa i
+^ aar si»a: ^#a ^, vRi a aam.r ? a;aiaiiafaq, aw.RaAariR, , aa^wnaraftm r
+»i«BI w aam, aar.'^gfq ® 5 > amgjrwa, a,
+a?a am t%aa i aa nf, a.a.atR.aaaa,, , a s , 5?r;
+aana arm, (?) #<*k (>f«r J fa *mmi '' W a, 3 a„m,ar
+a.>a«aa„ 3 a atm amaaf, ” tatmtaa t ata at'tatK:
+isia^anaaaTaaa aaar faaRatfa ati# ama OT g i
+‘Siam af5T*fv?r ara^qs^i^or s^ r ^% _
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+“ snfopg grfm %5 3 *** 3 «*$ i
+33ifr 3 «reer*maj rjr 11 ” ?nar i
+srR^re tikthr - “
+* 3 i 5 *<i;, ^‘im^^TcT i ” ?far i 3 T<t ?wict ?r
+^vnrt n^i 5 i?ni^cr^i ^'ruhr st^ircT ’rei%i?T3icn
+**U<TI% wh i
+*|rT STfR: ST555T <RII -
+II <f H h - m-. &w?nnni?i n t-M*ll(fa -' ! 0
+nsra^nir trfa a^itfisRi^rcfa ■*!*•* :
+^sr 55 ^Rtrs*r *r|RJ srcitwrra , WJ*
+3 * strarrais ^R*r rrn:«T?r, <tssr 3*
+*sria •, tmr f>^gj (Wi* $i*S55Hm ?r £^?r 3 *: i^ss
+3;% ?n«i n^-vJpr, 3SR51R 1 ^5 fa v ^] * 5 rar?fis*
+nf?% rr^Rr awm; 3tT*r 1 Rra^nf^f tf?-
+f«? «qif tTRIcT ? 1 % cTRaTUTT^cT I ^Wtl?
+STmR*n«T ^cl^wrt tT5T srS^ftf^PW^ “ ^5T^?T 5 ^i
+fRHrefr TT^m^Tivqj ctrn%7rT ” strict** i
+srcira^resi Rg?i 5 -
+II ^ II H • qqinw <TCH II \ - \ - \ 8 II ( FT * * )
+%tr»j spring “ 7TRiRf;?% ” ?^n^r sttirtsrm^'aR^V **Ti?i?RTRra 1 «raiw?qr:
+WR , StR^^T V^PVT^T 3 % SR'TRR *
+Digitised by Ajit Gargeshwa
+fotfluferr
+<!TTO9:|45IE?Rr RWl4 S(! tra ! n ^-) n , 5i B5I5II \° II b- aifcn aiaqaa 11 ;.;.v, 11 ( ft 8 ;
+*fmwi 1
+TOgftPff ,
+(I M II q- 5 TS^f f qijff ] M(f%-<\)
+For Karnataka
+Samskrita University
+
+« ftaroaa S«a g«nraara.:, «3 *®‘
+^alraawarai, awaia* sraiS^r^n, as*
+,1 ajaagiaigiaw 5>na:rar
+^sfi*MiW > w 1 ot r r'*r‘
+ia i:c n^,as;.«af.<aara a rfanfrag I Braamaaga
+f 5 raanaraBanaiag i aa «W w '
+j,:, VifCTCTift «Bara ' «^ f " **
+wara,, srcreSnaft niaaiigarags a<B 3 tara >
+urT 1
+ll U II ai ; aiaii%r-]xa ^ ^ )
+aa maaia:-, ana a.aa;w.rraraai«ra®s»n tw :
+wasmXBvaa, wag aBiigiraa a 1 sna.ra®«an. bib
+n^rniSta a«.aa Biarf.fia.ai *afa . aa_a,gg,
+rfaanaift aifa fsata:, «ra*a.Tg«iaiaia<». anragiaara
+jaaa.ia.aaa aiaarar.aaaw.aara . ?!a . ^
+aaai -raft aar gag . «a aiaariiaaa!'a 1
+„ uil^-rawa rarafcaaaimiO-'-^IK^)
+aia^ «Rgi fira ware, agarama;: ija-l^
+«_ i nzix - I iw*wirow
+sretr qxmr^ici * * mi
+*iwqi 1
+aa g* aafa . swig ««a ■* ** ^ **
+{ran aafaa gfa at araiaaa uw. aanaaraaRarara
+fhRT 9^MTlIf7 ^%fr<TW 5f%r*?RTW9
+^^FUfT q?f cT5^?<FI^HW?r3ff;3^: |
+«rm * ^ir??rqi st^cT i &k [ ?fi j
+«uf vr.i'k *<:iqq?q;r, m*t tm
+fi^fr, i w qsnsrc wrvj^fw
+ar^fn^^cWT i% 2 tsj 3 ; i qq sif^nn ^ntHr
+*t ^i%tqqr: »
+^3 'ZiftyzT iRiiq sqq^n::, %qfi%
+**r**tiRr, j *if a, gqi5 -
+II u ll^-^qim^ll <H<> II ( 1% - ^ )
+- ^qrqri&sr, ^ w ^is^rt i if^^rirj; q>ren?q*
+JTfrf?i% i q=q qRr%
+*** 5Iog**T jfeorgqqsjff, qq ^qq srg^qcT I
+Jr^qr«=gi«:, aRri«4$i%«i ^
+5ifqf«i%, frqr?- •
+t
+II \\ ll ^-wrowiii \-\-\o n ( fir. ^ )
+•r^Br ?To^nq.qi qir^ qq;T^f^i
+q:icqmqci^w^^?ti^qr ^Fsqiq
+I%qar I qir
+cfrffq frq^r qRiq4 sjqsrrsqr 1 ag qyri^^iq
+CI^qiq^'T %z*mi 1
+frg qif5|;qr^q qqr’qrqrqtTH^q ^w^rFjR^fsi* qriiijiij
+^«qqucT, ‘* i
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+sw "W-W*"***" rai%ra,: '
+;q g^qt«:, <fa« SaHlWW V 1 ™* “
+S«®w #Sm=ft«mra ^ f 5 ^
+«MRpi w*«<«wn
+H ;„a «*a aRwi
+c , - a „ mrwfaraw ranW 1™ ' 55,5 '
+II \v u v sRqiflW^ q ''‘ w 11 v ’' vt 11 ( ,aww ' W"W **n
+-„ SB * mi rtwhiwj.«w«-iw. «"H
+Digitised by Ajit Gargeshwari
+«WK4rtt«r I
+«raft«i » rorirora, q?nrw»n^i «wnft?r cttssit
+fvira:'^sf%ra^ln«rR7 i
+***a TOnfSrar afonp^a 5 p*iot q?wrc qi
+STlfa^fa 5T^R?IT ^fasiS^RT J3i%R9Tfa CT*TR , ST <TR ^
+S3? q^mwmT^ rri^: i *ri$ftrcra?5 mn«nwni$q$a *rm^srsnerrej *n%Haw i
+f?r«r -
+f^sfam i “ cr^^r nw^ war fa-
+^IRRqt | I ” pqsqqTWT Wafa *T3
+g^fa i <fa<T?*TSRrwfa tan nnfat stt^ aaata aia®*^*
+sfi^ar -, er.^ritrrri^R^f^i , %*t5^ot
+cn-Tv^TRR^f^IrT , STSf^qq^qijg I &far S
+qq??T«r3TST^; <?r%fa fosw
+^jrrvrja: i ^T%fa^fa awaftfa?as
+- gfamm^ iwjf sT^«rfarvrr?rqR^;asT iarq^TjRrsr, cv?r«i ?r^!TrTnoq<En\3^r<Tfa «araiv: -, gffrar.m^
+^STSgqipE^cf S^fqmrTt I W, ^l%fa?T
+fqw] SJ5T srmorfiTTt far^Sf^vjqcri ^faTfa ^grxTV
+sf[(^3TTT5^aaT W?3?f]8[5C®ITcl I l<3^!s'cT ^fg'T
+qr^STR I tpr usq^lfa 1 ar-^lfRRgnk fayni:, %^lfa
+sf.t'JT igq% t?cr a«n waj fl%sr
+vn'T'mf^fa i
+or Karnataka Samskrita University
+
+qnfgtgnu 5 ** 1 I
+’"""'T sav ftwRqrei few
+^ "« w "'rtWSiSW8«*t «wif, 3
+JJ5 fcT |
+5T3 srmiTRcrrcT isr^HW^cai Hopmm *rqt RT«R;m? hi*
+gjT’TH; , Wrtr Rc«r§i% «ih T i$ s^qraifcar s&h isnT.cnq
+5KR^f€f Trfttrcqi g^rcoifcft 5^^ra?^rtf|crwr»i?3q^rc
+^qqsra i w wi^fpt srei^iHcHR^q a^fR«g£iaraiT:«n!
+^qsq^rcqDcsn::, <r*nqrH%fa awif f^w£for Bgtf&rarita
+« 3 f<ri% i irg-Ttt^q greipr^ srtRrHqfs?
+Hiv^qinara, a?$<i ?2T?<tf ^i’s. ifci% hr uRr 1 sr«rar, Hi^trir
+^rwPTn^Hr q\qf stir qfesqsqir, ctis^hh ^riffeiR
+grR^gn: skt ruth s'qiif i hpt 3 stir wwRifa
+>i%ofr ?q w.q ?wh [ ^vik ] vSwwat HiHRiisiar 1 an
+g s*ran?farWiit vn^wi%
+^ia^F5wi% nifoftrcft ^oifwrai^R^ia 1 Rran^r
+wfoas^fHRRiqqT^iTHfa it gr^^nTff^^tqqi^^TC 1 *$^if^»Twi tqtnftsar aurcRr foqwpij af%iair.q 51 ®^
+hiRth w^ttiRK 3^q^Tci;^Tj!gq>3[r^T 1 ?r-
+^i2«o5^Rif.^ < n.^2 h§?t: sqi%~
+afiw 5«q3T?^ra: »
+qir^ qr^r Hiq$Tantfqj - “ nsiR?q?qq$Trfa 5T®T^i
+WR3 1 (hr?# 1 % h arraft 11 ” ?kj 1
+qwtiiiT ^q»4 aatfa q^ira: » “ jeh: srhhcii ”
+WtRi^: JiciRniTUTR^rcF: 1
+ag n?iqa;qiT %^TR?qcri qfeata, qRfcf snqrc% -I
+“ araiHinircqrct sriTna^TiRrai ^srar «g?raj ” ?ur i
+aw wrw it w«utw?wai $rc?ft*wail?fr asqa i a^pft, hi?
+a* H®naHiq?iTu%qi waptir<q<w 3oi%cr, «fa ?n3 qwawrc*r
+Digitised by Ajit Gargdshwari For Karnataka Samskrita University
+it
+•i^wr
+*** wtt& aisnflr 1
+Hi<j vwrgx anr a ^i%rii?.<ttpTtf 11
+grafts wSfa fomfrr amroi* 1
+®3 f qht ?»q<r aw iifartR?q$«n ^«jf u
+«T#.l%%q^ 573 ^ %^R! qi^qqsr I
+* p z*nxfo$fif tifowsj zj *tf 9R . „
+HfRfTTtrqr H^iq-fqfqf ^ JTsrrrq? 1
+QqiHrqcr^r qrnr Rs^«qr tqfqrqvr h ^ n
+ffcT ^T^l^T^TcTf^^oj^ jj^jj
+Ml ^ - ^xtr ?rj H^rn?rc^ »
+^ *rws?qr?iT?n%
+qK^q?r I^q^rfq q^q^qr *r?qfTT*>*Fj**;q:, ? ^ 5q .
+^ w*n?w qmi%<t, Rmr
+°q a?crqq^ \?\ q?q?i^R=cr ^
+nh Hmfq^RqRt q mi qq
+
+^ STlflJIfilW I
+qsFRaiar, rg^»%fr i%rfrcr sq^wcsawa: t - rst
+fa srsfr^ sTKinKRT^sfar e^tF^gRfafa fir^'nw
+vncs^fa:, <nm s&ifair aiisr?r«r»i*r ?sqgt %
+qi^firnfa FR^Rnrf rirrsf: jj-Tcr i top
+Rrg'TMfTsi^TT^vn ?Hiri»i I T^(T?l% 3I¥R STT
+snwtwf^sirar ^sfr?rfa faw?rs7mi [qilsi^'R’mr, cptrir i
+q fa fa?«i!E«iT sq^gfafu Rfannsi faa^rftfq qr>Rfag <nr
+3 £it3;<t sjrsitFf^rrmR qi-TR fir^M-w i sr«r *[3far*ifa;faq
+^?r^r«nff5TTi *=F*rifacmfa »fa, qqi'jwRfaqfqcrT
+2gf?TgRT%H^R^l^.«^ri%^RR5T : 5l?l5T’ J fi^'Tl^R3 rrjr^i
+r'fr i q fg 5r*rfa$fa$R RSRfasfasR H^R^ifr
+^arSTRlfiRl qf^qfasfa RSRtq: i qfa sjSfij fa^fa* ijfqnSFq^
+S3 £i?q £3^wr: , qq f?fRrRRra[W«' *?RR; I rF*m
+^RPRR^qrqssrfsri : ^ripi faq^r?* srsffoi *srraroq
+qgqiijqi^rfq t?'- W- • ifarf ^nwar? ( ^ttNh g=ggr
+swwm mafarTRifafct ) ‘* q?qqrq ” - ^q;-qr?Rfarq;?qr
+frcKgfa I - grfatnqr ^Rtq i “ arg^qFsg:”- sr5^r*cR3sr;mfa rrg^fa q nm
+qgns*q: i “ r,«i?Rr Fn^farrRTg ” - sts^to?*
+fsrrRtTRmRi fawi: i gfa sfts^wr ^mw'j iqfa?r
+sritt^t sjqqqrssrsrunT [ rhfrjt. ] srefift ^t?t sren
+‘qiqrPRffi; I ary RR TTSTPR^S^iH TRfjr'RR rR^ffs^r
+q^TR? q RRpTRR:? mfa -7T®??R£2R*?Rr <RR^af[R fcRqR
+s?rrg vT^TRRfRPJRi^^qf ^R*g ^qisr^Tm v^ifaig 1
+sr Ti^-Fcrm?-
+II X II IT - cF^cTRi W3l*fa TRISrm'R ^RtRRR II
+*TR'> TT^T^Kcri^iq siTmta-ira, °
+"? .' W,Kn Sra '3'^ IMft ^ rt, , DB
+W«WHl Anranriw • ^WWWW •
+??* ?RWr ,~ri;:t
+Digitised by Ajit Gargjishwari For Karnataka Samskrita University
+
+siroryFraa* t
+folium ™ - K ^ r
+srcra. , ^ afti w* twwv. aa*> "" a ' 3 ™
+Sagta: . mm«i3 mw>* WfW < w &****" 1
+OT wgirow-i aw, wi f" 5 ""'* 5 ' fara ’\" ,a . V,W '
+tfS a filWWMS fe* «5« «# O****" 4
+HR, aw I wga»*a aw w*3W- 1
+fwa 1
+si«j ^r^rl%’^r*raif^ sR^ft S^ ffT ~
+n^li ^ bis aftamawn w%s3«arailt-UUiiO«V
+iw «* atfcaai ndfti - as^afi W^**a
+qi , 1 .aftf? a*3 1 arawr^fiaws w*
+qrnfinw'rq^ aasafta tf X
+arc, ajara, aj ft«W ( ara ) aaaiaiaaw i
+,a - -ft rfCw, qqaranwai a? : , qaaata
+«n w. aw aa */» ^
+afsifta^a* fa* W • ■» aw v«
+„q ft, aaaa wi*. aga aa<i*iaw aiBBawaisai
+„ft atf**** awa fa'afeaw* • "™*
+ftarasi aVw a^Sas i aata * «=' - “ «wa"«fl»
+q^sqaisai samar^i tfw <W«W** «*awaia: i aaa
+k
+Swtfmwi ■ K\
+U«J; - <55tSR, ST^fi^n, - ^^PW^aTIWaRl 2^* »
+«grgtTI^BT^5RM^ JT5 WIH%*imtqi3. I r'^ R*'
+fjctnwsqwTS^^^T^^If wnm«i H^isrn Rwnra
+^rasrent *wrR*nsir5fl3*^^^ira af^awi” ITO »
+3^r% <*=r?w% • R’lfcnrawf
+3R*j I «T^
+srfesf I 5traq:%5^ «*ra*TO^ **
+R^qroRiS'i* J^fr, as - “ - amroirCffli: ” ?R
+WaTwsjJ, ??h “ *?n%% swa^rm^ grow ” fa
+^t^sTsrRR^tt wwfa?** i ww3*crcra*rci ??r
+awaiaufaa sjrt 5
+3fm ^qr^fi ^f%iar5f?i^i s vkm
+v» v8
+%oi tu^rf^r ; ^wffrri: vrz
+q^ni% %^nw«a*ns: 1
+^ot ;^n®r
+1 - 3 Tsp,?i^ fiwwwj wfiS^mauniSr
+^5^51 • araifa 5iiwi^i 7 mn?ia«r^
+?^r# 1 tr^mqr ;mqig?cT^ifn^JT cits^ ~?
+^ irin«n%?anm ni%?r 1 sTT^rR *mqi%
+;eTH?H 5T7?lt'17 f?TW 37:^^ ST^^STR
+i%qW i sRa u?*i3UK?a ^iimiTc^niT iram ora^Hni; i
+?r^«l ’Er^cTifr i wa% vtoRrwti^
+irfRirgnn Rr^r^rnn?^ ^i-
+^f5j i ^wi
+;qrf ^15 ^ h IJ n^qK^fT URI’R
+Digitised by Ajit Gargesh
+For Karnataka Samskrita University
+
+ct,: i r«3rt=aft ^ura-fts** s” 5 '*' ^
+wrfri wra, xhwtow^ 1
+s g fearffen imm . ft- ******* ™
+„frft i as W «fiwi * 3ra,,B,a TO "'" ,M T
+tfrarat «ww. -*-
+tmfaftra fft«oe ■raft «*; OTWBT *"' iwn
+^ , ^qifqq^iqRS^an* *
+a* mr. - W-w^fWW*/ Sfs-
+„„&« ,^m •roriiww
+nnsn n; -,Tfit«ftW BwnWTnrrTOX
+srw'H*w« • mwwwfW^ '"*
+%iniW*ra«nw ^ w, «" ,,i 51 f'
+<raft wthkw™
+JftSftr., aapwaiftvn^aw^^* «&' "'.
+gfg%H awa fwrod -toSwwot ra^™ 1
+f*qg g^mmaggiggg igg% mg^d -*4, * ^ a ^ a
+Digitised by Ajit Gargeshw
+qnreq i *h^ sf?qq«=rg^rqi t*qgqrqt;qf?qxrtq'qr qrqq:?q
+rnfi qisqq, q^rr srrqsqq^rc q^igr qiqn^T*?q
+S^TOIftRIH^I «r=E: fqtq I 3Tq
+«H*iq«^*|qqr mqqFqRi^mj&rqgCrqsifqrcT q^rqi hit*
+^iqiqft c qT;qqqrqq;?q farq ssrqFsqqsrafqffvr q;q«=r,
+'qq ;qrq: %q qrfrq: t mrmnqrcr *4i»qiqfqqqtqr f^fg
+%5T; - «i<t: srnr'qnfgtrqiqc ^tqwrTiqgq qi> qn*r
+ZWX, , sr^qqjfgiig q $qrq I JW qq gRmi?g*qpq?q JTl?g,
+qqt'nijq^erigr ?mt srq ? qq, argqqnwqiq i q%
+«q?qqtqi q?rqi ^qyiqqrr?qq«fqqr^q wiq ggqqr swror
+sq*qi*q?qng% ibf% fra^qg i si^f^nsrtqqpqqiq <sir% qrrr-
+«rrarc, qfg gsraqrig %q? ®iq:(q *rrg: qqi<ni;qciqfq
+qq q qrq RiqTiqiffrqqrq: i q^fqr q^mtqr =q snqrqfqi
+ilffq %q ? g^q V^r f
+arq qq, 8T®Tl%qr qriq q^qi^q q^qiqqqiqqff^q, qq q
+^1% 5g?qiq:, i%qiqriqqFqigqq?qi.qFqi:-, arqiTfqqFf'qqRSTqqf
+qiqiqqriq'ii?qq ^qrqirqqR q FBi%s^Riqw^,ffqqrq^rqqq
+qf?qtq i qq qfif^r^q ^qq^teqi jprcfo i%T?r?q:-, ^qqigqfi
+qtqftqq^qr qq^q qr^qq wqr'mvFTqfq, q?q?5qqR q^Rq^q
+q^q R^qqfqiq , fe^tfrai =q qq «q?qqi q^rjqrrqi n^f;qq
+qiq'Fisrquq^rqiq i sn^R-qr g q^isqqqifqq'iqqri^qiqtqr
+qrq I 3Tqq =q q^qn^F q;q sqmqorrq I ajjqqqqsiqiV
+so
+fRiqr qq'jFpqqi^qq^FH:, qq ^a^fqiqqqqyq^qq q^i?q*
+^ sO
+qrmqR fqfqqqsqrqRr rjqrfaq;*<n fiq «qi% ^qiqqq; l
+wqr qf w ffqfqq iq'T^Rripqi i
+ri For Karnataka Samskrita University
+
+flUPKKWWt I
+$raft*wnrara ^ ® n ' 3 _. „
+aRr9 ^ jf*
+^WcTCRlR ^qnwsaww^
+q ^t) q*ro* «wifi«i *n** Eqqra qs S *5
+j« ia^S-ftS^ra^^.PiWSS m^arat»^ %A=r-T-srr ‘srairU^II I^TQ?I ficll
+qgm? #. ^ «i?*^iCpn 9?p?
+-r-^ssrsarfgwst w «n«wiM*pm” aws,, ' a
+Digitised
+by Ajit Gargeshwa
+K
+w»i?rer?ra?r ^q?i q*R”‘'qq5jjfqvqr
+* w i w^ y: ” fnnf^i: » srreq: qn^m? q'q^qj mf^i^tr:
+^nreq? fi5tqr?sq;fr i “ qq jt!sf?t ” raft nq^rarararo:,
+sr§q qqqgq «?§ lilretH^sn swrai^ i areTOwrafe re^qo?
+gq? r i ra^nw jra^rnraraTii:, R?q?q q£r q^qKR i ht
+xrq^i orar qq^q sqqqg^w:, q^qrori 5 THqi;?it qq^Ri
+qi% qm«nqrara i arsnfq %qr%^qq;5TRnR5Rq tstft I
+anr: qiSsret^ ‘Wt *ra*’?ft sE#r?rq riwi sr ftaarcft |
+^«ri^nvjr^q s^cf i qr qqrs^qRTugrcff q?qfq <*qqi
+grcqiqiRrasfoq?a\<>r TORrahm wreswro q^iRsi^q
+aqi rtcrir *rfs qraqq qR?j«q?T i q%s?r $qi?r«ra q
+«n?*irawqs qipqtes i q?^qi >awra?[?q qq^tar u?«rn
+?E?r i aw ^<|[%?rqtjt g<rqjj- i
+<n?^qr*i: i qqj- qin?qrqsqq: : VTi^-q^raftl
+qW^Tf: I “ q>q^ ?R ^RT ’’f^R^RI qRqqR qSR
+qTr^g^q^^RT^Tgqm ^iqar i s^qRqra, ^ri%^q - 55%
+p^qftf^riiq»q, '^ww, «mft « «rft^q<]^raTran^ra:-
+f:?T 3 P?Rq: 1 qji^iwrqqiqq^qtrsq: 1 srra’pqasnreT
+^ffeqrq: 1 %q arqKrafqqqgrsqq; l
+strrt: - ^fqwiqqwqR:, q^ranq? «rq;?r 1 tiqi^r -
+•s
+“ qqr: qrat^m^^raq^ ” “ w^t^i%Tq:rqqq :’ ?
+fqqqj^q: I qqi^^nfq mqi?pr: , 3 ^Fsq:*qiq?q a?r^i
+^is^qqiqiqi g?qi%: qakir I arqqqgi R?q?q
+\ SDiftqf 5T?«q:iqqq'n?qT q
+For Karnataka Samskrita University
+
+\s o
+VSW* , 5^1 *WWW’
+* *raa 5 [* atmmiawt ^ iai,in
+ftfna>pia amP'J ' _ , greanraw
+S’®”" 91 ” «»” ^.f, lefl&ntwwro >
+wjjitn \*H*KT I H 5 I 15 "
+&«** ' ^ qiTcr-^-n W
+" SftTC * n ”' ,n ' , t „ :3 jpjaww-fiwn
+f , ra! ^ sww • „ , naw %®w r*
+- -m-nBPiRwaww’ 5:4 raa ’
+aararw {Saaawswwasi.r
+Rrt fat . am
+ajlawf** «*. ,W "" PW
+aT'n qfsW'H^i
+Digitised by Ajit Gargeshw;
+qqqqq qfor?: %7*qm? i%qsrcfrR i
+’%Jnqtfqiqqreq sr?qq: i *q rf^mirni i
+m qfa5r**rq: i arq: qitaTfpT srqrmmq fqtrqqsq i
+cr^ qqjf^iq^q qfr qq^mqsg:, r% Rrrq qq^fq<q
+^.?57(R i qqrf? errpc<*nvnsn^5T qfrq*f??TT qT«jqfg'%: q .
+v r* r*
+nr?T3t?g^7;?r:, ^ ^5*wqi?qrcrwTq 5f3^wt<?i: rum
+wi% f% * <r*qrer i wfaq q£q f
+^ 1 ’Ww sRtrhfiT^Tf^w^q-^vqd’ i
+qiw ^fi 1 *** TWiT^gqqrqT rara*wc<q wr
+' RR/'RfmTfintqr qrrsnR^Rifq qr'ZHiqq q^riqeq
+qqnq^Ti? ’i^Jr^Rr^fvJr a^RfrmgHr
+^rrs^^ici i ^Vr^qiRtra
+^ t ?3R^: SC%tCVi%9<||»rr
+;?h wiwr *
+3rE I ar<fR»qfRn'3^7 ^Vwiir^iTfc,^ STISRSmR I
+^ %?T(^5pi^W3 , r, vf cr^grsf'jq/q^ir^i^^^ i [
+HiqcTR^r^^^RTOT I ] ?r$rutg; 'IWWI ?Tc£R|rq^^
+«nq 9?rf ^7^ , arfts
+«flI%^cI^TO[KBt«I =5;r*7^.Tritqir I aTcTor^ffqi
+r^it: tfjTPTRgr rjcoqn^RHT i eqq
+fqqqioTnf q7Bi^''5‘ir^q;q;gi{^q^ qfq^lqq | 3Tcfn&sqrq$iij
+if^Riq i
+*Tfqq^R^m?3qr, qwiqqw-r i cr^A k?nw
+<<; RcqrqRq I cRffR^:-
+aTRTl^RqnT ^TRI qi?Jf^S? fqq»jqr |
+W^RfqqrA^qj qff: ^qi: q^q; u »s ^ ( .«
+iri For Karnataka Samskrita University
+
+-v CTTHtlT 5 5^< fl*N '
+rdl * <r^ TVnn^ucr «ra* wW
+03 #flh«W ^ ^ n-yTT-=r^3«fa
+W®" 5 ' ”„ wWftwWW* "*
+^BtgS'n nai”* a; „ miv ***
+^Vpnwwwww ' %nfSg5vn , ^,an-
+- '"'rr srpfir^rain , <m«rsM
+wWW ^®aw«3WW w,w,H . , xsrf
+Digitised by Ajit Gargesh
+#9* umifrr |
+wmR?R?sp^nn arow^rc sqrcrcw %^rs^ -pi^R g^n i
+q«ij-“g-%nnmc'T ^WTiwfrrafPr snrrtreh” ‘n^ra sni?^
+^i«i?^r3Tgr, «■ gq ffn sri^sirRst ntSRcf’SRTR i <mi-
+*’ ^Nir ^nm?R wim ^n^^ngr i
+q3^5?WI <prnfl fSnfRi =qqrp; g; || n |
+«i^tk ^rs^i^mnp^rratrHi.* ^^Rmnr *f?r -
+118 llg - 9fl^IHWStI5I II l- \-\o ||( 1%. X )
+^f3^n^^WH5m i nn^nr^ - *»-£?» srrr , fninm
+i nf?s i% n=nn *rtfR fn *?qRr\q nq?u?q^Tnn;nqt
+nn R^3>r: i m? npnisnosfivifn^i^fr^T^ior srR t^qm
+'S9R?n fgwwn^rqi ^q<3i^ ^winnr ^trafq^ q® twin mn: i
+fe=n grragni: n^i s^rn^rTr^rnr ?^rar ?5^innrnn?rr:, nn:
+irisrsHR^iiT^mRin^irKr m^i^r n^r rnR%^ v^n
+Ri«Ri%a;^mn sm% nimsrrr nngni m^%n
+en?n^n^i n?r t%«nRsnTfnfrf: i ^ imr^m’i: i nn^n
+«ir ^ %n Ri%^q
+«RF^i??rR?f §n«m m: i nnra ^nr^qfq i
+Rnrf - “ ^srqn^ f nnnr^ j g^rrqrqn: ^n?rnjn>iqrqr,
+T^Rr^nr nqii [ 3 : 3 : nn Rnr %q«iT | ^mnr n^mnniq^jn
+(-1 , [ ^ ] ngJTTJ^rsqnqni ^rRrvjRjryrnnrvqrqr ar;qr: [ ;qi ]
+5ii<^f ( n ] arn^imn:, fr^qfxr ^pqi^or gqn^z^
+('#mi| * ” fin 1 q?N 5^r^m%fqr3rRnnrft 'nniRRBRw ^*r nn ^i^fi Ri%q% 1
+^3lR5T5?I ^<RR^qgn%n:, nrr^^t:
+• 'fiqRRf J^TMi: qrRq; qri^Rqrmfq.r^m^qqr Rl^RR
+ari For Karnataka Samskrita University
+
+%Ui I qqif<F tTW qFSn^q
+srifjpq m^ig; '
+q* - ^wc^rt: ?B#TW*m 3^ f ^5
+S3
+H^ll q^q alci^wpqqra 1 !. II \ * ^ \ II (F ^ )
+Ri^i^pt fornix 3 ^t®^t R^r'RRfRra’I:, q>anq sniwin}
+tjqtJT:, Rgi^on^JcjS^ q^RRURr^RF '*Pni3f?qiq • *FR*
+q^ «tutgrim?qRR - RRT sifig^^ ffRI^R ^1®?T 3T ^*
+STIWllf*! KIcT sjTcT^rWrWT^H t
+S3
+Bqtq»$Fi5HR?H3^*P •
+qq qt vfrf^cf - «q [ 5 ] tfift am^Br:, sr* ?r 3p?f3fttn, qq ri iRfqiyr: qqlror qig, aiar ^tB l vi
+srfcrenntfRRre ’ I'Rqtrir i <w 4foun 5Kraun%** qq
+S3
+Ttqq, 3?;tr«iT qrq Rqrmqq rwroraqr: i <rq»fq %^««w
+;q^ «F?3gw, h> »aq|q q qiSRq i arqqi^HTRfq RR-j|
+^rSTRS^qi RJcl't'R RRiaRR JTWI’OR Rqqt^R^TR: I
+reraq “ 3£3 q qism: fq?w sjTO^rc ” “
+%5 f'tpfal 3Tl€T I q ?Hcfl^I% ” FRIF^RPn^fNi Wlj
+qjqsqi, qj«i JT7R*i( TR<iqf<erRm®qi5i^*. ^rsi^t?* 0 ! si;
+crs^i'w qi&% Gprq: • q-s^q ^Rifq q>q?n *jq
+qq qqifRrqqqi q; ^q^iqqiqqqr qi ar;qq*<qqqi PM!-
+fl3K RffTOJ | ^a,
+31 ffqq?qiqiqq^TR*fi gqqq: | qTRRqjqqqifVi^aig “ ^ .
+sqfiq %nq: RRqi fRrq^irnTivqf” “ arq qquj fq 7 q,q »
+a qrRRHrq^qfqMr fqjqcqjq^fqr qqrqr ?fjj?ra? ”
+tfq ^qqq'qfRfqra^qiqq^i^:, gqqri^wq^qrafgtTq:,
+q^qr^R q*qq qfST^q qqq'q ^q^ftqiT<m!RRqRq
+q^qr f^ttoct q i%fe 1
+qrq Rf^qr srmioq? “ qq^qqq ” fqia^xT
+qjqq qiq 3T5^^II% qRW?l #^qiqf, qfe qq^q^r ^
+Rfqsi ^ %qrq fq^iqf «TOtr€m(? ^mtmqqraT «q
+fS ^qi^f%qr: ? arq: q:q m^ffriiqq? f^q qrgnrraPq
+^«rqqrq I arm gT^qi^qifQq q T qqmi%, qq qq
+3|^n% ^i^qjqiqqqqrFq I qq,?-
+IK II ^-^qr fafrqiJTRqiq qqfqrq m -\ -\\ f|(%- v
+q»WI%?qq: | Wrcfcmrtf^ ^qqfqiqii^fq, 3T
+fqiirqiq^qiq; I re^qprhn«ivr %qqiF?r%fqrR: qTf^oi
+^sq;q; I qq fqq^ ^t ? q,q If q S q^ w | _ ^
+q.q: qrw:, qq^pq, ?fq I
+iq^rvj qjqm: 1 q=qr 55fi^% qii^^qrRrrq q:5r^rr^.Tfq qrq
+qfRrqqifq I q^q MtmqqfaqiiJ qq^n.iq
+^qR3iq;r, arq qqnqqr ^^rq>ifiq?qjq 1 ^ qrjqqjq
+^qjqq q>R wqoTRTqjqiqq “ qq^qqq
+^qqj^rq ” fqrqr;q[q RRiaTr^qrfqaTRfi^qr ^qq>4oT¥6R
+^g?qq, 1 ^q^iqqrfq qrm ^qqr^q m^rq t% 5
+^FCcrc Tq^f^iqi^arr ’ ffg^qq ffq ^tq^^^rmrfq: 1
+arwiw^q qr^uqofrq RiRqrq R5^qj^ ^=cqq-“ qqq
+*wrq ” “ qi arm^^q, ” “ qqfqsqqqrq ” ffqqmfiqr rtw
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+giR^ggiigggig - “ 3TWUR ogg^Rg R$^T§ ” I
+?T% gjgg i g^Rf “ wmwfr ” I
+ggwgt ^ri^HTiHRT gggt "W grggRk: asrerig * ' j ’
+kaiw gRgigcnggg: % ggggkfR Rrgggi% g^R^R I
+grfiRwgR i ggggRgigt^i^ijS gjjciw^ i srggtggg
+*NgTOgf3T I t^RT'S ffcrof^Pi: 3TWR «W*$ *?
+TTRR^ I 3RI ‘ ^H<JTPg5fRr 5 t?Rf I
+^gjgu^c ^mRi jrrg'g(<niR g;g srri? i *w
+9?q3tn ggfggmrggi i firt^Rn^w^ifwOTSisir,
+gtggtRgtggRgg STRESS *RT 3R 1 3?*' L
+iknggi *gigsR srwggggT gggi j
+%g ?k<g viROTRt^Ri^ sfwiRwl: I **>twrJ
+^RfigtRgRg w%«rm?Rn9nn: wW* i
+ggg^C TT cggR^I I 3R Trf^rRrTRT ^■Tt'TWN ggcp^Rf j
+^migi RT«m gfwgiHR ggRsfRtg $$pu*if ||
+g* ^R I
+STT«5m^T aRWireng': *ER5q ^g^Rcf: I
+gjfograri^ftmg $Wfcna*n*BT i
+g^i *3 jtroTr'11% *ir qwsw* u
+5CTiR^RRWi<*r g^ggi =g *Riggn *
+gRTOT g ^IT% II
+gg RregkRR rrir* jt»: i
+m $*** WE3T% ^R^IST** gil^w: II
+srgg rr iR?gg «jr^j®^r 5:[fgi»t w
+Ov N»
+s?is« gig r*tri gf-Rggig^ggR i
+w
+'. jfl
+m
+wvi k'r^r^rf j
+srigg^gRss R^ggigg g*g
+*giWig>TOgi^f ft% ggn^g^g; i
+gi?w ggggi^ gRi-Trg ^rgrur
+WHSlRgg rg««ni s^F<jg ||
+ffq ii <r ii
+. ^ g»R gtt«sg» i^T^g grg gR sggsg^g
+«ft*i5fsgwrgg g^TRtgrgfg
+% J g**fwtere;g g&grgkrigitg
+Hggtgr «nqtg
+STTO qr?: ||
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+m ^ i
+qgrgisqfiHfaT ^ 5 i ^ R *=ra«rora 1
+sTjnm jmqFqig «r !Tn*«% "
+, mi ^_ 3TMiq^ SFWW * OT
+^ II t-vi n ( V )
+NO
+^mw’nTOnnrasnw^ **raw
+nm swtf^mi >
+qgigigiRfq snw 13? r * ?nggigi I¥I 51
+^nsftqg • * 5 i %gw ««n*n«i WWIW* J*** 1 * j
+snggn** gnfassn
+m vgwi; 1 f^T’i - a^Htwww^*^
+gq *w tf vfc&r, m ri*
+%gW*R®f ^'^^T'H'Tiy^i'^'T SIRT^q JiqqT^g
+WBWIP3 Si<3%*n*rfcRrat <n?BB*nn ' a^-wHSw
+qra s^anja^sOTW^i m 1 ^ a
+imi<n ggra 1
+qgg ifsj ggg - arfot wfagaftft li^HfcFtTPri y •
+gq, miitov qqqssn%nr, i%^=* wronififfofrn**
+gq, *R<r=q ^towwi^ ^ ^ ^
+SW jfiqRFI
+rTFq l%;cqg ?fg I gg^g,
+«if3 ^rwp|« fq<mgqig fq^rq fgqqggt ggpqg I fqgrq
+TqqqijqFqg ^tmfqg sgqrqrg ^vrqgfq 1 ggaj “ arg
+” ir.i% *3TRF?qFq^gfnq fqjrqrq qg 1 ar?qqr ^urr^q
+iq^FqF^givqi RrqqF^'JT Rggg'qTg I qtqqRTqfqq^q fg^*-f
+3rcft*q% I ™ rmqifT qqrr%'q CTnft&tar: 1 ar
+^FiWJtw t*|W ’?«JFwqqi*qr ^i%q^RFqrq qq?*qg: 1
+*zn$m - qn% q*RgqgF;giqr i%jfrq:, ^qrfqgrrq
+qrqqgqr qFFqgqTqq: ?fg I g?tffr;qq fq
+STq>R*qg 1
+qrigggg - g ggi-gRr ^r^gqFgigqgr, qqifcqg ^n^ r
+fFWIflinq aTgfFT, “ ST^FfTF 5T§FF^5tl% ” T% 5IF^rF?g< qq
+TWfKRT I g?Jnqqq> sn^lrrqqr^qq fq*;*q I 3iqgq:q;g
+tfwi^FeEq^rr ’FFftfTtsi^rqrq^rq ^4^r®riqi %^Rf%: i arif^
+“ jgqwq; sTi^wfg t^riiRr^ifcr ” frq 1 srgr
+w < m ? q^fq suiriwq ?rqqgrqwr% ^FF^T^q^TFF^
+I'qq^F^fqi'q qifqFgi JHFiF^q ^rq^qiqq; 1
+•T^q|qqF% ?rqf amioq ^rr«q«r, gvriigoq ^g^^rq^n,
+arq f%i5rFWTT ^gif^rr^^ «?g>ot qqr’nsr^'Jrifiilt 1 g^qg,
+HSIF^^ S qqi^iq^qroif qrqpjq ^rr>:q?r, aTRf RFUSgr
+^F3i g^Fg STFRIoqmq JEFfqg 1 arfgqrRg fqqq fg^q qj
+*TF^q 5Rq q^FqgrqFRRf Riqig: , ^qgqiaqiq qjjrni^ |
+1%3-qq qmroq ^q ^ T t %^ I;?r , fg^^q g,^
+5 R»g I g?Ji^ fqqqtqsFqfFFqgqg qiq qqfg^ ^TF^qg ^q
+swsfsrq ^gg: 1
+Digitised by Ajit Gargesh
+wari For Karnataka Samskrita University
+
+^gtfq trsr* giwn *mn?iRt snra<raRqqisra
+Mi towi ” «wf*n, “ www*” ftflr nJ*
+q^ hrr* ftwiwre^r. WR
+RRiw?r w^«ra i wmwfir i «*> push**^*
+^ rtrfur tow ' **** r*5«i* * 5
+nun^r ** 1 % wwr: R***^ «wfiww*
+fwrar fiwwrat R** 5 * nfnww? w<nw
+^ rfrirr wrt i «** wwm *****
+f%raranra www, ?<rc**Ri** fi^wwwi w«^w
+trqi snonraiRR 5 *** RRR*i*f®RT g^iwn^^ifi w*r«Fj
+m m, i%r*r *S*t
+RTfRpRRrirR tfir** t=trtrrrfh;i * l ^* ,VI ®
+m ^£* q^:- RSjft wnwsff ¥RR*. STIR RTW*, TOW
+****** WWlftfK, *#»*
+«n*r, iwnWiPf $*3w* 5 ’> ‘^:
+m*pn i rrrrfr, fvrqqi^R W ,n,WR 1 “ " w
+^WNtapPW ***” “ wiw«wn S^s’’
+a ^mnrnwwrra f^rr * >n*w*
+twm ” f^wwfiswwi^ *»* qi ** r * i* v l^* m ^ rr * *
+«itq, OTWwrafor 1 5nfi: ’ *2™™* 1 ^
+^ *rfr swnq **** ww*. 1
+*smi «wnr wfwnf* *fw * frrf&mfa*
+R I5RFR:, “ WWIRW ftWW ” 1 **”* WWWHOt
+wfiwnwtwnWiinw fo*ra*-
+qn§* imR, RRl'RTnRFSRR RRFIR RflRFfl^qRjm •wiwtfrrt rffrroRr; i «T;qqr rr<jvirf R’RRajR'RirR'
+ip' .srt^^R^Ria: i rur rfrr^ssr rr *rrr fra sj-
+■ «M* I R* RT5TR ^IfRRRRI R^R# I 3TR: STRiqR
+*** 3TIRRR «Tf^qfI%IRfr3qqRqRfRRTf^RT RfRRBRq; I
+RR^ - »lRr?RIT5RFRRra 'SiRRF^RFRRR RFRSTTRRRIRR
+FRR ?FRr STRICT, fFRrairRRRR I 3TcT.\ “ 8TRRRFRT ’’ -
+RIIRIRfTRSRRrairaRi aiRRIfRIRRIRT I “ 3TFRRRR ” - IR«R
+RIRRTR I RW ^RRl^RTRR, “ STFRfR g^RR ” | RtjRTRraRI
+m ^t****.** ^TRFRRFfSrilfTIRRTRg I R?g*R ^?RIRRI%q
+^=rrir rt i qRffig^R fK^rifRq itfTWT^iRqifniRRi
+Riiq Rigqq^: i rr 'RrRi *q - “ firaFR^RRgRqTRq
+RniRr% ^RiraRiRRira strirtf^ RiRqi^RqTTtfiraawitR *r%r
+RF^RR <ct I?R[q R5iq^rRF?gTB ” fra I TRrRTR RR ^ R R]-
+RI^R RTRF^R, 3TFR?RfRRI J^RrRRFRIRTRqFRF'JRF'RFR R7FRFR*
+?FR RTMC'q gxRg I ff RFqRFR^RRFFRTRrR RT TvgRRRg I
+RRT RIFRR - “ R^IFR FRrRlFR, RRI'RFRfRRJFRRfq ^r;r[ ”
+Fa I 3TFRSR RRRFR: - “FRcRFR RrRRRRi ^R^q 3T?RRFR %FR
+RqST RR RF°i rafR, RRFRRFR ” IRFR I 3T*RF5F^FRqi^-
+'nragar^^RRiFf m frfrr^r rfrfrr ? stbrrrrfr ??rfr i
+R^dfRRFRRF% I%SF=Rim;RFRF ff^RRFF^RSR TRIR RTRRR |
+R5I - RfRIRFR RRFFRR RRFR RRIF 3 R STRRR R5 Fr7r IRFR I
+«RF RRr^I=R RT5RRF ^RR^RF I BT^TRRfRRFRRFR - I RfFS
+I'ltRRraiFfRT Rraror irirrirrmirr rfrrr •, rr
+URFqraR^tRRI RRlrt^R, R^RFR ?RR RRr JRR, RR^gRT
+'FJpRFRR, RR=R ?RR RRR F^FRF^FR'FRFRraRR R2R-, RR RR
+MRRI’;RR^FR*RRraT TR^SR! Tf^RFf ^^FFRFRg 2RRR: |
+n
+n
+Digitised by Ajit Gargeshwari For Karnataka Samskrita
+I lni\/orcit\/
+
+tnorarRPRd l
+?,R qq ^TRiqqiTR ft *TRTR qr 4 qqi iTg^fqRqqqfetlT \
+;qq I tR qif RTSf «4 qfaqRR cTcf: I%*t I qif ^ *»,
+cfcTifq- qi t%h i i%^ - rrr stqfaRqfqqqqsR
+qi^qq, qfq:sq?R ¥n%aj7 ??q;qi;qi*qoig t i^aR
+mzm R'qqi*R gfg stcriirt arqmounirsfqq ^fercrorr
+sfcfi i qqtfq qrgqrqfq: - “ sHqjg q>PKra 55 to*r
+(f
+qroKirotoTOi qs'qlr ” i% i n=q srai^Rig
+?joii stinoisqwar, sranrait srapngspr, sifrorawta
+qqq^ifqRi t^qqm'qRtg i afR4t%iifqj®q fj'jR^zqrifffiqqq s^m| qi^iqriqqiqq^THJranR i ire qft
+3<JirifSKq$Rfq stmiqq m?RR qqg ?req, gqqsqiqrct*-
+«jf^q#*T^4lfcrRR I qq qq qq q^ni ?ffqF3Rfq8W ,
+wisrir qgqRitRqq *qWf?qqqiqiwq*qq suwmwi-
+<r£ri qqqtqra; i q=q 9R. *qi«nqfqf4qi ^qsq qf^q g^qiqfa RqwwRRT f4qif«qR qqrqqq *u4qsq
+mm i ?iqq«qf5 rafaqr qqisrc gqtfiqar i m i%ft4
+5&R*nq qqn?R, qqfqqijRq <^q4 *qrf*qif?RR I f?j-
+^fqr ?riqqi% tfifSRqi qq^rcqqrqr sriqqarcr i qqiq qri4
+f?R q^OTR ?<*qqg I I^rqRI^qq =qpqqq*qq
+q* nssiq qj^qfqg, qf qfSRi qiqq^nsR: i a?*qqq
+iqfq«r qi%R<*q;q ?r primer gift i ar^rcq^q qq?^
+qg^q qqqifqRRT qqq*:?qwiqfq qRTq^ras&TITH T%-
+i qq qq nunoqftvr, ?Rif^Rq4mqRR i q-
+«n=q q*nfRi sqi*nspa<»n spfanr ^nrawsqiw
+^nRWR'j^'qq ^qqmqariq^q [ $q ] % , *R RflRqqTfR?
+wq^Rq^qqrqqqqiqt mqqqiqq: qi 5iR ; • *t^q hiTr*
+fcT qi^q*?;, Siqi^qq^qi q?q*q qiqqTjqr: S^ira gRTfqqi
+'qRqf%qiq?q 1%% RqiqresraTTR t qgg gr SRqqfqq
+SSiqRq^I fq*qqf£SRT qqqifRT sqnqrqqfijVtiq: I grrt qnsqRqqRr gqs«nqRi qrfsrtrqqm q? [ qr ] ^iqi: i
+ffRRTRq q;qq qftqrirqqi mqqq qiqfq R%qrer qf -
+qt qfer^qRRqiqqm: i qqfR grig “ q?m fR?q g-
+=eqq ” %m i “ qfqr^qqqi ” “ qqqq gfq<n ” ri^ir
+=qiqqifqiqqiR q^TR ^qifqiRT I STfflRqq^IRT «fq-
+¥qi qreRm qqqrfqiqqrHig I arq: f:f 5 T?q qf^qiqr**
+qq?q qmtoq^ qq=q RR I
+"O
+q^RqqqwRi fqRioq, aiRg qiqi^RR -
+^I^TRdqR q?q^^lf!q
+q’CRf i ?r^ri^r?gRdqr qitfR^^qt^qig^rqR i
+5TRriqtiqScTR<t; “ ^qqjqqifqqiffqfqim ” RT^q |
+qirq^qFRRqRqR, qfr iqqjqwqfq n^q^qi, fRsrqRR
+gqRi^cqRR , ?qq»qq: aTfqqrffsfiq!^ arqwqiR%
+qsq Rc’qqRqiq , qRsqiqcqqq^qq I e4?TtRf %^rqf qi
+^qq^rqi: qqRRiRq^gq Rrq^fq q^i^qqgqRqoqRiqqi ,
+Rjfl^qiRMqrifq^qqRrq qfqiTrqqr g?>q
+cmq qrRqntR qRqsqfqiqqra: i qqrq tqqiaqqmqvr
+^i#<q Rtrq: i q=q qRi%q?oifi^q isrrt:, qR^Tirirq
+airqr^'q^qRqfq^RqfgsqRrq i ^mqrH«Rtqtqgq#R
+4l Rqq^qq q®?q^qR I #qrfqqf^ ^R^THRiq , qq
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+RRqimaani ta fe*^ma I ^
+famatsq^ ^n^rfiCw^li^M RRarRareRawsaia • - J
+amama^jj- “aRraraqain f^aia^waam, asma^ar I
+aaaraasR^” twrftsro:, 'RwiRwgmft * q355 ^ 5 1
+^jmaw - wRisfianiaiRTWR^R aa !
+^fq • WTO a?*| 55 t wR TOiRW 1 **
+marcaaRriafa * 3 mtf q *jm, HsrwRrc 3 ia*qqmasTa 1
+am anmmatm: - “ at aftwisrarorai Rian w
+^«n% .»» fa- [ amai^wtan srns'maiRi aramaiaj
+3I5W i%%S WRIT 1% **
+is: an%aTO ?Rt i maifa<jwR;maarn«rePi j
+on mnaiawn ^wk « wa amini w^raisfitfwnpro,
+an: qnwtfaara^as^iTORR 1 ^ nmi ^
+a^wwianiRR*™ «nqiaafrnwmn:, am
+qrearftar i am ?3n«rei*Tcrgq^n^ ^ snsroaR hi%
+gn: i a=a srai^n^aRaiiwwn:, issj^WRimaraa «
+3 Tcnm a fEjnfnatn qaaa i qa arwraaaint aRTRiRRin I
+^airrt i “ ^^T^nfq iaR ” “ a^anrarenuaji ” i^ar ,
+ffrr RjnreaRq^na, wmm wrawanwawnrat. i win
+qniRmnaRmnnR?*a RRriafm, mreaa > snatiwntRf
+a; i aim^RnniRRmianiq fa**a i wa im^re mai
+reasimm^q? fai ammsa aia? aaiaaFaraia^* aa>ai
+nRiaawma » aifq marimi 5nn*nnn, tM to
+nq; amen RCTwiq qn mat ims wm^n T */j
+s;q:»rcrrq$iRanaai aaRRia i mm n^j amenRinan w I
+^vtwwRT afan- agmennR nnia^nnia wmwa wm
+’em grcfawti, aa?aRqta rrrR Rmm i aaRr%ag m
+nmarsmaina s^imafq Hw?qfira Rnssma sarapanarc: *
+am sropenrent mtaiaarnt niariqai: rrw:, arcpnmmaa
+3% aaraariaaftR i aaRa, RRifta Rrtwaft amiariqa
+amTOnqWRai srawwra i q.aqa RRapjwinfar qRR
+ware ?ra mas- aqaai q^nniaftna RRmnwmnt Rami
+waia r afs im%s marine upra Tmgqafq aanmm
+R«mi a<nan mRanamigtam Rina i mg r
+(arsRianqg R«a?ai 5in°nniai% *na^m:, *friq siama
+Rmenig?q*n aiam aia tfimmiq^i *J55 ?R mmwnw: i
+smrcwrainT HfqrqRarqi^qf ^hr q^imi maefaiqR R?q
+wmmnqa ?irwR ^'q^gqna i am=a nm ^oiriR nRvar
+mnmRWT ssissrR: ^rcaRqmi qiT^Rmaimt mR^
+nm^TT, qa fn?rfq i cnrnq% «ttRr^: rr^t amta
+If3RT ^sqi^R! vmm RR^T rRrR ^RT TRR^R I q%R
+‘wit Ri^RjaRRiw ^ia a^RR^’^mfiR Rrri
+ai^°i RqqnR RmmitmR R^aiR i f%=a m% rri
+fq^ qrmm RRq ?a^maqRRj ana sRprit?, aa:
+qws^q s^ri^iR ^naRRRqi^ rrwrtr*t?r ri^riiR
+|rqfi ’js’rrRrt rrtr^irt 'aiRR^iqi wraiaam •
+a=a aawna, Rra^rraR^ Rqq amRiaR ftiaaima^
+RRieq^m ^gqama i wmmRmqiR3rermrc«i rr a^
+aianmR^ i am aimw^a ?RiaiRwa=a ii*r:rrRi%s
+am rirRr rir^r^ aRieqnam > arRqa % 3 Rr am?
+emra wa»^q ^HRq^nai l sirowiwft %% > am aiaiem.
+fam qia R^rRg: q^R s^: RaiqR R^aRi rr^t,
+aaRi?3 RreaaRRsma Rr^ manam mqaar qi^rna R
+aa ^amraia RRiqai%a? i arnwRa -
+Digitised by Ajit Gargeshv/ari For Karnataka Samskrita University
+
+SirePfifiPTciSt I
+NO
+u JT?W . . .V7cTIj|I'3'^ffl ;: ^^
+gig^qiRgg sirai 11 ”
+»T.crai?«7lfRT 'HIKCR^ 5TT5TW
+3$'ircrig, gjg: srttm^rcr mHwmftsren «sra '
+gjrerr gi^gii^n^ ? srcrrafljwi»tn«n^FgT q^i*
+m^cii *nir4g?£<; i «n* - "
+T ^i%<m sV^'Imn: gsjgigiggg niRn^iR
+sqg^itmg ^gfgqsrcgra ^sgiggg ^n% 5/
+ftur i g^R gg’RRtfgrcarcr stfqqn^qiig sTRwn^q
+«*«ngqRW i g=* ftw* $rwm%
+5015 vrci{?qgi gq®*qg 1 g=g angi^S
+» arm s **www ^ am
+will? fgwPT %fe '
+aRpfi 5^ ggrc'Rg 1
+qjIIRHig^ VTOIRT <rf«»5**n II
+trem gg'i^^T ggqq%*? gnsg sn^qn? sum raar 1
+STflff^cn^TIT RI^RngiW^ I 5RTOWT5? %°*f
+^nggigi *w**«nrei arcs** fggre ^ si^gir? ^n%
+ki^ wgifirasnir 1 fpronawfaws** **
+?n^T^ fgg;gg?gi5T rw® 1 grcai?rq <in:a«r
+^^frR srenrori^ Tgqnrer 1 ^SRi ?ig^nKiKT^i^
+Sipfrgai m*s*t igg^gitg 1 jwnjwi [ ftww ]
+sg^lr^ns - wsngwra? 3°H*i jmgrea«i anafrgtwq -
+spTfagiT^Rqg *PSRi^cn r 9!I5 I
+gafi^RIrfJ^RRRcTIlt^^^^^ 11 1^
+“ ITW®t tfRtafojrf 3T^I<Jli=gf qTRq I
+qRif®Rig*if<nfg sgvggqwRgui: u ”
+f?qg *<*2^1 g-qirc I
+snsrosTraq R^ii s€nfrargssq*rjg:, snsJwiii^^T^ggtf
+srraR g;mqg: i gRggrc^RT^qig<*H: i arooreq *g*rr
+gRRM , ^*ggiwgggl£gwR?j<»n, $rfqq*g*q«m irog*g
+*T^rf«nmvi^jnsgt ^sfrcrq:, g»q?g *g*ngn*R
+Gv
+vrggliiigg ^wp:, st^sr *gvugq*R*g tr^riw
+stigiilgg fcrmgor:, qiq«ggiqqg3' gui^is giggggng
+gwm ?rrer: qiggififfrug i, arwni^qqg g'ngg:, gqragug
+grnuor, l«q$VI, ?R15 {§WfqJngqn[qi??r 5Tl^riof[i% i
+gRigggsrrag^jqg ^gg^iRRcqsrrirg ^iflfirf? qgiqg
+*n*qqg - “tor Hitr sgrcrivmoi ^rr wq*g #ir
+jRg;vqq ” wft i gi=g giRg^g^Rit^qggTsrqg,
+^regqfRRqimgr,, arRsrqgqr s^gg^gRig , ^g*g
+3nftt%8i9Rt » wg*nroro»raif$fTO>fr (|q% gi^^mig=gt
+ggrqig i RW^q^igRigoi s^q^i?qqg:cTfg«gin3?iqq,
+arq^iwRfRmrq ^gRwgq^g^ifq g^gvTiggnjRR i
+erg gi;gg«qm«g*wigig i ^gr^rgRm^f^qf [ ]
+i^ri ^■R«qg«gig'JTiRTNigf*n:'»n5T i
+r5r^qHqgg=gf}?j sTg^tgmRgriRRq
+i ggirf-vrngi?3^q(gc:wigTCHnRi?ftg: gg
+q^g ggfg;Ri«g’qqRoiRRiqa?:i'%^^ su-
+^rm#^3Ti% i gcqi^qgqg;g[«r sriUfm^gmgRir i gg
+aRqarow Tgvrinigqi;g^q i srauw fin%q^T«gggS3
+g% i gmgqg^tilwqq^gi^ ^rgigfsra gg: ^ggq g§i%
+rwiw vnfgfg^ig qgggfg i gg gg; g^iDigitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+*<' STrergmiR®
+rrir ^rcRTRRRt wwrrsr $*[S?rR srh^i^tw
+R rrgRTgrnR f^NRiRr i r«i jrirr^r^ rrt^:, ’srgRRcr*'
+r: rsirrrt rt.r^rw Tgq'^crfRJn^: i 3R t*re n?R
+JRJRRT RtRSj SRTRTRRUT I SRR^RTR! RTRIRR **J~
+(g'fTOTOrcnfrr wrii$*flrar wra i
+3TOR JTTC s^TI^T^Rdvi:, “ «ETnj cRR, R ?#tf
+;«5I% RR RT RRRT ” 1% > 3R R3IIRR R*RRRI rRRRR
+riwr^trrsr rtssrirrt fir^rvr: i Rrc^n%RRRR*i
+*RRRRT RRRRT RRTRPR *RR , STT SJrRWR mgriW
+^*RRTRRrR** I RR RRRR:, 3Tj|5RRRR , T%3T^ <R
+sh^rirr i ^t^siironR h*p^r «r i
+?Rai -
+RRirenfR trt^rr, r rrrt s»rr i srgiaRR?
+31 r«jt SR^i I ^^TR^pl RfIRRR - “ 511vit sr gR r rr *?, strr sr^TT^rf Rrai sttrr i ”#'
+1% rr rcra^nntrR, RcrtsRRRR;5STT%: I rist, fr^Rf
+RSIRTRfRRRrR R^RRRR I 3TR3RRR1RR »JRTRIRcRR I
+rtIrir:, rv^irir 3?3RTRRR%: l RUR "Rraw:, 3*R
+<SBWWW wpwwwnc I W?r^ *r RRRRR:,
+«n^q|plRIRl I 3T5T «R ar SRfRRcTTIR I
+JTT *TR*TR» %It% ^R SflRT
+cRTI II
+ar«*TRRRRRTjm!RfR«l: i “ «jnn§?RT Rgr ;*rri rrtRIR, *3Rf ?©fRTT?R55RfRRr 3RWHRR [ RgRIWRI ^RP£
+4r»T RW1TRR ] ?TCR JJ?j, R*R RFRIR, 5**1% R^fRT
+5JT ^sfRRR RSR, R 3RRRR RR ”, ffRIRJ RfR «Jtjii^-
+RII^R ^RRRRIRJ?3%:, 3TJRRT RIRR R^IRPRRRRTR?
+wrafc* *rr-, ^|Rn%s?iRt%or rrt rrjjrirr i rtr
+3 * ^wsbswrtrPt spur ^sri^triir
+si rr rCr^wsrr rir*??r rrrr wwRr qforgr
+aiRRfR** •, stirrer ursrrsri
+^ts^irrr , rrt 5n€rc% *srraR&3r°r r^rr ;
+R>r*sr*3 rri RRR ^rs^iq^Ri ^|r mr^r i ^
+r^ 5?:, tr^TT^^Rr jtr^rr i ^ir ^rgmw, si«iw^ arfTTC i m <E5j
+WWR ^ft^cTr, aTR$r^«ROT g»*iR5[R RRR^IR ^cf:
+RJ®R?TR^ WRIRRR I 3T^RR ^§RH^r«R?nf3f 3 1
+ll^ll ^ - arvn^qf^RR IH - X - ^ II ( \ - ^ )
+strrvjiviirr: r^^r i r^ 3 fs rrrvirirr^r I
+RRIRK^ RR^IRRR RtfrR, RR “ R'JRBRI RIR^RSRf
+RIRK% RRRI ” R RRR5%?T I RR RRRRTgRIf :, 3Tf^RRRRRRfRR I RIJR R^^l^ : , Ra^IRIRSRIRRRR I RTR
+RRR%R RT^RR ^IRRl^RR IRR
+RRRR RRRRH I RRTRRRRR R^m^RT RIRWR3R ??RR
+RRRR^fT SflRRRRRRiRIv*: I RxJRRRgTTR:, SRRRI^J I
+RRRIWg RfR^IRRRRR fR^RTR I R?TR RRR<RT*>R:,
+H
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+frsrc iftflfnr l
+qriRsrqRRgjR: mtRrtR RtsirR Rgj?q*q sqsq
+?<tt^ i a^iqrrcsq^r qiRrqRivRiRqr s gfR i
+srsr =«r?7HW frfi%qR*qHq *qrif 1 % ^vrr i Rifq ^qq •
+Rqqq ^RR RfiqqrfRr: i areresqiriiR RsqRtqii;^
+q?rqqwf RRRmRq i
+qqrpR?rRqT?;oT qgqjRioq m^t fRmRR^qp'req
+gR^fRiRRiqaT qR^r^cr:, ?fRqRfgR*qqifTfrcq%q
+?rf gJRRiRar i qfi - Ri%iRq gRqRiqR rr i
+RRRqif ^firaiffariSr i ^f?qrr sRqqrc^tTcqr i arararcqq
+^ qqq sq.^aicf^inw: I amifqqi sqifrii: i 3^|gw
+*rrrr Rqqif qigqsrici, qqifq ^^ivnJt Rrrrrr
+***? qn*i ^qirfJTfqi^ “ aiR?q ^RRiff ” r i 3qqRqjrc<RiR?q
+^T'qiq^rqqifgigq: ?jqRT f Rqj i ajgqi
+RRqqif qi IRSqiqqgiq^rRqggiR ^g<TJ 5 g<j ,
+Rim%qr% « oftTOftpiif? ” R i Rf^^rnmigr
+rrsrr: i re% Rsqqq^gjt RR*qqR:, q^^q^Rf^rqffirr
+qresRRRqjreeqici I RqR^u%, arqgifiRq
+R*3%3r^ qgctVR^:-, qqi«Rif<R?rcq ,
+RRg 5 hhw:, “ qs^qgnq^Ri®^ ” ?cqiRq rr^Ri
+RR«gfq i ^RiRjfr sr;q
+Rq^ R^TORR! 3TR3 R$T% fjgRT VfRR I aRRIfRI ^
+gflRRqR RR R«T?r: WTtqji^ra; | RqjJRRR Rvq
+g^RRSq m^RR^i I Rvgqg^cr^q^r 'KSqTC'W^rTO'
+M
+ufqi rrrvjirr i JTf%^ fjjrqrqqfrf RqRiviigR i
+aT$T5fnasgRIf: q^qRRTRiqqqiR, qgRigqRqi *gR
+R?fi?q q^m:, ^gRR;^r?%q ^^qiqqfir i r=r rriojir
+V on;?R «?%%:, rr Rr;qrRiqfrr*qR i arcr: Rfq^di Rsg
+WRqRrgqfqMJSVRI fRISRIIfftr *;qq R^qRR?* ssqq
+rwR storr, qqi gR ^Cr^rwcrr, g»i%?ninonRq:
+qRRT SRr^qRR, aT^RFRSjjRreriRqR, STqqjf qiTqfrqqffjar |
+<OT 5* rf *rr, ^,%^g r?T: ^nwrn^jf Rq^
+fRn^q fiqrrwR^^RfRPqcrr:, qqr “ qtqqR; j^tTC »
+S?qq *nvv, q?rai^ i < «Rw, airq^qr >
+ffqilfqg; f^qmqrr:, qqi “ ariqitlfrRTr ” ?cqgRTfq:,
+3Tqq%qj§rf I %Rr ^rrRRq^rRqr qiqqqRqtffr qRqrt:,
+qqfSRqqR%^q RTR gRRlR Rqqi:, amiflfifl ggf ^JT
+Rfq^T^r: I ^q<q> TO qqqq^RR | ar%qiq ^qrqilfq
+RiqqRqq=q Rq^?qR | rr^qRqrqqr^qivjqrr^q^R
+qRqifgqgqcr qrqqi^iqqr^i^r^q RRiaq fq%R.% I
+<RJ%gr!?crRTf -
+II^iiH -NMRl^K^Ifqtqrf^q^R || \ -'<-vs||(r- \ )
+H3T®<V ’jqq^qilrqq: I fqR: qqtqrrm R^frajq
+R%q: I ?Tqmi3R!R% - “ RRRrrou s RRanvfi^
+wr* RRffq 1% » “RR:-jRoi” Rr% ^ sqi-
+=qj?q: i R^iiR^g cT?qRqi^qr fq^q^qiRiR: i
+If RT S qqq»jaq ^gf IR RV:‘q%5Tf STfqar I qf qqqrRrqi
+?qR qqnr ? fR, RtqrqqR %flt q^RJ^q RJTrgq^qT
+?R RRq^qiiqq, crqqq^ firtfRq^sq q?'qqRf qj%;f i |
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+srragfnraa'f
+?r OTi*$tn$inrat RR5ts?
+fni^ER jpotr srs^qRqR i ?rir *ii*q-
+“ R5n^RRqiRr5n#R sn%q ” r i 3R5TRRJ? srrclpnT
+*iw*TPig*R i *re«n i areirasr i%R5!^Rr
+^HiRWtt5t?ra, 'ftw i HR*RR>R>rc#TH^»
+ir^ »rq$f sirs? hr RRqqR qRRHJtsiwqRig , *nRfaq HR RR «R«RRRJR I aroifa stq<HRqqRqtR*lR
+^jtrruSrr srhssr • H^nRR'H 5rro*;5iiiiHT*q ~
+“ rpriri *nRqR #^hr sis^rgsireR
+Zti^rKfl - “ &V$: #R*R: qK^fRT *RT% ?
+5IRTIHR ^rkrh^'RRi^ *$R«Ir «€^nRHT^Wf
+sgRMRTST fk^qiR^HiR 51 \WA*m*W**i I
+JTiqqRi *fw$w q^RTqnc «*qwnrantlfai**: t
+ij?fcra^RHir^R5^^^RT • f^^T^r^^riS'IRR ^TR^i
+nfr ” R I H%H ^RSHIRSHR - “ RSrRRTHHRH ^T*
+rrr [ ’hr rwrp* h£*R ] qqswrarra qqqHRSjriqiH^SF I ” ?R I 3RR^R VR^RTR TOW
+“ qHiRtf# RR UHRS1R WRF I 3F3TRRT H^RRl
+g^rer hr hrw I hr hi hrsir * hh i
+SRSrRR^fi Rl IRRTHST H%?re: II ” |R FHRRHfcrrr. q^q rwhitrr;st, shtr RtiRHHraHH^HHWT^pr
+STfffHRWH HR^RRHRR^ItRI ” ?R I HrRR HI^RHlk*
+jfr% “ q^H(qT#RRR HigsHire:, sr: HRkHHHra"’'^
+” SR » h<?rr: ^r §ri%^ rrh^, ng ks
+I W - H5RRT$ RRNT
+«W HIHIHT
+<u
+'RIVR^IJTH? RI^SfR HR^RIRH SITVRRWJRJ* , HRl^r
+«qRRTC SHRrc<nRR fiffTtf r^hr: i «R - “ fqiRir
+mq%H ’ [ SRHirr J srir 3 syqircHpeq [ R5i ] Higiifr
+HOTR [ OTTOori ] HOTf RaHIRIRq^RT Rqtsq^qq [ ajq^;
+R ] 55R 5TS5T25TISR R55T ” RR H^T^UdR I ?R SR
+<hr 5TT*5Rq§r rhi?: i HRWHRq^ kqf qRRTHsufa
+iskra: 4 aig^n^H 5 qnffiftqi; i anfrftfv: sr«t, H^q
+ri i%^ii5R?rr: i H51 thhrh - hrshipu qr«R, rist
+SRRIT? *HHR#l^HRiqq«HRR: I RnqJWRrt«RRUs
+Rl%s fRl§I%5^5IR: I 3R<tJJ^HRiqq qiqqi^lR «5im
+^F^RR l 3T<tRTfi:, Rvfrqf, ?g?qqsr, ?g: i ^jRiRr^ngq
+5 U%ht I RR^f^qg^q fqvfRiRR Rsq^tin^^ qrn
+%Hl% 55R RRSJRR S?qq#RHR I
+W5R I !%3t5T H^qRqHqi=gr?qqT5?Hf
+RRi'iq ?r fe^ftfua I rI5Rg:g rrrqRT5I%^T5qTqg^ 5TIRI
+mqqi^qgr! i ^im;q^^qRqcriqi crra^Rq^pq * q»qm:,
+^3RII?5%H ^rqqi^qRia; • 3rq qi RHFqq^qTqiR 5F%iTT
+R 5TIR iknOT'qm: I qtR3qTR5^RRIR ?riR
+^r?H?5iqfR Frfiq^rT^ qiqRqR^HJrr I q«IT-‘RRSq krTR5lMIT
+rv •» »K\r *s r *s v «s
+iiRqiRRrsq 5nq^I qianqRq«R*i«qaiiqqRR gi?Ih »iR nqq?Tr ” rir i ^5 %5J Ti^RRiRqrcq xm
+^irqqfqq ^qTWIRqirqpT qiqq ^qfTIfJR ®rq;
+5q<q?% qqrm^R^q'q ^nrRqrR sriqRiqqiR
+q?qi: I fkq^qgRq *,* Hq?flR WM
+ffkrqq Wi I q^JN RRqsr%q 5^q: qqqq, fRIRq
+qqqi^; q^iRH 5FR H^RR ?RN ^151^1%*
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+simawnwoei l •
+;grq I WW wma«rwifl ^cTfR^cf WM I
+=q=f a, aa finwailwaia a Cia ; • a=wiw 5 eht?tw% s «» 1
+wiWiar ^R£T5i a T, *zw% awaanna awamra i ^roi'ar* ,
+m=, ?ais 5 ?ai%a i amma mwaataa j
+=5 t%^i ??an^a waaregTar qpc^ag; i I
+«i*5aa;ia;f am $a, aafRaiatwra • a^amag R*rem |
+aigai^aai i ?rar *3W •
+Trucks ^aairearcoi at*a*n*: *a *r& S^<*
+fom a^aia i®*aa - “ amfmasrm?* ‘ w \
+%m: am<?r. ’ ‘ Wh;£i zk 5 ^^^ ’ Rian^m: aaraata tw- .
+s^Rara TOr>ns?roR«c amaaaa > sraia&aifocww
+^jaq^aivqT RaiaRiaiataTOiaWSTT 5iaaa **CT»
+aaiimaia, an iaat ^amragaaaaj i *j<n^aaa t% *£-
+f^gq 1 jpnai ae^kr saiaraaa ,€taa 1 srarwwi S 5 ^
+spfaaH amaar siiaa i aa: a>a«mwa?ai n"Hjr£ia wwaaawaT^i: j a;wi*r amg laiasaar sarw s* fajianavc*
+^aiaga aa iraroasat ^aan^aaiaasri^rasra aw^aa
+qw aa f«Rr ff^i% 1 armadas? ^agawa: i aa ftik?m ^aai fe* «m<i?ra i aw Raromro ami awnd
+*waaw aiwfacwi a: w»a amaai?a, aaiaiwra wr awnwrzn?a, Rmt^gaa: WJaamaaawiTwm f?wi ; a i iwwspw 5
+a5ii%m tfww^ia; ?pn^ snjra ( ) w*5^ 1
+gullies! waaiai awaaw 1 ainaa: wiasaaail
+wmiwmaaia swa ^aamtawnssTJa^aifwa: arasa samd
+*giwa aasra 1 a?wrqwi^aT«s ‘ wig w&rrer ^waiwia
+aw *wa RPTwaai amwia ^wa gfa aaafa ’ * zzzz i mm
+Digitised by Ajit Garges
+Sw nwrai 1
+ima, a^ai as^rara; , a^*a ^wi ^romi ’ ??aiT^a
+'Trial, wraai Kirwaiai; a*tsywna?w a^gnut =y^q aaiaara
+mu%a<wa wrwaia siRraj 1 ”*% 1
+WfraVa? *aaj - “ gwt^rwwi^aiai Vwamwagaar
+m ^ : msa^warawr ?sw:qi^ non^
+*W«n& wz r?wm 1 am a^fw ar^qw,%
+a *qj i^;a epaioi ai^r^wg^-q^ atnq^rqaw witrcia ,
+ffawaw fq^rr a?wmgi?nar fw'srr »» $m 1
+• *!?. a^qfrwmfijfqia ^ww^i
+^arwwrarwi ?«fwi^iw; »%'aa: 1 a^®=w qK»qqoi aww
+^WIc^ I WWcJJTrWWiaiWra W aiai^qq | qi^qqiqkqqqpitj
+a^wif wfwmfa 1 awi? -
+IkliH - gww m-V<^;liCi%-^)
+'w s^na^rqsj: 1 w^r iw«awiwiwwawi sr? wriawiiq?ir^< 5 qf <‘7 ^rgi^ana 1 ^*a 3 g 5 rawki$i j^w iwiwama
+g?w awwi^iwrq 1 a 3 mr%mvmifwRs 5 r ^a^mawi sw?a
+^itwn? ?w^ii?ar 5 Tm«n^?: 5 nq: w?m MwmaiSr
+s 4 wr^i?r a$rqe*aw: 1 aimwr iwrq'.w'wwpwre: 1 qa=wi
+mwRiqi^cf^?w r#»;qwwi^qi: 1 rwiwwtwt aqvjq fwi^wiwr
+s tmnsw ?f3=Ewa 1 a=w a«n a^wr^- mag^ma 1 ai^mwi
+R«vwi ! wmT^reong^Ror i%'qi=wiqaiwir^ wwmwi^
+ainm 1 a=w waz^z ai^ 1 armsnm
+rawan, wawa^w^^ga ^^mi^aaaraaw ^cqaaaK*
+?am ’Itwaiwia ; aw 'wnwa^i q%afwig *, vi «*rw?hss
+'F^Rwaiarg ? w^^nwafw^q'a faaa msjfmawnrctwa^raT
+wari For Karnataka Samskrita University
+
+I q=q fqTq|;q 3?ra5TH^T, RS W R IR I ^
+s qtRw *qqR *«Ri| $Ra** f«R i
+qq R«mR ^TRiqq RRR’UVflm
+q;?wJnq«R qqqi1;q^Ri<[ “ wrerwrfi’cwi ” R?<R V**
+Rd4 qre wRfctfar -
+II ^ II - «njiw^ijn<%: sraprfe wtotRRT, sis^ra^wqingq ^rcur^mq n t- I' O^'O
+=q sm^t T=rg%HiR i
+^q ^rtori^iRv ^ T ’ ^ R ****
+jqqiq?qqsr q i #*rR:, wi*t srggft fi, swm^Ri RgisR 1
+sT?^qi qqRqvrgrqi R^ivi *Riq i q^iqqi^qsjs^q
+am *-*3&rwm i»q?r i <r*qt 1^*, aRqi^nw>«R; i
+* «wmt ^rtJ’n'R ’ 4 arsriH ^nyrrR ’ Rrrt qifr ar-l
+» “ qi 5T *rr$Wft ” fa ^TW«iRsn»fa
+s;q?qTq, wwiicrcrawirr ^rtf ^Rifiqtqraiqi^^nqi i: u^f
+qf5^ gtfq^fsrnq toiicTO*^ RflRRP* i
+qqfa ftfarairann ^raR^Rrt^T 'fawnural
+^j*qqfq, qsjirr ®qRqrcq *qfqiqi*? iw ^wci^R?n?|
+“ ^reqrreranranft «ttr firererfi ” R R^* : “ wwi ^
+^nrqr » *qR: ^rrs^a t 5tira*Tou*wi *n ; 3*-
+zqR Riq, i q?N ^ir%3fi *t ,, i: q^qmqt it *krhr
+q^q I q^Tf ^m^RRr. - “ ITT^RTT *<|R ^qq?iq ” ?R •
+qsre «m: m twt % 9?*RT?r $riR
+*Nt< flmwi | ^
+rrir ^vtqR, q€RrqnR$q?qiq. i arfr: qqn:<jRq[R
+term *qf Rrqqi? -
+II Ml \- 1IH-MI ( R*» )
+5 ^F®^ SJFSj sqrqqqjq I FTRqi^: - aiq^qqi^ j?qq: l
+'[ctitb - qqiqqiir CT^?FqwthraR'qq RRqrqtqqqF
+•twwiff) cf^ ^rqrq 5fi*wsr<qqiqF iT^jRtqRqqtiqg&fa^-
+^S'TRrq qig%q q^Rqr %qrqiqq?q vrqR i qqqq tJFHliqq
+n'RiqqTrrfif | qq q 5q<qFqqRF fqvffqqRqf ^q|
+^ 3*«*T , OT *qqftq qqi^R; “ <r?W5TI%
+?R^qim3Tir^g?qTTH?r *rqq: , ^rnqRrqqf R^k»i«R % r
+^TrricT^gqqr q3Tqiqyq 5T«fqcqq »> ^ |
+?ttr ^^fi^qrRqrqqjR %«qfq ^qjq^ qiiq^r Tq^q^iUli^: q|: ^r%fq?^ig#q RsqqrqiqqR §5q% | ^
+^mqqrq qi^Hsqq; I q qiq gj^q q^qfR
+?i^q«iffi^onRq ^rq^r ^q^qr: qiqqj^qrq i s?q
+f^ZRiq ^qqqiqrSiTqqqqtqq'qRiqq^ffq'^q ?f^q§qi: qyq^
+ms&cqrq i q=qf?rfrc^q qrq frfqrgqiqiR Mq qt-qiq ,
+^qqifqq^r? ?^qqrq'qqi»T?qiq I q=q q^wnjT Tqqiicqqf^
+s»
+«q»q ^tr ^qqqfq:, qfgTT^K: qTqRqqrqjq-, ?qi^[qt qR
+°iiqiq%qq?TF c^rRiqiRqm^q qn:q;[R'qIq z’i\-, qiqqftit
+qrrRqqq fq^RI^iq q^qi-qq qiq®Jtf<q?qfRij:T.ai ^rqqfq
+«q«?cqrqrq;; qT’qjTTRqRqsRq qwqTjqrqwqTiq qqqm^qq
+i?r»qqFq ■, 5q®^qqR% =qiq ^n^q^qi sriqrq'iqrq ; q-^q
+iq^R! =q qq-fiTTH^qq qfcqrRRI iqqtfq &: i q?iqfq
+"Jrgqqrqiq i q^qfq^rqi f^qvnqqi^iqR |
+n
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+V wsgwra 5 ® I •
+3TIS^ ai5RIT% *T*aaiRa afa^T
+^aaiaRtaij | aat -
+“ a?arar^ aar [ Hfi ] asn #aT*ar fs art aw I ' i
+aa^anaaa ?r^m ii
+anaa vi^bfi am f|*oa [ rr® ] das? i
+ara ari'miaer ara a^aiaaivasnaa h
+tfqSasaf *RtR a^sfraamaa i
+a^a^'awi'a ataiaT3*:a4a ii ” sia i
+aa tiga^fr **Ta saarrcmmgdai ^H%g'4wcO |
+faqataia f^sra i am ^irwnnn^R!%: gcroiwfi*
+arrcorfa, cc«u *sarasa afffa^ta *Raa;rc®r «a<fi ?aias
+arrc°tfa “ a*ni 5 Ttm^a ” mt% faaawR s?a«a i am
+aRm^araaiaaianRawama: “ a*ai5i5t<ma rr-
+$£a ” fa ma*a i anssfaaa
+srfjwvRTWi farffo^aimrassaa^ ^mima^a^ i
+aa a^naa *imaai?faaa ssramTat# 4 faasf i amiar
+awsfiaa aaawi amara^a mfaif^are ataafasrai^a i
+fiN^a: aana: a>aaia«afsa aai aa^asjRa a Ta*im i
+*sra%a ?a>H*a?aa*rai1r • ‘‘aata^ aaiaiai aaRa amat Rajaa* |
+^nra, ?<aaia asatfa a?ra ww^a* ama ^ra^a ” j
+mm i ataRfanaaTaor ataRfaara maan^awafa i ara: I
+* l a; snmnH: auarrown faraa araR?a fnrcaraaa ’
+S?aaa iinaaa;aiaaaaT aatc%a*n^aiaa storw; i a^R
+“ ^WlWWWW ft^HHniPm ” SWlR , ffHR
+“ srii^ra: aiatfia* iw ~<rRfa a^affia ” ffasafaa: araaai I a#>w fai?at , RI'R’C RTR la^a^Ra^Raf, aaRF^flfl
+aw tftfliar |
+<toi far?a f$**t**ft 5ma?a<=rnafa anfwnvKnnm^
+fe: st^a i a%? aar^aiaaia, ^aaiat afa^faainasrafRj
+aw ama^aaar sp^rw ^awfaaaiRfiaasaaa t^
+arsnft mraiw i a=a am %aaaan;aaaRRa ffcjftc
+arc^taaRaa, aarcR^[R*aaagj*iR Rfm waaaj aaa
+aai «aa*aiaR?at am a>^ri% ?*aa>n:<na Rais HTaaa, ^r
+afaa anfrii ?rma:, *<a am asrtafa? am, am **a>tf«a
+fmawfiR'a <a*a dm aRasraa %gaiai a fada: i
+afs faaaaiaa ai^a a^areraa *ifaa«afa rnfm faaa: r
+*£•* =a a»55 aaianaw aimmra aRgm [ m ], w,R*?
+nm^r ^^arear ^ava^a^nm# aafa araarwm
+eamifiaaa aaf%a i aaiva*a^arar<r?«iiaar ava
+^aiaai^oiiaaa^iftfaai 'af^raaia^a ^agTTr 'aaarc^nRnaa*
+?a a an%^R: i anfafaaa iFiRamfa ^afa: i aa aarearar
+aaffa ?afaa<*aR ?ar«rarfafa aiaa^ « aaa ^as; aar>
+mfa^ia:, aaa<aai^ ffa i
+~ ’ftaf ^ara'aR atr^ara aiaf auraifwa’a i
+aa^aa, a^^a daaiR^aa^a a^rafaia i
+aa “ aag’ia^aimfff aawaaaa c awaaafafar% ” fa,
+^ S» VO
+aaa a^ifaar “ aaa ^rwar ^R^iaaf^Raaa aar ?;aa
+^qpNpr amaafa?? ” R i a^aR ^r^iaRaa
+fa^aaiaai^aa fa^a^ i
+aa “ s^a ^a?^r ^^ai ” <aa“ *m?am
+fj^i^a^afaTift ^a vraarfans ” fa, saupaiaa 1 at
+Nn ~ “ aa? amaif amrar^aTR a^a; Miwaria af^na?
+Digitised by Ajit Gargesh\i/ari For Karnataka Samskrita University
+
+\ e * 3i[«gff:iqa5f f
+^ RqRmiq- i
+I '*Wn»T f^cf^qq *3fq iRI%3q BqqRr^qqi I
+fT?r: srfis q;q^r%^q fqqiqq, q*qn%qrq g:iqrfq'fq
+r? 3 rfwqsRjqiq i “ ^srq f|^ q^r%qq mi?r
+R^qoTrci^rqtnqr^q r^R^qq^gg-jg i
+** ?3m qnsqrqnq snn qaq ^f^fcr-“^i%^Rw1
+T%t%^*gsr ^f^^mr?^qr%or ^qqqnsTjfiq, qq? qfi^mqsrsn 1
+rici qig*ri%q srfqq^ffqr. qqiqsqqOj 1
+**♦ ^ntr qqr^®qqRq;q, qqr^Rq qq ^Rq q'rgqr, qi^qisr 1
+*Hnn snfr q^*r *q qsra swq.crcq q?^R;qqRrt: , ® u % J
+%^h:, qq*q ^ct^ct^r [arrftqjqnr:, mw
+-frajrfg *3T*Tr;*n^, frqsr^qi# q^ qR^j^- qRqq,l
+^rniJTRRmn- %qi Qim% qj%qiq; 1 q^rvr *qrqqq?j j
+*** 1 <Tct: q^rrqi qsjqr =^ffq(% ^q'rgi qsrrqi qsiqf *q |
+qr^u^qR<qiq?qiq 1 ^ efirsrirsnqsjRqq sqqratqq” I
+mffr 1 «r?rfRF roRflsH iqqqEqTq?<rqi Rq m^qTrqqql
+^'5 H*T T??q qTEjJSqq ^75^%, q=q q^qRqqiq 1
+iqqi%?r TOiff q fR^qfq I qq m?TN *w?qj% r
+fqfq^qRqqtct W<TIRF5qiqsqT rqqiqrc<qq; I q^jq j
+stqrfTqiiqrqT Rinsr qR$qj^ i qrfqqrqqtonfq §q sgjg j
+*rq*raqt - qqr “ qRTqq^fqsr^TOqmpjqra; I
+qq Jtsfi^ Rq qiqr qRq fqqgy <*tjq fl
+vs> 1
+qrgi^qTVgqqqq qST^r H*TRI^ *qqr?T?*qqi Riqqq I
+'ipwwflw w?^5RT%;<rera;, qq q i
+w q s *rcw, h*j * qnf mqi^?rw f <?M Jimmm 1
+*«« flfatel 1 j . ^
+^Rqfqfq ;qq ^?*Rr, qfqjjftiq qfaq;qrqq gsqqiwwq
+««jwrw^w?r: snRrorrafrr ” *fq 1 qqq “ ^qi § % w
+RRifRN '*>qg qn$r®q fjhsq;?fi{q i?qi qsifq*T’ $fq
+%2qj«qqT rqT*qi ! aR aTiqqrRqJlrq aipsqMIHf g?q|
+^Rcr firor RRR^i?a ^f?r 1
+£ *era n?;i ^crgn^^F ^irn” rw f%RRr7vwwT9i
+R<i^lt, j^l?lIfcfT?Toq?qRgjgi^i|tmF =g HI \ qqi'^gg j
+ar^vr^f^E^ =q WMmzi s°»^rT?R^iv(Ri5 i gg ^
+JTH’^fqii^Hr rg^qrrcfTfHfq^ hhi qi^r i%q?f i H=grreerr
+•^Sf^Rfcj ^cf: i Htfr «j5ffw^% t gixffgr ^
+I WM H5FHI ^qtHrTHRH IHfiRWi ? 5RI5 -
+HUII^- ^r cqiqfri II \ . X - u II (i%- ^ )
+” - JTq^ ?RHiq f%H<?ffIHq“qrqi |^?qq; |
+5TR ^qqfRcrq S WRRR I <R HHf(q , qr^Sj
+^qq^iqq RH^qr?: ! ^hhh ^35r^q^qi frra^i i
+“ ffRra ” - qi=qf nqfqqj|oSqR i q gsqqf? qr%,
+jnqqq ^fqqr^R^qjrR<nT R?qiqq?ifr « arq ^q^rsrJr R?gq •
+qq “ ^q qqiq f^qj ^ » jr fqi ^ ,
+?Tqi5 -
+fqq^q ^jq^tqqrq^nTi R?q4: i i^qi :jr "<i trt
+^rrq wq^fqqjq^vqq I qjqqr 'jq qqi fiRq fqqqi^oiq; I
+q 5* ‘ f^r qr^rrq wq m*. tr> =q
+’ < ^ rt: j ^tRqqTrq qqqf^qj | 3T^?qq qqqi^'jffqqfq;,
+Digitised by Ajit Garges hwari For Karnataka Samskrita University
+I!
+
+\ o ^ m*3«RW5il I
+%gR *R f?^ T?H5ff>R
+urtR 3*r;<tc2 ^serir i *n» rg^rm, arersRRjR ^
+5EFcr^i^r5i?ar nfofr, srRm^g;®®T^T 3 R^W 5 *nt'n *g-, j
+Rrawsrra i am^r «fi%* Vrann* *?3 R<jt R^nimN
+ssrcjhr: i “ arRsaiRsqiR fg;*?: q<qfo$iAr s*m?NR ”
+rcR RsnsRRn “ arRr riR riR *R *q£f ?mfii^ra
+*gR ” ?m $98<t«n fifrsrer g«Rt ^srmgR sfirfil Rssri
+*t?et;rt mzx. ^rriNrforsrore RraR *g<r HR*n% u i
+8T«?“5r%crf^Ji ssnsrorererr intraft” wsr R*re rR^Rnun ^-*wrrcw wgs jsrrRri ii t-vun 0%-«)
+JR SnSRwRfasn*!, *R fHtaCTI*. STHrTlt
+fgiHtn aiinnuR, s«M« ^nmreig , w.**? S^s?
+arm i »R<m*i!*Ti ft i%qf Irfirow wftsrcft R£rth:,
+8T?qir? srrsm^trcftfa i sra^R «*R - “ 3TR*mn:sR3wr
+Ov
+ffcT ” Rfo I JTORft **RF(E#$n JRPR i wR 5 * -
+“ T* ’’ *R » «r<re* mOtm pfcmrera;
+“ Rrasrftsr {raranproari » MfrifowramtRre Rum? «r^^f I
+grr^or sr^fgm i ft*ni"R arsnWw sTr^mi
+vRRR *rTO3*Rn*i i sranstat *u%3[ srcwnrt
+TOW w%^T£^mrft cr^$h r3(RI«Ni?: i
+3T«T “ ” RT^f ftdtfqR^R -
+I1UII ^ - ^mtq^ri llt-VUII (ft-*)
+*n^;nR«fi R^t spRqsft g RsnsR i wrRrR srerer I
+<a<R sre?nfa*T I afl^#^RRwcft
+%w tfrotai | \o\
+««r%* R«r$ri i sn^ifi^wgT i arsiaR'E^^tR
+*nf|ffr i gsj^ra: ^jrRqr*iftfa avrat* i ^ftTif«3ri% i
+‘‘ ft?**fNTOT?*cftft ” R Jra»yg?r& bij^^ ft^rfrerw
+^pl^rrgw ftgftftgtraT RR^rnwrewEfc «sr
+Rg STgRre><s® ^rRrwt i»JTwr$rflit<nT Rj%t
+m sire^RiR i
+*ht.“ g«n<E5ywrsn ” R?3 ?ct, ?rt? -
+IIUH^ * foroRrar llrVUII (ft-*,)
+R^ftr:, stRw R?hjt?t»hi i iRRraiwm
+H^3?fF>TRirRvqf i ngai ?gR: , ar«r
+h’»thir *r?w 55R<>inR
+jSMmRr “ R?ngg hiRt ” mi% RRr%gq^ ^isf^micot ^qoi <tR«3>pc<jt ^jfrgjrR
+RR i “ ar^inTRi grsrmRcT ” fR^it^g: W® mzm
+V^T^JT «F^w|?r grqvTR^r ar^q-=3g: s=rt q^q; ‘ 3T^%gi^r:,
+‘•rRRRTRr ’ ?riR rRr^t rrriR i
+«RR^f^ig$i»T srRg[R?f -
+IIUIH* - ll V-VU ll(R-U)
+^ifRTRS q: ^R??t:, h^^RR:, g^iwtfg
+^ t:RfRrw ^rwpksr « tfflRR^g i ?j«itR
+vs
+5Ti^rm, qRwM: i ^ig?mRR wnRRrafr ?r?gir: ^rR famSh ^r^griRT^R: I a rr ^rmi:,
+R ^g?TR i arR^rn>^ R gi[R,
+$hfWi: rrirr i
+Digitised by Ajit Gargesiiwari For Karnataka Samskrita University
+
+srqqriRqragtqi ffPiqprofov, RR %*'< <K ]
+*TO4qw%q sir ^rsr RSRaj stroi r^trs w& raf^q?*
+<rq RRRRRqqq- i ri^ ^ts^ri fRircn^RT *qq ^
+i?srap5fcfc f% srhot sqiRiiRrif rj ? *ffi =rtrrt«r
+ritor *§f>?r R^q *rir, f% rtrirrot ? ri^r rtrotr
+^en%ou^TRnjtn:®f%i%:, f% rtwirriri RRiRRRif^qftftsT
+mzBsii ^tRR:raRt;RRr;?4:%qRiqqi sr^firaq ? i% i cRii -
+II \ ^\\\- »fi5W ^HR«q% *erci s?N3P#nora: q*yiqtra«RRT
+m-WI (fa u) * ^ I
+RR T55SR RJR*qirR«<RR fqRT%Rr, RR RRT RTROIT ^
+r?rotttrr qrcRiongsrrcor qjgsaitRsq wm \ ^r^r^tri rrt*
+SH%?TOn^ RTROir jfl^Tftrqr qiSHRIRRIRIRiq RJRRRR* RTR^ROi
+RT^ffKrTfR, RRIR^Iiq 1 R?Rq ^I®55>R ^RRHorsqURRIRfR*,
+Rfcri^ ^qrifRi s str* q;^, gsqR ; rrh? r^ RR 5 ?fa%fj
+yTRR, arpwrft sirstrC qiRSTRiR 1 ^RircRR nfi trrrri rii%
+RWRfR i 3TrTi rri qrgsisraSifa rR’RPRRifi q^RR%R, rr
+qrOTRyiqiWROTfq ijr^q-Riar TRlRRtjSi^-R «K^RT R^q; I ^ -
+zrrfrr **RRff5 <p#<j rkrjr i aTgispqRR- «r
+?R?f?IR: I RR ?JRRCiqrerR IRIRRSRSR RPCgRTR
+ar^cq
+f R rirrif-iriirr *SfiR*RRTR ” “ sirfr stir r^rt ar^R ”
+??RTf?#> “ RrssjiRrrcsrR ” trii^rt ss wr; rirsr i
+RTtI«Nq«RR <S5f5ra*q RRTR%, R^RUffRIRTR «RRRf RFt?
+oii Rsfa rrr?w orvrsrirtr ’tqrcfqf^^rq gqiRRi^ R«q,
+r, war r^rrtwr^tirt rr 5^rtorr *r?rr rirsrihri
+rcf^s miRtq irri| ^irrh 1
+R?R Rqqi^R^RI Tg^R^yT i^RSJ R'gfflR^Rqqq
+RltfR** | RR=R RNR ^(Iffqn^lR *TR3
+r:$?rir *r,
+fiw tfmfar
+RRIIR RT?qR«|fq-, qofl|rqi RRRT RfrqR [ 5 * ] ^ R , 5JTm ,
+RI!jqq%: I T^^^qRffq ?^I5J^q^:q ^qjqor vf,T,^
+****** rirri
+RTft%q*RqrR[ RRR^ ^Rqi^ | qr^orpg fTRT^-
+?TR l5^f n " 3 * srsuqsrwqr^Rq 1
+4frirqrffm«r, RRfofiqrfR 1
+s=33 HIT TiiJs iflBiil nsuwti, B3HIKS, Mil T M,
+*3BS itsuW srewii? «t, ^
+i*rono«<n firaipm, i sa; „„ ,,f,r„ t35r , mj ^
+WSJ3IJ w??i: f ns;ara i ,%«
+atratft ^iaamia i «», fi^,-,=,,. lA
+■Cisiti wia mftusaia it alii -
+^atiatgsrajsj atn'raffR; ma"Tt RSamai atara^i jii .»
+,<r , 1 - “ aa wmaftaasij r^,%
+^nai niiiwTOam sf » fe , ^ ^
+araa wffim, arirhrenrtti -Earaagraj anfir**
+?nw« <?rag'ia » sR, , -
+■fa arew! 1 nrefiaarfag^na^j g ^ ^
+'TO.mwt aw ‘arritamagai’ a»aif% hirr i
+ararwntt siSaa =#, a aaraams -
+tta “ ajfta,, ” fe„ ,5 r* ,*a»,
+U
+Digitised by Ajit Gargeslnwari For Karnataka Samskrita University
+
+wq*q fqq #rr, rti q%q?q Rtqq: i R?fq*r wrr f
+'jrqCtRqq rwi ft^qqsgrqq ir ^q^qq, 3r;qqr
+=qqq*qqi PT*VR R^f-R I cT£ ^Rft^T'R =qqq RqvmR l
+R^rqqqfs sr^r=?ff ^r^RReq i qraR?j ^iqqt =qqq;T sr^r
+*%*I R^fcT ^TRIfjfq Rf^R 1 r %0q TO1I3 I
+“ ^BRT ” TRRq qif fRtfR^q q^ff I%oq*§?q*t ft}R,
+ci«fcq% i sTRfwqrTfjj Rigqqisq R^qrqgRqrrqqig
+qq?T:, RfR^nriqR RTJjqqirqnTC, q^ig Rgiq^R trr
+q^rer Rqr%cT 5wqiqqiqq to^ri i^g^TRrn' 'qqr^r^R
+«fT3R[, ri^rri qR^Rnr qqn?Rr rrrr r^rwrc tt?R
+iqsgt^I RcRR^Ifl *qq Rq Rc&Rcf ?R HR*
+OTS^T I R^rjR- ^qqRRVg^q'f CJSRR Vjzt Rf, cr^T
+cqrfl’qqq qRfrciq Rf%q fs^TRro^qSrq fratfar^q)
+^qjqiqqqqt ^tTStTvRR cRq RqnRRR JSTtqRfRqRj
+S qqi^i: RHl'RRR l%.£ I
+RqrsR'jj - 3irorqr*q qwq: qn^iRTRiR q^^rrvReqR q^qqr rw^ %q^igq?iR gram:, fq»qi%
+«pt?q i5«a^r 'qRi^’z rjssrt *nwqrfRt
+RRSfK'K^jqRqf:, ^33CSTR(t2Rr 5 -3 «OTiuf TOffiff <?:•
+* vi
+jqisn*Rqr ^strii? sq^q?frqq, qqRTqifqsr sq^rq ^
+?J<RqRRRrafe*?R I
+R^qR^TRfqq JqaqqRqiqq I
+a<fFqqq;qTqq?q RqRqRjjirq 11
+fgRR^IR^q'R RRqj%q 55«RR i
+qiqqqq qqiqqq RqqRR §RRR II
+R?q^lRiqdq*g H^qiqqq^jqw I
+qqiqqift^Hiq R3^Rr*hr?q<rr h
+am*vrq 15^3 H^qrq?qq<:r%q t
+*qq:RRm spjqiSqqt^SW II
+rimifli \.
+qqq^gRR^i^r qr?qq qqqsrwrR i
+5{^qig*?quqqfq;r$j ?q*^?quqqi%?r: II
+8T’Sr<ri^gRR?%3 RRq3qq5fr$r%: I
+qq^^qqRT tqq qqRqmqR li
+3R iq55RnqR?ff T^qiRRqr^qqf |
+arqqiqrrR^^Taii Rtq>wq«K5qq II
+8T§wfrq«qqq Rrfqqq Rqrcqr: i
+qqT^qirfqr/R;^!^ fq>fH;«qR3qq incii
+frcr ion
+Mil ftiqqiRf^qeqj ^*^4% ||t-VKl)''H)
+_ *3** “ !%qq f TOJ^rr Rfqqq RiqqR S ’»
+KcqqqRRi RR loqjq SHfqqRq- I qg gj„
+i% ?qVqq R ^RqR fqr?ifq qRf^i *sfrofawrt%
+crfq qirqRT*; ^qi;qqr qqr^i ^rf^aT ! sr[ _ “
+fqmqqV’ ri% t ^ ^^ qJTRr: ^
+l 9 f l f ^ fq R^iqar I qfFf
+wmm . jpr: ? “ *nit m - - nmmmnm
+fqf3 , Rq Rgqi^:, arfq R^R^IRR^r fg,^
+^qqRRiq ^Rqqr TRR Tqll^^qqj fffnj ,
+^iiqq, - “ fff?:<4r ^^Rqi^Risr aiqq^ ^r ” rr i cr fr
+VWWnftmns*** i ^ s ^mrffv ^
+qf i ^v'kmw
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+t°t SirfPjTKiqa*? I
+’qiqqVq qqrai%H fafir qwqw^riq gRrqgi qtiiq sqps
+g% *q*qfqqrq «ronM %3i% gifqq qftc£*Rt, qqf
+Rqq*q>rcT%Tqi%rqr^qifqq ?Rq:3^qiqgqq*3Rqqg J I
+SiqqRq 3fqi% R*Hg RR>? qigqpTTqqi^: i qg q^iR
+^iifa gqqraf ^iqn%sc; ? wv, q q^rR q;q: q$qrafaft
+fgqRwt* I
+gmiyrerwreq q <fiq: i q^nR^q qw«? jfif^wi
+snRrarcSWWg a^rwrai iR <r(3Fi^qi I
+wiR*^ &gnftoT gqq nfqfNftfd qtf qR^^, I
+««tr«I^wr sr*q ngqsq: 1
+fe^TRcRSiqni ijqwqq qftftfq - J !
+ihiih -# 1 ^ 1 %% m-vviioj^)
+qqi. «Tt% qiqq?qrofqfq gcrqqqf q^g^q Rfq I
+q«qqq rirt w# qq?qqi, qnfttartqiitfN g^qroq, I
+qf^rcq Ri qRqiqqnq^iRq: ^qRRii%!%qqRr, I
+qq %q ? qq, “ qqRiq ” - sfnqq^qi I
+q*q smiqRcKSSTqRiq 1 3T;qfiqg^lT?I%^: mqsqiqi- 1
+fgqi RRH STOiqq*q 9(Srai9RlfSmf ?R STIR ^q'tvTI J '
+H fq/qq>5qq JRIOI ffl?(T I ?Uq>5qqi% qi^q msjq, L ,
+3%*3rc? gq: qiqsq: qq?q*;q qsj qitqrqifq i qqq ®iqj i j
+^I#^T^nr: RqiqiR*i%^qq qrRiqq*?qroiqi j
+qq qq qRsq?qiR R*qgq*:qiqqq: i qg q^g?qi m- j
+qq?q S Rqfqq f% RTqqr ? Rcq^lRqtq^q <qq IRS j
+sriqqqiir%*nqq g^qi: *qa% 1 fqfqqj ra^«rara^ I
+fqiaiRqq q^ifaq: Rfiq: 1 q^R sn$n iqrcqstfqi *qqf%q I
+RRqq RlfwRq tqfa*; Rqsqq |iq f« mq *fmwt »
+wai qifasqiRqi q* wraWPi fs%» RR waftrofo
+I^ff 5nq?Tj qq IR^IRIRT I qqq *qqqq gq^iaviRq RI^tT
+* ^TqrqRfq q W qqRl ” RR « Wlfaqiqwq
+qqj fqRsFTT RRRT RRiq^cKni^aRI WWW ^
+RRqqiqiqi%i%q»^i qfqq*q Rqq?af>
+«RR fqfq H?fIR sqNK^IRR RRT'RWRiq , “ ^>'
+iqr qqjfT: ’’ fRi%i RiRicfr’fmqiRq ^
+^qvnqqor^q^ Rmqq, qiqR rtt* wsjR iV;r
+qiqq ^ fq.iRR q^iqR% qi^qq^Cnq •
+gqffcnqqf^q ®iq>q^[R Riqiqii%< 1 qqsiq 1 ^qi^qi qqrqrqqqtRqiqi ^^wiftwra 1
+wsj^qft^rcqT sgftFWlRqiq I f^qsjqn^q R ; 3f
+srqiqq?qi^ I q%q ^RI §5fT R^q> qn€l^%
+“ ^qiiwqRitrRqq qqi %qiq°iRqRT ^wn5 ”
+“ qq^RqramR^i »iqi?H qRwmiq ” “ ^ qq§ ^
+qq?TIiqm% fiTOTO*^WlN ” “
+Ri'm^ffqRqqt qi^nqm^i gimqfqnq^ q^rmq ” vm
+Rl qfq q^qr iRmqRRR ihmRsW^Nrwwt 5 ^ I_
+?#qi^q • qqiRisqfi Riqqiqgqqiwi^ ’ ^ C,,T
+gqfqqqRcf oqn?qRqin: l
+q %q«5 qi^Riq^I qqqqqq. «qRlR ^ 1 3T *
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+” *?qF?qif| fq^;% i ^a ^, 5 jf q n
+*mmn i samara* sarai^tar warcqrqrqq*qq 1
+fa 5 *** i aw onyvMn **nmf«TO nan
+imio- 331=3 <nv<!ihn^ llt-v^^il (%- 1)
+5 i»TO, rftiinWfrm ($13 <& S ,V,, OT ,
+HIHffil i n t
+qq qW^afiNV*! *a;qTf^faaiqqiut fJHWJa faia I
+1 ,M|H - * 5 l%Wnqft! 5 R 3 Wl*rt
+fca<fta WEW II U(l%-'t)
+ft?qataaf^a faia ^aaar ?ia, aa qa ^THia.
+q^Taaia anfaa i aa T*« ^ **
+^Hfaq^crqi *iwaa m*u«q * 3 aaa afta^aiq *ata
+iaj*mia<m airqaaaatoas aaa «i«^q «3^n^3 ?I5F ^’
+aasj atraawq q*q arwa mwi wwwft*«n r 'i
+q*qf% rTaua fa^mfa \
+q*; *vuia - “ ars qua ar 3 J*af 'S ^ 1 aa^ ”
+f? q,^q nifa w qi^sq; ai'sai aa^
+fqq ^^iqqrqia saata fe^aisr fa^ataa^a* aata?*
+qi^qfqa^qT, a?«mi?qi Rcftf aquan: i a^mi ;5 f ?
+ii«rer«rq ” fa i q^ai^aa^! 1
+Tf-qi^ *qfe
+aiasqaTiq^qraqqq^^aq *gfiforafc<ro nsaa^ 1 ST%I
+q^afq q:«qwiq?Fa3qiiqqi raw : > «Jiaqsp ; *
+aqt a^iuuqi f^a^f*qfa q^a aaqa> law^ara »
+^RnqR^fqqq ^aaiaqiq^iqw » aa qa ^ , 5 ~
+*qfi a:qi vraauqT^t aiaiq^aia waai^aTa^i^'- a '
+fgqa, iq^q^wra **afuo*qq «faaa« i aa mfia^ i a*m
+^wafaa qi^aaia i
+ng «qa “ af fq^ 1 ^ w a^at ai
+twa «r m-, qf^a ^ %aa ^awi ^fq^ai waRasq
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+iMi
+
+m
+siregxKiqasI
+WqqFqtq ” 1 % I qq qi ** q=|q ?f«RT qiq^qi
+srqFqqsq ??qqq qi^qR i arm fqqTqfqqrq qiqrcRrqjiqqi
+qsqqqTRqq^qqmqfqT^qq'rq, q>q ct?t qrmuqq- i qqi?-
+11^ 11^- 3WR q q»^qq fq«TFq«M H cT ]
+m ii {-M» ll(IM)
+“ 3TFq^?qr«rqFqq°q ” ^rRcT?R?TT^f sRRR^r F??^Tg%qi
+R^qqq<q fgTirqqq^FjqqqF ^*qq iR^qFFf ScTrqqrcan
+^qqjqiq qr^qq, 3R^'qq ??qqqR: i “ re«rrc«Mrts<?Rr
+fq^qiRqr Ri%R^?riff F'qsqrqqqq *qrq;i quqqqrtfi f
+Rft&q 5r%?rinf Fqfq ^qqpq, qRFq^'mqq^ qqiq; i ,
+?RCl?SEq:, JTfiqiqqrq qrrqqf^q R^^SFIVURtni^ I q^n
+H5ferff%?TR F%?rqrq?qfa:, STq^qRiq, qfRFgRRRliq I 3?
+*qqqf;£ srfq TqRRqqqRFqqFqrsiq! i qg;r - ReETWjjrRif
+q*qqT^*qqg-?q;q* hr r R^aWqqqT'r^q w^Rqnqq^Rqqq
+«T^If(R5T^RRfRfRI&) 3TRR5FR qftfRTRR R^T'Riq^qcT^gfRT
+I^RRcrgriRRH^sq [HR I qq
+F^Riq-j grR, rTRIIR ’fqt;" f ‘ >T qqi iqsqq?qiqq?qr
+rs
+^qqisrqq s*qs?qq qfrqsn^qi v< “ Rritoirr^-
+INI *T II - fiqfqqiW^WRI II t-W|l(fa-8
+m
+arfq^R *q$:qiqqf qv^wqui?, ‘ ani*q*F*rqwqqf *
+TRreRRSRipr RtflRRR HqRIfqFq H5q<f | qq RiRI% rfttqqqqT
+R'RRTfRcfRi q^F *jqq: ! q=q q5CSq*;Fgqgqqqq RRl^RrTI I
+^RIR€ «ftg«KFqfq: I 3rd RSqqRiqqqiqr K3tqif?TC?3*
+*nw>q qrgqq qqfq^q i
+W FftqRT I \\\
+•T5 ~“ ^tf^C 4rqq>R^q RR fRF ” f^RFRlRq gq
+qj^^FR^RRIR ^qiq ; 3R qq =q q qiqqH^fiq: 5 q
+'RR qqq^r®fq gqi^q fqrqRq fqqq:, qfqrqfq
+sciR^qfff RiqqiF%q^qFq?FRiq; •, qqg “ q qqi qpfi ^
+RRT % RRRHRI ” R q ^Tl^FFcF; W^TFVRqF W*q;q
+w > ff 3*n qrcqwqq qfR*%«rc*q q&q *r*q;q
+wr^TT ?qmqq ?rt rsN: ; qq hr =q rrior gq%
+f%H qri®^3?q! wq^ rr %q; ? UR, qqjp* q$q?qf^q
+iq$qq>$'iq>i3rf*l'|q q*q q;&{3R;R!%qqqqfq: i *?jr
+ST^IIR f%R rT'S.’qq RFHIoq Rtqfqqi^ qq I
+Rfqq ^Fqj^ RFR^H T^T 5R^q flf#qqrf
+^S^cf , cTrJTTqi'JqF^q ^THFRRqf ^rJtR RR sqqiqrWHFqRF
+i?£*R I srqqqi^HFq qqq^FFFqHF RIHinqi%?^ fqvgqiTHfa r^
+#q fr^fr:, fqfqqcRFq RrHi’jqrg^as^HFq^rqiHFqig; » r%^F?ar
+s qqqr?rqq fqFq?qwRf^ i q*®Rr^tq^ 'qi^q^qqi
+5?q«FR RR qRRFVgqiTRsqRwiqHr^ I STHR ^qq[f
+R?qi ;qq sqqf%q?qq R:FR^rqqqq^qqRqqqi ^FqqF^R I
+qqiqFWg^: RFRoq qtqjqR HR^qR^pq ans*^
+arq; q^qsq:, ^r\of rst hirriR* ^iR^qqiHF ^qFqrqqR
+qqrq^ q^qqR^iqr ??qqi:qR?qFqq»FRWFfqiqigF q^qq^nq?
+fRIRIRq FHR TqRF%qq; I FF^aiR?^ 3qiRpqq fqqf t q|
+sqq^iq^qq ^qq ttqq^q>*;«t*qiF%qq*:?qTa: I arqj^qqfK
+qq q?qr: i qq q«qq?;qiqq:T:<nu^ qlq^frq^F^Fqr qqr
+qtqr ?q^qr mq q iqqqsqqwFqqRq&sT: i ^ifF^%H
+r^q‘iqF5?qFFq^’Cffti?qq iqRF^: Rqqqqreqq ?r i
+
+\ \ » siHfrRtfiRaft I
+RmmimrqisqR i
+arengfRqq ^T2r srm^qiqsmm: u
+qf*rfawr «am >j.qR$mrg^q: i
+«WWW*f^ ffar *3%%'. it v< u
+fTcf T%f^T%T^Tto^ II * II
+zm |^n%Ji^n%^nr I
+■» jwe(CiCCt i cp »*>
+in II V lg *ff wr w^iHqra^iqn 1\M 11 ( 1 ; 0
+2tt ^qqqjqRtm «OTnnwnjiti Rfti&qq i «q vi
+qwfiir, *mg qrqqiqqi^qT m^cqiqqar, ?rqfiq
+a^Rr ^qqy^q Jrwrm i cr«nft-> s?f^
+Ijgqfan^T: “sjhh $ptitft ” nrofl “ a q^rsi i%q?r ” ffljRjq:, \kn % msgraw qiCsq^q %g mq^qHT, qq qtf-
+■<3\mn i Rcnq mwrnr, ar^in^mi wpiq.: i i%i5ffi i5«r$q $gm*q sqsiwqmig i wroramv
+VO S3 S3
+qjsqfmi sjimisqcsnq i er^cr sRqq “ ?g 4 ” fir i Iistrinfai^raf %g imq ssqtg i sr:? “ sriTOfeqftvqt ”-
+fl^iqqTqig I 3T?W IWW I
+arc- q* igq*?% R^qrgqRqqRq vtrhcri *nw-
+<jqsj i qimgRRtrqr, q?q sqifHWwtfsnwRR i q?
+qsjrcoi yr^m^iqq fafir «qiH «JiRrt : i
+CmsrrqqR w%'fi£, stR^rrf «rw TOwm > 3ti#«
+OIRRTJ m^Rrg; , gjg sq IH[ %q 9r _
+"y 8 ** crqi^^r M ^
+w^fifcra” p^,-, ?a ^ BaflTOWrt nn^
+^ *"»"* Ifltqq^rqqR!^: I
+4< - „ ' *i«-Miwqqwq: q^cq^
+W*mwi ” fir rr^^mqtgqr^fir i ^,>,
+, TOlftHftrtAw Cmwwrmsq sr^q *-
+trqqjT^ tqfrq^lTfR: qrq qrqrrqq^q: ^HWqtqfqr^qq ,
+*m«* *?nr farttft Cm: nftrir,
+arq^fr m §j4r vw gqvnq^m:
+*W*K*&* qfirqwiqr^ | W ^TM
+q®jqr *$3CTgr3q qmqvrr | I%%^gjr^qf 5
+qsqq^qr, qq ^Crggr| ;qsq W: ,
+„ m* Vffltanffef Cm^«rm rrrafimfiNrt *-,%? qrq
+315 3TR*q Sr^R **qq 1 qw^qfa qq ? q^qq- ,
+qmr^wimrqiq ^r sqrm gfi'qiq i q %q ? ^
+%g: ? R^iqim qqrm^!% atiraft rqqqioqnqj fq r % g ^ T % , l?ff
+qqRmyqqq -
+, **** ” fWlf^W ^fq:i%qq i sr: ?
+TORT ^CNTTOrqr^nqmra; | ^q WI qq W
+q^flrqi %g^TT«qrqiqiqn^qq; J 3T<f(Sqiq:i(%q^q ; “^q»j
+CCr:, 3Tqffqr || » H
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+m n - *<mi o% - o
+aafiwaixat; *roai*3*i asaaawtaaia , ^<reiasj?w , t
+faarasfa aaataaat fti%u«<ira
+M sa*a> afcgCTigs i sa:! “ •
+“ aaratai ” i asrsifitf*. ana ^x ; - a:, ”^ w
+aat aaaaraat 'asaai arc”H«rara, > asraa'tgai ^
+*CTa~ g«„ara i Waft agait a "* 55 ’
+gqjtnii 5j5^aigsra!Bfita s<, gfiaa!OT!aifg ‘awraanaM
+■„„Ta i “ aa ?ra ftaa *’ ?ra =>at saa^ w, ' a
+^Uma iaa«a< • ikWb***"" "•*
+3,aa ^awia'asretgKwa ag<a« aaaiaaat ”^"|_ ^
+a, art waft «H» MW * ?Wn '"
+m awfrfe ***«*«' r H ' “r™ m
+«iHgs ” wasn^rt 1 55 w ,
+fife » WS«* ’
+rittHirir'R rr.wrrws^'***
+qi ’Imrcfe ^irr 1 * 1 winsWW ^ lc *
+<terc *itateH I U'®
+“!hnm’fifcqfr w s?rrh RRfais*:, ?f«n^ rcifarfeRrafcR «
+RRg% >TR!% I T5*i?l^ 52**n«i*fa ririrrr:. riri
+r?rrRj: 5: i rr: mRi^g*!^ q^m:^f^iq: i «t%flr
+nqrRRRTR rwr ^RtnirifiRR, rrur 3IR»twrrirr>*®rr
+sr^riritr, “ rr^ri%rr ” ?<rr Rtiffeunran*. i qi®R
+rrprrtrir rrhrsr srr^ririr i q^RR^RiRfiRR w<z
+HSRTR^RRgr^Rra; i r=rtr srih^i^r^ir^hw- WRRfe
+Ri^IRRI^RcRIR. I R3*RRRIR*IRTR I mRIR'f^RR RI%fRTR
+wiirsirwrir orrRrrir!rrr i Rn niRRiiwtst
+RJSSIfe'RnT R«R-., R'RRRJRfel. RfRIR IW ^fe*
+RR^rR fRRRR I RR fajlfR RTC'R^tR SjfaRTRRRC^RHR^R RIRSTRRI RR'iR I RHJ 3J^R fR^RR RWRIRf RI5*
+^RRRIHTRi ^JTSR, WIR3 3TRSR R^^TROIRfRI^RR^-
+^IRR; I RRT^T =R R^IrRR^R RrW^C 5RR^5RTR I RR IRRTS^R ^CRfR IRRTRRTR R^R^gfRR^IR
+RRI<RI?R^ RfRRoflR, 3TR^^fIR?VURRR. I RRIRRTCR-
+^TRRR 3TRR ^R 5 R IRtR TR^S^^TFR’.RfRR %R55IRRIRRt
+RR RTRi%RRR R^R RRRI^Rf RRRRIRIR II V II
+53IRRIRIR IRR^IRJRIR IR5TR8RRWIR RI^TR** I RR
+R^V^RRR RTR^ R 15 -
+|| \ || ^ - RIRlRirftfct ^^SRRtRf 1 ^-flRi <q[c^ ||
+“ 3T5R ” 1% RfIR “ %% ” fR RtRRR?R RIRI
+SrRI “ R 1 %RR ” ?IR ^TRPRRIRI^RRI^R fritafCTC
+^TR %R? RRIRRRI^RRRIRT 1RRIRI R^RR^Rf ?RIR -
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+**, tmfrW'i «x<W« w”"" W ” ™Z '
+argrnta "l**** nnI ^ t ‘
+zw i
+u ^ n a^fenwui i - ^ - M n ( v ^
+^ «rfta irtw«t *■*?
+rf^«rsr-=n=^
+^$41%, s«rtnwnft9i» i
+qc fg cjsantf RTWim^r «*rn**w ; 1
+,* m «;* wrW* » ^ taws»aw, waw
+fcw *ftakn 1 UA
+&rq<4ts *43iq?*ta 4i$ &44r$i ftfttrfr f&rc?:, 44 f%
+*n#tw 4^44 i 4 ^ri *ni*4 *t) sriir *wyf[44,
+‘S**T$«4!4Jrcc*n4 i «rft4fcnrofc% frgyqrrer *W44 i arai
+'w*r*»i^ H^noir * 4 m* 4 4 itqqfRfir n \ ii
+iRR4ti%4*j; I are Jrftsrfwar: i wmw^wf 4>Rf44i*i4
+wiptrir, *jf4>^P444rfift: 1 3rarc®nfo% FFRr44Ri44i4; ,
+R^irca tcsfoEraroram i ton i4«retrfq
+SgtJKH^Rcftft «4!4, 44U4 ft444!Rf4r '4^1^: *4!
+safSKRwri^i^^RT 4n^ri4f4Fci i ar3^ , 4R<nr4?4tvriR?4T4
+4rtIf4igHr4ig4^t?:ra I 4=4 l4444iRt4R?41444T sswfa
+I44?rf 544 , mt?4i^rr^4i 444144 arer**q 4g*fi4i!4
+ft44I4rg»4ni^4T4 I 44?4I34I4f44T RflfatTPRSTOtStigi
+JTf4T4?PRT4 sgf^qqra [ 4 ] 4U544 4f 4i^q «4T4I^^-
+Digitised by Ajit Gargbshwari For Karnataka Samskrita University
+
+rRr %[%;r;rt: rihr«r rssrriri: RtRR<RRra;*TRTi
+rirrsh sjirrsri^rsr;- RRi “ RtnRRiFRi*: ” s<rr
+rirr: i urawqw: rirrir<r i RSRRTRRRi sIrst
+frtrir rrsrr i rr:r;rt?r[rr %%rrrir
+R isrwn% rrirrrrr:: i sir Risriirir rrirsiirsir
+RIltWRIR: «rq?R%vT>- SIRST 2 R*: 1 %T(%R Rl^RIR TR§R
+RIVRIS RI%RS<SItRR S*SEISR%RIRR RWS%: I S*R>tS
+glRtfq IRSR^RIWRRRIRI ^^TRlfRRRI £I5roRIRRI%R
+(%<5RR I R=R 1% RIRR RRRR; I it'a^^TC®! RSS
+^ISRIRflRR, RIRR?2 SS IS% RIR R STRR R5IR I
+RR S^RTKIIR^TRIR IgRIRT 21% VWWHh RRRR
+siRtRct rir igRiRniRnrcR^RSRiRRR R* riirr. ns
+qqor =51 f^RI^IR, SHR ?*RSRt®rR:, RR*RIRS SISRfe ^5
+q{ 3 %R RRRRR l^^fRSRRIf SR tST, - SIRRrRR
+flRRISR^R RSRRrRIR I RI% %RIRR iWR RRRl RIR^
+sr^rr: i wssrR^wmt* a^R waRRH; u s n
+II 8 II R* sfaWRWTRI II \ - ^ * \* II (R * 81 )
+rRsRTR HR tl% WRl RRl% - “ tRII* ^RI RRI
+3TSI qi?l g ?fR SR^RI SI RSI I IRRI R%I ?RRIS
+^riir r€i rri wri RifRtsr ” sir i r^r irr: r#<c
+fRR ^S*RI3RR I RSIR ®19RIR^ RR S15R: JURRIRRIRR
+SIIRR5 RRIIR RR1SI R% R?RI R RR Rfttl h Rl =Rg?«R~
+?RTIRIRI%S RTR RfS^RlFRRI f%!R 3R55RIR!, RRIRRRR
+RRI°T RSI R?R: SRIR; I R%=R RHIgRl^RlR RRSII«RR
+R?RSmR IRRSTI SIIR, S R5R SRSTRISRIRIRR RRRIR;
+V|
+t R|
+R^fRRSRIR | * ' TTT RW IR'^I
+^ ^^^RRfRIS^RRSRRriRq -
+IRSRR R^r; , ,A .. ' ?qfn ^ R'Rm Sl^R
+RRR RR I rru%> n v it ^fR^RfR
+W “«raifiE%-,:<. , rai ^ ^ 5 :, tobS
+WWforat « 5 gr »Mg# w j «™«I !55
+^RRRI RTSqRfr n Wa rfi~» - ^ rM, WRRRRIfRR$Tr
+ft
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+
+W «T®3rfipr5^'|
+R^q qiq ^qjsqfq^us;
+•thw i^rt R*qnqi?q i qRfq>rc°nq «Rqi$qq qqqiq
+^5 ??qq<g; 1 ^ q^qrc'RiRT^T'R jreqrc’RmRq i h^t
+^ * *W>RRl%q ^R(Uc% tqqSfRjq =q | srgjsJ
+I%SRT% T%% RRqrrcr
+WTfT ??5r^TR% I
+O
+fq«j$wpiT m iivtirq ^nsnj i nqr-
+^K ng^jfifcT i *ji»r gq g^ug?n
+«J?JTr R^qTHRRT fqsqqqj^qr *q sqifrqq cT^rfq- q R;q
+Rfts^RTq BRI^TR | rTtn^TTJTf^^^riqi RqiqTrq
+jtrot nr% r^trt Riqqi%qiqqf, §sq fqsqqqr^qrttfifq
+mm*. [ ** «w ] *R fqwrrofc *qm%«i qftsqsq mq
+f%wqg i%%*q^tRr Rwyfiqq 1 qqf^rci $?*
+qjwiRnq HRmr^qftqfRfq fj*w5qq?q«} fq<* ^ ^
+] tjn^q ?fir %q ? qqi'qqRRr<nrcq>r , RiRq
+1RRST S^ffai mirR^HBqRfi; 1 qq^ r sru?q 1
+3T*qqqrqq acqq^<R Rq^RfRiR ^q^rfq
+• R^FcTRT t^qqqTRvqre:,. q?qqr RT3[Rfq •, 3TRf q ^jq R<qRq*r I
+Rq» gq^srstrRqnqi qq3^rc5iw?q?qtq 1 ar*qqRqRnqt
+«R qHtTOOTFtf$jvai3n:, qqi ‘‘^rifaTO**'’!:” “ ^fqjq
+qffq ,? <qi^q:, qqpq q^qrRqiqsVqfR v?R«qqRfqsr;qi R;qu )
+Rifqft s^iifiRm mwz, wRr ^r®anran?^[ $q*q®rq 1
+*n? ^2 *^2 req%qiqqqTCfft<T q Rgflr?qq: q^ri spq fij^i^r
+IsSTi* qq ; RR ^qq^RiRq qrqRqRiq %*qiq%3rqg: 1 arq anr^R
+n?^t°rr _^nwq?q qi%q ^rirqq fqfq ^qrfwrqiq: 1
+J
+Digitised by Ajit Gargeshwari Fc
+Rluku 1 \\\
+WT sqr^H*, *q| q qp-qqR^.qj q?q^Kf R;qt
+arqmr:, Rqqr RRinqi^ Rg^q, a^tqq?riRigRqnK'»u ri^
+*?qHT$?qqr sqTiRiqfqii^rq qgtq;% l aTaten^m:, ;qRF*
+R?q?qqqi ^rqq ^ROTR^tq FRqRRqf ssiRiq 1* \ 11
+< STfq^f^rF^rqq: I 3Tlir%qfqrr^Rqt I 8Tq^qR^iq: |
+arqqqifn ^nqqr^iqf qqrn qqqw qi% l%?frrqq:i5T:, ?rjq:
+5rg^qrqi% q , n5Kqqi3fI^3 qi I «rqr qq:q'T%
+qmqtTcr I qqf-“ SfriW&m qjR ^q ” ?R, “ ^<jqq
+3tHf[ 5^fiq: ” “ s;jr*grnfq qiifqrr » ? r i gqq
+R%q^iq qiqqtqR? qqf q;q|<qr qrfiqqq RWm^ ,
+qi%Rq?q% I v^iK'Jiw'kn fRirfqfrq%r^tR q ^i%r%: 1
+q*3cT ?qqi q-:qqqqqr q^RR fRl^^ fq^rq %q ?
+qor«qq qqfqmrqf^ qj*i qqf fqqr Rqqqf Rrqqrfn I
+q^rqqrq fR R?qFffqga?,^R: I q^qgmftr Rf, q^qr^-
+R^Rqmiq 1 fRifqmrRqjRqi^ 1 arq |s?nqi Rrqj<irf
+g^K < RRrqrq?% q*?q;qiqqqi s^rrirR rrmt ffT^^q gru
+II <f II g - arPteutfinm II \ - ^ • \ < II ( \ - <* )
+q^IRf RRr^qq?qiq qqini RIRIIRir^t T.qRRfq^qyri
+gqffqf I f? SRRRI'Rr R(qq%qiqfqiq Rfqqf^tqj^qq
+gqtrc^qq R?qq 1 qqr - “ fqr'q qn^g
+qjq ” ffqjqqrRqi: qTr^rReiirqiq ^rr^rr^isR^RFRIRtRI rq^qiR: qFR|JT*J?T!gRf^?q I qqflf ^qfqq^Tf,
+Karnataka Samskrita University
+
+snsgRiiRofl I "
+^^ rTI t^TRIRpjq R^?RR | ^ftaiiR&g
+RR iflR: I
+- RRISgRRI dm RKfRIRfR Rt
+RPRn?RRR I *r xntq,^ ^J. f *
+^RfR ^RTRtr; - 3TRRR^Rrmf^fR4: i r$r> f 5
+RRRim% rr ^g^TRiRrar w»wqi?R^nr% %=err
+RRRRRT. ^ ^ I ?TR R>*R fRN 1 R?RMtRRR%rn«JRR I
+JRRISTRIRrRRf ^r SRTO 3T3TIR , 3T;iI^I Rf* | qq “S’jETrRTtqfRgqiRgR ” f?Rii^RR?n*TR55i f^rifcroi; *Rrfn;-
+qK?q7T? ^^l4^IRX?in%%RTl fHR=RRIIf 5%R *TltRfRlflRRf
+;r;ri: , p"
+^ r^r §rn# : jnrir&u gi%*f tf^qj
+RRWgjK^q' fqR%^ RWfRIRfRRR%RIRRI fRRl
+RRRmfHR II c 11
+3TR *rari?T RTtRff - ^
+9^1®^*’ TRR^oRrfrRR: I ®3?qi|: qf^RRfRlffJTi RlfRf
+-If R^IRrR ^RR: | rirr^ q^l|R Rlf?R. ^IrTiRTrW
+^RR: RIRIUR^R RRR ^rilRRH I RHWfiRTORtFR qR$R| I
+rsrr^rrii^i^r: ^tq^Ri:, r r^tc^r RiRRK<RR*f|g
+RrnicTRfR^R R f S^RRIRn i ri?rrrirjr#ir: RRPT,
+RIRRIRR: RfRR^R S^tlRIRTR , STIHRTRR^R RRilRRR. j
+RTfRW RtRRSR; |R | ^qcq Rf%g $?RRR9f
+^JTRR I 8 U*T^;r«ji I^RIT? RKi^K *R'$R
+RfRRTO %??RI% |
+m
+«$RgRR RRIR I RRR R>H S IRRRRR R ; t
+^cf ^RRRT RR RR T%1% ?R>R®R , R>R*RiRigSlR SRRRUSIR
+RRt%R, R?R«UR?R *RIRIIRR> RTIRRIH *RRRR3jt STIRRIRT
+R^RR I STRigSRHSRRIR R ^IfRRRIR $RR ?R RR5RWW*j>
+R% Rl*RR?R RSRJSRR*RI ?RI^RIRTR I RRRRIR^R =R SRI
+IR=C1RR 1%^;: I RTRRJRTR'R =R IRHRIRIRRR* » ^IRllR
+*R=R RTfRIRRIRRSRI flRTRRRIRaRR^IRS ^RRIRIR I ZWVn
+RRTR9RI? ^RRRR rRrWRTR I 3T%RRRTrRtRRTaRRRilRR
+RRJIRTR^R’R rR^R^RRI^RIR I 3TRI “ R15 RR ^RR Rl*** ’
+v ?Rlf^ R?RRT RIR<? IR5RIR RIRI?RR! RR!5?55 RIRl^RIRIR IIMI
+3TR l%IHfg.R R3[l^R IR5IRR 5R:«TR RgpRT?R^<R W -
+S^fR I “’RaWCI^R’^IRR =R3«il RRRT ^RI^RI^RI^R fRIRRlR*
+RT'RR ?TR R SRRRIRRflR > R $TR I^MIIR^TRIR gRIWR’R’lj
+RTg^RIIR RR lir^RIR I R=R RI%RrRI (%RIRRRf IR$*5R®**I
+RifR ^rg^R: , =RsfiiRR rirrt ^riR*Rr irih irr^r «rg^R*Rt
+;R|CR?RI^5 Rrg^RIRRURR ^?15^RI ^RIRra I WRIRR^R
+IR^RRIIRR gRRRRg I RW'R^IR^RI^IR RIRIRIRR RR tRIR
+RT»r. RRFRI'R^’Rl RTH ^g^R'R RRRRIIR SR»‘
+Rrg^R ?ir 1 RR15 -
+II \° II \ - R'RIRR II \ % ^ ' 8ol l ( )
+*R^RI^R!WRl?IR RIRIRIRR! RJRI’RI JR^^RI^TR IRRIRi
+g«niRR-RR^ SIpRIR’R gRIRRlRlR I RRH=Rg^R2 ^RR'.I«^>
+RRI'R^R^IRIRRRF R RIHIRIR RRR SRTStfR 1 * ^IRIRITR^^R
+555R g®IRI%SR^R RJKRttR fRJRI^R ^RR! R RJI^ »5^R ?'R
+iwm R^RR I RRIR IRR55RRIHRI Tr^IR:, ilR^RI ^
+Digitised by Ajit Gargeshwari Fc r Karnataka Samskrita University
+
+5iw5<r.i*ra& i
+iqq^RTR: I Wq?qiq I qqiq STg^qqrsfr
+quqnqqqg grF, fqiqiqq'q =qg*?q*q qrg^qq^ «?rf^onPr
+!%«■: I 3T<T qqfqq* 3 * »gq *Rigg<n[q|qq^qi it qf$I
+*rmfa^wf q«mrqg n ^o n
+*3 “ fm **Rn£*ttr ” ?qiT?q qrmt?qT%nq
+« ; qq qsiqfqqsu sqiq , q^r “ 3T*qtwqTqi m^q ” ?rq
+rqqiq qqqq; wig, qRranqqr 'qtiqvnwi am T^iqiqi:
+SWWtg I WfqRmiHfl iqfq: qqqg I ^15 -
+^fq qfqfcflRlH fqfq: ! q?qw qrR«qq, aifajj qR-
+^qr i ^ig Hiqrwq: qrfir qq%qqfq qfq^qrqfqq^rt
+?TfqqJlftq;i I STflfpqrfaqnfl q?qq*Tqiq;qqw
+qtqqiqRiq q gq >g%: I qrqq qqrqq^foi qrrq^qq
+*1HW qfff ^iqqq WR ? !%qq:, q?q;qi;[HI% ^j^q
+WR * WqRrqiHiqqqfqiqqg , MJ'^gsfqqqrqqqq^, 3*^
+3RiH^^qrs^i®irqn c fr^e<?qiqr arR ^f^gfqfqw^rqiq i
+^f%15 iqqrqfqfq wqrrcnajfqivrqq qqqfq, iqqrqfqqq:
+^qiqgiqf%f% rJnwinq qqrq:, qRg^qrfiqqq qqrq:, qq
+qrq^W^R *1% iqgoi: iqqrtqqig II ;t ||
+qq qq ^IWW =q JWTiqjqq^fqqR qrcspaqiq mfq
+ggi, qqq qqq qim:qi5<?r iqRqrqi gi, qq “ q^qq^q
+fq s^retsT qqqqi ” ?qiCi a* >wq|q«qqft 5 rciq q;qwr
+fqqi^qiqtq qqq Hiding I qqr?-
+tfmtoi 1
+qrqiKI sqqRqqiqqiqi fqqswiq: I gq »wfq: 5:1%
+S3
+g^iqifiqifr qfaasqTqr, q;t% ig^rqrqrnqqr^T qqqr^Tqf i
+qq qqq qqfq I arqiq g*Rf?rqqq qqiq fqqqg ,
+qg q?q *qq iqiqq?qq, jqwcqr^q qiq ^g?qqq^qfqq
+gq Tqqjqq I “ qqqfq qq Rqqr qgiq: qqqqr ” fq
+qqq ?qqq i qqq qi qr%qff - q»q gfreiqn qq;q:q
+Hiq qqqqrfq I IN? qrqri q;qi®qqqiqqqjiqfqq fqqiqq I
+“ qqqq^q qifqfq: «qqi ” fqfq qgqfqqqqi%qn|
+q;qcri qqq j%qq 1 qq ^ qS!T q T %qq ia j
+q^fqq*!jq^K<q qqqifq I qqq qgq^ ^qfq:, q^qttf
+q?q?5 q>qy^qf [ q ] qirqqq^qiR RqrqifqClfqq «q?qq
+g^^q^qTR q^i%q?qqq qfttqRiqimq i qqq =q qr«q
+ZKK swiq^rqtqi'q - “ ^fqinqr ?rq?qi«q flfqi sqq^mqqi ”
+fqeqq^qm^m^qiqfiqfnqqiqjqiRqqi^iqifqqr^qfqg II \\n
+qq qfqi 2* qR^qi i «rq a»q|qqq^qr
+?qqn%i% «i5 -
+q;q;q^qiqT q;qfqqRqR=qn;wT, q^qicsq^q
+qi, q?q;3i^q iqq%qiqfq Rfqqqg i <R - arq^qfiqq
+wqq: 1 qiqgs fqfq qi I ifSRiqqqRqTCaiUSfq; %q®
+ju%^, q£fr5qqnqR«T, q wfa qmq wqq: i ami
+q?:g- q^qi^i i^q^qinq, we^iqi^K'niqqqqi iq1 q^i q^mRrfq q?fqi qq: q^qq q;q
+3c?smiq iqqfqq, q?qqwqqq% «qiqqi?gi
+Digitised by Ajit Gargeshwari Fo
+• Karnataka Samskrita University
+
+H < ot\ i
+la aaa Rara - Risri aia aiaraaia
+«» i%^:, aniiniai =a fi^ar, ia f*ia inaRRiRai
+wfKW assta aaa ririrr wiiia r?sii siuffa lUtii.
+5% aaaaR RiRiaair awaa -
+IIUII ^-a*§iiRi$aafau^a^ ii {-Vs 8ll(ta i)
+“ ” rllffaRRI ^aiaa*!*! a>R<m
+*T5f IT it giar, «qi:, W?Tg55*^:-3^ ifaaifis:! SR55*HT
+a a a>a naia frit: i s«t afaa*i %*«NaJretaf 5
+R;a*ii7aai%rniaT aa wfo** > aitff - *ai
+S3
+*ma>ra f^ifRf ifia aiaaR*:taj, ^TfRifaii
+sriaaRiT iiarRiinai® w««tRia i aiari iwn
+HiaitaTOSRia, RITI*I =1 afRRa RITiasiaiaiattfTraia I 3TI %Il% rRrllRTirTfRT RIin^l^R S*ifa
+sarwcaaiia iWSlww fiiia, af r a, RiRiitaia i
+qtafaiiiairca ar riht ^*jrt *R*iHiitfa Rina i
+atearroar iffin aa ^faarn>rciirat iffii: nun
+artaaRRaai ircftfa -
+“ aKaiRsjmai ’’ fRifqa: anaqRRaaH, “ f|w
+q: sail ’ ‘ ft*«I?RW f^iaifl ” ftllfliaabrga ftsifaftisi Riaiifaia i faainfRTa^ faaRi ar
+Hifina i fffr^ srrsjui anaftrifar i aawaaarat
+aareisaiRf aiarci riit. « ara fffrci aRiafjiai aia
+iif%a qftqpniRraiatai^: i RfanaaTffisfT sorifaanflifli«! i \\^
+*it sjiraraia fgr^cin aairaRmnriaff i sraw ,ai% Riaiaiaai%**arfRRa fT®fara*3aRRtRirnR!iari
+t fauanfgraa *reanaarcrr rana^ircd*! aitam aaa?f
+w sa**i taar%a aasRi areiamrer i arwq- rr^ri
+iri: I “ i^afi iVj^rt aigfaar arma ” fcarff
+na^r ii*rr iirsaiM awarari sas;i aRTKsjiua ai ;
+I^I : » '5ffl«f, «aH5*ai«J I Raia^-aTiuRR^qajqiqir^^r; i
+lanufaiiiai faarareaa: i ?ir: - irr ariRiaia
+RR i ariai? RfT aaifrTfaa i 3rf<Ri jjaniifa
+lafraar i arcana - gfasirc garrar^ , <^ r =a «rit -
+©s
+“ 5ar aan ifanjan R^reaRa q?»af ” fft i
+ifwrca aa^aFamiaR r^ki isaar^maaN affair ” rffa i R?rfa: - r^i^ - ^afrafirir
+ifiri ffa ai, i 5 i - r^ aw* - an^fiirarana
+taafaia, fa: - ^n^arK^PfiR sfrreni^ ^rmaaa:i: a»Rii
+fTsia i Rfiia - unfaanfcq: 3aaR i ain^S^ _ « jj.
+a^fia- amiRi srsmrsta ” iRiasirta iR^ryr.
+ramffa i
+i^iit gaa iraara *R;ar®fan: rr:, “
+jfPSti’ Rfiif ^aaRarrffrta: mfa ^r ffor&rftft
+Siawa aaiffniit fraasr-,- Rai^ianr»iRfa:a i iiraa
+arraiT^aa^Fi - “ iwraai fao-i^i rwc^r fa^Rsqq^ »
+Digitised by Ajit Gargeshwari For
+Karnataka Samskrita University
+
+l\o waigairsaft I
+'fawakTsaainT wsreiRfiMsa ii ” fia t aia: aaasms
+famaraaqa: 1 anfmmgamraam aigaawarr? vqran
+asirea ^Rirriwra 1 aar;ma grcmaf^a^maqRaRsa
+sasnia, siaia fcqffgfRgwRim mam^arra aiaqa^rij; 1
+SR*: “ 3 T%rM «7 g?VRTa ” fRaa, aa TOiaa* 3 S
+^T 3 ^r^«r am«taia?ai asa?aiaaiagi?R*g samara a v*
+^^TOT aSVTPfia 1 3 T%cT%r^ #a?gra<l 3 R *§R: I W
+=ta ^5 aa TCliraiigltr 3 tT <^ 1 %% *aH%aa«S<fua
+• %aa?ai<rarc: 1 srraiaa^g- ara 15 atgamr aa s?twir >! '
+^mflcT aa ^TRaitga SaRT aiai RRRa ,
+Iffa sar^nmaanaa: g'rqpfmfir 1 “ ita tWi ” raaiiaaRR
+>aa %aamar %a?a sftsraRmmn 11 11
+artfmaaa arcs*:Ta -
+II U ll ^-*pn^flRj^wn5 11 \-\-%i il( fa - O
+wasa:, aa tagor r^rSt R*rman?a, aaararacaigsg,
+M
+aai - “ <?a> Sa HZ ” fraiifl 1 3 R ft a ^ 9 R!R sa^aal
+aa HZZK lil^ I aifa ^paRa* 5 ri*ai?axg% I
+arfqafs aRia^maa a^aigjR gaaa, “ an*a*a a^assa
+^asa ” f fir aia atraia^rrcR 1 am =a ana* - “ saras:
+aara [ aRpt ] HZ- 7 ar zhz ama aia zzi ??siada ”
+fR 1 sgaw?gimg*ta: yxz:, am-“ 3 TRTa#i tffia^Rftsr ”
+wai?fr 1 as u«tt afaniggs^sR , sawras ‘a*am*a
+A
+Digitised by Ajit Gargeshwari Fo
+faw tfiatar |
+m
+arg®!^; ’ * faaaawaiRars ’ ftarsugarimn ^amass
+a^ra 1 m$a: - “ ssssa^g ” waif?, sarsatassH?
+Wsroia: ^maaRma'as 1 argar^iaa gasif^rms aia
+Stmafa msa aatfsaia asfsaRT srigg;vjRrs 11 \% 11
+ass a *gi*ms*s*FR^§ng)s*nTt ass ? ia, ssr -
+II' II a - l^naaawmaia II » - ^ - ^ 11 (fa-«0
+*arvaia5rs<nga® samarar**! aara'r s>«w*srarnra 1
+asr «ass aansma saiissmifiR sRPagsa afnasTR,
+aa amaina asRR ^aasnara aqgafs 1 asjirr smrer*
+S3
+aia: m°sa$rsTaq 7 i*isr sms crisis 1 as sps araafa fa
+Sraas 1 srs a^iamfsr i%aa a^^ra ai¥a^a;aria-
+%a? ^TRiaiai f^iaaaia: 1 wissNa aaa* air
+^%iaaa ^anmaiia fra 1% aa a€if ai% ?
+war fimia^q aiaarKia^q =a ^ar?:?q Hfagsaia 11 ^11
+aa aia j% ravmgasrigr 3^ar ^maRaaa a, aars -
+11 u ll «a: qwftiiiaa tl \ ■ n - *< n(i%-t<>)
+“ ^aa ’’fRiRaRRiq aufai«?aa ?ra samp? a.a®
+asgraaRi aiafnaR 1 aa araai RJ»ia:fa, a^rr
+saRrm ^aRa^ai f faaaa «i«ara araa «gR?iaraaaT
+araruqvraa^aia i ara aa ^aa aq^fnar rea ^afg^a
+Karnataka Samskrita University
+
+NO "
+i snsiTpr sis fir^q:, yr*?^
+< , n**<TSIS^ SS JRR ftsqri m 'ic II
+r
+M*. II S - Sth ^nssrom* IK M - »s,l| (%-U)
+st? fr;rrH?wq[:rn^3$Tn?i sRsrc gr??r
+w: i ^s^sro^rfa wnmii^ii:
+ssrtfsi^: I ^r* ^mr SRsmswr?? * ■ "
+wsct:, s<?t m^?#T?
+?swjtn; j ^
+f?%^, fr? s?? Jncisrsis srss<rrfa ?? g^ f *
+^ ?r? *PKt ssss, zzti ^TZKZl ???^ r '
+«« SS 9 SIVIR fg|% II V<\ II
+w Sire ^3 qR*ii:, OT S,% at ^
+Mo II s - #JTrq&T «J SS&RJ II $-^0 ,1 (%.^)
+“ ? r inwrf^j
+wmwTwraxss * foss <rsronifrr$it irarcirift*
+^mfcjRas?* , ** *rfa ^^*r%
+I srqnr^g s% s|s?r?r *sr%cr:, ?r
+«i %?cfi% ?r nr^~?% i itv*tssstt5fs sjt? rwRtst \
+Digitised by Ajit Gargeshwari For
+3 ?w?«t%|;* fTR? sTSi 5 saw«ssfs<n fs^sis^ressssis i
+3 jivn?q ^ri4tss$n s?sK°t s sas 51 s hwgissivs^’i®
+f?fs?i3T?»?T?ST3^pc: , JT n?smi tssf^sisRiergr ftfs m°n
+«r assist ssjpit ssfirs^Ti ^rr^sia 1 s$s?
+ff^gis: *r?snm fgfiat ssgfss: sfnsssrsi ^fi s sq s 1
+UfRI SI?sf%Sl«H S?ST S^SH^sisOTT^WSISSIST,
+^ lifTcnm? *SS jtfSfRl S3W HES^EIS S S^Sf ? 3TO
+JT^rTI ^«TS5ET?TH^I?^?RT, S^T SST???T Shifts 1S$-
+ynSSSSKTSTST ^«TSI gS^WTS =S?jfl'S!?RSsn^T ^fl«JST3 I
+S3 S^TSStSST S T%TS 5T?S S’SS, ?S!SS % f^T-
+«?S? R^TOI TSSISTSWtS ?STSH(?:, nn?M^I^S®T ^
+ISSl%SISS rSPSPSTSTS’n^ t SS- WSSTSSSTHT • SSTT?-
+“ S HTST SUS S m” r?f TRWfS S
+. ?^r, t?%sist?>3?s 3T;??t?ra»T*s^ i
+?R«I S? S5Ria»ivj:? ??a, S5T? m?T?TSr *T«T(Sl SSSS^ST
+, lif^ST 3% mFt^SS, JTfSW'i<i>3lS ■, JT?r: s^ss??^sist
+*TT?[I^IIS?TSt 15 ?=?S ^S?JfTrfI% W?ST ISIS
+i 3T?=sifT m?(%sms?i «ss?s fs^rswi^s
+SlSTRSra'njirT'SIST SS?S^S3 UlSM^stlS I
+NO
+“ hwst?v?s ” srroi5[t s ?SS 3 ? : smis^s, !%?s
+w^sijfss ’s^ssss^ra fs^isiss ^risinsssirfs
+<arnataka Samskrita University
+
+SIHjR^asi I
+w*
+fevtWTroa, ara g>g *rrrr Kgamwwwg^ i
+?rvr, faRgisrariggr^i stwrr i ?grasrwT^i3^i^i *5^1
+gi nre*g *g®g?rsg ^TRfjgaRtgggg Jntisw? i gto
+gfRT Rgi^arogf g*gg$gm: i
+rare “ 3r;g^g<g: ggugxgq JRRigng ” m Rtgni^i
+gf«rgfi?g?r i mg^ g$mggrgg$ngi ^qraigg^gRiiVdi
+II ^ II \ - HGfeFSW II t - s ^ || ( i% - U )
+fa snggRT hrrrr i argircg gR^rafRiTOT*
+grr^oi gigfit sgig% - ‘ ?grqi5r?g?gif :, fgggisi gsrnHi^
+siri ” r^rif%% i gi^oTrgg^ ^m*g g^rg g;gi*5Ri
+str - “ a^grvggar ” “ a^a^Ror ” fgiRW i argi%^r *g g;g*g gf iw ^gangaggai: i arggg
+iggRiffara iggr?a fasaa amia i aTiggigaigcg
+gRpni gjgwareg ngggjgf*ga i
+arg ruggtg.' i Ratal gggcg a^fq^wjjTigr g?gg
+atgaraaq; i 3Trgg%cri«j?ri<J sgRmag'tefT gg-4fag% saf
+*Nri3Tf^m: gtsRt i a?iggTggafggT%aTgrg ansr i
+aR saf g^iRnfg $j?ggtgfaigggT f r gnggi%gig<g
+artgfga sr*tg;ana i
+asm ;mgi: mg^fimg^ «gsg «gg Rutagigafta
+gt srma fma f%5C*i i
+sri§w fgtgstgsa maigmagT^: i
+arggar§ar mgtat mgarr^ganRat ii
+%w jfmrai | \\<\
+iqsqgRfggaiRgt «r;gr: lKf% fig fsaai: I
+amfg sgiagmat gmasgig^ga n
+Rtwaiggreg ggiwggifggi i
+maa wn ®»a aiRt %a [ ga«ga ] *g$ga n
+aigf^ggg^rers: maiasmaiaaq; i
+3R%g aft $a rr srrenmmam n
+g*rg*srm*sgR aaarg*rag a i
+9 s?ggtg«gmag ^rgtsg imat%g? h
+g^ramt gar tiiasnaa a 5Ra i
+agi tgiggsNra matai wf rere^R »
+fTcT ^WTTSR^m || 8 ||
+ggg snsra fam:
+msirerai aaRR t
+«<rgqgq;T?ra
+aaris ga mt%r: n
+?r wi
+atfoatf^qr fottrcg a«fa ; a waRR
+sfiasatsaww g*i;afaig*g ^ffl
+awawiat^g g»i4iRRmiR
+gggsgi tgtgrq
+feffa: <*r?: II * II
+i?
+- » II II
+Digitised by Ajit Gargeshwari Fo*
+<arnataka Samskrita University
+
+Ka /
+SRI CHAMARAJENDRA SANSKRIT COLLEGE
+LIBRARY
+Class /C^\
+1 ent iReturne dl Lent
+Returned | lent 'Returned
+SRI CHAMARAJENDRA SANSKRIT COLLEGE
+LIBRARY
+This book was loaned on the last date mentioned below
+and it is returnable within a fortnight therefrom unless
+the loan is renewed.
+JII41.M n P.
+Digitised by Ajit Gargeshwari For Karnataka Samskrita University
+U
+MmLwmmmi HBmsza

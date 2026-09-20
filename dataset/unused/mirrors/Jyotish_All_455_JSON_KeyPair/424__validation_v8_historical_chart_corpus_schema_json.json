@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "424__validation_v8_historical_chart_corpus_schema_json",
+    "name": "HoraSaar V8 Historical Chart Corpus",
+    "original_file": "validation/v8/historical-chart-corpus.schema.json",
+    "dataset_number": "424 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v8_historical-chart-corpus.schema.txt",
+    "source_sha256": "5bed4977b9ca01e78712eb38bea22bccc085c1de77e5c386181f0e3b9236bd18",
+    "source_bytes": 2071
+  },
+  "metadata": {
+    "title": "HoraSaar V8 Historical Chart Corpus"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "HoraSaar V8 Historical Chart Corpus",
+      "type": "object",
+      "required": {
+        "_items": [
+          {
+            "_text": [
+              "id"
+            ]
+          },
+          {
+            "_text": [
+              "birth"
+            ]
+          },
+          {
+            "_text": [
+              "location"
+            ]
+          },
+          {
+            "_text": [
+              "source"
+            ]
+          },
+          {
+            "_text": [
+              "verification"
+            ]
+          },
+          {
+            "_text": [
+              "expected"
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 3
+        },
+        "birth": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "date"
+                ]
+              },
+              {
+                "_text": [
+                  "time"
+                ]
+              },
+              {
+                "_text": [
+                  "timezone"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "date": {
+              "type": "string"
+            },
+            "time": {
+              "type": "string"
+            },
+            "timezone": {
+              "type": "number"
+            }
+          }
+        },
+        "location": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "latitude"
+                ]
+              },
+              {
+                "_text": [
+                  "longitude"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "latitude": {
+              "type": "number",
+              "minimum": -90,
+              "maximum": 90
+            },
+            "longitude": {
+              "type": "number",
+              "minimum": -180,
+              "maximum": 180
+            }
+          }
+        },
+        "source": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "kind"
+                ]
+              },
+              {
+                "_text": [
+                  "citation"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "kind": {
+              "type": "string"
+            },
+            "citation": {
+              "type": "string"
+            },
+            "retrievedAt": {
+              "type": "string"
+            }
+          }
+        },
+        "verification": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "status"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "status": {
+              "enum": {
+                "_items": [
+                  {
+                    "_text": [
+                      "verified"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "unverified"
+                    ]
+                  }
+                ]
+              }
+            },
+            "method": {
+              "type": "string"
+            }
+          }
+        },
+        "expected": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "provider"
+                ]
+              },
+              {
+                "_text": [
+                  "values"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "provider": {
+              "type": "string"
+            },
+            "values": {
+              "type": "object"
+            }
+          }
+        }
+      },
+      "additionalProperties": "Yes"
+    }
+  }
+}

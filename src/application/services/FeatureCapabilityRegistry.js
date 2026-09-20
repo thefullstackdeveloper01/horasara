@@ -1,0 +1,6 @@
+import { REPORT_FEATURES } from '../../../config/ReportFeatures.js';
+import capabilityData from '../../../dataset/used/core/feature-capabilities.json' with { type: 'json' };
+const STATUS=Object.freeze(['VERIFIED','AVAILABLE','PARTIAL','EXPERIMENTAL','UNSUPPORTED','NOT_IMPLEMENTED','DEPRECATED']);
+const catalog=new Map(capabilityData.map(([id,status,calculation,interpretation])=>[id,{status,calculation,interpretation}]));
+export class FeatureCapabilityRegistry{constructor(entries=catalog){this.entries=new Map(entries);}register(id,capability){if(!id||typeof id!=='string')throw new TypeError('Feature id must be a non-empty string');if(!capability||!STATUS.includes(capability.status))throw new TypeError(`Invalid feature capability status for ${id}`);this.entries.set(id,Object.freeze({...capability}));return this;}get(id){return this.entries.get(id)||Object.freeze({status:'NOT_IMPLEMENTED',calculation:'UNAVAILABLE',interpretation:'UNAVAILABLE'});}list(){return Object.freeze([...new Set([...REPORT_FEATURES,...this.entries.keys()])].map(id=>Object.freeze({id,enabled:REPORT_FEATURES.includes(id),...this.get(id)})));}assertKnownEnabled(){const unknown=REPORT_FEATURES.filter(id=>!this.entries.has(id));if(unknown.length)throw new Error(`Enabled report features missing capability metadata: ${unknown.join(', ')}`);return true;}}
+export {STATUS};

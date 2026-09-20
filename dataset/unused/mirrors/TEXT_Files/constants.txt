@@ -1,0 +1,3845 @@
+READABLE DATASET
+================================================================================
+Original file: constants.json
+Dataset number: 88 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 50,248 bytes
+Top-level fields: 80
+
+CONTENT
+--------------------------------------------------------------------------------
+• ASHTAK_CONTRIBUTIONS:
+  • Sun:
+    • Sun:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        9
+      7.
+        10
+      8.
+        11
+    • Moon:
+      1.
+        3
+      2.
+        6
+      3.
+        10
+      4.
+        11
+    • Mars:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        9
+      7.
+        10
+      8.
+        11
+    • Mercury:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        9
+      5.
+        10
+      6.
+        11
+      7.
+        12
+    • Jupiter:
+      1.
+        5
+      2.
+        6
+      3.
+        9
+      4.
+        11
+    • Venus:
+      1.
+        6
+      2.
+        7
+      3.
+        12
+    • Saturn:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        9
+      7.
+        10
+      8.
+        11
+    • Lagna:
+      1.
+        3
+      2.
+        4
+      3.
+        6
+      4.
+        10
+      5.
+        11
+      6.
+        12
+  • Moon:
+    • Sun:
+      1.
+        3
+      2.
+        6
+      3.
+        7
+      4.
+        8
+      5.
+        10
+      6.
+        11
+    • Moon:
+      1.
+        1
+      2.
+        3
+      3.
+        6
+      4.
+        7
+      5.
+        10
+      6.
+        11
+    • Mars:
+      1.
+        2
+      2.
+        3
+      3.
+        5
+      4.
+        6
+      5.
+        9
+      6.
+        10
+      7.
+        11
+    • Mercury:
+      1.
+        1
+      2.
+        3
+      3.
+        4
+      4.
+        5
+      5.
+        7
+      6.
+        8
+      7.
+        10
+      8.
+        11
+    • Jupiter:
+      1.
+        1
+      2.
+        4
+      3.
+        7
+      4.
+        8
+      5.
+        10
+      6.
+        11
+      7.
+        12
+    • Venus:
+      1.
+        3
+      2.
+        4
+      3.
+        5
+      4.
+        7
+      5.
+        9
+      6.
+        10
+      7.
+        11
+    • Saturn:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        11
+    • Lagna:
+      1.
+        3
+      2.
+        6
+      3.
+        10
+      4.
+        11
+  • Mars:
+    • Sun:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        10
+      5.
+        11
+    • Moon:
+      1.
+        3
+      2.
+        6
+      3.
+        11
+    • Mars:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        10
+      7.
+        11
+    • Mercury:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        11
+    • Jupiter:
+      1.
+        6
+      2.
+        10
+      3.
+        11
+      4.
+        12
+    • Venus:
+      1.
+        6
+      2.
+        8
+      3.
+        11
+      4.
+        12
+    • Saturn:
+      1.
+        1
+      2.
+        4
+      3.
+        7
+      4.
+        8
+      5.
+        9
+      6.
+        10
+      7.
+        11
+    • Lagna:
+      1.
+        1
+      2.
+        3
+      3.
+        6
+      4.
+        10
+      5.
+        11
+  • Mercury:
+    • Sun:
+      1.
+        5
+      2.
+        6
+      3.
+        9
+      4.
+        11
+      5.
+        12
+    • Moon:
+      1.
+        2
+      2.
+        4
+      3.
+        6
+      4.
+        8
+      5.
+        10
+      6.
+        11
+    • Mars:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        9
+      7.
+        10
+      8.
+        11
+    • Mercury:
+      1.
+        1
+      2.
+        3
+      3.
+        5
+      4.
+        6
+      5.
+        9
+      6.
+        10
+      7.
+        11
+      8.
+        12
+    • Jupiter:
+      1.
+        6
+      2.
+        8
+      3.
+        11
+      4.
+        12
+    • Venus:
+      1.
+        1
+      2.
+        2
+      3.
+        3
+      4.
+        4
+      5.
+        5
+      6.
+        8
+      7.
+        9
+      8.
+        11
+    • Saturn:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        9
+      7.
+        10
+      8.
+        11
+    • Lagna:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        6
+      5.
+        8
+      6.
+        10
+      7.
+        11
+  • Jupiter:
+    • Sun:
+      1.
+        1
+      2.
+        2
+      3.
+        3
+      4.
+        4
+      5.
+        7
+      6.
+        8
+      7.
+        9
+      8.
+        10
+      9.
+        11
+    • Moon:
+      1.
+        2
+      2.
+        5
+      3.
+        7
+      4.
+        9
+      5.
+        11
+    • Mars:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        10
+      7.
+        11
+    • Mercury:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        5
+      5.
+        6
+      6.
+        9
+      7.
+        10
+      8.
+        11
+    • Jupiter:
+      1.
+        1
+      2.
+        2
+      3.
+        3
+      4.
+        4
+      5.
+        7
+      6.
+        8
+      7.
+        10
+      8.
+        11
+    • Venus:
+      1.
+        2
+      2.
+        5
+      3.
+        6
+      4.
+        9
+      5.
+        10
+      6.
+        11
+    • Saturn:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        12
+    • Lagna:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        5
+      5.
+        6
+      6.
+        7
+      7.
+        9
+      8.
+        10
+      9.
+        11
+  • Venus:
+    • Sun:
+      1.
+        8
+      2.
+        11
+      3.
+        12
+    • Moon:
+      1.
+        1
+      2.
+        2
+      3.
+        3
+      4.
+        4
+      5.
+        5
+      6.
+        8
+      7.
+        9
+      8.
+        11
+      9.
+        12
+    • Mars:
+      1.
+        3
+      2.
+        4
+      3.
+        6
+      4.
+        9
+      5.
+        11
+      6.
+        12
+    • Mercury:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        9
+      5.
+        11
+    • Jupiter:
+      1.
+        5
+      2.
+        8
+      3.
+        9
+      4.
+        10
+      5.
+        11
+    • Venus:
+      1.
+        1
+      2.
+        2
+      3.
+        3
+      4.
+        4
+      5.
+        5
+      6.
+        8
+      7.
+        9
+      8.
+        10
+      9.
+        11
+    • Saturn:
+      1.
+        3
+      2.
+        4
+      3.
+        5
+      4.
+        8
+      5.
+        9
+      6.
+        10
+      7.
+        11
+    • Lagna:
+      1.
+        1
+      2.
+        2
+      3.
+        3
+      4.
+        4
+      5.
+        5
+      6.
+        8
+      7.
+        9
+      8.
+        11
+  • Saturn:
+    • Sun:
+      1.
+        1
+      2.
+        2
+      3.
+        4
+      4.
+        7
+      5.
+        8
+      6.
+        10
+      7.
+        11
+    • Moon:
+      1.
+        3
+      2.
+        6
+      3.
+        11
+    • Mars:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        10
+      5.
+        11
+      6.
+        12
+    • Mercury:
+      1.
+        6
+      2.
+        8
+      3.
+        9
+      4.
+        10
+      5.
+        11
+      6.
+        12
+    • Jupiter:
+      1.
+        5
+      2.
+        6
+      3.
+        11
+      4.
+        12
+    • Venus:
+      1.
+        6
+      2.
+        11
+      3.
+        12
+    • Saturn:
+      1.
+        3
+      2.
+        5
+      3.
+        6
+      4.
+        11
+    • Lagna:
+      1.
+        1
+      2.
+        3
+      3.
+        4
+      4.
+        6
+      5.
+        10
+      6.
+        11
+• ASHTOTTARI_ORDER:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Saturn
+  6.
+    Jupiter
+  7.
+    Rahu
+  8.
+    Venus
+• ASHTOTTARI_YEARS:
+  • Sun: 6
+  • Moon: 15
+  • Mars: 8
+  • Mercury: 17
+  • Saturn: 10
+  • Jupiter: 19
+  • Rahu: 12
+  • Venus: 21
+• BINDU_TABLE:
+  • Sun:
+    • 1: 5
+    • 2: 6
+    • 3: 3
+    • 4: 5
+    • 5: 3
+    • 6: 2
+    • 7: 3
+    • 8: 0
+    • 9: 1
+    • 10: 0
+    • 11: 1
+    • 12: 4
+  • Moon:
+    • 1: 6
+    • 2: 6
+    • 3: 2
+    • 4: 2
+    • 5: 4
+    • 6: 1
+    • 7: 4
+    • 8: 1
+    • 9: 6
+    • 10: 1
+    • 11: 5
+    • 12: 6
+  • Mars:
+    • 1: 4
+    • 2: 5
+    • 3: 7
+    • 4: 2
+    • 5: 0
+    • 6: 5
+    • 7: 6
+    • 8: 3
+    • 9: 5
+    • 10: 0
+    • 11: 6
+    • 12: 0
+  • Mercury:
+    • 1: 5
+    • 2: 2
+    • 3: 1
+    • 4: 8
+    • 5: 7
+    • 6: 8
+    • 7: 0
+    • 8: 7
+    • 9: 1
+    • 10: 3
+    • 11: 8
+    • 12: 0
+  • Jupiter:
+    • 1: 5
+    • 2: 0
+    • 3: 6
+    • 4: 6
+    • 5: 7
+    • 6: 1
+    • 7: 7
+    • 8: 7
+    • 9: 0
+    • 10: 8
+    • 11: 1
+    • 12: 3
+  • Venus:
+    • 1: 6
+    • 2: 3
+    • 3: 0
+    • 4: 4
+    • 5: 4
+    • 6: 8
+    • 7: 0
+    • 8: 4
+    • 9: 0
+    • 10: 5
+    • 11: 2
+    • 12: 0
+  • Saturn:
+    • 1: 4
+    • 2: 7
+    • 3: 3
+    • 4: 6
+    • 5: 3
+    • 6: 8
+    • 7: 3
+    • 8: 2
+    • 9: 5
+    • 10: 8
+    • 11: 2
+    • 12: 7
+  • Rahu:
+    • 1: 1
+    • 2: 0
+    • 3: 2
+    • 4: 4
+    • 5: 0
+    • 6: 5
+    • 7: 0
+    • 8: 7
+    • 9: 6
+    • 10: 8
+    • 11: 0
+    • 12: 0
+  • Ketu:
+    • 1: 3
+    • 2: 6
+    • 3: 1
+    • 4: 4
+    • 5: 5
+    • 6: 0
+    • 7: 0
+    • 8: 0
+    • 9: 8
+    • 10: 6
+    • 11: 1
+    • 12: 0
+• CHOGHADIYA_DAY:
+  • 0:
+    1.
+      Udveg
+    2.
+      Char
+    3.
+      Labh
+    4.
+      Amrit
+    5.
+      Kaal
+    6.
+      Shubh
+    7.
+      Rog
+    8.
+      Udveg
+  • 1:
+    1.
+      Amrit
+    2.
+      Kaal
+    3.
+      Shubh
+    4.
+      Rog
+    5.
+      Udveg
+    6.
+      Char
+    7.
+      Labh
+    8.
+      Amrit
+  • 2:
+    1.
+      Rog
+    2.
+      Udveg
+    3.
+      Char
+    4.
+      Labh
+    5.
+      Amrit
+    6.
+      Kaal
+    7.
+      Shubh
+    8.
+      Rog
+  • 3:
+    1.
+      Labh
+    2.
+      Amrit
+    3.
+      Kaal
+    4.
+      Shubh
+    5.
+      Rog
+    6.
+      Udveg
+    7.
+      Char
+    8.
+      Labh
+  • 4:
+    1.
+      Shubh
+    2.
+      Rog
+    3.
+      Udveg
+    4.
+      Char
+    5.
+      Labh
+    6.
+      Amrit
+    7.
+      Kaal
+    8.
+      Shubh
+  • 5:
+    1.
+      Char
+    2.
+      Labh
+    3.
+      Amrit
+    4.
+      Kaal
+    5.
+      Shubh
+    6.
+      Rog
+    7.
+      Udveg
+    8.
+      Char
+  • 6:
+    1.
+      Kaal
+    2.
+      Shubh
+    3.
+      Rog
+    4.
+      Udveg
+    5.
+      Char
+    6.
+      Labh
+    7.
+      Amrit
+    8.
+      Kaal
+• CHOGHADIYA_INFO:
+  • Amrit:
+    • lord: Moon
+    • nature: Excellent
+    • work: All auspicious works
+  • Shubh:
+    • lord: Jupiter
+    • nature: Excellent
+    • work: Religious/spiritual work, investments
+  • Labh:
+    • lord: Mercury
+    • nature: Good
+    • work: Business, buying/selling, trade
+  • Char:
+    • lord: Venus
+    • nature: Good
+    • work: Travel, movement, arts
+  • Udveg:
+    • lord: Sun
+    • nature: Bad
+    • work: Avoid new starts, government work only
+  • Rog:
+    • lord: Mars
+    • nature: Bad
+    • work: Avoid all peaceful activities
+  • Kaal:
+    • lord: Saturn
+    • nature: Very Bad
+    • work: Avoid everything important
+• CHOGHADIYA_NIGHT:
+  • 0:
+    1.
+      Shubh
+    2.
+      Amrit
+    3.
+      Char
+    4.
+      Rog
+    5.
+      Kaal
+    6.
+      Labh
+    7.
+      Udveg
+    8.
+      Shubh
+  • 1:
+    1.
+      Char
+    2.
+      Rog
+    3.
+      Kaal
+    4.
+      Labh
+    5.
+      Udveg
+    6.
+      Shubh
+    7.
+      Amrit
+    8.
+      Char
+  • 2:
+    1.
+      Kaal
+    2.
+      Labh
+    3.
+      Udveg
+    4.
+      Shubh
+    5.
+      Amrit
+    6.
+      Char
+    7.
+      Rog
+    8.
+      Kaal
+  • 3:
+    1.
+      Udveg
+    2.
+      Shubh
+    3.
+      Amrit
+    4.
+      Char
+    5.
+      Rog
+    6.
+      Kaal
+    7.
+      Labh
+    8.
+      Udveg
+  • 4:
+    1.
+      Amrit
+    2.
+      Char
+    3.
+      Rog
+    4.
+      Kaal
+    5.
+      Labh
+    6.
+      Udveg
+    7.
+      Shubh
+    8.
+      Amrit
+  • 5:
+    1.
+      Rog
+    2.
+      Kaal
+    3.
+      Labh
+    4.
+      Udveg
+    5.
+      Shubh
+    6.
+      Amrit
+    7.
+      Char
+    8.
+      Rog
+  • 6:
+    1.
+      Labh
+    2.
+      Udveg
+    3.
+      Shubh
+    4.
+      Amrit
+    5.
+      Char
+    6.
+      Rog
+    7.
+      Kaal
+    8.
+      Labh
+• COMBUST_ORBS:
+  • Moon: 12
+  • Mars: 17
+  • Mercury:
+    • direct: 3
+    • retro: 3
+    • cazimi: 1
+  • Jupiter: 11
+  • Venus:
+    • direct: 10
+    • retro: 8
+    • cazimi: 0.5
+  • Saturn: 15
+• DASHA_ORDER:
+  1.
+    Ketu
+  2.
+    Venus
+  3.
+    Sun
+  4.
+    Moon
+  5.
+    Mars
+  6.
+    Rahu
+  7.
+    Jupiter
+  8.
+    Saturn
+  9.
+    Mercury
+• DASHA_YEARS:
+  • Ketu: 7
+  • Venus: 20
+  • Sun: 6
+  • Moon: 10
+  • Mars: 7
+  • Rahu: 18
+  • Jupiter: 16
+  • Saturn: 19
+  • Mercury: 17
+• DEBILITATION:
+  • Sun:
+    • sign: Libra
+    • deg: 10
+  • Moon:
+    • sign: Scorpio
+    • deg: 3
+  • Mars:
+    • sign: Cancer
+    • deg: 28
+  • Mercury:
+    • sign: Pisces
+    • deg: 15
+  • Jupiter:
+    • sign: Capricorn
+    • deg: 5
+  • Venus:
+    • sign: Virgo
+    • deg: 27
+  • Saturn:
+    • sign: Aries
+    • deg: 20
+  • Rahu:
+    • sign: Sagittarius
+    • deg: 20
+  • Ketu:
+    • sign: Gemini
+    • deg: 20
+• DEFAULT_FALLBACK_PLACE:
+  • name: New Delhi, India
+  • lat: 28.6139
+  • lon: 77.209
+  • tz: 5.5
+• DEFAULT_TZ_IST: 5.5
+• DIG_BALA_HOUSE:
+  • Sun: 10
+  • Moon: 4
+  • Mars: 10
+  • Mercury: 1
+  • Jupiter: 1
+  • Venus: 4
+  • Saturn: 7
+• EXALTATION:
+  • Sun:
+    • sign: Aries
+    • deg: 10
+  • Moon:
+    • sign: Taurus
+    • deg: 3
+  • Mars:
+    • sign: Capricorn
+    • deg: 28
+  • Mercury:
+    • sign: Virgo
+    • deg: 15
+  • Jupiter:
+    • sign: Cancer
+    • deg: 5
+  • Venus:
+    • sign: Pisces
+    • deg: 27
+  • Saturn:
+    • sign: Libra
+    • deg: 20
+  • Rahu:
+    • sign: Gemini
+    • deg: 20
+  • Ketu:
+    • sign: Sagittarius
+    • deg: 20
+• GANA:
+  • Ashwini: Deva
+  • Bharani: Manushya
+  • Krittika: Rakshasa
+  • Rohini: Manushya
+  • Mrigashira: Deva
+  • Ardra: Manushya
+  • Punarvasu: Deva
+  • Pushya: Deva
+  • Ashlesha: Rakshasa
+  • Magha: Rakshasa
+  • Purva Phalguni: Manushya
+  • Uttara Phalguni: Manushya
+  • Hasta: Deva
+  • Chitra: Rakshasa
+  • Swati: Deva
+  • Vishakha: Rakshasa
+  • Anuradha: Deva
+  • Jyeshtha: Rakshasa
+  • Mula: Rakshasa
+  • Purva Ashadha: Manushya
+  • Uttara Ashadha: Manushya
+  • Shravana: Deva
+  • Dhanishtha: Rakshasa
+  • Shatabhisha: Rakshasa
+  • Purva Bhadrapada: Manushya
+  • Uttara Bhadrapada: Manushya
+  • Revati: Deva
+• GEMSTONE_REMEDIES:
+  • Sun:
+    • gem: Ruby (Manik)
+    • metal: Gold (24K)
+    • mantra: Om Hraam Hreem Hraum Sah Suryaya Namah
+    • rudraksha: 1 Mukhi
+    • day: Sunday
+    • color: Red/Orange
+    • fast: Sunday
+  • Moon:
+    • gem: Natural Pearl (Moti)
+    • metal: Silver
+    • mantra: Om Shraam Shreem Shraum Sah Chandraya Namah
+    • rudraksha: 2 Mukhi
+    • day: Monday
+    • color: White/Cream
+    • fast: Monday
+  • Mars:
+    • gem: Red Coral (Moonga)
+    • metal: Gold/Copper
+    • mantra: Om Kraam Kreem Kraum Sah Bhaumaya Namah
+    • rudraksha: 3 Mukhi
+    • day: Tuesday
+    • color: Red/Scarlet
+    • fast: Tuesday
+  • Mercury:
+    • gem: Emerald (Panna)
+    • metal: Gold
+    • mantra: Om Braam Breem Braum Sah Budhaya Namah
+    • rudraksha: 4 Mukhi
+    • day: Wednesday
+    • color: Green
+    • fast: Wednesday
+  • Jupiter:
+    • gem: Yellow Sapphire (Pukhraj)
+    • metal: Gold (22K+)
+    • mantra: Om Graam Greem Graum Sah Gurave Namah
+    • rudraksha: 5 Mukhi
+    • day: Thursday
+    • color: Yellow/Gold
+    • fast: Thursday
+  • Venus:
+    • gem: Diamond / White Sapphire (Heera/Safed Pukhraj)
+    • metal: Silver/Platinum
+    • mantra: Om Draam Dreem Draum Sah Shukraya Namah
+    • rudraksha: 6 Mukhi
+    • day: Friday
+    • color: White/Pink
+    • fast: Friday
+  • Saturn:
+    • gem: Blue Sapphire (Neelam)
+    • metal: Iron/Steel
+    • mantra: Om Praam Preem Praum Sah Shanaischaraya Namah
+    • rudraksha: 7 Mukhi
+    • day: Saturday
+    • color: Blue/Black
+    • fast: Saturday
+  • Rahu:
+    • gem: Hessonite Garnet (Gomed)
+    • metal: Lead/Panchdhatu
+    • mantra: Om Raam Reem Raum Sah Rahave Namah
+    • rudraksha: 8 Mukhi
+    • day: Saturday
+    • color: Smoky Brown
+    • fast: Saturday
+  • Ketu:
+    • gem: Cat's Eye (Lehsunia/Vaidurya)
+    • metal: Iron/Panchdhatu
+    • mantra: Om Sraam Sreem Sraum Sah Ketave Namah
+    • rudraksha: 9 Mukhi
+    • day: Tuesday
+    • color: Spotted/Mixed
+    • fast: Tuesday
+• GHATAK:
+  • Aries:
+    • day: Saturday
+    • nakshatra: Rohini
+    • rasi: Capricorn
+    • tithi: Chaturthi
+  • Taurus:
+    • day: Sunday
+    • nakshatra: Ardra
+    • rasi: Aquarius
+    • tithi: Saptami
+  • Gemini:
+    • day: Monday
+    • nakshatra: Punarvasu
+    • rasi: Pisces
+    • tithi: Ekadashi
+  • Cancer:
+    • day: Tuesday
+    • nakshatra: Ashlesha
+    • rasi: Aries
+    • tithi: Purnima
+  • Leo:
+    • day: Wednesday
+    • nakshatra: Magha
+    • rasi: Taurus
+    • tithi: Dwitiya
+  • Virgo:
+    • day: Thursday
+    • nakshatra: Chitra
+    • rasi: Gemini
+    • tithi: Panchami
+  • Libra:
+    • day: Friday
+    • nakshatra: Vishakha
+    • rasi: Cancer
+    • tithi: Ashtami
+  • Scorpio:
+    • day: Saturday
+    • nakshatra: Jyeshtha
+    • rasi: Leo
+    • tithi: Ekadashi
+  • Sagittarius:
+    • day: Sunday
+    • nakshatra: Purva Ashadha
+    • rasi: Virgo
+    • tithi: Chaturdashi
+  • Capricorn:
+    • day: Monday
+    • nakshatra: Shravana
+    • rasi: Libra
+    • tithi: Tritiya
+  • Aquarius:
+    • day: Tuesday
+    • nakshatra: Shatabhisha
+    • rasi: Scorpio
+    • tithi: Saptami
+  • Pisces:
+    • day: Wednesday
+    • nakshatra: Uttara Bhadrapada
+    • rasi: Sagittarius
+    • tithi: Dwadashi
+• GULIKA_PART:
+  • Sunday: 7
+  • Monday: 6
+  • Tuesday: 5
+  • Wednesday: 4
+  • Thursday: 3
+  • Friday: 2
+  • Saturday: 1
+• HORA_SEQUENCE:
+  1.
+    Sun
+  2.
+    Venus
+  3.
+    Mercury
+  4.
+    Moon
+  5.
+    Saturn
+  6.
+    Jupiter
+  7.
+    Mars
+• HOUSE_SIGNIFICATIONS:
+  • 1:
+    • name: Lagna (Ascendant)
+    • areas:
+      1.
+        Self
+      2.
+        Body
+      3.
+        Health
+      4.
+        Personality
+      5.
+        Vitality
+      6.
+        Fame
+  • 2:
+    • name: Dhana Bhava
+    • areas:
+      1.
+        Wealth
+      2.
+        Family
+      3.
+        Speech
+      4.
+        Food
+      5.
+        Eyes
+      6.
+        Accumulated assets
+  • 3:
+    • name: Sahaja Bhava
+    • areas:
+      1.
+        Siblings
+      2.
+        Courage
+      3.
+        Short travel
+      4.
+        Right ear
+      5.
+        Communication
+      6.
+        Skills
+  • 4:
+    • name: Sukha Bhava
+    • areas:
+      1.
+        Mother
+      2.
+        Home
+      3.
+        Happiness
+      4.
+        Property
+      5.
+        Heart
+      6.
+        Vehicles
+      7.
+        Education
+  • 5:
+    • name: Putra Bhava
+    • areas:
+      1.
+        Children
+      2.
+        Intelligence
+      3.
+        Creativity
+      4.
+        Romance
+      5.
+        Speculation
+      6.
+        Past karma
+  • 6:
+    • name: Shatru Bhava
+    • areas:
+      1.
+        Enemies
+      2.
+        Disease
+      3.
+        Debts
+      4.
+        Service
+      5.
+        Daily routine
+      6.
+        Legal disputes
+  • 7:
+    • name: Kalatra Bhava
+    • areas:
+      1.
+        Spouse
+      2.
+        Partnership
+      3.
+        Business
+      4.
+        Contracts
+      5.
+        Foreign travel
+  • 8:
+    • name: Randhra Bhava
+    • areas:
+      1.
+        Longevity
+      2.
+        Death
+      3.
+        Transformation
+      4.
+        Inheritance
+      5.
+        Occult
+      6.
+        Surgery
+  • 9:
+    • name: Dharma Bhava
+    • areas:
+      1.
+        Fortune
+      2.
+        Father
+      3.
+        Guru
+      4.
+        Higher education
+      5.
+        Pilgrimage
+      6.
+        Long travel
+  • 10:
+    • name: Karma Bhava
+    • areas:
+      1.
+        Career
+      2.
+        Profession
+      3.
+        Status
+      4.
+        Authority
+      5.
+        Government
+      6.
+        Public image
+  • 11:
+    • name: Labha Bhava
+    • areas:
+      1.
+        Income
+      2.
+        Gains
+      3.
+        Desires fulfilled
+      4.
+        Elder siblings
+      5.
+        Social circle
+  • 12:
+    • name: Vyaya Bhava
+    • areas:
+      1.
+        Losses
+      2.
+        Expenses
+      3.
+        Foreign lands
+      4.
+        Liberation
+      5.
+        Bed pleasures
+      6.
+        Hospitals
+• JAIMINI_KARAKAS:
+  • AK: Atmakaraka (soul, self-realization)
+  • AmK: Amatyakaraka (career, profession)
+  • BK: Bhratrukaraka (siblings)
+  • MK: Matrukaraka (mother)
+  • PK: Putrakaraka (children)
+  • GK: Gnatikaraka (relations, disease)
+  • DK: Darakaraka (spouse)
+• KARANAS:
+  1.
+    Bava
+  2.
+    Balava
+  3.
+    Kaulava
+  4.
+    Taitila
+  5.
+    Garija
+  6.
+    Vanija
+  7.
+    Vishti
+  8.
+    Shakuni
+  9.
+    Chatushpada
+  10.
+    Naga
+  11.
+    Kimstughna
+• KARANA_NATURE:
+  • Vishti: Inauspicious
+  • Shakuni: Mixed
+  • Chatushpada: Mixed
+  • Naga: Inauspicious
+  • Kimstughna: Inauspicious
+• KOOTA_GANA_POINTS:
+  • Deva-Deva: 6
+  • Deva-Manushya: 5
+  • Deva-Rakshasa: 1
+  • Manushya-Deva: 5
+  • Manushya-Manushya: 6
+  • Manushya-Rakshasa: 0
+  • Rakshasa-Deva: 1
+  • Rakshasa-Manushya: 0
+  • Rakshasa-Rakshasa: 6
+• KOOTA_VARNA:
+  • Brahmin: 4
+  • Kshatriya: 3
+  • Vaishya: 2
+  • Shudra: 1
+• LUCKY_DATA:
+  • Aries:
+    • numbers:
+      1.
+        9
+      2.
+        1
+      3.
+        3
+    • evil:
+      1.
+        8
+      2.
+        6
+      3.
+        5
+    • days:
+      1.
+        Tuesday
+      2.
+        Sunday
+    • metal: Gold
+    • stone: Red Coral
+    • color: Red
+  • Taurus:
+    • numbers:
+      1.
+        6
+      2.
+        2
+      3.
+        5
+    • evil:
+      1.
+        1
+      2.
+        8
+      3.
+        7
+    • days:
+      1.
+        Friday
+      2.
+        Wednesday
+    • metal: Silver
+    • stone: Diamond
+    • color: White
+  • Gemini:
+    • numbers:
+      1.
+        5
+      2.
+        3
+      3.
+        7
+    • evil:
+      1.
+        2
+      2.
+        4
+      3.
+        9
+    • days:
+      1.
+        Wednesday
+      2.
+        Friday
+    • metal: Gold
+    • stone: Emerald
+    • color: Green
+  • Cancer:
+    • numbers:
+      1.
+        2
+      2.
+        4
+      3.
+        6
+    • evil:
+      1.
+        1
+      2.
+        8
+      3.
+        5
+    • days:
+      1.
+        Monday
+      2.
+        Thursday
+    • metal: Silver
+    • stone: Pearl
+    • color: White
+  • Leo:
+    • numbers:
+      1.
+        1
+      2.
+        9
+      3.
+        4
+    • evil:
+      1.
+        6
+      2.
+        5
+      3.
+        8
+    • days:
+      1.
+        Sunday
+      2.
+        Tuesday
+    • metal: Gold
+    • stone: Ruby
+    • color: Orange
+  • Virgo:
+    • numbers:
+      1.
+        5
+      2.
+        3
+      3.
+        7
+    • evil:
+      1.
+        2
+      2.
+        4
+      3.
+        9
+    • days:
+      1.
+        Wednesday
+      2.
+        Friday
+    • metal: Gold
+    • stone: Emerald
+    • color: Green
+  • Libra:
+    • numbers:
+      1.
+        6
+      2.
+        2
+      3.
+        5
+    • evil:
+      1.
+        1
+      2.
+        9
+      3.
+        8
+    • days:
+      1.
+        Friday
+      2.
+        Saturday
+    • metal: Silver
+    • stone: Diamond
+    • color: White
+  • Scorpio:
+    • numbers:
+      1.
+        9
+      2.
+        1
+      3.
+        3
+    • evil:
+      1.
+        6
+      2.
+        5
+      3.
+        8
+    • days:
+      1.
+        Tuesday
+      2.
+        Thursday
+    • metal: Gold
+    • stone: Red Coral
+    • color: Red
+  • Sagittarius:
+    • numbers:
+      1.
+        3
+      2.
+        9
+      3.
+        1
+    • evil:
+      1.
+        6
+      2.
+        5
+      3.
+        8
+    • days:
+      1.
+        Thursday
+      2.
+        Sunday
+    • metal: Gold
+    • stone: Yellow Sapphire
+    • color: Yellow
+  • Capricorn:
+    • numbers:
+      1.
+        8
+      2.
+        4
+      3.
+        6
+    • evil:
+      1.
+        1
+      2.
+        2
+      3.
+        7
+    • days:
+      1.
+        Saturday
+      2.
+        Friday
+    • metal: Iron
+    • stone: Blue Sapphire
+    • color: Blue
+  • Aquarius:
+    • numbers:
+      1.
+        8
+      2.
+        4
+      3.
+        6
+    • evil:
+      1.
+        1
+      2.
+        9
+      3.
+        5
+    • days:
+      1.
+        Saturday
+      2.
+        Wednesday
+    • metal: Iron
+    • stone: Blue Sapphire
+    • color: Blue
+  • Pisces:
+    • numbers:
+      1.
+        3
+      2.
+        7
+      3.
+        9
+    • evil:
+      1.
+        4
+      2.
+        1
+      3.
+        8
+    • days:
+      1.
+        Thursday
+      2.
+        Monday
+    • metal: Gold
+    • stone: Yellow Sapphire
+    • color: Yellow
+• MOOLATRIKONA:
+  • Sun:
+    • sign: Leo
+    • from: 0
+    • to: 20
+  • Moon:
+    • sign: Taurus
+    • from: 4
+    • to: 20
+  • Mars:
+    • sign: Aries
+    • from: 0
+    • to: 12
+  • Mercury:
+    • sign: Virgo
+    • from: 16
+    • to: 20
+  • Jupiter:
+    • sign: Sagittarius
+    • from: 0
+    • to: 10
+  • Venus:
+    • sign: Libra
+    • from: 0
+    • to: 15
+  • Saturn:
+    • sign: Aquarius
+    • from: 0
+    • to: 20
+• MRITYU_BHAGA:
+  • Sun:
+    1.
+      20
+    2.
+      9
+    3.
+      12
+    4.
+      6
+    5.
+      3
+    6.
+      24
+    7.
+      11
+    8.
+      26
+    9.
+      14
+    10.
+      23
+    11.
+      8
+    12.
+      18
+  • Moon:
+    1.
+      26
+    2.
+      12
+    3.
+      13
+    4.
+      25
+    5.
+      24
+    6.
+      11
+    7.
+      26
+    8.
+      14
+    9.
+      13
+    10.
+      25
+    11.
+      5
+    12.
+      12
+  • Mars:
+    1.
+      13
+    2.
+      20
+    3.
+      19
+    4.
+      15
+    5.
+      17
+    6.
+      5
+    7.
+      13
+    8.
+      14
+    9.
+      20
+    10.
+      24
+    11.
+      25
+    12.
+      3
+  • Mercury:
+    1.
+      13
+    2.
+      7
+    3.
+      1
+    4.
+      23
+    5.
+      4
+    6.
+      18
+    7.
+      13
+    8.
+      9
+    9.
+      2
+    10.
+      24
+    11.
+      25
+    12.
+      12
+  • Jupiter:
+    1.
+      6
+    2.
+      12
+    3.
+      13
+    4.
+      15
+    5.
+      5
+    6.
+      18
+    7.
+      11
+    8.
+      9
+    9.
+      1
+    10.
+      14
+    11.
+      8
+    12.
+      16
+  • Venus:
+    1.
+      9
+    2.
+      3
+    3.
+      12
+    4.
+      24
+    5.
+      23
+    6.
+      13
+    7.
+      1
+    8.
+      13
+    9.
+      18
+    10.
+      16
+    11.
+      15
+    12.
+      14
+  • Saturn:
+    1.
+      8
+    2.
+      18
+    3.
+      22
+    4.
+      25
+    5.
+      25
+    6.
+      9
+    7.
+      2
+    8.
+      13
+    9.
+      3
+    10.
+      3
+    11.
+      17
+    12.
+      9
+• NADI:
+  • Ashwini: Vata
+  • Bharani: Pitta
+  • Krittika: Kapha
+  • Rohini: Kapha
+  • Mrigashira: Pitta
+  • Ardra: Vata
+  • Punarvasu: Vata
+  • Pushya: Pitta
+  • Ashlesha: Kapha
+  • Magha: Kapha
+  • Purva Phalguni: Pitta
+  • Uttara Phalguni: Vata
+  • Hasta: Vata
+  • Chitra: Pitta
+  • Swati: Kapha
+  • Vishakha: Kapha
+  • Anuradha: Pitta
+  • Jyeshtha: Vata
+  • Mula: Vata
+  • Purva Ashadha: Pitta
+  • Uttara Ashadha: Kapha
+  • Shravana: Kapha
+  • Dhanishtha: Pitta
+  • Shatabhisha: Vata
+  • Purva Bhadrapada: Vata
+  • Uttara Bhadrapada: Pitta
+  • Revati: Kapha
+• NAISARGIKA_BALA:
+  • Sun: 60
+  • Moon: 51.43
+  • Mars: 17.14
+  • Mercury: 25.71
+  • Jupiter: 34.28
+  • Venus: 42.85
+  • Saturn: 8.57
+• NAKSHATRAS:
+  1.
+    Ashwini
+  2.
+    Bharani
+  3.
+    Krittika
+  4.
+    Rohini
+  5.
+    Mrigashira
+  6.
+    Ardra
+  7.
+    Punarvasu
+  8.
+    Pushya
+  9.
+    Ashlesha
+  10.
+    Magha
+  11.
+    Purva Phalguni
+  12.
+    Uttara Phalguni
+  13.
+    Hasta
+  14.
+    Chitra
+  15.
+    Swati
+  16.
+    Vishakha
+  17.
+    Anuradha
+  18.
+    Jyeshtha
+  19.
+    Mula
+  20.
+    Purva Ashadha
+  21.
+    Uttara Ashadha
+  22.
+    Shravana
+  23.
+    Dhanishtha
+  24.
+    Shatabhisha
+  25.
+    Purva Bhadrapada
+  26.
+    Uttara Bhadrapada
+  27.
+    Revati
+• NAKSHATRA_DEITIES:
+  1.
+    Ashwini Kumaras
+  2.
+    Yama
+  3.
+    Agni
+  4.
+    Brahma
+  5.
+    Soma
+  6.
+    Rudra
+  7.
+    Aditi
+  8.
+    Brihaspati
+  9.
+    Sarpas
+  10.
+    Pitrs
+  11.
+    Bhaga
+  12.
+    Aryaman
+  13.
+    Savitar
+  14.
+    Tvashtar
+  15.
+    Vayu
+  16.
+    Indra-Agni
+  17.
+    Mitra
+  18.
+    Indra
+  19.
+    Nirriti
+  20.
+    Apas
+  21.
+    Vishvedevas
+  22.
+    Vishnu
+  23.
+    Eight Vasus
+  24.
+    Varuna
+  25.
+    Aja Ekapada
+  26.
+    Ahir Budhanya
+  27.
+    Pushan
+• NAKSHATRA_GUNA:
+  1.
+    Rajas
+  2.
+    Rajas
+  3.
+    Rajas
+  4.
+    Tamas
+  5.
+    Tamas
+  6.
+    Tamas
+  7.
+    Sattva
+  8.
+    Sattva
+  9.
+    Sattva
+  10.
+    Rajas
+  11.
+    Rajas
+  12.
+    Rajas
+  13.
+    Tamas
+  14.
+    Tamas
+  15.
+    Tamas
+  16.
+    Sattva
+  17.
+    Sattva
+  18.
+    Sattva
+  19.
+    Rajas
+  20.
+    Rajas
+  21.
+    Rajas
+  22.
+    Tamas
+  23.
+    Tamas
+  24.
+    Tamas
+  25.
+    Sattva
+  26.
+    Sattva
+  27.
+    Sattva
+• NAKSHATRA_LORDS:
+  1.
+    Ketu
+  2.
+    Venus
+  3.
+    Sun
+  4.
+    Moon
+  5.
+    Mars
+  6.
+    Rahu
+  7.
+    Jupiter
+  8.
+    Saturn
+  9.
+    Mercury
+  10.
+    Ketu
+  11.
+    Venus
+  12.
+    Sun
+  13.
+    Moon
+  14.
+    Mars
+  15.
+    Rahu
+  16.
+    Jupiter
+  17.
+    Saturn
+  18.
+    Mercury
+  19.
+    Ketu
+  20.
+    Venus
+  21.
+    Sun
+  22.
+    Moon
+  23.
+    Mars
+  24.
+    Rahu
+  25.
+    Jupiter
+  26.
+    Saturn
+  27.
+    Mercury
+• NAKSHATRA_START_DEG:
+  1.
+    0
+  2.
+    13.333333
+  3.
+    26.666666
+  4.
+    40
+  5.
+    53.333333
+  6.
+    66.666666
+  7.
+    80
+  8.
+    93.333333
+  9.
+    106.666666
+  10.
+    120
+  11.
+    133.333333
+  12.
+    146.666666
+  13.
+    160
+  14.
+    173.333333
+  15.
+    186.666666
+  16.
+    200
+  17.
+    213.333333
+  18.
+    226.666666
+  19.
+    240
+  20.
+    253.333333
+  21.
+    266.666666
+  22.
+    280
+  23.
+    293.333333
+  24.
+    306.666666
+  25.
+    320
+  26.
+    333.333333
+  27.
+    346.666666
+• NAKSHATRA_SYMBOLS:
+  1.
+    Horse's Head
+  2.
+    Yoni
+  3.
+    Razor/Knife
+  4.
+    Ox Cart
+  5.
+    Deer's Head
+  6.
+    Teardrop
+  7.
+    Bow and Quiver
+  8.
+    Arrow/Flower
+  9.
+    Coiled Serpent
+  10.
+    Throne/Palanquin
+  11.
+    Hammock
+  12.
+    Bed/Fig Tree
+  13.
+    Hand/Fist
+  14.
+    Pearl/Bright Jewel
+  15.
+    Coral/Sword
+  16.
+    Decorated Arch/Triumphal Gate
+  17.
+    Lotus
+  18.
+    Circular Earring
+  19.
+    Elephant Goad
+  20.
+    Elephant Tusk/Fan
+  21.
+    Elephant Tusk (small)
+  22.
+    Ear/Three Footprints
+  23.
+    Drum/Flute
+  24.
+    Empty Circle/100 Physicians
+  25.
+    Sword/Two Front Legs of Funeral Cot
+  26.
+    Serpent in Water
+  27.
+    Fish/Drum/Circle
+• NAKSHATRA_TATTVA:
+  1.
+    Ketu
+  2.
+    Venus
+  3.
+    Sun
+  4.
+    Moon
+  5.
+    Mars
+  6.
+    Rahu
+  7.
+    Jupiter
+  8.
+    Saturn
+  9.
+    Mercury
+  10.
+    Ketu
+  11.
+    Venus
+  12.
+    Sun
+  13.
+    Moon
+  14.
+    Mars
+  15.
+    Rahu
+  16.
+    Jupiter
+  17.
+    Saturn
+  18.
+    Mercury
+  19.
+    Ketu
+  20.
+    Venus
+  21.
+    Sun
+  22.
+    Moon
+  23.
+    Mars
+  24.
+    Rahu
+  25.
+    Jupiter
+  26.
+    Saturn
+  27.
+    Mercury
+• NATURAL_ENEMIES:
+  • Sun:
+    1.
+      Saturn
+    2.
+      Venus
+    3.
+      Rahu
+    4.
+      Ketu
+  • Moon:
+    1.
+      Rahu
+    2.
+      Ketu
+  • Mars:
+    1.
+      Mercury
+  • Mercury:
+    1.
+      Moon
+  • Jupiter:
+    1.
+      Mercury
+    2.
+      Venus
+    3.
+      Rahu
+    4.
+      Ketu
+  • Venus:
+    1.
+      Moon
+  • Saturn:
+    1.
+      Sun
+    2.
+      Moon
+    3.
+      Mars
+  • Rahu:
+    1.
+      Sun
+    2.
+      Moon
+    3.
+      Mars
+  • Ketu:
+    1.
+      Venus
+    2.
+      Saturn
+    3.
+      Mercury
+• NATURAL_FRIENDS:
+  • Sun:
+    1.
+      Moon
+    2.
+      Mars
+    3.
+      Jupiter
+  • Moon:
+    1.
+      Sun
+    2.
+      Mercury
+  • Mars:
+    1.
+      Sun
+    2.
+      Moon
+    3.
+      Jupiter
+  • Mercury:
+    1.
+      Sun
+    2.
+      Venus
+  • Jupiter:
+    1.
+      Sun
+    2.
+      Moon
+    3.
+      Mars
+  • Venus:
+    1.
+      Mercury
+    2.
+      Saturn
+  • Saturn:
+    1.
+      Mercury
+    2.
+      Venus
+  • Rahu:
+    1.
+      Saturn
+    2.
+      Venus
+    3.
+      Mercury
+  • Ketu:
+    1.
+      Mars
+    2.
+      Jupiter
+• NATURAL_NEUTRAL:
+  • Sun:
+    1.
+      Mercury
+  • Moon:
+    1.
+      Mars
+    2.
+      Jupiter
+    3.
+      Venus
+    4.
+      Saturn
+  • Mars:
+    1.
+      Venus
+    2.
+      Saturn
+  • Mercury:
+    1.
+      Mars
+    2.
+      Jupiter
+    3.
+      Saturn
+  • Jupiter:
+    1.
+      Saturn
+  • Venus:
+    1.
+      Jupiter
+    2.
+      Mars
+  • Saturn:
+    1.
+      Jupiter
+  • Rahu:
+    1.
+      Jupiter
+    2.
+      Moon
+    3.
+      Mars
+  • Ketu:
+    1.
+      Sun
+    2.
+      Moon
+    3.
+      Mercury
+    4.
+      Venus
+    5.
+      Saturn
+• OWN_SIGNS:
+  • Sun:
+    1.
+      Leo
+  • Moon:
+    1.
+      Cancer
+  • Mars:
+    1.
+      Aries
+    2.
+      Scorpio
+  • Mercury:
+    1.
+      Gemini
+    2.
+      Virgo
+  • Jupiter:
+    1.
+      Sagittarius
+    2.
+      Pisces
+  • Venus:
+    1.
+      Taurus
+    2.
+      Libra
+  • Saturn:
+    1.
+      Capricorn
+    2.
+      Aquarius
+  • Rahu:
+    (empty list)
+  • Ketu:
+    (empty list)
+• PANCHANG_YOGAS:
+  1.
+    Vishkambha
+  2.
+    Preeti
+  3.
+    Ayushman
+  4.
+    Saubhagya
+  5.
+    Shobhana
+  6.
+    Atiganda
+  7.
+    Sukarman
+  8.
+    Dhriti
+  9.
+    Shoola
+  10.
+    Ganda
+  11.
+    Vriddhi
+  12.
+    Dhruva
+  13.
+    Vyaghata
+  14.
+    Harshana
+  15.
+    Vajra
+  16.
+    Siddhi
+  17.
+    Vyatipata
+  18.
+    Variyan
+  19.
+    Parigha
+  20.
+    Shiva
+  21.
+    Siddha
+  22.
+    Sadhya
+  23.
+    Shubha
+  24.
+    Shukla
+  25.
+    Brahma
+  26.
+    Indra
+  27.
+    Vaidhriti
+• PAYA:
+  • Ashwini: Swarna (Gold)
+  • Bharani: Rajat (Silver)
+  • Krittika: Tamba (Copper)
+  • Rohini: Swarna (Gold)
+  • Mrigashira: Swarna (Gold)
+  • Ardra: Rajat (Silver)
+  • Punarvasu: Swarna (Gold)
+  • Pushya: Rajat (Silver)
+  • Ashlesha: Tamba (Copper)
+  • Magha: Tamba (Copper)
+  • Purva Phalguni: Tamba (Copper)
+  • Uttara Phalguni: Rajat (Silver)
+  • Hasta: Swarna (Gold)
+  • Chitra: Tamba (Copper)
+  • Swati: Rajat (Silver)
+  • Vishakha: Tamba (Copper)
+  • Anuradha: Rajat (Silver)
+  • Jyeshtha: Swarna (Gold)
+  • Mula: Tamba (Copper)
+  • Purva Ashadha: Swarna (Gold)
+  • Uttara Ashadha: Swarna (Gold)
+  • Shravana: Rajat (Silver)
+  • Dhanishtha: Swarna (Gold)
+  • Shatabhisha: Tamba (Copper)
+  • Purva Bhadrapada: Rajat (Silver)
+  • Uttara Bhadrapada: Tamba (Copper)
+  • Revati: Swarna (Gold)
+• PLANETS:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+  8.
+    Rahu
+  9.
+    Ketu
+• PLANETS_HINDI:
+  1.
+    Surya
+  2.
+    Chandra
+  3.
+    Mangal
+  4.
+    Budha
+  5.
+    Guru
+  6.
+    Shukra
+  7.
+    Shani
+  8.
+    Rahu
+  9.
+    Ketu
+• PLANET_ELEMENT:
+  • Sun: Fire
+  • Moon: Water
+  • Mars: Fire
+  • Mercury: Earth
+  • Jupiter: Ether
+  • Venus: Water
+  • Saturn: Air
+  • Rahu: Air
+  • Ketu: Fire
+• PLANET_NATURE:
+  • Sun: Malefic
+  • Moon: Benefic
+  • Mars: Malefic
+  • Mercury: Neutral
+  • Jupiter: Benefic
+  • Venus: Benefic
+  • Saturn: Malefic
+  • Rahu: Shadow
+  • Ketu: Shadow
+• RAHU_KAAL_PART:
+  • Sunday: 8
+  • Monday: 2
+  • Tuesday: 7
+  • Wednesday: 5
+  • Thursday: 6
+  • Friday: 4
+  • Saturday: 3
+• RASHI_DRISHTI:
+  • Aries:
+    1.
+      Leo
+    2.
+      Scorpio
+    3.
+      Aquarius
+  • Taurus:
+    1.
+      Cancer
+    2.
+      Libra
+    3.
+      Capricorn
+  • Gemini:
+    1.
+      Virgo
+    2.
+      Sagittarius
+    3.
+      Pisces
+  • Cancer:
+    1.
+      Taurus
+    2.
+      Libra
+    3.
+      Capricorn
+  • Leo:
+    1.
+      Aries
+    2.
+      Scorpio
+    3.
+      Aquarius
+  • Virgo:
+    1.
+      Gemini
+    2.
+      Sagittarius
+    3.
+      Pisces
+  • Libra:
+    1.
+      Taurus
+    2.
+      Cancer
+    3.
+      Capricorn
+  • Scorpio:
+    1.
+      Aries
+    2.
+      Leo
+    3.
+      Aquarius
+  • Sagittarius:
+    1.
+      Gemini
+    2.
+      Virgo
+    3.
+      Pisces
+  • Capricorn:
+    1.
+      Taurus
+    2.
+      Cancer
+    3.
+      Libra
+  • Aquarius:
+    1.
+      Aries
+    2.
+      Leo
+    3.
+      Scorpio
+  • Pisces:
+    1.
+      Gemini
+    2.
+      Virgo
+    3.
+      Sagittarius
+• SADE_SATI_PHASES:
+  TABLE (3 rows)
+  phase | desc
+  --------------------
+  Rising | Saturn enters sign before natal Moon — mental restlessness, career pressure
+  Peak | Saturn in natal Moon sign — maximum karmic load, transformation
+  Setting | Saturn moves to sign after natal Moon — gradual relief, rebuilding
+• SHADBALA_REQUIRED:
+  • Sun: 5
+  • Moon: 6
+  • Mars: 5
+  • Mercury: 7
+  • Jupiter: 6.5
+  • Venus: 5.5
+  • Saturn: 5
+• SIGNS:
+  1.
+    Aries
+  2.
+    Taurus
+  3.
+    Gemini
+  4.
+    Cancer
+  5.
+    Leo
+  6.
+    Virgo
+  7.
+    Libra
+  8.
+    Scorpio
+  9.
+    Sagittarius
+  10.
+    Capricorn
+  11.
+    Aquarius
+  12.
+    Pisces
+• SIGNS_HINDI:
+  1.
+    Mesh
+  2.
+    Vrishabha
+  3.
+    Mithun
+  4.
+    Karka
+  5.
+    Simha
+  6.
+    Kanya
+  7.
+    Tula
+  8.
+    Vrischika
+  9.
+    Dhanu
+  10.
+    Makara
+  11.
+    Kumbha
+  12.
+    Meena
+• SIGNS_SHORT:
+  1.
+    Ar
+  2.
+    Ta
+  3.
+    Ge
+  4.
+    Ca
+  5.
+    Le
+  6.
+    Vi
+  7.
+    Li
+  8.
+    Sc
+  9.
+    Sg
+  10.
+    Cp
+  11.
+    Aq
+  12.
+    Pi
+• SIGN_ELEMENT:
+  1.
+    Fire
+  2.
+    Earth
+  3.
+    Air
+  4.
+    Water
+  5.
+    Fire
+  6.
+    Earth
+  7.
+    Air
+  8.
+    Water
+  9.
+    Fire
+  10.
+    Earth
+  11.
+    Air
+  12.
+    Water
+• SIGN_GENDER:
+  1.
+    Male
+  2.
+    Female
+  3.
+    Male
+  4.
+    Female
+  5.
+    Male
+  6.
+    Female
+  7.
+    Male
+  8.
+    Female
+  9.
+    Male
+  10.
+    Female
+  11.
+    Male
+  12.
+    Female
+• SIGN_LORDS:
+  • Aries: Mars
+  • Taurus: Venus
+  • Gemini: Mercury
+  • Cancer: Moon
+  • Leo: Sun
+  • Virgo: Mercury
+  • Libra: Venus
+  • Scorpio: Mars
+  • Sagittarius: Jupiter
+  • Capricorn: Saturn
+  • Aquarius: Saturn
+  • Pisces: Jupiter
+• SIGN_QUALITY:
+  1.
+    Movable
+  2.
+    Fixed
+  3.
+    Dual
+  4.
+    Movable
+  5.
+    Fixed
+  6.
+    Dual
+  7.
+    Movable
+  8.
+    Fixed
+  9.
+    Dual
+  10.
+    Movable
+  11.
+    Fixed
+  12.
+    Dual
+• SIGN_SANSKRIT:
+  1.
+    Mesha
+  2.
+    Vrishabha
+  3.
+    Mithuna
+  4.
+    Karka
+  5.
+    Simha
+  6.
+    Kanya
+  7.
+    Tula
+  8.
+    Vrishchika
+  9.
+    Dhanu
+  10.
+    Makara
+  11.
+    Kumbha
+  12.
+    Meena
+• TARA_DESC:
+  1.
+    Birth star — strong but sensitive, proceed with caution
+  2.
+    Prosperity star — excellent for financial and business activities
+  3.
+    Danger star — avoid all important works, travel, investments
+  4.
+    Comfort star — good for routine activities, family matters
+  5.
+    Obstruction star — delays and obstacles in all directions
+  6.
+    Achievement star — favorable for spiritual and career progress
+  7.
+    Destruction star — very inauspicious, absolutely avoid new starts
+  8.
+    Friend star — favorable for social activities and agreements
+  9.
+    Supreme Friend star — most auspicious, begin anything important
+• TARA_NAMES:
+  1.
+    Janma
+  2.
+    Sampat
+  3.
+    Vipat
+  4.
+    Kshema
+  5.
+    Pratyak
+  6.
+    Sadhana
+  7.
+    Vadha
+  8.
+    Mitra
+  9.
+    Parama Mitra
+• TARA_NATURE:
+  1.
+    Neutral
+  2.
+    Excellent
+  3.
+    Bad
+  4.
+    Good
+  5.
+    Bad
+  6.
+    Good
+  7.
+    Very Bad
+  8.
+    Good
+  9.
+    Excellent
+• TARA_SCORE:
+  1.
+    0
+  2.
+    2
+  3.
+    -1
+  4.
+    1
+  5.
+    -1
+  6.
+    1
+  7.
+    -2
+  8.
+    1
+  9.
+    2
+• TITHIS:
+  1.
+    Pratipada
+  2.
+    Dwitiya
+  3.
+    Tritiya
+  4.
+    Chaturthi
+  5.
+    Panchami
+  6.
+    Shashthi
+  7.
+    Saptami
+  8.
+    Ashtami
+  9.
+    Navami
+  10.
+    Dashami
+  11.
+    Ekadashi
+  12.
+    Dwadashi
+  13.
+    Trayodashi
+  14.
+    Chaturdashi
+  15.
+    Purnima
+  16.
+    Pratipada
+  17.
+    Dwitiya
+  18.
+    Tritiya
+  19.
+    Chaturthi
+  20.
+    Panchami
+  21.
+    Shashthi
+  22.
+    Saptami
+  23.
+    Ashtami
+  24.
+    Navami
+  25.
+    Dashami
+  26.
+    Ekadashi
+  27.
+    Dwadashi
+  28.
+    Trayodashi
+  29.
+    Chaturdashi
+  30.
+    Amavasya
+• TITHI_LORDS:
+  1.
+    Moon
+  2.
+    Sun
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+  8.
+    Moon
+  9.
+    Sun
+  10.
+    Mars
+  11.
+    Mercury
+  12.
+    Jupiter
+  13.
+    Venus
+  14.
+    Saturn
+  15.
+    Moon
+  16.
+    Moon
+  17.
+    Sun
+  18.
+    Mars
+  19.
+    Mercury
+  20.
+    Jupiter
+  21.
+    Venus
+  22.
+    Saturn
+  23.
+    Moon
+  24.
+    Sun
+  25.
+    Mars
+  26.
+    Mercury
+  27.
+    Jupiter
+  28.
+    Venus
+  29.
+    Saturn
+  30.
+    Moon
+• TOTAL_DASHA_YEARS: 120
+• TRANSIT_EFFECTS:
+  • Jupiter:
+    • 1: Self-confidence, wisdom, body health improvements, new opportunities
+    • 2: Financial gains, family harmony, speech improvement, savings
+    • 3: Communication skills peak, sibling harmony, short travels, writing
+    • 4: Property/vehicle gains, family happiness, mother blessed
+    • 5: Children blessings, romance flowers, creativity, speculation gains
+    • 6: Overcoming enemies, health improvement, clearing debts
+    • 7: Marriage/partnership opportunities, business expansion
+    • 8: Inheritance, research success, hidden knowledge revealed
+    • 9: Spiritual growth, higher education, pilgrimages, father blessed
+    • 10: Career advancement, promotions, fame, government favor
+    • 11: Major income gains, wish fulfillment, social expansion
+    • 12: Foreign journeys, spiritual liberation, charitable activities
+  • Saturn:
+    • 1: Self-discipline required, health tests, delays in new ventures
+    • 2: Financial restrictions, family duties, speech problems
+    • 3: Hard effort, sibling tensions, communication delays
+    • 4: Domestic challenges, mother health, property disputes
+    • 5: Children concerns, reduced romance, creative blocks
+    • 6: Slow but sure victory over obstacles, debt resolution over time
+    • 7: Relationship tests, business slows, legal delays
+    • 8: Chronic health issues, life transformation, karmic clearing
+    • 9: Dharma challenges, father health, guru relationship tests
+    • 10: Career responsibility, authority tests, promotion through hard work
+    • 11: Delayed gains, social restrictions, mature networking
+    • 12: Foreign stay, hospitalization risk, spiritual retreat
+  • Mars:
+    • 1: Energy surge, assertiveness, sports, accident risk
+    • 2: Heated speech, family arguments, impulsive spending
+    • 3: Courage peak, travel, sibling conflicts, writing projects
+    • 4: Domestic arguments, property disputes, mother tension
+    • 5: Speculation, romance heat, children issues, risk-taking
+    • 6: Victory over enemies, health improvement, debts cleared
+    • 7: Relationship conflicts, legal disputes, partner aggression
+    • 8: Sudden events, surgery possible, hidden aggression
+    • 9: Religious disputes, travel accidents, father tension
+    • 10: Career action, authority friction, competitive success
+    • 11: Gains from effort, competitive income
+    • 12: Losses, hospitalization, hidden enemies
+  • Sun:
+    • 1: Self-focus, ego matters, government contact, health
+    • 2: Speech confidence, family income, financial matters
+    • 3: Boldness, communication, travel, sibling matters
+    • 4: Home improvements, mother focus, real estate
+    • 5: Children focus, romance, speculation, creativity
+    • 6: Overcoming competition, health improvement
+    • 7: Partnership focus, legal matters, public image
+    • 8: Hidden matters, longevity focus, research
+    • 9: Father/guru focus, dharma, pilgrimage, luck
+    • 10: Career peak, government contact, public recognition
+    • 11: Income boost, networking, social expansion
+    • 12: Expenses up, foreign connections, spiritual withdrawal
+  • Moon:
+    • 1: Emotional sensitivity, public contact, health fluctuation
+    • 2: Family focus, emotional spending, food-related matters
+    • 3: Short travels, communication, emotional courage
+    • 4: Mother focus, home happiness, property matters
+    • 5: Romance heightened, children joy, creative mood
+    • 6: Health attention, emotional work, service mood
+    • 7: Relationship focus, public interaction, partnerships
+    • 8: Emotional transformation, research, hidden feelings
+    • 9: Spiritual mood, religious activities, good fortune
+    • 10: Career emotional phase, public visibility
+    • 11: Social gains, group activities, emotional fulfillment
+    • 12: Rest needed, emotional withdrawal, foreign connections
+  • Venus:
+    • 1: Beauty focus, romantic energy, luxury purchases
+    • 2: Financial comfort, family harmony, good food
+    • 3: Creative communication, arts, short pleasure trips
+    • 4: Home beautification, comforts, vehicle, mother joy
+    • 5: Romance peak, children blessings, creative arts
+    • 6: Service with grace, debt resolution, health beauty
+    • 7: Marriage/romance peak, business partnership, agreements
+    • 8: Hidden pleasures, inheritance, partner finances
+    • 9: Spiritual beauty, guru blessings, fortunate journeys
+    • 10: Career in arts/luxury, professional beauty, public charm
+    • 11: Social gains, income from arts, elder sibling harmony
+    • 12: Foreign luxury, bed pleasures, spiritual arts
+  • Mercury:
+    • 1: Mental clarity, communication peak, new ideas, writing
+    • 2: Business acumen, speech improvement, financial planning
+    • 3: Excellent communication, travel, sibling harmony, media
+    • 4: Home study, mother communication, property documentation
+    • 5: Intellectual creativity, children education, analysis
+    • 6: Problem-solving, service efficiency, health analysis
+    • 7: Business negotiations, partnership communication, contracts
+    • 8: Research, occult study, hidden information revealed
+    • 9: Higher learning, philosophical study, teaching
+    • 10: Career communication, trade, business development
+    • 11: Income through intellect, networking, gains
+    • 12: Foreign communication, background work, private study
+  • Rahu:
+    • 1: Unusual focus on self, foreign/unconventional identity shifts
+    • 2: Foreign income sources, unusual family situation
+    • 3: Unconventional communication, foreign travel
+    • 4: Foreign property, unusual home situation
+    • 5: Unusual romance, foreign children, speculation
+    • 6: Overcoming enemies through unconventional means
+    • 7: Foreign partner, unusual marriage, international business
+    • 8: Occult research, foreign inheritance, sudden changes
+    • 9: Foreign spiritual path, unconventional guru
+    • 10: Foreign career, unconventional profession, international
+    • 11: Gains from foreign/unconventional sources
+    • 12: Foreign settlement, spiritual confusion
+  • Ketu:
+    • 1: Spiritual withdrawal, identity confusion, past-life recall
+    • 2: Spiritual speech, detachment from wealth
+    • 3: Spiritual communication, detachment from siblings
+    • 4: Spiritual home, detachment from comforts
+    • 5: Spiritual children, detachment from romance
+    • 6: Overcoming enemies through spiritual means
+    • 7: Spiritual partner, detachment from relationships
+    • 8: Deep spirituality, occult mastery
+    • 9: Spiritual dharma, past-life guru influence
+    • 10: Spiritual career, detachment from status
+    • 11: Detachment from gains, spiritual networking
+    • 12: Liberation energy, foreign spiritual retreat
+• TRANSIT_GOOD_HOUSES:
+  • Sun:
+    1.
+      3
+    2.
+      6
+    3.
+      10
+    4.
+      11
+  • Moon:
+    1.
+      1
+    2.
+      3
+    3.
+      6
+    4.
+      7
+    5.
+      10
+    6.
+      11
+  • Mars:
+    1.
+      3
+    2.
+      6
+    3.
+      11
+  • Mercury:
+    1.
+      2
+    2.
+      4
+    3.
+      6
+    4.
+      8
+    5.
+      10
+    6.
+      11
+  • Jupiter:
+    1.
+      2
+    2.
+      5
+    3.
+      7
+    4.
+      9
+    5.
+      11
+  • Venus:
+    1.
+      1
+    2.
+      2
+    3.
+      3
+    4.
+      4
+    5.
+      5
+    6.
+      8
+    7.
+      9
+    8.
+      11
+    9.
+      12
+  • Saturn:
+    1.
+      3
+    2.
+      6
+    3.
+      11
+  • Rahu:
+    1.
+      3
+    2.
+      6
+    3.
+      10
+    4.
+      11
+  • Ketu:
+    1.
+      3
+    2.
+      6
+    3.
+      11
+• TRIKONA_GROUPS:
+  1.
+    1.
+      0
+    2.
+      4
+    3.
+      8
+  2.
+    1.
+      1
+    2.
+      5
+    3.
+      9
+  3.
+    1.
+      2
+    2.
+      6
+    3.
+      10
+  4.
+    1.
+      3
+    2.
+      7
+    3.
+      11
+• VARA_LORDS:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+• VARA_NAMES:
+  1.
+    Sunday
+  2.
+    Monday
+  3.
+    Tuesday
+  4.
+    Wednesday
+  5.
+    Thursday
+  6.
+    Friday
+  7.
+    Saturday
+• VARA_NAMES_HINDI:
+  1.
+    Ravivaar
+  2.
+    Somvaar
+  3.
+    Mangalvaar
+  4.
+    Budhvaar
+  5.
+    Guruvaar
+  6.
+    Shukravaar
+  7.
+    Shanivaar
+• VARNA:
+  • Aries: Kshatriya
+  • Taurus: Vaishya
+  • Gemini: Shudra
+  • Cancer: Brahmin
+  • Leo: Kshatriya
+  • Virgo: Vaishya
+  • Libra: Shudra
+  • Scorpio: Brahmin
+  • Sagittarius: Kshatriya
+  • Capricorn: Vaishya
+  • Aquarius: Shudra
+  • Pisces: Brahmin
+• VASYA:
+  • Aries: Chatushpada (Quadruped)
+  • Taurus: Chatushpada (Quadruped)
+  • Gemini: Dwipad (Human)
+  • Cancer: Jalachara (Aquatic)
+  • Leo: Vanachara (Wild)
+  • Virgo: Dwipad (Human)
+  • Libra: Dwipad (Human)
+  • Scorpio: Keeta (Insect)
+  • Sagittarius: Chatushpada (Quadruped)
+  • Capricorn: Jalachara (Aquatic)
+  • Aquarius: Dwipad (Human)
+  • Pisces: Jalachara (Aquatic)
+• VIMSHOTTARI_CYCLE_YEARS: 120
+• YAMAGANDA_PART:
+  • Sunday: 4
+  • Monday: 3
+  • Tuesday: 7
+  • Wednesday: 2
+  • Thursday: 6
+  • Friday: 1
+  • Saturday: 5
+• YOGA_NATURE:
+  1.
+    Inauspicious
+  2.
+    Auspicious
+  3.
+    Auspicious
+  4.
+    Auspicious
+  5.
+    Auspicious
+  6.
+    Inauspicious
+  7.
+    Auspicious
+  8.
+    Auspicious
+  9.
+    Inauspicious
+  10.
+    Inauspicious
+  11.
+    Auspicious
+  12.
+    Auspicious
+  13.
+    Inauspicious
+  14.
+    Auspicious
+  15.
+    Inauspicious
+  16.
+    Auspicious
+  17.
+    Inauspicious
+  18.
+    Auspicious
+  19.
+    Inauspicious
+  20.
+    Auspicious
+  21.
+    Auspicious
+  22.
+    Auspicious
+  23.
+    Auspicious
+  24.
+    Auspicious
+  25.
+    Auspicious
+  26.
+    Auspicious
+  27.
+    Inauspicious
+• YOGINI_DASHA:
+  TABLE (8 rows)
+  name | lord | years
+  --------------------
+  Mangala | Moon | 1
+  Pingala | Sun | 2
+  Dhanya | Jupiter | 3
+  Bhramari | Mars | 4
+  Bhadrika | Mercury | 5
+  Ulka | Saturn | 6
+  Siddha | Venus | 7
+  Sankata | Rahu | 8
+• YONI:
+  • Ashwini: Ashwa (Horse)
+  • Bharani: Gaja (Elephant)
+  • Krittika: Mesh (Goat)
+  • Rohini: Sarpa (Snake)
+  • Mrigashira: Sarpa (Snake)
+  • Ardra: Swana (Dog)
+  • Punarvasu: Marjara (Cat)
+  • Pushya: Mesh (Goat)
+  • Ashlesha: Marjara (Cat)
+  • Magha: Mushaka (Rat)
+  • Purva Phalguni: Mushaka (Rat)
+  • Uttara Phalguni: Gau (Cow)
+  • Hasta: Mahisha (Buffalo)
+  • Chitra: Vyaghra (Tiger)
+  • Swati: Mahisha (Buffalo)
+  • Vishakha: Vyaghra (Tiger)
+  • Anuradha: Mriga (Deer)
+  • Jyeshtha: Mriga (Deer)
+  • Mula: Swana (Dog)
+  • Purva Ashadha: Vanara (Monkey)
+  • Uttara Ashadha: Nakula (Mongoose)
+  • Shravana: Vanara (Monkey)
+  • Dhanishtha: Simha (Lion)
+  • Shatabhisha: Ashwa (Horse)
+  • Purva Bhadrapada: Simha (Lion)
+  • Uttara Bhadrapada: Gau (Cow)
+  • Revati: Gaja (Elephant)

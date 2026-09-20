@@ -1,0 +1,48 @@
+READABLE DATASET
+================================================================================
+Original file: subscription-report-catalog.json
+Dataset number: 373 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,339 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 1
+• frequencies:
+  • daily:
+    • label: Daily
+    • purpose: Current-day orientation, transits, active dasha, selected yogas/doshas and remedies.
+  • weekly:
+    • label: Weekly
+    • purpose: 7-day trend with timing and activation context.
+  • monthly:
+    • label: Monthly
+    • purpose: Month-level forecast, dasha/transit synthesis and action guidance.
+  • yearly:
+    • label: Yearly
+    • purpose: Year-level cycle, Varshaphal/forecast context and long-horizon guidance.
+• topics:
+  TABLE (6 rows)
+  id | label
+  --------------------
+  overview | Overview & insights
+  transits | Gochar & timing
+  dasha | Dasha
+  yogas | Yogas
+  doshas | Doshas
+  remedies | Remedies
+• channels:
+  TABLE (2 rows)
+  id | label
+  --------------------
+  email | Email
+  sms | Mobile SMS
+• chartStyles:
+  TABLE (3 rows)
+  id | label
+  --------------------
+  both | North + South Indian
+  north | North Indian
+  south | South Indian

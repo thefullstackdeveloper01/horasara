@@ -1,0 +1,7 @@
+import assert from 'node:assert/strict';
+import { buildBasicReport } from '../src/reporting/BasicReport.js';
+const R={meta:{name:'Test',sex:'M',day:1,month:1,year:2000,hour:12,min:0,sec:0,place:'Test',tz:5.5,lat:0,lon:0,weekday:'Saturday',utcAtBirth:'12:00 UTC',localMeanTime:'17:30',localTimeCorrectionMinutes:0,ishtaKaal:{formatted:'1 Ghati 0 Vighati'},sunrise:'06:00',sunset:'18:00',JD:'2451545',obliquity:23.4,siderealTime:'00:00'},panchanga:{tithi:{name:'Pratipada',paksha:'Shukla'},vara:{name:'Saturday',hindi:'Shanivaar'},yoga:{name:'Vishkambha'},karana:{name:'Bava'},nakshatra:{name:'Ashwini',pada:1,lord:'Ketu'},moonSign:'Aries'},lagna:{sign:'Aries'},ascendant:{sign:'Aries'},planets:[],dashaBalance:{formatted:'0 Ghati'},dasha:{timeline:[]},ashtakavarga:{},challitTable:{},chalitTable:{houses:[]},asciiCharts:{northIndian:'chart',southIndian:'chart'},avkahadaPhala:[],favourable:{},ghatak:{},classicalPredictions:{}};
+const report=buildBasicReport(R);
+assert.equal(report.sections.length,15);
+assert.deepEqual(report.sections.map(s=>s.title),['Basic Details','Avkahada Chakra','Favourable Points','Ghatak (Malefics)','Traditional Details','Charts','Planetary Positions','Vimshottari Dasha','Ashtakvarga Table','Chalit Table','Your Ascendant','Nakshatra Phal','Life Predictions','Manglik Details / Mangal Dosha','Sadesati Report']);
+console.log('Basic report structure: PASS (15 sections)');

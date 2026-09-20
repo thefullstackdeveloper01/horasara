@@ -1,0 +1,19 @@
+{
+  "version": "11.0",
+  "note": "Release-gate file manifest. Reconstructed during dataset wiring: the original file was referenced by src/quality/v11/MasterReleaseGate.js but was absent from the distribution. Every path below is verified to exist in this repository.",
+  "required": [
+    "server.js",
+    "src/index.js",
+    "src/engine.js",
+    "src/bootstrap.js",
+    "src/infrastructure/api/ApiServer.js",
+    "dataset/used/core/datasetCatalog.json",
+    "dataset/used/core/production-capability-registry.json",
+    "dataset/used/core/master-requirements.json",
+    "dataset/used/core/reporting-policy.json",
+    "dataset/used/core/rule-registry.json",
+    "dataset/used/validation/v11_master-evidence-policy.json",
+    "dataset/used/validation/v11_benchmark-manifest.json",
+    "dataset/used/validation/v11_outcome-corpus.schema.json"
+  ]
+}

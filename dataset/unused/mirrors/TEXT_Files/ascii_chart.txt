@@ -1,0 +1,721 @@
+READABLE DATASET
+================================================================================
+Original file: ascii_chart.json
+Dataset number: 11 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 7,603 bytes
+Top-level fields: 29
+
+CONTENT
+--------------------------------------------------------------------------------
+• SOUTH_INDIAN_SIGN_ORDER:
+  1.
+    Pisces
+  2.
+    Aries
+  3.
+    Taurus
+  4.
+    Gemini
+  5.
+    Aquarius
+  6.
+    —
+  7.
+    —
+  8.
+    Cancer
+  9.
+    Capricorn
+  10.
+    —
+  11.
+    —
+  12.
+    Leo
+  13.
+    Sagittarius
+  14.
+    Scorpio
+  15.
+    Libra
+  16.
+    Virgo
+• SOUTH_INDIAN_SIGN_CELLS:
+  • Pisces:
+    1.
+      0
+    2.
+      0
+  • Aries:
+    1.
+      0
+    2.
+      1
+  • Taurus:
+    1.
+      0
+    2.
+      2
+  • Gemini:
+    1.
+      0
+    2.
+      3
+  • Cancer:
+    1.
+      1
+    2.
+      3
+  • Leo:
+    1.
+      2
+    2.
+      3
+  • Virgo:
+    1.
+      3
+    2.
+      3
+  • Libra:
+    1.
+      3
+    2.
+      2
+  • Scorpio:
+    1.
+      3
+    2.
+      1
+  • Sagittarius:
+    1.
+      3
+    2.
+      0
+  • Capricorn:
+    1.
+      2
+    2.
+      0
+  • Aquarius:
+    1.
+      1
+    2.
+      0
+• SOUTH_INDIAN_CENTER_CELLS:
+  1.
+    1.
+      1
+    2.
+      1
+  2.
+    1.
+      1
+    2.
+      2
+  3.
+    1.
+      2
+    2.
+      1
+  4.
+    1.
+      2
+    2.
+      2
+• SIGN_SHORT:
+  • Aries: Ari
+  • Taurus: Tau
+  • Gemini: Gem
+  • Cancer: Can
+  • Leo: Leo
+  • Virgo: Vir
+  • Libra: Lib
+  • Scorpio: Sco
+  • Sagittarius: Sag
+  • Capricorn: Cap
+  • Aquarius: Aqu
+  • Pisces: Pis
+• SIGN_SYMBOL:
+  • Aries: ♈
+  • Taurus: ♉
+  • Gemini: ♊
+  • Cancer: ♋
+  • Leo: ♌
+  • Virgo: ♍
+  • Libra: ♎
+  • Scorpio: ♏
+  • Sagittarius: ♐
+  • Capricorn: ♑
+  • Aquarius: ♒
+  • Pisces: ♓
+• SIGNS:
+  1.
+    Aries
+  2.
+    Taurus
+  3.
+    Gemini
+  4.
+    Cancer
+  5.
+    Leo
+  6.
+    Virgo
+  7.
+    Libra
+  8.
+    Scorpio
+  9.
+    Sagittarius
+  10.
+    Capricorn
+  11.
+    Aquarius
+  12.
+    Pisces
+• SIGN_RULERSHIP:
+  • Aries: Mars
+  • Taurus: Venus
+  • Gemini: Mercury
+  • Cancer: Moon
+  • Leo: Sun
+  • Virgo: Mercury
+  • Libra: Venus
+  • Scorpio: Mars
+  • Sagittarius: Jupiter
+  • Capricorn: Saturn
+  • Aquarius: Saturn
+  • Pisces: Jupiter
+• SIGN_ELEMENT:
+  • Aries: Fire
+  • Taurus: Earth
+  • Gemini: Air
+  • Cancer: Water
+  • Leo: Fire
+  • Virgo: Earth
+  • Libra: Air
+  • Scorpio: Water
+  • Sagittarius: Fire
+  • Capricorn: Earth
+  • Aquarius: Air
+  • Pisces: Water
+• SIGN_QUALITY:
+  • Aries: Movable
+  • Taurus: Fixed
+  • Gemini: Dual
+  • Cancer: Movable
+  • Leo: Fixed
+  • Virgo: Dual
+  • Libra: Movable
+  • Scorpio: Fixed
+  • Sagittarius: Dual
+  • Capricorn: Movable
+  • Aquarius: Fixed
+  • Pisces: Dual
+• SIGN_GENDER:
+  • Aries: Male
+  • Taurus: Female
+  • Gemini: Male
+  • Cancer: Female
+  • Leo: Male
+  • Virgo: Female
+  • Libra: Male
+  • Scorpio: Female
+  • Sagittarius: Male
+  • Capricorn: Female
+  • Aquarius: Male
+  • Pisces: Female
+• PLANETS:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+  8.
+    Rahu
+  9.
+    Ketu
+• PLANET_SHORT:
+  • Sun: Su
+  • Moon: Mo
+  • Mars: Ma
+  • Mercury: Me
+  • Jupiter: Ju
+  • Venus: Ve
+  • Saturn: Sa
+  • Rahu: Ra
+  • Ketu: Ke
+• PLANET_SYMBOL:
+  • Sun: ☉
+  • Moon: ☽
+  • Mars: ♂
+  • Mercury: ☿
+  • Jupiter: ♃
+  • Venus: ♀
+  • Saturn: ♄
+  • Rahu: ☊
+  • Ketu: ☋
+• PLANET_EXALTATION:
+  • Sun: Aries
+  • Moon: Taurus
+  • Mars: Capricorn
+  • Mercury: Virgo
+  • Jupiter: Cancer
+  • Venus: Pisces
+  • Saturn: Libra
+  • Rahu: Taurus
+  • Ketu: Scorpio
+• PLANET_DEBILITATION:
+  • Sun: Libra
+  • Moon: Scorpio
+  • Mars: Cancer
+  • Mercury: Pisces
+  • Jupiter: Capricorn
+  • Venus: Virgo
+  • Saturn: Aries
+  • Rahu: Scorpio
+  • Ketu: Taurus
+• PLANET_FRIENDLY_SIGNS:
+  • Sun:
+    1.
+      Aries
+    2.
+      Leo
+    3.
+      Sagittarius
+    4.
+      Scorpio
+  • Moon:
+    1.
+      Cancer
+    2.
+      Pisces
+    3.
+      Taurus
+    4.
+      Aries
+    5.
+      Leo
+    6.
+      Sagittarius
+    7.
+      Libra
+  • Mars:
+    1.
+      Aries
+    2.
+      Leo
+    3.
+      Sagittarius
+    4.
+      Cancer
+    5.
+      Scorpio
+    6.
+      Pisces
+  • Mercury:
+    1.
+      Gemini
+    2.
+      Virgo
+    3.
+      Libra
+    4.
+      Aquarius
+    5.
+      Taurus
+    6.
+      Aries
+    7.
+      Leo
+    8.
+      Sagittarius
+  • Jupiter:
+    1.
+      Cancer
+    2.
+      Pisces
+    3.
+      Sagittarius
+    4.
+      Aries
+    5.
+      Leo
+    6.
+      Scorpio
+    7.
+      Aquarius
+  • Venus:
+    1.
+      Taurus
+    2.
+      Libra
+    3.
+      Pisces
+    4.
+      Cancer
+    5.
+      Capricorn
+    6.
+      Aquarius
+    7.
+      Sagittarius
+    8.
+      Gemini
+    9.
+      Virgo
+  • Saturn:
+    1.
+      Capricorn
+    2.
+      Aquarius
+    3.
+      Taurus
+    4.
+      Libra
+    5.
+      Virgo
+    6.
+      Gemini
+  • Rahu:
+    1.
+      Gemini
+    2.
+      Virgo
+    3.
+      Libra
+    4.
+      Sagittarius
+    5.
+      Capricorn
+    6.
+      Aquarius
+    7.
+      Pisces
+    8.
+      Aries
+  • Ketu:
+    1.
+      Aries
+    2.
+      Taurus
+    3.
+      Cancer
+    4.
+      Leo
+    5.
+      Scorpio
+    6.
+      Sagittarius
+    7.
+      Capricorn
+    8.
+      Pisces
+• PLANET_NATURE:
+  • Sun: Malefic
+  • Moon: Benefic
+  • Mars: Malefic
+  • Mercury: Benefic
+  • Jupiter: Benefic
+  • Venus: Benefic
+  • Saturn: Malefic
+  • Rahu: Malefic
+  • Ketu: Malefic
+• NORTH_INDIAN_HOUSE_ORDER:
+  1.
+    1.
+      0
+    2.
+      0
+    3.
+      12
+  2.
+    1.
+      0
+    2.
+      1
+    3.
+      1
+  3.
+    1.
+      0
+    2.
+      2
+    3.
+      2
+  4.
+    1.
+      0
+    2.
+      3
+    3.
+      3
+  5.
+    1.
+      1
+    2.
+      3
+    3.
+      4
+  6.
+    1.
+      2
+    2.
+      3
+    3.
+      5
+  7.
+    1.
+      3
+    2.
+      3
+    3.
+      6
+  8.
+    1.
+      3
+    2.
+      2
+    3.
+      7
+  9.
+    1.
+      3
+    2.
+      1
+    3.
+      8
+  10.
+    1.
+      3
+    2.
+      0
+    3.
+      9
+  11.
+    1.
+      2
+    2.
+      0
+    3.
+      10
+  12.
+    1.
+      1
+    2.
+      0
+    3.
+      11
+• NORTH_INDIAN_HOUSE_CELLS:
+  • 1:
+    1.
+      0
+    2.
+      1
+  • 2:
+    1.
+      0
+    2.
+      2
+  • 3:
+    1.
+      0
+    2.
+      3
+  • 4:
+    1.
+      1
+    2.
+      3
+  • 5:
+    1.
+      2
+    2.
+      3
+  • 6:
+    1.
+      3
+    2.
+      3
+  • 7:
+    1.
+      3
+    2.
+      2
+  • 8:
+    1.
+      3
+    2.
+      1
+  • 9:
+    1.
+      3
+    2.
+      0
+  • 10:
+    1.
+      2
+    2.
+      0
+  • 11:
+    1.
+      1
+    2.
+      0
+  • 12:
+    1.
+      0
+    2.
+      0
+• NORTH_INDIAN_CENTER_CELLS:
+  1.
+    1.
+      1
+    2.
+      1
+  2.
+    1.
+      1
+    2.
+      2
+  3.
+    1.
+      2
+    2.
+      1
+  4.
+    1.
+      2
+    2.
+      2
+• HOUSE_NAMES:
+  • 1: Lagna
+  • 2: Dhana
+  • 3: Sahaja
+  • 4: Sukha
+  • 5: Putra
+  • 6: Ari
+  • 7: Yuvati
+  • 8: Mrityu
+  • 9: Dharma
+  • 10: Karma
+  • 11: Labha
+  • 12: Vyaya
+• HOUSE_MEANINGS:
+  • 1: Self, Body, Personality
+  • 2: Wealth, Family, Speech
+  • 3: Siblings, Courage, Communication
+  • 4: Mother, Home, Happiness
+  • 5: Children, Intellect, Romance
+  • 6: Enemies, Disease, Debts
+  • 7: Marriage, Partnerships
+  • 8: Longevity, Transformation, Occult
+  • 9: Father, Religion, Fortune
+  • 10: Career, Profession, Status
+  • 11: Gains, Income, Friends
+  • 12: Loss, Expenses, Liberation
+• GRID_ROWS: 4
+• GRID_COLS: 4
+• CELL_W: 13
+• CELL_H: 13
+• CHART_STYLES:
+  1.
+    NorthIndian
+  2.
+    SouthIndian
+  3.
+    EastIndian
+• NAKSHATRAS:
+  1.
+    Ashwini
+  2.
+    Bharani
+  3.
+    Krittika
+  4.
+    Rohini
+  5.
+    Mrigashira
+  6.
+    Ardra
+  7.
+    Punarvasu
+  8.
+    Pushya
+  9.
+    Ashlesha
+  10.
+    Magha
+  11.
+    PurvaPhalguni
+  12.
+    UttaraPhalguni
+  13.
+    Hasta
+  14.
+    Chitra
+  15.
+    Swati
+  16.
+    Vishakha
+  17.
+    Anuradha
+  18.
+    Jyeshtha
+  19.
+    Mula
+  20.
+    PurvaAshadha
+  21.
+    UttaraAshadha
+  22.
+    Shravana
+  23.
+    Dhanishta
+  24.
+    Shatabhisha
+  25.
+    PurvaBhadrapada
+  26.
+    UttaraBhadrapada
+  27.
+    Revati
+• NAKSHATRA_LORDS:
+  • Ashwini: Ketu
+  • Bharani: Venus
+  • Krittika: Sun
+  • Rohini: Moon
+  • Mrigashira: Mars
+  • Ardra: Rahu
+  • Punarvasu: Jupiter
+  • Pushya: Saturn
+  • Ashlesha: Mercury
+  • Magha: Ketu
+  • PurvaPhalguni: Venus
+  • UttaraPhalguni: Sun
+  • Hasta: Moon
+  • Chitra: Mars
+  • Swati: Rahu
+  • Vishakha: Jupiter
+  • Anuradha: Saturn
+  • Jyeshtha: Mercury
+  • Mula: Ketu
+  • PurvaAshadha: Venus
+  • UttaraAshadha: Sun
+  • Shravana: Moon
+  • Dhanishta: Mars
+  • Shatabhisha: Rahu
+  • PurvaBhadrapada: Jupiter
+  • UttaraBhadrapada: Saturn
+  • Revati: Mercury

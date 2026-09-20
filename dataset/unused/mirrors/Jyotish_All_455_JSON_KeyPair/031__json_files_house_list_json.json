@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "031__json_files_house_list_json",
+    "name": "JSON_Files_House-List",
+    "original_file": "JSON_Files/House-List.json",
+    "dataset_number": "179 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_House-List.txt",
+    "source_sha256": "472a5ea372cdd4512eea23cc041d9638479e9102869cd4aa28b1a31296088d1e",
+    "source_bytes": 1338
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "house_001",
+          "name": "Lagna / First House",
+          "name_hindi": "Tanu Bhava",
+          "significator_kaarak": "Sun",
+          "primary_topics": {
+            "_items": [
+              {
+                "_text": [
+                  "Self"
+                ]
+              },
+              {
+                "_text": [
+                  "Physical Body"
+                ]
+              },
+              {
+                "_text": [
+                  "Personality"
+                ]
+              },
+              {
+                "_text": [
+                  "Head"
+                ]
+              }
+            ]
+          },
+          "secondary_topics": {
+            "_items": [
+              {
+                "_text": [
+                  "Childhood"
+                ]
+              },
+              {
+                "_text": [
+                  "Vitality"
+                ]
+              },
+              {
+                "_text": [
+                  "General Well-being"
+                ]
+              }
+            ]
+          },
+          "prediction_logic": "The condition of the 1st house and its lord dictates the overall trajectory of the native's life and health.",
+          "associated_body_part": "Head"
+        },
+        {
+          "id": "house_007",
+          "name": "Seventh House",
+          "name_hindi": "Yuvati Bhava",
+          "significator_kaarak": "Venus",
+          "primary_topics": {
+            "_items": [
+              {
+                "_text": [
+                  "Marriage"
+                ]
+              },
+              {
+                "_text": [
+                  "Business Partnerships"
+                ]
+              },
+              {
+                "_text": [
+                  "Spouse"
+                ]
+              }
+            ]
+          },
+          "secondary_topics": {
+            "_items": [
+              {
+                "_text": [
+                  "Foreign Travel"
+                ]
+              },
+              {
+                "_text": [
+                  "Public Image"
+                ]
+              },
+              {
+                "_text": [
+                  "Reproductive Organs"
+                ]
+              }
+            ]
+          },
+          "prediction_logic": "Afflictions to this house or its lord by Mars (Manglik), Sun, or Rahu cause marital discord.",
+          "associated_body_part": "Lower Abdomen / Pelvis"
+        }
+      ]
+    }
+  }
+}

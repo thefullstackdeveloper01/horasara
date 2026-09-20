@@ -1,0 +1,20 @@
+import assert from 'node:assert/strict';
+import { spawn } from 'node:child_process';
+import fs from 'node:fs/promises';
+import os from 'node:os';
+import path from 'node:path';
+
+const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'jyotiveda-pdf-'));
+const pdf = path.join(dir, 'report.pdf');
+const child = spawn(process.execPath, ['pdfgenerate.js', '--name','PDF Test','--date','15-05-1990','--time','14:30','--lat','28.6139','--lon','77.209','--tz','5.5','--place','Delhi','--out',pdf], {cwd:process.cwd(), stdio:['ignore','pipe','pipe']});
+let out='', err=''; child.stdout.on('data',d=>out+=d); child.stderr.on('data',d=>err+=d);
+const code = await new Promise(resolve=>child.on('close',resolve));
+assert.equal(code,0,`${out}\n${err}`);
+const bytes=await fs.readFile(pdf); assert.equal(bytes.subarray(0,8).toString('ascii'),'%PDF-1.4');
+const json=JSON.parse(await fs.readFile(pdf.replace(/\.pdf$/i,'.json'),'utf8'));
+assert.equal(json.title,'JyotiVeda — Authentic & Powerful Jyotish Calculation + Prediction Report');
+assert.ok(json.sections.length >= 30, `expected comprehensive report sections, got ${json.sections.length}`);
+assert.ok(json.sections.some(x=>x.id==='prediction'));
+assert.ok(json.sections.some(x=>x.id==='remedies'));
+assert.ok(json.sections.some(x=>x.id==='provenance'));
+console.log(`PDF report test passed: ${json.sections.length} sections, ${bytes.length} bytes`);

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "365__sign_career_themes_json",
+    "name": "sign_career_themes",
+    "original_file": "sign_career_themes.json",
+    "dataset_number": "365 of 455",
+    "format": "json",
+    "source_readable_file": "sign_career_themes.txt",
+    "source_sha256": "1e7537d9ee03e46ae9a09fd031b3b59265b88a0e920aa2de1dfcd0fd4ebd4951",
+    "source_bytes": 1808
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": 1,
+      "note": "Traditional sign-to-career-theme associations. Previously duplicated with inconsistent wording as VL_CAREER (src/extensions/new_sections.js, applied to the Varnada Lagna sign) and D10_CAREER (src/extensions/extended_sections.js, applied to the D10/10th-house sign) — the same classical concept applied to two different derived signs. Consolidated into one canonical table so both call sites read identical, non-drifting theme text; each caller still applies it to its own sign input.",
+      "themes": {
+        "Aries": "Independent entrepreneur, military, sports leadership, initiative-driven roles",
+        "Taurus": "Finance, luxury, real estate, arts, food industry",
+        "Gemini": "Communication, media, IT, writing, trade, consulting",
+        "Cancer": "Hospitality, nursing, food, public sector, real estate",
+        "Leo": "Government, politics, entertainment, senior management, administration",
+        "Virgo": "Accounting, healthcare, analysis, IT services, quality, service industry",
+        "Libra": "Law, diplomacy, fashion, arts, HR, client relations, public relations",
+        "Scorpio": "Research, investigation, surgery, occult, mining, psychology",
+        "Sagittarius": "Education, law, travel, philosophy, religion, international work",
+        "Capricorn": "Management, government, construction, engineering, authority",
+        "Aquarius": "Technology, social work, research, innovation, IT",
+        "Pisces": "Spirituality, healing, arts, foreign connections, pharmaceutical"
+      }
+    }
+  }
+}

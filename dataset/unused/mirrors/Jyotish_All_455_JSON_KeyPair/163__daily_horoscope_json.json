@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "163__daily_horoscope_json",
+    "name": "daily_horoscope",
+    "original_file": "daily_horoscope.json",
+    "dataset_number": "93 of 455",
+    "format": "json",
+    "source_readable_file": "daily_horoscope.txt",
+    "source_sha256": "35eed1db10790b60923f0140a3b38b8e51c998def0eae96e5513d970367a4f38",
+    "source_bytes": 1690
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "PLANET_DOMAINS": {
+        "Sun": {
+          "_items": [
+            {
+              "_text": [
+                "career"
+              ]
+            },
+            {
+              "_text": [
+                "authority"
+              ]
+            },
+            {
+              "_text": [
+                "health"
+              ]
+            },
+            {
+              "_text": [
+                "father"
+              ]
+            }
+          ]
+        },
+        "Moon": {
+          "_items": [
+            {
+              "_text": [
+                "emotions"
+              ]
+            },
+            {
+              "_text": [
+                "home"
+              ]
+            },
+            {
+              "_text": [
+                "mother"
+              ]
+            },
+            {
+              "_text": [
+                "relationships"
+              ]
+            }
+          ]
+        },
+        "Mars": {
+          "_items": [
+            {
+              "_text": [
+                "energy"
+              ]
+            },
+            {
+              "_text": [
+                "property"
+              ]
+            },
+            {
+              "_text": [
+                "siblings"
+              ]
+            },
+            {
+              "_text": [
+                "competition"
+              ]
+            }
+          ]
+        },
+        "Mercury": {
+          "_items": [
+            {
+              "_text": [
+                "business"
+              ]
+            },
+            {
+              "_text": [
+                "communication"
+              ]
+            },
+            {
+              "_text": [
+                "learning"
+              ]
+            },
+            {
+              "_text": [
+                "travel"
+              ]
+            }
+          ]
+        },
+        "Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "wisdom"
+              ]
+            },
+            {
+              "_text": [
+                "wealth"
+              ]
+            },
+            {
+              "_text": [
+                "children"
+              ]
+            },
+            {
+              "_text": [
+                "spirituality"
+              ]
+            }
+          ]
+        },
+        "Venus": {
+          "_items": [
+            {
+              "_text": [
+                "love"
+              ]
+            },
+            {
+              "_text": [
+                "luxury"
+              ]
+            },
+            {
+              "_text": [
+                "creativity"
+              ]
+            },
+            {
+              "_text": [
+                "partnerships"
+              ]
+            }
+          ]
+        },
+        "Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "discipline"
+              ]
+            },
+            {
+              "_text": [
+                "delays"
+              ]
+            },
+            {
+              "_text": [
+                "karma"
+              ]
+            },
+            {
+              "_text": [
+                "longevity"
+              ]
+            }
+          ]
+        },
+        "Rahu": {
+          "_items": [
+            {
+              "_text": [
+                "ambition"
+              ]
+            },
+            {
+              "_text": [
+                "foreign"
+              ]
+            },
+            {
+              "_text": [
+                "technology"
+              ]
+            },
+            {
+              "_text": [
+                "unconventional"
+              ]
+            }
+          ]
+        },
+        "Ketu": {
+          "_items": [
+            {
+              "_text": [
+                "spirituality"
+              ]
+            },
+            {
+              "_text": [
+                "detachment"
+              ]
+            },
+            {
+              "_text": [
+                "research"
+              ]
+            },
+            {
+              "_text": [
+                "past-karma"
+              ]
+            }
+          ]
+        }
+      },
+      "HOUSE_THEMES": {
+        "1": "self and appearance",
+        "2": "wealth and speech",
+        "3": "courage and siblings",
+        "4": "home and mother",
+        "5": "children and creativity",
+        "6": "health and enemies",
+        "7": "relationships and partnerships",
+        "8": "transformation and longevity",
+        "9": "fortune and dharma",
+        "10": "career and reputation",
+        "11": "gains and income",
+        "12": "spirituality and foreign lands"
+      }
+    }
+  }
+}

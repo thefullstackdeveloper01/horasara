@@ -1,0 +1,28 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Donation-List.json
+Dataset number: 168 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 328 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: daan_001
+  • associated_planet: Jupiter (Guru)
+  • items_to_donate:
+    1.
+      Yellow clothes
+    2.
+      Chana Dal
+    3.
+      Turmeric
+    4.
+      Gold items
+    5.
+      Yellow flowers
+  • recipient: Brahmin or Guru
+  • best_day: Thursday
+  • benefits: Pacifies Jupiter, brings wisdom, progeny, and marital peace.

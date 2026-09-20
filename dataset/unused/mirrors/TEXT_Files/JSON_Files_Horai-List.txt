@@ -1,0 +1,28 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Horai-List.json
+Dataset number: 177 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 280 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: horai_001
+  • ruling_planet: Venus
+  • name: Shukra Hora
+  • nature: Auspicious
+  • good_for:
+    1.
+      Buying jewelry
+    2.
+      Marriage
+    3.
+      Romantic meetings
+    4.
+      Art and crafts
+    5.
+      Starting a beauty business
+  • avoid: Surgical operations

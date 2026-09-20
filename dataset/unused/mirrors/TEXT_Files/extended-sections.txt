@@ -1,0 +1,127 @@
+READABLE DATASET
+================================================================================
+Original file: extended-sections.json
+Dataset number: 119 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 2,936 bytes
+Top-level fields: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+• SECTIONS:
+  1.
+    1.
+      21. FUTURE FORECAST — अगले 25 वर्षों का पूर्वानुमान
+    2.
+      futureForecast
+  2.
+    1.
+      22. LIFE PHASE STRATEGY — जीवन चरण रणनीति
+    2.
+      lifePhaseStrategy
+  3.
+    1.
+      23. BIRTH → NOW TIMELINE — जन्म से अब तक
+    2.
+      birthToNowTimeline
+  4.
+    1.
+      24. TODAY'S HOROSCOPE — आज का राशिफल
+    2.
+      dailyHoroscopeExt
+  5.
+    1.
+      25. THIS MONTH FORECAST — इस माह का पूर्वानुमान
+    2.
+      monthlyForecast
+  6.
+    1.
+      26. LIFE PREDICTIONS — सम्पूर्ण जीवन भविष्यवाणी
+    2.
+      lifePredictions
+  7.
+    1.
+      27. CAREER DNA — करियर विश्लेषण
+    2.
+      careerDNA
+  8.
+    1.
+      28. FINANCIAL ASTROLOGY — धन एवं वित्तीय ज्योतिष
+    2.
+      financialAstrology
+  9.
+    1.
+      29. RELATIONSHIP ARCHITECTURE — विवाह एवं संबंध
+    2.
+      relationshipArchitecture
+  10.
+    1.
+      30. MEDICAL ASTROLOGY — स्वास्थ्य ज्योतिष
+    2.
+      medicalAstrology
+  11.
+    1.
+      31. NAKSHATRA PERSONALITY — नक्षत्र व्यक्तित्व विश्लेषण
+    2.
+      nakshatraPersonality
+  12.
+    1.
+      32. KARMIC BLUEPRINT — कर्म एवं पूर्वजन्म विश्लेषण
+    2.
+      karmicBlueprint
+  13.
+    1.
+      33. PLANETARY ACTIVATORS — ग्रह सक्रियण काल
+    2.
+      planetaryActivators
+  14.
+    1.
+      34. GEOGRAPHIC ASTROLOGY — स्थान अनुकूलता (Best places to live/work)
+    2.
+      geographicAstrology
+  15.
+    1.
+      35. BIRTH TIME SENSITIVITY — जन्म समय सटीकता विश्लेषण
+    2.
+      birthTimeSensitivity
+  16.
+    1.
+      36. SPECIAL LAGNAS DETAILED REPORT
+    2.
+      specialLagnasReport
+  17.
+    1.
+      37. CONFLICT RESOLUTION — परस्पर विरोधी संकेतों का समाधान
+    2.
+      conflictResolution
+  18.
+    1.
+      38. FINAL LIFE VERDICT — अंतिम जीवन निर्णय
+    2.
+      finalLifeVerdict
+  19.
+    1.
+      39. ADVANCED REMEDIES — उपाय एवं समाधान
+    2.
+      advancedRemedies
+  20.
+    1.
+      40. KP ADVANCED ANALYSIS
+    2.
+      kpAdvanced
+  21.
+    1.
+      41. PANCH PAKSHI SHASTRA — पंच पक्षी शास्त्र
+    2.
+      panchPakshi
+  22.
+    1.
+      42. EXECUTIVE SUMMARY — कार्यकारी सारांश (Life at a Glance)
+    2.
+      executiveSummary
+  23.
+    1.
+      43. AI SYNTHESIS — समेकित विश्लेषण (All Factors Combined)
+    2.
+      aiSynthesis

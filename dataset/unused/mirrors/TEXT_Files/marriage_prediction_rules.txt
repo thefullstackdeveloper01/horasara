@@ -1,0 +1,163 @@
+READABLE DATASET
+================================================================================
+Original file: marriage_prediction_rules.json
+Dataset number: 286 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 5,150 bytes
+Top-level records: 10
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • rule_id: 1
+  • category: Marriage Timing — Primary
+  • indicator: 7th lord Dasha/Antardasha
+  • rule: Marriage most likely during Dasha or Antardasha of 7th lord
+  • supporting_factors:
+    1.
+      Jupiter transiting 7th house
+    2.
+      Jupiter aspecting 7th lord
+    3.
+      Venus Dasha
+    4.
+      2nd lord activated
+  • source: BPHS, universal tradition
+2.
+  • rule_id: 2
+  • category: Marriage Timing — Secondary
+  • indicator: Jupiter and Venus transits
+  • rule: Jupiter transiting natal 7th house, or aspecting 7th lord, in Dasha of 7th lord = marriage year
+  • supporting_factors:
+    1.
+      Jupiter in 1st, 5th, 7th, 9th from Moon
+    2.
+      Venus transiting 7th house during Jupiter transit
+  • source: Muhurta Chintamani, Jaimini
+3.
+  • rule_id: 3
+  • category: Spouse Characteristics
+  • indicator: 7th house and its lord
+  • rule: Sign on 7th cusp and its lord's position describe spouse's nature, appearance, career
+  • sign_spouse_indications:
+    • Aries_on_7th: Athletic, aggressive, independent spouse
+    • Taurus_on_7th: Stable, beautiful, wealth-oriented spouse
+    • Gemini_on_7th: Intellectual, communicative, dual-natured spouse
+    • Cancer_on_7th: Emotional, nurturing, family-oriented spouse
+    • Leo_on_7th: Dominant, proud, creative, leader spouse
+    • Virgo_on_7th: Analytical, critical, health-conscious spouse
+    • Libra_on_7th: Beautiful, balanced, artistic, diplomatic spouse
+    • Scorpio_on_7th: Intense, secretive, transformative spouse
+    • Sagittarius_on_7th: Adventurous, philosophical, spiritual spouse
+    • Capricorn_on_7th: Disciplined, ambitious, hardworking spouse
+    • Aquarius_on_7th: Unconventional, humanitarian, intellectual spouse
+    • Pisces_on_7th: Sensitive, spiritual, creative, compassionate spouse
+  • source: BPHS, Phaladeepika
+4.
+  • rule_id: 4
+  • category: Delayed Marriage
+  • indicator: Saturn + 7th house
+  • rule: Saturn in 7th house, or Saturn aspecting 7th lord, or Saturn Dasha in prime marriage age = delay
+  • age_of_delay: Marriage after 30; sometimes after 35
+  • supporting_factors:
+    1.
+      Saturn in 7th
+    2.
+      Saturn aspects 7th lord
+    3.
+      Sade Sati during 18-28
+    4.
+      7th lord in Saturn's sign (Cap/Aquarius)
+  • cancellation: Benefic aspects on Saturn; strong Jupiter; Venus strongly placed
+  • source: Universal Jyotish tradition
+5.
+  • rule_id: 5
+  • category: Multiple Marriages
+  • indicator: Multiple factors in 7th house
+  • rule: Multiple planets in 7th house (especially Venus, Moon, Mars together) or 7th lord in dual sign
+  • supporting_indicators:
+    1.
+      7th lord in Gemini, Virgo, Sagittarius, Pisces
+    2.
+      More than 2 planets in 7th
+    3.
+      Venus in Gemini in 7th
+    4.
+      Rahu in 7th
+  • source: Phaladeepika, Jataka Parijata
+6.
+  • rule_id: 6
+  • category: Marital Happiness
+  • indicator: Venus and Jupiter positions
+  • rule: Strong Venus (especially in Navamsa) and Jupiter aspecting 7th = happy marriage
+  • favorable_positions:
+    1.
+      Venus in Taurus/Libra/Pisces
+    2.
+      Jupiter in 7th or aspecting 7th
+    3.
+      Moon in 7th (for males)
+  • unfavorable_positions:
+    1.
+      Venus debilitated (Virgo)
+    2.
+      Sun in 7th (burns 7th house)
+    3.
+      Mars in 7th (Mangala Dosha)
+  • source: BPHS, D9 Navamsa analysis
+7.
+  • rule_id: 7
+  • category: Love Marriage
+  • indicator: 5th and 7th house connection
+  • rule: 5th lord in 7th, 7th lord in 5th, or 5th and 7th lords conjoined = love marriage
+  • supporting_factors:
+    1.
+      Venus in 5th
+    2.
+      Rahu in 5th or 7th
+    3.
+      Moon-Venus conjunction
+    4.
+      Strong 5th house
+  • source: Modern Jyotish, Phaladeepika
+8.
+  • rule_id: 8
+  • category: Arranged Marriage
+  • indicator: Saturn + 7th house
+  • rule: Saturn in or aspecting 7th house, or Saturn-influenced 7th lord = arranged marriage
+  • supporting_factors:
+    1.
+      Saturn in 7th
+    2.
+      7th lord in Capricorn or Aquarius
+    3.
+      Conservative sign on 7th cusp
+  • source: Traditional Jyotish
+9.
+  • rule_id: 9
+  • category: Foreign Spouse
+  • indicator: Rahu/Ketu + 7th house
+  • rule: Rahu in 7th, or 7th lord in 12th, or 7th lord with Rahu = foreign spouse
+  • supporting_factors:
+    1.
+      7th lord in 12th house
+    2.
+      Rahu-Venus conjunction
+    3.
+      9th and 7th lords exchanging
+  • source: Modern Jyotish tradition
+10.
+  • rule_id: 10
+  • category: Widowhood Risk
+  • indicator: 8th house + 7th lord
+  • rule: 8th lord in 7th, or 7th lord in 8th, with malefic aspects = risk of widowhood
+  • supporting_factors:
+    1.
+      Mars in 7th without cancellation
+    2.
+      Saturn in 8th aspecting 7th
+    3.
+      Multiple Maraka influences
+  • cancellation: Jupiter strongly aspecting 7th and 8th; benefics in Navamsa 7th
+  • source: BPHS, traditional texts

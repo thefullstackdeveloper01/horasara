@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "096__bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas_json",
+    "name": "Bhargava Tantra ( Pancharatra Agama Grantha, With Hindi Commentary) By Kapila Deva Narayan Chowkhamba Krishnadas Academy, Varanasi",
+    "original_file": "bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas.json",
+    "dataset_number": "26 of 455",
+    "format": "json",
+    "source_readable_file": "bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas.txt",
+    "source_sha256": "d3a65295fa6b466b78abc8d8325982d46d4a279bac2949a08e7052690dc73719",
+    "source_bytes": 1467
+  },
+  "metadata": {
+    "title": "Bhargava Tantra ( Pancharatra Agama Grantha, With Hindi Commentary) By Kapila Deva Narayan Chowkhamba Krishnadas Academy, Varanasi",
+    "creator": "Chowkhamba Krishnadas Academy, Varanasi",
+    "description": "'Bhargava Tantra (Pancharatra Agama Grantha, With Hindi Commentary) By Kapila Deva Narayan - Chowkhamba Krishnadas Academy, Varanasi'"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "title": "Bhargava Tantra ( Pancharatra Agama Grantha, With Hindi Commentary) By Kapila Deva Narayan Chowkhamba Krishnadas Academy, Varanasi",
+      "creator": "Chowkhamba Krishnadas Academy, Varanasi",
+      "date": null,
+      "description": "'Bhargava Tantra (Pancharatra Agama Grantha, With Hindi Commentary) By Kapila Deva Narayan - Chowkhamba Krishnadas Academy, Varanasi'",
+      "subject": "Vintage-Indic",
+      "identifier": "vNrp_bhargava-tantra-pancharatra-agama-grantha-with-hindi-commentary-by-kapila-deva-n",
+      "source_folder": "vNrp_bhargava-tantra-pancharatra-agama-grantha-with-hindi-commentary-by-kapila-deva-n",
+      "text": null,
+      "note": "OCR text not available for this item in the source archive"
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "090__astronomy_world_sky_json",
+    "name": "astronomy-world-sky",
+    "original_file": "astronomy-world-sky.json",
+    "dataset_number": "20 of 455",
+    "format": "json",
+    "source_readable_file": "astronomy-world-sky.txt",
+    "source_sha256": "bdf6710054a0bfcbf32f527e3a429b7dee89ed938eb9b22fe42b63b0f9a398d0",
+    "source_bytes": 3242
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "planets": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      },
+      "rules": {
+        "Sun|Moon": {
+          "_items": [
+            {
+              "_text": [
+                "mixed"
+              ]
+            },
+            {
+              "_text": [
+                "Visibility, vitality and public/emotional themes are traditionally emphasized; avoid treating this as a causal world-event forecast."
+              ]
+            }
+          ]
+        },
+        "Sun|Mercury": {
+          "_items": [
+            {
+              "_text": [
+                "supportive"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with communication, trade, learning and administration."
+              ]
+            }
+          ]
+        },
+        "Sun|Venus": {
+          "_items": [
+            {
+              "_text": [
+                "supportive"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with arts, diplomacy, relationships and material refinement."
+              ]
+            }
+          ]
+        },
+        "Sun|Mars": {
+          "_items": [
+            {
+              "_text": [
+                "challenging"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with heightened initiative and conflict potential; practical caution is emphasized."
+              ]
+            }
+          ]
+        },
+        "Sun|Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "supportive"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with leadership, learning, institutions and expansion."
+              ]
+            }
+          ]
+        },
+        "Sun|Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "challenging"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with pressure, regulation, delay and restructuring."
+              ]
+            }
+          ]
+        },
+        "Moon|Mars": {
+          "_items": [
+            {
+              "_text": [
+                "challenging"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with emotional intensity, urgency and reactive decisions."
+              ]
+            }
+          ]
+        },
+        "Moon|Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "supportive"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with public optimism, learning and supportive growth."
+              ]
+            }
+          ]
+        },
+        "Moon|Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "challenging"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with restraint, responsibility and heavier collective moods."
+              ]
+            }
+          ]
+        },
+        "Mercury|Venus": {
+          "_items": [
+            {
+              "_text": [
+                "supportive"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with arts, negotiation, commerce and social communication."
+              ]
+            }
+          ]
+        },
+        "Mercury|Mars": {
+          "_items": [
+            {
+              "_text": [
+                "challenging"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with fast decisions, debate and communication friction."
+              ]
+            }
+          ]
+        },
+        "Mercury|Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "supportive"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with study, teaching, planning and broad communication."
+              ]
+            }
+          ]
+        },
+        "Mercury|Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "mixed"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with serious analysis, rules and slower communication."
+              ]
+            }
+          ]
+        },
+        "Venus|Mars": {
+          "_items": [
+            {
+              "_text": [
+                "mixed"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with attraction, creativity and stronger passions."
+              ]
+            }
+          ]
+        },
+        "Venus|Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "supportive"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with abundance, culture, generosity and social harmony."
+              ]
+            }
+          ]
+        },
+        "Venus|Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "mixed"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with commitment, restraint and restructuring of relationships/resources."
+              ]
+            }
+          ]
+        },
+        "Mars|Jupiter": {
+          "_items": [
+            {
+              "_text": [
+                "mixed"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with ambitious expansion and the need to moderate excess."
+              ]
+            }
+          ]
+        },
+        "Mars|Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "challenging"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with friction between urgency and delay; disciplined execution is emphasized."
+              ]
+            }
+          ]
+        },
+        "Jupiter|Saturn": {
+          "_items": [
+            {
+              "_text": [
+                "mixed"
+              ]
+            },
+            {
+              "_text": [
+                "Traditionally associated with expansion meeting limits, institutions and long-term restructuring."
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

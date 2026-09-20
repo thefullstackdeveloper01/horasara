@@ -1,0 +1,30 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v13/outcome-corpus.schema.json
+Dataset number: 419 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 320 bytes
+Top-level fields: 6
+Title: HoraSaar V13 Verified Prediction Outcome Corpus
+
+CONTENT
+--------------------------------------------------------------------------------
+• $schema: https://json-schema.org/draft/2020-12/schema
+• title: HoraSaar V13 Verified Prediction Outcome Corpus
+• type: object
+• required:
+  1.
+    version
+  2.
+    status
+  3.
+    records
+• properties:
+  • version:
+    • type: string
+  • status:
+    • type: string
+  • records:
+    • type: array
+• additionalProperties: No

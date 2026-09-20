@@ -1,0 +1,1381 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "349__sarvatobhadra_layout_json",
+    "name": "sarvatobhadra-layout",
+    "original_file": "sarvatobhadra-layout.json",
+    "dataset_number": "349 of 455",
+    "format": "json",
+    "source_readable_file": "sarvatobhadra-layout.txt",
+    "source_sha256": "f6b9b264d861c527a005749d5037b4a0200f0c0b0b0e4d9224ff0860372e3904",
+    "source_bytes": 5646
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "standard-9x9": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ī"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Dhanishta"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Shatabhisha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Purva Bhadrapada"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Uttara Bhadrapada"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Revati"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Ashwini"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Bharani"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "a"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Shravana"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ṝ"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "na"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "sa"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ta"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ca"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "la"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "u"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Krittika"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Abhijit"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "kha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ai"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Aquarius"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Pisces"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Aries"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ḷ"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "a"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Rohini"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Uttara Ashadha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ja"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Capricorn"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "aḥ"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "tithi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Nanda"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "o"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Taurus"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ba"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Mrigashira"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Purva Ashadha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ma"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Sagittarius"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "tithi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Rikta"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "tithi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Purna"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "tithi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Bhadra"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Gemini"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ka"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Ardra"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Mula"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ya"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Scorpio"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "aṃ"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "tithi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Jaya"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "au"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Cancer"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Punarvasu"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Jyeshtha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "na"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "e"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Libra"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Virgo"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "rashi"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Leo"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ḹ"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "da"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Pushya"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Anuradha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ṛ"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ta"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ra"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "pa"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "da"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "consonant"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ma"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ū"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Ashlesha"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "i"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Vishakha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Swati"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Chitra"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Hasta"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Uttara Phalguni"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Purva Phalguni"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "nakshatra"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "Magha"
+                    ]
+                  }
+                ]
+              },
+              {
+                "_items": [
+                  {
+                    "_text": [
+                      "vowel"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "ā"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "nakshatras28": {
+        "_items": [
+          {
+            "_text": [
+              "Krittika"
+            ]
+          },
+          {
+            "_text": [
+              "Rohini"
+            ]
+          },
+          {
+            "_text": [
+              "Mrigashira"
+            ]
+          },
+          {
+            "_text": [
+              "Ardra"
+            ]
+          },
+          {
+            "_text": [
+              "Punarvasu"
+            ]
+          },
+          {
+            "_text": [
+              "Pushya"
+            ]
+          },
+          {
+            "_text": [
+              "Ashlesha"
+            ]
+          },
+          {
+            "_text": [
+              "Magha"
+            ]
+          },
+          {
+            "_text": [
+              "Purva Phalguni"
+            ]
+          },
+          {
+            "_text": [
+              "Uttara Phalguni"
+            ]
+          },
+          {
+            "_text": [
+              "Hasta"
+            ]
+          },
+          {
+            "_text": [
+              "Chitra"
+            ]
+          },
+          {
+            "_text": [
+              "Swati"
+            ]
+          },
+          {
+            "_text": [
+              "Vishakha"
+            ]
+          },
+          {
+            "_text": [
+              "Anuradha"
+            ]
+          },
+          {
+            "_text": [
+              "Jyeshtha"
+            ]
+          },
+          {
+            "_text": [
+              "Mula"
+            ]
+          },
+          {
+            "_text": [
+              "Purva Ashadha"
+            ]
+          },
+          {
+            "_text": [
+              "Uttara Ashadha"
+            ]
+          },
+          {
+            "_text": [
+              "Abhijit"
+            ]
+          },
+          {
+            "_text": [
+              "Shravana"
+            ]
+          },
+          {
+            "_text": [
+              "Dhanishta"
+            ]
+          },
+          {
+            "_text": [
+              "Shatabhisha"
+            ]
+          },
+          {
+            "_text": [
+              "Purva Bhadrapada"
+            ]
+          },
+          {
+            "_text": [
+              "Uttara Bhadrapada"
+            ]
+          },
+          {
+            "_text": [
+              "Revati"
+            ]
+          },
+          {
+            "_text": [
+              "Ashwini"
+            ]
+          },
+          {
+            "_text": [
+              "Bharani"
+            ]
+          }
+        ]
+      },
+      "motionDirection": {
+        "direct": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "-1"
+              ]
+            }
+          ]
+        },
+        "retrograde": {
+          "_items": [
+            {
+              "_text": [
+                "0"
+              ]
+            },
+            {
+              "_text": [
+                "1"
+              ]
+            }
+          ]
+        },
+        "front": {
+          "_items": [
+            {
+              "_text": [
+                "-1"
+              ]
+            },
+            {
+              "_text": [
+                "0"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

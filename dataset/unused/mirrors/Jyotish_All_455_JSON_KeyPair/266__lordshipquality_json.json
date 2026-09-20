@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "266__lordshipquality_json",
+    "name": "lordshipQuality",
+    "original_file": "lordshipQuality.json",
+    "dataset_number": "265 of 455",
+    "format": "json",
+    "source_readable_file": "lordshipQuality.txt",
+    "source_sha256": "45c3524fd4f574795eefea93ba36555182e1f37cd41e82d8d0ff7d5aecaca45f",
+    "source_bytes": 749
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "KENDRA": {
+        "_items": [
+          {
+            "_text": [
+              "1"
+            ]
+          },
+          {
+            "_text": [
+              "4"
+            ]
+          },
+          {
+            "_text": [
+              "7"
+            ]
+          },
+          {
+            "_text": [
+              "10"
+            ]
+          }
+        ]
+      },
+      "TRIKONA": {
+        "_items": [
+          {
+            "_text": [
+              "1"
+            ]
+          },
+          {
+            "_text": [
+              "5"
+            ]
+          },
+          {
+            "_text": [
+              "9"
+            ]
+          }
+        ]
+      },
+      "DUSTHANA": {
+        "_items": [
+          {
+            "_text": [
+              "6"
+            ]
+          },
+          {
+            "_text": [
+              "8"
+            ]
+          },
+          {
+            "_text": [
+              "12"
+            ]
+          }
+        ]
+      },
+      "ORDINAL_LORD_KEY": {
+        "_items": [
+          {
+            "_text": [
+              "1st_lord"
+            ]
+          },
+          {
+            "_text": [
+              "2nd_lord"
+            ]
+          },
+          {
+            "_text": [
+              "3rd_lord"
+            ]
+          },
+          {
+            "_text": [
+              "4th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "5th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "6th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "7th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "8th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "9th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "10th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "11th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "12th_lord"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

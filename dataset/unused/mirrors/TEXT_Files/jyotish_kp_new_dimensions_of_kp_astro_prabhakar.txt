@@ -1,0 +1,4259 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_kp_new_dimensions_of_kp_astro_prabhakar.json
+Dataset number: 235 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 187,736 bytes
+Top-level fields: 11
+Title: Jyotish_KP_new dimensions of KP astro_Prabhakar
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_KP_new dimensions of KP astro_Prabhakar
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 233
+  • total_words: 33107
+  • text_quality:
+    • ocr_word_validity_score: 0.957
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+New Dimensions
+of
+K.P. Astrology
+Dr. Arastu Prabhakar
+
+New Dimensions of K.P. Astrology is an extension
+of the research by great savant of astrology late
+professor Krishnamurti. The importance of traditional
+astrology can neither be mitigated nor ignored
+because all systems of prognostication of future have
+got generated from it. K.P. too is no exception. The
+book is unique blending of K.P. as well as traditional
+astrology. The proved principles of traditional
+astrology have been beautifully incorporated with
+K.P. to make it more meaningful and trustworthy.
+After making tedious research over a decade of time
+various confusions which persisted even in the books
+of K.P. have been sorted out with logical
+explanations. In the present time the utility of horary
+astrology as compared to natal astrology is much
+more. Horary astrology has given rise to mobile
+astrology or telephone astrology.
+
+Dr. Arasatu Prabhakar the author of Marriage and
+Prostitution, is an eminent astrologer of India. His various books
+on astrology like The Third Eye of Vedas, Horary Astrology
+(Hindi) (Nishkam Peeth Prakashan); A Novel Approach to
+predictions, have already made rapid strides. He delivers lectures
+on K.P. Astrology he was awarded doctorate by Vikram Shila
+University, Bhagalpur, Bihar for his research work on astrology.
+
+PREFACE
+After overwhelming response of Times Prana Jyotish
+(Hindi) and Horary Astrology - a Novel Approach to
+Predictions ( Nishkam Peeth Prakashan , R-12A, Hauz Khas,
+New Delhi), The Third eye of Vedas (Diamond
+Publication, New Delhi), the necessity of a book in the wake
+of research conducted over the influence of planets on human
+life, covering all aspects of day-to-day life, was greatly felt.
+There are many problems that emerge in day-to-day life and
+cannot be solved with the help of natal astrology. Such questions
+can effectively be dealt with only horary astrology. The present
+book is the outcome of such thoughts. K.P. astrology is getting
+momentum day by day due to its practical utility and for making
+scintillating predictions . New Dimensions of K.P. Astrology
+is an extension of the research by great savant of astrology late
+professor Krishnamurti. The importance of traditional astrology
+can neither be mitigated nor ignored because all systems of
+prognostication of future have got generated from it. K.P. too
+is no exception. The book is unique blending of K.P. as well
+as traditional astrology. The proved principles of traditional
+astrology have been beautifully incorporated with K.P. to make
+it more meaningful and trustworthy. After making tedious
+research over a decade of time various confusions which
+persisted even in the books of K.P. have been sorted out
+with logical explanations. In the present time the utility of
+horary astrology as compared to natal astrology is much more.
+Horary astrology has given rise to mobile astrology or telephone
+astrology. The queries need not present himself or herself before
+the astrologer but simply can ask any question any time from
+any part of world on mobile or telephone. Within 10 minutes
+he is given clear cut answer either in yes or no. Thus horary
+.astrology has saved not only the time of people but also their
+energy and money. There is a some sort of confusion over
+selection of ruling planets. This confusion is not only present
+
+in the software of astrology but also in the book of K.P.
+After solving more than two thousand questions of horary
+astrology I have reached the conclusion that selection of
+ruling planets is almost incorrect and erroneous. Proper
+explanations have been given in the book over selection of
+ruling planets. Another important feature of this book is that
+practical case study examples have been classified housewise.
+Now it is very simple and convenient for the readers to select
+to which query which house or cusp is to be considered. A
+few questions for which no particular house is judged have
+also been included in this book so that readers may become
+familiar with such type of queries.
+I would like to bring to the attention of readers that any book
+of the world is only a source of information. The intellect and
+wisdom convert it into knowledge. Thus the ultimate source
+of knowledge is intellect and wisdom of the readers. I would
+also like to make it clear that the contents of whole book
+are the outcome of research and deep concentration only
+on horary astrology. Each sentence and all the examples
+included in the book have been found to be practically correct
+without exceptions.
+The theory part of this book is absolutely based on proved .
+cases; therefore each word and sentence is important for the
+readers. Specific comments have also been given in a few
+cases in which confusion may arise in the mind of readers.
+I hope readers will give warm response to the book. I also
+request the readers to bring to my knowledge any fallacy or
+missing part which they think ought to be included in the book.
+I am thankful to all my clients whose continuous interaction
+helped me to deal with questions of different nature and varieties.
+I owe my sincere thanks to the editor and publisher of this
+book, Shri Narendra Verma of Diamond Publication for bringing
+out this book. Last but not the least I pay my, respects to Shri
+Daya Shankar (I.R.S.), an eminent Vedic as well as K.P.
+Astrologer. .
+I bow my head before almighty Lord Ganesha for his grace
+which ignited in me a the passion for astrology.
+Dr. Arastu Prabhaker
+t
+14, Saraswati Nagar,
+Balkeshwar Road
+
+Foreword
+It is a moment of pleasure and delight that eminent writer and
+astrologer Dr. Arastu Prabhakar has started making public his
+long researches over K.P. astrology in the form ofbooks. His fifth
+book on astrology, The Third Eye of Vedas, was received with
+overwhelming response across the country.
+The name of late Professor Krishnamurti is well known in
+modem astrology. He did sincere and serious research in the field
+of astrology and given it a new dimension. For some time the
+work of Krishnamurti was neither recognised nor respected by
+traditional astrologers due to one or another reason. It was only in
+1 996 when Dr. Arastu Prabhakar, and Shri Daya Shankar (IRS)
+recognised the importance and face value of the work of Late
+K.P. Their efforts yielded results and astrologers as a whole came
+to know about the amazing system of prognostication. Dr. Arastu
+has gone a step ahead and blended the traditional astrology with
+that of K.P. to make it a compendium of vast knowledge. He has
+also tried to bridge the gaps which persisted in the work of K.P.
+to make it lucid and easily comprehensible. The present book is
+an almost complete book on horary astrology.
+Dr. Arastu Prabhakar a well-known writer of English has
+excelled in the field of astrology too. His recent-released book on
+various social and cultural issues, Marriage and Prostitution,
+has rocked the nation. It is very difficult to deduce whether his
+literary capabilities override his astrological knowledge or his
+astrological skills have precedence over literary appetite. His
+lectures on K.P astrology throughout the country have produced
+many followers who have astonished the clientele by making
+scihtdlatingpredictions.
+The present book is an extension of K.P. astrology with
+practically proved examples. I am grateful to Shri Narendra Varma
+of Diamond Pocket Books for publishing the work of Dr. Arastu
+
+Prabhakar. I offermy blessings to Dr. Arastu Prabhakar and expect
+warm response for this book from all lovers of astrology.
+Mahakavi Padmavibhusan
+Dr. Gopal Dass Neeraj
+Chairman
+Uttar Pradesh Bhasha Sansthan
+and
+Chancellor
+Manglaytan University
+Aligarh U.P.
+
+INDEX
+Part -I (Theory)
+1. Brief History of Horary Astrology 17
+2. Nomenclatures and Explanations 19
+3. Importance of Horary Astrology 22
+4. Ancient Text books of Horary Astrology 24
+5. Significations of Planets & Signs 40
+6. Houses 50
+7. Sub-lord 57
+8. Ruling Planets & Signficators 60
+9. Cusp (Bhava) Determination 66
+10. Subjects of Horary Astrology 71
+1 1. Cuspal and Traditional Chart 78
+Part - II (Case Studies)
+First House
+1. How will be the tenure in the office? 82
+2. Party will give ticket or not 85
+3. Court decision * 1 88
+4. Court decisions - 2 91
+5. Decision delivered by lower court 94
+would be stayed or not?
+w
+Second House
+8. Improvement of financial position 103
+9. Reinstatement in service 106
+
+Third House
+10. Sex of the Child of the Fourth Son 110
+11. How Long One Will Stay at a Place 113
+Fourth House
+12. Will I Get Through P.G Exam of M.B. B. S.? 1 16
+. 13. Success in P.G Examination of M.B.B.S, 1 19
+14. Success in Competitive Examination- 1 122
+15. Purchase of Land- 1 • 125
+16. Purchase of Land-2 128
+Fifth House
+17. Admission of Son in Medical College 131
+18. Determination of Sex of Child 134
+19. Will My Love Affair Materialize? - 1 137
+20. Will My Love Affair Materialize?- 2 140
+21 . Will My Love Affair Materialize?- 3 142
+Sixth House
+22. Entangled Money 145
+23. Borrowing from Bank 149
+24. Borrowing fromRelative 152
+25. Litigation 155
+Seventh House
+26. When Will Marriage Take Place? 158
+27. Second Marriage 161
+28. Integrity of Partner 165
+29. Well-being of Wife 168
+Eighth House
+30. Appointment of Wife 171
+Ninth House
+31. Foreign Journey 174
+
+PART— I
+Theory
+
+Brief History of Horary /
+Astrology
+It is very difficult to answer when horary astrology came into
+existence. However it could be assumed that with the dawn of
+human existence astrology too got evolved with the evolution of
+mankind. Vedas have mentioned about astrology. Therefore origin
+of. Vedas as well as astrology could be inferred some three
+thousands years before Christ.
+Horary astrology used to be called Hora Shastra as per ancient
+classical literatures. It means horary astrology was studied as a
+separate branch or distinct subject from general astrology. The
+word Horary is derived from the word Hora meaning Hour. In
+ancient times astrologers used to make predictions on the basis of
+words uttered by the querent. Later predictions were made on
+the basis of gestures, Nadi breaths, articles in the hand etc. In the
+time of Prithuyasas, the son of Varahamihira, this system of
+prediction was developed, refined, rectified and advanced
+systematically. This branch of astrology flourished in ninth, tenth
+and eleventh A. D. Many traditional authors have written books
+on this subject. Prasnachintamani, Prasnajnanam,
+Prasnamarga, Prasna Bhusana, Prasnatantra,
+Satpanchasika, Prasna-Bhairava, Bhuvan Deepika Prasna
+Churnamani etc.
+Astrologers used to deliver forecast on the basis of words
+uttered by the querent or his sitting gesture, direction etc. were
+the guiding principles to reach the conclusion regarding the query.
+Then they resorted to different methods of prediction i.e.^querent
+used to mentionone number outof 108. Ascendantwas erected
+on the basis of the number as mentioned by the querent and the
+
+results were read. What is the mystery of taking numbers up to
+1 08? The whole zodiac is divided into 27 constellations or
+Nakshatras. Each constellation is divided into four padas.
+Therefore, 27 constellations have 27 x 4 = 1 08 padas. In this
+way the number up to 1 08 consists of the whole zodiac. This
+makes amply clear that constellations were used in making
+predictions which was recently developed and advanced by Late
+K.S . Krishnamurti.
+Westemersbelieved that Seth was the founder of astrology and
+existed in 3769 B.C. It is said about Seholan that he divided the
+whole zodiac into 1 2 parts. He was the first to announce that the
+sun rotates and his rotation is responsible for day and night. He
+also divided the elliptic and the divided part was called Mazzaroth.
+Chaldean in 2600 B.C. studied and advanced this science and
+was able to maintain a relationship between planets and their impact
+on life. According to Dr. Thompson, the Sumerians studied the
+zodiac and the universe. Astrology flourished well in Babylon,
+Egypt and Greek.
+In the field of horary astrology William Lily is a well-known
+name both in India as well as in the West. He lived in 1 602-8 1
+A.D. Alan Leo, Edwin Castle, John Wilson, Charles Hathfied
+etc., worked untiringly developed this science. There is some
+difference of opinion between Indians and Westerners as far as
+reading of nativity is concerned. Indians take seriously the position
+of planets in particular house and the aspect among the planets is
+secondary in importance to them, whereas westerners decide on
+the basis of aspects formed among the planets. Indians adopt
+Niryana basis while westerners advocate Sayana basis.
+New Dimensions of K.P. Astrology
+
+Nomenclatures and
+Explanations
+1. Zodiac - According to traditional astrology the zodiac
+commences from a constant point. This constant point is 1 80°
+away from Chitra (spica) Nakshatra. But according to western
+astrology the zodiac commences from Aries sign 0 degree and
+retreats back by 50.23 seconds per year.
+2. Sayana and Niryana system : According to western
+astrology the sun is pivot to calculate or delineate the results. Moon
+is the central point for all calculations in Indian astrology. According
+to western astrology the S un moves on Aries si gn to b et ween 2 1
+March to 20 April while the Sun moves on Pisces sign between
+this period as per Hindu astrology.
+Example - The position of sun as per Niryana system on 2 1
+March 2002 at5.30am(l.S.T.)is
+In order to get Sayana position of the Sun, add Ayanamsa
+of this year to Nirayana position of the Sun.
+Conversion Formula is :
+i Sayana position of the planet - Ayanamsa of that year=
+Niryana position
+New Dimensions of K.P. Astrology
+
+ii. Niryana position of the planet + Ayanamsa of the year =
+Sayana position
+3. What is Ayanamsal In western astrology or Sayana system
+for the calculations of constellations and planets an imaginary
+constantpointis conceived. This constantpoint never changes.
+Therefore the position of constellations and planets also does not
+change. The distance between this constant point and vernal
+equinox (the beginning point of Aries sign) is called Ayanamsa.
+The tropical and sidereal points coincide in 285 A.D. On 22
+March 285 A.D, the tropical and sidereal points were the same
+As per late K.S. Krishnamurti, the tropical and sidereal points
+were the same in 29 1 A.D. Therefore, there is a d ifference of six
+minutes between the Ayanamsa of N.C. Lahari and that of
+Krishnamurti. Horoscope prepared on the basis ofTCP. must strictly
+ioWovj Ayanamsa as propounded by late Krishnamurti.
+4. What is Day : The period from sunrise to next sunrise is
+termed as day in traditional astrology while in civil time the day
+changes after 1 2.00 midnight.
+Example : A baby is bom at 3.00 midnight on 3 March 2002.
+The Sun rises at 6.45 am on 3 March 2002 and at 6.46 am on 4
+March 2002 . As per trad itional astrology the date of birth of this
+baby is 3 March while as per civil time it is 4 March. In horary
+astrology always take civil time because day is one of the important
+ruling planets.
+5. House or Bhava and Cusp : Accordingto Indian astrology
+the zodiac is divided into twelve parts. Each part is called house
+or Bhava. The longitude of zodiac is 360°. Therefore each part is
+of thirty degree in longitude. The word cusp though signifies a
+house yet it has different meaning from general sense of a house
+or Bhava. Cusp is actually the beginning point of a house. The
+beginning point of a house is considered to be very influential as
+well as powerful. This is generally a western concept and quite
+scientific in nature. In Placidus system ofhouse division each Bhava
+New Dimensions of K.P. Astrology
+
+or house varies in longitude. A particular Bhava may be of 30
+degree or more or less from 30 degree but the total of 1 2 cusps
+or houses will always be 360 degrees in longitude.
+6. Transit or Gochara : The entrance of the planet into the
+sign is called transit or Gochara. The transit effect of the planets
+is studied in respect to the position of moon at the time of birth.
+Now-a-days many astrologers read transit results in respect to
+ascendant.
+7. Which House Signify Father : Few astrologers read results
+pertaining to father from tenth house. The logic behind is that since
+fourth house denotes mother seventh to fourth house is tenth house.
+However, many astrologers assign ninth house to father. We take
+ninth house as the seat of father. In horary questions pertaining to
+father always take ninth house for judgment.
+8. Constellation : There are 27 constellations. Though one
+more constellation, i.e. Abhijeet, find place among the constellations
+but it is not used. Each constellation measures 1 3° - 20' or 800
+minutes in longitude. These 27 constellations are divided among
+nine planets. Each planet consists of 2 % stars or 9 Padas. These
+27 constellations are further divided into 249 parts and each part
+is called sub-lord.
+9. Sub Lord : The 27 constellations were divided into 249
+parts. Each part is called sub lord. It was the valuable contribution
+of Late K.S. Krishnamurti to the astro-world. How this sub lord
+is worked out and what it signifies has been explained elsewhere.
+10. Ruling Planets : It is also an innovation ofK.P. In order to
+reach the timing of any event ruling planets are most helpful. With
+the help of ruling planets one can pinpoint the event with correct
+date and time.
+11. Significators : It is also a new concept. Significators signify
+the matter in question. In fact the significators hypothesis rests on
+the use of constellations lord in predictive astrology.
+New Dimensions of K.P. Astrology
+
+Importance of
+Horary Astrology
+The utility of any science, whether it is astrology or
+any other subject, lies in the factwhatthe society in general gets
+benefit of it. If any subject ceases to yield beneficresults to society
+it becomes obsolete in due course of time. Time is an important
+factor in astrology. In fact astrology cannot be imagined without
+time. Therefore, in some sacred texts time is declared to be God.
+Horary astrology has greater utility than natal astrology in today’s
+fast changing world.
+1 . Almost in all the horoscopes, time is not recorded correctly.
+This error lies in the fact that even two watches in the same room
+do not show identical time. When a baby is bom either in hospital
+or in a nursing home the watch in the labour room is un-identical ,
+to the watches of the parents waiting outside. The difference
+between watches may range from four minutes to eight minutes.
+Minute difference of three to four minutes changes sub lord
+of cusp which ultimately changes the reading of entire
+nativity.
+2. The principles governing natal astrology cannot be verified
+easily, whereas predictions made in horary astrology may be
+verified within hours, days or months because query is always
+related to coming days or months. Therefore, horary astrology is
+the best method for carrying out research in the field of astrology.
+3 . Horary astrology works on certain proved principles. The
+significations of planets and houses can be easily ascertained. There
+are many significations of planets and houses but the particular
+New Dimensions of K.P. Astrology
+
+signification of a particular planet or house is only known with the
+help of horary astrology.
+4. Pinpoint prediction devoid of double-meaning sense could
+be possible only in horary astrology. In horary astrology the answer
+is given either in Yes or No. Whereas horary astrology gives the
+exact date and time for the fructification of any event, it is never
+possible in natal astrology.
+5. Day-to-day events like arrival of a friend, light going or
+coming back, rumour false or true, reservation of berth in train
+possible or not, love affairs would materialize or not, etc., can be
+answered only by the horary astrology.
+6. Horary astrology has greater utility when question pertaining
+to winning or losing of three or four persons who are in election
+fray comes up. It deals effectively with such questions.
+7. Horary astrology is also helpful in deciding bride and
+bridegroom among the list. It not only clearly and effectively decides
+but also gives precise judgment about the character and nature of
+bride and bridegroom.
+New Dimensions of K.P. Astrology
+
+Ancient Textbooks of Horary
+Astrology
+The principles enunciated in traditional textbooks on horary
+astrology can not be branded as the whole thing in general. It
+should be admitted candidly that progress made in recent times in
+astrology is the outcome of serious work on traditional books.
+Therefore the importance of traditional astrology can neither be
+minimized nor overlooked.
+The principles found in old books are cosmopolitan in nature
+and deep study of these principles reveals unfailing predictions.
+In todays fast-moving world it is not possible to gjve much time
+and energy to study these principles and majority of astrologers
+need easily memorable, research-proven and least time- consuming
+formulae which could be applied even while moving on a busy
+road.
+For the benefit of the readers, translations of a few old books
+on horary astrology have been made:
+Prasna Gyana :
+1 . Bhattotpala is the author of this book and it commences with
+bowing to all the planets. ( Sloka - 1)
+2. Horary astrology never fails, boldly declared Bhattotpala.
+Ten conditions of planets are to be kept in mind before answering
+any horary question. ( Sloka - 2)
+The ten conditions are as follows :
+i. Deepta : If the concerned planet is found to be either in
+exaltation sign or in Mooltrikona sign, the planet is said to be in
+Deepta stage. This condition shows good results.
+New Dimensions of K.P. Astrology
+
+ii. Swastha : When the planet is found to be in own sign, the
+condition is called Swastha and shows good results.
+in. Pramudita : Planet in friendly sign. Result is moderate.
+iv. Shanta : The planet if placed in the Va rgas ofanybenefic
+planet is called Shanta. Maharishi Parasara propounded Vargas
+kundali viz. Navamsa, Dasmansa, Dwadasamsa etc. If planet
+is found to be in benefic sign in these Vargas it is called Shanta.
+Such planet offers positive and favorable results.
+v. Shakta : The planet if not eclipsed is called Shakta and the
+result of such planet is good.
+vi. Prapidita : The planet defeated in war by another planet.
+The result is bad.
+vii. Deena : The planet if posited in inimical sign is called in
+Deena condition. Result is bad.
+viii. Khal : When planet is placed in the sign of a malefic planet.
+Result unfavorable.
+ix. Vikala : When planet is eclipsed. Result is bad.
+x. Bheeti : When planet is debilitated or in the sign of inimical
+planet. Result is bad.
+3. The face of querent should always be towards east. The
+seat of the astrologer be adjusted in such a manner that the querent
+is facing either east or Northeast. {Sloka - 3)
+4. The querent must offer flowers, fruits, clothes etc to the
+astrologers. The place of astrologer is surrounded by calm and
+pleasant environment. The querent should be attended to either in
+the morning or during midday. Preference is given to morning time.
+Avoid answering in the evening or during sunset. {Sloka - 4)
+5 . Ifbenefic planets viz. Venus, Mercury or Jupiter be posited
+or aspect the house concerned with query, the result is favourable.
+{Sloka - 8)
+6. Positive result may be declared if 1, 4, 7, 8, 10 and 12
+Houses are devoid of placement of malefic planet and 1 , 4, 7, 1 0
+houses are occupied eitherby lord of ascendant or friend of lord
+of ascendant. {Sloka -11)
+New Dimensions of K.P. Astrology
+
+7. Benefic planets (Mercuiy, J upiter, Venus) if placed either in
+fifth house or ninth house or malefic planets (Sun, Mars and Saturn)
+are placed in 3, 6 or 1 1 houses, the result obtained in such condition
+is good. ( Sloka - 12)
+8. If malefic planet is posited in horary ascendant then the result
+is diseases and dispute. If malefic planet is placed in fourth house,
+the result is disagreement among therelatives. (Sloka - 13)
+9. If seventh house ofhoraiy chart is occupied by malefic planet,
+there are obstacles and impediments in the journey with difficulties.
+All undertakings show failure if tenth house is occupied by a malefic
+planet. If malefic planets are conjoined with benefic planets in the
+above said conditions then malefic planets create obstacles while
+benefic planets remove obstacles and give auspicious results.
+{Sloka - 14)
+1 0. If horary ascendant falls in fixed sign viz., Taurus, Leo,
+Scorpio or Aquarius the querent will not be defeated. He suffers
+from diseases; stays at one place but begets the desired position.
+( Sloka - 15)
+1 1 ; If horary ascendant happens to be either Aries, Cancer,
+Libra or Capricorn one will be defeated, free from diseases, make
+journey but will not have any position or improvement in status.
+{Sloka - 16)
+1 2. If benefic planets are posited in 1 , 4, 5, 7, 9, or 10 houses
+and malefic ones are posited in 3, 6, 1 1 then success and return of
+gone person is indicated. {Sloka - 17)
+13. If Jupiter or Venus is placed in either second or third house
+the gone person will return soon. If such benefic planets are placed
+in fourth house, it indicates quick return. {Sloka - 19)
+k
+1 4. If Mercuiy and Venus are placed second or twelfth to either
+ascendant or moon sign the native will return soon. {Sloka - 20)
+1 5 . The enemy wi 11 come wi th forces i f ascendant and Navamsa
+fall in movable sign (opposition, litigation or enmity can also be
+taken as result of such conditions). If moon is placed in movable
+sign, ascendant and Navamsa fall in immovable sign and then
+enemy does not come. {Sloka - 21)
+26 New Dimensions of K.P. Astrology
+
+1 6. The enemy can not dare to attack in spite ofhaving adequate
+might if Mercury, Jupiter and Venus are placed in sixth house and
+Moon occupies common sign and ascendant happens to be in
+immovable sign. (Sloka - 22)
+1 7. The enemy proceeds but goes back if fifth and sixth houses
+are occupied by maleficplanets (This general condition may be
+taken as litigation will start on but soon come to an end.) the
+enemy can reach to the home but will retrace back if fourth house
+is occupied.by malefic planets (End of litigation). (Sloka - 23)
+1 8. The querent will be free from disease if Jupiter aspects
+ascendant and Moon & Venus are posited therein or Jupiter
+occupies 1 , 4, 7, 1 Oth house. ( Sloka - 28)
+1 9. The querent will be married if moon is either in 3 , 6, 7 , 1 0
+and 1 1 th and aspected by Jupiter. If moon is aspect ed by malefic
+planet it indicates delay in marriage. ( Sloka - 29)
+20. The querent will be married or one will be married ifbenefic
+planets are placed in 1 , 4, 5, 7, 9 or 1 0 houses. The characteristics
+of future partner i.e. status, character, outer appearance etc.,
+will be good, if seventh house is occupied by benefic planet.
+( Sloka - 31)
+2 1 . Child is bom if benefics are placed in fifth and eleventh
+houses. Male child is bom if the Sun, Moon Jupiter and ascendant
+fall in 1,3,5,7,9,11 signs. (Sloka -32)
+22. Female child is bom if said planets and ascendant falls in 2,
+4, 6, 8, 1 0, 1 2 signs. Tf a few planets and ascendant falls in male
+sign and a few in female signs then sex of to-be-bom child should
+be determined according to the strength of planets falling in a
+particular sign. Male child is predicted, if Saturn fells in either 1,3,
+23. Male child is predicted if Jupiter and Venus are placed in
+male signs. If Jupiter, Mars and Moon are placed in even signs
+then female child is predicted. (Sloka - 34)
+New Dimensions of K.P. Astrology
+
+i. If ascendant falls in Cancer, Capricorn or Pisces sign and
+both Venus and Moon are posited therein.
+ii. Good rainfall is predicted if Venus and Moon are placed
+with Ketu and aspected by benefic planets. If the above
+configuration of planets is aspected by malefic planets then scanty
+rainfall is to be predicted.
+iii. If query is during rainy season and ifVenus and Saturn are
+either placed seventh to the sun or moon or placed second, third,
+fourth or eighth house from ascendant, the rain will occur- should
+be the prediction.
+iv. If watery sign falls in ascendant and Moon or benefic planet
+is placed in ascendant or placed in 2, 4, 7, or 10th house from
+ascendant it indicates the possibility of rain. ( Sloka - 43, 44,
+25. Theft :
+i. The thief will be short stature if ascendant happens to be
+Aries, Taurus, Aquarius or Pisces. The height will be average if
+ascendant happens to be Gemini, Cancer, Sagittarius or Capricorn.
+Tall height is predicted if ascendant happens to be Leo, Virgo,
+Libra or Scorpio. ( Sloka - 47)
+ii. What is Concealed in Palm : The concealed material is
+made of metal if Sun and Moon are placed in angular houses from
+horary ascendant. The material may be part of a plant like leaf,
+branch or root, if Mercury and Saturn are placed either in angular
+houses or ascendant. The material may be of any living thing if
+Jupiter or Moon or Venus is placed in any of the angular house of
+horary ascendant. {Sloka - 49)
+iii. Colour : Sun indicates red colour, Moon - white colour,
+Mars - red colour, Mercury - green colour, Jupiter - yellow colour,
+Saturn- black colour.
+iv. Shape : The planets indicate following shapes :
+1 . Sun - Cuboid
+New Dimensions of K.P. Astrology
+
+2. Moon - Hollow shape
+3. Mars - Round shape
+4. Mercury - High and long shape
+5. Jupiter - Spherical shape
+6. Venus - Good height
+7. Saturn - Wrinkled and long shape (Sloka - 50, 51)
+v. The query is about mineral if ascendant happens to be either
+Leo, Aries or Scorpio and if Sun and Mars are placed therein or
+aspect ascendant. The question is related with either root or wood
+if ascendant happens to be Gemini, Virgo, Capricorn or Aquarius
+and Mercury or Saturn are placed either in ascendant or aspect it.
+The question maybe about any living person if ascendant happens
+to be Taurus, Libra, Cancer, Leo, S agittarius or Pisces and Venus,
+Mars, and Jupiter are placed in ascendant or aspect it.
+(Sloka-Sl, 53)
+vi. The theft is committed by some relative if ascendant or
+Navamsa Ascendant or Vargottam Ascendant happens to be
+Taurus, Leo, Scorpio or Aquarius. If ascendanthappens to be in
+movable sign, stranger commits the theft. The stolen article is at
+the threshold of the door if ascendant falls in first decanate. The
+stolen article is inside the house if ascendant falls in second
+decanate. The stolen article is in the backyard of the house in third
+decanate. The stolen article is recovered if following conditions
+are present -
+1 . Moon is placed in ascendant.
+2. If benefics are placed in ascendant.
+3 . If ascendant happens to be Gemini, Leo, Virgo, Libra,
+Scorpio or Aquarius and ascendant is aspected by benefic
+planets.
+4. Ifbenefic planets are placed in 2, 4, 7, 3, 6, 1 0,1 1 houses.
+Uttarkalamratam : A few slokas of Uttarkalamratam which
+are related to horary astrology have been explained here for the
+benefit of readers:
+New Dimensions of K.P. Astrology
+
+1 . Querent must offer one fruit as donation to astrologer before
+asking any question. If querent is asked to mention a number
+between 1 to 108, then he must give anyone number between 1
+to 1 08 . On the basis of the number as mentioned by the querent,
+calculation must be done to foretell future whether it is favourable
+or unfavourable. Astrologer must pray his or her family deity and
+thenofferpredictionabout past and future. (Sloka -2)
+2. The query is related with secret relationship with women
+other than his wife if ascendant falls in Virgo sign. The query is
+related with business if ascendant happens to be Libra. The
+Scorpio rising indicates query related with fear from enemies.
+Sagittarius sign indicate lost money. Capricorn sign reflects own
+unscrupulous actions. Aquarius sign indicates prestige, status and
+home. Aries sign indicates query to be related with some person.
+Taurus rising indicates quadruped. Gemini rising indicates
+pregnancy. Cancer sign indicates court and court cases. Leo sign
+indicates government and government related activities. Astrologer
+must judge the strength o f Ascendant and Navamsa Ascendant.
+The prediction must be given after weighing the strength of
+Ascendant or Navamsa ascendant.
+3 . The result of the query will be experienced soon if the lord of
+the house related with the query is exalted. If lord of the house
+occupies own sign the result is experienced after some time. The
+result will be experienced after some time if lord of the concerned
+house is placed in a friendly sign. If lord of the house does not
+occupy either exalted sign, own sign or friendly sign then the result
+will be experienced after some years. The result of the question
+asked will miserably fall if the lord of the house is associated with
+or aspected by malefic planets. The question is honoured with
+success if lord of ascendant is placed in the house concerned with
+query or lord of ascendant is aspected by benefic planets.
+(Sloka - 10)
+4. The result of the query is obtained very soon if the lord of the
+house concerned with query and lord of ascendant are placed in
+auspicious houses or aspect each other. (Sloka - 19)
+New Dimensions of K.P. Astrology
+
+Shatpanchasika : (Chapter - 1)
+1. Prithuyasas prays lord sun and writes a book named
+Shatpanchasika for the benefit of astrologers. ( Sloka - 1)
+2 . The rising sign at the time of query indicates condition, position
+and transfer. Whether efforts will be crowned with success or
+miserably fail is indicated by fourth house. The seventh house
+indicates arrival of aperson if Ascendant or Navamsa ascendant
+falls in sheersodya sign. One will meet failures if ascendant is
+occupied by malefic planet or Navamsa falls in Pristhodya sign.
+One begets success after failures if malefic as well as benefic planets
+are associated with Lagan or Navamsa Lagan. The person will
+return to his home if any planet enters into fourth house.
+( Sloka - 2)
+3. The results obtained are auspicious if lord of the house
+concerned with query aspects its own house or benefic planets
+are placed therein. The contrary results are obtained if malefic
+planets either aspect concerned house or posited therein. This
+principle works for both natal as well as for horary astrology.
+(Sloka - 3)
+4. Efforts will be crowned with success if
+i Benefic planets are placed in Ascendant
+if Navamsa ascendant falls in a benefic sign
+iii. Ascendant or Navamsa ascendant falls in Sheershyodya
+sign.
+Ascendant or Navamsa ascendant if occupied by malefic planet
+indicates failure or sameresults are obtained if ascendant happens
+to be in pristhodya sign. But if both malefic as well as benefic
+planets occupy Ascendant or Navamsa ascendant then success
+is assured after some failures. (Sloka - 4)
+5. The lost articles are recovered if ascendant is occupied by
+moon and aspected by Jupiter or Venus. Auspicious results shall
+be further begotten if benefic planets in adequate strength are
+placed in eleventh house. (Sloka - 5)
+New Dimensions of K.P. Astrology
+
+Chapter - Second
+1. No information regarding journey or return to home is
+received if horary ascendant falls in either Taurus, Leo, Scorpio
+or Aquarius sign. These signs indicate neither death nor damage.
+(Sloka - 1)
+2. The result will be just opposite what has been told in Sloka
+1 . Mixed results are obtained if ascendant falls in mutual sign.
+Efforts of the querent are crowned with success if ascendant or
+Moon is aspected by benefic planets. The aspect of malefic planets
+indicates failures. (Sloka -2)
+3 . The enemy will go back without battle if malefic planets are
+placedin fifth and sixth houses. The enemy is defeated if fourth
+house is occupied by benefic planets. (Sloka - 3)
+4. The arrival of enemy is doubtful if ascendant happens to be
+in movable sign and moon in immovable sign. But if ascendant
+fells in immovable sign and moon in movable sign, it is the indication
+of arrival of enemy. (Sloka - 4)
+5 . The enemy comes half way and go back i f moon occupies
+movable sign and ascendant falls in mutual sign. The opposition of
+above condition ensures battle in which both the parties suffer
+losses. (Sloka - 8)
+6. The enemy speedily moves forward if ascendant falls in
+movable sign and Sun or Saturn or Mercury or Venus is posited in
+ascendant. The enemy has not moved if above said planets are in
+retrograde motion. (Sloka - 9)
+7. The arrival of enemy is indicated if Sun and Moon are placed
+in fourth house. The enemy returns quickly if Mercury or Jupiter
+or Venus is placed in fourth house. (Sloka- 11)
+8. The planet in strength be determined and also ascertain its
+placement in a particular Bhava . The person gone to far off places
+will return in such months as denoted from house in which planet
+in strength is placed counted from Lagna. (Sloka - 14)
+9. If planet in strength is placed in movable Navamsa the
+calculation as applied in Sloka 14 will be taken as it is. The time
+New Dimensions of K.P. Astrology
+
+will be just double cf what is mentioned in Sloka 1 4 if planet in
+strength is placed in fixed Navamsa. The time will be triple if
+planet in strength is placed in mutual sign. (, Sloka - 15)
+1 0. The person gone to far off places will return if the lord of
+seventh house is retrograde or about to retrograde. (Sloka- 16)
+Chapter -Third
+1 . Both the parties will come to an agreement if benefic planet
+is placed in either ascendant or eleventh house or twelfth house.
+The battle will take place if malefic planet is placed in mutual
+sign. Both the parties will come to an agreement and the battle is
+converted into treaty if ascendant or fourth or seventh or tenth
+house is occupied by and aspected by benefic planets. The battle
+will continue if angular houses are occupied by and aspected by
+malefic planets. (Sloka - 3,4)
+2. The enemy will go back quickly if both occupy by either
+Jupiter or Venus or second or third house. The same rule also
+applies for the person who has gone to far off places will return
+sooa (Sloka - 5)
+Chapter - Fourth
+1 . The native attains his first ambition if malefic planets are noi
+placed in 1 , 4, 7, 8 and tenth house and benefic planets are placed
+in 1 , 4, 5, 7, 9 and 1 0th houses. The opposite condition indicates
+adverse results. (.SYofta - 1)
+2. The native will get success ifbenefic planets gre placed either
+in third or fifth or sixth or eleventh or twelfth hoi!ise. The results
+t
+are desirable if ascendant happens to be Gemini, Virgo or Aquarius
+and benefic planets are posited therein. (Sloka - 2)
+3. The aim of the querent is achieved and status also improves
+ifbenefic planets are placed in fourth and tenth houses. The native
+earns recognition in society and also gets money ifbenefic planets
+are placed either in first, or second or fifth house. The good results
+are not mitigated even if malefic planets are placed either in eleventh
+house or twelfth house. No gains if Moon is placed in Lagna. But
+Moon in tenth house gives good results. (Sloka - 3)
+
+4. Gains through opposite sex are indicated if Moon is placed
+either in second, third, sixth, seventh, tenth or eleventh house and
+aspected by Jupiter. Malefic planets either in 1 , 3, 5, 8 or 9 house
+cause losses and failures in business. Success is assured when
+their houses are occupied by benefic planets. ( Sloka - 3)
+5. The patient recovers quickly if benefic planets are placed
+either in first, fifth, seventh or eighth house and aspected by benefic
+planets and moon be placed in Uppachaya Bhava. ( Sloka - 5)
+Chapter - Fifth
+1 . The person will return his home if all the planets are placed in
+second, third and fifth houses. The lost person and article both
+are recovered ifbenefic planets are placed in the above said houses.
+The person returns quickly if Jupiter and Venus are placed in above
+houses. (Sloka- 1)
+2. The person gone to far off places returns quickly if Jupiter is
+placed in one of the angles. The person returns quicklyif Venus
+and Mercury are placed in fifth or ninth house. (Sloka- 2)
+3 . The person returns safely if moon is posited in eighth house
+and malefic planets do not occupy angular houses. The person
+returns with gains ifbenefic planets are placed in angular houses.
+(Sloka - 3)
+4. The native suffers a lot and is likely to be imprisoned if
+ascendant happens to be in pristhodya sign aspected by malefic
+planets. The person moves to foreign countries from his native
+place if malefic planet is placed in third house without any benefic
+aspect. The person is assumed to be dead if malefic planets are
+placed in sixth house. Thieves kidnap the person if malefic planets
+occupy angular houses. (Sloka - 4)
+Chapter- Sixth
+1 . The querent him self has stolen the article ifhorary ascendant
+falls in fixed or Navamsa ascendant falls in fixed sign or Ascendant
+happens to be Vargothama. (Sloka- 1)
+2. The lost article is at the main door of the house if ascendant
+New Dimensions of K.P. Astrology
+
+is within ten degrees. If ascendant is between 1 0 to 20 degrees
+the article is in the middle of the house. The articles are in the
+backyard of the house if ascendant is found between 20 to 30
+degrees. ( Sloka - 2)
+3. The lost article is recovered if Moon in strength is placed in
+ascendant or ascendant happens to be in sheersodya sign or any
+benefic planet is placed in ascendant or benefic planet aspects the
+ascendant. If eleventh house is occupied by benefic planet then
+the lost article is recovered. ( Sloka - 3)
+4. The planets in 1, 4, 7, 10 houses indicate about the lost
+article to be kept in. Direction of the lost article is ascertained
+through ascendant i f angular houses are vacant. How far away is
+the lost article is determined through Navamsa ascendant. The
+nature ofthe lost article is determined through Navamsa Lagna.
+i. The rising decanate at the time of query gives information
+about thieves.
+ii. Lagna indicates the time of lost article, direction and place
+where lost article have been kept. The lord of ascendant indicates
+age, caste and other characteristics. ( Sloka - 4)
+Chapter - Seventh
+1 . The birth of a male child is to be predicted if Saturn is placed
+in 3 , 5, 7, 9, 1 house in horary chart. If Saturn is not placed in one
+of such houses then birth of a female child is to be predicted. The
+married life will behappy if Saturn is placed in uneven sign in an
+horary chart. (Sloka - 1)
+2. The marriage will take place if Moon is posited in 3, 5, 6, 7,
+or 1 1 house and aspected by Jupiter and Mercury. The marriage
+will also taken place ifbenefic planets are placed in angular houses.
+(Sloka - 2)
+3 . The rain will take place in rainy season if Venus is placed
+seventh to moon and Saturn is placed seventh to the S un or Venus
+is placed in fourth house or Saturn in eighth house. (Sloka - 3)
+4. Benefic planets along with watery sign if falls in 1 , 2, 3 , 4,
+New Dimensions of K.P. Astrology
+
+7,or 10th house then rain takes place. There will also be rain if
+Moon sign happens to be watery sign. ( Sloka - 4)
+5. The birth of a male child is to be understood if male sign falls
+in ascendantand ascendantis aspectedbymale planets. Female
+sign in ascendant and aspect of female planets over ascendant
+indicate birth of a female child. The woman is pregnant if mercury
+is placed in ascendant. ( Sloka - 5)
+6. The question is related with girl if Moon and Mercury are
+placed in ascendant or aspect ascendant The question is related
+with old lady if Saturn is placed in ascendant or aspect it. The
+woman has recently delivered if Jupiter and Sun are placed in
+ascendant or aspect it. The woman will have good health if Mars
+and Venus are placed in ascendant or aspect it. The same rule will
+also apply to man. ( Sloka - 6)
+7. The question is related with kith and kin of the querent if
+planet in strength is placed in ascendant. The question is related
+with younger brother ifplanet instrength is placed in third house.
+The planet in strength in fifth house indicates query related with
+children. The question is related with either mother or sister if
+planet in strength is placed in fourth house. Planet in strength in
+sixth house indicates query related with enemy. {Sloka - 7)
+8. The question is related with wife if planet in strength is placed
+in seventh house. The question is related with some outstanding
+personality if planet in strength is placed in ninth house. The
+placement of a planet in tenth house indicates query related to
+either Guru or preceptor. The question is related with querent
+himself if lord of Navamsa Lagan is in strength. The question is
+related with friend if lord of Navamsa Lagan is a friend of lord of
+horary Lagan. If they are enemy then question is related with
+enemy or opponent. {Sloka - 8)
+9. The person makes relationship with the wife of others if Sun,
+Mars and Venus are placed in seventh house in horary chart The
+man cohabits his wife only if Jupiter is placed in seventh house.
+The person makes relationship with prostitutes if Moon and
+Mercury are placed in ninth house. The person is related with low
+New Dimensions of K.P. Astrology
+
+caste ladyifSatum is placed in seventh house. The nature ofMoon
+decides the age of woman. ( Sloka - 10)
+1 0. The person will fall sick in foreign country if Saturn or any
+other malefic planet is placed in ninth house. The man will die in
+foreign land if Saturn is placed in eighth house. {Sloka -11)
+1 1 . The father of the querent who has gone abroad will further
+move to another country if eighth house is occupied by the Sun
+and other benefic planet and aspected by benefic planets. (Sloka
+Sinendramala : Few slokas of Sinendramala have been
+translated which have been found to be useful to the readers .
+1 . The querent must go to astrologer with devotion and sincerity.
+Even Vedas may not be helpful if there is no devotion and sincerity.
+The querent must not go with empty hands to physician, astrologer
+and one who recites Mantras (hymns).
+2. Significations of signs (According to Sinendramala)
+New Dimensions of K.P. Astrology
+
+3. Signification of planets (According to Sinendramala)
+Planets Significations
+A, Moon and shadow planets - Reptiles
+Mercury - Birds
+Other planets - Human and other animals
+Saturn - Limp and other physically
+disabled
+Sun, Mars, and Saturn - Forest
+Moon - Venus - Water
+Mercury- Jupiter - Village
+Shadow planets - Bushes
+Sun and Jupiter Place of prayer
+Mars
+Saturn
+Shadow Planets
+B. Saturn and Rahu
+Sun
+Mercury
+Jupiter
+Venus
+Mars
+Moon
+C. Sun and Jupiter
+Moon and Venus
+Saturn and Rahu
+Mars
+- Earth
+- Kitchen or the
+place where prayer and other
+religious functions are
+solemnised
+- Hole in tree
+- 1 year
+- 6 month
+- 2 month
+- 1 month
+- 1 5 days
+- 1 day
+- 1 Yi hour or 90 Minutes
+- Pregnant animal
+- Lactiferous animal
+- Sterilized animal
+- Animal devoid of
+lactation capacity
+New Dimensions of K.P. Astrology
+
+Comments : The principles propounded in traditional texts
+cannot be outrightly rejected. The aim behind the translations of
+these texts is to make readers familiar with the knowledge of
+different principles so that they could understand the basic nature
+of planets and signs.
+Only those shlokas have been translated which have been found
+to be useful to readers. Readers may take long time to verify the
+practicality of the principles. But these principles can provide
+adequate knowledge about the nature and behaviour of the planets
+as well as signs and maybe applied in solving the day-to-day
+problems of horary astrology. Above principles can also be used
+in K. P. astrology. It will not only enhance the quality of horary
+astrology but also make itrefined and rectified.
+I too have found a few principles to be absolutely correct. For
+example Uttarkalamratam Sloka 10 states that result of the
+question is obtained shortly if the lord of the house concerned
+with query is exalted. Simftmly Shatpanchasika chapter 1 Sloka
+5 states that lost article is recovered if moon in ascendant is
+aspected by Jupiter and Venus. Both examples have been found
+to be correct in many cases.
+The foundation of astrology lies in the permutation and
+combination of lights. If astrologers give logic in the explanation of
+any combination of planets then the mystery of planets can be
+revealed. In foregoing examples Sloka 5 of Shatpanchasika
+chapter 1 states that lost articles will be recovered if ascendant
+with moon is aspected by Jupiter and Venus. The logic behind is
+that moon and ascendant both are aspected by two most benefic
+planets viz. Jupiter and Venus. Both the Lagans i.e.. Moon and
+Lagna are under the influence of most benefic planets.
+Thus the impact of lights emanating from various planets js studied
+in astrology. Whenever a planet comes at a particular degree in
+space many important events take place. Research should be made
+on such particular degrees attained by planets during their motion
+in zodiac.
+New Dimensions of K.P. Astrology
+
+Significations of Planets and
+Signs
+The Sun : Sun is the significatorof soul, represents father of
+the native and a source of divine knowledge. Sun is known as
+Kroor Graha- means intensity to results. Following significations
+are ascertained from the Sun particularily in horary astrology.
+1 . Father, relationship with father, longevity of father
+2 . Popularity and degree of popularity
+3. Service
+4. High post in service
+5. Ministership
+7. Governor
+8. Eldest son
+9. Eyesight
+10. Intercaste marriage
+11. Constitution
+12. President
+Moon : Moon is a very important planet in horary astrology.
+Moon is the significator of mind. Therefore it reveals the immediate
+condition of mind. Non-corelation between query and the position
+of Moon in horary chart indicates insincere attempt to test the
+knowledge of the astrologer. The natural and sincere desire to
+know the result of horary question absolutely gives pinpointed
+correct results. The Moon assumes greater significance in horary
+New Dimensions of K.P. Astrology
+
+astrology; therefore its study from various angles is necessary.
+These are the following significations of Moon:
+(i) Mind, (ii) Mother, (iii) Water, (iv) Ups and down (v)
+Imagination, (vi) Dream, (vii) Daughter, (viii) Gains through women,
+(ix) Change and changeability, (x) Happy family life, (xi) Sea
+voyages (xii) Brain (xiii) Young girl (xiv) Rains, (x vi) Flood, (xvii)
+Milk etc.
+Mars : Mars is predominantly significator of energy. Other
+significations of mars are as follows -
+(i) Brothers, (ii) Properties, (iii) Disputes and Quarrels, (iv)
+Legal matters, (v) Police, (vi) Army, (vii) Surgery, (viii) Operation,
+(ix) Blood, (x) Cut, (xi) Boldness, (xii) Engine, (xiii) Railway, (xiv)
+Aero plane, (xv) Factory, (xvi) Iron (steel), (xvii) Engineer
+(mechanical), (xviii) Will power.
+Jupiter : (i) Money, (ii) Son, (iii) Children, (iv) Divine
+knowledge, (v) Banker, (vi) Teacher, (vii) Professor, (viii) Vedas,
+(ix) Perceptor, (x) Illegal relationship, (xi) Sanskrit, (xii) Judge
+(Mars + Saturn + Jupiter), (xiii) Doctor (Mars + Jupiter+ Sun),
+(xiv) Love marriage, (xv) Flatulence, (xvi) Cancer, (xvii) Windy
+trouble, (xviii) Food.
+Venus : (i) Wife, (ii) Vehicle, (iii) Sex, (iv) Beauty, (v) Beautiful
+clothes, (vi) Perfume, (vii) Tailor, (viii) Readymade garments shop,
+(ix) Cow, Buffalo, (x) Beautician, (xi) Relationship with woman
+other than wife, (xii) Emotion, (xiii) Wo rldly happiness, (xiv) Luxury
+or luxurious life style.
+Mercury : (i) Child, (ii) Intellect, (iii) Astrology, (iv) Practical
+knowledge, (v) Secret treasure, (vi) Divorce, (vii) Love marriage,
+(viii) Illegitimate relationship, (ix) Easily get influenced, (x)
+Hesitation, (xi) Speech, (xii) Education.
+Saturn : (i) Torture, (ii) Sufferings, (iii) Philosophy, (iv) Hath
+yoga, (v) Theft, (vi) Bad company, (vii) Selfishness, (viii) Mean
+mentality, (ix) Poverty, (x) Dejection, (xi) Impediments, (xii) Delay,
+(xiii) Reserved nature, (xiv) Loneliness, (xv) Conspiracy, (xvi) Spy,
+(xvii) Secret love affairs, (Venus and Saturn), (xviii) Skin, (xix) '
+Debris, (xx) Servant, (xxi) Public.
+New Dimensions of K.P. Astrology
+
+Rahu and Ketu : Indian astrology does not assign any particular
+signification to Rahu and Ketu. Rahu generally denotes thief, jail
+and jailor. Ketu shows liberation or final emancipation. Rahu and
+Ketu have got special attention and importance in horary astrology.
+Therefore, appropriate discussion on Rahu and Ketu have been
+included for the benefit of the readers at appropriateplace.
+Uranus, Neptune, and Pluto : Westerners have done a lot of
+research on these planets. Though late Krishnamurti had advocated
+the distinct effect of these planets yet he himself did not take into
+account their impact on human beings. I too personally have not
+verified their impact on human behaviour and nature. Therefore
+nothing is written here about these planets.
+Signs : Krishnamurti Paddhati has not given much importance
+to the signs. However this unique link of astrology as a whole can
+neither be underestimated nor overlooked in any way because it
+is primary determinant to the strength of any planet. Secondly in
+various questions of horary astrology viz. theft, marriage etc
+direction of materialization of event is indicated by the signs.
+Aries : Sign lord - Mars
+Behaviour - Hot
+Direction
+Element
+Gender
+Body Parts
+Place inhabited
+East
+Fiery
+Male
+Head and Face
+Dry Place, Thorny land,
+sandy, Stables, Hilly
+area.
+Exalted planet - Sun
+Stature - Tall
+Nature - Movable, Sterile,
+Quadruped
+Physical structure - Long neck, Round face with
+little fat, Broad temple,
+New Dimensions of K.P. Astrology
+
+Symbol
+Taurus- Sign lord
+Behaviour
+Direction
+Element
+Body parts
+Gender
+. Exalted planet
+Stature
+Nature
+Place inhabited
+Physical structure
+Symbol
+Gemini : Sign lord
+Behaviour
+Direction
+Element
+Gender
+Exalted planet
+Stature
+Nature
+Pointed chin, Scar or mole
+over face.
+A
+- Venus
+- Hot
+- South
+- Earthy
+- Throat, Ear, and Neck
+- Female
+- Moon
+- Short
+- Fixed, Fruitful, Quadruped
+Tailor, Shop of fancy items,
+Flowers shop, Shed of
+buffaloes
+- Broad shoulders. Thick
+neck, Short height. Deep
+eyebrows, Beautiful eyes,
+Broad fore head, Dense
+hairs.
+B
+- Mercury
+- Mediocre
+- West
+■ - Airy
+- Male
+- None
+- Generally short,
+Exceptionally tall
+- Common, Sterile Biped
+New Dimensions of K.P. Astrology
+
+Cancer :
+Leo :
+Place inhabited -
+Physical structure -
+Body parts -
+Symbol C
+Lord -
+Behaviour -
+Direction -
+Element -
+Gender -
+Exalted planet -
+Stature -
+Nature -
+Place -
+Physical structure
+Body parts -
+Symbol D
+Lord -
+Behaviour -
+Direction -
+Hill area. Suitcase,
+Diningroom
+Long hose, Long fingers,
+Small face, Long
+forehead, Bright eyes.
+Lean body, Height
+normal, Physical
+constitution weak
+Aims, Shoulders
+Moon
+Soft, sweet
+North
+Watery
+Female
+Jupiter
+Tall, medium
+Movable, Fruitful
+River, Lake, Sea, Well,
+Canal, Fountain, Fish
+pond, Marsh, Dairy
+farm, Wash basin
+Broad forehead, Broad
+chest, Long upper part
+of the body, Heavy face,
+Fat over face in advanced
+age.
+Stomach
+Sun
+Hot
+East
+New Dimensions of K.P. Astrology
+
+Virgo -
+Element
+- Fire
+Gender
+- Male
+Exalted planet - Nil
+Stature - Tall
+Nature
+Place
+Body part
+Symbol
+Lord
+Behaviour
+Direction
+Element
+Gender
+Exalted planet
+Stature
+Nature
+Place .
+Physical structure
+- Fixed, Sterile Biped
+- High hills, Forest,
+Palace, Fort,
+Government building,
+. Cinema and Drama
+college, Gold mines,
+Kitchen, Chimney,
+Furnace, Play ground,
+Stock exchange
+- Heart
+- Mercury
+- Soft
+- South
+- Earth
+- Female
+- Mercury
+- Tall
+- Common, Sterile
+- Garden, Irrigated or
+unirrigated land, Library
+Bookshelf, Storeroom,
+Fruit and vegetable
+basket. Restaurant and
+com crop.
+- Tall, Baldness, Long
+nose and broad
+New Dimensions of K.P. Astrology
+
+Body parts
+Symbol
+Libra : Lord
+Behaviour
+Direction
+Element
+Gender
+Exalted planet
+Nature
+Place
+Physical structure
+Body parts
+Symbol
+Scorpio : Lord
+Behaviour
+Direction
+Element
+Gender
+Exalted planet
+shoulders, Calm voice,
+Impressive walking style.
+- Loin and Uterus
+F
+- Venus
+- Soft
+- West
+- Air
+- Male
+- Saturn
+- Medium
+- Inner room, Good
+ventilated room, Shop of
+luxurious items, Silk,
+Rayon, Tailor, Readymade garments shop,
+Flowers shop.
+- Generally hairs of head
+split in two parts and
+beautifully lurk on
+forehead, Tall nose,
+Medium height
+- Liver and Loin.
+G
+- Mars
+- Hot, Furious
+- North
+- Water
+- Female
+- None
+New Dimensions of K.P. Astrology
+
+Stature
+Nature
+Place inhabited
+Body parts
+Physical structure
+Symbol
+Sagittarius: Lord
+Behaviour
+Direction
+Element
+Gender
+Exalted planet
+Stature
+Nature
+Stature
+Place inhabited
+- Medium
+- Fixed, sterile
+- Well inhabited by snakes
+and scorpions, Sewage,
+Washbasin, Slaughter
+house, Meat market,
+Operation room,
+Chemical laboratory,
+Cremation ground,
+Rusted iron rod.
+- Rectum, Sexual organs
+- Protruding forehead, and
+black hair deep
+eyebrows, Round face.
+Forehead covered by
+hairs.
+H
+- Jupiter
+- Soft
+- East
+- Fire
+- Male
+- Nil
+- Tall
+- Common, Fruitful
+- Generally short
+- Hill, Upper room. Stable
+for healthy horses,
+Church, Temple, School,
+College, Court, Shrubs,
+Arsenal.
+New Dimensions of K.P. Astrology
+
+Body parts - Thighs, Buttocks
+Physical structure -- Long height, Long face,
+Pointed nose, Bright
+colour, Bright eyes
+Symbol
+Capricorn : Lord
+Behaviour
+Direction
+Element
+Gender
+Exalted planet
+Nature
+Place inhabited
+Body parts
+Physical structure
+Symbol
+Aquarius: Lord
+Behaviour
+Direction
+Element
+Exalted planet
+- Saturn
+- Hot
+- South
+- Earth
+- Female
+- Mars
+- Movable, fruitful, biped
+- Shelf for keeping
+valuable articles, Lonely
+place. Hospital, Mental
+asylum, J ail, Graveyard,
+Stables, Temples,
+Caves, Dense forest,
+Morgue, Tool box,
+Shed of animals.
+- Knees .
+- No se broad from rear
+end. Fat over face, Thick
+lips, Black thin hair
+- Saturn
+- Soft
+- West
+- Air
+- Nil
+New Dimensions of K.P. Astrology
+
+Pisces :
+Stature
+Nature
+Place
+Body part -
+Physical structure -
+Symbol K
+Lord -
+Behaviour -
+Stature -
+Direction -
+Element -
+Gender -
+Exalted planet -
+Nature -
+Place -
+Body part
+Physical structure
+Tall
+Fixed, Indifferent
+Bumpy road, Fountains,
+Lake, Caves, Terrace,
+Window, Tunnel, Radiostation, Place where
+transistors, tape
+recorder, television etc.,
+are kept, Stairs, Ladder
+Knees
+Long height, Blackish
+complexion, Oval face,
+Charming personality
+Jupiter
+Soft
+Short
+North
+Water
+Female
+Venus
+Common, Fruitful, Biped
+Pond of sweet water,
+Sea, Fishpond,
+Harbour, Mental asylum.
+Lonely place, Jail,
+Hermitage
+Palm
+Short hand. Short palm.
+Knocked shoulders,
+Pale complex, Short
+height
+New Dimensions of K.P. Astrology
+
+Houses
+Introduction : As per Hindu traditional astrology the entire
+zodiac is divided into twelve equal parts. Each equal part is called
+house or Bhava. Each Bhava or house measures 30° in longitude.
+Thus 30x12 = 360°. Hence the entire zodiac is 360° in longitude.
+Krishnamurti Paddhati has used the word * cusp ’ for a particular
+Bhava akin to the concept advocated by western astrologers.
+Cusp is actually the beginning point of a house. K.P. advocates
+the birth chart or horary chart to be cast on Placidus system.
+Placidus system encompasses unequal house division in sharp
+contrast to equal division as propounded by ancient Indian
+astrology. In Placidus system a cusp or house varies from the
+other house in longitudes i.e. a particular Bhava maybe ofthirty
+degrees or less than thirtydegrees or more than thirty degrees.
+Each house denotes a number of significations. Here a number
+of significations of each house is given for the benefit ofthe readers.
+These significations without an iota of doubt can be used both in
+horary as well as in natal astrology.
+First house or Ascendant :
+(i) External appearance, (ii) Character, (iii) Health, (iv) Concept
+towards life, (v) Peculiar nature, (vi) Success and failure in life,
+(vii) Popularity and fame, (viii) Particular place or state or country,
+(ix) Merits and demerits (x) Head and face.
+Specific information :
+(i) The first house denotes the ascendant of the querent.
+(ii) Profit or advantage to younger brother as being eleventh to
+third house.
+New Dimensions of K.P. Astrology
+
+(iii) Death or sufferings to maternal uncle being eight to sixth
+house.
+(iv) Neighbour to elder brother being third to eleventh house.
+(v) Loss to native himself or herself being twelfth to second
+house (bank position) .
+Specific effect of planets in Ascendant :
+(i) The placement of Rahu in ascendant in horary chart always
+shows failure. But if Rahu in ascendant is aspected by Jupiter then
+desire is fulfilled after some delay and impediments.
+(ii) Saturn, Ketu and Rahu make one lazy and show abortion
+of wife if either of them is placed in ascendant.
+(iii) The aspect of Jupiter over ascendant gives auspicious
+results. The placement of Jupiter in ascendant is not good.
+Second house - Financial status, (ii) Family, (iii) Speech, (iv)
+Jewellary, (v) Bond, Securities, Debentures, Shares, (vi) Eyesight
+(left), (vii) Memory, (viii) Imagination, (ix) Nails, tongue, throat
+teeth, (x) National treasure, (xi) Banking and revenue, (xii) Second
+marriage, (xiii) Death.
+Specific information - (i) In horary astrology second house
+denotes all money matters, loss and gain.
+(ii) Speculation and matters related to business.
+(iii) Loss or incarcerationto younger co-boms (being 1 2th to
+third house)
+(iv) Purchase ofhouse, land, vehicle by elder brother (fourth to
+eleventh)
+(v) Journey by maternal uncle (ninth to sixth)
+(vi) Sufferings of father (sixth to ninth)
+Specific effect of planets in second house :
+(i) Rahu in second house gives very good service.
+(ii) Rahu - Mars together gives throat problems.
+(iii) Ketu or Saturn or both may make one to stammer.
+New Dimensions of K.P. Astrology
+
+(i v) Child will stammer if Rahu is the sublord of second cusp
+and simultaneously ascendant happens to be either Taurus or
+Scorpio.
+Third house : (i) Younger co-boms, (ii) Nature, (iii) Right ear,
+(iv) Valour, Courage, (v) Mind and Tendency of mind, (vi)
+Neighbour, (vii) Colleague, (viii) Short journeys, (ix) Information,
+(x) Letters, (xi) Radio, (xii) Means of information, (xiii) News,
+(xiv) Publication, (xv) False news or information.
+Specific Information (i) Rahu in third house makes one either
+younger or eldest in the family.
+(ii) Ketu in third house gives dual personality.
+(iii) The lord of ascendant in third house makes one man of
+deeds.
+(iv) Jupiter in third house takes one to dizzing heights.
+Fourth house : (i) Education, (ii) Properties, (iii) Land, (iv)
+Vehicles, (v) Family and happiness, (vi) Mother, (vii) Secret
+activities, (viii) Ancestral properties, (ix) Digging of well, (x)
+Properties either to take or give on rent.
+Specific information : (i) Mines, (ii) Agriculture, (iii)
+Termination of any undertaking, (iv) Public places, (v) Financial
+position of younger brother, (vi) Loss to children, (vii) Sufferings
+or hurdles to father (eighth to ninth), (viii) Sufferings, disease of
+elder brother (sixth to eleventh)
+Specific effect of planets in fourth house : Venus in fourth
+house gives a number of vehicles.
+(ii) Mercury in fourth house gives break in education.
+(iii) Rahu in fourth house makes one an aimless wanderer.
+(iv) Saturn in fourth house makes one bereft of family happiness.
+(v) Mars in own sign or in the sign of exaltation in fourth house
+gives landed properties.
+Fifth house : (i) First child, (ii) Vedic knowledge, (iii) Wisdom,
+(iv) Pleasure, (v) Society and social activities, (vi) Creativity, (vii)
+New Dimensions of K.P. Astrology
+
+Recreation, (viii) Cinema, (ix) Dance, opera, (x) Speculation, (xi)
+Gambling, (xii) Horse racing, (xiii) Rape, (xiv) Kidnapping
+Specific information : (i) Friendship, (ii) Pre-and post-marital
+relations, (iv) Ambassador, (v) Minister, (vi) Success in politics,
+(vii) Gains through wife (eleventh to seventh)
+Specific effects of planets in fifth house :
+(i) Jupiter and Venus are considered to be very auspicious if
+placed in fifth house.
+(ii) The association of fifth house with 11th either through lord
+of ascendant, benefic planets or through star lord or sub lord of
+first cusp is very auspicious andportends success.
+(iii) The native suffers on account o f children if Jupiter is placed
+in fifth house.
+(iv) Fifth house gives magnetic personality ifbenefics are placed
+therein.
+Sixth house : (i) Debt, (ii) Disease, (iii) Enemy or enmity, (iv)
+Service, (v) Maternal uncle, (vi) Irregular dirty habits, (vii) suffering,
+(viii) Brutal actions, (ix) Receive donations, (x) Loans.
+Specific information : (i) Purchase of properties or vehicles
+by younger co-boms (fourth to third), (ii) Journey of mother (third
+to fourth), (iii) Financial status of first child (second to fifth), (iv)
+Loss to partner (twelfth to seventh), (v) Profession of father (tenth
+to ninth), (vi) Overdraft facilities.
+Specific effects of planets in sixth house : (i) If the lord of
+seventh house is placed in sixth house or the lord of sixth house is
+placed in seventh house shows discord in married life.
+(ii) The married life is also on rock if the sub lord of seventh
+cusp is placed in sixth house.
+(iii) The placement of Jupiter or Mercury in sixth house gives
+service either in teaching line or in bank.
+Seventh house : (i) Husband or wife, (ii) love, (iii) Married
+life, (iv) Partner, (v) Agreement, (vi) Transaction or deals in any
+New Dimensions of K.P. Astrology
+
+manner, (vii) Fine, (viii) Danger to longevity, (ix) Thief, Description
+of thief, (x) Pickpocket.
+Specific information : (i) Question related with thief and theft,
+(ii) Foreign relations, (iii) War, (iv) International trade, (v) General
+opinion of masses about national policies, (vi) Second son or
+daughter of the querent, (vii) Properties of mother (fourth to fourth),
+(viii) Adopted child.
+Specific effects of planets: (i) The sign falling in seventh house
+or planet placed in seventh house gives information about thief
+and stolen article.
+(ii) Jupiter in seventh house causes delay in marriage
+(iii) If the sub lord of seventh cusp happens to be mercury and
+placed in any of the dual signs it portends divorce and more than
+one marriage.
+Eighth house : (i) Life, (ii) Headache, (iii) Insult, (iv) Sorrow,
+(v) Disputed activities, (vi) Death, (vii) Hurdles, (ix) Impurity, (x)
+Secret knowledge, (xi) Dowry, (xii) Bonus, (xiii) Life insurance,
+(xiv)Will
+Specific information : (i) Banking position of wife (second to
+seventh), (ii) Bribe, (iii) Occultism, (iv) Suicide, (v) Accidents,
+(vi) Famine, (vii) Natural calamities, (viii) Export- import, (ix)
+Foreign debt, (x) Rate of interest, (xi) Deficient budget, (xii)
+Investment by father (twelfth to ninth), (xiii) Mother’s gain through
+speculation gambling sharebond (fifth to fourth), (xiv) Good service
+(eleventh to tenth), (xv) Final liberation to father (Twelfth to ninth),
+(xvi) Drought.
+Specific effect of planets in eighth house : (i) Sat - Rahu
+together in eighth house gives frequent accidents.
+(ii) Jupiter or mercury in eighth house tends to turn the mind to
+occult knowledge.
+(iii) Unafflicted benefics or two benefics in eighth house gives
+very good service.
+Ninth house : (i) Fate, (ii) Father, (iii) Long journeys, (iv)
+Warship, (v) Religion, (vi) Grand son, (vii) Rituals, (viii) Meditation,
+New Dimensions of K.P. Astrology
+
+(ix) Temple, Mosque, Church, (x) Religious journeys.
+Specific information : (i) Higher education, higher knowledge,
+higher thoughts, (ii) Research, (iii) Ph.D., (iv) Dreams, (v)
+Strangers, (vi) Religious literatures viz. astrology, Vedas ,
+Upanishad etc, (vii) Sea voyages, (viii) Judge, (ix) Religious
+master, (x) Commerce, (xi) Short journey of wife (third to seventh),
+(xii) Short journey to partner (third to seventh), (xiii) Wife of
+younger brother (seventh to third) third son or child.
+Specific effect of planets in ninth house :
+(i) Grand success is assured if the sub lord uf ninth cusp is
+placed in eleventh house.
+(ii) Saturn in ninth house tends towards renunciation
+(iii) Native visits foreign countries if lord of ascendant is placed
+in ninth house.
+Tenth house : (i) Profession, (ii) Deeds, (iii) Success, (iv)
+Status, (v) Conduct, (vi) Control, (vii) Merits, (viii) Honour, (ix)
+Promotion.
+Specific information : (i) Final rites of father, (ii) Death of
+father (second to ninth), (iii) Employer, (iv) Senior officer, (v)
+Government, (vi) Command, (vii) Agriculture, Doctor, Medicine,
+(viii) Authority, (ix) Pilgrimages, (x) Judge, (xi) Decision, (xii) Party
+president, (xiii) Prime minister, (xiv) President, (xv) Political
+situation, (xvi) Financial position of father (second to ninth), (xvii)
+Sufferings to younger brother (eighth to third), (xviii) Sufferings to
+children (sixth to fifth), (xix) Negation of desire (twelfth to eleventh)
+Specific effect of planets in tenth house : (i) The sun in
+tenth house gives government patronage to the native.
+(ii) Rahu in tenth house strains relationship with father but
+provides grand success to the native.
+(iii) Saturn in tenth house takes native to dizzy heights but also
+brings ultimate falldown.
+Eleventh house : (i) Profit, (ii) Multiplicity, (iii) Income, (iv)
+Desire and fulfilments of desires, (v) Sycophant, (vi) Fans, (vii)
+Advisor, (viii) Close acquaintant, (ix) Elder brother.
+New Dimensions of K.P. Astrology
+
+Specific information : (i) Relation with lover, (ii) Social and
+financial status, (iii) Children (fifth to seventh and seventh to fifth),
+(iv) Financial status of employer (second to tenth), (v) Left ear
+(vi) Loss of interest on capital, (vii) Suffering to mother (eighth to
+fourth), (viii) Fate of younger co-boms (ninth to third), (ix) Daughter
+in law (seventh to fifth), (x) Minister.
+Specific effect of planets in eleventh house :
+(i) Eleventh house is considered to be very important in horary
+astrology! The’ fulfilment of desires of the querent is always judged
+from this house.
+(ii) Rahu in eleventh house makes one either elder or younger
+in the family.
+(iii) Political success is judged if eleventh house is having
+association with fifth house.
+(iv) All the planets are auspiciousif positedtherein, however
+Saturn delays but not denies.
+Twelfth house : (i) Expenditure, (ii) Loss, (iii) Change of place,
+(iv) Transfer, (v) Termination, (vi) Hospital, (vii) Jail, (viii) Jailor,
+(ix) Liberation, (x) Sorrow, (xi) Left eye, (xii) Bed comforts.
+Specific information : (i) Purchase, (ii) Investment, (iii)
+Donation, (iv) Doubt, (v) Sacrifice, (vi) Restrictions or limitations,
+(vii) Secret mental activities, (viii) Conspiracy, (ix) Fraud,
+Speculation, (x) Murder, (xi) Suicide, (xii) Chronic disease, (xiii)
+Foreign visit, (xiv) Sufferings, (xv) Lunatic asylum, (xvi) Secret
+enemy of nation, (xviii) Spy.
+Specific effect of planets in twelfth house : (i) The native is
+likely to visit foreign countries if Rahu is placed in twelfth house.
+(ii) Moon in twelfth house gives very good servic&-
+(iii) In horary question pertaining to legal matters, ifRahu is
+placed in twelfth house, indicates either termination or sentence.
+New Dimensions of K.P. Astrology
+
+Sub-lord
+The zodiac is divided into 27 constellations or stars. Each
+constellation is 13° - 20' or 800 minutes in longitude. Each
+constellation is divided into 4 quarters or pads. Each sign or Rasi
+consists of 214 constellations i.e. 9 pads.
+Each signorRari = 30° or 30x60 - 1 800 min.
+Each quarter of constellations = 3°- 20 or (3 x 60) + 20
+= 200 minutes
+Each sign consists of 9 quarters of constellation i.e.
+Each constellation has four quarters. Therefore 27 constellations
+will have 27 x 4 = 1 08 quarters.
+These 1 08 quarters have further been divided into 249 parts.
+Each subdivided part is called sub-lord.
+For example Aries sign consists of 4 quarters of Ashwini star, 4
+quarters of Bhami star and one quarterof Krittika star.
+Ashwani star is ruled by Ketu and have been allotted 7 years
+out of 1 20 years of Vimshottari dasha pattern. Ashwini star is
+1 3° - 20 or 800 min. in longitude. Now 800 min of Ashwini star
+are further divided in respect to 7 years o f Ketu. The result obtained
+is called sub or sub-lord of Ketu.
+How to work out sub-lord :
+New Dimensions of K.P. Astrology
+
+Ashwini is the first constellationof Aries sign ruled by Ketu.
+Therefore the first sub will be of Ketu followed by Venus, Sun
+etc. It could be understood as, in Jupiter Mahadasha and Ketu
+Antardasa the first Pratyantara dasa will be of Ketu, second
+belongs to Venus and so on. Sub-lord can also be assumed to be
+Pratyantara lord.
+Example 1 - Aries sign consists of four quarters of Ashwini star
+6° - 40' to 10° - O' - lllrd quarter
+In sub-lord calculations the first quarter of Ashwini which
+extends from 0° - O' to 3° - 20' has been divided. The first quarter
+that is ruled by Ketu as per traditional astrology is now divided
+into 3 parts that are successively ruled by Ketu, Venus and Sun.
+O'-Venus
+When any planet or cusp falls in between these longitude in
+Aries sign will have sub-lord as per extension it has got as per
+above calculation.
+Example - 2
+Aries sign - Bhami star (1 3° - 20' to 26° - 40’)
+58 New Dimensions of K.P. Astrology
+
+After adding the value of other sub-lords the extension of other
+sub-lords is determined. It means if any planet moves or cusp falls
+between I6°- 13' - 20" to 1 7° - 20' - 0" in Aries signit will have
+moon as its sub -lord.
+Comments - The concept of sub- lord is the outcome of research
+carried over decades by late Krishnamurti. It is positive outcome
+and has universal applications. The principles enumerated in
+traditional astrology have their own utility without an iota of doubt.
+But such principles cannot be applied to know the event of dayto-day activities and miserably fail to answer the questions likeTight gone, when will it comeback?’ !Son gone to school, when
+he will return?’ ‘When and which time result of examination will
+be declared?’ There are many more questions pertaining to dayto-day life which can be answered positively with the help of sub
+lord theory. It is an innovativediscoveryof astrology which has
+given scientific approach to astrology.
+New Dimensions of K.P. Astrology
+
+Ruling Planets and
+Significators
+The discovery of ml ingplanets is another milestone of astrology.
+To pinpoint the timing of events with great accuracy is another
+great service of astrology by late Krishnamurti. ‘ Ruling planets ’
+means the planets which rule the moment at the time of judgement
+of any question. Ruling planets are worked out from ascendant
+and the posi tion of Moon at the time of judgement. Ascendant is
+the bassic foundation of planetary influence and Moon is the
+significator of mind. Mind receives influence of planets more quickly
+and moreover one has to interact with worldly matters with the
+application of mind. Secondly the position ofMoon either in horary
+chart or natal chart is considered to be ascendant and called Moon
+Lagna. Desires, will etc are the functions of mind. Therefore,
+planets influencing mind and ascendant are taken ruling planets to
+co-relate query asked and its ultimate future.
+In K.P. there are five major ruling planets :
+(i) Ascendant lord
+(ii) Ascendant star lord or constellation lord .
+(jii) Moon sign lord
+(iv) Moon constellation lord or star lord
+(v) Lord of day
+Lord of day means judgment day. Each day is ruled by a planet.
+Monday is ruled by moon, Tuesday is ruled by Mars and so on.
+For the benefit of the readers a table showing day and its ruler is
+given below:
+New Dimensions of K.P. Astrology
+
+Apart from the abovesaid fiverulingplanets Rahu Ketu too
+are considered ruling planets with the following conditions:
+(i) If Rahu and Ketu are either associated or conjoined with
+one or more of the ruling planets.
+(ii) If Rahu or Ketu has occupied the s ign the ruler of which
+in one of the ruling planets.
+(in) If day lord appears once among the ruling planets,
+then Rahu and Ketu though conjoined with day lord or occupy
+the sign of day lord are not reckoned as ruling planets.
+The followers of K P in later stage also considered sub-lords,
+of ascendant and the Moon as ruling planets. We have not
+considered sub-lord of either ascendant or the moon as ruMnj^
+planets. Sometimes we have considered Hora lord as ruling planet
+replacing day lord. For the benefit of the readers Hora fable is"
+given below:
+Time Day
+Sun Mon The Wed Thur
+6- 7 A.M. Sun Moon Mars Merc Jup
+7- 8 A.M. Ven Sat Sun Moon Mars
+8- 9 A.M. Merc Jup Ven Sat Sun
+9- 10 A.M. Moon Mars Merc Jup Ven
+10- 1 1A.M. Sat Stif f Moon Mars Merc
+FVi Sat
+Ven Sat.
+Merc Jup
+Moon Mars
+Sat Sun
+Jup Ven
+New Dimensions of K.P. Astrology
+
+The Hora lord rules the moment at the time of judgment of
+query. For example, a question is asked on Wednesday at 4
+P.M. On Wednesday the Hora between 4 to 5 P.M. is ruled by
+Jupiter. So Jupiter may be taken as Hora lord in place of day
+lord Mercury among the ruling planets. The actual Hora is
+determined with the rising of the sun and extends for one hour as
+the word Hora itself signifies. The first Hora is always of the day
+lord followed by planets in increasing velocities. For example the
+first/fora of Monday is ruled by moon followed by Saturn, Jupiter
+etc. As the cycle of seven planets ends again new cycle start with
+first Hora lord i.e. the Hora lord that ruled the moment at the time
+of rising of the sun. In the above table a standard time i.e. 6 to 7
+New Dimensions of K.P. Astrology
+
+A.M. has been taken as the rising time of the sun to any locality of
+India.
+COMMENTS ON RULING PLANETS :
+Ruling planets are very important to decide the future of any
+event or also speak well whether the desire of the querent will be
+fulfilled or not. If desire is to be materialized then timing of the
+event?
+Following tips regarding ruling planets would be of immense
+use to the astrologers :
+1 . Ruling planets are always linked with the success or failure
+of the query.
+2. If ruling planets are associated with the houses concerned
+with query and simultaneously the instant Antardasa is related
+with ruling planets the desire of the querent is fulfilled.
+3 . If ruling planets are concerned with the houses related with
+query but the instant. Antardasa is not linked with ruling planets
+it shows delay or failures of the query.
+4. If Rahu or Ketu or both becomes rulingplanets, then Rahu
+and Ketu are considered seriously because Rahu and Ketu are
+always stronger than the planets.
+5 . Ruling planets are the only key to select beneficial signi ficators
+that contribute to materialization of the desire.
+6. The delay is portend if any of the ruling planets are in
+retrogression.
+7. The ruling planets, in order of their strength to bestow results,
+are as follows:
+l) Ascendant lord
+ii) Ascendant star lord
+in) Moon star lord
+iv) Moon sign lord
+v) Day lord or Hora lord
+New Dimensions of K.P. Astrology
+
+Specific comments over selection of ruling planets :
+There is some sort of confusion over selection of the ruling
+planets. A few sections of astrologers take ascendant lord and
+star lord of rising sign at the time of Judgment of query even if the
+question is solved with the help of horary number between 1 and
+to 249. Here we would like to clarify and emphasise that this way
+of selection of ruling planets is completely fallacious and may lead
+to confusing predictions. The sign lord and star lord of ascendant
+of rising sign are taken only when the query is solved without
+horary number and simply the judgement time is taken. If one is
+proceeding with the help of horary number then one should take
+sign lord and star lord of the horary number. After solving more
+than one thousand horary questions, it has been found that
+sign lord and star lord of ascendant of horary number without
+exceptions always help to reach right conclusion. So one
+should not fell victim to illogical method of selecting ruling planets.
+The ruling planet taken in Part 2 of this book comprises sign lord
+and star lord of ascendant or 1st cusp of horary number. Readers
+must not get confused.
+SIGNIFICATORS
+The term ‘Significators’ implies those planets that contribute
+towards fructification of the results of a particular house or houses.
+Accordingto K.P. Significators are determined as follows:
+i) The planet or planets posited in a house. Such planet or planets
+are called occupants,
+ii) The planets posited in the constellation of the occupant.
+iii) The planets posited in the constellation of the lord of the
+house.
+iv) The lord of the house.
+v) The planets which are conjoined with above said
+Significators.
+vi) The planets those are aspected by Significators.
+nil
+New Dimensions of K.P. Astrology
+
+vii) If Rahu or Ketu or both are conjoined with the above
+Significators.
+The above Significators have been listed below as per their
+strength to offer the results:
+i) The most powerful Significators are Rahu and Ketu if they
+are conjoined with other Significators.
+ii) Next in strength is the planet that is posited in the constellation
+of the occupant.
+iii) Next in strength is occupant.
+r
+iv) The planet posited in the star or constellation of the lord
+of the house.
+v) The least effective is the lord of the house.
+vi) The planets other than Rahu and Ketu that are conj oined
+with significators.
+vii) The planets which are aspected by significators.
+The above list shows strength in decreasing order i.e. (i) is more
+powerful and (vii) is least powerful.
+New Dimensions of K.P. Astrology
+
+Cu$p ( Bhava ) Determination
+There are two methods for the determination of cusp:
+i) The first method comprises taking ascendantat the time of
+judgement.
+ii) The second method takes ascendant of the number from the
+range of 1 to 249 as mentioned by the querent.
+FIRST METHOD: (Taking rising sign at the time of
+judgement)
+EXAMPLE: A question is asked on 17-01-03 at 10 A.M.
+Place of judgement is Agra.
+SOLUTION : If the question is solved on 1 7-0 1 -03 at 1 0 A.M.
+then ascendant is woiked out. If the question is not immediately
+solved then later time and date be taken to work out the ascendant.
+In order to answer any horary question the best method is K.P.
+However due to shortage of time such questions may be solved
+as per traditional method. If question is attended as per
+traditional method it is advisable that sub-lord of planets
+must be given serious consideration. How to work out the
+cusp is same as mentioned in the second method with little
+difference. In this method the degree and minutes of rising sign is
+taken whereas in the second method the lagan is taken of the
+number as mentioned by the querent.
+SECOND METHOD:
+Example: A querent gave No 1 37 in between 1 to 249. The
+question was judged on 17-01-03 at 10.00 A.M.
+HOW TO WORK OUT CUSP:
+No. 1 37 means Libra sign 1 8°-6’-40 ■’ (See horaryno table) to
+New Dimensions of K.P. Astrology
+
+In order to solve any horary question with the help of numbers,
+the commencing number is taken. As horary No. 137 extends
+from6S 18°-6’-40"to6S 19°-13'-20" so commencing part i.e.
+6S 1 8°-6'-40" will be taken. The number 1 3 7 shows Libra Lagna
+1 8°-6'-40" of Niryana.
+Therefore the first cusp ( Bhava ) is 6S 1 8°-6-40".
+The other cusps are worked out as follows:
+1 . The longitudes of first cusp are converted into Sayana
+longitude by adding Ayanamsa of the year 2003 . The reason is
+that the best book available in the market to work out cusps is
+Raphael’s table of houses for Northern latitudes. The position
+givenin thisbook is Sayana position.
+2. The Ayanamsa of the year (K.P.) 23°-47'-40"
+3. Add this Ayanamsa to longitudes of first cusp {Bhava).
+Or
+Or
+Or
+7S 11 ° - 54' (seconds can be omitted.)
+It means: Now the Sayana position of 1st cusp {Bhava) is 7S
+4. The latitude of Agra is 27° -11". Open the page of Raphael
+book where latitude 27° - 1 1 ' is given.
+5. At the latitude of 27° - 1 1' the page shows Scorpio 11 °-
+48'. But we require ascendant Scorpio ll°-54'. The difference
+is 6 minutes. In order to get the value of 6 minutes, the following
+calculations are made:
+New Dimensions of K.P. Astrology
+
+i) There are two values given on the page where longitude
+Difference: 1 2°-3 9’
+i.e. what the value is given for second, third and other cusps
+add 7 to these values .
+6. ThevalueofsecondcuspinRaphaeltableis8S ll°-0'.
+Add T to this value. Thus the second cusp will be 8S 1 1 °-7\
+1 1 . Now the cusps in Sayana position are as follows:
+Second Cusp = 8S ll°-7
+Third Cusp = 9S 12°-7'
+Twelfth Cusp = 6S 1 T=T
+Eleventh Cusp = 5S 17°-7*
+Tenth Cusp = 4S 15°-7'
+1 2. Now deduct Ayanamsa to get Niryana position
+Sayana Position Niryana Position
+New Dimensions of K.P. Astrology
+
+1 3 . Now add 1 80° to each cusp to get other cusps i.e. fourth,
+fifth etc.
+(Seventh Cusp)
+(Eighth Cusp)
+(Ninth Cusp)
+(Sixth Cusp)
+(Fifth Cusp)
+(Fourth Cusp)
+Comments :
+1 . In order to solve horary question with the help of number in
+the range of 1 to 249, the commencing position is taken as evident
+in the foregoing example in which the commencing position of
+Number 1 37 was taken.
+2. The longitudes of cusp shows sign lord, star lord and sublord of the particular cusp. For example the position of third cusp
+as shown above is 8S 1 8°-l 9'-20". See this longitude in horary
+table in Sagittarius sign. This number falls between 1 8°-6'-40" to
+20 - 6'-40" in Sagittarius which means Jupiter sign lord, Venus
+star lord and Rahu sub-lord of the third cusp.
+3. Time is an important factor in horary astrology. According
+to K.P. the longitudes of the number mentioned by querent does
+not change with the change of time. The longitude of the number
+remains the same though the planetary position changes with the
+change of time of judgement. Suppose a question of Number
+137 was to be judged on 1 7-03-06 but due to some reason this
+question could not be attended on 17-03-06. Now this question
+is judged on 1 8-03-06. In this situation the longitude of cusps
+New Dimensions of K.P. Astrology
+
+will be same but the planetary position of 1 8-03-06 at the time of
+judgement will be taken. The ruling planets will also change with
+this new time.
+4. Cusp determination takes much time. Therefore it is advisable
+to esteemed readers that they must prepare Cuspal table for all
+the numbers for the place where astrologer permanently resides.
+Ayanamsa increases 50" every year. This value is negligible as
+far as change of longitudes of cusp year after year is concerned.
+5. The astrologers can also purchase Cuspal table book that is
+in Niryana position and can save valuable time of astrologers.
+Nishkaam Peeth Prakashan has brought out a table of houses
+( Nirayana position) for the latitude of Delhi.
+6. It is also to be kept in mind that the place is also important in
+working out cusps. If question is judged at Agra as shown in
+example then latitude 21° - 1 1 ' will be judged. If the same question
+is judged at Delhi then Raphael’s book will be consulted for latitude
+of Delhi i.e. 28°-39'. In that case Cuspal position of various cusps
+may change and sub-lord will also change though sign lord and
+star lord will be same.
+New Dimensions of K.P. Astrology
+
+SUBJECTS OF HORARY
+ASTROLOGY
+1. Retrograde planets and their impacts: There are various
+theories prevalent in astrological world regarding retrograde planets
+and their ultimate impacts. According to one school of thought
+retrograde planets give the result of previous house. Another school
+of thoughts says that retrograde planets are more powerful to give
+the result becauseduring retrogression the planet comes near to
+the orbit of the earth and therefore its impact is greater at the time
+of retrogression. Whatever arguments may be but it is beyond
+doubt that retrograde planets have their distinct impacts. The
+study of retrograde planets is much more important in horary astrology than natal astrology. Retrograde planet has direct relation
+with the query. Retrograde planets have following effects:
+1 . Retrograde planet always shows negation in horary astro logy2. Retrograde planet shows failure of the question asked.
+3 . If a retrograde planet is posited in the star of a retrograde
+planet the result is failure of the query.
+4. The result will be positive with some delay if retrograde planet
+is posited in the constellation of planet in direct motion. The positive result will be obtained when the planet in retrograde motion
+will attain direct motion and reach the position from where retrogression was started.
+. 5. The result after initial delay will be positive if a planet in
+direct motion is placed in the constellation of planet in direct motion but in the sub of retrograde planet.
+rT\
+New Dimensions of K.P. Astrology
+
+6. The result will be absolute negative if sign lord, star lord and
+sub-lord are in retrogression.
+7. The result will tend to be favourable after some delay and
+impediments, if retrograde planet in posited in the constellation of
+the planet in direct motion but in the sub of retrograde planet.
+8. The result will be delay or failure of the query if any retrograde planet or planets find place among ruling planets. Even day
+lord or Horn lord, the weakest ruling planet among ruling planets,
+is found to be retrograde, shows at least delay in the fulfilments of
+desire of the querent.
+9. Apart fro.n horary astrology it has been found in natal astrology that retrograde planet weakens the results of the house where
+they are posited. Morethan one planet in retrogression if found
+to be present in natal chart portend a struggling life to the native.
+The lord or star lord or sub-lord of seventh cusp i f found to be in
+retrogression in natal horoscope indicates delay in marriage.
+2. Rahu and Ketu in the mirror of horary astrology:
+/ As the nature and behaviour of retrograde planet is always a
+riddle and complex matter to understand, similarly the nature and
+behaviour of Rahu and Ketu have always been a mystery to astrologers. A section of astrologers consider these two shadow
+planets to offer results like other planets and like other planets
+their strength, exaltation, debilitation, aspect etc must be taken
+into account while delineating results. Another section of astrologers treats Rahu and Ketu as mere shadow planets and does not
+take into account their aspect, strength based on debilitation or
+exaltation etc. Our object is not to fall in any controversy regarding various views of astrologers on the nature of Rahu and Ketu.
+But we want to bring to the knowledge of readers the modus
+operandi of Rahu and Ketu which has been found to be correct
+after a longresearch carried over more than a decade.
+According to Hindu mythological stories a ferocious battle ensued between gods and demons during churning of ocean. Both
+the parties agreed over the pact that whatever begotten through
+New Dimensions of K.P. Astrology
+
+churning of ocean would be equally distributed between both the
+parties i .e. gods and demons. As a result of churning of ocean a
+pot of nectar was obtained. Since gods were of the opinion that
+demons would create large-scale destruction if they got nectar,
+gods planned to trick the demons. Lord Vishnu in disguise of a
+beautiful woman appeared and suggested that gods and demons
+sit separately in queue so that everybody could get a drop of
+nectar. Rahu, the demon, doubted the plan and sat in the row
+among the gods in disguise of gods. As soon as Rahu got the
+nectar and drank it he was detected by Sun and Moon. Sun informed lord Vishnu who in turn immediately beheaded Rahu but
+by that time nectar had reached the throat of Rahu, so he was half
+immortal and could not be killed. Neither the parts of the body
+could unite together. The head part was called Rahu while the
+part below head was called Ketu.
+Analysis of the Story: Mythological stories, if properly understood and analyzed, reveals hidden facts regarding behavi our
+and nature of planets. The above story reveals following facts:
+1 . Rahu was the only demon that could detect the plan of godstherefore an intelligent planet.
+2. Rahu has nectar in his throat - therefore, also gives auspicious results.
+3 . Rahu was detected by Sun and Moon - therefore an enemy
+to Sun and Moon.
+4. If Rahu is conjoined or associated with Sun and Moon the
+native suffers on account of his father and mother. He or she is
+obstinate, egoist, a perfectionist liar and dramatic in behaviour.
+5. Ketu is an abortive and confusing planet because nectar
+could not reach the stomach of Rahu. Ketu represents this part.
+Modus operandi of Rahu and Ketu:
+1 . Rahu and Ketu give the results of those planets with which
+they are conj oined.
+2. The result of the sign they have occupied.
+New Dimensions of K.P. Astrology
+
+3. The result of the lordoftheconstellationin which they are
+posited.
+4. The result of the planets by which they are aspected.
+Importance of Rahu and Ketu in horary astrology:
+1 . If Rahu is placed in ascendant the ascendant is completely
+spoiled. The desire of the querent is not fulfilled.
+2. The results are intensified and offered by Rahu and Ketu if
+they happen to be either ruling planets or occupy the sign of ruling
+planets.
+3. If Rahu along with Sun or Moon is placed in ascendant and
+Sun or Moon being ascendant lord even then ascendant is considered to be spoiled.
+4. Rahu or Ketu in ascendant and aspected by Jupiter portends fulfilments of desire after some delay and problems.
+3. What will be the result of query:
+After a long research if has been found by us that following tips
+are quite useful for the readers in order to judge the result of the
+query.
+The result will be positive:
+i) If the sub-lord of first cusp in direct motion is posited in
+eleventh house the desire of the native in fulfilled. There will be
+some delay or impediments if sub-lord of first cusp is placed in
+eleventh house in the sign of debilitation.
+ii) If lord of ascendant is placed in eleventh house the desire of
+the querent is fulfilled. If lord of ascendant is debilitated but placed
+in eleventh house even then desire is fulfilled. If lord of ascendant
+is retrograde planet but posited in eleventh house, the desire is
+fulfilled after delay, dejection and such problems.
+iii) If sub-lord of first cusp or lord of ascendant is placed in fifth
+house then desire is fulfilled. Saturn being sub lord of first cusp or •
+lord of ascendant in fifth house fulfils desire after delay and mental
+torture.
+New Dimensions of K.P. Astrology
+
+iv) Fulfilment of desire is promised if the sub-lord of concerned
+house is having connection with either fifth house or eleventh house.
+Suppose in Leo ascendant if Mars, the ruler of fourth house, or
+cusp or sub-lord of fourth cusp is having connection with fifth or
+eleventh house then query related with purchase of a property is
+fulfilled.
+v) If Jupiter aspects ascendant or the cusp concerned with the
+query then desire is fulfilled.
+vi) If the sub-lord of first cusp becomes one of the ruling planets
+The result will be negative:
+i) If ascendant lord of the horary chart is in debilitation and not
+placed in eleventh house.
+ii) If lord of the ascendant of the horary chart is retrograde.
+iii) If the sub-lord of first cusp is retrograde and also not placed
+either in fifth or eleventh house.
+iv) If lord of the ascendant or sub-lord of first cusp is placed
+either in eighth house or twelfth house.
+v) If the sub-lord of the concerned cusp or lord of the concerned house is retrograde or placed in eighth house.
+vi) If Rahu or Ketu is placed in ascendant.
+vii) If the sub-lord of eleventh cusp or lord of the eleventh cusp
+in either retrograde orplaced in the sign of debilitation.
+viii) If Saturn is placed in the ascendant or aspects ascendant.
+ix) If ascendant lord or more than one planets among the ruling
+planets are retrograde.
+x) If ascendant is not aspcted by Jupiter or other benefic planets like Venus, Mercury and Moon.
+4. Importance of Omens in Horary Astrology:
+Horary astrology is the best method to know the will of God.
+Each and every particle of this universe vibrates due to the cosmic
+New Dimensions of K.P. Astrology
+
+will. This vast universe is the outcome of divine dance of matter
+and spirit; therefore nature itself wants to convey its message to
+mortals (Jeeva) through various omens. Some people listen to
+nature while others take them as ordinary events and ignore the
+voice of nature.
+Omens have great utility in prediction in horary astrology and
+many queries can be answered simply on the basis of keen observations of omens presented by nature at the tim e of query. 1 share
+a few experiences regarding utility of omens :
+One day a friend of mine came to my residence to know the
+time and date of his promotion. He mentioned one number that I
+did not recall because this incident was five years old. But I remember the number mentioned by him showed Libra ascendant
+and the lord of sixth house (service) Jupiter was exalted in tenth
+house. As I was about to make the prediction lights of my residence went off. I thought for a while and said that he had to wait
+for promotion for some time. While we were discussing the promotion episode the light cameback. I told him that the promotion
+list that was to be issued within three days would not find his
+name. The next list would give him promotion. Exactly the same
+happened. Here the omen was light that helped me to reach right
+conclusion about the query. This prediction was made in the presence of other officers, who took the incident as a miracle.
+One more incident will reveal the utility of omens. One day a
+few persons were going to attend some important job. As soon
+as they came out of their office and sat in the car a boy aged
+around seven years crying loudly camebefore the car and also sat
+in front of the car. I noticed the event and advised the gentlemen
+to come back to office because the task for which they were
+going would not be accomplished. They did not heed the advice
+and went and came back without any gain but suffered some kind
+ofhumiliation there.
+There are many more events that can depict the importance of
+' omens or voice of nature. Any astrologer who is accustomed to
+listen to the voice of nature can make prediction even while movNew Dimensions of K.P Astrology
+
+ingon road. Every moment such omens are taking place around
+us. Sometimes we recognize them and beautifully blend in the
+prognostications of future. Horary astrologers must have keen
+observation about such omens while attending horary query. A
+few cognizable omens like entry of child into room, behaviour of
+child, direction occupied by querent who enters the room at the
+time of query, light gone off or come, falling down of water, telephone call and discussion made o ver telephone etc must also be
+taken into account. Besides that omens can be presented into
+any form, sound, shape etc by the nature and how these are to be
+apprehended depends on the intelligence of the astrologers. We
+intend to advise readers that many books provide information
+regarding utility and description of a particular omen but j udgement of astrologer on any omen is much more useful than any
+bookish knowledge.
+New Dimensions of K.P. Astrology
+
+Cuspal and Traditional Chart
+Indian astrology has divided the zodiac equally into twelve parts.
+Each part measures 30° in longitude, hence twelve parts count
+360° of zodiac. On the basis of this division sign or Rasi too has
+been considered to be of 30° in longitude. The chart prepared to
+read the results as per K.P. is called Cuspal chart and it is based
+on Placidus system of Arch division. How to work out cusp
+has been dealt with elaborately in previous chapters. The reading
+of nativities on the basis of Cuspal chart is western concept.
+Western astrologer goes more by astronomical principles than
+perception. They take into account degree-to-degree motion of
+the planets and the particular relation they form with other planets
+and cusps which is known as the phenomenon of aspects. This
+concept of aspect is also different from the Indian. As per Indian
+astrology each part of the zodiac is always 30° in longitude -
+neither more nor less while in Placidus system each house varies
+in longitudes. One house maybe of 30° or more than 30° or less
+than 30°. But the total of zodiac is always 360°. Cusp means the
+beginning of the house. Due to variation of longitudes in each
+house in Cuspal chart a planet seems to be placed in a different
+house when compared with that of the chart prepared as per Indian
+systems. This discrepancy creates confusion in the mind of
+astrologers and often put them in dilemma pertaining to the different
+placement of planets in Cuspal chart and Indian chart. It has been
+found by us that horary question must be solved through Placidus
+system i.e. Cuspal chart.
+Indian astrology recognizes the importance of sign (Rasi) and
+on the basis of it the strength of the planet is judged. In K.P. such
+importance has not been given to the sign and astrologers following
+PFi
+New Dimensions of K.P. Astrology
+
+it do not mind the planet which is placed in second house being
+placed either in ascendant or twelfth house in Cuspal chart. They
+are much more concerned with the longitudes of cusps and planets.
+Now the question is whether the importance of sign be recognized
+or not: Which method should be adopted to answer horary query?
+It is our humble suggestion the astrologer must always open his
+mind to welcome new ideas and new concepts. The importance
+of sign cannot be ignored and the relation between sign and planets
+viz. a cusp be studied properly. Sign ( Rasi ) shows the area of
+influence and also the strength, nature and behaviour of a planet in
+a particular area. Apart from that in many questions it is only
+through the help of sign that the queries are solved. Questions like
+theft, description of thief, direction where one will move etc are
+answered on the basis of the sign falling in a particular Bhava.
+Now the question is how to get rid of the discrepancies pertaining
+to placement of planets in Cuspal chart and Indian traditional chart.
+We are solving such a major discrepancy, which is explained with
+thehelp of examples: -
+Suppose a querent gives number 27 for any question. This
+question was solved on a particular date and time. Horary number
+27 means Taurus ascendant at 7°-0'-0". Now at this particular
+date let us say Venus is in Taurus sign at 4°-30'. Indian traditional
+method of casting horoscope shows Venus in ascendant while
+p
+Cuspal position shows Venus to be in twelfth house because 1st
+cusp begins from 7°-0'-0" and the longitude ofVenus is 4°-30’.
+Therefore, Venus will shift back to twelfth house. Astrologers must
+not read the influence of sign, planet and cusp separately but
+approach to integrated relationship among them. Now this
+approach of integrated relationship be applied to understand the
+effect as well as influence ofVenus over twelfth and first cusp.
+Venus is at 4°-30' and is in direct motion and is 2°-30' away from
+ascendant. It means Venus is advancing towards ascendant.
+Therefore the astrologer must predict that Venus in twelfth house
+shows temporary negations of query but the desire will be
+materialized in due courses of time because Venus being a fastmoving planet is ready to leave twelfth house and advancing toward
+New Dimensions of K.P. Astrology
+
+ascendant. Had this Venus been in retrograde motion then it would
+have been retracing back from ascendant and would be staying in
+twelfth house, which shows failure of query. Suppose querent
+would have given number 36 instead of 27. It means Taurus
+ascendant at 20°-26'-40". Venus in Taurus sign at 4°-30' is 1 6°
+away from ascendant. It means Venus will give the effect of twelfth
+cusp rather than ascendant. In order to get the result of next
+Bhava the planet must not be away from cusp more than 10°. If
+the planet is at less than 1 0° from the cusp of next BHava it is
+assumed to give the result of the same. Late Krishnamurti had
+included two or three houses to answer any question that showed
+that every house was concerned with another house and developed
+the integrated system of prediction. This integrated approach
+proved to be more fruitful than the unitary system of
+prediction followed by Indian astrologers.
+New Dimensions of K.P. Astrology
+
+PART — II
+Case Studies
+
+New Dimensions of K.R Astrology
+Oo
+to
+How will be the tenure in the office?
+?< Example No. - 1
+Planetary Position . Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 1 : One officer who was transferred to another place
+wanted to know how his tenure would be at the new place?
+Judgement : Horary No - 105
+When such type of questions are posed before the astrologer
+then a particular house is not judged but the strength of the whole
+New Dimensions of K.P. Astrology
+
+chart is to be judged. In this question the o fficer wanted to know
+whether his tenure would be peaceful or some dispute would arise.
+In that particular question the strength of ascendant and instant
+Vimshottari Mahadasha are to be judged.
+The sub-lord of first cusp Rahu is placed in ninth house in the
+star of the sun that is placed in twelfth house. Since sun, the lord
+of first cusp being placed in twelfth house is not conducive because twelfth is the negation of 1st cusp. The lord and star lord of
+eighth cusp mercury is placed in ascendant; that is again negative
+sign. It is also interesting to note that mercury is lord of second
+cusp placed in ascendant. Ascendant if twelfth to second cusp
+shows negation to second cusp. Therefore it can be safely said
+that this officer will not stay longer and will not have peaceful
+tenure.
+At the time of judgement the Mahadasha running was that of
+Saturn and Antardasa was of the Sun. Saturn was placed in the
+star of Rahu and i n the sub of Venus. Rahu was placed in ninth
+house while sub-lord Venus was placed in twelfth house. The subloid of Sun was Jupiter that was placed in twelfth house. Thus this
+Dasa and Antardasa might bring his shifting from present place
+because Decanate and Antardasanath are strongly related with
+twelfth house. Twelfth house not only shows mental tensions but
+also indicates unexpected journeys.
+New Dimensions of K.P. Astrology
+
+w Dimensions of K.P. Astrology
+Party will give ticket or not
+Example No. 2
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 2 : A young man desirous of contesting election on
+the ticket of a national level party posed the query whether he will
+get the ticket or not.
+He mentioned No. 5 1 .
+Horary No = 5 1
+New Dimensions of K.P. Astrology
+
+Analysis :
+1 . In order to ensure political success Vth cusp and Xlth cusp
+must have relation with each other and simultaneously must have
+connection with Jupiter and Mars. Jupiter and Mars together show
+courage as well as authority.
+2. This gentleman will get the ticket or not will be decided by
+the strength of ascendant.
+Ruling Planets^
+Ascendant lord = Mercury (R)
+Ascendant star 1 ord = Rahu
+Moon sign lord = Mercury (R)
+Moon star lord = Rahu
+Day lord = Venus
+Ticket will be given to him or not -
+1 . Ascendant is occupied by Saturn. Therefore ascendant is
+quite weak. Ascendant lord mercury is retrograde and lord of
+1 1 th house is also retrograde.
+Therefore there is no possibility of getting him ticket.
+2. The lord of Vth house Venus is debilitated.
+3. As has been described in previous chapter if one or more
+than one ruling planet is retrograde then desire is not fulfilled. Therefore, this young man will not be able to get the ticket.
+Comment: He was denied ticket.
+New Dimensions of K.P. Astrology
+
+New Dimensions of KP. Astrology
+Court Decision - 1
+Example No. - 3
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 3 : Aperson wanted to know the judgement of the
+court, which was to be delivered on 28-08-2000.
+Horary No - 161
+A case in the court was dragging in for a long time and the judgement was to be delivered on 28-08-2000. This person wanted to
+know whether the decision would be in his favour or not.
+New Dimensions of K.P. Astrology
+
+I declared that decision would not be delivered on 28-08-2000
+because of the following reasons :
+1 . Ascendant is not aspected by any planet. The sub-lord of
+first cusp is placed in the sub of Rahu, which is very slow planet
+and also placed in eighth house, a house of hindrance.
+2. It has been found by us in a number of cases if at the time of
+query Saturn and Moon are conjoined the matter is inordinately
+delayed. In this query Saturn and Moon are conjoined showing
+delay.
+3 . The sub-lord of eleventh cusp is Ketu which is a confusing
+and abortive planet But Ketu is aspected by Jupiter; therefore if
+will not give result against the interest of querent but will delay the
+matter and also maintain status quo of the case.
+Comment : The decision could not be delivered on 28-082000 and due to aspect of Jupiter over Ketu later on the case
+was sent back to district administration with the comment to
+settle the case within two months.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology
+Court decision - 2
+Example No. -4
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspai)
+Example 4 : AnI.A.S. officer’s case was running in the court
+and decision was to be delivered soon. She in anxious state of
+mind asked what would be the likely decision of court.
+Horary No - 49
+The court case was pertaining to her transfer to another state
+as a result of the division of the state. She did not want to go to the
+newly created state and wanted to stay in the original cadre.
+New Dimensions of K.P. Astrology
+
+Analysis :
+1 . The ascendant is aspected by Jupiter. The ascendant, lord
+Mercury too is aspected by Jupiter in ninth house showing fulfilment
+of her desire.
+2. The sub-lord of first cusp Saturn is one ofthe ruling planets
+again showing fulfilment ofher desire.
+3 . However it is to be noted here that at the time of judgement
+of query the Jupiter was retrograde showing delay. Moon and
+Saturn were together again showing delay.!
+I 'r
+On the basis ofthe above analysis if may be concluded that
+there maybe problems but she will stay in her original state.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K .
+to
+Decision delivered by lower court would be stayed or not?
+Example No. 5
+Planetary Position
+Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 5 : A gentleman from Delhi asked the question over
+telephone if the judgement delivered by lower court would be
+stayed or not.
+Horary No - 157
+A court of Delhi sentenced this gentleman for two years. I had
+already predicted the gentleman before the judgement that he
+New Dimensions of K.P. Astrology
+
+would be sentenced. The prediction came very true and he was
+sentenced and three months time was given to file an appeal against
+the order. This question now was asked in that reference.
+Analysis :
+Ascendant lord
+Ascendant star lord -
+Moon sign lord
+Moon star lord
+t'l
+r
+Ruling Planets
+Mars (R)
+Saturn
+Mercury
+Jupiter
+Day lord - Saturn
+*i
+1 . Lord of ascendant Mars is retrograde and placed in ascendant showing agiiatingmind. The sub-lord of 1st cusp Jupiter is
+pi aced in 7 th house aspects ascendant.
+Though ascendant is weak due to placement of retrograde Mars
+yet not completely damaged due to aspect of Jupiter over ascendant.
+2. The sub-lord of 1 1th cusp is Rahu, which is in the sub of
+mercury, the lord of 1 1 th house placed in 7th house. Therefore
+ascendant is aspected by two benefic planets and shows that decision given by the lower court would be cancelled.
+3 . It is also important to note here that in case of imprisonment
+either Rahu or Saturn must be strong significator of 1 2th house. In
+this query neither Rahu nor Saturn is the significator of 1 2th house.
+Therefore further sentence or imprisonment is out of question.
+4. At the time of query Jupiter Mahadasha and Venus Antardasa
+is running up to 27 May 2002. Venus being in the star of Mercury
+is stronger, then Mercury will bring relief to the querent. However
+the fine imposed on the querent by the lower court will not be
+reckoned due to aspect of Saturn over 1 2th house.
+New Dimensions of K.P, Astrology
+
+New Dimensions of K.P. Astrology
+Health - 1
+Example No. 6
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 6: A gentleman wanted to know about his health. He
+gave number - 46
+Horary No. 46,
+DOJ. = 08-03-02, TOJ =19-05, POJ= Shivpuri
+This gentleman was suffering from headache for the last three
+or four days and wanted to know the cause of it. Such questions
+must be studied from ascendant because health good - or bad -
+depends on the strength of the ascendant and the relationship of
+ascendant with that of other houses.
+New Dimensions of K.P. Astrology
+
+The following rules should be taken into account :
+( 1 ) If the sub-lord of ascendant is also the significator of sixth
+house the native never keeps good health.
+(2) If the sub-lord of sixth house is also the significator of
+ascendant.
+(3) If the sub-lord or lord of fifth cusp is placed in eighth house
+the native is likely to be apatient of migraine, brain tumour, etc.
+In the above question the sub-lord of first cusp is not having any
+connection with sixth cusp. The sub-lord of fifth cusp, Jupiter, is
+not placed in eighth house but having rulership over eighth house.
+Therefore eighth house is having connection with fifth as well as
+with ascendant. Therefore he is a patient ofheadache, which erupts
+occasionally. But this is not a dangerous case or neither showing
+any complex problem because neither fifth lord nor sub-lord of
+fifth cusp is posited in eighth house. This kind ofheadache is the
+result of mental exertion due to the fact that sub-lord of first cusp
+moon is also significator of third cusp (mental exertion) aspecting
+ascendant. This mental exertion may also be due to some secret
+activities of mind (connection of eighth to ascendant), which cannot
+be expressed, and native is again and again thinking over that.
+New Dimensions of K.P. Astrology
+
+100 New Dimensions of K.P. Astrology
+Health - 2
+Example No. - 7
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 7 : One man aged around fifty years posed a query
+regarding his health problems. He mentioned number 9.
+The question was judged on 09-09-03 at 4:13 PM. atMorena
+This man was always suffering either due to fever, diarrhoea or
+blood pressure. He is also weak in constitution.
+In order tp judge the question related with health ascendant is
+properly scrutinized along with six, twelfth and eighth houses.
+1 . The lord of first cusp i.e. Mars and sub-lord of first cusp i.e.
+Mercury both are retrograde. Rahu is placed in ascendant. In this
+way ascendant is fairly weak. Though aspect of Jupiter over
+ascendant will keep the native alive but he will always be ailing
+with various ailments.
+New Dimensions of K.P. Astrology
+
+2. The placement of either Rahu or Saturn in ascendant makes
+one to suffer from blood pressure. In this query Rahu is placed in
+ascendant showing high blood pressure.
+3 . The sub-lord of sixth cusp, i.e. Jupiter, denotes windy element
+Sub-lord of eighth cusp Mars denotes watery element and twelfth
+cusp sub-lord Rahu denotes fiery element Thus querent is suffering
+due to disequilibria of wind, water and fire elements.
+4. Since ascendant is completely spoiled there is no possibility of
+recovery. It is important to note that Rahu will note let him recover
+and Jupiter, due to aspect over ascendant, will not allow him to
+die.
+New Dimensions of K.P. Astrology
+
+w Dimensions of K.P, Astrology 103
+Improvement of financial position
+Example No. 8
+Planetary Position Cuspal Position
+
+Lagna
+Ni ray ana Bhava Chalit (Cuspal)
+Example 8 : A lady asked Ihe query when her financial position
+will improve.
+Horary No - 25
+For improvement in financial position either the sub-lord of second cusp or star lord in which sub-lord of second cusp is posited
+must have connection with eleventh cusp.
+New Dimensions of K.P. Astrology
+
+If the sub-lord of second cusp is also the significator of ascendant then it shows negation of the query.
+Analysis :
+(i) The sub-lord of second cusp Saturn is also the sub-lord if
+1st cusp. Therefore it shows negation of the query.
+(ii) Saturn is also the lord of eleventh cusp which shows slowly
+the financial position will improve.
+(iii) The ascendant lord Venus is placed which eleventh house
+in the sign of Saturn. Therefore the banking position will improve
+but with very slow pace due to influence of Saturn.
+At the time of judgement Mars Mahadasha was operating. Mars
+is placed in second house in the star of Rahu in the sub of Saturn.
+In this way Mars has got connection with second, sixth and eleventh. Thus Mars Mahadasha is more promising for loan, overdraft facilities etc. Through such facilities her financial position may
+improve.
+New Dimensions of K.P. Astrology
+
+106 New Dimensions of K.P. Astrology
+Reinstatement in service
+Example No. 9
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspai)
+Example 9 : One officer who was suspended wanted to know
+when he wouldbe reinstated in Job. He mentioned number 1 1 .
+Suspension is a temporary setback to continuous flow of money
+earned in the form of salary. In order to maintain its cycle the
+second house is given importance because second house denotes
+liquid assets and financial position with depreciated or improved
+banking position. Since matter is related with job sixth house (service) and eleventh house (fulfilment of desire) apart from second
+house are cons idered.
+New Dimensions of K.P. Astrology
+
+Ascendant lord
+Ascendant star lord
+Ruling Planets
+Mars (R)
+Venus
+Moon sign lord - Mars (R)
+t
+Moon star lord - Jupiter
+Day lord - Saturn
+It is always important to see the strength of ascendant
+irrespective of the nature of the query. Secondly for the quick
+fulfilment of desire ascendant must have connection with eleventh
+house.
+Analysis : (i) The ascendant lord Mars is retrograde and also
+posited in own star - showing failure of the question.
+(ii) Saturn is posited in ascendant.
+(iii) Thus ascendant is fairly weak.
+(iv) The sub-lord of second cusp Jupiter is in the sign of Mars,
+the lord of sixth house, and in the star of Ketu, which is placed in
+tenth house. Thus Jupiter becomes the significator because Jupiter
+is having connection with sixth house through sign not through star
+or sub.
+(v) Ascendant is not having connection with eleventh house.
+(vi) The positive feature is that sub-lord of eleventh cusp,
+Mercury, is placed in second showing maintenance of flow of
+money and increased bank position.
+( vii) From the above analysis it is evident that after delay and
+mental torture the querent will be reinstated with following
+conditions.
+(i) The salary of the suspension period will not be paid because
+the star lord of second cusp moon is debilitated.
+(ii) The sub-lord of sixth cusp is placed in twelfth house shows
+transfer after reinstatement
+(iii) The suspension will be revoked during Jupiter Mahadasha,
+New Dimensions of K.P. Astrology
+
+Moon Antardasa and Venus Pratyantara which runs from 2209-99 to 22-12-99. Venus is one of the ruling planets and also
+lord of second and is placed in third house. Venus is in the star of
+Jupiter, which is placed in twelfth house. Thus Venus is having
+connection with third, second and twelfth houses respectively.
+Note :
+The querent was reinstated on 1 0- 1 1 -99 and transferred to
+Rewa (M.R)
+New Dimensions of K.P. Astrology
+
+110 New Dimensions of K.P. Astrology
+Sex of the Child of the Fourth Son
+Example No. 10
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 10 : An old man wanted to know about the sex of
+the to-be-bom child of his fourth son. He mentioned No - 235
+Horary No. 235
+The father of a son who is fourth in number asked this question
+and the old man is a grand-father of to-be-bom child. If question
+is related with first son or daughter then Vth house is considered.
+For second, third children, 7th and 9th houses are considered
+New Dimensions of K.P. Astrology
+
+respectively. When the query is related with fourth son so 1 1th
+house is considered as the ascendant of IVth son. The query is
+related with the first child of fourth son - hence 3rd house is Vth
+(first child) to 1 1 th house (fourth son)
+Analysis : 1 The sub-lord of 3rd cusp is Rahu and lord of 3rd
+house is Venus. Venus and Rahu both are female planets i.e. first
+child will be a female child.
+2. The lord of 1 1th house is Saturn, which'is also a female
+planet.
+3 . The sub-lord ofV th cusp (7th to 1 1 th denoting wife of fourth
+son) is Rahu and the lord is moon. They both are female planets.
+Therefore the unborn child is likely to be female.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.R Astrology 113
+How Long One Will Stay at a Place
+Example No. 1 1
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 11: An officer who was transferred to Morena
+wanted to know how long he will stay in Morena. He mentioned
+Ruling . Planets
+Ascendant lord - Moon
+Ascendant star lord - Saturn
+" Moon sign lord - Moon
+New Dimensions of K.P. Astrology
+
+Moon star lord - Mercury
+Day lord - Mars (R)
+The question is not related with transfer. Transfer or shifting
+from a particular plad? tdkes place when significator of 3rd, 10th
+and 1 2th home operates.'
+Analysis of the query :
+1 . No - 74 as mentioned by querent denotes cancer ascendant,
+which is a movable sign. Moon, the planet of journeys, is placed
+in ascendant. Therefore this officer will not stay for a longer time
+at his present place.
+2. The sub-lord of 3rd cusp is Ketu, which is placed in IVth
+house in the star of Jupiter and in the sub of moon. Both Moon
+and Jupiter are placed in ascendant fourth house denoting present
+place. The sub-lord of 10th cusp is Jupiter, which is placed in
+ascendant. Therefore both Ketu and Mercury are not having
+connections witn 12th house. Therefore he is not likely to be
+transferred in near future.
+3. At- the time of query Mercury Mahadasha and Mars
+Antardasa is running up to 1 5-12-03. Since Mars is retrograde
+he will not be transferred up to 1 5- 1 2-03 .
+New Dimensions of K.P. Astrology
+
+116 New Dimensions of K.P. Astrology
+Will I Get Through P.G Exam of M.B.B.S?
+Example No. 12
+Planetary Position
+Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 12: Will I get through P.G examination of M.B.B.S?
+Horary No. 242
+A girl could not be selected in her first attempt for postgraduation degree after M.B.B.S. Second time she appeared in
+the competition and asked the question.
+Analysis : (i) The dasa of fourth, ninth and eleventh house must
+operate to ensure success in examination.
+New Dimensions of K.P. Astrology
+
+(ii) Significatois :
+(a) Fourth house : Mercury, Sun, Ketu. Mercury is strong
+significator being in its own star.
+(b) Ninth house : Ketu, Mars, Rahu
+(c) Eleventh house : Saturn
+Thus the Significators of above houses are: Mercury, Sun, Ketu,
+Mars, Rahu and Saturn.
+Asd lord
+Asd star lord
+Moon sign lord
+Moon star lord
+Day lord
+Ruling Planets
+Jupiter
+Mercury
+Saturn
+Jupiter
+Mars
+Mahadasha : Jupiter Mahadasha, Jupiter Antardasa and
+Mercury Pratyantara operate from 9-04-02 to 21-09-02. Jupiter
+is Lagan lord and very strong ruling planet because Jupiter is
+repeated twice among ruling planets. Mercury is the lord of fourth
+house and very strong Significators of fourth and ninth (star lord
+of ninth cusp) also eleventh house (in the sub of Saturn lord of
+eleventh). Thus this Dasa brought success to querent. Her result
+was declared on 15-04-02. At the time Mercury Pratyantara
+was operating.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology 119
+Success in P.G Examination of M.B.B.S.
+Example No. 13
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 13: One young lady doctor asked the question
+whether she would be selected in M.D. examination?
+Horary No - 64
+1- The sub-lord of 1st cusp, Mars placed in eleventh house,
+shows incomplete fulfilment of desire because the lord and star
+lord of 1st cusp i.e. Moon and Jupiter both areplaced in twelfth
+house. However sub-lord of 1st cusp is having connection with
+New Dimensions of K.P. Astrology
+
+eleventh house; therefore her desire would be fulfilled partially i.e.
+she may be selected for diploma course rather than degree.
+Mahadasha : At the time of judgement Rahu Mahadasha and
+Mercury Antardasa were running up to 1 2-06-02. Mercury, the
+lord of fourth house and one of the ruling planets, is retrograde.
+Therefore Mercury will not bring success to her. However Mercury
+is in the star of Moon, which is placed in twelfth house that she
+may go out of India for completion of her post-graduation in
+medicine. This too will happen when Mercury attains direct motion.
+Comments : It is imperative to mention here that to judge queries
+of various natures different houses are studied. But in horary
+astrology major thrust is always given to ascendant and 1 1 th house.
+A particular question may be tackled in various ways. It is not
+necessary every time to know the result of a particular question
+Significators of concerned houses maybe worked out Significators
+are worked out only when query seems to be affirmative by judging
+the strength of ascendant and 1 1 th house. If query seems to be
+negative then one should not proceed further. Even at the time of
+judgement of query, ruling planets indicate affirmation or negation
+of the query. The main object behind working out Significators it
+to reach out timing of events if query seems to be positive. In
+various examples given in the book Significators have not been
+worked out due to above reasons.
+New Dimensions of K.P. Astrology
+
+122 New Dimensions of K.R Astrology
+Success in Competitive Examination - 1
+Example No. 14
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 14 : A student appeared in competitive examination
+and exams were conducted on 17-10-2001,3-12-01 and 9-120 1 . Will the student get through in this exam? The grand-father of
+this boy asked this question.
+Horary No - 78
+The boy is the son of the eldest’s son of the querent Therefore
+fifth cusp will denote the ascendant of eldest grand son and fifth to
+fifth is ninth cusp. Hence ninth cusp will denote grandson.
+New Dimensions of K.P. Astrology 123
+
+1 . In order to get through any examination - whether it is competitive examination or college examination- the Dasa and
+Antardasa of 4, 9, and 1 1 must operate.
+2. The fourth house from ninth (grand son) is twelfth. 9th house
+from 9th is fifth and eleventh house from ninth is seventh. So houses
+12, 5 and 9 will be judged for the success of grandson.
+Significators :
+(i) Twelfth house : Mercury (lord of twelfth), Venus (in the star
+of Mercury), Rahu (sign occupied of Mercury and aspected by
+Venus): Thus the significator of twelfth cusp are Mercury, Venus
+and Rahu.
+(ii) Fifth house : Ketu, Mercury, Rahu, Sun, Moon, Mars.
+Note : How to find out significator has been described in
+chapter eight.
+Seventh house : Mars, Rahu, and Saturn
+Thus the significator are Mercury, Ketu, Venus, Sun, Moon,
+Mars, Rahu, and Saturn. All the planets are significators. The best
+method to sort out beneficial significators is to match them with
+rulingplanets at the moment of judgement.
+Ruling Planets
+Asd lord - Moon
+Asd star lord - Mercury
+Moon sign lord - Saturn
+Moon star lord - Sun
+Day lord — Moon
+Mahadasha operating : Sun Mahadasha and Jupiter
+Antardasa runs up to 27-04-02. Since Jupiter is not the ruling
+planet the boy will not get success in examination. The boy will be
+selected in Sun Mahadasha and Saturn Antardasa because Saturn is not only significators but also lord of seventh house i.e.
+eleventh to ninth house. Sun is placed in fifth house, which is 9th
+to 9th house. The Dasa of Saturn in Sun Mahadasha will operate
+from 27-04-02 to 7-05-03. In this Dasa and Antardasa too the
+Pratyantara of Mercury will bring success to the boy.
+New Dimensions of K.P. Astrology
+
+Purchase of Land - 1
+Example No. 15
+Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Guspal)
+Example 15 : A businessman wanted to purchase a land and
+he asked if the land would be gainful to him or not?
+Horary No - 161
+1 . For purchasing of land 4th, 2nd, 11 th and 1 2th houses are to
+be judged. The sub-lord of fourth cusp is Rahu, which is placed in
+6th house showing dispute in this land. It is important to note that
+whenever there is a connection between fourth and sixth house
+dispute arises.
+i 1 i
+New Dimensions of K.R Astrology
+
+2. The lord of 1st cusp, Mars, is placed in 12th house and
+ascendant is aspected by Saturn this shows weakening of
+ascendant. Saturn also aspects 4th house again showing some
+kind of disputes.
+3. Either the lord or sub-lord of 4th cusp is not having any
+connection with 1 1 th house i.e. this property will not fetch any
+gain to the buyer.
+4. To whom we deal is shown by 7th house. The placement of
+Saturn in 7 th house clearly indicates the doubtful integrity of the
+seller. On the basis of the above analysis we advised the querent
+not to purchase this land.
+Comment : Later on we came to know that this land was already
+sold to two persons who had filed cases in the court pertaining to
+the dispute.
+New Dimensions of K.P. Astrology
+
+128,1 ,f New Dimensions of K.P. Astrology
+Purchase of Land -2
+Example No, 16
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 16 : A woman wanted to purchase a land. When
+would the land be purchased?
+Horary No - 1 27
+Ruling Planets
+Ascendant lord - Venus
+Ascendant star lord - Mars
+New Dimensions of K.P. Astrology
+
+house. Mars, the significator of land, also aspects 1 1 th house.
+The star lord of 4th cusp. Sun, is also placed in 4th house being
+the lord of 1 1 th house - i.e. purchasing of the land is sure.
+Mahadasha : At the time of query Venus Mahadasha and
+Venus Antardasa was running up to 19-8-2003. Mars
+Pratyantara in Venus. But ofVenus Mahadasha would run from
+23-05-01 to 2-08-01 . During this time the land would be purchased. Actually for purchasing of this land advance money of
+Rs. 1 lakh was given to the seller on 3 1-05 -01.
+t
+New Dimensidns of K.P. Astrology
+
+New Dimensions of K.P. Astrology
+Admission of Son in Medical college
+. Example No. 17
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 17 : A lady from Lucknow asked the question, over
+telephone, whether her son would be able to get admission in
+medical college.
+Horary No - 57
+The question is about the only son of this woman. So 5th house
+will be taken as the ascendantof the son.
+New Dimensions of K.P. Astrology
+
+Analysis : The lord and sub-lord of 5th cusp is Venus, which is
+placed in 3rd house. Venus is posited in his own star and in the
+sub or Mercury, which is retrograde. Mercury too is placed in
+3rd house. 3rd lord, Sun, is also placed in 3rd house.
+2. Third house happens to be 1 1 th to 5th house. In this way
+1 1 th house is well fortified due to placement of three benefics.
+This ensures admission of son in medical college but he would
+have to wait because Mercury is retrograde but placed in 1 1 th
+house. As soon as mercury attains direct motion the son will get
+the admission.
+Ascendant lord
+Ascendant star lord
+Moon sign lord
+Moon star lord
+Day lord
+Ruling Planets
+Mercury (R)
+Jupiter
+Jupiter
+Venus
+Saturn
+3. As far as the desire of mother is concerned it is fulfilled
+because ascendant is aspected by benefic planet like Moon.
+Secondly the sub-lord of 1 st cusp Saturn is posited in the star of
+Rahu, which is placed in the 1 1th house showing fulfilment of desire.
+New Dimensions of K.P. Astrology
+
+134 I New Dimensions of K.R Astrology
+Determination of Sex of Child
+Example No. 18
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 18 : A man wanted to know the sex of the to-bebom child as his wife was in the family way.
+HoraryNo-124
+Analysis : The to-be-bom child will be female because of
+following reasons.
+(i) Horary ascendant itself foils in female sign.
+New Dimensions of K.P. Astrology
+
+(ii) The sub-lord of 5th cusp (1st child) Mercury is placed in 5th
+house. Therefore ascendant and 5 th cusps both are influenced by
+female planet.
+Comments : The wife of the querent gave birth to a female
+child on (4-5-00
+Certain rules related with the queries of the to-be-bom child
+and others:
+(i) In horary query the first child is denoted by fifth house. The
+second child is denoted by 7th house. The third child is denoted
+by 9th house, the fourth child is denoted by 11th house and so on.
+E.g. A couplehas three children. The eldest child will be shown
+by 5th house, the second child is shown by 7th house and the
+youngest child is shown by 9th house. The same rule will be
+applicable to the horoscope of either husband or wife.
+2. In order to make verdict over the to-be-bom child the fifth
+house of the querent mother or father will denote first child. As it
+is clear from the above query, for the sex determination of the tobe-bom second child 7th cusp will be considered.
+(iii) Adeep study of signs, planets and stars is must while making
+such type of predictions.
+(iv) Whatever maybe the nature of query the influence over
+ascendant must be properly considered.
+New Dimensions of K.P. Astrology
+
+w Dimensions of K.P. Astrology 137
+Will My Love Affair Materialize? — 1
+Example No. - 19
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 19 : A young man in love with a beautiful woman
+wants to know ifhis love affair would materialize or not:
+HoraryNo-165
+DOJ - 27-2-03, TOJ = 7 pm, POJ = Agra
+Rule: In order to judge such type of queries following rules
+should be kept in mind:
+(i) If the sub-lord of 5th cusp or lord of 7th cusp is having
+relation with 7th and 11th houses then love affair is materialized;
+New Dimensions of K.P. Astrology
+
+otherwise not.
+(ii) If the lord of 7th house is placed in 5th house then there are
+many love affairs.
+(iii) If the lord of 7th house is placed in 1 1 th house in its own
+sign, friendly sign or exaltation sign, then success is ensured in
+love affair.
+(iv) If the sub-lord of 7th cusp is Mercury and placed in dual
+sign, it denotes many love affairs.
+(v) If the sub-lord of 7th cusp or lord of 7th house is placed in
+2nd house many love affairs possible.
+Analysis of the query' : (i) The sub-lord ofV th cusp is Jupiter,
+which is placed in 8th house in the star of Saturn which is placed
+in 7th house. In that question the connection of 5th and 7th is
+formed to show akind of infatuation or attraction but will not turn
+into any bond of permanent ties because 11th house is not in the
+picture.
+(ii) The sub-lord and lord of 5th cusp, Jupiter, is retrogradere. love affair will not materialize and Jupiter having connection
+with Saturn will cause ultimate separation.
+New Dimensions of K.P. Astrology
+
+140 New Dimensions of K.R Astrolo \
+Will My Love Affair Materialize? - 2
+Example No. 20
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 20: A young lady wanted to know if her love affair
+would materialize or not.
+The sub-lord of 5th cusp Venus which is also the star of 11th
+cusp is placed in the star of Mars, the lord of find and 7th houses -
+i.e. there is a strong connection of 5th and 7th, ] 1th and 2nd housesi.e. love affair will be materialized but it will take time and face
+opposition due to placement of Ketu in ascendant.
+New Dimensions of K.P. Astrology 141
+
+Will My Love Affair Materialize — 3
+Example - No. 21
+Planetary Position Cuspal Position
+
+Lagna
+Example 19 : A young man poses the query if his love affair
+will materialize into marriage.
+Horary No - 1 65
+DOJ = 27-2-03, TOJ = 7pm, POJ = Agra
+Ruling Planets
+Ascendant lord - Mars
+Ascendant star lord — Mercury
+Moon sign lord - Saturn
+New Dimensions of K.P. Astrology 143
+
+Moon star lord - Sun
+Day lord - Jupiter (R)
+1. The sub-lord of 5th cusp is Jupiter, which is placed in the
+star of Saturn. Saturn is placed in 7th house. i.e. affairs may going
+on but will not materialize into marriage.
+2. If the-sub lord of 5th cusp is having connection with 6th and
+1 2th cusp then the boy and girl may be moving together, may
+have good relationship but will not have any sexual relationship.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology
+Entangled Money
+Example No. 22
+PLaoetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 22 : A clerk working in an institution gave a huge
+amount of money to a party. The party refused to pay back his
+money. Now the querent wanted to know whether his entangled
+money would be recovered or not?
+Horary No.- 74
+Either to borrow or to take overdraft facilities or recovery of
+money are all judged from the 6th house and there are certain
+rules in this regard.
+New Dimensions of K.P. Astrology
+
+Rules : 1 . The querent will not get back his entangled money if
+the sub-lord of sixth cusp is retrograde. The rule is also applicable
+to borrowing or overdraft facilities.
+(ii) The querent will get back his money if the sub-lord of 6th
+cusp is in direct motion. He may also get loan or overdraft facilities.
+(iii) If the sub-lord of 6th cusp is Saturn then after much mental
+torture one gets frenetic and only meagre sum - of what he expects.
+(iv) Mercury being the sub-lord of 6th cusp facilitates the help
+of mediators. The recovery is fast.
+(v) Jupiter indicates mediation of court.
+(vi) Government or court will help the querent if sub-lord of 6th
+house happens to be Sun.
+(vii) Both the parties will settle the matter amicably if either
+Moon or Venus happens to be the sublord of si xth cusp.
+The nature of the result will depend on the lord of constellation
+in which Rahu and Ketu are posited, if they happen to be sublord of 6th cusp.
+(ix) In the query related with either borrowing orrecovery of
+money the querent will get only 50% of what he expects i f Jupiter
+is aspectcd by Saturn.
+(x) The same result (ix) will be experienced if Jupiter is
+associated either with Saturn or Rahu.
+(xi) The use of force or threats i f Mars happens to be the sublord of 6th cusp.
+Analysis of the query : What will be the result of the query?
+1 . The sub-lord of 1 st cusp, Jupiter, is placed in 11th house
+showing money will be recovered. But, Jupiter being in
+retrogression will dealy the matter.
+2. The sub-lord of 1 st cusp, Jupiter, is also one of the ruling
+planets.
+3. The sub-lord IstofVIth cusp, Venus, is not retrograde. So
+above analysis shows that the querent will get back his entangled
+14T~I
+New Dimensions of K.P Astrology
+
+money. But he will get part of it - not full - because Jupiter is
+conjoined with Saturn and Rahu (Rule X).
+Ruling Planets
+in 1 1th house. This clearly shows that querent will have to satisfy
+himself with a part of the entangled money. He will not be able to
+get back his full amount.
+New Dimensions of K.P. Astrology
+
+New Dimensions of ICR Astrology 1 149
+Borrowing from Bank
+Example No. 23
+Planetary Position Cuspal Position
+
+Lagna
+Example 23 : Abusinessman wanted to take loan from bank if
+it is possible.
+Horary No. 146
+Rilling Planets
+Ascendant Lord - Mars
+Ascendant starLord - Jupiter
+Moon sign Lord - Moon
+New Dimensions of K.P. Astrology
+
+Moon star Lord - Mercury
+Day Lord — Mars
+Rule : One will borrow either from a friend or from an institution
+if the sub-lord of 6th cusp is posited in the constellation the lord of
+which i s not retrograde.
+Analysis : 1 . The desire of the querent will be fulfilled because
+ascendant is aspected by Jupiter and Venus along with S atum and
+Mars. The aspect of Mars over ascendant will not have deleterious
+effect because Mars itself is ascendant lord. However the aspect
+of Saturn over ascendant will delay the matter.
+2. The Sub-lord of 1 st cusp Moon placed in the star of Mercury
+is the lord of 1 1 th house but placed in 8th house again showing
+hindrance and impediment in getting the desire fulfilled. But
+fulfilment of desire is promised because ascendant is having
+connection with 1 1th house through Mercury.
+3. The sub-lord of 6th cusp is Rahu which is posited in the star
+of Jupiter and in the sub of Mars. Both Mars and Jupiter aspect
+ascendant, i.e. definately he will get the loan from bank.
+Comments : It is the rule of thumb of horary astrology and
+especially astrology based on K.P, if the sub-lord of 1st cusp
+becomes ruling planet then the desire of the querent, how odds it
+maybe, is fulfilled.
+2. In the query it is important to know that the native will not
+get the loan that he expects because Saturn is associated with
+Jupiter. It has been found by us if Saturn is assoicated with Jupiter
+the querent does not get what he expects but less.
+New Dimensions of K.P. Astrology
+
+162 New Dimensions of K.P. Astrology
+fr ■
+Example No. 24
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 24 : Avery influential man ofAgraneeds some money.
+He wanted to borrow it from one of his relatives. Whether he will
+get or not?
+Horary No. - 3
+Analysis : The sub-lord of 6th cusp Saturn is posited in the
+constellation on Sim and in the sub ofMercwry. Saturn is placed in
+Ilnd house while Sun and Mercury are placed in 4th house. Saturn
+is also associated with Jupiter in 2nd house which shows the
+New Dimensions of K.P. Astrology
+
+borrowing amount will be less than what he expects to borrow. At
+Comments : Since sub-lord of 6th cusp is related with 2nd
+house and with the Sun (Saturn being in the constellation of the
+Sun) either eldest brother (2nd house is 1 1 th to 4th house) or any
+financial institution (due to Sun) will give loan to this man.
+2. We came to know that he borrowed from a bank.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.F Astrology 155
+Litigation
+Example No. 25
+Planetary Position Cuspal Position
+
+Lagna
+Example 25 : An old man with many problems in the mind
+posed a query about litigation regarding his property.
+Horary No - 5
+DOJ = 14-1-03, TQJ = 4:50 pm, POJ-Shivpuri (M.P.)
+Analysis : 1 . For litigation always takes 6th cusp. If there is
+property, service matter etc are always judged from the 6th house.
+This question is about the property litigation.
+New Dimensions of K.P. Astrology
+
+2. Adispute may arise if the lord of 11 th house or sub-lord of
+1 1 th cusp is placed in 6th house.
+3 . Sub-lord of 4th cusp Ketu is placed in 8th house along with
+Venus. The lord of 1 1 th house mercury though retrograde is placed
+in the star of Venus. Ketu is having connection with 8th house
+which shows delay and impediments. But both the parties will
+reach an agreement out of court due to Venus. Venus, the sublord of 1 1 th cusp, is associated with 1 1 the cusp sub-lord Ketu in
+8 th house. So the matter will be settled amicably.
+Comments : It is to be noted in this particular question that
+querent himself was in a state of confusion and there is likely to be
+many questions in his mind. It is evident from the fact that at the
+time of query Moon and Rahu were together. This shows ingenuity
+or insincerity of the question.
+New Dimensions of K.P. Astrology
+
+158 New Dimensions of K.P. Astrology
+When Will Marriage Take Place?
+Example No. 26
+Planetary Position Cuspal Position
+
+Example 26: A girl asked the question when she would get
+married?
+Horary No. 217.
+Analysis : 1 . The lord of 1 st cusps, Saturn, is debilitated and
+placed in 2nd house - it shows delay in fulfilment of disire.
+2. Satrun is placed in the star of Venus which is a natural
+New Dimensions of K.P. Astrology
+
+significator of marriage. Venus is star and sub-lord of 7th cusp
+and also sub-lord of 1 1 th cusp placed in 1 1th house i.e. desire will
+be fulfilled.
+Ruling Planets
+Ascendant lord - Saturn
+Ascendant star lord - Rahu
+Moon sign lord - Sun
+Moon star lord - Venus
+Day lord - Sun
+Mahadasa : Venus Mahadasa, Rahu Antardasa from 20-22002 to 25-1-2003. The marriage took place in Sep. 2002, because Venus and Rahu both are ruling planets as well as strong
+significators of marriage.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology I 161
+Second Marriage
+Example No. 27
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 27 : A lady aged about 38 years wanted to get
+remarried. Is Remarriage possible or not?
+Horary No. 49
+For more than one marriages following rules will help:
+Rule 1 - The sub-lord of 1 st cusp either be Mercury or J upiter.
+2. The sub-lord of 7th cusp be either Mercury or Jupiter or any
+other planet but must have occupied dual sign in horary chart
+New Dimensions of K.P. Astrology
+
+3 . The sub-lord of 7th cusp must have connection with 2nd as
+well as the 7th house.
+Analysis : On the basis of above rules it can be predicted that
+she will not get remarried because the sub-lord of 7th cusp is
+neither Mercury nor Jupiter. Secondly the sub lord of 7th cusp i.e.
+Saturn is not in dual sign.
+Comments : Rules to judge polygamy, polyandry and illegal
+marital affairs.
+1 . There will be discord in married life if the sub-lord of 7th
+cusp is Mercury and placed in 6th house.
+2. If the sub-lord of 7th cusp is Mercury and is also placed in
+dual sign indicates more than one marriage or many pre-or-postmarital affairs.
+3 . Same rule can be applied to Jupiter also.
+4. The question related with marriage will be negative if the
+sub-lord of 7th cusp is posited in the star of a retrograde planet.
+There will be delay and hurdles in marriage if sub-lord of 7th cusp
+itself is retrograde.
+5. The querent will have more than one affair if a sub-lord of
+7th cusp is having connection with 2nd house. There is possibility
+of illegal affairs if Saturn or Mars being the sub-lord of 7th cusp is
+placed in 1 1th house.
+6. There will be inordiate delay in marriage if at the time of
+judgement of query moon is having any type of connection with
+Saturn.
+7. The activities of the native would be doubtful if 7th lord or
+sub-lord of 7th cusp is conjoined with Rahu and placed in 8th
+house.
+8. There is possibility of love marriage if the sub-lord of 5th
+cusp is posited in the constellation the lord of which is having
+connection with 7th as well as 8th houses.
+9. The sub-lord of 7th cusp and the star lord in which sub-lord
+is posited indicates about height, colour, nature, behaviour, merits
+etc. of the future husband and wife.
+New Dimensions of K.P. Astrology
+
+1 0. Whether there will be harmony or discord between husband
+and wife is to be decided by the sub-lord of 1st cusp and 7th
+cusp. Ifboth the sub-lords are friendly to each other there will be
+harmony between the couples. Ifboth the sub-lords are enemy to
+each other there will be discoid beweenthem.
+1 1 . If the lord of 7th house or sub-lord of 7th cusp is posited in
+11th house native gains through wife.
+Above cited rules have been found to be absolutely correct by
+us after a long research. It is our humble request to esteemed
+readers that they must not reach the conclusion in haste while
+dealing with the question related with marriage, character, etc.
+Any wrong verdict may spoil someone's life.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology 165
+Integrity of Partner
+Example No. 28
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 28 : Abusinessman questioned the integrity ofhis partner
+and desired to know whether his partner could be trusted.
+Horary No. 141
+This businessman had a court case which had been dragging in
+for a long time in court. The dispute is over a piece of land. The
+man who wanted to help this businessman was none but the
+advocate of the other party. The businessman now wanted to
+know if the lawyer of the opponent party could be trusted or not.
+New Dimensions of K.R Astrology
+
+Analysis : The sub-lord of 7th cusp is Saturn. Saturn is placed
+in 8th house. 8th house shows inimical and secret activities. Saturn
+itself is the planet of secret activities.
+2. Saturn is placed in the star of Rahu which is placed in 7th
+house. Rahu is by nature a malefic and untrustworthy planet.
+3. 7th house is also aspectedby Mars. In this way7th house is
+under the influence of worst malefics.
+4. This lawyer can not be trusted.
+New Dimensions of K.P. Astrology
+
+168 New Dimensions of K.P. Astrology
+Well-being of Wife
+Example No. 29
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 29 : A man in anxious state of mind wanted to know
+about the well-being of his wife.
+Horary No. 103
+DOJ = 15-2-03, TOJ = 7:18 PM, POJ - Shivpuri (M.P.)
+j
+The man who asked this query was recently tranferred from
+Bastar (a district in M.P.) to Shivpuri. Due to failure of telephone
+lines ofBastar district, he was not able to make any contact with
+New Dimensions of K.P. Astrology
+
+his wife. So he was very much anxious to know about her welfare.
+Moon reveals the nature of query. Moon is in star of Saturn which
+is lord of 7th house. Therefore the question is related with wife
+and confirmed. Saturn is planet of morbidity and gloom i.e. native
+is having unnecessary fear about the well-being of his wife.
+Analysis : The sub-lord of seventh cusp is Venus. Venus is
+posited in its own star and it denotes that at the time of query wife
+is staying in the house. She is perfectly all right due to the aspect
+of Jupiter and Saturn over seventh house.
+2. The lord of seventh house Saturn is retrograde and aspects
+seventh house denoting that wife is feeling depression-like
+condition. I told him that she was perfectly all right and had been
+missing; him therefore she had been feeling depression-like
+condition.
+3 . Next day the querent left for Bastar and telephoned me onl 62-03 at 8 pm to say that my analysis was absolutely correct.
+Comments : Question related with wife, husband, marriage,”
+second marriage, integrity o f partners, intergrity of the person with
+whom we deal, polygamy, polyandry etc. are judged from 7th
+house along with 2nd and 1 1 th houses.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology 171
+Appointment of Wife
+Example No. 30
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 30 : When my wife will be appointed? '
+Horary No. 145
+In job related questions houses 2, 6, and 1 0 are judged. Since
+the question is related with the wife of the querent i.e. 2nd, 6th
+and 1 0th are to be reckoned with 7th house and 4th house is 1 0
+to 7th house. Thus houses 8th, 1 2th and 4th will be judged for this
+question.
+New Dimensions of K.P. Astrology
+
+Analysis :
+Ascendant lord -
+Ascendant star lord -
+Moon sign lord -
+Moon star lord -
+Day lord -
+Ruling Planets
+Venus
+Jupiter
+Moon
+Mercury (r)
+Venus
+What will be the result of query? The desire of the querent
+will be fulfilled due to the following reasons:
+1 . The sub-lord of 1 st cusp i.e. Moon is placed in the star of
+Mercury. Mercury is placed in 1 1th house. Mercury is retrograde.
+As has been said in previous chapters that if star lord or sub-lord
+of 1 st cusp, though retrograde, is placed in 1 1th house the desire
+is fulfilled after some delay and obstacles (delay is due to
+retrogression).
+2. The sub-lord of 1st cusp Moon is one of the ruling planets.
+3. Mercury is also ruling planet.
+Therefore on the basis of analysis the desire of the querent will
+be fulfilled. Now the question is when she will be appointed: for
+timing of event significators of 8 th, 1 2tb and 4th cusps are taken
+into consideration.
+Eighth cusp : Rahu, Jupiter, Venus, Mars are the significators
+of 8 th cusp.
+Twelfth cusp : Venus, Mars are significators of 1 2th cusp.
+Fourth cusp : Satrun is the lone significator of the IV th cusp.
+Thus the common significators are Rahu, Jupiter, Venus, Mars,
+Saturn.
+At the time of judgement ofthe query Mercury Mahadasa and
+Venus Antardasa were opearting. Mercury is placed in the star
+of Mars which is strong significator of 2nd and 6th house. The
+appointment letter will be given to her when Mercury will attain
+direct motion. Mercury got direct motion on 23- 1 0-01 and the
+wife of querent was appointed on 1 2- 1 1 -200 1 . /
+New Dimensions of K.P. Astrology
+
+174 New Dimensions of K.R Astrology
+Foreign Journey
+Example No. 31
+Planetary Position Cuspal Position
+
+Nirayana Bhava Chalit (Cuspal)
+Example 31 : A gentleman posed the query if he will go abroad
+in near future.
+Horary No. 131
+Ruling Planets
+Ascendant lord - Rahu
+Moon sign lord - Venus
+Moon star lord — Venus
+New Dimensions of K.P. Astrology
+
+Moon star lord - Jupiter
+Day lord - Sun
+In order to undertake foreign journey the following rules are
+important:
+Rule 1 : If the lord of ascendant is either placed in ascendant
+or in 9th house then one definitely goes to foreign country.
+2. If the lord of 9th house is placed in ascendant in horary
+chart.
+3 . If the sub-lord of 1 1 th cusp is in direct motion and having
+connection with 9th and 1 1th houses.
+Analysis : 1 . For foreign journey 9th, 1 2th and 1 1 th houses
+are studied.
+2. In the above horary chart rule (1) and (2) are absent.
+However rule (3) is partially present.
+3. The sub-lord of 1 1 th cusp is Mercury which is placed in the
+star of Saturn and Saturn is debilitated. Therefore there is no
+possibility of going to foreign country in near future.
+Foreign visit when? At the time of query Jupiter Mahadasa
+and Saturn An ta rdasa were operating upto 9-5-01. Jupiter is
+related with 7th, 3rd cusps and aspects 12th cusp. Therefore
+Jupiter Mahadasa will take him abroad. But Saturn will not help
+because it is debilitated as well as is not the ruling planet. Mercury
+and Ketu Antardasa will also not be helpful because both are not
+the ruling planets. The Venus Antardasa in Jupiter Mahadasa
+which will start from 20-7-04 will take him abroad because Venus,
+one of the strong ruling planets, is placed in the star of Mercury,
+the ruler of 9th as well as 12th house.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology 177
+Transfer - 1
+Example No. 32
+Planetary Position
+Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 32 : An officer wanted to know about his
+transfer.
+Horary No. 9
+Houses 3,10 and 1 2 are judged for transfer. Here 1 0th house
+is important because 1 0th house shows place of work. If
+significators of 3 , 1 0 and 1 2 are operating, one gets transferred. If
+significators of 3, 9 and 1 2 are operating, one proceeds on leave.
+New Dimensions of K.P. Astrology
+
+Therefore houses 9 and 1 0 have different influence. 1 Oth cusp
+shows transfer due to employment while 9 shows shifting of place
+either due to enjoyment or due to leave.
+Ruling Planet
+Ascendant lord -- Mars
+Ascendant star lord - Ketu
+Moon sign lord - Venus
+Moon sign lord - Mars
+Day lord - Venus
+Significators 3rd cusp - Jupiter, Mercury
+10th cusp - Mercury, Saturn
+12th cusp - Mars, Moon, Rahu
+Inthiswaysignificatorsof3, 10 and 12 are Jupiter, Mercury,
+Saturn, Mars, Moon, Rahu.
+Mahadasa : Mars Mahadasa and Moon Antardasa are
+operating from 22-2-02 to 1 8-8-02.
+Mars is placed in 12th house. Moon is posited in the star of
+Mars showing 1 2th house. The transfer is likely to take place in
+Mars Mahadasa Moon Antardara and Venus Pratyantar . Moon
+is very strong significator being in the star of Mars, the ruling planet
+Venus is also one of the ruling planets posited in 1 1th house showing
+fiilfilmentof desire. This Dasa will operate from 11-7-02 to 168-02. During this period transfer is likely to take place.
+New Dimensions of K.P. Astrology
+
+180 New Dimensions of K.P.
+Transfer-2
+Example No. 33
+Planetary Position Cuspal Position
+
+Lagtia
+Nirayana Bhava Chalit (Cuspal)
+Example 33 : ‘Is my transfer posited?’ - Asked by an officer.
+Horary No. 141
+Analysis Ruling Planet
+Ascendant lord — Venus
+Ascendant star lord - Jupiter
+Moon sign lord - Mars
+Moon star lord - Ketu
+Day lord - Saturn
+New Dimensions of K.P. Astrology
+
+10th house
+12 th house
+Moon, Saturn
+Mercury, Sun, Ketu
+Mahadasa : Ketu Mahadasa Jupiter Antardasa, Venus
+Pratyantara from 16-5-02 to 12-7-02. Venus is placed in its
+own star and in the sub of Jupiter. In this way Venus is representing three ruling planets viz Venus, Mars (due to occupation of
+sign) and Jupiter (being in sub of Jupiter). The native was transferred on 17-6-02.
+Comment : It is to be noted whenever any particular event is
+to be materialized the role of ascendant lord is always very important to precipitate the event. In the query Venus, the ascendant
+lord, played the same role, though Venus was not significator of
+the concerned houses.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology 183
+Planetary Position
+Transfer— 3
+Example No. 34
+Cuspal Position
+
+Lagan
+Nirayana Bhava Chalit (Cuspal)
+Example34. ‘Is my transfer possible?’
+Horary No. 129
+DOJ = 10-1-03, TOJ = 9:50 am, POJ = Shivpuri (M.P.)
+Ruling Planets
+Ascendant lord - Venus
+Ascendant star lord — Mars
+Moon sign lord - Jupiter (R)
+Moon star lord - Mercury (R)
+Day lord - Venus
+New Dimensions of K.P. Astrology
+
+Significator :
+3rd house = Mercury, Sun, Moon, Jupiter
+1 Oth house = Jupiter, Mars, Moon, Rahu
+1 2th house = Mercury, Moon, Jupiter
+Thus the common significator of houses 3, 10 and 12 are
+Mercury, Sun, Moon, Jupiter, Mars, Rahu.
+Mahadasa : Mercury Mahadasa, Sun Antardasa upto 2-101. Dasanath : Mercury as one of the ruling planets and significator
+of transfer is retrograde; therefore Mercury will give the results
+when it will attain direct motioa
+2. Bhuktinath : Sun being the lord of 1 1 th house and placed in
+3rd house signifies transfer. Sun is placed in the star of Venus, the
+ascendant lord; so will act as the agent of Venus.
+3. Mercury Mahadasa Sun Antardasa and Venus Pratyantar
+will operate from 6-8-03 to 27-9-03 and will bring about the
+transfer of the native.
+Comments : The native was transferred on 5-8-03 and joined
+new place on 6-8-03.
+New Dimensions of K.P. Astrology
+
+186 New Dimensions of K.R A
+Pormotion -1
+Example No. 35
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 35 : ‘When will 1 get promotion?’ Query posed by
+an officer.
+Horary No. 12
+DOJ = 3 1 -1 -03, TOJ = 9:55 am, POJ = Shivpuri
+For promotion houses 2, 6, 10, 11 are considered. 6 and 10
+houses both are related with job and employment. 6th house
+denotes subordinate position while 1 0th house shows commanding
+position. With each promotion there is an increase in salary (2nd
+house) as well as authority ( 1 0th house).
+New Dimensions of K.P. Astrology
+
+Analysis Ruling Planets
+Ascendant lord - Mars
+Ascendant star lord - Venus
+Moon sign lord - Saturn (R)
+Moon star lord - Sun
+Day lord - Venus
+Other ruling planet — Rahu
+Significators :
+2nd house : Saturn, Mars, Ketu
+6th house : Mercury, Jupiter
+I Oth house : Sun, Moon
+I I th house : Saturn, Mars, Ketu
+Thus the common significators ofhouses 2,6, 1 0, 1 1 are Saturn,
+Ketu, Mars, Mercury, Jupiter, Sun, Moon.
+Mahadasa : 1 .Sun Mahadasa, Jupiter Antardasa upto 132. Sun Mahadasa Saturn Antardasa will run from 13-10-03
+3. Sun Mahadasa Venus Antardasa from 7-12-05 to 7-12In Jupiter A ntardasa promotion is not possible because Jupiter
+is not the ruling planet. Saturn is retrograde. Venus Antardasa
+will give promotion because Venus is placed in the star of Ketu
+which is the sub-lord of 1 1th cusp and also conjoined with ascendant
+lord Mars i.e. Ketu will act as an agent of Mars and representative
+of 1st cusp.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P, Astrology 189
+Promotion - 2
+Example No. 36
+Planetary Position Cuspal Position
+
+Nirayana Bhava Chaliti Cuspal)
+Example 36: Aman who is working in Indian Railways wanted
+to know about his promotion.
+Horary No. 28
+Analysis Ruling Planets
+Ascendant lord - Venus
+Ascendant star lord - Sun
+Moon sign lord - Venus
+Moon star lord - Sun
+Day lord - Jupiter
+New Dimensions of K.P. Astrology
+
+Significators :
+2nd house : Mercury, Rahu
+6th house : Mars, Ketu, Mercury. Rahu
+I Oth house : Ketu, Saturn, Venus, Saturn, Jupiter
+I I th house : Jupiter, Saturn, Jupiter
+The common significator ofhouses 2, 6, 1 0 and 1 1 are Mercury,
+Rahu, Mars, Ketu, Saturn, Venus, Jupiter.
+Mahadasa : Sun Mahadasa, Venus Antardasa and Satun
+Pratyantar upto may 1 999.
+1 . Saturn is important significator of pormotion. Saturn is also
+sub-lord of 1 1 th cusp as well as 6th cusp and also lord of 1 0th
+house placed in 1 2th house. It denotes promotion along with
+transfer (the placement of Saturn in 1 2th)
+Comments : The querent was promoted in may 99 and
+simultaneously transferred to a nearby place.
+New Dimensions of K.P. Astrology
+
+192 New Dimensions of K.P. Astrology
+Planetary Position
+Promotion -3
+Example No. 37
+Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 37: An officer desired to know about his promotion.
+Horary No. 163
+DOJ = 22-8-00, TOJ = Iff-: 59 am, PQJ = Agra
+Analysis <> Ruling Planets
+Ascendant lord - Mars
+Ascendant star lord - Mercury
+Moon sign lord - Mars
+Moon star lord - Sun
+Day lord - Mars
+New Dimensions of K.P. Astrology
+
+1 . Promotion in near future is not possible because Mars, the
+ascendant lord, Moon, the sign lord, and day lord is debilitated.
+2. Promotion will take place because sub-lord of 1st cusp,
+Mars,isoneofthemlingplanets. (An important ruling of the author.)
+3 . An important condition for the fulfilment of desire:
+Significators :
+2nd house : Ketu, Sun, Mercury, Jupiter, Rahu
+6th house : Jupiter, Rahu, Saturn, Venus
+1 Oth house : Mercury, Mars
+1 1th house : Venus
+Thus common significators are Ketu, Sun, Mercury, Jupiter,
+Rahu, Saturn, Venus, Mars.
+Mahadasa : 1 . Sun Mahadasa and Mars Antardasa will run
+2. Sun Mahadasa and Mercury Antardasa will run from 8-8Since Mars is debilitated its Antardasa will not bring promotion
+to him. The promotion is likely to take place in Sun Mahadasa,
+Mercury Antaradasa and Venus Pratyantar which will run from
+9-10-03 to 30-11-03 because Venus is the significator of 2nd,
+6th and 11th houses.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology
+Promotion-4
+Example No. 38
+Planetary Position Cuspal Position
+CO,
+OI
+
+Nirayana Bhava Chalit (Cuspal)
+Example 38 : A senior officer in queue to promotion wanted
+to know when he would be promoted to the post of manager.
+Horary No. 129
+The question is related with the post of manager. Since the post
+enjoys power and authority as well as facilities. Mars, Jupiter and
+Venus must be considered along with ascendant, sixth, tenth and
+1 1 th houses. The relation of Mars and Jupiter must be seen in
+order to gain power and authority in any field of life, whether it is
+political post or service matter.
+New Dimensions of K.P. Astrology
+
+What will be the res ult of desire
+1 . ITie ascendant lord Venus is placed in eleventh house showing
+fulfilment of desire.
+2. The sub-lord of first cusp is placed in tenth along with Venus
+showing power and authority to the querent.
+3. Ascendant is having connection with eleventh as well as with
+tenth houses.
+4. The placement of Ketu in ascendant is a negative sign
+showing delay and hurdles in the fulfilment of desire.
+5. From above analysis it is clear that desire of the querent is
+fulfilled but with some delay and obstacles.
+When his desire will be fulfilled ?
+Analysis Ruling Planets
+Ascendant lord - Venus
+Ascendant star lord - Mars (R)
+Moon sign lord - Moon
+Moon star lord - Mercury
+Day lord - Mars
+Others - Rahu, Ketu
+Significators :
+2nd house : Mars
+6th house : Jupiter, Ketu
+10th house : Moon, Sun. Jupiter, Mercury, Rahu, Ketu
+1 1 th house : Venus, Mercury, Sun, Moon, Mercury, Rahu.
+Thus the common significators ofhouses 2, 6, 1 0 and 1 1 are :
+Mars, Jupiter, Ketu, Moon, Sun, Mercury, Rahu, Venus.
+Mahadasa : 1 . Mercury Mahadasa - Mercury Antardasa
+runs upto 3.02.04.
+Mercury is the significator of 1 0th and 1 1 th cusp. Ketu is the
+significator of sixth, tenth and eleventh (star lord of eleventh cusp)
+and also posited in the sign of Mars and in the star of Jupiter. Thus
+the connection of Mars and Jupiter is established. In this way
+Ketu Antardasa will promote the querent to the post of manager
+before 3-02-05.
+Comments: The querent was promoted to the post on 1 6-07New Dimensions of K.P. Astrology
+
+198 New Dimensions of K.P. As
+Promotion-5
+Example No. 39
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 39 : A branch manager-rank officer of State Bank of
+India wanted to be senior manager. He asked when he would be
+promoted.
+Horary No. 127
+Analysis — Ruling Planets
+Ascendant lord - Venus
+Ascendant star lord - Mars (R)
+Moon sign lord - Sun
+New Dimensions of K.P. Astrology
+
+Moon star lord - Ketu
+Day lord - Mercury
+Significators
+2nd house : Mars
+6th house : Jupiter, Ketu
+I Oth house : Moon
+I I th house : Jupiter, Mars, Sun, Venus, Ketu, Mercury, Rahu
+Thus the common significators are- Mars, Jupiter, Ketu, Moon,
+Mercury, Sun, Venus, Rahu.
+Mahadasa : Ketu Mahadasa - Venus Antardasa runs upto
+24-12-03. Ketu is the significator of sixth and eleventh cusp while
+Venus being significator of first cusp is also the significator of
+eleventh cusp. Therefore this Dasa may bring promtion to him.
+Comments : There maybe a doubt in the minds of readers as
+to why Venus Antardasa and why not the Sun Antardasa will
+bring promotion to him. The reason is that the sub-lord of the Sun
+is Saturn which is a slow and delaying planet, while Venus is not
+only ascendant lord but also in the sub of Mercury, a fast moving
+planet, in the eleventh house. The promotion does not involve
+enhanced power and authority because branch manager and senior
+manager both posts almost have same power and authority;
+therefore Mars and Jupiter are not assoicated with promotion,
+giving planets.
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.P. Astrology \201
+‘Will I Become District Magistrate or not?’
+Example No. 40
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 40 : A young and dynamic I. A.S. officer wanted to
+be D.M. She asked when she would be made D.M.
+Horary No -122
+Analysis :
+1 . The sub-lord of eleventh cusp, Jupiter, is retrograde and
+placed in ascendant Jupiter is posited in its own star i.e. star lord
+is also retrograde showing failure of the desire.
+2. Tenth house is occupied by Satum. Saturn shows
+subordination; therefore, she will have to work in subordinate
+New Dimensions of K.P. Astrology
+
+position.
+3 . In order to desire power and authorities Mars and J upiter
+must have connection with tenth house. Mars is posited in the star
+ofRahu and in the sub of Jupiter. Jupiter is retrograde; therefore
+she is not likely to become D.M. at least till 3 0 June 06.
+4- The sub-lord and lord of tenth cusp is mercury. Mercury also
+shows assistant position; not commanding position. Therefore
+up to 30-06-06 she would have to work as deputy or
+additional officer under someone.
+New Dimensions of K,P. Astrology
+
+204 I New Dimensions of K.P. Astrology
+Lost Gold Chain - Will be Recovered or not?
+Example No. 41
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 41 : An old woman lost her gold chain and wanted
+to know if it would be recovered or not.
+Horary No - 27
+This woman hcrsel f was not clear whether she forgot to keep
+the chain at some place or someone had stolen it. The confusing
+state of mind is due to the following factors:
+1 . The significator of mind. Moon, is debilitated; hence showing
+uncertainty of thoughts. Mercury, the planet of wisdom, is also
+afflicted due to association with Mars and shows blunt and agitating
+state of mind.
+New Dimensions of K.P. Astrology
+
+2. The sub-lord of seventh cusp is mercury, which is posited in
+the star of Rahu in association with Mars in second house.
+Placement of Mercury in the star of Rahu shows a case of lost
+memory. Mercury posited in second house denotes the chain is in
+the house.
+3 . The lord of seventh house Mars is placed in second house
+and seventh house is occupied by Moon. Mars denotes a young
+man and Moon denotes a young and beautiful lady. Both have
+kept the chain somewhere in order to play mischief with the old
+lady with the object of harassment.
+Will the chain be recovered? It is shown by ascendant as well
+as eleventh cusp.
+1 . The lord and star lord both are placed in third house showing
+she has to make efforts to get back her chain.
+2. The sub-lord of eleventh cusp, Saturn, is placed in twelfth
+house, which is second to eleventh. The second house
+automatically involves if the question pertaining to recovery of
+money or recovery of lost article is concerned.
+3. However Saturn due to its nature will delay, torment and
+torture and when hope is given up the same Saturn will fulfil the
+desire.
+Ruling Planets
+Ascendant star lord - Venus
+Ascendant lord - Sun
+Moon sign lord - Mars
+Moon star lord - Mercury
+Day lord - Jupiter
+At the time of judgement of query Mercury’s Mahadasha,
+Venus 'Antardasa and Sun Pratyantara were operating. Since
+Dasanath, Bhuktinath and Pratyantara lords are ruling planets
+the lost chain will be found.
+The lady informed after seven of eighth days that she got her
+lost chain.
+Comments : The eleventh house is considered for the recovery
+of lost articles or lost money or stolen articles. The description of
+the thief or the persons involved in mischievous activities is made
+from the seventh house.
+In such type of cases houses seventh and eleventh are to be
+considered with a serious consideration of ascendant.
+New Dimensions of K.P. Astrology
+
+Dimensions of K.P. Astrology 207
+Lost File - Will It be Found
+Example No. 42
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 42 : An important file of an officer who was posted
+in Sagar district was missing. The officer now wanted to find out
+this file. Will it be found?
+Horary No - 40
+DOJ = 13-04-02, TOJ = 12:50pm, POJ = Bhopal
+Analysis Ruling Planets
+Ascendant lord - Venus
+Ascendant star lord - Mars
+Moon sign lord - Mars
+New Dimensions of K.P. Astrology
+
+Moon star lord - Ketu
+Day lord - Sat
+Sub-lord of 7th cusp is Jupiter, which is placed in the star of Rahu.
+Rahu denotes peons of the office. Therefore file is stolen by the
+peon. Rahu is associated with Saturn and Mars in 1 2th house; so
+other peons of the office are also involved in this activity. File
+cannot be recovered because the sub-1 oid of 1 1th cusp is J upiter
+having connection with Rahu in 1 2th house and 1 2th is the negation
+of the ascendant.
+New Dimensions of K.P. Astrology
+
+210 New Dimensions of K.P. Astrology
+Political Success -1
+Example No. 43
+Planetary Position Cuspal Position
+
+Lagtta
+Nirayana Bhava Chalit (Cuspal)
+Example 43 : One political leader wanted to be the chairman
+of a public sector unit. He asked when he would be nominated
+chairman of this institution.
+Horary No - 148
+DOJ = 27-03-03, TOJ = 6: 1 3pm, POJ = Shivpuri (M.P.)
+There are certain facts related with this query, which we would
+like to bring to the notice of the readers. This institution already
+had a chairman. The querent wanted to be the chairman of this
+institution after disposing of the present chairman.
+New Dimensions of K.P. Astrology
+
+Analysis of the query . Ruling Planets
+Ascendant lord - Mars
+Ascendant star lord - Jupiter (R)
+Moon sign lord - Saturn
+Moon star lord - Moon
+Day lord - Jupiter (R)
+What will be the result of query?
+1 . The ascendant is occupied by Ketu and aspected by Saturn.
+Thus ascendant is badly damaged. Retrograde Jupiter aspects
+ascendant; hence it will keep alive hope.
+2. For a political post or to get any big post there should be a
+relation between eleventh and fifth cusp through a benefic planet.
+3. The sub-lord of fifth and eleventh cusp is Venus. Venus is in
+the star of Mars and in the sub of the Sun. Mars aspects sixth
+house i.e. house of opponents. Mars will subdue opponents. The
+sun is in fifth house having aspect over eleventh cusp. Venus itself
+is placed in third house indicating that effort would be required to
+get the post.
+4. As has been said earlier that in order to deriver power and
+authority Mars and Jupiter must have connection.
+5. As ascendant is badly damaged and Mars and Jupiter are
+not related with either tenth cusp or eleventh cusp; therefore there
+is a doubt in fulfilment of desire.
+Timing of event : At the time o f j udgement o f the query J upiter
+was retrograde. Nothing will happen till Jupiter is retrograde. Jupiter
+will be in direct motion after 31-07-03. Therefore change will
+take place after this date.
+Comments : Due to weak ascendant the querent could not
+reach the post of chairman but was nominated as director of this
+institution in the first week of Aug. 2003 .
+New Dimensions of K.P. Astrology
+
+Dimensions of K.R Astrology [213
+Political Success -2
+Example No. 44
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 44 : This questionis related with the previous one.
+The present incumbent wanted to know how longhe would continue •
+as chairman of the institution.
+Horary No - 153
+DOJ = 06-05-03, TOJ = 5:50pm, POJ = Shivpuri (M.P.)
+Analysis : Ruling Planets
+Asd lord - Mars
+Asd star lord - Saturn
+Moon sign lord - Mercury (R)
+Moon star lord — Rahu
+Day lord - Mars
+New Dimensions of K.P. Astrology
+
+What will be the result of query ?
+1 . It has been written earlier that the result of query will be
+negative if the sub-lord or lord of eleventh cusp is retrograde. The
+lord and sub-lord of eleventh cusp is Mercury, which is retrograde.
+2. The ascendant is aspected by malefic Saturn. Saturn aspects
+Jupiter; therefore Jupiter too has become weak. Therefore he will
+not continue for a longer time.
+When he will be removed from the post : I told him that he
+would continue for some time because divine Jupiter would protect
+him. However he would be removed either in Aug. 03 or first
+week of Sep.03. Because at the time Mercury, the lord and sublord of eleventh cusp, will be retrograde. The querent was removed
+from the post on 3 1 Aug. 03.
+New Dimensions of K.P. Astrology
+
+216 New Dimensions of K.P. A
+Popularity through Astrology
+Example No. 45
+Planetary Position
+Cuspal Position
+
+Nirayana Bhava Chalit (Cuspal)
+Example 45 : Will I get popularity through astrology? This query
+is posed by an astrologer friend.
+Horary No -232
+A fellow astrologer friend who was posted with me in Bhopal
+and used to do astrology asked the question. For astrological
+proficiency Mercury, Jupiter and Sun must be well placed in
+horoscope. Apart from that 4, 5, and 8th houses must be occupied
+by benefic planets. In this horary chart Mercury is placed in 1 1th
+New Dimensions of K.P. Astrology
+
+house while Jupiter is placed in 4th house. Fifth cusp is influenced
+by Saturn and Mercury, therefore the querent will take interest in
+divine knowledge. As far as popularity is concerned the sub-lord
+of 5th cusp, Jupiter, is placed in 4th house, which shows negation
+to 5th house. The sub-lord of 11th cusp, Mars, is placed in
+ascendant, which again shows negation. The ascendant and 4th
+house denotes that this knowledge will be used to material gains
+rather than pursuing spiritual achievements. However the
+connection of 1 1th house with 5th through Mercury will provide
+astrological knowledge.
+Comments : In order to gain mass popularity the 4th, 5th and 1 1 th
+house and ascendant must be considered. These three houses
+either be aspected by benefic planets or be occupied by benefic
+planets. Simultaneously the significator of popularity i.e. Sun must
+be placed either in lOthor 1 1th or 5 th house. In that horary chart
+Sunisplacedin 12th house. So it will not bring any distinction in
+this field.
+New- Dimensions of K.P. Astrology
+
+Dimensions of K.P. Astrology 219
+Will I be Punished in Departmental Enquiry?
+Example No. 46
+Planetary Position Cuspal Position
+
+Nirayana Bhava Chalit (Cuspal)
+Example 46 : An officer who was facing a departmental inquiry
+wanted to know if he was likely to be punished in departmental
+enquiry?
+Horary No - 21
+In order to be punished or imprisonment 1 2th house is mainly
+judged. If there is a case of imprisonment then the connection of
+1 2th house with that of 4th house is studied because 4th house is
+permanent residence and 12th house shows isolation. In case of
+New Dimensions of K.P. Astrology
+
+service matter 1 Oth house must have connection with 1 2th house.
+Analysis : The desire of querent is that he must not be terminated
+from the service. Whether his desire will be fulfilled or not is judged
+as follows :
+1 . The sub-lord of 1 st cusp, Mars, is one of the ruling planets.
+When sub-lord of the 1 st cusp becomes one of the ruling planets
+then desire of the querent is fulfilled . Therefore it is sure that he
+will not be given severe punishment
+2. The sub-lord and lord of 1 st cusp, Mars, is placed in 1 1 th
+house, which again shows the fulfilment of desire of the querent.
+Whether he will be punished or not?
+He will be given minor punishment due to the following reasons:
+1 . The sub-lord of 1 Oth cusp, Rahu, is posited in the star of
+Saturn, which is placed in 1 2th house. 1 Oth house is having
+connection with 1 2th house through malefic planet.
+2. He will not lose his job because the sub-lord of 6th cusp
+(service) is placed in 1 1 th house. Mercury will save his service.
+Comments : The officer was given punishment of withholding
+of two increments for one year which was further minimized to the
+punishment ofwaming only.
+New Dimensions of K.P. Astrology
+
+222 New Dimensions of K.P. Astrology
+Selling of House to Pay off Market Debts
+Example No. 47
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 47 : A gentleman wanted to sell his house to pay off
+his market liabilities.
+Horary No - 241
+If the sub lord of fourth cusp is placed in the constellation of a
+planet the lord of which is either significator of 3rd and 11th houses
+or 1 2th house.
+The fourth house denotes possession, which ihcludes land,
+building but other articles also on which one has ownership right.
+New Dimensions of K.P. Astrology
+
+Third house is twelfth to fourth house which always shows
+separation from possessions Eleventh house always shows gains.
+Twelfth house is natural significator of disposal of possessions as
+well as payment of market liabilities.
+Analysis : 1 . Retrograde Jupiter aspects ascendant, therefore
+the desire of the querent shall be fulfilled but with some delay
+because ascendant lord Jupiter is retrograde.
+2. The sub-lord of 1 st cusp, Mercury, is one of the ruling planet
+therefore the fulfilment of desire is very sure.
+3 . The sub-lord of third and fourth cusps. Mercury, is posited
+in the star of Sun that is placed in eleventh house showing profit
+through the disposal of property.
+4. The sub-lord of 1 2th cusp is Rahu which is placed in 2nd
+house, 3rd cusp falls in the star of moon; therefore payment of
+market liabilities will be quick (Moon is a fast moving planet).
+5. Since Mercury is the major planet denoting selling of house;
+therefore payment will be received in instalments (Mercury gives
+in instalments).
+6. Rahu is the sub-lord of 12th cusp and shows payment of
+market debts but even then it will create problems to the querent.
+7. Since Mercury is having connection with 7th house due to its
+lordship, the property will be sold off through the mediation of a
+property dealer.
+New Dimensions of K.P. Astrology
+
+sions of K.P. Astrology 225
+Payment of Debts
+Example No. 48
+Planetary Position Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 48 : A businessman wanted to pay off the liabilities
+of markets. He put the query if he would be able to repay the
+debts of market.
+Horary No - 151
+If the sub-lord of 1 2th cusp is posited in the constellation the
+lord of which is not retrograde, then one is able to pay off debts .
+Analysis : 1 . Ascendant is aspected by Jupiter which shows
+fulfilment of desire but the sub-lord of 1 2th cusp, Mercury, is
+retrograde and placed in the star of Rahu.
+New Dimensions of K.P. Astrology
+
+2. In horary astrology Rahu is not considered as a retrograde
+planet because retrograde motion is its natural motion. So in the
+above analysis, it will not be assumed as retrograde Mercury is
+posited in the star of retrograde Rahu.
+.3. Rahu is a very slow-moving planet. It denotes two important
+facts:
+a. Rahu shows increased burdenof interest, which accrues in
+principal amount.
+b. It creates unnecessaryproblems in therepayment of debts.
+Therefore it maybe assumed that there will be inordinate delay in
+the repayment of market debts.
+Comments : What is the relation of sub-lord of 1 2th cusp with
+repayment of loan is described below :
+New Dimensions of K.P. Astrology
+
+228 New Dimensions of K.P. As
+Appointments in Institution
+Example No. 49
+Planetary Position
+Cuspal Position
+
+Lagna
+Nirayana Bhava Chalit (Cuspal)
+Example 49 : An officer of an institution put the query whether
+vacancies in the institution will be filled up in near future or not.
+Horary No - 2 1
+The query is related with the institution where many posts of
+various cadres were lying vacant. The daughter of the querent
+applied for a post in this institution.
+Due to certain political as well as official reasons the whole
+appointment process came under dispute.
+New Dimensions of K.P. Astrology
+
+Due to these reasons, the querent wanted to know if appointment
+would take place or not.
+This is a general type of question; therefore no particular house
+is related with such type of query.
+The example has been taken to make the readers understand
+and also to make them familiar with such type of query in which a
+particular house is not studied dr considered.
+Such types of questions are only related with ascendant because
+these questions are related with desire of the querent. In such
+type of questions an astrologer has to read the chart to see whether
+the desire of the querent will be fulfilled or not?
+Analysis :
+1 . The sub-lord and lord of the ascendant is retrograde showing
+failure of the query.
+2. The sub-lord of 1 1th cusp. Mercury, is retrograde again
+showing the negation of the desire.
+3. Ascendant is flanked by Rahu and Saturn again showing
+failure of the desire.
+4. Therefore, the appointment will not take place in this
+institution.
+Comments :
+The government later on itselfbanned the appointments. Since
+then no single appointment has taken place in this institution.
+New Dimensions of k.P. Astrology
+
+New Dimensions of KR Astrology 231
+What Will be the Future of the Institution?
+Example No. 50
+Planetary Position'
+Cnspal Position
+
+Lagrta
+Example 50 : The managing director in a pensive mood asked
+about the future prospects of the institution.
+Horary No - 155
+DOJ = 10.4.02, TOJ = 8:26 pm, POJ = Bhopal
+1. Ketu is posited in ascendant. Ascendant is aspected by
+Saturn and Mars. Ascendant is under heavy affliction of worst
+malefic which shows adverse and uncertain future of this
+organization.
+~ ' 2. 9th house that denotes principles and morals of this institution
+will be at stake due to aspect of Saturn and Mars over ninth house.
+232 New Dimensions of K.P. Astrology
+
+3. As per horary position of Moon, Saturn Mahadasha and
+Saturn Antardasa will operate from 8-12-02 to 11-12-05.
+Following changes will take place in this organization:
+a. Due to aspect of S alum over ascendant and 9th house radical
+changes pertaining to administration will take place. There will be
+uncertainty and chaos-like situation will generate.
+b. During Saturn Mahadasha , Saturn Antardasa and Ketu
+Pratyantara , which will run from 10-11-2003 to 13-1-04; and
+large-scale administrative changes will take place.
+c. Saturn Mahadasha, Saturn Antardasa and Sun Pratyantara
+will operate from 7-7-04 to 3 1 -8-04. Major changes will take
+place.
+Comments : It has been found by us that either Satum-Ketu or
+Ketu-Satum period brings many undesirable results whether it is
+any organization or any country or personal life of the querent is
+concerned, this rule is applicable to natal horoscope also. The
+predictionsmade about this organization have come absolutely
+correct.
+New Dimensions of K.P. Astrology
+
+K.P. Table of Horary Nos. from 1 to 249
+Aries
+New Dimensions of HP. Astrology
+
+New DirHensions of NP Astrology
+
+. Libra
+New Dimensions of K.P. Astrology
+
+New Dimensions of K.R Astrology
+
+New Dimension of &P. Astrology

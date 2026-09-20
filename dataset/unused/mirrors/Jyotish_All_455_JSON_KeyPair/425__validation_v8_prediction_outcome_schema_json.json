@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "425__validation_v8_prediction_outcome_schema_json",
+    "name": "HoraSaar V8 Labelled Prediction Outcome",
+    "original_file": "validation/v8/prediction-outcome.schema.json",
+    "dataset_number": "425 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v8_prediction-outcome.schema.txt",
+    "source_sha256": "935f0aa12a7eeccf2ff3a9938aabe392579d5f4565b9bf3f95e17ec87babe007",
+    "source_bytes": 1511
+  },
+  "metadata": {
+    "title": "HoraSaar V8 Labelled Prediction Outcome"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "HoraSaar V8 Labelled Prediction Outcome",
+      "type": "object",
+      "required": {
+        "_items": [
+          {
+            "_text": [
+              "id"
+            ]
+          },
+          {
+            "_text": [
+              "chartId"
+            ]
+          },
+          {
+            "_text": [
+              "event"
+            ]
+          },
+          {
+            "_text": [
+              "cutoff"
+            ]
+          },
+          {
+            "_text": [
+              "outcome"
+            ]
+          },
+          {
+            "_text": [
+              "source"
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "chartId": {
+          "type": "string"
+        },
+        "event": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "type"
+                ]
+              },
+              {
+                "_text": [
+                  "date"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "date": {
+              "type": "string"
+            }
+          }
+        },
+        "cutoff": {
+          "type": "string"
+        },
+        "outcome": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "observed"
+                ]
+              },
+              {
+                "_text": [
+                  "date"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "observed": {
+              "type": "boolean"
+            },
+            "date": {
+              "type": "string"
+            }
+          }
+        },
+        "source": {
+          "type": "object",
+          "required": {
+            "_items": [
+              {
+                "_text": [
+                  "citation"
+                ]
+              },
+              {
+                "_text": [
+                  "verificationStatus"
+                ]
+              }
+            ]
+          },
+          "properties": {
+            "citation": {
+              "type": "string"
+            },
+            "verificationStatus": {
+              "enum": {
+                "_items": [
+                  {
+                    "_text": [
+                      "verified"
+                    ]
+                  },
+                  {
+                    "_text": [
+                      "unverified"
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "additionalProperties": "Yes"
+    }
+  }
+}

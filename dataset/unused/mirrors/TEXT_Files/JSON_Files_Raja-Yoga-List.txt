@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Raja-Yoga-List.json
+Dataset number: 199 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 252 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+name | formed_by | effects
+--------------------------
+Budhaditya Yoga | Sun and Mercury conjunct | Intelligent, wealthy, political success.
+Gajakesari Yoga | Jupiter in Kendra from Moon | Virtuous, famous, intelligent.

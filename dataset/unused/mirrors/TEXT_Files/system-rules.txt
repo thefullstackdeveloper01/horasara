@@ -1,0 +1,639 @@
+READABLE DATASET
+================================================================================
+Original file: system-rules.json
+Dataset number: 385 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 5,608 bytes
+Top-level fields: 6
+
+CONTENT
+--------------------------------------------------------------------------------
+• prashna:
+  • ASPECTS:
+    • Mars:
+      1.
+        4
+      2.
+        7
+      3.
+        8
+    • Jupiter:
+      1.
+        5
+      2.
+        7
+      3.
+        9
+    • Saturn:
+      1.
+        3
+      2.
+        7
+      3.
+        10
+    • Rahu:
+      1.
+        5
+      2.
+        7
+      3.
+        9
+    • Ketu:
+      1.
+        5
+      2.
+        7
+      3.
+        9
+    • Sun:
+      1.
+        7
+    • Moon:
+      1.
+        7
+    • Mercury:
+      1.
+        7
+    • Venus:
+      1.
+        7
+  • QUESTION_HOUSES:
+    • marriage:
+      1.
+        7
+      2.
+        2
+      3.
+        11
+    • partnership:
+      1.
+        7
+      2.
+        11
+      3.
+        2
+    • love:
+      1.
+        5
+      2.
+        7
+      3.
+        11
+    • career:
+      1.
+        10
+      2.
+        6
+      3.
+        11
+      4.
+        2
+    • job:
+      1.
+        10
+      2.
+        6
+      3.
+        11
+      4.
+        2
+    • business:
+      1.
+        7
+      2.
+        10
+      3.
+        11
+      4.
+        2
+    • finance:
+      1.
+        2
+      2.
+        11
+      3.
+        5
+    • wealth:
+      1.
+        2
+      2.
+        11
+      3.
+        9
+    • property:
+      1.
+        4
+      2.
+        2
+      3.
+        11
+    • vehicle:
+      1.
+        4
+      2.
+        11
+    • education:
+      1.
+        4
+      2.
+        5
+      3.
+        9
+    • children:
+      1.
+        5
+      2.
+        2
+      3.
+        11
+    • pregnancy:
+      1.
+        5
+      2.
+        11
+    • travel:
+      1.
+        3
+      2.
+        9
+      3.
+        12
+    • foreign:
+      1.
+        9
+      2.
+        12
+      3.
+        7
+    • litigation:
+      1.
+        6
+      2.
+        7
+      3.
+        8
+      4.
+        12
+    • illness:
+      1.
+        1
+      2.
+        6
+      3.
+        8
+      4.
+        12
+    • recovery:
+      1.
+        1
+      2.
+        5
+      3.
+        11
+    • spiritual:
+      1.
+        5
+      2.
+        9
+      3.
+        12
+    • promotion:
+      1.
+        10
+      2.
+        11
+      3.
+        2
+    • loss:
+      1.
+        8
+      2.
+        12
+      3.
+        6
+  • BENEFICS:
+    1.
+      Jupiter
+    2.
+      Venus
+    3.
+      Mercury
+    4.
+      Moon
+  • MALEFICS:
+    1.
+      Sun
+    2.
+      Mars
+    3.
+      Saturn
+    4.
+      Rahu
+    5.
+      Ketu
+• synastry:
+  • DEFINITIONS:
+    1.
+      1.
+        conjunction
+      2.
+        0
+      3.
+        6
+      4.
+        1
+    2.
+      1.
+        opposition
+      2.
+        180
+      3.
+        6
+      4.
+        -1
+    3.
+      1.
+        trine
+      2.
+        120
+      3.
+        5
+      4.
+        1
+    4.
+      1.
+        square
+      2.
+        90
+      3.
+        5
+      4.
+        -1
+    5.
+      1.
+        sextile
+      2.
+        60
+      3.
+        4
+      4.
+        1
+    6.
+      1.
+        quincunx
+      2.
+        150
+      3.
+        3
+      4.
+        -1
+  • SIGN_ELEMENT:
+    1.
+      Fire
+    2.
+      Earth
+    3.
+      Air
+    4.
+      Water
+    5.
+      Fire
+    6.
+      Earth
+    7.
+      Air
+    8.
+      Water
+    9.
+      Fire
+    10.
+      Earth
+    11.
+      Air
+    12.
+      Water
+  • HOUSE_KEYS:
+    • marriage:
+      1.
+        7
+    • romance:
+      1.
+        5
+      2.
+        7
+    • family:
+      1.
+        2
+      2.
+        4
+    • career:
+      1.
+        10
+      2.
+        11
+      3.
+        6
+    • finance:
+      1.
+        2
+      2.
+        11
+    • intimacy:
+      1.
+        8
+    • spirituality:
+      1.
+        9
+      2.
+        12
+• sarvatobhadra:
+  • NAKSHATRAS_28:
+    1.
+      Ashwini
+    2.
+      Bharani
+    3.
+      Krittika
+    4.
+      Rohini
+    5.
+      Mrigashira
+    6.
+      Ardra
+    7.
+      Punarvasu
+    8.
+      Pushya
+    9.
+      Ashlesha
+    10.
+      Magha
+    11.
+      Purva Phalguni
+    12.
+      Uttara Phalguni
+    13.
+      Hasta
+    14.
+      Chitra
+    15.
+      Swati
+    16.
+      Vishakha
+    17.
+      Anuradha
+    18.
+      Jyeshtha
+    19.
+      Mula
+    20.
+      Purva Ashadha
+    21.
+      Uttara Ashadha
+    22.
+      Abhijit
+    23.
+      Shravana
+    24.
+      Dhanishta
+    25.
+      Shatabhisha
+    26.
+      Purva Bhadrapada
+    27.
+      Uttara Bhadrapada
+    28.
+      Revati
+  • SIGNS:
+    1.
+      Aries
+    2.
+      Taurus
+    3.
+      Gemini
+    4.
+      Cancer
+    5.
+      Leo
+    6.
+      Virgo
+    7.
+      Libra
+    8.
+      Scorpio
+    9.
+      Sagittarius
+    10.
+      Capricorn
+    11.
+      Aquarius
+    12.
+      Pisces
+  • WEEKDAYS:
+    1.
+      Sunday
+    2.
+      Monday
+    3.
+      Tuesday
+    4.
+      Wednesday
+    5.
+      Thursday
+    6.
+      Friday
+    7.
+      Saturday
+  • TITHI_GROUPS:
+    • Nanda:
+      1.
+        1
+      2.
+        6
+      3.
+        11
+      4.
+        16
+      5.
+        21
+      6.
+        26
+    • Bhadra:
+      1.
+        2
+      2.
+        7
+      3.
+        12
+      4.
+        17
+      5.
+        22
+      6.
+        27
+    • Jaya:
+      1.
+        3
+      2.
+        8
+      3.
+        13
+      4.
+        18
+      5.
+        23
+      6.
+        28
+    • Rikta:
+      1.
+        4
+      2.
+        9
+      3.
+        14
+      4.
+        19
+      5.
+        24
+      6.
+        29
+    • Poorna:
+      1.
+        5
+      2.
+        10
+      3.
+        15
+      4.
+        20
+      5.
+        25
+      6.
+        30
+  • VOWELS:
+    1.
+      a
+    2.
+      ā
+    3.
+      i
+    4.
+      ī
+    5.
+      u
+    6.
+      ū
+    7.
+      ṛ
+    8.
+      ṝ
+    9.
+      ḷ
+    10.
+      e
+    11.
+      ai
+    12.
+      o
+    13.
+      au
+    14.
+      aṃ
+    15.
+      aḥ
+    16.
+      lṛ
+  • CONSONANTS:
+    1.
+      ka
+    2.
+      kha
+    3.
+      ga
+    4.
+      gha
+    5.
+      ṅa
+    6.
+      ca
+    7.
+      cha
+    8.
+      ja
+    9.
+      jha
+    10.
+      ña
+    11.
+      ṭa
+    12.
+      ṭha
+    13.
+      ḍa
+    14.
+      ḍha
+    15.
+      ṇa
+    16.
+      ta
+    17.
+      tha
+    18.
+      da
+    19.
+      dha
+    20.
+      na
+• complete-dasha:
+  (empty)
+• audit:
+  • RULE_IDS:
+    1.
+      BPHS.DASHA.VIMSHOTTARI
+    2.
+      BPHS.DASHA.UDU-CONDITIONAL
+    3.
+      KP.CUSP-SUB-LORD
+    4.
+      JAIMINI.ARUDHA
+    5.
+      JAIMINI.KARAKAMSHA
+    6.
+      TAJIKA.VARSHAPHAL
+    7.
+      LAL.KITAB.35Y
+    8.
+      SBC.81GRID
+    9.
+      PRASHNA.HORARY
+    10.
+      MILAN.ASHTAKOOT
+• contradiction:
+  • EVENTS:
+    1.
+      marriage
+    2.
+      career
+    3.
+      job
+    4.
+      business
+    5.
+      wealth
+    6.
+      finance
+    7.
+      property
+    8.
+      children
+    9.
+      education
+    10.
+      health
+    11.
+      foreign
+    12.
+      litigation
+    13.
+      spirituality

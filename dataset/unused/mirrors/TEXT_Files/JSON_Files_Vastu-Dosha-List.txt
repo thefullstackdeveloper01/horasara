@@ -1,0 +1,24 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Vastu-Dosha-List.json
+Dataset number: 216 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 427 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: vastu_001
+  • defect: South-West Heavy Defect (Nairutya Dosha)
+  • cause: Having a main entrance, kitchen, or heavy water tank in the South-West direction.
+  • negative_effects:
+    1.
+      Loss of business
+    2.
+      Accidents
+    3.
+      Mental instability
+  • remedy: Place a Vastu Pyra-Shield or heavy stone in the South-West. Keep a photograph of ancestors there.
+  • associated_planet: Rahu

@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "203__health_prediction_rules_json",
+    "name": "health_prediction_rules",
+    "original_file": "health_prediction_rules.json",
+    "dataset_number": "133 of 455",
+    "format": "json",
+    "source_readable_file": "health_prediction_rules.txt",
+    "source_sha256": "2b28ef0cf6d0796e46517fd007c6d2e629cddb05614dc04c29658b8d7d771c15",
+    "source_bytes": 3682
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "rule_id": 1,
+          "category": "General Health",
+          "indicator": "Lagna and its lord",
+          "rule": "Strong Lagna and its lord = strong constitution; weak = susceptible to illness",
+          "body_mapping": {
+            "Aries": "Head/Brain",
+            "Taurus": "Throat/Neck",
+            "Gemini": "Arms/Lungs",
+            "Cancer": "Chest/Stomach",
+            "Leo": "Heart/Spine",
+            "Virgo": "Intestines/Nervous system",
+            "Libra": "Kidneys/Lower back",
+            "Scorpio": "Reproductive organs/Colon",
+            "Sagittarius": "Thighs/Liver",
+            "Capricorn": "Knees/Bones",
+            "Aquarius": "Ankles/Circulation",
+            "Pisces": "Feet/Lymphatics"
+          },
+          "source": "BPHS, Ayurvedic astrology"
+        },
+        {
+          "rule_id": 2,
+          "category": "Chronic Illness",
+          "indicator": "6th house + Saturn",
+          "rule": "Malefics (especially Saturn) in 6th house = chronic illness in the body part ruled by that sign",
+          "timing": "Saturn Dasha; 6th lord Dasha; Sade Sati periods",
+          "source": "BPHS, Phaladeepika"
+        },
+        {
+          "rule_id": 3,
+          "category": "Accidents",
+          "indicator": "Mars + 8th house",
+          "rule": "Mars in 8th house or 8th lord with Mars = accident-prone; especially during Mars Dasha",
+          "body_areas": {
+            "_items": [
+              {
+                "_text": [
+                  "Cuts"
+                ]
+              },
+              {
+                "_text": [
+                  "Burns"
+                ]
+              },
+              {
+                "_text": [
+                  "Blood loss"
+                ]
+              },
+              {
+                "_text": [
+                  "Head injuries (Mars in 1st/8th)"
+                ]
+              }
+            ]
+          },
+          "timing": "Mars Dasha/Antardasha; Mars transit over natal Mars",
+          "source": "Saravali, BPHS"
+        },
+        {
+          "rule_id": 4,
+          "category": "Mental Health",
+          "indicator": "Moon + Mercury affliction",
+          "rule": "Moon-Saturn conjunction (Vish Yoga), Moon-Rahu/Ketu = mental illness risk",
+          "conditions": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon in 6th/8th/12th afflicted by malefics"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu conjunct Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn-Moon Yoga"
+                ]
+              }
+            ]
+          },
+          "source": "Hora Ratna, modern Jyotish"
+        },
+        {
+          "rule_id": 5,
+          "category": "Heart Issues",
+          "indicator": "Sun + 4th/5th house",
+          "rule": "Sun afflicted in 5th house; 4th lord afflicted by Mars/Saturn; Leo sign on 1st/5th cusp with malefics",
+          "timing": "Sun Dasha with malefic influence",
+          "source": "Ayurvedic astrology"
+        },
+        {
+          "rule_id": 6,
+          "category": "Digestive Issues",
+          "indicator": "Mercury + 6th house + Moon",
+          "rule": "Mercury afflicted in 6th house or Virgo; Moon in 6th with malefics = digestive disorders",
+          "conditions": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury in Virgo 6th"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon-Saturn in 6th"
+                ]
+              },
+              {
+                "_text": [
+                  "6th lord weak with malefics"
+                ]
+              }
+            ]
+          },
+          "source": "Classical Jyotish"
+        },
+        {
+          "rule_id": 7,
+          "category": "Respiratory Issues",
+          "indicator": "Mercury + Gemini + 3rd house",
+          "rule": "Afflicted Mercury; malefics in 3rd house; Gemini or Aquarius on 1st/3rd cusp with Saturn",
+          "source": "BPHS, Ayurvedic astrology"
+        },
+        {
+          "rule_id": 8,
+          "category": "Kidney/Liver Issues",
+          "indicator": "Venus + Jupiter + 7th house",
+          "rule": "Venus afflicted (kidneys/endocrine); Jupiter afflicted (liver/fatty tissue)",
+          "timing": "Venus or Jupiter Dasha with malefic aspects",
+          "source": "Traditional texts"
+        },
+        {
+          "rule_id": 9,
+          "category": "Recovery Indicators",
+          "indicator": "Jupiter + Lagna lord",
+          "rule": "Strong Jupiter aspecting 1st or 8th house = recovery ability; Dasha of Jupiter = healing period",
+          "source": "BPHS"
+        },
+        {
+          "rule_id": 10,
+          "category": "Longevity",
+          "indicator": "Lagna + 8th + Atmakaraka",
+          "rule": "Lagna lord and 8th lord both strong, with benefics in 8th = long life",
+          "lifespan_calculation": "Pindayu, Amsayu, and Nisargayu methods combined",
+          "source": "BPHS Ch.32"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "version":"9.0.0",
+  "status":"verified-import-ready",
+  "source_policy":"Only independently verified reference records may be added.",
+  "records":[],
+  "note":"V9 does not fabricate reference values. Existing 1000-epoch Swiss Ephemeris golden fixture is retained in test/fixtures/ephemeris-golden.json and is exercised by the V9 benchmark test."
+}

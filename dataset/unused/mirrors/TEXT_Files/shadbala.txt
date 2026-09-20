@@ -1,0 +1,418 @@
+READABLE DATASET
+================================================================================
+Original file: shadbala.json
+Dataset number: 355 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 6,071 bytes
+Top-level fields: 14
+
+CONTENT
+--------------------------------------------------------------------------------
+• DIG_BEST_HOUSE:
+  • Sun: 10
+  • Mars: 10
+  • Moon: 4
+  • Venus: 4
+  • Jupiter: 1
+  • Mercury: 1
+  • Saturn: 7
+• DIG_BEST_OFFSET:
+  • Sun: 270
+  • Mars: 270
+  • Moon: 90
+  • Venus: 90
+  • Jupiter: 0
+  • Mercury: 0
+  • Saturn: 180
+• THRIB_DAY_LORDS:
+  1.
+    Mercury
+  2.
+    Sun
+  3.
+    Saturn
+• THRIB_NIGHT_LORDS:
+  1.
+    Moon
+  2.
+    Venus
+  3.
+    Mars
+• WEEKDAY_LORDS:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+• HORA_SEQ:
+  1.
+    Sun
+  2.
+    Venus
+  3.
+    Mercury
+  4.
+    Moon
+  5.
+    Saturn
+  6.
+    Jupiter
+  7.
+    Mars
+• MEAN_SPEEDS:
+  • Sun: 0.9856
+  • Moon: 13.1764
+  • Mars: 0.524
+  • Mercury: 1.3833
+  • Jupiter: 0.0831
+  • Venus: 1.2
+  • Saturn: 0.0335
+• AYANA_MAX_KRANTI: 23.45
+• CONSTANTS:
+  • SIGNS:
+    1.
+      Aries
+    2.
+      Taurus
+    3.
+      Gemini
+    4.
+      Cancer
+    5.
+      Leo
+    6.
+      Virgo
+    7.
+      Libra
+    8.
+      Scorpio
+    9.
+      Sagittarius
+    10.
+      Capricorn
+    11.
+      Aquarius
+    12.
+      Pisces
+  • SIGN_LORDS:
+    • Aries: Mars
+    • Taurus: Venus
+    • Gemini: Mercury
+    • Cancer: Moon
+    • Leo: Sun
+    • Virgo: Mercury
+    • Libra: Venus
+    • Scorpio: Mars
+    • Sagittarius: Jupiter
+    • Capricorn: Saturn
+    • Aquarius: Saturn
+    • Pisces: Jupiter
+  • EXALTATION:
+    • Sun:
+      • sign: Aries
+      • deg: 10
+    • Moon:
+      • sign: Taurus
+      • deg: 3
+    • Mars:
+      • sign: Capricorn
+      • deg: 28
+    • Mercury:
+      • sign: Virgo
+      • deg: 15
+    • Jupiter:
+      • sign: Cancer
+      • deg: 5
+    • Venus:
+      • sign: Pisces
+      • deg: 27
+    • Saturn:
+      • sign: Libra
+      • deg: 20
+    • Rahu:
+      • sign: Gemini
+      • deg: 20
+    • Ketu:
+      • sign: Sagittarius
+      • deg: 20
+  • DEBILITATION:
+    • Sun:
+      • sign: Libra
+      • deg: 10
+    • Moon:
+      • sign: Scorpio
+      • deg: 3
+    • Mars:
+      • sign: Cancer
+      • deg: 28
+    • Mercury:
+      • sign: Pisces
+      • deg: 15
+    • Jupiter:
+      • sign: Capricorn
+      • deg: 5
+    • Venus:
+      • sign: Virgo
+      • deg: 27
+    • Saturn:
+      • sign: Aries
+      • deg: 20
+    • Rahu:
+      • sign: Sagittarius
+      • deg: 20
+    • Ketu:
+      • sign: Gemini
+      • deg: 20
+  • OWN_SIGNS:
+    • Sun:
+      1.
+        Leo
+    • Moon:
+      1.
+        Cancer
+    • Mars:
+      1.
+        Aries
+      2.
+        Scorpio
+    • Mercury:
+      1.
+        Gemini
+      2.
+        Virgo
+    • Jupiter:
+      1.
+        Sagittarius
+      2.
+        Pisces
+    • Venus:
+      1.
+        Taurus
+      2.
+        Libra
+    • Saturn:
+      1.
+        Capricorn
+      2.
+        Aquarius
+    • Rahu:
+      (empty list)
+    • Ketu:
+      (empty list)
+  • MOOLATRIKONA:
+    • Sun:
+      • sign: Leo
+      • from: 0
+      • to: 20
+    • Moon:
+      • sign: Taurus
+      • from: 4
+      • to: 20
+    • Mars:
+      • sign: Aries
+      • from: 0
+      • to: 12
+    • Mercury:
+      • sign: Virgo
+      • from: 16
+      • to: 20
+    • Jupiter:
+      • sign: Sagittarius
+      • from: 0
+      • to: 10
+    • Venus:
+      • sign: Libra
+      • from: 0
+      • to: 15
+    • Saturn:
+      • sign: Aquarius
+      • from: 0
+      • to: 20
+  • NATURAL_FRIENDS:
+    • Sun:
+      1.
+        Moon
+      2.
+        Mars
+      3.
+        Jupiter
+    • Moon:
+      1.
+        Sun
+      2.
+        Mercury
+    • Mars:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Jupiter
+    • Mercury:
+      1.
+        Sun
+      2.
+        Venus
+    • Jupiter:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Mars
+    • Venus:
+      1.
+        Mercury
+      2.
+        Saturn
+    • Saturn:
+      1.
+        Mercury
+      2.
+        Venus
+    • Rahu:
+      1.
+        Saturn
+      2.
+        Venus
+      3.
+        Mercury
+    • Ketu:
+      1.
+        Mars
+      2.
+        Jupiter
+  • NATURAL_ENEMIES:
+    • Sun:
+      1.
+        Saturn
+      2.
+        Venus
+      3.
+        Rahu
+      4.
+        Ketu
+    • Moon:
+      1.
+        Rahu
+      2.
+        Ketu
+    • Mars:
+      1.
+        Mercury
+    • Mercury:
+      1.
+        Moon
+    • Jupiter:
+      1.
+        Mercury
+      2.
+        Venus
+      3.
+        Rahu
+      4.
+        Ketu
+    • Venus:
+      1.
+        Moon
+    • Saturn:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Mars
+    • Rahu:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Mars
+    • Ketu:
+      1.
+        Venus
+      2.
+        Saturn
+      3.
+        Mercury
+• DRIK_SPECIAL_ASPECTS:
+  • _comment: BPHS special (vishesha) drishti: exact separation in degrees at which the graha casts full 60-virupa drishti, in addition to the universal 7th (180 deg).
+  • _source: Brihat Parashara Hora Shastra, Drikbala Adhyaya
+  • Mars:
+    1.
+      90
+    2.
+      210
+  • Jupiter:
+    1.
+      120
+    2.
+      240
+  • Saturn:
+    1.
+      60
+    2.
+      270
+• DRIK_NATURAL_MALEFICS:
+  1.
+    Sun
+  2.
+    Mars
+  3.
+    Saturn
+  4.
+    Rahu
+  5.
+    Ketu
+• DRIK_NATURAL_BENEFICS:
+  1.
+    Jupiter
+  2.
+    Venus
+• DRIK_ASPECTING_BODIES:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mars
+  4.
+    Mercury
+  5.
+    Jupiter
+  6.
+    Venus
+  7.
+    Saturn
+  8.
+    Rahu
+  9.
+    Ketu
+• DRIK_CURVE_BREAKPOINTS:
+  • _comment: Sphuta Drishti piecewise curve breakpoints in degrees; value in virupas. Continuous by construction, peak 60 at 180.
+  • breaks:
+    1.
+      30
+    2.
+      60
+    3.
+      90
+    4.
+      120
+    5.
+      150
+    6.
+      180
+    7.
+      300

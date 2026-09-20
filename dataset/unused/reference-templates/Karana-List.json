@@ -1,0 +1,16 @@
+[
+  {
+    "id": "kar_001",
+    "name": "Bava",
+    "type": "Movable (Chara)",
+    "ruler": "Sun",
+    "interpretation": "Good for medicine, fire-related works, and government tasks."
+  },
+  {
+    "id": "kar_002",
+    "name": "Vishti",
+    "type": "Movable (Chara)",
+    "ruler": "Saturn",
+    "interpretation": "Vishti (Bhadra) is considered highly inauspicious. All good work must be avoided during this Karana."
+  }
+]

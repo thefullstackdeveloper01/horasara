@@ -1,0 +1,712 @@
+{
+  "lagna_predictions": [
+    {
+      "lagna": "Mesha",
+      "rashi": "Aries",
+      "sign_lord": "Mangal",
+      "element": "Agni",
+      "quality": "Chara",
+      "basic_traits": {
+        "personality": "Sahasik, urjavan, netritva kshamta, turant nirnay lene wale, atma-vishwasi aur pratiyogi pravritti ke hain.",
+        "strengths": [
+          "Sahas aur pahal karne ki kshamta",
+          "Netritva ke gun",
+          "Urja aur utsah se bharpur",
+          "Naye karya shuru karne mein agrani"
+        ],
+        "weaknesses": [
+          "Jaldbaazi mein nirnay lena",
+          "Krodh aur aakrosh",
+          "Dhairya ki kami",
+          "Dusron ki salah kam maanna"
+        ],
+        "physical_appearance": "Madhyam kad, sudridh sharir, tejasvi chehra, gati mein tezi, bhrikuti spasht."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Sena, police, raksha seva",
+          "Engineering, yantriki",
+          "Khel-kood, physical fitness",
+          "Shalya chikitsa (surgery)",
+          "Rajneeti, prashasan",
+          "Agni, dhatu, yantra udyog"
+        ],
+        "work_style": "Swatantra roop se karya karna pasand karte hain. Naye project shuru karne mein agrani. Chunautiyon ka samna purn urja se karte hain. Netritva ki bhumika mein prabhavi."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Seedha, spasht aur utsahi. Kabhi-kabhi ati-utsah se dikkat. Sath nibhane mein vafadar lekin apni swatantrata pasand karte hain.",
+        "family_life": "Pariwar mein agrani bhumika. Mata-pita se sambandh prabal. Jeevansathi se sambandh mein paraspar samman avashyak. Santan se sneh purn."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Sir, mastishk, chehra",
+          "Rakt, pitt, jwar",
+          "Dant, masoode",
+          "Accident se savdhani"
+        ],
+        "general_health_tips": "Krodh par niyantran rakhein. Niyamit vyayam aur santulit aahar lein. Sir ki suraksha ka dhyan rakhein. Atyadhik tez-kadve bhojan se bachein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [1, 9, 3],
+        "lucky_days": ["Mangalwar"],
+        "lucky_colors": ["Lal", "Kesariya", "Gulabi"],
+        "lucky_gemstone": "Moonga (Red Coral)",
+        "favorable_directions": ["Purva", "Dakshin"],
+        "favorable_metal": "Tamra (Copper)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Bhāvnāen tez hoti hain lekin sthayi nahi. Krodh aur uttejna jaldi aati hai aur jaldi shant bhi ho jaate hain.",
+        "spiritual_inclination": "Karma-pradhan upasana, Shakti ya Hanuman ji ki aradhna labhdayak."
+      }
+    },
+    {
+      "lagna": "Vrishabha",
+      "rashi": "Taurus",
+      "sign_lord": "Shukra",
+      "element": "Prithvi",
+      "quality": "Sthira",
+      "basic_traits": {
+        "personality": "Dhairyavan, sthir, bharosemand, vyavharik, saundarya-premi aur mehnati hain.",
+        "strengths": [
+          "Dhairya aur sahanubhuti",
+          "Vishwasniyata aur imandari",
+          "Kala aur saundarya ki samajh",
+          "Vittiya mamlon mein samajhdari"
+        ],
+        "weaknesses": [
+          "Ziddi aur ati-aagrahi hona",
+          "Alasya aur aaram-pasand",
+          "Badlav ko svikar karne mein kathinai",
+          "Ati-bhautikvadi ho sakte hain"
+        ],
+        "physical_appearance": "Madhyam se sthul kad, sudridh gardan, akarshak chehra, gambhir aankhen, shant chaal."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Kala, sangeet, fashion, saundarya",
+          "Krishi, bhoomi, property, construction",
+          "Banking, vitt, lekha",
+          "Hotel, restaurant, bhojan vyavsay",
+          "Swar-navaratna, vastra udyog",
+          "Shiksha, ganit, vigyan"
+        ],
+        "work_style": "Sthir aur lagan se kaam karte hain. Jald hi naukri ya vyavsay nahi badalte. Dhan sanchay mein nipun. Vyavsay mein vishwasniy bhaagidar."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Sthir, vafadar aur prem se bharpur. Shukra ke prabhav se romanchak aur saundarya-premi. Spashtvad nahi karte, lekin dil se sachche hote hain.",
+        "family_life": "Grahasti mein sukh-suvidha pasand. Jeevansathi se sambandh gambhir aur dirghakalik. Pariwar mein sampatti arjit karne mein ruchi. Santan se atyant prem."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Gala, kanth, thyroid",
+          "Dant, masoode",
+          "Pet, pachan tantra",
+          "Vajan badhna, jukam-khansi"
+        ],
+        "general_health_tips": "Mitha aur tailiya bhojan kam karein. Niyamit vyayam karein. Gala aur kanth ki dekhbhal karein. Aaram-pasand aalsya se bachein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [6, 5, 2],
+        "lucky_days": ["Shukrawar"],
+        "lucky_colors": ["Safed", "Hara", "Gulabi"],
+        "lucky_gemstone": "Heera (Diamond) ya Safed Pukhraj",
+        "favorable_directions": ["Uttar", "Dakshin-Pashchim"],
+        "favorable_metal": "Chandi (Silver)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Sthir aur gambhir bhavnayein. Krodh kam aata hai lekin jab aata hai to lamba chalta hai. Prem aur saundarya se judi bhavnayein prabal.",
+        "spiritual_inclination": "Lakshmi ji, Ganesh ji ki aradhna, Vishnu ya Krishna bhakti labhdayak."
+      }
+    },
+    {
+      "lagna": "Mithuna",
+      "rashi": "Gemini",
+      "sign_lord": "Budh",
+      "element": "Vayu",
+      "quality": "Dwiswabhav",
+      "basic_traits": {
+        "personality": "Budhhimatta, sanchar-kushal, jigyasu, bahumukhi pratibha, vinodi aur samajik hain.",
+        "strengths": [
+          "Tez buddhi aur tark shakti",
+          "Sanchar evam lekhan kshamta",
+          "Anukulansheel aur lachila vyaktitva",
+          "Samajik aur milansaar"
+        ],
+        "weaknesses": [
+          "Asthirta, ek jagah tik na paana",
+          "Kabhi-kabhi duhra vyavhaar",
+          "Ati-bahumukhi hone se gaharaayi ki kami",
+          "Ghabrahat aur chinta"
+        ],
+        "physical_appearance": "Patla, lambe haath, teekhe nain-naksh, phurtili chaal, yuvak jaisa vyaktitva."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Lekhan, patrakarita, media",
+          "Shiksha, adhyapan, bhasha",
+          "Vyapar, vipnan, vikray",
+          "Computer, software, IT",
+          "Dak-seva, sanchar, yatayat",
+          "Jansampark, translation, anuvad"
+        ],
+        "work_style": "Bahukary karne mein nipun. Naye vichar aur takneekon se jaldi judte hain. Team ke saath achha samnvay. Kabhi ekadhik vyavsay ya naukri bhi kar sakte hain."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Sanchar aur mansik juraav pradhan. Shabdon ke khel mein nipun. Sthir prem kam, lekin vichar-vinimay mein ruchi. Vivah mein mansik samanta avashyak.",
+        "family_life": "Pariwar mein utsav aur samaroh pasand. Bhai-bahan se gahara sambandh. Jeevansathi se sanwad avashyak, anyatha doori aa sakti hai. Santan se dost jaisa sambandh."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Fefde, shwasan tantra",
+          "Kandhe, bhujayein, haath",
+          "Tantrika tantra, chinta",
+          "Twacha, elarji"
+        ],
+        "general_health_tips": "Pranayam aur yog karein. Mansik tanav se bachein. Niyamit vyayam se vayu santulan rakhein. Halka, sattvik bhojan karein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [5, 3, 6],
+        "lucky_days": ["Budhwar"],
+        "lucky_colors": ["Hara", "Neela", "Peela"],
+        "lucky_gemstone": "Panna (Emerald)",
+        "favorable_directions": ["Uttar", "Pashchim"],
+        "favorable_metal": "Kansa (Bronze)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Bhāvnāon mein utar-chadhav. Kabhi ati-utsah, kabhi chinta. Mansik vyagrata se dhyan bhatakta hai. Sanvad se mansik shanti milti hai.",
+        "spiritual_inclination": "Ganesh ji, Saraswati ji ki aradhna, Gayatri mantra ka jap labhdayak."
+      }
+    },
+    {
+      "lagna": "Karka",
+      "rashi": "Cancer",
+      "sign_lord": "Chandra",
+      "element": "Jal",
+      "quality": "Chara",
+      "basic_traits": {
+        "personality": "Bhavuk, snehi, parivarik, kalpanashil, suraksha-premi aur mamta se bharpur hain.",
+        "strengths": [
+          "Sneha, mamta aur karuna",
+          "Parivar aur ghar ke prati samarpan",
+          "Antardrishti aur sahaj gyan",
+          "Kala aur kalpana shakti"
+        ],
+        "weaknesses": [
+          "Ati-bhavuk aur manmauna",
+          "Mood mein utar-chadhav",
+          "Asuraksha ki bhavna",
+          "Ati-suraksha ki pravratti"
+        ],
+        "physical_appearance": "Gol chehra, madhyam kad, komal sharir, bhavuk aankhen, halki chaal, chandra jaise shant."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Seva, narsing, swasthya seva",
+          "Shiksha, bal vikas",
+          "Kala, sangeet, natak, kavya",
+          "Hotel, restaurant, rasoi",
+          "Jal, samudra, nau-vyavsay",
+          "Manovaigyan, paramarsh"
+        ],
+        "work_style": "Bhavnatmak roop se jude kaam mein safal. Seva bhav se kaam karte hain. Parivarik vyavsay mein vishesh ruchi. Sthirta pasand lekin Chandra ke prabhav se mansik sthirata avashyak."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Ati-snehi aur bhavuk. Sath nibhane mein samarpan purn. Suraksha aur bhavnatmak sahara khojte hain. Vivah mein gahara prem aur mamta chahate hain.",
+        "family_life": "Parivar inke jeevan ka kendra hota hai. Mata se gahara sambandh. Jeevansathi se bhavnatmak judaav. Ghar-sansar mein sukh-suvidha pasand. Santan se atyant mamta."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Pet, amashay, pachan",
+          "Chest, breast, phephde",
+          "Jal-vriddhi, kapha",
+          "Mansik tanav, avsad"
+        ],
+        "general_health_tips": "Bhavnatmak santoollan rakhein. Niyamit vyayam aur yog karein. Thanda aur bhaari bhojan kam karein. Jal ka sevan paryapt karein. Mansik shanti ke liye dhyan karein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [2, 7, 4],
+        "lucky_days": ["Somvar"],
+        "lucky_colors": ["Safed", "Chandi", "Neela"],
+        "lucky_gemstone": "Moti (Pearl)",
+        "favorable_directions": ["Uttar-Purva", "Uttar"],
+        "favorable_metal": "Chandi (Silver)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Gahan, bhavuk aur parivartansheel. Chandra ke prabhav se mansik sthiti parivartit hoti rehti hai. Dhyan aur bhakti se shanti milti hai.",
+        "spiritual_inclination": "Shiv ji, Gauri mata, Vishnu ji ki aradhna, Chandra mantra ka jap labhdayak."
+      }
+    },
+    {
+      "lagna": "Simha",
+      "rashi": "Leo",
+      "sign_lord": "Surya",
+      "element": "Agni",
+      "quality": "Sthira",
+      "basic_traits": {
+        "personality": "Pratapshali, netritva-priya, udar, atma-vishwasi, raajsi aur gaurav-priya hain.",
+        "strengths": [
+          "Netritva aur sangathan kshamta",
+          "Atma-vishwas aur sahas",
+          "Udata aur dil kholkar dene wale",
+          "Nyaypriya aur imandar"
+        ],
+        "weaknesses": [
+          "Aham aur abhiman",
+          "Dusron se salah na lena",
+          "Prashansa ki chah",
+          "Kabhi-kabhi ati-kathor"
+        ],
+        "physical_appearance": "Sudridh, chauda seena, prabhavshali chehra, tejasvi aankhen, raajsi chaal, akarshak vyaktitva."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Prashasan, rajneeti, IAS, IPS",
+          "Shasan, sarkari pad",
+          "Film, natak, entertainment",
+          "Sona, jewellery, luxury vyavsay",
+          "Doctor, heart specialist",
+          "Shiksha, professor, adhyapak"
+        ],
+        "work_style": "Swatantra roop se netritva karna pasand. Dusron par prabhav dalein. Bade lakshya nirdharit karke unhein prapt karte hain. Sangathan mein shreshth pradarshan."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Udar, prem-pradarshan karne wale, lekin apni izzat chahte hain. Sath nibhane mein vafadar. Jeevansathi se samman aur prashansa ki apeksha rakhte hain.",
+        "family_life": "Pariwar mein pradhan bhumika. Pita se sambandh prabal. Jeevansathi se raajsi jeevan. Santan se gaurav anubhav. Ghar mein shan-shaunat pasand."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Hriday, rakt sanchar",
+          "Peeth, reedh ki haddi",
+          "Netra, drishti",
+          "Pitt, jwar, soojan"
+        ],
+        "general_health_tips": "Krodh aur aham par niyantran. Niyamit vyayam. Hriday ki dekhbhal. Tej, masaledar bhojan kam karein. Surya namaskar labhdayak."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [1, 4, 9],
+        "lucky_days": ["Ravivar"],
+        "lucky_colors": ["Sunehra", "Kesariya", "Lal"],
+        "lucky_gemstone": "Manik (Ruby)",
+        "favorable_directions": ["Purva", "Dakshin"],
+        "favorable_metal": "Sona (Gold)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Utsahi, garv aur gaurav se bharpur. Kabhi-kabhi aham ke karan mansik peeda. Bhakti mein samarpan se shanti milti hai.",
+        "spiritual_inclination": "Surya ki aradhna, Gayatri mantra, Durga mata ki bhakti labhdayak."
+      }
+    },
+    {
+      "lagna": "Kanya",
+      "rashi": "Virgo",
+      "sign_lord": "Budh",
+      "element": "Prithvi",
+      "quality": "Dwiswabhav",
+      "basic_traits": {
+        "personality": "Vishleshanatmak, vyavharik, paripurnatavadi, sevabhavi, vinamr aur mehnati hain.",
+        "strengths": [
+          "Vishleshan aur tark shakti",
+          "Paripurnata aur sudhar ki bhavna",
+          "Seva bhav aur vinamrata",
+          "Sangathan aur vyavharikta"
+        ],
+        "weaknesses": [
+          "Ati-alochnatmak",
+          "Chhoti-chhoti baaton par dhyan",
+          "Chinta aur shanka",
+          "Ati-safai aur vyavastha ka aagrah"
+        ],
+        "physical_appearance": "Madhyam kad, patla, saaf-suthra chehra, gambhir aankhen, shant aur vinamr vyaktitva."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Lekha, audit, banking",
+          "Chikitsa, ayurved, swasthya",
+          "Shiksha, adhyapan",
+          "Sampadakiya, proof-reading",
+          "Computer, software, data analysis",
+          "Safai, swasthya, seva kshetra"
+        ],
+        "work_style": "Paripurnata ke saath kaam. Chhoti se chhoti galti pakadna. Seva bhav se karya. Sangathan aur vyavastha mein nipun. Sthir aur mehnati."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Vinamr, sevabhavi aur samarpit. Kabhi-kabhi ati-alochana se sambandh kharab ho sakte hain. Jeevansathi se vyavharik aur sevabhavi sambandh.",
+        "family_life": "Pariwar ki dekhbhal mein samarpit. Mata se gahara sambandh. Jeevansathi se sevabhav. Santan ki parvarish mein paripurnata. Ghar mein vyavastha aur saaf-safai pasand."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Pet, antadiyan, pachan",
+          "Tantrika tantra, chinta",
+          "Twacha, elarji",
+          "Kamar, peeth ke nichle hisse"
+        ],
+        "general_health_tips": "Mansik tanav aur chinta se bachein. Halka, sattvik bhojan. Niyamit vyayam. Pet ki dekhbhal. Yog aur pranayam labhdayak."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [5, 3, 7],
+        "lucky_days": ["Budhwar"],
+        "lucky_colors": ["Hara", "Safed", "Neela"],
+        "lucky_gemstone": "Panna (Emerald)",
+        "favorable_directions": ["Uttar", "Pashchim"],
+        "favorable_metal": "Kansa (Bronze)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Shaant aur gambhir, lekin chinta aur shanka kabhi-kabhi pareshaan karti hai. Atma-vishleshan aur dhyan se shanti milti hai.",
+        "spiritual_inclination": "Ganesh ji, Vishnu ji ki aradhna, Vishnu Sahasranama ka path labhdayak."
+      }
+    },
+    {
+      "lagna": "Tula",
+      "rashi": "Libra",
+      "sign_lord": "Shukra",
+      "element": "Vayu",
+      "quality": "Chara",
+      "basic_traits": {
+        "personality": "Santulan-priya, nyaypriya, saundarya-premi, samajik, vinamr aur madhur bhasha wale hain.",
+        "strengths": [
+          "Santulan aur samanjasya",
+          "Nyay aur nishpakshata",
+          "Saundarya evam kala ki samajh",
+          "Samajik aur madhur vyavhar"
+        ],
+        "weaknesses": [
+          "Nirnay lene mein sankoch",
+          "Dusron ki prashansa ki apeksha",
+          "Kabhi-kabhi ati-udarvadi",
+          "Jhagde se dar"
+        ],
+        "physical_appearance": "Sundar, akarshak chehra, santulit sharir, madhur muskan, vinamr vyavhar, saundarya-premi."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Kala, sangeet, nritya, kala-nirdeshan",
+          "Nyayadhish, vakil, kanuni salahkar",
+          "Sajavat, fashion, saundarya",
+          "Vyapar, madhyasthata, broker",
+          "Rajniti, kootniti, sambandh",
+          "Hotel, aatithya, grahak seva"
+        ],
+        "work_style": "Sahayog aur samanjasya se kaam. Madhyasthata mein nipun. Team ke saath miljul kar kaam. Saundarya aur kala se jude kshetron mein safal."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Prem, saundarya aur santulan chahne wale. Jeevansathi se madhur sambandh. Kabhi-kabhi nirnay na le pane se taklif. Vivah mein santulan avashyak.",
+        "family_life": "Pariwar mein shanti aur saundarya pasand. Jeevansathi se prem aur sahyog. Santan se madhur sambandh. Ghar mein sajavat aur kala ka mahatva."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Gurde, mootra tantra",
+          "Kamar, peeth ke nichle hisse",
+          "Twacha, saundarya sambandhi samasya",
+          "Vayu, jukam"
+        ],
+        "general_health_tips": "Vayu santoollan ke liye yog aur pranayam. Mitha kam karein. Gurde ki dekhbhal. Niyamit vyayam. Mansik santulan banaye rakhein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [6, 5, 2],
+        "lucky_days": ["Shukrawar"],
+        "lucky_colors": ["Gulabi", "Safed", "Neela"],
+        "lucky_gemstone": "Heera (Diamond) ya Opal",
+        "favorable_directions": ["Pashchim", "Dakshin-Pashchim"],
+        "favorable_metal": "Chandi (Silver)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Shant, santulit, lekin kabhi-kabhi anिश्चित. Saundarya aur prem se judi bhavnayein prabal. Dhyan se mansik shanti milti hai.",
+        "spiritual_inclination": "Lakshmi ji, Shukra dev, Radha-Krishna ki bhakti labhdayak."
+      }
+    },
+    {
+      "lagna": "Vrishchika",
+      "rashi": "Scorpio",
+      "sign_lord": "Mangal",
+      "element": "Jal",
+      "quality": "Sthira",
+      "basic_traits": {
+        "personality": "Rahasyamayi, gahan, sankalpit, shaktishali, uttejna-purna aur parivartan-priya hain.",
+        "strengths": [
+          "Sankalp shakti aur dridh nishchay",
+          "Gahan gyan aur antardrishti",
+          "Rahasya aur anusandhan kshamta",
+          "Sahas aur sangharsh kshamta"
+        ],
+        "weaknesses": [
+          "Pratishodh ki bhavna",
+          "Sand eh aur avishwas",
+          "Ati-uttejna aur krodh",
+          "Rahasyamayi vyavhar"
+        ],
+        "physical_appearance": "Madhyam kad, sudridh sharir, bhedi aankhen, gambhir chehra, prabhavshali vyaktitva, tez drishti."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Shodh, anusandhan, detective",
+          "Chikitsa, surgery, shalya",
+          "Rasayan, vigyan, nuclear science",
+          "Police, sena, raksha seva",
+          "Bima, vitt, loan",
+          "Manovaigyan, paranormal"
+        ],
+        "work_style": "Gahan roop se kaam mein jut jate hain. Rahasya aur anusandhan mein ruchi. Sankalp shakti se kathin se kathin kaam pura karte hain. Swatantra roop se kaam pasand."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Gahan, bhavuk aur samarpit. Vishwas par aadharit sambandh. Kabhi-kabhi sandeh aur eershya. Jeevansathi se gahara sambandh aur vafadari.",
+        "family_life": "Pariwar mein gahara bhavnatmak judaav. Mata se sambandh prabal. Jeevansathi se atyant vafadar. Santan se gahara prem. Ghar mein ekant pasand."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Jananendriya, mootra tantra",
+          "Pet, antadiyan",
+          "Rakt, pitt, vish-vikar",
+          "Accident, jal-durghatna"
+        ],
+        "general_health_tips": "Krodh aur uttejna par niyantran. Niyamit vyayam. Pet ki safai. Jal ka paryapt sevan. Mansik shanti ke liye dhyan karein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [9, 1, 3],
+        "lucky_days": ["Mangalwar"],
+        "lucky_colors": ["Lal", "Kesariya", "Kala"],
+        "lucky_gemstone": "Moonga (Red Coral)",
+        "favorable_directions": ["Dakshin", "Purva"],
+        "favorable_metal": "Tamra (Copper)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Gahan, teevra aur parivartansheel. Krodh aur prem dono prabal. Antarmukhi hone se mansik shanti milti hai.",
+        "spiritual_inclination": "Kali mata, Bhairav ji, Hanuman ji ki aradhna labhdayak."
+      }
+    },
+    {
+      "lagna": "Dhanu",
+      "rashi": "Sagittarius",
+      "sign_lord": "Guru",
+      "element": "Agni",
+      "quality": "Dwiswabhav",
+      "basic_traits": {
+        "personality": "Dharmik, aashavadi, swatantra-priya, gyani, udar aur yatra-priya hain.",
+        "strengths": [
+          "Aashavad aur utsah",
+          "Dharam aur gyan ki ruchi",
+          "Udata aur dil kholkar dena",
+          "Swatantra vichar aur drishtikon"
+        ],
+        "weaknesses": [
+          "Kabhi-kabhi ati-spashtvad",
+          "Dusron ki bhavnaon ko thais pahunchana",
+          "Asthirta aur badlav ki chah",
+          "Ati-vishwas"
+        ],
+        "physical_appearance": "Lambe kad, sudridh sharir, tejasvi chehra, khuli aankhen, phurtili chaal, gyan-vigyan se bharpur."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Shiksha, darshan, dharam",
+          "Vakil, nyayadhish, kanuni salahkar",
+          "Yatra, tourism, hotel",
+          "Prakashan, lekhan, anuvad",
+          "Videsh seva, kootniti",
+          "Vyapar, udyog, vitt"
+        ],
+        "work_style": "Swatantra aur badlav pasand. Naye gyan ki khoj. Yatra aur videsh sambandhi karya. Bade lakshya nirdharit karte hain. Guru ke prabhav se dharmik aur nyaypriya."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Udar, aashavadi aur swatantra. Jeevansathi se sambandh mein swatantrata chahte hain. Vivah mein dharmik aur gyan-priya sambandh.",
+        "family_life": "Pariwar mein dharmik vatavaran. Pita se sambandh prabal. Jeevansathi se gyan aur dharmik charcha. Santan se aashavadi aur udar sambandh."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Koolhe, jangh, liver",
+          "Rakt, pitt, jwar",
+          "Accident, khel mein chot",
+          "Vajan badhna"
+        ],
+        "general_health_tips": "Ati-utsah mein savdhani. Niyamit vyayam aur santulit aahar. Liver ki dekhbhal. Yatra mein savdhani. Aashavadi drishtikon banaye rakhein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [3, 9, 5],
+        "lucky_days": ["Guruvar"],
+        "lucky_colors": ["Peela", "Sunehra", "Kesariya"],
+        "lucky_gemstone": "Pukhraj (Yellow Sapphire)",
+        "favorable_directions": ["Purva", "Uttar-Purva"],
+        "favorable_metal": "Sona (Gold)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Aashavadi, utsahi aur udar. Kabhi-kabhi ati-spashtvad se taklif. Dharam aur gyan se mansik shanti milti hai.",
+        "spiritual_inclination": "Guru Brihaspati ki aradhna, Vishnu ji ki bhakti, Gita ka path labhdayak."
+      }
+    },
+    {
+      "lagna": "Makara",
+      "rashi": "Capricorn",
+      "sign_lord": "Shani",
+      "element": "Prithvi",
+      "quality": "Chara",
+      "basic_traits": {
+        "personality": "Mehnati, anushasit, sthir, vyavharik, mahatvakankshi aur jimmedar hain.",
+        "strengths": [
+          "Anushasan aur parishram",
+          "Sthirta aur dhairya",
+          "Jimmedari aur vishwasniyata",
+          "Sangathan aur netritva"
+        ],
+        "weaknesses": [
+          "Ati-gambhir aur kathor",
+          "Nirashavadi drishtikon",
+          "Kabhi-kabhi ati-svarthi",
+          "Bhavnaon ko dabana"
+        ],
+        "physical_appearance": "Patla, lambe haath, gambhir chehra, sudridh sharir, dheere-dheere badhne wala, shani ke prabhav se sthir."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Prashasan, sarkari seva",
+          "Vyapar, udyog, industry",
+          "Bhoomi, property, construction",
+          "Engineering, mining, dhatu",
+          "Rajneeti, prashasan",
+          "Shram, seva, sangathan"
+        ],
+        "work_style": "Anushasit aur mehnati. Dheeraj ke saath kaam. Jimmedari nibhate hain. Unnati dheere-dheere lekin sthir hoti hai. Shani ke prabhav se kathin parishram karte hain."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Gambhir, jimmedar aur sthir. Prem pradarshan kam, lekin vafadar. Jeevansathi se vyavharik aur sthir sambandh. Vivah mein jimmedari ka nirvah.",
+        "family_life": "Pariwar ki jimmedari nibhane mein agrani. Pita se sambandh gambhir. Jeevansathi se sthir sambandh. Santan se anushasit aur jimmedar sambandh."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Knee, jodon, haddiyan",
+          "Dant, masoode",
+          "Twacha, baal",
+          "Vat, jukam, thand"
+        ],
+        "general_health_tips": "Thand se bachein. Niyamit vyayam. Jodo ki dekhbhal. Mansik tanav kam karein. Sattvik aur garam bhojan karein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [8, 6, 5],
+        "lucky_days": ["Shanivar"],
+        "lucky_colors": ["Kala", "Neela", "Hara"],
+        "lucky_gemstone": "Neelam (Blue Sapphire) ya Gomed",
+        "favorable_directions": ["Pashchim", "Dakshin"],
+        "favorable_metal": "Loha (Iron)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Gambhir, sthir aur kabhi-kabhi nirashavadi. Bhavnaon ko dabane se mansik tanav badh sakta hai. Dhyan aur karmyog se shanti milti hai.",
+        "spiritual_inclination": "Shani dev ki aradhna, Hanuman ji ki bhakti, Shani mantra ka jap labhdayak."
+      }
+    },
+    {
+      "lagna": "Kumbha",
+      "rashi": "Aquarius",
+      "sign_lord": "Shani",
+      "element": "Vayu",
+      "quality": "Sthira",
+      "basic_traits": {
+        "personality": "Moulik, swatantra, manviya, vigyani, samaj-sudharak aur santulan-priya hain.",
+        "strengths": [
+          "Moulik vichar aur navachar",
+          "Swatantra drishtikon",
+          "Manviya seva aur samaj sudhar",
+          "Vigyan aur gyan ki ruchi"
+        ],
+        "weaknesses": [
+          "Ati-swतंत्रता ki chah",
+          "Kabhi-kabhi ati-vichitra",
+          "Bhavnatmak doori",
+          "Nirashavadi drishtikon"
+        ],
+        "physical_appearance": "Lambe kad, patla, gambhir chehra, tejasvi aankhen, swatantra chaal, vigyani drishtikon."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Vigyan, takneek, avishkar",
+          "Samaj seva, NGO, samaj sudhar",
+          "Computer, software, internet",
+          "Rajniti, samajik nyay",
+          "Videsh seva, kootniti",
+          "Gyan, darshan, shiksha"
+        ],
+        "work_style": "Swatantra roop se kaam. Navachar aur moulik soch. Samajik sudhar mein ruchi. Shani ke prabhav se anushasit lekin swatantra. Team ke saath samanjasya rakhte hain."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Swatantra aur santulan-priya. Bhavnatmak doori ke bavjood vafadar. Jeevansathi se samanta aur swatantrata chahte hain. Vivah mein mansik samanta avashyak.",
+        "family_life": "Pariwar mein samajik drishtikon. Pita se sambandh gambhir. Jeevansathi se samanta. Santan se swatantra aur moulik sambandh."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Pindli, takhna, pair",
+          "Rakt sanchar, hriday",
+          "Tantrika tantra, chinta",
+          "Vat, jukam"
+        ],
+        "general_health_tips": "Vayu santoollan ke liye yog. Niyamit vyayam. Hriday ki dekhbhal. Mansik tanav kam karein. Sattvik bhojan karein."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [8, 6, 5],
+        "lucky_days": ["Shanivar"],
+        "lucky_colors": ["Neela", "Kala", "Hara"],
+        "lucky_gemstone": "Neelam (Blue Sapphire) ya Amethyst",
+        "favorable_directions": ["Pashchim", "Uttar"],
+        "favorable_metal": "Loha (Iron)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Shant, gambhir aur santulit. Bhavnatmak doori ke karan kabhi-kabhi akelapan. Dhyan aur seva se mansik shanti milti hai.",
+        "spiritual_inclination": "Shani dev ki aradhna, Ganesh ji, Hanuman ji ki bhakti labhdayak."
+      }
+    },
+    {
+      "lagna": "Meena",
+      "rashi": "Pisces",
+      "sign_lord": "Guru",
+      "element": "Jal",
+      "quality": "Dwiswabhav",
+      "basic_traits": {
+        "personality": "Bhavuk, dayalu, kalpanashil, aध्यात्मिक, samarpit aur snehi hain.",
+        "strengths": [
+          "Karuna aur daya",
+          "Kalpana aur kala shakti",
+          "Aध्यात्म aur bhakti",
+          "Samarpan aur seva"
+        ],
+        "weaknesses": [
+          "Ati-bhavuk aur manmauna",
+          "Asthirta aur bhagna",
+          "Dusron ke prabhav mein aana",
+          "Chinta aur avsad"
+        ],
+        "physical_appearance": "Madhyam kad, komal sharir, bhavuk aankhen, shant chehra, gahan drishti, aध्यात्मik vyaktitva."
+      },
+      "career_and_profession": {
+        "suitable_fields": [
+          "Dharam, aध्यात्म, yoga",
+          "Kala, sangeet, kavya, natak",
+          "Chikitsa, narsing, seva",
+          "Jal, samudra, nau-vyavsay",
+          "Film, media, lekhan",
+          "Manovaigyan, paramarsh"
+        ],
+        "work_style": "Bhavnatmak aur kalpanashil kaam. Seva bhav se karya. Guru ke prabhav se dharmik aur gyan-priya. Sthirta ki kami ke bavjood samarpit bhav se kaam."
+      },
+      "relationships_and_family": {
+        "nature_in_relationships": "Ati-bhavuk, snehi aur samarpit. Jeevansathi se gahara bhavnatmak sambandh. Vivah mein prem aur samarpan. Kabhi-kabhi dusron ke prabhav mein aa jate hain.",
+        "family_life": "Pariwar mein dharmik vatavaran. Mata se gahara sambandh. Jeevansathi se samarpit sambandh. Santan se atyant prem aur karuna."
+      },
+      "health": {
+        "vulnerable_areas": [
+          "Pair, talwe, anguthe",
+          "Pet, pachan tantra",
+          "Jal-vriddhi, kapha",
+          "Mansik tanav, avsad"
+        ],
+        "general_health_tips": "Bhavnatmak santoollan rakhein. Niyamit vyayam aur yog. Thanda bhojan kam karein. Mansik shanti ke liye dhyan aur bhakti. Jal ka paryapt sevan."
+      },
+      "favorable_factors": {
+        "lucky_numbers": [3, 9, 5],
+        "lucky_days": ["Guruvar"],
+        "lucky_colors": ["Peela", "Sunehra", "Safed"],
+        "lucky_gemstone": "Pukhraj (Yellow Sapphire)",
+        "favorable_directions": ["Purva", "Uttar-Purva"],
+        "favorable_metal": "Sona (Gold)"
+      },
+      "spiritual_and_emotional": {
+        "emotional_nature": "Gahan, bhavuk aur parivartansheel. Karuna aur daya se bharpur. Dhyan aur bhakti se mansik shanti milti hai.",
+        "spiritual_inclination": "Vishnu ji, Lakshmi ji, Guru Brihaspati ki aradhna, Bhagwat katha labhdayak."
+      }
+    }
+  ]
+}

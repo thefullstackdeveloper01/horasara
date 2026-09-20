@@ -1,0 +1,2582 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "167__dasha_meanings_json",
+    "name": "dasha_meanings",
+    "original_file": "dasha_meanings.json",
+    "dataset_number": "97 of 455",
+    "format": "json",
+    "source_readable_file": "dasha_meanings.txt",
+    "source_sha256": "d38175fc86eb055a600de521f56f3b65a743af230cadc0cf1b94ba2cce860d15",
+    "source_bytes": 20955
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": 2.0,
+      "system": "Vimshottari Dasha",
+      "total_cycle_years": 120,
+      "sequence": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          }
+        ]
+      },
+      "dasha_meanings": {
+        "Sun": {
+          "duration_years": 6,
+          "duration_display": "6 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Soul"
+                ]
+              },
+              {
+                "_text": [
+                  "Father"
+                ]
+              },
+              {
+                "_text": [
+                  "Authority"
+                ]
+              },
+              {
+                "_text": [
+                  "Government"
+                ]
+              },
+              {
+                "_text": [
+                  "Health"
+                ]
+              },
+              {
+                "_text": [
+                  "Vitality"
+                ]
+              },
+              {
+                "_text": [
+                  "Ego"
+                ]
+              },
+              {
+                "_text": [
+                  "Career"
+                ]
+              },
+              {
+                "_text": [
+                  "Leadership"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Heart"
+                ]
+              },
+              {
+                "_text": [
+                  "Eyes (right)"
+                ]
+              },
+              {
+                "_text": [
+                  "Bones"
+                ]
+              },
+              {
+                "_text": [
+                  "Stomach"
+                ]
+              },
+              {
+                "_text": [
+                  "Blood circulation"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Recognition"
+                ]
+              },
+              {
+                "_text": [
+                  "Government favor"
+                ]
+              },
+              {
+                "_text": [
+                  "Career advancement"
+                ]
+              },
+              {
+                "_text": [
+                  "Leadership"
+                ]
+              },
+              {
+                "_text": [
+                  "Confidence"
+                ]
+              },
+              {
+                "_text": [
+                  "Fame"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Ego conflicts"
+                ]
+              },
+              {
+                "_text": [
+                  "Authority issues"
+                ]
+              },
+              {
+                "_text": [
+                  "Father-related problems"
+                ]
+              },
+              {
+                "_text": [
+                  "Heart issues"
+                ]
+              },
+              {
+                "_text": [
+                  "Arrogance"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Government"
+                ]
+              },
+              {
+                "_text": [
+                  "Politics"
+                ]
+              },
+              {
+                "_text": [
+                  "Administration"
+                ]
+              },
+              {
+                "_text": [
+                  "Medicine"
+                ]
+              },
+              {
+                "_text": [
+                  "Gold trade"
+                ]
+              },
+              {
+                "_text": [
+                  "Management"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Career growth"
+                ]
+              },
+              {
+                "_text": [
+                  "Government positions"
+                ]
+              },
+              {
+                "_text": [
+                  "Leadership roles"
+                ]
+              },
+              {
+                "_text": [
+                  "Public recognition"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Relationships (ego issues)"
+                ]
+              },
+              {
+                "_text": [
+                  "Father health"
+                ]
+              },
+              {
+                "_text": [
+                  "Eye health"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Strong identity, career focus",
+            "2nd_lord": "Wealth through authority",
+            "3rd_lord": "Courageous efforts, writing",
+            "4th_lord": "Property gain, mother issues",
+            "5th_lord": "Intelligence activated, children",
+            "6th_lord": "Enemies emerge, health focus",
+            "7th_lord": "Maraka — health watch",
+            "8th_lord": "Chronic issues, transformation",
+            "9th_lord": "Fortune, father's health",
+            "10th_lord": "Peak career period",
+            "11th_lord": "Great gains",
+            "12th_lord": "Expenses, spiritual retreat"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Ruby",
+          "mantra": "Aditya Hridayam or Om Hraam Hreem Hraum Sah Suryaya Namah",
+          "advice": "Use this dasha for career advancement. Respect authorities. Be mindful of ego. Father's health may be concern.",
+          "spiritual_significance": "Soul awakening; dharmic action; past life leadership karma activated",
+          "average_peak_period": "Middle 2-3 years of the dasha"
+        },
+        "Moon": {
+          "duration_years": 10,
+          "duration_display": "10 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Mind"
+                ]
+              },
+              {
+                "_text": [
+                  "Mother"
+                ]
+              },
+              {
+                "_text": [
+                  "Emotions"
+                ]
+              },
+              {
+                "_text": [
+                  "Intuition"
+                ]
+              },
+              {
+                "_text": [
+                  "Public"
+                ]
+              },
+              {
+                "_text": [
+                  "Liquids"
+                ]
+              },
+              {
+                "_text": [
+                  "Travel"
+                ]
+              },
+              {
+                "_text": [
+                  "Popularity"
+                ]
+              },
+              {
+                "_text": [
+                  "Nourishment"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Mind"
+                ]
+              },
+              {
+                "_text": [
+                  "Chest"
+                ]
+              },
+              {
+                "_text": [
+                  "Left eye"
+                ]
+              },
+              {
+                "_text": [
+                  "Breasts"
+                ]
+              },
+              {
+                "_text": [
+                  "Uterus"
+                ]
+              },
+              {
+                "_text": [
+                  "Lymphatic system"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Emotional fulfillment"
+                ]
+              },
+              {
+                "_text": [
+                  "Public popularity"
+                ]
+              },
+              {
+                "_text": [
+                  "Mother's blessing"
+                ]
+              },
+              {
+                "_text": [
+                  "Intuition"
+                ]
+              },
+              {
+                "_text": [
+                  "Creativity"
+                ]
+              },
+              {
+                "_text": [
+                  "Travel"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Emotional instability"
+                ]
+              },
+              {
+                "_text": [
+                  "Mental anxiety"
+                ]
+              },
+              {
+                "_text": [
+                  "Mother health issues"
+                ]
+              },
+              {
+                "_text": [
+                  "Mood swings"
+                ]
+              },
+              {
+                "_text": [
+                  "Water problems"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Public relations"
+                ]
+              },
+              {
+                "_text": [
+                  "Hospitality"
+                ]
+              },
+              {
+                "_text": [
+                  "Nursing"
+                ]
+              },
+              {
+                "_text": [
+                  "Farming"
+                ]
+              },
+              {
+                "_text": [
+                  "Ocean trade"
+                ]
+              },
+              {
+                "_text": [
+                  "Milk products"
+                ]
+              },
+              {
+                "_text": [
+                  "Psychology"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Public contact"
+                ]
+              },
+              {
+                "_text": [
+                  "Emotional healing"
+                ]
+              },
+              {
+                "_text": [
+                  "Creative work"
+                ]
+              },
+              {
+                "_text": [
+                  "Mother relationships"
+                ]
+              },
+              {
+                "_text": [
+                  "Travel"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Consistent focus"
+                ]
+              },
+              {
+                "_text": [
+                  "Mental stability (if Moon afflicted)"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Personal growth, emotional period",
+            "4th_lord": "Home matters, mother focus",
+            "7th_lord": "Maraka risk, relationship focus",
+            "10th_lord": "Public career, fame period"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Pearl",
+          "mantra": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+          "advice": "Emotional period — cultivate inner peace. Good for public-facing work. Mother's wellbeing important.",
+          "spiritual_significance": "Emotional purification; maternal karma; public service",
+          "average_peak_period": "First 4 years if Moon is waxing in natal chart"
+        },
+        "Mars": {
+          "duration_years": 7,
+          "duration_display": "7 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Energy"
+                ]
+              },
+              {
+                "_text": [
+                  "Courage"
+                ]
+              },
+              {
+                "_text": [
+                  "Brothers"
+                ]
+              },
+              {
+                "_text": [
+                  "Property"
+                ]
+              },
+              {
+                "_text": [
+                  "Surgery"
+                ]
+              },
+              {
+                "_text": [
+                  "Sports"
+                ]
+              },
+              {
+                "_text": [
+                  "Military"
+                ]
+              },
+              {
+                "_text": [
+                  "Aggression"
+                ]
+              },
+              {
+                "_text": [
+                  "Technical skills"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Muscles"
+                ]
+              },
+              {
+                "_text": [
+                  "Blood"
+                ]
+              },
+              {
+                "_text": [
+                  "Right ear"
+                ]
+              },
+              {
+                "_text": [
+                  "Bone marrow"
+                ]
+              },
+              {
+                "_text": [
+                  "Nose"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Physical energy"
+                ]
+              },
+              {
+                "_text": [
+                  "Property gains"
+                ]
+              },
+              {
+                "_text": [
+                  "Courage"
+                ]
+              },
+              {
+                "_text": [
+                  "Technical mastery"
+                ]
+              },
+              {
+                "_text": [
+                  "Leadership in action"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Accidents"
+                ]
+              },
+              {
+                "_text": [
+                  "Aggression"
+                ]
+              },
+              {
+                "_text": [
+                  "Conflicts"
+                ]
+              },
+              {
+                "_text": [
+                  "Blood disorders"
+                ]
+              },
+              {
+                "_text": [
+                  "Surgery risk"
+                ]
+              },
+              {
+                "_text": [
+                  "Brother issues"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Military"
+                ]
+              },
+              {
+                "_text": [
+                  "Engineering"
+                ]
+              },
+              {
+                "_text": [
+                  "Surgery"
+                ]
+              },
+              {
+                "_text": [
+                  "Sports"
+                ]
+              },
+              {
+                "_text": [
+                  "Real estate"
+                ]
+              },
+              {
+                "_text": [
+                  "Police"
+                ]
+              },
+              {
+                "_text": [
+                  "Fire fighting"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Property purchase"
+                ]
+              },
+              {
+                "_text": [
+                  "Sports"
+                ]
+              },
+              {
+                "_text": [
+                  "Physical activity"
+                ]
+              },
+              {
+                "_text": [
+                  "Technical work"
+                ]
+              },
+              {
+                "_text": [
+                  "Courage-based decisions"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Patience"
+                ]
+              },
+              {
+                "_text": [
+                  "Peaceful relationships"
+                ]
+              },
+              {
+                "_text": [
+                  "Legal matters"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Physical dominance, leadership",
+            "2nd_lord": "Wealth through effort",
+            "4th_lord": "Property gains/issues",
+            "7th_lord": "Maraka — accidents/surgeries",
+            "8th_lord": "Chronic issues, accidents"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Rahu"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Red Coral",
+          "mantra": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+          "advice": "Channel energy productively. Avoid unnecessary conflicts. Good for real estate. Stay careful about accidents.",
+          "spiritual_significance": "Courage activation; karmic battles; brotherly bonds",
+          "average_peak_period": "Middle 3 years"
+        },
+        "Rahu": {
+          "duration_years": 18,
+          "duration_display": "18 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Obsession"
+                ]
+              },
+              {
+                "_text": [
+                  "Unconventional paths"
+                ]
+              },
+              {
+                "_text": [
+                  "Foreign"
+                ]
+              },
+              {
+                "_text": [
+                  "Technology"
+                ]
+              },
+              {
+                "_text": [
+                  "Mass media"
+                ]
+              },
+              {
+                "_text": [
+                  "Illusions"
+                ]
+              },
+              {
+                "_text": [
+                  "Sudden events"
+                ]
+              },
+              {
+                "_text": [
+                  "Ambition"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Nervous system"
+                ]
+              },
+              {
+                "_text": [
+                  "Skin (unusual disorders)"
+                ]
+              },
+              {
+                "_text": [
+                  "Foreign-origin diseases"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Sudden rise"
+                ]
+              },
+              {
+                "_text": [
+                  "Fame through unconventional means"
+                ]
+              },
+              {
+                "_text": [
+                  "Foreign success"
+                ]
+              },
+              {
+                "_text": [
+                  "Technology mastery"
+                ]
+              },
+              {
+                "_text": [
+                  "Spiritual awakening"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Illusions"
+                ]
+              },
+              {
+                "_text": [
+                  "Addiction"
+                ]
+              },
+              {
+                "_text": [
+                  "Obsession"
+                ]
+              },
+              {
+                "_text": [
+                  "Sudden reversals"
+                ]
+              },
+              {
+                "_text": [
+                  "Deceit"
+                ]
+              },
+              {
+                "_text": [
+                  "Identity confusion"
+                ]
+              },
+              {
+                "_text": [
+                  "Health issues"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Technology"
+                ]
+              },
+              {
+                "_text": [
+                  "Media"
+                ]
+              },
+              {
+                "_text": [
+                  "Foreign trade"
+                ]
+              },
+              {
+                "_text": [
+                  "Research"
+                ]
+              },
+              {
+                "_text": [
+                  "Politics"
+                ]
+              },
+              {
+                "_text": [
+                  "Mass communication"
+                ]
+              },
+              {
+                "_text": [
+                  "Film"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Foreign connections"
+                ]
+              },
+              {
+                "_text": [
+                  "Technology"
+                ]
+              },
+              {
+                "_text": [
+                  "Mass media"
+                ]
+              },
+              {
+                "_text": [
+                  "Breaking conventions"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Ethical grounding"
+                ]
+              },
+              {
+                "_text": [
+                  "Mental peace"
+                ]
+              },
+              {
+                "_text": [
+                  "Conventional social life"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Unusual personality changes",
+            "6th_lord": "Victory over enemies, health obsession",
+            "10th_lord": "Sudden career changes",
+            "11th_lord": "Massive unexpected gains"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Hessonite (Gomed)",
+          "mantra": "Om Raam Rahave Namah or Durga Saptashati",
+          "advice": "Most unpredictable dasha. Focus on spirituality. Beware of illusions. Great for unconventional success if Rahu is well-placed.",
+          "spiritual_significance": "Karmic amplification; past life debts; illusion dissolution",
+          "average_peak_period": "Years 6-12 typically most intense"
+        },
+        "Jupiter": {
+          "duration_years": 16,
+          "duration_display": "16 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Wisdom"
+                ]
+              },
+              {
+                "_text": [
+                  "Children"
+                ]
+              },
+              {
+                "_text": [
+                  "Guru"
+                ]
+              },
+              {
+                "_text": [
+                  "Dharma"
+                ]
+              },
+              {
+                "_text": [
+                  "Wealth"
+                ]
+              },
+              {
+                "_text": [
+                  "Expansion"
+                ]
+              },
+              {
+                "_text": [
+                  "Education"
+                ]
+              },
+              {
+                "_text": [
+                  "Religion"
+                ]
+              },
+              {
+                "_text": [
+                  "Law"
+                ]
+              },
+              {
+                "_text": [
+                  "Husband (for women)"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Liver"
+                ]
+              },
+              {
+                "_text": [
+                  "Thighs"
+                ]
+              },
+              {
+                "_text": [
+                  "Adipose tissue"
+                ]
+              },
+              {
+                "_text": [
+                  "Blood sugar regulation"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Wisdom expansion"
+                ]
+              },
+              {
+                "_text": [
+                  "Wealth accumulation"
+                ]
+              },
+              {
+                "_text": [
+                  "Children"
+                ]
+              },
+              {
+                "_text": [
+                  "Higher education"
+                ]
+              },
+              {
+                "_text": [
+                  "Spiritual growth"
+                ]
+              },
+              {
+                "_text": [
+                  "Legal success"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Overconfidence"
+                ]
+              },
+              {
+                "_text": [
+                  "Weight gain"
+                ]
+              },
+              {
+                "_text": [
+                  "Liver issues"
+                ]
+              },
+              {
+                "_text": [
+                  "Excessive optimism"
+                ]
+              },
+              {
+                "_text": [
+                  "Guru betrayal"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Teaching"
+                ]
+              },
+              {
+                "_text": [
+                  "Law"
+                ]
+              },
+              {
+                "_text": [
+                  "Finance"
+                ]
+              },
+              {
+                "_text": [
+                  "Consulting"
+                ]
+              },
+              {
+                "_text": [
+                  "Religious work"
+                ]
+              },
+              {
+                "_text": [
+                  "Publishing"
+                ]
+              },
+              {
+                "_text": [
+                  "Counseling"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Education"
+                ]
+              },
+              {
+                "_text": [
+                  "Marriage (for women)"
+                ]
+              },
+              {
+                "_text": [
+                  "Children"
+                ]
+              },
+              {
+                "_text": [
+                  "Spiritual practice"
+                ]
+              },
+              {
+                "_text": [
+                  "Legal matters"
+                ]
+              },
+              {
+                "_text": [
+                  "Finance"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Practical matters if overly philosophical"
+                ]
+              },
+              {
+                "_text": [
+                  "Liver health"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Wisdom and body expansion",
+            "2nd_lord": "Wealth expansion",
+            "5th_lord": "Children, intelligence peak",
+            "9th_lord": "Greatest fortune period",
+            "11th_lord": "Massive gains"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Yellow Sapphire",
+          "mantra": "Om Graam Greem Graum Sah Guruve Namah",
+          "advice": "Best dasha for spiritual growth and wisdom. Pursue education and dharmic activities. Marriage-children favorable period.",
+          "spiritual_significance": "Dharma activation; guru connection; past life merit reward",
+          "average_peak_period": "First half of the 16-year period"
+        },
+        "Saturn": {
+          "duration_years": 19,
+          "duration_display": "19 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Discipline"
+                ]
+              },
+              {
+                "_text": [
+                  "Karma"
+                ]
+              },
+              {
+                "_text": [
+                  "Delay"
+                ]
+              },
+              {
+                "_text": [
+                  "Hard work"
+                ]
+              },
+              {
+                "_text": [
+                  "Masses"
+                ]
+              },
+              {
+                "_text": [
+                  "Longevity"
+                ]
+              },
+              {
+                "_text": [
+                  "Property"
+                ]
+              },
+              {
+                "_text": [
+                  "Service"
+                ]
+              },
+              {
+                "_text": [
+                  "Structure"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Bones"
+                ]
+              },
+              {
+                "_text": [
+                  "Teeth"
+                ]
+              },
+              {
+                "_text": [
+                  "Joints"
+                ]
+              },
+              {
+                "_text": [
+                  "Skin"
+                ]
+              },
+              {
+                "_text": [
+                  "Nervous system (chronic)"
+                ]
+              },
+              {
+                "_text": [
+                  "Spleen"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Discipline"
+                ]
+              },
+              {
+                "_text": [
+                  "Long-term success"
+                ]
+              },
+              {
+                "_text": [
+                  "Longevity"
+                ]
+              },
+              {
+                "_text": [
+                  "Structural achievements"
+                ]
+              },
+              {
+                "_text": [
+                  "Mass wealth"
+                ]
+              },
+              {
+                "_text": [
+                  "Political success"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Delays"
+                ]
+              },
+              {
+                "_text": [
+                  "Depression"
+                ]
+              },
+              {
+                "_text": [
+                  "Loneliness"
+                ]
+              },
+              {
+                "_text": [
+                  "Chronic illness"
+                ]
+              },
+              {
+                "_text": [
+                  "Heavy responsibilities"
+                ]
+              },
+              {
+                "_text": [
+                  "Losses"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Mining"
+                ]
+              },
+              {
+                "_text": [
+                  "Real estate"
+                ]
+              },
+              {
+                "_text": [
+                  "Politics"
+                ]
+              },
+              {
+                "_text": [
+                  "Labor"
+                ]
+              },
+              {
+                "_text": [
+                  "Agriculture"
+                ]
+              },
+              {
+                "_text": [
+                  "Construction"
+                ]
+              },
+              {
+                "_text": [
+                  "Government service"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Long-term projects"
+                ]
+              },
+              {
+                "_text": [
+                  "Discipline"
+                ]
+              },
+              {
+                "_text": [
+                  "Mass work"
+                ]
+              },
+              {
+                "_text": [
+                  "Government service"
+                ]
+              },
+              {
+                "_text": [
+                  "Karma yoga"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Quick results"
+                ]
+              },
+              {
+                "_text": [
+                  "Joy and celebration"
+                ]
+              },
+              {
+                "_text": [
+                  "Health (bones/joints)"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Hard work pays off slowly",
+            "4th_lord": "Property through hard work",
+            "7th_lord": "Maraka — delayed marriage or partner health",
+            "10th_lord": "Slow but sure career rise",
+            "11th_lord": "Gains through labor"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Blue Sapphire (with caution)",
+          "mantra": "Om Pram Prim Prom Sah Shanaischaraya Namah",
+          "advice": "Longest dasha — 19 years. Patience is key. Hard work will eventually be rewarded. Focus on karma yoga.",
+          "spiritual_significance": "Karmic reckoning; discipline; service; liberation through work",
+          "average_peak_period": "Last 7 years after initial struggle phase"
+        },
+        "Mercury": {
+          "duration_years": 17,
+          "duration_display": "17 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Intelligence"
+                ]
+              },
+              {
+                "_text": [
+                  "Communication"
+                ]
+              },
+              {
+                "_text": [
+                  "Business"
+                ]
+              },
+              {
+                "_text": [
+                  "Siblings"
+                ]
+              },
+              {
+                "_text": [
+                  "Analysis"
+                ]
+              },
+              {
+                "_text": [
+                  "Writing"
+                ]
+              },
+              {
+                "_text": [
+                  "Trade"
+                ]
+              },
+              {
+                "_text": [
+                  "Education"
+                ]
+              },
+              {
+                "_text": [
+                  "Dual nature"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Nervous system"
+                ]
+              },
+              {
+                "_text": [
+                  "Tongue"
+                ]
+              },
+              {
+                "_text": [
+                  "Arms"
+                ]
+              },
+              {
+                "_text": [
+                  "Lungs (partly)"
+                ]
+              },
+              {
+                "_text": [
+                  "Intestines"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Business success"
+                ]
+              },
+              {
+                "_text": [
+                  "Communication skills"
+                ]
+              },
+              {
+                "_text": [
+                  "Education"
+                ]
+              },
+              {
+                "_text": [
+                  "Analytical thinking"
+                ]
+              },
+              {
+                "_text": [
+                  "Trade"
+                ]
+              },
+              {
+                "_text": [
+                  "Writing"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Nervous disorders"
+                ]
+              },
+              {
+                "_text": [
+                  "Indecision"
+                ]
+              },
+              {
+                "_text": [
+                  "Dishonesty"
+                ]
+              },
+              {
+                "_text": [
+                  "Breathing issues"
+                ]
+              },
+              {
+                "_text": [
+                  "Sibling conflicts"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Business"
+                ]
+              },
+              {
+                "_text": [
+                  "Accounting"
+                ]
+              },
+              {
+                "_text": [
+                  "Writing"
+                ]
+              },
+              {
+                "_text": [
+                  "Teaching"
+                ]
+              },
+              {
+                "_text": [
+                  "IT"
+                ]
+              },
+              {
+                "_text": [
+                  "Trade"
+                ]
+              },
+              {
+                "_text": [
+                  "Consulting"
+                ]
+              },
+              {
+                "_text": [
+                  "Media"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Business ventures"
+                ]
+              },
+              {
+                "_text": [
+                  "Education"
+                ]
+              },
+              {
+                "_text": [
+                  "Writing"
+                ]
+              },
+              {
+                "_text": [
+                  "Communication"
+                ]
+              },
+              {
+                "_text": [
+                  "Short trips"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Single-minded focus"
+                ]
+              },
+              {
+                "_text": [
+                  "Emotional depth"
+                ]
+              },
+              {
+                "_text": [
+                  "Romantic consistency"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Intellectual personality",
+            "2nd_lord": "Wealth through intelligence",
+            "3rd_lord": "Writing, communication peak",
+            "5th_lord": "Creative intelligence",
+            "10th_lord": "Career through intelligence/communication"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Emerald",
+          "mantra": "Om Braam Breem Braum Sah Budhaya Namah",
+          "advice": "Excellent dasha for business, education, and communication. Adaptability is key. Keep commitments.",
+          "spiritual_significance": "Discernment; intellectual karma; communication of truth",
+          "average_peak_period": "Middle phase — years 6-12"
+        },
+        "Ketu": {
+          "duration_years": 7,
+          "duration_display": "7 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Spirituality"
+                ]
+              },
+              {
+                "_text": [
+                  "Detachment"
+                ]
+              },
+              {
+                "_text": [
+                  "Past life"
+                ]
+              },
+              {
+                "_text": [
+                  "Liberation"
+                ]
+              },
+              {
+                "_text": [
+                  "Intuition"
+                ]
+              },
+              {
+                "_text": [
+                  "Occult"
+                ]
+              },
+              {
+                "_text": [
+                  "Isolation"
+                ]
+              },
+              {
+                "_text": [
+                  "Sudden loss"
+                ]
+              },
+              {
+                "_text": [
+                  "Dogs"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Lower extremities"
+                ]
+              },
+              {
+                "_text": [
+                  "Tail-bone"
+                ]
+              },
+              {
+                "_text": [
+                  "Nervous disorders"
+                ]
+              },
+              {
+                "_text": [
+                  "Wounds (unusual)"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Spiritual awakening"
+                ]
+              },
+              {
+                "_text": [
+                  "Psychic abilities"
+                ]
+              },
+              {
+                "_text": [
+                  "Liberation from materialism"
+                ]
+              },
+              {
+                "_text": [
+                  "Occult mastery"
+                ]
+              },
+              {
+                "_text": [
+                  "Detachment"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Confusion"
+                ]
+              },
+              {
+                "_text": [
+                  "Loss"
+                ]
+              },
+              {
+                "_text": [
+                  "Detachment (negative)"
+                ]
+              },
+              {
+                "_text": [
+                  "Accidents"
+                ]
+              },
+              {
+                "_text": [
+                  "Health (sudden)"
+                ]
+              },
+              {
+                "_text": [
+                  "Isolation"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Spirituality"
+                ]
+              },
+              {
+                "_text": [
+                  "Occult"
+                ]
+              },
+              {
+                "_text": [
+                  "Research"
+                ]
+              },
+              {
+                "_text": [
+                  "Astrology"
+                ]
+              },
+              {
+                "_text": [
+                  "Surgery"
+                ]
+              },
+              {
+                "_text": [
+                  "Military (secret ops)"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Spiritual practice"
+                ]
+              },
+              {
+                "_text": [
+                  "Research"
+                ]
+              },
+              {
+                "_text": [
+                  "Occult learning"
+                ]
+              },
+              {
+                "_text": [
+                  "Detachment"
+                ]
+              },
+              {
+                "_text": [
+                  "Past life healing"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Material pursuits"
+                ]
+              },
+              {
+                "_text": [
+                  "Consistent effort"
+                ]
+              },
+              {
+                "_text": [
+                  "Social life"
+                ]
+              },
+              {
+                "_text": [
+                  "Emotional connections"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Confusion about identity",
+            "5th_lord": "Spiritual intelligence",
+            "8th_lord": "Sudden transformations",
+            "9th_lord": "Spiritual fortune",
+            "12th_lord": "Moksha activation"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Moon"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Cat's Eye (Lehsunia)",
+          "mantra": "Om Sraam Sreem Sraum Sah Ketave Namah",
+          "advice": "Highly spiritual dasha. Good for sadhana and letting go. Avoid forced material pursuits. Trust intuition.",
+          "spiritual_significance": "Moksha preparation; past life completion; liberation karma",
+          "average_peak_period": "First 3 years most intense spiritually"
+        },
+        "Venus": {
+          "duration_years": 20,
+          "duration_display": "20 years",
+          "natural_significations": {
+            "_items": [
+              {
+                "_text": [
+                  "Love"
+                ]
+              },
+              {
+                "_text": [
+                  "Beauty"
+                ]
+              },
+              {
+                "_text": [
+                  "Luxury"
+                ]
+              },
+              {
+                "_text": [
+                  "Spouse"
+                ]
+              },
+              {
+                "_text": [
+                  "Arts"
+                ]
+              },
+              {
+                "_text": [
+                  "Music"
+                ]
+              },
+              {
+                "_text": [
+                  "Pleasure"
+                ]
+              },
+              {
+                "_text": [
+                  "Vehicles"
+                ]
+              },
+              {
+                "_text": [
+                  "Wealth"
+                ]
+              },
+              {
+                "_text": [
+                  "Wife"
+                ]
+              }
+            ]
+          },
+          "body_parts": {
+            "_items": [
+              {
+                "_text": [
+                  "Reproductive system"
+                ]
+              },
+              {
+                "_text": [
+                  "Eyes (both)"
+                ]
+              },
+              {
+                "_text": [
+                  "Kidneys"
+                ]
+              },
+              {
+                "_text": [
+                  "Skin"
+                ]
+              },
+              {
+                "_text": [
+                  "Thyroid (some traditions)"
+                ]
+              }
+            ]
+          },
+          "keywords_positive": {
+            "_items": [
+              {
+                "_text": [
+                  "Wealth"
+                ]
+              },
+              {
+                "_text": [
+                  "Love"
+                ]
+              },
+              {
+                "_text": [
+                  "Marriage"
+                ]
+              },
+              {
+                "_text": [
+                  "Artistic success"
+                ]
+              },
+              {
+                "_text": [
+                  "Luxury"
+                ]
+              },
+              {
+                "_text": [
+                  "Vehicles"
+                ]
+              },
+              {
+                "_text": [
+                  "Business"
+                ]
+              },
+              {
+                "_text": [
+                  "Beauty"
+                ]
+              }
+            ]
+          },
+          "keywords_negative": {
+            "_items": [
+              {
+                "_text": [
+                  "Sensual excess"
+                ]
+              },
+              {
+                "_text": [
+                  "Relationship complications"
+                ]
+              },
+              {
+                "_text": [
+                  "Kidney issues"
+                ]
+              },
+              {
+                "_text": [
+                  "Laziness"
+                ]
+              },
+              {
+                "_text": [
+                  "Vanity"
+                ]
+              }
+            ]
+          },
+          "career_domains": {
+            "_items": [
+              {
+                "_text": [
+                  "Entertainment"
+                ]
+              },
+              {
+                "_text": [
+                  "Arts"
+                ]
+              },
+              {
+                "_text": [
+                  "Music"
+                ]
+              },
+              {
+                "_text": [
+                  "Fashion"
+                ]
+              },
+              {
+                "_text": [
+                  "Cosmetics"
+                ]
+              },
+              {
+                "_text": [
+                  "Hospitality"
+                ]
+              },
+              {
+                "_text": [
+                  "Finance"
+                ]
+              },
+              {
+                "_text": [
+                  "Diplomacy"
+                ]
+              }
+            ]
+          },
+          "favorable_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Marriage"
+                ]
+              },
+              {
+                "_text": [
+                  "Love relationships"
+                ]
+              },
+              {
+                "_text": [
+                  "Artistic work"
+                ]
+              },
+              {
+                "_text": [
+                  "Business"
+                ]
+              },
+              {
+                "_text": [
+                  "Luxury acquisition"
+                ]
+              }
+            ]
+          },
+          "challenging_for": {
+            "_items": [
+              {
+                "_text": [
+                  "Spiritual practice"
+                ]
+              },
+              {
+                "_text": [
+                  "Discipline"
+                ]
+              },
+              {
+                "_text": [
+                  "Confrontation"
+                ]
+              }
+            ]
+          },
+          "house_effects": {
+            "1st_lord": "Charming personality, beauty",
+            "2nd_lord": "Great wealth period",
+            "5th_lord": "Love and creativity",
+            "7th_lord": "Marriage/partnership focus",
+            "10th_lord": "Career in arts/beauty",
+            "11th_lord": "Massive material gains"
+          },
+          "best_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury"
+                ]
+              }
+            ]
+          },
+          "challenging_sub_dashas": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon"
+                ]
+              }
+            ]
+          },
+          "gemstone": "Diamond",
+          "mantra": "Om Draam Dreem Draum Sah Shukraya Namah",
+          "advice": "Longest and most pleasant dasha for many. Focus on love, arts, and prosperity. Balance pleasure with responsibility.",
+          "spiritual_significance": "Bhakti activation; divine love; beauty as spiritual path",
+          "average_peak_period": "Years 8-15 typically most prosperous"
+        }
+      }
+    }
+  }
+}

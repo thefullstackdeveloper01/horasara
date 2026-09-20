@@ -1,0 +1,317 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "333__reporting_policy_json",
+    "name": "reporting-policy",
+    "original_file": "reporting-policy.json",
+    "dataset_number": "333 of 455",
+    "format": "json",
+    "source_readable_file": "reporting-policy.txt",
+    "source_sha256": "eb1308151d0883a3bbab25fdf3c8bb675cf74767213f2da212c59eaf358d29a2",
+    "source_bytes": 1640
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "planets": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          },
+          {
+            "_text": [
+              "Uranus"
+            ]
+          },
+          {
+            "_text": [
+              "Neptune"
+            ]
+          },
+          {
+            "_text": [
+              "Pluto"
+            ]
+          }
+        ]
+      },
+      "lifeAreas": {
+        "_items": [
+          {
+            "_items": [
+              {
+                "_text": [
+                  "career"
+                ]
+              },
+              {
+                "_text": [
+                  "Career & Profession"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "wealth"
+                ]
+              },
+              {
+                "_text": [
+                  "Wealth & Finance"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "marriage"
+                ]
+              },
+              {
+                "_text": [
+                  "Marriage & Partnership"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "health"
+                ]
+              },
+              {
+                "_text": [
+                  "Health Symbolism"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "children"
+                ]
+              },
+              {
+                "_text": [
+                  "Children & Progeny"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "spirituality"
+                ]
+              },
+              {
+                "_text": [
+                  "Spirituality"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "property"
+                ]
+              },
+              {
+                "_text": [
+                  "Property & Assets"
+                ]
+              }
+            ]
+          },
+          {
+            "_items": [
+              {
+                "_text": [
+                  "foreign"
+                ]
+              },
+              {
+                "_text": [
+                  "Foreign Travel / Settlement"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "forbiddenCertaintyPatterns": {
+        "_items": [
+          {
+            "_text": [
+              "100\\s*%\\s*(accurate|certain)"
+            ]
+          },
+          {
+            "_text": [
+              "scientifically\\s+(proven|proved|validated)\\s+astrology"
+            ]
+          },
+          {
+            "_text": [
+              "guaranteed\\s+(result|outcome|prediction)"
+            ]
+          },
+          {
+            "_text": [
+              "will\\s+definitely\\b"
+            ]
+          },
+          {
+            "_text": [
+              "certainly\\s+(will|happen)"
+            ]
+          }
+        ]
+      },
+      "requiredSectionIds": {
+        "_items": [
+          {
+            "_text": [
+              "executive"
+            ]
+          },
+          {
+            "_text": [
+              "calculation-audit"
+            ]
+          },
+          {
+            "_text": [
+              "basic-details"
+            ]
+          },
+          {
+            "_text": [
+              "planetary-position"
+            ]
+          },
+          {
+            "_text": [
+              "charts"
+            ]
+          },
+          {
+            "_text": [
+              "houses"
+            ]
+          },
+          {
+            "_text": [
+              "vargas"
+            ]
+          },
+          {
+            "_text": [
+              "strength"
+            ]
+          },
+          {
+            "_text": [
+              "dasha"
+            ]
+          },
+          {
+            "_text": [
+              "transits"
+            ]
+          },
+          {
+            "_text": [
+              "prediction"
+            ]
+          },
+          {
+            "_text": [
+              "timing"
+            ]
+          },
+          {
+            "_text": [
+              "evidence"
+            ]
+          },
+          {
+            "_text": [
+              "remedies"
+            ]
+          },
+          {
+            "_text": [
+              "provenance"
+            ]
+          },
+          {
+            "_text": [
+              "validation"
+            ]
+          },
+          {
+            "_text": [
+              "qa"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

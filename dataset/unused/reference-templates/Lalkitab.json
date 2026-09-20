@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lk_001",
+    "planet": "Jupiter (Guru)",
+    "house": 1,
+    "symptom": "Native is self-centered, faces issues in marital life, or suffers from liver problems.",
+    "remedy": [
+      "Offer water to a Peepal tree daily.",
+      "Wear clean clothes.",
+      "Keep solid silver in the house."
+    ],
+    "source": "Lal Kitab (Original by Pt. Roop Chand)"
+  },
+  {
+    "id": "lk_002",
+    "planet": "Saturn (Shani)",
+    "house": 4,
+    "symptom": "Native faces issues with mother, vehicle accidents, or loss of property.",
+    "remedy": [
+      "Feed milk to a black dog.",
+      "Keep a black and white dog in the house.",
+      "Serve beggars and disabled people."
+    ],
+    "source": "Lal Kitab (Original by Pt. Roop Chand)"
+  }
+]

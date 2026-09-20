@@ -1,0 +1,1129 @@
+READABLE DATASET
+================================================================================
+Original file: astronomy_time_history_ayanamsa_contents.json
+Dataset number: 21 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 40,153 bytes
+Top-level fields: 11
+Title: Astronomy_time_history_ayanamsa_contents
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Astronomy_time_history_ayanamsa_contents
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: classifiedbytopicscontents
+  • total_pages: 29
+  • total_words: 5829
+  • text_quality:
+    • ocr_word_validity_score: 0.67
+    • quality_tier: moderate
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+Astronomy_time_history_ayanamsa; link:
+https://my.pcloud.com/publink/show?code=kZ0LvLkZoW34Qp5jh4puWVfyeXqAmyip3bwy
+root folder; https://my.pcloud.com/publink/show?code=kZ3NcW7Z9Np4EUHYYR8KAibwo1 NqcSmJjODV
+about jyotish
+astrologer's qualifications_Gauranga Das.doc
+astrologer's qualifications_Gauranga Das.pdf
+Astrology conference_Markandeya Rishi .doc
+Astrology conference_Markandeya Rishi .pdf
+Study on vedic astrology_Syamasundara.doc
+T
+Ti
+astrolabes
+ASTROLABE_ Rumen Kolev's Placidus and Porphyrius Magus.webarchive
+Astrolabe_Book_Announcement_201 3_July_1 0.pdf
+Astrolabe_Mini_Model.pdf
+Book_1620_D. Henrion_explication de I'usage de Castrolabe.pdf
+Book_1880_Geoffrey Chaucer_A Treatise on the Astrolabe.pdf
+Book_1880_Geoffrey Chaucer_The Astrololabes of Samuel Champlain.pdf
+Book_1910_A. Anthiaume_L' Astrolabe-quadrant.pdf
+Historical Astrolabes of Delhi.pdf
+Koch_J._NABU_And_The_Astrolabe_Part_l.pdf
+Koch_J._NABU_And_The_Astrolabe_Part_ll.pdf
+Koch_J._N ABU_And_The_Astrolabe_Part_l 1 1 . pdf
+Sultan Suri and the astrolabe.pdf
+Vol32_3_3_Early History Of The Astrolabe In lndia.pdf
+Vol34_2_6_Yantraraja_The Astrolabe In Sanskrit.pdf
+A
+T
+IB
+•T
+A
+Astrology A Science Or Myth - Arvind Gupta.pdf
+astronomy
+Articles
+Antardvipa
+A tale of two zodiacs.pdf
+grr.
+Surya_Revolutions of the Sun_Antardwip.pdf
+“B Aryabhata and Albiruni_M. S. Khan.pdf
+T Aryabhata and Lokayatas_heliocentric.pdf
+Aryabhata and the table of Sines_B. N. Narahari Achar.pdf
+Astronomers and reasons_Christopher Minkowski.pdf
+astronomical Concept in Vishnupurana_B. N. Narahari Achar.pdf
+ASTRONOMICAL DEFINITIONS and calculations.doc
+ASTRONOMICAL DEFINITIONS and calculations.pdf
+Astronomical definitions of grahas and the zodiac.pdf
+Astronomy and Astrology in India and Iran.docx
+Astronomy and Astrology in India and lran.pdf
+1.7MB
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 2
+Name
+astronomy in lndia.pdf
+Astronomy or Astrology_A. Losev.pdf
+astronomy_ planets.doc
+astronomy, planets.pdf
+Bfi,
+Bernard R. Goldstein.Astronomy and the Jewish Community in Early lslam.pdf
+Book_1881_Sandford Fleming.The adoption of a prime meridian.pdf
+Calculation of tithis_Surya Siddhanta formulation.pdf
+K
+description of the universe_7 worlds.Visvananda Tirtha.pdf
+description of the universe_7 worlds.Visvananda Tirtha.rtf
+0 Distance Sun Moon.doc
+Distance Sun_Moon.pdf
+Eclipse period of 3339 in Rigveda.pdf
+Eclipse period of 3339_another view.pdf
+Enigma of the 5 year Yuga of the Vendanga Jyotisha.pdf
+essay_2007_transmission of astronomical knowledge in the middle ages.pdf
+External influences on Ancient Indian astronomy.pdf
+F.A. Mesmer.Cosmology and Scientific Astrology.pdf
+Glimpses from the Aryabhata Siddhanta.pdf
+A
+AGreek and Indian astronomy relation.pdf
+Hindu Astronomical Sciences in Mithila.pdf
+Indian National Science Academy
+A Self-Taught Sky Watcher And His Contributions.pdf
+Account By Joseph Dubois Of Astronomical Work Under Jai Singh.pdf
+Accuracy Of Measurements In Indian Astronomy.pdf
+Ahargana And Weekdays As Per Modern Suryasiddhanta_Vol36_1_2 & 3_.pdf
+Ahargana And Weekdays As Per Modern Suryasiddhanta_Vol38_1_3.pdf
+AHARGANA IN HINDU ASTRONOMY.pdf
+AnalysisMahasiddhanta Of Aryabhata.pdf
+Ancient Indian Astronomy And The Aryan Invasion Theory.pdf
+Ancient Indian Astronomy.Planetary Positions And Eclipses.pdf
+Archaeo Astronomy Of Nataraja.pdf
+Astronomical Concept In Visnupurana.pdf
+Astronomical Instruments In Classical Siddhantas.pdf
+Astronomical Observation In Vedic And Post-Vedic lndia.pdf
+Astronomy And Mathematics In Ancient lndia_Vol24_4_1.pdf
+Astronomy And Mathematics In Ancient lndia_Vol44_3_9.0.pdf
+Astronomy And Mathematics In Ancient lndia_Vol44_3_9.pdf
+Size
+
+Astronomy time histoiy ayanamsa
+Name
+Size
+CJs
+CJs
+cas
+ca,
+ASTRONOMY IN ANCIENT AND MEDIEVAL INDIA_Kripa Shankar Shukla.pdf 1 50 KB
+Astronomy In Ancient lndia.pdf 145 KB
+Astronomy In Ancient India2.pdf 405 KB
+Astronomy In India In 18-19 Centuries.pdf 899 KB
+Astronomy In India In The 20Th Century.pdf 656 KB
+Astronomy In Indus Civilization And During Vedic Times.pdf 190 KB
+Astronomy Of The Satapatha Brahmana.pdf 364 KB
+Babylonian Source Of Aryabhata'S Planetary Constants.pdf 72 KB
+Book reviewjndian Astronomy - Concepts And Procedures.pdf 41 KB
+Brahmasphutasiddhanta_Ch.21.pdf 2.2 MB
+Calculations Of Tithis_An Extension Of Surya Siddhanta Formulation.pdf 438 KB
+Connections Between The Vedanga Jyotish And Vedic Literature.pdf 48 KB
+CONSTANT-SET (DHRUVA-RASI) TECHNIQUE IN JAINA ASTRONOMY.pdf 1 21 KB
+Copernican Heliocentric Theory And Indian Astronomy.pdf 464 KB
+Copernicus And Modern Astronomy.pdf 163 KB
+Cult Of Sacrifice And Indian Astronomy.pdf 1 55 KB
+Dhruva-Rasi Technique In Jaina School.pdf 1 22 KB
+Eccentric Circle Planetary Model In lndia.pdf 237 KB
+Eclipses And Planetary Positions In Mahabharata.pdf 1 .3 MB
+Eighth Century Chinese Compilation.pdf 303 KB
+Epicyclic Eccentric Planetary Theories In Ancient lndia.pdf 335 KB
+History Of Indian Astronomy_1 830-1 860.pdf 590 KB
+Impact Of Modern European Astronomy On Raja Jai Singh.pdf 199 KB
+Indian Astronomical And Time-Measuring lnstruments.pdf 496 KB
+Indian Astronomical Observatory.pdf 688 KB
+Jagannath Samrat'S Contribution To Indian Astronomy.pdf 1 78 KB
+JEAN-BAPTISTE BIOT ON THE HISTO... INDIAN ASTRONOMY_1830-1860.pdf 596 KB
+Jesuit Astronomers On The Astronomy Of India And China.pdf 184 KB
+Julian Days in Astronomy.pdf 1 14 KB
+JyOTisalnKerala.pdf 218 KB
+Lost Knowledge_Accurate Positioning Of Planets.pdf 86 KB
+Lunar Model In Ancient Indian Astronomy_part 1 .pdf 41 8 KB
+Lunar Model In Ancient Indian Astronomy_part 2.pdf 50 KB
+Mathematics And Astronomy In Medieval lndia.pdf 37 KB
+Mean Planetary Positions According To Grahala Ghavam.pdf 599 KB
+Mean Sun And Moon In Ancient Greek And Indian Astronomy.pdf 78 KB
+Methods Of Interpolation In Indian Astronomy.pdf 183 KB
+File Listing
+Page 3
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 4
+Name
+ON THE ORIGIN OF SIDEREAL ZODIAC AND ASTRONOMY.pdf
+Palm Leaf Manuscripts In Orissa.pdf
+Parasara'S Six Season Solar Zodiac_Agastya.pdf
+Phases Of The Moon_Rising And Setting Of Planets And Stars.pdf
+Planetary Revolutions In Indian Astronomy2.pdf
+Planets In The Vedic Literature.pdf
+Pluto And A Transplutonian Planet.pdf
+Polar Longitudes Of The Soryasiddhanta And Hipparchus Commentary.pdf
+Post- Vedic Astronomy.pdf
+PRACTICAL ASTRONOMY IN INDO-PERSIAN SOURCES.pdf
+CJs
+Pratibimba Siddhanta Of Jai Singh'S Library.pdf
+Pre-Copernican Astronomy In Europe.pdf
+Problem For Determining The Place Of A Planet.pdf
+R. N.lyengar.pdf
+Rahu And Ketu In Mythological And Astronomological Contexts.pdf
+Rik-Jyotisa Verses On 19-YearYuga.pdf
+Romaka Siddhanta In The Panca Siddhantika_Vol13_2_7_.pdf
+Romakasiddhanta Epoch_Vol41_3_2.pdf
+Sayana'S Astronomy.pdf
+Seminar On Indian Astronomy And Jai Singh_A Report.pdf
+Siddhantakaustubha Of Jagannathapandita.pdf
+Solution Of The Astronomical Triangle As Found In The Tantrasamgraha.pdf
+Some Geological Aspects Of The Suryasiddhanta.pdf
+source materials concerning astronomy and mathematics.pdf
+Spherical Astronomy _Tensor Method.pdf
+Standardization Of Time Unit Muhurta.pdf
+Star Catalogues And Star Tables In M... Oriental And European Astronomy.pdf
+Surya Siddhanta Dating.pdf
+Tantrasamgraha Of Nilakantha Somayaji.pdf
+The Extant Siddhanta Sekhara.pdf
+The Gnomon In Early Indian Astronomy.pdf
+The Manda Puzzle In Indian Astronomy.pdf
+The Method Of Science In Astronomy.pdf
+The Prime Meridian In Indian Astronomy.pdf
+The Siddhanta Sekhara Of SripatMITh Century.pdf
+The Yuga System And The Computations Of Planetary Longitudes.pdf
+Three 19Th Century Calcutta Astronomers.pdf
+Size
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 5
+Name
+Size
+x_
+True Rationale Of Surya Siddhanta.pdf
+Unequal Naksatra Divisions In Jain Astronomy.pdf
+Varahamihira_The Best Sanskrit Source Of Al-Birunl.pdf
+Vedanga Jyotisa 5 Year Yuga_Vol39_2_5.pdf
+Vedanga Jyotisa Revising Date_Vol35_3_1.pdf
+K.
+U
+Vedanga Jyotisa Two Important Provisions_Vol37_3_1.pdf
+Vedanga Jyotisa_Where And When_Vol43_3_1.pdf
+Versified Sine Tables In Jnanarajas Siddhantasundara.pdf
+Zodiacal Circumference As Graduated In Jaina Astronomy.pdf
+Kerala Temple Astro logy. o. pdf
+Mean Motions and Longitudes in Indian Astronomy Dennis W. Duke.pdf
+Mystical Mathematics of Ancient planets_R. C. Gupta.pdf
+obliquity of the ecliptic
+Equation of Time.webarchive
+obliquity.pdf
+obliquity.rtf
+physical forces and differential calculus in ancient lndia.pdf
+planets perihelion to the sun and 2012.pdf
+Roots Of Hindu Astronomy_lyengar.pdf
+Sadaputa
+Advanced Astronomy - by Sadaputa das.pdf
+Astronomy and Antiquity of Vedic Culture.rtfd
+Cosmography by Sadaputa.doc
+Cosmography by Sadaputa.pdf
+Vedic Cosmography & Astronomy_Sadaputa.pdf
+Vedic Cosmography & Astronomy_Sadaputa.rtf
+u
+Simplified Astronomy for Astrologers.pdf
+Simplified Astronomy for Astrologers_David Williams.pdf
+The Ancient Astronomers of Timbuktu.pdf
+the Electric Universe confirmed.webarchive
+The Electric Universe. webarchive
+The story of the indie cosmology_kosla Vepa.pdf
+Understanding Precession in Ancient lndia.pdf
+Values for the mean synodic month.pdf
+VEDIC ASTRONOMY ARTICLES_Balakrishna.pdf
+Zodiacal circumference in Jain astronomy.pdf
+Book_1981_R. Grossinger_The NightSky.pdf
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 6
+Name
+Size
+CJs
+Us
+CJ^
+Book_1572_Tycho Brahe_the astronomer.pdf
+Book_1649_V. Weigelius_Astrology Theologised_original.pdf
+Book_1649_V. Weigelius_Astrology Theologised_retyped.pdf
+Book_1 789_.Sibly_Astronomy_Placidus de Titus.pdf
+Book_1824_S. Mackey _Mythological Astronomy of the Ancients Demonstrated.pdf
+Book_1860_O.M. MitchelLPopular astronomy.pdf
+Book_1862_Lewis_An Historical Survey of the Astronomy of the Ancients.pdf
+Book_1871_Elias Colbert_Star studies_Wh...w of the universe outside the earth.pdf
+Book_1 875_J. Rambosson_Astronomy.pdf
+Book_1877_Astronomical myths_based on Flammarion's_History of the heavens.pdf
+Book_1877_J. N.Lockyer_Astronomy.pdf
+Book_1 878_R.Ball_Astronomy.pdf
+Book_1878_Woodwell Hunt_The new idea of astronomy and the sight of the eye.pdf
+Book_1881_G. H.Chambers_A Cycle Of Celestial Objects.pdf
+Book_1881_Simon Newcomb_Astronomy for High Schools and Colleges.pdf
+Book_1 886_Astrology theologized_Weigel.pdf
+Book_1888_Lockyer Norman_Elements of Astronomy.pdf
+Book_1888_R. A. Proctor_Old and new astronomy.pdf
+Book_1889_Charles A. Young_A text-book of general astronomy.pdf
+Book_1890_J.L.E. Dreyer_Tycho Brahejife and work.pdf
+Book_1892_lsaac Sharpless_Astronomy fo...neral Readers_pictures incomplete .pdf
+Book_1893_Burgess_Notes on Hindu astronomy_extracts.pdf
+Book_1894_Camille Flamarion_Popular astronomy.pdf
+Book_1894_Charles Young_A list of books in the Public library on astronomy.pdf
+Book_1895_Astral Worship_J.H. Hill.pdf
+Book_1 895_Great Astronomers_retyped.pdf
+Book_1899_Occultism Simplified - W Whitehead.pdf
+Book_1903_George Comstock_A Text-book of Astronomy.pdf
+Book_1903_Richard A Proctor_Myths and Marvels of Astronomy.pdf
+Book_1903_Simon Newcomb_The Reminiscences of an Astronomer.pdf
+Book_1904_E. Walter Maunder_Astronomy Without a Telescope.pdf
+Book_1905_Oliver Lodge_Pioneers of science_astronomy.pdf
+Book_1907_A field book of the stars_astronomy.pdf
+Book_1907_G. E. Mitton_The Children's Book Of Stars.pdf
+Book_1908_E. Walter Maunder_The astronomy of the Bible_original.pdf
+Book_1908_E. Walter Maunder_The astronomy of the Bible_retyped.pdf
+Book_1908_Garret P. Serviss_Astronomy with the naked eyes.pdf
+
+Astronomy time histoiy ayanamsa
+Name
+Size
+E3h
+CJs
+Us
+CJ^
+CJN
+CJ^
+Book_191 1_Maria King_The new astronomy and laws of nature.pdf 2.6 MB
+Book_1913_Harold Jacoby_Astronomy.pdf 17.2 MB
+Book_1914_Stellar movements and the str...ure of the Universe_A. S. Eddington.pdf 6.1 MB
+Book_1918_G.R. Kaye_The Astronomical Observations Of Jai Singh.pdf 8.3 MB
+Book_1919_H. Macpherson_Practical Astronomy With The Unaided Eye.pdf 1.0 MB
+Book_1921_D.N. Mallik_The Elements of astronomy.pdf 5.2 MB
+Book_1921_J.C. Crowther_Six Great Astronomers.pdf 2.0 MB
+Book_1922_lsabel Martin Lewis_Astronomy for Young Folks.pdf 2.7 MB
+Book_1923_Eugene L. Richards_Elementar... Navigation and Nautical Astronomy.pdf 5.1 MB
+Book_1928_Garret P. Serviss_Round the year with the stars.pdf 1 .4 MB
+Book_1928_James L. Hicks_The Aquarian age_astronomy and astrology.pdf 1 .8 MB
+Book_1946-Ernest Agar Beet_A Text Book of Elementary Astronomy.pdf 2.6 MB
+Book_1954_Giorgio Abetti_The History Of Astronomy.pdf 5.1 MB
+Book_1977_Seymour Simon_Look to the ni...y_an introduction to starwatching.pdf 1.3 MB
+Book_1981_D. Pingree_Jyotihsastra_Astral and mathematical literature.pdf 5.1 MB
+Book_1985_History Of astronomy in lndia.pdf 11.8 MB
+Book_1985_J.W. Dauben_The History of Ma...atics from Antiquity to the Present.pdf 5.7 MB
+Book_1988_J.V. Field_Kepler's Geometrical Cosmology.pdf 4.2 MB
+Book_1989_Patrick Moore_Astronomy for the beginner.pdf 1 .7 MB
+Book_1991_Charles A. Schweighauser_Astr...nary of celestial objects and ideas.pdf 3.7 MB
+Book_1997_Robert Wilson_Astronomy Through the Ages.pdf 2.7 MB
+Book_1997_S.Carboni_Following the Stars_lmages of the Zodiac in Islamic Art.pdf 3.9 MB
+Book_2000_Helaine Selin_Astronomy across cultures.pdf 11.7 MB
+Book_2003_Simon Newcomb_side Lights on Astronomy.pdf 580 KB
+Book_2005_C. Ruggles_Ancient Astronom...yclopedia of Cosmologies and Myth.pdf 4.8 MB
+Book_2005_Encyclopedic Survey of Archaeoastronomy.pdf 11.5 MB
+Book_2007_revolution in astronomy_Braham Kitiarai_must read.pdf 1 .9 MB
+Book_2008_Michael Erlewine_The Astrology of Space_must read.pdf 4.5 MB
+Book_201 1_Astronomy among Jews in the Middle Ages_Bernard R. Goldstein.pdf 270 KB
+Book_2011_David H. Kelley_Exploring AncientSkies_AncientAstronomy.pdf 13.2 MB
+Book_201 1_Jordan Maxwell_Stellar Theology and Masonic Astronomy.pdf 3.2 MB
+Book_201 1_The story of astronomy_Peter Aughton.pdf 845 KB
+Book_201 2_H.W. Warren_Recreations in Astronomy.pdf 6.0 MB
+Book_2013_R. S. Westman_Copernicus and the Astrologers.pdf 2.8 MB
+Book_2013_R. S. Westman_Copernicus and the Astrologers_book review.pdf 313 KB
+Book_2014_John Philip Hunter_Astrology and Astronomy_ Cosmic Cousins.pdf 395 KB
+Book_Cosmology Religion and Philosophy_Steiner Rudolf.pdf 91 KB
+File Listing
+Page 7
+
+Astronomy time histoiy ayanamsa
+Name
+Book_Guido Bonatti_Book of astronomy_Dykes transl.pdf
+Book_M. Sarkar & B.B. Dutta_Astronomy-4th Ed. pdf
+Book_Tofigh Heidarzadeh_A History of P...f Comets_From Aristotle to Whipple.pdf
+Brahma Sphuta Siddhanta
+Jyotish_Brahma Sphuta Siddhanta_Vol.1 .pdf
+Jyotish_Brahma Sphuta Siddhanta_VoL2.pdf
+Jyotish_Brahma Sphuta Siddhanta_VoL3.pdf
+■za L
+Jyotish_Brahma Sphuta Siddhanta_VoL4.pdf
+By Danavir Goswami
+iza~,
+Jyotish_2003_Danavir Goswami_Vedic Cosmology.pdf
+Jyotish_2007_Danavir Goswami_Bhu gola tattva.pdf
+BBSs
+essay_ Astronomy in the early 13th century.pdf
+In french
+French_Books_Camille Flamarion_Astronomie
+French_Book_1873-77_Camille Flamari...ectures sur l'astronomie_Tome 1.pdf
+French_Book_1873-77_Camille Flamari...ectures sur l'astronomie_Tome 2.pdf
+French_Book_1873-77_Camille Flamari...ectures sur l'astronomie_Tome 3.pdf
+French_Book_1873-77_Camille Flamari...ectures sur l'astronomie_Tome 4.pdf
+French_Book_1873-77_Camille Flamari...ectures sur l'astronomie_Tome 5.pdf
+French_Book_1873-77_Camille Flamari...ectures sur l'astronomie_Tome 7.pdf
+li t "
+French_Book_1875_C. Jourdain_Nicola...ologues de la cour de Charles V.pdf
+French_Book_1875_Camille Flamarion_Les merveilles celestes.pdf
+French_Book_1878_Camille Flamarion_...e_catalogue des etoiles doubles.pdf
+French_Book_1881_Camille Flamarion_Astronomie populaire.pdf
+■A
+French_Book_1892_Camille Flamarion_Qu'est-ce que le ciel.pdf
+French_Book_1894_Camille Flamarion_Les terres du ciel.pdf
+French_Books_Frangois Arago_Astronomie
+French_Book_1 856_Frangois Arago_Astronomie populaire_tome 1.pdf
+French_Book_1 856_Frangois Arago_Astronomie populaire_tome 2.pdf
+French_Book_1 856_Frangois Arago_Astronomie populaire_tome 3.pdf
+French_Book_1856_Frangois Arago_Astronomie populaire_tome 4.pdf
+French_Book_1781-1802_Jerome de La Lande_Bibliographie astronomique.pdf
+■za^
+French_Book_1781_J.S. Bailly_Histoire ...ienne depuis son origine_see p.421.pdf
+French_Book_1 834_Herschel_Traite d'astronomie.pdf
+French_Book_1865_Joseph Bertrand_Le...dateurs de I'astronomie moderne.pdf
+French_Book_1879_P. A. Secchi_Les etoiles_essai d'astronomie siderale.pdf
+French_Book_1899_Ernest Lebon_Histoire abregee de I'astronomie.pdf
+Size
+File Listing
+Page 8
+
+Astronomy time history ayanamsa
+Name Size
+French_Book_1899_Gabriel Dallet_Astronomie pratiqueje soleil_les etoiles.pdf 11 .8 MB
+French_Book_1908_Camille Flamarionjnitiation astronomique.pdf 5.4 MB
+■ft
+■ft
+■ft
+■ft
+■ft
+■ft
+■ft
+interesting ones
+Book_Atlas of Messier Objects.pdf
+Book_Atlas of the Universe.pdf
+Book_BEST_Philip's Astronomy Encyclopedia.pdf
+Book_BEST_Pocket Sky Atlas.pdf
+Book_Eclipse_Duncan Steel.pdf
+Book_Handbook of Space Astronomy and Astrophysics 3rd Ed. pdf
+Bookjntroduction to Astronomy and Cosmology.pdf
+Book_Jayant Narlikar_A Journey Through The Universe.pdf
+Book_Jon Erickson_Asteroids_Comets and Meteorites.pdf
+Book_Stephen Hawking - A Brief History Of Time.pdf
+Book_The Handy Astronomy Answer Book2AAA.pdf
+Book_Vitaly Adushkin_Catastrophic Events Caused by Cosmic Objects.pdf
+Jyotish_1500_1977_Nilakanta Somayaji_Jy...stigations on astronomical theories.pdf
+Jyotish_1814_Maria Grahamjetters on lndia_ Old Astronomy chapter Extracted.pdf
+Jyotish_1817_Brahmagupta and Bhaskara_Algebra.pdf
+Jyotish_1825_A Historical View of the Hindu Astronomy_full.pdf
+Jyotish_1896_Hindu Astronomy.pdf
+Jyotish_1917_G. R. Kaye_The Astronomical Observatories Of Jai Singh.pdf
+Jyotish_1932_C.P.S. Menon_Early Astronomy And Cosmology.pdf
+Jyotish_1968_Dr. S. Prakash_Brahmagupta And His Works.pdf
+Jyotish_1969_Bharatiya Jyotish Sastra_part 1.pdf
+Jyotish_1969_Bharatiya Jyotish Sastra_part 2.pdf
+Jyotish_1969_Kalinath Mukherji_Popular Hindu Astronomy_MUST READ.pdf
+Jyotish_1988_Saint Vadiraja_Madhva Sampradaya_Bhugola Varnanam.pdf
+Jyotish_1998_Arun Kumar_Upadhyaya_S...a Darpana_Vol.1_SANSKRIT MOSTLY.pdf
+Jyotish_1998_Arun Kumar_Upadhyaya_Siddhanta Darpana_VoL2.pdf
+Jyotish_2001_Subhash Kak_Birth and Early Development of Indian Astronomy.pdf
+Jyotish_2002_Astronomy Encyclopedia.pdf
+Jyotish_2014_Sri Harsha lndrasena_Vedi...nomy And Astrology Through Science.pdf
+Jyotish_Ancient Astronomy_Encyclopedia Of Cosmologies And Myth.pdf
+Jyotish_Astronomy and Cosmology_voL2.pdf
+Jyotish_Astronomy relevant to astrology_V.P. Jain.pdf
+Jyotish_Bharatiya Jyotish Sastra_Ancient Indian Astrology 2006.pdf
+Jyotish_Elements of astronomy_V. P. Jain.pdf
+1.7MB
+File Listing
+Page 9
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 1 0
+Name
+Jyotish_Krishna Ramadas_Ancient Skies and Astronomy Now.pdf
+Jyotish_Laghu_Bhaskariya part3.pdf
+Jyotish_Learn astrology calculations.pdf
+Jyotish_Sri Harsha lndrasena_Vedic as...h science, wisdom and commonsense.pdf
+Jyotish_The Aryabhatiya of Aryabhata.pdf
+A.
+Jyotish_The Science of Planets Around Stars_Cole & Woolfson.pdf
+Jyotish_Vatesvara Siddhanta and gola_miss p. 243-308.pdf
+Siddhanta Deepika 13 vol. 1897
+Siddhanta Deepika 13 vol. INDEX
+index.idx
+indexl.idx
+Siddhanta Deepika 13 vol. INDEX.log
+Siddhanta Deepika 13 vol. INDEX.pdx
+Siddhanta Deepika_Vol. 1.pdf
+Siddhanta Deepika_Vol. 10.pdf
+Siddhanta Deepika_Vol. 11.pdf
+Siddhanta Deepika_Vol. 12b.pdf
+Siddhanta Deepika_Vol. 13.pdf
+Siddhanta Deepika_Vol. 14.pdf
+Siddhanta Deepika_Vol. 2.pdf
+Siddhanta Deepika_Vol. 3.pdf
+Siddhanta Deepika_Vol. 4.pdf
+Siddhanta Deepika_Vol. 5.pdf
+Siddhanta Deepika_Vol. 6.pdf
+Siddhanta Deepika_Vol. 7.pdf
+Siddhanta Deepika_Vol. 8.pdf
+Siddhanta Deepika_Vol. 9.pdf
+M
+K
+K
+JL1
+Hi
+M
+K
+ri
+K
+jj
+Surya-siddhanta and Siddhanta-siromani
+3 Strange Verses in Surya Siddhanta.pdf
+Book_1924_R. Sewell_The siddhantas and the Indian calendar.pdf
+French_Jyotish_Surya Siddhanta_Burgess_french translation by Biot_1861.pdf
+Jyotish_Siddhanta Shiromani _Bapu Deva 1861.pdf
+Jyotish_Siddhanta Shiromani _Bhaktisiddanta 1913.pdf
+Jyotish_Siddhanta Shiromani _quotes only.txt
+Jyotish_Siddhanta Shiromani_D. Arkasomayaji_1980 trans.pdf
+Jyotish_Surya siddhanta and Siddhanta siromani full_english textonly.txt
+Jyotish_Surya siddhanta and Siddhanta siromani_Bhaktisiddhanta_1890.pdf
+K
+Size
+5 KB
+4 KB
+437 bytes
+211 bytes
+
+Astronomy time history ayanamsa
+File Listing
+Page 1 1
+Name
+AAJ
+AEl
+AJyotish_Surya siddhanta and Siddhanta siromani_extracts only.pdf
+Jyotish_Surya siddhanta and Siddhanta siromani_Quotes only.txt
+Jyotish_Surya siddhanta discussion.pdf
+Jyotish_Surya Siddhanta_Bapu Deva 1861.pdf
+Jyotish_Surya Siddhanta_Burgess.pdf
+Jyotish_Surya's Vedic Cosmography And Astronomy_ Sadaputa.pdf
+Physical Astronomy and Surya Siddhanta.pdf
+Rationale Of Surya Siddantha.pdf
+The Copernican Question Revisited_A Reply.pdf
+Useless
+Book_Ben Evans_Space Shuttle Columbia.pdf
+Book_Claudio Vita_Finzi_The Sun_A User's Manual.pdf
+Book_Dave Prochnow_101 Outer Space Projects for the Evil Genius.pdf
+Book_David Arditti_Setting up a Small Observatory.pdf
+Book_David Brodie_lce Rock and Beauty.pdf
+Book_David Woods_How Apollo Flew to the Moon.pdf
+Book_Exploration of the Solar System by Infrared Remote Sensing.pdf
+Book_Finding the Big Bang.pdf
+Book_Graham SwinerdHow Spacecraft Fly.pdf
+Book_How to Photograph the Moon and Planets with Your Digital Camera.pdf
+Book_Jamey L. Jenkins_The Sun And How To Observe lt.pdf
+Book_John W. McAnally_Jupiter & how to observe it. pdf
+Book_M.M.Woolfson_Small Bodies in Planetary Systems.pdf
+Book_M.M.Woolfson_The Origin and Evolution of the Solar System.pdf
+Book_Mark Moldwin_An Introduction to Space Weather.pdf
+Book_Michael H. Carr _The Surface of Mars.pdf
+Book_Michael K. Gainer_Real Astronomy with Small Telescopes.pdf
+Book_Mystery of the Tunguska Fireball.pdf
+Book_Nadine Barlow_mars_an lntroduction.pdf
+Book_Paleomagnetism_Continents and Oceans.pdf
+Book_Philip Pugh_The Science and Art of Using Telescopes_2009.pdf
+Book_Polar Lakes and Rivers.pdf
+Book_Ruben Kier_The 100 Best Targets for Astrophotography_2009.pdf
+Book_Sarah H. Parcak_Satellite remote sensing archaeology.pdf
+Book_Ted twietmeyer_What Nasa Isnt Telling You About Mars.pdf
+Book_Therese Encrenaz_Searching for Water in the Universe.pdf
+Book_Tom Zoellner_uranium.pdf
+S
+k
+E
+AJ
+A
+k\
+ti
+A
+E
+El
+Size
+
+Astronomy_time_history_ayanamsa; link:
+https://my.pcloud.com/publink/show?code=kZ0LvLkZoW34Qp5jh4puWVfyeXqAmyip3bwy
+Name
+T
+Book_Vladimir Rubtsov_Tunguska Mystery.pdf
+vatesvara siddhanta
+Size
+Book_1840_B. Pierce_An Elementary Treatise on Plane Spherical Trigonometry.pdf 11.6 MB
+"Ti
+Calculation Of Ahargana In The Vatesvara Siddhanta.pdf
+Jyotish_Vatesvara Siddhanta and gola_miss p. 243-308.pdf
+Observations On Vrddha- Vasistha Siddhanta.pdf
+7 The System Of The Vatesvara Siddhanta.pdf
+Vatesvara Siddhanta Sine Values.pdf
+astronomy_maths_geometry
+1831_Elias Colbert_The lunar apsides.pdf
+Book_1847_Simmonite_Mathematical and Astronomical Tables.pdf
+Book_1848_T. Oxley_Gem of the Astral Sciences.pdf 6.3 MB
+Book_1869_R.Shortrede_Azimuth and Hour Angle for Latitude and Declination.pdf 7.1 MB
+T
+■a
+■a
+Ti
+A
+t
+T
+T
+CJ
+T
+T
+Book_1873_C.A. Grimmer_The Voice of stars or the effects.pdf
+Book_1892_C.W.C Barlow_Elementary Mat.. .cal Astronomy_vol.2_good graphics.pdf
+Book_1903_I.Thodhunter_Spherical Trigonometry_For College And Schools.pdf
+Book_1914_Mathematical recreations and essays.pdf
+Book_1931_W.M. Smart_Text-book on spherical astronomy.pdf
+Book_1942_J. E. Thompson_Elements Of Spherical Trigonometry.pdf
+Book_1943_H.L.C. Leighton_Solid Geometry and spherical trigonometry.pdf
+Book_1960_M.L. Khanna_Spherical Astronomy.pdf
+Book_1965_Gorak Prasad_Text-book on spherical astronomy.pdf
+Book_1970_Jeff Mayo, faculty of astrological studies_How to cast a natal chart.pdf
+Book_Daniel FLeisch_A Student's Guide to the Mathematics of Astronomy.pdf
+Indian Mathematics.pdf
+Jyotish_A book on Mathematical astrology_Bansal.pdf
+Jyotish_Birth Chart_Mathematics.pdf
+Mental Astrological Calculations — Part 1_Charles Drutman.pdf
+astronomy_time_calendars
+Book_1903_Emmeline M. Plunket_Ancient Calendars and Constellations.pdf
+Book_1920_Martin P. Nilson_Primitive time reckoning.pdf
+Book_1923_Reginald C. Couzens_The stories of the months and days.pdf
+Book_David Wilcock_Shift Of The Ages.pdf
+Calendars
+2018 calendar.pdf
+7) 2019 calendar.pdf
+7 Attacks on Indian Calendar.pdf
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 1 3
+Name
+Size
+calendar 2018.pdf
+calendar 2019.pdf
+calendar 2020.pdf
+calendar 2021 .pdf
+INDIAN CALENDARS systems.pdf
+India’s Calendar Reform.doc
+India’s Calendar Reform.pdf
+Jyotish_History of Calendars.pdf
+Nachum Dershowitzjndian Calendrical Calculations.o.pdf
+Ready Reckoner For Indian Eras.pdf
+Scientific Vedic calendar.txt
+The 13 Moon Calendar. webarchive
+Jyotish_1971_Book Of Indian Eras_With Tables For Calculating Indian Dates.pdf
+Mb.
+LocalApparentTime.pdf
+Time Measurements Systems In Ancient lndia.pdf
+ayanamsa_topical-sidereal
+Ayanamsa topics
+H
+JU
+Starry night precesion animation. m4v
+Axial precession_Wikipedia.webarchive
+Axial tilt. webarchive
+Axial tilt_Wikipedia.webarchive
+Ayanaamsa_Hariprasad.pdf
+Ayanamsa controversy_K. Chandra Hari.pdf
+Ayanamsa Statistical Study.pdf
+Book_Paul Vandemeer_The Missing Link in Astrology_a MUST.pdf
+Book_Sri Yukteswar_The Holy Science_ebook.pdf
+Book_Sri Yukteswar_The Holy Science_original.pdf
+Brahma Ayanamsa.pdf
+divya test-drik and Surya siddhanta .doc
+divya test-drik and Surya siddhanta .pdf
+Dulakara Ayanamsha.pdf
+Ernst Wilhelm Ayanamsha_Yukteswar. webarchive
+Invariance of the Tropical Zodiac.pdf
+Jyotish_2009_Usha Shashi_Vedic astrological calculations.pdf
+Kala settings.pdf
+Kala settings.rtf
+Obliquity of the Ecliptic. webarchive
+6 KB
+1 KB
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 1 4
+Name
+polestar have an orbit called Sishumara.pdf
+polestar have an orbit called Sishumara.rtf
+PVR Rao using Pushya-paksha Ayanamsa
+Introducing Pushya_paksha Ayanamsa.pdf
+Resolving the Ayanamsha with Jupiter_sun conjunctions.pdf
+Sidereal or Tropical _Sayana_Nirayana_Systems.pdf
+ZM -
+SiderealorTropical.pdf
+solstice_equinox
+Josefina Rodriguez Arribas_significa... in Abraham Ibn Ezra’s cosmology.pdf
+midnight sun_solstices.pdf
+as
+Spring Equinox_all 2 Parts.o.pdf
+The solstices and astrology.pdf
+the solstices and equinoxes. webarchive
+Vedic Astrology - Precession of the Equinoxes.pdf
+Study of ayanamsa.pdf
+Book_1866 Drummond_CEdipus Judaicus_Siderial-Tropical zodiac.pdf
+Did Bhaktisiddhanta use a Tropical Zodiac?.webarchive
+Garga-Jyotisha or Vruddha Garga Samhita_Part1_tropical ayanas.pdf
+History of the zodiac_Babylonian sidereal zodiac.pdf
+Jyotish_Muddle of ayanamsa.pdf
+Nature of The Sidereal Zodiac.pdf
+precession
+Historical perspectives on Copernicus's account of precession.pdf
+How the galactic center replaced the constellations.pdf
+Precession animation
+® @10' Hindu mistake_krittika ayanamsa. mp4
+krittika on equinox 2200BC.pdf
+precession explained in graphics
+25700 years cycle.gif
+25700 years cycle2.gif
+ages, png
+earth wobble.jpg
+Galactic Alignment. webarchive
+precession circle.jpg
+precessionnal circle_BEST.gif
+secrets in plain sight.rtfd
+Precession of the equinox_The Ancient Truth.pdf
+Size
+1 KB
+
+Astronomy time history ayanamsa
+Name
+R.N. lyengar_Ancient Indian Astronomy in Vedic Texts_precession.pdf
+Vedic Astrology - Precession of the Equinoxes.doc
+Reconciliation of the Tropical and Sidereal Zodiacs.pdf
+The Tropical and Sidereal Zodiac Systems.pdf
+Size
+Tyson's Zodiac_Are There Really Fourteen ...pical zodiac nothing to do with stars.pdf 189 KB
+Vol33_4_Origin Of Sidereal Zodiac.pdf 204 KB
+A western sidereal astrology.pdf 91 KB
+Book_1919_Frank C. Higgins_The cross of the magi_sarvatobhadra.pdf 4.0 MB
+earth_concave
+Bendy light -the evidence, webarchive
+Horizon_on concave hearth.webarchive
+earth flat
+200 Proofs Earth is Not a Spinning.pdf
+Book_1865_Earth Not a Globe (Samuel Rowbothan).pdf
+Book_Eric Dubay_Atlantean Conspiracy.pdf
+Book_Rectangle_1899_Zetetic Cosmogony_geocentric flat earth.pdf
+Flat Earth Facts.pdf
+flatearth.pdf
+a flatearth.rtf
+gleason Earth map_HD.png
+gleason Earth map_wind_animated.webarchive
+Sampradaya Sun_Earth is Not a Globe
+Earth is Not a Globe_part 1 .pdf
+Earth is Not a Globe_part 2.pdf
+Earth is Not a Globe_part 3.pdf
+earth_geocentricity
+Book_Gallileo was wrong. Evidence for Geocentrism.pdf
+Decoding the 5th Canto.pdf
+Decoding the 5th Canto.rtf
+downloaded
+Ancient Indian geocentric Astronomy.pdf
+Animation Movies Concerning the Geocentric-Heliocentric Debate.pdf
+"TV
+Arguments for geocentricity.webarchive
+epicycle conference_bible_3_final.pdf
+From geocentric to heliocentric model of the universe.pdf
+Geocentric versus Heliocentric Models.pdf
+Geocentricity and the Catholic.pdf
+I. 4 MB
+II. 1 MB
+File Listing
+Page 1 5
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 1 6
+Name
+Geocentricity.pdf
+geocentric_heliocentric.pdf
+Presentation_astronomy - Copernicus - Ptolemy.. etc.pdf
+Presentation_Copernicus.pdf
+ti
+APresentation_heliocentric vs geocentric.pdf
+Presentation_history of astronomy upto Newton.pdf
+Scientific Reconsideration of geocentricity.pdf
+Stellar parallax_aberration is geocentric.pdf
+geocentricity & retro motion_diagrams
+A.
+® Earth non rotation.doc
+Earth non rotation.pdf
+Equinoxes precession.pdf
+Equinoxes precession.rtf
+Fall of star Vega 12000 BC.txt
+Graphic_1753_Homann Heirs_Solar System Astronomical Chart.jpg
+Graphic_Ptolemy Geocentricity.pdf
+Indian Astronomy calculations.doc
+Lord Krishna Existed. rtfd
+quotes from scriptures
+from bible and koran
+I all quotes.odt
+Moving-Earth DECEPTION!! - The Earth is NOT Moving.webarchive
+Proof of Geocentric Correctness. rtfd
+Q sixty-seven bible references.htm
+The Earth Is Not Moving. rtfd
+D The Koran— Like the Bible-Refutes Copernicanism.htm
+from vedas
+about Rahu & Sankhacuda_Tulasi synopsys.doc
+about Rahu & Sankhacuda_Tulasi synopsys.pdf
+about Rahu & Sankhacuda_Tulasi.doc
+about Rahu & Sankhacuda_Tulasi.pdf
+dates.odt
+highlight from Surya Siddhanta Burgess.doc
+highlight from Surya Siddhanta Burgess.pdf
+Size
+2 KB
+6 KB
+8 KB
+8 KB
+highlight from Surya's Vedic Cosmography And Astronomy_ Sadaputa.doc 1 .4 MB
+highlight from Surya's Vedic Cosmography And Astronomy. Sadaputa.pdf 672 KB
+sankacuda cousin of rahu.doc
+
+File Listing
+Page 1 7
+
+AstronomyJme history ayanamsa
+File Listing
+Page 1 8
+
+Astronomy time history ayanamsa
+File Listing
+Page 1 9
+
+A
+Astronomy J:ime history ayanamsa
+Name
+D
+D
+D
+D
+B
+D
+B
+B
+D
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+Etidor2.gif
+Etidor20inter.htm
+Etidor22interlude.htm
+Etidor25the_unbidden.htm
+Etidor3.gif
+Etidor31.htm
+Etidor4.gif
+Etidor43interlude.htm
+Etidor44.htm
+Etidor5.gif
+Etidor50.htm
+Etidor52.htm
+Etidor6.gif
+Etidor7.gif
+Etidor8.gif
+etidor9.gif
+EtidorCHAPTERXLI.htm
+Etidorchapter_ii.htm
+Etidorchapter_iii.htm
+Etidorchapter_iv.htm
+Etidorchapter_ix.htm
+Etidorchapter_v.htm
+Etidorchapter_vi.htm
+Etidorchapter_vii.htm
+Etidorchapter_viii.htm
+Etidorchapter_x.htm
+Etidorchapter_xi.htm
+Etidorchapter_xii.htm
+Etidorchapter_xiii.htm
+Etidorchapter_xiv.htm
+Etidorchapter_xix.htm
+Etidorchapter_xl.htm
+Etidorchapter_xlii.htm
+Etidorchapter_xlix.htm
+Etidorchapter_xlv.htm
+Etidorchapter_xlvi.htm
+Etidorchapter_xlvii.htm
+Size
+5 KB
+6 KB
+12KB
+15KB
+6 KB
+15KB
+8 KB
+12KB
+15KB
+12KB
+File Listing
+Page 20
+
+AstronomyJme history ayanamsa
+File Listing
+Page 21
+
+Astronomy time history ayanamsa
+File Listing
+Page 22
+
+Astronomy time history ayanamsa
+File Listing
+Page 23
+
+Astronomy time history ayanamsa
+File Listing
+Page 24
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 25
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 26
+Name
+Size
+The Hollow Earth in Science by Duane Griffin.webarchive
+The Sons of Sagara in the Hollow Earth. webarchive
+World Top Secret_Our Earth Is Hollow.pdf
+flaws in modern theories
+Gravity - observations and theory. webarchive
+How Far Can the Hubble See. webarchive
+Human Space Travel Investigated.webarchive
+Is the moon an optical illusion.webarchive
+Space machines do not orbit the Earth - The Wild Heretic.webarchive
+The Astrolabe/ the original astronomical computer.webarchive
+History
+Al Biruni
+Jyotish_1 000_AI Biruni_The Chronology of Ancient Nations 1 879.pdf
+Jyotish_1888_Alberuni's lndia_voh.pdf
+Jyotish_1888_Alberuni's lndia_vol2.pdf
+Jyotish_1910_Alberuni's lndia_voL1.pdf
+Jyotish_1910_Alberuni's lndia_vol2.pdf
+articles
+1 9 Year Yuga of Rik Jyotish.pdf
+5 year yuga in vedanga.pdf
+5 year yuga of the Vedanta Jyotisa.pdf
+A brief history of astrology.doc
+About Parasara Siddhanta.pdf
+AL_BIRUNI One of the greatest scientists.pdf
+Ancient Astrology.pdf
+Ancient silk road. png
+Archaic Astronomy of Parasara and Vriddha Garga.pdf
+Astrology and the Ramayana by H R Shankar.pdf
+Astrology and the Ramayana by H R Shankar.rtf
+Astrology history.pdf
+Astronomy and Astrology in India and lran_David Pingree.pdf
+Dates of Indian astronomy Texts.pdf
+Dating of Rohini Sakata Bheda.pdf
+Gotras of Rishis.pdf
+Graham hancock_Fingerprints of the Gods.pdf
+Graphic_Ancient map of India in 600 BC.jpg
+Graphic_Ancient map of lndia.jpg
+I. 7MB
+II. 6 MB
+17KB
+
+Astronomy time history ayanamsa
+Name
+Hindu Predictive Astrology. rtfd
+History of Astrology_Barbara Giles.pdf
+Horoscopes and Public Spheres Essays on the History of Astrology.pdf
+How many kinds of Yugas are there.rtfd
+Introduction of Persian Astronomy into lndia.pdf
+a
+Jyotish In Ramayana.pdf
+kalaganana.pdf
+Krishna & the Unicorn of the Indus Seals_Mahabharata.pdf
+Medieval Chartres - The Zodiac of the cathedral stained glasses .webarchive
+medieval history.pdf
+Origin and Development of Jyotisha Sastra.pdf
+Origin Of Astrology.pdf
+Origin Of Astrology.rtf
+Post Vedic Astronomy_S-D. Sharma.pdf
+rishis lineage_gothras.pdf
+Sarasvati River and Chronology.pdf
+a.
+The Emperor Hadrian & Astrology.pdf
+The Influence of Astrology and Stellar Religion on Early Christianity.pdf
+Tradition of Aryabhatiya in Kerala.pdf
+Yojanas_Meru is the Great Pyramid.pdf
+Size
+Astrology in the early Byzantine empire a...strology stance of the church fathers.pdf 223 KB
+Book_1800_John Barrett_ An Enquiry into ...rigin of the Constellations_Zodiacal.pdf 3.3 MB
+Book_1821 _lamblichus_Mysteries of the Egyptians_Chaldeans and Assyrians.pdf 3.9 MB
+Book_1849_Zadkiel_Astrology and the Popish Priestcraft.pdf
+Book_1872_Dupuis_Origin of All Religious Worship.pdf
+Book_1877_M.S.S. Singh_History Of Nepal.pdf
+Book_1900_ Brief History of Astrology.pdf
+Book_1901_J. F. Hewitt_History and chronology of the myth-making age.pdf
+Book_1901_Jermain G. Porter_The Stars in Song and Legend.pdf
+Book_1911_Cumont_Astology & Religion Among the Greeks and Romans.pdf
+Book_1919_Bessie Leo_The Life and Work of Alan Leo Theosophist.pdf
+k
+Book_1942_Astrology_its history and infl... in the western world_Ellen McCaffer.pdf 6.5 MB
+yA-|
+Ti
+Book_1949_Ernest Busenbark_symbols_sex_and the Stars.pdf
+Book_1954_catalogue of the persian_turk...stani and pushtu manuscripts_part 3.pdf 6.4 MB
+Book_1954_P. Moore_Suns Myths & Men. pdf
+Book_1969_George Bayer_Turning 400 Years of Astrology.pdf
+Book_1971_R.C. Majumdar_History Of Ancient Bengal.pdf
+File Listing
+Page 27
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 28
+Name
+Size
+Book_1984_J.L. Shastri_vol.26_Ancient Indian Trradition and Mythology.pdf
+Os
+A|
+Ov
+Book_1984_Stephen Arroyo_The practice ...r lost connections with the cosmos.pdf
+Book_1989_Warren Kenton_Astrology The Celestial Mirror.pdf
+Book_1998_Robert Hand_Chronology of th... Middle East and the West by Period.pdf
+Book_2005_Benson Bobrick_The Fated Sky_Astrology in History.pdf
+Book_2010 _ Christians And Astrology.pdf
+Book_2011_Michael Ryan_A Kingdom of St...rology in Spain_Aragon_lnquisition.pdf
+Book_2013_Milan Monica Azzolini_The Duke and the Stars.pdf
+Book_2013_Monica AzzolinMThe Duke and ...y and Politics in Renaissance Milan.pdf
+Book_2013_Pat Holliday_Astrology_stairway to heaven.pdf
+Book_A Brief History of Ancient Astrology_Roger beck.pdf
+Book_George Curtis_Ancient Knowledge.pdf
+Book_J. H. Hill_Astral Worship.pdf
+Book_J.holden_five medieval astrologers.pdf
+Book_William R. Newman and A. Grafton_...and Alchemy in Early Modern Europe.pdf
+dating Mahabharata Kali-yuga etc._
+O.
+1938_Tablesforthe Reduction of Hindu. ..om the Data of the Surya-Siddhanta.pdf
+A Fresh Glimpse of the Date of Mahabharata_1995.pdf
+Astrology and the Ramayana by H R Shankar.pdf
+Astrology and the Ramayana by H R Shankar.rtf
+Astronomical_ReferencesJn_Mahabharata.pdf
+Book_1915_E. W. Hopkins_Epic Mythologyjndian Gods.pdf
+■SBS,
+Book_1972_C.Mabel Duff_The Chronology Of Indian History.pdf
+■ZB^
+Book_1978_A.N. Chandra_The Date Of Kurukshetra War.pdf
+Eclipses And Planetary Positions In Mahabharata (dragged). pdf
+Indian Planetary Models From Aryabhata to Nilakantha_2008.pdf
+■za^,
+Jyotish_1931_N. Jagannada Rao_The age of the Mahabharata war.pdf
+Jyotish_1942_K. L. Dafkari_Astronomical method to the chrolology of lndia.pdf
+MB4
+Jyotish_1969_Srinivas Raghavan_Date of Mahabharata war and Kaili Yugadhi.pdf
+■SBs
+Jyotish_2007_Kosla Vepa_Astronomical dating of events from Indian history.pdf
+IZB~,
+Jyotish_Dating of Mahabharata.pdf
+Jyotish_The Scientific Dating of the Mahabharat_P.V. Vartak_1 981 .pdf
+Jyotish_The Scientific Dating Ramayana and the Vedas_P.V. Vartak.pdf
+Krsnamahabaratadate.doc
+Krsna mahabarata date.pdf
+■ZB^
+Krsna Samhita_Bhaktivinoda thakur.pdf
+■ZB^.
+Lord Krishna - An epic hero or a historical reality.pdf
+
+Astronomy time histoiy ayanamsa
+File Listing
+Page 29
+Name
+Tl
+K
+E.J -
+JL
+XJ
+s
+AJ
+Mahabharata reference to Sidereal system. rtfd
+next krita yuga_Pusya star.rtf
+note on Kali era. pdf
+THE DATE OF THE MAHABHARATA WAR.pdf
+Jyotish_1903_Tilak Lokamanya_The Arctic Home In The Vedas.pdf
+Jyotish_1925_B-G. Tilak_Vedic Chronology and Vedanga Jyotisha.pdf
+Jyotish_1927_Bently_A Historical View Of The Hindu Astronomy.pdf
+Jyotish_1947_P.C. Senagupta_Ancient Indian Chronology.pdf
+Jyotish_1964_R. V. Vaidya_Astronomical Light On Vedic Culture.pdf
+Jyotish_AncientAstronomy.pdf
+Jyotish_Babylon Horoscopes_Sreenadh.pdf
+Jyotish_History of Indian Astronomy partl.pdf
+Jyotish_History of Indian Astronomy part2.pdf
+Jyotish_Marriage and Divorce of Astronomy and Astrology.pdf
+Jyotish_Ptolemy's geography 1908.pdf
+Varahamihira's epoch
+India as seen in the brhatsamhita of Varahamihira_1969.pdf
+■ZBv
+Varahamihira and His Times.pdf
+Jyotish_The greatness of Sri Gayatri _Origin of astronomy and astrology.pdf
+Rev. Robert Taylor_astronomy_astrology_bible
+SW>,
+Book_rev. Dr. CaldwelLThe relation of Christianity to Hinduism.pdf
+Rev. Robert Taylor_1829_first missionary oration.pdf
+Rev. Robert Taylor_1831_Astronomico-th...ourses_The Devil's Pulpit_magazine.pdf
+Rev. Robert Taylor_1848_Astro-theological sermons.pdf
+Rev. Robert Taylor_1857_Astro-theological sermons.pdf
+Rev. Robert Taylor_1857_Astronomico-theological discourses.pdf
+B
+K
+we'll know our disinformation program is co... thing the american public believes is false
+Isn’t this a conspiracy too far.webarchive
+~$tro. to astrology.doc
+Size
+3 KB
+1.7MB
+1 62 bytes

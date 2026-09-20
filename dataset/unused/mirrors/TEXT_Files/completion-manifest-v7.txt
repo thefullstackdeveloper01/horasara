@@ -1,0 +1,46 @@
+READABLE DATASET
+================================================================================
+Original file: completion-manifest-v7.json
+Dataset number: 87 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 861 bytes
+Top-level fields: 14
+
+CONTENT
+--------------------------------------------------------------------------------
+• release: 7.0.0
+• goal: Maximum defensible completeness without fabricating universal doctrine or empirical accuracy
+• dashaCatalogueCount: 45
+• builtinPluginCount: 47
+• sarvatobhadraCells: 81
+• sarvatobhadraNakshatras: 28
+• synastry:
+  • ashtakoot: Yes
+  • dashakoot: Yes
+  • rajju: Yes
+  • vedha: Yes
+  • papaSamyam: Yes
+  • mangal: Yes
+• prashnaRuleFamilies:
+  1.
+    classical
+  2.
+    prashna-marga
+  3.
+    tajika
+  4.
+    kp
+• backtesting:
+  • leakageChecks: Yes
+  • walkForward: Yes
+  • empiricalDatasetBundled: No
+• calibration:
+  • reliabilityBins: Yes
+  • brier: Yes
+  • logLoss: Yes
+  • empiricalOutcomesBundled: No
+• ruleProvenance: Yes
+• calculationAudit: Yes
+• astronomyPrecision: provider-dependent; internal VSOP87 remains explicitly lower precision than Swiss/JPL
+• predictionAccuracyClaim: NOT_CLAIMED

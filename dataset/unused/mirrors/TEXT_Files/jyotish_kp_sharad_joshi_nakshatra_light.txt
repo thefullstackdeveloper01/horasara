@@ -1,0 +1,3863 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_kp_sharad_joshi_nakshatra_light.json
+Dataset number: 239 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 153,784 bytes
+Top-level fields: 11
+Title: Jyotish_KP_Sharad Joshi_Nakshatra light
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_KP_Sharad Joshi_Nakshatra light
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 123
+  • total_words: 28564
+  • text_quality:
+    • ocr_word_validity_score: 0.977
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+NAKSHATRA
+LIGHT
+by
+SHARAD C. JOSH I
+
+PREFACE
+In our ever changing world of today remains stagnant and
+even an ancient science such as astrology must undergo a
+; transformation to keep pace. Every science is enriched by experience
+and in this regard astrology is no exception. The great sages of yore
+'have always taken into consideration different kinds of experience,
+and in addition, present day practitioners also enlist the help of
+modem scientific techniques where necessary, to make their
+predictions.
+Today, people approach astrology much more scientifically
+and when they ask a particular question, they want more specific and
+precise answers from the astrologer. Therefore, today's astrologer has
+to adopt a scientific approach with respect to the analysis of the
+available data and also draw upon his experience to make his
+predictions.
+In my earlier book Nakshatra Chintan Part-I and KP =
+Nirayan + Sayan , I had discussed KP theory with limited examples.
+But as stated earlier, in today's changing world I have come across
+situations where a simple question can have numerous possibilities.
+For example a friend's son wanted to go abroad for higher studies and
+his father asked me questions regarding where he would get the
+admission and whether he would get his visa and a bank loan easily.
+Based on my answers he sent his son abroad for higher studies.
+Recently he again approached me about his son's prospects of getting
+the internship, which is a mandatory requirement in his college and I
+was able to give him satisfactory replies.
+I have been a keen student of astrology since 1979 and in my
+books so far I have shared my experiences in this field. Whenever I
+have felt the need to make some modifications or add further details
+to the previous publications in order to benefit the students and
+readers of astrology, I have come up with a new book. This book is a
+much more detailed one, both in terms of the topic and in its
+analytical charts, which are based both on theory as well as my own
+experience in the field. In this endeavor I have ensured that I remain
+unbiased by any one system.
+
+• This book covers all the important topics of a man's life from
+the time of birth rectification to the mode of death. I have discussed
+various possibilities and have also provided various chart to support
+my discussion.
+This book is not exhaustive of the KP system. In the future, I
+hope to dwell on the topics that I haven't dealt with so far with more
+details and will share more experiences with you .
+I would like to express my sincere gratitude to Mr. Vipul B .
+Achary a for encouraging me to bring out a book of this kind, which is
+topic specific and covers various dimensions. There is ample scope
+for further research work. Mr. Vipul Acharya is himself an
+enthusiastic student of astrology and has gone to great lengths to
+compile data and has persuaded me for long to write this book for
+the benefit of the students. His help in the various stages of this book
+have been indispensable and is indeed greatly appreciated. I pray to
+God to shower him and his family with great prosperity and success
+always.
+I am grateful to Mr. Achrya's family, Mrs. Gira V. Acharya
+and Kum. Devashree and Master Tirth for extending their full support
+while the book was being written. I am also thankful to my Son
+Chintan and my wife Mrs. Jayshree S. Joshi for her invaluable
+support, for all her sacrifices and for always remaining at my side like
+a guardian angel and for being a real source of inspiration.
+I am also grateful to Mr. Kamla P. Vaidya and his family
+members to extended supports and Mr. Vimal V. Patel for graphics &
+page setting of my computerized work.
+I trust and fervently hope that students in the present era and
+times to come would benefit by this book.
+SharadC. Joshi
+
+18. Exaltation
+of
+planets
+
+Different methods for Rectification of Birth Time :
+1. Adhan Kundli (Pre Natal Epoch)
+2. Primary Direction
+3 . Events happened in life
+4 . Elements , Nakshtra at the time of birth
+5 . Ruling Planet
+1 to 4 are based on mathematical calculations.
+In KP we know that the cusp sub lord is a decisive factor in a
+chart and it makes distinctions in the twins horoscope or those who
+are bom in the same locality within the difference of two to three
+minutes. The error in minutes in the birth time makes the chart wrong
+as well as judgment.
+The minimum area of the sub is 40 minutes of Sun and
+maximum area of the sub is 2d 13m 20s of Venus. If we consider the
+average movement 1 degree per 4 minutes than in 2 to 3 minutes the
+difference of the birth time gives different sub lords of the cusp.
+So first of all we will try to find out the chances of such types
+of errors .
+1 . If the calculation of the casting of the horoscope is wrong
+2. If the table of houses used other than the placidius semi arc and up
+to the minutes
+3 . If different Aynamsa is used other than KP Aynamsa
+4 . An error in noted birth time
+From the above first third errors one will be able to rectify the
+error by applying the correct calculation method, proper table of
+houses and KP Aynamsa up to seconds .
+However, in the fourth situation rectification is required to
+find out the correct birth time .
+Now we will try to judge each type of error may be there in the given
+birth time. Here we have to use some practical approach.
+
+1 . Now a day almost every one knows the importance of noting the
+correct birth time, even in villages. The chances of error in birth
+time may be 5 to 1 0 minutes plus or minus .
+2. The birth data particularly more than 50, 60 years old or birth in
+villages or in semi urban area, have chances of 1 5 to 30 minutes
+error plus or minus.
+3. When the data is provided with time around particular hours like
+around 7 a.m. In such case possibility of the difference is 15
+minutes plus or minus.
+4. When the data is provided with the time around the Sun set or sun
+rise or noon, than in such cases one can expect the difference of
+20 to 25 minutes plus or minus.
+5 . When the data is provided like birth time between 6 to 8 a.m. but
+the correct time is not known.
+6. When the data i s provided like 7.3 0 but it i s not known whether it
+is a.m. or p.m.
+7. When the data i s provided with the time but don't know whether it
+is a wartime or standard time or summertime.
+In all above-mentioned situation Ruling Planets (RP) are to
+be used with different criteria.
+Every degree of the zodiac is ruled by a minimum of three planets 1)
+Sign Lord 2) Star Lord and 3) Sub Lord. Further division like Sub
+Sub and Sub Sub Sub can be adjusted after fixing the above three
+planets.
+First of all find out in which category the birth data falls from the
+above list. We have to keep in mind that there are two types of
+Sandhies.
+1) Sign Sandhi and 2) Star Sandhi
+First calculate the Asc on the base of the given data:
+• Rashi sandhi
+• Nakshatra Sandhi
+• Both
+
+For Exp.
+Arise 29 D
+Cancer 29 D
+Rashi Sandhi Rashi Sandhi
+No Nakshatra Sandhi Nakshatra Sandhi
+Leo 13 D - No Rashi Sandhi
+ButNakshtra Sandhi will take place in near future
+Always work out the Asc according to the time given .
+L When the difference expected as per the above category is
+around 5 to 10 minutes plus or minus. If the birth Asc is not in
+Sandhi either by Sign or Star than the importance has to be given
+to select the Sub, Sub Sub and Sub Sub Sub lord from the Ruling
+Planets. If the birth Asc is in Star Sandhi than first adjust the Star
+lord and then adjust Sub, Sub Sub lord etc. If the birth Asc is in
+Sign Sandhi than first adjust the sign lord according to the star
+lord in that sign and then adjust the sub etc from the Ruling
+Planets.
+2. When the difference is expected to be 15 to 30 minutes plus or
+minus, in such case first adjust the star lord from the RP. If the Asc
+sign is not in Sandhi than adjust the sub etc. If the asc sign gets
+change during that period, then first adjust the Asc sign and then
+star lord according to the RP.
+3. When time is given between 5 to 7 a.m. in such case work out the
+Asc for the 5 a.m. and also the asc for the 7 a.m. and adjust Sign,
+Star, Sub and Sub Sub lord from the RP with in these two Asc
+boundaries.
+4. When the time is given like 830 but not mentioned whether it is
+a.m. orp.m. in such case work out the Asc for both the time 8.30
+a.m. and p.m. and compare their Rulings with the RP and select
+correct Asc accordingly.
+5. When the time is given without mentioning summer or war time,
+in such case work out the Asc for the normal given time and
+adjusted time and compare their Rulings with the RP, first adjust
+the Asc lord then Star lord and further.
+
+So from the above different categories one will be able to
+adjust the different type of time problems.
+All above cases are such where some time clue is given by the
+native. Now we will discuss another type of problem
+We all know that day changes from Sun rise to Sun rise and
+date changes at mid night. If the birth is after mid night and before sun
+rise and suppose they don't mention the actual birth day and birth date
+then it is a problem for astrologer to judge which one is correct.
+For example suppose a native is born on 24 April 1968 at
+2.30 a.m. inMumbai.
+In such a case there are following possibilit
+In such cases work out the Asc and Moon positions for both
+the days and time and compare with the RP as follow. If on both the
+days Moon's Star lord also remain the same then give importance to
+Moon's sub lord on both the days and compare with the RP.
+After that give importance to the birth day from the RP and
+with the help of these two adjustments one can select the correct birth
+data.
+Something about theRP (Ruling Planet):
+RP are in the following order.
+1. The Asc Star Lord
+2 . The Asc Sign Lord
+3. Moon Star Lord
+4. Moon Sign Lord
+5. Day Lord
+If Rahu or Ketu represents any RP by the sign or the aspect
+than consider Rahu or Ketu as a representative of that planet but don’t
+rej ect the planet only give the preference to Rahu or Ketu.
+
+Consider the following planets if
+1 . A planet aspect to the Asc Star Lord
+2 . Aplanet aspect to the Asc Sign Lord
+3. A planet in the Asc or aspect to the asc
+Now consider the following instructions.
+1. If a RP is in the Star of the other RP then give more importance to
+that first planet.
+2. Don't reject any planet even though it is in retrograde planet star
+or in the sub or itself is a retrograde planet.
+3. Lastly consider the planet which are aspecting Moon Star Lord,
+Moon Sign Lord and Day Lord .
+So in the above order consider the RP.
+Once the rectification is done correctly, in future when ever
+we come across the same chart, the RP of that time tally with one of
+the following conditions.
+1 . The birth Asc rulers according to RP
+2 . The birth RP and the j udgment RP (current RP) remain the same
+3 . The present Dasha, sub sub period should match with the RP or in
+the star's of the RP in the birth chart
+4. The significatorsofthe queiy houses are the same just like RP.
+So always keep in your mind what you want to rectify and
+only then take the help of divine Ruling Planets (RP).
+For more details please refer our Nakshatra Chintan Part I.
+Example : 1 : Birth Data for Birth Time Rectification : (Male)
+Asc Libra 6 21 IP 46"
+V J J
+Birth Rectification Time : @ 19.01 p.m. 1ST on
+Place : Khar - Mumbai
+Date : Q\a February 2007,
+
+Asc Cancer 3 25 52T 58
+• When any planet of Asc conjunct with Rahu or Ketu It will be
+taken in to account
+• On 1 .2.07yMercury& Venus in Aquarius with Rahu & Ketu
+• So Rahu and Ketu will represent the planet in whose sign they are
+deposited, with whom they are conjunct or aspect to aspect by
+(Mercury , Venus)
+• First right i s always given to Rahu or Ketu
+• 1 .2.07 Rahu in Aquarius and as such represent Saturn
+Asc Star Lord : Cancer 25 52' 58" - Ashlesha -Mercury
+L : Asc Sign Lord : Cancer - -Moon
+S : Star Lord of Moon : Moon in Cancer - Pushy a - Saturn
+R : Rashi Lord of Moon ! Moon in Cancer - Rashi Lord- Moon
+D : Day Lord : Thursday - Jupiter
+Moon is important today because it is appearing twice in RP as Asc
+sign Lord, Moon Sign Lord also in Pushya Nakshtra which lord is
+Saturn
+Birth Asc Libra 6 21 IP 46"
+Libra 20 New Nakshtra - Vishakha is started - whose
+star lord is- Jupiter
+Before that Rahu Nakshtra was running
+So it is Nakshatra sandhi Point.
+
+Saturn is Retrograde today (01.02.2007)
+Rahu in Aquarius Saturn Sign Representing Saturn But because
+Saturn is Retrograde became weak even though it is situated in
+Asc itself.
+Daylord 01.02.07 Thursday Jupiter
+Today 01.02.07 Jupiter in Scorpio, aspecting Asc Cancer, Asc
+Lord Moon (also in Cancer),
+As Jupiter is day lord (One of the RP) plus aspecting Asc & Asc
+lord it is most important planet for today's birth time rectification
+BirthAsc Libra 6 21 IP 46"
+Venus Jupiter Jupiter-Sign Lord, Star Lord, Sub Star Lord
+There for Jupiter Nakshtra must be there at the time of Birth and
+not Rahu Nakshtra (Ending)
+Rahu Nakshtra Ending will be Mars which is not in today's RP
+Now we will go for Sub Lord Determination :
+Our BirthAsc Libra 6 21 IP 46”
+Venus Jupiter Jupiter
+Today Saturn is Retrograde and Saturn is Represented by Rahu
+(Rahu in Aquarius). Because Saturn itself is retrograde this
+possibilities is cancelled.
+Out of Five RP
+o Mercury even though it is Asc Star Lord but not figure
+in the picture as cancelled .
+o Moon Star Lord is Saturn, which is Retrograde and as
+such Moon is also cancelled
+o Again Saturn itself is Retrograde cancelled
+o Only Jupiter is important as it is appearing as RP plus
+aspecting Asc & Asc Lord Moon,
+o Jupiter is the only possibility.
+So Jupiter Sub Lord is also confirmed and correct.
+From Libra 20 D 00' 00" , Jupiter sub area will start and will end at
+Libra 21 D46'40H
+
+Sub Sub Calculation :
+Vimshottary Dasha Year
+lDll'46" ?
+So Sun Sub Sub is one of the possibilities
+• Now today (0 1 .02 .207) Sunis not appearing in LSRD /RP .
+• But today Sun is in Capricorn i.e. in Saturn sign, which is also a
+RP (weak) and also aspecting Asc plus Asc Lord Moon + Saturn
+(RP)
+• But as stated earlier Saturn is retrograde and is weak, represented
+by Rahu so Sun can not be Sub Sub Lord but it will be Moon as
+Sub Sub Lord.
+• Because Moon is represented twice in Ruling Planet (RP) plus
+deposited in Asc and also in aspect of the two RP Jupiter and
+Saturn. So even though it is deposited in Retrograde star Saturn
+we have to consider Moon as Sub Sub Lord.
+• Moon should be Sub Sub Lord of the Asc .
+• Rahu represent Saturn (RP) (as well as deposited in Asc plus
+conjunct with Moon in Asc and also in aspect with the Jupiter)
+and also in conjunction with another RP Mercury. So it becomes
+Sub Sub Sub Lord.
+
+Now we will find Moon Area (SSL) :
+So Moon Sub Sub Area will start from
+Jupiter 20 D 00' 00" Nakshtra Start @ Libra
+Moon 21 D 15' 33" Starting
+Therefore Asc must be in between Libra 6 S 21 D 15' 33" to 6 s 21 D
+21 24 27 Moon Dasha Year - 10 Year
+21 15 33 Mars Dasha Year - 07 Year
++ oodor 16"
+KP Asc Libra 21 d 16' 49” - Rectified Asc
+KP correct Ay anamsa on 1601 .1962 :
+
+Asc 224 d 30* 25" - Sayan Asc
+Our Birth Place 23 N 54, 72 E 06
+As per KP Table of house :Page 141 for 23 dand 147 for 24 d
+Sidereal Time 23 d 24 d
+
+H
+• Venus SL, Jupiter NL, Jupiter SL, Moon SSL, Rahu - SSSL
+ST is for Mumbai
+In future when you cross check the corrected Birth Time out of
+one from the following Four must tally :.
+1 .Venus, Jupiter, Jupiter, Moon Must be connected withLSRD / RP
+2. Dasha, Bhukti,Anter Dasha
+3. Birth Ruling Planet and Particular Day /Time (when 'you once
+again wants to cross check) should tally
+4. Question should be connected with mat particular house, which
+represent the question.
+If any one out of these four is tally then we can say that the
+Rectified Birth Time is co rrect.
+
+Example : 2 : Birth Data for Birth Time Rectification :
+(Female)
+Time: 1555 p.m. 1ST
+Birth Time Rectification Date : 08* February 2007
+Time : 1833p.m. 1ST @ Khar-W
+Moon
+Sun in
+Mercury in
+Venus in
+Mars in
+Jupiter
+Saturn in
+Rahu in
+Ketu in
+Capricorn
+Aquarius
+Aquarius
+Sagittarius
+Scorpio
+Cancer
+Aquarius
+Leo
+1 . As per our Birth Asc , Mercury is Birth Asc Star Lord and while
+checking 8 Feb 07 RP, Mercury is also Asc Star Lord and as such
+Birth Asc Star Lord should be Mercury.
+2. As per our Birth Chart Asc , Rahu is Birth Asc Sub Lord.
+
+3. Rahu and Venus are in Aquarius and as such Rahu will Represent
+Venus. Venus is also Moon Sign Lord and as such one of the
+Ruling Planet.
+4 . So that possibility of Rahu as Sub Lord is very high .
+5. Rahu Sub Area in Cancer Sign, Mercury Star is : Cancer 24 d 06*
+40" to Cancer26 d OGMO"
+6. Now as per Birth Chart only Mercury (NL), Rahu (SL)
+and Mercury (SSL) are there.
+7. But Mars or Jupiter is not present even though they
+came as a Ruling Planet.
+8. 8 Feb 07 order is given is descending order.
+9. We have taken Mercury, Moon and Venus only and Mars and
+Jupiter is not considered.
+10. But Mars is more powerful then Jupiter today (08.02.07) because
+Mars is Moon's Star Lord.
+1 1 . Mars is also aspect Asc by it's 8 aspect.
+12. Mars is alsoin Venus Star, which is also aRP of S^Feb 2007.
+13. So Mars should be the Sub Sub Lord of the Native.
+14. Now we will calculate for Cancer Sign, Mercury Star, Rahu Sub
+Star, Mars Sub Sub Star
+1 5. Rahu Sub area is of 2 d.
+16. So we will Calculate from Rahu Sub Star to Mars Sub Sub Star
+which is 1 1 3 years
+120 Years 2 d Rahu Sub Area
+113 Years ?
+
+Now Rahu Sub Area in Cancer Sign, Mercury Star is
+17. Now in Cancer Sign, in Mercury Star, in Rahu Sub- Star and
+Mars Sub Sub Star area is
+b. Moon Mercury Rahu Mars
+c. Sign Lord NL . SL SSL
+18. Now we will check for Jupiter and also will tiy to consider the
+same because Jupiter is Aspecting Asc by its 91h aspect.
+19. Nowin Cancer Sign, in Mercury Star, in Rahu Sub Star, Mars Sub
+Sub Star and Jupiter Sub Sub Sub Star area is
+Now we will calculate for Rahu SL,Mars SSL and Jupiter SSSL:
+Ma Ra Ju
+120 Years 7' Mars Dasha years (Mars Sub Sub Area)
+25 Years ? Mars to Jupiter total Dasha Year in Rahu
+Sub
+= OOd Or 27"
+Therefore, in Cancer Sign, Mercury NL, Rahu SL, Mars SSL are as
+we have calculated earlier is
+
+Now, in Cancer Sign, Mercury NL, Rahu SL, Mars SSL and Jupiter
+SSSL we will calculate :
+Therefore, in Cancer Sign, Mercury NL, Rahu SL, Mars SSL, Jupiter
+SSSLare as we have calculated earlier is
+Asc 3s 26 d 01' 07" Jupiter SSSL in Mars SSL
+Area Starting
+Asc 3s 26 d 02' 03" Jupiter SSSL in Mars SSL
+Area ending
+Therefore our Asc will be in between Cancer 26 01'07 " to Cancer
+20. Our Correct Asc is Cancer (Moon,
+Sayan Asc
+
+KP Table of Houses : Page no 133 and Page no 139
+Now Three Hours are already Completed, so pi add these three hours
+in the answer.
+
+Correction
+Correct Rectified Birth Time
+Moon SL, Mercury NL, Rahu SL, Mars SSL, Jupiter- SSSL
+Example : 3 : Birth Data for Birth Time Rectification : (Male)
+Birth Time : 08.05 1ST am.
+Birth Time Rectification Date : 18Ul February 2007 @ 16.05 p an.
+1ST. Grant Road Mumbai
+Now on 18.02.2007 @ 16.05 p.m. 1ST atGrantRoad
+
+Asc Star Lord : Cancer 01 17' 16" - Punarvasu - Jupiter
+L:Asc Sign Lord : Cancer - -Moon
+S : Star Lord of Moon : Moon in Aquarius- Sattaraka -Rahu
+R : Rashi Lord of Moon • Moon in Aquarius- Rashi Lord- Saturn
+D :Day Lord : Sunday - Sun
+As per Birth Chart ;
+Asc Libra 6s 5d 46' 37”
+Venus Mars Moon Rahu
+Sign Lord NL . SL SSL
+1 . As per birth chart Venus is Asc Lord ,
+2. As per Ruling Planet Jupiter is Asc Star Lord, in Scorpio sign,
+aspect Asc and Venus. Venus is also in Pisces sign.
+3. And as such Jupiter is showing connection with Birth Asc (Libra
+Sign Lord Venus)
+4. Asc sign lord Moon is in Satataraka Rahu Star
+5. Moon i s al so in Aquarius with Rahu Rahu become representative
+of Moon a RP
+6. Sun also in Aquarius with Rahu -Rahu again become
+representative of Sun a RP
+7 . Rahu itself in Aquarius become representative of Saturn a RP
+8. So Rahu become representative of Moon, Saturn, Sun and he
+himself is a RP also. . -
+9. Therefore our Birth Nakshtra Lord should be Rahu, Sub Lord
+also should be Rahu and Sub Sub Lord should also be Rahu.
+In Libra sign Rahu Star and Rahu Sub Star area : Libra 6d 40* to
+Libra 8d 40’
+So for Rahu Star, Rahu Sub Star and Rahu Sub Sub Star : Libra 6s
+6d 4 P Correct Asc
+KPAsc 6s 06 d 4 V 00" KP Asc-Rectified
++ 23 35* 08" KP Ayanamsa
+Our Birth Place Longitude : 24 N 1 2, 72 E 24
+From KP Table of Houses : Page no 147
+
+Mumbai ST As per JB Panchang Page no : 130
+Birth Time Rectification Date : 01st March 2007
+Time : 19.09 p.m. 1ST @ Khar-W
+Moon
+Sun in
+Mercury in
+Venus in
+Mars in
+Jupiter
+Saturn in
+Rahu in
+Ketu in
+Aquarius
+Aquarius
+Pisces
+Capricorn
+Scorpio
+Cancer
+Aquarius
+Leo
+
+Now on 01.032007 @ 19.09 p.m. 1ST at Khar (Mumbai)’
+Asc Star Lord :
+L:Asc Sign Lord :
+S : Star Lord of Moon :
+R : Rashi Lord of Moon
+D : Day Lord :
+Leo 23 18’ 24 - P. Phalgun - Venus
+Leo - - Sun
+Moon in Cancer - Ashlesha - Mercury
+Moon in Cancer - Rashi Lord- Moon
+Thursday - Jupiter
+As per Birth Chart :
+Asc
+• Mercury is common in both Birth Asc Lord & RP - Virgo Sign
+confirmed
+• Moon is NL in birth chart and also appears as Ruling Planet.
+• Sun star is also the possibility as Sun appears as RP Sign Lord
+and in birth chart before Moon Nakshatra, Sun Nakshatra may be
+completed.
+• Now, main Sun and Moon both are connected and appear as
+Ruling Planet.
+• Our Birth Asc is Virge 11 d 58’ and before that at 10 d Sun
+Nakshtra is completed.
+• B oth in Sun & Moon , Sun is more powerful Ruling Planet
+Today 01 .03.2007 Sun is in Aquarius with Rahu
+• Mercury is also in Aquarius with Rahu
+• There for Moon is totally separated.
+• Rahu represent Sun and Rahu is also Sub Lord of our given Birth
+Asc
+• Therefore given Asc is approximate correct
+• Now we have to check for Sub Sub Lord .
+• Venus will be Sub Sub Lord as it is a Transit (01.03.2007) Asc
+Star Lord and as such it will become Sub Sub Lord for our
+rectified birth chart's Sub Sub Lord.
+• Putting all these combination
+Our Rectified Birth Asc Virgo 13 d 22' 12"
+Correct Rectified Birth Time :
+1 1 h 20 m 54s 1ST a.m. Mumbai
+
+2. 3rJ House
+3 . 8th House
+4. Planets risingin Asc or close aspectto Asc
+5. Sun
+6. Moon
+7 . Saturn
+Sun and Moon if weak in any horoscope It will weaken the entire
+chart
+Sun - Resistance
+Moon - Mind, Mental Capability
+Saturn - Karaka for Longevity
+
+4th House is both Positive as well as Negative.
+Long Longevity - More than 66 Years
+Medium Longevity - Up to 66 Years
+Short Longevity - Less than 3 3 Y ears
+Short Longevity :
+• Sub Lord of 1 , 3, 8 is connected with either Maraka or
+Badhaka or B oth Danger forlifeupto 3 3 years.
+• 3 rd Dasa from birth will always be N egati ve for such person
+• Because 3rd Nakshatra's from birth Nakashatra is "Vipada" and 3rd
+Dasa of Vipada Lord will always dangerous for such native
+• 1 , 3, 8 SL connected with Positive House Purns Ayushya 7th
+Dasa from birth will always be dangerous for such a person.
+• 1, 3, 8 SL connected with both Badhaka, Maraka + Positive
+House Indicate Madhya Ayu 5T Dasa from birth dasa for such a
+native will be dangerous
+Planet in Asc or on Cusp of Asc or in close aspect :
+• Planet in Asc or on cusp of Asc not connected with either
+Badhaka or Maraka or Both Positive point for the chart
+• But if connected Highly Negative point for the chart
+Sun, Moon & Saturn :
+• If all these three are connected with either Badhaka or
+Maraka or Both will reduce the longevity of the native
+• If Mercury is affected by any planet, aspect or by sign will reduce
+it's strength
+Saturn :
+• S atum being a Karaka of longevity if connected with
+Badhaka or Maraka Itwill reduced the strength of Saturn
+• Saturn in 8th House Increase Longevity
+• Saturn aspect 8l House Good for Longevity
+• Saturn is Yoga Karaka Planet for Taurus and Libra Asc Good for
+Longevity
+
+Birth Data : Unknown Person
+
+Longevity of above chart :
+1 . S atum , Mars and Jupiter are rising planet in the Asc .
+2. Saturn and Mars in Asc
+3 . Saturn lord of 6th House
+4. Mars Lord of 8th House
+5. Asc lord Mercury which is enemy of Mars and
+6. Mars is in Asc, also lord of 3rd & 8m House with Saturn lord of 6*
+House
+7. Asc Lord Mercury- Connected with Rahu
+8. Asc Lord Mercury - Square - Mars & Saturn lord of 3 , 6, 5 & 8
+9. Asc Lord Mercury - Square - 10th Aspect of Saturn
+10. Asc cusp is also afflicted by first grade malefic like Saturn &
+Mars
+rrj
+1 1. So in this chart there is a strong connection between 1 ,3 and 8th
+House
+12. Asc Sub Lord -Rahu -In 10th House
+13 . Asc Sub Lord - Rahu - In Mercury Sign & Mercury is Lord of I *
+14. Rahu - Conjunct - Mercury , Lord of Asc
+1 5. Rahu in his own Nakshatra
+1 6. Rahu is also connected with Moon Lord of 1 1 01 & Venus Lord of
+2,ttland9th
+17. Rahu in 10th house conjunct Mercury so represent 1 & 10th
+House House of Mercury sign
+18. Asc Virgo 13 23 37 - Duel Sign. For this Asc, Jupiter being lord
+of 7* become Maraka & also Badhaka. As Jupiter is also in Asc It
+is strong Badhaka + Maraka
+19. 8th House Sub Lord Mercury Also Asc Lord conjunct with Rahu
+and also is aspected by Jupiter Badhaka + Maraka
+20. Summary
+a. Strong connection between 1st, and 8th Houses
+b. Rahu st House Sub Lord connected with 1st , 9th and 10
+House & Badhaka + Maraka Jupiter
+c. Majority planets are in influence of Jupiter Badhaka +
+Maraka either Conjunction in one sign or by aspect
+d . Moon in House Lord of 1 1 thHouse
+e. Venus in 9th House Lord of 2nd and 9th
+
+21 . Person expired after two month of marriage on 17.022007
+a. Moon approx. 10 d
+b. Jupiter Maha Dasa Badhakesh + Marakesh
+c. Moon Anter Dasha Moon in Rahu Star deposited in 10th
+House Heart Disease
+Transit Position at the time of Death : 17.022007 at time 11.00
+a .m. Mumbai
+Transit Period Chart :
+Mercury, Sun, Jupiter & Rahu Badhaka Sthana Indicator Jupiter in
+birth chart lord of 7th Maraka + Badhaka Sthana in 1st house (Jupiter
+in Asc also aspect 6th and 8th house and 10th house 1st, 6th and 8th house
+and 10th house operated) 6*h SL Mercury is in lO*1 10th house connected
+with Heart Heart Disease Jupiter (Maraka + Badhaka) shows
+expansion also connected with Rahu in 1 0th Heart Problem
+, Therefore Expansion of Heart, Heart Failure Rahu is also in
+10th Wrong judgment and conjunction Mercury Sub Lord of 6th
+House.
+
+Sun in birth chart in Cancer watery sign and Pluto Square Aspect
+7aSL Maraka Sthana - Rahu in 10,K with Asc lord Mercury + Venus
+2nd Lord Marakesh
+At the time of death:
+Maha Dasa ~ - Jupiter
+Anter Dasa - Moon
+Prati Antar - Ketu
+Also showing unwilling marriage.
+Moon connected with ll^House
+Moon connected with Rahu
+Moon connected with Mercury Barren Sign
+There is a possibility that person knew about his condition but not
+revealed.
+Mercury is SL of 6th & 8th House and connected with 1st & 10th
+House
+Mercury aspectedby Saturn, Saturn is lord of 5th & 6th House
+Mercury is in Gemini Dual Sign and he himself is a dual planet
+8* House shows Death due to illness
+Mercury Dual Planet and in Dual sign First time survive but not
+second time
+Saturn is lord of 5 6 both the house No recovery
+Native was bom in Rahu Maha Dasa
+Rahu in 10h House in Star of its self and Sub of Mars and Mars is
+connected with 1 st & 8th House Problem since Birth
+Jupiter Maha Dasa in Mars Star Mars 1st, 3rd and 8th House
+Jupiter is in Venus sub Venus in 9th Bhagya House but lord of 2nd
+Maraka Sthana
+Rahu in Gemini sign -A dual sign such incident will be repeated ,
+multiple situation
+Rahu is aspected by Saturn and Jupiter (Badhaka + Maraka)
+Prati Antar Ketu is represent Jupiter so it is related Badhak and
+Marak
+
+1* House
+5th House
+6th House
+disease
+House
+^““House
+Resistance
+12th From 6th - Recovery
+til
+Disease Sub Lord of 6 will indicate the
+Danger to Life
+Defect Physical, Mental
+D Asc Watery Sign SL of Asc watery sign - Low resistance
+power
+D (fSL Shows disease, duration, part of body
+6* Sub Lord Connected with :
+Sun
+Moon
+Mars
+Mercury
+Jupiter
+Venus
+Saturn
+Low resistance power + Stroke
+Psychological Problem + Blood
+Due to more aggression and work beyond
+one's capacity in challenging
+form
+Climatic effect
+Heavy meal /diet
+Luxurious life, Habituated factors
+High labor beyond capacity, Low food
+habits and nutrition
+Planet and Connected Disease :
+Sun
+Resistance
+Moon
+Mars
+Mercury
+Jupiter
+Heart, Eye sight, Head, Bone, Pitta,
+Blood circulation, Infections, Eye sight,
+Organic Chemicals, Digestive
+System, Diabetes, Cancer
+Blood circulations, Fire, Aulcer, Boils, Red
+cells, Injury, Habits, Blood
+Pressure, Pitta, Genetic organ, Vitality and
+monthly period for women
+Nervous system, Skin allergy, Gas trouble,
+Brain, Breathing, lungs
+Blood circulation, Liver, Diabetes
+and Obesity, Productivity, Pitta, Kidney
+Indigestion, Cholesterol, Cancer *
+
+Venus - Eye sight. Sexual organ parts, Any kind of
+deficiency to that sexual part.
+Physical appearance, Physical defects
+Saturn - Bone , Hair growth , Teeth, Chronic disease ,
+Paralysis, Muscle pain, Hereditary disease
+Rahu /Ketu - Rahu/Ketu’s as deposited signs, disease of
+those planets which are represented by Rahu
+and Ketu. But it indicates very complicated
+disease and as such take more than one
+doctor's opinion
+6'h SL Where it is deposited House Part of Body Get affected
+6th SL Saturn Deposited in 3rd House Arm, Shoulder, pain in
+shoulder, arms etc.
+6th SL Saturn Deposited in 3rd House in Leo Sign Problem in Back
+Bone
+3rd SL Connected with 6, 8 and J 2House More Problem
+3 SL Connected with Positive Houses Not a serious conditions
+6th SL' Connected with recovery house Fast recovery
+6th SL Connected with Movable Sign - ^ast Recovery
+Painful Disease but
+for short time
+6th SL -Connected with Fixed Sign - Long time disease,
+Slow recovery
+Saturn, Rahu, Ketu like slow moving planet
+Connected with 6* house - Long time disease
+Saturn in 6th House - Long time - Paralysis or chronic
+disease
+6th SL Connected with Common, sign -
+If also connected with Mercury, JupiterOne disease from
+another type disease
+Multiple types of
+disease
+Multiple disease &
+will repeated in future
+Like Jaundice
+
+6th SL Connected with Rahu or Ketu - Chances of
+wrong
+diagnosis
+Diagnosis
+must be done
+by more than
+one doctor
+6th SL Connected with Hershel, Neptune
+Pluto - Unexpected
+Disease, Be
+careful
+10th House - Heart
+4lb House - Chest
+5th House - Back Bone
+Sun in 10th House Most Powerful, Sun rules heart main part
+of body
+During life time persons passing through various types of
+disease but 6* house will remain common for all the disease
+1st House - Resistance Power
+Dasa / Timing Factor for' Disease
+Maha Dasa Lord - Connection with - 6, 8 or 12 - indication of
+disease, ill health
+AntarDasa lord - Connected with - 1, 6, 8, 12 - According to Sub
+Period planet
+Disease
+Will be decided
+according to
+planet, house, sub
+period
+Female Chart Exam, Chart -2 ;
+Cancer Asc, Watery Sign,
+Asc Lord Moon in 12th and
+1* House Sub Lord Rahu in 2nd with Mars
+Mars being lord of Scorpio is connected with 5 House
+(Recovery / Protection)
+
+Sun,* Venus and Ketu are in 8 House Required High Protection /
+Resistance Power
+Sun “ Infection in Food,
+No Hotel Food .
+Limited Sports
+Sun
+Saturn
+Mars
+Eye sight
+Minus Number
+Chemical infection in eyes due to eye drops
+If the 6 house sub lord is connected with :
+
+Disease according to elements of zodiac signs :
+Fiery signs
+Earthy Sign
+Airy sign
+Watery sign
+Inside part of the body, energetic and
+productive part of the body
+Main parts of the body, Heart, Kidney and
+structure of the body
+Nervous system, Organization part of the
+body
+Blood cells, shortage of water, chemicals in
+body
+Positive Houses
+Negative Houses
+Cardinal Asc
+Fixed Asc
+Common Asc
+Significations of positive houses will decide which type of
+treatment will be helpful for the native.
+Significations
+Type of Treatment
+Sun, Mars, Jupiter
+Saturn and / or Moon
+Venus
+Jupiter & Moon
+Mercury
+Allopathic
+Ayurvedic
+Homeopathy
+Allopathic and Naturopathy
+Always changes treatments
+Significations should not be connected with negative houses and
+should not be afflicted.
+
+3rd House
+9* House
+Moon
+Mercury
+Subconscious Mind
+Conscious Mind
+Mind
+Planning & Arrangement, Intelligence
+Rising Planet- Rising Planet in the Asc or
+close aspect to Asc will also change the
+Nature of the Person
+1* House
+3rd House
+9th House
+6th House
+Efforts
+Interest
+Source of interest fulfillment
+Person wants to be leader in every field
+Moon
+Mercury
+Mercury
+Mercury
+If afflicted will not give support to the 1st
+House
+If afflicted will not give support to the l*1
+House 3lj and 9th house
+Person having full capacity but can not
+shine in outside world
+Connected with 5th & 8th House Give
+problems to the native
+Mercury is a planet of planning and
+arrangement and being lord of 5 & 8
+house, always plan in such a way that
+person wants success at any cost
+Should be connected with 1st, 3rd & 9,h Good
+• If 1st, 3rd and 9fn SL are not connected with each other than
+person is not exactly what he is appearing
+• 1* Self, 3rl Subconscious Mind and 9th Conscious Mind
+• 3ld House Subconscious mind will decide what to do, go for
+any specif ic field / interest
+• 3rd SL connected with 5* 9th and 12th houses + Mercury, Jupiter
+or Saturn Interest in astrology, Interest in occult science
+• 9th House *- Search for knowledge from different sources
+for fulfillment of desire will use different sources
+
+• 3rd & 9th combination - Reflection as 1* house
+• 3rd House - Inner capacity, Aptitude, Interest of native
+• 9th House - Will provide the support to fulfill the desire of 3rJ
+house
+• l*r connected with 12th house - May have capacity but can’t do
+much
+• 9* SL connected with 5*, 8th or 12th SL Misguided support,
+wastage of time & money
+• 9 SL afflicted Will not get proper / timely guidance
+• 3rd SL afflicted Personal problem. Can not be easily rectifiable
+• T* SL afflicted Can be trained, guided
+• 1* SL connected with Moon + Venus Strong Personality
+• Not a single house is totally negative
+rd
+• 3 SL is bad Find short cuts, No confidence, Over or less
+confidence
+Rising Planets «
+As per planets characteristic native will be impacted.
+Jupiter
+Saturn
+Mars
+Sun
+Moon
+Mercury
+Uranus
+Neptune
+Pluto
+m
+Expansion, Ambitious, Pretended
+if afflicted
+Compress, Short
+Aggressiveness and leadership
+Command and status
+Imaginative and sensitive
+Mild , expressing , explain with
+examples
+Eccentric , Highly intellectual
+Imaginative, sensitive, dreamy and
+having a depth
+Extreme stage for any action
+Good Planet
+Good Personality
+• If more than one planet in Asc
+o Then the planet which is on the cusp of the Asc will give more
+prominence to the personality
+o More confusion, no clarity of thoughts, avoid responsibility
+
+• From 3 Is1 January 1962 to 2nd February 1962 Eight planet
+were in Capricorn sign
+• Asc Taurus 5 planet in 7th &7 * House Scorpio sign Only boy
+child of his father Love affair with Muslim girl Got married
+to another girl and got divorce and still relation with another
+girl.
+• Indrajit Son ofRavana 8 planet in in 11 ""house 11* house
+of uncle Vibhishana Became source for Indrajit's death
+Saturn escape in 12th house (Loss to 1" house) Karaka for
+longevity
+More planet in 6 House Good for carrier but 1 2 from
+7* house Problem in marriage
+Person will not have his own house but will live in luxurious
+house :
+1 * SL connected with -
+4* SL connected with -
+Saturn & Mars
+Venus & Jupiter
+3rd, 4,k and lCT
+2"J, 4lh and U,h
+2nd, 4lh and ll,h
+Own House - 4>S,& 12feSL connected with - 4th, li "'2nd
+Hershel is higher octave of Mercury if deposited. in 1st House
+High Intelligence
+Neptune is higher octave of Venus if deposited in 1st House
+Artistic telent, Dreamy person, Depth, more habits either good or
+bad, Totally different thinking
+Pluto is higher octave of Mars if deposited in 1st House Very
+dangerous, Self-disaster,
+Family distress
+Pluto with Fiery sign in Asc Highly dangerous, highly aggressive
+If Hershel, Neptune or Pluto either of them is in Asc + Asc getting
+aspect from Moon, Mercury, Venus Native will get some kind of
+achievement in his life, some times give complex also
+If Hershel, Neptune or Pluto either of them is in 7 House
+Problem in marriage / business
+
+If there is connection between 1* House, Spouse, 6U house +
+Mars / Sun High Ego
+If 1st & 3rd SL connected with 6th SL + Mars, Sun Person will be
+highly egoistic •
+Psychological Fear :
+Moon and Saturn
+Hunting Moon
+Scorpio Native
+* It is a fixed sign
+• It is a watery sign
+* Ruled by Mars & Pluto Planet of Fiery element & owner
+of watery sign
+- • Moon get debilitated in Scorpio sign
+• As Moon is debilitated here, native will not think about the
+end result
+’ • Once they decide their point of action and only after
+planning they will attack
+• Normally they can't change their mind Fixed sign
+* Last Nakshatra is Jyeshtha and as such all their action,
+whether good or bad, will be in big way
+# Scorpio 13 & 14 degree (Sayana) Two fixed Star North
+Scale & South Scale creat the disaster, stubborn attitude of
+the native.
+• Asc Libra, Mercury in 3rd House
+o Multiple planning for a single tiling
+o Delete some planning because of 12 ^ House (Virgo will
+be 121hin Libra Asc)
+o Change the planning according to current position,
+conditions because 3rd Sagittarius Dual Sign for Libra
+Asc.
+Connected with each other
+(Conjunction, Square, Opposition)
+Person will have psychological fear,
+Less confidence, so late Gaining,
+Spiritual life at the later stage in life
+by sacrifice manner
+
+1 * 3rd &9*11 SL connected Inner and outer personality same
+Irt house sub lord connected with :
+Actor 3rd house (Daring), 5th house (art), 7th house (Public
+performance) and Venus and Mercury
+Handicapped 12th house (defects), Earthy sign and Asc is afflicted
+Self confidence and daring
+Come forward for daring
+Daring and self efforts make him successful
+Diseases, Danger, Defect and obstacles
+Create enemies, defect in character, Don,
+Successful but not in proper way
+Success by doing daring
+Short cuts, Speculative, Not active, Lethargic
+Very active, come up through his own efforts
+Tiy to come up with family support, through
+education
+Try his luck from a place away from his birth place
+Success in sports (Mars and Jupiter must connected
+with Firy or Airy sign with sub lord)
+
+3,8, 12 Failure by doing daring,
+1, 3, 8 Mental tension
+2,5,7 Love affairs, finance,
+4,8/7,11 Residential based business (4, 8 homely
+atmosphere, customer, 11 benefit)
+•3,8,6,10 Plus Mars Discipline, Police, soldier
+5, 12 Indiscipline
+3.7.11 Estate agent (3 Deal, 7 Customer, 11 Benefit)
+3.6.1 1 Manufacturing, profit in business
+3,9,8,12 Loss by improper daring
+2,6 Efforts for existence, finance
+6,10 Efforts for development
+10. 11 Development is an achievement
+2.1 1 Finance is an achievement
+3 rd house sub lord connected with :
+Mercury/Jupiter with Air or Fix sign then native will think twice
+before taking any action
+Attitude : 3rd House :
+r d
+If 3 house sub lord is connected with :
+• P' house Importance to his own intellect, mentally ready to
+do any thing, difficult to explain or convince them, obstinate
+• 2nd House - Emphasis given to wealth, family and
+speech
+• 3rd house - Ready for any kind of daring by over
+estimating oneself, mix with the people, leadership,
+.addicted to any bad habits
+• 3, 10 house I am only right tendency
+• 4th house Busy with his own activities, only homely
+atmosphere, dislike to go away from the home, potentiality,
+good concentration
+
+• 5th House Moody, irresponsible, interested in speculation,
+love and affections
+• 6th House Ready to do work, service, production line,
+surrounded by enemies, wants success
+th
+• 7 House Interested only in business, publicity, travel, has
+daring to insult any body
+• 8th House Taking risk, suspicious mind, protecting legacy,
+attached with family customs and due to it may suffer loss or
+profit, interest in technical work
+• 9th House Attitude towards the religion, knowledge and justice.,
+truth speaker
+• 1 0th House I am only right attitude
+• 11th House Want success
+• 12th House Bad habits, try to avoid responsibility
+Expression : 3rd House :
+'jii
+3 house sub lord connected with :
+Sun
+Moon
+Mercury
+Mars
+Jupiter
+Venus
+Saturn
+RahuKetu
+In limit but impressive
+Excited
+Over limit
+Threatened, Argumentative
+Seriously
+Like actor, with body expression
+Less but to the point
+Improper
+Cannot express as want
+
+Education : 1. In mother tongue
+2. In other language
+2 Sub Lord connected with Rahu - Study in other language
+2'a Sub Lord connected with Rahu & Mercury - Study in other
+language
+2mX Sub Lord not connected with Rahu & Mercury - Go for study
+in mother tongue
+Culture (Sanskar) :
+Mother is a first teacher for child and if Chouse is afflicted then
+there is a deficiency in a culture or native does not get proper
+culture (sanskar) from mother.
+4^ House
+6th House
+9* House
+11th House
+12* House
+Basic / Academic / Primary Education
+Mother first teacher
+Competition, Scholarship and Loan
+Higher education
+Success, Benefit
+Study in Abroad
+3rd House
+Aptitude, Interest in particular subject,
+choose the line accordingly
+5* House
+Intelligence / Intellectual point of view
+9* House
+House
+6th House & 12th House -
+Supporting House
+6* House Competition
+12* House Study Abroad
+11th House - Success, Benefit
+Which line should be selected, 9 should
+support that line
+Admission : Horary Chart :
+Answer can be given based on the horary chart whether native will
+get the admission or not?
+If he will get the admission than whether it will a donation sit or
+merit sit? -
+
+If native will be able to get the admission in home town or at the
+distance place ?
+Native
+1st child
+2^ child
+3 11 child and so on
+Please treat the 5* house as Asc and see the chart for prediction if
+question asked by the parents or directly start with the Asc if
+student him / herself ask the question.
+4a Sub Lord connected with :
+.4,6,11 - Will get the admission in the institution where he
+has applied for
+• 5, 8, 12 - Will not get the admission where he has applied
+• 4, 6, 1 1, 12- Will get the admission on payment sit
+• 4, 6, 9, 11 - Will get the admission with some one's
+recommendation
+• Jupiter +4,6,11,12 Initially institution will say no. But
+subsequently will give Admission by
+expanding number of sits.
+• S atum +4,6,11,12 Initi ally institution will say no but
+subsequently will give the Admission due to
+cancellation of some one’s admission
+• 4USL or it's Star Lord is retrograde and also connected with 4,6,11
+Native will get the admission only after retrograde planet becomes
+direct and after passing the degree form where planet was become
+retrograde.
+• Prepare different chart for different institution.
+• If 4th house Sub Lord is connected with duality with 4, 6, 1 1 , student
+will get the admission in other institute run by the same management.
+1st House
+5* House ”
+7th House
+9^ House _
+
+Progress in Education :
+4,h Sub Lord connected with :
+Good education up to
+10* standard
+Disturbance, failure
+in education
+Slow track, Pass / Fail
+etc.
+• 6th & 6* Sub Lord & also connected with 2 & 1 1 - Will get
+scholarship / winning price
+• Positive Houses + 3,5,10 - During education
+child will involve in
+extra activity in
+School
+• 5,6,8,1 1 - Will get passed by illegal means /theft
+• 3,5,10 - Before completion of 10* standard, school
+will be changed due to any
+reason like transfer of parents or other
+reasons
+• 4,6,11 + Jupiter and/or Mercury
+• Positive and negative house
+Positive House + 3, 10, 12
+Jupiter + Moon
+Venus
+Saturn
+Sun
+- Study in hostel
+- Good command in
+Literature
+- Good in Arts subject
+- Good in History
+- Good in Politics,
+Economics, Science
+
+•If Mars & Mercury is powerful and connected with 4 house
+native will have good command on Calculation part
+After 10th Standard Diversification in Study :
+Higher Education - 9 “House
+4fhHouse ” Basic / Academic / Primary 'Education
+Mother first teacher
+6* House
+9*House
+ll*House
+12m House
+9*House
+9*House
+support that line
+a
+9th Sub Lord is connected with:
+• 9, 6, 11 + Mercury / Jupiter - Will go for Higher Education
+Mercury Knowledge, Jupiter
+Higher study
+•5,8,12 - Not good for higher study
+• 5,8, 12 with 6 and 11 - Will study up to graduate level /
+Diploma course
+• 9,6,11 + Mercury + Jupiter +
+Competition, Scholarship and Loan
+Higher education
+Success, Benefit
+Study in Abroad
+6* House & 12th & 11* House -Supporting
+House
+6** House Competition
+1 2th House Study Abroad
+1 1 * House Success and Benefit
+Which line should be selected, 9* should
+Average study
+
+Which Line Should Be Selected ?
+9th Sub Lord connected with :
+•Mercury and Jupiter
+• Sun, Saturn, Mars
+• Moon, Venus
+Commerce , Management,
+Finance, C A, Law, MBA,
+ICWA, FCAetc.
+Medical, Engineering
+Arts, Literature
+Sun
+Saturn and / or Mars
+Moon and / or Venus
+Mercury and Jupiter
+Medical Field - Karaka for Medical
+Line
+Engineering
+Arts
+Commerce , Management , Finance ,
+C A, Law, MBA, IC WA, FC A
+Commerce :
+CA, MBA, Lawyer, Financial Management, ICWA, FCAetc.
+Mercury “ Accountancy, Counseling,
+Consultancy, Project Report,
+Documentation
+Cost Accounting, IC AW, Audit
+Finance, Management, Law, LLM,
+Legal Matters , Taxation *
+Taxation, Audit
+Management Course
+Sun Power, Control
+Jupiter Ambitions
+9th Sub Lord connected with :
+♦ 12*SubLord+12*House + 9,6,11 - AbroadStudy
+♦ Law Religion -Jupiter must be connected with 9* House
+♦ Law ~ Jupiter + Venus - Matrimonial cases
+- Jupiter + Sun ** Government cases
+- Jupiter + Sun - Public prosecutor, Judge
+- Jupiter + Venus - Family court of Law
+" Jupiter + Moon ** Family court of Law
+- Jupiter + Saturn - Labor, Property, Dispute
+cases
+- Jupiter + Mars - Criminal Lawyer (>44
+Saturn
+Jupiter
+Mercury + Jupiter + Saturn
+Sun+ Mercury + Jupiter
+
+Educational Loan:
+6th House - Loan
+9* Sub Lord + 6* House, 8* Sub Lord + 6* House, 6* Sub Lord
+connected with 2,lJ and 1 1 * house Native will get the loan
+8ftHouse - 8thHouse is 2nd House for the
+person who is giving a loan
+81h Sub Lord + 6th Sub Lord - Loss to the person giving the
+loan Financial benefit to us
+That is our 2nd House
+Also connected with 1 1* House Benefit to Native
+m
+Science : Medical Field : SUN:
+9th Sub Lord Connected with :
+• Sun
+• Sun + Jupiter/ Mars
+• Sun + Saturn
+• Sun + Venus
+• Sun + Venus
+• Sun + Saturn
+Sun + Mars
+Medical Field Allopathic,
+Ho-meopathy, Aurvedic
+Allopathic
+Ayurvedic
+Homeopathy
+Cosmetology
+Orthopedic
+Cardiologist, Surgeon
+Sun + Jupiter
+Sun + Jupiter + Venus -
++ Moon
+Sun + Saturn + Venus -
+Sun +Satum+MercurySun + Moon +NeptuneSun + Moon/ Venus
+Sun+Rahu
+Sun+Hershel
+Sun + Virgo / Scoipio Sign
+Sun + Virgo + Scorpio
+orb^orS^House
+Sun + Saturn + 8th HouseGeneral Consultant
+Gynecologist, Child Specialist,
+Pediatrician
+Vernal, Sex related disease
+Skin Specialist, Ear & Throat
+Specialist
+Psychiatric
+Eye Specialist
+X Ray, Sonography, Anaesthetist
+Scanning, MRI Specialist
+Pathologist
+Pathologist
+Dentist
+r£
+
+Science : Engineering Field : Saturn and / or Mars :
+9* Sub Lord connected with Saturn and/ or Mars - Engineering Field
+9* Sub Lord Connected with :
+Venus + 5m House
+
+• Mars + Venus or Saturn +
+. Venus or Neptune + Watery sign - Marine Engineering
+• Mars + Saturn + Sun - Combination of
+Engineering and Medical
+field
+• Uranus + Neptune - Meteorology
+Arts : Moon and Venus :
+9* Sub Lord connected with Moon and / or Venus - Arts Fi el d
+9* Sub Lord Connected with :
+• Moon + Venus - Fashion Designing
+• Moon + Venus + Mars - Resort, Water Rider
+• Moon + Venus + Mars +
+4th / 5th / 6* House - Hotel Management
+• Moon + Venus + 3rd + 9th house +
+Mercury Journalism, Media,
+Advertising, Photography,
+Tourism
+• 9* Sub Lord is connected with Dual sign + 6 & 1 1 and 11th Sub
+Lord is connected with 6* and 9* House Native will get Double
+Degree
+• 9°Sub Lord is connected with Earthy Sign + Moon + Venus + Sun
++ Scorpio Sign Native will get specialization in Genetic
+Technology
+• 9th Sub Lord + Jupiter + Mars + Sun - IAS, IPS
+• 9m Sub Lord + Sun + Jupiter - IFS
+
+L Service
+2. Business
+• 1st Sub Lord - Risk taking capacity
+• 1* Sub Lord connected with Earthy sign / Fixed sign or with
+Saturn or such slow moving planet Native wants stability
+• 1st Sub Lord is connected with Movable sign or Dual Sign or
+connected with Sun / Mars / Jupiter Native is always ready to
+take Risk and don't think about stability
+1 * Sub Lordis connected with both situation as stated above
+Native will go for Service + Business simultaneously
+10thHouse: 6* and/or 7* House
+til.
+10 SL connected with 6*House - Service
+10 ■ SL connected with 7 House - Business
+lO^SL connected with 6th & 7* - Service + Business or Both
+Business independent or with. support ;
+1 * Sub Lord Connected with :
+
+7* Sub Lord connected with :
+7'h Sub Lord is connected with Dual sign + Jupiter / Mercury and if
+either of one condition will be there Native will break one
+partnership and entered in to another partnership.
+• Duality sign /house- Native will be connected with more
+than one company
+• 7*SLor7*House +
+Hershel /Neptune - Native should be cautious in business, no
+* partnership, Fraud, Unexpected changes,
+loss may take place
+.10th House and Business *
+10* Sub Lord connected with :
+
+5*House
+6* House
+7* House
+8*House
+9* House
+5th & 9* House -
+3rd& 9th + Jupiter +
+Sports, Entertainments, resorts,
+gymnasium, Medical field, YogaJCanna
+Kand, speculative business, Horse riding,
+share market, Art
+Service industries, Labor, HRD,
+employment assignment, Food Products,
+Pat animals
+Public life, social activities, Business
+Insurance, Revenue Dept, Income Tax,
+Sales Tax, Wealth Tax, Havala business,
+All types of taxes , Cremation activity
+Education, Tourism, Religious activity,
+Lawyer
+Fluctuating activity
+Mercury + Mars - Printing, Press, Journalism, Media Dept,
+10* House - Family Business, Government, Big
+Industrialist
+7,9,10,11 - Politics, Politicians
+^th
+2, 4, 10 House Family Business
+• lT House
+• 12* House
+Dasha Factor
+Success in all the activities, social, public
+life
+Jail, Hospital, Criminals, Illegal
+activities, settling at distance place
+One to another service, Business changes
+but work will remain same
+Change of Job/ Place :
+5*&9*MainHouse
+Operate in Dasha - Give change in Job/
+Place
+Good Change
+Bad change. Not advisable
+
+Partnership /Business / Support :
+7* House is the main house for Business, Partnership, Support
+7* Sub Lord connected with :
+• 2 ,4 ,5 ,8 , 1 1 - Support good for partnership
+• Fix sign + Saturn -• Private Limited company
+• Jupiter + Duality +
+Saturn +*
+Watery / Fiery sign •- Public Limited company
+Achievement:
+l^andlO* House
+Success
+2nd House
+House of Income Single or more than
+one source of income
+2,kl SL+ Fix Sign +
+Saturn
+Single income, one source of income
+2* SL L Earthy Sign +
+Saturn - Single income , one source of income
+2nJSL+ Duel Sign +
+Jupiter + Mercury - More than one source of income
+Corruption or Unearned Income : 1st and 3rd Sub Lord
+connected with :
++ 3rJHouse 5,8,12
+Main condition also speculative
+Daring to do wrong act
+Native can do anything positive or
+. # negative
+
+S^SLjS^SL, 12*SLConnectedwith2Jl - ffiddenincome
+8* Wealth House for opposite person
+5* Benefit House for opposite person
+12*House Without efforts
+If connected with your 2 & 1 1 means benefit to you.
+Yours 9* House is 3 of the opposite person - He will brain wash you
+for any wrong deed.
+1* House - Implementation ' of your thought/ action.
+Jail Yoga - 12* SL connected with 3,8, 12+Fixedsign /
+Earthy Sign + Rahu / Saturn -
+10* SL connected with Mercury, - Trading, Sales man, Agency,
+Jupiter, + 3, 9, 10, 11 Consultancy, counseling
+10th SL+Mars/ Satum+Earthy / - Industrialist, Manufacturer
+7^ub Lord Connected with :
+• Sun
+• Mars -
+• Jupiter-
+• Saturn
+• Saturn -
+• Me,Mo,Ve
+Native will take a person as a partner having good
+status in society / Govt
+Native will take a person as a partner having good
+Manufacturing talent
+Native will take a person as a partner having good
+Financial knowledge
+Native will take a person as a partner having good
+Financial capacity,
+Native will take a person as a partner having good
+Legal knowledge
+Native will take a person as a partner having good
+knowledge of labor job
+Native will take a person as a sleeping partner
+Native will take a person as a partner from
+Trading, Media point of view
+
+Abroad :
+12 SL connected with 3, 9, 12 with Moon, Mercury, Jupiter Foreign
+Yoga
+1 0th SL connected with 9th & 1 2*Houseor
+12th SL connected with 10th & 7* House - Prefer to go abroad
+4th SL connected with 12*, 10*& 3rd
+House or4* SL or 4*House afflicted - Prefer to stay away
+from birth place
+12*SL not connected with Fix Sign “ Native will go abroad,
+come back & will stay
+and settled
+at Birth place
+1? SL not connected with 2, 6, 1 1 House - No success in abroad,
+comeback
+1 21h SL connected with 3 , 9, 1 2 with 8th House &
+also afflicted by Rahu, Neptune, Saturn - Indicate problem in
+10th SL or 7th SL connected with 5, 8, 12 -
+house
+2, 6? 10; 1 lthSL or House are connected
+ltf'SL connected with 8* House
+Lottery :
+3ld House is important - Because it is fixed amount + Daring +
+Agreement
++ Other conditions like speculative tendency
+3rd SL+ 5, 6, 1 1 , 2 - Sure Lottery win
+5* SL+ 6, 2, 1 1 - Sure Lottery win
+Smuggling, Hawala Business :
+abroad
+Not advisable for any
+venture
+Full success,
+Industrialist
+Good and Bed both
+conditions at a
+time
+Tax Dept/Govemment
+trouble
+
+Marriage institution is being established by the society to
+maintained life on the earth and cordial relations among people by
+forming some rules for the family life. Every society has it’s own
+rules for the normal age of marriage and number of marriages
+allowed. But most of the marriages today are based on reasons such
+as financial backing, backing from the partners family, for career or
+social standing or even to get settled abroad. One might marry
+another partner for fame etc. Now a days there is a new concept
+developed in which couple decide not to have children,
+The 1st house represent the native, 7* house represent the
+partner and same partner is bound to be a family member which is in
+the 2nd house and permanent tie relationship shows by the 1 1 * house.
+Before proceeding for the matching of the horoscope, one
+should consider the following points in an individual chart.
+1 . Longevity
+2. Health Physical and Mental both
+3 . Promise of marriage life
+4. Status of marriage life
+5. Promise of the child
+6. Financial aspect
+7. Dasha and progression after marriage
+1. Longevity:
+1 , 3 and 8* house sub lord, Saturn and the rising planet, Sun and
+Moon should not be strong significators ofBadhaka / Maraka
+houses and less connection with 6, 8 and 12* houses and their
+representatives.
+Health:
+Physical Health : 1st house, Sun, Moon the rising planets in the
+Asc or aspect to the Asc should not be connected with the 6, 8,
+12* houses or it's significators or 6, 8, 12 houses significators
+should not signify the l^liouse.
+Mental Health : Ist , 3rd and 9* house sub lord. Moon, Mercury
+and the rising planet, and Moon's 1st aspect after the birth play an
+important role in determining the mental condition.
+a)
+b)
+
+3. Promise of Marriage Life:
+The 7* house sub lord shows the promise if it is connected with
+2, 7, 1 1 and also with Venus.
+4. Status of the marriage I if e :
+a) If the 7th house sub lord afflicted, duality, barren sign,
+significator of negative houses
+b) More then one marriage indication due to duality and promise
+through 2,hl house then question arise of a second marriage due to
+the death of thepartner Orby the divorce
+c) PI anets in the cusp of the 7th house
+d) The Venus Karaka also play the important role From the above
+radical factors, one can judge the status of the marriage life like
+harmony, disturbance, separation, early death of the partner,
+divorce, remarriage Ofto live alone.
+5. Promise of the Child:
+The 5th, 1 1th and 2"d house sub lord and Jupiter's significance with
+positive houses, effect of the fertile planets and the fertile sign
+6. Financial :
+In today's materialistic world money become the main factor in
+every field so one shouldjudge that native is able to meet the
+requirement of the spouse and the family.
+7. Dasha
+Dasha and the following dasha for nearly 15 to 20 years should
+be connected with the marriage houses after the marriage.
+After considering the above factors in both the charts one should
+goforthe match.
+In matching, longevity and promise of the marriage life with the
+status of themarriage life play important role. Without going in much
+detail, one can make different categories according to the society and
+age factor. For example : In the female chart if you find a medium
+longevity with more then one marriage condition, in such condition
+one can select the chart ofthemale in whose chart duality by divorce.
+Suppose both the charts indicates short longevities then the
+marriage is not advisable because children becomes orphans in such
+
+So such type of different categories you can classify.
+For matching factors one can proceed as under.
+1. The ailing planets of both the charts should be significators of
+the 2nd, 5* 1 1th and 7* in each other's chart.
+2. 7* house sub Jord of the both the charts should be significator of
+the 2nd, 5th, 7* and 1 1th house.
+3 . The running Dasha and following Dashas of the both the charts
+should be significators of 2nd, 5*, 7* and 1 1th
+4. Tropical aspects of the planets, the Asc .and M.C. should match
+with each other. Particularly superior planets of the one chart
+should not be afflicted to the inferior planets or points in the
+other chart.
+After considering the above factors there is no need to see or to
+weigh the 36 points , Mars Dosa or one should not go to match Mars
+Dosa with Rahu or Saturn.
+In the chart if you find purpose other then the real marriage life,
+one can expect a problem in marriage life. When one of the charts
+period starts negative and if the chart does not show any kind of
+separation then one person is sufFeringdueto the partner.
+
+AY*
+• vfe-- *yw!
+First check the longevity ofthe native and only then check for the
+marriage.
+Positive Houses for Marriage :
+7th House
+2nd House
+5* House
+1 l*House
+Partner
+family
+Love and affection with each other
+Permanent Partnership
+Negative Houses for Marriage :
+4* House
+6* House
+8* House
+12^ House
+12th from 5* No affection for partner
+12*from7* Separation
+Mental distress
+Disturbance in personal life
+Promise of Marriage Life : Yes /No
+7* Sub Lord connected with
+• 2nd, 7*, 11 01 House + Venus
+• Venus, Moon, Jupiter, Mars
+• Venus, Moon
+• Mars , Jupiter, Venus
+Denial of Marriage :
+Marriage possible
+Marriage Plus points for
+marriage
+For Male Chart
+For Female Chart
+- No Marriage
+No Marriage
+confirm
+No Marriage if all
+three present
+7* Sub Lord connected with
+• 6, 10, 4, 12 House / Sub Lord
+• + Barren sign (Aries, Gemini, Leo, Virgo -
+• + Saturn or Ketu
+
+Single or more than one Marriage ;
+7th Sub Lord connected with
+• Jupiter or Mercury
+• Dual Sign
+• Jupiter / Mercury + Dual Sign -
+• 7* Sub Lord connected with
+Jupiter/ Mercury + Duel Sign -
+More than one marriage
+More than one marriage
+More than one marriage
+More than one marriage
+Separation Death of a partner or Divorce ;
+7* Sub Lord connected with
+From 7*1101156 Badhaka /Maraka- Life Partner will die before
+native
+• Is afflicted - Death before native
+• 6,10&I2*House - Divorce
+Mercury /Jupiter - Divorce
+2nd Marriage:
+2nd House Sub Lord connected with 2nd or 1 1th Sub Lord / House
+Native will get ready for 2nd marriage else will not marry second time.
+In ancient time 9* House was considered for T* marriage because
+at that time native has to marry with the brother / sister of the died
+partner. But that is not correct in today's condition. Because 9* is the
+3rd (Brother/ Sister) of 7*House
+However, for 3ld marriage we have to check 9* house. It is 8* from 21Id
+house.
+2nd is 8th from the 7* House (Spouse) - 2 nd marriage due to
+death or divorce
+9* is 8* from the 2nd house - 3rd marriage due to death or
+divorce
+
+There forwe have to check 9* house for 3 marriage
+T* House
+4*House
+5*House
+7*House
+9thHouse
+1st House
+House.
+Self
+Mother
+First Child
+Spouse /2nd Child
+Father /3rd Child
+5* from the 9* House. There for 9* is Father's
+You can't check 1 7 relationship for parents (4*Mother& 9*Father)
+Disturbance in marriage life :
+7* Sub Lord connected with
+• Positive + Negative House - Disturbance after marriage
+life, Pull on Life
+• Barren sign - Disturbance after marriage
+life
+7*!Sub Lord not connected with
+Mercury / Jupiter / Dual Sign +
+Connected with negative house
+rsub Lord connected with Neptune
+7* Cusp connected with Neptune
+Timing of marriage :
+Changes according to cast, place , religion, custom etc .
+7 * Sub Lord connected with S atum - Late / Delay Marriage
+7 * Sub Lord in Fixed or B arren Sign - Late / Delay Marriage
+Saturn in 5 * House - Late / Delay Marriage
+No Divorce but worst
+marriage life condition
+- Fraud in selection of
+life partner
+- Fraud from opposite
+partner
+Saturn in 5* House will aspect 7th, 11* and 2nd House from it's 3rd,
+7A and 10* aspect.
+
+7* Sub Lord connected with
+• Moon, Mercury , Jupiter, Venus
+• Sun and Mars
+• Moon , Mercury and Venus
+• Sun, Mars arid Jupiter
+• Saturn or Ketu
+Marriage at proper time
+Marriage at proper time
+Before / Early Marriage
+Before / Early Marriage
+Late Marriage
+From where you will get your Life Partner :
+7* Sub Lord connected with
+• 3rdHouse
+From which relation / Source :
+7th Sub Lord connected with
+• 3,9,11 + Mercury /Venus
+• S^SL&S^SL with 7th SL
+• 3, 9 and 12 house
+• 3,7,9, 11 with Jupiter
+• Positive + Negative House
+• Positive + Negative House +
+7th SL with 5th SL & 5th SL with 7
+Nearby, same city
+Nearby, Same city
+Distance place
+Through family / society
+Through Marriage burrow,
+News Paper, Inter Net
+During Journey
+During study, college
+Love Marriage
+From service place,
+Religion place, Religion
+institution, Journey,
+Education, Through Religious
+Leader
+Run away from the family &
+will get married
+Chances of civil marriage and
+then religious marriage
+Disturbance after marriage
+Disturbance after marriage
+Marriage due to Look, Figure, Money, Talent, Status may the
+reason for
+
+5th SL connected with 7* SL but 7* L3L is not connected with 5* SL
+Only Affair no marriage
+5th SL connected with 4th or 6th SL * Opposite party will
+break the relationship
+5* SL connected with 12* House - Native will break the
+relationship
+5th SL connected with Duality +
+5 * SL is connected with 4, 6 and 12* +
+5* SL connected with 7* SLbut
+7 SL is not connected with Duality but
+7* SL connected with 5* SL Than 1st affair / relation will
+break but 2nd affair will be
+converted in to marriage
+5* SL connected with Duality +
+tfl
+7 SL connected with Duality +
+5 & 7* connected with each other +
+
+• Sun
+• Moon
+• 5,8, 12th House
+• Saturn
+• Jupiter
+4* SL connected with 5, 10, 3, 8
+7 SL is connected with
+Gold
+Silver
+Not get anything even though
+rich
+Opposite family will be very
+orthodox & reserve
+Marriage in large family
+GharJamai
+Rahu/Ketu
+8, 2, ll^House
+I2m& 3mr4lHouse
+Rahu/Ketu / Saturn
+Sun /Jupiter
+Saturn
+7* SL Indicate
+3, 10 or I2,hhouse
+Inter Cast Marriage
+Marriage in awkward condition,
+Unwilling situation
+Marriage at distance pi ace or
+- Marriage after running away from
+home
+Marriage in Lower Cast
+Marriage in Upper Cast
+- Native will become very choosy
+for spouse
+Types / Personality of the spouse
+Not willing to stay with joint
+family
+Dasha / Bhukti and Timing of Marriage :
+If the sub lord is not indicating delay marriage as discussed above
+then native will get marriage at proper age according to native's
+cast, religion and customs.
+If the sub lord is indicating delay marriage, particularly from
+Saturn then one can get marriage during the Dasha or Bhukti or
+Antara of Saturn
+For Libra and Taurus Asc, Saturn becomes the Rajya Yoga
+Karaka planet and as such case not be considered as a planet for
+delay.
+Combination of Dasha and Bhukti should cover all the required
+houses for exp . For marriage 2, 7 and 1 1
+At the time of marriage Dasha Rulers and transit of luminaries
+from the significators of the marriage or either in sign or star or
+sub or in mutual aspect during transit.
+S
+
+Fortunate Spouse :
+• 1 ■* house sub lord connected with 2? 1 1 with Jupiter or Venus with
+out any afflictions with 1st house or 1st house sub lord or Jupiter/
+Venus then native becomes a fortunate spouse.
+How to find out Moon sign or Asc or Ruling Planet of Spouse ?
+• 7*1 house sub lord and it's relation with sign, star and aspect of
+other planets
+• Dasha rulers at the time of marri age
+• Significatorof2,7, 11
+For example : In male chart house sub lord is Jupiter deposited in
+Capricorn sign deposited with Sun + Saturn + Mercury + Ketu and
+Jupiter aspects Moon + in Moon star.
+In spouse chart Moon sign is also Capricorn and Moon is in Sun star,
+Jupiter Sub and Asc star lord is Jupiter and sub lord is Mercury.
+In female chart (spouse of above male chart) 7* house sub lord is
+Mercury, and Mercury in Libra sign in Rahu Star and in Sun sub.
+In male chart Native bom in Libra Asc and Mercury aspect to Rahu
+also in conjunction with Sun. Moon sign is Taurus. (Mercury as a sub
+lord of 'An female chart is in Venus sign)
+7* House Sub Lord or Sub Lord’s Star Lord if Direct/ Stationary
+/Retrograde at the time of birth :
+• If it remains Retrograde in progressed chart till end of life then
+spouse nature can not match with native internally
+• If it becomes direct before marriage then it is a positive sign
+• If it becomes direct after marriage then situation will improve
+after that period
+• If 7* house sub lord or sub lord's star lord is direct at the birth time
+but in progress either of becomes retrograde then situation get
+reversed from the above three points.
+• If 7* house sub lord is stationary at the time of birth or after birth
+and it remains the same till end of life in progress and if it is
+connected with barren sign or Saturn / Ketu then native not
+willing to go for marriage.
+
+Note : If marriage with a particular person with a specific purpose
+other then marriage then there are chances of major disturbance in a
+marriage life.
+Disturbance in personal life :
+If 3 house, 8* house and 12 house is afflicted and connected with
+4, 6 and 8 it indicates disturbance in personal life and planets also like
+Saturn , Ketu or barren sign involved .
+There are various reasons for disturbance in personal life
+• Attitude of the person:
+o By birth or by grown up conditions native may have a nature to
+restrict oneself not to involved in normal personal life,
+o After marriage, if native involved with some one other then life
+partner
+o After marriage if native involved too much with religious
+tendency
+For above three reasons, 1* and 3rd house is playing major role
+• Physical weakn ess :
+o Before marriage if 1* house sub lord is showing afflicted with 6,
+o After marriage, due to Dasha running at the time of marriage or
+immediately after that connected with 6, 8, 12 will affect the
+personal life
+• Psych ological factor / Fear :
+olrt , 3rd house and Moon If they are connected with 4, 8, 12 and
+also connected with Jupiter, Mars, Sun, Venus" Native cannot
+enjoy personal life
+o 1st, 3 rd and Moon aspected by or connected with Saturn Same
+result
+* Environment:
+o If I* house is connected with Jupiter or Neptune Native may
+involve with environment or status fear may create the problem
+for personal life
+0 If 1st house connected with Saturn or strongly connected with 6th
+& 10* Native become workaholic and it will create the problem
+in personal life
+0 If 10* house and lrt house indicates natives much more mental
+involvement in carrier also create the problem in personal life f~,l
+
+Inmalechart - Il*and5*house I Pis 5th from 71h+ Jupiter
+In female chart - 5* and 11 * house + Jupiter
+5 nouse is a house of creativity.
+5* Sub Lord connected with :
+• 2, 5, 1 1 + Jupiter (Karaka for child ) or Moon and Venus Promise
+of child
+* 4, 10, 12 + barren sign (Aries, Gemini, Leo, Virgo ) or connected
+with Saturn, jjtahu, Ketu No child
+* 2, 5? 1 1 and 6 Child with medical treatment
+9 1 1th house is the 5* house from 7th house showing partner's
+position
+* Mars and 121h house Indicate surgery
+* Saturn or Ketu Abortion, Miscarriage. In such condition avoid
+sex life after conception and don't adopt family planning
+o In above conditions after conception if 2, 6 are connected
+Take care in diat
+o If 3,9? 12 are connected Avoid] oumey
+o If 8, 12 connected No sex life after conception
+• Jupiter or Mercury or Dual sign Chances of twins
+Sex of child:
+• Depend on male chart only
+• Female chart is not at all responsible for sex of child
+5* House sub lord connected with :
+• Mars, Sun, Jupiter
+• Moon, Venus, Saturn -
+• Mercury,. Rahu, Ketu -
+• Twins
+• Eunuch
+Male child
+Female child
+Depends on relationship with
+other planets
+Heredity conditions ?
+Mercury, Jupiter & Dual sign
+Saturn or Mercury connection
+with out any relationship
+
+• Bhukti Dasha decides the sex of child (Dasha is running for long
+time where as in one Dasha native may have male as well as
+female child. But due to the different sub dasha rulers, he will get
+either male or female child or twins , which also depend on the
+cusp sub lord indication.
+• Planet deposited in odd or even sign also play the important role .
+Odd sign indicates male and even sign indicates female child.
+• Suppose native is passing through Venus Maha Dasha and Sub
+period rulers of Venus, Moon or Saturn (Anter Dasha) will give
+female child, while sub period of Mars, Sun or Jupiter will give
+male child possibilities.
+• In example chart Native was passing through Rahu Maha Dasha
+and during this dasha in 1987 and in 1998 male and female both
+child born respectively in Saturn and Moon sub period. Now,
+Saturn in radical chart is in conjunction with Sun and Jupiter with
+Mercury and Ketu and Saturn is in Sun Star. So in sub period of
+Saturn, in the influence of Sun and Jupiter is more indicates male
+child. While in Moon sub period, Moon is in Taurus sign and in
+Sun Star and Moon is aspected by Jupiter from even sign. So
+basically Moon it self is a female planet indicate female child
+while Dasha lord is remain the same so one can take the
+conclusion from the sub period rulers.
+Defective Child:
+• 5* house sub lord is connected with both positive and negative
+house (4, 12) and also connected with Saturn or Ketu indicates
+defective child.
+Child after very long time :
+• If 5* house sub lord is positive but not supported by Dasha, will
+delay the child birth.
+m
+Adopted Child:
+• If 5* sub lord is afflicted, connected with barren sign and no
+relation with Jupiter There will be no hope for child.
+• If 5th house sub lord is afflicted but also connected with 2 and 1 1
+and some connection with Jupiter also then one can go for
+adoption of child.
+
+• If in child's chart, 4* house sub lord connected with duality and
+also connected with 3 and 8* house, it indicates one can go for as
+adopted child. (S^house is 12th house from mother and 8* house is
+12* from father's 9* house)
+• While adopting the child if birth data of the child is not available,
+then one can rely on horary method and can get the condition of
+the child as below.
+o First mentally decide a particular child and ask the question
+to the astrologer whether this particular child is ok for them
+from Asc of the horary chart one can read the full chart just
+like birth chart and give the opinion regarding the nature,
+health, education and other factors. So if first house and lord
+of 1st house is not afflicted and at the same time horary Asc
+and horary Moon having a good significators in querist chart
+then one can adopt that particular child otherwise one can go
+for another child after getting the confirmation from the
+horary chart.
+o One can use this horary chart for all future prediction for that
+adopted child.
+Hereditary disease for child *
+• In child chart, if the 6* house sub lord is connected with Saturn
+and also connected with the 8* ,house, it indicates hereditary
+disease because 8* house is 12* house from father side and 5*
+house from the mother side (During conception only child will
+have this problem) and in parents chart cusp sub lord of the *
+respective child connected with Saturn or Rahu which also
+connected with 4* and 12* house indicate hereditary disease in
+child.
+Dejection of Child by the mother at the time of birth :
+• If the 4* hose sub lord of the child chart connected with 3, 8 and
+12 and Moon is also afflicted at the same time Dasha at the time
+of birth also indicate 3,8, 10, 12 house combination indicate that
+child will not get the happiness from his /her mother.
+Growing of child by other then parents :
+• If 4* house sub lord of the child chart connected with 3, 10, 5, 1 2
+then such child will grow at differentplace. At the same time
+dasha also connected with 3, 5, 10, 12is necessary.
+
+Lucky child for family :
+• Parents chart al so indicate positive or negative time at the time of
+childbirth. So one should not blame child for luck or struggle for
+the family.
+• If in child's chart, Jupiter is connected with 1st , 2,td, 5 * , 9* Or 10*
+house indicate prosperity forthe family.
+• If malefic planets and afflicted planets connected with 2 , 4* and
+10th house indicates future struggle forthe family.
+• In the example chart Lord ofAsc Moon is aspected by
+Jupiter as a lord of 9* house and also aspect Mars Yoga
+Karaka Planet for Cancer Asc indicate luck for family after
+her birth.
+Only one child :
+• If 5 house sub lord is connected with 2,5, 11 plus Jupiter but if 7
+or 9* sub lord are not connected with 2,5,11 then it indicates only
+single child.
+Death of parents with the birth of child :
+• If 4* or 9* or both sub lord are connected with Badhaka / Maraka
+from 4* and 9* in child chart and Sun and Moon are also afflicted,
+Dasha also connected with Badhaka / Maraka of parents in child
+chart indicates early death of parents.
+Parent child relationship :
+• In parents chart, if 5*house sub lord is afflicted and connected
+with 6,8, 12 and Jupiter is also afflicted, it indicates parents will
+not get happiness from child.
+• Child's ruling planets connected with 6, 8, 12 in parents chart then
+that particular child will give the problem to the parents.
+• In child's chart, if 4th house sub lord is connected with the 12*
+house or 8* house and 1st house sub lord is connected with 4*
+house and Moon is also afflicted it indicates child wants to keep
+good relation with mother but mother will not take care of the
+child.
+• If mother's ruling planets connected with 6, 8, 12 in child chart
+then also mother will give problem to the child. rTT
+
+• In child's chart if 9* house sub lord is connected with 12 or 8*
+house and 1 house sub lord connected with 9* house and Sun
+is also afflicted then father will not keep good relation with
+child but child wants to keep good relation with father.
+• If father's ruling planets connected with 6,8, 12 house in child's
+chart then also father will give problem to the child.
+• In child's chart, if 1st house sub lord is connected with 3, 12 then
+child will not keep good relation with mother and if 4* house sub
+lord is connected with 1st house, mother will try to keep good
+relation with child.
+• In child's chart, if 1st house sub lord is connected with 8 or 12*
+house and 9* house sub lord is connected with 1st house then
+child will not keep good relation with father but father will keep
+good relation with child.
+• In parents chart, if Dasha rulers of the child's chart is connected
+• with 6, 8, 12then parents will suffer through that particular child
+during that period.
+• In child's chart, if Dasha rulers of parents chart is connected with
+6, 8 or 12th house then child will suffer through the parents . -
+Step Mother:
+• If 3ld or 4* house sub lord is afflicted 'then possibility of step
+mother (3rd house is 7* house from 9* house and 12* from the 4*
+house)
+• If 3 house is with duality, then possibility of step mother (When
+indication of mother's short longevity, remarriage of father,
+Moon is afflicted)
+• If 3rd or 4* house with duality then father will remarry (Father's
+marriage life disturbed and divorce ) mother and step mother
+both are present
+Child abuse /exploitation:
+• In child's chart if 8* house sub lord is connected with 3, 8 and 1st
+house and also connected with Venus, Moon or Mars and
+afflicted by Suppose
+
+o Lord of f house- then from family member,
+o Lord of 3 rd house Neighbor or brother/sister or during j oumey
+o Lord of 4* house Lady just like mother
+o Lord of 5* house - Students
+o Lord of 6* house - Servant or maternal uncle side relative
+o Lord of 7* house - Known social person
+o Lord of 8th house - In awkward positions / unknown person
+o Lord of 9* House - Father, Guru
+o Lord of 10* house- Higher authority, boss
+o Lord of 11* house - Friend , elder brother/ sister, uncle
+o Lord of 1 2th house - Unknown person , at hospital , at j ail
+
+v.r
+2sl House - Family and Finance /Money
+3rd House - Sale of Property
+4*House - Indicates fix property
+5*House - Purchaser's ll*house
+6*House - Loan facility or Tenants
+7*House - Litigations in property
+10*House - Purchaser's 4* house
+ll*House - Desire to have property, benefit in sale of
+property
+12*House - Investment for property, loss in sale of
+property
+Saturn - Karaka for heredity and property,
+Construction
+Mars - Karaka forland
+Mercury & Jupiter connected with 7* house - Indicates
+litigation
+• 4* Sub Lord with 3, 5, 8, 12 houses then the native can not make
+his own house.
+• 4* Sub Lord with 4, 1 1? 12, 2 along with Saturn or Mars then the
+native can purchase the home. 6* house connection indicates
+loan facilities.
+• 4* sub lord connected with 4,8, 11 and 8* sub lord with 4 ,6 , 11
+then the native will get the heredity property.
+• 4 sub lord connected with the 2, 4, 11,6, 12 with duality
+indicates one can purchase another property by mortgaging old
+one.
+• • 4* house sub lord connected with 6, 3, 5, 8 and 12 houses then
+one will not able to repay the loan and mortgaged property will
+be sold out by the lender.
+• If Saturn is connected with 6* or 4* house, native will prefer to
+stay in rental house or resale property.
+• If 2,Kl house sub lord connected with 4* house and 4* house sub
+lord connected with 6* and 11th house one can maintain his life
+through rental income of the property. •
+• 8* sub lord connected with 2, 4, 11 plus Saturn or Mars plus
+duality indicates sharing in heredity property
+
+• 8th sub lord connected with 2, 4, 11, 12 plus Saturn or Mars
+indicates after making payment one will get heredity property
+• 8* sub lord connected with 2, 4, 11 with 7* house plus Jupiter or
+Mercury indicates litigation in heredity property
+• If Saturn is afflicted in the native's chart it is always advisable to
+purchase ready made property
+• If Saturn and Mars both are in good positions then one can
+construct his own property
+• 4* and 10* sub lord with 3, 4, 5, 10, 1 1 and 12 and 4* house with
+duality then frequently native has to change the residence.
+• If 4* sub lord connected with 4, 1 1, 12, 2 plus 3, 5, 10 plus Saturn
+or Mars it indicates native involve in sale and purchase of his own
+property
+• 4* sub lord connected with 6* house and Saturn The native has to
+live as a tenant or purchase the property in resale or heredity
+property.
+• 4* sub lord with 7* house + Mercury and Jupiter then there is a
+possibility of court case due to property.
+• 4th sub lord connected with ltfh house and 10th sub lord is also
+connected with 4 house plus Saturn or Mars indicate native will
+get company quarter
+• 4* sub lord connected with 4, 11, 12, 2 plus Saturn or Mars plus
+duality or Mercury or Jupiter indicate more then one property for
+the native
+• 4* sub lord connected with Earthy sign or Scorpio sign with
+Jupiter or Moon then one can have Farm house or Agriculture
+land
+• 4* sub lord connected with the Earthy sign with the 6* house plus
+Jupiter or Moon it indicates the agriculture land.
+Location of property :
+th
+4 House Sub Lord connected with
+• Sun - Government colony
+• Moon - Market area, sea shore, lake, river
+• Mars - Industrial area
+• Mercury - Marketplace
+• Jupiter - Near school, temple, court
+• Venus - Posh area, near entertainment location
+• Saturn - Lonely place, slum area, distance places
+• Rahu - Mosque, Church, pray house
+
+Whether to purchase a particular property or not ?
+Prepare horary chart when person desire to purchase a particular
+property and if 4* house sub lord is connected with 2, 4/11 plus
+fit th
+Saturn or Mars and also 1 1 house sub lord connected with 4* & 1 1
+then one can purchase the said property.
+But if sub lord or it's star lord retrograde then one has to wait till
+it become direct and cross the original degree from which planet
+started to move back word. But in certain circumstances if above said
+sub lord strongly connected with required houses 4, 11, 2 with but
+any afflictions except retrogression one can deal with the property.
+If the 4*hhouse sub lord is connected with 2,4, II and also with
+the 7* house with Jupiter or Mercury so it indicates the litigation
+In whose name property should be purchased ?
+From all the family members chart, the chart which is showing a
+condition where 4* house sub lord is connected with 2, 4, 11 without
+any affliction and also connected with Saturn or Mars indicate batter
+to purchase the property in the name of that family member.
+Sale of property:
+• 10* house sub lord connected with 3, 5, 10, 1 1 indicates profit in
+sale of property and connected with 3, 5, 8 10, 12 indicate loss in
+sale of property.
+• 10th sub lord connected with 3 , 5, 10, 1 1 plus 2, 4, 12 houses then
+sale of one property and purchase of another property.
+• l(f house sub lord connected with 3 ,5 , 10 with 7* house plus
+Jupiter or Mercury it indicates litigations
+Hidden wealth from the property :
+• If the 8* house sub lord connected with 4, 2, 11 and 4* house sub
+lord connected with 2, 1 1, 6 plus connected with Jupiter or Venus
+indicate chances to get hidden wealth from the property.
+Borewell :
+It is advisable to use horary chart for borewell and if you find
+following conditions one can suggest proceeding further:
+4* house sub lord connected with watery sign and also
+connected with Moon, Venus and Jupiter then water will be in
+borewell.
+
+4* sub lord connected with
+More percentage of
+Sun
+Moon -
+Mars -
+Jupiter -
+Venus -
+Saturn -
+MercuryCalcium
+Salt
+Sulphur
+Phosphorus
+Magnesium
+Iron
+Mixed
+
+3IdHouse
+4*House
+5* House
+6* House
+7* house
+10*House
+ll*House
+1 2>h House
+Sale of vehicle
+House of vehicle
+1 1th house ofthe purchaser
+Loan facility to purchase the vehicle
+Purchaser
+Purchaser's vehicle
+Desire of the vehicle
+Investment in vehicle
+Venus
+Saturn
+Jupiter
+Karaka for vehicle
+Self-driving
+Driver
+• If 4*house sub lord connected with Movable sign or Dual sign
+with Venus and also signify 4, 1 1, Vindicate vehicle
+• If 4* house sub lord connected with 10* 1 1 * and 6* house with
+Movable or Dual sign with Venus indicate Vehicle from
+company
+• If 4* house sub lord connected with Duality plus 4, 1 1, 12, 2 and
+3, 5, lOone can sale one and purchase another Vehicle
+• If 4* house sub lord connected with Duality plus 4, II, 12, 2
+indicates more than one vehicle
+• If 4* house sub lord connected with 3, 8, 12 and afflicted
+indicates accident
+• If 4* house sub lord connected with Saturn indicate self driving
+• If 4* house sub lord connected with Jupiter indicate # driver
+facility
+• If 4* house sub lord connected with Saturn and Jupiter bith it
+indicates self driving plus driver facility
+• If 4* house sub lord connected with Dual sign or Human
+(Gemini, Libra, Virgo, Sagittarius) indicate two wheeler
+• If 4* house sub lord connected with Bestial sign it indicates four
+wheelers vehicle.
+• If 4* house sub lord connected with Scoipio sign it indicates
+more then fourwheelers vehicl e
+• If 4* house sub lord connected with Watery sign indicate Ship,
+Launch, Boat, and shipping vehicle.
+r
+
+• If 4 * hou se sub lord connected with Airy sign indicate Helicopter,
+Air Plan
+• If 4* house sub lord connected with Fixed sign it indicate
+luxurious furniture with wheels
+• If 4* house sub lord connected with Fire sign / Cardinal or Earthy
+sign indicates road vehicle
+• If 4* house sub lord connected with
+o Mars and Moon or Venus - Petrol, Diesel vehicle
+o Saturn, Mercury + Airy sign - CNG vehicle
+• If 4* house sub lord connected with 8* house and 8* house sub
+lord is connected with 2, 4, 1 1 one can get the insurance claim.
+• If 4* house sub lord connected with 3,8, 12 and not connected
+with 6, 11 then possibility of missing /theft of the vehicle
+• If 10* house sub lord connected with Saturn and Venus with 4*
+house it indicate Driver's j ob
+Colour of the Vehicle :
+If 4* house sub lord connected with ;
+Sun
+Moon
+Mars
+Mercury
+Jupiter
+Venus
+Saturn
+Red/ Golden
+Orange / W hite / Pink
+Yellow/Red
+Green
+Blue/Yellow
+Indigo/Violet
+Black/ Gray
+Number of the Vehicle :
+Total of the number plat one has to select according to planet
+connected as under. While doing the total number only number is to
+be considered and not include the state / district numbers.
+If 4* house sub lord connected with
+Sun - Number I
+o Moon - 2
+o Rahu * j
+o Jupiter - 4
+o Mercury * 5
+o Venus * 6
+o Ketu - 7
+o Saturn - 8
+o Mars - 9
+■t
+
+12“' House
+3rd House
+8*House
+4* House
+2nd House
+1 l*House
+Jail 1
+Away from home
+Restricted movement
+Home
+Family
+Desire for bail
+Saturn & Rahu - Karaka for Jail yoga
+• If the lAouse sub lord is connected with 3, 8, 12plus Saturn or
+Rahu then it indicate the j ail yoga.
+• If the 12*house sub lord is connected with Fix sign it indicate for
+long duration
+• If the 12* house sub lord is connected with Cardinal or Dual sign
+for short term
+• If the 12* house sub lord is connected with 3,8, 12 plus 2, 4, 11
+and Saturn or Rahu indicate native will get bail
+• If the 12* house sub lord is connected with 7* or 10* house it
+indicate imprisonment for business or political ground. And at
+th ti
+the same time 10 house is connected with 8* or 12 house
+• If the 12* house sub lord is connected with 1, 8 or 7* and 8
+house indicate imprisonment from criminal point of view
+• If the 12* house sub lord is connected with 9* house and 9* house
+is connected with 8* or 12* house indicate imprisonment on
+religious ground
+• If the 12th house sub lord is connected with 6* or 11th house one
+will win the case and will relieved from the jail .
+• If the 10* house sub lord is connected with 8* or 12* and also
+connected with Sun or Jupiter and 1st house sub lord connected
+with 3 ,5 ,8 , 1 Oindicate due to native's wrong action according to
+government policy one will go in jail.
+• If the 12* house sub lord is connected with 3, 8, 12plus2> 4, 6, 1 1
+and also connected with Venus one will get the facility in the
+jail.
+
+3rd House
+8* House
+9* House
+1 1 * House
+12th House
+12*fromthe4* (Residence /Birthplace)
+Obstacles in journey or rejection for Visa
+Longjourney *
+Desire for long j ourney
+Far distance / Unknown place
+Moon, Mercury and Jupiter - Karaka forj ourney
+• If 12 nouse sub lord is connected with 3, 9 and 1 2 and
+connected with either Moon or Mercury or Jupiter indicates
+foreign trip.
+• If 12* house sub lord is connected with above conditions plus in
+fix sign plus 4* house is afflicted indicates permanent stay or
+long duration at abroad
+• If 12th house sub lord is connected with Cardinal sign with above
+• conditions and also connected with 3, 9, 1 1 short journey
+• If 12* house sub lord is connected with Dual sign with above
+condition and also connected with 3, 9, 11 indicate frequent
+* * traveling
+• • If 12* house sub lord is connected with 5* house and 5* is
+• connected with 9*,1 ltb and 12th indicate entertainment tour
+• If 12* house sub lord is connected with 6* house and 6* is
+connected with 9* or 1 Chouse indicate one will get sponsorship
+for traveling
+fli
+• If 12 1 house sub lord is connected with 7* house Traveling for
+marriage / bu siness or for social activity
+• If 12liouse sub lord is connected with 8* house indicate one has
+to face the problem at abroad
+• If 12* house sub lord is connected with 12* or 9* house and 10*
+house connected with 9, 12, 1 1 indicates career at abroad.
+• If 12* house sub lord is connected with 4* or 9* house then
+traveling for education or religious tour.
+• If 12* house sub lord is connected with 9* house and 9* is
+fti
+connected with the 6*, 9* , 11 and 12* indicate success in
+education at abroad ■-
+
+If 12* house sub lord is connected with 6* or 10* house
+Traveling for health / service or for career purpose
+If 12* house sub lord is connected with 3, 8, 12housesand also
+afflicted Jupiter or Sun is there it indicates run away from the
+countiy to protect oneself from the legal / government point of
+view
+If P* house sub lord is connected with 12* house and 12* house
+sub lord is connected with 3, 12 and also connected with the
+Saturn or Mars indicates to leave the country because of any kind
+of threat of some one. At the same time 4* house sub lord should
+also be afflicted
+
+Speech : 2 House :
+If 2nd house sub lord is connected with :
+Sun
+Moon
+Mars
+Mercury
+Jupiter
+Venus
+Saturn
+Rahu
+Ketu
+Rahu Ketu
+Taste : 2^ House:
+If iliouse sub lord is connected with:
+Impressive
+Can't maintain the link and divert to another
+topic
+Veiy fast, dominating and harsh speech
+Good conversations and can speak on any
+topic
+Religious , egoistic
+Pleasurable, if afflicted vulgar speech
+Slowly, to the point
+Command on many languages
+Curse
+According to planet they represent
+Sun
+Moon
+Mars
+Mercury
+Jupiter
+Venus
+Saturn
+Rahu
+Ketu
+Bitter & pungent
+Salty
+Chilly and sour
+Mixed
+Sweets
+Sour
+Bitter
+Bitter and pungent
+No taste
+Writing : 3rd House :
+1] J J1UUSC MIU 111 tl 15 CUIIUCCICU Willi .
+Sun, Jupiter
+Moon
+Mars
+Mercury
+Saturn
+Venus
+Rahu
+Ketu
+Good expression
+Good drafting
+Common handwriting
+' not in one pattern
+Fast and without full stop and sharp
+Different way, copy cat
+Compli cated, short hand and to the point
+Command on language, artist
+Copy, overwriting
+Too many points
+
+Relation with siblings : 3rd House :
+If 3r< house sub lord is connected with :
+3. 11 and Mars
+T House
+Afflicted by Mars
+Afflicted by Saturn
+Afflicted by Venus & Moon
+Good relations
+Will spoil the relation
+Younger brother will have some
+problem
+Good support from the younger
+brother
+Problem from the brother
+Problem for property
+Problem for legacy
+Problem after marriage
+Relation with neighbour : 3rd House:
+If 3 rd house sub lord is connected with :
+11th house
+12th House
+Profit and good social relations
+Quarrel
+Not good neighbour
+Good neighbour
+Loss
+Short j ourney : ^ House :
+If 3rihouse sub lord is connected with :
+1,Y, 12+Mars
+Mars /Saturn
+Venus afflicted
+No problem during travelling
+Luxurious travelling
+Accident during travel, but at the
+same time 8* sub lord should be with
+3,8,1 2 house
+Problem
+Pickpocketing
+Quarrel
+Loss of ornaments during journey
+Venus afflicted in
+Female chart with 8, 12 Take care while travelling
+1,7,8, 12+ Mercury
+and Jupiter - Court cases
+
+Verification of correctness of news through horary chart :
+3rd House:
+If 3rJhouse sub lord is connected with :
+Mars - Joke
+Mercury - Halfnews
+S atum - Incomplete or false news
+Sun - * True News
+Moon, - true News
+Venus, - True News
+Jupiter - True News
+Balance of past birth (Good or bad deeds) / Purva Punya : 5*
+House :
+If 5th house sub lord is connected with :
+• 1 51 , 9th and 10* house indicates good balance of last birth
+• 6* house One has to do service for society without getting
+adequate reward or suffer through health conditions
+• 8* House - One has to suffer through accident, with out any
+support of good fortune even no support from own family
+members particularly father/teacher or Gum
+• 12* house One has to suffer due to hardship, handicapped
+mentally or physically, stay away from family members
+Lottery :
+If 3rd and 5* house sub lord connected with 2, 6, 10, 11 plus Jupiter
+indicates profit and if connected with 5, 8, Vindicates loss
+Speculation : 5* House :
+• If the 5* house sub 1 ord is connected to 2, 5, 6 and 1 1 * house plu;
+Mercury or Jupiter - Profit
+• If the 5* house sub lord is connected to 8* and 12* house plus
+Mercury or Jupiter Loss
+• If 12* house sub lord is connected with 2, 6, 10, 11 indicate
+investment in shares will give profit
+Sports :5*House:
+• 1st house sub lord connected with 3ld and 5* house with Mars or
+Jupiter plus Air or Fire sign then native will be interested in
+out door v sports '
+
+J
+• 1 * house sub 1 ord connected with 3 & 5* house with Mercury or
+Moon or Venus with Air and Watery sign indicate interest in
+indoor games
+• If the 5* house sub lord is connected with 2, 6, 10, 11 and 10*
+house sub lord also connected with 5, 6, 2, 1 1 one will get success
+in sports and can make a career in sports
+• If the 5* house sub lord is connected with 4, 8, 9, 12 indicates no
+success in sports
+Servant : 6,h House :
+If 6* house sub lord is connected with :
+• 2,4,6,10,11 Native will be benefited by engaging
+servant
+• 5,8,12 - Loss from the servant
+• Badhaka/Maraka from Asc and 6* cusp is connected with
+natural malefic planets batter to avoid engage servant
+In case of the Income Tax or other raids and if 6* house sub lord is
+connected with 8* and lT house then one of the employee should
+have given information to the concern authority as under
+When you should engage the person as servant in your company /
+house?
+When person approach to find out the job with your company / house
+prepare horary chart and if 6* house sub lord connected .with 2, 3, 4,
+10, 11 you can engage that person or ruling planet of that time
+connected with your radical chart with the above mentioned houses
+you may go ahead and can take the person .
+
+Pet animals : 6lh House :
+• If the 6* house sub lord is connected with Earthy sign and 2,3, 10,
+1 1 houses then it is advisable to have pet animals and native may
+earn good income from them.
+• If the 6* house sub lord is connected with 4 ,5 ,8 and 12* houses
+then it is advisable not to keep any pet animals.
+• If the 6th house sub lord is connected with 7, 8 and 12* houses and
+Jupiter or Mars then there will be a legal problem and financial
+loss to native.
+• If 5* house sub lord connected with 2, 6, 10m and 1 1 01 and also (If
+the 6* house sub lord is connected with Earthy sign and 2, 3, 10,
+1 1 houses then it is advisable to have pet animals and native may
+earn good income from them.) then one can get good income by
+horse racing as well as it is applicable for fanners.
+Loan :6th House:
+If 6* house sub lord is connected with :
+• 6, 8, 1 1 with 2nd house Native will get the loan
+• 3 ,9- Only negotiation and no loan will be available to native.
+• 8 * Sub Lord connected with Saturn Native will get the loan lesser
+amount of loan then applied for.
+• 8* House sub lord is connected with Mercury Native will get the
+loan on instalment basis
+• 8* House sub lord is connected with Jupiter Native will get
+present and even will get more loans in future -
+• If the 8* house sub lord is connected with 5 ,8 , 1 2 plus 6 and 1 1
+Native has to approach another source as he will not get the loan
+from present source
+Repayment of Loan : if House:
+• If 12* house sub lord is connected with 5,8, 12 Loan will be
+repayable by the native
+• If the 12* sub lord is connected with 4* House with 5, 8, 12 houses
+Loan will be repaid by way of sale of property or vehicle by loan
+giving institution
+• If the 12* house sub lord is connected with 2nd house with 5, 8, 12
+Loan will be repaid by way of cash and sale of ornaments ^
+
+• If the 12* house sub lord is connected with 3, 5, 8, 12with
+Mercury or Jupiter Loan will.be repaid by way of fix deposit or
+sale of share / debentures .
+Getting Help for Recovery of Loan :
+If Spouse sub lord is connected with “
+Sun
+Moon /Venus -
+Mars
+Saturn
+Jupiter
+Mercury
+Through the influence of big / influential
+person
+Through compromise, peacefully with the
+help of some lady
+Through threatening
+Less recovery and delay
+Through legal notice
+In instalment basis and through some mediator
+The same condition will be applicable for repayment of loan with
+the 12* sub lord instead of 8* House sub lord.
+Court Cases : Various House :
+1st House -
+7*House -
+10*House -
+11 * House -
+8*House -
+3 rd House
+Self
+Opponent
+Judge
+Success 12 House - Lose in court case
+Mental harassment and penality
+9* House
+6* House
+Native's advocate
+Opponent's advocate
+Success
+• The Dasha of the 7* house connected with Mercury or Jupiter
+indicates court cases.
+• In horary chart, if 7 house sub lord is connected with 2, 3, 6, 10,
+1 1 Positive result in case and if the 7* house sub lord is connected
+with 5, 8,9, Vindicate lose in case
+• 3rd sub lord connected with 5,8, 12 Advisable to change the
+advocate
+• 9* sub lord connected with 2, 6, 10, 1 1 Opponent's advocate will
+help the native
+• 10* and 11* sub lord with 2, 3, 6, 10 and 11* Judgement in
+native's favour
+
+• 1 011 and 11 * sub lord connected with 5, 8, 9, 12 Judgement will go
+against the native
+• 10* house sub lord connected with duality Case will transfer
+from one court to another court
+• 7* house sub lord connected with 3,5,9, 11 Compromise
+Selection of Doctor :
+• If Radical chart of the doctor is available and Ruling Planets of
+the Doctor's becomes significators of positive houses of the
+native then treatment through that doctor will be helpful.
+• If Radical chart of the doctor is not available prepare a horary
+chart by keeping a particular doctor in your mind and if in that
+chart 7* house sub lord is connected with 6*, 8, 12 or Badhaka /
+Maraka don't select that particular doctor but go for another
+doctor. For selection of such another doctor also, prepare the
+separate horary chart and check once again as stated above and if
+you find 7* house sub lord is connected with positive houses from
+Asc than you may select that doctor.
+Theft :7th House : Through Horary Chart :
+If 7* house sub lord is connected with ;
+• 1st House - Native and thief known to each other
+• 2nd House - Theft from family member
+• 3rd House - Younger brother / Sister, Neighbour
+person, Father in law.
+• 4*House - Mother herself
+• 5 *House - Children, students, Finance
+• 6*House - Servant, maternal uncle, pet animals
+• 7 *House - Business or life partner, competitor
+• 8 *House - In laws family member
+• 9*House - Father, Gum, Unknown person
+• 10*House - Person in authority, any government
+person, mother in law
+• ll*House - Friends, elder brother /sister
+• 12*House - Enemy, unknown person
+• If 7* house sub lord is connected with duality then more then one
+person is involved in theft
+
+• If 1 house and 7* house sub lord are strongly connected with
+m
+each other then native may be responsible / due to his negligence
+theft may have taken place
+• If 7* house sub lord is connected with 2, 8, 11 then theft is for
+taking benefit of the insurance
+• If 7* house sub lord is connected with 3, 6, 9 house then thief is
+away from the city
+• If the 7* house sub lord is connected with angle houses Thief is in
+the same city
+• If 1st house sub lord is connected with 3, 8, 12 then person has
+misplaced the thing somewhere, no question of theft
+• If Asc sub lord, House related thing’s sub lord and 1 lfh house sub
+lord connected with 2, 6, 1 1 indicates recovery
+If the question is for;
+• 2,,J House - Liquid cash or ornaments, Keys
+• 3rd House - Documents and mobile phone
+• 4*House - Vehicle
+If the 10* house sub lord is connected with Mars plus 6* and 11th
+house Police will help in recovery
+Retirement benefit ; 8* House :
+• 8* house sub lord connected with 2,6, 11 then native will get
+4 th
+retirement benefit easily but if 8 sub lord is connected with 8, 12,
+11 native will get but after some harassment
+• 8* house sub lord is connected with Duality plus 2, 6, 11 then
+native will adopt the pension other wise will go for PF
+contribution.
+■th
+Insurance: 8 House:
+• 8* house sub lord connected with 2? 6? 1 1 indicate benefit
+o For shop 1 0 fiouse sub lord with 27 6, 1 1
+o For Medical 8* sub lord with 2, 6? 1 1
+. o For vehicle 4* house sub lord connected with
+
+Religion : 9th House :
+• If lrt house sub lord is connected with 9* house and 9& house is
+connected with '1* house and also connected with Jupiter
+Indicate native has faith in religion
+• 9* Sub lord connected with 4, 8, 12 th house one can go forBhakti
+Marg
+• 9* house sub lord connected with 2, 6,. 1 0 Karma Marg
+9 9* house sub lord connected with 3, 7, 1 1 Gyana Marg
+• 9* house sub lord connected with 1,5£ Meditation, Mantra, self
+development
+• 1 and 9* sub lord connected with 3rd and 7* house Native will
+demand proof about religion
+• 9* sub lord connected with Saturn Native will follow family
+tradition
+• 9* sub lord connected with Jupiter Native will give educational
+approach in religion institute
+• 9* sub 1 ord connected with Jupiter and Mercury - Native will j oin
+any religious institute as preacher, teacher, lecturer or
+Pravachankar
+• 9* sub lord connected with Venus Native will play musical
+instrument for charity in religious institute
+• 9* sub lord connected with Venus and Saturn Native will go for
+construction of Temple, Ashram
+Change of Religion: 4
+• Either 1st or 9* house sub lord afflicted by Rahu and Jupiter
+Native will go for change of his own religion
+Spiritual Preacher :
+• 9* sub lord connected with 5 ,9, 10, 11 and also connected with
+Ketu and Jupiter Native will become spiritual preacher.
+Sanyasi :
+• 1st house sub lord connected with Ketu and Saturn with 9* house
+Indicate spiritual progress if it is also connected with 3, 9, 12
+native will become Sanyasi
+• 1 st house sub lord connected with Ketu and 9* house and having a
+good combinations of Mats and Venus At home native will
+behave like a Sanyasi
+
+Cr iticizer of Religion :
+• 9* sub lord connected with 2, 6, 10 or 3,7,1 1 and also connected
+with Mars, Mercury and Uranus.
+Siddhi or Achievement :
+If 5 * house sub lord or 1 1 * house sub lord connected with 5, 10, 11
+and also connected with Saturn, Jupiter and Ketu Native will get
+some Siddhi
+Mantra Siddhi 5* house sub lord connected with 5, 10, 11 with
+Saturn
+m
+Mantra Tantra If the 5* house sub lord connected with Rahu
+Native will be interested in Tantrik Pooja and other planet
+indicates the Satwik Pooja
+If the 5*
+Sun
+Moon -
+Mars -
+Mercury
+Jupiter
+Venus
+Saturn
+Rahu
+Ketu
+house sub lord is connected with :
+Sun pooj a or Gay atri Mantra
+Devi pooj a or Kuldei pooj a
+Ganesh or Kartikey a Pooj a
+Vishnu Pooja
+Brahma or Dattatrey a Pooj a
+Devi Pooj a or Lakshmi Pooja
+Hanuman Pooja
+Naag devta and Sankar Pooj a
+Sankar Pooj a
+If the 5* house sub lord afflicted or connected with barren sign
+then the native will not get the positive result
+Moon and Saturn combination give faith in religion
+If Jupiter and Moon both are afflicted then native should not take
+interest in Tantra
+Remedy :
+Astrology is based on the reincarnation of the birth and in this theory
+it believes the good or bad results of our past deeds and result of it we
+get either in this birth or in the future birth. Astrology shows results in
+many ways but to understand we can classify in to the following
+categories.
+L Objective
+2. Subjective
+In the objective results the native passes through such results,
+where the society, the family members and other members know it.
+
+In the subjective results, the native passes through such results,
+where rarely any one knows the result except the native.
+Human being make the efforts to achieve some goal in their life.
+Either it may be a materialistic goal or it may be a spiritualistic goal.
+Ultimately the efforts give rise to evolution of the soul and that is the
+purpose of the creator.
+The creator has given intelligence, thinking power, freedom to
+act, mind to realise the feelings , the mental and the physical organs to
+use in the proper direction in most situation. So all these factors and
+freedom to act, bind us to get the results accordingly. Either they may
+be good or bad that will depend upon our purpose.
+Human beings have formed some rules and regulations to run the
+society smoothly. In some action the purpose may be good, but
+according to the society's rules and laws the purpose is not
+considered, while the natural law always act on the basis of
+"Bhavana" of the human being during the action. Some time we see
+that some persons escape from the society's law but in the nature's
+justice it is not so and one is bound is to get the result during the
+present birth or in the future births.
+There are seven types of bodies, in the process of evolution of the
+soul. The physical, the ethertic, the astral, the mental, the spiritual,
+the cosmic and the nirvanic. It is very difficult to know that the native
+is passing through which body internally, without the intuition or
+sixth sense or divine power.
+The knowledge of astrology has given some hint, about it,.
+Astrology gives guidance, particularly where the native has positive
+or negative points in regards to all the aspect of the life, how to make
+the efforts, in which directions so the native can get relief through this
+guidance.
+The 12 houses shows the circumstances, the positive and the
+negative results for all the departments of the life. While the planets
+are bound to give the results according to the sign, aspect, and the
+constellations forthat house matters for which the planets become th<
+significator.
+Many people have the impression that with the help of
+astrology one can change the life pattern as they wish, and with this
+expectation they contact the astrologer for some remedy. But one
+
+should understand that there are three types of Karma. Dhruda
+Karma, Dhruda Adhruda Karma, and Adhruda Karma,. In Dhruda
+Karma there is no escapism from the results whether one can peifomi
+any remedy or not.
+In the other two types of Karma, the remedy can give some relief,
+if it is mentioned in the chart. The chart indicates whether the native
+will get the effect of the remedy or not, and also it indicates the
+remedy forthe time being or for permanent in the nature.
+There are some remedial measures, which can help if the remedy
+is promised in the native's chart. And if it is not mentioned in the
+chart, whichever remedy one applies it will not work. Nature gives
+the indication from the chart only that one will get the relief or not
+through the remedial measures. It is the astrologer's duty to check this
+conditions and suggest the remedy accordingly.
+Now a days in all the news papers most of the advertisements
+published with 100% solutions and guarantee of all the types of
+problem through astrology, which is totally wrong. It creates a wrong
+impression in the mind of public and it is a disgrace not only to the
+astrologers but also to the divine science.
+Following types of remedies are generally applied.
+I. Approach according to house reflections for a particular
+matter
+2. Gems
+3 . Mantra , Tantra, Y antra
+4.. Rudraksha
+5. Medicine, Naturopathy, Healings
+6. Vastu
+7. Muhurat
+8. Radiation
+One knows that, one is not able to change the birth data, the
+motion of the planets, the situation of the planetary signs, aspects and
+constellations positions, because one can not control the celestial
+bodies. The life matters reflects through the houses and these houses
+only shows plus or minus in each and every matter." So if one follows
+according to the house conditions it will be batter to get the relief.
+Suppose, in the chart the education shows trend of technology
+and parents insist for Medicine or for Management due to their
+position. In such a case the child will not shine in the other field due to
+
+native's aptitude, likes and dislikes. Suppose in the chart one finds the
+4* house is afflicted then the native will develop in the other place
+according to the chart. Suppose in the chart native's development
+shows dependant on some one else, then in such a cse one can not
+advise for independent adventure.
+Suppose in the chart. I* ,3rd and 9* house development does not
+show as required and parents realised through the astrologer, one can
+take the proper care from the childhood with the help of medicine,
+psychiatrist.
+In some cases, natives development shows service than business,
+then one should go according to their situation for better results .
+In this way one can use the houses and their reflections. The other
+remedies improve mental power, increase the positive vibrations,
+create new visions to see the situations, and all the changes the
+concept towards the life. One can react better in a bad phase with the
+help of all these remedies.
+In some cases remedy is required for lifetime and in some cases it
+is required for a particular dasha sub period. Some time it is required
+for a particular transit only.
+In Hindu astrology results are activated by Saturn, Rahu, Ketu
+and Jupiter. If the result is activated by Saturn, better to follow the
+results through house patterns with the patience and daily perform
+the family devata's pooja.
+If the result is activated by Jupiter, then it is better to follow the
+religion, manta for specific result, radiations, gems, rudraksha,
+medicine, naturopathy, healings, muhurat, vastu and yantra etc.
+If the result is activated by Rahu or Ketu then apply the remedy of
+Tantra, Yantra and Vastu Dosha Pooj a to get the relief.
+So which type of the remedy will be useful to the native one can
+find out from the chart, but at the same time one should follow 11
+house sub lord. Whether it shows success. For the Mantra, Tantra,
+one should follow the 5* house sub lord to get the evolution of the
+soul and also to get the mental relief in a difficult time. It is not
+necessary that the 5* house sub lord will give a materialistic results, it
+is only for spiritual development.
+Before applying a particular planet's remedy one should be aware
+that not a single planet is totally beneficial or totally malefic in the
+chart, it depend upon the matter. Same planet is good for a particular
+matter and the same planet is negative for another matter for the same
+person.
+
+So here matter becomes the priority for the native, what he likes to
+achieve by applying the particular planet's remedy.
+Suppose Jupiter is significator of 6* house then for health it may
+effect negative and for the career it may effect positive or for
+marriage it may effect negative. So in such a condition the astrologer
+should give a clear idea about it before suggesting remedy, any
+remedy changes the elements balancing in all the levels accordingly.
+Classification for the remedy :
+1. Life time remedy
+2. For specific period
+According to Dasha, sub period or due to transit.
+Without the blessing of the divine power or god or nature or the
+creator one can not come out successfully in a remedy. The
+following conditions should be fulfilled in the chart.
+1 .For Life Time remedy :
+The Asc and Moon should be under the influence of Jupiter and
+the lord of Fortuna house.
+2. For the specific period remedy:
+The Asc or Moon or the Dasha lord or sub period ruler should be
+in the influence of Jupiter or the lord of the Fortuna House.
+So before suggesting a remedy, an astrologer's prime duty is to
+fulfil the above conditions to get the desired results.
+From the chart one can classify the planets in the two catagories.
+1. The planet is weak
+2. The planet is afflicted
+The planet is considered to be weak by it's sign, it's constellations
+and it's house position and also by it's strength in varga charts and in
+the shada balas.
+* The planet is afflicted in a chart by the aspects from the natural
+malefic planets or the lord of negative houses of thechart.
+If the planet itself is weak, then increase the strength of theplanet
+itself with help of remedy . r?
+
+If the planet is afflicted then suggest the remedy for the opposite
+nature's planet, the planet who is afflicting the planet and also suggest
+the remedy of the lord of the improving houses to make them strong
+than the afflicted planet.
+• • In the second case support should be there in the chart from the
+opposite nature planet otherthan the planet which is afflicted.
+The solar plexus also indicate the remedial measures according
+to the strength of the planet in the chart. Accordingly the native gets
+the problem on different levels of the bodies like physical, mental,
+astral etc.
+In the chart of those who are in a very high status in the process of
+evolution of the soul, they are less effected by the houses. Further less
+effected by the signs and further less effected by the combinations.
+This is what I under stood with my limited knowledge. Here by
+effected, it means they don't feel any unhappiness in heavy afflictions
+of therespective houses, signs and the combinations of theplanets.
+Remedy always works, if one is able to know from which body
+level native is passing, in process of evolution of the soul. Disease or
+problems always remain in one body level either in the last body level
+or in the present one or in the next one.
+Politics :
+• Ist house sub lord connected with 3,7,10 and also with Mars , Sun ,
+Jupiter and Mercury indicates native's interest in politics.
+• 10h house sub lord connected with 9, 10, 1 1 then native will enter
+in to the politics.
+10* house sub lord connected with :
+Sun
+Mars
+Jupiter
+Saturn .
+Venus, Moon
+Mercury
+Native will reach to a higher position in
+politics exp . Minister, CM , PM
+Native will reach up to higher position
+through military or police
+Native will reach up to higher position
+through Religion , law , finance
+Native will reach up to* higher position
+through Trust, labour.
+Native will reach up to higher position like
+ML A or Corporate level ^
+
+If 10* house sub lord connected with 5, 8, 12 then failure in
+politics
+If 10* house sub lord connected with 5, 8, 12 and 9, 10, 1 1 then
+possibility of ups and down
+
+8 * House - Longevity + Mode of Death
+1. Natural Death - Sickness, Disease
+2. Unnatural Death - Accident, Suicide, Murder, Hang
+8* SL connected with 6m house Death by Disease
+8* SL connected with 6* House-Death in home by disease
+8* SL connected with - 6* & 12* House- Death in hospital by
+disease
+8* SL connected with - 3rd & 12th House- Death out side home
+Unnatural Death:
+Accident:
+8* SL connected with- malefic- Mars, Saturn, Hershel,
+Neptune, Pluto and Rahu
+1st SL connected with 8* House and 8* SL connected with Badhaka
+c&Maraka and /or
+8* SL connected with malefic Accidental
+Death
+Suicide :
+• 1 SL connected with 8* House and 8* SL connected with 1
+House plus
+8* SL connected with Badhaka & Maraka will indicate Suicidal
+Tendency /Attempt
+• 8* SL connected with dual sign OR connected with Mercury or
+Jupiter Native will survive once in accident/ suicide attempt but
+will die in subsequent attempt.
+• 8* SL connected with dual sign and also Jupiter and Mercury
+|L
+connected with 7 house Litigation in suicide matter after
+survival from suicide.
+Different types of Accident/ Suicides :
+• 8* SL connected with 3Td, 9* 12th + Moon / Mercury / Venus /
+Jupiter Accident during journey
+
+• ' 8* SL connected with 5* house / lord + 8* SL & 5* SL connected
+with 8* & 12* house Death during entertainment picnic, sports,
+party , entertainment
+• 8 * SL connected with 6* & 1 0th Death at work place , in work area
+• 8* SL connected with 9* & 12* Death during long journey, at
+distance place, also in Religious, political ground / movement
+8lk|SL connected
+with various signs :
+Earthy Sign +
+Watery Sign -
+Airy Sign
+Fiery Sign
+Suicide:.
+Saturn & Mars Road / Rail Accident
+Saturn & Rahu - Sea bank, River, tank,
+Pond, Lake
+Hershel, Venus, Mercury, Saturn Air crash,
+Hanging, Fall from height,
+Sun, Mars, Herschel, Unexpected fire,
+explosives factors, accidental death
+Person always thinks about the death Death by choice with less pain
+l^SL+S* SL+Badhaka+Maraka
+1st SL+8*SL+Badhaka+Maraka +
+Positive House
+8^ SL + Neptune + Rahu +
+Virgo or Scorpio sign
+8th SL+ watery sign
+8*SL + Fiery
+8 th SL+ Airy sign
+8th SL + Earthy sign
+Death by suicide
+Survive & no second
+attempt
+Sleeping tablets, poison
+Death due to water
+Death due to weapons or
+Accident. It includes
+death by explosives
+Death due to jump from
+height or hanging
+Death due to Road or Rail
+accident —
+
+Murder :
+• 8* SL + 1 st SL, l5f SL + 8* SL and 8* SL connected with 7* House
+Death by Murder
+• 8* SL connected with 7* House - Death by Murder
+• 1 * SL Self, 7* SL Opposite party / Life Partner or murderer
+• 7* SL connected with Badhaka & / OR Maraka and 8* SL is
+afflicted Death by Murder
+Movable Asc 1,4,7,10-7* House is for marriage & 7* SL
+should connected with 2, 7, 1 1 *
+2,7, 11 are Badhaka + Maraka for these Asc but they are positive
+house for marriage. *
+Hence don't predict death by murder, if 8* sub lord is not supporting.
+• Check l- & 6 SL as 1/3 rd population of Movable sign will
+come under this condition.
+2 ,7 & 1 1 - Significators Planets - Will kill the person
+Indira Gandhi :
+Asc Cancer, Saturn in Asc (lord of 7 & 8) and Asc lord Moon in 7*
+House , Parivartan Yoga
+Asclord connected with 7*House, l*1 House & 8*House
+Saturn - S erVaht & security- Negative role
+Murder by servant / security person
+8* SL connected with dual sign Native will go for murder & will kill
+some another person
+Person dad - Maraka & Badhaka
+Killer - Ruling Planer v Same or Equal
+There must be equality in RP
+of Killer with Badhaka/
+J Maraka of dad person.
+John F.Kenedy - Killer not known till date - Neptune
+Example chart given in Nakshtra Chintan Part 11 .
+
+Types of Murder : Unnatural Death :
+Physical attack '
+By smashing throat
+Poison or Sleeping tablets
+Death by Drowning
+Hang: By Court Order:
+Mars, Saturn, Fiery Sign
+Mercury Airy Sign, Saturn,
+Rahu
+Neptune + Rahu & Virgo or
+Scorpio sign
+Neptune + Moon + Venus +
+Watery sign
+• Either Suicide or Murder or Criminal / Political angle, Hang by
+Govt body
+• 8* SL connected with Maraka + Badhaka, 8* SL afflicted +
+connected with Jupiter and Sun (karaka of Law) + 8* & 12*
+House - Through legal, punishment given by court,
+death by hanging
+Delay in Hanging:.
+Due to positive house connection.
+Mercy Killing :
+1 . Physical or mental sickness
+2 . Native i s mentally ready for such death / suicide
+3 . Sun & Moon are most important to^take such a decision by legal +
+Medical point of view
+4 . 6* house, 8* House, Sun, Moon and Jupiter are connected
+Position for mercy killing
+
+Horary astrology is a branch, which gives separate result of the
+query and at the same time work to support or give confirmation of
+the natal result for the particular query. There are many marits and
+demerits of both the branches but here we do not consider.
+To cast the horary chart there are two main systems. One is time
+of query in the native's mind or when he approaches to the astrologer
+and the second system is through the numbers.
+Those who follow KP knows that there is a system to ask for a
+number between 1 to 249 and the querist gives the number which is in
+his / her mind. This number system is mainly developed from
+Uttarkalamruit Granth by Kalidas in which granthkar has given
+number system between 1 to 108 (27 constellations x 4 pada each =
+108). We know that in KP system any .zodiac degree is ruled by
+minimum of three planets 1 ) Sign Lord 2) Star Lord and 3) Sub Lord .
+So each constellations has nine sub lords on the base of Vimshottari
+Dasha system. So 27 x 9 = 243 but Rahu Sub in Sun Star and the
+Moon sub in Jupiter Star fall under another sign ruler so in these way
+another six numbers are increased and the total number is 249. Now
+three planets rule each number. Number given by the querist and the
+zodiac ruled by the number become the Asc forthe horary chart.
+In KP horary book it is mentioned that if the querist gives the
+number beyond 249 then without calculating any chart the astrologer
+should give a negative answer of the query.
+m
+But in this regards, my personal experience differs. 1 have
+experienced that when you ask for a number with in a given range of 1
+to 249, mostly internally the querist has a prejudice towards some
+particulars numbers and will not give a number like 13 or 1 13 or 213
+but they are biased by lucky numbers like 1,11,21,51, 101, 108, 158
+etc. Some times they give their birth date or age as a number. So
+intension to get the correct number is not fulfilled.
+So personally 1 have started to take any number from the
+querist with out any limit. Suppose this number is more than 249 then
+divide the number by 249 and whatever quotient you arrive at is again
+multiplied by 249 and the answer will be deducted from the given
+number by the querist . The balance will be the correct number forthe
+horary chart.
+
+For example, suppose the given number is 123676. Now divide
+this number by 249, you will get .the quotient 496. Now again you
+multiply quotient by 249 and you will get the answer 123 504. Deduct
+this answer from original given number 123676. The reminder
+.balance number will be horary number, which in this case is 172.
+\ If you work through this system for the horary chart, I am sure
+that you will get the batter result if you have applied principles of KP.
+I have been using this experiment since 1985 and getting
+excellent results.
+Example :
+Querist had asked the question regarding settlement at abroad
+and he has given the number 345 .
+Question solved on 17.05.2007 at Khar Mumbai at 1907 hrs. The
+detailed chart is as under.
+Number 345 249 =96 is a horary number and it rules 4s 17d 20m
+01s as a horary Asc.
+Cusp * Sub Lord Planets Star Lord Sub Lord
+Reflection of the query through Moon :
+• Moon is in the 9th house (House for long j oumey)
+• Moon i s the 1 ord of the 12th house (Foreign)
+• Moon is connected with Sun Lord of the Asc and Mercury
+Karaka foQourney
+• Moon is in fix sign and it’s star lord Moon itself in fix sign indicate
+permanent settlement at abroad
+Asc sign plus Asc lord Sun both are in Fixed sign also indicate
+long duration stay at abroad
+
+How to judge abroad journey ?
+• 12f1house sub lord is Mercury (Mercury is karaka of journey),.
+Mercury is lord of 2 and 1 1 and deposited in the 10th house and it
+is in Moon star and Moon is deposited in 9 house (long j oumey)
+and lord of 12 house (foreign)
+• Mercury is connected with the Asc lord Sun, Sun is deposited in
+9 house . So it indicates foreign j oumey yoga in this query chart .
+• 1 1th house sub lord Sun who is the lord of 1* house deposited in
+Hi th
+9 house and conj unction with Moon lord of 12 house and also
+conjunction with Mercury. So desire house also indicate the
+positive result forthe abroad journey .
+Efforts of the querist :
+• 1 house sub lord is Mars, deposited in *! house (Journey house)
+th th
+as a lord of 4 and 9 and Mars in Saturn star and Saturn is
+deposited in 12,h House (Foreign) as a lord of 6th and 7th.
+• So it indicates that native will definitely try to go abroad even
+though he find some difficulties because the lord of the 8 house
+Jupiter aspect to Mars being Mars in dual sign, it is advisable to
+put more efforts for visit abroad.
+• Sun Asc lord also in the fix sign indicates determination to go
+abroad as it is deposited in 9th house
+th
+• Lord of 5* and 8 Jupiter deposited in 4 house indicate better
+th
+to stay distance place because the 4 house is afflicted by
+th
+placement of Jupiter as a lord of 8 house.
+Other points:
+• Querist wants to settled at abroad with family members as
+indication given by Mercury 12th house sub lord a lord of 2nd and
+11th house.
+• Mercury being a lord of 2 and 11 indicate benefit at abroad
+through career though initially native may have some
+difficulties because Saturn is deposited in 12th house and Jupiter
+lord of 8th aspects the Mercury and Saturn both.
+• It is advisable for the native initially he should not purchase any
+kind of property at abroad because 12th sub lord Mercury is a dual
+planet and delaying planet Saturn is deposited in 12*. house is
+also a Karaka for property.
+
+• 10* house sub lord is Saturn deposited in 12 house as a lord
+of 6* and 7* aspected by Jupiter from 4* house (support from
+some one) lord of 5* and 8*. Saturn who is ;lord of 6* house
+(colleagues in service),. Jupiter 5* house lord colleagues who
+had left the service will extend their support in settling abroad.
+Saturn lord of 7* house (spouse) and Jupiter lord of 8* house,
+family members of the spouse (also indicate support from them)
+• Saturn lord of 7* house and 6* house deposited in 12* house
+indicate spouse is not agree to take the support from her family
+members
+• 1(? house sub lord Saturn in Mercury star and in aspect with
+Jupiter indicate that at abroad native join a career connected with
+financial management.
+Time factor:
+• Native is passing through Moon dasha and Rahu sub period as per
+horary chart. Moon is already discussed as above.
+• Sub period ruler Rahu in 7* house (journey house) Rahu is in itTs
+own star and in Moon sub. Moon is deposited in 9* as a lord of 1 2th
+house.
+• Rahu deposited in Aquarius sign Ruler of the sign Saturn
+deposited in 12* house indicates Rahu sub period only had given
+the opportunity for abroad.
+• Venus sub sub period ruler is much stronger because it is near the
+cusp of the 1 1th house as a lord of 3rd and 10th house. Venus in star
+of Rahu (as discuss above) and it is in sub of it's own and also
+aspected by Mars (lord of 9 house and sub lord of V house) .
+• Another sub sub period of Mars is discussed already above also
+indicate positive result to go abroad
+• 12th house sub lord and 1 l*house sub lord both are direct and fast
+moving planets indicates result in short time.
+
+KCs
+Chart No : 1 :Male Chart
+Birth Time :02.20.04 a.m.
+Nature of the person :
+1st, 3,9 house sub lord is Jupiter. Jupiter is deposited in 3 rd house
+as a lord of 3,d and 6* house it is in conjunction with Mercury,
+Sun, S atum and Ketu,
+Jupiter aspect to Moon and Rahu and it is in .square aspect of
+Neptune and Asc.
+Jupiter in Moon star. Moon is the lord of 10th deposited in 7*
+house.
+Jupiter is in^ cancellation of Neech Bhanga Yoga and Moon
+•exalted .
+Moreover Moon in Sun Star and Mercury Sub and Sun is
+deposited in 3 rd house as a lord of 1 1th House.
+Mercury in 3 House as a lord of 9* and 12 in conjunction with
+Sun, Saturn, Jupiter, Ketu and aspect to Rahu. Also Mercury in
+Moon Star and Mercury Sub.
+Neptune is deposited on cusp of Asc and Mars is on the cusp of 3rd
+House. >
+
+• From above analysis it indicates native is very spontaneous,
+ambititus, practical and having a boldness to say any thing in
+front of a person. At the same time having a interest for more
+progress in materialisic life as well as practical and spiritual
+life also.
+• Native is interested in public life at the ame time having a fond of
+to aquire a knowledge also. Willing to take leadership in the
+society or at work place.
+• Jupiter being a sub lord of 1* house indicate generocity with the
+practical approach though initially native suffer 's from the
+misunderstanding from the society.
+• Native is ready to accept responsibility, basically more mentally.
+• Native has interest in travelling and also interested in preserving
+valuable documents or informative materials. At the same time
+native is also interested in law.
+Education :
+• 4* house sub lord Mars in the 3rd house as a lord of 2nd and 7th house
+connected with Venus lord of A sc .
+• Mars is in sextile aspect with Neptune and aspect to 6* 9* and 10,h
+houses.
+• Mars in Venus star and Venus is deposited in 3rd house as a lord of
+1st and 8th house.
+• Karaka Mercury in the 3 rd as a lord of 9* and 12th conjunct with
+another knowledge karaka Jupiter and conjunction with Saturn
+lord of 4* and 5* houses (Education + Intellectual) and also
+conjunction with Sun lord of 1 1th house.
+• Mercury in Moon Star and Moon is exalted in 7 house and
+Mercury is it's own Sub.
+• 9* House sub lord Jupiter is already discussed as above.
+• Education point of view it indicates in primary education initially
+native finds some difficulties but due to support from Venus,
+Neptune and Jupiter native was able to complete the education
+during that period. There is a condition of change of institute or
+residence and also participated in cultural activities being Mars in
+duality sign and Mar’s star lord also in duality sign indicate
+change of the line or having a knowledge of technical as well as
+during study having participated in other activity.
+
+• 9* Sub lord Jupiter indicate, native have interest in finance
+management plus because the connection with the Sun, Saturn,
+Mercury, Moon, Ketu Chemistry / Biology (Science) but due
+to square of Neptune there are chances of misguidance or
+chances of wrong decision in selection of the branch.
+• Native is Msc. (In Drugs), LLB and CAIIB 9* house sub lord
+Jupiter is as discussed above connected with science plus Jupiter
+itself is karaka for Legal and Finance.
+• As per chart, Jupiter and it's Star lord are in Earthy sign and also
+connected with Sun., Saturn, Mercury also in earthy sign indicate
+finance management, import, export policy and taxation audit are
+suitable lines for the native .
+Career ;
+• 1 5t house sub lord Jupiter (as discussed above) connected with
+Earthy sign its star lord Moon also in Earthy and Fixed sign
+indicate native is very far sighted and not taking any kind of risk
+at the same time Jupiter is connected with Mercury planet of
+intellectual plus connected with Saturn planet of stability and
+Sun lord of 1 1th house.
+• Jupiter is lord of 6th house and Neptune is degreecaly in
+opposition to 7* cusp and square with the Jupiter indicate that it
+is always advisable to go for service than business. At the most
+one can go for own self assignment job or consultancy.
+Partnership is also not advisable.
+• 10th house sub lord Mars as a lord of 2nd and 7th in 3rd house and
+aspecttob'^^and 10,hhouse,
+• Mars in dual sign and it's star lord Venus also in dual sign indicate
+that native will go for Job but due to duality changes are there
+from one industry to another industry because of 9m and 8* house.
+• 10th house is aspected by Jupiter, Mercury, Saturn, sun and Mars
+and Rahu is on the cusp of the 10 house indicate that native will
+get different type of opportunities in different types of industries
+but due to Neptune native himself will not take any kind of risk
+due to some misunderstanding or suspicious factors.
+
+• So from above discussion it indicates either native should go for
+finance industries or connected with the management industries
+only.
+• Native had work in Drugs industries and Petrochemical
+industries for short time and now working in Banking industries.
+Abroad :
+• lAouse sub 1 ord i s Rahu in the 10th house and i t i s Mercury star
+and Mercury is connected with 3,9, 12 and as such it indicates
+abroad journey.
+• Rahu is aspected by Jupiter, Saturn, Sun, Mercury and Mars and
+so most of all the planets are connected with Rahu indicates that
+native will go abroad and will also get the support from some
+body who are already settled there.
+• Being Rahu is connected with the 1 0th house and also aspected by
+Mars and Jupiter, Saturn, Sun, Mercury indicates through
+company also one can visit abroad.
+• Native has already visited abroad as personal visit and also send
+by the company for official work.
+Marriage :
+• Chouse sub lord is Jupiter in the third house as a lord of 3rJ and
+6 in Moon star and Moon is in the 7 House of marriage.
+• Jupiter is in conjunction with Ketu lord of 4* and 5,h and also
+conjunct with Saturn lord of 4* and 5* connected with Mercury
+and Sun lord of 9, 1 1, 12
+• 5* house sub lord Ketu also connected with 7* sub lord Jupiter
+and in Mars star. Mars is lord of 2 and 7 connected with marriage
+karaka Venus indicate love marriage. But due to connections of
+6 and 12 indicates some kind of disturbance at the time of fixing
+the marriage either from status or family point of view. But due to
+square of the Neptune also play some misunderstanding from the
+different society to create the problem but at the same time Sun
+and Saturn both are provisional factors to celebrate the marriage.
+
+Chart No :2 :Male Chart
+BirthDate:03 .10.1 987
+Birth Time :08.09 ,04a.m.
+Education:
+• 4* house sub lord is Ketu and Ketu i s deposited in 11* house with
+Mars , Sun and Venus.
+• Ketu is lord of 9th and 1 2th house.
+• Education karak Mercury ri sing in Asc as a lord of 9th and s ii
+Rahu Star and Saturn Sub.
+* th
+• Ketu connected with 11 house house of success plus also
+connected with the lord of 11 41 house Sun and also connected
+with the 9* house (Higher study).
+• Ketu in Virgo sign indicate native puts more efforts but due to
+connection with the 12* house initially will not get the desired
+results.
+• 9* house sub lord is Moon deposited in 4* house in it's own star.
+Moon is Saturn sign also aspected by Saturn indicates native have
+A
+interest in engineering line due to Saturn combination and 4*
+house also connected with the Mars combination with Sun and
+Venus. So it is advisable to go for chemical, electrical,
+electronics , pi astic engineering line .
+• Native is studying in electronics engineering.
+
+Career :
+• 1* house sub lord is Rahu in dual sign in the 5* house as a lord of
+3rd and 6th and also in Star of Saturn lord of 4,h and 5*in2nd house .
+• Mercury rising in Asc as a lord of 9* and 12* and Jupiter is
+aspecting the Asc as a lord o and 8 from the $ house.
+• 1 0th house sub lord is Ketu arid Ketu as discussed above .
+• From above analysis it indicates that native will be interested to
+go for own professional career rather than service but initially
+will start with the service for experience point of view and there
+after will start his own business at distance place from his birth
+place.
+Chart No : 3 : Male Chart
+Birth Date: 19.07.1982 Place: Mumbai 18N57,72E50
+Longevity :
+• 1 'ri*house sub lord Rahu deposited in 1(5 as a lord of 1st and 10th
+house with Mercury (lord of 1* and 10th) Moon lord of IIth in 9*
+and Venus lord of 2nd and 9th in 9*
+• Rahu is aspected by Jupiter from the 1st house as a lord of 4* (End
+of life) and Badhaka & Maraka lord of 7* .
+• Rahu is aspected by afflicted Saturn lord of 6* and 5* from l&t
+house
+• 8* house sub lord is Mercury in the 10* house as a lord of 1st and
+10th and also in the Star of Jupiter which is a Badhaka + Maraka
+and also aspected by Jupiter. Not only that, Mercury become Asc
+lord and also is in square aspect with Mars lord of 3rd and 8* house
+and afflicted Saturn.
+• nouse sub lord is also Rahu as discussed above.
+
+• Sun is in watery sign in the 101h house as a lord of 12* and it is in
+Star of Jupiter as discussed above. Sun is in sub of Rahu as
+discussed above. Sun is also in square aspect with Pluto.
+• Moon as a lord of 1 1* is in 9* connected with Venus lord of
+Maraka in 9* house and also connected with Rahu, Mercury and
+• aspected by Badhkesh Jupiter and also aspected by afflicted
+Saturn.
+• In the Asc two natural malefic planets are rising as a lord of 6* and
+• From above analysis it indicates that Jupiter though a natural
+benific planet here it becomes total negative for longevity. In
+addition to that Saturn and Mars are also giving the support to the
+Jupiter by afflicting Asc sub lord and Asc lord plus two
+luminaries indicate not good sign for long longevity.
+Health :
+6 house sub lord is Mercury in the 10 house and as discussed
+above it is afflicted and Mercury is in Jupiter star indicate
+problem related with Heart disease (10* house indicate heart) a n •
+Jupiter is karaka for expansion and also it is in square aspect with
+Sun Karaka for Heart.
+• Mercury is connected with the Rahu also leads to wrong
+judgement regarding seriousness about the disease. ;
+• Lord of 6* and 8* Saturn and Mars both are rising in the Asc
+indicate not good condition from health point of view.
+Mode of Death:
+• 8* house sub lord is Mercury as discussed above aspected by
+Saturn as well as sub lord of the 6* house Mercury it self indicate
+death by disease and ignorance part from the native himself.
+Marriage :
+• 7th house sub lord Rahu in the 1 0th house and i s aspected by Jupiter
+lord of 7* house and Rahu is also in conjunction with Moon lord of
+1 1 ,hand Venus Karaka for marriage and lord of 2nd. So combination of
+2, 7 and 1 1 is present. Rahu is also sub lord of the 5* house and also
+aspected by lord of 5* house Saturn indicate love marriage and
+Saturn is also lord of 6* house afflicted by Mars indicate disturbance
+in marriage life.
+
+Marriage was selebrated in the month of Dec 2006 when Jupiter
+Moon Mercury sub period was running.
+Jupiter is lord of 7* house. Moon lord of 11* house and
+conjunction with marriage karaka Venus which is also lord of 2nd
+and Mercury Asc lord in Jupiter star Jupiter is also lord of 7*
+house given marriage condition.
+Death :
+• Native was expired on 17 February 2007 when Jupiter Maha
+Dasha, Moon Sub period and Ketu sub sub period was running
+through.
+• Jupiter as discussed in longevity as well as health as well as in
+mode of death it is highly malefic for this chart and Jupiter played
+a dual role by giving a marriage (being lord of 7th) as well as death
+(Badhaka + Maraka)
+• Moon sub period ruler also in dual sign played the role of
+marriage being a lord of 1 Ith and connected with Venus Karaka
+for marriage and also aspected by Jupiter. Moon is in Rahu star
+and Saturn sub as discussed above.
+♦ Ketu sub sub period is represented by Jupiter and also in aspect
+with Mercury lord of Asc, Moon and Venus lord 2nd (Maraka) and
+Ketu is in Venus star Rahu sub as discussed above. So Ketu also
+connected with Badhaka + Maraka and also aspected by Mars
+lord of 3rd and 8th.
+♦ In transit on IT5' February 2007 it was amavasya and Sun was
+passing through Mars star lord of 8* in Venus sub (Maraka).
+Moon also in Mars star lord of 8*. Jupiter in Mercury star and in
+Moon sub. Ketu was in Venus star (Maraka) and in Saturn sub
+lord of61h house.
+♦ This chart was discussed only on 1st March 2007 .
+
+Chart No : 4 ; Male Chart
+Birth Time :07.25.05 a^m.
+Education:
+• 4* house sub lord Mercury (Karaka for education) in the 12*
+house as a lord of 3ld and 6* and is aspected by Mars and also in /
+closes square aspect with Uranus , Neptune and Mars .
+• Mercury also conjunct with Moon lord of the 4* house.
+• Jupiter karaka for knowledge and lord of the 9* house also is in
+the 4* house
+• Mercury is in Ketu star and Ketu is deposited in 2nd house as a lord
+of 2nd and 7* house and also aspected by Saturn lord of 10th and
+i 11th from 7th house.
+! • It indicates that native has got the capacity for studies but due to
+close aspects of Uranus, Neptune and Mars give strugglefull
+achievement.
+• 1st house sub lord is Rahu also deposited in 8* house in Mercury
+star also reflect the same
+• 9* house sub lord is also Mercury Karaka for higher education is
+also sub lord of the 8* house (12* from the 9* house) which
+indicates difficulties or break in further studies
+• Mercury is in aspect with the Uranus , Neptune and Mars and that
+is also closely from the angle houses indicate that native has to
+take forceful decision against his own desire and which gives
+negative result.
+• Native was the rank holder in SSC exam in Gujarat Board and
+had taken the admission in Medical collage. However he was not
+able to complete his study due to .above-mentioned factors.
+
+At that time native was passing through Moon and Mars Dasha.
+Moon is connected with 1st house (as a lord of 4* house) in Venus
+Star (in the 1* house as lord of 2nd and 7* house) and Moon is in
+Merc 1117 sub ( lord of 3]J and 6th in 1 2th house) indie ate scholarship
+or loan facility was available for studies but due to affliction of
+Mercury same conditions also reflect in Mars dasha also.
+Chart No : 5 : Male Chart
+Birth Date: 05.08.1946
+Birth Time: 16.54,41p.m.
+Place: 23N55,72E23>
+Cus
+Asc
+D I M I c I SL f SL I SL
+Planet
+Sun
+Moon
+Mars
+Venus
+Saturn
+Rahu
+Ketu
+Uranus
+Pluto
+Career ;
+• ’ 1st house sub lord Mercury as a lord of 7* and 10th in conjunction
+with Saturn and in Saturn star deposited in 7* house indicate
+native is interested to establish himself initially in service
+(because of Saturn) and at later stage try to start some kind of his
+own business because of connection with 7* house.
+• 10th house sub lord is Rahu is in 6* house Earthy sign and also
+aspected by Finance Karaka Jupiter, which is also deposited in
+Earthy sign on the 101hcusp as a lord of 1st and 4* house indicate
+that native can go for food industries, finance industries, daily
+consumable items etc .
+• 10th house sub lord Rahu is in conjunction with Uranus and is
+aspected by Jupiter and Jupiter is aspected by Saturn indicate '
+native can take leading part for the welfare of the employees or
+co-worker and because of Jupiter one can reach at the high level
+by trust of co-worker or employees.
+• Native was working with nationali sed bank as a clerical staff and
+was actively involved in union activity and was reached up to
+workman director^ position in the bank.
+
+Abroad :
+• 12* house sub lord Ketu is in the 12 itself and represent Mars in
+the house (long j oumey).
+• Ketu in Mercury star (Kraka for journey) in the 7* house (house
+of journey) indicate native can go abroad.
+• Ketu is in Fixed sign and sign lord Mars is in dual sign aspecting
+4* house indicate though native wants to settle abroad
+permanently but somehow he has to visit the native place
+frequently because Mars aspecting the 4* house and Ketu star
+lord Mercury connected with Saturn lord of 2,hi and 3rd. (Family
+and short journey)
+• Native had gone abroad for permanent settlement but frequently
+visiting native place.
+Business :
+• As discussed in career 1 " house sub lord Mercury connected with
+ill th rti
+Saturn and Saturn aspect to 10 house and 10 sub lord Rahu in 6
+house (service) it is advisable to do service or to look after
+someone's established business on some terms rather to go for his
+own independent business.
+• 7* house sub lord is Saturn and Saturn is deposited in 7* house as
+a lord of 2nd and 3rd indicate that with the help of some body to start
+partnership business but at present native is passing through
+ft)
+Venus Dasha deposited in 9* house (lord of 6* and 11 ) in Sun
+star and Jupiter sub it indicates that one can-earn very limited
+income against expected expectations.
+Love Marriage:
+• 7* house sub lord is Saturn and also deposited in 7* house as a lord
+of 2,,J and 3Id with lord of 7* house Mercury, indicate promise of
+marriage.
+• Saturn is also sub lord of the 2nd, 5,h and 11* house and Saturn
+aspect Mars lord of 5* and 12th and also aspect Venus karaka for
+marriage and Jupiter l ord of Asc.
+• S o it indicate love marriage with the consent of family members .
+
+Chart No : 6 : Male Chart
+BirthDate: 15.02.1964 Place:24N 12/72E24
+Birth Time :09.50.00 a.m.
+Nature of the native :
+• T house sub lord Moon in 12,h house as a lord of 5* house with
+Mars , Saturn and Sun and also aspected by Uranus and Pluto and
+in Trine aspect with Neptune.
+• Moon in Jupiter star and Jupiter is in it's own sign in Asc as a lord
+of 1st and 1 0* with Venus lord of3rdand8* house.
+• 3rd house sub lord is Sun in 1 l,h house, conjunction with Saturn,
+Mars, Moon and also aspect to Uranus and Pluto. Sun is lord of 6*
+house.
+• 9* house sub lord is also Moon as discuss above .
+• Mercury is in the 1 01h house on the cusp of the 1 1 * house as a lord of
+4th and 7* in Moon star as discuss above and it is in Rahu sub and
+Rahu is deposited in 3rd but on the cusp of 4th house as a lord of 4th
+and 7,h house.
+• Jupiter as Asc and 1 0th lord rising in the Asc .
+• From above analysis it indicate that internally native is very
+stubborn, ambitious, and express generosity but at the same time
+become lethargic and addict also at the same time native may
+involve with the spiritualism without any seriousness.
+• Native is interested always in showmanship and by knowingly he
+is cheating himself only.
+• Moon as a sub lord of T house indicate native may become
+speculative also and due to Jupiter star and trine with the Neptune
+leads him to keep more trust without any reason on any body who
+can psychologically praise him.
+
+Career :
+• 1 0th house sub 1 ord is Mars as a lord of 2,ul and 9th in 1 1 * house with
+Saturn, Sun and Moon indicates that native is interested in some
+kind of manufacturing industries because Mars is connected with
+Mars star only and 1st house sub lord Moon is connected with 12,
+5 in Jupiter starindicate native is interested for business but due to
+connection of the 9*, 12* house, native has to be very careful,
+basically in manufacturing items as well as labour and
+government problems.
+• 7* house sub lord is Venus as a lord of 3r and 8* in the 1 2 house in
+Saturn star 11, 12 indicate not advisable for any kind of
+partnership.
+Remedy :
+• As per theory given in remedial chapter in this book, in this case
+Jupiter as Asc lord deposited in Asc only and also aspect 9* house
+but Jupiter not aspecting the Moon and Jupiter is in conjunction
+with Venus lord of 3 and 8 house and due to this affliction native
+will not get any kind of benefit from any kind of remedial
+measure because 5* house and 11th house sub lord is Rahu and
+Rahu is connected with Badhaka House (Representative of 4 & 7
+house) and also sub lord of 9* house is Moon is in 12* house. So
+all provisional houses also connected with negative from the Asc
+point of view so not a single remedy will workout.
+• It is advisable for native that he has to perform Kuldevi Pooja
+daily and also pooja of Dattatreya God.
+
+Explanation for HBHKH8 of Planets
+In Nirayan system for each and every planet becomes exalted
+at particular degree in the particular sign as under.
+Degree
+So far the reasons for why certain planet become exalted at
+particular longitude are not given in any available material. But
+according to my studies and understanding I have certain views for
+above.
+In our natural zodiac Jupiter and Saturn Riles 9, 10, 1 1 and 12*
+sign / houses basically they are concern with Knowledge, Dharma,
+Karma and Moksha.
+Sun
+Sun is the karaka for soul as well as it is Karaka for Dhanvantari
+(Medical)and it is in Ketu star where it becomes exalted and Ketu is a
+karaka for Moksha and Ketu is ruled by Ashwani kumar.
+At Aries 1 0 degree sub lord is Saturn and Saturn is a Karaka for
+sacrifice or devotee and Sun is Karaka for Ego or Status. So that till
+the time native will not sacrifices his ego he can not achieve the
+Moksha (Ketu).
+Moon:
+Moon is karaka of mind and desire and its get exalted in
+Taums sign (sign of materialistic) and at 3 degree Sun star is ruling.
+Sun is karaka of soul and at 3 degree Jupiter sub and at the beginning
+of Saturn sub so if native by knowledge (Gyan Jupiter) sacrifice
+(Saturn) the materialistic life and then only one's mind dissolve with
+the soul (Sun)
+
+Mars:
+Mars is karaka of energy and one can not restrict energy but one
+can use the energy in the right direction with the right control that
+quality is applicable here. Mars is exalted in Capricorn cardinal sign
+(continuation of flow or activity) and Mars is exalted at 28 degree,
+which is ruled by Mars own as a star lord and it indicates pure energy
+and 28 degree is ruled by Saturn sub again planet of control with the
+justifications because Saturn is the ruler of the karma sign
+Capricorn.
+Mercury :
+Mercury is karaka of analysis and thought process and it is
+exalted in it's own sign Virgo at 1 5 degree. Virgo is a Earthy sign sign
+of practical and Virgo 15 degree is ruled by Moon star (Hastha) and
+Jupiter sub lord.
+Mind (Moon) will not take any decision without taking in to
+account action and reaction by available knowledge (Jupiter) and
+only after understanding consequences of the action, normal mind
+will take the decision.
+That is why Mercury is exalted in Virgo at 1 5 degree.
+Jupiter:
+Jupiter is exalted in Cancer at 5 degree. Cancer is a watery sign
+and ruled by Moon and at 5 degree Saturn star (Pushy a) and Saturn
+sub. Jupiter is karaka for knowledge as well as proud-ness to be
+dissolved by a mind (Moon) with full understanding and knowledge
+also to be directed in karma (Saturn).
+At Cancer 5 degree, Saturn sub is there and .one can go for only
+karma without any materialistic benefit because as Jupiter is a karaka
+of finance as well as for Dliarma also. Dharma also connected with
+Achar acts (Saturn).
+That is why Jupiter is exalted in Cancer at 5 degree
+Venus :
+Venus is a karaka of luxurious life, sex and Sanjeevani. Venus is
+exalted at 27 degree of Pisces. Pisces is a sign of sacrifice or to leave
+and at 27 degree Mercury star is ruling and Mercury is karaka for
+intellectual and understandings and at 27 degree Jupiter sub is ruling.
+Jupiter is a karaka for knowledge and as such any kind ofluxurious
+life or sex or desire for long life to be left with full knowledge by
+convincing the intellectual then only one can get the real sanjeevani
+life.
+That is why Venus is exalted at 27 degree of Pisces.
+
+Saturn :
+Saturn is exalted at 20 degree of Libra. At Libra 20 degree Rahu
+star is ending and Jupiter star is beginning. Saturn is a karaka of
+Karma and Libra sign is a sign of justice and Rahu star is karaka for
+materialistic benefit and Jupiter is a karaka for knowledge. So native
+has to do Karma with full justifications with full knowledge without
+any expectation of materialistic benefit. Then only karma becomes
+Nishkam Karma as said in Bhagvad Geeta.
+That is why Saturn is exalted at Libra 20 degree.
+Note : From above analysis one can find that each every planet either
+exalted in Jupiter sub or Saturn Sub and as said in beginning only
+these two planet is ruling Dharma, Artha, Kama and Moksha.

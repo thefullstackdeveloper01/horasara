@@ -1,0 +1,22 @@
+READABLE DATASET
+================================================================================
+Original file: dosha_yoga_remedies.json
+Dataset number: 108 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 288 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• SHOW_SOURCE_CITATION: No
+• GRAHA_GEMSTONE:
+  • Sun: Ruby
+  • Moon: Pearl
+  • Mars: Coral
+  • Mercury: Emerald
+  • Jupiter: Yellow Sapphire
+  • Venus: Diamond
+  • Saturn: Blue Sapphire
+  • Rahu: Hessonite
+  • Ketu: Cat's Eye

@@ -1,0 +1,924 @@
+{
+  "schemaVersion": 2,
+  "release": "4.0.0-runtime-truth",
+  "product": {
+    "name": "HoraSaar",
+    "tagline": "Classical Jyotish, computed with evidence.",
+    "displayName": "HoraSaar"
+  },
+  "statusPolicy": {
+    "PASS": "Validated for the explicitly encoded variant/scope; not a universal claim across every lineage.",
+    "PARTIAL": "Implemented but a material lineage, corpus, empirical or dataset gap remains.",
+    "FAIL": "Release blocker: the documented capability contract is not safely implemented."
+  },
+  "requirements": [
+    {
+      "id": 1,
+      "name": "Dasha coverage",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Selected Dasha corpus has explicit variant ids, eligibility and period windows.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 2,
+      "name": "Vimshottari",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Still needs complete audit presentation rather than only period output",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 3,
+      "name": "Yogini / other active Dashas",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Yogini and additional active Dashas expose structured periods and provenance.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 4,
+      "name": "Conditional Dashas",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Conditional Dashas expose eligibility and INELIGIBLE states; no silent fallback.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 5,
+      "name": "Jaimini Dashas",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Jaimini Chara/Narayana adapters are explicit variants.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 6,
+      "name": "KP system",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Full KP methodology is deeper than cusp/sub-lord extraction",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 7,
+      "name": "Tajika / Varshaphal",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Tajika annual chart, Muntha, Sahams, aspects and Mudda Dasha are wired.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 8,
+      "name": "Lal Kitab",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Lal Kitab Teva, debts, conjunctions and timing suite are variant guarded.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 9,
+      "name": "Prashna",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Prashna has classical/KP/Tajika branches and yes/no/timing guardrails.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 10,
+      "name": "Sarvatobhadra Chakra",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Sarvatobhadra uses an explicit 9x9 layout and geometric Vedha engine.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 11,
+      "name": "Synastry — Western",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Planet-to-planet aspects exist, but full relationship synthesis is limited",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 12,
+      "name": "Synastry — Vedic",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Vedic compatibility uses a dedicated full Ashtakoot/Dashakoot result contract.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 13,
+      "name": "Composite",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Composite, Davison and progressed-composite variants are separated.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 14,
+      "name": "Varga calculations",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Calculation ≠ interpretation",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 15,
+      "name": "Varga variants",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Varga variants are explicit; unsupported schools are not silently substituted.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 16,
+      "name": "D60 / high-sensitivity Vargas",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "D60 and other sensitive Vargas expose sensitivity/variant metadata.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 17,
+      "name": "Bhava Phala",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Bhava Phala joins lord, occupant, aspect, Bala, Yoga, Dosha, Dasha and transit evidence.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 18,
+      "name": "Bhava Bala / Shadbala",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Report needs interpretive translation",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 19,
+      "name": "Ashtakavarga",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs event-specific use",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 20,
+      "name": "Yogas",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Yoga results carry formation/enrichment/provenance rather than free-form prose.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 21,
+      "name": "Doshas",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Different Doshas have different definitions and cancellation rules",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 22,
+      "name": "Shrapit / Guru Chandal / Vish",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Need stronger lineage transparency",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 23,
+      "name": "Nadi",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Single-chart Nadi Dosha must not be claimed",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 24,
+      "name": "Mangal Dosha",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs full exception analysis",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 25,
+      "name": "Kalsarpa / related Doshas",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Variant/cancellation traditions differ",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 26,
+      "name": "Nakshatra analysis",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Nakshatra output includes lord/pada and dataset-backed interpretive fields.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 27,
+      "name": "Nakshatra Nadi / deeper Nadi analysis",
+      "currentStatus": "PARTIAL",
+      "sourceStatus": "V4 REMAINING GAP",
+      "gap": "Deeper Nadi schools remain lineage-dependent; only the explicitly encoded Nadi layer is verified.",
+      "requiredCorrection": "Deeper Nadi schools remain lineage-dependent; only the explicitly encoded Nadi layer is verified.",
+      "v4Verification": "V4_REMAINING_GAP"
+    },
+    {
+      "id": 28,
+      "name": "Western aspects",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Must remain separate from Vedic Drishti",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 29,
+      "name": "KP cusp aspects",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs event-specific interpretation",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 30,
+      "name": "Transit engine",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "“Transit exists” is not enough",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 31,
+      "name": "Exact event timing",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Event timing uses transit intervals and numerical boundary refinement.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 32,
+      "name": "Future forecast",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs event-by-event methodology",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 33,
+      "name": "Marriage prediction",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Marriage is a first-class event area with natal, Dasha and transit evidence.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 34,
+      "name": "Career / Job vs Business",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Earlier contradiction needs stronger evidence hierarchy",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 35,
+      "name": "Finance / Wealth",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs comprehensive timing synthesis",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 36,
+      "name": "Property",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Property is a first-class event area and report section.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 37,
+      "name": "Education",
+      "currentStatus": "PARTIAL",
+      "sourceStatus": "V4 REMAINING GAP",
+      "gap": "Education has house/Dasha evidence but not a dedicated, independently verified education corpus.",
+      "requiredCorrection": "Education has house/Dasha evidence but not a dedicated, independently verified education corpus.",
+      "v4Verification": "V4_REMAINING_GAP"
+    },
+    {
+      "id": 38,
+      "name": "Children",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Children/progeny is a first-class event area with 5th/9th evidence.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 39,
+      "name": "Health astrology",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Health is symbolic/non-diagnostic and integrated with event evidence.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 40,
+      "name": "Longevity / death-related indicators",
+      "currentStatus": "PARTIAL",
+      "sourceStatus": "V4 REMAINING GAP",
+      "gap": "Longevity/death-related analysis is intentionally conservative and not a date-of-death predictor.",
+      "requiredCorrection": "Longevity/death-related analysis is intentionally conservative and not a date-of-death predictor.",
+      "v4Verification": "V4_REMAINING_GAP"
+    },
+    {
+      "id": 41,
+      "name": "Spiritual/Karmic profile",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Spiritual/Karmic profile is explicitly separated as traditional interpretation.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 42,
+      "name": "Ishta Devata",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Ishta Devata has a dedicated calculation/report adapter.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 43,
+      "name": "Rudraksha",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Rudraksha recommendations are dataset-backed and guarded.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 44,
+      "name": "Yantra",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Yantra recommendations are dataset-backed and guarded.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 45,
+      "name": "Gemstones",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Gemstone recommendations expose traditional methodology and disclaimer.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 46,
+      "name": "Jadi / herbal remedies",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Jadi/herbal references are dataset-backed and not presented as medical treatment.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 47,
+      "name": "Mantra / Puja / Daan",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Mantra/Puja/Daan recommendations are traditional and provenance tagged.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 48,
+      "name": "Dasha-specific remedies",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Dasha-specific remedy scheduling is tied to the active Dasha lord.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 49,
+      "name": "Event-specific remedies",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs full evidence linkage",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 50,
+      "name": "Muhurta",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs broader traditional coverage",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 51,
+      "name": "Daily horoscope",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Must be natal-personalized, not generic prose",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 52,
+      "name": "Monthly forecast",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs event-level evidence",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 53,
+      "name": "25-year / 10-year forecast",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Broad summary can hide uncertainty",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 54,
+      "name": "5-year action plan",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs priority ranking",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 55,
+      "name": "Birth-to-now timeline",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs historical event validation",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 56,
+      "name": "Backtesting",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Walk-forward backtesting and leakage checks are implemented.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 57,
+      "name": "Prediction calibration",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Calibration utilities are implemented and refuse unsupported probabilities.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 58,
+      "name": "Prediction accuracy claim",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "The product explicitly forbids accuracy claims without empirical outcome data.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 59,
+      "name": "Confidence score",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Confidence is evidence-based and distinct from empirical probability.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 60,
+      "name": "Contradiction engine",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Contradiction synthesis exposes agreement/disagreement across methods.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 61,
+      "name": "Evidence Matrix",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs full report exposure",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 62,
+      "name": "Audit trail",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Must be visible/reproducible at report level",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 63,
+      "name": "Source provenance",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Rule provenance and calculation manifests are part of the canonical result.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 64,
+      "name": "Method-selection transparency",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Methodology profiles and selected variants are machine-readable.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 65,
+      "name": "Ayamansha",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Multiple accepted systems remain a methodological issue",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 66,
+      "name": "Node calculation",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Mean/true node modes are explicit and audited.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 67,
+      "name": "Historical timezone/DST",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Historical timezone/DST handling is implemented and recorded.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 68,
+      "name": "Birth place / coordinates",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Offline city/coordinate handling is implemented with historical-time metadata.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 69,
+      "name": "Birth-time uncertainty",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs stronger downstream impact",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 70,
+      "name": "Rectification",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Birth-time rectification is deterministic, candidate-based and evidence-gated.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 71,
+      "name": "Geographic astrology",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Geographic astrology is isolated as a traditional symbolic module.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 72,
+      "name": "Numerology",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Different traditions need separation",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 73,
+      "name": "Vastu",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Not a replacement for full Vastu calculation",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 74,
+      "name": "Dream/palmistry modules",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Dream/palmistry are explicit on-demand reference lookups, not invented inputs.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 75,
+      "name": "AI synthesis",
+      "currentStatus": "PARTIAL",
+      "sourceStatus": "V4 REMAINING GAP",
+      "gap": "AI synthesis is deterministic rule synthesis; no external generative model is required or claimed.",
+      "requiredCorrection": "AI synthesis is deterministic rule synthesis; no external generative model is required or claimed.",
+      "v4Verification": "V4_REMAINING_GAP"
+    },
+    {
+      "id": 76,
+      "name": "Static/dummy content",
+      "currentStatus": "PARTIAL",
+      "sourceStatus": "V4 REMAINING GAP",
+      "gap": "A small amount of legacy prose remains in extension modules; migration to dataset-first records is ongoing.",
+      "requiredCorrection": "A small amount of legacy prose remains in extension modules; migration to dataset-first records is ongoing.",
+      "v4Verification": "V4_REMAINING_GAP"
+    },
+    {
+      "id": 77,
+      "name": "Report consistency",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Report consistency is enforced across required sections, fingerprints and certainty language.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 78,
+      "name": "Capability status accuracy",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Capability status is generated from one canonical registry plus runtime truth, not stale checklist prose.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 79,
+      "name": "Report section completeness",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Report sections are generated from the canonical result contract.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 80,
+      "name": "Report explanation quality",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Prediction explanations carry evidence, methodology, timing and uncertainty.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 81,
+      "name": "Ancient-rishi style",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Style must not increase certainty",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 82,
+      "name": "Scientific/traditional boundary",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Scientific vs traditional boundaries are enforced by report QA.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 83,
+      "name": "Health safety",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Keep non-diagnostic",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 84,
+      "name": "Legal/financial certainty",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Medical/legal/financial certainty language is guarded; symbolic guidance is labelled.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 85,
+      "name": "Outcome tracking",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Outcome ledger and immutable forecast records support later validation.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 86,
+      "name": "Model/version reproducibility",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Input/result/rule fingerprints provide deterministic reproducibility metadata.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 87,
+      "name": "Regression testing",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Software tests do not validate classical truth",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 88,
+      "name": "Classical reference tests",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Classical rules are sourced from bundled reference datasets and regression tests.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 89,
+      "name": "Cross-engine duplication",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Cross-engine duplication is reduced through canonical calculation objects.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 90,
+      "name": "One-function-per-file architecture",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "V4 uses a cohesion/modularity rule rather than the brittle one-function-per-file rule.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 91,
+      "name": "Performance / determinism",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "More systems increase risk of divergence",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 92,
+      "name": "Error handling",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Missing data must be visible",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 93,
+      "name": "No-fabrication rule",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Must apply to interpretations as well as calculations",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 94,
+      "name": "Per-event evidence",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Needs richer hierarchy",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "LEGACY_REGISTRY"
+    },
+    {
+      "id": 95,
+      "name": "Prediction duration",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Prediction duration is represented as explicit start/end windows and duration.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 96,
+      "name": "Probability vs evidence",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Evidence scores and empirical probabilities are separate fields/contracts.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 97,
+      "name": "Final life verdict",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Final life synthesis is labelled as traditional, evidence-backed interpretation.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 98,
+      "name": "Final report QA",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "Final report QA now validates sections, provenance, fingerprints, certainty and errors.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 99,
+      "name": "Complete feature registry",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "The capability inventory is complete and runtime-auditable.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    },
+    {
+      "id": 100,
+      "name": "“Everything” coverage",
+      "currentStatus": "PASS",
+      "sourceStatus": "V4 VERIFIED SELECTED SCOPE",
+      "gap": "“Everything” is redefined as complete inventory + truthful status, not an impossible universal claim.",
+      "requiredCorrection": "Maintain regression tests, provenance and explicit variant guards.",
+      "v4Verification": "V4_CLOSED"
+    }
+  ],
+  "rules": [
+    "Never treat adapter/catalog presence as proof of classical completeness.",
+    "Never expose empirical probability unless an out-of-sample labelled outcome dataset exists.",
+    "Evidence strength/confidence is not probability.",
+    "Every customer-facing prediction must reference a calculation/result, rule, system, version, and counter-evidence state.",
+    "Unsupported variants must be explicit, never silently substituted.",
+    "One canonical calculation result must feed all report renderers."
+  ]
+}

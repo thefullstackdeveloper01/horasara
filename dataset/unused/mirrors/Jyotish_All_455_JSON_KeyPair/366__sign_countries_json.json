@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "366__sign_countries_json",
+    "name": "sign_countries",
+    "original_file": "sign_countries.json",
+    "dataset_number": "366 of 455",
+    "format": "json",
+    "source_readable_file": "sign_countries.txt",
+    "source_sha256": "77e35d81673b7738a9afa22c161dcd9059098bb61a4db2f6003bf0396c03e9b4",
+    "source_bytes": 1427
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": 1,
+      "note": "Traditional mundane (Kalapurusha) sign-to-nation associations, previously an inline literal (SIGN_COUNTRIES) inside src/extensions/new_sections.js. Different classical/Western mundane-astrology schools assign nations to signs differently; this bundled table is one commonly cited assignment, not a universally agreed standard.",
+      "countries": {
+        "Aries": "Germany, England, Israel, Poland, Syria",
+        "Taurus": "Iran, Russia, Ireland, Australia, Switzerland",
+        "Gemini": "USA, Belgium, Wales, Sardinia",
+        "Cancer": "Scotland, Holland, New Zealand, China, Paraguay",
+        "Leo": "France, Italy, Romania, Czech Republic, Sicily",
+        "Virgo": "Greece, Turkey, West Indies, Brazil, Switzerland",
+        "Libra": "Austria, Japan, Burma, China, Argentina, Ukraine",
+        "Scorpio": "Norway, Bavaria, Morocco, Algeria, New Zealand",
+        "Sagittarius": "Spain, Arabia, Hungary, Australia, South Africa",
+        "Capricorn": "India, Afghanistan, Mexico, Lithuania, Saxony",
+        "Aquarius": "Russia, Sweden, Ethiopia, Iran, Israel",
+        "Pisces": "Portugal, Scandinavia, Sahara, Egypt, Fiji"
+      }
+    }
+  }
+}

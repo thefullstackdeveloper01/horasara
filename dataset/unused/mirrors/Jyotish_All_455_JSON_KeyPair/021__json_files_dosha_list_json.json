@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "021__json_files_dosha_list_json",
+    "name": "JSON_Files_Dosha-List",
+    "original_file": "JSON_Files/Dosha-List.json",
+    "dataset_number": "169 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Dosha-List.txt",
+    "source_sha256": "435e2e5f5f9df0659641b1a013ba22a30c34cb5eb8ec3f3e4371654931c67122",
+    "source_bytes": 1035
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "dosha_001",
+          "name": "Manglik Dosha",
+          "also_known_as": "Kuja Dosha / Bhauma Dosha",
+          "caused_by": "Mars placed in 1st, 4th, 7th, 8th, or 12th house from Lagna or Moon.",
+          "effects": "Delays in marriage, aggressive behavior in relationships, financial instability, disharmony in marital life.",
+          "cancellation_conditions": "If Mars is in own sign (Aries/Scorpio) or exalted (Capricorn), dosha is cancelled. If Jupiter aspects Mars, dosha is reduced.",
+          "remedies": {
+            "_items": [
+              {
+                "_text": [
+                  "Marry another Manglik."
+                ]
+              },
+              {
+                "_text": [
+                  "Kumbh Vivah (marrying an earthen pot first)."
+                ]
+              },
+              {
+                "_text": [
+                  "Recite Hanuman Chalisa daily."
+                ]
+              },
+              {
+                "_text": [
+                  "Offer sindoor and jasmine flowers to Lord Hanuman."
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

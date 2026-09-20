@@ -1,0 +1,26 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/God-List.json
+Dataset number: 175 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 357 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+1.
+  • id: god_001
+  • name: Lord Ganesha
+  • also_known_as:
+    1.
+      Ganapati
+    2.
+      Vinayaka
+    3.
+      Vighnaharta
+  • attributes: Remover of obstacles, God of wisdom and intellect
+  • vahana: Mouse (Mushak)
+  • primary_mantra: Om Gam Ganapataye Namah
+  • associated_planet: Ketu
+  • associated_gemstone: Red Coral

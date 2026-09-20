@@ -1,0 +1,17 @@
+{
+  "version": "12.0.0",
+  "note": "Engineering-completion file manifest. Reconstructed during dataset wiring: the original file was referenced by src/quality/v12/Master100Gate.js but was absent from the distribution. Every path below is verified to exist in this repository.",
+  "required": [
+    "src/index.js",
+    "src/infrastructure/api/ApiServer.js",
+    "src/quality/v11/MasterReleaseGate.js",
+    "src/quality/v12/Master100Gate.js",
+    "dataset/used/validation/v12_master-benchmark-contract.json",
+    "dataset/used/validation/v12_cross-engine-cases.json",
+    "dataset/used/validation/v12_verified-outcomes.json",
+    "dataset/used/validation/v12_outcome-corpus.schema.json",
+    "dataset/used/validation/v13_master-evidence-contract.json",
+    "dataset/used/validation/v13_verified-chart-corpus.json",
+    "dataset/used/validation/v13_outcome-corpus.json"
+  ]
+}

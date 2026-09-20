@@ -1,0 +1,253 @@
+READABLE DATASET
+================================================================================
+Original file: panchang_calculator_v15.json
+Dataset number: 306 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,171 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 15.0.0
+• choghadiya:
+  • day:
+    • Sunday:
+      1.
+        Udveg
+      2.
+        Char
+      3.
+        Labh
+      4.
+        Amrit
+      5.
+        Kaal
+      6.
+        Shubh
+      7.
+        Rog
+      8.
+        Udveg
+    • Monday:
+      1.
+        Amrit
+      2.
+        Kaal
+      3.
+        Shubh
+      4.
+        Rog
+      5.
+        Udveg
+      6.
+        Char
+      7.
+        Labh
+      8.
+        Amrit
+    • Tuesday:
+      1.
+        Rog
+      2.
+        Udveg
+      3.
+        Char
+      4.
+        Labh
+      5.
+        Amrit
+      6.
+        Kaal
+      7.
+        Shubh
+      8.
+        Rog
+    • Wednesday:
+      1.
+        Labh
+      2.
+        Amrit
+      3.
+        Kaal
+      4.
+        Shubh
+      5.
+        Rog
+      6.
+        Udveg
+      7.
+        Char
+      8.
+        Labh
+    • Thursday:
+      1.
+        Shubh
+      2.
+        Rog
+      3.
+        Udveg
+      4.
+        Char
+      5.
+        Labh
+      6.
+        Amrit
+      7.
+        Kaal
+      8.
+        Shubh
+    • Friday:
+      1.
+        Char
+      2.
+        Labh
+      3.
+        Amrit
+      4.
+        Kaal
+      5.
+        Shubh
+      6.
+        Rog
+      7.
+        Udveg
+      8.
+        Char
+    • Saturday:
+      1.
+        Kaal
+      2.
+        Shubh
+      3.
+        Rog
+      4.
+        Udveg
+      5.
+        Char
+      6.
+        Labh
+      7.
+        Amrit
+      8.
+        Kaal
+  • night:
+    • Sunday:
+      1.
+        Shubh
+      2.
+        Amrit
+      3.
+        Char
+      4.
+        Rog
+      5.
+        Kaal
+      6.
+        Labh
+      7.
+        Udveg
+      8.
+        Shubh
+    • Monday:
+      1.
+        Char
+      2.
+        Rog
+      3.
+        Kaal
+      4.
+        Labh
+      5.
+        Udveg
+      6.
+        Shubh
+      7.
+        Amrit
+      8.
+        Char
+    • Tuesday:
+      1.
+        Kaal
+      2.
+        Labh
+      3.
+        Udveg
+      4.
+        Shubh
+      5.
+        Amrit
+      6.
+        Char
+      7.
+        Rog
+      8.
+        Kaal
+    • Wednesday:
+      1.
+        Udveg
+      2.
+        Shubh
+      3.
+        Amrit
+      4.
+        Char
+      5.
+        Rog
+      6.
+        Kaal
+      7.
+        Labh
+      8.
+        Udveg
+    • Thursday:
+      1.
+        Amrit
+      2.
+        Char
+      3.
+        Rog
+      4.
+        Kaal
+      5.
+        Labh
+      6.
+        Udveg
+      7.
+        Shubh
+      8.
+        Amrit
+    • Friday:
+      1.
+        Rog
+      2.
+        Kaal
+      3.
+        Labh
+      4.
+        Udveg
+      5.
+        Shubh
+      6.
+        Amrit
+      7.
+        Char
+      8.
+        Rog
+    • Saturday:
+      1.
+        Labh
+      2.
+        Udveg
+      3.
+        Shubh
+      4.
+        Amrit
+      5.
+        Char
+      6.
+        Rog
+      7.
+        Kaal
+      8.
+        Labh

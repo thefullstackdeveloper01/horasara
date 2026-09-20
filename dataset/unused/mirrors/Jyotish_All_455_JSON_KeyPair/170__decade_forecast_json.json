@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "170__decade_forecast_json",
+    "name": "decade_forecast",
+    "original_file": "decade_forecast.json",
+    "dataset_number": "100 of 455",
+    "format": "json",
+    "source_readable_file": "decade_forecast.txt",
+    "source_sha256": "52877e23e67b820096cd78ce271f9b6fa26979d39f4b9d130b5db0f1ee4b3aeb",
+    "source_bytes": 598
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "ORDINAL_LORD_KEY": {
+        "_items": [
+          {
+            "_text": [
+              "1st_lord"
+            ]
+          },
+          {
+            "_text": [
+              "2nd_lord"
+            ]
+          },
+          {
+            "_text": [
+              "3rd_lord"
+            ]
+          },
+          {
+            "_text": [
+              "4th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "5th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "6th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "7th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "8th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "9th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "10th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "11th_lord"
+            ]
+          },
+          {
+            "_text": [
+              "12th_lord"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/KP-Cuspal-Rules.json
+Dataset number: 182 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 144 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+house | significator_logic
+--------------------------
+7 | If 7th cusp sub-lord is Venus, Jupiter, or Moon (and not in sign of Saturn), marriage is promised.

@@ -1,0 +1,17 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v9/calculation/verified-corpus.json
+Dataset number: 429 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 354 bytes
+Top-level fields: 5
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 9.0.0
+• status: verified-import-ready
+• source_policy: Only independently verified reference records may be added.
+• records:
+  (empty list)
+• note: V9 does not fabricate reference values. Existing 1000-epoch Swiss Ephemeris golden fixture is retained in test/fixtures/ephemeris-golden.json and is exercised by the V9 benchmark test.

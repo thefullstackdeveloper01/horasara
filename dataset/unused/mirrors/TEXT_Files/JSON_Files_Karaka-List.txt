@@ -1,0 +1,15 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Karaka-List.json
+Dataset number: 180 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 522 bytes
+Top-level records: 1
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (1 rows)
+id | name | logic | prediction_use | example_interpretation | source_text
+-------------------------------------------------------------------------
+karaka_001 | Atmakaraka (Soul Significator) | The planet with the highest degree in the birth chart. | Shows the soul's primary desire and the main karmic lessons for this lifetime. The goal is to overcome the negative traits of this planet. | If Venus is Atmakaraka, the native struggles with relationships and desires. They must learn unconditional love and detachment. | Jaimini Sutras

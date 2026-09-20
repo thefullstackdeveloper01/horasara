@@ -1,0 +1,126 @@
+READABLE DATASET
+================================================================================
+Original file: astronomy-world-sky.json
+Dataset number: 20 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 2,452 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• planets:
+  1.
+    Sun
+  2.
+    Moon
+  3.
+    Mercury
+  4.
+    Venus
+  5.
+    Mars
+  6.
+    Jupiter
+  7.
+    Saturn
+  8.
+    Rahu
+  9.
+    Ketu
+• rules:
+  • Sun|Moon:
+    1.
+      mixed
+    2.
+      Visibility, vitality and public/emotional themes are traditionally emphasized; avoid treating this as a causal world-event forecast.
+  • Sun|Mercury:
+    1.
+      supportive
+    2.
+      Traditionally associated with communication, trade, learning and administration.
+  • Sun|Venus:
+    1.
+      supportive
+    2.
+      Traditionally associated with arts, diplomacy, relationships and material refinement.
+  • Sun|Mars:
+    1.
+      challenging
+    2.
+      Traditionally associated with heightened initiative and conflict potential; practical caution is emphasized.
+  • Sun|Jupiter:
+    1.
+      supportive
+    2.
+      Traditionally associated with leadership, learning, institutions and expansion.
+  • Sun|Saturn:
+    1.
+      challenging
+    2.
+      Traditionally associated with pressure, regulation, delay and restructuring.
+  • Moon|Mars:
+    1.
+      challenging
+    2.
+      Traditionally associated with emotional intensity, urgency and reactive decisions.
+  • Moon|Jupiter:
+    1.
+      supportive
+    2.
+      Traditionally associated with public optimism, learning and supportive growth.
+  • Moon|Saturn:
+    1.
+      challenging
+    2.
+      Traditionally associated with restraint, responsibility and heavier collective moods.
+  • Mercury|Venus:
+    1.
+      supportive
+    2.
+      Traditionally associated with arts, negotiation, commerce and social communication.
+  • Mercury|Mars:
+    1.
+      challenging
+    2.
+      Traditionally associated with fast decisions, debate and communication friction.
+  • Mercury|Jupiter:
+    1.
+      supportive
+    2.
+      Traditionally associated with study, teaching, planning and broad communication.
+  • Mercury|Saturn:
+    1.
+      mixed
+    2.
+      Traditionally associated with serious analysis, rules and slower communication.
+  • Venus|Mars:
+    1.
+      mixed
+    2.
+      Traditionally associated with attraction, creativity and stronger passions.
+  • Venus|Jupiter:
+    1.
+      supportive
+    2.
+      Traditionally associated with abundance, culture, generosity and social harmony.
+  • Venus|Saturn:
+    1.
+      mixed
+    2.
+      Traditionally associated with commitment, restraint and restructuring of relationships/resources.
+  • Mars|Jupiter:
+    1.
+      mixed
+    2.
+      Traditionally associated with ambitious expansion and the need to moderate excess.
+  • Mars|Saturn:
+    1.
+      challenging
+    2.
+      Traditionally associated with friction between urgency and delay; disciplined execution is emphasized.
+  • Jupiter|Saturn:
+    1.
+      mixed
+    2.
+      Traditionally associated with expansion meeting limits, institutions and long-term restructuring.

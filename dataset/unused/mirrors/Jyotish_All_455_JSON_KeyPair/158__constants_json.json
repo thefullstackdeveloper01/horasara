@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "158__constants_json",
+    "name": "constants",
+    "original_file": "constants.json",
+    "dataset_number": "88 of 455",
+    "format": "json",
+    "source_readable_file": "constants.txt",
+    "source_sha256": "ae0cd31cfd804acfc6b05b25268fd168cb51c8b9f5cecbf06644ae1e6fcaaf00",
+    "source_bytes": 52394
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "phase": "Rising",
+        "desc": "Saturn enters sign before natal Moon — mental restlessness, career pressure"
+      },
+      {
+        "phase": "Peak",
+        "desc": "Saturn in natal Moon sign — maximum karmic load, transformation"
+      },
+      {
+        "phase": "Setting",
+        "desc": "Saturn moves to sign after natal Moon — gradual relief, rebuilding"
+      }
+    ]
+  }
+}

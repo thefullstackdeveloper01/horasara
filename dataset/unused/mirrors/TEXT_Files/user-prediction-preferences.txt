@@ -1,0 +1,542 @@
+READABLE DATASET
+================================================================================
+Original file: user-prediction-preferences.json
+Dataset number: 403 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 3,740 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• labels:
+  • general: Overall
+  • career: Career
+  • business: Business
+  • finance: Money
+  • love: Love
+  • marriage: Marriage
+  • health: Health
+  • family: Family
+  • education: Education
+  • travel: Travel
+  • property: Property
+  • spirituality: Spiritual Growth
+• descriptions:
+  • general: Your overall direction and daily balance.
+  • career: Work, responsibility, progress and professional decisions.
+  • business: Business activity, clients, partnerships and practical decisions.
+  • finance: Money flow, financial choices, saving and opportunity timing.
+  • love: Connection, communication and emotional relationship timing.
+  • marriage: Partnership, commitment and relationship decisions.
+  • health: Energy, routine and wellbeing-focused timing; not medical advice.
+  • family: Home life, family communication and shared responsibilities.
+  • education: Study, learning, exams, skills and concentration.
+  • travel: Travel, movement, planning and change of environment.
+  • property: Home, property decisions, repairs and major domestic matters.
+  • spirituality: Reflection, devotion, inner practice and spiritual growth.
+• rules:
+  • general:
+    • positiveHouses:
+      1.
+        1
+      2.
+        2
+      3.
+        3
+      4.
+        5
+      5.
+        9
+      6.
+        10
+      7.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Sun
+      2.
+        Moon
+      3.
+        Jupiter
+      4.
+        Venus
+      5.
+        Mercury
+    • supportingDasha:
+      1.
+        Jupiter
+      2.
+        Venus
+      3.
+        Moon
+      4.
+        Sun
+      5.
+        Mercury
+    • neutralDasha:
+      1.
+        Saturn
+      2.
+        Mars
+  • career:
+    • positiveHouses:
+      1.
+        2
+      2.
+        6
+      3.
+        10
+      4.
+        11
+    • pressureHouses:
+      1.
+        8
+      2.
+        12
+      3.
+        4
+    • relevantPlanets:
+      1.
+        Sun
+      2.
+        Mercury
+      3.
+        Jupiter
+      4.
+        Saturn
+      5.
+        Rahu
+    • supportingDasha:
+      1.
+        Sun
+      2.
+        Saturn
+      3.
+        Mercury
+      4.
+        Jupiter
+      5.
+        Rahu
+    • neutralDasha:
+      1.
+        Venus
+      2.
+        Mars
+  • business:
+    • positiveHouses:
+      1.
+        2
+      2.
+        3
+      3.
+        7
+      4.
+        10
+      5.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Mercury
+      2.
+        Jupiter
+      3.
+        Venus
+      4.
+        Saturn
+      5.
+        Rahu
+    • supportingDasha:
+      1.
+        Mercury
+      2.
+        Jupiter
+      3.
+        Venus
+      4.
+        Saturn
+      5.
+        Rahu
+    • neutralDasha:
+      1.
+        Moon
+      2.
+        Sun
+  • finance:
+    • positiveHouses:
+      1.
+        2
+      2.
+        5
+      3.
+        9
+      4.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Jupiter
+      2.
+        Venus
+      3.
+        Mercury
+      4.
+        Moon
+    • supportingDasha:
+      1.
+        Jupiter
+      2.
+        Venus
+      3.
+        Mercury
+      4.
+        Moon
+    • neutralDasha:
+      1.
+        Sun
+      2.
+        Saturn
+  • love:
+    • positiveHouses:
+      1.
+        1
+      2.
+        5
+      3.
+        7
+      4.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Venus
+      2.
+        Moon
+      3.
+        Jupiter
+      4.
+        Mars
+    • supportingDasha:
+      1.
+        Venus
+      2.
+        Jupiter
+      3.
+        Moon
+      4.
+        Rahu
+    • neutralDasha:
+      1.
+        Mercury
+      2.
+        Sun
+  • marriage:
+    • positiveHouses:
+      1.
+        2
+      2.
+        5
+      3.
+        7
+      4.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Venus
+      2.
+        Jupiter
+      3.
+        Moon
+      4.
+        Saturn
+    • supportingDasha:
+      1.
+        Venus
+      2.
+        Jupiter
+      3.
+        Moon
+      4.
+        Rahu
+    • neutralDasha:
+      1.
+        Mercury
+      2.
+        Saturn
+  • health:
+    • positiveHouses:
+      1.
+        1
+      2.
+        3
+      3.
+        6
+      4.
+        10
+      5.
+        11
+    • pressureHouses:
+      1.
+        1
+      2.
+        6
+      3.
+        8
+      4.
+        12
+    • relevantPlanets:
+      1.
+        Sun
+      2.
+        Mars
+      3.
+        Saturn
+      4.
+        Moon
+    • supportingDasha:
+      1.
+        Sun
+      2.
+        Mars
+      3.
+        Saturn
+      4.
+        Jupiter
+    • neutralDasha:
+      1.
+        Moon
+      2.
+        Venus
+  • family:
+    • positiveHouses:
+      1.
+        2
+      2.
+        4
+      3.
+        5
+      4.
+        7
+      5.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Moon
+      2.
+        Venus
+      3.
+        Jupiter
+      4.
+        Saturn
+    • supportingDasha:
+      1.
+        Moon
+      2.
+        Venus
+      3.
+        Jupiter
+    • neutralDasha:
+      1.
+        Mercury
+      2.
+        Sun
+  • education:
+    • positiveHouses:
+      1.
+        2
+      2.
+        4
+      3.
+        5
+      4.
+        9
+      5.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Mercury
+      2.
+        Jupiter
+      3.
+        Moon
+      4.
+        Sun
+    • supportingDasha:
+      1.
+        Mercury
+      2.
+        Jupiter
+      3.
+        Moon
+      4.
+        Sun
+    • neutralDasha:
+      1.
+        Venus
+      2.
+        Saturn
+  • travel:
+    • positiveHouses:
+      1.
+        3
+      2.
+        9
+      3.
+        12
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+    • relevantPlanets:
+      1.
+        Jupiter
+      2.
+        Rahu
+      3.
+        Mercury
+      4.
+        Moon
+      5.
+        Saturn
+    • supportingDasha:
+      1.
+        Rahu
+      2.
+        Saturn
+      3.
+        Mercury
+      4.
+        Jupiter
+    • neutralDasha:
+      1.
+        Moon
+      2.
+        Venus
+  • property:
+    • positiveHouses:
+      1.
+        2
+      2.
+        4
+      3.
+        11
+    • pressureHouses:
+      1.
+        6
+      2.
+        8
+      3.
+        12
+    • relevantPlanets:
+      1.
+        Mars
+      2.
+        Moon
+      3.
+        Venus
+      4.
+        Jupiter
+      5.
+        Saturn
+    • supportingDasha:
+      1.
+        Mars
+      2.
+        Moon
+      3.
+        Venus
+      4.
+        Jupiter
+      5.
+        Saturn
+    • neutralDasha:
+      1.
+        Mercury
+      2.
+        Sun
+  • spirituality:
+    • positiveHouses:
+      1.
+        5
+      2.
+        8
+      3.
+        9
+      4.
+        12
+    • pressureHouses:
+      1.
+        2
+      2.
+        6
+      3.
+        10
+    • relevantPlanets:
+      1.
+        Jupiter
+      2.
+        Ketu
+      3.
+        Saturn
+      4.
+        Moon
+    • supportingDasha:
+      1.
+        Ketu
+      2.
+        Jupiter
+      3.
+        Saturn
+    • neutralDasha:
+      1.
+        Moon
+      2.
+        Sun

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "048__json_files_pooja_list_json",
+    "name": "JSON_Files_Pooja-List",
+    "original_file": "JSON_Files/Pooja-List.json",
+    "dataset_number": "196 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Pooja-List.txt",
+    "source_sha256": "3731549acbdbfc6b53fbf3cbac1596fbc55858f8d5d38947cf7a5dfbc505895d",
+    "source_bytes": 1370
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "id": "pooja_001",
+          "name": "Kaal Sarp Dosh Shanti Puja",
+          "primary_deity": "Lord Shiva",
+          "purpose": "To nullify the negative effects of Kaal Sarp Yog in the birth chart.",
+          "best_location": "Trimbakeshwar, Nashik",
+          "materials_required": {
+            "_items": [
+              {
+                "_text": [
+                  "Silver Snake idol"
+                ]
+              },
+              {
+                "_text": [
+                  "Rudraksha mala"
+                ]
+              },
+              {
+                "_text": [
+                  "Milk"
+                ]
+              },
+              {
+                "_text": [
+                  "Honey"
+                ]
+              },
+              {
+                "_text": [
+                  "Bilva Patra"
+                ]
+              }
+            ]
+          },
+          "duration": "3 to 4 hours",
+          "approx_cost_inr": 5100,
+          "benefits": "Removes obstacles in marriage, career growth, and health issues."
+        },
+        {
+          "id": "pooja_002",
+          "name": "Mangal Dosh Bhai Dooj Puja",
+          "primary_deity": "Lord Mangal (Mars)",
+          "purpose": "To cancel the negative effects of Mars in 1st, 4th, 7th, 8th, or 12th house before marriage.",
+          "best_location": "Mangal Nath Temple, Ujjain",
+          "materials_required": {
+            "_items": [
+              {
+                "_text": [
+                  "Red flowers"
+                ]
+              },
+              {
+                "_text": [
+                  "Red cloth"
+                ]
+              },
+              {
+                "_text": [
+                  "Jaggery"
+                ]
+              },
+              {
+                "_text": [
+                  "Copper"
+                ]
+              }
+            ]
+          },
+          "duration": "1 to 2 hours",
+          "approx_cost_inr": 2100,
+          "benefits": "Ensures marital harmony, prevents spouse's death or illness."
+        }
+      ]
+    }
+  }
+}

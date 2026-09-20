@@ -1,0 +1,24 @@
+READABLE DATASET
+================================================================================
+Original file: subscription-plans.json
+Dataset number: 372 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 653 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 1
+• currency: INR
+• delivery:
+  • frequency: daily
+  • hour: 7
+  • minute: 0
+  • timezoneRule: subscriber-local
+• plans:
+  TABLE (2 rows)
+  id | label | billingPeriod | amountInr | description
+  ----------------------------------------------------
+  monthly | Monthly HoraSaar Subscription | monthly | 499 | Daily selected astrology report delivered every day at 7:00 AM local time.
+  yearly | Yearly HoraSaar Subscription | yearly | 4999 | Daily selected astrology report delivered every day at 7:00 AM local time.

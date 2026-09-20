@@ -1,0 +1,10 @@
+[
+  {
+    "id": "avastha_001",
+    "name": "Baladi Avasthas",
+    "states": ["Bala (Infant)", "Kumara (Youth)", "Vridha (Old)", "Mrita (Dead)"],
+    "logic": "Based on which 1/6th portion of the Rashi the planet is placed in.",
+    "prediction_effect": "A planet in 'Bala' (Infant) state gives only 1/4th of its results. A planet in 'Kumara' gives full results. A planet in 'Mrita' gives minimal or negative results.",
+    "source_text": "Brihat Parashara Hora Shastra"
+  }
+]

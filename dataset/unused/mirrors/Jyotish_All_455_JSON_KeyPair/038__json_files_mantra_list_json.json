@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "038__json_files_mantra_list_json",
+    "name": "JSON_Files_Mantra-List",
+    "original_file": "JSON_Files/Mantra-List.json",
+    "dataset_number": "186 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Mantra-List.txt",
+    "source_sha256": "4a410e855c483f17ac3f5520ae4a59c71f7cfde2ce9bea7b48ab5ca1bd456346",
+    "source_bytes": 765
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "mantra_001",
+        "name": "Gayatri Mantra",
+        "deity": "Savitur (Sun)",
+        "text": "Om Bhur Bhuva Swaha, Tat Savitur Varenyam, Bhargo Devasya Dhimahi, Dhiyo Yo Nah Prachodayat",
+        "purpose": "Spiritual enlightenment, mental clarity, removal of negative energy.",
+        "count": 108,
+        "associated_planet": "Sun",
+        "source_text": "Rig Veda 3.62.10"
+      }
+    ]
+  }
+}

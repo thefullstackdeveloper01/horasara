@@ -1,0 +1,26 @@
+READABLE DATASET
+================================================================================
+Original file: sign_career_themes.json
+Dataset number: 365 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,498 bytes
+Top-level fields: 3
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 1
+• note: Traditional sign-to-career-theme associations. Previously duplicated with inconsistent wording as VL_CAREER (src/extensions/new_sections.js, applied to the Varnada Lagna sign) and D10_CAREER (src/extensions/extended_sections.js, applied to the D10/10th-house sign) — the same classical concept applied to two different derived signs. Consolidated into one canonical table so both call sites read identical, non-drifting theme text; each caller still applies it to its own sign input.
+• themes:
+  • Aries: Independent entrepreneur, military, sports leadership, initiative-driven roles
+  • Taurus: Finance, luxury, real estate, arts, food industry
+  • Gemini: Communication, media, IT, writing, trade, consulting
+  • Cancer: Hospitality, nursing, food, public sector, real estate
+  • Leo: Government, politics, entertainment, senior management, administration
+  • Virgo: Accounting, healthcare, analysis, IT services, quality, service industry
+  • Libra: Law, diplomacy, fashion, arts, HR, client relations, public relations
+  • Scorpio: Research, investigation, surgery, occult, mining, psychology
+  • Sagittarius: Education, law, travel, philosophy, religion, international work
+  • Capricorn: Management, government, construction, engineering, authority
+  • Aquarius: Technology, social work, research, innovation, IT
+  • Pisces: Spirituality, healing, arts, foreign connections, pharmaceutical

@@ -1,0 +1,1009 @@
+{
+  "METADATA": {
+    "TITLE": "Dream Interpretation & Astrological Significance",
+    "TOTAL_SYMBOLS": 100,
+    "DESCRIPTION": "A comprehensive guide to dream symbols, their psychological meanings, astrological connections, and traditional Vedic remedies."
+  },
+  "dreams": [
+    {
+      "id": 1,
+      "symbol": "snake",
+      "hindi_name": "साँप",
+      "meaning": "Seeing a snake in a dream indicates hidden enemies, transformation, and kundalini energy awakening.",
+      "astrological_interpretation": "Rahu or Ketu influence in the birth chart; indicates karmic debts and sudden transformations.",
+      "positive_outcome": "If snake is calm or shedding skin - spiritual growth and healing",
+      "negative_outcome": "If snake bites or attacks - betrayal, health issues, or hidden dangers",
+      "remedy": "Worship Lord Shiva, chant Mahamrityunjaya Mantra, offer milk to Shivling on Monday"
+    },
+    {
+      "id": 2,
+      "symbol": "water",
+      "hindi_name": "पानी",
+      "meaning": "Water represents emotions, purification, and the subconscious mind.",
+      "astrological_interpretation": "Moon's position in the chart; represents mental state and emotional balance",
+      "positive_outcome": "Clear water - peace, prosperity, emotional clarity",
+      "negative_outcome": "Dirty or turbulent water - emotional turmoil, obstacles",
+      "remedy": "Offer water to Sun god, wear pearl or moonstone, practice meditation"
+    },
+    {
+      "id": 3,
+      "symbol": "flying",
+      "hindi_name": "उड़ना",
+      "meaning": "Flying represents freedom, ambition, and rising above limitations.",
+      "astrological_interpretation": "Jupiter or Saturn influence; indicates expansion of consciousness",
+      "positive_outcome": "Flying high with ease - success, achievement, spiritual elevation",
+      "negative_outcome": "Falling while flying - fear of failure, instability",
+      "remedy": "Wear yellow sapphire, chant Guru Mantra, donate to educational causes"
+    },
+    {
+      "id": 4,
+      "symbol": "teeth_falling",
+      "hindi_name": "दांत गिरना",
+      "meaning": "Teeth falling indicates fear of loss, aging, or communication problems.",
+      "astrological_interpretation": "Saturn transit in 2nd or 6th house; family and health concerns",
+      "positive_outcome": "New teeth growing - renewal, regaining strength",
+      "negative_outcome": "All teeth falling - major loss, family disputes, health decline",
+      "remedy": "Chant Hanuman Chalisa on Saturday, donate black items, respect elders"
+    },
+    {
+      "id": 5,
+      "symbol": "money",
+      "hindi_name": "धन",
+      "meaning": "Money in dreams reflects self-worth, abundance, and material security.",
+      "astrological_interpretation": "Venus and Jupiter placement; Lakshmi yoga in chart",
+      "positive_outcome": "Finding or receiving money - windfall, business success",
+      "negative_outcome": "Losing or stealing money - financial loss, bad investments",
+      "remedy": "Worship Goddess Lakshmi on Friday, keep silver in home, donate food"
+    },
+    {
+      "id": 6,
+      "symbol": "death",
+      "hindi_name": "मृत्यु",
+      "meaning": "Death in dreams symbolizes transformation, end of a phase, and rebirth.",
+      "astrological_interpretation": "Saturn and Pluto influence; major life transitions",
+      "positive_outcome": "Death of someone else - end of problems, new beginnings",
+      "negative_outcome": "Own death - major life changes, health warnings",
+      "remedy": "Perform Rudrabhishek, chant Mrityunjaya Mantra, practice gratitude"
+    },
+    {
+      "id": 7,
+      "symbol": "fire",
+      "hindi_name": "आग",
+      "meaning": "Fire represents passion, anger, purification, and transformation.",
+      "astrological_interpretation": "Mars and Sun dominance; Agni tattva activation",
+      "positive_outcome": "Controlled fire - energy, motivation, success",
+      "negative_outcome": "Uncontrolled fire - anger issues, destruction, accidents",
+      "remedy": "Offer ghee to fire, chant Gayatri Mantra, practice anger management"
+    },
+    {
+      "id": 8,
+      "symbol": "pregnancy",
+      "hindi_name": "गर्भावस्था",
+      "meaning": "Pregnancy indicates new ideas, projects, creativity, and potential growth.",
+      "astrological_interpretation": "Jupiter in 5th house; creativity and progeny yoga",
+      "positive_outcome": "Happy pregnancy - successful ventures, family happiness",
+      "negative_outcome": "Complicated pregnancy - delayed projects, family issues",
+      "remedy": "Worship Santoshi Mata, chant Santan Gopal Mantra, donate to mothers"
+    },
+    {
+      "id": 9,
+      "symbol": "marriage",
+      "hindi_name": "विवाह",
+      "meaning": "Marriage dreams reflect commitment, union, and partnership desires.",
+      "astrological_interpretation": "Venus and 7th house activation; relationship karma",
+      "positive_outcome": "Happy marriage - harmonious relationships, new partnerships",
+      "negative_outcome": "Forced or unhappy marriage - relationship problems, commitment fears",
+      "remedy": "Worship Lord Vishnu and Lakshmi, wear diamond or opal, resolve conflicts"
+    },
+    {
+      "id": 10,
+      "symbol": "falling",
+      "hindi_name": "गिरना",
+      "meaning": "Falling indicates loss of control, insecurity, and fear of failure.",
+      "astrological_interpretation": "Rahu or Saturn affliction; instability in life areas",
+      "positive_outcome": "Landing safely - overcoming obstacles, resilience",
+      "negative_outcome": "Endless falling - anxiety, loss of status, helplessness",
+      "remedy": "Strengthen Moon, wear silver, practice grounding exercises"
+    },
+    {
+      "id": 11,
+      "symbol": "chasing",
+      "hindi_name": "पीछा करना",
+      "meaning": "Being chased indicates avoidance, fear, and unresolved issues.",
+      "astrological_interpretation": "Mars and Rahu conjunction; hidden enemies or fears",
+      "positive_outcome": "Escaping successfully - overcoming challenges",
+      "negative_outcome": "Being caught - facing consequences, unavoidable problems",
+      "remedy": "Chant Durga Saptashati, wear red coral, face fears courageously"
+    },
+    {
+      "id": 12,
+      "symbol": "naked",
+      "hindi_name": "नग्न",
+      "meaning": "Being naked represents vulnerability, exposure, and authenticity.",
+      "astrological_interpretation": "Mercury affliction; communication and self-expression issues",
+      "positive_outcome": "Feeling comfortable naked - self-acceptance, confidence",
+      "negative_outcome": "Embarrassment being naked - fear of judgment, secrets exposed",
+      "remedy": "Wear emerald, chant Budh Mantra, practice self-love"
+    },
+    {
+      "id": 13,
+      "symbol": "exam",
+      "hindi_name": "परीक्षा",
+      "meaning": "Exam dreams reflect self-evaluation, performance anxiety, and life tests.",
+      "astrological_interpretation": "Mercury and Jupiter aspects; learning and wisdom karma",
+      "positive_outcome": "Passing exam - success, competence, preparation",
+      "negative_outcome": "Failing or unprepared - self-doubt, missed opportunities",
+      "remedy": "Worship Goddess Saraswati, chant Vidya Mantra, regular study"
+    },
+    {
+      "id": 14,
+      "symbol": "dead_person",
+      "hindi_name": "मृत व्यक्ति",
+      "meaning": "Seeing dead people indicates unresolved grief, messages from ancestors, or karma.",
+      "astrological_interpretation": "Pitra dosha in chart; ancestral karma activation",
+      "positive_outcome": "Dead person blessing you - ancestral protection, good fortune",
+      "negative_outcome": "Dead person calling you - health warnings, unfinished business",
+      "remedy": "Perform Shraddha, offer food to crows, chant Pitra Dosha Nivaran Mantra"
+    },
+    {
+      "id": 15,
+      "symbol": "house",
+      "hindi_name": "घर",
+      "meaning": "House represents self, family, security, and personal foundation.",
+      "astrological_interpretation": "4th house and Moon placement; emotional security",
+      "positive_outcome": "Beautiful new house - prosperity, family happiness, growth",
+      "negative_outcome": "Damaged or haunted house - family problems, insecurity",
+      "remedy": "Vastu correction, worship Kuldevta, keep home clean and positive"
+    },
+    {
+      "id": 16,
+      "symbol": "vehicle",
+      "hindi_name": "वाहन",
+      "meaning": "Vehicles represent life journey, direction, and personal drive.",
+      "astrological_interpretation": "Mars and Rahu; movement and life path karma",
+      "positive_outcome": "Driving smoothly - control over life, progress",
+      "negative_outcome": "Accident or breakdown - obstacles, loss of direction",
+      "remedy": "Worship Lord Ganesha, regular vehicle maintenance, safe driving"
+    },
+    {
+      "id": 17,
+      "symbol": "baby",
+      "hindi_name": "शिशु",
+      "meaning": "Babies represent innocence, new beginnings, and pure potential.",
+      "astrological_interpretation": "Jupiter in lagna or 5th house; new opportunities",
+      "positive_outcome": "Happy healthy baby - new projects, joy, blessings",
+      "negative_outcome": "Crying or sick baby - neglected opportunities, emotional needs",
+      "remedy": "Worship Bal Gopal, donate to children's charities, nurture creativity"
+    },
+    {
+      "id": 18,
+      "symbol": "food",
+      "hindi_name": "भोजन",
+      "meaning": "Food represents nourishment, abundance, and satisfaction of desires.",
+      "astrological_interpretation": "Venus and 2nd house; wealth and pleasures",
+      "positive_outcome": "Delicious feast - prosperity, enjoyment, contentment",
+      "negative_outcome": "Spoiled or insufficient food - scarcity, dissatisfaction",
+      "remedy": "Annadan (food donation), worship Annapurna Devi, gratitude before meals"
+    },
+    {
+      "id": 19,
+      "symbol": "rain",
+      "hindi_name": "वर्षा",
+      "meaning": "Rain symbolizes cleansing, emotional release, and divine blessings.",
+      "astrological_interpretation": "Moon and Jupiter; emotional and spiritual nourishment",
+      "positive_outcome": "Gentle rain - blessings, emotional healing, fertility",
+      "negative_outcome": "Storm or flood - overwhelming emotions, crisis",
+      "remedy": "Worship Varuna Dev, collect rainwater, practice emotional expression"
+    },
+    {
+      "id": 20,
+      "symbol": "temple",
+      "hindi_name": "मंदिर",
+      "meaning": "Temple represents spirituality, inner peace, and divine connection.",
+      "astrological_interpretation": "Jupiter and Ketu; spiritual evolution and moksha",
+      "positive_outcome": "Peaceful temple visit - spiritual growth, blessings, guidance",
+      "negative_outcome": "Broken or dark temple - spiritual crisis, loss of faith",
+      "remedy": "Daily prayer, visit temple regularly, practice devotion"
+    },
+    {
+      "id": 21,
+      "symbol": "blood",
+      "hindi_name": "खून",
+      "meaning": "Blood represents life force, family ties, and sacrifice.",
+      "astrological_interpretation": "Mars and 8th house; vitality and transformation",
+      "positive_outcome": "Giving blood - service, healing, releasing negativity",
+      "negative_outcome": "Losing blood - energy drain, health problems, family disputes",
+      "remedy": "Worship Goddess Kali, donate blood, practice self-care"
+    },
+    {
+      "id": 22,
+      "symbol": "gold",
+      "hindi_name": "सोना",
+      "meaning": "Gold represents wealth, purity, and spiritual enlightenment.",
+      "astrological_interpretation": "Jupiter and Sun; prosperity and wisdom",
+      "positive_outcome": "Finding gold - fortune, success, divine blessings",
+      "negative_outcome": "Fake or stolen gold - illusion, greed, deception",
+      "remedy": "Invest in gold, worship Goddess Lakshmi, practice generosity"
+    },
+    {
+      "id": 23,
+      "symbol": "dog",
+      "hindi_name": "कुत्ता",
+      "meaning": "Dogs represent loyalty, protection, and friendship.",
+      "astrological_interpretation": "Saturn and Ketu; karmic relationships and service",
+      "positive_outcome": "Friendly dog - loyal friends, protection, guidance",
+      "negative_outcome": "Aggressive or sick dog - betrayal, enemies, health issues",
+      "remedy": "Feed stray dogs, worship Bhairava, practice loyalty"
+    },
+    {
+      "id": 24,
+      "symbol": "cat",
+      "hindi_name": "बिल्ली",
+      "meaning": "Cats represent intuition, mystery, and feminine energy.",
+      "astrological_interpretation": "Rahu and Venus; hidden desires and psychic abilities",
+      "positive_outcome": "Friendly cat - intuition, independence, grace",
+      "negative_outcome": "Cat attacking - hidden enemies, deception, bad luck",
+      "remedy": "Respect animals, practice mindfulness, trust intuition"
+    },
+    {
+      "id": 25,
+      "symbol": "elephant",
+      "hindi_name": "हाथी",
+      "meaning": "Elephants represent wisdom, strength, and removal of obstacles.",
+      "astrological_interpretation": "Jupiter and Ganesha; divine wisdom and power",
+      "positive_outcome": "Seeing elephant - success, wisdom, obstacle removal",
+      "negative_outcome": "Angry elephant - overwhelming problems, power struggles",
+      "remedy": "Worship Lord Ganesha, chant Ganesh Mantra, respect wisdom"
+    },
+    {
+      "id": 26,
+      "symbol": "lion",
+      "hindi_name": "शेर",
+      "meaning": "Lions represent courage, royalty, and primal power.",
+      "astrological_interpretation": "Sun and Mars; leadership and authority",
+      "positive_outcome": "Calm lion - leadership, courage, success",
+      "negative_outcome": "Attacking lion - power struggles, aggression, enemies",
+      "remedy": "Worship Lord Narasimha, chant Surya Mantra, develop confidence"
+    },
+    {
+      "id": 27,
+      "symbol": "bird",
+      "hindi_name": "पक्षी",
+      "meaning": "Birds represent freedom, messages, and spiritual connection.",
+      "astrological_interpretation": "Mercury and Jupiter; communication with divine",
+      "positive_outcome": "Beautiful bird singing - good news, spiritual messages",
+      "negative_outcome": "Dead or caged bird - lost freedom, missed opportunities",
+      "remedy": "Feed birds, practice meditation, listen to inner voice"
+    },
+    {
+      "id": 28,
+      "symbol": "fish",
+      "hindi_name": "मछली",
+      "meaning": "Fish represent abundance, fertility, and spiritual nourishment.",
+      "astrological_interpretation": "Jupiter and Moon; prosperity and emotional depth",
+      "positive_outcome": "Catching fish - wealth, fertility, success",
+      "negative_outcome": "Dead fish - missed opportunities, emotional issues",
+      "remedy": "Worship Matsya Avatar, donate food, practice abundance mindset"
+    },
+    {
+      "id": 29,
+      "symbol": "horse",
+      "hindi_name": "घोड़ा",
+      "meaning": "Horses represent power, freedom, and passionate energy.",
+      "astrological_interpretation": "Mars and Sun; vitality and ambition",
+      "positive_outcome": "Riding horse - success, power, achievement",
+      "negative_outcome": "Thrown from horse - failure, loss of control",
+      "remedy": "Worship Lord Hayagriva, practice discipline, channel energy positively"
+    },
+    {
+      "id": 30,
+      "symbol": "cow",
+      "hindi_name": "गाय",
+      "meaning": "Cows represent abundance, motherhood, and divine blessings.",
+      "astrological_interpretation": "Jupiter and Moon; nourishment and prosperity",
+      "positive_outcome": "Healthy cow - prosperity, blessings, spiritual merit",
+      "negative_outcome": "Sick or dying cow - loss, neglect of duties",
+      "remedy": "Gau Seva (serving cows), worship Kamdhenu, practice compassion"
+    },
+    {
+      "id": 31,
+      "symbol": "peacock",
+      "hindi_name": "मोर",
+      "meaning": "Peacocks represent beauty, pride, and divine grace.",
+      "astrological_interpretation": "Venus and Jupiter; aesthetic and spiritual beauty",
+      "positive_outcome": "Dancing peacock - joy, beauty, divine grace",
+      "negative_outcome": "Peacock losing feathers - loss of beauty, pride fall",
+      "remedy": "Worship Lord Krishna, appreciate beauty, practice humility"
+    },
+    {
+      "id": 32,
+      "symbol": "owl",
+      "hindi_name": "उल्लू",
+      "meaning": "Owls represent wisdom, mystery, and hidden knowledge.",
+      "astrological_interpretation": "Saturn and Rahu; occult knowledge and secrets",
+      "positive_outcome": "Wise owl - hidden knowledge, intuition, wisdom",
+      "negative_outcome": "Screeching owl - bad omens, fear, darkness",
+      "remedy": "Worship Goddess Lakshmi, pursue knowledge, face fears"
+    },
+    {
+      "id": 33,
+      "symbol": "spider",
+      "hindi_name": "मकड़ी",
+      "meaning": "Spiders represent creativity, patience, and intricate planning.",
+      "astrological_interpretation": "Mercury and Rahu; complex thinking and traps",
+      "positive_outcome": "Spider weaving web - creativity, patience, success",
+      "negative_outcome": "Spider attack or web trap - manipulation, entanglement",
+      "remedy": "Practice creativity, avoid manipulation, develop patience"
+    },
+    {
+      "id": 34,
+      "symbol": "scorpion",
+      "hindi_name": "बिच्छू",
+      "meaning": "Scorpions represent danger, betrayal, and hidden threats.",
+      "astrological_interpretation": "Mars and Ketu; karmic enemies and danger",
+      "positive_outcome": "Killing scorpion - overcoming enemies, protection",
+      "negative_outcome": "Scorpion sting - betrayal, hidden attacks, danger",
+      "remedy": "Chant Mahamrityunjaya Mantra, worship Lord Shiva, stay alert"
+    },
+    {
+      "id": 35,
+      "symbol": "rat",
+      "hindi_name": "चूहा",
+      "meaning": "Rats represent resourcefulness, survival, and hidden problems.",
+      "astrological_interpretation": "Ganesha's vahana; obstacles and cleverness",
+      "positive_outcome": "Rat gathering food - resourcefulness, savings, preparation",
+      "negative_outcome": "Rat infestation - hidden problems, destruction, disease",
+      "remedy": "Worship Lord Ganesha, maintain cleanliness, address small issues"
+    },
+    {
+      "id": 36,
+      "symbol": "monkey",
+      "hindi_name": "बंदर",
+      "meaning": "Monkeys represent playfulness, mischief, and adaptability.",
+      "astrological_interpretation": "Hanuman energy; service and cleverness",
+      "positive_outcome": "Happy monkey - adaptability, humor, service",
+      "negative_outcome": "Aggressive monkey - chaos, mischief, distraction",
+      "remedy": "Worship Lord Hanuman, chant Hanuman Chalisa, practice discipline"
+    },
+    {
+      "id": 37,
+      "symbol": "mountain",
+      "hindi_name": "पहाड़",
+      "meaning": "Mountains represent challenges, goals, and spiritual elevation.",
+      "astrological_interpretation": "Saturn and Jupiter; life obstacles and achievements",
+      "positive_outcome": "Climbing mountain - overcoming challenges, achievement",
+      "negative_outcome": "Falling from mountain - failure, setback, fear",
+      "remedy": "Worship Lord Shiva, practice perseverance, set realistic goals"
+    },
+    {
+      "id": 38,
+      "symbol": "river",
+      "hindi_name": "नदी",
+      "meaning": "Rivers represent flow of life, emotions, and spiritual purification.",
+      "astrological_interpretation": "Moon and Jupiter; emotional and spiritual flow",
+      "positive_outcome": "Clean flowing river - progress, purification, abundance",
+      "negative_outcome": "Flooding or dry river - emotional extremes, stagnation",
+      "remedy": "Worship Ganga, practice flow state, emotional balance"
+    },
+    {
+      "id": 39,
+      "symbol": "ocean",
+      "hindi_name": "समुद्र",
+      "meaning": "Oceans represent vast emotions, subconscious, and infinite potential.",
+      "astrological_interpretation": "Moon and Ketu; depth of consciousness",
+      "positive_outcome": "Calm ocean - peace, depth, spiritual connection",
+      "negative_outcome": "Stormy ocean - emotional turmoil, overwhelming situations",
+      "remedy": "Practice meditation, worship Varuna, embrace emotional depth"
+    },
+    {
+      "id": 40,
+      "symbol": "sky",
+      "hindi_name": "आकाश",
+      "meaning": "Sky represents infinite possibilities, freedom, and divine connection.",
+      "astrological_interpretation": "Jupiter and Sun; expansion and enlightenment",
+      "positive_outcome": "Clear blue sky - clarity, peace, divine blessings",
+      "negative_outcome": "Dark stormy sky - confusion, obstacles, divine tests",
+      "remedy": "Practice sky gazing, worship Surya Dev, expand consciousness"
+    },
+    {
+      "id": 41,
+      "symbol": "moon",
+      "hindi_name": "चंद्रमा",
+      "meaning": "Moon represents mind, emotions, intuition, and mother.",
+      "astrological_interpretation": "Moon's placement; mental state and emotional balance",
+      "positive_outcome": "Full bright moon - peace, success, emotional fulfillment",
+      "negative_outcome": "Eclipsed or dark moon - mental stress, emotional issues",
+      "remedy": "Wear pearl, chant Chandra Mantra, practice emotional awareness"
+    },
+    {
+      "id": 42,
+      "symbol": "sun",
+      "hindi_name": "सूर्य",
+      "meaning": "Sun represents soul, vitality, authority, and success.",
+      "astrological_interpretation": "Sun's placement; life force and career",
+      "positive_outcome": "Bright rising sun - success, health, authority",
+      "negative_outcome": "Setting or dark sun - loss of vitality, career problems",
+      "remedy": "Offer water to Sun, chant Surya Mantra, practice confidence"
+    },
+    {
+      "id": 43,
+      "symbol": "stars",
+      "hindi_name": "तारे",
+      "meaning": "Stars represent hope, guidance, destiny, and divine blessings.",
+      "astrological_interpretation": "Jupiter and Ketu; fate and spiritual guidance",
+      "positive_outcome": "Bright stars - hope, guidance, good fortune",
+      "negative_outcome": "Falling stars - lost hope, changing destiny",
+      "remedy": "Practice gratitude, follow dharma, trust divine timing"
+    },
+    {
+      "id": 44,
+      "symbol": "lightning",
+      "hindi_name": "बिजली",
+      "meaning": "Lightning represents sudden insight, divine intervention, and transformation.",
+      "astrological_interpretation": "Rahu and Uranus; sudden changes and awakening",
+      "positive_outcome": "Lightning illuminating - sudden clarity, awakening, revelation",
+      "negative_outcome": "Struck by lightning - sudden disaster, shock, upheaval",
+      "remedy": "Worship Lord Indra, practice grounding, embrace change"
+    },
+    {
+      "id": 45,
+      "symbol": "rainbow",
+      "hindi_name": "इंद्रधनुष",
+      "meaning": "Rainbows represent hope, promise, and divine connection.",
+      "astrological_interpretation": "Jupiter and Venus; blessings and harmony",
+      "positive_outcome": "Seeing rainbow - hope, blessings, good fortune coming",
+      "negative_outcome": "Fading rainbow - missed opportunities, fading hope",
+      "remedy": "Practice optimism, appreciate beauty, trust divine plan"
+    },
+    {
+      "id": 46,
+      "symbol": "earthquake",
+      "hindi_name": "भूकंप",
+      "meaning": "Earthquakes represent major life upheavals and foundational changes.",
+      "astrological_interpretation": "Saturn and Rahu; structural changes and instability",
+      "positive_outcome": "Surviving earthquake - resilience, transformation, rebuilding",
+      "negative_outcome": "Being trapped - feeling stuck, major disruptions",
+      "remedy": "Worship Lord Vishnu, practice flexibility, strengthen foundations"
+    },
+    {
+      "id": 47,
+      "symbol": "flood",
+      "hindi_name": "बाढ़",
+      "meaning": "Floods represent overwhelming emotions and life situations.",
+      "astrological_interpretation": "Moon and Rahu; emotional overwhelm",
+      "positive_outcome": "Surviving flood - emotional cleansing, resilience",
+      "negative_outcome": "Drowning in flood - being overwhelmed, emotional crisis",
+      "remedy": "Practice emotional release, seek support, worship Varuna"
+    },
+    {
+      "id": 48,
+      "symbol": "tornado",
+      "hindi_name": "बवंडर",
+      "meaning": "Tornadoes represent chaos, sudden destruction, and uncontrollable forces.",
+      "astrological_interpretation": "Rahu and Mars; chaotic changes and upheaval",
+      "positive_outcome": "Escaping tornado - surviving chaos, adaptation",
+      "negative_outcome": "Being caught in tornado - chaos, destruction, loss",
+      "remedy": "Chant Hanuman Chalisa, practice calmness, prepare for changes"
+    },
+    {
+      "id": 49,
+      "symbol": "wedding",
+      "hindi_name": "शादी",
+      "meaning": "Weddings represent union, commitment, and new life chapters.",
+      "astrological_interpretation": "Venus and 7th house; relationship karma",
+      "positive_outcome": "Joyful wedding - happy relationships, new beginnings",
+      "negative_outcome": "Wedding problems - relationship issues, commitment fears",
+      "remedy": "Worship Lord Shiva-Parvati, strengthen relationships, practice commitment"
+    },
+    {
+      "id": 50,
+      "symbol": "funeral",
+      "hindi_name": "अंतिम संस्कार",
+      "meaning": "Funerals represent endings, letting go, and transformation.",
+      "astrological_interpretation": "Saturn and Ketu; karmic closure",
+      "positive_outcome": "Peaceful funeral - graceful endings, closure, peace",
+      "negative_outcome": "Disturbing funeral - unresolved grief, fear of endings",
+      "remedy": "Practice acceptance, honor endings, perform rituals"
+    },
+    {
+      "id": 51,
+      "symbol": "mirror",
+      "hindi_name": "आईना",
+      "meaning": "Mirrors represent self-reflection, truth, and how one presents themselves to the world.",
+      "astrological_interpretation": "Venus and Sun influence; ego and self-awareness.",
+      "positive_outcome": "Seeing a clear reflection - self-awareness, clarity, truth.",
+      "negative_outcome": "Broken or distorted reflection - shattered ego, self-deception, bad luck.",
+      "remedy": "Practice self-introspection, chant Surya Mantra, respect women."
+    },
+    {
+      "id": 52,
+      "symbol": "clock",
+      "hindi_name": "घड़ी",
+      "meaning": "Clocks represent time, deadlines, and the cycles of life.",
+      "astrological_interpretation": "Saturn influence; time cycles and karmic timing.",
+      "positive_outcome": "Clock ticking smoothly - good timing, life on track.",
+      "negative_outcome": "Broken or stopped clock - feeling stuck, missed deadlines, fear of aging.",
+      "remedy": "Worship Kaal Bhairava, practice time management, chant Mahamrityunjaya."
+    },
+    {
+      "id": 53,
+      "symbol": "key",
+      "hindi_name": "चाबी",
+      "meaning": "Keys represent solutions, access to new opportunities, and secrets.",
+      "astrological_interpretation": "Jupiter and Mercury; unlocking wisdom and opportunities.",
+      "positive_outcome": "Finding a key - discovering solutions, new opportunities opening.",
+      "negative_outcome": "Losing a key - missed opportunities, feeling locked out, ignorance.",
+      "remedy": "Worship Lord Ganesha, chant Ganesh Mantra for obstacle removal."
+    },
+    {
+      "id": 54,
+      "symbol": "door",
+      "hindi_name": "दरवाज़ा",
+      "meaning": "Doors represent transitions, new beginnings, and barriers.",
+      "astrological_interpretation": "Jupiter and Saturn; new phases and karmic boundaries.",
+      "positive_outcome": "Opening a door - new opportunities, welcoming change.",
+      "negative_outcome": "Locked or closed door - rejections, obstacles, feeling stuck.",
+      "remedy": "Practice openness, worship Lord Ganesha, welcome new experiences."
+    },
+    {
+      "id": 55,
+      "symbol": "bridge",
+      "hindi_name": "पुल",
+      "meaning": "Bridges represent transitions, connections, and overcoming divides.",
+      "astrological_interpretation": "Saturn and Rahu; overcoming obstacles and transitions.",
+      "positive_outcome": "Crossing a bridge - successfully transitioning, connecting aspects of life.",
+      "negative_outcome": "Broken bridge - failed transition, disconnection, fear of transition.",
+      "remedy": "Worship Lord Hanuman, chant Hanuman Chalisa for safe passages."
+    },
+    {
+      "id": 56,
+      "symbol": "maze",
+      "hindi_name": "भूलभुलैया",
+      "meaning": "Mazes represent confusion, feeling lost, and complex life situations.",
+      "astrological_interpretation": "Rahu and Ketu; illusion, confusion, and karmic loops.",
+      "positive_outcome": "Escaping a maze - finding solutions, spiritual clarity.",
+      "negative_outcome": "Trapped in a maze - feeling lost, confused, hopeless.",
+      "remedy": "Meditate regularly, worship Lord Ganesha, seek a Guru's guidance."
+    },
+    {
+      "id": 57,
+      "symbol": "garden",
+      "hindi_name": "बगीचा",
+      "meaning": "Gardens represent growth, peace, and the cultivation of ideas.",
+      "astrological_interpretation": "Venus and Moon; emotional nourishment and growth.",
+      "positive_outcome": "Blooming garden - prosperity, personal growth, inner peace.",
+      "negative_outcome": "Dead garden - neglect, lost opportunities, emotional barrenness.",
+      "remedy": "Plant trees, worship Goddess Lakshmi, spend time in nature."
+    },
+    {
+      "id": 58,
+      "symbol": "forest",
+      "hindi_name": "जंगल",
+      "meaning": "Forests represent the unknown, subconscious mind, and abundance.",
+      "astrological_interpretation": "Rahu and Ketu; the unknown and mystical exploration.",
+      "positive_outcome": "Exploring peacefully - self-discovery, embracing the unknown.",
+      "negative_outcome": "Lost in dark forest - confusion, fear, feeling overwhelmed by subconscious.",
+      "remedy": "Worship Lord Shiva, chant Shiva Mantras for protection and clarity."
+    },
+    {
+      "id": 59,
+      "symbol": "desert",
+      "hindi_name": "रेगिस्तान",
+      "meaning": "Deserts represent barrenness, isolation, and endurance.",
+      "astrological_interpretation": "Saturn and Mars; harshness, isolation, and karmic endurance.",
+      "positive_outcome": "Finding an oasis - hope, finding resources in tough times.",
+      "negative_outcome": "Wandering endlessly - feeling empty, isolated, lacking emotional nourishment.",
+      "remedy": "Donate water, worship Varuna Dev, practice self-care."
+    },
+    {
+      "id": 60,
+      "symbol": "book",
+      "hindi_name": "किताब",
+      "meaning": "Books represent knowledge, wisdom, and communication.",
+      "astrological_interpretation": "Jupiter and Mercury; education, wisdom, and karma.",
+      "positive_outcome": "Reading a book - gaining knowledge, spiritual awakening.",
+      "negative_outcome": "Burned or blank book - lost knowledge, missed educational opportunities.",
+      "remedy": "Worship Goddess Saraswati, donate educational materials."
+    },
+    {
+      "id": 61,
+      "symbol": "shoes",
+      "hindi_name": "जूते",
+      "meaning": "Shoes represent grounding, life path, and protection.",
+      "astrological_interpretation": "Saturn influence; grounding and karmic path.",
+      "positive_outcome": "New comfortable shoes - new path, groundedness, progress.",
+      "negative_outcome": "Lost or tight shoes - feeling ungrounded, obstacles on path.",
+      "remedy": "Donate shoes to the needy, respect laborers, walk barefoot on grass."
+    },
+    {
+      "id": 62,
+      "symbol": "clothes",
+      "hindi_name": "कपड़े",
+      "meaning": "Clothes represent persona, self-expression, and protection.",
+      "astrological_interpretation": "Venus and Moon; self-image and emotional protection.",
+      "positive_outcome": "New beautiful clothes - new role, confidence, social success.",
+      "negative_outcome": "Torn or dirty clothes - feeling insecure, loss of status, humiliation.",
+      "remedy": "Donate clean clothes, wear fresh clothes, chant Venus Mantras."
+    },
+    {
+      "id": 63,
+      "symbol": "train",
+      "hindi_name": "रेलगाड़ी",
+      "meaning": "Trains represent life journey, destiny, and predetermined paths.",
+      "astrological_interpretation": "Rahu and Saturn; collective karma and fixed destiny.",
+      "positive_outcome": "Smooth train ride - steady progress, life on track.",
+      "negative_outcome": "Missing or derailed train - missed destiny, feeling out of control.",
+      "remedy": "Worship Lord Ganesha, practice discipline, accept life's rhythms."
+    },
+    {
+      "id": 64,
+      "symbol": "airplane",
+      "hindi_name": "हवाई जहाज",
+      "meaning": "Airplanes represent high ambitions, fast progress, and freedom.",
+      "astrological_interpretation": "Jupiter and Rahu; high-flying ambitions and sudden progress.",
+      "positive_outcome": "Flying smoothly - rapid success, achieving high goals.",
+      "negative_outcome": "Crashing plane - sudden failure, unrealistic ambitions, fear of failure.",
+      "remedy": "Chant Gayatri Mantra, keep realistic goals, worship Lord Vishnu."
+    },
+    {
+      "id": 65,
+      "symbol": "boat",
+      "hindi_name": "नाव",
+      "meaning": "Boats represent navigating emotions, transitions, and safety.",
+      "astrological_interpretation": "Moon and Jupiter; emotional navigation and spiritual journey.",
+      "positive_outcome": "Sailing smoothly - emotional balance, safe transitions.",
+      "negative_outcome": "Sinking boat - emotional crisis, feeling overwhelmed, financial loss.",
+      "remedy": "Worship Varuna Dev, wear pearl, practice emotional regulation."
+    },
+    {
+      "id": 66,
+      "symbol": "bicycle",
+      "hindi_name": "साइकिल",
+      "meaning": "Bicycles represent self-propulsion, balance, and personal effort.",
+      "astrological_interpretation": "Mars and Mercury; personal effort and balance.",
+      "positive_outcome": "Riding smoothly - self-reliance, balanced progress.",
+      "negative_outcome": "Falling off - loss of balance, struggling with personal efforts.",
+      "remedy": "Worship Surya Dev, maintain physical health, chant Surya Mantra."
+    },
+    {
+      "id": 67,
+      "symbol": "fruit",
+      "hindi_name": "फल",
+      "meaning": "Fruits represent rewards, results of actions, and abundance.",
+      "astrological_interpretation": "Jupiter and Venus; karmic fruits and prosperity.",
+      "positive_outcome": "Eating sweet fruit - enjoying results of hard work, prosperity.",
+      "negative_outcome": "Sour or rotten fruit - bad karma, disappointing results.",
+      "remedy": "Offer fruits to deities, practice good karma, donate food."
+    },
+    {
+      "id": 68,
+      "symbol": "flowers",
+      "hindi_name": "फूल",
+      "meaning": "Flowers represent beauty, joy, and spiritual blossoming.",
+      "astrological_interpretation": "Venus and Mercury; beauty, fragrance of life, and arts.",
+      "positive_outcome": "Blooming flowers - joy, spiritual growth, new beginnings.",
+      "negative_outcome": "Dead flowers - ended joy, lost beauty, transient nature of life.",
+      "remedy": "Offer flowers to God, plant flowering plants, appreciate beauty."
+    },
+    {
+      "id": 69,
+      "symbol": "tree",
+      "hindi_name": "पेड़",
+      "meaning": "Trees represent growth, deep roots, and family heritage.",
+      "astrological_interpretation": "Jupiter and Saturn; growth, stability, and ancestral karma.",
+      "positive_outcome": "Healthy tree - personal growth, strong foundations, family support.",
+      "negative_outcome": "Falling or dead tree - loss of support, family crisis, instability.",
+      "remedy": "Plant trees, worship Lord Vishnu, perform Pitra Tarpan."
+    },
+    {
+      "id": 70,
+      "symbol": "snow",
+      "hindi_name": "बर्फ़",
+      "meaning": "Snow represents coldness, purity, and frozen emotions.",
+      "astrological_interpretation": "Saturn and Moon; emotional coldness, isolation, and purity.",
+      "positive_outcome": "Playing in snow - joy, purity, overcoming cold phases.",
+      "negative_outcome": "Trapped in snow - emotional freezing, isolation, harsh conditions.",
+      "remedy": "Keep warm, worship Lord Shiva, connect with loved ones."
+    },
+    {
+      "id": 71,
+      "symbol": "fireworks",
+      "hindi_name": "आतिशबाज़ी",
+      "meaning": "Fireworks represent sudden bursts of energy, celebration, and fleeting success.",
+      "astrological_interpretation": "Mars and Rahu; sudden explosive energy and short-lived fame.",
+      "positive_outcome": "Beautiful fireworks - celebration, sudden success, joy.",
+      "negative_outcome": "Dangerous fireworks - sudden anger, explosive situations, short-lived gains.",
+      "remedy": "Practice patience, chant Hanuman Chalisa, avoid impulsive actions."
+    },
+    {
+      "id": 72,
+      "symbol": "volcano",
+      "hindi_name": "ज्वालामुखी",
+      "meaning": "Volcanoes represent repressed anger, built-up pressure, and sudden release.",
+      "astrological_interpretation": "Mars and Pluto; intense suppressed energy and sudden transformation.",
+      "positive_outcome": "Dormant volcano - controlled energy, potential for creation.",
+      "negative_outcome": "Erupting volcano - explosive anger, sudden destructive events, emotional outburst.",
+      "remedy": "Practice anger management, worship Lord Shiva, chant Mahamrityunjaya."
+    },
+    {
+      "id": 73,
+      "symbol": "knife",
+      "hindi_name": "चाकू",
+      "meaning": "Knives represent cutting ties, conflict, and surgical precision.",
+      "astrological_interpretation": "Mars and Saturn; severing, conflict, and sharp focus.",
+      "positive_outcome": "Using knife to cut - severing bad ties, precision in work.",
+      "negative_outcome": "Being attacked - conflict, betrayal, sudden danger.",
+      "remedy": "Chant Durga Mantra, avoid arguments, practice non-violence."
+    },
+    {
+      "id": 74,
+      "symbol": "sword",
+      "hindi_name": "तलवार",
+      "meaning": "Swords represent power, justice, and protection.",
+      "astrological_interpretation": "Mars and Sun; authority, justice, and warrior energy.",
+      "positive_outcome": "Wielding a sword - leadership, overcoming enemies, justice.",
+      "negative_outcome": "Injured by sword - defeat, conflict, misuse of power.",
+      "remedy": "Worship Goddess Durga, chant Kali Mantra, stand up for justice."
+    },
+    {
+      "id": 75,
+      "symbol": "gun",
+      "hindi_name": "बंदूक",
+      "meaning": "Guns represent aggression, defense, and sudden attack.",
+      "astrological_interpretation": "Rahu and Mars; sudden violence and modern conflict.",
+      "positive_outcome": "Using gun for protection - defending oneself, setting boundaries.",
+      "negative_outcome": "Being shot - sudden attack, feeling victimized, health issues.",
+      "remedy": "Practice non-violence, chant Hanuman Chalisa, stay away from conflicts."
+    },
+    {
+      "id": 76,
+      "symbol": "school",
+      "hindi_name": "विद्यालय",
+      "meaning": "Schools represent learning, discipline, and childhood issues.",
+      "astrological_interpretation": "Mercury and Jupiter; learning, wisdom, and early karma.",
+      "positive_outcome": "Happy school environment - learning new things, growth.",
+      "negative_outcome": "Strict or failing school - feelings of inadequacy, unresolved childhood issues.",
+      "remedy": "Worship Goddess Saraswati, continue learning, heal inner child."
+    },
+    {
+      "id": 77,
+      "symbol": "hospital",
+      "hindi_name": "अस्पताल",
+      "meaning": "Hospitals represent healing, vulnerability, and health concerns.",
+      "astrological_interpretation": "Saturn and Ketu; illness, healing, and karmic purification.",
+      "positive_outcome": "Leaving hospital - recovery, healing, overcoming health issues.",
+      "negative_outcome": "Trapped or sick in hospital - health crises, fear of illness.",
+      "remedy": "Donate medicines, chant Mahamrityunjaya Mantra, take care of health."
+    },
+    {
+      "id": 78,
+      "symbol": "prison",
+      "hindi_name": "जेल",
+      "meaning": "Prisons represent restriction, feeling trapped, and karmic punishment.",
+      "astrological_interpretation": "Saturn and Rahu; confinement, karmic debts, and restriction.",
+      "positive_outcome": "Escaping prison - freeing oneself, overcoming restrictions.",
+      "negative_outcome": "Trapped in prison - feeling stuck, karmic punishment, restriction.",
+      "remedy": "Chant Hanuman Chalisa, practice discipline, accept responsibilities."
+    },
+    {
+      "id": 79,
+      "symbol": "ghost",
+      "hindi_name": "भूत",
+      "meaning": "Ghosts represent past traumas, unresolved issues, and fears.",
+      "astrological_interpretation": "Rahu and Ketu; past life karma, unresolved traumas, and occult fears.",
+      "positive_outcome": "Ghost blessing or leaving - resolving past issues, moving on.",
+      "negative_outcome": "Ghost attacking - past traumas haunting, unresolved fears, health issues.",
+      "remedy": "Worship Lord Shiva, chant Kali Mantra, perform ancestral rituals."
+    },
+    {
+      "id": 80,
+      "symbol": "angel",
+      "hindi_name": "देवदूत",
+      "meaning": "Angels represent divine help, protection, and guidance.",
+      "astrological_interpretation": "Jupiter and Venus; divine grace, protection, and spiritual help.",
+      "positive_outcome": "Seeing an angel - divine protection, guidance, hope.",
+      "negative_outcome": "Falling angel - loss of guidance, spiritual crisis.",
+      "remedy": "Pray regularly, practice charity, help the needy."
+    },
+    {
+      "id": 81,
+      "symbol": "god",
+      "hindi_name": "भगवान",
+      "meaning": "Seeing God represents divine connection, supreme blessings, and ultimate truth.",
+      "astrological_interpretation": "Jupiter and Sun; divine grace, spiritual awakening, and dharma.",
+      "positive_outcome": "God blessing you - supreme grace, spiritual enlightenment, ultimate success.",
+      "negative_outcome": "God angry - karmic correction, feeling disconnected from dharma.",
+      "remedy": "Practice devotion, meditate, follow righteous path."
+    },
+    {
+      "id": 82,
+      "symbol": "crossroad",
+      "hindi_name": "चौराहा",
+      "meaning": "Crossroads represent choices, decisions, and life direction.",
+      "astrological_interpretation": "Mercury and Saturn; decision-making, karmic paths, and destiny.",
+      "positive_outcome": "Choosing right path - making good decisions, clarity.",
+      "negative_outcome": "Confused at crossroad - indecision, fear of making wrong choice.",
+      "remedy": "Worship Lord Ganesha, meditate for clarity, chant Guru Mantra."
+    },
+    {
+      "id": 83,
+      "symbol": "music",
+      "hindi_name": "संगीत",
+      "meaning": "Music represents harmony, emotional expression, and spiritual vibration.",
+      "astrological_interpretation": "Venus and Moon; harmony, emotional resonance, and arts.",
+      "positive_outcome": "Beautiful music - joy, harmony, spiritual elevation.",
+      "negative_outcome": "Harsh music - discord, emotional disturbance, noise.",
+      "remedy": "Listen to devotional music, chant mantras, worship Goddess Saraswati."
+    },
+    {
+      "id": 84,
+      "symbol": "dance",
+      "hindi_name": "नृत्य",
+      "meaning": "Dance represents joy, expression, and the rhythm of life.",
+      "astrological_interpretation": "Venus and Mars; creative expression, energy, and harmony.",
+      "positive_outcome": "Dancing joyfully - celebration, creative expression, freedom.",
+      "negative_outcome": "Forced dance - feeling forced to comply, lack of rhythm in life.",
+      "remedy": "Express emotions freely, worship Nataraja (Lord Shiva)."
+    },
+    {
+      "id": 85,
+      "symbol": "swimming",
+      "hindi_name": "तैरना",
+      "meaning": "Swimming represents navigating emotions, endurance, and adaptability.",
+      "astrological_interpretation": "Moon and Mars; emotional strength and overcoming obstacles.",
+      "positive_outcome": "Swimming easily - emotional balance, navigating life smoothly.",
+      "negative_outcome": "Struggling to swim - emotional exhaustion, feeling overwhelmed.",
+      "remedy": "Wear pearl, worship Varuna Dev, practice emotional resilience."
+    },
+    {
+      "id": 86,
+      "symbol": "running",
+      "hindi_name": "दौड़ना",
+      "meaning": "Running represents chasing goals, avoiding issues, or urgency.",
+      "astrological_interpretation": "Mars and Rahu; speed, urgency, and ambition.",
+      "positive_outcome": "Running fast and winning - achieving goals, high energy, success.",
+      "negative_outcome": "Running away - avoidance, fear, running out of time.",
+      "remedy": "Face challenges directly, chant Hanuman Chalisa, set realistic goals."
+    },
+    {
+      "id": 87,
+      "symbol": "crying",
+      "hindi_name": "रोना",
+      "meaning": "Crying represents emotional release, grief, and cleansing.",
+      "astrological_interpretation": "Moon and Saturn; emotional sorrow, release, and karmic cleansing.",
+      "positive_outcome": "Crying tears of joy - emotional healing, relief, happiness.",
+      "negative_outcome": "Crying in pain - deep sorrow, suppressed emotions, grief.",
+      "remedy": "Express emotions, worship Lord Shiva, practice self-compassion."
+    },
+    {
+      "id": 88,
+      "symbol": "laughing",
+      "hindi_name": "हँसना",
+      "meaning": "Laughing represents joy, relief, and social connection.",
+      "astrological_interpretation": "Venus and Jupiter; joy, expansion, and positivity.",
+      "positive_outcome": "Laughing happily - joy, good news, positive outcomes.",
+      "negative_outcome": "Mocking laugh - insecurity, fear of being mocked, false friends.",
+      "remedy": "Maintain positivity, practice gratitude, spread joy."
+    },
+    {
+      "id": 89,
+      "symbol": "painting",
+      "hindi_name": "चित्रकला",
+      "meaning": "Painting represents creativity, self-expression, and creating reality.",
+      "astrological_interpretation": "Venus and Mercury; artistic expression, creativity, and manifestation.",
+      "positive_outcome": "Beautiful painting - creative success, manifesting desires.",
+      "negative_outcome": "Destroyed painting - lost creativity, blocked expression.",
+      "remedy": "Pursue creative hobbies, worship Maa Saraswati, express yourself."
+    },
+    {
+      "id": 90,
+      "symbol": "shadow",
+      "hindi_name": "परछाई",
+      "meaning": "Shadows represent hidden aspects of self, fear, and the subconscious.",
+      "astrological_interpretation": "Rahu and Ketu; hidden karma, subconscious mind, and unseen forces.",
+      "positive_outcome": "Embracing shadow - self-acceptance, integrating hidden aspects.",
+      "negative_outcome": "Shadow chasing - fear of self, avoiding hidden truths, anxiety.",
+      "remedy": "Practice self-introspection, chant Om Namah Shivaya, face inner fears."
+    },
+    {
+      "id": 91,
+      "symbol": "cage",
+      "hindi_name": "पिंजरा",
+      "meaning": "Cages represent restriction, feeling trapped, and limitations.",
+      "astrological_interpretation": "Saturn and Rahu; confinement, restriction, and karmic boundaries.",
+      "positive_outcome": "Escaping cage - freedom, breaking limitations, liberation.",
+      "negative_outcome": "Trapped in cage - feeling stuck, restricted, lack of freedom.",
+      "remedy": "Free birds, chant Hanuman Chalisa, practice independence."
+    },
+    {
+      "id": 92,
+      "symbol": "well",
+      "hindi_name": "कुआं",
+      "meaning": "Wells represent deep emotions, the subconscious, and hidden resources.",
+      "astrological_interpretation": "Moon and Ketu; deep subconscious, hidden wealth, and emotional depth.",
+      "positive_outcome": "Clean well with water - emotional depth, finding hidden resources.",
+      "negative_outcome": "Dry or deep dark well - emotional emptiness, fear of the unknown.",
+      "remedy": "Meditate, worship Lord Vishnu, explore inner self."
+    },
+    {
+      "id": 93,
+      "symbol": "umbrella",
+      "hindi_name": "छाता",
+      "meaning": "Umbrellas represent protection, shelter, and avoiding emotional overwhelm.",
+      "astrological_interpretation": "Saturn and Jupiter; protection, shelter, and karmic shield.",
+      "positive_outcome": "Umbrella protecting - safety, shielding from negativity.",
+      "negative_outcome": "Broken umbrella - vulnerability, lack of protection.",
+      "remedy": "Donate umbrellas, protect those in need, chant Hanuman Mantra."
+    },
+    {
+      "id": 94,
+      "symbol": "lock",
+      "hindi_name": "ताला",
+      "meaning": "Locks represent secrets, restrictions, and guarded emotions.",
+      "astrological_interpretation": "Saturn influence; security, boundaries, and hidden matters.",
+      "positive_outcome": "Unlocking a lock - revealing secrets, opening up, finding solutions.",
+      "negative_outcome": "Unable to open - feeling blocked, keeping too many secrets, isolation.",
+      "remedy": "Be honest, chant Hanuman Chalisa, open up to trusted ones."
+    },
+    {
+      "id": 95,
+      "symbol": "stairs",
+      "hindi_name": "सीढ़ियाँ",
+      "meaning": "Stairs represent progress, step-by-step growth, and transitions.",
+      "astrological_interpretation": "Jupiter and Saturn; gradual progress, karmic steps, and spiritual ascent.",
+      "positive_outcome": "Climbing stairs - success, spiritual growth, achieving goals step by step.",
+      "negative_outcome": "Falling down stairs - setbacks, failures, loss of status.",
+      "remedy": "Worship Lord Vishnu, take steady steps toward goals, practice patience."
+    },
+    {
+      "id": 96,
+      "symbol": "elevator",
+      "hindi_name": "लिफ्ट",
+      "meaning": "Elevators represent rapid changes in status, consciousness, or life phases.",
+      "astrological_interpretation": "Rahu and Jupiter; sudden elevation or fall, rapid shifts.",
+      "positive_outcome": "Going up smoothly - sudden success, rapid spiritual growth.",
+      "negative_outcome": "Falling elevator - sudden loss, fear of failure, loss of control.",
+      "remedy": "Stay grounded, wear silver, chant Surya Mantra."
+    },
+    {
+      "id": 97,
+      "symbol": "map",
+      "hindi_name": "नक्शा",
+      "meaning": "Maps represent direction, planning, and finding one's way.",
+      "astrological_interpretation": "Mercury and Jupiter; guidance, planning, and life path.",
+      "positive_outcome": "Reading a clear map - clarity, knowing direction, good planning.",
+      "negative_outcome": "Lost map - feeling directionless, confusion, lack of planning.",
+      "remedy": "Seek Guru's guidance, plan ahead, chant Saraswati Mantra."
+    },
+    {
+      "id": 98,
+      "symbol": "compass",
+      "hindi_name": "कुतुबनुमा",
+      "meaning": "Compass represents moral direction, purpose, and guidance.",
+      "astrological_interpretation": "Jupiter and Sun; dharma, purpose, and inner guidance.",
+      "positive_outcome": "Compass pointing clear - knowing purpose, right direction.",
+      "negative_outcome": "Broken compass - loss of purpose, moral confusion.",
+      "remedy": "Follow dharma, chant Gayatri Mantra, seek truth."
+    },
+    {
+      "id": 99,
+      "symbol": "statue",
+      "hindi_name": "मूर्ति",
+      "meaning": "Statues represent fixed ideas, idolization, and immovable objects.",
+      "astrological_interpretation": "Saturn and Venus; rigid beliefs, devotion, and material form.",
+      "positive_outcome": "Beautiful deity statue - spiritual connection, devotion.",
+      "negative_outcome": "Broken statue - shattered beliefs, loss of faith, rigid mindset.",
+      "remedy": "Visit temples, practice flexibility, worship Lord Ganesha."
+    },
+    {
+      "id": 100,
+      "symbol": "crown",
+      "hindi_name": "मुकुट",
+      "meaning": "Crowns represent authority, power, and achievement.",
+      "astrological_interpretation": "Sun and Jupiter; authority, kingship, and supreme achievement.",
+      "positive_outcome": "Wearing a crown - success, authority, recognition, leadership.",
+      "negative_outcome": "Heavy or falling crown - burden of responsibility, loss of power.",
+      "remedy": "Take responsibility, chant Surya Mantra, respect authority."
+    }
+  ]
+}

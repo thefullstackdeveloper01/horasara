@@ -1,0 +1,8 @@
+document.addEventListener('DOMContentLoaded',()=>{
+  const {$,esc}=window.HoraSaarUI; const {PREFS,PERIODS,render}=window.HoraSaarPredictionView;
+  let pref=localStorage.getItem('jv-pref')||'general', period=localStorage.getItem('jv-period')||'day';
+  const choices=()=>{ $('preferences').innerHTML=Object.entries(PREFS).map(([k,v])=>`<button class="choice-pill ${k===pref?'selected':''}" data-pref="${k}" type="button">${esc(v)}</button>`).join(''); $('periods').innerHTML=Object.entries(PERIODS).map(([k,v])=>`<button class="choice-pill ${k===period?'selected':''}" data-period="${k}" type="button">${esc(v)}</button>`).join(''); document.querySelectorAll('[data-pref]').forEach(b=>b.onclick=()=>{pref=b.dataset.pref;localStorage.setItem('jv-pref',pref);choices();}); document.querySelectorAll('[data-period]').forEach(b=>b.onclick=()=>{period=b.dataset.period;localStorage.setItem('jv-period',period);choices();});};
+  choices();
+  async function load(){let birth=null;try{birth=JSON.parse(sessionStorage.getItem('jv:lastBirth')||'null')}catch{} if(!birth){$('forecastApp').innerHTML='<section class="summary-card"><h2>Add your birth details first</h2><p class="section-note">Create your forecast from the main HoraSaar page.</p><a class="btn primary" href="/">Enter birth details</a></section>';return;} $('status').textContent='Building your prediction…'; try{const r=await fetch('/prediction',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({birth,preference:pref,period,tz:birth.tz})});const d=await r.json();if(!r.ok)throw Error(d.message||'Prediction failed');render($('forecastApp'),d.prediction,pref);$('status').textContent='';}catch(e){$('status').textContent=e.message;}}
+  $('refresh').onclick=load; load();
+});

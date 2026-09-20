@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "152__chara_json",
+    "name": "chara",
+    "original_file": "chara.json",
+    "dataset_number": "82 of 455",
+    "format": "json",
+    "source_readable_file": "chara.txt",
+    "source_sha256": "48e8963371c616f7efe6a285292541c9e515c6f1db844a886cc674e93fb56c2b",
+    "source_bytes": 368
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "SIDEREAL_YEAR": 365.25
+    }
+  }
+}

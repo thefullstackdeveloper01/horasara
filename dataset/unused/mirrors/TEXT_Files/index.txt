@@ -1,0 +1,59 @@
+READABLE DATASET
+================================================================================
+Original file: index.json
+Dataset number: 136 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 633 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• EXTENDED_CALCULATION_KEYS:
+  1.
+    kpAdvanced
+• EXTENDED_PREDICTION_KEYS:
+  1.
+    futureForecast
+  2.
+    lifePhaseStrategy
+  3.
+    birthToNowTimeline
+  4.
+    dailyHoroscopeExt
+  5.
+    monthlyForecast
+  6.
+    lifePredictions
+  7.
+    careerDNA
+  8.
+    financialAstrology
+  9.
+    relationshipArchitecture
+  10.
+    medicalAstrology
+  11.
+    nakshatraPersonality
+  12.
+    karmicBlueprint
+  13.
+    planetaryActivators
+  14.
+    geographicAstrology
+  15.
+    birthTimeSensitivity
+  16.
+    specialLagnasReport
+  17.
+    conflictResolution
+  18.
+    finalLifeVerdict
+  19.
+    advancedRemedies
+  20.
+    panchPakshi
+  21.
+    executiveSummary
+  22.
+    aiSynthesis

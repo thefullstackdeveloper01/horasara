@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "148__chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva_json",
+    "name": "Chandra Gyana Agama English Translation By Rama Ghose Sanskrit Text Edited By Vrajavallabha Dwivedi Shiva Bharati Shodha Pratishtanam, Varanasi",
+    "original_file": "chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.json",
+    "dataset_number": "78 of 455",
+    "format": "json",
+    "source_readable_file": "chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.txt",
+    "source_sha256": "5ded284707b422d7a2ecfabedbf71e1d4beed03406fd0f6a1f6c0728cc8ccbf4",
+    "source_bytes": 1711
+  },
+  "metadata": {
+    "title": "Chandra Gyana Agama English Translation By Rama Ghose Sanskrit Text Edited By Vrajavallabha Dwivedi Shiva Bharati Shodha Pratishtanam, Varanasi",
+    "creator": "eGangotri",
+    "description": "Jangamwadi Math Collection, 'Chandra Gyana Agama English Translation by Rama Ghose Sanskrit Text Edited by Vrajavallabha Dwivedi - Shiva Bharati Shodha Pratishtanam, Varanasi'"
+  },
+  "content": {
+    "type": "object",
+    "data": {
+      "title": "Chandra Gyana Agama English Translation By Rama Ghose Sanskrit Text Edited By Vrajavallabha Dwivedi Shiva Bharati Shodha Pratishtanam, Varanasi",
+      "creator": "eGangotri",
+      "date": null,
+      "description": "Jangamwadi Math Collection, 'Chandra Gyana Agama English Translation by Rama Ghose Sanskrit Text Edited by Vrajavallabha Dwivedi - Shiva Bharati Shodha Pratishtanam, Varanasi'",
+      "subject": {
+        "_items": [
+          {
+            "_text": [
+              "eGangotri-36"
+            ]
+          },
+          {
+            "_text": [
+              "Jangamwadi Math"
+            ]
+          },
+          {
+            "_text": [
+              "Jangamwadi Math Library Collection"
+            ]
+          },
+          {
+            "_text": [
+              "जंगमवाड़ी मठ"
+            ]
+          },
+          {
+            "_text": [
+              "Jangamwadi Math Printed Books Collection"
+            ]
+          },
+          {
+            "_text": [
+              "Jangamwadi Hindi"
+            ]
+          }
+        ]
+      },
+      "identifier": "wlba_chandra-gyana-agama-english-translation-by-rama-ghose-sanskrit-text-edited-by-vr",
+      "source_folder": "wlba_chandra-gyana-agama-english-translation-by-rama-ghose-sanskrit-text-edited-by-vr",
+      "text": null,
+      "note": "OCR text not available for this item in the source archive"
+    }
+  }
+}

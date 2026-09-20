@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "316__planetarymastertable_json",
+    "name": "planetaryMasterTable",
+    "original_file": "planetaryMasterTable.json",
+    "dataset_number": "314 of 455",
+    "format": "json",
+    "source_readable_file": "planetaryMasterTable.txt",
+    "source_sha256": "69d6e74e3dd0f465e1c6acc83669850bb222c696cb5ada76a96ad2b94d8f0bff",
+    "source_bytes": 662
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "TRUE_GRAHAS": {
+        "_items": [
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          }
+        ]
+      },
+      "ECLIPSE_APPLICABLE": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          }
+        ]
+      },
+      "CLASSICAL_GRAHAS": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

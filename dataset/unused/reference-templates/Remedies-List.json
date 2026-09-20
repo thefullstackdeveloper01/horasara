@@ -1,0 +1,20 @@
+[
+  {
+    "id": "remedy_001",
+    "affected_planet": "Mars (Mangal)",
+    "problem": "Manglik Dosha, anger issues, marital discord, accidents.",
+    "remedy_type": "Donation (Daan)",
+    "remedy_items": ["Red Masoor Dal", "Copper", "Red Cloth", "Jaggery"],
+    "best_day": "Tuesday",
+    "instructions": "Donate the items to a Sweeper or a laborer before sunset on Tuesday."
+  },
+  {
+    "id": "remedy_002",
+    "affected_planet": "Rahu",
+    "problem": "Illusion, sudden losses, addiction, snake bite fear.",
+    "remedy_type": "Feeding (Bhojan)",
+    "remedy_items": ["Mustard Oil", "Black Sesame Seeds", "Leaves of Shami tree"],
+    "best_day": "Saturday",
+    "instructions": "Offer mustard oil in a broken earthen pot at a crossroad or Peepal tree."
+  }
+]

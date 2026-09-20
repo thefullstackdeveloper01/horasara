@@ -1,0 +1,21 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v13/master-evidence-contract.json
+Dataset number: 417 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 364 bytes
+Top-level fields: 4
+Title: Master Evidence Completion Contract
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 13.0.0
+• title: Master Evidence Completion Contract
+• targets:
+  • verifiedCharts: 1000
+  • verifiedOutcomes: 1000
+  • benchmarkCases: 250
+  • independentEngines: 3
+  • predictionFolds: 5
+• rule: 100/100 empirical completion is granted only when all targets are met with independently verified records; no fabricated records or competitor outputs are permitted.

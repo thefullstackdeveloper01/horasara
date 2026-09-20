@@ -1,0 +1,888 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "145__career_prediction_rules_json",
+    "name": "career_prediction_rules",
+    "original_file": "career_prediction_rules.json",
+    "dataset_number": "75 of 455",
+    "format": "json",
+    "source_readable_file": "career_prediction_rules.txt",
+    "source_sha256": "93ff0215479ce6864ec7e37f40359e009c0f68ad6ba8fd3b86d7f6306556afb2",
+    "source_bytes": 7695
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "_items": [
+        {
+          "rule_id": 1,
+          "category": "Career Identification",
+          "primary_indicator": "10th house and its lord",
+          "rule": "Sign on 10th cusp and its lord's nature, position, and aspects determine career field",
+          "planet_career_mapping": {
+            "Sun": {
+              "_items": [
+                {
+                  "_text": [
+                    "Government"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Administration"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Politics"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Gold trade"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Healthcare (heart)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Management"
+                  ]
+                }
+              ]
+            },
+            "Moon": {
+              "_items": [
+                {
+                  "_text": [
+                    "Hospitality"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Nursing"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Public relations"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Agriculture"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Food industry"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Import-export"
+                  ]
+                }
+              ]
+            },
+            "Mars": {
+              "_items": [
+                {
+                  "_text": [
+                    "Military"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Police"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Engineering"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Surgery"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Sports"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Real estate"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Construction"
+                  ]
+                }
+              ]
+            },
+            "Mercury": {
+              "_items": [
+                {
+                  "_text": [
+                    "IT"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Accounting"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Writing"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Teaching"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Trade"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Consulting"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Media"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Mathematics"
+                  ]
+                }
+              ]
+            },
+            "Jupiter": {
+              "_items": [
+                {
+                  "_text": [
+                    "Teaching"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Law"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Finance"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Consulting"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Religion"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Publishing"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Counseling"
+                  ]
+                }
+              ]
+            },
+            "Venus": {
+              "_items": [
+                {
+                  "_text": [
+                    "Arts"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Music"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Entertainment"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Fashion"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Cosmetics"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Diplomacy"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Luxury goods"
+                  ]
+                }
+              ]
+            },
+            "Saturn": {
+              "_items": [
+                {
+                  "_text": [
+                    "Mining"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Construction"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Labor"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Politics"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Agriculture"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Heavy industry"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Judiciary"
+                  ]
+                }
+              ]
+            },
+            "Rahu": {
+              "_items": [
+                {
+                  "_text": [
+                    "Technology"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Foreign service"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Mass media"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Research"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Politics"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Unconventional fields"
+                  ]
+                }
+              ]
+            },
+            "Ketu": {
+              "_items": [
+                {
+                  "_text": [
+                    "Spirituality"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Occult"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Research"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Surgery"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Military (covert)"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Astrology"
+                  ]
+                }
+              ]
+            }
+          },
+          "strength_required": "10th lord must be strong (in own/exalted/friendly sign) for professional success",
+          "source": "BPHS, Phaladeepika"
+        },
+        {
+          "rule_id": 2,
+          "category": "Career Timing",
+          "primary_indicator": "10th lord Dasha",
+          "rule": "Significant career events occur during Dasha of 10th lord, Sun, or strong planet in 10th house",
+          "dasha_triggers": {
+            "_items": [
+              {
+                "_text": [
+                  "10th lord Dasha"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun Dasha (career/authority)"
+                ]
+              },
+              {
+                "_text": [
+                  "Planet in 10th house Dasha"
+                ]
+              },
+              {
+                "_text": [
+                  "Lagna lord Dasha (self-initiative)"
+                ]
+              }
+            ]
+          },
+          "transit_triggers": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter transiting 10th house"
+                ]
+              },
+              {
+                "_text": [
+                  "Jupiter aspecting 10th lord"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn completing Sade Sati"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu in 10th (sudden career change)"
+                ]
+              }
+            ]
+          },
+          "source": "Uttara Kalamrita, BPHS"
+        },
+        {
+          "rule_id": 3,
+          "category": "Government Service",
+          "primary_indicator": "Sun + 10th house",
+          "rule": "Sun strong in 10th, or Sun conjunct 10th lord, or Leo on 10th cusp = government career",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun in 1st, 4th, 7th, or 10th houses"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun exalted (Aries)"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun in Leo"
+                ]
+              },
+              {
+                "_text": [
+                  "Mars assisting Sun"
+                ]
+              }
+            ]
+          },
+          "challenging_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Sun in 6th or 12th"
+                ]
+              },
+              {
+                "_text": [
+                  "Sun debilitated (Libra)"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn heavily afflicting Sun"
+                ]
+              }
+            ]
+          },
+          "example": "Aries lagna: Sun (5th lord) in 10th house = government or politics career",
+          "source": "Saravali, classical texts"
+        },
+        {
+          "rule_id": 4,
+          "category": "Business/Trade",
+          "primary_indicator": "Mercury + Venus + 2nd + 11th lords",
+          "rule": "Mercury or Venus strong in 2nd or 10th, with connection to 11th lord = business career",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Mercury in own sign (Gemini/Virgo)"
+                ]
+              },
+              {
+                "_text": [
+                  "Venus in 2nd or 11th"
+                ]
+              },
+              {
+                "_text": [
+                  "2nd and 11th lords in mutual aspect"
+                ]
+              }
+            ]
+          },
+          "career_fields": {
+            "_items": [
+              {
+                "_text": [
+                  "Trading"
+                ]
+              },
+              {
+                "_text": [
+                  "Commerce"
+                ]
+              },
+              {
+                "_text": [
+                  "Import/export"
+                ]
+              },
+              {
+                "_text": [
+                  "Entertainment business"
+                ]
+              },
+              {
+                "_text": [
+                  "Tech entrepreneurship"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS, traditional texts"
+        },
+        {
+          "rule_id": 5,
+          "category": "Arts and Entertainment",
+          "primary_indicator": "Venus + Moon + 5th house",
+          "rule": "Venus in 5th or 10th, Moon strong, 5th lord connected to 10th = arts/entertainment",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Venus in Taurus/Libra/Pisces"
+                ]
+              },
+              {
+                "_text": [
+                  "Moon in 5th or 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "5th and 10th lords exchanging"
+                ]
+              }
+            ]
+          },
+          "career_fields": {
+            "_items": [
+              {
+                "_text": [
+                  "Music"
+                ]
+              },
+              {
+                "_text": [
+                  "Dance"
+                ]
+              },
+              {
+                "_text": [
+                  "Acting"
+                ]
+              },
+              {
+                "_text": [
+                  "Film"
+                ]
+              },
+              {
+                "_text": [
+                  "Visual arts"
+                ]
+              },
+              {
+                "_text": [
+                  "Fashion"
+                ]
+              },
+              {
+                "_text": [
+                  "Design"
+                ]
+              }
+            ]
+          },
+          "source": "Phaladeepika"
+        },
+        {
+          "rule_id": 6,
+          "category": "Medicine/Healthcare",
+          "primary_indicator": "Mars + Saturn + 6th house",
+          "rule": "Mars (surgery), Saturn (chronic disease), or Ketu in 6th/8th/12th with strong Lagna = medical career",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Mars in 6th or 8th"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn in 6th"
+                ]
+              },
+              {
+                "_text": [
+                  "6th lord connected to 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "Strong Scorpio or Virgo"
+                ]
+              }
+            ]
+          },
+          "career_fields": {
+            "_items": [
+              {
+                "_text": [
+                  "Surgery"
+                ]
+              },
+              {
+                "_text": [
+                  "Medicine"
+                ]
+              },
+              {
+                "_text": [
+                  "Nursing"
+                ]
+              },
+              {
+                "_text": [
+                  "Pharmacy"
+                ]
+              },
+              {
+                "_text": [
+                  "Alternative healing"
+                ]
+              },
+              {
+                "_text": [
+                  "Psychiatry"
+                ]
+              }
+            ]
+          },
+          "source": "Brihat Jataka, Saravali"
+        },
+        {
+          "rule_id": 7,
+          "category": "Spiritual/Teaching",
+          "primary_indicator": "Jupiter + 9th house + Ketu",
+          "rule": "Jupiter strong in Kendra or Trikona, 9th lord in 10th, or Ketu in spiritual house = spiritual/teaching career",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter in own sign"
+                ]
+              },
+              {
+                "_text": [
+                  "9th and 10th lords exchanging"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu in 12th or 9th"
+                ]
+              },
+              {
+                "_text": [
+                  "Strong Sagittarius or Pisces"
+                ]
+              }
+            ]
+          },
+          "career_fields": {
+            "_items": [
+              {
+                "_text": [
+                  "Teaching"
+                ]
+              },
+              {
+                "_text": [
+                  "Religious leadership"
+                ]
+              },
+              {
+                "_text": [
+                  "Yoga/meditation teaching"
+                ]
+              },
+              {
+                "_text": [
+                  "Counseling"
+                ]
+              },
+              {
+                "_text": [
+                  "Philosophy"
+                ]
+              }
+            ]
+          },
+          "source": "BPHS, Uttara Kalamrita"
+        },
+        {
+          "rule_id": 8,
+          "category": "Technical/Engineering",
+          "primary_indicator": "Mars + Mercury + Saturn",
+          "rule": "Mars (technical skill), Mercury (precision), Saturn (structural work) combination with 10th house",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Mars in Gemini or Virgo"
+                ]
+              },
+              {
+                "_text": [
+                  "Mercury in Aries"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn-Mercury conjunction"
+                ]
+              }
+            ]
+          },
+          "career_fields": {
+            "_items": [
+              {
+                "_text": [
+                  "Civil engineering"
+                ]
+              },
+              {
+                "_text": [
+                  "Mechanical engineering"
+                ]
+              },
+              {
+                "_text": [
+                  "IT engineering"
+                ]
+              },
+              {
+                "_text": [
+                  "Architecture"
+                ]
+              },
+              {
+                "_text": [
+                  "Mathematics"
+                ]
+              }
+            ]
+          },
+          "source": "Traditional Jyotish"
+        },
+        {
+          "rule_id": 9,
+          "category": "Law and Justice",
+          "primary_indicator": "Saturn + Jupiter + 9th house",
+          "rule": "Jupiter (law, dharma) or Saturn (justice, discipline) connected to 9th and 10th houses",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Jupiter in 9th or 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "Saturn in 9th"
+                ]
+              },
+              {
+                "_text": [
+                  "Libra on 9th/10th cusp"
+                ]
+              }
+            ]
+          },
+          "career_fields": {
+            "_items": [
+              {
+                "_text": [
+                  "Law"
+                ]
+              },
+              {
+                "_text": [
+                  "Judiciary"
+                ]
+              },
+              {
+                "_text": [
+                  "Arbitration"
+                ]
+              },
+              {
+                "_text": [
+                  "Legal consulting"
+                ]
+              },
+              {
+                "_text": [
+                  "Government legal services"
+                ]
+              }
+            ]
+          },
+          "source": "Phaladeepika, classical texts"
+        },
+        {
+          "rule_id": 10,
+          "category": "Research/Science",
+          "primary_indicator": "Saturn + Rahu + 8th house",
+          "rule": "Saturn (deep analysis), Rahu (research, unconventional), 8th house (hidden knowledge) combination",
+          "supporting_factors": {
+            "_items": [
+              {
+                "_text": [
+                  "Saturn in 8th or 12th"
+                ]
+              },
+              {
+                "_text": [
+                  "Rahu in 3rd or 10th"
+                ]
+              },
+              {
+                "_text": [
+                  "Ketu with Mercury"
+                ]
+              }
+            ]
+          },
+          "career_fields": {
+            "_items": [
+              {
+                "_text": [
+                  "Scientific research"
+                ]
+              },
+              {
+                "_text": [
+                  "Chemistry"
+                ]
+              },
+              {
+                "_text": [
+                  "Physics"
+                ]
+              },
+              {
+                "_text": [
+                  "Occult research"
+                ]
+              },
+              {
+                "_text": [
+                  "Archaeology"
+                ]
+              },
+              {
+                "_text": [
+                  "Forensics"
+                ]
+              }
+            ]
+          },
+          "source": "Modern Jyotish interpretation"
+        }
+      ]
+    }
+  }
+}

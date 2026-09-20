@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: JSON_Files/Transit-Impact-Matrix.json
+Dataset number: 213 of 455
+Format: valid JSON
+Structure: List / record dataset
+Original size: 250 bytes
+Top-level records: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+TABLE (2 rows)
+transiting_planet | house_from_moon | prediction
+------------------------------------------------
+Jupiter | 5 | Birth of child, success in education, sudden wealth.
+Jupiter | 8 | Health issues, obstacles, loss of wealth.

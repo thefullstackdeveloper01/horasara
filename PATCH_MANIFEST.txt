@@ -1,0 +1,28 @@
+HoraSaar Deep Forecast + Panchang UX + i18n Patch v2
+
+Apply these files over the existing production codebase from:
+HoraSaar-1.0.0-Production-General-Forecast-NASA-SpaceFeed.zip
+
+Changes:
+1. Personal Overall Year forecast now includes:
+   Career, Business, Money, Love, Marriage, Health, Family,
+   Education, Travel, Property, Spiritual Growth.
+2. Each life area reuses the canonical UserPredictionService calculation layer.
+3. Overall year UI gets compact life-area cards with score/tone/explanation.
+4. Panchang UI is compact:
+   - five Panchanga limbs first
+   - sunrise/sunset
+   - important time windows
+   - Choghadiya and 24 Hora collapsed under More timings
+   - avoids raw JSON/object dumps.
+5. Navigation mobile menu is rebuilt when language changes.
+6. Core UI navigation/life-area/Panchang labels are integrated into the 14-language i18n catalog.
+7. Existing calculation engine and package dependencies are unchanged.
+8. No new third-party calculation npm dependency was added.
+
+Validation performed:
+- Master 80-section report regression: PASS
+- JS syntax checks: PASS
+- Navigation smoke checks: 21/21 HTTP 200
+- Panchang today/choghadiya/hora API smoke: PASS
+- Personal yearly forecast life-area coverage: 11/11 requested areas

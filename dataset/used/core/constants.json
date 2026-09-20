@@ -1,0 +1,2868 @@
+{
+  "ASHTAK_CONTRIBUTIONS": {
+    "Sun": {
+      "Sun": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Moon": [
+        3,
+        6,
+        10,
+        11
+      ],
+      "Mars": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Mercury": [
+        3,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12
+      ],
+      "Jupiter": [
+        5,
+        6,
+        9,
+        11
+      ],
+      "Venus": [
+        6,
+        7,
+        12
+      ],
+      "Saturn": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Lagna": [
+        3,
+        4,
+        6,
+        10,
+        11,
+        12
+      ]
+    },
+    "Moon": {
+      "Sun": [
+        3,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "Moon": [
+        1,
+        3,
+        6,
+        7,
+        10,
+        11
+      ],
+      "Mars": [
+        2,
+        3,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "Mercury": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11
+      ],
+      "Jupiter": [
+        1,
+        4,
+        7,
+        8,
+        10,
+        11,
+        12
+      ],
+      "Venus": [
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11
+      ],
+      "Saturn": [
+        3,
+        5,
+        6,
+        11
+      ],
+      "Lagna": [
+        3,
+        6,
+        10,
+        11
+      ]
+    },
+    "Mars": {
+      "Sun": [
+        3,
+        5,
+        6,
+        10,
+        11
+      ],
+      "Moon": [
+        3,
+        6,
+        11
+      ],
+      "Mars": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        10,
+        11
+      ],
+      "Mercury": [
+        3,
+        5,
+        6,
+        11
+      ],
+      "Jupiter": [
+        6,
+        10,
+        11,
+        12
+      ],
+      "Venus": [
+        6,
+        8,
+        11,
+        12
+      ],
+      "Saturn": [
+        1,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Lagna": [
+        1,
+        3,
+        6,
+        10,
+        11
+      ]
+    },
+    "Mercury": {
+      "Sun": [
+        5,
+        6,
+        9,
+        11,
+        12
+      ],
+      "Moon": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        11
+      ],
+      "Mars": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Mercury": [
+        1,
+        3,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12
+      ],
+      "Jupiter": [
+        6,
+        8,
+        11,
+        12
+      ],
+      "Venus": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        11
+      ],
+      "Saturn": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Lagna": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    "Jupiter": {
+      "Sun": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Moon": [
+        2,
+        5,
+        7,
+        9,
+        11
+      ],
+      "Mars": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        10,
+        11
+      ],
+      "Mercury": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "Jupiter": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        10,
+        11
+      ],
+      "Venus": [
+        2,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "Saturn": [
+        3,
+        5,
+        6,
+        12
+      ],
+      "Lagna": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    "Venus": {
+      "Sun": [
+        8,
+        11,
+        12
+      ],
+      "Moon": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12
+      ],
+      "Mars": [
+        3,
+        4,
+        6,
+        9,
+        11,
+        12
+      ],
+      "Mercury": [
+        3,
+        5,
+        6,
+        9,
+        11
+      ],
+      "Jupiter": [
+        5,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Venus": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Saturn": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11
+      ],
+      "Lagna": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        11
+      ]
+    },
+    "Saturn": {
+      "Sun": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        10,
+        11
+      ],
+      "Moon": [
+        3,
+        6,
+        11
+      ],
+      "Mars": [
+        3,
+        5,
+        6,
+        10,
+        11,
+        12
+      ],
+      "Mercury": [
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "Jupiter": [
+        5,
+        6,
+        11,
+        12
+      ],
+      "Venus": [
+        6,
+        11,
+        12
+      ],
+      "Saturn": [
+        3,
+        5,
+        6,
+        11
+      ],
+      "Lagna": [
+        1,
+        3,
+        4,
+        6,
+        10,
+        11
+      ]
+    }
+  },
+  "ASHTOTTARI_ORDER": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Saturn",
+    "Jupiter",
+    "Rahu",
+    "Venus"
+  ],
+  "ASHTOTTARI_YEARS": {
+    "Sun": 6,
+    "Moon": 15,
+    "Mars": 8,
+    "Mercury": 17,
+    "Saturn": 10,
+    "Jupiter": 19,
+    "Rahu": 12,
+    "Venus": 21
+  },
+  "BINDU_TABLE": {
+    "Sun": {
+      "1": 5,
+      "2": 6,
+      "3": 3,
+      "4": 5,
+      "5": 3,
+      "6": 2,
+      "7": 3,
+      "8": 0,
+      "9": 1,
+      "10": 0,
+      "11": 1,
+      "12": 4
+    },
+    "Moon": {
+      "1": 6,
+      "2": 6,
+      "3": 2,
+      "4": 2,
+      "5": 4,
+      "6": 1,
+      "7": 4,
+      "8": 1,
+      "9": 6,
+      "10": 1,
+      "11": 5,
+      "12": 6
+    },
+    "Mars": {
+      "1": 4,
+      "2": 5,
+      "3": 7,
+      "4": 2,
+      "5": 0,
+      "6": 5,
+      "7": 6,
+      "8": 3,
+      "9": 5,
+      "10": 0,
+      "11": 6,
+      "12": 0
+    },
+    "Mercury": {
+      "1": 5,
+      "2": 2,
+      "3": 1,
+      "4": 8,
+      "5": 7,
+      "6": 8,
+      "7": 0,
+      "8": 7,
+      "9": 1,
+      "10": 3,
+      "11": 8,
+      "12": 0
+    },
+    "Jupiter": {
+      "1": 5,
+      "2": 0,
+      "3": 6,
+      "4": 6,
+      "5": 7,
+      "6": 1,
+      "7": 7,
+      "8": 7,
+      "9": 0,
+      "10": 8,
+      "11": 1,
+      "12": 3
+    },
+    "Venus": {
+      "1": 6,
+      "2": 3,
+      "3": 0,
+      "4": 4,
+      "5": 4,
+      "6": 8,
+      "7": 0,
+      "8": 4,
+      "9": 0,
+      "10": 5,
+      "11": 2,
+      "12": 0
+    },
+    "Saturn": {
+      "1": 4,
+      "2": 7,
+      "3": 3,
+      "4": 6,
+      "5": 3,
+      "6": 8,
+      "7": 3,
+      "8": 2,
+      "9": 5,
+      "10": 8,
+      "11": 2,
+      "12": 7
+    },
+    "Rahu": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 0,
+      "6": 5,
+      "7": 0,
+      "8": 7,
+      "9": 6,
+      "10": 8,
+      "11": 0,
+      "12": 0
+    },
+    "Ketu": {
+      "1": 3,
+      "2": 6,
+      "3": 1,
+      "4": 4,
+      "5": 5,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 8,
+      "10": 6,
+      "11": 1,
+      "12": 0
+    }
+  },
+  "CHOGHADIYA_DAY": {
+    "0": [
+      "Udveg",
+      "Char",
+      "Labh",
+      "Amrit",
+      "Kaal",
+      "Shubh",
+      "Rog",
+      "Udveg"
+    ],
+    "1": [
+      "Amrit",
+      "Kaal",
+      "Shubh",
+      "Rog",
+      "Udveg",
+      "Char",
+      "Labh",
+      "Amrit"
+    ],
+    "2": [
+      "Rog",
+      "Udveg",
+      "Char",
+      "Labh",
+      "Amrit",
+      "Kaal",
+      "Shubh",
+      "Rog"
+    ],
+    "3": [
+      "Labh",
+      "Amrit",
+      "Kaal",
+      "Shubh",
+      "Rog",
+      "Udveg",
+      "Char",
+      "Labh"
+    ],
+    "4": [
+      "Shubh",
+      "Rog",
+      "Udveg",
+      "Char",
+      "Labh",
+      "Amrit",
+      "Kaal",
+      "Shubh"
+    ],
+    "5": [
+      "Char",
+      "Labh",
+      "Amrit",
+      "Kaal",
+      "Shubh",
+      "Rog",
+      "Udveg",
+      "Char"
+    ],
+    "6": [
+      "Kaal",
+      "Shubh",
+      "Rog",
+      "Udveg",
+      "Char",
+      "Labh",
+      "Amrit",
+      "Kaal"
+    ]
+  },
+  "CHOGHADIYA_INFO": {
+    "Amrit": {
+      "lord": "Moon",
+      "nature": "Excellent",
+      "work": "All auspicious works"
+    },
+    "Shubh": {
+      "lord": "Jupiter",
+      "nature": "Excellent",
+      "work": "Religious/spiritual work, investments"
+    },
+    "Labh": {
+      "lord": "Mercury",
+      "nature": "Good",
+      "work": "Business, buying/selling, trade"
+    },
+    "Char": {
+      "lord": "Venus",
+      "nature": "Good",
+      "work": "Travel, movement, arts"
+    },
+    "Udveg": {
+      "lord": "Sun",
+      "nature": "Bad",
+      "work": "Avoid new starts, government work only"
+    },
+    "Rog": {
+      "lord": "Mars",
+      "nature": "Bad",
+      "work": "Avoid all peaceful activities"
+    },
+    "Kaal": {
+      "lord": "Saturn",
+      "nature": "Very Bad",
+      "work": "Avoid everything important"
+    }
+  },
+  "CHOGHADIYA_NIGHT": {
+    "0": [
+      "Shubh",
+      "Amrit",
+      "Char",
+      "Rog",
+      "Kaal",
+      "Labh",
+      "Udveg",
+      "Shubh"
+    ],
+    "1": [
+      "Char",
+      "Rog",
+      "Kaal",
+      "Labh",
+      "Udveg",
+      "Shubh",
+      "Amrit",
+      "Char"
+    ],
+    "2": [
+      "Kaal",
+      "Labh",
+      "Udveg",
+      "Shubh",
+      "Amrit",
+      "Char",
+      "Rog",
+      "Kaal"
+    ],
+    "3": [
+      "Udveg",
+      "Shubh",
+      "Amrit",
+      "Char",
+      "Rog",
+      "Kaal",
+      "Labh",
+      "Udveg"
+    ],
+    "4": [
+      "Amrit",
+      "Char",
+      "Rog",
+      "Kaal",
+      "Labh",
+      "Udveg",
+      "Shubh",
+      "Amrit"
+    ],
+    "5": [
+      "Rog",
+      "Kaal",
+      "Labh",
+      "Udveg",
+      "Shubh",
+      "Amrit",
+      "Char",
+      "Rog"
+    ],
+    "6": [
+      "Labh",
+      "Udveg",
+      "Shubh",
+      "Amrit",
+      "Char",
+      "Rog",
+      "Kaal",
+      "Labh"
+    ]
+  },
+  "COMBUST_ORBS": {
+    "Moon": 12,
+    "Mars": 17,
+    "Mercury": {
+      "direct": 3,
+      "retro": 3,
+      "cazimi": 1
+    },
+    "Jupiter": 11,
+    "Venus": {
+      "direct": 10,
+      "retro": 8,
+      "cazimi": 0.5
+    },
+    "Saturn": 15
+  },
+  "DASHA_ORDER": [
+    "Ketu",
+    "Venus",
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury"
+  ],
+  "DASHA_YEARS": {
+    "Ketu": 7,
+    "Venus": 20,
+    "Sun": 6,
+    "Moon": 10,
+    "Mars": 7,
+    "Rahu": 18,
+    "Jupiter": 16,
+    "Saturn": 19,
+    "Mercury": 17
+  },
+  "DEBILITATION": {
+    "Sun": {
+      "sign": "Libra",
+      "deg": 10
+    },
+    "Moon": {
+      "sign": "Scorpio",
+      "deg": 3
+    },
+    "Mars": {
+      "sign": "Cancer",
+      "deg": 28
+    },
+    "Mercury": {
+      "sign": "Pisces",
+      "deg": 15
+    },
+    "Jupiter": {
+      "sign": "Capricorn",
+      "deg": 5
+    },
+    "Venus": {
+      "sign": "Virgo",
+      "deg": 27
+    },
+    "Saturn": {
+      "sign": "Aries",
+      "deg": 20
+    },
+    "Rahu": {
+      "sign": "Sagittarius",
+      "deg": 20
+    },
+    "Ketu": {
+      "sign": "Gemini",
+      "deg": 20
+    }
+  },
+  "DEFAULT_FALLBACK_PLACE": {
+    "name": "New Delhi, India",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "tz": 5.5
+  },
+  "DEFAULT_TZ_IST": 5.5,
+  "DIG_BALA_HOUSE": {
+    "Sun": 10,
+    "Moon": 4,
+    "Mars": 10,
+    "Mercury": 1,
+    "Jupiter": 1,
+    "Venus": 4,
+    "Saturn": 7
+  },
+  "EXALTATION": {
+    "Sun": {
+      "sign": "Aries",
+      "deg": 10
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "deg": 3
+    },
+    "Mars": {
+      "sign": "Capricorn",
+      "deg": 28
+    },
+    "Mercury": {
+      "sign": "Virgo",
+      "deg": 15
+    },
+    "Jupiter": {
+      "sign": "Cancer",
+      "deg": 5
+    },
+    "Venus": {
+      "sign": "Pisces",
+      "deg": 27
+    },
+    "Saturn": {
+      "sign": "Libra",
+      "deg": 20
+    },
+    "Rahu": {
+      "sign": "Gemini",
+      "deg": 20
+    },
+    "Ketu": {
+      "sign": "Sagittarius",
+      "deg": 20
+    }
+  },
+  "GANA": {
+    "Ashwini": "Deva",
+    "Bharani": "Manushya",
+    "Krittika": "Rakshasa",
+    "Rohini": "Manushya",
+    "Mrigashira": "Deva",
+    "Ardra": "Manushya",
+    "Punarvasu": "Deva",
+    "Pushya": "Deva",
+    "Ashlesha": "Rakshasa",
+    "Magha": "Rakshasa",
+    "Purva Phalguni": "Manushya",
+    "Uttara Phalguni": "Manushya",
+    "Hasta": "Deva",
+    "Chitra": "Rakshasa",
+    "Swati": "Deva",
+    "Vishakha": "Rakshasa",
+    "Anuradha": "Deva",
+    "Jyeshtha": "Rakshasa",
+    "Mula": "Rakshasa",
+    "Purva Ashadha": "Manushya",
+    "Uttara Ashadha": "Manushya",
+    "Shravana": "Deva",
+    "Dhanishtha": "Rakshasa",
+    "Shatabhisha": "Rakshasa",
+    "Purva Bhadrapada": "Manushya",
+    "Uttara Bhadrapada": "Manushya",
+    "Revati": "Deva"
+  },
+  "GEMSTONE_REMEDIES": {
+    "Sun": {
+      "gem": "Ruby (Manik)",
+      "metal": "Gold (24K)",
+      "mantra": "Om Hraam Hreem Hraum Sah Suryaya Namah",
+      "rudraksha": "1 Mukhi",
+      "day": "Sunday",
+      "color": "Red/Orange",
+      "fast": "Sunday"
+    },
+    "Moon": {
+      "gem": "Natural Pearl (Moti)",
+      "metal": "Silver",
+      "mantra": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+      "rudraksha": "2 Mukhi",
+      "day": "Monday",
+      "color": "White/Cream",
+      "fast": "Monday"
+    },
+    "Mars": {
+      "gem": "Red Coral (Moonga)",
+      "metal": "Gold/Copper",
+      "mantra": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+      "rudraksha": "3 Mukhi",
+      "day": "Tuesday",
+      "color": "Red/Scarlet",
+      "fast": "Tuesday"
+    },
+    "Mercury": {
+      "gem": "Emerald (Panna)",
+      "metal": "Gold",
+      "mantra": "Om Braam Breem Braum Sah Budhaya Namah",
+      "rudraksha": "4 Mukhi",
+      "day": "Wednesday",
+      "color": "Green",
+      "fast": "Wednesday"
+    },
+    "Jupiter": {
+      "gem": "Yellow Sapphire (Pukhraj)",
+      "metal": "Gold (22K+)",
+      "mantra": "Om Graam Greem Graum Sah Gurave Namah",
+      "rudraksha": "5 Mukhi",
+      "day": "Thursday",
+      "color": "Yellow/Gold",
+      "fast": "Thursday"
+    },
+    "Venus": {
+      "gem": "Diamond / White Sapphire (Heera/Safed Pukhraj)",
+      "metal": "Silver/Platinum",
+      "mantra": "Om Draam Dreem Draum Sah Shukraya Namah",
+      "rudraksha": "6 Mukhi",
+      "day": "Friday",
+      "color": "White/Pink",
+      "fast": "Friday"
+    },
+    "Saturn": {
+      "gem": "Blue Sapphire (Neelam)",
+      "metal": "Iron/Steel",
+      "mantra": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+      "rudraksha": "7 Mukhi",
+      "day": "Saturday",
+      "color": "Blue/Black",
+      "fast": "Saturday"
+    },
+    "Rahu": {
+      "gem": "Hessonite Garnet (Gomed)",
+      "metal": "Lead/Panchdhatu",
+      "mantra": "Om Raam Reem Raum Sah Rahave Namah",
+      "rudraksha": "8 Mukhi",
+      "day": "Saturday",
+      "color": "Smoky Brown",
+      "fast": "Saturday"
+    },
+    "Ketu": {
+      "gem": "Cat's Eye (Lehsunia/Vaidurya)",
+      "metal": "Iron/Panchdhatu",
+      "mantra": "Om Sraam Sreem Sraum Sah Ketave Namah",
+      "rudraksha": "9 Mukhi",
+      "day": "Tuesday",
+      "color": "Spotted/Mixed",
+      "fast": "Tuesday"
+    }
+  },
+  "GHATAK": {
+    "Aries": {
+      "day": "Saturday",
+      "nakshatra": "Rohini",
+      "rasi": "Capricorn",
+      "tithi": "Chaturthi"
+    },
+    "Taurus": {
+      "day": "Sunday",
+      "nakshatra": "Ardra",
+      "rasi": "Aquarius",
+      "tithi": "Saptami"
+    },
+    "Gemini": {
+      "day": "Monday",
+      "nakshatra": "Punarvasu",
+      "rasi": "Pisces",
+      "tithi": "Ekadashi"
+    },
+    "Cancer": {
+      "day": "Tuesday",
+      "nakshatra": "Ashlesha",
+      "rasi": "Aries",
+      "tithi": "Purnima"
+    },
+    "Leo": {
+      "day": "Wednesday",
+      "nakshatra": "Magha",
+      "rasi": "Taurus",
+      "tithi": "Dwitiya"
+    },
+    "Virgo": {
+      "day": "Thursday",
+      "nakshatra": "Chitra",
+      "rasi": "Gemini",
+      "tithi": "Panchami"
+    },
+    "Libra": {
+      "day": "Friday",
+      "nakshatra": "Vishakha",
+      "rasi": "Cancer",
+      "tithi": "Ashtami"
+    },
+    "Scorpio": {
+      "day": "Saturday",
+      "nakshatra": "Jyeshtha",
+      "rasi": "Leo",
+      "tithi": "Ekadashi"
+    },
+    "Sagittarius": {
+      "day": "Sunday",
+      "nakshatra": "Purva Ashadha",
+      "rasi": "Virgo",
+      "tithi": "Chaturdashi"
+    },
+    "Capricorn": {
+      "day": "Monday",
+      "nakshatra": "Shravana",
+      "rasi": "Libra",
+      "tithi": "Tritiya"
+    },
+    "Aquarius": {
+      "day": "Tuesday",
+      "nakshatra": "Shatabhisha",
+      "rasi": "Scorpio",
+      "tithi": "Saptami"
+    },
+    "Pisces": {
+      "day": "Wednesday",
+      "nakshatra": "Uttara Bhadrapada",
+      "rasi": "Sagittarius",
+      "tithi": "Dwadashi"
+    }
+  },
+  "GULIKA_PART": {
+    "Sunday": 7,
+    "Monday": 6,
+    "Tuesday": 5,
+    "Wednesday": 4,
+    "Thursday": 3,
+    "Friday": 2,
+    "Saturday": 1
+  },
+  "HORA_SEQUENCE": [
+    "Sun",
+    "Venus",
+    "Mercury",
+    "Moon",
+    "Saturn",
+    "Jupiter",
+    "Mars"
+  ],
+  "HOUSE_SIGNIFICATIONS": {
+    "1": {
+      "name": "Lagna (Ascendant)",
+      "areas": [
+        "Self",
+        "Body",
+        "Health",
+        "Personality",
+        "Vitality",
+        "Fame"
+      ]
+    },
+    "2": {
+      "name": "Dhana Bhava",
+      "areas": [
+        "Wealth",
+        "Family",
+        "Speech",
+        "Food",
+        "Eyes",
+        "Accumulated assets"
+      ]
+    },
+    "3": {
+      "name": "Sahaja Bhava",
+      "areas": [
+        "Siblings",
+        "Courage",
+        "Short travel",
+        "Right ear",
+        "Communication",
+        "Skills"
+      ]
+    },
+    "4": {
+      "name": "Sukha Bhava",
+      "areas": [
+        "Mother",
+        "Home",
+        "Happiness",
+        "Property",
+        "Heart",
+        "Vehicles",
+        "Education"
+      ]
+    },
+    "5": {
+      "name": "Putra Bhava",
+      "areas": [
+        "Children",
+        "Intelligence",
+        "Creativity",
+        "Romance",
+        "Speculation",
+        "Past karma"
+      ]
+    },
+    "6": {
+      "name": "Shatru Bhava",
+      "areas": [
+        "Enemies",
+        "Disease",
+        "Debts",
+        "Service",
+        "Daily routine",
+        "Legal disputes"
+      ]
+    },
+    "7": {
+      "name": "Kalatra Bhava",
+      "areas": [
+        "Spouse",
+        "Partnership",
+        "Business",
+        "Contracts",
+        "Foreign travel"
+      ]
+    },
+    "8": {
+      "name": "Randhra Bhava",
+      "areas": [
+        "Longevity",
+        "Death",
+        "Transformation",
+        "Inheritance",
+        "Occult",
+        "Surgery"
+      ]
+    },
+    "9": {
+      "name": "Dharma Bhava",
+      "areas": [
+        "Fortune",
+        "Father",
+        "Guru",
+        "Higher education",
+        "Pilgrimage",
+        "Long travel"
+      ]
+    },
+    "10": {
+      "name": "Karma Bhava",
+      "areas": [
+        "Career",
+        "Profession",
+        "Status",
+        "Authority",
+        "Government",
+        "Public image"
+      ]
+    },
+    "11": {
+      "name": "Labha Bhava",
+      "areas": [
+        "Income",
+        "Gains",
+        "Desires fulfilled",
+        "Elder siblings",
+        "Social circle"
+      ]
+    },
+    "12": {
+      "name": "Vyaya Bhava",
+      "areas": [
+        "Losses",
+        "Expenses",
+        "Foreign lands",
+        "Liberation",
+        "Bed pleasures",
+        "Hospitals"
+      ]
+    }
+  },
+  "JAIMINI_KARAKAS": {
+    "AK": "Atmakaraka (soul, self-realization)",
+    "AmK": "Amatyakaraka (career, profession)",
+    "BK": "Bhratrukaraka (siblings)",
+    "MK": "Matrukaraka (mother)",
+    "PK": "Putrakaraka (children)",
+    "GK": "Gnatikaraka (relations, disease)",
+    "DK": "Darakaraka (spouse)"
+  },
+  "KARANAS": [
+    "Bava",
+    "Balava",
+    "Kaulava",
+    "Taitila",
+    "Garija",
+    "Vanija",
+    "Vishti",
+    "Shakuni",
+    "Chatushpada",
+    "Naga",
+    "Kimstughna"
+  ],
+  "KARANA_NATURE": {
+    "Vishti": "Inauspicious",
+    "Shakuni": "Mixed",
+    "Chatushpada": "Mixed",
+    "Naga": "Inauspicious",
+    "Kimstughna": "Inauspicious"
+  },
+  "KOOTA_GANA_POINTS": {
+    "Deva-Deva": 6,
+    "Deva-Manushya": 5,
+    "Deva-Rakshasa": 1,
+    "Manushya-Deva": 5,
+    "Manushya-Manushya": 6,
+    "Manushya-Rakshasa": 0,
+    "Rakshasa-Deva": 1,
+    "Rakshasa-Manushya": 0,
+    "Rakshasa-Rakshasa": 6
+  },
+  "KOOTA_VARNA": {
+    "Brahmin": 4,
+    "Kshatriya": 3,
+    "Vaishya": 2,
+    "Shudra": 1
+  },
+  "LUCKY_DATA": {
+    "Aries": {
+      "numbers": [
+        9,
+        1,
+        3
+      ],
+      "evil": [
+        8,
+        6,
+        5
+      ],
+      "days": [
+        "Tuesday",
+        "Sunday"
+      ],
+      "metal": "Gold",
+      "stone": "Red Coral",
+      "color": "Red"
+    },
+    "Taurus": {
+      "numbers": [
+        6,
+        2,
+        5
+      ],
+      "evil": [
+        1,
+        8,
+        7
+      ],
+      "days": [
+        "Friday",
+        "Wednesday"
+      ],
+      "metal": "Silver",
+      "stone": "Diamond",
+      "color": "White"
+    },
+    "Gemini": {
+      "numbers": [
+        5,
+        3,
+        7
+      ],
+      "evil": [
+        2,
+        4,
+        9
+      ],
+      "days": [
+        "Wednesday",
+        "Friday"
+      ],
+      "metal": "Gold",
+      "stone": "Emerald",
+      "color": "Green"
+    },
+    "Cancer": {
+      "numbers": [
+        2,
+        4,
+        6
+      ],
+      "evil": [
+        1,
+        8,
+        5
+      ],
+      "days": [
+        "Monday",
+        "Thursday"
+      ],
+      "metal": "Silver",
+      "stone": "Pearl",
+      "color": "White"
+    },
+    "Leo": {
+      "numbers": [
+        1,
+        9,
+        4
+      ],
+      "evil": [
+        6,
+        5,
+        8
+      ],
+      "days": [
+        "Sunday",
+        "Tuesday"
+      ],
+      "metal": "Gold",
+      "stone": "Ruby",
+      "color": "Orange"
+    },
+    "Virgo": {
+      "numbers": [
+        5,
+        3,
+        7
+      ],
+      "evil": [
+        2,
+        4,
+        9
+      ],
+      "days": [
+        "Wednesday",
+        "Friday"
+      ],
+      "metal": "Gold",
+      "stone": "Emerald",
+      "color": "Green"
+    },
+    "Libra": {
+      "numbers": [
+        6,
+        2,
+        5
+      ],
+      "evil": [
+        1,
+        9,
+        8
+      ],
+      "days": [
+        "Friday",
+        "Saturday"
+      ],
+      "metal": "Silver",
+      "stone": "Diamond",
+      "color": "White"
+    },
+    "Scorpio": {
+      "numbers": [
+        9,
+        1,
+        3
+      ],
+      "evil": [
+        6,
+        5,
+        8
+      ],
+      "days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "metal": "Gold",
+      "stone": "Red Coral",
+      "color": "Red"
+    },
+    "Sagittarius": {
+      "numbers": [
+        3,
+        9,
+        1
+      ],
+      "evil": [
+        6,
+        5,
+        8
+      ],
+      "days": [
+        "Thursday",
+        "Sunday"
+      ],
+      "metal": "Gold",
+      "stone": "Yellow Sapphire",
+      "color": "Yellow"
+    },
+    "Capricorn": {
+      "numbers": [
+        8,
+        4,
+        6
+      ],
+      "evil": [
+        1,
+        2,
+        7
+      ],
+      "days": [
+        "Saturday",
+        "Friday"
+      ],
+      "metal": "Iron",
+      "stone": "Blue Sapphire",
+      "color": "Blue"
+    },
+    "Aquarius": {
+      "numbers": [
+        8,
+        4,
+        6
+      ],
+      "evil": [
+        1,
+        9,
+        5
+      ],
+      "days": [
+        "Saturday",
+        "Wednesday"
+      ],
+      "metal": "Iron",
+      "stone": "Blue Sapphire",
+      "color": "Blue"
+    },
+    "Pisces": {
+      "numbers": [
+        3,
+        7,
+        9
+      ],
+      "evil": [
+        4,
+        1,
+        8
+      ],
+      "days": [
+        "Thursday",
+        "Monday"
+      ],
+      "metal": "Gold",
+      "stone": "Yellow Sapphire",
+      "color": "Yellow"
+    }
+  },
+  "MOOLATRIKONA": {
+    "Sun": {
+      "sign": "Leo",
+      "from": 0,
+      "to": 20
+    },
+    "Moon": {
+      "sign": "Taurus",
+      "from": 4,
+      "to": 20
+    },
+    "Mars": {
+      "sign": "Aries",
+      "from": 0,
+      "to": 12
+    },
+    "Mercury": {
+      "sign": "Virgo",
+      "from": 16,
+      "to": 20
+    },
+    "Jupiter": {
+      "sign": "Sagittarius",
+      "from": 0,
+      "to": 10
+    },
+    "Venus": {
+      "sign": "Libra",
+      "from": 0,
+      "to": 15
+    },
+    "Saturn": {
+      "sign": "Aquarius",
+      "from": 0,
+      "to": 20
+    }
+  },
+  "MRITYU_BHAGA": {
+    "Sun": [
+      20,
+      9,
+      12,
+      6,
+      3,
+      24,
+      11,
+      26,
+      14,
+      23,
+      8,
+      18
+    ],
+    "Moon": [
+      26,
+      12,
+      13,
+      25,
+      24,
+      11,
+      26,
+      14,
+      13,
+      25,
+      5,
+      12
+    ],
+    "Mars": [
+      13,
+      20,
+      19,
+      15,
+      17,
+      5,
+      13,
+      14,
+      20,
+      24,
+      25,
+      3
+    ],
+    "Mercury": [
+      13,
+      7,
+      1,
+      23,
+      4,
+      18,
+      13,
+      9,
+      2,
+      24,
+      25,
+      12
+    ],
+    "Jupiter": [
+      6,
+      12,
+      13,
+      15,
+      5,
+      18,
+      11,
+      9,
+      1,
+      14,
+      8,
+      16
+    ],
+    "Venus": [
+      9,
+      3,
+      12,
+      24,
+      23,
+      13,
+      1,
+      13,
+      18,
+      16,
+      15,
+      14
+    ],
+    "Saturn": [
+      8,
+      18,
+      22,
+      25,
+      25,
+      9,
+      2,
+      13,
+      3,
+      3,
+      17,
+      9
+    ]
+  },
+  "NADI": {
+    "Ashwini": "Vata",
+    "Bharani": "Pitta",
+    "Krittika": "Kapha",
+    "Rohini": "Kapha",
+    "Mrigashira": "Pitta",
+    "Ardra": "Vata",
+    "Punarvasu": "Vata",
+    "Pushya": "Pitta",
+    "Ashlesha": "Kapha",
+    "Magha": "Kapha",
+    "Purva Phalguni": "Pitta",
+    "Uttara Phalguni": "Vata",
+    "Hasta": "Vata",
+    "Chitra": "Pitta",
+    "Swati": "Kapha",
+    "Vishakha": "Kapha",
+    "Anuradha": "Pitta",
+    "Jyeshtha": "Vata",
+    "Mula": "Vata",
+    "Purva Ashadha": "Pitta",
+    "Uttara Ashadha": "Kapha",
+    "Shravana": "Kapha",
+    "Dhanishtha": "Pitta",
+    "Shatabhisha": "Vata",
+    "Purva Bhadrapada": "Vata",
+    "Uttara Bhadrapada": "Pitta",
+    "Revati": "Kapha"
+  },
+  "NAISARGIKA_BALA": {
+    "Sun": 60,
+    "Moon": 51.43,
+    "Mars": 17.14,
+    "Mercury": 25.71,
+    "Jupiter": 34.28,
+    "Venus": 42.85,
+    "Saturn": 8.57
+  },
+  "NAKSHATRAS": [
+    "Ashwini",
+    "Bharani",
+    "Krittika",
+    "Rohini",
+    "Mrigashira",
+    "Ardra",
+    "Punarvasu",
+    "Pushya",
+    "Ashlesha",
+    "Magha",
+    "Purva Phalguni",
+    "Uttara Phalguni",
+    "Hasta",
+    "Chitra",
+    "Swati",
+    "Vishakha",
+    "Anuradha",
+    "Jyeshtha",
+    "Mula",
+    "Purva Ashadha",
+    "Uttara Ashadha",
+    "Shravana",
+    "Dhanishtha",
+    "Shatabhisha",
+    "Purva Bhadrapada",
+    "Uttara Bhadrapada",
+    "Revati"
+  ],
+  "NAKSHATRA_DEITIES": [
+    "Ashwini Kumaras",
+    "Yama",
+    "Agni",
+    "Brahma",
+    "Soma",
+    "Rudra",
+    "Aditi",
+    "Brihaspati",
+    "Sarpas",
+    "Pitrs",
+    "Bhaga",
+    "Aryaman",
+    "Savitar",
+    "Tvashtar",
+    "Vayu",
+    "Indra-Agni",
+    "Mitra",
+    "Indra",
+    "Nirriti",
+    "Apas",
+    "Vishvedevas",
+    "Vishnu",
+    "Eight Vasus",
+    "Varuna",
+    "Aja Ekapada",
+    "Ahir Budhanya",
+    "Pushan"
+  ],
+  "NAKSHATRA_GUNA": [
+    "Rajas",
+    "Rajas",
+    "Rajas",
+    "Tamas",
+    "Tamas",
+    "Tamas",
+    "Sattva",
+    "Sattva",
+    "Sattva",
+    "Rajas",
+    "Rajas",
+    "Rajas",
+    "Tamas",
+    "Tamas",
+    "Tamas",
+    "Sattva",
+    "Sattva",
+    "Sattva",
+    "Rajas",
+    "Rajas",
+    "Rajas",
+    "Tamas",
+    "Tamas",
+    "Tamas",
+    "Sattva",
+    "Sattva",
+    "Sattva"
+  ],
+  "NAKSHATRA_LORDS": [
+    "Ketu",
+    "Venus",
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury",
+    "Ketu",
+    "Venus",
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury",
+    "Ketu",
+    "Venus",
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury"
+  ],
+  "NAKSHATRA_START_DEG": [
+    0,
+    13.333333,
+    26.666666,
+    40,
+    53.333333,
+    66.666666,
+    80,
+    93.333333,
+    106.666666,
+    120,
+    133.333333,
+    146.666666,
+    160,
+    173.333333,
+    186.666666,
+    200,
+    213.333333,
+    226.666666,
+    240,
+    253.333333,
+    266.666666,
+    280,
+    293.333333,
+    306.666666,
+    320,
+    333.333333,
+    346.666666
+  ],
+  "NAKSHATRA_SYMBOLS": [
+    "Horse's Head",
+    "Yoni",
+    "Razor/Knife",
+    "Ox Cart",
+    "Deer's Head",
+    "Teardrop",
+    "Bow and Quiver",
+    "Arrow/Flower",
+    "Coiled Serpent",
+    "Throne/Palanquin",
+    "Hammock",
+    "Bed/Fig Tree",
+    "Hand/Fist",
+    "Pearl/Bright Jewel",
+    "Coral/Sword",
+    "Decorated Arch/Triumphal Gate",
+    "Lotus",
+    "Circular Earring",
+    "Elephant Goad",
+    "Elephant Tusk/Fan",
+    "Elephant Tusk (small)",
+    "Ear/Three Footprints",
+    "Drum/Flute",
+    "Empty Circle/100 Physicians",
+    "Sword/Two Front Legs of Funeral Cot",
+    "Serpent in Water",
+    "Fish/Drum/Circle"
+  ],
+  "NAKSHATRA_TATTVA": [
+    "Ketu",
+    "Venus",
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury",
+    "Ketu",
+    "Venus",
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury",
+    "Ketu",
+    "Venus",
+    "Sun",
+    "Moon",
+    "Mars",
+    "Rahu",
+    "Jupiter",
+    "Saturn",
+    "Mercury"
+  ],
+  "NATURAL_ENEMIES": {
+    "Sun": [
+      "Saturn",
+      "Venus",
+      "Rahu",
+      "Ketu"
+    ],
+    "Moon": [
+      "Rahu",
+      "Ketu"
+    ],
+    "Mars": [
+      "Mercury"
+    ],
+    "Mercury": [
+      "Moon"
+    ],
+    "Jupiter": [
+      "Mercury",
+      "Venus",
+      "Rahu",
+      "Ketu"
+    ],
+    "Venus": [
+      "Moon"
+    ],
+    "Saturn": [
+      "Sun",
+      "Moon",
+      "Mars"
+    ],
+    "Rahu": [
+      "Sun",
+      "Moon",
+      "Mars"
+    ],
+    "Ketu": [
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ]
+  },
+  "NATURAL_FRIENDS": {
+    "Sun": [
+      "Moon",
+      "Mars",
+      "Jupiter"
+    ],
+    "Moon": [
+      "Sun",
+      "Mercury"
+    ],
+    "Mars": [
+      "Sun",
+      "Moon",
+      "Jupiter"
+    ],
+    "Mercury": [
+      "Sun",
+      "Venus"
+    ],
+    "Jupiter": [
+      "Sun",
+      "Moon",
+      "Mars"
+    ],
+    "Venus": [
+      "Mercury",
+      "Saturn"
+    ],
+    "Saturn": [
+      "Mercury",
+      "Venus"
+    ],
+    "Rahu": [
+      "Saturn",
+      "Venus",
+      "Mercury"
+    ],
+    "Ketu": [
+      "Mars",
+      "Jupiter"
+    ]
+  },
+  "NATURAL_NEUTRAL": {
+    "Sun": [
+      "Mercury"
+    ],
+    "Moon": [
+      "Mars",
+      "Jupiter",
+      "Venus",
+      "Saturn"
+    ],
+    "Mars": [
+      "Venus",
+      "Saturn"
+    ],
+    "Mercury": [
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "Jupiter": [
+      "Saturn"
+    ],
+    "Venus": [
+      "Jupiter",
+      "Mars"
+    ],
+    "Saturn": [
+      "Jupiter"
+    ],
+    "Rahu": [
+      "Jupiter",
+      "Moon",
+      "Mars"
+    ],
+    "Ketu": [
+      "Sun",
+      "Moon",
+      "Mercury",
+      "Venus",
+      "Saturn"
+    ]
+  },
+  "OWN_SIGNS": {
+    "Sun": [
+      "Leo"
+    ],
+    "Moon": [
+      "Cancer"
+    ],
+    "Mars": [
+      "Aries",
+      "Scorpio"
+    ],
+    "Mercury": [
+      "Gemini",
+      "Virgo"
+    ],
+    "Jupiter": [
+      "Sagittarius",
+      "Pisces"
+    ],
+    "Venus": [
+      "Taurus",
+      "Libra"
+    ],
+    "Saturn": [
+      "Capricorn",
+      "Aquarius"
+    ],
+    "Rahu": [],
+    "Ketu": []
+  },
+  "PANCHANG_YOGAS": [
+    "Vishkambha",
+    "Preeti",
+    "Ayushman",
+    "Saubhagya",
+    "Shobhana",
+    "Atiganda",
+    "Sukarman",
+    "Dhriti",
+    "Shoola",
+    "Ganda",
+    "Vriddhi",
+    "Dhruva",
+    "Vyaghata",
+    "Harshana",
+    "Vajra",
+    "Siddhi",
+    "Vyatipata",
+    "Variyan",
+    "Parigha",
+    "Shiva",
+    "Siddha",
+    "Sadhya",
+    "Shubha",
+    "Shukla",
+    "Brahma",
+    "Indra",
+    "Vaidhriti"
+  ],
+  "PAYA": {
+    "Ashwini": "Swarna (Gold)",
+    "Bharani": "Rajat (Silver)",
+    "Krittika": "Tamba (Copper)",
+    "Rohini": "Swarna (Gold)",
+    "Mrigashira": "Swarna (Gold)",
+    "Ardra": "Rajat (Silver)",
+    "Punarvasu": "Swarna (Gold)",
+    "Pushya": "Rajat (Silver)",
+    "Ashlesha": "Tamba (Copper)",
+    "Magha": "Tamba (Copper)",
+    "Purva Phalguni": "Tamba (Copper)",
+    "Uttara Phalguni": "Rajat (Silver)",
+    "Hasta": "Swarna (Gold)",
+    "Chitra": "Tamba (Copper)",
+    "Swati": "Rajat (Silver)",
+    "Vishakha": "Tamba (Copper)",
+    "Anuradha": "Rajat (Silver)",
+    "Jyeshtha": "Swarna (Gold)",
+    "Mula": "Tamba (Copper)",
+    "Purva Ashadha": "Swarna (Gold)",
+    "Uttara Ashadha": "Swarna (Gold)",
+    "Shravana": "Rajat (Silver)",
+    "Dhanishtha": "Swarna (Gold)",
+    "Shatabhisha": "Tamba (Copper)",
+    "Purva Bhadrapada": "Rajat (Silver)",
+    "Uttara Bhadrapada": "Tamba (Copper)",
+    "Revati": "Swarna (Gold)"
+  },
+  "PLANETS": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn",
+    "Rahu",
+    "Ketu"
+  ],
+  "PLANETS_HINDI": [
+    "Surya",
+    "Chandra",
+    "Mangal",
+    "Budha",
+    "Guru",
+    "Shukra",
+    "Shani",
+    "Rahu",
+    "Ketu"
+  ],
+  "PLANET_ELEMENT": {
+    "Sun": "Fire",
+    "Moon": "Water",
+    "Mars": "Fire",
+    "Mercury": "Earth",
+    "Jupiter": "Ether",
+    "Venus": "Water",
+    "Saturn": "Air",
+    "Rahu": "Air",
+    "Ketu": "Fire"
+  },
+  "PLANET_NATURE": {
+    "Sun": "Malefic",
+    "Moon": "Benefic",
+    "Mars": "Malefic",
+    "Mercury": "Neutral",
+    "Jupiter": "Benefic",
+    "Venus": "Benefic",
+    "Saturn": "Malefic",
+    "Rahu": "Shadow",
+    "Ketu": "Shadow"
+  },
+  "RAHU_KAAL_PART": {
+    "Sunday": 8,
+    "Monday": 2,
+    "Tuesday": 7,
+    "Wednesday": 5,
+    "Thursday": 6,
+    "Friday": 4,
+    "Saturday": 3
+  },
+  "RASHI_DRISHTI": {
+    "Aries": [
+      "Leo",
+      "Scorpio",
+      "Aquarius"
+    ],
+    "Taurus": [
+      "Cancer",
+      "Libra",
+      "Capricorn"
+    ],
+    "Gemini": [
+      "Virgo",
+      "Sagittarius",
+      "Pisces"
+    ],
+    "Cancer": [
+      "Taurus",
+      "Libra",
+      "Capricorn"
+    ],
+    "Leo": [
+      "Aries",
+      "Scorpio",
+      "Aquarius"
+    ],
+    "Virgo": [
+      "Gemini",
+      "Sagittarius",
+      "Pisces"
+    ],
+    "Libra": [
+      "Taurus",
+      "Cancer",
+      "Capricorn"
+    ],
+    "Scorpio": [
+      "Aries",
+      "Leo",
+      "Aquarius"
+    ],
+    "Sagittarius": [
+      "Gemini",
+      "Virgo",
+      "Pisces"
+    ],
+    "Capricorn": [
+      "Taurus",
+      "Cancer",
+      "Libra"
+    ],
+    "Aquarius": [
+      "Aries",
+      "Leo",
+      "Scorpio"
+    ],
+    "Pisces": [
+      "Gemini",
+      "Virgo",
+      "Sagittarius"
+    ]
+  },
+  "SADE_SATI_PHASES": [
+    {
+      "phase": "Rising",
+      "desc": "Saturn enters sign before natal Moon — mental restlessness, career pressure"
+    },
+    {
+      "phase": "Peak",
+      "desc": "Saturn in natal Moon sign — maximum karmic load, transformation"
+    },
+    {
+      "phase": "Setting",
+      "desc": "Saturn moves to sign after natal Moon — gradual relief, rebuilding"
+    }
+  ],
+  "SHADBALA_REQUIRED": {
+    "Sun": 5,
+    "Moon": 6,
+    "Mars": 5,
+    "Mercury": 7,
+    "Jupiter": 6.5,
+    "Venus": 5.5,
+    "Saturn": 5
+  },
+  "SIGNS": [
+    "Aries",
+    "Taurus",
+    "Gemini",
+    "Cancer",
+    "Leo",
+    "Virgo",
+    "Libra",
+    "Scorpio",
+    "Sagittarius",
+    "Capricorn",
+    "Aquarius",
+    "Pisces"
+  ],
+  "SIGNS_HINDI": [
+    "Mesh",
+    "Vrishabha",
+    "Mithun",
+    "Karka",
+    "Simha",
+    "Kanya",
+    "Tula",
+    "Vrischika",
+    "Dhanu",
+    "Makara",
+    "Kumbha",
+    "Meena"
+  ],
+  "SIGNS_SHORT": [
+    "Ar",
+    "Ta",
+    "Ge",
+    "Ca",
+    "Le",
+    "Vi",
+    "Li",
+    "Sc",
+    "Sg",
+    "Cp",
+    "Aq",
+    "Pi"
+  ],
+  "SIGN_ELEMENT": [
+    "Fire",
+    "Earth",
+    "Air",
+    "Water",
+    "Fire",
+    "Earth",
+    "Air",
+    "Water",
+    "Fire",
+    "Earth",
+    "Air",
+    "Water"
+  ],
+  "SIGN_GENDER": [
+    "Male",
+    "Female",
+    "Male",
+    "Female",
+    "Male",
+    "Female",
+    "Male",
+    "Female",
+    "Male",
+    "Female",
+    "Male",
+    "Female"
+  ],
+  "SIGN_LORDS": {
+    "Aries": "Mars",
+    "Taurus": "Venus",
+    "Gemini": "Mercury",
+    "Cancer": "Moon",
+    "Leo": "Sun",
+    "Virgo": "Mercury",
+    "Libra": "Venus",
+    "Scorpio": "Mars",
+    "Sagittarius": "Jupiter",
+    "Capricorn": "Saturn",
+    "Aquarius": "Saturn",
+    "Pisces": "Jupiter"
+  },
+  "SIGN_QUALITY": [
+    "Movable",
+    "Fixed",
+    "Dual",
+    "Movable",
+    "Fixed",
+    "Dual",
+    "Movable",
+    "Fixed",
+    "Dual",
+    "Movable",
+    "Fixed",
+    "Dual"
+  ],
+  "SIGN_SANSKRIT": [
+    "Mesha",
+    "Vrishabha",
+    "Mithuna",
+    "Karka",
+    "Simha",
+    "Kanya",
+    "Tula",
+    "Vrishchika",
+    "Dhanu",
+    "Makara",
+    "Kumbha",
+    "Meena"
+  ],
+  "TARA_DESC": [
+    "Birth star — strong but sensitive, proceed with caution",
+    "Prosperity star — excellent for financial and business activities",
+    "Danger star — avoid all important works, travel, investments",
+    "Comfort star — good for routine activities, family matters",
+    "Obstruction star — delays and obstacles in all directions",
+    "Achievement star — favorable for spiritual and career progress",
+    "Destruction star — very inauspicious, absolutely avoid new starts",
+    "Friend star — favorable for social activities and agreements",
+    "Supreme Friend star — most auspicious, begin anything important"
+  ],
+  "TARA_NAMES": [
+    "Janma",
+    "Sampat",
+    "Vipat",
+    "Kshema",
+    "Pratyak",
+    "Sadhana",
+    "Vadha",
+    "Mitra",
+    "Parama Mitra"
+  ],
+  "TARA_NATURE": [
+    "Neutral",
+    "Excellent",
+    "Bad",
+    "Good",
+    "Bad",
+    "Good",
+    "Very Bad",
+    "Good",
+    "Excellent"
+  ],
+  "TARA_SCORE": [
+    0,
+    2,
+    -1,
+    1,
+    -1,
+    1,
+    -2,
+    1,
+    2
+  ],
+  "TITHIS": [
+    "Pratipada",
+    "Dwitiya",
+    "Tritiya",
+    "Chaturthi",
+    "Panchami",
+    "Shashthi",
+    "Saptami",
+    "Ashtami",
+    "Navami",
+    "Dashami",
+    "Ekadashi",
+    "Dwadashi",
+    "Trayodashi",
+    "Chaturdashi",
+    "Purnima",
+    "Pratipada",
+    "Dwitiya",
+    "Tritiya",
+    "Chaturthi",
+    "Panchami",
+    "Shashthi",
+    "Saptami",
+    "Ashtami",
+    "Navami",
+    "Dashami",
+    "Ekadashi",
+    "Dwadashi",
+    "Trayodashi",
+    "Chaturdashi",
+    "Amavasya"
+  ],
+  "TITHI_LORDS": [
+    "Moon",
+    "Sun",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn",
+    "Moon",
+    "Sun",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn",
+    "Moon",
+    "Moon",
+    "Sun",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn",
+    "Moon",
+    "Sun",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn",
+    "Moon"
+  ],
+  "TOTAL_DASHA_YEARS": 120,
+  "TRANSIT_EFFECTS": {
+    "Jupiter": {
+      "1": "Self-confidence, wisdom, body health improvements, new opportunities",
+      "2": "Financial gains, family harmony, speech improvement, savings",
+      "3": "Communication skills peak, sibling harmony, short travels, writing",
+      "4": "Property/vehicle gains, family happiness, mother blessed",
+      "5": "Children blessings, romance flowers, creativity, speculation gains",
+      "6": "Overcoming enemies, health improvement, clearing debts",
+      "7": "Marriage/partnership opportunities, business expansion",
+      "8": "Inheritance, research success, hidden knowledge revealed",
+      "9": "Spiritual growth, higher education, pilgrimages, father blessed",
+      "10": "Career advancement, promotions, fame, government favor",
+      "11": "Major income gains, wish fulfillment, social expansion",
+      "12": "Foreign journeys, spiritual liberation, charitable activities"
+    },
+    "Saturn": {
+      "1": "Self-discipline required, health tests, delays in new ventures",
+      "2": "Financial restrictions, family duties, speech problems",
+      "3": "Hard effort, sibling tensions, communication delays",
+      "4": "Domestic challenges, mother health, property disputes",
+      "5": "Children concerns, reduced romance, creative blocks",
+      "6": "Slow but sure victory over obstacles, debt resolution over time",
+      "7": "Relationship tests, business slows, legal delays",
+      "8": "Chronic health issues, life transformation, karmic clearing",
+      "9": "Dharma challenges, father health, guru relationship tests",
+      "10": "Career responsibility, authority tests, promotion through hard work",
+      "11": "Delayed gains, social restrictions, mature networking",
+      "12": "Foreign stay, hospitalization risk, spiritual retreat"
+    },
+    "Mars": {
+      "1": "Energy surge, assertiveness, sports, accident risk",
+      "2": "Heated speech, family arguments, impulsive spending",
+      "3": "Courage peak, travel, sibling conflicts, writing projects",
+      "4": "Domestic arguments, property disputes, mother tension",
+      "5": "Speculation, romance heat, children issues, risk-taking",
+      "6": "Victory over enemies, health improvement, debts cleared",
+      "7": "Relationship conflicts, legal disputes, partner aggression",
+      "8": "Sudden events, surgery possible, hidden aggression",
+      "9": "Religious disputes, travel accidents, father tension",
+      "10": "Career action, authority friction, competitive success",
+      "11": "Gains from effort, competitive income",
+      "12": "Losses, hospitalization, hidden enemies"
+    },
+    "Sun": {
+      "1": "Self-focus, ego matters, government contact, health",
+      "2": "Speech confidence, family income, financial matters",
+      "3": "Boldness, communication, travel, sibling matters",
+      "4": "Home improvements, mother focus, real estate",
+      "5": "Children focus, romance, speculation, creativity",
+      "6": "Overcoming competition, health improvement",
+      "7": "Partnership focus, legal matters, public image",
+      "8": "Hidden matters, longevity focus, research",
+      "9": "Father/guru focus, dharma, pilgrimage, luck",
+      "10": "Career peak, government contact, public recognition",
+      "11": "Income boost, networking, social expansion",
+      "12": "Expenses up, foreign connections, spiritual withdrawal"
+    },
+    "Moon": {
+      "1": "Emotional sensitivity, public contact, health fluctuation",
+      "2": "Family focus, emotional spending, food-related matters",
+      "3": "Short travels, communication, emotional courage",
+      "4": "Mother focus, home happiness, property matters",
+      "5": "Romance heightened, children joy, creative mood",
+      "6": "Health attention, emotional work, service mood",
+      "7": "Relationship focus, public interaction, partnerships",
+      "8": "Emotional transformation, research, hidden feelings",
+      "9": "Spiritual mood, religious activities, good fortune",
+      "10": "Career emotional phase, public visibility",
+      "11": "Social gains, group activities, emotional fulfillment",
+      "12": "Rest needed, emotional withdrawal, foreign connections"
+    },
+    "Venus": {
+      "1": "Beauty focus, romantic energy, luxury purchases",
+      "2": "Financial comfort, family harmony, good food",
+      "3": "Creative communication, arts, short pleasure trips",
+      "4": "Home beautification, comforts, vehicle, mother joy",
+      "5": "Romance peak, children blessings, creative arts",
+      "6": "Service with grace, debt resolution, health beauty",
+      "7": "Marriage/romance peak, business partnership, agreements",
+      "8": "Hidden pleasures, inheritance, partner finances",
+      "9": "Spiritual beauty, guru blessings, fortunate journeys",
+      "10": "Career in arts/luxury, professional beauty, public charm",
+      "11": "Social gains, income from arts, elder sibling harmony",
+      "12": "Foreign luxury, bed pleasures, spiritual arts"
+    },
+    "Mercury": {
+      "1": "Mental clarity, communication peak, new ideas, writing",
+      "2": "Business acumen, speech improvement, financial planning",
+      "3": "Excellent communication, travel, sibling harmony, media",
+      "4": "Home study, mother communication, property documentation",
+      "5": "Intellectual creativity, children education, analysis",
+      "6": "Problem-solving, service efficiency, health analysis",
+      "7": "Business negotiations, partnership communication, contracts",
+      "8": "Research, occult study, hidden information revealed",
+      "9": "Higher learning, philosophical study, teaching",
+      "10": "Career communication, trade, business development",
+      "11": "Income through intellect, networking, gains",
+      "12": "Foreign communication, background work, private study"
+    },
+    "Rahu": {
+      "1": "Unusual focus on self, foreign/unconventional identity shifts",
+      "2": "Foreign income sources, unusual family situation",
+      "3": "Unconventional communication, foreign travel",
+      "4": "Foreign property, unusual home situation",
+      "5": "Unusual romance, foreign children, speculation",
+      "6": "Overcoming enemies through unconventional means",
+      "7": "Foreign partner, unusual marriage, international business",
+      "8": "Occult research, foreign inheritance, sudden changes",
+      "9": "Foreign spiritual path, unconventional guru",
+      "10": "Foreign career, unconventional profession, international",
+      "11": "Gains from foreign/unconventional sources",
+      "12": "Foreign settlement, spiritual confusion"
+    },
+    "Ketu": {
+      "1": "Spiritual withdrawal, identity confusion, past-life recall",
+      "2": "Spiritual speech, detachment from wealth",
+      "3": "Spiritual communication, detachment from siblings",
+      "4": "Spiritual home, detachment from comforts",
+      "5": "Spiritual children, detachment from romance",
+      "6": "Overcoming enemies through spiritual means",
+      "7": "Spiritual partner, detachment from relationships",
+      "8": "Deep spirituality, occult mastery",
+      "9": "Spiritual dharma, past-life guru influence",
+      "10": "Spiritual career, detachment from status",
+      "11": "Detachment from gains, spiritual networking",
+      "12": "Liberation energy, foreign spiritual retreat"
+    }
+  },
+  "TRANSIT_GOOD_HOUSES": {
+    "Sun": [
+      3,
+      6,
+      10,
+      11
+    ],
+    "Moon": [
+      1,
+      3,
+      6,
+      7,
+      10,
+      11
+    ],
+    "Mars": [
+      3,
+      6,
+      11
+    ],
+    "Mercury": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      11
+    ],
+    "Jupiter": [
+      2,
+      5,
+      7,
+      9,
+      11
+    ],
+    "Venus": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      11,
+      12
+    ],
+    "Saturn": [
+      3,
+      6,
+      11
+    ],
+    "Rahu": [
+      3,
+      6,
+      10,
+      11
+    ],
+    "Ketu": [
+      3,
+      6,
+      11
+    ]
+  },
+  "TRIKONA_GROUPS": [
+    [
+      0,
+      4,
+      8
+    ],
+    [
+      1,
+      5,
+      9
+    ],
+    [
+      2,
+      6,
+      10
+    ],
+    [
+      3,
+      7,
+      11
+    ]
+  ],
+  "VARA_LORDS": [
+    "Sun",
+    "Moon",
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus",
+    "Saturn"
+  ],
+  "VARA_NAMES": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "VARA_NAMES_HINDI": [
+    "Ravivaar",
+    "Somvaar",
+    "Mangalvaar",
+    "Budhvaar",
+    "Guruvaar",
+    "Shukravaar",
+    "Shanivaar"
+  ],
+  "VARNA": {
+    "Aries": "Kshatriya",
+    "Taurus": "Vaishya",
+    "Gemini": "Shudra",
+    "Cancer": "Brahmin",
+    "Leo": "Kshatriya",
+    "Virgo": "Vaishya",
+    "Libra": "Shudra",
+    "Scorpio": "Brahmin",
+    "Sagittarius": "Kshatriya",
+    "Capricorn": "Vaishya",
+    "Aquarius": "Shudra",
+    "Pisces": "Brahmin"
+  },
+  "VASYA": {
+    "Aries": "Chatushpada (Quadruped)",
+    "Taurus": "Chatushpada (Quadruped)",
+    "Gemini": "Dwipad (Human)",
+    "Cancer": "Jalachara (Aquatic)",
+    "Leo": "Vanachara (Wild)",
+    "Virgo": "Dwipad (Human)",
+    "Libra": "Dwipad (Human)",
+    "Scorpio": "Keeta (Insect)",
+    "Sagittarius": "Chatushpada (Quadruped)",
+    "Capricorn": "Jalachara (Aquatic)",
+    "Aquarius": "Dwipad (Human)",
+    "Pisces": "Jalachara (Aquatic)"
+  },
+  "VIMSHOTTARI_CYCLE_YEARS": 120,
+  "YAMAGANDA_PART": {
+    "Sunday": 4,
+    "Monday": 3,
+    "Tuesday": 7,
+    "Wednesday": 2,
+    "Thursday": 6,
+    "Friday": 1,
+    "Saturday": 5
+  },
+  "YOGA_NATURE": [
+    "Inauspicious",
+    "Auspicious",
+    "Auspicious",
+    "Auspicious",
+    "Auspicious",
+    "Inauspicious",
+    "Auspicious",
+    "Auspicious",
+    "Inauspicious",
+    "Inauspicious",
+    "Auspicious",
+    "Auspicious",
+    "Inauspicious",
+    "Auspicious",
+    "Inauspicious",
+    "Auspicious",
+    "Inauspicious",
+    "Auspicious",
+    "Inauspicious",
+    "Auspicious",
+    "Auspicious",
+    "Auspicious",
+    "Auspicious",
+    "Auspicious",
+    "Auspicious",
+    "Auspicious",
+    "Inauspicious"
+  ],
+  "YOGINI_DASHA": [
+    {
+      "name": "Mangala",
+      "lord": "Moon",
+      "years": 1
+    },
+    {
+      "name": "Pingala",
+      "lord": "Sun",
+      "years": 2
+    },
+    {
+      "name": "Dhanya",
+      "lord": "Jupiter",
+      "years": 3
+    },
+    {
+      "name": "Bhramari",
+      "lord": "Mars",
+      "years": 4
+    },
+    {
+      "name": "Bhadrika",
+      "lord": "Mercury",
+      "years": 5
+    },
+    {
+      "name": "Ulka",
+      "lord": "Saturn",
+      "years": 6
+    },
+    {
+      "name": "Siddha",
+      "lord": "Venus",
+      "years": 7
+    },
+    {
+      "name": "Sankata",
+      "lord": "Rahu",
+      "years": 8
+    }
+  ],
+  "YONI": {
+    "Ashwini": "Ashwa (Horse)",
+    "Bharani": "Gaja (Elephant)",
+    "Krittika": "Mesh (Goat)",
+    "Rohini": "Sarpa (Snake)",
+    "Mrigashira": "Sarpa (Snake)",
+    "Ardra": "Swana (Dog)",
+    "Punarvasu": "Marjara (Cat)",
+    "Pushya": "Mesh (Goat)",
+    "Ashlesha": "Marjara (Cat)",
+    "Magha": "Mushaka (Rat)",
+    "Purva Phalguni": "Mushaka (Rat)",
+    "Uttara Phalguni": "Gau (Cow)",
+    "Hasta": "Mahisha (Buffalo)",
+    "Chitra": "Vyaghra (Tiger)",
+    "Swati": "Mahisha (Buffalo)",
+    "Vishakha": "Vyaghra (Tiger)",
+    "Anuradha": "Mriga (Deer)",
+    "Jyeshtha": "Mriga (Deer)",
+    "Mula": "Swana (Dog)",
+    "Purva Ashadha": "Vanara (Monkey)",
+    "Uttara Ashadha": "Nakula (Mongoose)",
+    "Shravana": "Vanara (Monkey)",
+    "Dhanishtha": "Simha (Lion)",
+    "Shatabhisha": "Ashwa (Horse)",
+    "Purva Bhadrapada": "Simha (Lion)",
+    "Uttara Bhadrapada": "Gau (Cow)",
+    "Revati": "Gaja (Elephant)"
+  }
+}

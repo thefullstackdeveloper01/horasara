@@ -1,0 +1,48 @@
+{
+  "RIN_RULES": [
+    {
+      "name": "Pitru Rin",
+      "label": "Ancestral/Father Debt",
+      "triggerPlanets": [
+        "Venus",
+        "Mercury",
+        "Rahu"
+      ],
+      "triggerHouses": [
+        2,
+        5,
+        9,
+        12
+      ],
+      "indication": "Loss of wealth, career blocks, friction with authority/father figures, hard work not paying off",
+      "remedy": "Collect money/food from relatives and donate to a temple, on the same day"
+    },
+    {
+      "name": "Matru Rin",
+      "label": "Mother Debt",
+      "triggerPlanets": [
+        "Ketu"
+      ],
+      "triggerHouses": [
+        4
+      ],
+      "indication": "Mother's health issues, domestic instability, financial losses",
+      "remedy": "Offer silver coins or a silver item, collected from relatives, into a flowing river"
+    },
+    {
+      "name": "Stri Rin",
+      "label": "Debt to Women/Wife",
+      "triggerPlanets": [
+        "Sun",
+        "Moon",
+        "Rahu"
+      ],
+      "triggerHouses": [
+        2,
+        7
+      ],
+      "indication": "Marital turbulence, difficulty finding/keeping a partner, recurring conflict with women in the family",
+      "remedy": "Respect and serve the women in one's family; avoid disrespecting women; donate white items on Mondays"
+    }
+  ]
+}

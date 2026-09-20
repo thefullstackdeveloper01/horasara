@@ -1,0 +1,83 @@
+READABLE DATASET
+================================================================================
+Original file: datasetRegistry.json
+Dataset number: 99 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 2,523 bytes
+Top-level fields: 2
+
+CONTENT
+--------------------------------------------------------------------------------
+• REGISTRY:
+  1.
+    • feature: Personalized Vastu Guide
+    • module: vastuGuide
+    • file: vastu_rules.json
+  2.
+    • feature: Dream Symbol Lookup
+    • module: dreamLookup
+    • file: dream_meanings.json
+  3.
+    • feature: Palmistry Feature Lookup
+    • module: palmistryLookup
+    • file: palmistry_rules.json
+  4.
+    • feature: Graha Shanti detailed remedies (mantra/gemstone/havan per weak planet)
+    • module: grahaShanti
+    • file: graha_shanti_rules.json
+  5.
+    • feature: Yoga Enrichment (detailed effects/strength/cancellation text per detected yoga)
+    • module: yogaEnrichment
+    • file: yogas_detailed_database.json
+  6.
+    • feature: Dosha Remedy Enrichment (detailed mantra/donation/ritual per detected dosha)
+    • module: doshaRemedyEnrichment
+    • file: doshas_detailed_database.json
+  7.
+    • feature: Lagna Profile (12-sign classical personality/career/health text)
+    • module: lagnaProfile
+    • file: lagna_predictions.json
+  8.
+    • feature: Classical Prediction Rules (career/finance/marriage keyword-matched BPHS rules)
+    • module: classicalPredictionRules
+    • files:
+      1.
+        career_prediction_rules.json
+      2.
+        finance_prediction_rules.json
+      3.
+        health_prediction_rules.json
+      4.
+        marriage_prediction_rules.json
+  9.
+    • feature: Varga Significations text (D9/D10/Karakamsha classical interpretation beyond raw chart)
+    • module: vargaSignifications
+    • files:
+      1.
+        d9_navamsa_rules.json
+      2.
+        d10_dashamsa_rules.json
+      3.
+        karakamsha_rules.json
+  10.
+    • feature: BPHS Raja Yoga citation lookup (bundled rule file)
+    • module: bphsEngine
+    • file: yogas__raja_yoga.json
+  11.
+    • feature: v15 Calculator Catalog
+    • module: CalculatorRegistry
+    • file: calculator_catalog_v15.json
+  12.
+    • feature: v15 Panchang Calculator Rules
+    • module: CalculatorEngine
+    • file: panchang_calculator_v15.json
+  13.
+    • feature: V4 Remedy Trace categories
+    • module: RemedyTraceEngine
+    • file: remedy-trace.json
+  14.
+    • feature: V4 Reporting policy and section contract
+    • module: HoraSaarReportEngine/ReportIntegrityGate
+    • file: reporting-policy.json
+• MIN_MEANINGFUL_BYTES: 16

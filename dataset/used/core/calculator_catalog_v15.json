@@ -1,0 +1,380 @@
+{
+  "version": "15.0.0",
+  "policy": "Every calculator has a deterministic formula, input contract, provenance metadata, and audit status. Interpretive systems are not represented as scientifically proven.",
+  "calculators": [
+    {
+      "id": "love",
+      "name": "Love Calculator",
+      "category": "compatibility",
+      "route": "/calculator/love",
+      "inputs": [
+        "nameA",
+        "nameB"
+      ],
+      "method": "deterministic-name-score",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "atmakaraka-darakaraka",
+      "name": "Atmakaraka & Darakaraka Calculator",
+      "category": "jaimini",
+      "route": "/calculator/atmakaraka-darakaraka",
+      "inputs": [
+        "birth"
+      ],
+      "method": "lowest-and-second-lowest-degree among seven classical karaka planets",
+      "scientificStatus": "CLASSICAL_ALGORITHM"
+    },
+    {
+      "id": "numerology",
+      "name": "Numerology Calculator",
+      "category": "numerology",
+      "route": "/calculator/numerology",
+      "inputs": [
+        "name",
+        "dob"
+      ],
+      "method": "dataset-driven Pythagorean + Cheiro",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "sun-sign",
+      "name": "Sun Sign Calculator",
+      "category": "astrology",
+      "route": "/calculator/sun-sign",
+      "inputs": [
+        "birth"
+      ],
+      "method": "sidereal Sun longitude signOf",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "rising-sign",
+      "name": "Rising Sign Calculator",
+      "category": "astrology",
+      "route": "/calculator/rising-sign",
+      "inputs": [
+        "birth"
+      ],
+      "method": "sidereal ascendant",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "ayanamsa",
+      "name": "Ayanamsa Calculator",
+      "category": "astronomy",
+      "route": "/calculator/ayanamsa",
+      "inputs": [
+        "date"
+      ],
+      "method": "Lahiri ayanamsa from canonical astronomy utilities",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "rashi",
+      "name": "Rashi Calculator",
+      "category": "astrology",
+      "route": "/calculator/rashi",
+      "inputs": [
+        "birth"
+      ],
+      "method": "sidereal Moon longitude signOf",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "dasha",
+      "name": "Dasha Calculator",
+      "category": "dasha",
+      "route": "/calculator/dasha",
+      "inputs": [
+        "birth"
+      ],
+      "method": "canonical chart dasha suite",
+      "scientificStatus": "CLASSICAL_ALGORITHM"
+    },
+    {
+      "id": "nakshatra",
+      "name": "Nakshatra Calculator",
+      "category": "astrology",
+      "route": "/calculator/nakshatra",
+      "inputs": [
+        "birth"
+      ],
+      "method": "sidereal Moon longitude / 27",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "mangal-dosha",
+      "name": "Mangal Dosha Calculator",
+      "category": "dosha",
+      "route": "/calculator/mangal-dosha",
+      "inputs": [
+        "birth"
+      ],
+      "method": "canonical Mangal Dosha engine",
+      "scientificStatus": "CLASSICAL_ALGORITHM"
+    },
+    {
+      "id": "sade-sati",
+      "name": "Shani Sade Sati Calculator",
+      "category": "dosha",
+      "route": "/calculator/sade-sati",
+      "inputs": [
+        "birth",
+        "date"
+      ],
+      "method": "accurate Saturn transit engine",
+      "scientificStatus": "CLASSICAL_ALGORITHM"
+    },
+    {
+      "id": "moon-phase",
+      "name": "Moon Phase Calculator",
+      "category": "astronomy",
+      "route": "/calculator/moon-phase",
+      "inputs": [
+        "date"
+      ],
+      "method": "Sun-Moon angular separation",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "natal-chart",
+      "name": "Birth/Natal Chart Calculator",
+      "category": "astrology",
+      "route": "/calculator/natal-chart",
+      "inputs": [
+        "birth"
+      ],
+      "method": "canonical InternalCalculationEngine",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "flames",
+      "name": "FLAMES Calculator",
+      "category": "entertainment",
+      "route": "/calculator/flames",
+      "inputs": [
+        "nameA",
+        "nameB"
+      ],
+      "method": "standard elimination algorithm",
+      "scientificStatus": "ENTERTAINMENT_ONLY"
+    },
+    {
+      "id": "lucky-vehicle",
+      "name": "Lucky Vehicle Number Calculator",
+      "category": "numerology",
+      "route": "/calculator/lucky-vehicle-number",
+      "inputs": [
+        "vehicleNumber",
+        "dob"
+      ],
+      "method": "digit reduction + birth-number compatibility",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "friendship",
+      "name": "Friendship Calculator",
+      "category": "compatibility",
+      "route": "/calculator/friendship",
+      "inputs": [
+        "birthA",
+        "birthB"
+      ],
+      "method": "planetary friendship + sign compatibility",
+      "scientificStatus": "CLASSICAL_ALGORITHM"
+    },
+    {
+      "id": "kaal-sarp-dosh",
+      "name": "Kaal Sarp Dosh Calculator",
+      "category": "dosha",
+      "route": "/calculator/kaal-sarp-dosh",
+      "inputs": [
+        "birth"
+      ],
+      "method": "canonical Kalsarpa Dosha engine",
+      "scientificStatus": "CLASSICAL_ALGORITHM"
+    },
+    {
+      "id": "ishta-devata",
+      "name": "Ishta Devata Calculator",
+      "category": "jaimini",
+      "route": "/calculator/ishta-devata",
+      "inputs": [
+        "birth"
+      ],
+      "method": "Karakamsa/Atmakaraka based engine",
+      "scientificStatus": "CLASSICAL_ALGORITHM"
+    },
+    {
+      "id": "lo-shu-grid",
+      "name": "Lo Shu Grid Calculator",
+      "category": "numerology",
+      "route": "/calculator/lo-shu-grid",
+      "inputs": [
+        "dob"
+      ],
+      "method": "Lo Shu birth-date grid",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "transit-chart",
+      "name": "Transit Chart Calculator",
+      "category": "transit",
+      "route": "/calculator/transit-chart",
+      "inputs": [
+        "birth",
+        "date"
+      ],
+      "method": "canonical transit overlay",
+      "scientificStatus": "ASTRONOMICAL_CALCULATION"
+    },
+    {
+      "id": "name-compatibility",
+      "name": "Name Compatibility Calculator",
+      "category": "compatibility",
+      "route": "/calculator/name-compatibility",
+      "inputs": [
+        "nameA",
+        "nameB"
+      ],
+      "method": "dataset-driven numerology compatibility",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "mulank",
+      "name": "Mulank Calculator",
+      "category": "numerology",
+      "route": "/calculator/mulank",
+      "inputs": [
+        "dob"
+      ],
+      "method": "birth-day digital root with master-number policy",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "destiny-number",
+      "name": "Destiny Number Calculator",
+      "category": "numerology",
+      "route": "/calculator/destiny-number",
+      "inputs": [
+        "name"
+      ],
+      "method": "Pythagorean name reduction",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "age",
+      "name": "Age Calculator",
+      "category": "utility",
+      "route": "/calculator/age",
+      "inputs": [
+        "dob",
+        "asOf"
+      ],
+      "method": "calendar age with completed years/months/days",
+      "scientificStatus": "DETERMINISTIC"
+    },
+    {
+      "id": "mobile-number",
+      "name": "Mobile Number Numerology Calculator",
+      "category": "numerology",
+      "route": "/calculator/mobile-number",
+      "inputs": [
+        "mobile"
+      ],
+      "method": "digit reduction",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    },
+    {
+      "id": "lucky-name",
+      "name": "Lucky Name Numerology Calculator",
+      "category": "numerology",
+      "route": "/calculator/lucky-name",
+      "inputs": [
+        "name",
+        "dob"
+      ],
+      "method": "name number vs birth-number compatibility",
+      "scientificStatus": "NOT_SCIENTIFICALLY_VALIDATED"
+    }
+  ],
+  "panchang": [
+    {
+      "id": "today-panchang",
+      "route": "/panchang/today",
+      "method": "canonical calcPanchanga"
+    },
+    {
+      "id": "rahu-kaal",
+      "route": "/panchang/rahu-kaal",
+      "method": "canonical calcPanchanga.rahuKaal"
+    },
+    {
+      "id": "choghadiya",
+      "route": "/panchang/choghadiya",
+      "method": "eight daytime/eight nighttime segments with weekday lords"
+    },
+    {
+      "id": "tithi",
+      "route": "/panchang/tithi",
+      "method": "canonical lunar-solar elongation"
+    },
+    {
+      "id": "vaar",
+      "route": "/panchang/vaar",
+      "method": "canonical local civil weekday"
+    },
+    {
+      "id": "hora",
+      "route": "/panchang/hora",
+      "method": "planetary-hour sequence from sunrise"
+    },
+    {
+      "id": "karana",
+      "route": "/panchang/karana",
+      "method": "canonical half-tithi karana"
+    },
+    {
+      "id": "tomorrow-panchang",
+      "route": "/panchang/tomorrow",
+      "method": "canonical calcPanchanga next civil day"
+    },
+    {
+      "id": "shubh-muhurat",
+      "route": "/panchang/shubh-muhurat",
+      "method": "canonical auspicious-period calculations"
+    },
+    {
+      "id": "numerology",
+      "route": "/panchang/numerology",
+      "method": "numerology integration"
+    }
+  ],
+  "horoscopeRoutes": [
+    {
+      "id": "daily",
+      "route": "/horoscope/daily-horoscope"
+    },
+    {
+      "id": "tomorrow",
+      "route": "/horoscope/tomorrow-horoscope"
+    },
+    {
+      "id": "yesterday",
+      "route": "/horoscope/yesterday-horoscope"
+    },
+    {
+      "id": "weekly",
+      "route": "/horoscope/weekly-horoscope"
+    },
+    {
+      "id": "monthly",
+      "route": "/horoscope/monthly-horoscope"
+    },
+    {
+      "id": "yearly",
+      "route": "/horoscope/yearly-horoscope"
+    }
+  ]
+}

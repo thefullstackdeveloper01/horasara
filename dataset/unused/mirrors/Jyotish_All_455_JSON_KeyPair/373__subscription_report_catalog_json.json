@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "373__subscription_report_catalog_json",
+    "name": "subscription-report-catalog",
+    "original_file": "subscription-report-catalog.json",
+    "dataset_number": "373 of 455",
+    "format": "json",
+    "source_readable_file": "subscription-report-catalog.txt",
+    "source_sha256": "4c93debf744253ab923ccb69af87c4e5c2145e7d376b12abaf7b42634b84a04a",
+    "source_bytes": 1332
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "id": "overview",
+        "label": "Overview & insights"
+      },
+      {
+        "id": "transits",
+        "label": "Gochar & timing"
+      },
+      {
+        "id": "dasha",
+        "label": "Dasha"
+      },
+      {
+        "id": "yogas",
+        "label": "Yogas"
+      },
+      {
+        "id": "doshas",
+        "label": "Doshas"
+      },
+      {
+        "id": "remedies",
+        "label": "Remedies"
+      },
+      {
+        "id": "id",
+        "label": "label"
+      },
+      {
+        "id": "email",
+        "label": "Email"
+      },
+      {
+        "id": "sms",
+        "label": "Mobile SMS"
+      },
+      {
+        "id": "id",
+        "label": "label"
+      },
+      {
+        "id": "both",
+        "label": "North + South Indian"
+      },
+      {
+        "id": "north",
+        "label": "North Indian"
+      },
+      {
+        "id": "south",
+        "label": "South Indian"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "336__sade_sati_accurate_json",
+    "name": "sade_sati_accurate",
+    "original_file": "sade_sati_accurate.json",
+    "dataset_number": "336 of 455",
+    "format": "json",
+    "source_readable_file": "sade_sati_accurate.txt",
+    "source_sha256": "958491f5672986aa7e30aca9e857cbb4ace9ba3b08fcccf1cd2e5029dd7a6436",
+    "source_bytes": 533
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "MONTH_NAMES": {
+        "_items": [
+          {
+            "_text": [
+              "Jan"
+            ]
+          },
+          {
+            "_text": [
+              "Feb"
+            ]
+          },
+          {
+            "_text": [
+              "Mar"
+            ]
+          },
+          {
+            "_text": [
+              "Apr"
+            ]
+          },
+          {
+            "_text": [
+              "May"
+            ]
+          },
+          {
+            "_text": [
+              "Jun"
+            ]
+          },
+          {
+            "_text": [
+              "Jul"
+            ]
+          },
+          {
+            "_text": [
+              "Aug"
+            ]
+          },
+          {
+            "_text": [
+              "Sep"
+            ]
+          },
+          {
+            "_text": [
+              "Oct"
+            ]
+          },
+          {
+            "_text": [
+              "Nov"
+            ]
+          },
+          {
+            "_text": [
+              "Dec"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

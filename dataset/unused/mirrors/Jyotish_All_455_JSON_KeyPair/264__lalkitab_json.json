@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "264__lalkitab_json",
+    "name": "lalkitab",
+    "original_file": "lalkitab.json",
+    "dataset_number": "263 of 455",
+    "format": "json",
+    "source_readable_file": "lalkitab.txt",
+    "source_sha256": "67476d476c0595b6d36a8accc7efb272f2cbc7416a84f26a65aebb8b653fbcd0",
+    "source_bytes": 1609
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "RIN_RULES": {
+        "_items": [
+          {
+            "name": "Pitru Rin",
+            "label": "Ancestral/Father Debt",
+            "triggerPlanets": {
+              "_items": [
+                {
+                  "_text": [
+                    "Venus"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Mercury"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Rahu"
+                  ]
+                }
+              ]
+            },
+            "triggerHouses": {
+              "_items": [
+                {
+                  "_text": [
+                    "2"
+                  ]
+                },
+                {
+                  "_text": [
+                    "5"
+                  ]
+                },
+                {
+                  "_text": [
+                    "9"
+                  ]
+                },
+                {
+                  "_text": [
+                    "12"
+                  ]
+                }
+              ]
+            },
+            "indication": "Loss of wealth, career blocks, friction with authority/father figures, hard work not paying off",
+            "remedy": "Collect money/food from relatives and donate to a temple, on the same day"
+          },
+          {
+            "name": "Matru Rin",
+            "label": "Mother Debt",
+            "triggerPlanets": {
+              "_items": [
+                {
+                  "_text": [
+                    "Ketu"
+                  ]
+                }
+              ]
+            },
+            "triggerHouses": {
+              "_items": [
+                {
+                  "_text": [
+                    "4"
+                  ]
+                }
+              ]
+            },
+            "indication": "Mother's health issues, domestic instability, financial losses",
+            "remedy": "Offer silver coins or a silver item, collected from relatives, into a flowing river"
+          },
+          {
+            "name": "Stri Rin",
+            "label": "Debt to Women/Wife",
+            "triggerPlanets": {
+              "_items": [
+                {
+                  "_text": [
+                    "Sun"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Moon"
+                  ]
+                },
+                {
+                  "_text": [
+                    "Rahu"
+                  ]
+                }
+              ]
+            },
+            "triggerHouses": {
+              "_items": [
+                {
+                  "_text": [
+                    "2"
+                  ]
+                },
+                {
+                  "_text": [
+                    "7"
+                  ]
+                }
+              ]
+            },
+            "indication": "Marital turbulence, difficulty finding/keeping a partner, recurring conflict with women in the family",
+            "remedy": "Respect and serve the women in one's family; avoid disrespecting women; donate white items on Mondays"
+          }
+        ]
+      }
+    }
+  }
+}

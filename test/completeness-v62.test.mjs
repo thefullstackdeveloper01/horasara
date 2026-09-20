@@ -1,0 +1,24 @@
+import assert from 'node:assert/strict';
+import { calcWesternAspects } from '../src/western/aspects.js';
+import { calcKarakamsa } from '../src/jaimini/karakamsa.js';
+import { calcKPCuspAspects } from '../src/kp/kp_system.js';
+import { lalKitab35Cycle, calcLalKitabAnnualHouses, buildLalKitabGrahphal } from '../src/lalkitab/timing.js';
+import { buildBhavaPhala } from '../src/prediction/bhavaPhala.js';
+import { calibrateEvidence } from '../src/quality/calibration.js';
+import { buildCalculationAudit } from '../src/quality/auditTrail.js';
+import { calculateChart } from '../src/engine.js';
+
+const aspects=calcWesternAspects([{name:'A',tropicalLon:0,speed:1},{name:'B',tropicalLon:88,speed:0}],{orbs:{Square:3}});
+assert.equal(aspects[0].name,'Square'); assert.ok(['APPLYING','SEPARATING'].includes(aspects[0].phase));
+const kar=calcKarakamsa([{name:'Sun',siderealLon:10},{name:'Moon',siderealLon:20},{name:'Mars',siderealLon:30},{name:'Mercury',siderealLon:40},{name:'Jupiter',siderealLon:50},{name:'Venus',siderealLon:60},{name:'Saturn',siderealLon:70}],{ascendant:{D9:{sign:'Aries'}},Sun:{D9:{sign:'Taurus'}}});
+assert.ok(['AVAILABLE','NOT_CALCULATED'].includes(kar.status));
+const kp=calcKPCuspAspects([{name:'Sun',siderealLon:0}],[{house:1,cusp:0}]); assert.equal(kp.status,'AVAILABLE'); assert.equal(kp.rows[0].aspect,'Conjunction');
+const lk=lalKitab35Cycle({birthJD:2451545,nowJD:2451545+10*365.2425}); assert.equal(lk.status,'AVAILABLE'); assert.equal(lk.totalYears,35);
+assert.equal(calcLalKitabAnnualHouses([{name:'Sun',house:3}],35).planets[0].annualHouse,2);
+assert.equal(buildLalKitabGrahphal(2451545,2451545+10).status,'AVAILABLE');
+const bh=buildBhavaPhala({houses:[{number:1,sign:'Aries',lord:'Mars'}],planets:[{name:'Sun',house:1}],bhavaBala:{1:{score:70}},yogas:[],doshas:{}}); assert.equal(bh.rows[0].tone,'Strong; occupied by Sun');
+const cal=calibrateEvidence([{evidenceScore:80,outcome:1},{evidenceScore:20,outcome:0}]); assert.equal(cal.status,'CALIBRATED'); assert.ok(cal.brierScore<0.1);
+const audit=buildCalculationAudit({meta:{ayanamsaMode:'lahiri',houseSystem:'whole',nodeMode:'true'},birth:{year:2000},planets:[{}],houses:[{}],dasha:{},predictionTruth:{status:'PASS'}}); assert.equal(audit.status,'AVAILABLE'); assert.equal(audit.input.fingerprint.length,64);
+const r=await calculateChart({name:'Completeness Test',sex:'Male',year:1993,month:8,day:21,hour:15,min:45,sec:0,lat:23.0225,lon:72.5714,tz:5.5,calculationDateTime:'2026-09-10T15:00:00Z'});
+for(const key of ['predictionTruth','remedySchedule','bhavaPhala','calculationAudit','kpCuspAspects','lalKitabTiming','multiSystemSynthesis','eventRemedies','fiveYearActionPlan','doshaYogaActivationTimeline']) assert.ok(r[key],`missing ${key}`);
+console.log('v6.3 completeness tests: PASS');

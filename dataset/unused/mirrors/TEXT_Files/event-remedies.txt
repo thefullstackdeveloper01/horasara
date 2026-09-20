@@ -1,0 +1,113 @@
+READABLE DATASET
+================================================================================
+Original file: event-remedies.json
+Dataset number: 117 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 1,360 bytes
+Top-level fields: 6
+
+CONTENT
+--------------------------------------------------------------------------------
+• marriage:
+  • planets:
+    1.
+      Venus
+    2.
+      Jupiter
+  • practices:
+    1.
+      Relationship harmony / Shukra-Jupiter japa according to lineage
+    2.
+      Charity or seva aligned with the selected benefic planet
+  • avoid:
+    1.
+      Do not prescribe gemstones solely from an event window
+• career:
+  • planets:
+    1.
+      Sun
+    2.
+      Mercury
+    3.
+      Saturn
+    4.
+      Jupiter
+  • practices:
+    1.
+      Career-focused Surya/Mercury/Saturn/Jupiter practice according to chart strength
+    2.
+      Skill-building and disciplined action during the evidence window
+  • avoid:
+    1.
+      No guaranteed promotion claim
+• wealth:
+  • planets:
+    1.
+      Jupiter
+    2.
+      Venus
+    3.
+      Mercury
+  • practices:
+    1.
+      Daan/japa for the activated benefic according to lineage
+    2.
+      Budgeting and conservative financial planning
+  • avoid:
+    1.
+      No financial guarantee
+• property:
+  • planets:
+    1.
+      Mars
+    2.
+      Moon
+    3.
+      Venus
+    4.
+      Jupiter
+  • practices:
+    1.
+      Traditional house/property puja or mantra
+    2.
+      Document and title due diligence
+  • avoid:
+    1.
+      No purchase decision based on astrology alone
+• health:
+  • planets:
+    1.
+      Sun
+    2.
+      Moon
+    3.
+      Saturn
+    4.
+      Mars
+  • practices:
+    1.
+      Traditional prayer/japa only as spiritual support
+    2.
+      Use qualified medical care for symptoms
+  • avoid:
+    1.
+      Astrology is not diagnosis or treatment
+• foreign:
+  • planets:
+    1.
+      Rahu
+    2.
+      Jupiter
+    3.
+      Saturn
+    4.
+      Mercury
+  • practices:
+    1.
+      Traditional Rahu/Jupiter/Saturn/Mercury practice
+    2.
+      Passport/visa/logistics verification
+  • avoid:
+    1.
+      No migration guarantee

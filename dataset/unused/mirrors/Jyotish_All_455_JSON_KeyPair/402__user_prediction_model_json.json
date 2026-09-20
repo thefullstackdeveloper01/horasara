@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "402__user_prediction_model_json",
+    "name": "user-prediction-model",
+    "original_file": "user-prediction-model.json",
+    "dataset_number": "402 of 455",
+    "format": "json",
+    "source_readable_file": "user-prediction-model.txt",
+    "source_sha256": "93a857291db180d2cad1cd7613e3bcb153ce378d346ebcae8124bd7ef32698d2",
+    "source_bytes": 1100
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "planets": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Rahu"
+            ]
+          },
+          {
+            "_text": [
+              "Ketu"
+            ]
+          }
+        ]
+      },
+      "weights": {
+        "Sun": 0.8,
+        "Moon": 0.95,
+        "Mars": 0.9,
+        "Mercury": 0.85,
+        "Jupiter": 1.25,
+        "Venus": 1.05,
+        "Saturn": 1.1,
+        "Rahu": 0.85,
+        "Ketu": 0.75
+      },
+      "chaldeanOrder": {
+        "_items": [
+          {
+            "_text": [
+              "Saturn"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          }
+        ]
+      },
+      "weekdayLords": {
+        "_items": [
+          {
+            "_text": [
+              "Sun"
+            ]
+          },
+          {
+            "_text": [
+              "Moon"
+            ]
+          },
+          {
+            "_text": [
+              "Mars"
+            ]
+          },
+          {
+            "_text": [
+              "Mercury"
+            ]
+          },
+          {
+            "_text": [
+              "Jupiter"
+            ]
+          },
+          {
+            "_text": [
+              "Venus"
+            ]
+          },
+          {
+            "_text": [
+              "Saturn"
+            ]
+          }
+        ]
+      },
+      "horaQuality": {
+        "Sun": 2.0,
+        "Moon": 2.0,
+        "Mars": -2.0,
+        "Mercury": 1.5,
+        "Jupiter": 2.5,
+        "Venus": 2.5,
+        "Saturn": -2.0,
+        "Rahu": -1.5,
+        "Ketu": -1.5
+      }
+    }
+  }
+}

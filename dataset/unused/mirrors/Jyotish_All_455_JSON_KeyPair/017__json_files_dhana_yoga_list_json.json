@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "017__json_files_dhana_yoga_list_json",
+    "name": "JSON_Files_Dhana-Yoga-List",
+    "original_file": "JSON_Files/Dhana-Yoga-List.json",
+    "dataset_number": "165 of 455",
+    "format": "json",
+    "source_readable_file": "JSON_Files_Dhana-Yoga-List.txt",
+    "source_sha256": "26d38191154d30e3f593e9d79165d3a0d720c3f5b48f8c3fc3699532d3e6fe80",
+    "source_bytes": 530
+  },
+  "metadata": {},
+  "content": {
+    "type": "array",
+    "records": [
+      {
+        "name": "Lakshmi Yoga",
+        "formed_by": "Lord of 9th in own/exalted sign in a Trikona/Kendra",
+        "effects": "Immense wealth, luxurious life."
+      }
+    ]
+  }
+}

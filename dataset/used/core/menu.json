@@ -1,0 +1,144 @@
+{
+  "MODES": {
+    "1": "milan",
+    "2": "reading",
+    "3": "panchang",
+    "4": "muhurtha",
+    "5": "horary",
+    "milan": "milan",
+    "kundali milan": "milan",
+    "kundli milan": "milan",
+    "match": "milan",
+    "matching": "milan",
+    "horoscope matching": "milan",
+    "marriage matching": "milan",
+    "gun milan": "milan",
+    "ashtakoot milan": "milan",
+    "teva milan": "milan",
+    "reading": "reading",
+    "kundali reading": "reading",
+    "kundli reading": "reading",
+    "horoscope": "reading",
+    "kundali": "reading",
+    "kundli": "reading",
+    "janam kundali": "reading",
+    "birth chart": "reading",
+    "natal chart": "reading",
+    "teva": "reading",
+    "jataka": "reading",
+    "phala": "reading",
+    "horoscope reading": "reading",
+    "panchang": "panchang",
+    "panchanga": "panchang",
+    "daily panchang": "panchang",
+    "panchangam": "panchang",
+    "almanac": "panchang",
+    "calendar": "panchang",
+    "drik panchang": "panchang",
+    "muhurtha": "muhurtha",
+    "muhurat": "muhurtha",
+    "electional astrology": "muhurtha",
+    "auspicious time": "muhurtha",
+    "shubh muhurat": "muhurtha",
+    "horary": "horary",
+    "prashna": "horary",
+    "prashna jyotish": "horary",
+    "query": "horary"
+  },
+  "MENU_DETAILS": {
+    "milan": {
+      "display_name": "Kundali Milan (Matching)",
+      "description": "Compatibility analysis between two individuals for marriage or partnership.",
+      "methods": [
+        "Ashtakoot (8-point system)",
+        "Dashakoot (10-point system)",
+        "Mangal Dosha Check",
+        "Mahendra Match",
+        "Nadi Dosha Check",
+        "Stree-Deergha Match",
+        "Rajju Dosha Check"
+      ],
+      "inputs_required": [
+        "Boy's Birth Details (Date, Time, Location)",
+        "Girl's Birth Details (Date, Time, Location)"
+      ]
+    },
+    "reading": {
+      "display_name": "Kundali Reading (Horoscope)",
+      "description": "Comprehensive analysis of an individual's birth chart, planetary positions, and life predictions.",
+      "modules": [
+        "Lagna (Ascendant) Analysis",
+        "Rashi & Nakshatra Details",
+        "Vimshottari Dasha & Antardasha",
+        "Planetary Strengths & Weaknesses",
+        "Yogas & Doshas Identification",
+        "Divisional Charts (Navamsa, Dashamsa, etc.)",
+        "Career & Finance Prospects",
+        "Marriage & Relationship Timing",
+        "Health & Longevity"
+      ],
+      "inputs_required": ["Date of Birth", "Time of Birth", "Place of Birth"]
+    },
+    "panchang": {
+      "display_name": "Daily Panchang (Almanac)",
+      "description": "Daily astrological almanac providing auspicious and inauspicious timings based on the lunar calendar.",
+      "elements": [
+        "Tithi (Lunar Day)",
+        "Vaar (Weekday)",
+        "Nakshatra (Lunar Mansion)",
+        "Yoga (Luni-Solar Angle)",
+        "Karana (Half-Tithi)"
+      ],
+      "timing_calculations": [
+        "Rahu Kaal",
+        "Gulika Kaal",
+        "Yamaganda Kaal",
+        "Abhijit Muhurtha",
+        "Amrit Kaal",
+        "Sunrise & Sunset",
+        "Moonrise & Moonset"
+      ],
+      "inputs_required": ["Date", "Location"]
+    },
+    "muhurtha": {
+      "display_name": "Muhurtha (Electional Astrology)",
+      "description": "Finding the most auspicious time to begin important life activities and events.",
+      "events": [
+        "Marriage (Vivaha)",
+        "Housewarming (Griha Pravesh)",
+        "Starting a Business/Shop",
+        "Naming Ceremony (Namakarana)",
+        "Thread Ceremony (Upanayana)",
+        "Traveling (Yatra)",
+        "Education/Vidya Arambha",
+        "Purchasing Vehicle/Property"
+      ],
+      "inputs_required": [
+        "Nature of Event",
+        "Date Range (optional)",
+        "Location"
+      ]
+    },
+    "horary": {
+      "display_name": "Horary (Prashna Shastra)",
+      "description": "Answering specific questions based on the time the question is asked, without requiring a birth chart.",
+      "types": [
+        "Question on lost items",
+        "Question on marriage",
+        "Question on career",
+        "Question on health",
+        "Yes/No specific queries"
+      ],
+      "inputs_required": [
+        "The exact Question",
+        "Current Time (auto-fetched)",
+        "Current Location (auto-fetched)"
+      ]
+    }
+  },
+  "DEFAULT_SETTINGS": {
+    "DEFAULT_MODE": "reading",
+    "DEFAULT_CHART_STYLE": "NorthIndian",
+    "DEFAULT_AMSATYPE": "Lahiri"
+  }
+}

@@ -1,0 +1,1865 @@
+READABLE DATASET
+================================================================================
+Original file: jyotish_k_p_astro_iq_easy_test.json
+Dataset number: 228 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 52,927 bytes
+Top-level fields: 11
+Title: Jyotish_K.P._Astro IQ_easy test
+Creator: —
+Date: —
+Description: —
+
+CONTENT
+--------------------------------------------------------------------------------
+METADATA AND OTHER FIELDS
+  • title: Jyotish_K.P._Astro IQ_easy test
+  • creator: —
+  • date: —
+  • description: —
+  • subject: —
+  • identifier: —
+  • source_folder: Surya Siddhanta XML
+  • total_pages: 150
+  • total_words: 9410
+  • text_quality:
+    • ocr_word_validity_score: 0.933
+    • quality_tier: good
+    • note: —
+
+FULL TEXT
+--------------------------------------------------------------------------------
+ASTRO
+IQ
+
+CONTENTS
+
+Z1
+
+ZODIAC
+Find out the Answers ? Tick (A) or CB'i
+A) LEO □ B) ARIES □
+A) TAURUS □ B) LEO □
+
+A) TAURUS □ B) GEMINI □
+A} LEO □ B) CANCER □
+
+A) PISCES □ B) LEO □
+A) VIRGO □ B) LEO □
+Astro IU
+
+A) SCORPIO □ B) LEO □
+A) LEO
+□ B) LIBRA □
+
+A) CAPRICORN □
+B) SAGITTARIUS □
+A) LEO □ B) CAPRICORN □
+Astro I
+
+A) LEO □ B) PISCES □
+Q
+
+Which Planet indicates these stars?
+Write the answer as 'A' or 'B' in the box
+13) Aries / Makam / Moolam
+A} Mercury B) Kethu
+14) Bharani, Pooramf Pooradam
+A) Venus B) Moon
+15) Krithika, Uthram, uthradam
+A) Jupiter B) Sun
+16) Rohini, Hastham, Sravana
+A) Mars B) Moon
+17) Mirgasira, Chittra, Danishta
+A) Saturn B) Mars
+18) Arudhra, Swathy, Sathabisha
+A} Kethu B) Rahu
+19) Poonarvasu, Visakam, Poorattathy
+A} Jupiter B) Saturn
+20) Pushyam, Anusham, Uthrattathy
+A) Saturn B) Kethu
+21) Aselesha, Jeshta, Revathy
+A) Mercury B) Sun
+
+Zodiacal Signs
+2 Mesha, Vrichika
+Aries Scorpio
+A) Mars B) Moon
+3) Mithuna
+Gemini
+.4} Kadakam
+Cancer
+A) Moon
+5) Leo
+6) Kanni
+Kanni
+Virgo
+A) Mercury BJ Sun
+Makara
+Capricorn
+B)Mar$
+Mesha
+Aries
+B) Mars
+Mithuna
+Gemini
+Virgo Gemini
+A) Mercury B) Sun
+
+The Zodiac and the Human Body
+31) Birth details
+A) Kabala Astrology
+B) Natal Astrology
+32) Number Astrology
+A) Omens B) Horary Astrology
+
+^Identify the signs ^
+A) Firey Sign 6) Common Sign D
+A) Earthy Sign B) Watery Sign CD
+
+Find whether Positive sign or
+Negative sign for the house?
+
+COLOUR
+What is the colour of the house?
+A} Red
+B) Green
+
+Astro IQ
+
+9} Find the sign lord?
+A) Aries B) Capricorn
+Mesha Makara □
+BO) Find the Missing house?
+
+59) OPPOSITION
+
+STANDARD TIME IS ADOPTED BY
+VARIOUS COUNTRIES AND YEARS
+
+78} Sun
+86) Mars
+
+Mention the day denoted by each Planet :
+
+A) Mars
+B) Jupiter
+A) Venus
+B) Jupiter
+A) Saturn
+B) Mars
+A) Mars
+B) Kethu
+Astro I1
+
+SI
+A} Sun
+B) Rahu
+y
+A) Kethu
+B] Uranus
+A) Neptune I — .
+B) Pluto U
+A) Pluto
+B} Sun
+
+A) Fortuna
+B) Sun
+
+A) Scorpio
+B) Leo
+A) Sagittarius
+B) Libra
+A) Capricorn
+B} Libra
+am
+A) Aquarius
+B) Libra
+Astro IQ
+
+THE NODES - RAHU AND KETHU
+Write the correct answer 'A' or 'B'
+1 1 9) Moon in ASWINl known as:-
+what planet?
+A) Rahu B) Kethu
+120) Moon in ARUDHRA known as :
+what planet?
+A) Rahu B) Kethu
+121)Moon in MAKAM known as:-
+what planet?
+A) Rahu B) Kethu
+122)Moon in SWATHY known as
+what planet?
+A) Rahu B) Kethu
+123}Moon in MOOLA known as :
+what planet?
+A) Kethu B) Rahu
+124)Moon in SATHABISHA known as:
+what planet?
+A) Rahu B) Kethu
+B) Kethu
+
+125}Monday between 7.30 a.m.&9.00 a.m
+known as
+A) Rahukalam B) Yamakandam
+126) Friday 15 Hours to 16.30 Hours
+known as'
+A) Rahukalam B)Yamakandam
+known as ?
+A) Rahukalam B)Yamakandam
+A) Rahukalam B)Yamakahdam
+A)Yamakandam B) Rahukalam
+130) IS 365 V4 solar days are equivalent
+to 366 V4 Sidereal days ?
+A) Yes B) No
+131) Moon, Mars, Mercury, Jupiter, Venus,
+Sun - Find out the missing planet?
+A) Saturn B) Sun
+1 32) Lord Rama's Star - Find out.
+A) Jupiter Star / Punarpoosam Star
+B) Saturn / Arudhra Star
+1 33) How much time 'the Sun' will take to
+go round the Eclipse ?
+A) Six month B) One Year
+
+I WHOM TO PRAY -
+i GOD AND GODDESS
+Write the correct answer in the box
+134) Which planet indicates the God
+Vishnu ?
+A) Saturn B) Mars
+C) Moon D) Mercury
+135) Lord Suryanarayana is indicated by
+which planet ?
+A) Sun B) Mercury
+C) Mars D) Rahu
+136) Suppose a person is favourable with
+Mercury and Moon to whom he has to
+pray ?
+A)Goddess Saraswathi B) Vishnu
+C) Goddess Durga D) Rama
+137) Favourable planets are Mars and
+Mercury-Tell about the God's Name ?
+A) Murugan B) Veera Raghava
+C) Vishnu D) Krishna
+138) Which planet indicates
+'Lord Venkateswara'?
+A) Mercury, Mars and Saturn
+B) Moon C) Sun D) Rahu
+
+1 39) If Mercury and Saturn are favourable^
+Pray?
+A) Murugan B) Ayyappan
+C) Ramar D) Anjaneya
+140) Which planet is favourable for Irtdran
+A) Jupiter B) Venus
+C) Saturn D) Sun
+141) Mars and Jupiter indicates-which God?
+A) Lakshmi B) Krishna
+C) Murugan D) Anjaneya
+142) To pray Lord Krishna which planets
+should be favourable ?
+A) Jupitar- Saturn B) Jupiter
+C) Mercury D) Rahu
+143) To Pray Lord Ganesh which planets
+should be favourable?
+A) Jupiter B) Venus
+C) Sun D) Kethu
+
+MUSIC AND MIND
+Write the correct answer in the box:
+144) Which house indicates 'Music'?
+A) First B) Second
+C> Tenth D) Fifth
+145) Which house indicates 'Vocal'?
+A) Second B} Seventh
+C) Fifth D) Sixth '
+146) Which sign indicates 'Flute'?
+A) airy sign B) watery sign
+C) earthy sign
+147) Which sign indicates 'Nadhaswaram'?
+A) firey sign B) watery sign
+C) airy sign
+148) Which sign and planet shows -
+'Mirdangam' ?
+A) Mercury-earthy sign
+B) Mars - firey sigg
+C) Moon- watery sign
+149) 'Veena' indicates which sign and
+with which planet ?
+A) Mars and Moon connected with
+Firey sign
+B) Neptune and Venus connected
+
+with Airy sign
+CJ Jupiter and Saturn connected with
+Earthy sign
+150) 'Jaladharangam; denotes which sign
+of the Zodiac ?
+A) earthy B) firey sign
+C) watery sign D) airy
+151) 'Tabala'denotes which sign of the
+Zodiac ?
+A) earthy sign B) airy sign
+C) watery sign D) firey sign
+152) To make a person 'Vocalist' ?
+A) Mars B) Moon
+C) Moon/Venus D} Saturn
+
+Choose the correct symbols and write in the box
+153) Find the Symbol of LEO from the following ?
+
+1 56) Find the Symbol of SCORPIO from the
+following?
+A B C D □
+1 57) Find the Symbol of SAGITTARIUS from the
+following ?
+A
+B
+
+165) Find the Symbol of SUN from the following ?
+A B C D □
+
+168) Find the Symbol of MERCURY from the
+following ?
+A B C D □
+l69)Find the Symbol of JUPITER from the
+following?
+lr
+E
+B C
+1 70)Find the Symbol of VENUS from the
+following?
+A.
+BCD
+Astro IQ
+
+1 75) Find the Symbol of NEPTUNE from the
+following?
+yf k © a
+1 76) Find the Symbol of FORTUNA from the
+following ?
+
+PLANETS
+FAVOURABLE & UNFAVOURABLE
+Choose the correct answer from the following:
+177) Person born in between April 15 to
+May 14 or Aries sign which ere the
+(i) Favourable planets
+A) Sun and Jupiter
+B) Jupiter and Mars
+C) Mercury and Rahu
+(ii) Unfavourable planets ?
+A) Mercury, Venus, Saturn, Kethu
+B) Sun and Moon
+C) Jupiter and Venus
+1 78) Birth sign is Taurus which are the
+(i) Favourable planets
+A) Saturn and Sun
+B) Moon and Mars
+C) Mercury and Venus
+|ii) Unfavourable planets ?
+A) Saturn and Sun
+(8) Jupiter, Venus and Moon
+(C) Mars, Saturn and Rahu
+
+Astro IQ
+
+(ii) Unfavourable planets
+A) Mars and Sun
+B) Moon
+C) Mercury, Saturn, Venus
+182) Virgo - birth (lord Mercury}?which are the
+(i) Unfavourable planets
+A) Saturn
+B) Moon, Jupiter and Mars
+C) Sun
+(ii) Favourable Planets
+A) Moon and Mercury
+B) Rahu
+C) Venus
+183) Born in Libra Sign which are the
+(i) Favourable planets
+A) Saturn and Mercury
+B) Mars
+C) Moon
+(ii) Unfavourable planets?
+A) Saturn and Sun
+B) Sun and Jupiter
+C) Mars and Moon
+184) Born in Vrischika (or) Scorpio* sign
+which are the
+(i) Unfavourable planets
+A) Sun
+
+B) Jupiter
+C) Mercury, Saturn
+(IT) Favourable planets
+A) Sun, Moon and Jupiter
+B) Venus and Moon
+C) Mars
+1 85) Sagittarius bom which are the
+(i) Unfavourable planets
+A) Venus
+B) Moon
+C) Jupiter
+(ii) Favourable planets ?
+A) Sun
+B) Mercury
+C) Saturn
+186) Makara borns which are the
+(0 Good planets
+A) Venus
+B) Sun
+C) Moon
+(ii) Bad planets
+A) Mars
+B) Jupiter
+C) Rahu
+
+1 87) Aquarius borns which are the
+(\) Evil planets
+A) Mars
+B) Moon
+C) Jupiter
+ii) Good planets
+A) Saturn
+B) Venus
+C) Sun
+188) Born in Pisces. , which are the
+0} Bad planets
+A) Mars
+B) Sun
+C) Mercury
+(ii) Good planets
+A) Moon
+B) Mars
+C) Saturn
+
+I t RULING planets ))
+! Tick the correct Answer : -
+195) To find out Ruling Planets which is
+thecorrect method- Select from the
+following ?
+A) Lagna-Sign lord/Star lord/Sub Lord
+Moon-Sign lord/Star lord/Sub Lord
+B) Dasa iord/Bhukthi lord/Anthra lord O
+196) According to K.P. which is the most
+important significator?
+A) Occupant's constellations lords &
+Occupants
+B) Owner in the constellation
+C) Owner only O
+197) To find out the significators which is the
+correct procedure?
+A) owner of house and its stars
+B) Occupant in the constellation
+C) Occupant
+D) Owner
+E) Owner in the constellation □
+Q
+
+f HOUSES AND THEIR
+SIGNIFICANCE
+Tick the correct one : -
+198) Which houses will relate to the Law suitsCourt case-2nd wife, Promissory notes, financial
+status, wealth, Kudumba Vakkusthana?
+A) First D B) Third Q
+C) Fifth □ D) Second □
+199) Which house will indicate the following-self,
+one's temperament, his mind, dignity,
+honourable living, enjoying or sufferings ?
+A) Fourth Q B) Tenth □
+C) First ’ □ D) Third □
+200) Which house will indicate about lottery & luck
+neighbour, letters, correspondence, partition,
+mental inclination, Mathematics, signature,
+change of residence?
+A) Nineth D B) Sixth D
+C) Tenth □ D) Third □
+201) Mention the correct house which deals about
+Father, House, landed Property, immovable
+
+assets, car, treasure, education?
+A) First □ B) Fourth □
+C) Tenth D D) Sixth Q
+202) Se1ect the house which deals with. Children,
+speculation, racing, games & sports, music
+and dance ?
+A) Fifth □ B) Eighth □
+C) Seventh D D} Tenth D
+203) Pick out the correct house deais with
+Disease, Service, Debt, difficult, pet animals,
+cattle and tenant?
+A} Fifth □ B) Tenth D
+C) Seventh □ D) Sixth □
+204}Which house tells about marriage, law suit,
+partner, recovery of lost property, life
+partner,?
+A) Seventh □ B) Nineth □
+C) Eighth O D) Twelveth O
+205)Mention the correct bhava which deais withSafety, Yoga, Mantra, Pooja, Long journey.
+Church, Religion, Science, Further Education?
+A} Nineth D B) Tenth O
+
+C) Sixth O D) First O
+206) Setect the bhava which deals with King,
+Ministers, business, lawyers, noble jobs, one's
+profession, magistrates?
+A) Second O B) Tenth G
+C) Third □ Dj Fourth □
+207) Pick out the aorrect bhava which deals with
+friends, hopes, advisers, realisation of
+ambition ?
+A) Sixth □ B) Third □
+C) Second G D) Eleventh Q
+208) IVIention correct bhava which deals with trials
+and tribulation. depression, friend imprisonment,
+secret enemies deception and loss, away from
+the native place ?
+A} First Q B) Twelveth Q
+C| Second Q D) Third G
+209}Which Bhava tells about ... Death, evil,
+longivity, dowry, money, partner ?
+A) Sixth Q B} Eighth Q
+C) Nineth G D) Tenth G
+
+i ASPECTS AND AYANAMSA
+I13)Which is the correct aspect and equal to
+Dasa- Bhukthi-Anthra -Sookshama ?
+A) House - Nakshatra-Pada-Sookshama
+B) Star - Sub / Sub, Sub / Sub, Sub, sub
+
+15} How to find out ’Fortuna' Select the
+correct method from the following?
+A) Asc, Long + Moon's Long
+= Sun's Long □
+B) Sun's Long + Moon’s Long
+= Asc. Long D
+K.P.KRISHMAN’S
+MEDICAL ASTROLOGV
+FOR ALL
+Contact:
+Krishman & Co.,
+804, Anna Salai,
+{opp: to LIC Building)
+
+Tick the correct one from the following
+216) If Saturn afflicting Sun what will be
+the disease
+A) Low B.P.
+B) Haemorrhage
+C) High B.P.
+21 7) If Mars afflicting Sun what will happen ?
+A) High B.P.
+B) Operation
+C) Haemorrhage
+21 8) If Jupiter afflicting Sun-result is what ?
+A) Low B.P.
+B) High B.P.
+G) Operation
+219)To see ones diseases from which house
+you have to see?
+A) II House.
+B) VI House
+C) IV House
+
+221 1 I. Name the planet outside the orbit of
+Earth?
+A) Mars O B) Venus □
+II. Name the planet inside the orbit of
+Earth?
+A) Venus □ B) Mars D
+Q
+
+1-Ua
+Indicate the zodiac of each figure,
+<e.g.) Fig , 1 Stands for Aries
+Fig 2 Stands for
+Fig 3 Stands for
+Fig 4 Stands for
+
+Astro IQ
+
+PROFESSION
+Answer whether you agree or not?
+225} Aries Lord of Mars. If the other two planets
+are lord of the Sub and the Constellation Lord
+were to be :
+A) Both Sun Lord of Sub and Lord of the
+Constellation then Government □
+B) Both sun Lord of Sub and Lord of the
+Constellation then Businessmen u
+226) A) Sun & Moon : is either Sun or Moon is the
+Sub lord and the other is the lord of the
+constellation, where the Sub lord of the Meridian
+was, then Navy Boiler Feed. Steam Engineer,
+Nurse in the Surgical Wards LJ
+B) Saturn & Mars : is either Saturn or Mars is
+the Sub lord and the other is the lord of the
+constellation, where the Sub lord of the Meridian
+was, then Navy Boiler Feed. Steam Engineer,
+Nurse in the Surgical Wards □
+227} A) Sun St Mars : One who goes to the front
+during war, Military, Sun & Mars connected
+with Jupiter, Law and Order, Police connected
+with Venus also Traffic Police. u
+Astro IQ
+
+B} Saturn & Mars : One who goes to the front
+during war. Military, Saturn & Mars connected
+with Jupiter, Law and Order, Police connected
+with Venus also Traffic Police. □
+228) A) Sun and Mercury : Postal, Communication,
+Telegraph, Telephone; if Jupiter is connected.
+Press and Publicity, Journalism. If venus is also
+connected Radio Mechanical engineering
+works and Housing.. □
+B) Saturn and Moon: Postal Communication,
+Telegram Telephone; if Jupiter is connected
+Press and Publicity, Journalism. If venus is also
+connected Radio, Mechanical engineering
+works and Housing.. □
+229) A) Sun and Jupiter : Education Department,
+even in Military, Military School, Law
+Department, Judge, Religious Endowment
+Board, Finance Department Nationalised Banks,
+Reserve Bank. O
+B) Saturn and Venus : Education Department,
+even in Military, Military School, Law
+Department, Judge, Religious Endowment
+Board, Finance Department Nationalised Banks,
+Reserve Bank, □
+Astro !■
+
+>30) A)Sun and Venus : Transport, Airforce, Music,
+Medicine, Chemist, Veternary Department, if
+Saturn is connected Leather Industry or Family
+planning Department. If Jupiter is connected
+Animal Husbandry. □
+BISaturn and Jupiter: Transport, Airforce, Music
+Medicine, Chemical, Veternary Department, if
+Saturn is connected Leather Industry or Birth
+control. If Jupiter is connected Animal
+Husbandry. EH
+>31 )A} Sun & Saturn: Mines, metals. Coil, Minerals
+Tailors, Sextons, Grave Diggers, Watchman,
+Night Duty. ED
+B) Sun & Venus : Mines, metals, Coil, Minerals
+Tailors, Sextons, Grave Diggers, Watchman,
+Night Duty, D
+>32} A)Moon and Mars : Navy, Sailors, Dealing in
+Petroleum Products.. O
+B) Mercury & Saturn : Navy, Sailors, Dealing in
+Petroleum Products.. O
+>33)A)Moon and Mercury : Secretaries, Marine,
+Interpreters, Engineers, Messengers. O
+B}Sun and Venus : Secretaries, Marine,
+Interpreters, Engineers, Messengers. ED
+
+234)A)Moon and Jupiter: Physicians, Overseas
+Bank Foreign Exchange. O
+B) Mars and Sun : Physics, Overseas Bank
+Foreign Exchange. D
+235}A} Moon & Venus : Painter, Milk Dairy Farms,
+Plumbers, Silk Merchants, Tailors for women,
+Nurses, Butlers, Cooks □
+B) Saturn & Mars : Painter, Milk Dairy Farms,
+Tailet Makers, Silk Merchants, Tailors for
+women, Nurses, Butlers, Cooks EH
+236) A) Moon and Saturn:Excavation of Wells, Rein
+forcing the bund of the lakes, geologists. Petrol
+Dealers, Oil Pump sets etc. CD
+B) Mars and Sun : Excavation of Wells,
+Reinforcing the bund of the lakes, geologists.
+Petrol Dealers, Oil pump sets etc. O
+23 7) A) Mercury and Jupiter:Councilors,Clergymen,
+Advertising, Agents Press, accountants in
+Finance in bank. CD
+B)Venus and Moon : Councilors, Clergymen,
+Advertising, Agents, Press, Accountants in
+
+c PRAYERS
+To ward off the Evil indicated by Mars and
+to enjoy beneficial results one should pray to
+the following Gods : Indicate which planet
+will bring result on worship of these Gods?
+242} If — is not connected with any
+Planets then Lord Murugan/Subramania
+A.) Mars B.}Moon}
+243) If connected with-
+(Veerabhadra/Suriya Namaskaram)
+A.)Sun B.) Moon
+244) If Connected with
+(Kali/Parvathi/Lalitha)
+A.) Moon B) Mars
+245) If connected with (Narasimha/
+Veeraraghava)
+A.) Mercury B.) Jupiter
+246) If connected with
+(Lakshmi Narasimha)
+A) Mars/Saturn B) Mercury & Venus
+247) If connected with (Lord Anjaneya)
+A) Mars/Moon B) Mercury & Saturn
+Astro IQ
+
+148} If connected with
+(Sathyanarayana)
+A) Mars / Moon B) Jupiter
+149} If connected with (Mahalakshmi)
+A) Mars / Moon B] Mercury & Saturn
+150) If connected with (Karuppannan,
+Madurai Veeran)
+A) Mars / Moon B} Saturn
+151) If connected with
+Venkatachalapthi
+A) Moon / Mars
+B) Saturn, Rahu &Mercury
+152) If connected with- (Lord Ayyappan)
+A) Mars / Mercury B) Saturn & Rahu
+153) If connected With — (Lord Hyagriva)
+A) Mars / Saturn B) Mercury & Mars
+154) If connected with (Lord Ganesh)
+A) Mars / Mercury B) Kethu
+155) If connected with
+(Vallabha Ganapathy)
+A) Mars / Moon B) Venus / Kethu
+156) If connected with (Lord Uchishta
+Maha Ganapathy)
+A) Saturn / Moon
+B) Mars, Venus and Kethu
+Astro IQ
+
+DOMESTIC ENVIRONMENT
+il s ; 'i
+Write the Suitable Zodiacal Signs for Domestic
+Environment.
+257) People born in love their house and
+family. They will always try to be in the
+midst of their family members. They try to
+keep the house neat.They are excellent hosts
+and keep good company.
+A) Aries B)Taurus
+C) Gemini D) Cancer d
+258) For domestic environment and happiness,
+which Zodiac sign will suit ?
+Mars born in — are good providers and
+the women are good Home makers. There
+will be happy and harmless life. They have
+comfort, rest and peace of home. They like
+their native land. Scenary will attract them;
+peace, pleasure, property, popularityand
+position.
+A) Aries B) Taurus _
+C) Gemini D) Cancer L- I
+258)A)One wants to propitiate God and if
+theperson has the following combination in
+his horoscope, if the planet ? has any
+connection with other planets occupying their
+sign he has to make a judicious choice and
+to cultivate steady habits, concentrate and
+meditate, properly, as Mercury denotes
+vacifation and lack of concentration.
+A) Moon B) Mercury) D
+
+Indicate Which Planet Signifies the
+Propitiation of These Gods?
+Astro I
+
+t ASTROLOGICAL TERMS J)
+Write the answer in the box 'A' or *B':
+1269) Adverse aspects between planets or between
+a planet and a Cusp (House) planets getting
+debilated or conjoined with evils are also said
+to be ?
+A) Affliction B) Application □
+270) House, 1, 4, 7 and 10 are said to be the
+angular houses, Hindus call them as
+KENDHARASTHANAS
+A) Angles B) Trine □
+271) Sub Division of Bhukthis in each Dasa in
+Vimshottari Dasa System is called
+A) Anthras B) Bhukthi D
+272) The Part that rises in the East at the time of
+birth of a Child or commencement of an Event.
+| It is also called LAGNA?
+A)1 Ascendant B) 12th House Q
+273) Every Planet has its own orbit, that area in
+the .orbit which is farthest from the Sun is
+J called?
+A) Aphelion B) Perhelion □
+
+274) The approach of one planet to another planet
+to the exact form as aspect of the approach
+of the planet to the Cusp of a house is called?
+A) Application B) Affliction O
+275) The distance measured along a circle is
+called
+A) Arc B) Aspects D
+276) Long and Short through each Sign is 306 yet
+this term is used to show that some signs
+take long duration to the east?
+A) Ascensions B) Angles D
+277) Angular distance between planets and Cusp
+between planets themselves?
+A) Aspects B) Arc Q
+278) Gemini, Leo and Virgo indicates whether/
+A) Barren signs B) Airy signs D
+279) Jupiter, Venus, Waxing Moon and Unafflicted
+Mercury?
+A) Benefics B) Malefics Cl
+280) The exact moment when the whole body of
+the child gets separated from, the mother is
+called?
+A) Birth time B) After birth
+
+281) The relative position of two planets or any
+planet in 44 degrees from the Cusp of a
+House is called....
+A) Favourable aspect
+B) Unfavourable aspect D
+282) Sub Division of Vimshottari Dasa is called
+A) Bukthi B) Dasa D
+283) House, 3, 6, 9 and 12 are called houses,
+generally, the planets here become weak?
+A) Cadent B) Bukthi O
+284) Aries Cancer, Libra, Capricorn are called
+signs, the Sun's declination gets changed,
+therefore seasons also changed?
+A) Cardinal Signs
+B) Aspects Q
+285) Any planet which is within 8°-30; of the Sun
+is said to be It is considered as a
+detrimental configuration?
+A) Combust B) Aphelion D
+286)Gemini, Virgo, Saggitarius and Pisces, mention
+the signs
+A) Common Signs B) Uncommon Signs O
+
+287} If the degree of Longitude or Two planets
+happens to be the same, they are called?
+A} Conjuntion B) Cusp D
+288} Means a star covering 13° 20' the Zodiac is
+divided into 27 Equal parts called Stars or
+Nakshatras?
+A) Constellation B} Aspects O
+289} If exact degree and minute of the beginning
+of a house and the end of the previous house
+is called?
+A) Cusp B) Arc D
+290} A certain year is allotted to each
+planet. Vimshottari Dasa System. Total
+period of all the 9 planets in 120 years is
+called ?
+A) Dasa B) Sub O
+291} A planet which is very weak in certain sign,
+just opposite to exaltation sign is called?
+A} Debilitation B) Semi Quintile D
+292) Which is called as Semi Quintile 36° aspect
+slightly good?
+A) Decile B) Dasa Q
+
+293) The Zodiac (360°) is divided into 12 Equal
+Parts of 30° each, A degree contain 60° and
+every minute contains 60 seconds of
+Longitude?
+A) Degree B) Day □
+294) The exact part that sets at the time of birth
+7th Cusp beginning is called ?
+A) Decendant B) Degree □
+295) A Planet in the sign opposite to the one
+which it rules is called?
+A) Detriment B) Decile EH
+296) The Node Rahu is otherwise called Dragon's
+head Caput Dragons of Moon's North Node,
+called as?
+A) Dragon's Head B) Dragon's Tail □
+297) Most powerful position of a planet is called.,
+A) Exaltation B) Debilitation O
+298) Taurus, Virgo and Capricorn are called.,
+A) Earthy sign B) Double bodied sign □
+299} An almanac wherein you can find the position
+of a planet, mutual aspect and sidereal time
+for a particular year to erect a horoscope is
+called
+
+A) Ephemeris B) Tables of Houses □
+300} The apparent line that is drawn in the centre
+of the earth which divides it as the
+Northern and Southern Hemispheres?
+A} Equator B) Equinox □
+301) Equal Night and Day are called
+A) Equinox B) Equator Q
+302} Neptune, Venus and Moon are called.,..
+A) Feminine Planets
+B) Masculine Planets □
+303} Aries, Leo and Sagittarius are called
+A) Fiery signs B) Earthy signs □
+304} Taurus, Cancer, Virgo, Scorpio, Capricorn
+and Pisces are called......
+A) Feminine Signs B) Masculine Signs D
+305) Houses, 2, 5, 8, 1 1 are called
+A) Fixed houses B) Movable houses □
+306} Taurus, Leo, Scorpio and Aquarius?
+A) Fixed signs B) Movable signs Q
+
+307) All astrological aspects are related to the
+Earth is called?
+A} Geocentric B) Helico Centric □
+308) This is a branch of Astrology whichanswers
+to any important question with the help of a
+chart erected at the time of query?
+A) Horary B) Natal □
+309) A term meaning a planet which has no
+aspect or parallel with another
+A) Inconjuhct B) Conjunct Q
+31 0} When a planet clears the Sun's beams till it
+reaches the opposition it will ?
+A) Increase in fight
+B) Decrease in light □
+311) Usual speed is called?
+A) Motion B) Stand still O
+312) The distance of planet or star which is
+called
+A) Celestial B) Latitude O
+313) The distance of the places on Earth North
+and South of Ecliptic ?
+A) Terrestrial Latitude
+B) longitude □
+
+314} North or South of Ecliptic is called ?
+A} Latitude B) Longitude □
+315} Sun and Moon they are also named to
+Luminaries because of ?
+A} Light B) Darkness D
+316) Degrees from the starting -Aries 0° is called?
+A) Longitude B) Latitude O
+317) The distance of a place East or West to
+Greenwhich is called?
+A) Terrestrial longitude
+B) Terrestrial Latitude D
+318) The period taken by Moon to complete a
+circle i.e.27 days 7 hours 43 minutes is called
+A) Lunation B} Celestial □
+319) Mars, Saturn, Uranus, Neptune, Waxing
+Moon and afflicted Mercury are said to be
+evil planets offering undesirable results?
+A) Malefics B) Benefics EH
+320) Aries, Gemini, Leo, Libra, Sagittarius and
+Aquarius are which signs
+A) Masculine signsB) Feminine signs □
+
+321) Uranus, Saturn, Jupiter, Mars and Sun are
+called?
+A)Masculine Planets B) Feminine Planets LJ
+322) Aries, Cancer, Libra and Capricorn are
+called...
+A) Movable Signs B) Fixed LJ
+323) A branch of the Science which deals nature
+are called...
+A) Mundane B) Progression LJ
+324) Ecilipses, increases great conjunctions, or
+comets, effects which indicates the
+affections to nations or community?
+A) Astrology B) Psychology LJ
+325) Rahu and Kethu are two nodes of moon
+generally the point of the Zodiac, where Sun
+or Moon crosses from the South to North
+latitude is the ascending node and the point
+of the Zodiac where the Luminaries crosses
+from the North Latitude to South Latitude is
+called the descending node. Each planet has
+got its own ascending and desecending nodes
+except the Sun.?
+A) Nodes B) Powerful planet LJ
+326) 180° apart an adverse aspect diametrically
+is called...
+A) Opposition Aspect
+B) Trine aspect LJ
+
+327} The distance in Longitude within which the
+influence of a planet or aspect will operate
+(generally it is 8°) ?
+A) ORB B) ARC □
+328) Equal distance from the Equator planets
+having the same declination either South or
+North are parallel. The results will be similar
+to conjunction, This aspect will be strong of
+both planets are in the same sign or both
+either in South or North declination?
+A) Parallel Bj ORB □
+329) The sensitive point which is equal distance
+from the lagna as the Moon is from the Sun
+in Longitude?
+A) Pars-fortuna B) Platic LJ
+330) The hours of the days are ruled by planets
+in their order from Saturn onward to the
+Moon?
+A) Planetary hours B) Parallel D
+33 1 )This is an aspect not exact as to the degrees
+but within the orb of influence?
+A) Platic B) Pre-natal Epoch D
+332)The Astrological moment of conception about
+9 solar months of 10 Lunar months before
+birth and not the moment of physical union,
+The Moon's place or its opposite, on epoch
+day becomes either the ascending or
+descending sign and degree of birth?
+S3
+Astro.JQ
+
+A) Pre-natal epoch B) Platic
+33) Planet that which upholds life?
+A) Prorogator B) Planetary O
+34) The four quarters in a chart or the four
+season of the year or Zodiac?
+A) Quadrants B) Quartile D
+35} The adverse square aspect of ninety
+degrees?
+A) Quartile B) Quincunx O
+36} 150° apart slightly adverse aspect it gives
+the effects of sixth house results?
+A) Quincunx B) Quintile □
+37) 24° aspect which is slightly good
+A) Quincile B) Quincunx D
+38) 72° aspect slightly good aspect it gives the
+results similar to 5th house matters.
+A) Quintile B) Quincile O
+39) The natal chart is called?
+A) Radical B) Rays D
+40) A method of correcting the time of birth is
+called?
+A) Rectification of Horoscope
+
+B) Casting Horoscope
+341) Sometimes planets appear to have backward
+motion mainly in consequence of the relative
+position and motion of the earth. What is the
+motion called ?
+A) Retrograde B) Direct C
+342) Sun's return, a chart made for sun's return
+to the EXACT position which is occupied at
+the time of birth or even known as?
+A) Revolution B) Rising sign □
+343) Measurements made along with equator
+from the beginning of Aries 0° this is
+represented by what ?
+A) Right Ascension B) Revolution □
+344) The sign which rises at the time of birth
+(The Cusp of first house on Eastern Horizon)
+and place for which a chart is prepared. It is
+also termed as ascendent?
+A) Rising sign
+B) Right Ascension □
+345) An attendant body revolving about a larger
+one, its primary, what is it called?
+A) Satellite B) Semi-Decile d
+
+346} 1 8° aspect otherwise called vlglntile — slightly
+good
+A) Semi-Decile B) Semi quintile ED
+347) . 36° aspect otherwise termed as Decile as
+Minor good aspects?
+A) Semi quintile B) Semi Decile □
+348) 135° aspects slightly adverse aspect ?
+A) Sesqui quardrate B) Semi quintile □
+349) 45° aspect otherwise termed as semi
+quadrate slightly adverse ?
+A) Semi square B) Semi decile Q
+350) 30° aspect Minor benefit aspect ?
+A) Semi sextile B) Semi square □
+351} Moving away from the planet or aspect?
+A) Separation B) Application ED
+352) 60° aspect slightly good?
+A) Sextile B) Semi sextile ED
+353) Aries, Taurus, Gemini, Capricorn?
+A) Short B) Sextile ED
+354} Aquarius and Pisces are the short ascension
+signs in Southern Hemisphere long and short
+
+signs must be' reversed?
+A) Ascension signs B) long signs □
+355) Right ascention of the Meridian as Mean Noon
+Birth Time has to be converted in Sidereal
+time to fix up Cusp of houses for the latitude
+of birth ?
+A)Sidereal time B) Significator O
+356) When a fast moving planet is approaching
+the planet which is in slow motion and
+applies to some aspect, it is termed as ....
+A) Sinister aspect B) Significator □
+357) The Planet which rules the ascendant in natal
+astrology, called
+A) Significator B) Sinister aspect □
+358) When a planet moves slowly that its mean
+motion it is called,..,
+A) slow in course B) star O
+359) Cancer and capricorn which in contra
+distinction to equanotical signs have the
+longest summer days and longest winter
+nights.
+A) Solistial signs B) Slow in course □
+360) 90° aspect strong, malefic aspect called as
+Astro IQ
+
+A) Square B) semi-square □
+361) Libra, Scorpio, Saggittarius, Capricorn,
+Aquarius and Pisces, Sun has south
+declination while in these six signs called...
+A) Southern Signs B) Square O
+362) When a planet is in its station
+apparently, standing without any movement
+between retrograde and direct motions it is
+only an appearance due to the relative motion
+to the Earth and the position of planets?
+A) Stationery B) Direct D
+363) Constellation Zodiac divided into 27 equal
+parts, each part consists of 13°~20' and
+called as nakshatras or asterisms. All the
+27 are given different names i.e.Aswini to
+Revathi?
+A) Star B)Planets □
+364) 2,5, 8 and 1 1 houses are called
+A)Succedent house B) Stars House O
+365) Pluto, Neptune, Uranus, Saturn, Jupiter and
+Mars have their orbit line beyond that of the
+earth from the Sun. They are known as?
+A) Superior Planets B) Average Planets CU
+
+366) Division of each star in the proportion as
+the Sub division of Vimshodhari Dasa is done
+which is called?
+A) Sub B} Ruling planet D
+367) When a planet moves faster than its mean
+motion?
+A) Swift in motion
+B) Slow in motion D
+368) Time consumed by Moon after leaving the
+Sun tili she joins again in 29 days 12 hours
+44 minutes and 3 seconds?
+A) Synodical Lunation
+B) Swift in motion D
+369) A ready reckoner with which we can fix up
+the Cusp of houses for each latitude of birth
+its accordance with sidereal time at birth? -
+A) Tables of houses B) Ephemeris □
+370) The passage of a planet by Ephemeris motion
+known as?
+A) Transit B) Sub D
+371) 120° a major good aspect ?
+A) Trine B) Affliction O
+372) An equilateral triangle at the points of which
+are signs of the motion. Thus there are four
+triplicities which represents elements of fire.
+
+376) Actually, it is the point direct over head, of
+ten incorrectly referred to as the. Mid Heaven
+note that the Mid heaven in South of its
+points at the ecliptic
+A) Zenith B) Nadir d_
+377>A belt around the heavens which is 15° to
+18° wide this is divided into 12 equal parts
+called signs through which the planets move,
+each in an orbit of its own
+A) Zodiac B) Zenith d
+378) Aspect in the Zodiac measured by sign and
+degree are called
+A) Zodiac Aspect B) Zenith d
+
+4 minutes correction per degree for places
+beyond and below 82°-32' per degree longitude
+and Latitude of various places :
+MENTION CORRECT L.M.T. OF EACH PLACE
+
+Astro I
+
+t The Planets - How do they act h
+Say 'Yes' or 'No'
+397.) For a birth according to birth time, according
+to longitude and latitude of a place, Lagna is
+formed. The lagna thus formed is taken as
+first house, the other houses are calculated
+and the planetary positions are fixed in the
+Rasi chart. Then the prediction is made on
+the characteristics of the 12 houses and the
+planets connected with them
+i) The 1 st house tells about the Native himself.
+A) Yes B) No □
+ii) The 2nd house about his dhana, speech,
+family
+A) Yes B) No □
+iii) 3rd house about younger brother
+A) Yes B) No □
+iv) 4th house about mother, education, vehicle
+A) Yes B) No O
+v) 5th house about children
+A) Yes B) No □
+vi) 6th house about Debt, disease.
+Astro IQ
+
+A) Yes B) No
+vii) 7th house about life partner
+A) Yes B) No □_
+398) Moon, Star lord of Rohini is lord of 1 2th to
+Simha lagna, thereby a Vryadhipathi. Unless,
+Moon occupies favourable houses 2-10-11 or
+in the stars of lords of 2-10-11, Moon will
+compel Venus to give the results of its 12th
+house, only to result in total destruction.
+A) Yes B) No n_
+399) In the same manner. Mars is star lord of
+Mrigasira, Mars is badhakadhipathi (lord of 9)
+for Simha lagna. Mars too, if he is an occupant
+of 5-8-12 or in the stars of lords of 5-8-1 2.
+Venus will not only destroy the profession,
+but also cause danger to the very life.
+A) Yes B) No □_
+400) On the predictive side, without making a deep
+analysis, expressing several views contrary
+to each other, has weakened astrology, a
+superbscience, resulting in the spread of a
+false notion that Astrology is only
+superstition.
+A) Yes B) No □
+
+-01) When Rishaba Rasi matters as 10th house
+and relevant to Venus in the 10th in his own
+house, to foretell that Venus will give a very
+favourable profession with very good profits,
+whereby the Native will lead a prosperous life
+is not at all an intelligent approach to the
+Predictive Astrology is hereby well explained.
+A) Yes B) No □
+-02) As explained above when the 10th house
+falls in Mesha- Venus star-Venus sub area,
+depending on the nature of Lagna lord the
+profession indicated will be connected with
+four wheeler motors, hotel, cotton or yarn
+trade etc.
+A) Yes B) No u_
+■03) If the 1 0th Sub area is saturn - the profession
+is set to handle sales of once used iron or
+similar to it. Saturn indicates old materials.
+Once used, second hand materials all
+related to iron. Therefore, any house, that
+falls as 10th house as explained above., to
+the level of sub only a profession will be set.
+A) Yes B) No □
+■04) If the 10th sub area is Mars - profession is
+set to be Building construction. Engineering
+etc.
+Astro IQ
+
+A) Yes B) No □_
+405} If the 10th sub area is Moon - Profession is
+set to dealer in oil, ghee, petrol bunk
+A) Yes B) No □
+406) For example - for Mesha Lagna, Mercury
+lord of 6th say stationed in 6th. Saturn,
+lord of 10-11 stationed in Dhanus aspects
+this Mercury by its 10th aspect, or stationed
+in Cancer aspects this Mercury by 3rd aspect,
+during Saturn Dasa Mercury bukthi or
+Mercury Dasa Saturn bukthi or Mars Dasa
+Saturn bukthi, Mercury anthara this Native
+will face imprisonment or face harassment
+in any manner from the Government. The same
+Mercury, if it had the aspect of Jupiter, inspite
+of Jupiter being a Vryadhipathi,situations like
+imprisonment, harassment etc, can never
+happen.
+A) Yes B) No □
+407) About Rahu/Kethu, details are explained
+separately. Similarly, aspect from Uranus is
+considered to be good whereas aspect from
+Neptune is considered to be harmful. But,
+Jupiter the mighty benefic, when
+reckoned from Lagna, if it is lord of houses
+6-8-12 or deposited in the stars of lords
+Astro l<
+
+6-8-12, during that respective Dasa/bukthi,
+Jupiter loses its benefic qualities and others
+only harmful results as a full fledged
+malefic. The same is true for other benefics
+like waxing Moon, Venus and Mercury.
+A) Yes B} No □
+1-08) But Saturn, Mars, Sun as we know of them
+as malefics, Saturn except for Chara Rasi
+lagna borns - that is Mesha - Karkata - Thula
+and Makara - in all other 8 signs if stationed
+in 2-3-10-1 1 houses or depeated in the stars
+of lords of 2-3-10-11 houses, and also
+running the respective Dasa/bukthi, this Saturn
+is transformed as a benefic and others
+unlimited
+A) Yes B) No □
+109)Therefore, in terms of planetary aspects,
+Jupiter, Venus, Moon and Mercury will always
+be known as benefics. Likewise Saturn, Mars,
+Sun will always be known as malefics in terms
+or aspects.
+A) Yes B) No □
+MO) For third house matters, the sublord of the
+third should be connected to houses as shown,
+i) To run newspaper etc 3-1 1-10
+A) No B) Yes □
+
+ii) To be a broker 3-10-6-1 1
+A) No B) Yes □
+iii) For journey 3-12-1
+A} Yes B) No □
+iv) From light to heavy vehicles 3-12-11-1
+A) No B) Yes □
+v) To make contracts, agreements 3-1-11-7
+A) No B) Yes
+vi) For a succeesful negotiation 3-1 1 Sub
+lord should be Mercury or Jupiter.
+A) Yes B) No □
+vii) Appointments or to meet a person 1-3-9A) No B) Yes □
+viii) For purchase of Radio or TV or other
+electrical goods 3-12-5-1
+A) Yes B) No □
+411) Sun, Moon are always on direct motion.
+Never retrograde,
+A) No B) Yes □
+412) Now we must analyse to find out what results
+would have taken place on the above dasa/
+bukthi.AII planets signify houses 4 and 9 ,
+4th means lower level and 9th means higher
+level education. So the Native must have had
+a higher level education upto his youth age.
+But the native could not continue his studies
+
+beyond SSLC. Even in SSLC, his rank and
+merit was far below.
+A) Yes B) No □
+413} {i) Sun Dasa -‘6 years
+A) Yes B) No □
+(ii) Moon Dasa -10 Years
+A) Yes B} No □
+(iii) Mars Dasa- 7 Years
+A} Yes B) No □
+(iv) Rahu Dasa-18 Years
+A} Yes B) No □
+( v) Saturn Dasa-19 Years
+A} Yes B) No □
+414) If Rasi lords are same, if the Rasi lords are
+friends, or 7th to 7th is a Samasapthama
+Rasi, the Rajju, Rasi etc. doshas are cleared
+and the marriage can be conducted.
+A) Yes B) No □_
+415} To say of exaltation, ownership or
+debilitation, simply on the entering of a Rasi
+{Sign} is not correct. In a sign, in a particular
+star, in a particular degree-minute only, as
+the planet moves should be reckoned for
+exaltation or debilitation. Without giving due
+consideration but simply expressing in a
+blanket manner, that Jupiter is exalted in
+Karkata wherever it is in Cancer is totally
+wrong.
+A) Yes B) No □
+
+Approximate levels of Exaltation
+of Planets
+416) i) Sun :-Mesha Rasi, Exalted in Aswini Star
+3rd Pada i.e. in Mars sign 10°
+A) Yes B) No □
+ii) Moon Rishaba Rasi - Exalted in Krithika star
+2nd pada i.e. Taurus sign 3°
+A) Yes B) No □
+in) Mars :-Makara Rasi - Exalted in its own star
+Dhanishta 2nd pada i.e. Capricorn sign 28°
+A) Yes B) No □
+iv) Mercury Konya Rasi - Exalted in Hastha star
+2nd pada i.e. Virgo sign 15°
+A) Yes B) No □_
+v) Jupiter Karkata Rasi - Exalted in Pushya star
+1st pada i.e. Cancer sign 5°
+A) Yes B) No □
+vii Venus Meena Rasi - Exalted in Revathy star
+4th pada i.e. Pisces sign 27°
+A) Yes B) No □
+vii) Saturn :-Thula Rasi - Exalted in Vishaka star
+1st pada i.e. Libra sign 20°
+A) Yes B) No □
+Astro IQ
+
+SIGN AND THE DIFFERENT
+ORGANS OF THE BODY
+
+428) Pisces
+A) Sex organs B) Neck
+C) Head D) Feet and toes
+
+SIGNS AND LUCKY NUMBERS
+Write the correct answer:
+429) For Aries born
+which is the lucky number?
+430) Taurus born,..
+which is the lucky number ?
+431) Gemini born
+which is the lucky number?
+432) Cancer born
+which is the lucky number?
+433) Leo born
+which is the lucky number?
+434) Virgo born
+which is the lucky number?
+
+SIGN AND THE LUCKY STONES
+441) For Aries born which is the lucky stone ?
+A) Diamond B} Blue
+C) Topaz D) Green □
+442) For Taurus born which is the lucky stone ?
+A) Diamond B) Emerald
+C) Sapphaire D) Blue □
+E) Green
+443) For Gemini born which is the lucky stone ?
+A) Emerald B) Yellow
+C) Blue D) White □
+E) Green
+444)For Cancer born which is the lucky stone ?
+A) Diamond B) Pearl
+C) Ruby D) Blue
+E) Sapphaire □
+445) For Leo born which is the lucky stone ?
+A) Ruby B) Emerald
+C) Blue D) Green D
+446)For Virgo born which is the lucky stone ?
+A) Emerald B) Blue
+C) Pearl D) Topaz
+E) Silver □
+AstroJQ
+
+447) For Libra born which is the lucky stone ?
+A) Orange B) White
+C) Red D) Pearl
+E) Topaz F) Silver D
+448) For Scorpio born which is the lucky stone ?
+A) Yellow B) Red
+C) White D) Blue
+E) Black □
+449}For Sagittarius born which is the lucky stone?
+A) White B) Green
+C) Red D) Pearl
+E) Blue F) Black □
+450)For Capricorn bom which is the lucky stone?
+A) Yellow B) Red
+C) Blue D) White
+E) Brown D
+451) For Aquarius born which is the lucky stone?
+A) Green B) Blue
+C) Orange D) Red
+E) White O
+452)For Pisces bom which is the lucky stone ?
+A) Red B) Blue
+C) Green D) Cream □
+
+VARGOTTAMA - DWADESAMSA
+465) In movable sign which Navamsa is called
+Vargottama?
+A) First B) Fifth
+QNineth □
+466) Fifth Navamsa is called Vargottama for which
+sign?
+A)Common B) Fixed
+C) Moveable O
+467) Gemini, Virgo, Saggitarius and Pisces - which
+Navamsa is called Vargottama?
+A) First BlNineth
+C) Fifth □
+468) In Dwadamsa - how many degrees it contains/
+469) The Sun is at the centre for other planets
+and the Earth moves round the Sun. What is
+that system? Choose the correct one?
+A) Geocentric System
+B) Heliocentric System □
+470) Earth is the centre and other planets including
+Sun moves round the Earth - What is that
+Astro IQ
+NO
+
+system? Select the correct one?
+A) Geocentric System
+8} Heliocentric System □
+471) How many Ghatikas in 24 hours?
+
+General Yogam
+i.ii i — a
+486} Which is the best yogam out of the following
+four?
+A)Amirthayogam B)Maranayogam
+C)Siddhayogam DJPrabalarishtayogamn
+487) Which is the worst yogam and auspicious
+yogam?
+AJSiddhayogam B)Maranayogam
+C) Prabalarishtayogam
+D) Amirthayogam □
+Correct Hours
+488) For one Ghatika how many minutes?
+Tickthe correct one
+A) 10 minutes B) 24 minutes
+C)45 minutes D)60 minutes □
+489) For one hour how many Ghatikas?Select
+the correct one?
+A)one B)Two and a half
+CjThree D)Five D
+490) How many Ghatikas in 24 hours?
+Astro I
+
+501) For Tuesday which is the time meant for
+Rahukalam? Tick the correct one.
+Q
+
+502)0n Monday which is time is called
+Yamakandam?
+503} On Saturday which time is called
+Yamakandam?
+504} On Thursday which time is called
+Yamakandam?
+505} Which Planet is called the "Father"?
+A}Sun BIMoon
+CJMercury D)Rahu C
+506} Which Planet is called the "Mother"?
+A)Mars B)Mercury
+
+Balance of Dasas
+(Vimshottari Dasa System)
+Choose the correct one:
+512) 2° in Mesha Rasi - what is the balance of
+dasa?
+513) If it is 6° Rishaba Rasi - who's lord and balance
+of dasa?
+A)Moon 10 y B)Mars 1 year
+514) If it is 1 1 0 in Dhanus Rasi- who's lord and
+balance of dasa?
+A)Moon 6y 3m Od B)Ke1y2m21d
+C) 1 8 years Rahu □
+515) If it is 25° in Stmha Rasi - who's lord and
+balance of dasa?
+AJVenus 2y 6m Od B)Mars 5y Om 27d
+C)Mercury 8y 6m Od O
+5 1 6) If it is 28° in Kanya Rasi - who's lord and
+balance of dasa?
+
+QJupiter 8 years □
+522) If it is 17° in Aquarius (Kumbha) Rasi who's
+lord and balance of dasa?
+A) Rahu 4y Om 1 8d
+B) Rahu 5y 4m 24d
+QSaturn Oy 1 1m 12d □
+523) If it is 29°'40' in Scorpio rasi who's the dasa
+lord and balance of dasa?
+A)Mars 7 years
+BJMoon 10 years
+QMercury Oy 5m 3d □
+524) Which planet has got 10 years out of 120
+years of Vimshottari Dasa System?
+AlKethu B)Moon
+C) Sun D)Rahu □
+525) Which planet has got 18 years?
+AIRahu B)Sun
+C)Mercury DiMoon O
+526) Which is having 17 years?
+A)Venus BlMars
+C) Mercury D)Sun Q
+527) 6 years in Vimshottari Dasa for which planet
+A)Mars B)Jupiter
+C)Moon D)Sun □
+528) Which planet has 20 years the major period
+
+in Vimshottari Dasa?
+A)Jupiter B)Venus
+C)Sun D)Moon U\
+529) Which planet has got 16 years?
+A)Jupiter BIKethu
+C)Sun D)Venus □
+530)19 years for a familiar planet which is that?
+A)Mars B)Sun
+OSaturn DjMoon D
+531 ) Select the benefic planets from the following?
+AJJupiter B)Rahu
+C)Venus C
+532) Which are all the malefic planets?
+AJSaturn B)Mars
+CjMoon □
+533) Tell how many years in the Vimshottari Dasa
+System in a circle?
+A)60 years B)75 years
+C)90 years D) 1 20 years D
+534) Ther6 are only 4 stars are the best out of 27
+stars to celebrate the marriage even without
+seeing the Ten Porutham? What are they?
+Select from the following?
+A) Mirgasire B) Anusham
+C) Makam D) Jyesta
+E) Swathi F) Visakam
+G) Poorattathi H) Revathi
+I) Aswihi C
+Astro IQ
+
+PLANETS IN 12 SIGNS
+Pick out which is the correct one 7
+535) Sun in ARIES ( Mesha)
+A) Smart, Famous, Wealth, courageous,
+fortunate, victory over enemies, army or in
+medical field.
+B) Unknown, Poor, ever misfortunate, School
+Master 0!
+536) Sun in Taurus { Rishabha)
+A) Weak, agree with others, Loss, Work in
+mines, railways
+B) Strong, bold, proud, gain without pain,
+merchantile, argumentative with others
+537) Sun in Gemini ( Mithuna)
+A) Education, intelligence, loyal, noble, good
+astronomer, astrologer, good memory
+B) uneducated, laziness, liar, cunning
+minded EU
+538) Sun in Cancer : { Kataka)
+A) Bright strong, rich, always nice to move
+with others, politicians
+B) Sick person, poor, travelling, angry with
+others Cl
+
+539) Sun in Leo : ( Simha)
+A) Pleasures through pressure,, hills, desert,
+forest, honest, courageous, strong
+B) Poor, weak no pleasure, sage, O
+540) Sun in Virgo : ( Kanni)
+A) Genius, always look ugly, cruel, cunning,
+fraud
+B) Ingenious, scientific, writer, poet, cheerful,
+noble clever, ambitious, agree with others
+541) Sun in Libra : ( Thula)
+A) Luxurious, liberal, always travelling, dealer
+in liquor, chemical, goldsmith, tailor
+B) ordinary, stay in one place, watchman, deals
+with iron and steel, carpenter, □
+542) Sun in Scorpio ( Vrichika)
+AHnventor, user of weapons, good fortunate,
+profit, police, poison, adverturous, traveller,
+engineer, medicine, chemistry
+B) Misfortunate, loss, Engineering, oil, broker,
+carpenter D
+543) Sun in Sagittarius I Dhanus)
+A) Aiways loss, misfortune, harsh, liar, angry
+with others
+B) Genenous, noble, polite, carpenter, rich, bold.
+Astro IQ
+
+victory over enemies LJ
+544) Sun in Capricorn { Makara)
+A) Ignorant, fast in action, wealth, dealing in
+restricted articles, enjoying with others
+money
+B) Own earning, slow in action, knowing
+things, cruel, poor, angry with others EU
+545) Sun in Aquarious ( Kumbha)
+AIRich, joint, trouble, sick, polite, strong
+believer of God,-
+B)Separation, poor, pride, ambition, admirer,
+astrologer, inventor, travelling EH
+546) Sun in Pisces ( Meena)
+AlHarmful nature, chemical, iron, dieting
+policeman, self earnings
+B) harmless, fortunate, noble, priest, feasting
+pleasure, enjoy with others money D
+547) Moon in Aries :
+AjLong journey, passionate, cafm bold
+courted by women and men, proud, unsteady,
+fortunate
+BJStable, short, misfortunes, steady,
+talkative EH
+548) Moon in Taurus:
+A) Dishonest, cruel, rash. dull, in action
+Astro IQ
+
+BIHandsome, intelligence, liberal, good
+relationship with others, gentle, bobfe and
+honest. D
+549| Moon in Gemini :
+A)Learned, intelligence, poor, pious, human
+nature, handsome, musician, gambler
+BJlive in lonely place always telf [ie,carpernter,
+oil, car, uneducated D
+550J Moon in Cancer :
+AJAstrologer, landlord, friendly, shipping, oil,
+liquid, fortunate, gardener, amenable to
+pleasing words
+BiAlways rough, strict, angry, wood, iron and
+steel, driver enginer □
+551| Moon in Leo :
+Alpatinet, bold, many children, argumentative,
+friendship, chemical engineer, dependent.
+BJInpatient, poor, weak, few children,
+obedient, love with women, independent.
+5521 Moon in Virgo :
+A|uneducated, sorrow, chemical, oil, seeds,
+plantation
+BJMusic and dance, Cinema, truthful, sincere,
+learned luxurious arts, happy □
+AstmJQ
+
+553) Moon in Libra :
+A)lntelligent, overseas, business, traveller,
+wealth and good health
+B)Sickly person, stable uneducated, honest,
+submissive with women □
+554} Moon in Scorpio
+A)sick, politician, agriculturalist, cruel honest,
+away from home.
+BJdishonest, loyal, angry, mechanical stay
+with parents O
+555} Moon in Sagittarius :
+A)dull, sick jealousy, chemical pious,
+unfortunate
+BJintelligent, learned, good knowledge of fine
+arts, poetic, lawyer fortuante O
+556} Moon in Capricorn:
+A}Affection with kith and kin, idle traveller,
+electrical research scholar, astrologer,
+astronomy, good memory
+BJdull in action, unsettled, stiff good ears
+557} Moon in Aquarius :
+A)deaf, dull, intelligent, ignorance of things,
+poet,
+
+B) enjoy with other women, single, sincere,
+wealthy, book seller, good eyes, pilot,
+astrologer, inventor of new things □
+558) Moon in Pisces :
+A) Educated, cloth merchants, handsome,
+sincere, good thinking, friendship
+B) uneducated, electrician, ugly, liar steady,
+cunning, argumentative, sensitive, traveller
+559) Mars in Aries :
+A) travelling, mind and disposition, gaining,
+clever merchant, pleasure
+B) poor, sick, loss, uneducated, stable, □
+560) Mars in Taurus :
+AJSocial, stable, ordinary, cunning, music,
+submissive to women
+B)unsocial, travelling, luxurious, timid, victory
+over enemies □
+561) Mars in Gemini :
+AJMore children, clever, rich, educated
+Bjunsocial, travelling, iuxirous, timind, victory
+over enemies D
+562) Mars in Cancer:
+A)independent, poor, uncivilized, orthodox,
+noble
+
+BJintelligent, learned, rich voyage, cruel,
+shipping, subordinate, trader □
+563) Mars in Leo
+AJPoor, sportsman, travelling in forest, desert,
+Government agriculturist
+BJRich, stable, chemical engineer D
+564) Mars in Virgo :
+A) Political, many enemies, journey, clever,
+cinema, photography
+B) Art$, music, poor, sincere, moody □
+565) Mars in Libra :
+Alfriendly, chemical, industrialist, vocalist,
+B)arugument with friends, unsocial
+blackmarket artist, musician, producer
+566) Mars in Scorpio :
+A) royal, fame, clever, merchantile, rich
+race geer, sexual pleasure, life with wife
+B) poor, cruel, always fight with others
+uneducated □
+567) Mars in Sagittarius :
+A) many enemies, jovial, few children,
+politician, professor
+B) more friends, more children, industries, mine
+owner □
+
+568) Mars in Capricorn :
+Ajunkonwn, no children, fear, poor, sick,
+auditor
+B) wealthy person, more children, bold, good
+status, Astrologer □
+569} Mars in Aquarius :
+A} poor, liar, merciful, good habit, cruel,
+B) rich, sincere, honest, bad habit, intelligent
+570} Mars in Pisces :
+A}enemies, jovial, few children politican,
+lecturer
+BJfirendly, many children, business man O
+571) Mercury deposited in Aries ( Mesha)
+A)gamb!ing, sports, active, untruthful, sorrow,
+debts, undesireable wife, poor
+BJeducative, clever, honest, truthful, rich,
+happy inventor D
+572} Mercury In Rishaba or Taurus
+AJteacher, many children, rich charitable,
+truthful, honest, man of many arts
+BJuneducated, poor, no children untrusty
+student □
+
+573} Mercury in Gemini or Mithuna
+AJdishonest, cruel, cunning, chemical, poor
+wealth, poor memory, stable
+B)loyal, sincere truthful, honest, clever,
+astrologer, book keeping, book sellers,
+lawyers, rich, intelligence Q
+574} Mercury in Cancer or Kataka
+AJshipping, wealthy, more relation, stable,
+and steady, argumentative, honest
+BJdishonest, adjustment, auditing,
+Government servants O
+575) Mercury in Leo
+Ajdislikes women, rich, slow, untruthful,
+stable, stay in one place
+B)fond of women, poor, hasty, sincere,
+travelling, sufferings C]
+576) Mercury in Virgo :
+AMearned, respectful, nobSe, pleasure, good
+natured
+B)uneducated, cruel hardworker, astrologer
+Goo/. Ludc
+Astro IQ
+
+Astro IQ
+
+ANSWERS
+
+(T ANSWERS ^
+220. ) Expand the following Abbreviations?
+1. Greenwich mean Time
+2. Local Mean Time
+3. Table of houses
+4. Standard Time
+5. Degree (S)
+6. Siderial Time
+7. Direct Motion
+8. Local Standard Time
+9. Retrograde
+10. Nirayana Longitudes
+1 1 . Raghu & Ketu
+12. Central Time
+13. British Time
+14. Eastern Time
+15. National Standard Time
+16. Ascendent
+17. Minute
+1 8. Centra! Time
+19. Indian Standard Time
+20. Local Standard Time
+21. Central Standard Meridian
+22. Latitude
+23. Longitude
+24. Zero Hour
+IQ
+
+B
+A
+
+j ANSWERS D
+Astro !■
+
+Astro IQ

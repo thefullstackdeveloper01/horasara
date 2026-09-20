@@ -1,0 +1,570 @@
+{
+  "palmistry_rules": {
+    "metadata": {
+      "name": "Hastarekha Palmistry Rules",
+      "version": "1.0",
+      "language": "Hindi-English",
+      "description": "Complete palmistry rules and interpretations based on Hastarekha Shastra",
+      "source": "Traditional Vedic Palmistry"
+    },
+
+    "hand_types": {
+      "right_hand": {
+        "meaning": "Present life, current actions, conscious mind",
+        "gender_specific": {
+          "male": "Primary hand for reading",
+          "female": "Secondary hand for reading"
+        }
+      },
+      "left_hand": {
+        "meaning": "Past life, inherited traits, subconscious mind",
+        "gender_specific": {
+          "male": "Secondary hand for reading",
+          "female": "Primary hand for reading"
+        }
+      }
+    },
+
+    "hand_shapes": {
+      "earth_hand": {
+        "characteristics": "Square palm, short fingers",
+        "personality": "Practical, grounded, hardworking, reliable",
+        "element": "Earth",
+        "career_suitable": ["Agriculture", "Construction", "Engineering", "Business"]
+      },
+      "air_hand": {
+        "characteristics": "Square palm, long fingers",
+        "personality": "Intellectual, communicative, analytical, social",
+        "element": "Air",
+        "career_suitable": ["Writing", "Teaching", "Media", "Science"]
+      },
+      "water_hand": {
+        "characteristics": "Long palm, long fingers",
+        "personality": "Emotional, intuitive, creative, sensitive",
+        "element": "Water",
+        "career_suitable": ["Arts", "Counseling", "Healing", "Music"]
+      },
+      "fire_hand": {
+        "characteristics": "Long palm, short fingers",
+        "personality": "Dynamic, passionate, leadership, adventurous",
+        "element": "Fire",
+        "career_suitable": ["Management", "Sports", "Entrepreneurship", "Politics"]
+      }
+    },
+
+    "major_lines": {
+      "life_line": {
+        "location": "Around thumb, from edge of palm",
+        "interpretations": {
+          "long_deep": "Strong vitality, good health, long life",
+          "short": "Limited energy, need for self-care",
+          "broken": "Major life change, accident, or illness",
+          "chained": "Periods of weakness or health issues",
+          "double_line": "Extra vitality, protection, strong constitution",
+          "faint": "Low energy, need for rest and care",
+          "forked_end": "Travel or migration in later life",
+          "island": "Period of illness or setback",
+          "wavy": "Unstable health, fluctuating energy"
+        },
+        "age_markers": {
+          "start": "Birth",
+          "middle": "Age 35-40",
+          "end": "Old age"
+        }
+      },
+
+      "head_line": {
+        "location": "Across middle of palm",
+        "interpretations": {
+          "long_straight": "Clear thinking, logical, focused",
+          "short": "Practical, quick decisions",
+          "curved": "Creative, imaginative, artistic",
+          "deep": "Strong concentration, good memory",
+          "faint": "Scattered thoughts, lack of focus",
+          "broken": "Mental stress, change in thinking",
+          "forked": "Versatile, multiple talents",
+          "chained": "Mental confusion, indecisiveness",
+          "island": "Mental fatigue, period of confusion",
+          "rising": "Ambitious, achievement-oriented",
+          "sloping": "Imaginative, dreamy nature"
+        }
+      },
+
+      "heart_line": {
+        "location": "Top of palm, under fingers",
+        "interpretations": {
+          "long": "Deep emotional capacity, idealistic in love",
+          "short": "Self-focused, less emotional expression",
+          "deep": "Strong emotions, passionate relationships",
+          "faint": "Reserved emotions, difficulty expressing feelings",
+          "broken": "Emotional trauma, heartbreak",
+          "chained": "Emotional ups and downs",
+          "forked": "Balance between emotion and logic",
+          "straight": "Controlled emotions, practical in love",
+          "curved": "Warm, affectionate, romantic",
+          "island": "Emotional disturbance period",
+          "ending_under_index": "Idealistic love, high expectations",
+          "ending_under_middle": "Self-centered in love",
+          "ending_between_index_middle": "Balanced approach to love"
+        }
+      },
+
+      "fate_line": {
+        "location": "Vertical line from wrist to middle finger",
+        "interpretations": {
+          "deep_clear": "Strong destiny, clear life purpose",
+          "faint": "Less predetermined path, more free will",
+          "broken": "Career changes, life direction shifts",
+          "starting_life_line": "Self-made success, family support needed",
+          "starting_wrist": "Independent, self-reliant",
+          "ending_heart_line": "Success after emotional maturity",
+          "ending_head_line": "Success through intellectual pursuits",
+          "double_fate_line": "Two careers or dual life purpose",
+          "absent": "Less structured life, many possibilities",
+          "chained": "Obstacles in career path",
+          "island": "Career setback or financial loss"
+        }
+      },
+
+      "sun_line": {
+        "location": "Vertical line under ring finger",
+        "interpretations": {
+          "deep_clear": "Fame, success, recognition",
+          "faint": "Moderate success, contentment",
+          "absent": "Success through hard work without much recognition",
+          "broken": "Periods of fame and obscurity",
+          "starting_fate_line": "Success through own efforts",
+          "starting_heart_line": "Success later in life",
+          "double": "Multiple talents, varied success",
+          "island": "Scandal or reputation damage",
+          "star_marking": "Sudden fame or fortune"
+        }
+      },
+
+      "mercury_line": {
+        "location": "Vertical line under little finger",
+        "interpretations": {
+          "deep_clear": "Good health, healing abilities",
+          "faint": "Average health",
+          "absent": "Good health generally",
+          "broken": "Digestive or nervous system issues",
+          "chained": "Chronic health problems",
+          "island": "Specific illness period",
+          "double": "Strong healing energy, medical profession affinity"
+        }
+      }
+    },
+
+    "minor_lines": {
+      "marriage_lines": {
+        "location": "Side of palm under little finger",
+        "interpretations": {
+          "single_deep": "One significant marriage/relationship",
+          "double": "Two major relationships or marriages",
+          "multiple": "Many relationships",
+          "forked": "Separation or divorce possibility",
+          "broken": "Relationship ending",
+          "downward_curve": "Outliving partner",
+          "upward_curve": "Marriage brings success",
+          "island": "Marital difficulties",
+          "absent": "Non-traditional relationship patterns"
+        }
+      },
+
+      "children_lines": {
+        "location": "Vertical lines on marriage line area",
+        "interpretations": {
+          "deep_lines": "Number of children",
+          "faint_lines": "Possibilities or near-misses",
+          "forked": "Twins or multiple births",
+          "island": "Child with health concerns",
+          "vertical_clear": "Male child",
+          "slanted": "Female child",
+          "absent": "No children or different life path"
+        }
+      },
+
+      "travel_lines": {
+        "location": "Edge of palm, opposite thumb",
+        "interpretations": {
+          "deep_long": "Major relocation or long journey",
+          "multiple": "Frequent travel",
+          "broken": "Interrupted journeys",
+          "horizontal": "Overseas travel",
+          "diagonal": "Domestic travel",
+          "island": "Travel difficulties",
+          "crossing_life_line": "Relocation affecting life path"
+        }
+      },
+
+      "intuition_lines": {
+        "location": "Edge of palm under little finger",
+        "interpretations": {
+          "present": "Strong intuition, psychic abilities",
+          "double": "Very strong psychic or healing gifts",
+          "faint": "Developing intuition",
+          "absent": "More logical than intuitive"
+        }
+      },
+
+      "bracelets": {
+        "location": "Wrist lines",
+        "interpretations": {
+          "one": "25-30 years life span (traditional)",
+          "two": "50-60 years life span (traditional)",
+          "three": "70-80 years life span (traditional)",
+          "four": "Long life, 80+ years (traditional)",
+          "clear_defined": "Good health, balanced life",
+          "chained_first": "Health issues in youth",
+          "broken": "Health fluctuations",
+          "rising_first_bracelet": "Fertility concerns (women)"
+        }
+      }
+    },
+
+    "mounts": {
+      "mount_of_jupiter": {
+        "location": "Under index finger",
+        "interpretations": {
+          "prominent": "Leadership, ambition, confidence",
+          "flat": "Lack of confidence, follower not leader",
+          "overdeveloped": "Arrogance, dominance",
+          "star": "Success through leadership",
+          "cross": "Obstacles in achieving goals"
+        }
+      },
+      "mount_of_saturn": {
+        "location": "Under middle finger",
+        "interpretations": {
+          "prominent": "Wisdom, patience, philosophical",
+          "flat": "Impractical, superficial",
+          "overdeveloped": "Melancholy, isolation",
+          "star": "Unexpected fortune",
+          "cross": "Karmic lessons"
+        }
+      },
+      "mount_of_apollo": {
+        "location": "Under ring finger",
+        "interpretations": {
+          "prominent": "Artistic, creative, successful",
+          "flat": "Less interest in arts",
+          "overdeveloped": "Vanity, extravagance",
+          "star": "Fame in creative field",
+          "cross": "Creative blocks"
+        }
+      },
+      "mount_of_mercury": {
+        "location": "Under little finger",
+        "interpretations": {
+          "prominent": "Business acumen, communication skills",
+          "flat": "Less commercial interest",
+          "overdeveloped": "Cunning, manipulative",
+          "star": "Success in business/speech",
+          "cross": "Dishonesty tendencies"
+        }
+      },
+      "mount_of_venus": {
+        "location": "Base of thumb",
+        "interpretations": {
+          "prominent": "Passionate, loving, vital",
+          "flat": "Cold, less passionate",
+          "overdeveloped": "Overindulgence, lust",
+          "star": "Great love or artistic success",
+          "cross": "Loss through love"
+        }
+      },
+      "mount_of_moon": {
+        "location": "Base of palm, opposite thumb",
+        "interpretations": {
+          "prominent": "Imaginative, intuitive, traveler",
+          "flat": "Practical, less imaginative",
+          "overdeveloped": "Overly dreamy, unrealistic",
+          "star": "Success through imagination",
+          "cross": "Deception or illusion"
+        }
+      }
+    },
+
+    "fingers": {
+      "index_finger": {
+        "planet": "Jupiter",
+        "interpretations": {
+          "long": "Leadership, ambition",
+          "short": "Lack of confidence",
+          "equal_to_ring": "Balanced ambition",
+          "bent": "Flexibility in approach",
+          "pointed": "Idealistic",
+          "square": "Practical leadership"
+        }
+      },
+      "middle_finger": {
+        "planet": "Saturn",
+        "interpretations": {
+          "long": "Serious, philosophical",
+          "short": "Lighthearted, carefree",
+          "bent": "Irresponsible tendencies",
+          "pointed": "Intuitive wisdom",
+          "square": "Practical wisdom"
+        }
+      },
+      "ring_finger": {
+        "planet": "Apollo/Sun",
+        "interpretations": {
+          "long": "Artistic, creative success",
+          "short": "Less artistic inclination",
+          "equal_to_index": "Balanced success",
+          "bent": "Creative flexibility",
+          "pointed": "Artistic idealism",
+          "square": "Practical creativity"
+        }
+      },
+      "little_finger": {
+        "planet": "Mercury",
+        "interpretations": {
+          "long": "Excellent communication, intelligence",
+          "short": "Communication challenges",
+          "reaching_ring_top": "Superior intellect",
+          "bent": "Shrewd negotiator",
+          "pointed": "Quick wit",
+          "square": "Practical communication"
+        }
+      },
+      "thumb": {
+        "planet": "Venus",
+        "interpretations": {
+          "large": "Strong will, leadership",
+          "small": "Weak will, influenced by others",
+          "flexible": "Adaptable, broad-minded",
+          "stiff": "Stubborn, determined",
+          "long_first_phalanx": "Strong willpower",
+          "long_second_phalanx": "Logical thinking",
+          "waisted": "Tactful, diplomatic",
+          "clubbed": "Brutal tendencies",
+          "pointed": "Artistic temperament"
+        }
+      }
+    },
+
+    "finger_phalanges": {
+      "first_phalanx": {
+        "meaning": "Mental, spiritual, intuitive",
+        "long": "Strong mental/spiritual qualities",
+        "short": "Practical focus",
+        "pointed": "Idealistic nature",
+        "square": "Practical mental approach"
+      },
+      "second_phalanx": {
+        "meaning": "Practical application, action",
+        "long": "Strong practical abilities",
+        "short": "Less practical focus",
+        "pointed": "Creative approach to action",
+        "square": "Methodical approach"
+      },
+      "third_phalanx": {
+        "meaning": "Physical, material, instincts",
+        "long": "Strong physical/material focus",
+        "short": "Less material attachment",
+        "pointed": "Refined instincts",
+        "square": "Earthly instincts"
+      }
+    },
+
+    "special_markings": {
+      "star": {
+        "meaning": "Sudden events, fate, extraordinary",
+        "on_mounts": "Success in that mount's domain",
+        "on_lines": "Important event at that life point",
+        "positive": "Fame, fortune, recognition",
+        "negative": "Sudden loss or shock"
+      },
+      "cross": {
+        "meaning": "Obstacles, challenges, lessons",
+        "on_mounts": "Difficulties in that area",
+        "on_lines": "Blockage or delay",
+        "positive": "Overcoming obstacles",
+        "negative": "Karmic debt"
+      },
+      "triangle": {
+        "meaning": "Protection, skill, diplomacy",
+        "on_mounts": "Talent in that domain",
+        "on_lines": "Protection from harm",
+        "positive": "Success through skill",
+        "negative": "Manipulation"
+      },
+      "square": {
+        "meaning": "Protection, preservation",
+        "on_lines": "Protection from danger",
+        "on_mounts": "Stability in that area",
+        "positive": "Guardian angel influence",
+        "negative": "Feeling trapped"
+      },
+      "island": {
+        "meaning": "Period of difficulty, weakness",
+        "on_lines": "Challenging period",
+        "on_mounts": "Weakened mount qualities",
+        "positive": "Temporary challenge",
+        "negative": "Prolonged difficulty"
+      },
+      "grid": {
+        "meaning": "Scattered energy, confusion",
+        "on_mounts": "Wasted potential in that area",
+        "positive": "Multiple possibilities",
+        "negative": "Lack of focus"
+      },
+      "circle": {
+        "meaning": "Success, completion, protection",
+        "on_mounts": "Achievement in that domain",
+        "on_lines": "Milestone achievement",
+        "positive": "Wholeness, success",
+        "negative": "Isolation"
+      },
+      "trident": {
+        "meaning": "Great fortune, success",
+        "location": "Anywhere on palm",
+        "positive": "Extraordinary success",
+        "negative": "Rare marking"
+      }
+    },
+
+    "fingerprint_patterns": {
+      "loop": {
+        "meaning": "Adaptable, social, flexible",
+        "ulnar_loop": "Common, good adaptation",
+        "radial_loop": "Independent thinking"
+      },
+      "whorl": {
+        "meaning": "Individualistic, strong willed",
+        "concentric": "Focused determination",
+        "spiral": "Creative individuality"
+      },
+      "arch": {
+        "meaning": "Practical, traditional",
+        "plain_arch": "Conservative, reliable",
+        "tented_arch": "Enthusiastic, intense"
+      },
+      "composite": {
+        "meaning": "Complex personality, diplomatic",
+        "double_loop": "Versatile, sees all sides",
+        "accidental": "Unusual talents"
+      }
+    },
+
+    "nail_interpretations": {
+      "long_nails": "Artistic, refined, delicate constitution",
+      "short_nails": "Critical, analytical, vigorous",
+      "broad_nails": "Strong constitution, practical",
+      "narrow_nails": "Sensitive, refined nervous system",
+      "almond_shaped": "Gentle, dreamy, artistic",
+      "square_shaped": "Even-tempered, methodical",
+      "fan_shaped": "Nervous, energetic, impatient",
+      "pale_nails": "Low vitality, anemia tendency",
+      "pink_nails": "Good health, vitality",
+      "blue_nails": "Circulation issues",
+      "white_spots": "Stress, mineral deficiency",
+      "vertical_ridges": "Digestive issues, aging",
+      "horizontal_ridges": "Past illness, nutritional deficiency"
+    },
+
+    "flexibility_interpretations": {
+      "very_flexible": "Adaptable, open-minded, versatile",
+      "moderately_flexible": "Balanced approach to life",
+      "stiff": "Rigid, determined, resistant to change",
+      "fingers_flexible": "Mental flexibility",
+      "thumb_flexible": "Emotional flexibility",
+      "wrist_flexible": "Physical adaptability"
+    },
+
+    "skin_texture": {
+      "fine": "Refined, sensitive, aesthetic",
+      "medium": "Balanced, practical sensitivity",
+      "coarse": "Rugged, physical, less refined",
+      "smooth": "Even-tempered, refined emotions",
+      "rough": "Physical labor, practical focus"
+    },
+
+    "timing_techniques": {
+      "life_line": {
+        "method": "Divide line into segments",
+        "segments": {
+          "first_quarter": "Childhood to age 20",
+          "second_quarter": "Age 20-40",
+          "third_quarter": "Age 40-60",
+          "last_quarter": "Age 60-80"
+        }
+      },
+      "fate_line": {
+        "method": "Vertical progression",
+        "segments": {
+          "wrist_to_head_line": "Age 0-35",
+          "head_to_heart_line": "Age 35-50",
+          "heart_line_to_fingers": "Age 50-70"
+        }
+      },
+      "head_line": {
+        "method": "Horizontal progression",
+        "segments": {
+          "start_to_under_index": "Age 0-30",
+          "under_index_to_middle": "Age 30-50",
+          "middle_to_edge": "Age 50-80"
+        }
+      }
+    },
+
+    "interpretation_guidelines": {
+      "reading_order": [
+        "Hand shape analysis",
+        "Finger and thumb examination",
+        "Mount development",
+        "Major lines",
+        "Minor lines",
+        "Special markings",
+        "Fingerprint patterns",
+        "Nail analysis",
+        "Skin texture",
+        "Flexibility assessment"
+      ],
+      "synthesis_principles": [
+        "Consider both hands together",
+        "Dominant hand shows present/future",
+        "Recessive hand shows past/inherited",
+        "No single marking is absolute",
+        "Multiple confirmations strengthen reading",
+        "Lines change over time",
+        "Consider overall energy and balance",
+        "Interpret markings in context"
+      ],
+      "ethical_guidelines": [
+        "Never predict death or severe illness",
+        "Empower rather than frighten",
+        "Focus on potential and possibilities",
+        "Respect client privacy",
+        "Acknowledge limitations of reading",
+        "Provide constructive guidance",
+        "Suggest practical applications"
+      ]
+    },
+
+    "remedial_measures": {
+      "weak_mounts": {
+        "jupiter": "Develop leadership through practice",
+        "saturn": "Cultivate patience and wisdom",
+        "apollo": "Engage in creative activities",
+        "mercury": "Improve communication skills",
+        "venus": "Practice self-love and affection",
+        "moon": "Develop intuition through meditation"
+      },
+      "broken_lines": {
+        "life_line": "Adopt healthy lifestyle, regular exercise",
+        "head_line": "Mental exercises, stress management",
+        "heart_line": "Emotional healing, counseling",
+        "fate_line": "Set clear goals, persist through changes"
+      },
+      "negative_markings": {
+        "island": "Temporary challenge, seek support",
+        "cross": "Learn from obstacles, stay determined",
+        "grid": "Focus energy, avoid scattering",
+        "broken": "Bridge gaps with conscious effort"
+      }
+    }
+  }
+}

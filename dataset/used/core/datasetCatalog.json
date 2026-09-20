@@ -1,0 +1,1942 @@
+{
+  "datasetCount": 387,
+  "generatedAt": "2026-09-19T17:38:31.701Z",
+  "note": "Name-keyed checksum manifest covering every JSON in dataset/used/{core,library,validation}. Regenerated when the dataset was reorganised into buckets; library/ additionally has a lighter _index.json used for runtime discovery.",
+  "datasets": {
+    "all-json-catalog.json": {
+      "bucket": "core",
+      "bytes": 99281,
+      "sha256": "8132a9968d0e658f34ce40ca767bf89c9796b3e7375887b9119b04ea6cf52fa6"
+    },
+    "ascii_chart.json": {
+      "bucket": "core",
+      "bytes": 7603,
+      "sha256": "d506137dacf9c68b0b37244c3c5e0398492b052b56a0db2bef209779ad985c06"
+    },
+    "ashtakavarga_bphs.json": {
+      "bucket": "core",
+      "bytes": 30756,
+      "sha256": "4e530cf6b2448ef2909c0203f30625017ea4ed8049f5aba42533bb44066d76fc"
+    },
+    "ashtakoot.json": {
+      "bucket": "core",
+      "bytes": 5190,
+      "sha256": "df9c10c8ee21d896f98ebd17303464b281d18c1badca5b63bc10fa6191c46768"
+    },
+    "aspects.json": {
+      "bucket": "core",
+      "bytes": 5009,
+      "sha256": "ce7e233233aabb435f63a63939b88a781f4fa34a3e63b5731711ffef04a87bf3"
+    },
+    "astronomy-world-sky.json": {
+      "bucket": "core",
+      "bytes": 2452,
+      "sha256": "db68e5d0fa5727b40ebd697af10effd180645010280704b726fbac021cd3f83d"
+    },
+    "avkahadaPhala.json": {
+      "bucket": "core",
+      "bytes": 12422,
+      "sha256": "2c806272e2234c6d9169cd6a9381e1a25bd38e73c1f698a21c1110367f57c5ac"
+    },
+    "bhava_lords_bphs.json": {
+      "bucket": "core",
+      "bytes": 116002,
+      "sha256": "58b10d1336fb67720ed21a87caae5137cafddd5cb91f4ab0a2fbb3d9e2747328"
+    },
+    "books_index.json": {
+      "bucket": "core",
+      "bytes": 67660,
+      "sha256": "05a09c882ddfdaeac49bca06adb674cbc2cd1997afc19acc9826612ba2dde9b8"
+    },
+    "calculator_catalog_v15.json": {
+      "bucket": "core",
+      "bytes": 10038,
+      "sha256": "564d458f5e30b68dc895b98cea8b91c429d9ab5f3ff02644d7a226e4515909bb"
+    },
+    "career_prediction_rules.json": {
+      "bucket": "core",
+      "bytes": 7097,
+      "sha256": "0ad51fccb8b92466daa739226b3c6e6d88e1e5e6ac9f686478a304f1fce1c4ae"
+    },
+    "chara.json": {
+      "bucket": "core",
+      "bytes": 30,
+      "sha256": "ac675c3288ad7700cebaf1dc9cf682b44f391280361b1975ead73935306a602d"
+    },
+    "cities.json": {
+      "bucket": "core",
+      "bytes": 55956535,
+      "sha256": "4aa79e104ca8110de15df66b9984cacbf1bd4629cb2cbfa93decc72e29b66ca6"
+    },
+    "competitive-capability-matrix.json": {
+      "bucket": "core",
+      "bytes": 2708,
+      "sha256": "43c8f1ce0ad14d59945c95be039e1809a84a16950add5d43873846bb2ec052d6"
+    },
+    "completion-manifest-v7.json": {
+      "bucket": "core",
+      "bytes": 861,
+      "sha256": "96c74d26670cd2f50d78398de8c8e5e4f810fa999cffa48c9fcceff0652764fd"
+    },
+    "constants.json": {
+      "bucket": "core",
+      "bytes": 50248,
+      "sha256": "f71a7249ad1ad8b8d4f9c5d56737493fd0f703057de5b8d17c1e13464c4c9809"
+    },
+    "corrections.json": {
+      "bucket": "core",
+      "bytes": 25,
+      "sha256": "cbfd8e788135af14a247aa50639da0ee3a623d7209f53acc6097dff045593492"
+    },
+    "current_year_monthly.json": {
+      "bucket": "core",
+      "bytes": 196,
+      "sha256": "667c09f86485f3a912eded3d17c96ad63825bb1fe96a5c6c727e9d6113cb10f2"
+    },
+    "d10_dashamsa_rules.json": {
+      "bucket": "core",
+      "bytes": 4802,
+      "sha256": "cd4d91c20d1d2d13046ac9ba83ecee4dcf8b957d27c4e0414ce535c1377c9ff5"
+    },
+    "d9_navamsa_rules.json": {
+      "bucket": "core",
+      "bytes": 3835,
+      "sha256": "e2cc778a9497ec92d2559034c1ff16fee48821101e59fa663f6ccc53ddbb8f7b"
+    },
+    "daily_horoscope.json": {
+      "bucket": "core",
+      "bytes": 1314,
+      "sha256": "e85bb53c06fa2e8d2ae44a4e1f42401012320e3f3a5fc55beb241f498d8d62f3"
+    },
+    "dasha_bphs.json": {
+      "bucket": "core",
+      "bytes": 279688,
+      "sha256": "2486a75cbab05c61fef751432f52b07f5ae190046d31006ed2ef512fb10cef0c"
+    },
+    "dasha_meanings.json": {
+      "bucket": "core",
+      "bytes": 19455,
+      "sha256": "32cf64be731c72fe3ac36c9b4e9d43a24a5292b08e0f59a88684ee2ae79b7810"
+    },
+    "datasetRegistry.json": {
+      "bucket": "core",
+      "bytes": 2523,
+      "sha256": "053d4088b32d7b830491d906bd73fcab7cac45f5ca19062769a65c4a1f55d9fd"
+    },
+    "decade_forecast.json": {
+      "bucket": "core",
+      "bytes": 226,
+      "sha256": "91e70ca8a18ed36d21217634c150516df6e2c20f6171ce5e76e7b2366266c99c"
+    },
+    "divisional_charts.json": {
+      "bucket": "core",
+      "bytes": 10024,
+      "sha256": "84c417e9f4305653c0c18147a68a83e557b8d58daf21ae527b763a7c011554c0"
+    },
+    "dosha_yoga_remedies.json": {
+      "bucket": "core",
+      "bytes": 288,
+      "sha256": "12b8c192e368c8d9749b740d3c612ab3809494066905cc5f8309652001203a63"
+    },
+    "doshas.json": {
+      "bucket": "core",
+      "bytes": 9699,
+      "sha256": "92db7569e94f752259513c82d9060724cd7030e86c583cbbd8f99f89737e6958"
+    },
+    "doshas_detailed_database.json": {
+      "bucket": "core",
+      "bytes": 17223,
+      "sha256": "f291f89e3df2f3338562bc68fa746dc996ab4ca29c745529a6e9f0588068cd09"
+    },
+    "dream_meanings.json": {
+      "bucket": "core",
+      "bytes": 52987,
+      "sha256": "0036bec82a2694a09eb4ee6f0a12ff42122f15c35c83cfcb5247cc96764ece95"
+    },
+    "education_config.json": {
+      "bucket": "core",
+      "bytes": 490,
+      "sha256": "8bc6c523e9e0597ae69a994e47ecdfcb6300ea70b27d1e5c89596e3a3bdcf2a4"
+    },
+    "engine.json": {
+      "bucket": "core",
+      "bytes": 13356,
+      "sha256": "8720485204c727ff987ea5614c6841bb439756e9bacc1639e3339d1d5c293363"
+    },
+    "event-remedies.json": {
+      "bucket": "core",
+      "bytes": 1360,
+      "sha256": "ed77fe0c8c4904322b18a76da3f426f047b6886fc425833033420fe08f11959a"
+    },
+    "eventRules.json": {
+      "bucket": "core",
+      "bytes": 5660,
+      "sha256": "e011364c6a52c82d371fde188781badbd72b66f973d26a9d21242f96a94340f5"
+    },
+    "extended-sections.json": {
+      "bucket": "core",
+      "bytes": 2936,
+      "sha256": "9560ee162fc7116c7c46aa08f2f10122f619eeb5e28217fa659205afcf72da56"
+    },
+    "extended_bala.json": {
+      "bucket": "core",
+      "bytes": 1286,
+      "sha256": "0dab22724bc26862d51e669f60474e10f1e0a92bbaf1498123783d79641386c0"
+    },
+    "extended_sections.json": {
+      "bucket": "core",
+      "bytes": 7257,
+      "sha256": "be68473c83c4941bbdf366eb24e2a40c5b7f0e055992a79b84bfb39558ade3a6"
+    },
+    "feature-capabilities.json": {
+      "bucket": "core",
+      "bytes": 1775,
+      "sha256": "ff65a64c72282dd75becba12bd412a9805a491cff262d7f16c43b683c546a336"
+    },
+    "finance_prediction_rules.json": {
+      "bucket": "core",
+      "bytes": 3584,
+      "sha256": "d702940e57bb4e96ceef5326ccb270624d846460b2096553726aec8292857ff6"
+    },
+    "gemstones_recommendation.json": {
+      "bucket": "core",
+      "bytes": 15844,
+      "sha256": "d7f13b96798746ffafd5b5bc7f320a301e6e15872fd7049cf3caf6b16dc4d279"
+    },
+    "ghatakFavourable.json": {
+      "bucket": "core",
+      "bytes": 246,
+      "sha256": "15da76e1ee7310a5e7e8909ec2f079b38e5d2dbdeac61197be417e5c790ee07e"
+    },
+    "gochar.json": {
+      "bucket": "core",
+      "bytes": 8210,
+      "sha256": "2d1622ea39d1b8dd1dd58f35dd6097cd633ef3c6a5bea1c37728ca54e8e3c5c6"
+    },
+    "graha_shanti_rules.json": {
+      "bucket": "core",
+      "bytes": 22887,
+      "sha256": "e243c4ab9e9ebaff35ab9cbfdaa72915ee13746de733d1c2f79562334ebb51b9"
+    },
+    "graha_states.json": {
+      "bucket": "core",
+      "bytes": 316,
+      "sha256": "c11b5912a03ebfa660744c7038e1f0cf514c9eb751f1c048dea9e5b0ed718256"
+    },
+    "health_prediction_rules.json": {
+      "bucket": "core",
+      "bytes": 3546,
+      "sha256": "bf8b3a1f032f6f42fc35c5ba40b9139def2ebf3fe38aba178ed3037881c973b8"
+    },
+    "house_effects_bphs.json": {
+      "bucket": "core",
+      "bytes": 138095,
+      "sha256": "c02f22e0742fc8b2bac58d179d6b0c54dac4a6a4d2d4a57bc1bf98dac8a64c9e"
+    },
+    "index.json": {
+      "bucket": "core",
+      "bytes": 633,
+      "sha256": "b5c90845b4195a78261201e372b9a789e9b18b87dc1adea2fb1cf08d721e427f"
+    },
+    "ishta_devata_mapping.json": {
+      "bucket": "core",
+      "bytes": 5186,
+      "sha256": "2a2789b3d4439247838583ebf129d0a28df0138e087bf5e1a094cbd73a2db411"
+    },
+    "jadi_herbs.json": {
+      "bucket": "core",
+      "bytes": 6985,
+      "sha256": "ad5e8c6ad3debc850c3c89ae2af3d132ece8f01d1d6ef512158af87631ce88c2"
+    },
+    "kalachakra.json": {
+      "bucket": "core",
+      "bytes": 4511,
+      "sha256": "f733be50e72aa805c46e24b6e96286003cbe0858107711ffee4abb9cdbd43cf5"
+    },
+    "karakamsha_rules.json": {
+      "bucket": "core",
+      "bytes": 4177,
+      "sha256": "e70cd3babbdd8fa7675c6865e2126c4eca17df91e56e050e0e0a08b00699cf78"
+    },
+    "karana_details.json": {
+      "bucket": "core",
+      "bytes": 9088,
+      "sha256": "c2cefb0c7b7c282bf65cb65ecd8ccbc6a161a88ca6766053cf6459915147ad1b"
+    },
+    "kp_system.json": {
+      "bucket": "core",
+      "bytes": 5174,
+      "sha256": "686edddd27c8b75f6982dba21d03d8ad21652fd2d73adbd966af514231fcd5fa"
+    },
+    "lagna_predictions.json": {
+      "bucket": "core",
+      "bytes": 31899,
+      "sha256": "4810c9543d8d7930daf44d9c3c704c41b549c264dea91d6f3ab2ca1aa9feb6f7"
+    },
+    "lal-kitab-data.json": {
+      "bucket": "core",
+      "bytes": 43016,
+      "sha256": "d4035fd8e83ebfe79803a69ba8a4fb8dac4876dc34e89d257ac4ed9764711265"
+    },
+    "lal-kitab-timing.json": {
+      "bucket": "core",
+      "bytes": 3402,
+      "sha256": "4469371dd889f7592b0071db6b06e5a9ba60356ef2be5ab88829bb45a90b8667"
+    },
+    "lalkitab.json": {
+      "bucket": "core",
+      "bytes": 1288,
+      "sha256": "ca2a08178454fb5ac12f1944f7a4fbaa842555d1bf2f64168154465615189fca"
+    },
+    "lordshipQuality.json": {
+      "bucket": "core",
+      "bytes": 355,
+      "sha256": "2df38fdce3336876776a2c5a17c80715295eaa0f02104b4447c5fdd84e12a652"
+    },
+    "marriage_prediction_rules.json": {
+      "bucket": "core",
+      "bytes": 5150,
+      "sha256": "30fd60df1238a150cca4a8dca5ee195202c2ca5da3da21945cad560df3d65300"
+    },
+    "master-requirements.json": {
+      "bucket": "core",
+      "bytes": 5552,
+      "sha256": "76640e4f3a3df40f7d9c423ff9911c3a1fcf76546e998f2c1b17f17d740a9799"
+    },
+    "menu.json": {
+      "bucket": "core",
+      "bytes": 4438,
+      "sha256": "862d748949a0a6db5e367158a26c4b8453904fc4ae07af696c7c9ce9d062b63c"
+    },
+    "nakshatra_basic_list.json": {
+      "bucket": "core",
+      "bytes": 15490,
+      "sha256": "e1d9ac7fd8b7ccaec7b76379f64bc51a721fdb13e691be1e9d85314c6b37f79d"
+    },
+    "neecha_bhanga.json": {
+      "bucket": "core",
+      "bytes": 1441,
+      "sha256": "0ea9230b89ce0570407330b13e858e895bde21c27bfe5311823d268d2f019bad"
+    },
+    "numerology-data.json": {
+      "bucket": "core",
+      "bytes": 8788,
+      "sha256": "0e29e97a0c9c76591151153e72764dfcf4c96903f29c4a2fb6c7c6cc06a2dcad"
+    },
+    "nutation2000b.json": {
+      "bucket": "core",
+      "bytes": 9562,
+      "sha256": "f52f132334f4e2c9b70490ef4f5117ec233661f617af4d44ff4afa28b547a0c8"
+    },
+    "outcome-schema.json": {
+      "bucket": "core",
+      "bytes": 673,
+      "sha256": "0310daffda8cba05c9db9a372055092afb1862ab8fb9718e9e17dd0c1b96fe37"
+    },
+    "palmistry_rules.json": {
+      "bucket": "core",
+      "bytes": 20611,
+      "sha256": "5612286c88a84c0edd85aec67f71968e76c3d4e8d19f8ebdf1b71e133273b0aa"
+    },
+    "panchang_calculator_v15.json": {
+      "bucket": "core",
+      "bytes": 1171,
+      "sha256": "b9fedd0a49dfa40464587556f76b22a522f82c32ed8cbae267496b3c2ae40e01"
+    },
+    "planetByPlanetReport.json": {
+      "bucket": "core",
+      "bytes": 148,
+      "sha256": "f03e009939c1d8c0237e7035b78d78fe3da293bb8bd4fc5470f8c62d49f8d581"
+    },
+    "planetPositions.json": {
+      "bucket": "core",
+      "bytes": 119,
+      "sha256": "889b81fe27b0e2deb0951033b2ef8418f75b47c695a889e92829602df9ec4f56"
+    },
+    "planetaryMasterTable.json": {
+      "bucket": "core",
+      "bytes": 292,
+      "sha256": "b2c5c1fd9f6f0b5baef34ac7fb9941f8a90792fb51604682ec25dcb9292613f4"
+    },
+    "production-capability-registry.json": {
+      "bucket": "core",
+      "bytes": 37512,
+      "sha256": "ccd5c0ebae7535531068be10d6ccfd7ed3a855c481426c4c95de742a3f34860b"
+    },
+    "public-navigation.json": {
+      "bucket": "core",
+      "bytes": 15647,
+      "sha256": "dfabdeab2d4add84952917d1eebbb11da969a62c24cf2e4b9326790f7a39682f"
+    },
+    "raja_yoga.json": {
+      "bucket": "core",
+      "bytes": 45521,
+      "sha256": "aa61078f523a097c4eb5d5dcdbe6bbf7adb992ccd307a036b09cf8bceb83c141"
+    },
+    "remedies_bphs.json": {
+      "bucket": "core",
+      "bytes": 146170,
+      "sha256": "1849c813f354b8fbd9c3763a8b164123fb014963b44223e818bed1c6eccd3605"
+    },
+    "remedy-trace.json": {
+      "bucket": "core",
+      "bytes": 99,
+      "sha256": "c9553be408e9913eadb85b0aedb2423c27b46c4c9224457b9c8a222882e60fe1"
+    },
+    "reporting-policy.json": {
+      "bucket": "core",
+      "bytes": 859,
+      "sha256": "b277764888b0b8e7df493b95f361a08a9a7ff6413351b7f635274e2c2d6801c5"
+    },
+    "rule-registry.json": {
+      "bucket": "core",
+      "bytes": 2249,
+      "sha256": "99bba06ed4acd79922256bf5272fc365b1235f038b33169cea7c4283b260e35b"
+    },
+    "sade_sati_accurate.json": {
+      "bucket": "core",
+      "bytes": 158,
+      "sha256": "a81e0700f4cb47028525e20f005dce3bfae3682c70a84711af962ecc6acd678a"
+    },
+    "sarvatobhadra-layout.json": {
+      "bucket": "core",
+      "bytes": 5039,
+      "sha256": "0f077d6e5ffb0899622cf49c4097f89b07806c3d0be6bacf752f1a92394dd8da"
+    },
+    "scripture-citation-index.json": {
+      "bucket": "core",
+      "bytes": 397779,
+      "sha256": "3b2f37c53e98da480c97726810161f218842dad27a173092553cfcd78bb54614"
+    },
+    "scriptureLibrary.json": {
+      "bucket": "core",
+      "bytes": 91,
+      "sha256": "1a8f97a406f23bc666b69f1c8ded37ed4307f352341ba03381ed7d8091aaf21f"
+    },
+    "shadbala.json": {
+      "bucket": "core",
+      "bytes": 6071,
+      "sha256": "9592ac70dbf5e36151b50d83badf304f55965768e3bd2b3e672fceb7da6e22ee"
+    },
+    "sign_career_themes.json": {
+      "bucket": "core",
+      "bytes": 1498,
+      "sha256": "b2fe5b44021ed31cd9633541695c7654a554447dfd5ed97e430de302250e6554"
+    },
+    "sign_countries.json": {
+      "bucket": "core",
+      "bytes": 1121,
+      "sha256": "74427947d89c703a3c3dbe04d157a76d72c78f7bd99449ddfebf4975c3ec61a5"
+    },
+    "special_lagnas.json": {
+      "bucket": "core",
+      "bytes": 173,
+      "sha256": "d274e94ef97e0d061221f40b945fc4aea64e3bdbfceb7ce6b53c98e2534c39d0"
+    },
+    "subscription-plans.json": {
+      "bucket": "core",
+      "bytes": 653,
+      "sha256": "b8a240929985d85949107bf9e5a7f83def12b4355e240bd8847124fdce814986"
+    },
+    "subscription-report-catalog.json": {
+      "bucket": "core",
+      "bytes": 1339,
+      "sha256": "110306ae8b6ded427ca09105ea548734da412a90940212919065e23dc48043a3"
+    },
+    "system-rules.json": {
+      "bucket": "core",
+      "bytes": 5608,
+      "sha256": "b444a21ca1b70441b36c7fa93458f20657fa264092e56abf9f003a2500c302e2"
+    },
+    "tithi_details.json": {
+      "bucket": "core",
+      "bytes": 16030,
+      "sha256": "05f6364fbe96f19d524a66fc5bcbba489ccf5a351a389e7f3a062b9fd51ef4a4"
+    },
+    "transits.json": {
+      "bucket": "core",
+      "bytes": 2252,
+      "sha256": "5136791ccb0108138e63eff963956dc54c6d5e64c3c2a6a07f619f79d6e0458b"
+    },
+    "unifiedEngine.json": {
+      "bucket": "core",
+      "bytes": 51795,
+      "sha256": "5fc7e18c537ec56e7f855f32683df21ea7af700cd4de5fac41dbc329c79eecb2"
+    },
+    "upagrahas.json": {
+      "bucket": "core",
+      "bytes": 245,
+      "sha256": "1f2ce8aa80c834e42b8a5b4470a1ff88e2dc981474421894b46707d2c6c1cdba"
+    },
+    "user-prediction-model.json": {
+      "bucket": "core",
+      "bytes": 502,
+      "sha256": "c12ad2527992e2903387f46c7f31d2e5e1c532d81e526ee54dcf4ebc31f8e0b2"
+    },
+    "user-prediction-preferences.json": {
+      "bucket": "core",
+      "bytes": 3740,
+      "sha256": "fd618c809b5c485ff4beb1a63edf1477588cdfaae610756b0b0c044acbec783e"
+    },
+    "varga_interpretations.json": {
+      "bucket": "core",
+      "bytes": 3129,
+      "sha256": "a97c954c5207a9dc4b92a4b7b2e8f0782fcc09dde44981b3b3d8e106ba7694dc"
+    },
+    "vargas.json": {
+      "bucket": "core",
+      "bytes": 2565,
+      "sha256": "b2be817029f383bc309f5aeea2cbfe6518af1d6c230243f847087b54580fa61e"
+    },
+    "varshaphal.json": {
+      "bucket": "core",
+      "bytes": 150,
+      "sha256": "46c0a7f5cf05ba84a2f3776329a16eb537300b579f6af2e2435e7cc84c80a632"
+    },
+    "vastu_rules.json": {
+      "bucket": "core",
+      "bytes": 42633,
+      "sha256": "b5d8a6a2046c8d231496500e2c939a54d76b6e2633cfbdf5c233b5287f8657b2"
+    },
+    "vimshottari.json": {
+      "bucket": "core",
+      "bytes": 419,
+      "sha256": "e22a2a25a5ee0358bfe885eaff6e616efaf5294dce424dd5d6eb5f8fcd2e2373"
+    },
+    "vsop87.json": {
+      "bucket": "core",
+      "bytes": 45,
+      "sha256": "e7307975de10f65de2f0234bbf028c27efadb792fe78dd15c439a6deb6eee84c"
+    },
+    "westernChart.json": {
+      "bucket": "core",
+      "bytes": 328,
+      "sha256": "c4af99b32f9ba84a5e401498cae1f6e29b3544e04135a776ca681bfd9be671ae"
+    },
+    "yogaEnrichment.json": {
+      "bucket": "core",
+      "bytes": 9844,
+      "sha256": "3f10aaf9babc5f67ff0eecab3b855b3aee8d8801761ca0f1000a132d10bfab8e"
+    },
+    "yogas-doshas.json": {
+      "bucket": "core",
+      "bytes": 7228,
+      "sha256": "1de2ebf477c2f5914c7e49556d8fa8a3d74e29496bb9eaaf292b61d2a5376c15"
+    },
+    "yogas.json": {
+      "bucket": "core",
+      "bytes": 75960,
+      "sha256": "2d36cc26d979913723f6075a63f807e0b5dedadaf609cd4fab0385547aeb6b66"
+    },
+    "yogas__raja_yoga.json": {
+      "bucket": "core",
+      "bytes": 45521,
+      "sha256": "aa61078f523a097c4eb5d5dcdbe6bbf7adb992ccd307a036b09cf8bceb83c141"
+    },
+    "yogas_detailed_database.json": {
+      "bucket": "core",
+      "bytes": 25465,
+      "sha256": "b8771229f3d6063e634bc082b3aa4ec7a1600ded5589c17c8002d30eeacde65e"
+    },
+    "03_mar_1996.json": {
+      "bucket": "library",
+      "bytes": 397085,
+      "sha256": "7dce37793acc99f79cedc04888952726e2766f869b874d64bff4cd462566edc1"
+    },
+    "100_nadi_sutras.json": {
+      "bucket": "library",
+      "bytes": 98916,
+      "sha256": "2bfafc6a6ed0b2201bcab8911e6010e1260d3248c1be570d00e521d326747205"
+    },
+    "71_tantra_sharada_tilaka_tantram_i_sudhakar_malaviya.json": {
+      "bucket": "library",
+      "bytes": 784334,
+      "sha256": "d32ddf01a7d8a3a1fc5ca46d0832f364db7abc23fa57754d8179300de082e906"
+    },
+    "72_tantra_sharada_tilaka_tantram_ii_sudhakar_malaviya.json": {
+      "bucket": "library",
+      "bytes": 723754,
+      "sha256": "25f0b56f5b9e6917bf7d2f3673755f362a2e6426d0c7f3368846ffa5eb2a015f"
+    },
+    "Mantra-Tantra-Sadhana-Laxmi-Narayan-Sharma-1978-1993.json": {
+      "bucket": "library",
+      "bytes": 30019,
+      "sha256": "27467b4d7cf768dd821e096b108846fa6297671d701e7a974a8699c7a5cdc93b"
+    },
+    "adhikarana_saravali_sanskrit_with_chintamani_commentary_by_kumara_vedanta_acharya_pages_partly_damaged_1940.json": {
+      "bucket": "library",
+      "bytes": 4656749,
+      "sha256": "d78bd23d2f01092cc6a083d8e3c2d9e772706f65254c86d981161731cef24f7e"
+    },
+    "adhikarana_saravali_vedanta_desika_the_philosophy_of_visistadvaita_srinivasa_chari_2008_ocr.json": {
+      "bucket": "library",
+      "bytes": 813431,
+      "sha256": "23ba3a2827fed1cb543d3ab344d4dcd731b4bfd4aeeaa6f1a4d8df47e009bd59"
+    },
+    "agastya_samhita.json": {
+      "bucket": "library",
+      "bytes": 99502,
+      "sha256": "633c913fa48af8ff70d26355bc7192221400648ca9edfd0508d1e708816f0e9f"
+    },
+    "agni_purana.json": {
+      "bucket": "library",
+      "bytes": 3066175,
+      "sha256": "31b9d0f78059d52c20784aec0bd525de26fa54a9de091c2a7a6fd17084db7e6a"
+    },
+    "agni_purana_nag_publishers.json": {
+      "bucket": "library",
+      "bytes": 990897,
+      "sha256": "00972b5d91c897ee316923908c017a2d84776e796ab0364cb9a8261d5987d4a9"
+    },
+    "ashtakavarga_bhagya_bindu_by_vinay_aditya_hindi_astrology_illustrated_bengaluru_2023_indian_council_of.json": {
+      "bucket": "library",
+      "bytes": 680981,
+      "sha256": "09829b75f66c7eac249e5e14f9b7e6a6c53622446f2f4d9d4f69d27ba4a9ce33"
+    },
+    "ashtakavarga_phalit_ki_adhunik_vidhiyan_by_m_s_mehta_and_rajesh_chandra_dadwal_pawan_ballabh_thapaliyal_hindi.json": {
+      "bucket": "library",
+      "bytes": 627594,
+      "sha256": "2c4b61beb09f340f0e5142db11c335b7b8da0bb2462dea4b2b7d16ef4da352d9"
+    },
+    "asli_prachin_lal_kitab_girdhari_lal_sharma.json": {
+      "bucket": "library",
+      "bytes": 1147489,
+      "sha256": "8610a1bcd6a14bbd0ad2a863a2227f3fb91bcdb0cc299cbfd425d4683a25e62d"
+    },
+    "astrology_and_astronomy_software_collection_with_serials_or_crack_contents.json": {
+      "bucket": "library",
+      "bytes": 2687,
+      "sha256": "14240e1ff7f38d0e6ac9693065177464efaacdef2fd85d181a32e7490088eec3"
+    },
+    "astrology_tuitions_audio_video_contents.json": {
+      "bucket": "library",
+      "bytes": 45575,
+      "sha256": "9f169799c4595830dff6ed1afbd6ac0f50b00ae5695f6e92bfc9557b5e99e7fb"
+    },
+    "astronomy_time_history_ayanamsa_contents.json": {
+      "bucket": "library",
+      "bytes": 40153,
+      "sha256": "95d339679e86cfb0a76b60af13d32f6047d03f535c097db56f4a6027c506d1ee"
+    },
+    "atharvaveda_samhita.json": {
+      "bucket": "library",
+      "bytes": 4465341,
+      "sha256": "9062c6fb7b15541b16e012593739fdd893868f4b2cc3b6bb3ee43d708d6412ae"
+    },
+    "atharvaveda_samhita_with_the_commentary_of_sayanacharya_vol_ii.json": {
+      "bucket": "library",
+      "bytes": 2573884,
+      "sha256": "7103f93abca15255d5ab9efb915d7675fe864122c45a2792a269e26e9cfcf5bc"
+    },
+    "b9_5f_hora_sara_ashtavarga_jatak_manuscripts_by_i_am_visionary_tunes.json": {
+      "bucket": "library",
+      "bytes": 23664,
+      "sha256": "2bf239bc7d2465bfb1c04cee95197da8e06b4f6868cea9d5f9cbb3f9608f1a05"
+    },
+    "bhargava_tantra_pancharatra_agama_grantha_with_hindi_commentary_by_kapila_deva_narayan_chowkhamba_krishnadas.json": {
+      "bucket": "library",
+      "bytes": 695,
+      "sha256": "ae3efddef2f5c79cc8d182bc971586d11c5b231a64f2dceac1ecb708b615b608"
+    },
+    "bhavishya_purana_acharya_sriram_sharma.json": {
+      "bucket": "library",
+      "bytes": 1858877,
+      "sha256": "fd20a43e3c350197d9bc9181acac8e9a511d80085a0dac27162cb06814c27a21"
+    },
+    "bhavishya_purana_vol_1_acharya_sriram_sharma.json": {
+      "bucket": "library",
+      "bytes": 1859645,
+      "sha256": "f7170590f8cfc04b695c8b1d53befe7d2414cb5a5876d38c9ac5f2d100af1531"
+    },
+    "bhrigu_samhita_concise_version_by_maharishi_bhrigu_and_t_m_rao_astrology_illustrated_delhi_2008_pustak_mahal.json": {
+      "bucket": "library",
+      "bytes": 420285,
+      "sha256": "d7ea37d2b10b8368793240c934f714133da53857a01b276810f1553b3b0664a7"
+    },
+    "bhrigu_samhita_falita_sarvanga_darshana_by_shri_bhagavana_dasa_mittal_thakura_prasad_and_sons_varanasi.json": {
+      "bucket": "library",
+      "bytes": 2839853,
+      "sha256": "f8b3bada7260d67168415c9b3d766b47e8d34b0c85d081663f3a32814448a5d3"
+    },
+    "bhrigu_samhita_phalita_sarvanga_darshana_by_bhagavan_das_mittal_rupesh_takur_prasad_prakashana_varanasi.json": {
+      "bucket": "library",
+      "bytes": 4202908,
+      "sha256": "b881059c3f5c94ff054e8b9db7548998318878385ed9ba33ec268fedab916598"
+    },
+    "bhrigu_sutra_siddha_nath_sharma.json": {
+      "bucket": "library",
+      "bytes": 214281,
+      "sha256": "c8d39fa230a89e27a4d98a3b4e2ee1f6eecf60f66660679e44c25821fc2b169f"
+    },
+    "book_1969_liewellyn_a_to_z_horoscope_maker_and_delineator_kp_red_it.json": {
+      "bucket": "library",
+      "bytes": 1415431,
+      "sha256": "ac8acfe193688586dd3f4975a6b392831c57ab620548810d2f8ff30d0836c7f1"
+    },
+    "books_jyotish_nadi_using_siderial_zodiac_contents.json": {
+      "bucket": "library",
+      "bytes": 66948,
+      "sha256": "a53b4a3779028cf75d58b4bdf0e073751de1e2e79e979ca4de384b4c3134e05e"
+    },
+    "books_using_tropical_zodiac_contents.json": {
+      "bucket": "library",
+      "bytes": 152313,
+      "sha256": "8e575bed1bef2d8a6e93b580ae9aa73088edf1b11d22cf7eb7f5e4e077c8b1c4"
+    },
+    "bphs_1_rsanthanam.json": {
+      "bucket": "library",
+      "bytes": 702907,
+      "sha256": "5155bba20af8753664ed530a768a6de7f66de3fd5f586acb455370e9adca5830"
+    },
+    "bphs_2_rsanthanam.json": {
+      "bucket": "library",
+      "bytes": 654845,
+      "sha256": "066daf4c8f049f8a467f335a3602aecb86dc95d4f92c2ed7e06835bc6d4f14a6"
+    },
+    "braj_vilas_saravali_kanpur_1898_naval_kishore_press.json": {
+      "bucket": "library",
+      "bytes": 22776,
+      "sha256": "356151b7f7fa69edc870fbb90d989d7f7f6818460e476753f089e2403b0d18ec"
+    },
+    "brihat_jataka_bharatiya_phalit_shastra_umesh_puri_gyaneshwar.json": {
+      "bucket": "library",
+      "bytes": 966419,
+      "sha256": "6a3393eb6420785fc2dab01aa053daa8fe8474de28c974007dd12f29d86a70cd"
+    },
+    "brihat_jataka_english_translation_b_suryanarain_row_1919_lr.json": {
+      "bucket": "library",
+      "bytes": 141735,
+      "sha256": "c405271464f1881d36bedae512c5d2f0f73c9aa27bb581ab775036414e9e1b91"
+    },
+    "brihat_jataka_english_translation_usha_and_sashi.json": {
+      "bucket": "library",
+      "bytes": 7919,
+      "sha256": "0b3e857cd76f46b010a7be1585e3e4268576e0d11fde1b707cc466beb460ddda"
+    },
+    "brihat_jataka_of_varaha_mihira_ed_by_venkata_raman_trans_by_surya_narain_rao_1957_bangalore_raman_publications.json": {
+      "bucket": "library",
+      "bytes": 878498,
+      "sha256": "36d670801acd0607f165c23ed552b18aa1c977bb67491894c5483bd85cc7788a"
+    },
+    "brihat_jataka_of_varahamihira_swami_vijnanananda_mrml.json": {
+      "bucket": "library",
+      "bytes": 455626,
+      "sha256": "d916c4ae6cb7bdf993bbe62198ef22aaf3a8288718805f50c776b320859aab38"
+    },
+    "brihat_jataka_of_varahamihira_vivrutti_of_bhattolpala_sitaram_jha.json": {
+      "bucket": "library",
+      "bytes": 2343301,
+      "sha256": "6a9e1ce9444ff63448a89ac152bd7737993897db2184586b688c5a486517ba9c"
+    },
+    "brihat_jataka_tika_by_bhattotpal_sanskrit_mss_subject_jyotish_mss_no_76_gurukul_kangri_collection.json": {
+      "bucket": "library",
+      "bytes": 7888,
+      "sha256": "26bc5168ca5c9c782d22398679707495d212d706ac3b33475275f2c7e4e055ed"
+    },
+    "brihat_parashar_hora_shastra_ganesh_datt_pathak.json": {
+      "bucket": "library",
+      "bytes": 2606358,
+      "sha256": "4d397e8e9351e921ecde61b68f3d0dde7640f9ae744ce038050d8228830bd0d2"
+    },
+    "brihat_parashar_hora_shastra_of_parashar_muni.json": {
+      "bucket": "library",
+      "bytes": 2809231,
+      "sha256": "20bb5bb54f6a1f62f68b8f92ad59fe4e2478305362d5f6e6997048180436992c"
+    },
+    "brihat_parashar_hora_shastra_parashar.json": {
+      "bucket": "library",
+      "bytes": 2598869,
+      "sha256": "c2202e27fbc87950833caa3ddc9458d87fb539bc8b1d801d0615f9859762edf8"
+    },
+    "brihat_parashar_hora_shastra_suresh_chandra_mishra.json": {
+      "bucket": "library",
+      "bytes": 1493538,
+      "sha256": "e4247ed9097b38a525829d220df2ee37e609d404b57d5b32e502b5281959815f"
+    },
+    "brihat_parashar_hora_shastra_vol_1.json": {
+      "bucket": "library",
+      "bytes": 1483322,
+      "sha256": "2fe5d268a49a4a263df9676fd20db42b66df4dcbfa04e51158df6ad24ed326ac"
+    },
+    "brihat_parashar_hora_shastra_vol_2.json": {
+      "bucket": "library",
+      "bytes": 1904990,
+      "sha256": "1ff0d8277e487d79d884ae6b0206712f9fa20c5adbb5b5083f0b86b25939d55e"
+    },
+    "brihat_parashar_hora_shastram.json": {
+      "bucket": "library",
+      "bytes": 2845341,
+      "sha256": "3a2530a97c6b36b493a84857f8a2a5a52d63f4a57d6f8c3238874c57404a9f14"
+    },
+    "brihat_parashara_hora_shastram_of_parashar_muni_with_hindi_commentary_by_pt_shri_ganesh_datta_jyotish.json": {
+      "bucket": "library",
+      "bytes": 2681535,
+      "sha256": "32371c140c6f56c6fe18d757e3f945c7cb2c991551cb75da30d545e484f8130b"
+    },
+    "brihat_samhita_b_p_mishra.json": {
+      "bucket": "library",
+      "bytes": 2215853,
+      "sha256": "49cb517de1373c8d236461f5917fb0098cfc57ba92af14c1d1c1510acadbc6fb"
+    },
+    "brihat_samhita_dr_surkant_jha.json": {
+      "bucket": "library",
+      "bytes": 2966380,
+      "sha256": "7c9ce98849304defe8275782e95fe2fbddb250979311d0eaf1a4d481ec966a69"
+    },
+    "brihat_samhita_dr_surkant_jha_2.json": {
+      "bucket": "library",
+      "bytes": 2975560,
+      "sha256": "8ac698145e6a8b5aca1b305de4879eaad82b9ae9b4fe43518238edcd95378881"
+    },
+    "brihat_samhita_edited_by_mohan_chatopadhyay_missing_pages_jangamwadi_math.json": {
+      "bucket": "library",
+      "bytes": 2431416,
+      "sha256": "e333e2a020f039158591ec7e4187983618a0d872dce6a1898e18e4c258156050"
+    },
+    "brihat_samhita_edition_1.json": {
+      "bucket": "library",
+      "bytes": 2075781,
+      "sha256": "35ebd6288be6df4f20c7939fc032838fcbca2c56c8ff794094e44a1399eac5fb"
+    },
+    "brihat_samhita_edition_2.json": {
+      "bucket": "library",
+      "bytes": 1308192,
+      "sha256": "4737f77c88cbc6e1696972fd35508323ced5a0afd482eeecb529c6aa44ff2050"
+    },
+    "brihat_samhita_edition_3.json": {
+      "bucket": "library",
+      "bytes": 1483429,
+      "sha256": "4e388705de0d2c9782308d49c9fd2d19c1b4a7219934cedcc196d8a8737d88d0"
+    },
+    "brihat_samhita_edition_4.json": {
+      "bucket": "library",
+      "bytes": 1923057,
+      "sha256": "0cc78763aea32383af4425adf4dcc2e7bdbea6893a6fb3d9aacb807aae910a68"
+    },
+    "brihat_samhita_of_sri_varaha_mihira_part_2_with_bhattotpala_commentary_edited_by_dr_krishna_chandra_dvivedi.json": {
+      "bucket": "library",
+      "bytes": 2610129,
+      "sha256": "6c422b9725b4e239aef32977303e120ca08ead5df872725f63cf2dabf929b81c"
+    },
+    "brihat_samhita_of_varaha_mihir_part_1_edited_by_m_ramakrishna_bhat_motilal_banarasidas_delhi.json": {
+      "bucket": "library",
+      "bytes": 1692978,
+      "sha256": "a82cc225b2f7ac05aa59a3ec05f26d4ef43f83234e404455f5ac421ef69c62d0"
+    },
+    "brihat_samhita_of_varaha_mihira_by_avadha_vihari_tripathi_varanaseya_sanskrit_vishwavidyalaya.json": {
+      "bucket": "library",
+      "bytes": 2558323,
+      "sha256": "1a1d158ddc066a72801c4cae938af3323f9e7c4a87991d3a6042c5097af9cb7a"
+    },
+    "brihat_stotra_ratnakar_1932_pandurang_javji_mumbai.json": {
+      "bucket": "library",
+      "bytes": 1037272,
+      "sha256": "e8a5492f8a59dd8fbb891b22751181735932cf0ac68ce5b940774025d4c3a623"
+    },
+    "brihat_stotra_ratnakar_acharya_pandit_shivdutta_shastri.json": {
+      "bucket": "library",
+      "bytes": 1580882,
+      "sha256": "56d093cd080c547d9a0bb823107193f0f0befe8d76743fc72860f0606c0d0705"
+    },
+    "brihat_stotra_ratnakar_by_shiva_datt_kavi_khemraj.json": {
+      "bucket": "library",
+      "bytes": 1165097,
+      "sha256": "83d95f5a08a36ad76e62cc8dc3568a858c21678db3c4314a8f6ff9456eccad8e"
+    },
+    "brihat_stotra_ratnakar_ed_chaman_lal_gautam_sanskriti_sansthan_bareli.json": {
+      "bucket": "library",
+      "bytes": 1262334,
+      "sha256": "d8166c1bb684f25672c1101ca27d7ff565d32d54989e1984ced760bf0ec2c2a6"
+    },
+    "brihat_stotra_ratnakar_illustrated_khemraj.json": {
+      "bucket": "library",
+      "bytes": 929723,
+      "sha256": "e54b6c71f027f3726fcfe45ab0ac6a17a766f426ff6983ba3f7564d410c14fe8"
+    },
+    "brihat_stotra_ratnakar_part_i_1906_khemraj.json": {
+      "bucket": "library",
+      "bytes": 698430,
+      "sha256": "6760794099d37820d733f0b71e4acf356aa759d06be40f4a1a602f966b1c969b"
+    },
+    "brihat_stotra_ratnakar_partial_garbled.json": {
+      "bucket": "library",
+      "bytes": 626558,
+      "sha256": "21d4bab5e76d4cbb021622b96180bd12e5a7cf16b2b262b4d602e03b527479fe"
+    },
+    "chamatkar_chintamani_jatak_granth_pt_mahidhar_sharma.json": {
+      "bucket": "library",
+      "bytes": 156828,
+      "sha256": "235866b4e4d800b0ca37927bb21f54fe19bd80afe88bb77702b04882bafe472c"
+    },
+    "chamatkari_mantra_aur_siddhiyaan_srivastava.json": {
+      "bucket": "library",
+      "bytes": 455645,
+      "sha256": "2b3480b7ff6e5b288e2996b8c1ea315b1e97da812fc7a412b9f0e49e1dada375"
+    },
+    "chandra_gyana_agama_english_translation_by_rama_ghose_sanskrit_text_edited_by_vrajavallabha_dwivedi_shiva.json": {
+      "bucket": "library",
+      "bytes": 895,
+      "sha256": "01b279ce1501a4883abd10d618f03026fd45c9b65ff67ebc4aeb69303f0dc6f8"
+    },
+    "chandrakala_nadi_1.json": {
+      "bucket": "library",
+      "bytes": 1224198,
+      "sha256": "a7fdc15cba9bef0e4fae0a91357e95432e351d1a33b8626a6d655c34f853608d"
+    },
+    "chandrakala_nadi_2.json": {
+      "bucket": "library",
+      "bytes": 1407829,
+      "sha256": "4c4eab46de28be409cff438933290ca024799b0a0fbd65f11f13651e198f0cf6"
+    },
+    "chappanna_or_prasana_sastra_b_suryanarain_rao_1946.json": {
+      "bucket": "library",
+      "bytes": 145631,
+      "sha256": "2f87bbc0680a783d718071699b3b108b68ba022a05c0abe8f70fea03fad573fe"
+    },
+    "ckn_3.json": {
+      "bucket": "library",
+      "bytes": 1787418,
+      "sha256": "0af5a9d27c7b2e4e0d5163f416173e2b1a19b12c2189c15771da1519d383e968"
+    },
+    "classified_by_topics_contents.json": {
+      "bucket": "library",
+      "bytes": 478260,
+      "sha256": "c2cd87895ea26a9fa05a66ae46c77b47301f3cf807a1cd8acec5808fc0f36cb9"
+    },
+    "damara_tantra_manu_01_04_125_lal_bahadur_shastri_sanskrit_university.json": {
+      "bucket": "library",
+      "bytes": 50675,
+      "sha256": "7917bf549b7ccf041d1c55c834643c0749bfbe8668aed1699bf876e93df33c4c"
+    },
+    "damara_tantra_ram_kumar_rai.json": {
+      "bucket": "library",
+      "bytes": 165063,
+      "sha256": "80137132d61083ef94d947af287c15cf67e0d5eb443da37478d273e94bd19cf1"
+    },
+    "deva_keralam.json": {
+      "bucket": "library",
+      "bytes": 3946351,
+      "sha256": "5f0141f1e8e4d8dbf12363c05f1f42f6ee015d5ebd4b4fbe8418e496ab356d01"
+    },
+    "deva_keralam_1_chandrakala_nadi.json": {
+      "bucket": "library",
+      "bytes": 682069,
+      "sha256": "fa51b5eb637647cec4b84b667c4668d6d5a157b6eb34644f225672bea37d28c1"
+    },
+    "deva_keralam_2_chandrakala_nadi.json": {
+      "bucket": "library",
+      "bytes": 723641,
+      "sha256": "28f316a7d2ea1e549a84c37150db4f09323f4cf83aa4c15ef270572d4f5c61fd"
+    },
+    "dharma_sindhu_by_kashinath_upadhyaya_1904_nirnaya_sagar_press_jangamawadi_math_collection.json": {
+      "bucket": "library",
+      "bytes": 2447903,
+      "sha256": "6450cdf318f1e31ddc64595e14142a93900ec9a121bb813cc59de74c832f01e2"
+    },
+    "dharmasindhu.json": {
+      "bucket": "library",
+      "bytes": 2291820,
+      "sha256": "4f98b27943162e739b228d74196a414c3ff0dae98135171dbe0cdc69119da0d1"
+    },
+    "dharmasindhu_srikashinaththopadhyavicharit.json": {
+      "bucket": "library",
+      "bytes": 5440947,
+      "sha256": "76450bcdb6823ed390d3a075a7262f8b947c997df7665c230cc77957a3b34a6c"
+    },
+    "durga_saptashati_tantra_books.json": {
+      "bucket": "library",
+      "bytes": 799025,
+      "sha256": "c9cff096f01c54839076b7bdefa3a15e7d95f61f920ba8d72ac76a26b0e51ca5"
+    },
+    "ekaksharaganapatikavacha_rudrayamalatantra_cgv_pss_0948_1006.json": {
+      "bucket": "library",
+      "bytes": 6364,
+      "sha256": "f408d589daac8bd40c40c56f4459b045b5944c120df288aaa154e89003d843fe"
+    },
+    "encyclopaedia_of_hinduism.json": {
+      "bucket": "library",
+      "bytes": 568470,
+      "sha256": "3f51b699527dfc6f6d9dfa95c7b3545444ba1268499d11f2e515709390071f1f"
+    },
+    "garuda_mahapurana.json": {
+      "bucket": "library",
+      "bytes": 5770602,
+      "sha256": "29c2fc003b693ba1ef89f197d948744e72c7af805c45f2f0e5df35169b086f79"
+    },
+    "garuda_purana.json": {
+      "bucket": "library",
+      "bytes": 1193752,
+      "sha256": "0ddd19a505db5df91c8e92a1135db368133933661a38a2ba8ae258b52cf30701"
+    },
+    "garuda_purana_sankshipt_gita_press.json": {
+      "bucket": "library",
+      "bytes": 4531942,
+      "sha256": "bec58c59124385ab09443ac1920ecac019b8309a7432b549224756b919640513"
+    },
+    "gayatri_maha_mantra_swami_kashikananda_giri.json": {
+      "bucket": "library",
+      "bytes": 1121290,
+      "sha256": "78778a5427db04d48ed31ba6817ca8ff9b4245e566379b66eafb3642a3f17f68"
+    },
+    "hora_sara_of_prithuyasas_prof_r_santhanam.json": {
+      "bucket": "library",
+      "bytes": 465777,
+      "sha256": "1cc4cd939c99a8291968dc07c5cff190e8f66c5427d49980922329d461fc23c6"
+    },
+    "iti_brihat_jataka_by_bhattotpala_ashtaka_varga_adhyaya_and_muhurta_darpana_sanskrit_subject_jyotish_gurukul.json": {
+      "bucket": "library",
+      "bytes": 28098,
+      "sha256": "56e89b086a20a2edeab7a3dbfbd8556a1ad515d502ec16da8f8ce6dea1f306ea"
+    },
+    "jaimini_sutras.json": {
+      "bucket": "library",
+      "bytes": 55869,
+      "sha256": "b3689dc45700d64cda951a75c1ed9281a18defc0fbf5d9ee52891db4bb9c93f5"
+    },
+    "jaimini_sutras_2.json": {
+      "bucket": "library",
+      "bytes": 231660,
+      "sha256": "2c4b6293b4c00a0c17221b936156d9d1dcf6ef1024c421c60bc15691f38853db"
+    },
+    "jaimini_sutras_b_suryanarain_rao_1949.json": {
+      "bucket": "library",
+      "bytes": 269824,
+      "sha256": "dec4a59c0f5919a6e4000d06fa2d2b4426bc043a64440b45a226ccd13dcfd2c6"
+    },
+    "jaimini_sutras_b_suryanarain_rao_1955.json": {
+      "bucket": "library",
+      "bytes": 271563,
+      "sha256": "93296ab456622e23a0971b81c1732d6a713694f973e5e3aa1e5c376011b5a7ae"
+    },
+    "janam_kundali_rachna_evam_phal_vichar.json": {
+      "bucket": "library",
+      "bytes": 1688832,
+      "sha256": "47fee41f15f1d11aee26e392c4465bf036000c4cb9d909c5bfa6c2dc7674bf8b"
+    },
+    "janma_kundali_by_shri_bharatiya_yogi_1982_bareli_samskruti_samsthan.json": {
+      "bucket": "library",
+      "bytes": 348887,
+      "sha256": "3371d4f045496ad744b98517685776dc991d0cf2a484709a46cc650155dbe1ef"
+    },
+    "jataka_chandrika_b_suryanarayana_row_1900.json": {
+      "bucket": "library",
+      "bytes": 153966,
+      "sha256": "9f3d6171d6c80fd6e953ecf0af315c2c717a12ca7cf0d2eeb6c002736c2417e8"
+    },
+    "jataka_parijata.json": {
+      "bucket": "library",
+      "bytes": 1421155,
+      "sha256": "b333e68685f5cf435eb5498caf6dae658d04153afaacfbfd02941e1d26230132"
+    },
+    "jataka_parijata_2.json": {
+      "bucket": "library",
+      "bytes": 1423682,
+      "sha256": "f0f498b79fc193d89406a1a2b5c2500819aa0dc9948c1866324aeb8f975d008e"
+    },
+    "jataka_parijata_by_daivagya_shri_vaidyanatha_prajnavarddhini_commentary_by_dr_satyendra_mishra_sanskrit_hindi.json": {
+      "bucket": "library",
+      "bytes": 2433200,
+      "sha256": "6cbe1c731b12431086b30ac847f2cafe454ad48e91e196c29d1cf45230037f3b"
+    },
+    "jataka_parijata_daivjna_vidyanatha_pt_kapileswar_shastri_chaukambha.json": {
+      "bucket": "library",
+      "bytes": 3393672,
+      "sha256": "b7e6d5cb98b89366d7594803bd65f53b586607999ebae2affd349745b81f523a"
+    },
+    "jataka_parijata_with_explanation_of_pt_kapileshvara_shastri_and_vimala_hindi_tika_of_pt_shri_matri_prasad.json": {
+      "bucket": "library",
+      "bytes": 3380148,
+      "sha256": "56bd21eb98683c6a1d5d88a1f5af9862a3f1ba741dc354b69942f9773e3afeee"
+    },
+    "jataka_parijata_with_prajnavardhini_sanskrit_hindi_commentaries_by_daivagya_shri_vaidyanatha_commented_edited.json": {
+      "bucket": "library",
+      "bytes": 1903507,
+      "sha256": "8bbab7ecb91d6015269bd2100592057618e41b4f473786d180a0273cf1120c96"
+    },
+    "jyotish_anil_chawla_a_philosophy_of_astrology_kp_system.json": {
+      "bucket": "library",
+      "bytes": 60513,
+      "sha256": "b8ed205d683efbc094ec2d9fb48ffc24ce9822b063bb587211ab0db36144285b"
+    },
+    "jyotish_applications_of_cuspal_interlinks_part_1_baskaran_banned.json": {
+      "bucket": "library",
+      "bytes": 267309,
+      "sha256": "dd3e17fbfefb0c231b529f05547e551b343e6175d21d639befa815732bf33bfa"
+    },
+    "jyotish_applications_of_cuspal_interlinks_part_2_baskaran_banned.json": {
+      "bucket": "library",
+      "bytes": 270192,
+      "sha256": "398014b665ec2d8ec52a34e325f7af99a28f050b6a26670858ab991f085f8494"
+    },
+    "jyotish_astrologics_of_kaalchakra_baskaran.json": {
+      "bucket": "library",
+      "bytes": 711147,
+      "sha256": "b3b9b1cae518eb040c07deabf45bb2a4a5163f7fd16299d6410b75df6f1d1171"
+    },
+    "jyotish_houses_8_and_3_in_advanced_astrology_kp_horary_chatterjee.json": {
+      "bucket": "library",
+      "bytes": 701906,
+      "sha256": "dd669483cb186b659c5a4f787f53baf9669d565a9b49d82b95d2336ac6a9b4d6"
+    },
+    "jyotish_how_k_p_pinpoint_events_prasna_k_hariharan.json": {
+      "bucket": "library",
+      "bytes": 131921,
+      "sha256": "0cc9bb5baae2ca711b9ab8187f38473d7c71767cb64568ba7d491c78693d97fc"
+    },
+    "jyotish_k_p_astro_iq_easy_test.json": {
+      "bucket": "library",
+      "bytes": 52927,
+      "sha256": "cb3a3003193fcccff3da8f9318bc6d0516f0cc0e591f2f5e72e5fa9cd0d5a4d6"
+    },
+    "jyotish_k_p_basics_of_nakshatra_padhathi_mk_viswanath.json": {
+      "bucket": "library",
+      "bytes": 279471,
+      "sha256": "a0886fcd7ff18f15859dac4d03fcd5de17ed878dbc79340653d6f65a02834855"
+    },
+    "jyotish_k_p_dynamics_s_naik.json": {
+      "bucket": "library",
+      "bytes": 110178,
+      "sha256": "f30ac1e1eb648e1be965f129aba481bb6a66916d4f424d490afd30e9978724ad"
+    },
+    "jyotish_k_p_how_to_judge_longevity_k_hariharan.json": {
+      "bucket": "library",
+      "bytes": 128899,
+      "sha256": "1ff71308d080cd1ad1cd90add01c722024f126d175681802d0594dc4bdc16f78"
+    },
+    "jyotish_key_to_learn_k_p_cuspal_system_s_p_khullar.json": {
+      "bucket": "library",
+      "bytes": 261533,
+      "sha256": "357b3dd05d81c5cb9f551c62b369a720e9ec99163581566007cd95e77d18215d"
+    },
+    "jyotish_kp_books_magazines_contents.json": {
+      "bucket": "library",
+      "bytes": 6722,
+      "sha256": "14adb57c303de1f1d6403c218fa81ca552199f7551094c9d6fbe08bb6133e1c3"
+    },
+    "jyotish_kp_kalamsa_and_cuspal_interlinks_s_p_khullar.json": {
+      "bucket": "library",
+      "bytes": 476739,
+      "sha256": "bbc581933f1c37df178b657cfd822fd383531df9c08cab28e51801b379fdc16d"
+    },
+    "jyotish_kp_new_dimensions_of_kp_astro_prabhakar.json": {
+      "bucket": "library",
+      "bytes": 187736,
+      "sha256": "7aeca4cd66f6caeaf7204fad24ca2c9233934f32ac94071fe59e82a3a134009f"
+    },
+    "jyotish_kp_reader_5_transits_banned.json": {
+      "bucket": "library",
+      "bytes": 630303,
+      "sha256": "dd44c59df236b494c12ce97f783a474acc37b212b1bfa35a3a3db1614e452f74"
+    },
+    "jyotish_kp_sharad_joshi_krishnamurthy_padhdhati.json": {
+      "bucket": "library",
+      "bytes": 126535,
+      "sha256": "684a075141c15603b2819cf7d8d8c826d39201c82eaa445f57930626a1e9d67f"
+    },
+    "jyotish_kp_sharad_joshi_nakshatra_chintan_part_1_pages_missing.json": {
+      "bucket": "library",
+      "bytes": 48130,
+      "sha256": "54ea294c87dea3c79f77a9fbd563fed05a92287815d50b064d3592c793c262b1"
+    },
+    "jyotish_kp_sharad_joshi_nakshatra_light.json": {
+      "bucket": "library",
+      "bytes": 153784,
+      "sha256": "f798ccf32f8e728d39322a262433113bf4953a6d7c844cd4f30d7304a5847d1b"
+    },
+    "jyotish_kp_the_times_horary_astrology_prabhakar.json": {
+      "bucket": "library",
+      "bytes": 198216,
+      "sha256": "98b71bb9e37fcc55baee93f9bee001c3b60735b781402b6612891c2f99a7ec7e"
+    },
+    "jyotish_kp_true_astrology_s_p_khullar.json": {
+      "bucket": "library",
+      "bytes": 401033,
+      "sha256": "b9c8b06389aa98ade20f12acf87c2847535d99bcdd60a29faa360a32d59791e7"
+    },
+    "jyotish_kp_year_book_2010.json": {
+      "bucket": "library",
+      "bytes": 202251,
+      "sha256": "65a5deeb242451352488ac492076f800e4e4024909ff91cc8d70d9dc4c9d07e5"
+    },
+    "jyotish_krishnamurthy_paddhati_bansal.json": {
+      "bucket": "library",
+      "bytes": 83684,
+      "sha256": "4e61e1a2ecf38df1b0e8314c359ff2ba6ab230400a41beb426bc7f18e2ff5ecf"
+    },
+    "jyotish_prashna_kundali_vichar.json": {
+      "bucket": "library",
+      "bytes": 1867478,
+      "sha256": "4bcbc7e6c98e834286c09cca724f6b2e47c50d9be6d8145f18e907cedbe5cf55"
+    },
+    "jyotish_your_true_horoscope_kp_rectification_s_p_khullar.json": {
+      "bucket": "library",
+      "bytes": 352922,
+      "sha256": "71e8f91e1a00c3a693dcda6d8aa92fb68a4f24f1334da73f17e270b4cf3e2557"
+    },
+    "kali_tantra_shashtra_tantra_books.json": {
+      "bucket": "library",
+      "bytes": 574521,
+      "sha256": "c9e9cea3c7eaf6e9b983ee19d5886179185a0f0a9db158bca4a0cbe11047168e"
+    },
+    "kalyan_sankshipta_varaha_purana_ankha_editor_motilal_jalan_gorakhpur_1977_gita_press.json": {
+      "bucket": "library",
+      "bytes": 3498458,
+      "sha256": "684ee034c20893438cd352afe04ffca82877e4900f1f4022a6f099deed524c71"
+    },
+    "karma_vipaka_samhita_tika_and_bhashya_vasti_ram_venkateswara_steam_press.json": {
+      "bucket": "library",
+      "bytes": 1010579,
+      "sha256": "09c0cc6ca2c64f56413ddbbcc7b41140c55320cd34e644bce74a9a2ba27ba8c8"
+    },
+    "karma_vipaka_samhita_trans_by_vastirama_2010_delhi_rashtriya_sanskrit_samsthan.json": {
+      "bucket": "library",
+      "bytes": 1190524,
+      "sha256": "a7ea8d66b3839da36c1ce754298988a5e6dd4eef91fd4aa67cbc5d81e36f22ca"
+    },
+    "ksu_h1308_saravali0000vsub.json": {
+      "bucket": "library",
+      "bytes": 896345,
+      "sha256": "a0cb709cda6ea48f7eca82cd372cb7d8867f5ef0812146ac3d7bd969472c08d7"
+    },
+    "kurma_puranam_ed_by_mahesh_chandra_josh_1967_varansi_chowkhamba_krishnadas_academy.json": {
+      "bucket": "library",
+      "bytes": 4438876,
+      "sha256": "22373837c4a368c852cc3ca10d584ae8c3cc6ecc922fbfb57248381be330ed4d"
+    },
+    "laksmi_tantra_a_pancharatra_agama_pandit_v_krishnamacharya.json": {
+      "bucket": "library",
+      "bytes": 1880874,
+      "sha256": "15f0b83aaeb24725bd17ad71b8752dba553a4223f1977d2e7e62668aec0e1536"
+    },
+    "lal_kitab_1939.json": {
+      "bucket": "library",
+      "bytes": 908146,
+      "sha256": "7094098d5a52b50daf972ce866392333514fcd6a06cf90e57c4e54db2148244c"
+    },
+    "lal_kitab_ke_adbhut_totke_evam_upay_grahon_ke_kuprabhav_se_bachne_ke_liye_by_dr_umesh_puri_gyaneshwar_hindi.json": {
+      "bucket": "library",
+      "bytes": 600342,
+      "sha256": "aa66e10a1c1224a8b62c030be87628a3c15a89864cf10fa941a6217b6169bb5d"
+    },
+    "lal_kitab_upay_sahit.json": {
+      "bucket": "library",
+      "bytes": 530747,
+      "sha256": "bb805dc9710ef53de45b10b4a85a2aa3ea9dd26df24300eccd48cb497ea0f603"
+    },
+    "le_dharmasindhu_ou_ocean_des_rites_religieux_traduit_du_sanscrit_en_anglais_et_commente_par_m_a_bourquin.json": {
+      "bucket": "library",
+      "bytes": 283436,
+      "sha256": "d4df195f135a5e597c2850af92d8f5099529c846f9439f24908bb5a92958d6c4"
+    },
+    "magazines_jyotish_vedic_astrology.json": {
+      "bucket": "library",
+      "bytes": 5406,
+      "sha256": "e7ff6965d06847c74ad848ea628fbd0d0fb7e3c037391a47212f3bc4a79dc731"
+    },
+    "magazines_western_tropical_astrology.json": {
+      "bucket": "library",
+      "bytes": 11137,
+      "sha256": "198748008ca67a03011cfaf7a6fd6bf0224a19764ded6706ec6d8f1f872bf62b"
+    },
+    "maha_lakshmi_vrata_katha_of_sri_bhavishya_purana_sankshipta_anuvada_ed_by_divine_life_society_rainawari.json": {
+      "bucket": "library",
+      "bytes": 683,
+      "sha256": "7f9c269d64d7edf78d0d07ddceae8581dae21982a4d6436eecb74a9a07ad6576"
+    },
+    "maha_shaktishali_tone_totke_and_upaya_of_tantrik_bahal_rajat_prakashan.json": {
+      "bucket": "library",
+      "bytes": 1012726,
+      "sha256": "e3fa2adb8193634c766520c6e02e641042877b395a2d3c8af5bfbe041110ddda"
+    },
+    "malaviya_dr_sudhakar_2007_ahirbudhnya_samhita_of_the_pancharatra_agama_with_the_sarala_hindi_translation.json": {
+      "bucket": "library",
+      "bytes": 3043989,
+      "sha256": "f63e0382f4f45246683f1b8aa526cf455c0e25dde09d6a8d0cbed59bdf13cd21"
+    },
+    "malaviya_dr_sudhakar_ed_trans_and_comm_2003_lakshmi_tantram_a_pancharatra_agama_with_sudha_hindi_commentary.json": {
+      "bucket": "library",
+      "bytes": 3218719,
+      "sha256": "114a9160ac195a7c2c6e51ca7423e52ee980fca7fd081c4bfb9ae777475b73c9"
+    },
+    "mantra_anushthan_paddhati.json": {
+      "bucket": "library",
+      "bytes": 1353121,
+      "sha256": "88569e8f6a6d548ccfc510902dbe2f6ef44ffec641455a7c0e361b869bbe4484"
+    },
+    "mantra_mahodadhi.json": {
+      "bucket": "library",
+      "bytes": 3734117,
+      "sha256": "aeda2a527ed5d9519358e9cea483b942aa80ff42863c99949a907080370cb8e7"
+    },
+    "mantra_mahodadhi_sanskrit_hindi.json": {
+      "bucket": "library",
+      "bytes": 3987371,
+      "sha256": "80aa67f6f7f3065a1451bae5ce9708850216a211f8db7a72cb7de26ae390c583"
+    },
+    "mantra_prayog.json": {
+      "bucket": "library",
+      "bytes": 207697,
+      "sha256": "30365ade3136235373631b5cfb2af91971db49646322d22ab3fd4f4c0a22a39d"
+    },
+    "mantra_sagar_by_rameshwar_jha_tantra_books.json": {
+      "bucket": "library",
+      "bytes": 1001457,
+      "sha256": "afda107c6d9769370072c009334f2aee6f851589d01b015043f282bd88458990"
+    },
+    "mantra_shakti.json": {
+      "bucket": "library",
+      "bytes": 496303,
+      "sha256": "c00afe0f4d49e2b52eced4193e1603c17f522eeac349c7cc74dd4b0e138c08cf"
+    },
+    "mantra_shakti_ke_adbhut_chamatkar.json": {
+      "bucket": "library",
+      "bytes": 611404,
+      "sha256": "adff085f4e54642fa8429b04e92443d56d85dd48e9913c33f122dc25ea5318b5"
+    },
+    "mantra_shastra_sadhana_aur_sidhiyaan.json": {
+      "bucket": "library",
+      "bytes": 1482912,
+      "sha256": "1f305c24fa03c9e007962025bd688fd9c0b75ad7b048d6f72cc35089d4cb98b0"
+    },
+    "mantra_shastra_sadhana_aur_sidhiyaan_acharya_bhaskaranada_lohani.json": {
+      "bucket": "library",
+      "bytes": 1425556,
+      "sha256": "555ffad018f4366a729eaf29b730d9fe1b3f01cd9fe92b17c2b712318e9f7162"
+    },
+    "mantra_tantra_yantra_vigyan_july_1981.json": {
+      "bucket": "library",
+      "bytes": 257406,
+      "sha256": "498443777a08c1a8ca80a291b1934b150ad617af620294283eccf9a73c07514b"
+    },
+    "mantra_vidya.json": {
+      "bucket": "library",
+      "bytes": 780232,
+      "sha256": "1d74d2d4c882b0d1013f592797f71f3eac1379fba9d76b8fb83fc215d9749c39"
+    },
+    "mantra_vigyan_hindi_by_govinda_shastri_sadhana_pocket_books_delhi.json": {
+      "bucket": "library",
+      "bytes": 900988,
+      "sha256": "c912977aec2a379f1651123d2e1f761e03f1d928f5c6d3bf0466e3449a71cb60"
+    },
+    "mantra_yoga.json": {
+      "bucket": "library",
+      "bytes": 1448206,
+      "sha256": "b7834fdf92c68e95898d9f5cc559359ed6702f3c6d97e9abb5e416ac572bae8e"
+    },
+    "mimamsa_sutras_by_jaimini_commentary_mimamsa_bhashya_by_shabara_svamin_sanskrit_mimamsa_missing_pages_jaimini.json": {
+      "bucket": "library",
+      "bytes": 2502851,
+      "sha256": "262c7453132e39f73ebb21644da984139b886e24f8d7583a9e39d416100a0bc1"
+    },
+    "narad_purana_hindi.json": {
+      "bucket": "library",
+      "bytes": 5182466,
+      "sha256": "a18060aebe91beb8bb2bd68780716285967d0a27c8c5dd2c87275376785311eb"
+    },
+    "narad_purana_sankshipt_hindi_gita_press.json": {
+      "bucket": "library",
+      "bytes": 5408615,
+      "sha256": "cc66dd7968a80a1d1d193dbda1030e01c48340de6fdbe873b1cebcac8a6fdeef"
+    },
+    "narada_samhita_hindi.json": {
+      "bucket": "library",
+      "bytes": 728259,
+      "sha256": "107143845b54d5dfeb99830e842e1cf5f03e17ac68466f7eb511641c5ae04f0a"
+    },
+    "navdurga_dashmaha_vidhya_rahasya_pt_rameshchandra_sharma_tantra_books.json": {
+      "bucket": "library",
+      "bytes": 5370156,
+      "sha256": "26140a3bfaed6dee93de62f815f0d6a94930c03415a8fb418e8695c081c88ad1"
+    },
+    "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press.json": {
+      "bucket": "library",
+      "bytes": 3109757,
+      "sha256": "e08b764ab2c135ca0fbe70ab864b3caadd1e46e717c73f0cdcf96f21610e919a"
+    },
+    "nirnaya_sindhu_by_shri_kamalakara_bhatta_mumbai_1901_nirnaya_sagara_press_2.json": {
+      "bucket": "library",
+      "bytes": 3109363,
+      "sha256": "008784a5923dd11e825cb49b98599b87f72a29e79a73632e0ea97ccbcaa21379"
+    },
+    "nirnaya_sindhu_chudamani_veni_madhav_dhakal_kamalakara_bhatta_sanskrit_and_nepali_dharmashastra_illustrated.json": {
+      "bucket": "library",
+      "bytes": 11119071,
+      "sha256": "dfe6a7691a44d9e101d7be9b80146c190f01a81df6e3d81f661042983f56ac50"
+    },
+    "nirnaya_sindhu_samskrutham.json": {
+      "bucket": "library",
+      "bytes": 2725127,
+      "sha256": "0434da2ef8141b06205af7b957671180d94f323d7f4e1853ee76a6f9800d8130"
+    },
+    "other_documents_not_books.json": {
+      "bucket": "library",
+      "bytes": 211220,
+      "sha256": "0d05ffb69c25fe38b0b145a0337a09928fbc0a44ef1f2f500b90893baf0b5566"
+    },
+    "p_s_sastri_uttarakaalaamruta_of_kaalidaasa_hindi.json": {
+      "bucket": "library",
+      "bytes": 1020186,
+      "sha256": "8e9a155819186fe4716fe445ce9f73dfeb15e49e2d95d2d8c153573878f94280"
+    },
+    "phaladeepika.json": {
+      "bucket": "library",
+      "bytes": 764858,
+      "sha256": "1800da2bede373fedf39fc49f93a51490a96ef71f7d153f088145016f824c92f"
+    },
+    "phaladeepika_1950.json": {
+      "bucket": "library",
+      "bytes": 613766,
+      "sha256": "056a4adc4d7e467e4d63b39f93a63fabf12b19ea8b46d6acbba4f3a74bf11fa8"
+    },
+    "phaladeepika_1st_ed_by_v_subrahmanya_sastri.json": {
+      "bucket": "library",
+      "bytes": 763730,
+      "sha256": "1eae1498965eaba7d23f4b9f2886194ea45bb2cf6cd16df3b453376007a72941"
+    },
+    "phaladeepika_2.json": {
+      "bucket": "library",
+      "bytes": 613432,
+      "sha256": "f282dedc41e28e4ef6491e0f50a82d6e8180a4c7d2ae2eb8070022b699b0011a"
+    },
+    "phaladeepika_2nd_ed_1950_by_v_subrahmanya_sastri.json": {
+      "bucket": "library",
+      "bytes": 649239,
+      "sha256": "3e13c9f00282e014de57e3e98e076b19ca1c665cffa53dd3271e064367aaba66"
+    },
+    "phaladeepika_ojha.json": {
+      "bucket": "library",
+      "bytes": 1885352,
+      "sha256": "ea34b9adf8310380e70f3ecac6688e862867657f4e3a61ab2823faf394072894"
+    },
+    "phaldipika.json": {
+      "bucket": "library",
+      "bytes": 1908060,
+      "sha256": "e97ce9c68b971bf94fbf360e474f69931de16b8ac3f8b8b15ba6315cbb695095"
+    },
+    "prasna_marga_1.json": {
+      "bucket": "library",
+      "bytes": 612761,
+      "sha256": "8e319b1f79e19c70818518e04280db33c520f65c3dce4b047cad121a9389a6cf"
+    },
+    "prasna_marga_2.json": {
+      "bucket": "library",
+      "bytes": 556785,
+      "sha256": "b3a765244f91a3e6565fe9a3a4469c59bca2f4569d04c34e33806ea339c1dc69"
+    },
+    "puranic_encyolopaedia_vettem_mani.json": {
+      "bucket": "library",
+      "bytes": 5659965,
+      "sha256": "fb43cfcebb6612e3f1865e5db041d60987c93156a511baa0722946b496e6da04"
+    },
+    "raman_how_to_judge_horoscope_1.json": {
+      "bucket": "library",
+      "bytes": 459380,
+      "sha256": "4f3bbc51bea0c68ba3f64269a14ab93062482b09b058157600da439905b0403c"
+    },
+    "raman_how_to_judge_horoscope_2.json": {
+      "bucket": "library",
+      "bytes": 651282,
+      "sha256": "81c5d12b904f6a1b86ecb1b895ea8cbb34e81bf7230253454eaffe6634f6afaa"
+    },
+    "rasarnavakalpa.json": {
+      "bucket": "library",
+      "bytes": 356174,
+      "sha256": "e0e6ac7e9278f63d8ddd5d95128124f769324484f175b3e306d15582a90c0c4a"
+    },
+    "ravan_samhita_1.json": {
+      "bucket": "library",
+      "bytes": 302317,
+      "sha256": "9516d8fc59af803ff031b42f97be20699d962651926faf7e9ee89cf2d802ffc1"
+    },
+    "ravan_samhita_2.json": {
+      "bucket": "library",
+      "bytes": 537360,
+      "sha256": "92dfccc49bd6316bd399f8cedc870888179aea59fb2c47390cdfa2da99daefe6"
+    },
+    "ravan_samhita_3.json": {
+      "bucket": "library",
+      "bytes": 1099823,
+      "sha256": "55f4871f039d3d4fe0c530221c913a48808e8f62944e8ba4957f799598178f2f"
+    },
+    "ravan_samhita_4.json": {
+      "bucket": "library",
+      "bytes": 479255,
+      "sha256": "7050e4c3dad61ab8266b6f58c0d231969efd6ef943ea310d331afa6da4a519ec"
+    },
+    "ravan_samhita_5.json": {
+      "bucket": "library",
+      "bytes": 215845,
+      "sha256": "027212d6ea2562ab9443a33392341fc6a681eb8635aa8442839466a771cc3710"
+    },
+    "role_of_12_signs_in_vastu.json": {
+      "bucket": "library",
+      "bytes": 2864,
+      "sha256": "64c9050a3d45ac8069a97bfdafe4703967da8b1ac5ebcea865f8d5c9a4b30fa3"
+    },
+    "samarangana_sutradhara_by_sudhkar_malaviya_1981_benaras_chaukhamba.json": {
+      "bucket": "library",
+      "bytes": 3322752,
+      "sha256": "f511e19732956aad0e98e0e95415393a535408a1248e84f9d437991c3ee8da58"
+    },
+    "samarangana_sutradhara_vastushastra_vol_1_prof_pushpendra_kumar.json": {
+      "bucket": "library",
+      "bytes": 939279,
+      "sha256": "b2cbace170571bf33003ae2459b8cbbf5ae5063303483528c628cfcf099c79be"
+    },
+    "sankshipta_bhavishya_purana_geeta_press.json": {
+      "bucket": "library",
+      "bytes": 4635039,
+      "sha256": "0de88c4c3d26f5a6ab26c93dea6e7bf19b917af6c9d4c139cb65df5003291b60"
+    },
+    "saravali.json": {
+      "bucket": "library",
+      "bytes": 109274,
+      "sha256": "7e981cfa02de16e615f5e867e213cf1e75cda30beae8cef0e846b8d32152f049"
+    },
+    "saravali_of_kalyana_varma_santhanam_r_astrology.json": {
+      "bucket": "library",
+      "bytes": 294082,
+      "sha256": "a76b77fd6b632fb2a2d6c4b14aca92638492c49a737b4b0c72dd61e7313e4110"
+    },
+    "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi.json": {
+      "bucket": "library",
+      "bytes": 510,
+      "sha256": "186c67bf3c0ec4a13b9862b71a6fbd29df10c2da3ad4640b5f3b49d29848d1e4"
+    },
+    "saravali_of_shri_kalyana_varma_with_kanti_mati_hindi_commentary_by_dr_muralidhar_chaturvedi_motilal_banarasi_2.json": {
+      "bucket": "library",
+      "bytes": 2384083,
+      "sha256": "3bd29a90f2ab35efe3584ec2cc6d5f78a147377a18aef5996caf9df913f2b813"
+    },
+    "saravali_subrahmanya_sastry_v_nirnaya_sagar_press_1907.json": {
+      "bucket": "library",
+      "bytes": 898616,
+      "sha256": "f7e7c3e120494b07aa3fca8af6b303efb2bc8d834822da691100bb1ced442df1"
+    },
+    "sarva_karma_anushthan_prakash_shabar_mantra.json": {
+      "bucket": "library",
+      "bytes": 1925059,
+      "sha256": "d1d82cbf84008fd5553d855b206eb747661cd730a0b48f2e162fba0707a13557"
+    },
+    "sarvartha_chintamani_mahidhar_sharma.json": {
+      "bucket": "library",
+      "bytes": 1294570,
+      "sha256": "1f7e1a7801d0dc1a90dd9c12abe01956a1c90be5c170db7348a89dc3e4b64bee"
+    },
+    "sarvartha_chintamani_panjab_uni.json": {
+      "bucket": "library",
+      "bytes": 511083,
+      "sha256": "ada3dc0afd6f7dda6b7a44de37fe289150feeaab62f79f2dbedae068e97e6ee1"
+    },
+    "sarvartha_chintamani_with_english_translation_b_suryanarayana_row_1899.json": {
+      "bucket": "library",
+      "bytes": 509015,
+      "sha256": "83e34d3b84a658bcf402a5a5ebdcb4df6b21411f1a4d8ebb665dac47446b9e95"
+    },
+    "sesvaramimamsavedantacharyacommentaryonjaiminisutrased_anantacharyaa_b.json": {
+      "bucket": "library",
+      "bytes": 139861,
+      "sha256": "69b1cffe918b81712c55fca3a391bd5ac3d7423cafb41ebc61376d6ad37f9330"
+    },
+    "shabar_mantra_sagar_part_1.json": {
+      "bucket": "library",
+      "bytes": 2919201,
+      "sha256": "a84307c3fbb6bf7797e699e75ce2fba260b025b9744f5c34cbb4c0e6a1bd9b11"
+    },
+    "shabar_mantra_sagar_part_2.json": {
+      "bucket": "library",
+      "bytes": 2697139,
+      "sha256": "0589379ce3b28d019493f07942f7f21139a54284c9177c29a7a4bb8bb78828f3"
+    },
+    "shani_ke_upaya_evam_totke.json": {
+      "bucket": "library",
+      "bytes": 358707,
+      "sha256": "7a55a0916bc07132856fd501a4390a47811235e7c89cf8bad3623975bb966ab5"
+    },
+    "shatpanchasika_vibha_bhattotpala_and_dinanatha_jha_by_prithuyashas_dinanatha_jha_sanskrit_and_hindi_astrology.json": {
+      "bucket": "library",
+      "bytes": 197969,
+      "sha256": "db9c82619bde90ff485ef6aa4c0ac6bac8e11e66303c8805475b93684ffaed7b"
+    },
+    "shiva_puja_stava_shiv_agama_sangha_devkottai_1935_jangamwadi_math_collection.json": {
+      "bucket": "library",
+      "bytes": 469358,
+      "sha256": "bfc12ee2027673c5a3f43905e875b8b974fcf68257741751176217cc2b1afb69"
+    },
+    "shree_varaha_purana_01.json": {
+      "bucket": "library",
+      "bytes": 676250,
+      "sha256": "aa493499981259d6e56cc8ff4a12e1dac9dc4645f0692b2680a5d554fda14c42"
+    },
+    "shree_varaha_purana_02.json": {
+      "bucket": "library",
+      "bytes": 718711,
+      "sha256": "57c00fb41ae1f91a1879a622afd7c39f2d5529b0a5db40fc8cbc59f510598efb"
+    },
+    "shri_vayu_maha_puranam_part_1_trans_by_sudhakar_malaviya_2024_varanasi_chowkhamba_krishna_das_academy.json": {
+      "bucket": "library",
+      "bytes": 3089209,
+      "sha256": "8eed7cb58612a536b86097afc0cc2e623e1d56f1322986881d5e06806e78af5b"
+    },
+    "siddha_shabar_mantra_ed_by_pramod_kumar_shastri_varanasi_rupesh_thakur_prasad_prakashan.json": {
+      "bucket": "library",
+      "bytes": 806288,
+      "sha256": "f9cbd219ffe7e5887f2d4e0a65ee8a733fe655ea39154fb39a342263c83a703d"
+    },
+    "siddhanta_saravali_ed_vraj_vallabha_dwivedi.json": {
+      "bucket": "library",
+      "bytes": 2479445,
+      "sha256": "6569b05d3d03e557d423840aaf52179abdc5fd2fc33636387c45c83b50967da8"
+    },
+    "siddhanta_saravali_of_trilochana_shivacharya_ed_by_sri_vallabha_dvived_varansi_1998_shaiva_bharati_shodha.json": {
+      "bucket": "library",
+      "bytes": 2521671,
+      "sha256": "e66a188f464d66e771222ca19b1d5a65c43e438c0f21b627c42ef59d2ffb901a"
+    },
+    "skanda_purana_kedara_khandam_with_hindi_trans_by_shivanand_nowtiyal_1994_prayag_hindi_sahitya_sammelan.json": {
+      "bucket": "library",
+      "bytes": 5767333,
+      "sha256": "f1d082256c5ac9006dad0f7b486f375a2edb53165850d3ab950f0ed94b1525fb"
+    },
+    "skandamahapuranam_part_2_chowkhamba_press.json": {
+      "bucket": "library",
+      "bytes": 7597132,
+      "sha256": "006d8898d37669940e71bab34090d2b5aea25c56f2ec3a5b0c4e1916123646d6"
+    },
+    "sri_tripurarahasyam_mahatmya_khandam_sanskrit_text_with_english_translation.json": {
+      "bucket": "library",
+      "bytes": 1319868,
+      "sha256": "229751ab5c981addb8cb8d522b9b7cb4e73d321164233fd10074097d2d96d938"
+    },
+    "stri_jataka_or_female_horoscopy_b_suryanarain_rao_1931_lr.json": {
+      "bucket": "library",
+      "bytes": 140173,
+      "sha256": "7ee1d592a7788fae599fc27a7351d8e788a8969604aaa46d33cbc8385a721937"
+    },
+    "surya_siddhanta.json": {
+      "bucket": "library",
+      "bytes": 1147731,
+      "sha256": "54f248146c6205382e25ed623952f6a5dba10c6c716bec3aa42cc33c6e252832"
+    },
+    "surya_siddhanta_2.json": {
+      "bucket": "library",
+      "bytes": 859122,
+      "sha256": "e56e0faaef81ea3c3a05cdcacaeb30e12bc809b94d9d7b2c4924211968e75e53"
+    },
+    "surya_siddhanta_3.json": {
+      "bucket": "library",
+      "bytes": 1213767,
+      "sha256": "8b1482d8dcd25e6193028b4e7d4f39908804b726010cdf30fb66ec0d7cb0120f"
+    },
+    "surya_siddhanta_a_text_book_of_hindu_astronomy_with_tattvamrita_sanskrit_commentary_by_pt_sri_kapileswara.json": {
+      "bucket": "library",
+      "bytes": 1675494,
+      "sha256": "0e45e1b47dbf21db29b1ca3ec3557dc63222f70679e9f0dba0bf11fe4d8e4976"
+    },
+    "surya_siddhanta_and_siddhanta_siromani_bimala_prasad_sidhhnata_sarasvati_danvir_goswamy_iskon.json": {
+      "bucket": "library",
+      "bytes": 1505997,
+      "sha256": "69c1519b299e3dbd61680ad0ccde3a3ef94f8b0c19985fdba76f0d2fdb88b66c"
+    },
+    "surya_siddhanta_of_pt_shri_kapileshwar_shastri_144_kashi_sanskrit_series.json": {
+      "bucket": "library",
+      "bytes": 1640844,
+      "sha256": "2f9277449af2b14b41d0add682fdf4042562a2481440e29ebb54b6bdbf7a2ef0"
+    },
+    "surya_siddhanta_part_1_with_vigyan_bhashya_mahavira_prasada_srivastava.json": {
+      "bucket": "library",
+      "bytes": 1497432,
+      "sha256": "192e648fdc03174d18858259c7edf704c74b7984ad996672dd9e03b4cc2e8ec7"
+    },
+    "surya_siddhanta_prof_ram_chandra_pandey.json": {
+      "bucket": "library",
+      "bytes": 1985155,
+      "sha256": "ab510aa299e2e206220e8b5d9e751d80de0ee145fa0cea30196504caa73568c2"
+    },
+    "surya_siddhanta_vigyan_bhashya_khanda_2_by_mahavira_prasad_shrivastava_nagari_press_allahabad.json": {
+      "bucket": "library",
+      "bytes": 1339963,
+      "sha256": "cb3116598377da14f146c3492e023ecaf8df6b7fd97d7e2e38475b49390a0a8d"
+    },
+    "surya_siddhanta_with_gudartha_prakash_and_hindi_tika_baldev_prasad_mishra_muradabadi.json": {
+      "bucket": "library",
+      "bytes": 1394490,
+      "sha256": "392f8f4908cea6081dff108d2497e53b572df7841899a44d296bc45e0d23ff53"
+    },
+    "surya_siddhanta_with_gudartha_prakashika_sanskrit_tika_and_prakashika_hindi_commentary_by_prof_rama_chandra.json": {
+      "bucket": "library",
+      "bytes": 2034991,
+      "sha256": "785f7511cbd7a9e7b1257a95d2e1110a5b3c5307429eb6d23c5497ed029825c5"
+    },
+    "tajika_nilakanthi_jyotish_grantha_with_hindi_translation.json": {
+      "bucket": "library",
+      "bytes": 636362,
+      "sha256": "a70128f8eb2ea6cb4a796395d3534cf68ac08afa44859cec2c3f475b4b1b7973"
+    },
+    "the_agni_purana_part_1.json": {
+      "bucket": "library",
+      "bytes": 636564,
+      "sha256": "92e7478e5b9ce191863dc5637693aa8bdaaa22d67929e411ad6fdcf30cf99f75"
+    },
+    "the_agni_purana_part_2.json": {
+      "bucket": "library",
+      "bytes": 740270,
+      "sha256": "4d1731abc3871cd3530ed7c789c01a1a2477f657afe5a88c4242c97fa54720ac"
+    },
+    "the_agni_purana_part_3.json": {
+      "bucket": "library",
+      "bytes": 421479,
+      "sha256": "b82269bce81a1013aa2363f140f00f301282e03136d157be7807e0387c71a200"
+    },
+    "the_agni_purana_part_4.json": {
+      "bucket": "library",
+      "bytes": 758250,
+      "sha256": "036aa223c247578a2fcc6da8e725b23d8617a56c9290e44e6a212ee8c3864bb8"
+    },
+    "the_astrological_self_instructor_b_suryanarain_rao_1893.json": {
+      "bucket": "library",
+      "bytes": 344788,
+      "sha256": "b767f07507db798ccbb9003a7f9832f4d2fc5491911573d04c2b80c9e67bd979"
+    },
+    "the_garuda_purana_vol_1.json": {
+      "bucket": "library",
+      "bytes": 499049,
+      "sha256": "8efb1e61605e26c5e5071f691d180b0082348be566649da41ee61e1f144adff8"
+    },
+    "the_garuda_purana_vol_2.json": {
+      "bucket": "library",
+      "bytes": 562772,
+      "sha256": "a717e83818c6140b82ddba1359d210a2299a9e8135eab10e659d83e71b00a6cb"
+    },
+    "the_garuda_purana_vol_3.json": {
+      "bucket": "library",
+      "bytes": 533444,
+      "sha256": "dcf385a29f5646232f5ad48f347b9b9abcd09d992bdef1daba742ee690e881a9"
+    },
+    "the_mimasa_kaustubha_416p_jaimini_sutras_sanskrit_1933.json": {
+      "bucket": "library",
+      "bytes": 1479313,
+      "sha256": "bb9ae31725b5b0fdf7f3e0a8f03b32fd33e859c70ac75d49b76ddf3deaf3d222"
+    },
+    "the_vedic_experience_mantra_manjari_by_raimundo_panikkar_english_and_sanskrit_in_devanagari_script_vedas.json": {
+      "bucket": "library",
+      "bytes": 496649,
+      "sha256": "52dd06964292777522e38283464ebb6cf0b5e4147ead6bbe59200d3b43fb6f3c"
+    },
+    "three_hundred_important_combinations.json": {
+      "bucket": "library",
+      "bytes": 157076,
+      "sha256": "76e6534de7fe6769a64c8ee88e7f3d23948839faaf3f25423bab155b3afce0e0"
+    },
+    "uttara_kalamrita_kalidas.json": {
+      "bucket": "library",
+      "bytes": 255849,
+      "sha256": "e3aff4fd1daba8690e0430d0ef1ce6d7c8c77e33a365972f84dd25bd34f927b2"
+    },
+    "uttkalamrita_kalidas_ps_sastri.json": {
+      "bucket": "library",
+      "bytes": 363067,
+      "sha256": "20ab985b102dae38e685db7e6a40d140fd07c763a3cc4a51a72e3882207b2412"
+    },
+    "varaha_purana.json": {
+      "bucket": "library",
+      "bytes": 6499799,
+      "sha256": "4a76aa3f67ff8fa9eec93ea526c8996f9e3da62817c3f46106fae2cb07999013"
+    },
+    "varahamihira_brihat_jataka_marele_tratat_de_astrologie_natala.json": {
+      "bucket": "library",
+      "bytes": 307892,
+      "sha256": "040a37e263aeff632c9f7ebc61e545fa4a90f5b0718e1e6d53877efa88d48126"
+    },
+    "varahi_brihat_samhita_1933_lakshmi_venkateshwar_press.json": {
+      "bucket": "library",
+      "bytes": 2117504,
+      "sha256": "cc3ac8b5a397f199445d5ab21af1e90d8143ac7ea7e0b474ecfcad5841ddc768"
+    },
+    "vishwakarma_prakash.json": {
+      "bucket": "library",
+      "bytes": 1340364,
+      "sha256": "ae7ce0e614be40d17072b885acd2e1e1b0d30e43c92f1501c8cc10f30c0dbef3"
+    },
+    "vishwakarma_prakash_khemraj.json": {
+      "bucket": "library",
+      "bytes": 808481,
+      "sha256": "76d0556a084dc824602c34eb93e11249609aa366ba98efe6f3e133c29c283d6e"
+    },
+    "vivek_chudamani_gita_press_gorakhpur.json": {
+      "bucket": "library",
+      "bytes": 445966,
+      "sha256": "fd5304c42ded4b305ebb2200ad347857d4eebe7722b785252bdb35c50d6f33b2"
+    },
+    "vratraj.json": {
+      "bucket": "library",
+      "bytes": 7591029,
+      "sha256": "dcc391981d7dd87559faac20a7ba1a8ec660ca7ded4abd2fed36bb229eb69088"
+    },
+    "yantra_chintamani.json": {
+      "bucket": "library",
+      "bytes": 408257,
+      "sha256": "f7de92d92605cfca186c39c37c6535253b1d172247f31553bdfc2c2cce062e9b"
+    },
+    "yantra_chintamani_of_damodar_pandit_with_tika_by_baldev_prasad_khemaraj.json": {
+      "bucket": "library",
+      "bytes": 435211,
+      "sha256": "f740870c6ce3b40407cf8ffcc6b9dbbcd52db0400aee72f3cf6aaab6e75ae7b0"
+    },
+    "yantra_geometrie_celesti_tantra_books.json": {
+      "bucket": "library",
+      "bytes": 109810,
+      "sha256": "bdafc0b8241b2968e91421e8aa17c318202f36c8d402b11fff3309c60c933923"
+    },
+    "yantra_sadhana_book_by_sri_yogeshwaranand_sumit_girdharwal.json": {
+      "bucket": "library",
+      "bytes": 46273,
+      "sha256": "90ed4b3a6ad14ceeb9e4bbe765b13fb31563f607ecc27c8fdd690d7ef2fbcfeb"
+    },
+    "yantra_shakti_rudra_dev_tripathi.json": {
+      "bucket": "library",
+      "bytes": 475866,
+      "sha256": "a2eb2954b1db6f944ad3149e0b70c3ab4d59f25cfc9c553ec232324070696bdb"
+    },
+    "yantra_siddhi_rahashya_hindi_by_govinda_shastri_new_sadhana_pocket_books_delhi.json": {
+      "bucket": "library",
+      "bytes": 536389,
+      "sha256": "8df9f7bb463f51b1d4f32bd0796b588aa6a56b494ac782672208610a73e21628"
+    },
+    "v10_cross-engine-benchmark.json": {
+      "bucket": "validation",
+      "bytes": 260,
+      "sha256": "8571c23843a57926179b0b916240d25e70e7885799c505203894ca9270b689c7"
+    },
+    "v10_outcome-corpus.json": {
+      "bucket": "validation",
+      "bytes": 203,
+      "sha256": "4ad74ba534bc2e79972d8512d6c6147d5af9e1ac9bca6a8dc7eacf1106df1a71"
+    },
+    "v10_production-gate.json": {
+      "bucket": "validation",
+      "bytes": 229,
+      "sha256": "2d6defed3d5594a962a492757a6597a6956e25fdefc5448fb14103f8f9974d29"
+    },
+    "v11-master-release-gate.json": {
+      "bucket": "validation",
+      "bytes": 847,
+      "sha256": "c8d26d9b3aa4bbdf69cd1bb5f19ea0f6c7f6a00e02441143347bc29c6fbb89a9"
+    },
+    "v11_benchmark-manifest.json": {
+      "bucket": "validation",
+      "bytes": 491,
+      "sha256": "fd994b7353ceadfc6ecf437678a58c91ccd8d0550a1e0606f46643187c741d07"
+    },
+    "v11_master-evidence-policy.json": {
+      "bucket": "validation",
+      "bytes": 347,
+      "sha256": "3ba8e344ad4ee6cc9dd22870d27359f3bfa2a62375e23d83e6d4dcaf27345cac"
+    },
+    "v11_outcome-corpus.schema.json": {
+      "bucket": "validation",
+      "bytes": 661,
+      "sha256": "f6ad4ffaf998526cac6c42bdcfddeaf27ea6921e87a73dd40886d7b9e5c77630"
+    },
+    "v12-master-100-gate.json": {
+      "bucket": "validation",
+      "bytes": 873,
+      "sha256": "80c831964d04d0b3f33715bb8ed33fa9a925f124c55c1102372e8edad9900c1b"
+    },
+    "v12_cross-engine-cases.json": {
+      "bucket": "validation",
+      "bytes": 172,
+      "sha256": "634ab55ceffca13d89a73af19d3a68f9f14465a84d749d28a56b1e8f1851d7ab"
+    },
+    "v12_master-benchmark-contract.json": {
+      "bucket": "validation",
+      "bytes": 480,
+      "sha256": "5a7433d47e50b862564f30394f3d701c1c9736118634dde850527aae69b057f8"
+    },
+    "v12_outcome-corpus.schema.json": {
+      "bucket": "validation",
+      "bytes": 411,
+      "sha256": "c872002cbab0cd098119848b6191bb92a7ccf139fa25ef771d4bca8d99277678"
+    },
+    "v12_verified-outcomes.json": {
+      "bucket": "validation",
+      "bytes": 138,
+      "sha256": "2f9df7fe8512bb7b04eff77f4a4e8dc0d2c9763d63158f4f80454f2b049271bc"
+    },
+    "v13_cross-engine-benchmark.json": {
+      "bucket": "validation",
+      "bytes": 286,
+      "sha256": "a38803c0cbb7540a15f4b5dcdb23275b8e1f0ad79702f4deb68d32306d1ed901"
+    },
+    "v13_master-evidence-contract.json": {
+      "bucket": "validation",
+      "bytes": 364,
+      "sha256": "b95607a2f406b4340286f97b04fb9008a3ef9ac509788d44a752bafa6072623b"
+    },
+    "v13_outcome-corpus.json": {
+      "bucket": "validation",
+      "bytes": 207,
+      "sha256": "eee7f4cc8051b44fbf3cdd2c6302a2fd5bb2ce532131ed8e8c34434f723182f8"
+    },
+    "v13_outcome-corpus.schema.json": {
+      "bucket": "validation",
+      "bytes": 320,
+      "sha256": "6357d25d7071940be73804bd5c7b2e8f5f6110af1d712dcc8f7a1f8a77cc49d7"
+    },
+    "v13_verified-chart-corpus.json": {
+      "bucket": "validation",
+      "bytes": 178,
+      "sha256": "71764896b0670f092d044907aada788aeac2c0b3d6a63c1668141b59b579835a"
+    },
+    "v13_verified-chart-corpus.schema.json": {
+      "bucket": "validation",
+      "bytes": 307,
+      "sha256": "5c82ef6c53baafb5bc6db774d3c020f682dcaee785815ac90f2b146158d313bc"
+    },
+    "v8_capability-registry.json": {
+      "bucket": "validation",
+      "bytes": 837,
+      "sha256": "071c707802ec5b31331d6627d1d529727e30f082de1510e97633eddb2ea75a64"
+    },
+    "v8_corpus-manifest.json": {
+      "bucket": "validation",
+      "bytes": 220,
+      "sha256": "4d700753651086520dea20e0e6591bcbaab9b07f2e1e4f0ebf6bfcf131033b4b"
+    },
+    "v8_historical-chart-corpus.schema.json": {
+      "bucket": "validation",
+      "bytes": 1111,
+      "sha256": "04a506a707261e6a428c821be4fbb23f41f8de531f5546b4be15750e123ce92a"
+    },
+    "v8_prediction-outcome.schema.json": {
+      "bucket": "validation",
+      "bytes": 773,
+      "sha256": "c4cd50e661b6f8dfccb7145fc42ff2b461ca8cdad2fa121644f86cdbd7ccd597"
+    },
+    "v8_reference-benchmark.json": {
+      "bucket": "validation",
+      "bytes": 209,
+      "sha256": "14672847c3b779871c06cdcb9d34ca66c30ad9653a0b0f52274d44219228a7b2"
+    },
+    "v8_rule-coverage-discovery.json": {
+      "bucket": "validation",
+      "bytes": 117,
+      "sha256": "d5afb1ec0acb009b4d83d7ec7c57dfc62f1932af1d28c8d47b80df7ba7387724"
+    },
+    "v9_benchmarks_benchmark-manifest.json": {
+      "bucket": "validation",
+      "bytes": 531,
+      "sha256": "f6c5fa60a4f11357f19964cddfcf5abe2e83d58797c6e88d8c6a1a2f4298f213"
+    },
+    "v9_calculation_verified-corpus.json": {
+      "bucket": "validation",
+      "bytes": 354,
+      "sha256": "94ad73d2c7c7a56eae4f03e1ec4d415169b887932548aee4d1bacd343a8f85e6"
+    },
+    "v9_research_research-corpus.json": {
+      "bucket": "validation",
+      "bytes": 355,
+      "sha256": "990e56c51ad36091915de065f2f8ac567c6ca3ffbb03fd5b347ce1c4ec5e7285"
+    }
+  }
+}

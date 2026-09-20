@@ -1,0 +1,9 @@
+{
+  "version":"9.0.0",
+  "benchmarks":[
+    {"id":"ephemeris-1000","source":"test/fixtures/ephemeris-golden.json","status":"wired","scope":"1000 epochs x 7 primary planets"},
+    {"id":"calculation-reference","source":"dataset/validation/v9/calculation/verified-corpus.json","status":"import-ready"},
+    {"id":"research-outcomes","source":"dataset/validation/v9/research/research-corpus.json","status":"import-ready"},
+    {"id":"cross-system","status":"wired","scope":"Parashari/KP/Jaimini/Tajik/Lal Kitab reconciliation"}
+  ]
+}

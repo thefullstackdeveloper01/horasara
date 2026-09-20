@@ -1,0 +1,16 @@
+READABLE DATASET
+================================================================================
+Original file: validation/v12/verified-outcomes.json
+Dataset number: 415 of 455
+Format: valid JSON
+Structure: Object / structured dataset
+Original size: 138 bytes
+Top-level fields: 4
+
+CONTENT
+--------------------------------------------------------------------------------
+• version: 12.0.0
+• status: READY_FOR_VERIFIED_IMPORTS
+• cases:
+  (empty list)
+• note: Empty by design. V12 never fabricates historical outcomes.

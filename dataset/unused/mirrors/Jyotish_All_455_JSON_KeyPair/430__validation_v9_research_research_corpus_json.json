@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "430__validation_v9_research_research_corpus_json",
+    "name": "validation_v9_research_research-corpus",
+    "original_file": "validation/v9/research/research-corpus.json",
+    "dataset_number": "430 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v9_research_research-corpus.txt",
+    "source_sha256": "dbc44a395b85a8d0fbc75e8c779e076ffd2a3ca6028c4235c1f78a3203a2f1f5",
+    "source_bytes": 774
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "9.0.0",
+      "status": "verified-import-ready",
+      "records": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "required_fields": {
+        "_items": [
+          {
+            "_text": [
+              "id"
+            ]
+          },
+          {
+            "_text": [
+              "chartId"
+            ]
+          },
+          {
+            "_text": [
+              "events"
+            ]
+          },
+          {
+            "_text": [
+              "cutoff"
+            ]
+          },
+          {
+            "_text": [
+              "source"
+            ]
+          },
+          {
+            "_text": [
+              "verification"
+            ]
+          }
+        ]
+      },
+      "no_fabrication": "Yes",
+      "note": "Real historical/person/event records must be independently sourced and verified before import. No synthetic outcome records are presented as historical evidence."
+    }
+  }
+}

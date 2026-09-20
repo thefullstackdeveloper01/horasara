@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "event": "Marriage / Partnership",
+      "area": "marriage",
+      "lords": [
+        "Venus",
+        "Jupiter",
+        "Moon"
+      ],
+      "description": "Strong 7th house — marriage or significant partnership during Venus/Jupiter Dasha.",
+      "confidence": 80,
+      "test": {
+        "type": "anyHouse",
+        "planets": [
+          "Venus",
+          "Jupiter"
+        ],
+        "house": 7
+      }
+    },
+    {
+      "event": "Career Advancement / Promotion",
+      "area": "career",
+      "lords": [
+        "Sun",
+        "Saturn",
+        "Mercury",
+        "Jupiter"
+      ],
+      "description": "Strong 10th house — career peak or recognition during Sun/Saturn Dasha.",
+      "confidence": 75,
+      "test": {
+        "type": "dignityOrHouse",
+        "planet": "Sun",
+        "dignities": [
+          "Exalted",
+          "Own",
+          "Moolatrikona"
+        ],
+        "house": 10
+      }
+    },
+    {
+      "event": "Business / Income Opportunity",
+      "area": "career",
+      "lords": [
+        "Mercury",
+        "Venus",
+        "Rahu"
+      ],
+      "description": "Mercury in 10th/11th — entrepreneurial or income opportunity in Mercury/Rahu Dasha.",
+      "confidence": 70,
+      "test": {
+        "type": "houseIn",
+        "planet": "Mercury",
+        "houses": [
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "event": "Financial Windfall / Gain",
+      "area": "wealth",
+      "lords": [
+        "Jupiter",
+        "Venus",
+        "Moon"
+      ],
+      "description": "Strong Jupiter — financial gain or inheritance in Jupiter Dasha.",
+      "confidence": 72,
+      "test": {
+        "type": "dignityIn",
+        "planet": "Jupiter",
+        "dignities": [
+          "Exalted",
+          "Own"
+        ]
+      }
+    },
+    {
+      "event": "Property Purchase",
+      "area": "property",
+      "lords": [
+        "Mars",
+        "Moon",
+        "Saturn"
+      ],
+      "description": "4th house Mars or strong Moon — property acquisition in Mars/Moon Dasha.",
+      "confidence": 68,
+      "test": {
+        "type": "anyHouseOrDignity",
+        "houseRules": [
+          {
+            "planet": "Mars",
+            "house": 4
+          }
+        ],
+        "dignityRules": [
+          {
+            "planet": "Moon",
+            "dignities": [
+              "Exalted",
+              "Own"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event": "Health — Period to Monitor",
+      "area": "health",
+      "lords": [
+        "Saturn",
+        "Rahu",
+        "Mars"
+      ],
+      "description": "Saturn in 1st/8th — health monitoring important during Saturn/Rahu Dasha.",
+      "confidence": 60,
+      "test": {
+        "type": "houseIn",
+        "planet": "Saturn",
+        "houses": [
+          1,
+          8
+        ]
+      }
+    },
+    {
+      "event": "Child Birth / Adoption",
+      "area": "children",
+      "lords": [
+        "Jupiter",
+        "Moon",
+        "Sun"
+      ],
+      "description": "Strong 5th lord/Jupiter — child birth or creative breakthrough in Jupiter Dasha.",
+      "confidence": 65,
+      "test": {
+        "type": "houseOrDignity",
+        "planet": "Jupiter",
+        "house": 5,
+        "dignities": [
+          "Exalted",
+          "Own"
+        ]
+      }
+    },
+    {
+      "event": "Foreign Travel / Relocation",
+      "area": "foreign",
+      "lords": [
+        "Rahu",
+        "Saturn",
+        "Mercury"
+      ],
+      "description": "Rahu in travel houses — foreign opportunity in Rahu Dasha.",
+      "confidence": 72,
+      "test": {
+        "type": "houseIn",
+        "planet": "Rahu",
+        "houses": [
+          9,
+          12,
+          3
+        ]
+      }
+    },
+    {
+      "event": "Spiritual Awakening",
+      "area": "spirituality",
+      "lords": [
+        "Ketu",
+        "Jupiter",
+        "Saturn"
+      ],
+      "description": "Ketu/Jupiter in dharmic houses — spiritual turning point in Ketu/Jupiter Dasha.",
+      "confidence": 68,
+      "test": {
+        "type": "anyHouse",
+        "planets": [
+          "Ketu"
+        ],
+        "houseIn": [
+          9,
+          12
+        ],
+        "orRules": [
+          {
+            "planet": "Jupiter",
+            "house": 9
+          }
+        ]
+      }
+    },
+    {
+      "event": "Higher Education / Admission",
+      "area": "education",
+      "lords": [
+        "Mercury",
+        "Jupiter"
+      ],
+      "description": "Mercury or Jupiter well placed in the 5th/9th house — favorable for admissions, exams or advanced study during Mercury/Jupiter Dasha.",
+      "confidence": 68,
+      "test": {
+        "type": "anyHouse",
+        "planets": [
+          "Mercury",
+          "Jupiter"
+        ],
+        "house": 9
+      }
+    },
+    {
+      "event": "Academic Delay / Interruption",
+      "area": "education",
+      "lords": [
+        "Saturn",
+        "Rahu"
+      ],
+      "description": "Saturn or Rahu occupying the 4th/5th house — possible delay, distraction or interruption to study, not a blockage; weigh against supporting factors.",
+      "confidence": 55,
+      "test": {
+        "type": "houseIn",
+        "planet": "Saturn",
+        "houses": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "event": "Romantic Relationship",
+      "area": "marriage",
+      "lords": [
+        "Venus",
+        "Moon",
+        "Mars"
+      ],
+      "description": "Venus in 5th house — romance or creative collaboration in Venus Dasha.",
+      "confidence": 70,
+      "test": {
+        "type": "houseIn",
+        "planet": "Venus",
+        "houses": [
+          5
+        ]
+      }
+    }
+  ]
+}

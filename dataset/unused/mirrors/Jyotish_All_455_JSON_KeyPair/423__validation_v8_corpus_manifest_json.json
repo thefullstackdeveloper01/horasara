@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "423__validation_v8_corpus_manifest_json",
+    "name": "validation_v8_corpus-manifest",
+    "original_file": "validation/v8/corpus-manifest.json",
+    "dataset_number": "423 of 455",
+    "format": "json",
+    "source_readable_file": "validation_v8_corpus-manifest.txt",
+    "source_sha256": "4a0a4c9223f778357b1b4993f77bb605262d50e297c5a8f01d6ac3c7b03bb76a",
+    "source_bytes": 603
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "version": "8.0.0",
+      "historicalCharts": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "predictionOutcomes": {
+        "_text": [
+          "(empty list)"
+        ]
+      },
+      "status": "READY_FOR_VERIFIED_IMPORTS",
+      "policy": "No fabricated historical records, astronomical reference values, or real-world outcomes."
+    }
+  }
+}

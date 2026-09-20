@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": {
+    "id": "200__gochar_json",
+    "name": "gochar",
+    "original_file": "gochar.json",
+    "dataset_number": "130 of 455",
+    "format": "json",
+    "source_readable_file": "gochar.txt",
+    "source_sha256": "d5a274ad0efa1455eb08e3f1a20343ba681a0f637697bf9603972d25d4926174",
+    "source_bytes": 8119
+  },
+  "metadata": {},
+  "content": {
+    "type": "object",
+    "data": {
+      "VEDHA": {
+        "1": 7,
+        "2": 12,
+        "3": 11,
+        "4": 10,
+        "5": 9,
+        "6": 8,
+        "7": 1,
+        "8": 6,
+        "9": 5,
+        "10": 4,
+        "11": 3,
+        "12": 2
+      },
+      "TRANSIT_EFFECT": {
+        "Sun": {
+          "1": "Ego challenges, health fluctuations, avoid confrontations",
+          "2": "Expenses on family, speech may cause issues, financial caution",
+          "3": "Good for communication, courage, and sibling matters",
+          "4": "Home disturbances, tension with mother, property delays",
+          "5": "Creative blocks, children concerns, speculation risks",
+          "6": "Victory over enemies, health improvement, debt clearance",
+          "7": "Relationship tensions, business partnership strain",
+          "8": "Health vulnerability, avoid risky activities",
+          "9": "Father matters, travel possible, spiritual inclination",
+          "10": "Career recognition, government favor, public success",
+          "11": "Financial gains, social recognition, wish fulfilment",
+          "12": "Expenses increase, foreign travel, sleep disturbances"
+        },
+        "Moon": {
+          "1": "Good mood, emotional stability, public recognition",
+          "2": "Emotional spending, family warmth, good speech",
+          "3": "Communication flows, sibling interactions, short travel",
+          "4": "Emotional comfort, home happiness, mother's welfare",
+          "5": "Romantic inclinations, creative mood, children matters",
+          "6": "Health fluctuations, emotional conflicts, service mode",
+          "7": "Good for relationships and partnerships, emotional bonding",
+          "8": "Emotional vulnerability, health dips, avoid major decisions",
+          "9": "Spiritual mood, travel, father matters, good fortune",
+          "10": "Career focus, public interactions, emotional satisfaction",
+          "11": "Financial gains, social joy, wish fulfilment",
+          "12": "Isolation tendency, spiritual retreat, rest advised"
+        },
+        "Mars": {
+          "1": "Anger management needed, accident-prone, energy high",
+          "2": "Financial arguments, family friction, harsh speech",
+          "3": "Courage boosted, good for action, sibling support",
+          "4": "Home repairs, mother stress, property issues",
+          "5": "Competitive intelligence, risky speculation, child concerns",
+          "6": "Excellent — defeats enemies, wins competitions, energy surge",
+          "7": "Relationship conflicts, partnership tensions, legal disputes",
+          "8": "Surgery risk, accidents, avoid risky activities",
+          "9": "Religious disputes, father tension, aggressive philosophy",
+          "10": "Career drive intensified, workplace conflicts possible",
+          "11": "Gains through effort, active social life, income boost",
+          "12": "Aggressive expenses, hidden conflicts, foreign martial activity"
+        },
+        "Mercury": {
+          "1": "Mental clarity, good for study, communication active",
+          "2": "Financial planning favorable, good speech, family discussions",
+          "3": "Communication and writing excellent, short travel fruitful",
+          "4": "Home-based intellectual work, mother communications, vehicles",
+          "5": "Intelligent investments, good for education, children matters",
+          "6": "Analytical problem-solving, medical/legal discussions",
+          "7": "Business communications, partnership contracts, travel",
+          "8": "Research and occult study, hidden communications",
+          "9": "Higher learning, religious study, foreign correspondence",
+          "10": "Career communications, business deals, reputation boosted",
+          "11": "Income through communication, intellectual social connections",
+          "12": "Hidden study, foreign communication, spiritual writing"
+        },
+        "Jupiter": {
+          "1": "General wellbeing boost, wisdom available, good period",
+          "2": "Wealth increase, family blessings, eloquent speech",
+          "3": "Wise communication, sibling blessings, philosophical writing",
+          "4": "Home happiness, mother's blessings, educational environment",
+          "5": "Excellent for children, intelligence, spirituality, investments",
+          "6": "Service to dharma, health through wisdom, legal success",
+          "7": "Marriage blessings, wise partnerships, advisory relationships",
+          "8": "Longevity protection, hidden wisdom, inheritance possible",
+          "9": "Exceptional — dharma, fortune, higher education, guru blessings",
+          "10": "Career through wisdom, professional recognition, ethical success",
+          "11": "Abundant gains, wise friends, dharmic income, desire fulfilment",
+          "12": "Spiritual liberation, foreign ashram, expenses for dharma"
+        },
+        "Venus": {
+          "1": "Charm boosted, romantic opportunities, artistic energy",
+          "2": "Financial gains through beauty, family harmony, sweet interactions",
+          "3": "Artistic communications, beautiful siblings, creative writing",
+          "4": "Home beautification, vehicle purchase, domestic joy",
+          "5": "Romance intensified, creative flow, pleasure-seeking",
+          "6": "Beauty industry opportunities, some relationship friction",
+          "7": "Romantic partnerships, marital harmony, business with women",
+          "8": "Hidden pleasures, occult studies, sensual transformation",
+          "9": "Fortunate romance, beautiful travels, artistic spirituality",
+          "10": "Career in arts/beauty/entertainment, fame through charm",
+          "11": "Gains from beauty and women, charming social connections",
+          "12": "Pleasurable isolation, foreign romance, bedroom comforts"
+        },
+        "Saturn": {
+          "1": "Physical challenges, discipline required, slow period",
+          "2": "Financial discipline, family responsibilities, serious speech",
+          "3": "Hard work in communication, serious siblings, delayed efforts",
+          "4": "Home responsibilities, mother health concern, property work",
+          "5": "Delayed creativity, serious study, disciplined practice",
+          "6": "Excellent — patience defeats enemies, chronic issues managed",
+          "7": "Serious relationships, older partner influence, delayed marriage",
+          "8": "Longevity potential through discipline, chronic health managed",
+          "9": "Serious dharma, disciplined religious practice, karma work",
+          "10": "Career through discipline, slow but lasting professional rise",
+          "11": "Slow gains, serious friends, long-term income building",
+          "12": "Spiritual discipline, controlled expenses, foreign karma work"
+        },
+        "Rahu": {
+          "1": "Unusual experiences, foreign contacts, unconventional behavior",
+          "2": "Unusual income sources, foreign family connections",
+          "3": "Bold communications, technology interests, foreign siblings",
+          "4": "Unusual home life, foreign residence possibility",
+          "5": "Unconventional creativity, foreign children connections",
+          "6": "Excellent — defeats enemies through unconventional means",
+          "7": "Unusual or foreign partnerships, ambitious relationships",
+          "8": "Occult research, unusual inheritance, sudden transformation",
+          "9": "Non-traditional beliefs, foreign guru, ambitious dharma",
+          "10": "Ambitious career drives, foreign profession, sudden rise",
+          "11": "Strong material gains, foreign social connections",
+          "12": "Foreign residence, unusual spiritual path, hidden ambitions"
+        },
+        "Ketu": {
+          "1": "Detachment, spiritual inclinations, unusual health signals",
+          "2": "Detachment from wealth, intuitive financial sense",
+          "3": "Past-life communication skills, intuitive courage",
+          "4": "Detachment from home, inner peace, spiritual home",
+          "5": "Spiritual intelligence, past-life children karma",
+          "6": "Spiritual service, past-life enemies clearing",
+          "7": "Spiritual partnerships, detachment in relationships",
+          "8": "Occult research, deep past-life karma resolution",
+          "9": "Past-life dharma active, spiritual father, moksha path",
+          "10": "Past-life career karma, spiritual profession",
+          "11": "Past-life gains manifesting, spiritual social connections",
+          "12": "Excellent for liberation, spiritual retreat, inner peace"
+        }
+      },
+      "MEAN_SPEEDS": {
+        "Sun": 0.9856,
+        "Moon": 13.176,
+        "Mars": 0.524,
+        "Mercury": 1.383,
+        "Jupiter": 0.0831,
+        "Venus": 1.2,
+        "Saturn": 0.0335,
+        "Rahu": -0.053,
+        "Ketu": -0.053
+      }
+    }
+  }
+}
