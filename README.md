@@ -49,6 +49,78 @@ citations work fully without it.
   or `scheduler.js`) and 3 `package.json` script entries that referenced
   a nonexistent `scripts/` folder.
 
+## Administrative, legal & content pages — V2.2
+
+A full set of standard website pages has been added under `src/content/` and is
+served by `ApiServer.js` through one shared HTML shell (`web/page.html`) and
+one hydration script (`web/assets/site.js`). This is separate from the
+Jyotish/portal content above.
+
+**Pages added** (each with real, deployment-specific copy — not placeholder
+text): `/privacy-policy`, `/terms`, `/disclaimer`, `/cookie-policy`,
+`/data-rights` (GDPR + CCPA + India DPDP), `/copyright` (DMCA), `/security`,
+`/accessibility`, `/about`, `/contact`, `/faq`, `/team`, `/testimonials`,
+`/press`, `/careers`, `/pricing`, `/payment-methods`, `/delivery-policy`,
+`/refund-policy`, `/track-order`, `/cart`, `/checkout`, `/blog` (+ 6 full
+articles under `/blog/<slug>`), `/community`, `/affiliates`, `/sitemap`
+(human-readable), `/search`, `/maintenance`, `/coming-soon`, `/server-error`.
+
+**Configuration.** Company name, address, GSTIN/CIN, jurisdiction and every
+contact address quoted on these pages come from environment variables — see
+the "Company / legal identity" block in `.env.example`. Until
+`COMPANY_LEGAL_NAME`, `COMPANY_ADDRESS`, `PUBLIC_BASE_URL` and `SUPPORT_EMAIL`
+are set to real values, `siteIdentity()` flags them as placeholders
+(`src/content/SiteIdentity.js`); replace them before launch — do not ship the
+sample values.
+
+**Architecture.**
+- `src/content/SitePages.js` — the page registry (legal, company, commerce,
+  resources), built once from `siteIdentity()`.
+- `src/content/SitePageRenderer.js` — turns a page's content blocks into HTML,
+  adds a table of contents for long documents, and emits BreadcrumbList /
+  FAQPage / WebPage / Article JSON-LD.
+- `src/content/BlogLibrary.js` — six full-length articles (chart reading,
+  Vimshottari Dasha, birth-time accuracy, Panchang, spotting bad astrology,
+  ayanamsa) with named classical sources.
+- `src/content/SiteSearch.js` — merges page, article, calculator and reference
+  library results behind `/api/search`.
+- `src/content/MessageStore.js` — an atomic, queued JSON store (write to a
+  temp file, then rename) backing the contact form and reader feedback, with
+  a honeypot field and a moderation gate: feedback is `pending` until an
+  administrator sets it to `approved` and only then appears on
+  `/testimonials`.
+- `web/assets/site.js` hydrates the `data-widget` containers the renderer
+  emits (contact/feedback forms, plan list, cart, track-order, search,
+  blog index, job list, HTML sitemap); every widget has a no-script fallback.
+- The full site footer and the cookie notice are injected by
+  `web/assets/horasaar.js` on every page from `/api/site/pages`.
+
+**New JSON endpoints:** `GET /api/site/pages`, `GET /api/site/map`,
+`GET /api/articles`, `GET /api/openings`, `GET /api/search?q=`,
+`POST /api/contact`, `GET|POST /api/feedback`. Admin-only:
+`GET {ADMIN_ROUTE}/api/messages`, `POST {ADMIN_ROUTE}/api/messages/status`
+(moderate contact messages and reviews from the existing admin control room).
+
+**Behaviour notes.**
+- `MAINTENANCE_MODE=true` serves the styled maintenance page (HTTP 503) for
+  all public traffic while keeping `/health`, the admin route and
+  `/payments/webhook` reachable, so an in-flight payment is never lost.
+- Any uncaught error in a request now renders the styled `/server-error` page
+  (or a JSON body for API clients) with a short reference id that is also
+  written to the server log, instead of hanging the socket.
+- `/cart`, `/checkout`, `/maintenance`, `/coming-soon` and `/server-error` are
+  `hidden` in the registry: reachable directly, excluded from the footer, the
+  HTML sitemap and `sitemap.xml`.
+- Legacy/likely-typed URLs 301-redirect to the canonical slug:
+  `/privacy`, `/terms-of-service`, `/refunds`, `/cookies`, `/dmca`,
+  `/about-us`, `/contact-us`, `/plans`, `/500`, `/error`.
+- `sitemap.xml` and `/llms.txt` were extended to include every new page and
+  article automatically (`indexableSitePaths()`, `listArticles()`).
+- Tests: `test/site-content-pages.test.mjs` covers page/article completeness,
+  hidden-page exclusion, structured data, search and the message store
+  (including a concurrent-write test). Run with
+  `node --test test/site-content-pages.test.mjs`.
+
 ## Production configuration
 Copy `.env.example` to the deployment environment and set real secrets. Never put payment secrets in browser code.
 

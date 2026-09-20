@@ -1,9 +1,31 @@
+# HoraSaar crawler directives
+# Public content is open. Private endpoints, transactional pages and the
+# per-user management flows are excluded because indexing them is useless to a
+# searcher and leaks subscription identifiers into search results.
+
 User-agent: *
 Allow: /
+
+# Public sections
 Allow: /tools
 Allow: /subscribe
+Allow: /blog
+Allow: /pricing
+Allow: /about
+Allow: /contact
+Allow: /faq
+Allow: /sitemap
+
+# Private, transactional or per-user
 Disallow: /report
 Disallow: /unsubscribe
+Disallow: /track-order
+Disallow: /cart
+Disallow: /checkout
+Disallow: /search
+Disallow: /maintenance
+Disallow: /coming-soon
+Disallow: /server-error
 Disallow: /calculate
 Disallow: /calculator/
 Disallow: /calculators
@@ -13,6 +35,9 @@ Disallow: /payments
 Disallow: /payment/
 Disallow: /panchang/
 Disallow: /horoscope/
+Disallow: /api/
+
+# Crawl politely; the calculation endpoints are rate limited.
+Crawl-delay: 1
 
 Sitemap: __PUBLIC_BASE_URL__/sitemap.xml
-Disallow: /_jv-control-

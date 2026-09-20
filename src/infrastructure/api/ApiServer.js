@@ -1,9 +1,17 @@
 import { createServer } from 'node:http';
+import { randomUUID } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
 import { extname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { sendSubscriptionConfirmation } from '../../subscription/SubscriptionConfirmation.js';
 import { adminConfig, parseCookies, verifyCredentials, issueSession, verifySession, setSessionCookie, clearSessionCookie } from '../../admin/AdminAuth.js';
+import { getSitePage, listSitePages, sitePageGroups, indexableSitePaths, PAGE_GROUPS } from '../../content/SitePages.js';
+import { renderSitePage, renderArticle } from '../../content/SitePageRenderer.js';
+import { fillPageShell } from '../../content/PageShell.js';
+import { listArticles, getArticle, relatedArticles } from '../../content/BlogLibrary.js';
+import { listOpenings } from '../../content/Openings.js';
+import { searchSite } from '../../content/SiteSearch.js';
+import { MessageStore, validateContact, validateFeedback, publicTestimonial } from '../../content/MessageStore.js';
 
 const MAX_BODY_BYTES = 1_048_576;
 const WEB_VERSION = '1.0.0-production';
@@ -15,6 +23,12 @@ const CHECKOUT_MAX = Number(process.env.RATE_LIMIT_CHECKOUT || 10);
 const PAYMENT_VERIFY_MAX = Number(process.env.RATE_LIMIT_PAYMENT_VERIFY || 20);
 const PUBLIC_CALCULATOR_MAX = Number(process.env.RATE_LIMIT_CALCULATOR || 30);
 const PUBLIC_MILAN_MAX = Number(process.env.RATE_LIMIT_MILAN || 10);
+const CONTACT_MAX = Number(process.env.RATE_LIMIT_CONTACT || 5);
+const SEARCH_MAX = Number(process.env.RATE_LIMIT_SEARCH || 40);
+const MESSAGES_FILE = process.env.HORASAAR_MESSAGES_FILE || 'data/runtime/messages.json';
+// Serves the maintenance page for public traffic while still answering /health
+// so an orchestrator does not restart the container mid-maintenance.
+const MAINTENANCE_MODE = /^(1|true|on|yes)$/i.test(String(process.env.MAINTENANCE_MODE || ''));
 const SAFE_KEY=/^[A-Za-z0-9_.-]{1,80}$/;
 function sanitizeValue(value, depth=0){
   if(depth>8) throw Object.assign(new Error('INPUT_NESTING_TOO_DEEP'),{code:'INVALID_REQUEST'});
@@ -100,12 +114,16 @@ async function sendNotFound(response,request,webRoot,path=''){
   }
 }
 
-function sitemapXml(base,calculators=[],knowledgeTopics=[],listGroups=[],signs=[]){
+function sitemapXml(base,calculators=[],knowledgeTopics=[],listGroups=[],signs=[],sitePaths=[],articles=[]){
   const urls=['/','/tools','/forecast/daily','/forecast/weekly','/forecast/monthly','/forecast/yearly','/rashi-bhavishya','/planet-bhavishya','/nakshatra-bhavishya','/astronomy','/panchang','/calendar','/kundali-milan','/calculators','/lists','/knowledge','/horoscope','/subscribe',
     // Every reference topic, list group and rāśi is now its own indexable page.
     ...knowledgeTopics.map(t=>t.href),
     ...listGroups.map(g=>g.href),
-    ...signs.flatMap(s=>['daily','weekly','monthly','yearly'].map(p=>`/horoscope/${s.slug}?period=${p}`))];
+    ...signs.flatMap(s=>['daily','weekly','monthly','yearly'].map(p=>`/horoscope/${s.slug}?period=${p}`)),
+    // Administrative, legal and editorial pages. Hidden and noindex pages
+    // (cart, checkout, maintenance, error) are filtered out upstream.
+    ...sitePaths,
+    ...articles.map(a=>`/blog/${a.slug}`)];
   const seen=new Set();
   const clean=urls.filter(u=>!seen.has(u)&&seen.add(u));
   const calcUrls=calculators.map(c=>c.route?.replace(/^\/calculator\//,'/tools/')||null).filter(Boolean); const all=[...clean,...calcUrls]; const unique=[...new Set(all)]; const body=unique.map(u=>`<url><loc>${base}${u}</loc></url>`).join('');
@@ -122,7 +140,12 @@ export function createApiServer({ calculate, host = '127.0.0.1', port = 8787, su
   const paymentVerifyLimiter=makeRateLimiter(PAYMENT_VERIFY_MAX,60*1000);
   const calculatorLimiter=makeRateLimiter(PUBLIC_CALCULATOR_MAX,60*1000);
   const milanLimiter=makeRateLimiter(PUBLIC_MILAN_MAX,60*1000);
-  const server = createServer(async (request, response) => {
+  // Contact and feedback are cheap to submit and expensive to moderate, so the
+  // window is an hour rather than a minute.
+  const contactLimiter=makeRateLimiter(CONTACT_MAX,60*60*1000);
+  const searchLimiter=makeRateLimiter(SEARCH_MAX,60*1000);
+  const messages=new MessageStore({filePath:MESSAGES_FILE});
+  const handleRequest = async (request, response) => {
     loginLimiter.sweep(); predictionLimiter.sweep();
     const parsedUrl = new URL(request.url, `http://${request.headers.host || 'localhost'}`);
     response.setHeader('content-type', 'application/json; charset=utf-8');
@@ -186,6 +209,30 @@ export function createApiServer({ calculate, host = '127.0.0.1', port = 8787, su
       if(!requireAdmin()) return;
       const list=subscriptions ? await subscriptions.list({includeUnconfirmed:true}) : [];
       response.setHeader('cache-control','no-store'); response.statusCode=200; response.end(JSON.stringify(list)); return;
+    }
+    if (isAdminPath && request.method === 'GET' && parsedUrl.pathname === `${admin.route}/api/messages`) {
+      if(!requireAdmin()) return;
+      try {
+        const list=await messages.list({
+          type: parsedUrl.searchParams.get('type') || null,
+          status: parsedUrl.searchParams.get('status') || null,
+          limit: Math.min(Number(parsedUrl.searchParams.get('limit'))||200, 1000),
+        });
+        response.setHeader('cache-control','no-store'); response.statusCode=200; response.end(JSON.stringify({messages:list})); return;
+      } catch(e){ response.statusCode=500; response.end(JSON.stringify({error:'MESSAGE_LIST_ERROR',message:e.message})); return; }
+    }
+    if (isAdminPath && request.method === 'POST' && parsedUrl.pathname === `${admin.route}/api/messages/status`) {
+      if(!requireAdmin()) return;
+      try {
+        const chunks=[]; let size=0; for await(const chunk of request){size+=chunk.length;if(size>16*1024) throw new Error('PAYLOAD_TOO_LARGE');chunks.push(chunk);}
+        const body=JSON.parse(Buffer.concat(chunks).toString('utf8')||'{}');
+        // `approved` is the only status that publishes a review, so the
+        // allow-list is what keeps an arbitrary string off the public page.
+        const allowed=new Set(['new','read','answered','closed','pending','approved','rejected','spam']);
+        if(!allowed.has(String(body.status))) throw Object.assign(new Error('unknown status'),{code:'INVALID_SUBMISSION'});
+        const updated=await messages.setStatus(String(body.id||''), String(body.status));
+        response.setHeader('cache-control','no-store'); response.statusCode=200; response.end(JSON.stringify(updated)); return;
+      } catch(e){ response.statusCode=e.code==='INVALID_SUBMISSION'?400:422; response.end(JSON.stringify({error:e.code||'MESSAGE_STATUS_ERROR',message:e.message})); return; }
     }
     if (isAdminPath && request.method === 'POST' && parsedUrl.pathname === `${admin.route}/api/report`) {
       if(!requireAdmin()) return;
@@ -256,12 +303,167 @@ export function createApiServer({ calculate, host = '127.0.0.1', port = 8787, su
       await sendNotFound(response,request,webRoot,parsedUrl.pathname); return;
     }
 
-    if (request.method === 'GET' && request.url === '/health') { response.statusCode = 200; response.end(JSON.stringify({ status: 'ok', version:WEB_VERSION, offline: true })); return; }
+    if (request.method === 'GET' && request.url === '/health') { response.statusCode = 200; response.end(JSON.stringify({ status: 'ok', version:WEB_VERSION, offline: true, maintenance: MAINTENANCE_MODE })); return; }
+
+    // --- Administrative, legal, commercial and editorial pages --------------
+    // Rendered server-side so the legal text is in the initial response for
+    // crawlers, archives and readers without scripting.
+    const sendContentPage = async (page, { status, body, structured }) => {
+      const template = await readFile(join(webRoot,'page.html'),'utf8');
+      const html = fillPageShell(template, {
+        title: page.title, description: page.description, path: page.path,
+        robots: page.robots, body, structured,
+      });
+      response.setHeader('content-type','text/html; charset=utf-8');
+      // Legal pages change rarely but must never be served stale after an
+      // update, so they revalidate rather than cache blindly.
+      response.setHeader('cache-control', status === 200 ? 'public, max-age=0, must-revalidate' : 'no-store');
+      response.statusCode = status;
+      response.end(injectHtml(html, request));
+    };
+
+    const renderRegistryPage = async (page, statusOverride) => {
+      const base = originFromRequest(request);
+      const group = PAGE_GROUPS.find(g => g.id === page.group);
+      const { body, structured } = renderSitePage(page, { baseUrl: base, groupTitle: group?.title || '' });
+      await sendContentPage(page, { status: statusOverride ?? page.status ?? 200, body, structured });
+    };
+
+    // Maintenance mode short-circuits public page traffic. Health checks, the
+    // administrator route and the payment webhook stay live so an outage does
+    // not lose a captured payment or trigger a container restart loop.
+    if (MAINTENANCE_MODE && !isAdminPath
+        && parsedUrl.pathname !== '/health'
+        && parsedUrl.pathname !== '/payments/webhook') {
+      const page = getSitePage('maintenance');
+      if (String(request.headers.accept||'').includes('text/html') && page) {
+        response.setHeader('retry-after','600');
+        await renderRegistryPage(page, 503); return;
+      }
+      response.statusCode=503; response.setHeader('retry-after','600');
+      response.end(JSON.stringify({error:'MAINTENANCE',message:'HoraSaar is briefly unavailable for scheduled maintenance.'})); return;
+    }
+
+    // Friendly aliases for the technical status pages.
+    const STATUS_ALIASES = { '/500': 'server-error', '/error': 'server-error', '/404': null, '/privacy': 'privacy-policy', '/terms-of-service': 'terms', '/refunds': 'refund-policy', '/cookies': 'cookie-policy', '/dmca': 'copyright', '/about-us': 'about', '/contact-us': 'contact', '/plans': 'pricing' };
+    if (request.method === 'GET' && Object.prototype.hasOwnProperty.call(STATUS_ALIASES, parsedUrl.pathname)) {
+      const target = STATUS_ALIASES[parsedUrl.pathname];
+      if (target === null) { await sendNotFound(response,request,webRoot,parsedUrl.pathname); return; }
+      // A 301 keeps link equity on the canonical slug instead of publishing two
+      // addresses for the same policy text.
+      response.statusCode = 301;
+      response.setHeader('location', `/${target}`);
+      response.setHeader('cache-control','public, max-age=86400');
+      response.end(JSON.stringify({ status: 301, location: `/${target}` })); return;
+    }
+
+    if (request.method === 'GET' && segments.length === 1) {
+      const page = getSitePage(segments[0]);
+      if (page) { await renderRegistryPage(page); return; }
+    }
+
+    // Blog index is a registry page; individual articles render here.
+    if (request.method === 'GET' && segments[0] === 'blog' && segments.length === 2) {
+      const article = getArticle(segments[1]);
+      if (!article) { await sendNotFound(response,request,webRoot,parsedUrl.pathname); return; }
+      const base = originFromRequest(request);
+      const { body, structured } = renderArticle(article, { baseUrl: base, related: relatedArticles(article.slug) });
+      await sendContentPage({
+        title: article.title, description: article.description,
+        path: `/blog/${article.slug}`, robots: 'index,follow,max-image-preview:large',
+      }, { status: 200, body, structured });
+      return;
+    }
+
+    // --- Site content JSON APIs --------------------------------------------
+    if (request.method === 'GET' && parsedUrl.pathname === '/api/site/pages') {
+      response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200;
+      response.end(JSON.stringify({ groups: sitePageGroups().map(g => ({ id:g.id, title:g.title, pages:g.pages.map(p=>({path:p.path,nav:p.nav,title:p.title})) })) })); return;
+    }
+    if (request.method === 'GET' && parsedUrl.pathname === '/api/site/map') {
+      response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200;
+      response.end(JSON.stringify({ groups: sitePageGroups() })); return;
+    }
+    if (request.method === 'GET' && parsedUrl.pathname === '/api/articles') {
+      response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200;
+      response.end(JSON.stringify({ articles: listArticles() })); return;
+    }
+    if (request.method === 'GET' && parsedUrl.pathname === '/api/openings') {
+      response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200;
+      response.end(JSON.stringify({ openings: listOpenings() })); return;
+    }
+    if (request.method === 'GET' && parsedUrl.pathname === '/api/search') {
+      if(!searchLimiter.allow(requestIp(request))){ response.statusCode=429; response.setHeader('retry-after','60'); response.end(JSON.stringify({error:'SEARCH_RATE_LIMITED',message:'Too many searches. Please try again shortly.'})); return; }
+      try {
+        const result = await searchSite(parsedUrl.searchParams.get('q')||'');
+        response.setHeader('cache-control','no-store'); response.statusCode=200; response.end(JSON.stringify(result)); return;
+      } catch(e){ response.statusCode=500; response.end(JSON.stringify({error:'SITE_SEARCH_ERROR',message:e.message})); return; }
+    }
+    if (request.method === 'POST' && (parsedUrl.pathname === '/api/contact' || parsedUrl.pathname === '/api/feedback')) {
+      const isFeedback = parsedUrl.pathname === '/api/feedback';
+      if(!contactLimiter.allow(requestIp(request))){ response.statusCode=429; response.setHeader('retry-after','3600'); response.end(JSON.stringify({error:'SUBMISSION_RATE_LIMITED',message:'You have sent several messages recently. Please wait a little, or email us directly.'})); return; }
+      try {
+        const chunks=[]; let size=0; for await(const chunk of request){size+=chunk.length;if(size>64*1024) throw new Error('PAYLOAD_TOO_LARGE');chunks.push(chunk);}
+        const input=sanitizeValue(JSON.parse(Buffer.concat(chunks).toString('utf8')||'{}'));
+        // Honeypot: accept silently so a bot learns nothing, but store nothing.
+        if (String(input.website||'').trim()) {
+          response.statusCode=202; response.end(JSON.stringify({status:'received',message:'Thank you — your message is with us.'})); return;
+        }
+        const record = isFeedback ? validateFeedback(input) : validateContact(input);
+        const saved = await messages.append(record);
+        response.setHeader('cache-control','no-store'); response.statusCode=201;
+        response.end(JSON.stringify({
+          status:'received', id:saved.id,
+          message: isFeedback
+            ? 'Thank you. A person will read this before it appears on the page.'
+            : `Thank you — your message is with us. We aim to reply within ${process.env.SUPPORT_RESPONSE_TARGET || 'two working days'}.`,
+        })); return;
+      } catch(e){
+        response.statusCode = e.message==='PAYLOAD_TOO_LARGE' ? 413 : (e.code==='INVALID_SUBMISSION' || e.code==='INVALID_REQUEST' ? 400 : 422);
+        response.end(JSON.stringify({error:e.code||'SUBMISSION_ERROR',message:e.message})); return;
+      }
+    }
+    if (request.method === 'GET' && parsedUrl.pathname === '/api/feedback') {
+      try {
+        const approved = await messages.list({ type:'feedback', status:'approved', limit:50 });
+        response.setHeader('cache-control','public, max-age=300'); response.statusCode=200;
+        response.end(JSON.stringify({ testimonials: approved.map(publicTestimonial) })); return;
+      } catch(e){ response.statusCode=500; response.end(JSON.stringify({error:'FEEDBACK_LIST_ERROR',message:e.message})); return; }
+    }
     if (request.method === 'GET' && request.url.split('?')[0] === '/subscribe') { await sendFile(response,join(webRoot,'subscribe.html'),request); return; }
     if (request.method === 'GET' && request.url.split('?')[0] === '/report') { await sendFile(response,join(webRoot,'report.html'),request); return; }
     if (request.method === 'GET' && request.url.split('?')[0] === '/unsubscribe') { await sendFile(response,join(webRoot,'unsubscribe.html'),request); return; }
     if (request.method === 'GET' && request.url.split('?')[0] === '/tools') { await sendFile(response,join(webRoot,'tools.html'),request); return; }
-    if (request.method === 'GET' && request.url.split('?')[0] === '/llms.txt') { response.setHeader('content-type','text/plain; charset=utf-8'); response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200; response.end(`# HoraSaar\\n\\nPersonalized dataset-driven Jyotish web application with birth-chart calculations, Dasha timing, planetary transits, Panchang, forecasts and paid daily reports.\\n\\n## Public pages\\n- /\\n- /tools\\n- /forecast/daily\\n- /forecast/weekly\\n- /forecast/monthly\\n- /forecast/yearly\\n- /subscribe\\n\\n## Indexing\\n- /robots.txt\\n- /sitemap.xml\\n\\nReports and private subscription endpoints are not public content.`); return; }
+    if (request.method === 'GET' && request.url.split('?')[0] === '/llms.txt') {
+      const lines = [
+        '# HoraSaar',
+        '',
+        'Personalized dataset-driven Jyotish web application with birth-chart calculations, Dasha timing, planetary transits, Panchang, forecasts and paid daily reports.',
+        '',
+        'Astronomical quantities are computed deterministically. Interpretive content is traditional rule-based guidance, is explicitly not presented as scientifically validated prediction, and is not medical, legal or financial advice.',
+        '',
+        '## Calculation and forecast pages',
+        '- / (personal forecast)',
+        '- /tools (forecast topics)',
+        '- /horoscope, /rashi-bhavishya, /planet-bhavishya, /nakshatra-bhavishya',
+        '- /forecast/daily, /forecast/weekly, /forecast/monthly, /forecast/yearly',
+        '- /panchang, /calendar, /astronomy, /kundali-milan, /calculators, /lists, /knowledge',
+        '',
+        '## Company and policy pages',
+        ...listSitePages().map(p => `- ${p.path} (${p.title})`),
+        '',
+        '## Articles',
+        ...listArticles().map(a => `- /blog/${a.slug} (${a.title})`),
+        '',
+        '## Indexing',
+        '- /robots.txt',
+        '- /sitemap.xml',
+        '- /sitemap (human-readable)',
+        '',
+        'Reports, checkout, subscription management and administrator endpoints are not public content and must not be crawled.',
+      ];
+      response.setHeader('content-type','text/plain; charset=utf-8'); response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200; response.end(lines.join('\n')); return;
+    }
     if (request.method === 'GET' && parsedUrl.pathname.startsWith('/forecast/') && parsedUrl.pathname !== '/forecast/general') {
       const period=parsedUrl.pathname.split('/').filter(Boolean).pop();
       const defs={
@@ -278,7 +480,7 @@ export function createApiServer({ calculate, host = '127.0.0.1', port = 8787, su
       response.setHeader('content-type','text/html; charset=utf-8'); response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200; response.end(html); return;
     }
     if (request.method === 'GET' && request.url.split('?')[0] === '/robots.txt') { const base=injectHtml(await readFile(join(webRoot,'robots.txt'),'utf8'),request).replace(/\n?Disallow: \/_jv-control-[^\n]*/g,''); const txt=`${base.trimEnd()}\nDisallow: ${admin.route}\n`; response.setHeader('content-type','text/plain; charset=utf-8'); response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200; response.end(txt); return; }
-    if (request.method === 'GET' && request.url.split('?')[0] === '/sitemap.xml') { try { const { buildCalculatorAudit } = await import('../../calculators/CalculatorRegistry.js'); const audit=buildCalculatorAudit(); const { listKnowledgeTopics, listListGroups } = await import('../../knowledge/ReferenceLibrary.js'); const { SIGN_LIST } = await import('../../horoscope/HoroscopeEngine.js'); const xml=sitemapXml(originFromRequest(request),audit.calculators||[],listKnowledgeTopics(),listListGroups(),SIGN_LIST); response.setHeader('content-type','application/xml; charset=utf-8'); response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200; response.end(xml); return; } catch(e) { response.statusCode=500; response.end(JSON.stringify({error:'SITEMAP_ERROR',message:e.message})); return; } }
+    if (request.method === 'GET' && request.url.split('?')[0] === '/sitemap.xml') { try { const { buildCalculatorAudit } = await import('../../calculators/CalculatorRegistry.js'); const audit=buildCalculatorAudit(); const { listKnowledgeTopics, listListGroups } = await import('../../knowledge/ReferenceLibrary.js'); const { SIGN_LIST } = await import('../../horoscope/HoroscopeEngine.js'); const xml=sitemapXml(originFromRequest(request),audit.calculators||[],listKnowledgeTopics(),listListGroups(),SIGN_LIST,indexableSitePaths(),listArticles()); response.setHeader('content-type','application/xml; charset=utf-8'); response.setHeader('cache-control','public, max-age=3600'); response.statusCode=200; response.end(xml); return; } catch(e) { response.statusCode=500; response.end(JSON.stringify({error:'SITEMAP_ERROR',message:e.message})); return; } }
     if (request.method === 'GET' && request.url.split('?')[0] === '/favicon.svg') { await sendFile(response,join(webRoot,'favicon.svg'),request); return; }
     if (request.method === 'GET' && request.url.split('?')[0] === '/site.webmanifest') { await sendFile(response,join(webRoot,'site.webmanifest'),request); return; }
     if (request.method === 'GET' && request.url.split('?')[0].startsWith('/assets/')) { try { const rel=request.url.split('?')[0].slice('/assets/'.length); if(!rel || rel.includes('..') || rel.includes(String.fromCharCode(92))) throw new Error('invalid asset path'); await sendFile(response,join(webRoot,'assets',rel),request); return; } catch(e) { response.statusCode=404; response.end(JSON.stringify({error:'ASSET_NOT_FOUND'})); return; } }
@@ -707,6 +909,45 @@ export function createApiServer({ calculate, host = '127.0.0.1', port = 8787, su
       response.statusCode = error?.code === 'INVALID_REQUEST' ? 400 : 422;
       response.end(JSON.stringify({ error: error.code || 'CALCULATION_ERROR', message: error.message }));
     }
+  };
+
+  /**
+   * Last-resort error boundary. Any unexpected throw previously left the socket
+   * hanging until it timed out; now it produces a logged reference and either
+   * the styled 500 page or a JSON error, depending on what the client asked for.
+   * The reference is what a support email can be matched against in the log.
+   */
+  async function sendServerError(request, response, error) {
+    const reference = randomUUID().slice(0, 8);
+    console.error(`[${new Date().toISOString()}] 500 ${reference} ${request.method} ${request.url}`, error);
+    if (response.headersSent || response.writableEnded) { try { response.end(); } catch { /* socket already gone */ } return; }
+    response.statusCode = 500;
+    response.setHeader('cache-control','no-store');
+    const wantsHtml = String(request.headers.accept || '').includes('text/html');
+    if (!wantsHtml) {
+      response.setHeader('content-type','application/json; charset=utf-8');
+      response.end(JSON.stringify({ error:'INTERNAL_ERROR', message:'An unexpected error occurred. Quote this reference if you contact support.', reference }));
+      return;
+    }
+    try {
+      const page = getSitePage('server-error');
+      const template = await readFile(join(webRoot,'page.html'),'utf8');
+      const { body, structured } = renderSitePage(page, { baseUrl: originFromRequest(request), groupTitle: 'System' });
+      const withReference = body.replace('<div class="doc-body">',
+        `<p class="doc-meta">Error reference: <code>${reference}</code></p><div class="doc-body">`);
+      response.setHeader('content-type','text/html; charset=utf-8');
+      response.end(injectHtml(fillPageShell(template, {
+        title: page.title, description: page.description, path: page.path, robots: page.robots,
+        body: withReference, structured,
+      }), request));
+    } catch {
+      response.setHeader('content-type','text/html; charset=utf-8');
+      response.end(`<!doctype html><meta charset="utf-8"><title>Server error | HoraSaar</title><h1>Something went wrong on our side</h1><p>Please try again. Reference: ${reference}</p><p><a href="/">Return home</a></p>`);
+    }
+  }
+
+  const server = createServer((request, response) => {
+    handleRequest(request, response).catch(error => sendServerError(request, response, error));
   });
   return { server, host, port, maxBodyBytes: MAX_BODY_BYTES };
 }

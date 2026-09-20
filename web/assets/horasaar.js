@@ -271,3 +271,95 @@
   wireShell();
   initI18n();
 })();
+/**
+ * Site-wide chrome added alongside the main shell: the full footer (so every
+ * page carries the legal and company links required for compliance) and the
+ * cookie notice.
+ *
+ * This runs as a separate IIFE so the shell above keeps working unchanged even
+ * if the footer request fails — a network error must never cost a visitor the
+ * navigation or the theme toggle.
+ */
+(() => {
+  const esc = (x) => String(x ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const DISCLAIMER = 'Astronomical calculations are deterministic. Jyotish interpretations are traditional rule-based guidance, not scientific proof, medical, legal or financial advice, and not a guarantee of any outcome.';
+
+  /** Minimal cookie helpers — we set exactly one first-party preference cookie. */
+  const readCookie = (name) => document.cookie.split(';')
+    .map(c => c.trim().split('='))
+    .find(([k]) => k === name)?.[1];
+
+  function renderFooter(groups) {
+    const footer = document.querySelector('.footer');
+    if (!footer) return;
+    const year = new Date().getFullYear();
+    const columns = groups.map(group => `
+      <div class="footer-col">
+        <strong>${esc(group.title)}</strong>
+        <ul>${group.pages.map(p => `<li><a href="${esc(p.path)}">${esc(p.nav || p.title)}</a></li>`).join('')}</ul>
+      </div>`).join('');
+
+    footer.classList.add('site-footer');
+    footer.innerHTML = `
+      <div class="footer-grid">
+        <div class="footer-col footer-brand">
+          <span class="brand-mark" aria-hidden="true">ॐ</span>
+          <strong>HoraSaar</strong>
+          <p>Traditional Jyotish calculated carefully and explained plainly. No gemstone sales, no cold calls, no guaranteed predictions.</p>
+        </div>
+        <div class="footer-col">
+          <strong>Explore</strong>
+          <ul>
+            <li><a href="/">Personal forecast</a></li>
+            <li><a href="/horoscope">Rāśi horoscope</a></li>
+            <li><a href="/panchang">Panchang &amp; muhurta</a></li>
+            <li><a href="/kundali-milan">Kundali Milan</a></li>
+            <li><a href="/calculators">Calculators</a></li>
+            <li><a href="/knowledge">Knowledge library</a></li>
+            <li><a href="/search">Search</a></li>
+          </ul>
+        </div>
+        ${columns}
+      </div>
+      <div class="footer-base">
+        <p>${esc(DISCLAIMER)}</p>
+        <p>&copy; ${year} HoraSaar. All rights reserved. <a href="/sitemap">Sitemap</a> \u00B7 <a href="/privacy-policy">Privacy</a> \u00B7 <a href="/terms">Terms</a> \u00B7 <a href="/disclaimer">Disclaimer</a> \u00B7 <a href="/contact">Contact</a></p>
+      </div>`;
+  }
+
+  function cookieNotice() {
+    if (readCookie('hs_consent')) return;
+    const bar = document.createElement('div');
+    bar.className = 'cookie-notice';
+    bar.setAttribute('role', 'region');
+    bar.setAttribute('aria-label', 'Cookie notice');
+    bar.innerHTML = `
+      <div>
+        <strong>A short note about cookies</strong>
+        <p>We use only strictly necessary cookies and two browser-storage keys for your language and theme. There is no advertising, analytics or cross-site tracking here, so there is nothing to opt out of. <a href="/cookie-policy">Read the full list</a>.</p>
+      </div>
+      <div class="cookie-actions">
+        <button class="btn primary" type="button" data-cookie-ok>Got it</button>
+        <a class="btn ghost" href="/privacy-policy">Privacy policy</a>
+      </div>`;
+    document.body.appendChild(bar);
+    bar.querySelector('[data-cookie-ok]').addEventListener('click', () => {
+      const secure = location.protocol === 'https:' ? '; Secure' : '';
+      document.cookie = `hs_consent=1; Path=/; Max-Age=${60 * 60 * 24 * 182}; SameSite=Lax${secure}`;
+      bar.remove();
+    });
+  }
+
+  async function init() {
+    try {
+      const data = await fetch('/api/site/pages', { headers: { accept: 'application/json' } }).then(r => r.json());
+      renderFooter(data.groups || []);
+    } catch {
+      // Leave whatever static footer the page shipped with.
+    }
+    cookieNotice();
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+})();
